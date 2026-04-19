@@ -1,0 +1,121 @@
+{
+  "slug": "307143-josh-medeiros",
+  "name": "Josh Medeiros",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/307143-josh-medeiros",
+  "recentFights": [
+    {
+      "date": "2024-11-09T00:00:00.000Z",
+      "opponent": "Oscar Jurado Sánchez",
+      "opponentSlug": "178522-oscar-alejandro-jurado-snchez",
+      "result": "loss",
+      "method": "tko",
+      "event": "Combat Zone 86",
+      "eventSlug": "120042-combat-zone-86",
+      "round": 2,
+      "timeInRound": "3:13"
+    },
+    {
+      "date": "2024-09-13T00:00:00.000Z",
+      "opponent": "Shawn Johnson",
+      "opponentSlug": "104269-shawn-johnson",
+      "result": "win",
+      "method": "sub",
+      "event": "Combat FC 8",
+      "eventSlug": "113199-combat-fc-8",
+      "round": 1,
+      "timeInRound": "3:50"
+    },
+    {
+      "date": "2024-05-24T00:00:00.000Z",
+      "opponent": "David Juliano",
+      "opponentSlug": "49718-david-juliano",
+      "result": "win",
+      "method": "other",
+      "event": "Combat FC 7",
+      "eventSlug": "110381-combat-fc-7",
+      "round": 1,
+      "timeInRound": "3:36"
+    },
+    {
+      "date": "2024-02-09T00:00:00.000Z",
+      "opponent": "Adrian Haly",
+      "opponentSlug": "144936-adrian-haley",
+      "result": "loss",
+      "method": "tko",
+      "event": "Combat FC 6",
+      "eventSlug": "107506-combat-fc-6",
+      "round": 3,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2023-06-24T00:00:00.000Z",
+      "opponent": "David Michael Durao",
+      "opponentSlug": "160415-david-michael",
+      "result": "win",
+      "method": "tko",
+      "event": "Combat Zone 80",
+      "eventSlug": "101557-combat-zone-80",
+      "round": 2,
+      "timeInRound": "4:44"
+    },
+    {
+      "date": "2022-11-19T00:00:00.000Z",
+      "opponent": "Brandon Demoura",
+      "opponentSlug": "225600-brandon-demoura",
+      "result": "win",
+      "method": "tko",
+      "event": "Combat Zone 78",
+      "eventSlug": "94141-combat-zone-78",
+      "round": 3,
+      "timeInRound": "2:23"
+    },
+    {
+      "date": "2022-05-14T00:00:00.000Z",
+      "opponent": "Joey Butera",
+      "opponentSlug": "291970-joey-butera",
+      "result": "win",
+      "method": "sub",
+      "event": "NEF 47: The Battle of L/A",
+      "eventSlug": "86862-nef-47",
+      "round": 2,
+      "timeInRound": "0:46"
+    },
+    {
+      "date": "2022-03-12T00:00:00.000Z",
+      "opponent": "Matthew Heller",
+      "opponentSlug": "256640-matthew-rodriguez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "AMMO Fight League 10",
+      "eventSlug": "85682-ammo-fight-league-10-battle-of-st-patricks",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-28T00:00:00.000Z",
+      "opponent": "Andrew Valdina",
+      "opponentSlug": "225602-andrew-valdina",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Titans 49",
+      "eventSlug": "81689-cage-titans-50",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:43:00.567Z"
+}

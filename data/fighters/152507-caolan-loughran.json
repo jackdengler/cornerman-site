@@ -1,0 +1,142 @@
+{
+  "slug": "152507-caolan-loughran",
+  "name": "Caolán Loughran",
+  "nickname": "The Don",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": 173,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1996-05-18",
+  "nationality": "Ireland",
+  "url": "https://www.tapology.com/fightcenter/fighters/152507-caolan-loughran",
+  "recentFights": [
+    {
+      "date": "2026-04-16T00:00:00.000Z",
+      "opponent": "Alan Philpott",
+      "opponentSlug": "21606-alan-philpott",
+      "result": "win",
+      "method": "other",
+      "event": "PFL Belfast",
+      "round": 1,
+      "timeInRound": "1:11"
+    },
+    {
+      "date": "2025-10-03T00:00:00.000Z",
+      "opponent": "Jack Cartwright",
+      "opponentSlug": "43571-jack-cartwright",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "PFL Champions Series 2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-22T00:00:00.000Z",
+      "opponent": "Nathan Fletcher",
+      "opponentSlug": "142728-nathan-fletcher",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-07-27T00:00:00.000Z",
+      "opponent": "Jake Hadley",
+      "opponentSlug": "87298-jake-hadley",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 304: Edwards vs. Muhammad 2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-30T00:00:00.000Z",
+      "opponent": "Angel Pacheco",
+      "opponentSlug": "20352-angel-pacheco",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-02T00:00:00.000Z",
+      "opponent": "Taylor Lapilus",
+      "opponentSlug": "52612-taylor-lapilus",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-06T00:00:00.000Z",
+      "opponent": "Dylan Hazan",
+      "opponentSlug": "199267-dylan-hazan",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 154",
+      "round": 2,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2022-11-04T00:00:00.000Z",
+      "opponent": "Luke Shanks",
+      "opponentSlug": "112233-luke-shanks",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 145",
+      "round": 2,
+      "timeInRound": "3:46"
+    },
+    {
+      "date": "2022-06-25T00:00:00.000Z",
+      "opponent": "Festus Ahorlu",
+      "opponentSlug": "92939-festus-ahorlu",
+      "result": "win",
+      "method": "tko",
+      "event": "Cage Warriors 140",
+      "round": 2,
+      "timeInRound": "3:20"
+    },
+    {
+      "date": "2022-04-01T00:00:00.000Z",
+      "opponent": "Bakhtyaar Oryakhail",
+      "opponentSlug": "144595-bakhtyaar-oryakhail",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 135",
+      "round": 2,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2021-07-25T00:00:00.000Z",
+      "opponent": "Hussein Abbas-Zade",
+      "opponentSlug": "301514-hussein-abbas-zade-the-scorpion",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Levels Fight League 2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-03-07T00:00:00.000Z",
+      "opponent": "Daniel Lopez",
+      "opponentSlug": "103976-daniel-lopez",
+      "result": "win",
+      "method": "sub",
+      "event": "Probellum 1",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-16T23:59:02.076Z"
+}

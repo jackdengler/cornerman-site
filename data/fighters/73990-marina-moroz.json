@@ -1,0 +1,209 @@
+{
+  "slug": "73990-marina-moroz",
+  "name": "Maryna Moroz",
+  "nickname": "Iron Lady",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 170,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1991-09-08",
+  "nationality": "Volnogorsk, Ukraine",
+  "url": "https://www.tapology.com/fightcenter/fighters/73990-marina-moroz",
+  "recentFights": [
+    {
+      "date": "2024-03-09T00:00:00.000Z",
+      "opponent": "Joanne Wood",
+      "opponentSlug": "22500-joanne-calderwood",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "eventSlug": "107061-ufc-299",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-19T00:00:00.000Z",
+      "opponent": "Karine Silva",
+      "opponentSlug": "69225-karine-silva-killer",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC 292: Sterling vs. O'Malley",
+      "eventSlug": "101022-ufc-292",
+      "round": 1,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2022-11-19T00:00:00.000Z",
+      "opponent": "Jennifer Maia",
+      "opponentSlug": "19813-jennifer-maia",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "91976-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-05T00:00:00.000Z",
+      "opponent": "Mariya Agapova",
+      "opponentSlug": "156192-mariya-agapova",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC 272: Covington vs. Masvidal",
+      "eventSlug": "84662-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "3:27"
+    },
+    {
+      "date": "2020-03-14T00:00:00.000Z",
+      "opponent": "Mayra Bueno Silva",
+      "opponentSlug": "140732-mayra-bueno-silva-sheetara",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC on ESPN+ 28",
+      "eventSlug": "64600-ufc-on-espn-26",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-30T00:00:00.000Z",
+      "opponent": "Sabina Mazo",
+      "opponentSlug": "92893-sabina-mazo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC on ESPN 2",
+      "eventSlug": "56354-ufc-fight-night-150",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-02-24T00:00:00.000Z",
+      "opponent": "Angela Hill",
+      "opponentSlug": "57525-angela-hill-overkill",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC on FOX 28",
+      "eventSlug": "49028-ufc-fight-night-128",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-25T00:00:00.000Z",
+      "opponent": "Carla Esparza",
+      "opponentSlug": "carla-esparza",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night 112",
+      "eventSlug": "44840-ufc-fight-night-112",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-08-06T00:00:00.000Z",
+      "opponent": "Danielle Taylor",
+      "opponentSlug": "40903-danielle-taylor",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night 92",
+      "eventSlug": "40152-ufc-fight-night-92",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-10T00:00:00.000Z",
+      "opponent": "Cristina Stanciu",
+      "opponentSlug": "82492-cristina-stanciu",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night 86",
+      "eventSlug": "37670-ufc-fight-night-85",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-23T00:00:00.000Z",
+      "opponent": "Valérie Létourneau",
+      "opponentSlug": "10584-valerie-letourneau",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night 74",
+      "eventSlug": "33357-ufc-fight-night-74-holloway-vs-oliveira",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-04-11T00:00:00.000Z",
+      "opponent": "Joanne Wood",
+      "opponentSlug": "22500-joanne-calderwood",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night 64",
+      "eventSlug": "28239-ufc-fight-night-65",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2014-11-01T00:00:00.000Z",
+      "opponent": "Karine Silva",
+      "opponentSlug": "69225-karine-silva-killer",
+      "result": "win",
+      "method": "sub",
+      "event": "XFC International 7",
+      "eventSlug": "27088-xfc-international-7",
+      "round": 1,
+      "timeInRound": "3:27"
+    },
+    {
+      "date": "2014-09-07T00:00:00.000Z",
+      "opponent": "Ilona Avdeeva",
+      "opponentSlug": "63726-ilona-avdeeva",
+      "result": "win",
+      "method": "other",
+      "event": "Moscow Martial Arts Cup 2014",
+      "eventSlug": "27058-moscow-martial-arts-cup-2014-stage-2",
+      "round": 1,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2014-08-24T00:00:00.000Z",
+      "opponent": "Jin Tang",
+      "opponentSlug": "57175-jin-tang",
+      "result": "win",
+      "method": "sub",
+      "event": "Kunlun Fight 8",
+      "eventSlug": "25768-kunlun-fight-8",
+      "round": 1,
+      "timeInRound": "3:44"
+    },
+    {
+      "date": "2014-06-01T00:00:00.000Z",
+      "opponent": "Feier Huang",
+      "opponentSlug": "69558-feier-huang",
+      "result": "win",
+      "method": "sub",
+      "event": "Kunlun Fight 5",
+      "eventSlug": "25240-kunlun-fight-5",
+      "round": 1,
+      "timeInRound": "2:52"
+    },
+    {
+      "date": "2013-11-23T00:00:00.000Z",
+      "opponent": "Yana Kuzioma",
+      "opponentSlug": "74009-yana-kuzioma",
+      "result": "win",
+      "method": "sub",
+      "event": "Oplot Challenge 89",
+      "eventSlug": "22853-oplot-challenge-89-ussr-championship-stage-15",
+      "round": 2,
+      "timeInRound": "1:12"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:10:18.032Z"
+}

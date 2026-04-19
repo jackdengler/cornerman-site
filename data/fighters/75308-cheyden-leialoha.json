@@ -1,0 +1,198 @@
+{
+  "slug": "75308-cheyden-leialoha",
+  "name": "Cheyden Leialoha",
+  "nickname": "Steadfast",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 179,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1994-03-15",
+  "nationality": "Puna, Hawai’i",
+  "url": "https://www.tapology.com/fightcenter/fighters/75308-cheyden-leialoha",
+  "recentFights": [
+    {
+      "date": "2026-04-11T00:00:00.000Z",
+      "opponent": "Gabriel Braga",
+      "opponentSlug": "190856-gabriel-alves",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "PFL Chicago",
+      "eventSlug": "137169-pfl-chicago",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-27T00:00:00.000Z",
+      "opponent": "Erik Vo",
+      "opponentSlug": "11821-eric-vo",
+      "result": "win",
+      "method": "other",
+      "event": "Alaska FC 169",
+      "eventSlug": "132560-alaska-fighting-championship-afc-169",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-30T00:00:00.000Z",
+      "opponent": "Archie Fultze",
+      "opponentSlug": "182589-archie-fultze",
+      "result": "win",
+      "method": "other",
+      "event": "Alaska FC 164",
+      "eventSlug": "123770-alaska-fc-164",
+      "round": 1,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2024-09-28T00:00:00.000Z",
+      "opponent": "Aaron Ulroan",
+      "opponentSlug": "147686-aaron-ulron",
+      "result": "win",
+      "method": "other",
+      "event": "Alaska FC 163",
+      "eventSlug": "118379-alaska-fighting-championship",
+      "round": 1,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2021-04-30T00:00:00.000Z",
+      "opponent": "Edwin Chavez",
+      "opponentSlug": "186440-edwin-chavez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 106: Silveira vs. Viana",
+      "eventSlug": "78882-lfa-106-silveira-vs-viana",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-21T00:00:00.000Z",
+      "opponent": "Raufeon Stots",
+      "opponentSlug": "64041-raufeon-stots",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bellator 236",
+      "eventSlug": "63430-bellator-macfarlane-vs-jackson",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-07T00:00:00.000Z",
+      "opponent": "Yuto Sekiguchi",
+      "opponentSlug": "45038-masakatsu-sekiguchi",
+      "result": "win",
+      "method": "sub",
+      "event": "X-1 World Events 49",
+      "eventSlug": "52005-x-1-world-events-49",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-01T00:00:00.000Z",
+      "opponent": "John Castañeda",
+      "opponentSlug": "20125-john-castaneda",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "DW's Contender Series 2017",
+      "eventSlug": "46568-dana-whites-contender-series-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-10T00:00:00.000Z",
+      "opponent": "Aaron Ulroan",
+      "opponentSlug": "147686-aaron-ulron",
+      "result": "win",
+      "method": "other",
+      "event": "Alaska FC 132",
+      "eventSlug": "45665-alaska-fc-132-lopez-vs-faavale",
+      "round": 1,
+      "timeInRound": "2:06"
+    },
+    {
+      "date": "2017-01-28T00:00:00.000Z",
+      "opponent": "Jordan Mackin",
+      "opponentSlug": "49163-jordan-mackin",
+      "result": "win",
+      "method": "sub",
+      "event": "X-1 World Events 45",
+      "eventSlug": "43895-x-1-live",
+      "round": 1,
+      "timeInRound": "3:17"
+    },
+    {
+      "date": "2016-09-24T00:00:00.000Z",
+      "opponent": "Tyler Kahihikolo",
+      "opponentSlug": "4982-tyler-kahihikolo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "X-1 World Events 44",
+      "eventSlug": "41087-x1-returns",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-16T00:00:00.000Z",
+      "opponent": "Corey Roberts",
+      "opponentSlug": "38481-corey-roberts",
+      "result": "win",
+      "method": "sub",
+      "event": "Victory FC 52",
+      "eventSlug": "40111-victory-fc-52",
+      "round": 1,
+      "timeInRound": "3:03"
+    },
+    {
+      "date": "2016-04-16T00:00:00.000Z",
+      "opponent": "Nathan Jaime",
+      "opponentSlug": "75113-nathan-jaime",
+      "result": "win",
+      "method": "sub",
+      "event": "Shogun Fights 14",
+      "eventSlug": "39141-shogun-fights-14",
+      "round": 1,
+      "timeInRound": "3:38"
+    },
+    {
+      "date": "2015-08-02T00:00:00.000Z",
+      "opponent": "Rodney Mondala",
+      "opponentSlug": "84136-rodney-mondala",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Destiny Na Koa 10",
+      "eventSlug": "33432-destiny-na-koa-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-02T00:00:00.000Z",
+      "opponent": "Kevin Natividad",
+      "opponentSlug": "67449-kevin-natividad",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Destiny Na Koa 7",
+      "eventSlug": "27033-destiny-na-koa-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-08-03T00:00:00.000Z",
+      "opponent": "Landon Yoshimura",
+      "opponentSlug": "67450-landon-yoshimura",
+      "result": "win",
+      "method": "sub",
+      "event": "Destiny Na Koa 6",
+      "eventSlug": "25224-destiny-na-koa-6",
+      "round": 1,
+      "timeInRound": "1:14"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:02:53.975Z"
+}

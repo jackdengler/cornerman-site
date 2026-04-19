@@ -1,0 +1,70 @@
+{
+  "slug": "45371-francisco-quijada",
+  "name": "Francisco Quijada",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1988-05-17",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/45371-francisco-quijada",
+  "recentFights": [
+    {
+      "date": "2015-06-27T00:00:00.000Z",
+      "opponent": "Joe Gibson",
+      "opponentSlug": "53405-joe-gibson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "NFC 75: Rinaldi vs. Saraiva",
+      "eventSlug": "33670-nfc-75",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-06-28T00:00:00.000Z",
+      "opponent": "Brien Calloway",
+      "opponentSlug": "70647-brien-collaway",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "NFC 66: Wild Bill's Fight Night 65",
+      "eventSlug": "25154-nfc-66",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-04-19T00:00:00.000Z",
+      "opponent": "Cody Durden",
+      "opponentSlug": "68337-cody-durden",
+      "result": "win",
+      "method": "sub",
+      "event": "NFC 64: Wild Bill's Fight Night 63",
+      "eventSlug": "23891-nfc-64",
+      "round": 3,
+      "timeInRound": "2:09"
+    },
+    {
+      "date": "2013-04-06T00:00:00.000Z",
+      "opponent": "Nedel Higuera",
+      "opponentSlug": "45372-nedel-higuera",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combat Quest 8",
+      "eventSlug": "17921-combat-quest-8-fight-night-athens",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-19T19:10:45.081Z"
+}

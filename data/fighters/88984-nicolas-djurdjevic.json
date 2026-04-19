@@ -1,0 +1,187 @@
+{
+  "slug": "88984-nicolas-djurdjevic",
+  "name": "Nicolas Đurđević",
+  "nickname": "Chef",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1981-05-07",
+  "nationality": "Serbia",
+  "url": "https://www.tapology.com/fightcenter/fighters/88984-nicolas-djurdjevic",
+  "recentFights": [
+    {
+      "date": "2024-12-21T00:00:00.000Z",
+      "opponent": "Frederic Vosgröne",
+      "opponentSlug": "210588-freddie-vosgrone",
+      "result": "loss",
+      "method": "sub",
+      "event": "We Love MMA 76",
+      "eventSlug": "110126-we-love-mma-76",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2024-09-07T00:00:00.000Z",
+      "opponent": "Nezar Al-Khabbaz",
+      "opponentSlug": "341354-nezar-al-khabbaz",
+      "result": "loss",
+      "method": "other",
+      "event": "GMC 39",
+      "eventSlug": "114714-gmc-39",
+      "round": 1,
+      "timeInRound": "4:56"
+    },
+    {
+      "date": "2024-04-27T00:00:00.000Z",
+      "opponent": "Fatih Aktas",
+      "opponentSlug": "72502-fatih-aktas",
+      "result": "nc",
+      "method": "other",
+      "event": "USC 3",
+      "eventSlug": "113845-usc-3",
+      "round": 3,
+      "timeInRound": "3:27"
+    },
+    {
+      "date": "2023-11-10T00:00:00.000Z",
+      "opponent": "Valdrin Istrefi",
+      "opponentSlug": "81330-valdrin-istrefi",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage FS 14: Grad vs Marinho",
+      "eventSlug": "100560-cage-fs",
+      "round": 3,
+      "timeInRound": "2:11"
+    },
+    {
+      "date": "2023-06-10T00:00:00.000Z",
+      "opponent": "Tamerlan Albiekov",
+      "opponentSlug": "255799-tamerlan-albiekov",
+      "result": "loss",
+      "method": "tko",
+      "event": "Kingdom Fighting 1",
+      "eventSlug": "100383-kingdom-fighting-1",
+      "round": 1,
+      "timeInRound": "3:25"
+    },
+    {
+      "date": "2023-05-06T00:00:00.000Z",
+      "opponent": "Szymon Kosman",
+      "opponentSlug": "118998-szymon-kosman",
+      "result": "win",
+      "method": "sub",
+      "event": "We Love MMA 65",
+      "eventSlug": "98872-we-love-mma-65",
+      "round": 1,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2023-02-11T00:00:00.000Z",
+      "opponent": "Arya Hosseini",
+      "opponentSlug": "187399-arya-sheikh",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "We Love MMA 63",
+      "eventSlug": "94265-we-love-mma-63",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-26T00:00:00.000Z",
+      "opponent": "Junior Tafa",
+      "opponentSlug": "242095-junior-tafa",
+      "result": "loss",
+      "method": "other",
+      "event": "BRAVE CF 66",
+      "eventSlug": "95134-brave-cf-66",
+      "round": 1,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2022-09-17T00:00:00.000Z",
+      "opponent": "Georg Bilogrevic",
+      "opponentSlug": "219134-georg-bilogrevic",
+      "result": "win",
+      "method": "sub",
+      "event": "We Love MMA 59",
+      "eventSlug": "91153-we-love-mma-59",
+      "round": 1,
+      "timeInRound": "3:12"
+    },
+    {
+      "date": "2022-07-02T00:00:00.000Z",
+      "opponent": "Nicolaj Wagner",
+      "opponentSlug": "40739-nikolaj-wagner",
+      "result": "win",
+      "method": "other",
+      "event": "USC 2",
+      "eventSlug": "90894-usc-ii",
+      "round": 1,
+      "timeInRound": "2:43"
+    },
+    {
+      "date": "2019-09-07T00:00:00.000Z",
+      "opponent": "Alija Tucak",
+      "opponentSlug": "72504-alija-tucak",
+      "result": "loss",
+      "method": "other",
+      "event": "Serbian Battle Championship 23",
+      "eventSlug": "61963-serbian-battle-championship-23-revenge",
+      "round": 1,
+      "timeInRound": "4:44"
+    },
+    {
+      "date": "2016-04-16T00:00:00.000Z",
+      "opponent": "Andy Clamp",
+      "opponentSlug": "43582-andrew-clamp",
+      "result": "loss",
+      "method": "tko",
+      "event": "ICE FC 13",
+      "eventSlug": "37811-ice-fc-13",
+      "round": 1,
+      "timeInRound": "2:49"
+    },
+    {
+      "date": "2016-03-26T00:00:00.000Z",
+      "opponent": "Timo Feucht",
+      "opponentSlug": "97787-timo-feucht",
+      "result": "loss",
+      "method": "other",
+      "event": "Imperium Fighting Championship 4",
+      "eventSlug": "38631-imperium-fighting-championship-4",
+      "round": 2,
+      "timeInRound": "2:04"
+    },
+    {
+      "date": "2016-03-06T00:00:00.000Z",
+      "opponent": "Christian Nold",
+      "opponentSlug": "106675-christian-nold",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-12-20T00:00:00.000Z",
+      "opponent": "Daniel Dörrer",
+      "opponentSlug": "78804-daniel-drrer",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Fight Night Stuttgart",
+      "eventSlug": "28794-fight-night-stuttgart",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:16:45.652Z"
+}

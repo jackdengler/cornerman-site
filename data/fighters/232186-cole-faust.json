@@ -1,0 +1,198 @@
+{
+  "slug": "232186-cole-faust",
+  "name": "Cole Faust",
+  "nickname": "The Machine",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/232186-cole-faust",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Steve Collins",
+      "opponentSlug": "307378-steve-collins",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 231: Lozej vs. Ibarra",
+      "eventSlug": "140675-lfa-231-trembley-vs-johns",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-04T00:00:00.000Z",
+      "opponent": "Ashton Charlton",
+      "opponentSlug": "252256-ashton-charlton",
+      "result": "loss",
+      "method": "sub",
+      "event": "BFL 84",
+      "eventSlug": "131123-bfl-84",
+      "round": 2,
+      "timeInRound": "4:29"
+    },
+    {
+      "date": "2025-04-05T00:00:00.000Z",
+      "opponent": "Jason Mullen",
+      "opponentSlug": "126731-jason-mullen",
+      "result": "win",
+      "method": "tko",
+      "event": "SteelFist Fight Night",
+      "eventSlug": "124722-steelfist-fight-night-reverence",
+      "round": 1,
+      "timeInRound": "3:28"
+    },
+    {
+      "date": "2025-01-18T00:00:00.000Z",
+      "opponent": "Owen Robinett",
+      "opponentSlug": "297194-owen-robinett",
+      "result": "win",
+      "method": "sub",
+      "event": "SteelFist Fight Night",
+      "eventSlug": "121268-steelfist-fight-night-avalanche",
+      "round": 3,
+      "timeInRound": "4:19"
+    },
+    {
+      "date": "2024-09-20T00:00:00.000Z",
+      "opponent": "Darryl Gorden",
+      "opponentSlug": "117963-keith-gordon",
+      "result": "win",
+      "method": "sub",
+      "event": "SteelFist Fight Night",
+      "eventSlug": "116645-steelfist-fight-night-havoc",
+      "round": 1,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2023-12-09T00:00:00.000Z",
+      "opponent": "Bryce Edminister",
+      "opponentSlug": "25046-bryce-edminister",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "SteelFist Fight Night",
+      "eventSlug": "106226-steelfist-fight-night-born-legacy",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-10T00:00:00.000Z",
+      "opponent": "Owen Robinett",
+      "opponentSlug": "297194-owen-robinett",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "SteelFist Fight Night",
+      "eventSlug": "99106-steelfist-fight-night-elevated",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-30T00:00:00.000Z",
+      "opponent": "Sergio Mamone Jr",
+      "opponentSlug": "148393-sergio-momone-jr",
+      "result": "win",
+      "method": "sub",
+      "event": "Steelfist Fight Night",
+      "eventSlug": "92483-steeliest-fight-night-rampage",
+      "round": 1,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2022-05-06T00:00:00.000Z",
+      "opponent": "Samuel Medel",
+      "opponentSlug": "269089-samuel-medel",
+      "result": "win",
+      "method": "sub",
+      "event": "SteelFist Fight Night",
+      "eventSlug": "92481-steelfist-fight-night-pinnacle",
+      "round": 5,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2022-03-19T00:00:00.000Z",
+      "opponent": "Isaiah Diggs",
+      "opponentSlug": "277271-isaiah-diggs",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "SteelFist Fight Night",
+      "eventSlug": "87669-steelfist-fight-night-unfazed",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-17T00:00:00.000Z",
+      "opponent": "Auston Manske",
+      "opponentSlug": "303977-auston-manske",
+      "result": "win",
+      "method": "sub",
+      "event": "SteelFist Fight Night",
+      "eventSlug": "85133-steelfist-fight-night-deck-the-halls",
+      "round": 2,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2021-09-18T00:00:00.000Z",
+      "opponent": "Calvin Parrington",
+      "opponentSlug": "110989-calvin-parrington",
+      "result": "win",
+      "method": "sub",
+      "event": "SteelFist FIght Night 79",
+      "eventSlug": "82470-steelfist-fight-night-79-rumble-of-the-rangers",
+      "round": 2,
+      "timeInRound": "2:18"
+    },
+    {
+      "date": "2021-05-01T00:00:00.000Z",
+      "opponent": "Joe Lauricella",
+      "opponentSlug": "95941-joe-lauricella",
+      "result": "win",
+      "method": "other",
+      "event": "SteelFist Fight Night 76",
+      "eventSlug": "78588-steelfist-fight-night-76-revolution",
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2021-03-13T00:00:00.000Z",
+      "opponent": "Adam Easley",
+      "opponentSlug": "94180-adam-easley",
+      "result": "win",
+      "method": "sub",
+      "event": "Steelfist Fight Night 75",
+      "eventSlug": "75774-steelfist-fight-night-74-resurrection",
+      "round": 1,
+      "timeInRound": "2:23"
+    },
+    {
+      "date": "2019-11-22T00:00:00.000Z",
+      "opponent": "Sam DeLao",
+      "opponentSlug": "243104-sam-delao",
+      "result": "win",
+      "method": "sub",
+      "event": "Steelfist Fight Night",
+      "eventSlug": "64467-steelfist-fight-night-no-fear",
+      "round": 1,
+      "timeInRound": "1:16"
+    },
+    {
+      "date": "2019-08-09T00:00:00.000Z",
+      "opponent": "Jacob Diaz",
+      "opponentSlug": "232185-jacob-diaz",
+      "result": "win",
+      "method": "sub",
+      "event": "Steelfist Fight Night",
+      "eventSlug": "61413-steelfist-fight-night-victorious",
+      "round": 2,
+      "timeInRound": "1:19"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:59:35.427Z"
+}

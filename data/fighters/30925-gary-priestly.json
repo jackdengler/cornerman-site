@@ -1,0 +1,154 @@
+{
+  "slug": "30925-gary-priestly",
+  "name": "Gary Priestly",
+  "nickname": "The Necessary Evil",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 2
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Scotland",
+  "url": "https://www.tapology.com/fightcenter/fighters/30925-gary-priestly",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Aaron Towns",
+      "opponentSlug": "93524-aaron-towns",
+      "result": null,
+      "method": "other",
+      "event": "Cage Warriors 205",
+      "eventSlug": "138938-cage-warriors-205",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-27T00:00:00.000Z",
+      "opponent": "Gary Rooney",
+      "opponentSlug": "223290-gary-rooney",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage Warriors 194",
+      "eventSlug": "129014-cage-warriors-194",
+      "round": 1,
+      "timeInRound": "3:14"
+    },
+    {
+      "date": "2025-04-19T00:00:00.000Z",
+      "opponent": "Redgie Hingston",
+      "opponentSlug": "236810-redgie-hingston",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 187",
+      "eventSlug": "120832-cage-warriors-187",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-08-31T00:00:00.000Z",
+      "opponent": "Matthew Friel",
+      "opponentSlug": "185861-mathew-friel",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Budo Fighting Championship 69",
+      "eventSlug": "117214-budo-fighting-championship-69",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-11T00:00:00.000Z",
+      "opponent": "Hamed Tawana",
+      "opponentSlug": "272349-hamed-tawana",
+      "result": "draw",
+      "method": "dec-majority",
+      "event": "Budo Fighting Championship 56",
+      "eventSlug": "99128-budo-fighting-championship-56",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-29T00:00:00.000Z",
+      "opponent": "Lee Percival",
+      "opponentSlug": "64163-lee-percival",
+      "result": "loss",
+      "method": "sub",
+      "event": "Vision MMA Combat UK 3",
+      "eventSlug": "53545-vision-mma-combat-uk-3",
+      "round": 1,
+      "timeInRound": "3:36"
+    },
+    {
+      "date": "2018-03-24T00:00:00.000Z",
+      "opponent": "Lee Percival",
+      "opponentSlug": "64163-lee-percival",
+      "result": "nc",
+      "method": "other",
+      "event": "Vision MMA Combat UK 2",
+      "eventSlug": "51115-vision-mma-combat-uk-2",
+      "round": 5,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-16T00:00:00.000Z",
+      "opponent": "Kevin O'Fee",
+      "opponentSlug": "142422-kevin-ofee",
+      "result": "win",
+      "method": "sub",
+      "event": "Vision MMA Combat UK 1",
+      "eventSlug": "48544-vision-mma-combat-uk-1",
+      "round": 1,
+      "timeInRound": "3:03"
+    },
+    {
+      "date": "2016-11-12T00:00:00.000Z",
+      "opponent": "Luke Shanks",
+      "opponentSlug": "112233-luke-shanks",
+      "result": "loss",
+      "method": "sub",
+      "event": "Budo Fighting Championships 17",
+      "eventSlug": "40538-budo-fighting-championships-17",
+      "round": 3,
+      "timeInRound": "2:49"
+    },
+    {
+      "date": "2014-04-20T00:00:00.000Z",
+      "opponent": "Aubrey Tarr",
+      "opponentSlug": "68210-aubrey-tarr",
+      "result": "win",
+      "method": "sub",
+      "event": "SFC 8: Fire Power",
+      "eventSlug": "21608-sfc-8-fire-power",
+      "round": 1,
+      "timeInRound": "2:04"
+    },
+    {
+      "date": "2013-08-24T00:00:00.000Z",
+      "opponent": "Craig Devine",
+      "opponentSlug": "53934-craig-devine",
+      "result": "loss",
+      "method": "sub",
+      "event": "First Fighting Championship 3",
+      "eventSlug": "19805-first-fighting-championship-3-prepare-for-glory",
+      "round": 1,
+      "timeInRound": "3:48"
+    },
+    {
+      "date": "2012-07-21T00:00:00.000Z",
+      "opponent": "Rafal Zalezny",
+      "opponentSlug": "30924-rafal-zalezny",
+      "result": "win",
+      "method": "sub",
+      "event": "Caledonian Combat 1",
+      "eventSlug": "14589-caledonian-combat-1",
+      "round": 3,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:05:42.831Z"
+}

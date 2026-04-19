@@ -1,0 +1,114 @@
+{
+  "slug": "231734-sean-atkinson",
+  "name": "Sean Atkinson",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 5,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1996-04-15",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/231734-sean-atkinson",
+  "recentFights": [
+    {
+      "date": "2023-05-05T00:00:00.000Z",
+      "opponent": "Ralph Hernandez III",
+      "opponentSlug": "190165-ralph-hernandez",
+      "result": "loss",
+      "method": "other",
+      "event": "FAC 19: Cinco de Mayo",
+      "eventSlug": "99118-fac-19-cinco-de-mayo",
+      "round": 1,
+      "timeInRound": "2:57"
+    },
+    {
+      "date": "2022-05-06T00:00:00.000Z",
+      "opponent": "Slade Covey",
+      "opponentSlug": "302019-slade-covey",
+      "result": "win",
+      "method": "other",
+      "event": "FAC 13",
+      "eventSlug": "88011-fac-13",
+      "round": 3,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2021-07-30T00:00:00.000Z",
+      "opponent": "Hunter Vaughn",
+      "opponentSlug": "232205-hunter-vaughn",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "FAC 9",
+      "eventSlug": "79725-fac-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-07T00:00:00.000Z",
+      "opponent": "Landen Farmer",
+      "opponentSlug": "204485-landen-farmer",
+      "result": "win",
+      "method": "other",
+      "event": "FAC 8",
+      "eventSlug": "77762-fac-8",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-12-12T00:00:00.000Z",
+      "opponent": "Blake Sims",
+      "opponentSlug": "280893-blake-sims",
+      "result": "win",
+      "method": "sub",
+      "event": "FAC 6",
+      "eventSlug": "74679-fac-6",
+      "round": 1,
+      "timeInRound": "2:23"
+    },
+    {
+      "date": "2020-10-09T00:00:00.000Z",
+      "opponent": "Zach Yates",
+      "opponentSlug": "141982-zach-yates",
+      "result": "loss",
+      "method": "other",
+      "event": "FAC 4",
+      "eventSlug": "73143-fac-4",
+      "round": 3,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2019-12-06T00:00:00.000Z",
+      "opponent": "Prestonn Burk",
+      "opponentSlug": "245689-prestonn-burk",
+      "result": "win",
+      "method": "other",
+      "event": "Ultimate Blue Corner Battles",
+      "eventSlug": "64574-ultimate-blue-corner-battles",
+      "round": 1,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2019-07-27T00:00:00.000Z",
+      "opponent": "Jonithan Phillips",
+      "opponentSlug": "228700-jonithan-phillips",
+      "result": "win",
+      "method": "other",
+      "event": "KC Fighting Alliance 34",
+      "eventSlug": "60419-kc-fighting-alliance-34",
+      "round": 2,
+      "timeInRound": "1:23"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:44:44.715Z"
+}

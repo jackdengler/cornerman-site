@@ -1,0 +1,136 @@
+{
+  "slug": "116011-grant-kabol",
+  "name": "Grant Kabol",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 7,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1996-02-19",
+  "nationality": "New York, New York",
+  "url": "https://www.tapology.com/fightcenter/fighters/116011-grant-kabol",
+  "recentFights": [
+    {
+      "date": "2019-11-20T00:00:00.000Z",
+      "opponent": "Steve Erceg",
+      "opponentSlug": "132326-stephen-erceg",
+      "result": "loss",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "65226-gamma-singapore-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-29T00:00:00.000Z",
+      "opponent": "Xi Lau",
+      "opponentSlug": "64009-xi-lau",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Wars 42",
+      "eventSlug": "59872-cage-wars-42",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-13T00:00:00.000Z",
+      "opponent": "Brandon Escobar",
+      "opponentSlug": "90635-brandon-escobar",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Triton Fights 8",
+      "eventSlug": "52127-triton-fights-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-07T00:00:00.000Z",
+      "opponent": "Edwin Solis",
+      "opponentSlug": "66898-edwin-nicholas",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Aggressive Combat 18",
+      "eventSlug": "49082-aggressive-combat-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-05T00:00:00.000Z",
+      "opponent": "Jordan Champion",
+      "opponentSlug": "53348-jordan-champion",
+      "result": "win",
+      "method": "sub",
+      "event": "Gladius Fights 27",
+      "eventSlug": "46680-gladius-27",
+      "round": 1,
+      "timeInRound": "1:21"
+    },
+    {
+      "date": "2017-02-18T00:00:00.000Z",
+      "opponent": "Kevin O'Hagen",
+      "opponentSlug": "136198-kevin-ohagen",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Gladius Fights 24",
+      "eventSlug": "43305-gladius-fights-24",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-14T00:00:00.000Z",
+      "opponent": "Kevin Soto",
+      "opponentSlug": "55954-kevin-soto",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combate Americas 9",
+      "eventSlug": "41719-combate-nueve",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-28T00:00:00.000Z",
+      "opponent": "Kelan McKenna",
+      "opponentSlug": "133988-kalen-mckenna",
+      "result": "win",
+      "method": "sub",
+      "event": "Gladius Fights 21",
+      "eventSlug": "39039-gladius-21",
+      "round": 2,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2016-03-19T00:00:00.000Z",
+      "opponent": "Justin Gushlaw",
+      "opponentSlug": "127986-justin-gushlaw",
+      "result": "win",
+      "method": "sub",
+      "event": "Gladius Fights 20",
+      "eventSlug": "38300-gladius-20",
+      "round": 1,
+      "timeInRound": "0:59"
+    },
+    {
+      "date": "2015-11-14T00:00:00.000Z",
+      "opponent": "Jeremy Salvador",
+      "opponentSlug": "75798-jeremiah-salvador",
+      "result": "win",
+      "method": "sub",
+      "event": "Gladius Fights 19",
+      "eventSlug": "35889-gladius-fights-19",
+      "round": 1,
+      "timeInRound": "0:44"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:14:15.610Z"
+}

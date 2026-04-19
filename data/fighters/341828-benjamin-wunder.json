@@ -1,0 +1,143 @@
+{
+  "slug": "341828-benjamin-wunder",
+  "name": "Ben Wunder",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 193,
+  "reachCm": 196,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1998-08-11",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/341828-benjamin-wunder",
+  "recentFights": [
+    {
+      "date": "2026-02-06T00:00:00.000Z",
+      "opponent": "Charlie Cleveland",
+      "opponentSlug": "418176-charlie-cleveland",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 226: Allakhverdiev vs. Kropschot",
+      "eventSlug": "138232-lfa-226-allakhverdiev-vs-kropschot",
+      "round": 1,
+      "timeInRound": "1:03"
+    },
+    {
+      "date": "2025-10-10T00:00:00.000Z",
+      "opponent": "Matt Adams",
+      "opponentSlug": "143093-matthew-adams",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 219: Thomson vs. Islomboev",
+      "eventSlug": "132281-lfa-219",
+      "round": 1,
+      "timeInRound": "4:01"
+    },
+    {
+      "date": "2025-07-26T00:00:00.000Z",
+      "opponent": "Quentin Campbell",
+      "opponentSlug": "244150-quentin-campbell",
+      "result": "win",
+      "method": "other",
+      "event": "MFL 57: Summer Slam",
+      "eventSlug": "120226-mfl-57",
+      "round": 2,
+      "timeInRound": "1:34"
+    },
+    {
+      "date": "2024-11-02T00:00:00.000Z",
+      "opponent": "Nicholas Williams",
+      "opponentSlug": "247572-nicholas-williams",
+      "result": "win",
+      "method": "other",
+      "event": "MFL 55: Fall Brawl",
+      "eventSlug": "117632-mfl-55-fall-brawl",
+      "round": 1,
+      "timeInRound": "1:40"
+    },
+    {
+      "date": "2024-07-27T00:00:00.000Z",
+      "opponent": "RJ Harris",
+      "opponentSlug": "382864-rj-harris",
+      "result": "win",
+      "method": "other",
+      "event": "MFL 54",
+      "eventSlug": "114442-mfl-54",
+      "round": 2,
+      "timeInRound": "0:28"
+    },
+    {
+      "date": "2024-04-27T00:00:00.000Z",
+      "opponent": "Moses Galu",
+      "opponentSlug": "197799-moses-galu",
+      "result": "win",
+      "method": "other",
+      "event": "Art of Scrap 8",
+      "eventSlug": "110437-art-of-scrap-8",
+      "round": 2,
+      "timeInRound": "2:37"
+    },
+    {
+      "date": "2023-10-07T00:00:00.000Z",
+      "opponent": "Nathan George",
+      "opponentSlug": "186613-nathan-george",
+      "result": "win",
+      "method": "other",
+      "event": "Art of Scrap 7",
+      "eventSlug": "103123-art-of-scrap-7",
+      "round": 1,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2023-07-15T00:00:00.000Z",
+      "opponent": "Tim Fairley II",
+      "opponentSlug": "376966-tim-fairley-ii",
+      "result": "win",
+      "method": "other",
+      "event": "MFL 51: Summer Slam",
+      "eventSlug": "102944-mfl-51-summer-slam",
+      "round": 1,
+      "timeInRound": "2:08"
+    },
+    {
+      "date": "2022-12-17T00:00:00.000Z",
+      "opponent": "Liam Jagow",
+      "opponentSlug": "365666-liam-jagow-jojo",
+      "result": "win",
+      "method": "other",
+      "event": "Colosseum Combat 61",
+      "eventSlug": "88333-colosseum-combat-62",
+      "round": 1,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2022-09-10T00:00:00.000Z",
+      "opponent": "Brandon Krugler",
+      "opponentSlug": "350821-brandon-krugler",
+      "result": "win",
+      "method": "other",
+      "event": "MFL 49: Summer Slam",
+      "eventSlug": "90616-mfl-49",
+      "round": 1,
+      "timeInRound": "0:25"
+    },
+    {
+      "date": "2022-06-25T00:00:00.000Z",
+      "opponent": "Santiago Orta Jr.",
+      "opponentSlug": "286549-santiago-orta-jr",
+      "result": "win",
+      "method": "other",
+      "event": "MFL 48: Resurrection",
+      "eventSlug": "90584-mfl-48",
+      "round": 1,
+      "timeInRound": "0:51"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:40:11.447Z"
+}

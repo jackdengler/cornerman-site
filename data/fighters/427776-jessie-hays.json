@@ -1,0 +1,48 @@
+{
+  "slug": "427776-jessie-hays",
+  "name": "Jessie Hays",
+  "nickname": "Thunderhead",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1991-01-27",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/427776-jessie-hays",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Kayara Hartfield",
+      "opponentSlug": "499516-kayara-hartfield",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 231: Lozej vs. Ibarra",
+      "eventSlug": "140675-lfa-231-trembley-vs-johns",
+      "round": 2,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2026-01-16T00:00:00.000Z",
+      "opponent": "Daysi Perez",
+      "opponentSlug": "314457-daysi-perez",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 224: Adams vs Bilalov",
+      "eventSlug": "137873-legacy-fighting-alliance-224-lfa-224",
+      "round": 3,
+      "timeInRound": "1:26"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:35:56.456Z"
+}

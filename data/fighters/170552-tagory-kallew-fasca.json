@@ -1,0 +1,253 @@
+{
+  "slug": "170552-tagory-kallew-fasca",
+  "name": "Kallew dos Santos",
+  "nickname": "Faísca",
+  "aliases": [],
+  "recordPro": {
+    "wins": 13,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1993-10-29",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/170552-tagory-kallew-fasca",
+  "recentFights": [
+    {
+      "date": "2026-04-16T00:00:00.000Z",
+      "opponent": "Marco Muñoz",
+      "opponentSlug": "138982-marcos-muoz",
+      "result": null,
+      "method": "other",
+      "event": "WCC 12",
+      "eventSlug": "138084-wcc-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-08T00:00:00.000Z",
+      "opponent": "Santiago Auad",
+      "opponentSlug": "87462-santiago-auad",
+      "result": "win",
+      "method": "sub",
+      "event": "Demolicion Fight Tournament 3",
+      "eventSlug": "135860-demolicion-fight-tournament-3",
+      "round": 1,
+      "timeInRound": "3:34"
+    },
+    {
+      "date": "2025-08-02T00:00:00.000Z",
+      "opponent": "Mauricio Cavalera",
+      "opponentSlug": "279831-mauricio-cavalera-shaolin",
+      "result": "win",
+      "method": "other",
+      "event": "Demolicion Fight Tournament 2",
+      "eventSlug": "132104-demolicion-fight-tournament-2",
+      "round": 2,
+      "timeInRound": "3:37"
+    },
+    {
+      "date": "2025-02-01T00:00:00.000Z",
+      "opponent": "Artem Semyonov",
+      "opponentSlug": "178907-artem-semenov",
+      "result": "loss",
+      "method": "other",
+      "event": "NWPA: Defense of Leningrad",
+      "eventSlug": "124173-nwpa-defense-of-leningrad",
+      "round": 1,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2024-11-02T00:00:00.000Z",
+      "opponent": "Shermurat Kalilov",
+      "opponentSlug": "236688-shermurat-kalilov",
+      "result": "loss",
+      "method": "other",
+      "event": "Dala FC 1: Takhtay vs. Chope",
+      "eventSlug": "120474-dala-fighting-championship-1",
+      "round": 1,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2024-05-11T00:00:00.000Z",
+      "opponent": "Natanael Douglas",
+      "opponentSlug": "443968-natanael-douglas",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Night Show 2",
+      "eventSlug": "113915-fight-night-show-2-te-pego-na-saida",
+      "round": 1,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2024-05-11T00:00:00.000Z",
+      "opponent": "Israel Petherson",
+      "opponentSlug": "443969-israel-petherson",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Night Show 2",
+      "eventSlug": "113915-fight-night-show-2-te-pego-na-saida",
+      "round": 1,
+      "timeInRound": "2:21"
+    },
+    {
+      "date": "2024-05-11T00:00:00.000Z",
+      "opponent": "Natanael Douglas",
+      "opponentSlug": "443968-natanael-douglas",
+      "result": "win",
+      "method": "tko",
+      "event": "Fight Night Show 2",
+      "eventSlug": "113915-fight-night-show-2-te-pego-na-saida",
+      "round": 1,
+      "timeInRound": "1:21"
+    },
+    {
+      "date": "2023-05-18T00:00:00.000Z",
+      "opponent": "Adrian Luna Martinetti",
+      "opponentSlug": "139620-juan-adrian-luna",
+      "result": "loss",
+      "method": "sub",
+      "event": "FFC 61: Luna vs. Da Silva",
+      "eventSlug": "99057-ffc-61",
+      "round": 1,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2021-12-04T00:00:00.000Z",
+      "opponent": "Cicero Vitorino",
+      "opponentSlug": "129381-cicero-miyagi",
+      "result": "win",
+      "method": "other",
+      "event": "OFT 2",
+      "eventSlug": "84579-oft-2",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2021-09-25T00:00:00.000Z",
+      "opponent": "Nathan Matheus",
+      "opponentSlug": "308951-nathan-matheus",
+      "result": "loss",
+      "method": "other",
+      "event": "OFT 1",
+      "eventSlug": "82554-oft-1",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2020-01-18T00:00:00.000Z",
+      "opponent": "Hector Gonzalez",
+      "opponentSlug": "250505-hector-gonzalez-monster",
+      "result": "win",
+      "method": "sub",
+      "event": "UFG 1",
+      "eventSlug": "66091-ufg-1",
+      "round": 1,
+      "timeInRound": "1:03"
+    },
+    {
+      "date": "2019-12-21T00:00:00.000Z",
+      "opponent": "Rodrigo Ayala",
+      "opponentSlug": "106207-rodrigo-ayala",
+      "result": "loss",
+      "method": "tko",
+      "event": "Origenes Championship 3",
+      "eventSlug": "72263-origenes-championship-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-06T00:00:00.000Z",
+      "opponent": "Herikis Alves",
+      "opponentSlug": "233746-herikis-alves",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-09T00:00:00.000Z",
+      "opponent": "Moises Gimenez",
+      "opponentSlug": "197693-moises-gimenez",
+      "result": "win",
+      "method": null,
+      "event": "WKC MMA 77",
+      "eventSlug": "61392-wkc-mma-77-copa-team-force-international-i",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-12T00:00:00.000Z",
+      "opponent": "Camilo Cardozo",
+      "opponentSlug": "170553-camilo-cardozo-camilito",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-15T00:00:00.000Z",
+      "opponent": "Jose Dias Galthier",
+      "opponentSlug": "175010-jose-dias-galthier",
+      "result": "loss",
+      "method": "tko",
+      "event": "Parabellum Fight 10",
+      "eventSlug": "50031-parabellum-fight-10",
+      "round": 1,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2017-10-28T00:00:00.000Z",
+      "opponent": "Camilo Cardozo",
+      "opponentSlug": "170553-camilo-cardozo-camilito",
+      "result": "win",
+      "method": "sub",
+      "event": "Dragon FC 1",
+      "eventSlug": "49062-dfc-1",
+      "round": 1,
+      "timeInRound": "3:23"
+    },
+    {
+      "date": "2017-09-23T00:00:00.000Z",
+      "opponent": "Hermison Oliveira",
+      "opponentSlug": "59800-hermisson-do-bronx",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-08T00:00:00.000Z",
+      "opponent": "Frank Bruno",
+      "opponentSlug": "174500-frank-bruno",
+      "result": "win",
+      "method": "other",
+      "event": "Extreme Evolution Fighter 18",
+      "eventSlug": "49870-extreme-evolution-fighter-18",
+      "round": 1,
+      "timeInRound": "3:15"
+    },
+    {
+      "date": "2013-12-14T00:00:00.000Z",
+      "opponent": "Frank Bruno",
+      "opponentSlug": "174500-frank-bruno",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "0:30"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:36:50.792Z"
+}

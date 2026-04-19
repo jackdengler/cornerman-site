@@ -1,0 +1,209 @@
+{
+  "slug": "66758-rodrigo-nascimento-z-colmeia",
+  "name": "Rodrigo Nascimento",
+  "nickname": "Zé Colmeia",
+  "aliases": [],
+  "recordPro": {
+    "wins": 12,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": 203,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1992-11-26",
+  "nationality": "Belo Horizonte, Minas Gerais, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/66758-rodrigo-nascimento-z-colmeia",
+  "recentFights": [
+    {
+      "date": "2026-04-11T00:00:00.000Z",
+      "opponent": "Alexandr Romanov",
+      "opponentSlug": "144301-alexander-romanov",
+      "result": "loss",
+      "method": "sub",
+      "event": "PFL Chicago",
+      "eventSlug": "137169-pfl-chicago",
+      "round": 2,
+      "timeInRound": "3:10"
+    },
+    {
+      "date": "2025-06-27T00:00:00.000Z",
+      "opponent": "Oleg Popov",
+      "opponentSlug": "117155-oleg-popov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "PFL World Tournament 7",
+      "eventSlug": "122871-pfl-2025-world-tournament-semifinals-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-01T00:00:00.000Z",
+      "opponent": "Abraham Bably",
+      "opponentSlug": "248068-abraham-bably",
+      "result": "win",
+      "method": "dec-split",
+      "event": "PFL World Tournament 4",
+      "eventSlug": "122868-pfl-2025-world-tournament-first-round-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-02T00:00:00.000Z",
+      "opponent": "Alexandr Romanov",
+      "opponentSlug": "144301-alexander-romanov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "116421-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-11T00:00:00.000Z",
+      "opponent": "Derrick Lewis",
+      "opponentSlug": "14023-derrick-lewis-the-black-beast",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "110365-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "0:49"
+    },
+    {
+      "date": "2023-11-04T00:00:00.000Z",
+      "opponent": "Don'Tale Mayes",
+      "opponentSlug": "46499-dontale-mayes",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "101863-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-20T00:00:00.000Z",
+      "opponent": "Ilir Latifi",
+      "opponentSlug": "ilir-latifi",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "98571-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-17T00:00:00.000Z",
+      "opponent": "Tanner Boser",
+      "opponentSlug": "35149-tanner-boser",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "90191-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-17T00:00:00.000Z",
+      "opponent": "Alan Baudot",
+      "opponentSlug": "50336-alan-baudot",
+      "result": "nc",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "78130-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-10-10T00:00:00.000Z",
+      "opponent": "Chris Daukaus",
+      "opponentSlug": "25880-christopher-daukaus",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "71622-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2020-05-16T00:00:00.000Z",
+      "opponent": "Don'Tale Mayes",
+      "opponentSlug": "46499-dontale-mayes",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "67412-ufc-on-espn-33",
+      "round": 2,
+      "timeInRound": "2:05"
+    },
+    {
+      "date": "2019-07-30T00:00:00.000Z",
+      "opponent": "Michal Martínek",
+      "opponentSlug": "155093-michal-martnek",
+      "result": "win",
+      "method": "sub",
+      "event": "Contender Series 2019",
+      "eventSlug": "59499-dw-s-contender-series-2019-week-7",
+      "round": 1,
+      "timeInRound": "3:16"
+    },
+    {
+      "date": "2017-10-07T00:00:00.000Z",
+      "opponent": "Everton dos Anjos",
+      "opponentSlug": "70718-everton-zulu",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-19T00:00:00.000Z",
+      "opponent": "Fabio Moreira",
+      "opponentSlug": "64356-fabio-cyborg",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-15T00:00:00.000Z",
+      "opponent": "Fabricio Nascimento",
+      "opponentSlug": "159982-fabricio-nascimento",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-29T00:00:00.000Z",
+      "opponent": "Ricardo Jordano",
+      "opponentSlug": "66759-ricardo-jordano-carioca",
+      "result": "win",
+      "method": "tko",
+      "event": "Full House Battle Home 3.1",
+      "eventSlug": "23566-full-house-battle-home-3-dia-1",
+      "round": 1,
+      "timeInRound": "0:39"
+    },
+    {
+      "date": "2013-04-21T00:00:00.000Z",
+      "opponent": "Raphael Caixeta",
+      "opponentSlug": "66790-rafael-caixeta",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:58:32.185Z"
+}

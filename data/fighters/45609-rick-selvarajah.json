@@ -1,0 +1,154 @@
+{
+  "slug": "45609-rick-selvarajah",
+  "name": "Rick Selvarajah",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "England",
+  "url": "https://www.tapology.com/fightcenter/fighters/45609-rick-selvarajah",
+  "recentFights": [
+    {
+      "date": "2021-10-02T00:00:00.000Z",
+      "opponent": "Jake Constantinou",
+      "opponentSlug": "58250-jake-constantino",
+      "result": "loss",
+      "method": "dec-majority",
+      "event": "Golden Ticket Fight Promotions 16",
+      "eventSlug": "80502-golden-ticket-fight-promotions-fight-night-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-14T00:00:00.000Z",
+      "opponent": "Steve Aimable",
+      "opponentSlug": "26774-steve-aimable",
+      "result": "loss",
+      "method": "other",
+      "event": "FightStar Championship 14",
+      "eventSlug": "51080-fightstar-championship-14",
+      "round": 3,
+      "timeInRound": "1:03"
+    },
+    {
+      "date": "2017-05-12T00:00:00.000Z",
+      "opponent": "Jai Herbert",
+      "opponentSlug": "70002-jai-herbert",
+      "result": "loss",
+      "method": "other",
+      "event": "BAMMA 29: McDermott Vs. Wolf",
+      "eventSlug": "44719-bamma-29",
+      "round": 2,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2016-05-14T00:00:00.000Z",
+      "opponent": "Ollie Coyne",
+      "opponentSlug": "74057-oli-coyne",
+      "result": "win",
+      "method": "sub",
+      "event": "BAMMA 25: Champion vs. Champion",
+      "eventSlug": "37799-bamma-25",
+      "round": 1,
+      "timeInRound": "3:52"
+    },
+    {
+      "date": "2016-02-27T00:00:00.000Z",
+      "opponent": "Ylies Djiroun",
+      "opponentSlug": "42239-ylies-djiroun",
+      "result": "loss",
+      "method": "sub",
+      "event": "Contenders Norwich 14",
+      "eventSlug": "38018-contenders-norwich-14",
+      "round": 3,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2015-09-19T00:00:00.000Z",
+      "opponent": "Marc Diakiese",
+      "opponentSlug": "66513-marc-diakiese",
+      "result": "loss",
+      "method": "other",
+      "event": "BAMMA 22: Duquesnoy Vs. Loughnane",
+      "eventSlug": "33312-bamma-22-duquesnoy-vs-loughnane",
+      "round": 1,
+      "timeInRound": "0:24"
+    },
+    {
+      "date": "2015-04-25T00:00:00.000Z",
+      "opponent": "Jefferson George",
+      "opponentSlug": "15394-jefferson-george",
+      "result": "win",
+      "method": "dec-split",
+      "event": "BAMMA 20: McDermott vs. Lazarz",
+      "eventSlug": "31079-bamma-20-mcdermott-vs-lazarz",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-12-08T00:00:00.000Z",
+      "opponent": "Marius Bogdan Pisat",
+      "opponentSlug": "54563-marius-bogdan-pisat",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-11-16T00:00:00.000Z",
+      "opponent": "Maksym Matus",
+      "opponentSlug": "33529-maksym-matus",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-09-28T00:00:00.000Z",
+      "opponent": "Mike Maroudas",
+      "opponentSlug": "20810-mike-maroudas",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-11-24T00:00:00.000Z",
+      "opponent": "Sunny Sandhu",
+      "opponentSlug": "23387-sunny-sandhu",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-04-29T00:00:00.000Z",
+      "opponent": "Jacek Kaminski",
+      "opponentSlug": "27953-jacek-kaminski",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:09:03.144Z"
+}

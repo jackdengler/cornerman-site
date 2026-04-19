@@ -1,0 +1,253 @@
+{
+  "slug": "14797-shannon-mcclellan",
+  "name": "Shannon Ross",
+  "nickname": "The Turkish Delight",
+  "aliases": [],
+  "recordPro": {
+    "wins": 13,
+    "losses": 9,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": 168,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1989-05-12",
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/14797-shannon-mcclellan",
+  "recentFights": [
+    {
+      "date": "2023-12-09T00:00:00.000Z",
+      "opponent": "Hyun Sung Park",
+      "opponentSlug": "180034-hyun-sung-park",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "105194-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "3:59"
+    },
+    {
+      "date": "2023-07-08T00:00:00.000Z",
+      "opponent": "Jesus Aguilar",
+      "opponentSlug": "108511-jesus-aguilar",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 290: Volkanovski vs. Rodriguez",
+      "eventSlug": "98868-ufc-290",
+      "round": 1,
+      "timeInRound": "0:17"
+    },
+    {
+      "date": "2023-02-11T00:00:00.000Z",
+      "opponent": "Kleydson Rodrigues",
+      "opponentSlug": "147055-kleidison-rodrigues-kr",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 284: Makhachev vs. Volkanovski",
+      "eventSlug": "93764-ufc-284",
+      "round": 1,
+      "timeInRound": "0:59"
+    },
+    {
+      "date": "2022-08-02T00:00:00.000Z",
+      "opponent": "Vinicius Salvador",
+      "opponentSlug": "95618-vinicius-de-almeida-salvador",
+      "result": "loss",
+      "method": "other",
+      "event": "Contender Series 2022",
+      "eventSlug": "89494-contender-series-2022",
+      "round": 2,
+      "timeInRound": "4:22"
+    },
+    {
+      "date": "2020-11-27T00:00:00.000Z",
+      "opponent": "Donavon Frelow",
+      "opponentSlug": "30213-donovan-frelow",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UAE Warriors 14",
+      "eventSlug": "73549-uae-warriors-14",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-03-07T00:00:00.000Z",
+      "opponent": "Steve Erceg",
+      "opponentSlug": "132326-stephen-erceg",
+      "result": "loss",
+      "method": "sub",
+      "event": "Eternal MMA 52",
+      "eventSlug": "64806-eternal-mma-52",
+      "round": 1,
+      "timeInRound": "4:28"
+    },
+    {
+      "date": "2019-03-23T00:00:00.000Z",
+      "opponent": "Paul Loga",
+      "opponentSlug": "86707-paul-loga",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 42",
+      "eventSlug": "57693-eternal-mma-42",
+      "round": 3,
+      "timeInRound": "0:32"
+    },
+    {
+      "date": "2018-06-16T00:00:00.000Z",
+      "opponent": "Charlie Alaniz",
+      "opponentSlug": "60343-charlie-alaniz-el-guerrero",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ACB 88: Brisbane",
+      "eventSlug": "52786-acb-88-silva-vs-camozzi",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-09T00:00:00.000Z",
+      "opponent": "Steve Nightingale",
+      "opponentSlug": "49651-steve-nightingale",
+      "result": "win",
+      "method": "other",
+      "event": "ACB 76: Young Eagles 23",
+      "eventSlug": "48516-acb-76-australia",
+      "round": 1,
+      "timeInRound": "4:51"
+    },
+    {
+      "date": "2017-06-10T00:00:00.000Z",
+      "opponent": "Luke Morris",
+      "opponentSlug": "25374-luke-morris",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Nitro MMA 14",
+      "eventSlug": "45621-nitro-mma-14-reloaded",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-02T00:00:00.000Z",
+      "opponent": "Ashkan Mokhtarian",
+      "opponentSlug": "29744-ashkan-mokhtaran",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 16",
+      "eventSlug": "37949-eternal-mma-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-21T00:00:00.000Z",
+      "opponent": "Shane Parker",
+      "opponentSlug": "83673-shane-parker",
+      "result": "win",
+      "method": "sub",
+      "event": "Nitro MMA 13",
+      "eventSlug": "28939-nitro-mma-13",
+      "round": 2,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2014-05-03T00:00:00.000Z",
+      "opponent": "Matt George",
+      "opponentSlug": "28279-matthew-george",
+      "result": "win",
+      "method": "tko",
+      "event": "Eternal MMA 5",
+      "eventSlug": "23487-eternal-mma-5",
+      "round": 3,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2013-07-13T00:00:00.000Z",
+      "opponent": "Edwin Arana",
+      "opponentSlug": "8815-edwin-arana",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Nitro MMA 9",
+      "eventSlug": "18774-nitro-mma-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-03-23T00:00:00.000Z",
+      "opponent": "Chris Morris",
+      "opponentSlug": "28278-chris-morris-kewl-bonez",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-05-05T00:00:00.000Z",
+      "opponent": "Jack Gooderham",
+      "opponentSlug": "25414-jack-gooderham",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-03-24T00:00:00.000Z",
+      "opponent": "Liam Harley",
+      "opponentSlug": "28276-liam-harley",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-12-09T00:00:00.000Z",
+      "opponent": "Zach Hook",
+      "opponentSlug": "28288-zach-hook",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-04-30T00:00:00.000Z",
+      "opponent": "Jacob Mahony",
+      "opponentSlug": "jacob-mahony-j-money",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-03-19T00:00:00.000Z",
+      "opponent": "Fabian Nemcek",
+      "opponentSlug": "28289-fabian-nemcek-havoc",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-05-29T00:00:00.000Z",
+      "opponent": "Joe Pollock",
+      "opponentSlug": "28290-joe-pollock",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:13:55.698Z"
+}

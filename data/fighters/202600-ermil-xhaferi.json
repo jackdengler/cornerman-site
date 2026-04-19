@@ -1,0 +1,143 @@
+{
+  "slug": "202600-ermil-xhaferi",
+  "name": "Ermil Xhaferi",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 2,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1999-11-30",
+  "nationality": "Albania",
+  "url": "https://www.tapology.com/fightcenter/fighters/202600-ermil-xhaferi",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Michael Blair",
+      "opponentSlug": "171433-michael-blair",
+      "result": null,
+      "method": "other",
+      "event": "Cage Warriors 205",
+      "eventSlug": "138938-cage-warriors-205",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-21T00:00:00.000Z",
+      "opponent": "Tariq Pell",
+      "opponentSlug": "133882-tariq-pell",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 186",
+      "eventSlug": "120831-cage-warriors-186",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2024-03-30T00:00:00.000Z",
+      "opponent": "Aaron Johnson",
+      "opponentSlug": "84761-aaron-johnson",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Warriors 169",
+      "eventSlug": "108292-cage-warriors-169",
+      "round": 1,
+      "timeInRound": "2:10"
+    },
+    {
+      "date": "2023-05-06T00:00:00.000Z",
+      "opponent": "Simone Patrizi",
+      "opponentSlug": "197863-simone-patrizi-the-white-shark",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 154",
+      "eventSlug": "98570-cage-warriors-154-rome",
+      "round": 3,
+      "timeInRound": "1:22"
+    },
+    {
+      "date": "2022-09-17T00:00:00.000Z",
+      "opponent": "Jordan Beljic",
+      "opponentSlug": "106847-jordan-beljic",
+      "result": "win",
+      "method": "other",
+      "event": "Super League MMA 4",
+      "eventSlug": "90451-super-league-mma-4",
+      "round": 2,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2022-04-02T00:00:00.000Z",
+      "opponent": "Löwa Mstoyan",
+      "opponentSlug": "222402-lowa-mstoyan",
+      "result": "win",
+      "method": "other",
+      "event": "National Fighting Championship 8 + Series",
+      "eventSlug": "88105-national-fighting-championship-8",
+      "round": 2,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2021-12-18T00:00:00.000Z",
+      "opponent": "Mahmut Özyildirim",
+      "opponentSlug": "170290-mahmud-zyldirim",
+      "result": "win",
+      "method": "other",
+      "event": "National Fighting Championship 7",
+      "eventSlug": "77064-national-fighting-championship-5-series-finale",
+      "round": 1,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2021-07-24T00:00:00.000Z",
+      "opponent": "Anastasios Chatzigeorgiadis",
+      "opponentSlug": "135139-anastasios-chatzigeorgiadis",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "NFC Series Preseason 2",
+      "eventSlug": "77057-nfc-series-preseason-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-19T00:00:00.000Z",
+      "opponent": "Fatih Aydin",
+      "opponentSlug": "112760-fatih-aydin",
+      "result": "win",
+      "method": "sub",
+      "event": "National Fighting Championship 2",
+      "eventSlug": "72721-national-fighting-championship-2",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-14T00:00:00.000Z",
+      "opponent": "Patrick Lehane",
+      "opponentSlug": "162104-patrick-lehane",
+      "result": "loss",
+      "method": "tko",
+      "event": "2018 IMMAF Junior World Championships",
+      "eventSlug": "56769-2018-immaf-junior-world-championships-day-3-cage-3",
+      "round": 2,
+      "timeInRound": "1:41"
+    },
+    {
+      "date": "2018-11-13T00:00:00.000Z",
+      "opponent": "Elmo Peltonen",
+      "opponentSlug": "151372-elmo-peltonen",
+      "result": "win",
+      "method": "sub",
+      "event": "2018 IMMAF Junior World Championships",
+      "eventSlug": "56609-2018-immaf-junior-world-championships-day-4-cage-4",
+      "round": 1,
+      "timeInRound": "1:02"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:05:40.423Z"
+}

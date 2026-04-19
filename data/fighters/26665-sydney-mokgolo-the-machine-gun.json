@@ -1,0 +1,121 @@
+{
+  "slug": "26665-sydney-mokgolo-the-machine-gun",
+  "name": "Sydney Mokgolo",
+  "nickname": "The Machine Gun",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "South Africa",
+  "url": "https://www.tapology.com/fightcenter/fighters/26665-sydney-mokgolo-the-machine-gun",
+  "recentFights": [
+    {
+      "date": "2016-06-17T00:00:00.000Z",
+      "opponent": "Niel Du Plessis",
+      "opponentSlug": "82832-neil-du-plessis",
+      "result": "loss",
+      "method": "sub",
+      "event": "EFC Worldwide 50",
+      "eventSlug": "39749-efc-worldwide-50",
+      "round": 1,
+      "timeInRound": "3:21"
+    },
+    {
+      "date": "2015-02-21T00:00:00.000Z",
+      "opponent": "Alain Ilunga",
+      "opponentSlug": "25944-alain-ilunga-commander",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "EFC Africa 37",
+      "eventSlug": "28156-efca",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-06T00:00:00.000Z",
+      "opponent": "Chad Hepburn",
+      "opponentSlug": "17987-chad-hepburn",
+      "result": "win",
+      "method": "dec-split",
+      "event": "EFC Africa 35",
+      "eventSlug": "26035-efca-35-drotschie-vs-wessels",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-10-02T00:00:00.000Z",
+      "opponent": "Heinrich Potgieter",
+      "opponentSlug": "80453-heinrich-potgieter",
+      "result": "loss",
+      "method": "sub",
+      "event": "EFC Africa 34",
+      "eventSlug": "26034-efca-34-mynhardt-vs-madge-3",
+      "round": 2,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2013-06-15T00:00:00.000Z",
+      "opponent": "Themba Gorimbo",
+      "opponentSlug": "52251-themba-takura-gorimbo",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-04-07T00:00:00.000Z",
+      "opponent": "Cee Khubone",
+      "opponentSlug": "83838-sboh-ceeh-khuboni-croco-croco",
+      "result": "win",
+      "method": "other",
+      "event": "Rise of the Warrior 12",
+      "eventSlug": "27567-rise-of-the-warrior-xii",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-03-24T00:00:00.000Z",
+      "opponent": "David Buirski",
+      "opponentSlug": "28198-david-buirski",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Rise of the Warrior 11",
+      "eventSlug": "27568-rise-of-the-warrior-xi",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-12-03T00:00:00.000Z",
+      "opponent": "Paul Vosloo",
+      "opponentSlug": "22002-paul-vosloo",
+      "result": "win",
+      "method": "tko",
+      "event": "Rise of the Warrior 10",
+      "eventSlug": "27571-rise-of-the-warrior-x",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-12-05T00:00:00.000Z",
+      "opponent": "Terrence Griessel",
+      "opponentSlug": "17918-terrence-grissel-trigger",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:55:05.826Z"
+}

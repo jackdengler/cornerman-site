@@ -1,0 +1,187 @@
+{
+  "slug": "50425-andrew-davis",
+  "name": "Drew Davis",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 173,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1988-08-07",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/50425-andrew-davis",
+  "recentFights": [
+    {
+      "date": "2023-10-13T00:00:00.000Z",
+      "opponent": "Caleb Basma",
+      "opponentSlug": "291250-caleb-basma",
+      "result": "loss",
+      "method": "sub",
+      "event": "Xtreme Fight Night 389",
+      "eventSlug": "105898-xtreme-fight-night-389",
+      "round": 3,
+      "timeInRound": "3:18"
+    },
+    {
+      "date": "2021-10-29T00:00:00.000Z",
+      "opponent": "Logan Speyrer",
+      "opponentSlug": "181461-logan-speyrer",
+      "result": "win",
+      "method": "dec-split",
+      "event": "AKA 18",
+      "eventSlug": "83851-aka-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-02-27T00:00:00.000Z",
+      "opponent": "Josh Walker",
+      "opponentSlug": "135949-josh-walker",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Peak Fighting 8",
+      "eventSlug": "76713-peak-fighting-8-winter-storm",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-05T00:00:00.000Z",
+      "opponent": "John Yannis",
+      "opponentSlug": "151617-john-yannies",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Peak Fighting 3",
+      "eventSlug": "61986-pf3-showdown-after-sundown-pf3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-20T00:00:00.000Z",
+      "opponent": "Robin Stiles",
+      "opponentSlug": "190524-robin-stiles",
+      "result": "win",
+      "method": "sub",
+      "event": "Peak Fighting 2",
+      "eventSlug": "59065-peak-fighting-2-rise",
+      "round": 3,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2019-04-06T00:00:00.000Z",
+      "opponent": "Cameron Chambers",
+      "opponentSlug": "94175-cameron-chambers",
+      "result": "win",
+      "method": "tko",
+      "event": "Atlas Fights 34",
+      "eventSlug": "58247-atlas-fights-34",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-27T00:00:00.000Z",
+      "opponent": "Edgardo Guzman",
+      "opponentSlug": "164942-edgardo-guzman",
+      "result": "win",
+      "method": "sub",
+      "event": "Rite of Passage 5",
+      "eventSlug": "55267-rite-of-passage-5",
+      "round": 2,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2018-09-15T00:00:00.000Z",
+      "opponent": "Trevor Harvey",
+      "opponentSlug": "128893-trevor-harvey",
+      "result": "win",
+      "method": "sub",
+      "event": "360 Fight Club 8",
+      "eventSlug": "54952-360-fight-club-8",
+      "round": 1,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2018-07-27T00:00:00.000Z",
+      "opponent": "John Jackson",
+      "opponentSlug": "176181-john-jackson",
+      "result": "win",
+      "method": "sub",
+      "event": "Rite of Passage 4",
+      "eventSlug": "53835-rite-of-passage-4",
+      "round": 1,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2018-06-23T00:00:00.000Z",
+      "opponent": "Jesse Rogers",
+      "opponentSlug": "145334-jesse-rogers",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "A Dragon's Tale 5",
+      "eventSlug": "52234-a-dragon-s-tale-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-16T00:00:00.000Z",
+      "opponent": "Dillon Fraley",
+      "opponentSlug": "136369-dylan-fraley",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Rite of Passage 3",
+      "eventSlug": "50057-rite-of-passage-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-18T00:00:00.000Z",
+      "opponent": "Jake Foster",
+      "opponentSlug": "150192-jake-foster",
+      "result": "win",
+      "method": "sub",
+      "event": "Rite of Passage 1",
+      "eventSlug": "47699-rite-of-passage-1",
+      "round": 1,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2015-12-12T00:00:00.000Z",
+      "opponent": "Jonathan Carroll",
+      "opponentSlug": "91657-jonathan-carroll",
+      "result": "win",
+      "method": "sub",
+      "event": "Ascend Combat",
+      "eventSlug": "37152-ascend-combat-seasons-beatings-7",
+      "round": 1,
+      "timeInRound": "0:57"
+    },
+    {
+      "date": "2015-11-07T00:00:00.000Z",
+      "opponent": "Chase Johnson",
+      "opponentSlug": "42570-chase-johnson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XKO Amateur Series 1",
+      "eventSlug": "35839-xko-amateur-series-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-01T00:00:00.000Z",
+      "opponent": "Emmanuel Caporaly",
+      "opponentSlug": "109103-emmanuel-caporaly",
+      "result": "win",
+      "method": "sub",
+      "event": "Ascend Combat",
+      "eventSlug": "34242-ascend-combat-chaos-5",
+      "round": 1,
+      "timeInRound": "1:06"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:05:41.580Z"
+}

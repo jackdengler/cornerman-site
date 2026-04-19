@@ -1,0 +1,48 @@
+{
+  "slug": "179496-timothy-barber",
+  "name": "Timothy Barber",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1998-02-23",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/179496-timothy-barber",
+  "recentFights": [
+    {
+      "date": "2019-03-23T00:00:00.000Z",
+      "opponent": "Devon Lozej",
+      "opponentSlug": "205775-devon-lozej",
+      "result": "loss",
+      "method": "other",
+      "event": "Warrior Games 5",
+      "eventSlug": "57278-warrior-games-5",
+      "round": 1,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2018-06-16T00:00:00.000Z",
+      "opponent": "Billy Gamble",
+      "opponentSlug": "174572-will-gamble",
+      "result": "loss",
+      "method": "other",
+      "event": "Inner Strength MMA 14",
+      "eventSlug": "53480-inner-strength-mma-14",
+      "round": 1,
+      "timeInRound": "2:23"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:36:27.733Z"
+}

@@ -1,0 +1,154 @@
+{
+  "slug": "188187-jan-masek",
+  "name": "Jan Mašek",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/188187-jan-masek",
+  "recentFights": [
+    {
+      "date": "2026-04-18T00:00:00.000Z",
+      "opponent": "Nacim Belhouachi",
+      "opponentSlug": "158538-nacim-belhaou",
+      "result": null,
+      "method": "other",
+      "event": "KSW 117: Pawlak vs. Khalidov",
+      "eventSlug": "140146-ksw-117-de-fries-vs-wojcik",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-18T00:00:00.000Z",
+      "opponent": "David Zoula",
+      "opponentSlug": "197449-david-zoula",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "KSW 111: De Fries vs. Vojčák",
+      "eventSlug": "124802-xtb-ksw-111",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-31T00:00:00.000Z",
+      "opponent": "Luca Borando",
+      "opponentSlug": "199263-luca-borando",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 189",
+      "eventSlug": "126277-cage-warriors-189",
+      "round": 2,
+      "timeInRound": "4:21"
+    },
+    {
+      "date": "2025-03-21T00:00:00.000Z",
+      "opponent": "Harry Shaw",
+      "opponentSlug": "190903-harry-shaw",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 186",
+      "eventSlug": "120831-cage-warriors-186",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-20T00:00:00.000Z",
+      "opponent": "Connor Patterson",
+      "opponentSlug": "319626-connor-patterson",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage Warriors 177",
+      "eventSlug": "114646-cage-warriors-177-unplugged",
+      "round": 3,
+      "timeInRound": "3:39"
+    },
+    {
+      "date": "2024-06-29T00:00:00.000Z",
+      "opponent": "Aleksandar Yankov",
+      "opponentSlug": "94197-alexander-yankov",
+      "result": "win",
+      "method": "sub",
+      "event": "Premier MMA 2",
+      "eventSlug": "111653-premier-mma-2-colosseum",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-21T00:00:00.000Z",
+      "opponent": "Masud Odinaev",
+      "opponentSlug": "322286-masud-odinaev",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "IMMAF",
+      "eventSlug": "105804-2023-immaf-world-championships-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-21T00:00:00.000Z",
+      "opponent": "Viktor Mangs",
+      "opponentSlug": "387005-viktor-mangs",
+      "result": "win",
+      "method": "sub",
+      "event": "IMMAF",
+      "eventSlug": "105804-2023-immaf-world-championships-day-2",
+      "round": 1,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2023-04-16T00:00:00.000Z",
+      "opponent": "Craig Croly",
+      "opponentSlug": "326633-craig-croly",
+      "result": "win",
+      "method": "sub",
+      "event": "Premier FC 6",
+      "eventSlug": "100386-premier-fc-6",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-13T00:00:00.000Z",
+      "opponent": "Husenjon Isomiddinov",
+      "opponentSlug": "360177-husenjon-isomiddinov",
+      "result": "loss",
+      "method": "tko",
+      "event": "2022 IMMAF World Championships",
+      "eventSlug": "97166-2022-immaf-world-championships-day-2",
+      "round": 3,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2022-11-12T00:00:00.000Z",
+      "opponent": "Ngoc Hoang Do",
+      "opponentSlug": "316072-ngoc-hoang-do",
+      "result": "win",
+      "method": "sub",
+      "event": "Český svaz: Liga MMA 2022",
+      "eventSlug": "95239-liga-mma-2022",
+      "round": 2,
+      "timeInRound": "0:24"
+    },
+    {
+      "date": "2022-11-12T00:00:00.000Z",
+      "opponent": "Matteo Pietrella",
+      "opponentSlug": "361893-matteo-pietrella",
+      "result": "win",
+      "method": "sub",
+      "event": "Český svaz: Liga MMA 2022",
+      "eventSlug": "95239-liga-mma-2022",
+      "round": 2,
+      "timeInRound": "1:46"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:03:34.005Z"
+}

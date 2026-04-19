@@ -1,0 +1,143 @@
+{
+  "slug": "189829-stewart-nicoll",
+  "name": "Stewart Nicoll",
+  "nickname": "Kakamora",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": 166,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1994-11-03",
+  "nationality": "Redcliffe, Queensland, Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/189829-stewart-nicoll",
+  "recentFights": [
+    {
+      "date": "2026-04-04T00:00:00.000Z",
+      "opponent": "Alessandro Costa",
+      "opponentSlug": "125815-alessandro-costa",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "138212-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "4:56"
+    },
+    {
+      "date": "2025-10-11T00:00:00.000Z",
+      "opponent": "Lucas Rocha",
+      "opponentSlug": "192343-lucas-rocha-fenomeno",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "130995-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-08-17T00:00:00.000Z",
+      "opponent": "Jesus Aguilar",
+      "opponentSlug": "108511-jesus-aguilar",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC 305: Du Plessis vs. Adesanya",
+      "eventSlug": "111885-ufc-305",
+      "round": 1,
+      "timeInRound": "2:39"
+    },
+    {
+      "date": "2024-03-09T00:00:00.000Z",
+      "opponent": "Issei Kitano",
+      "opponentSlug": "218738-kazuo-kitano",
+      "result": "win",
+      "method": "tko",
+      "event": "Beatdown Promotions 6",
+      "eventSlug": "107332-beatdown-promotions-6",
+      "round": 1,
+      "timeInRound": "4:45"
+    },
+    {
+      "date": "2023-09-16T00:00:00.000Z",
+      "opponent": "Dansheel Moodley",
+      "opponentSlug": "89146-dansheel-moodley",
+      "result": "win",
+      "method": "other",
+      "event": "Beatdown Promotions 5",
+      "eventSlug": "102566-beatdown-promotions-5-harding-vs-edenden",
+      "round": 1,
+      "timeInRound": "4:24"
+    },
+    {
+      "date": "2023-03-04T00:00:00.000Z",
+      "opponent": "Scott Eclavea",
+      "opponentSlug": "70654",
+      "result": "win",
+      "method": "other",
+      "event": "Beatdown Promotions 3",
+      "eventSlug": "94613-beatdown-promotions-3",
+      "round": 2,
+      "timeInRound": "4:44"
+    },
+    {
+      "date": "2022-10-15T00:00:00.000Z",
+      "opponent": "Peter Benavente",
+      "opponentSlug": "138504-peter-benevente",
+      "result": "win",
+      "method": "other",
+      "event": "Beatdown Promotions 2",
+      "eventSlug": "91760-beatdown-promotions-2",
+      "round": 1,
+      "timeInRound": "3:59"
+    },
+    {
+      "date": "2021-03-13T00:00:00.000Z",
+      "opponent": "Jamie Renouf",
+      "opponentSlug": "114891-jamie-renouf",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XFC 47",
+      "eventSlug": "75163-xfc-47",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-09T00:00:00.000Z",
+      "opponent": "Mitchell Birkett",
+      "opponentSlug": "131495-mitchell-birkett",
+      "result": "win",
+      "method": "sub",
+      "event": "XFC 43",
+      "eventSlug": "56684-xfc-42",
+      "round": 1,
+      "timeInRound": "1:18"
+    },
+    {
+      "date": "2019-06-14T00:00:00.000Z",
+      "opponent": "Ryan Robertson",
+      "opponentSlug": "107723-ryan-robertson",
+      "result": "win",
+      "method": "sub",
+      "event": "Beast Championship 1",
+      "eventSlug": "59009-gladstone-fight-night-1",
+      "round": 3,
+      "timeInRound": "1:06"
+    },
+    {
+      "date": "2018-06-16T00:00:00.000Z",
+      "opponent": "Darren Habben",
+      "opponentSlug": "67822-darren-habben",
+      "result": "win",
+      "method": "sub",
+      "event": "ACB 88: Brisbane",
+      "eventSlug": "52786-acb-88-silva-vs-camozzi",
+      "round": 1,
+      "timeInRound": "4:29"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:55:57.289Z"
+}

@@ -1,0 +1,209 @@
+{
+  "slug": "76087-todd-monroe",
+  "name": "Todd Monroe",
+  "nickname": "The Matrix",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 3,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1984-09-15",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/76087-todd-monroe",
+  "recentFights": [
+    {
+      "date": "2019-01-19T00:00:00.000Z",
+      "opponent": "David Baxter",
+      "opponentSlug": "24573-david-baxter",
+      "result": "draw",
+      "method": "dec-majority",
+      "event": "CES 54: Andrews vs. Logan",
+      "eventSlug": "57139-ces-54",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-30T00:00:00.000Z",
+      "opponent": "Cody Durden",
+      "opponentSlug": "68337-cody-durden",
+      "result": "loss",
+      "method": "sub",
+      "event": "864 Fighting Championship",
+      "eventSlug": "56427-864-fighting-championship-fight-9",
+      "round": 3,
+      "timeInRound": "4:56"
+    },
+    {
+      "date": "2018-07-21T00:00:00.000Z",
+      "opponent": "Cody Durden",
+      "opponentSlug": "68337-cody-durden",
+      "result": "loss",
+      "method": "other",
+      "event": "864 Fighting Championship",
+      "eventSlug": "54255-864-fighting-championship-fight-5",
+      "round": 1,
+      "timeInRound": "3:15"
+    },
+    {
+      "date": "2018-05-12T00:00:00.000Z",
+      "opponent": "Joe Pimentel",
+      "opponentSlug": "68781-joe-pimentel",
+      "result": "win",
+      "method": "tko",
+      "event": "KOTC: No Retreat",
+      "eventSlug": "51763-kotc-no-retreat",
+      "round": 3,
+      "timeInRound": "3:14"
+    },
+    {
+      "date": "2017-08-26T00:00:00.000Z",
+      "opponent": "Brandon Grimmett",
+      "opponentSlug": "35949-brandon-grimmett",
+      "result": "win",
+      "method": "other",
+      "event": "Battle in the South 15",
+      "eventSlug": "47662-battle-in-the-south-15-fall-protocol",
+      "round": 1,
+      "timeInRound": "3:37"
+    },
+    {
+      "date": "2017-04-21T00:00:00.000Z",
+      "opponent": "Guadalupe Ruiz",
+      "opponentSlug": "56922-guadalupe-ruiz",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Battle in the South 14",
+      "eventSlug": "44020-battle-in-the-south-14-king-of-spring",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-03T00:00:00.000Z",
+      "opponent": "Gonzalo Ponce",
+      "opponentSlug": "68292-gonzalo-ponce",
+      "result": "loss",
+      "method": "sub",
+      "event": "KOTC: Hazard Pay",
+      "eventSlug": "42455-kotc",
+      "round": 2,
+      "timeInRound": "0:32"
+    },
+    {
+      "date": "2015-10-10T00:00:00.000Z",
+      "opponent": "Phillip Adams",
+      "opponentSlug": "43306-phillip-adams",
+      "result": "win",
+      "method": "other",
+      "event": "Elite Warrior Challenge 8",
+      "eventSlug": "35792-elite-warrior-challenge-8-cage-of-rage",
+      "round": 2,
+      "timeInRound": "4:36"
+    },
+    {
+      "date": "2015-08-01T00:00:00.000Z",
+      "opponent": "Guadalupe Ruiz",
+      "opponentSlug": "56922-guadalupe-ruiz",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Battle in the South 11",
+      "eventSlug": "32685-battle-in-the-south-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-04-10T00:00:00.000Z",
+      "opponent": "Guadalupe Ruiz",
+      "opponentSlug": "56922-guadalupe-ruiz",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Battle in the South 10",
+      "eventSlug": "29072-battle-in-the-south-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-01-31T00:00:00.000Z",
+      "opponent": "Mason Hamer",
+      "opponentSlug": "97647-mason-hamer",
+      "result": "win",
+      "method": "other",
+      "event": "Elite Warrior Challenge 5",
+      "eventSlug": "30376-elite-warrior-challenge-5",
+      "round": 1,
+      "timeInRound": "0:32"
+    },
+    {
+      "date": "2014-11-15T00:00:00.000Z",
+      "opponent": "Brian Dawson",
+      "opponentSlug": "38943-brian-dawson",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Elite Warrior Challenge 4",
+      "eventSlug": "31662-elite-warrior-challenge-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-08-30T00:00:00.000Z",
+      "opponent": "Israel Mendoza",
+      "opponentSlug": "64580-israel-mendoza-the-anvil",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-12-13T00:00:00.000Z",
+      "opponent": "Tyson Kellerman",
+      "opponentSlug": "64784-tyson-kellerman",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Revolution Fight Series 6",
+      "eventSlug": "28649-revolution-fight-series-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-09-21T00:00:00.000Z",
+      "opponent": "Donaven McCoy",
+      "opponentSlug": "66940-donaven-mccoy",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-07-13T00:00:00.000Z",
+      "opponent": "Joey Cox",
+      "opponentSlug": "97653-joey-cox",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-09-15T00:00:00.000Z",
+      "opponent": "Dannel Thomas",
+      "opponentSlug": "32073-dannel-thomas",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Virginia Cage Fighting Championships",
+      "eventSlug": "31606-virginia-cage-fighting-championships-danville-demolition-2",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-19T19:10:17.846Z"
+}

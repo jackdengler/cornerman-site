@@ -1,0 +1,59 @@
+{
+  "slug": "108124-jake-newton",
+  "name": "Jake Newton",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/108124-jake-newton",
+  "recentFights": [
+    {
+      "date": "2018-12-08T00:00:00.000Z",
+      "opponent": "Cody Haddon",
+      "opponentSlug": "187868-cody-haddon",
+      "result": "loss",
+      "method": "sub",
+      "event": "Eternal MMA 40",
+      "eventSlug": "56405-eternal-mma-40",
+      "round": 1,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2016-07-09T00:00:00.000Z",
+      "opponent": "Steve Erceg",
+      "opponentSlug": "132326-stephen-erceg",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 18",
+      "eventSlug": "39886-eternal-mma-18",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2015-07-25T00:00:00.000Z",
+      "opponent": "Cody Fitzgerald",
+      "opponentSlug": "108125-cody-fitzgerald",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Eternal MMA 11",
+      "eventSlug": "31969-eternal-mma-11",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:14:17.675Z"
+}

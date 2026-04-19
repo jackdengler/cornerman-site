@@ -1,0 +1,33 @@
+{
+  "slug": "209725-sokratis-papadopoulos",
+  "name": "Sokratis Papadopoulos",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Greece",
+  "url": "https://www.tapology.com/fightcenter/fighters/209725-sokratis-papadopoulos",
+  "recentFights": [
+    {
+      "date": "2014-05-10T00:00:00.000Z",
+      "opponent": "Gokhan Saricam",
+      "opponentSlug": "203358-gokhan-saricam",
+      "result": "loss",
+      "method": "other",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:00:03.577Z"
+}

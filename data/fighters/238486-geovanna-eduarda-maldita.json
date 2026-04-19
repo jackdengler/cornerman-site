@@ -1,0 +1,110 @@
+{
+  "slug": "238486-geovanna-eduarda-maldita",
+  "name": "Geovanna Eduarda",
+  "nickname": "Maldita",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 163,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "2001-01-26",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/238486-geovanna-eduarda-maldita",
+  "recentFights": [
+    {
+      "date": "2024-12-06T00:00:00.000Z",
+      "opponent": "Tatiana Postarnakova",
+      "opponentSlug": "236472-tatiana-postarnakova",
+      "result": "loss",
+      "method": "sub",
+      "event": "Nashe Delo 86",
+      "eventSlug": "119795-nashe-delo-86-nemkov-vs-ibragimov",
+      "round": 1,
+      "timeInRound": "4:15"
+    },
+    {
+      "date": "2024-03-09T00:00:00.000Z",
+      "opponent": "Maria Egorova",
+      "opponentSlug": "417487-maria-egorova",
+      "result": "win",
+      "method": "other",
+      "event": "MMA Series 77",
+      "eventSlug": "110607-mma-series-77",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2023-10-07T00:00:00.000Z",
+      "opponent": "Mukhlisa Eshboeva",
+      "opponentSlug": "402658-mukhlisa-eshboeva",
+      "result": "win",
+      "method": "sub",
+      "event": "MMA Series 73",
+      "eventSlug": "105408-mma-series-73-andryushko-klyuev",
+      "round": 1,
+      "timeInRound": "3:35"
+    },
+    {
+      "date": "2022-11-27T00:00:00.000Z",
+      "opponent": "Cintia Natiely",
+      "opponentSlug": "275212-cintia-natiely",
+      "result": "win",
+      "method": "tko",
+      "event": "Federação Fight 14",
+      "eventSlug": "94902-federacao-fight-14",
+      "round": 2,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2022-07-31T00:00:00.000Z",
+      "opponent": "Aline Mendes",
+      "opponentSlug": "286623-aline-mendes",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Thunder Fight 37",
+      "eventSlug": "91104-thunder-fight-37",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-07T00:00:00.000Z",
+      "opponent": "Jaqueline Ferreira",
+      "opponentSlug": "129401-jaqueline-ferreira-jack-3d",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Corumbá Fight Combat 7",
+      "eventSlug": "64750-corumba-fight-combat-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-26T00:00:00.000Z",
+      "opponent": "Karine Silva",
+      "opponentSlug": "69225-karine-silva-killer",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-05T00:00:00.000Z",
+      "opponent": "Ana Carolina Avanzi",
+      "opponentSlug": "238487-ana-carolina-avanzi",
+      "result": "win",
+      "method": "other",
+      "event": "Bonito Eco Fight 4",
+      "eventSlug": "63148-bonito-eco-fight-4",
+      "round": 1,
+      "timeInRound": "3:53"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:10:31.423Z"
+}

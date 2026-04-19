@@ -1,0 +1,142 @@
+{
+  "slug": "61637-david-russell",
+  "name": "David Martinez",
+  "nickname": "The Smiling Assassin",
+  "aliases": [],
+  "recordPro": {
+    "wins": 17,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 176,
+  "reachCm": 181,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1993-08-21",
+  "nationality": "Darwin, Northern Territory, Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/61637-david-russell",
+  "recentFights": [
+    {
+      "date": "2026-04-16T00:00:00.000Z",
+      "opponent": "Giannis Bachar",
+      "opponentSlug": "123989-giannis-basar",
+      "result": "win",
+      "method": "sub",
+      "event": "PFL Belfast",
+      "round": 2,
+      "timeInRound": "0:53"
+    },
+    {
+      "date": "2025-09-13T00:00:00.000Z",
+      "opponent": "Matt Vaile",
+      "opponentSlug": "118454-matt-vaile",
+      "result": "win",
+      "method": "tko",
+      "event": "Eternal MMA 98",
+      "round": 5,
+      "timeInRound": "4:37"
+    },
+    {
+      "date": "2025-02-08T00:00:00.000Z",
+      "opponent": "Stephen Costello",
+      "opponentSlug": "166041-stephen-costello",
+      "result": "win",
+      "method": "sub",
+      "event": "Eternal MMA 92",
+      "round": 3,
+      "timeInRound": "3:45"
+    },
+    {
+      "date": "2024-11-29T00:00:00.000Z",
+      "opponent": "Brentin Mumford",
+      "opponentSlug": "25422-brentin-mumford",
+      "result": "win",
+      "method": "sub",
+      "event": "Eternal MMA 90",
+      "round": 1,
+      "timeInRound": "2:53"
+    },
+    {
+      "date": "2024-09-14T00:00:00.000Z",
+      "opponent": "Luke Dally",
+      "opponentSlug": "200810-luke-dally",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 88",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-08T00:00:00.000Z",
+      "opponent": "Wes Capper",
+      "opponentSlug": "224889-wes-capper",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 85",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-25T00:00:00.000Z",
+      "opponent": "Murad Guseinov",
+      "opponentSlug": "201323-murad-guseinov",
+      "result": "loss",
+      "method": "other",
+      "event": "BRAVE CF 76",
+      "round": 1,
+      "timeInRound": "3:41"
+    },
+    {
+      "date": "2023-09-08T00:00:00.000Z",
+      "opponent": "Jack Becker",
+      "opponentSlug": "25785-jack-becker",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Eternal MMA 78",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-01T00:00:00.000Z",
+      "opponent": "Kieran Joblin",
+      "opponentSlug": "45264-kieran-joblin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 77",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-18T00:00:00.000Z",
+      "opponent": "Blake Donnelly",
+      "opponentSlug": "63105-blake-donnelly",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 74",
+      "round": 3,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2022-09-16T00:00:00.000Z",
+      "opponent": "Aidan Aguilera",
+      "opponentSlug": "83918-aidan-aguilera",
+      "result": "win",
+      "method": "sub",
+      "event": "Eternal MMA 69",
+      "round": 2,
+      "timeInRound": "1:46"
+    },
+    {
+      "date": "2022-05-07T00:00:00.000Z",
+      "opponent": "Tim Schultz",
+      "opponentSlug": "140168-tim-schultz",
+      "result": "win",
+      "method": "sub",
+      "event": "Eternal MMA 65",
+      "round": 2,
+      "timeInRound": "2:58"
+    }
+  ],
+  "lastVerified": "2026-04-16T23:59:20.015Z"
+}

@@ -1,0 +1,209 @@
+{
+  "slug": "65816-james-duckett",
+  "name": "James Duckett",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "England",
+  "url": "https://www.tapology.com/fightcenter/fighters/65816-james-duckett",
+  "recentFights": [
+    {
+      "date": "2017-10-28T00:00:00.000Z",
+      "opponent": "Jack Della Maddalena",
+      "opponentSlug": "119831-jack-della-maddalena",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage Warriors 88",
+      "eventSlug": "46150-cage-warriors-88",
+      "round": 2,
+      "timeInRound": "3:44"
+    },
+    {
+      "date": "2017-02-11T00:00:00.000Z",
+      "opponent": "Daniel Cassell",
+      "opponentSlug": "75999-daniel-cassell",
+      "result": "win",
+      "method": "other",
+      "event": "Tankō FC 3",
+      "eventSlug": "43551-tank-fighting-championships-3",
+      "round": 1,
+      "timeInRound": "1:59"
+    },
+    {
+      "date": "2016-10-22T00:00:00.000Z",
+      "opponent": "Ant Davies",
+      "opponentSlug": "33649-ant-davies",
+      "result": "win",
+      "method": "other",
+      "event": "UK Fighting Championships 2",
+      "eventSlug": "40542-uk-fighting-championships-2",
+      "round": 2,
+      "timeInRound": "0:11"
+    },
+    {
+      "date": "2016-08-13T00:00:00.000Z",
+      "opponent": "Danny Nash",
+      "opponentSlug": "94777-danny-nash",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Tankō FC 1",
+      "eventSlug": "41058-tank-fighting-championships-2016",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-02-20T00:00:00.000Z",
+      "opponent": "Ole Magnor",
+      "opponentSlug": "36505-ole-magnor",
+      "result": "loss",
+      "method": "sub",
+      "event": "ICE FC 11",
+      "eventSlug": "37443-ice-fc-11",
+      "round": 1,
+      "timeInRound": "4:05"
+    },
+    {
+      "date": "2015-11-21T00:00:00.000Z",
+      "opponent": "Rostem Akman",
+      "opponentSlug": "78402-rostem-akman",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "2015 IMMAF European Open Championships",
+      "eventSlug": "35766-2015-immaf-european-open-championships-day-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-20T00:00:00.000Z",
+      "opponent": "Adrian Jahre",
+      "opponentSlug": "119910-adrian-jahre",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "2015 IMMAF European Open Championships",
+      "eventSlug": "35765-2015-immaf-european-open-championships-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-07-11T00:00:00.000Z",
+      "opponent": "Brendan Allen",
+      "opponentSlug": "91516-brendan-allen",
+      "result": "loss",
+      "method": "sub",
+      "event": "IMMAF 2015 World Championships",
+      "eventSlug": "34019-immaf-2015-world-championships-day-5-finals",
+      "round": 1,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2015-07-09T00:00:00.000Z",
+      "opponent": "Juho Laitinen",
+      "opponentSlug": "65730-juho-laitinen",
+      "result": "win",
+      "method": "sub",
+      "event": "IMMAF 2015 World Championships",
+      "eventSlug": "34011-immaf-2015-world-championships-day-4-cage-a",
+      "round": 1,
+      "timeInRound": "2:28"
+    },
+    {
+      "date": "2015-07-07T00:00:00.000Z",
+      "opponent": "Kiefer Crosbie",
+      "opponentSlug": "69153-kiefer-crosbie",
+      "result": "win",
+      "method": "other",
+      "event": "IMMAF 2015 World Championships",
+      "eventSlug": "33964-immaf-2015-world-championships-day-2-cage-1",
+      "round": 1,
+      "timeInRound": "1:40"
+    },
+    {
+      "date": "2015-07-06T00:00:00.000Z",
+      "opponent": "Asterio Lucchesini",
+      "opponentSlug": "75030-asterio-lucchesini",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMMAF 2015 World Championships",
+      "eventSlug": "30095-immaf-2015-world-championships",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-04-11T00:00:00.000Z",
+      "opponent": "Josh Stacey McManus",
+      "opponentSlug": "43567-josh-mcmanus",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FightStar Championship 5",
+      "eventSlug": "31774-fightstar-championship-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-09-20T00:00:00.000Z",
+      "opponent": "Tomasz Wojtyna",
+      "opponentSlug": "80410-tomaz-wojtyna",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shinobi War 3",
+      "eventSlug": "25792-shinobi-war-3-divide-and-conquer",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-05-10T00:00:00.000Z",
+      "opponent": "Jai Herbert",
+      "opponentSlug": "70002-jai-herbert",
+      "result": "loss",
+      "method": "sub",
+      "event": "FightStar Championship 3",
+      "eventSlug": "24001-fightstar-championship-3",
+      "round": 2,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2014-03-22T00:00:00.000Z",
+      "opponent": "Andreas Tricomitis",
+      "opponentSlug": "65815-andreas-tricomitis",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Full Contact Contender 9",
+      "eventSlug": "23355-full-contact-contender-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-02-15T00:00:00.000Z",
+      "opponent": "Josh Layton",
+      "opponentSlug": "23771-josh-layton",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-11-16T00:00:00.000Z",
+      "opponent": "Deon Brunning",
+      "opponentSlug": "34349-dean-brunning",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:09:23.991Z"
+}

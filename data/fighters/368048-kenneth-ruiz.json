@@ -1,0 +1,48 @@
+{
+  "slug": "368048-kenneth-ruiz",
+  "name": "Kenneth Ruiz",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 178,
+  "reachCm": 183,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1994-07-28",
+  "nationality": "Tulsa, Oklahoma",
+  "url": "https://www.tapology.com/fightcenter/fighters/368048-kenneth-ruiz",
+  "recentFights": [
+    {
+      "date": "2023-03-11T00:00:00.000Z",
+      "opponent": "Matthew Routzen",
+      "opponentSlug": "363456-matthew-routzen",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "FightWorld 28",
+      "eventSlug": "99003-fightworld-28",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-01-28T00:00:00.000Z",
+      "opponent": "Sam Bailey",
+      "opponentSlug": "365733-sam-bailey",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MCFC 1",
+      "eventSlug": "93591-mcfc-1",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T09:06:01.224Z"
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "151862-johnpaul-robinson",
+  "name": "JohnPaul Robinson",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1996-05-04",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/151862-johnpaul-robinson",
+  "recentFights": [
+    {
+      "date": "2019-08-09T00:00:00.000Z",
+      "opponent": "Derrick Brown",
+      "opponentSlug": "53652-derrick-brown",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "WFF 41",
+      "eventSlug": "61412-wff-41",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-06T00:00:00.000Z",
+      "opponent": "Sung Kim",
+      "opponentSlug": "178007-sung-kim",
+      "result": "win",
+      "method": "other",
+      "event": "RUF MMA 29",
+      "eventSlug": "54858-ruf-mma-29",
+      "round": 1,
+      "timeInRound": "0:28"
+    },
+    {
+      "date": "2017-11-04T00:00:00.000Z",
+      "opponent": "Quintin Shadle",
+      "opponentSlug": "170526-quintin-shadle",
+      "result": "win",
+      "method": "tko",
+      "event": "WFF 36",
+      "eventSlug": "48913-wff-36",
+      "round": 1,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2017-09-23T00:00:00.000Z",
+      "opponent": "JT Vasquez",
+      "opponentSlug": "161576-jt-vasquez",
+      "result": "win",
+      "method": "tko",
+      "event": "RUF MMA 22",
+      "eventSlug": "47802-ruf-mma-22",
+      "round": 1,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2017-08-19T00:00:00.000Z",
+      "opponent": "David Canuas",
+      "opponentSlug": "164221-david-canuas",
+      "result": "loss",
+      "method": "tko",
+      "event": "WFF 35",
+      "eventSlug": "47012-wff-35",
+      "round": 3,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2017-03-10T00:00:00.000Z",
+      "opponent": "Cedric Katambwa",
+      "opponentSlug": "151861-cedric-katambwa",
+      "result": "loss",
+      "method": "tko",
+      "event": "Iron Boy MMA 5",
+      "eventSlug": "44652-iron-boy-mma-5",
+      "round": 2,
+      "timeInRound": "2:23"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:42:26.658Z"
+}

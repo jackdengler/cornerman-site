@@ -1,0 +1,37 @@
+{
+  "slug": "507360-hannah-gladden",
+  "name": "Hannah Gladden",
+  "nickname": "The Menace",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 0,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1996-08-13",
+  "nationality": "Gadsden",
+  "url": "https://www.tapology.com/fightcenter/fighters/507360-hannah-gladden",
+  "recentFights": [
+    {
+      "date": "2025-07-12T00:00:00.000Z",
+      "opponent": "Kayara Hartfield",
+      "opponentSlug": "499516-kayara-hartfield",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Blue Collar Fight Club",
+      "eventSlug": "128499-clash-at-the-coosa",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T09:06:47.784Z"
+}

@@ -1,0 +1,154 @@
+{
+  "slug": "150374-ryan-dennis",
+  "name": "Ryan Dennis",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "England",
+  "url": "https://www.tapology.com/fightcenter/fighters/150374-ryan-dennis",
+  "recentFights": [
+    {
+      "date": "2026-02-21T00:00:00.000Z",
+      "opponent": "Kane Rickus",
+      "opponentSlug": "195058-kane-rickus",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 103",
+      "eventSlug": "138397-eternal-mma-103",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-06-28T00:00:00.000Z",
+      "opponent": "Jesse Swain",
+      "opponentSlug": "329205-jesse-swain",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 97",
+      "eventSlug": "125815-eternal-mma-97",
+      "round": 1,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2024-07-27T00:00:00.000Z",
+      "opponent": "Marwan Rahiki",
+      "opponentSlug": "388487-marwan-rahiki",
+      "result": "loss",
+      "method": "other",
+      "event": "Superfight MMA 22",
+      "eventSlug": "115077-superfight-mma-22",
+      "round": 1,
+      "timeInRound": "4:31"
+    },
+    {
+      "date": "2022-05-14T00:00:00.000Z",
+      "opponent": "Stefano Catacoli",
+      "opponentSlug": "128795-stefano-catacoli",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Road to Contenders 5",
+      "eventSlug": "87343-road-to-contenders-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-24T00:00:00.000Z",
+      "opponent": "Baruc Martin",
+      "opponentSlug": "196349-baruc-martin",
+      "result": "win",
+      "method": "tko",
+      "event": "Contenders Norwich 25",
+      "eventSlug": "51106-contenders-norwich-25",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-28T00:00:00.000Z",
+      "opponent": "Yohan Salvador",
+      "opponentSlug": "158532-yohan-salvador",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Contenders Norwich 23",
+      "eventSlug": "51104-contenders-norwich-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-29T00:00:00.000Z",
+      "opponent": "Sergio Junior",
+      "opponentSlug": "150377-sergio-junior",
+      "result": "win",
+      "method": "other",
+      "event": "Impact Fight UK 10",
+      "eventSlug": "45213-impact-fight-uk-10",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-02-25T00:00:00.000Z",
+      "opponent": "Luke Santarelli",
+      "opponentSlug": "126903-luke-sebastian-santarelli",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Contenders Norwich 18",
+      "eventSlug": "43549-contenders-norwich-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-28T00:00:00.000Z",
+      "opponent": "Ivo Furtado",
+      "opponentSlug": "62777-ivo-furtado",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-01T00:00:00.000Z",
+      "opponent": "Wez Jamus",
+      "opponentSlug": "31140-wez-jamus",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-04-04T00:00:00.000Z",
+      "opponent": "Chris Hayes",
+      "opponentSlug": "81577-chris-hayes",
+      "result": "win",
+      "method": "other",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2014-11-22T00:00:00.000Z",
+      "opponent": "Curtis Driver",
+      "opponentSlug": "32499-curtis-driver",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Contenders Norwich 9",
+      "eventSlug": "33018-contenders-norwich-9",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:58:31.986Z"
+}

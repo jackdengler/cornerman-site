@@ -1,0 +1,143 @@
+{
+  "slug": "29107-goozie-hines",
+  "name": "Alvin Hines",
+  "nickname": "Goozie",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": 188,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1991-10-20",
+  "nationality": "Deer River, Minnesota, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/29107-goozie-hines",
+  "recentFights": [
+    {
+      "date": "2025-06-28T00:00:00.000Z",
+      "opponent": "Jhonata Diniz",
+      "opponentSlug": "198829-jhonata-diniz",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 317: Topuria vs. Oliveira",
+      "eventSlug": "124086-ufc-317",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-04-11T00:00:00.000Z",
+      "opponent": "Billy Ray Valdez",
+      "opponentSlug": "203994-billy-ray-valdez",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 206: Gennrich vs. Lebosnoyani",
+      "eventSlug": "124520-lfa-206",
+      "round": 3,
+      "timeInRound": "2:09"
+    },
+    {
+      "date": "2025-02-15T00:00:00.000Z",
+      "opponent": "Junior Hicks",
+      "opponentSlug": "70987-junior-hicks",
+      "result": "win",
+      "method": "sub",
+      "event": "Mecca 24",
+      "eventSlug": "118840-mecca-24",
+      "round": 1,
+      "timeInRound": "1:40"
+    },
+    {
+      "date": "2025-01-25T00:00:00.000Z",
+      "opponent": "Mark Currier",
+      "opponentSlug": "194538-mark-currier",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 200: Johns vs. Douglas",
+      "eventSlug": "120838-lfa-200",
+      "round": 1,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2024-09-20T00:00:00.000Z",
+      "opponent": "Taylor Escamilla",
+      "opponentSlug": "38441-taylor-escamilla",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 193: Bowers vs. Borisova",
+      "eventSlug": "115812-lfa-193",
+      "round": 2,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2024-04-05T00:00:00.000Z",
+      "opponent": "Justin Smith",
+      "opponentSlug": "265031-justin-smith",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 181: Siqueira vs. Hernandez",
+      "eventSlug": "110760-lfa-181",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-01-12T00:00:00.000Z",
+      "opponent": "Will Johnson",
+      "opponentSlug": "119152-will-johnson",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 174: Jones vs. Gennrich",
+      "eventSlug": "108251-lfa-174-jones-vs-gennrich",
+      "round": 2,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2023-01-21T00:00:00.000Z",
+      "opponent": "Phillip Latu",
+      "opponentSlug": "303053-phillip-latu",
+      "result": "win",
+      "method": "sub",
+      "event": "Captain's Fight Club 2",
+      "eventSlug": "96210-captain-s-fight-club-2",
+      "round": 2,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2022-10-22T00:00:00.000Z",
+      "opponent": "Shane Asplund",
+      "opponentSlug": "349534-shane-asplund",
+      "result": "win",
+      "method": "other",
+      "event": "Aftermath 1",
+      "eventSlug": "93166-cfx-aftermath",
+      "round": 1,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2022-05-06T00:00:00.000Z",
+      "opponent": "Derek Benoit",
+      "opponentSlug": "307039-derek-benoit",
+      "result": "win",
+      "method": "tko",
+      "event": "CES 68: Greene vs. Williams",
+      "eventSlug": "87778-ces-68",
+      "round": 1,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2011-08-13T00:00:00.000Z",
+      "opponent": "Kevin Campbell",
+      "opponentSlug": "90895-kevin-campbell",
+      "result": "win",
+      "method": "other",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "0:55"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:40:40.534Z"
+}

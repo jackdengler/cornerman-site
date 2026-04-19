@@ -1,0 +1,121 @@
+{
+  "slug": "18721-caleb-krull",
+  "name": "Caleb Krull",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/18721-caleb-krull",
+  "recentFights": [
+    {
+      "date": "2008-05-30T00:00:00.000Z",
+      "opponent": "David Gaston",
+      "opponentSlug": "3931-david-gaston",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-04-12T00:00:00.000Z",
+      "opponent": "Ted Worthington",
+      "opponentSlug": "2195-ted-worthington-red",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-02-23T00:00:00.000Z",
+      "opponent": "Gerald Meerschaert",
+      "opponentSlug": "6018-gerald-meerschaert-the-machine",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-06-16T00:00:00.000Z",
+      "opponent": "Jay Ellis",
+      "opponentSlug": "2586-jay-ellis",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-03-03T00:00:00.000Z",
+      "opponent": "Justin Roehning",
+      "opponentSlug": "161444-justin-roehning",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2006-05-06T00:00:00.000Z",
+      "opponent": "Nate Homme",
+      "opponentSlug": "7101-nate-homme",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2006-03-25T00:00:00.000Z",
+      "opponent": "Mike Lambrecht",
+      "opponentSlug": "2569-mike-lambrecht",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2006-03-25T00:00:00.000Z",
+      "opponent": "Andy Normington",
+      "opponentSlug": "2024-andy-normington",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2005-10-21T00:00:00.000Z",
+      "opponent": "Chris Lee",
+      "opponentSlug": "369827-chris-lee",
+      "result": "loss",
+      "method": "tko",
+      "event": "GCF: Colosseum Returns",
+      "eventSlug": "4544-gcf-colosseum-returns",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:16:14.428Z"
+}

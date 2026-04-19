@@ -1,0 +1,242 @@
+{
+  "slug": "16244-evan-chmieleski",
+  "name": "Evan Chmieleski",
+  "nickname": "Kid Peligroso",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 167,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1984-05-15",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/16244-evan-chmieleski",
+  "recentFights": [
+    {
+      "date": "2014-06-28T00:00:00.000Z",
+      "opponent": "Jay Haas",
+      "opponentSlug": "jay-haas",
+      "result": "loss",
+      "method": "other",
+      "event": "CFFC 37: Anyanwu vs. Bell",
+      "eventSlug": "24307-cffc-37",
+      "round": 1,
+      "timeInRound": "3:13"
+    },
+    {
+      "date": "2013-09-28T00:00:00.000Z",
+      "opponent": "Frank Buenafuente",
+      "opponentSlug": "25240-frank-buenafuente",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XCC: Retribution",
+      "eventSlug": "20170-xcc-retribution",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-04-12T00:00:00.000Z",
+      "opponent": "Amran Aliyev",
+      "opponentSlug": "29170-amron-alievy",
+      "result": "loss",
+      "method": "tko",
+      "event": "CFFC 23: Aung La N Sang vs Kyle Baker",
+      "eventSlug": "17929-cffc-23",
+      "round": 1,
+      "timeInRound": "3:21"
+    },
+    {
+      "date": "2012-11-17T00:00:00.000Z",
+      "opponent": "Justin Dalton",
+      "opponentSlug": "16511-justin-dalton",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Locked in the Cage 12",
+      "eventSlug": "15347-locked-in-the-cage-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-08-24T00:00:00.000Z",
+      "opponent": "Bryan Lashomb",
+      "opponentSlug": "bryan-lasham-the-angry-elf",
+      "result": "loss",
+      "method": "other",
+      "event": "CFFC 16",
+      "eventSlug": "13985-cffc-16",
+      "round": 3,
+      "timeInRound": "1:51"
+    },
+    {
+      "date": "2012-04-14T00:00:00.000Z",
+      "opponent": "Artur Rofi",
+      "opponentSlug": "17276-artur-rofi",
+      "result": "loss",
+      "method": "sub",
+      "event": "CFFC 14",
+      "eventSlug": "12836-cffc-14",
+      "round": 2,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2011-12-10T00:00:00.000Z",
+      "opponent": "Julio Rosario",
+      "opponentSlug": "14636-julio-rosario",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CFFC 12: Pollard vs Soto",
+      "eventSlug": "11699-cffc-12-pollard-vs-soto",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-07-23T00:00:00.000Z",
+      "opponent": "Aljamain Sterling",
+      "opponentSlug": "aljamain-sterling",
+      "result": "loss",
+      "method": "other",
+      "event": "CFFC 10 : Black Eye",
+      "eventSlug": "10336-cffc-10-black-eye",
+      "round": 1,
+      "timeInRound": "4:58"
+    },
+    {
+      "date": "2011-04-07T00:00:00.000Z",
+      "opponent": "Ryan Vaccaro",
+      "opponentSlug": "ryan-vaccaro",
+      "result": "win",
+      "method": "other",
+      "event": "Ring of Combat 35",
+      "eventSlug": "9016-ring-of-combat-35",
+      "round": 2,
+      "timeInRound": "3:35"
+    },
+    {
+      "date": "2010-10-23T00:00:00.000Z",
+      "opponent": "Liam Kerrigan",
+      "opponentSlug": "11214-liam-kerrigan",
+      "result": "loss",
+      "method": "sub",
+      "event": "Ring of Combat 32",
+      "eventSlug": "8378-ring-of-combat-32",
+      "round": 1,
+      "timeInRound": "1:51"
+    },
+    {
+      "date": "2010-09-24T00:00:00.000Z",
+      "opponent": "Ryan Castillo",
+      "opponentSlug": "16261-ryan-castillo-guillotine",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Ring of Combat 31",
+      "eventSlug": "7779-ring-of-combat-31",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-07-24T00:00:00.000Z",
+      "opponent": "Epifano Diaz",
+      "opponentSlug": "19298-epifano-diaz",
+      "result": "win",
+      "method": "dec-split",
+      "event": "New Breed Fighters 32",
+      "eventSlug": "25274-new-breed-fighters-32-ultimate-mma-weekend-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-02-13T00:00:00.000Z",
+      "opponent": "Steve Sierra",
+      "opponentSlug": "70948-steve-sierra-ugly-knuckles",
+      "result": "win",
+      "method": "tko",
+      "event": "New Breed Fighters 27",
+      "eventSlug": "29434-new-breed-fighters-27",
+      "round": 3,
+      "timeInRound": "0:09"
+    },
+    {
+      "date": "2009-10-03T00:00:00.000Z",
+      "opponent": "Jared Gordon",
+      "opponentSlug": "17754-jared-gordon",
+      "result": "loss",
+      "method": "sub",
+      "event": "New Breed Fighters 25",
+      "eventSlug": "35644-new-breed-fighters-25-one-step-closer",
+      "round": 1,
+      "timeInRound": "2:10"
+    },
+    {
+      "date": "2009-05-30T00:00:00.000Z",
+      "opponent": "Ryan Vaccaro",
+      "opponentSlug": "ryan-vaccaro",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "New Breed Fighters 22",
+      "eventSlug": "43746-new-breed-fighters-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-04-11T00:00:00.000Z",
+      "opponent": "Jeremy Pompei",
+      "opponentSlug": "147505-jeremy-pompei",
+      "result": "loss",
+      "method": "sub",
+      "event": "New Breed Fighters 21",
+      "eventSlug": "32755-new-breed-fighters-one-step-closer",
+      "round": 3,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2009-03-07T00:00:00.000Z",
+      "opponent": "Ryan Burtis",
+      "opponentSlug": "70916-ryan-burtis",
+      "result": "win",
+      "method": "sub",
+      "event": "New Breed Fighters 20",
+      "eventSlug": "29438-new-breed-fighters-20",
+      "round": 1,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2008-12-12T00:00:00.000Z",
+      "opponent": "Doug Miller",
+      "opponentSlug": "18463-doug-miller",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "AFL 9",
+      "eventSlug": "43431-afl-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-11-26T00:00:00.000Z",
+      "opponent": "Christopher Price",
+      "opponentSlug": "147754-christopher-price",
+      "result": "win",
+      "method": "dec-split",
+      "event": "New Breed Fighters 19",
+      "eventSlug": "35646-new-breed-fighters",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-09-21T00:00:00.000Z",
+      "opponent": "Scott Gregg",
+      "opponentSlug": "146040-scott-gregg",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:31:53.830Z"
+}

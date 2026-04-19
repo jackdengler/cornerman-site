@@ -1,0 +1,37 @@
+{
+  "slug": "85225-andrew-sweeney",
+  "name": "Andrew Sweeney",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/85225-andrew-sweeney",
+  "recentFights": [
+    {
+      "date": "2014-11-15T00:00:00.000Z",
+      "opponent": "Santana Acosta",
+      "opponentSlug": "85224-santana-acosta",
+      "result": "loss",
+      "method": "tko",
+      "event": "A-Town Throwdown 4",
+      "eventSlug": "28050-a-town-throwdown-iv",
+      "round": 1,
+      "timeInRound": "2:52"
+    }
+  ],
+  "lastVerified": "2026-04-18T09:06:32.500Z"
+}

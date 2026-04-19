@@ -1,0 +1,198 @@
+{
+  "slug": "41544-cain-carrizosa",
+  "name": "Cain Carrizosa",
+  "nickname": "The Insane",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 188,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1986-07-22",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/41544-cain-carrizosa",
+  "recentFights": [
+    {
+      "date": "2022-01-29T00:00:00.000Z",
+      "opponent": "Josh Wick",
+      "opponentSlug": "39324-josh-wick",
+      "result": "loss",
+      "method": "other",
+      "event": "Fierce FC 18",
+      "eventSlug": "86272-fierce-fc-18-wick-vs-carrizosa",
+      "round": 1,
+      "timeInRound": "4:58"
+    },
+    {
+      "date": "2019-10-26T00:00:00.000Z",
+      "opponent": "Jai Herbert",
+      "opponentSlug": "70002-jai-herbert",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 109",
+      "eventSlug": "60771-cage-warriors-109",
+      "round": 1,
+      "timeInRound": "3:26"
+    },
+    {
+      "date": "2019-05-25T00:00:00.000Z",
+      "opponent": "Shohei Yamamoto",
+      "opponentSlug": "61672-shohei-yamamoto",
+      "result": "win",
+      "method": "other",
+      "event": "CFFC 75",
+      "eventSlug": "59188-cffc-75",
+      "round": 1,
+      "timeInRound": "3:35"
+    },
+    {
+      "date": "2017-02-02T00:00:00.000Z",
+      "opponent": "Danny Navarro",
+      "opponentSlug": "27099-danny-navarro",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Tachi PF 30",
+      "eventSlug": "43742-tachi-pf-30",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-07T00:00:00.000Z",
+      "opponent": "Nick Bustamante",
+      "opponentSlug": "23875-nick-bustamante",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "TWC 25: Vengeance",
+      "eventSlug": "42660-twc-25-vengeance",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-08-04T00:00:00.000Z",
+      "opponent": "Matt Hagge",
+      "opponentSlug": "27091-matt-hagge",
+      "result": "win",
+      "method": "sub",
+      "event": "Tachi PF 28",
+      "eventSlug": "40468-tachi-pf-28",
+      "round": 2,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2016-02-18T00:00:00.000Z",
+      "opponent": "Ray Cervera",
+      "opponentSlug": "13316-ray-cervera",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Tachi PF 26",
+      "eventSlug": "38225-tachi-pf-26-brawl-in-the-hall",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-19T00:00:00.000Z",
+      "opponent": "Danny Navarro",
+      "opponentSlug": "27099-danny-navarro",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Tachi PF 25",
+      "eventSlug": "36800-tachi-pf-25-fall-brawl",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-21T00:00:00.000Z",
+      "opponent": "Leonardo Mafra",
+      "opponentSlug": "29348-leonardo-texeira-macarrao",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night 62",
+      "eventSlug": "28237-ufc-fight-night-62",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-08-30T00:00:00.000Z",
+      "opponent": "Chris Wade",
+      "opponentSlug": "17954-chris-wade",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC 177: Dillashaw vs. Soto",
+      "eventSlug": "24694-ufc-177-jones-vs-gustafsson-2",
+      "round": 1,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2014-02-06T00:00:00.000Z",
+      "opponent": "Chris Quitiquit",
+      "opponentSlug": "26824-chris-quitiquit",
+      "result": "win",
+      "method": "other",
+      "event": "Tachi PF 18",
+      "eventSlug": "22069-tachi-pf-18-martinez-vs-culley",
+      "round": 1,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2013-10-04T00:00:00.000Z",
+      "opponent": "Juan Quesada",
+      "opponentSlug": "26892-juan-quesada",
+      "result": "win",
+      "method": "sub",
+      "event": "Bellator 102",
+      "eventSlug": "20006-bellator-102",
+      "round": 2,
+      "timeInRound": "4:51"
+    },
+    {
+      "date": "2013-08-22T00:00:00.000Z",
+      "opponent": "Cody Orrison",
+      "opponentSlug": "30899-cody-orrison",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Tachi PF 16",
+      "eventSlug": "19770-tachi-pf-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-01-27T00:00:00.000Z",
+      "opponent": "John Wadkins",
+      "opponentSlug": "49192-john-wadkins",
+      "result": "win",
+      "method": "sub",
+      "event": "TWC 13: Impact",
+      "eventSlug": "13228-twc-13-impact",
+      "round": 2,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2011-09-10T00:00:00.000Z",
+      "opponent": "Daniel Romero",
+      "opponentSlug": "9276-daniel-romero-the-doomsday-prophet",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-06-17T00:00:00.000Z",
+      "opponent": "Ryan Reneau",
+      "opponentSlug": "51344-ryan-reneau",
+      "result": "win",
+      "method": "other",
+      "event": "TWC 11: Inferno",
+      "eventSlug": "10566-twc-11-inferno",
+      "round": 1,
+      "timeInRound": "2:12"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:08:51.488Z"
+}

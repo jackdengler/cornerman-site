@@ -1,0 +1,165 @@
+{
+  "slug": "26309-zach-freeman-the-altar-boy",
+  "name": "Zach Freeman",
+  "nickname": "The Altar Boy",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 192,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1984-03-12",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/26309-zach-freeman-the-altar-boy",
+  "recentFights": [
+    {
+      "date": "2017-11-03T00:00:00.000Z",
+      "opponent": "Saad Awad",
+      "opponentSlug": "saad-awad-assassin",
+      "result": "loss",
+      "method": "other",
+      "event": "Bellator 186",
+      "eventSlug": "47631-bellator-186-bader-vs-vassell",
+      "round": 1,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2017-06-24T00:00:00.000Z",
+      "opponent": "Aaron Pico",
+      "opponentSlug": "86018-aaron-pico",
+      "result": "win",
+      "method": "sub",
+      "event": "Bellator NYC",
+      "eventSlug": "44784-bellator-180-sonnen-vs-silva",
+      "round": 1,
+      "timeInRound": "0:24"
+    },
+    {
+      "date": "2016-09-30T00:00:00.000Z",
+      "opponent": "Thiago Moisés",
+      "opponentSlug": "49744-thiago-moiss",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "RFA 44: Moisés vs. Freeman",
+      "eventSlug": "41285-rfa-44-moiss-vs-freeman",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-06T00:00:00.000Z",
+      "opponent": "Zac Kelley",
+      "opponentSlug": "18647-zac-kelley-the-punisher",
+      "result": "win",
+      "method": "sub",
+      "event": "Rumble Time Promotions",
+      "eventSlug": "32060-rumble-time-promotions-relentless",
+      "round": 1,
+      "timeInRound": "2:19"
+    },
+    {
+      "date": "2013-06-07T00:00:00.000Z",
+      "opponent": "Jake Lindsey",
+      "opponentSlug": "12500-jake-lindsey",
+      "result": "loss",
+      "method": "other",
+      "event": "Titan FC 25",
+      "eventSlug": "19240-titan-fc-25-fight-for-the-troops-2",
+      "round": 1,
+      "timeInRound": "2:31"
+    },
+    {
+      "date": "2013-01-19T00:00:00.000Z",
+      "opponent": "Robert Washington",
+      "opponentSlug": "robert-washington-the-beast",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-07-27T00:00:00.000Z",
+      "opponent": "Aaron Derrow",
+      "opponentSlug": "aaron-derrow-daddy-long-legs",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-05-19T00:00:00.000Z",
+      "opponent": "Charon Spain",
+      "opponentSlug": "15247-charon-spain",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-04-13T00:00:00.000Z",
+      "opponent": "Bryant Whitaker",
+      "opponentSlug": "20510-bryant-whitaker",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-11-11T00:00:00.000Z",
+      "opponent": "Darius Yancy",
+      "opponentSlug": "17847-darius-yancy",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-09-09T00:00:00.000Z",
+      "opponent": "Marcus Penland",
+      "opponentSlug": "19455-marcus-penland",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-07-16T00:00:00.000Z",
+      "opponent": "Coty Cook",
+      "opponentSlug": "34194-coty-cook",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-11-19T00:00:00.000Z",
+      "opponent": "Colton Creason",
+      "opponentSlug": "67598-colton-creason",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:11:35.641Z"
+}

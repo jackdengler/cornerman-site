@@ -1,0 +1,37 @@
+{
+  "slug": "348173-daniel-guadalajara",
+  "name": "Daniel Guadalajara",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1991-09-19",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/348173-daniel-guadalajara",
+  "recentFights": [
+    {
+      "date": "2022-09-16T00:00:00.000Z",
+      "opponent": "Noah Gasho",
+      "opponentSlug": "348174-noah-gasho",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 142: Amorim vs. Nichols",
+      "eventSlug": "92238-lfa-142-amorim-vs-nichols",
+      "round": 1,
+      "timeInRound": "2:47"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:42:42.538Z"
+}

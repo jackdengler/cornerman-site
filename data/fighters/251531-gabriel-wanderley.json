@@ -1,0 +1,209 @@
+{
+  "slug": "251531-gabriel-wanderley",
+  "name": "Gabriel Wanderley",
+  "nickname": "The Recife Shark",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "2002-01-04",
+  "nationality": "Recife, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/251531-gabriel-wanderley",
+  "recentFights": [
+    {
+      "date": "2026-03-29T00:00:00.000Z",
+      "opponent": "Enzo Perez",
+      "opponentSlug": "131783-enzo-perez",
+      "result": "win",
+      "method": "sub",
+      "event": "Anthony Pettis FC 23",
+      "eventSlug": "138664-anthony-pettis-fc-23-milwaukee-fight-night-10",
+      "round": 1,
+      "timeInRound": "2:11"
+    },
+    {
+      "date": "2025-11-02T00:00:00.000Z",
+      "opponent": "Eugene Crisler",
+      "opponentSlug": "2574-eugene-crisler",
+      "result": "win",
+      "method": "sub",
+      "event": "Anthony Pettis FC 20",
+      "eventSlug": "131592-anthony-pettis-fc-20-milwaukee-fight-night-9",
+      "round": 1,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2024-11-03T00:00:00.000Z",
+      "opponent": "Damien Anderson",
+      "opponentSlug": "281201-damien-anderson",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fury FC 98: Khera vs. Dixon",
+      "eventSlug": "117773-fury-fc-98-khera-vs-dixon",
+      "round": 2,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2024-07-21T00:00:00.000Z",
+      "opponent": "Azjavkhlan Baatar",
+      "opponentSlug": "127189-bardahl-asjabharan",
+      "result": "win",
+      "method": "sub",
+      "event": "Fury FC 94: Vigil vs. Gwerder",
+      "eventSlug": "114680-fury-fc-94-vigil-vs-wright",
+      "round": 1,
+      "timeInRound": "4:14"
+    },
+    {
+      "date": "2024-03-10T00:00:00.000Z",
+      "opponent": "John Yannis",
+      "opponentSlug": "151617-john-yannies",
+      "result": "win",
+      "method": "sub",
+      "event": "Fury FC 87: Moran vs. Harvey",
+      "eventSlug": "107714-fury-fc-87",
+      "round": 2,
+      "timeInRound": "3:26"
+    },
+    {
+      "date": "2023-10-22T00:00:00.000Z",
+      "opponent": "Sean Mora",
+      "opponentSlug": "230861-sean-mora",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fury Challenger Series 8",
+      "eventSlug": "104835-fury-challenger-series-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-25T00:00:00.000Z",
+      "opponent": "Rylan Melancon",
+      "opponentSlug": "206784-rylan-melanoon",
+      "result": "win",
+      "method": "other",
+      "event": "Fury FC 80: Martinez vs. Efrain",
+      "eventSlug": "100197-fury-fc-80",
+      "round": 1,
+      "timeInRound": "3:15"
+    },
+    {
+      "date": "2023-02-05T00:00:00.000Z",
+      "opponent": "Keron Reed",
+      "opponentSlug": "193210-keron-reed",
+      "result": "win",
+      "method": "sub",
+      "event": "Fury FC 74: Smotherman vs. Caballero",
+      "eventSlug": "96722-fury-fc-7",
+      "round": 2,
+      "timeInRound": "2:21"
+    },
+    {
+      "date": "2022-12-02T00:00:00.000Z",
+      "opponent": "Dimas Chapa",
+      "opponentSlug": "236135-dimas-chapa",
+      "result": "win",
+      "method": "sub",
+      "event": "PCS 2",
+      "eventSlug": "94271-pcs-2",
+      "round": 1,
+      "timeInRound": "2:09"
+    },
+    {
+      "date": "2022-04-15T00:00:00.000Z",
+      "opponent": "Santos Verdinez",
+      "opponentSlug": "238223-santos-verdinez",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 129: Petersen vs. Cortes-Acosta",
+      "eventSlug": "87693-lfa-129-petersen-vs-cortes-acosta",
+      "round": 2,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2021-12-12T00:00:00.000Z",
+      "opponent": "Kevin Mendoza",
+      "opponentSlug": "304587-kevin-mendoza",
+      "result": "win",
+      "method": "sub",
+      "event": "FCE 70: Takeover 2021",
+      "eventSlug": "83377-fight-card-entertainment-takeover-2021",
+      "round": 2,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2021-10-16T00:00:00.000Z",
+      "opponent": "Davin Scott",
+      "opponentSlug": "198694-davin-scott",
+      "result": "win",
+      "method": "sub",
+      "event": "Atlas Fights 58",
+      "eventSlug": "88364-atlas-fights-58",
+      "round": 1,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2021-06-27T00:00:00.000Z",
+      "opponent": "Anthony Farfan",
+      "opponentSlug": "142618-anthony-farfan",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Pure FC 19",
+      "eventSlug": "78464-pure-fc-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-26T00:00:00.000Z",
+      "opponent": "Jakoby Helmers",
+      "opponentSlug": "272780-jakoby-helmers",
+      "result": "win",
+      "method": "sub",
+      "event": "Caged Aggression 30",
+      "eventSlug": "76432-caged-aggression-30-triple-threat-day-2",
+      "round": 1,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2020-10-16T00:00:00.000Z",
+      "opponent": "Quang Le",
+      "opponentSlug": "114976-quang-le",
+      "result": "win",
+      "method": "sub",
+      "event": "Caged Aggression 28",
+      "eventSlug": "72817-caged-aggression-28-unstoppable",
+      "round": 3,
+      "timeInRound": "2:48"
+    },
+    {
+      "date": "2020-09-12T00:00:00.000Z",
+      "opponent": "Austin Carter",
+      "opponentSlug": "230052-austin-carter",
+      "result": "win",
+      "method": "sub",
+      "event": "Atlas Fights 56",
+      "eventSlug": "74039-atlas-fights-56",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-01-25T00:00:00.000Z",
+      "opponent": "Edwin Laureani",
+      "opponentSlug": "251530-edwin-laureani",
+      "result": "win",
+      "method": "sub",
+      "event": "Chosen Few FC 18",
+      "eventSlug": "64515-chosen-few-fc-18",
+      "round": 1,
+      "timeInRound": "2:44"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:05:22.374Z"
+}

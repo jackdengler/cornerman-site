@@ -1,0 +1,44 @@
+{
+  "slug": "103516-leticia-oliveira",
+  "name": "Leticia Ribeiro",
+  "nickname": "Leeh",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/103516-leticia-oliveira",
+  "recentFights": [
+    {
+      "date": "2018-04-28T00:00:00.000Z",
+      "opponent": "Yasmin Castanho",
+      "opponentSlug": "199857-yasmin-castanho-smile",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-06-06T00:00:00.000Z",
+      "opponent": "Karine Silva",
+      "opponentSlug": "69225-karine-silva-killer",
+      "result": "loss",
+      "method": "sub",
+      "event": "Aspera FC 20",
+      "eventSlug": "33081-aspera-fc-20",
+      "round": 1,
+      "timeInRound": "4:24"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:10:42.615Z"
+}

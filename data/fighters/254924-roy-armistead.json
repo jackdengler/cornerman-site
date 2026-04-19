@@ -1,0 +1,66 @@
+{
+  "slug": "254924-roy-armistead",
+  "name": "Roy Armistead",
+  "nickname": "Warbred",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/254924-roy-armistead",
+  "recentFights": [
+    {
+      "date": "2024-07-27T00:00:00.000Z",
+      "opponent": "Saynarvat Srisawat",
+      "opponentSlug": "453418-saynarvat-srisawat",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shuriken Fight Series 18",
+      "eventSlug": "110330-shuriken-fight-series-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-07T00:00:00.000Z",
+      "opponent": "Dom Mar Fan",
+      "opponentSlug": "196890-dom-mar-fan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 65",
+      "eventSlug": "88808-eternal-mma-65",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-09T00:00:00.000Z",
+      "opponent": "Blake Donnelly",
+      "opponentSlug": "63105-blake-donnelly",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Hex Fight Series 21",
+      "eventSlug": "75164-hex-fight-series-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-20T00:00:00.000Z",
+      "opponent": "Tasar Malone",
+      "opponentSlug": "224448-tasar-malone",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 58",
+      "eventSlug": "74899-eternal-mma-58",
+      "round": 1,
+      "timeInRound": "1:48"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:19:24.162Z"
+}

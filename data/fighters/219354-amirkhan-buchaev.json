@@ -1,0 +1,55 @@
+{
+  "slug": "219354-amirkhan-buchaev",
+  "name": "Amirkhan Buchaev",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": 179,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1998-05-02",
+  "nationality": "Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/219354-amirkhan-buchaev",
+  "recentFights": [
+    {
+      "date": "2025-06-13T00:00:00.000Z",
+      "opponent": "Canon Swanson",
+      "opponentSlug": "329282-canon-swanson",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 210: Lawrence vs. Reyes",
+      "eventSlug": "126691-lfa-210",
+      "round": 1,
+      "timeInRound": "3:52"
+    },
+    {
+      "date": "2024-12-07T00:00:00.000Z",
+      "opponent": "Mironshokh Davronov",
+      "opponentSlug": "296576-mironshokh-davronov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Future of Fighting 5",
+      "eventSlug": "119820-future-of-fighting-5-reloaded",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-02-24T00:00:00.000Z",
+      "opponent": "Turab Bapaev",
+      "opponentSlug": "219355-turab-bapaev",
+      "result": "win",
+      "method": "other",
+      "event": "OFC 3",
+      "eventSlug": "59636-ofc-3",
+      "round": 1,
+      "timeInRound": "0:36"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:40:51.760Z"
+}

@@ -1,0 +1,165 @@
+{
+  "slug": "271208-tsuyoshi-sudario-takanofuji-sanzo",
+  "name": "Tsuyoshi Sudario",
+  "nickname": "Takanofuji Sanzo",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 190,
+  "reachCm": 193,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1997-05-13",
+  "nationality": "Oyama, Tochigi, Japan",
+  "url": "https://www.tapology.com/fightcenter/fighters/271208-tsuyoshi-sudario-takanofuji-sanzo",
+  "recentFights": [
+    {
+      "date": "2025-05-04T00:00:00.000Z",
+      "opponent": "Jose Augusto",
+      "opponentSlug": "133511-jose-augusto-azevedo-gugu",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "RIZIN: Otoko Matsuri",
+      "eventSlug": "125436-rizin-otokomatsuri",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-17T00:00:00.000Z",
+      "opponent": "Hisaki Kato",
+      "opponentSlug": "43891-hisaki-kato",
+      "result": "win",
+      "method": "other",
+      "event": "RIZIN LANDMARK 10 in NAGOYA",
+      "eventSlug": "118414-rizin-landmark-10-in-nagoya",
+      "round": 3,
+      "timeInRound": "1:11"
+    },
+    {
+      "date": "2023-12-31T00:00:00.000Z",
+      "opponent": "Mikio Ueda",
+      "opponentSlug": "330663-mikio-ueda",
+      "result": "loss",
+      "method": "other",
+      "event": "RIZIN 45",
+      "eventSlug": "107924-rizin-45",
+      "round": 2,
+      "timeInRound": "0:55"
+    },
+    {
+      "date": "2023-10-01T00:00:00.000Z",
+      "opponent": "Dong Hwan Lim",
+      "opponentSlug": "142788-dong-hwan-lim",
+      "result": "win",
+      "method": "tko",
+      "event": "RIZIN LANDMARK 6 in NAGOYA",
+      "eventSlug": "103573-rizin-landmark-6-in-nagoya",
+      "round": 3,
+      "timeInRound": "2:10"
+    },
+    {
+      "date": "2023-04-29T00:00:00.000Z",
+      "opponent": "Roque Martinez",
+      "opponentSlug": "11092-roque-martinez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "RIZIN LANDMARK 5 in YOYOGI",
+      "eventSlug": "98136-rizin-landmark-5-in-yoyogi",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-31T00:00:00.000Z",
+      "opponent": "Junior Tafa",
+      "opponentSlug": "242095-junior-tafa",
+      "result": "loss",
+      "method": "tko",
+      "event": "RIZIN 40",
+      "eventSlug": "94453-rizin-40",
+      "round": 1,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2022-10-23T00:00:00.000Z",
+      "opponent": "Janos Csukas",
+      "opponentSlug": "141293-janos-csukas",
+      "result": "win",
+      "method": "other",
+      "event": "RIZIN 39",
+      "eventSlug": "93082-rizin-39",
+      "round": 2,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2022-07-31T00:00:00.000Z",
+      "opponent": "Hideki Sekine",
+      "opponentSlug": "12562-hideki-sekine-shrek",
+      "result": "win",
+      "method": "tko",
+      "event": "RIZIN 37",
+      "eventSlug": "90411-rizin-37",
+      "round": 1,
+      "timeInRound": "0:53"
+    },
+    {
+      "date": "2021-10-24T00:00:00.000Z",
+      "opponent": "Lawdlain Saint Ilme",
+      "opponentSlug": "293099-saint",
+      "result": "win",
+      "method": "other",
+      "event": "RIZIN 31",
+      "eventSlug": "83059-rizin-31",
+      "round": 1,
+      "timeInRound": "1:51"
+    },
+    {
+      "date": "2021-06-13T00:00:00.000Z",
+      "opponent": "Shoma Shibisai",
+      "opponentSlug": "38352-shoma-shibisai",
+      "result": "loss",
+      "method": "sub",
+      "event": "RIZIN 28",
+      "eventSlug": "78160-rizin-28",
+      "round": 3,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2021-03-21T00:00:00.000Z",
+      "opponent": "Kazushi Miyamoto",
+      "opponentSlug": "285985-kazushi-miyamoto",
+      "result": "win",
+      "method": "other",
+      "event": "RIZIN 27",
+      "eventSlug": "75419-rizin-27",
+      "round": 1,
+      "timeInRound": "0:08"
+    },
+    {
+      "date": "2020-12-31T00:00:00.000Z",
+      "opponent": "Ikuhisa Minowa",
+      "opponentSlug": "ikuhisa-minowa-the-punk",
+      "result": "win",
+      "method": "other",
+      "event": "RIZIN 26",
+      "eventSlug": "74590-rizin-26",
+      "round": 1,
+      "timeInRound": "3:19"
+    },
+    {
+      "date": "2020-09-27T00:00:00.000Z",
+      "opponent": "Dylan James",
+      "opponentSlug": "271209-dylan-james",
+      "result": "win",
+      "method": "other",
+      "event": "RIZIN 24",
+      "eventSlug": "72047-rizin-24",
+      "round": 1,
+      "timeInRound": "5:00"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:16:43.573Z"
+}

@@ -1,0 +1,121 @@
+{
+  "slug": "311841-julian-giustiniano",
+  "name": "Julian Giustiniano",
+  "nickname": "Gladius",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/311841-julian-giustiniano",
+  "recentFights": [
+    {
+      "date": "2025-08-30T00:00:00.000Z",
+      "opponent": "Liam Gusti",
+      "opponentSlug": "203231-liam-gusti",
+      "result": "loss",
+      "method": "other",
+      "event": "HEX Fight Series 36",
+      "eventSlug": "120779-hex-fight-series-36",
+      "round": 1,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2025-02-22T00:00:00.000Z",
+      "opponent": "Jesse Swain",
+      "opponentSlug": "329205-jesse-swain",
+      "result": "loss",
+      "method": "tko",
+      "event": "Eternal MMA 93",
+      "eventSlug": "119505-eternal-mma-93",
+      "round": 1,
+      "timeInRound": "0:48"
+    },
+    {
+      "date": "2024-02-10T00:00:00.000Z",
+      "opponent": "Marwan Rahiki",
+      "opponentSlug": "388487-marwan-rahiki",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 82",
+      "eventSlug": "106684-eternal-mma-82",
+      "round": 2,
+      "timeInRound": "0:28"
+    },
+    {
+      "date": "2023-10-28T00:00:00.000Z",
+      "opponent": "Ryan Cooper",
+      "opponentSlug": "182298-ryan-cooper",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 80",
+      "eventSlug": "102043-eternal-mma-80",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-21T00:00:00.000Z",
+      "opponent": "Bjorn Leitch",
+      "opponentSlug": "287116-bjorn-leitch",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Path to Hex 21",
+      "eventSlug": "103245-path-to-hex-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-18T00:00:00.000Z",
+      "opponent": "Cameron Sinclair",
+      "opponentSlug": "181066-cameron-sinclair",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Domination MMA 4",
+      "eventSlug": "99252-domination-mma-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-20T00:00:00.000Z",
+      "opponent": "Kane Rickus",
+      "opponentSlug": "195058-kane-rickus",
+      "result": "win",
+      "method": "sub",
+      "event": "Eternal MMA 68",
+      "eventSlug": "91664-eternal-mma-68",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-29T00:00:00.000Z",
+      "opponent": "Owen Tincombe",
+      "opponentSlug": "308198-owen-tincombe",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 66",
+      "eventSlug": "88996-eternal-mma-66",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-30T00:00:00.000Z",
+      "opponent": "Lorenz Araneda",
+      "opponentSlug": "221036-lorenz-araneda",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Eternal MMA 62",
+      "eventSlug": "82990-eternal-mma-62",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:58:34.408Z"
+}

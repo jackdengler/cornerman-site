@@ -1,0 +1,220 @@
+{
+  "slug": "33946-abu-azaitar",
+  "name": "Abu Azaitar",
+  "nickname": "Captain Morocco",
+  "aliases": [],
+  "recordPro": {
+    "wins": 14,
+    "losses": 4,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 193,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1986-03-10",
+  "nationality": "Germany",
+  "url": "https://www.tapology.com/fightcenter/fighters/33946-abu-azaitar",
+  "recentFights": [
+    {
+      "date": "2023-10-21T00:00:00.000Z",
+      "opponent": "Sedriques Dumas",
+      "opponentSlug": "188574-sedriques-dumas",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 294: Makhachev vs. Volkanovski 2",
+      "eventSlug": "99416-ufc-294",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-27T00:00:00.000Z",
+      "opponent": "Marc-André Barriault",
+      "opponentSlug": "26658-marc-andre-barriault",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 260: Miocic vs. N'Gannou 2",
+      "eventSlug": "75458-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "4:56"
+    },
+    {
+      "date": "2018-07-22T00:00:00.000Z",
+      "opponent": "Vitor Miranda",
+      "opponentSlug": "11126-vitor-miranda",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night 134",
+      "eventSlug": "52081-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-07T00:00:00.000Z",
+      "opponent": "Michael Arrant",
+      "opponentSlug": "6066-michael-arrant-mad-mike",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WSOF 33: Branch vs. Magalhaes",
+      "eventSlug": "38029-wsof-33",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-02T00:00:00.000Z",
+      "opponent": "Danny Davis Jr.",
+      "opponentSlug": "danny-davis-jr-d-1",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WSOF 30: Branch vs. Starks",
+      "eventSlug": "36736-wsof-shields-vs-fitch",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-12-20T00:00:00.000Z",
+      "opponent": "Ibragim Tibilov",
+      "opponentSlug": "53083-ibrahim-tibilov",
+      "result": "win",
+      "method": "other",
+      "event": "Absolute Championship Berkut 27",
+      "eventSlug": "36432-absolute-championship-berkut-27",
+      "round": 1,
+      "timeInRound": "1:53"
+    },
+    {
+      "date": "2015-04-18T00:00:00.000Z",
+      "opponent": "Rafał Lewoń",
+      "opponentSlug": "33675-rafal-lewon",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "GMC 6",
+      "eventSlug": "31779-gmc-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-05-17T00:00:00.000Z",
+      "opponent": "Piotr Strus",
+      "opponentSlug": "26237-piotr-strus",
+      "result": "draw",
+      "method": "dec-majority",
+      "event": "KSW 27: Cage Time",
+      "eventSlug": "22702-ksw-27-cage-time",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-28T00:00:00.000Z",
+      "opponent": "Jack Marshman",
+      "opponentSlug": "16561-jack-marshman",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors",
+      "eventSlug": "23282-cage-warriors-fight-night-10",
+      "round": 1,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2013-12-07T00:00:00.000Z",
+      "opponent": "Krzysztof Kułak",
+      "opponentSlug": "4239-krzysztof-kulak-model",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 25: Khalidov vs. Sakurai 2",
+      "eventSlug": "21509-ksw-25",
+      "round": 1,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2013-07-06T00:00:00.000Z",
+      "opponent": "Marcin Naruszczka",
+      "opponentSlug": "26293-marcin-naruszczka",
+      "result": "win",
+      "method": "other",
+      "event": "GMC 4: Next Level",
+      "eventSlug": "19458-gmc-4-next-level",
+      "round": 2,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2013-02-02T00:00:00.000Z",
+      "opponent": "Roman Kapranov",
+      "opponentSlug": "34403-roman-kapranov",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-09-22T00:00:00.000Z",
+      "opponent": "Marcin Naruszczka",
+      "opponentSlug": "26293-marcin-naruszczka",
+      "result": "loss",
+      "method": "other",
+      "event": "Respect FC 8",
+      "eventSlug": "15772-respect-fc-8",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2012-04-21T00:00:00.000Z",
+      "opponent": "Martin Zawada",
+      "opponentSlug": "4761-martin-zawada-king-kong",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-02-04T00:00:00.000Z",
+      "opponent": "Nils Wernersbach",
+      "opponentSlug": "33874-nils-wernersbach",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-11-26T00:00:00.000Z",
+      "opponent": "Andrey Embolaev",
+      "opponentSlug": "18015-andrey-embolaev",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-09-17T00:00:00.000Z",
+      "opponent": "Dmitriy Dzhumburidze",
+      "opponentSlug": "34439-dmitriy-dzhumburidze",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-06-27T00:00:00.000Z",
+      "opponent": "Volker Dietz",
+      "opponentSlug": "28345-volker-dietz-die-krabbe",
+      "result": "loss",
+      "method": "other",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "1:15"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:53:03.121Z"
+}

@@ -1,0 +1,132 @@
+{
+  "slug": "25023-margaret-bloom-brutal",
+  "name": "Margaret Bloom",
+  "nickname": "Brutal",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 160,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/25023-margaret-bloom-brutal",
+  "recentFights": [
+    {
+      "date": "2013-07-06T00:00:00.000Z",
+      "opponent": "Jessica Doerner",
+      "opponentSlug": "47096-jessica-doerner",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-09-22T00:00:00.000Z",
+      "opponent": "Stephanie Skinner",
+      "opponentSlug": "16059-stephanie-skinner-the-scrapper",
+      "result": "loss",
+      "method": "tko",
+      "event": "Kickdown 103",
+      "eventSlug": "15821-kickdown-103-wizards",
+      "round": 2,
+      "timeInRound": "3:30"
+    },
+    {
+      "date": "2012-05-12T00:00:00.000Z",
+      "opponent": "Staci Vega",
+      "opponentSlug": "28413-stacey-vega",
+      "result": "win",
+      "method": "other",
+      "event": "Women's FC 1",
+      "eventSlug": "13914-women-s-fc-1",
+      "round": 4,
+      "timeInRound": "0:31"
+    },
+    {
+      "date": "2012-04-07T00:00:00.000Z",
+      "opponent": "Heather Denny",
+      "opponentSlug": "25024-heather-sachleben",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Kickdown 100",
+      "eventSlug": "13278-kick-down-100",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-02-18T00:00:00.000Z",
+      "opponent": "Crystal Pedraza",
+      "opponentSlug": "496105-crystal-pedraza",
+      "result": "win",
+      "method": "other",
+      "event": "UFA 8: Women of MMA",
+      "eventSlug": "15824-ufa-8-women-of-mma",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2011-11-19T00:00:00.000Z",
+      "opponent": "Kelly Reilly",
+      "opponentSlug": "144690-kelly-reilly",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Kickdown 97",
+      "eventSlug": "21681-kickdown-97-fight-feast",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-03-12T00:00:00.000Z",
+      "opponent": "Shannon Sinn",
+      "opponentSlug": "16758-shannon-culpepper",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-12-04T00:00:00.000Z",
+      "opponent": "JJ Aldrich",
+      "opponentSlug": "28420-jj-aldrich",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-01-09T00:00:00.000Z",
+      "opponent": "Ericka Trujillo",
+      "opponentSlug": "87866-ericka-trujillo",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-10-17T00:00:00.000Z",
+      "opponent": "Michelle Blalock",
+      "opponentSlug": "16921-michelle-blalock-bobcat",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:02:10.267Z"
+}

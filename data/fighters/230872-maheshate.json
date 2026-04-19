@@ -1,0 +1,187 @@
+{
+  "slug": "230872-maheshate",
+  "name": "Maheshate",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 184,
+  "reachCm": 182,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1999-12-01",
+  "nationality": "Ili Kazakh Autonomous Prefecture, Xinjiang, China",
+  "url": "https://www.tapology.com/fightcenter/fighters/230872-maheshate",
+  "recentFights": [
+    {
+      "date": "2025-08-23T00:00:00.000Z",
+      "opponent": "Gauge Young",
+      "opponentSlug": "213571-gauge-young",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "128594-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-23T00:00:00.000Z",
+      "opponent": "Nikolas Motta",
+      "opponentSlug": "36808-nikolas-palhares",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "116899-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-27T00:00:00.000Z",
+      "opponent": "Gabriel Benítez",
+      "opponentSlug": "27087-gabriel-benitez-moggly",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "109627-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-20T00:00:00.000Z",
+      "opponent": "Viacheslav Borshchev",
+      "opponentSlug": "48692-vyacheslav-borshev",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "98571-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "2:37"
+    },
+    {
+      "date": "2022-12-17T00:00:00.000Z",
+      "opponent": "Rafa García",
+      "opponentSlug": "105452-rafael-garcia-gifted",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "92365-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-11T00:00:00.000Z",
+      "opponent": "Steve Garcia",
+      "opponentSlug": "41407-steve-garcia-jr",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 275: Teixeira vs. Procházka",
+      "eventSlug": "87286-ufc-275-teixeira-vs-prochazka",
+      "round": 1,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2021-11-02T00:00:00.000Z",
+      "opponent": "Achilles Estremadura",
+      "opponentSlug": "27512-achilles-estremadura",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Contender Series 2021",
+      "eventSlug": "81550-contender-series-2021-week-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-01-14T00:00:00.000Z",
+      "opponent": "Damu Wu",
+      "opponentSlug": "223815-damu-wu",
+      "result": "win",
+      "method": "tko",
+      "event": "WLF MMA 50",
+      "eventSlug": "76502-wlf-mma-50",
+      "round": 1,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2020-09-25T00:00:00.000Z",
+      "opponent": "Ayijiake Akenbieke",
+      "opponentSlug": "80579-akenbieke-ayijiake",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WLF W.A.R.S. 47",
+      "eventSlug": "73652-wlf-w-a-r-s-47",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-06-19T00:00:00.000Z",
+      "opponent": "Rongshuai Zhu",
+      "opponentSlug": "269498-rongshuai-zhu",
+      "result": "win",
+      "method": "tko",
+      "event": "WLF W.A.R.S. 44",
+      "eventSlug": "71946-wlf-w-a-r-s-44",
+      "round": 2,
+      "timeInRound": "1:09"
+    },
+    {
+      "date": "2020-04-26T00:00:00.000Z",
+      "opponent": "Yasen Sailikebieke",
+      "opponentSlug": "269273-yasen-sailikebieke",
+      "result": "win",
+      "method": "other",
+      "event": "WLF W.A.R.S. 42",
+      "eventSlug": "71068-wlf-w-a-r-s-42",
+      "round": 2,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2019-11-15T00:00:00.000Z",
+      "opponent": "Nannan He",
+      "opponentSlug": "64512-he-nannan",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WLF W.A.R.S. 40",
+      "eventSlug": "64582-wlf-w-a-r-s-40",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-08-03T00:00:00.000Z",
+      "opponent": "Nikolay Goncharov",
+      "opponentSlug": "158784-nikolay-goncharov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "M-1 Challenge 103",
+      "eventSlug": "61202-m-1-challenge-104",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-12T00:00:00.000Z",
+      "opponent": "Nuliquwake Kazibai",
+      "opponentSlug": "194681-nuliquwake-kazibai",
+      "result": "win",
+      "method": "sub",
+      "event": "WLF W.A.R.S. 36",
+      "eventSlug": "63728-wlf-w-a-r-s-35",
+      "round": 2,
+      "timeInRound": "1:26"
+    },
+    {
+      "date": "2019-06-14T00:00:00.000Z",
+      "opponent": "Xiaochen Xu",
+      "opponentSlug": "152257-chenxu-xiao",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WLF W.A.R.S. 35",
+      "eventSlug": "62318-wlf-w-a-r-s-34",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:11:57.881Z"
+}

@@ -1,0 +1,198 @@
+{
+  "slug": "139621-santos-isaias-rivera",
+  "name": "Santos Rivera",
+  "nickname": "El Espartano",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 169,
+  "reachCm": 164,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1997-03-15",
+  "nationality": "El Progreso, Yoro , Honduras",
+  "url": "https://www.tapology.com/fightcenter/fighters/139621-santos-isaias-rivera",
+  "recentFights": [
+    {
+      "date": "2023-07-14T00:00:00.000Z",
+      "opponent": "Chris Reyes",
+      "opponentSlug": "121182-christopher-reyes",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "PCFL 3",
+      "eventSlug": "103418-pcfl-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-18T00:00:00.000Z",
+      "opponent": "Melvin Rhodes",
+      "opponentSlug": "347761-marvin-rodas",
+      "result": "win",
+      "method": "tko",
+      "event": "XFit Fight Night 20",
+      "eventSlug": "92139-hfl",
+      "round": 1,
+      "timeInRound": "3:06"
+    },
+    {
+      "date": "2021-11-19T00:00:00.000Z",
+      "opponent": "Mario Villatoro",
+      "opponentSlug": "156708-mario-villatoro",
+      "result": "win",
+      "method": "sub",
+      "event": "Combate Perfecto 2",
+      "eventSlug": "85334-combate-perfecto-2",
+      "round": 1,
+      "timeInRound": "3:16"
+    },
+    {
+      "date": "2021-07-31T00:00:00.000Z",
+      "opponent": "Oscar García",
+      "opponentSlug": "237324-oscar-garcia",
+      "result": "win",
+      "method": "sub",
+      "event": "Combate Perfecto",
+      "eventSlug": "82851-combate-perfecto",
+      "round": 3,
+      "timeInRound": "1:21"
+    },
+    {
+      "date": "2019-08-31T00:00:00.000Z",
+      "opponent": "Walter Reyes",
+      "opponentSlug": "133545-walter-reyes",
+      "result": "loss",
+      "method": "sub",
+      "event": "NFC 51: Insanity",
+      "eventSlug": "62700-nfc-51-insanity",
+      "round": 1,
+      "timeInRound": "4:55"
+    },
+    {
+      "date": "2019-07-20T00:00:00.000Z",
+      "opponent": "Carlos Cantarero",
+      "opponentSlug": "89708-carlos-cantarero",
+      "result": "win",
+      "method": "tko",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-31T00:00:00.000Z",
+      "opponent": "Humberto Davis",
+      "opponentSlug": "147886-humberto-davis-el-grillo",
+      "result": "win",
+      "method": "ko",
+      "event": "NFC 49: No Mercy",
+      "eventSlug": "60200-nfc-49-no-mercy",
+      "round": 1,
+      "timeInRound": "0:21"
+    },
+    {
+      "date": "2024-07-05T00:00:00.000Z",
+      "opponent": "Fernando León",
+      "opponentSlug": "135512-fernando-leon",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "GAMMA",
+      "eventSlug": "111883-gamma-panamericans-2024",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-18T00:00:00.000Z",
+      "opponent": "Alex Rodriguez",
+      "opponentSlug": "116250-alex-rodriguez-vaquerito",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UCC 32",
+      "eventSlug": "42622-ucc-32",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-30T00:00:00.000Z",
+      "opponent": "Juan Canahuati",
+      "opponentSlug": "93294-juan-canahuati",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UCC Fantastic Fight Night 2",
+      "eventSlug": "41612-ucc-fantastic-fight-night-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-08-26T00:00:00.000Z",
+      "opponent": "Adrian Luna Martinetti",
+      "opponentSlug": "139620-juan-adrian-luna",
+      "result": "loss",
+      "method": "other",
+      "event": "UCC Fantastic Fight Night 1",
+      "eventSlug": "40969-ucc-fight-night",
+      "round": 2,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2015-11-19T00:00:00.000Z",
+      "opponent": "Bruno Flores",
+      "opponentSlug": "205097-bruno-flores",
+      "result": "win",
+      "method": "other",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2015-09-11T00:00:00.000Z",
+      "opponent": "Darwin Luna Ortez",
+      "opponentSlug": "89037-darwin-luna-el-joker",
+      "result": "win",
+      "method": "other",
+      "event": "UCC 25",
+      "eventSlug": "33953-ucc-25",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2015-08-29T00:00:00.000Z",
+      "opponent": "Bruno Flores",
+      "opponentSlug": "205097-bruno-flores",
+      "result": "win",
+      "method": "other",
+      "event": null,
+      "eventSlug": null,
+      "round": 2,
+      "timeInRound": "2:23"
+    },
+    {
+      "date": "2015-02-28T00:00:00.000Z",
+      "opponent": "Carlos Cantarero",
+      "opponentSlug": "89708-carlos-cantarero",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "HFL 6",
+      "eventSlug": "30341-hfl-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-01-08T00:00:00.000Z",
+      "opponent": "Omar Ramo",
+      "opponentSlug": "205096-omar-ramo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:37:24.610Z"
+}

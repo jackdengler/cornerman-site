@@ -1,0 +1,231 @@
+{
+  "slug": "75347-ricardo-bachir",
+  "name": "Ricardo Bachir",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Lebanon",
+  "url": "https://www.tapology.com/fightcenter/fighters/75347-ricardo-bachir",
+  "recentFights": [
+    {
+      "date": "2024-01-26T00:00:00.000Z",
+      "opponent": "Erçin Şirin",
+      "opponentSlug": "296894-ercin-sirin-grey-wolf",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "MEFC 2",
+      "eventSlug": "110601-mefc-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-08T00:00:00.000Z",
+      "opponent": "Karar Rahim Ali",
+      "opponentSlug": "238538-karar-rahim-ali",
+      "result": "loss",
+      "method": "tko",
+      "event": "ACS Fight Night 3",
+      "eventSlug": "91568-acs-fight-night-2",
+      "round": 2,
+      "timeInRound": "4:03"
+    },
+    {
+      "date": "2015-08-31T00:00:00.000Z",
+      "opponent": "Subhi Rashid",
+      "opponentSlug": "115961-subhi-rashid",
+      "result": "win",
+      "method": "tko",
+      "event": "Desert Force Al Academiya",
+      "eventSlug": "35126-al-academiya-season-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-31T00:00:00.000Z",
+      "opponent": "Waseem Kirchen",
+      "opponentSlug": "118260-waseem-kirchen",
+      "result": "win",
+      "method": "other",
+      "event": "Desert Force Al Academiya",
+      "eventSlug": "35126-al-academiya-season-3",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-31T00:00:00.000Z",
+      "opponent": "Alaa Mansour",
+      "opponentSlug": "91952-alaa-mansour",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Desert Force Al Academiya",
+      "eventSlug": "35126-al-academiya-season-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-10T00:00:00.000Z",
+      "opponent": "Sonny Kirisome",
+      "opponentSlug": "358648-sonny-krisome",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "GAMMA",
+      "eventSlug": "108670-gamma-world-mma-championship-2023-finals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-08T00:00:00.000Z",
+      "opponent": "Zaid Syeed Shaikh",
+      "opponentSlug": "399488-zaid-syeed-shaikh",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "GAMMA",
+      "eventSlug": "108384-gamma-world-mma-championship-2023-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-09T00:00:00.000Z",
+      "opponent": "Daniel Flores",
+      "opponentSlug": "324883-daniel-flores",
+      "result": "win",
+      "method": "other",
+      "event": "MMA SuperCup",
+      "eventSlug": "87491-mma-supercup-quarter-finals",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-12T00:00:00.000Z",
+      "opponent": "Dmitriy Popov",
+      "opponentSlug": "220607-dmitriy-popov",
+      "result": "loss",
+      "method": "tko",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64318-immaf-wmmaa-amateur-world-championships-2019-day-2",
+      "round": 1,
+      "timeInRound": "1:59"
+    },
+    {
+      "date": "2019-05-04T00:00:00.000Z",
+      "opponent": "Shamil Gaziev",
+      "opponentSlug": "201352-shamil-gaziev",
+      "result": "loss",
+      "method": "tko",
+      "event": "IMMAF WMMAA Asian Open",
+      "eventSlug": "60699-immaf-wmmaa-asian-open-finals",
+      "round": 1,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2019-05-03T00:00:00.000Z",
+      "opponent": "Alexandr Dya",
+      "opponentSlug": "228486-alexandr-dya",
+      "result": "win",
+      "method": "tko",
+      "event": "IMMAF WMMAA Asian Open",
+      "eventSlug": "60698-immaf-wmmaa-asian-open-day-2",
+      "round": 1,
+      "timeInRound": "1:09"
+    },
+    {
+      "date": "2018-11-14T00:00:00.000Z",
+      "opponent": "Olzhobay Kudaiberdiev",
+      "opponentSlug": "201347-olzhobai-kudaiberdi-uulu",
+      "result": "loss",
+      "method": "tko",
+      "event": "2018 IMMAF-WMMAA Unified World Championships",
+      "eventSlug": "56559-2018-immaf-wmma-unified-world-championships-day-3-cage-3",
+      "round": 1,
+      "timeInRound": "2:03"
+    },
+    {
+      "date": "2018-11-13T00:00:00.000Z",
+      "opponent": "Niko Eronen",
+      "opponentSlug": "164961-niko-eronen",
+      "result": "win",
+      "method": "dec-split",
+      "event": "2018 IMMAF-WMMAA Unified World Championships",
+      "eventSlug": "56554-2018-immaf-wmma-unified-world-championships-day-2-cage-b",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-08-17T00:00:00.000Z",
+      "opponent": "Ahmad Hassan",
+      "opponentSlug": "195362-ahmad-hassan",
+      "result": "win",
+      "method": "tko",
+      "event": "Cedar FC 5",
+      "eventSlug": "55213-cedar-fc-5",
+      "round": 1,
+      "timeInRound": "0:12"
+    },
+    {
+      "date": "2017-11-14T00:00:00.000Z",
+      "opponent": "Thomas Knudsen",
+      "opponentSlug": "127174-thomas-knudsen",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "2017 IMMAF World Championships",
+      "eventSlug": "49156-2017-immaf-world-championships-day-2-cage-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-13T00:00:00.000Z",
+      "opponent": "Toma Walton",
+      "opponentSlug": "146028-toma-walton",
+      "result": "win",
+      "method": "tko",
+      "event": "2017 IMMAF World Championships",
+      "eventSlug": "43731-2017-immaf-world-championships-day-1-cage-1",
+      "round": 1,
+      "timeInRound": "0:48"
+    },
+    {
+      "date": "2014-07-01T00:00:00.000Z",
+      "opponent": "Karol Linowski",
+      "opponentSlug": "72769-karol-linowski",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "IMMAF 2014 World Championships",
+      "eventSlug": "25398-immaf-2014-world-championships-day-2-cage-b",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-05-03T00:00:00.000Z",
+      "opponent": "Fahed Dandach",
+      "opponentSlug": "77122-fahd-dandash",
+      "result": "win",
+      "method": "tko",
+      "event": "LMMAC 1: 2014 IMMAF Qualifiers",
+      "eventSlug": "25959-lmmac-1-2014-immaf-qualifiers",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-05-03T00:00:00.000Z",
+      "opponent": "Etienne Mahfouz",
+      "opponentSlug": "77199-etienne-mahfouz",
+      "result": "win",
+      "method": "tko",
+      "event": "LMMAC 1: 2014 IMMAF Qualifiers",
+      "eventSlug": "25959-lmmac-1-2014-immaf-qualifiers",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:55:50.491Z"
+}

@@ -1,0 +1,143 @@
+{
+  "slug": "139270-tainara-lisboa",
+  "name": "Tainara Lisboa",
+  "nickname": "Thai Panther",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 170,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1991-03-02",
+  "nationality": "Santos, Sao Paulo, Brasil",
+  "url": "https://www.tapology.com/fightcenter/fighters/139270-tainara-lisboa",
+  "recentFights": [
+    {
+      "date": "2025-10-18T00:00:00.000Z",
+      "opponent": "Melissa Croden",
+      "opponentSlug": "140510-melissa-croden",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "129312-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "4:32"
+    },
+    {
+      "date": "2025-05-17T00:00:00.000Z",
+      "opponent": "Luana Santos",
+      "opponentSlug": "223129-luana-santos",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "124622-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2023-10-14T00:00:00.000Z",
+      "opponent": "Ravena Oliveira",
+      "opponentSlug": "160741-ravena-oliveira-kenoudy",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "103212-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-13T00:00:00.000Z",
+      "opponent": "Jessica-Rose Clark",
+      "opponentSlug": "41689-jessy-rose",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC on ABC 4",
+      "eventSlug": "98223-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "4:20"
+    },
+    {
+      "date": "2022-04-08T00:00:00.000Z",
+      "opponent": "Conceição Oliveira",
+      "opponentSlug": "145722-cony-barcarena",
+      "result": "win",
+      "method": "sub",
+      "event": "Iron Man MMA 23",
+      "eventSlug": "87112-iron-man-cf-23",
+      "round": 2,
+      "timeInRound": "4:20"
+    },
+    {
+      "date": "2021-09-04T00:00:00.000Z",
+      "opponent": "Gloria Amaral",
+      "opponentSlug": "293808-gloria-amaral",
+      "result": "win",
+      "method": "tko",
+      "event": "Dog Tower Fight 3",
+      "eventSlug": "82160-dog-tower-fight-3",
+      "round": 1,
+      "timeInRound": "3:48"
+    },
+    {
+      "date": "2021-04-24T00:00:00.000Z",
+      "opponent": "Leticia Hille",
+      "opponentSlug": "292685-leticia-hille-trator",
+      "result": "win",
+      "method": "other",
+      "event": "Woman's Fight 1",
+      "eventSlug": "78842-women-s-fight-1",
+      "round": 1,
+      "timeInRound": "2:35"
+    },
+    {
+      "date": "2020-11-08T00:00:00.000Z",
+      "opponent": "Lorrany Santos",
+      "opponentSlug": "244661-lorrany-santos",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shooto Brasil 103",
+      "eventSlug": "71505-shooto-brasil-103",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-10-11T00:00:00.000Z",
+      "opponent": "Daline Cyborg",
+      "opponentSlug": "245654-daline-cyborg",
+      "result": "win",
+      "method": "sub",
+      "event": "Thunder Fight 23",
+      "eventSlug": "73269-thunder-fight-23-o-retorno",
+      "round": 1,
+      "timeInRound": "4:36"
+    },
+    {
+      "date": "2019-09-22T00:00:00.000Z",
+      "opponent": "Mara Suzamaque",
+      "opponentSlug": "237706-mara-suzamaque",
+      "result": "win",
+      "method": "other",
+      "event": "Pro Fight MMA Brasil 43",
+      "eventSlug": "63419-pro-fight-mma-brasil-43",
+      "round": 3,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2016-09-03T00:00:00.000Z",
+      "opponent": "Norma Dumont",
+      "opponentSlug": "139271-norma-dumont-viana",
+      "result": "loss",
+      "method": "sub",
+      "event": "Jungle Fight 90",
+      "eventSlug": "41289-jungle-fight-90",
+      "round": 1,
+      "timeInRound": "2:58"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:00:08.865Z"
+}

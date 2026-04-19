@@ -1,0 +1,154 @@
+{
+  "slug": "88976-mario-dengg",
+  "name": "Mario Dengg",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1988-03-01",
+  "nationality": "Austria",
+  "url": "https://www.tapology.com/fightcenter/fighters/88976-mario-dengg",
+  "recentFights": [
+    {
+      "date": "2019-03-23T00:00:00.000Z",
+      "opponent": "Mario Žgela",
+      "opponentSlug": "173183-mario-zgela",
+      "result": "loss",
+      "method": "tko",
+      "event": "Austrian FC 9",
+      "eventSlug": "59123-austrian-fc-9",
+      "round": 1,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2018-10-27T00:00:00.000Z",
+      "opponent": "Dzhabrail Yasaev",
+      "opponentSlug": "131719-dzhabrail-yasaev",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Berkut Young Eagles 6",
+      "eventSlug": "56042-berkut-young-eagles-6-grand-prix-berkut-1-4-finals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-29T00:00:00.000Z",
+      "opponent": "Abdula Isaev",
+      "opponentSlug": "128445-abdulla-isaev",
+      "result": "win",
+      "method": "other",
+      "event": "Berkut Young Eagles 4",
+      "eventSlug": "52767-berkut-young-eagles-4",
+      "round": 3,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2017-09-10T00:00:00.000Z",
+      "opponent": "Robert Valentin",
+      "opponentSlug": "136498-robert-valentin",
+      "result": "loss",
+      "method": "sub",
+      "event": "Aggrelin 19",
+      "eventSlug": "46914-aggrelin-19",
+      "round": 2,
+      "timeInRound": "4:02"
+    },
+    {
+      "date": "2017-05-13T00:00:00.000Z",
+      "opponent": "Tony Teresi",
+      "opponentSlug": "157749-tony-teresi",
+      "result": "win",
+      "method": "tko",
+      "event": "Centurion Fight Championship 1",
+      "eventSlug": "45680-centurion-fight-championship-1",
+      "round": 2,
+      "timeInRound": "4:40"
+    },
+    {
+      "date": "2016-11-26T00:00:00.000Z",
+      "opponent": "Mathias Markic",
+      "opponentSlug": "78800-maki-martic-the-lion",
+      "result": "win",
+      "method": "tko",
+      "event": "WSFC 4: The Next Round",
+      "eventSlug": "41590-wsfc-4-the-next-round",
+      "round": 2,
+      "timeInRound": "3:32"
+    },
+    {
+      "date": "2016-08-14T00:00:00.000Z",
+      "opponent": "Daniel Dörrer",
+      "opponentSlug": "78804-daniel-drrer",
+      "result": "loss",
+      "method": "other",
+      "event": "INNFERNO Fighting Championship 2",
+      "eventSlug": "38908-innferno-fighting-championship-2",
+      "round": 1,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2015-11-28T00:00:00.000Z",
+      "opponent": "Umit Polat",
+      "opponentSlug": "66389-umit-polat",
+      "result": "win",
+      "method": "other",
+      "event": "WSFC 3: The Third Strike",
+      "eventSlug": "36975-wsfc-3-the-third-strike",
+      "round": 1,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2015-09-06T00:00:00.000Z",
+      "opponent": "Andrius Liudvinavicius",
+      "opponentSlug": "42864-andrius-liudvinavicius",
+      "result": "win",
+      "method": "other",
+      "event": "Aggrelin 8: Backstage Brawl II",
+      "eventSlug": "35095-aggrelin-8-backstage-brawl-ii",
+      "round": 2,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2015-06-13T00:00:00.000Z",
+      "opponent": "Georg Reichert",
+      "opponentSlug": "65838-georg-reichert",
+      "result": "win",
+      "method": "other",
+      "event": "INNFERNO Fighting Championship 1",
+      "eventSlug": "33048-innferno-fighting-championship-1",
+      "round": 1,
+      "timeInRound": "1:40"
+    },
+    {
+      "date": "2015-04-12T00:00:00.000Z",
+      "opponent": "Filip Zadruzynski",
+      "opponentSlug": "61684-filip-zadruzynski",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Aggrelin 7: Backstage Brawl",
+      "eventSlug": "31778-aggrelin-7-backstage-brawl",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-12-20T00:00:00.000Z",
+      "opponent": "Andreas Wacker",
+      "opponentSlug": "88975-andreas-wacker",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Night Stuttgart",
+      "eventSlug": "28794-fight-night-stuttgart",
+      "round": 1,
+      "timeInRound": "3:48"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:57:45.843Z"
+}

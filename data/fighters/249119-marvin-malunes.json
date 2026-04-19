@@ -1,0 +1,209 @@
+{
+  "slug": "249119-marvin-malunes",
+  "name": "Marvin Malunes",
+  "nickname": "Marble",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 160,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Odiongan, Philippines",
+  "url": "https://www.tapology.com/fightcenter/fighters/249119-marvin-malunes",
+  "recentFights": [
+    {
+      "date": "2026-05-29T00:00:00.000Z",
+      "opponent": "David Bangguigui",
+      "opponentSlug": "126692-dave-banguigui",
+      "result": null,
+      "method": "other",
+      "event": "Zeus Fight League 4",
+      "eventSlug": "141278-zeus-fight-league-4-reign-of-kings",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-12-07T00:00:00.000Z",
+      "opponent": "Yuki Angdembe",
+      "opponentSlug": "141317-yuki-angdembe",
+      "result": "loss",
+      "method": "other",
+      "event": "Soma Fight Series 13",
+      "eventSlug": "123546-soma-fight-series-13",
+      "round": 1,
+      "timeInRound": "4:31"
+    },
+    {
+      "date": "2024-11-23T00:00:00.000Z",
+      "opponent": "Colby Thicknesse",
+      "opponentSlug": "166902-colby-thicknesse",
+      "result": "loss",
+      "method": "other",
+      "event": "HEX Fight Series 33",
+      "eventSlug": "117576-hex-fight-series-33",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-28T00:00:00.000Z",
+      "opponent": "JR Alejandro",
+      "opponentSlug": "354059-reygan-johnrey-alejandro",
+      "result": "loss",
+      "method": "sub",
+      "event": "URCC Fight Night",
+      "eventSlug": "118071-urcc-fight-night",
+      "round": 3,
+      "timeInRound": "2:31"
+    },
+    {
+      "date": "2024-06-29T00:00:00.000Z",
+      "opponent": "Josias Musasa",
+      "opponentSlug": "341923-josias-musasa",
+      "result": "loss",
+      "method": "other",
+      "event": "Impact Championship 3",
+      "eventSlug": "112693-impact-championship-3",
+      "round": 1,
+      "timeInRound": "2:28"
+    },
+    {
+      "date": "2024-03-07T00:00:00.000Z",
+      "opponent": "John Eco",
+      "opponentSlug": "61805-john-eco-the-sniper",
+      "result": "win",
+      "method": "sub",
+      "event": "URCC 90: URCC x Dynasty",
+      "eventSlug": "116256-urcc-90-urcc-x-dynasty",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-19T00:00:00.000Z",
+      "opponent": "Francis Cabugoy",
+      "opponentSlug": "342052-francis-cabugoy",
+      "result": "win",
+      "method": "sub",
+      "event": "URCC 88",
+      "eventSlug": "105457-urcc-88",
+      "round": 1,
+      "timeInRound": "4:32"
+    },
+    {
+      "date": "2023-07-21T00:00:00.000Z",
+      "opponent": "Kimbert Alintozon",
+      "opponentSlug": "319627-kimbert-alintozon",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "CFC 14: Rex Orientem",
+      "eventSlug": "97725-centurion-fc",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-14T00:00:00.000Z",
+      "opponent": "Jayson Vasquez",
+      "opponentSlug": "192639-jasyson-vasquez",
+      "result": "win",
+      "method": "sub",
+      "event": "UGB 36",
+      "eventSlug": "89584-ugb-36",
+      "round": 1,
+      "timeInRound": "4:57"
+    },
+    {
+      "date": "2019-11-17T00:00:00.000Z",
+      "opponent": "Vincent Tyler",
+      "opponentSlug": "279120-vincent-tyler-tisoy",
+      "result": "win",
+      "method": "other",
+      "event": "UGB 32",
+      "eventSlug": "65216-ugb-32",
+      "round": 1,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2019-08-17T00:00:00.000Z",
+      "opponent": "Arvin Gumban",
+      "opponentSlug": "247066-arvin-gumban",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-15T00:00:00.000Z",
+      "opponent": "Rhino Casipe",
+      "opponentSlug": "105802-reno-casipe",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Dynasty Fight Club",
+      "eventSlug": "131746-dynasty-fight-club",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-08T00:00:00.000Z",
+      "opponent": "CJ Tangke",
+      "opponentSlug": "506198-cj-tangke",
+      "result": "win",
+      "method": "sub",
+      "event": "Dynasty Fight Club",
+      "eventSlug": "130188-dynasty-fight-club",
+      "round": 1,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2024-05-31T00:00:00.000Z",
+      "opponent": "Kim Min Joong",
+      "opponentSlug": "542979-kim-min-joong",
+      "result": "loss",
+      "method": "other",
+      "event": "Dynasty Fight Club",
+      "eventSlug": "138968-dynasty-fight-club",
+      "round": 1,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2021-11-27T00:00:00.000Z",
+      "opponent": "Ernesto Siwa",
+      "opponentSlug": "319605-ernesto-siwa",
+      "result": "win",
+      "method": "sub",
+      "event": "East Side FC",
+      "eventSlug": "85187-east-side-fighting-challengeflyweight-grand-prix",
+      "round": 1,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2019-09-21T00:00:00.000Z",
+      "opponent": "Erdie Bautista",
+      "opponentSlug": "83885-erdie-bautista",
+      "result": "win",
+      "method": "tko",
+      "event": "Valiant FC: Road to Championships 4",
+      "eventSlug": "74550-valiant-fc-road-to-championships-4",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-25T00:00:00.000Z",
+      "opponent": "Ariane Fantilanan",
+      "opponentSlug": "200337-ariane-fantilanan",
+      "result": "loss",
+      "method": "sub",
+      "event": "PEC: Search For The Filipino Heroes",
+      "eventSlug": "65768-philippine-encuentro-championship-search-for-the-filipino-heroes",
+      "round": 1,
+      "timeInRound": "2:36"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:56:20.097Z"
+}

@@ -1,0 +1,154 @@
+{
+  "slug": "58531-pawel-pawlak",
+  "name": "Paweł Pawlak",
+  "nickname": "Plastinho",
+  "aliases": [],
+  "recordPro": {
+    "wins": 25,
+    "losses": 4,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 188,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1989-02-08",
+  "nationality": "Łódź, Poland",
+  "url": "https://www.tapology.com/fightcenter/fighters/58531-pawel-pawlak",
+  "recentFights": [
+    {
+      "date": "2026-04-18T00:00:00.000Z",
+      "opponent": "Mamed Khalidov",
+      "opponentSlug": "mamed-khalidov-cannibal",
+      "result": null,
+      "method": "other",
+      "event": "KSW 117: Pawlak vs. Khalidov",
+      "eventSlug": "140146-ksw-117-de-fries-vs-wojcik",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-12-20T00:00:00.000Z",
+      "opponent": "Laïd Zerhouni",
+      "opponentSlug": "116884-lad-zerhouni",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 113: Bartosiński vs. Tulshaev",
+      "eventSlug": "132943-ksw-113",
+      "round": 5,
+      "timeInRound": "3:09"
+    },
+    {
+      "date": "2024-07-20T00:00:00.000Z",
+      "opponent": "Damian Janikowski",
+      "opponentSlug": "148520-damian-janikowski",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KSW 96: Pawlak vs. Janikowski 2",
+      "eventSlug": "113366-ksw-96-pawlak-vs-janikowski-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-16T00:00:00.000Z",
+      "opponent": "Michał Materla",
+      "opponentSlug": "michal-materla-cipao",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KSW 89: Bartosiński vs. Parnasse",
+      "eventSlug": "105741-ksw-89",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-03T00:00:00.000Z",
+      "opponent": "Tomasz Romanowski",
+      "opponentSlug": "31414-tomasz-romanowski",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 83: Colosseum 2",
+      "eventSlug": "98636-ksw-83-colosseum-2",
+      "round": 5,
+      "timeInRound": "3:25"
+    },
+    {
+      "date": "2022-11-12T00:00:00.000Z",
+      "opponent": "Tom Breese",
+      "opponentSlug": "16609-tom-breese",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 76: Parnasse vs. Rajewski",
+      "eventSlug": "92898-ksw-76",
+      "round": 1,
+      "timeInRound": "3:54"
+    },
+    {
+      "date": "2022-04-23T00:00:00.000Z",
+      "opponent": "Cezariusz Kęsik",
+      "opponentSlug": "90597-cezary-ksik",
+      "result": "win",
+      "method": "dec-split",
+      "event": "KSW 69: Przybysz vs. Martins",
+      "eventSlug": "87779-ksw-69",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-04T00:00:00.000Z",
+      "opponent": "Damian Janikowski",
+      "opponentSlug": "148520-damian-janikowski",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KSW 63: Crime of the Century",
+      "eventSlug": "81179-ksw-63-soldic-vs-kincl",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-30T00:00:00.000Z",
+      "opponent": "Sergey Guzev",
+      "opponentSlug": "18011-sergey-guzev",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Babilon MMA 21",
+      "eventSlug": "78591-babilon-mma-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-11-27T00:00:00.000Z",
+      "opponent": "Adrian Błeszyński",
+      "opponentSlug": "71492-adrian-beszyski",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Babilon MMA 18",
+      "eventSlug": "73866-babilon-mma-18-pawlak-vs-bleszynski-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-06-26T00:00:00.000Z",
+      "opponent": "Filip Tomczak",
+      "opponentSlug": "68089-filip-tomczak",
+      "result": "win",
+      "method": "other",
+      "event": "Babilon MMA 14",
+      "eventSlug": "69946-babilon-mma-14",
+      "round": 3,
+      "timeInRound": "1:18"
+    },
+    {
+      "date": "2020-02-07T00:00:00.000Z",
+      "opponent": "Adrian Błeszyński",
+      "opponentSlug": "71492-adrian-beszyski",
+      "result": "draw",
+      "method": "dec-split",
+      "event": "Babilon MMA 12",
+      "eventSlug": "65093-babilon-mma-12",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:02:56.541Z"
+}

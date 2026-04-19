@@ -1,0 +1,231 @@
+{
+  "slug": "25046-bryce-edminister",
+  "name": "Bryce Edminister",
+  "nickname": "The Vice",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1991-08-30",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/25046-bryce-edminister",
+  "recentFights": [
+    {
+      "date": "2023-12-09T00:00:00.000Z",
+      "opponent": "Cole Faust",
+      "opponentSlug": "232186-cole-faust",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "SteelFist Fight Night",
+      "eventSlug": "106226-steelfist-fight-night-born-legacy",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-05T00:00:00.000Z",
+      "opponent": "Troy Dennison",
+      "opponentSlug": "15951-troy-dennison",
+      "result": "win",
+      "method": "other",
+      "event": "Fierce FC 22",
+      "eventSlug": "94267-fierce-fc-22",
+      "round": 1,
+      "timeInRound": "2:11"
+    },
+    {
+      "date": "2021-10-23T00:00:00.000Z",
+      "opponent": "Ben Hollier",
+      "opponentSlug": "145858-ben-hollier",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Front Street Fights 22",
+      "eventSlug": "83956-front-street-fights-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-02-01T00:00:00.000Z",
+      "opponent": "Cody Sattler",
+      "opponentSlug": "76359-cody-sattler",
+      "result": "loss",
+      "method": "dec-majority",
+      "event": "Front Street Fights 18",
+      "eventSlug": "57290-front-street-fights-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-21T00:00:00.000Z",
+      "opponent": "Leon Taylor",
+      "opponentSlug": "91403-leon-taylor",
+      "result": "win",
+      "method": "sub",
+      "event": "Bellator 205",
+      "eventSlug": "54285-bellator-205",
+      "round": 2,
+      "timeInRound": "1:34"
+    },
+    {
+      "date": "2018-04-13T00:00:00.000Z",
+      "opponent": "Karl Grace",
+      "opponentSlug": "53001-karl-grace",
+      "result": "win",
+      "method": "other",
+      "event": "SteelFist Fight Night 57",
+      "eventSlug": "51906-steelfist-fight-night-57-friday-the-13th",
+      "round": 1,
+      "timeInRound": "1:52"
+    },
+    {
+      "date": "2017-11-10T00:00:00.000Z",
+      "opponent": "Paul Crawford",
+      "opponentSlug": "93016-paul-crawford",
+      "result": "loss",
+      "method": "other",
+      "event": "Front Street Fights 14",
+      "eventSlug": "48712-front-street-fights-14",
+      "round": 1,
+      "timeInRound": "1:41"
+    },
+    {
+      "date": "2017-08-18T00:00:00.000Z",
+      "opponent": "Kellen VanCamp",
+      "opponentSlug": "104503-kellen-vancamp",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Front Street Fights 13",
+      "eventSlug": "47613-front-street-fights-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-13T00:00:00.000Z",
+      "opponent": "Nick Estrada",
+      "opponentSlug": "129804-nick-estrada",
+      "result": "win",
+      "method": "sub",
+      "event": "South Valley Slam",
+      "eventSlug": "44877-south-valley-slam-beach-brawl",
+      "round": 1,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2016-09-30T00:00:00.000Z",
+      "opponent": "John Wang-Kim",
+      "opponentSlug": "105542-john-kim",
+      "result": "loss",
+      "method": "tko",
+      "event": "Tuff-N-Uff",
+      "eventSlug": "41895-tuff-n-uff",
+      "round": 1,
+      "timeInRound": "0:26"
+    },
+    {
+      "date": "2016-06-04T00:00:00.000Z",
+      "opponent": "Julius Descheenie",
+      "opponentSlug": "88053-julius-decheenie",
+      "result": "win",
+      "method": "tko",
+      "event": "Fierce FC 2",
+      "eventSlug": "39708-fierce-fc-2-justice",
+      "round": 3,
+      "timeInRound": "2:49"
+    },
+    {
+      "date": "2015-08-22T00:00:00.000Z",
+      "opponent": "Julian Ruiz",
+      "opponentSlug": "87598-julian-ruiz-aztec-warrior",
+      "result": "loss",
+      "method": "tko",
+      "event": "Power Promotions",
+      "eventSlug": "33702-power-promotions",
+      "round": 1,
+      "timeInRound": "0:07"
+    },
+    {
+      "date": "2015-02-06T00:00:00.000Z",
+      "opponent": "Braden Gardner",
+      "opponentSlug": "55715-braden-gardner",
+      "result": "win",
+      "method": "dec-split",
+      "event": "SteelFist Fight Night 31",
+      "eventSlug": "29292-steelfist-fight-night-31-war-zone",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-14T00:00:00.000Z",
+      "opponent": "Paul Sanders",
+      "opponentSlug": "43619-paul-sanders",
+      "result": "win",
+      "method": "dec-split",
+      "event": "SteelFist Fight Night 29",
+      "eventSlug": "27273-steelfist-fight-night-29-wrath",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-06-06T00:00:00.000Z",
+      "opponent": "Samson Phommabout",
+      "opponentSlug": "46265-samson-phommabout",
+      "result": "loss",
+      "method": "tko",
+      "event": "SteelFist Fight Night 25",
+      "eventSlug": "24103-steelfist-fight-night-25-resolution-resolution",
+      "round": 3,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2013-09-27T00:00:00.000Z",
+      "opponent": "Colton Montgomery",
+      "opponentSlug": "55714-colton-montgomery",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "SteelFist Fight Night 19",
+      "eventSlug": "20167-steelfist-fight-night-19-fearless",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-03-29T00:00:00.000Z",
+      "opponent": "Christian Ritter",
+      "opponentSlug": "44758-christian-ritter",
+      "result": "win",
+      "method": "tko",
+      "event": "Total Mayhem",
+      "eventSlug": "18271-total-mayhem-rising-stars",
+      "round": 1,
+      "timeInRound": "0:40"
+    },
+    {
+      "date": "2012-04-07T00:00:00.000Z",
+      "opponent": "Tyler Rackham",
+      "opponentSlug": "20187-tyler-rackham",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Total Mayhem",
+      "eventSlug": "13280-were-back-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-01-29T00:00:00.000Z",
+      "opponent": "Dylan Birthisel",
+      "opponentSlug": "26940-dylan-birthisel",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:39:15.328Z"
+}

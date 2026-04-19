@@ -1,0 +1,99 @@
+{
+  "slug": "457865-roberto-cuellar",
+  "name": "Roberto Cuellar",
+  "nickname": "The Golden Boy",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "2009-01-16",
+  "nationality": "Bolivia",
+  "url": "https://www.tapology.com/fightcenter/fighters/457865-roberto-cuellar",
+  "recentFights": [
+    {
+      "date": "2026-02-07T00:00:00.000Z",
+      "opponent": "Gabriel López",
+      "opponentSlug": "544068-gabriel-lopez",
+      "result": "win",
+      "method": "other",
+      "event": "Copa Violencia 3",
+      "eventSlug": "138130-copa-violencia-3",
+      "round": 1,
+      "timeInRound": "3:17"
+    },
+    {
+      "date": "2025-11-28T00:00:00.000Z",
+      "opponent": "Ivan Marconi",
+      "opponentSlug": "412609-ivan-marconi",
+      "result": "win",
+      "method": "other",
+      "event": "Champion 24",
+      "eventSlug": "134064-copa-ciclon-combat-4",
+      "round": 1,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2025-06-27T00:00:00.000Z",
+      "opponent": "Guillermo Justiniano",
+      "opponentSlug": "454719-guillermo-justiniano",
+      "result": "win",
+      "method": "sub",
+      "event": "Noche de Campeones 6",
+      "eventSlug": "130298-noche-de-campeones-6",
+      "round": 3,
+      "timeInRound": "0:52"
+    },
+    {
+      "date": "2025-03-26T00:00:00.000Z",
+      "opponent": "Nicolas Medina",
+      "opponentSlug": "489290-nicolas-medina",
+      "result": "win",
+      "method": "sub",
+      "event": "Copa Ciclón Combat 3",
+      "eventSlug": "122775-copa-ciclon-combat-3-edicion-especial",
+      "round": 1,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2025-02-28T00:00:00.000Z",
+      "opponent": "Brayan Gabriel",
+      "opponentSlug": "484289-brayan-gabriel",
+      "result": "loss",
+      "method": "sub",
+      "event": "Altitud Striking Force 4",
+      "eventSlug": "122772-altitud-striking-force-4",
+      "round": 2,
+      "timeInRound": "0:42"
+    },
+    {
+      "date": "2024-12-06T00:00:00.000Z",
+      "opponent": "David Vasquez",
+      "opponentSlug": "471916-david-vasquez",
+      "result": "win",
+      "method": "tko",
+      "event": "Copa Ciclón Combat 2",
+      "eventSlug": "120389-copa-ciclon-combat",
+      "round": 1,
+      "timeInRound": "0:10"
+    },
+    {
+      "date": "2024-08-30T00:00:00.000Z",
+      "opponent": "Luis Alberto Laime",
+      "opponentSlug": "457866-luis-alberto-laime",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Noche de Campeones 5",
+      "eventSlug": "116721-copa-ciclon-combat-2",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:01:48.835Z"
+}

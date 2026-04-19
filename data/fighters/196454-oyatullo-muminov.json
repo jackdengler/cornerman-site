@@ -1,0 +1,231 @@
+{
+  "slug": "196454-oyatullo-muminov",
+  "name": "Oyatullo Muminov",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 14,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "2000-11-20",
+  "nationality": "Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/196454-oyatullo-muminov",
+  "recentFights": [
+    {
+      "date": "2025-11-07T00:00:00.000Z",
+      "opponent": "Irgit Oveenchi",
+      "opponentSlug": "179513-irgit-oveanchi",
+      "result": "win",
+      "method": "sub",
+      "event": "ACA 195: Kornilov vs. Vakhaev",
+      "eventSlug": "134072-aca-195-kornilov-vs-vakhaev",
+      "round": 3,
+      "timeInRound": "4:39"
+    },
+    {
+      "date": "2025-05-10T00:00:00.000Z",
+      "opponent": "Umalat Israpilov",
+      "opponentSlug": "193862-umalat-israpilov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ACA 186: Kornilov vs. Bogatyrev 2",
+      "eventSlug": "126214-aca-186-kornilov-vs-bogatyrev-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-08-16T00:00:00.000Z",
+      "opponent": "Abdul Karim Badakhshi",
+      "opponentSlug": "199483-abdul-karim-the-rock",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ACA 178: Goncharov vs Bogatyrev",
+      "eventSlug": "115675-aca-178",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-09T00:00:00.000Z",
+      "opponent": "Saygid Abdulaev",
+      "opponentSlug": "100790-saygif-abdulaev",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ACA 172: Vagaev vs. Esengulov",
+      "eventSlug": "109939-aca-172-ismailov-vs-tokov",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-03T00:00:00.000Z",
+      "opponent": "Sergey Shirkunov",
+      "opponentSlug": "176990-sergey-shirkunov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ACA 165: Dakaev vs. Batista",
+      "eventSlug": "105391-aca-165-goncharov-vs-vyazigin",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-02T00:00:00.000Z",
+      "opponent": "Andrey Kalechits",
+      "opponentSlug": "174872-daria-samchik",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ACA 158: Mokhnatkin vs Olenichev",
+      "eventSlug": "100377-aca-158-mokhnatkin-vs-olenchiev",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-04-21T00:00:00.000Z",
+      "opponent": "Valentin Orlov",
+      "opponentSlug": "156924-valentin-orlov",
+      "result": "win",
+      "method": "other",
+      "event": "Kingdom Professional Fight 6",
+      "eventSlug": "99966-kingdom-professional-fight-6",
+      "round": 1,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2022-02-20T00:00:00.000Z",
+      "opponent": "Nikolay Shakhobov",
+      "opponentSlug": "173982-nikolay-shakhobov",
+      "result": "win",
+      "method": "other",
+      "event": "Velikoross Cup",
+      "eventSlug": "90433-great-koross-cup-time-of-new-heroes-1",
+      "round": 2,
+      "timeInRound": "3:25"
+    },
+    {
+      "date": "2021-09-04T00:00:00.000Z",
+      "opponent": "Artiom Ostryakov",
+      "opponentSlug": "90302-artiom-ostryakov",
+      "result": "win",
+      "method": "other",
+      "event": "Kingdom Professional Fight",
+      "eventSlug": "79394-kingdom-professional-fight-5",
+      "round": 1,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2021-07-24T00:00:00.000Z",
+      "opponent": "Tamerlan Chagaev",
+      "opponentSlug": "202322-tamerlan-chagaev",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ACA Young Eagles 19",
+      "eventSlug": "79729-aca-young-eagles-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-01-30T00:00:00.000Z",
+      "opponent": "Umalat Israpilov",
+      "opponentSlug": "193862-umalat-israpilov",
+      "result": "loss",
+      "method": "other",
+      "event": "ACA Young Eagles 16",
+      "eventSlug": "75348-aca-young-eagles-16-fly-weight-grand-prix-2021",
+      "round": 3,
+      "timeInRound": "4:45"
+    },
+    {
+      "date": "2020-09-11T00:00:00.000Z",
+      "opponent": "Beksultan Zamirbekov",
+      "opponentSlug": "226392-beksultan-zamirbek-uulu",
+      "result": "win",
+      "method": "other",
+      "event": "M-1 Selection Online",
+      "eventSlug": "72269-m-1-online-tournament-in-support-of-maksim-shugaley",
+      "round": 1,
+      "timeInRound": "1:34"
+    },
+    {
+      "date": "2020-07-18T00:00:00.000Z",
+      "opponent": "Aleksandr Dontsov",
+      "opponentSlug": "165723-aleksandr-dontsov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MMA Series 10",
+      "eventSlug": "70527-m-1-global",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-03-01T00:00:00.000Z",
+      "opponent": "Mark Vologdin",
+      "opponentSlug": "202598-mark-vologdin",
+      "result": "win",
+      "method": "sub",
+      "event": "GIT Sech Pro",
+      "eventSlug": "67378-git-sech-pro-time-of-new-heroes-4",
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2020-02-23T00:00:00.000Z",
+      "opponent": "Marat Sizov",
+      "opponentSlug": "241402-marat-sizov",
+      "result": "win",
+      "method": "sub",
+      "event": "WEF Selection 30",
+      "eventSlug": "66974-wef-selection-30",
+      "round": 1,
+      "timeInRound": "0:55"
+    },
+    {
+      "date": "2019-04-21T00:00:00.000Z",
+      "opponent": "Toychu Uulu Ilimbek",
+      "opponentSlug": "265910-toychu-uulu-ilimbek",
+      "result": "win",
+      "method": "sub",
+      "event": "L-1",
+      "eventSlug": "59689-l-1",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2018-12-07T00:00:00.000Z",
+      "opponent": "Vlad Novgorodtsev",
+      "opponentSlug": "204135-vlad-novgorodtsev",
+      "result": "win",
+      "method": "other",
+      "event": "RFCH 5",
+      "eventSlug": "56152-rfch-5",
+      "round": 1,
+      "timeInRound": "0:48"
+    },
+    {
+      "date": "2018-09-27T00:00:00.000Z",
+      "opponent": "Mikhail Rublev",
+      "opponentSlug": "193093-mikhail-rublev",
+      "result": "win",
+      "method": "sub",
+      "event": "L-1 Russia: Russia vs Asia",
+      "eventSlug": "54240-l-1-russia-russia-vs-asia",
+      "round": 1,
+      "timeInRound": "0:51"
+    },
+    {
+      "date": "2018-09-20T00:00:00.000Z",
+      "opponent": "Dilmurod Kurbaniyazov",
+      "opponentSlug": "198159-dilmurod-kurbaniyazov",
+      "result": "win",
+      "method": "other",
+      "event": "L-1 Russia",
+      "eventSlug": "55415-l-1-russia",
+      "round": 1,
+      "timeInRound": "0:54"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:04:18.124Z"
+}

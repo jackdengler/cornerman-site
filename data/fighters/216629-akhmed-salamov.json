@@ -1,0 +1,88 @@
+{
+  "slug": "216629-akhmed-salamov",
+  "name": "Akhmed Salamov",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 190,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1993-08-12",
+  "nationality": "Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/216629-akhmed-salamov",
+  "recentFights": [
+    {
+      "date": "2022-06-25T00:00:00.000Z",
+      "opponent": "Jose Galindo",
+      "opponentSlug": "87362-jose-luis-galindo",
+      "result": "win",
+      "method": "sub",
+      "event": "Ares FC 7: Abdoul vs. Amoussou",
+      "eventSlug": "87594-ares-fc-7",
+      "round": 1,
+      "timeInRound": "2:28"
+    },
+    {
+      "date": "2022-03-10T00:00:00.000Z",
+      "opponent": "Robert Valentin",
+      "opponentSlug": "136498-robert-valentin",
+      "result": "win",
+      "method": "other",
+      "event": "Ares FC 4: Kruschewsky vs. Lapilus",
+      "eventSlug": "87017-ares-fc-4-lapilus-kruschewsky",
+      "round": 3,
+      "timeInRound": "4:46"
+    },
+    {
+      "date": "2021-10-10T00:00:00.000Z",
+      "opponent": "Mehdad Kavand",
+      "opponentSlug": "179383-mehdad-kavand",
+      "result": "win",
+      "method": "sub",
+      "event": "Levels Fight League 3",
+      "eventSlug": "82324-levels-fight-league-3",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2021-07-25T00:00:00.000Z",
+      "opponent": "Kevin Sowe",
+      "opponentSlug": "207027-abdoul-sow",
+      "result": "win",
+      "method": "sub",
+      "event": "Levels Fight League 2",
+      "eventSlug": "80652-levels-fight-league-2",
+      "round": 1,
+      "timeInRound": "2:17"
+    },
+    {
+      "date": "2021-02-20T00:00:00.000Z",
+      "opponent": "Bartosz Szewczyk",
+      "opponentSlug": "226180-bartosz-szewczyk",
+      "result": "loss",
+      "method": "sub",
+      "event": "FEN 32: LOTOS Fight Night 4",
+      "eventSlug": "74467-fen-32",
+      "round": 2,
+      "timeInRound": "3:06"
+    },
+    {
+      "date": "2019-04-07T00:00:00.000Z",
+      "opponent": "George Kosmidis",
+      "opponentSlug": "216628-george-kosmidis",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Survivor 13",
+      "eventSlug": "58575-cage-survivor-13",
+      "round": 2,
+      "timeInRound": "2:59"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:57:32.301Z"
+}

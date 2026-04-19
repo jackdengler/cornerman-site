@@ -1,0 +1,70 @@
+{
+  "slug": "196487-tautala-peau",
+  "name": "Tautala Peau",
+  "nickname": "Tala",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/196487-tautala-peau",
+  "recentFights": [
+    {
+      "date": "2019-03-02T00:00:00.000Z",
+      "opponent": "Marcus Carney",
+      "opponentSlug": "141619-marcus-carney",
+      "result": "win",
+      "method": "tko",
+      "event": "Eternal MMA 41",
+      "eventSlug": "57696-eternal-mma-41",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-10T00:00:00.000Z",
+      "opponent": "Brando Peričić",
+      "opponentSlug": "195101-brando-pericic",
+      "result": "loss",
+      "method": "tko",
+      "event": "Diamondback FC 7",
+      "eventSlug": "55136-diamondback-fc-7",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2018-07-29T00:00:00.000Z",
+      "opponent": "Reon Mahima",
+      "opponentSlug": "196486-reon-mahima",
+      "result": "win",
+      "method": "other",
+      "event": "Path to Hex 5",
+      "eventSlug": "54469-path-to-hex",
+      "round": 1,
+      "timeInRound": "0:10"
+    },
+    {
+      "date": "2018-04-28T00:00:00.000Z",
+      "opponent": "Adam Gordon",
+      "opponentSlug": "162506-adam-gordon",
+      "result": "win",
+      "method": "tko",
+      "event": "Path to Hex 4",
+      "eventSlug": "57749-path-to-hex-4",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:56:10.786Z"
+}

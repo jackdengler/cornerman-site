@@ -1,0 +1,132 @@
+{
+  "slug": "158538-nacim-belhaou",
+  "name": "Nacim Belhouachi",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "France",
+  "url": "https://www.tapology.com/fightcenter/fighters/158538-nacim-belhaou",
+  "recentFights": [
+    {
+      "date": "2026-04-18T00:00:00.000Z",
+      "opponent": "Jan Mašek",
+      "opponentSlug": "188187-jan-masek",
+      "result": null,
+      "method": "other",
+      "event": "KSW 117: Pawlak vs. Khalidov",
+      "eventSlug": "140146-ksw-117-de-fries-vs-wojcik",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-02-21T00:00:00.000Z",
+      "opponent": "Josef Štummer",
+      "opponentSlug": "270603-josef-stummer",
+      "result": "loss",
+      "method": "other",
+      "event": "KSW 103: Brichta vs. Charzewski",
+      "eventSlug": "119218-ksw-103",
+      "round": 1,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2024-12-20T00:00:00.000Z",
+      "opponent": "Damien Peltier",
+      "opponentSlug": "95228-damien-peltier",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 101: Le Classique",
+      "eventSlug": "116515-ksw-101",
+      "round": 1,
+      "timeInRound": "3:45"
+    },
+    {
+      "date": "2024-01-26T00:00:00.000Z",
+      "opponent": "Magomed Kadimagomedov",
+      "opponentSlug": "326810-magomed-kadimagomedov",
+      "result": "loss",
+      "method": "sub",
+      "event": "Hexagone MMA 13",
+      "eventSlug": "106059-hexagone-mma-13",
+      "round": 2,
+      "timeInRound": "2:06"
+    },
+    {
+      "date": "2023-09-07T00:00:00.000Z",
+      "opponent": "Gergely Csibi",
+      "opponentSlug": "196134-gergely-csibi",
+      "result": "win",
+      "method": "sub",
+      "event": "Hexagone MMA 11",
+      "eventSlug": "104260-hexagone-mma-11",
+      "round": 1,
+      "timeInRound": "3:49"
+    },
+    {
+      "date": "2023-03-11T00:00:00.000Z",
+      "opponent": "Younes Bouhassoun",
+      "opponentSlug": "334237-younes-bouhassoun",
+      "result": "win",
+      "method": "sub",
+      "event": "Hexagone MMA 7",
+      "eventSlug": "97625-hexagone-mma-7",
+      "round": 2,
+      "timeInRound": "3:23"
+    },
+    {
+      "date": "2022-06-18T00:00:00.000Z",
+      "opponent": "Mohamad Issa",
+      "opponentSlug": "126116-mohamad-issa",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "NFC 9",
+      "eventSlug": "90359-nfc-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-02-23T00:00:00.000Z",
+      "opponent": "Yannick Frachon",
+      "opponentSlug": "113750-yannick-frachon",
+      "result": "win",
+      "method": "sub",
+      "event": "Lyon Fighting Championship 11",
+      "eventSlug": "57636-lyon-fighting-championship-11",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-17T00:00:00.000Z",
+      "opponent": "Girikhan Khamurzaev",
+      "opponentSlug": "111021-girkihan-khamurzaev",
+      "result": "loss",
+      "method": "sub",
+      "event": "APASH Tournament 4",
+      "eventSlug": "51024-apash-tournament",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-28T00:00:00.000Z",
+      "opponent": "Dorian Defraeye",
+      "opponentSlug": "158537-dorian-defraeye",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "360 Selection #1",
+      "eventSlug": "45997-360-selection-1",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:03:31.576Z"
+}

@@ -1,0 +1,231 @@
+{
+  "slug": "80828-katharina-lehner",
+  "name": "Katharina Lehner",
+  "nickname": "The German Gypsy",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 9,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 170,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1990-04-09",
+  "nationality": "Schwandorf, Germany",
+  "url": "https://www.tapology.com/fightcenter/fighters/80828-katharina-lehner",
+  "recentFights": [
+    {
+      "date": "2026-01-31T00:00:00.000Z",
+      "opponent": "Lucie Pudilová",
+      "opponentSlug": "90345-lucie-pudilova",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 83: Samsonidse vs. Machaev",
+      "eventSlug": "134546-oktagon-83-stuttgart",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-18T00:00:00.000Z",
+      "opponent": "Alina Dalaslan",
+      "opponentSlug": "402986-alina-dalaslan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 78: Eckerlin vs. Trušček",
+      "eventSlug": "118937-oktagon",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-07T00:00:00.000Z",
+      "opponent": "Maya Stewart",
+      "opponentSlug": "157951-maya-stewart",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fury FC 109",
+      "eventSlug": "131546-fury-fc-109-graves-vs-calderon",
+      "round": 3,
+      "timeInRound": "3:37"
+    },
+    {
+      "date": "2025-05-16T00:00:00.000Z",
+      "opponent": "Olga Rubin",
+      "opponentSlug": "142404-olga-rubin",
+      "result": "loss",
+      "method": "sub",
+      "event": "Invicta FC 62",
+      "eventSlug": "127254-invicta-fc-college-series",
+      "round": 2,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2025-02-07T00:00:00.000Z",
+      "opponent": "Shanna Young",
+      "opponentSlug": "58605-shanna-young",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Invicta FC 60",
+      "eventSlug": "122578-invicta-fc-60-rubin-vs-cantuaria",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-10-06T00:00:00.000Z",
+      "opponent": "Melissa Croden",
+      "opponentSlug": "140510-melissa-croden",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 169: Ward vs. Walker",
+      "eventSlug": "105294-lfa-169-ward-vs-walker",
+      "round": 3,
+      "timeInRound": "3:20"
+    },
+    {
+      "date": "2023-03-11T00:00:00.000Z",
+      "opponent": "Abril Anguiano",
+      "opponentSlug": "197814-abril-anguiano",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Peak Fighting 27",
+      "eventSlug": "98518-peak-fighting-27",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-16T00:00:00.000Z",
+      "opponent": "Talita Bernardo",
+      "opponentSlug": "99577-talita-de-oliveira",
+      "result": "loss",
+      "method": "sub",
+      "event": "Invicta FC 50",
+      "eventSlug": "94217-invicta-fc-50-strawweight-title-tournament",
+      "round": 2,
+      "timeInRound": "4:26"
+    },
+    {
+      "date": "2020-10-03T00:00:00.000Z",
+      "opponent": "Sinead Kavanagh",
+      "opponentSlug": "66456-sinead-kavanagh",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bellator Euro Series 9",
+      "eventSlug": "72341-bellator-milan",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-07T00:00:00.000Z",
+      "opponent": "Lisa Verzosa",
+      "opponentSlug": "77540-lisa-spangler",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 35",
+      "eventSlug": "60147-invicta-fc-35-bennett-vs-rodriguez-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-19T00:00:00.000Z",
+      "opponent": "Pannie Kianzad",
+      "opponentSlug": "36969-pannie-kianzad",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "The Ultimate Fighter Season 28",
+      "eventSlug": "57995-the-ultimate-fighter-season-28-heavy-hitters",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-04T00:00:00.000Z",
+      "opponent": "Sarah Kaufman",
+      "opponentSlug": "sarah-kaufman",
+      "result": "loss",
+      "method": "sub",
+      "event": "Invicta FC 29",
+      "eventSlug": "50701-invicta-fc-29-kaufman-vs-lehner",
+      "round": 3,
+      "timeInRound": "4:30"
+    },
+    {
+      "date": "2017-12-16T00:00:00.000Z",
+      "opponent": "Gemma Pike",
+      "opponentSlug": "151929-gemma-pike",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hype FC 7",
+      "eventSlug": "48752-hype-fc",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-31T00:00:00.000Z",
+      "opponent": "Alexa Conners",
+      "opponentSlug": "45501-alexa-conners",
+      "result": "win",
+      "method": "other",
+      "event": "Invicta FC 25",
+      "eventSlug": "46756-invicta-fc-25-kunitskaya-vs-paaluhi",
+      "round": 1,
+      "timeInRound": "4:21"
+    },
+    {
+      "date": "2016-12-04T00:00:00.000Z",
+      "opponent": "Judith Ruis",
+      "opponentSlug": "114096-judith-ruis",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Respect FC 18",
+      "eventSlug": "41592-respect-fc-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-07T00:00:00.000Z",
+      "opponent": "Alexandra Baron",
+      "opponentSlug": "13896-alexandra-buch",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "GMC 7",
+      "eventSlug": "32549-gmc-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-07-04T00:00:00.000Z",
+      "opponent": "Camilla Hinze",
+      "opponentSlug": "89050-camilla-hinze",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "We Love MMA 15",
+      "eventSlug": "33726-we-love-mma-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-02-06T00:00:00.000Z",
+      "opponent": "Barbora Poláková",
+      "opponentSlug": "92332-barbora-polakova",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Young Blood Night Vol. 3",
+      "eventSlug": "29691-young-blood-night-vol-3-war-zone",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-09-27T00:00:00.000Z",
+      "opponent": "Anne Merkt",
+      "opponentSlug": "62237-anne-merkt",
+      "result": "win",
+      "method": "dec-split",
+      "event": "We Love MMA 9",
+      "eventSlug": "26716-we-love-mma-9",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:00:11.093Z"
+}

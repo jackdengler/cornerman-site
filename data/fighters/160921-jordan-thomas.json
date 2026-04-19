@@ -1,0 +1,187 @@
+{
+  "slug": "160921-jordan-thomas",
+  "name": "Jordan Thomas",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/160921-jordan-thomas",
+  "recentFights": [
+    {
+      "date": "2024-05-24T00:00:00.000Z",
+      "opponent": "Luke Dally",
+      "opponentSlug": "200810-luke-dally",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 84",
+      "eventSlug": "111485-eternal-mma-84",
+      "round": 2,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2023-09-23T00:00:00.000Z",
+      "opponent": "Coby Porter",
+      "opponentSlug": "222516-coby-porter",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 79",
+      "eventSlug": "102042-eternal-mma-79",
+      "round": 1,
+      "timeInRound": "3:30"
+    },
+    {
+      "date": "2023-07-01T00:00:00.000Z",
+      "opponent": "Dom Mar Fan",
+      "opponentSlug": "196890-dom-mar-fan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 77",
+      "eventSlug": "100977-eternal-mma-77",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-12T00:00:00.000Z",
+      "opponent": "Jonathan Kuhn",
+      "opponentSlug": "227432-jonathan-kuhn",
+      "result": "win",
+      "method": "sub",
+      "event": "Showdown 11",
+      "eventSlug": "96309-showdown-11",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-01-26T00:00:00.000Z",
+      "opponent": "Marko Sarasjärvi",
+      "opponentSlug": "170313-marko-sarasjrvi",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "IMMAF",
+      "eventSlug": "86215-immaf-2021-world-senior-championships-day-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-01-25T00:00:00.000Z",
+      "opponent": "Daniel Schordje",
+      "opponentSlug": "190268-daniel-schordje",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMMAF",
+      "eventSlug": "86213-immaf-2021-world-senior-championships-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-12T00:00:00.000Z",
+      "opponent": "Michael Stanoff",
+      "opponentSlug": "187471-michael-stanoff",
+      "result": "win",
+      "method": "sub",
+      "event": "Superfight MMA 16",
+      "eventSlug": "76999-superfight-mma-16",
+      "round": 4,
+      "timeInRound": "1:55"
+    },
+    {
+      "date": "2020-03-07T00:00:00.000Z",
+      "opponent": "Ollie Schmid",
+      "opponentSlug": "237487-oliver-schmid",
+      "result": "win",
+      "method": "dec-split",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "67964-immaf-wmmaa-oceania-open-cup-day-2",
+      "round": 3,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2019-12-13T00:00:00.000Z",
+      "opponent": "Niam Stephen",
+      "opponentSlug": "195966-niam-stephen",
+      "result": "win",
+      "method": "sub",
+      "event": "New Generation Cage MMA Series 4",
+      "eventSlug": "62411-new-generation-cage-mma-series-4",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-11T00:00:00.000Z",
+      "opponent": "Magomed Magomedov",
+      "opponentSlug": "242390-magomed-magomedov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64317-immaf-wmmaa-amateur-world-championships-2019",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-24T00:00:00.000Z",
+      "opponent": "Tim Schultz",
+      "opponentSlug": "140168-tim-schultz",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "XFC 41",
+      "eventSlug": "56683-xfc-41",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-18T00:00:00.000Z",
+      "opponent": "Teruhiko Kato",
+      "opponentSlug": "148967-teruhiko-kato",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "2018 IMMAF Oceania Open Championships",
+      "eventSlug": "51862-2018-immaf-oceania-open-championships-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-16T00:00:00.000Z",
+      "opponent": "Flynn Booth",
+      "opponentSlug": "172518-flynn-booth",
+      "result": "win",
+      "method": "sub",
+      "event": "2018 IMMAF Oceania Open Championships",
+      "eventSlug": "51815-2018-immaf-oceania-open-championships",
+      "round": 2,
+      "timeInRound": "2:13"
+    },
+    {
+      "date": "2017-08-26T00:00:00.000Z",
+      "opponent": "Mitchell Fear",
+      "opponentSlug": "142848-mitchell-fear",
+      "result": "win",
+      "method": "tko",
+      "event": "New Generation Cage MMA Series 2",
+      "eventSlug": "78177-new-generation-cage-mma-series-2",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-12T00:00:00.000Z",
+      "opponent": "Heath Knight",
+      "opponentSlug": "134912-heath-knight",
+      "result": "win",
+      "method": "sub",
+      "event": "Urban Fight Night 12",
+      "eventSlug": "46711-urban-fight-night-12-night-of-champions",
+      "round": 2,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:19:21.979Z"
+}

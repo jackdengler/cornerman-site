@@ -1,0 +1,176 @@
+{
+  "slug": "203358-gokhan-saricam",
+  "name": "Gokhan Saricam",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 191,
+  "reachCm": 193,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1991-02-26",
+  "nationality": "Turkey",
+  "url": "https://www.tapology.com/fightcenter/fighters/203358-gokhan-saricam",
+  "recentFights": [
+    {
+      "date": "2026-04-18T00:00:00.000Z",
+      "opponent": "Tanner Boser",
+      "opponentSlug": "35149-tanner-boser",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "139670-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-15T00:00:00.000Z",
+      "opponent": "Hyago Silva",
+      "opponentSlug": "304383-hyago-brt",
+      "result": "win",
+      "method": "other",
+      "event": "The Cage MMA 8",
+      "eventSlug": "129553-the-cage-mma-8",
+      "round": 1,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2025-10-25T00:00:00.000Z",
+      "opponent": "Natalicio Filho",
+      "opponentSlug": "136393-natalicio-filho-mototaxista",
+      "result": "win",
+      "method": "other",
+      "event": "Fair FC 24",
+      "eventSlug": "135404-fair-fc-24",
+      "round": 1,
+      "timeInRound": "1:21"
+    },
+    {
+      "date": "2023-06-16T00:00:00.000Z",
+      "opponent": "Daniel James",
+      "opponentSlug": "33088-daniel-james",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bellator 297",
+      "eventSlug": "99770-bellator-297-nemkov-vs-romero",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-25T00:00:00.000Z",
+      "opponent": "Oleg Popov",
+      "opponentSlug": "117155-oleg-popov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bellator 291",
+      "eventSlug": "93271-bellator-dublin",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-12T00:00:00.000Z",
+      "opponent": "Said Sowma",
+      "opponentSlug": "183184-said-sowma",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Bellator 284",
+      "eventSlug": "90026-bellator-284",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-25T00:00:00.000Z",
+      "opponent": "Kirill Sidelnikov",
+      "opponentSlug": "kirill-sidelnikov-baby-fedor",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bellator 275",
+      "eventSlug": "85214-bellator-mma",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-05T00:00:00.000Z",
+      "opponent": "Charlie Milner",
+      "opponentSlug": "131204-charlie-milner",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 270",
+      "eventSlug": "81270-bellator-mma",
+      "round": 1,
+      "timeInRound": "0:15"
+    },
+    {
+      "date": "2020-10-03T00:00:00.000Z",
+      "opponent": "Joffie Houlton",
+      "opponentSlug": "165340-joffe-houlton",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator Euro Series 9",
+      "eventSlug": "72341-bellator-milan",
+      "round": 1,
+      "timeInRound": "2:52"
+    },
+    {
+      "date": "2019-10-25T00:00:00.000Z",
+      "opponent": "Steve Mowry",
+      "opponentSlug": "32133-steve-mowry",
+      "result": "loss",
+      "method": "sub",
+      "event": "Bellator 231",
+      "eventSlug": "62502-bellator-231",
+      "round": 2,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2019-02-24T00:00:00.000Z",
+      "opponent": "José Jimenez",
+      "opponentSlug": "115565-jose-agustin",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Club Den Haag",
+      "eventSlug": "57625-fight-club-den-haag-lekkah-rausuh",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-02T00:00:00.000Z",
+      "opponent": "Willem Struik",
+      "opponentSlug": "165263-willem-struik",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Club Den Haag",
+      "eventSlug": "56393-fight-club-den-haag-oldskool-heroes",
+      "round": 2,
+      "timeInRound": "3:17"
+    },
+    {
+      "date": "2018-05-05T00:00:00.000Z",
+      "opponent": "Andreas Grzywa",
+      "opponentSlug": "100510-andreas-grzywa",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-05-10T00:00:00.000Z",
+      "opponent": "Sokratis Papadopoulos",
+      "opponentSlug": "209725-sokratis-papadopoulos",
+      "result": "win",
+      "method": "other",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:52:40.049Z"
+}

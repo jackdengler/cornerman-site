@@ -1,0 +1,176 @@
+{
+  "slug": "84998-lemarcus-tucker",
+  "name": "Lemarcus Tucker",
+  "nickname": "The Freight Train",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": 191,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1984-11-25",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/84998-lemarcus-tucker",
+  "recentFights": [
+    {
+      "date": "2018-08-18T00:00:00.000Z",
+      "opponent": "Tyler Jones",
+      "opponentSlug": "108935-tyler-jones",
+      "result": "win",
+      "method": "other",
+      "event": "Pyramid Fights 8",
+      "eventSlug": "53490-pyramid-fights-8",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2017-09-22T00:00:00.000Z",
+      "opponent": "Ryan Spann",
+      "opponentSlug": "20908-ryan-spann",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 23: Krantz vs. Nakashima",
+      "eventSlug": "47912-lfa-23-krantz-vs-nakashima",
+      "round": 1,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2016-12-09T00:00:00.000Z",
+      "opponent": "Jordan Johnson",
+      "opponentSlug": "41495-jordan-johnson",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "RFA 46: Johnson vs. Tucker",
+      "eventSlug": "42303-rfa-46-johnson-vs-tucker",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-09T00:00:00.000Z",
+      "opponent": "John Lair",
+      "opponentSlug": "59315-john-lair",
+      "result": "win",
+      "method": "sub",
+      "event": "Sugar Creek Showdown 30",
+      "eventSlug": "40131-sugar-creek-showdown-30-revolution",
+      "round": 3,
+      "timeInRound": "1:18"
+    },
+    {
+      "date": "2015-02-21T00:00:00.000Z",
+      "opponent": "Matt Thomas",
+      "opponentSlug": "4171-matt-thomas",
+      "result": "win",
+      "method": "tko",
+      "event": "Summit FC 10",
+      "eventSlug": "29855-summit-fc-10",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-01-10T00:00:00.000Z",
+      "opponent": "Bryan McVea",
+      "opponentSlug": "29354-bryan-mcvea-the-lion",
+      "result": "loss",
+      "method": "tko",
+      "event": "OFC 4",
+      "eventSlug": "29111-ofc-4",
+      "round": 3,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2014-08-02T00:00:00.000Z",
+      "opponent": "Carlton Little",
+      "opponentSlug": "12821-carlton-little",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Off The Chain MMA 5",
+      "eventSlug": "27973-off-the-chain-mma-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-05-10T00:00:00.000Z",
+      "opponent": "Ryan Patrick Walls",
+      "opponentSlug": "47908-ryan-patrick-walls",
+      "result": "win",
+      "method": "other",
+      "event": "Cage CC 8",
+      "eventSlug": "24695-cage-cc-8",
+      "round": 2,
+      "timeInRound": "2:53"
+    },
+    {
+      "date": "2014-02-15T00:00:00.000Z",
+      "opponent": "Johnny Blackburn",
+      "opponentSlug": "27386-johnny-blackburn",
+      "result": "win",
+      "method": "other",
+      "event": "XFI 10",
+      "eventSlug": "27475-xfi-10",
+      "round": 1,
+      "timeInRound": "1:18"
+    },
+    {
+      "date": "2013-08-24T00:00:00.000Z",
+      "opponent": "Brandon Grundy",
+      "opponentSlug": "125939-brandon-grundy",
+      "result": "win",
+      "method": "other",
+      "event": "Kingdom Promotions 6",
+      "eventSlug": "25320-kingdom-promotions-6",
+      "round": 1,
+      "timeInRound": "2:47"
+    },
+    {
+      "date": "2013-02-16T00:00:00.000Z",
+      "opponent": "Brandon Mittermeier",
+      "opponentSlug": "200003-brandon-mittermeier",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Kingdom Promotions 5",
+      "eventSlug": "25322-kingdom-promotions-5-valentines-day-massacre",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-11-03T00:00:00.000Z",
+      "opponent": "Ryan Robertson",
+      "opponentSlug": "424324-ryan-robertson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Kingdom Promotions 4",
+      "eventSlug": "29113-kingdom-promotions-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-10-06T00:00:00.000Z",
+      "opponent": "Matthew Hogan",
+      "opponentSlug": "136386-shawn-hogan",
+      "result": "win",
+      "method": "tko",
+      "event": "Turtle Day Tussle",
+      "eventSlug": "110579-turtle-day-tussle",
+      "round": 2,
+      "timeInRound": "0:10"
+    },
+    {
+      "date": "2011-11-05T00:00:00.000Z",
+      "opponent": "Marcus Ellis",
+      "opponentSlug": "392976-marcus-ellis",
+      "result": "win",
+      "method": "other",
+      "event": "Cagemasters",
+      "eventSlug": "15689-cagemasters-brawl-at-the-hall",
+      "round": 1,
+      "timeInRound": "2:34"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:39:53.725Z"
+}

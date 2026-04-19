@@ -1,0 +1,121 @@
+{
+  "slug": "319163-basir-demirel",
+  "name": "Basri Demirel",
+  "nickname": "Turkish Gorilla",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/319163-basir-demirel",
+  "recentFights": [
+    {
+      "date": "2025-07-05T00:00:00.000Z",
+      "opponent": "Edho Nowie",
+      "opponentSlug": "200360-edho-nowie",
+      "result": "win",
+      "method": "sub",
+      "event": "Steve Jez Premier Fight Night",
+      "eventSlug": "127755-steve-jez-premier-fight-night",
+      "round": 1,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2023-10-28T00:00:00.000Z",
+      "opponent": "Marwan Rahiki",
+      "opponentSlug": "388487-marwan-rahiki",
+      "result": "loss",
+      "method": "tko",
+      "event": "Superfight MMA 20",
+      "eventSlug": "106611-superfight-mma-20",
+      "round": 1,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2023-04-21T00:00:00.000Z",
+      "opponent": "Alan Ielia",
+      "opponentSlug": "207257-alan-lelia",
+      "result": "win",
+      "method": "sub",
+      "event": "Path to Hex 20",
+      "eventSlug": "98211-path-to-hex-20",
+      "round": 4,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-12T00:00:00.000Z",
+      "opponent": "Husenjon Isomiddinov",
+      "opponentSlug": "360177-husenjon-isomiddinov",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "2022 IMMAF World Championships",
+      "eventSlug": "97165-2022-immaf-world-championships-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-10-15T00:00:00.000Z",
+      "opponent": "Nick Morgan",
+      "opponentSlug": "347645-nick-morgan-rog",
+      "result": "win",
+      "method": "other",
+      "event": "Beatdown Promotions 2",
+      "eventSlug": "91760-beatdown-promotions-2",
+      "round": 3,
+      "timeInRound": "2:32"
+    },
+    {
+      "date": "2022-10-07T00:00:00.000Z",
+      "opponent": "Nick Byrden",
+      "opponentSlug": "203221-nick-byrden",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Path to Hex 18",
+      "eventSlug": "92724-path-to-hex-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-23T00:00:00.000Z",
+      "opponent": "Jackson Donnelly",
+      "opponentSlug": "316010-jackson-donnelly",
+      "result": "win",
+      "method": "tko",
+      "event": "Endouro Fight Series 2",
+      "eventSlug": "89964-endouro-fight-series-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-07T00:00:00.000Z",
+      "opponent": "Dominic Aston",
+      "opponentSlug": "276162-dominic-aston",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 65",
+      "eventSlug": "88808-eternal-mma-65",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-17T00:00:00.000Z",
+      "opponent": "Jason Wood",
+      "opponentSlug": "319161-jason-wood",
+      "result": "win",
+      "method": "other",
+      "event": "Urban Fight Night 27",
+      "eventSlug": "84850-urban-fight-night-27",
+      "round": 3,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:58:43.582Z"
+}

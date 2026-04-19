@@ -1,0 +1,66 @@
+{
+  "slug": "368664-umut-birdal",
+  "name": "Umut Birdal",
+  "nickname": "The Sniper",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1996-12-21",
+  "nationality": "Forchheim, Germany",
+  "url": "https://www.tapology.com/fightcenter/fighters/368664-umut-birdal",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Alex Hutyra",
+      "opponentSlug": "347893-alex-hutyra",
+      "result": null,
+      "method": "other",
+      "event": "OKTAGON 87: Szabová vs. Fernandes",
+      "eventSlug": "135741-oktagon-87",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-11T00:00:00.000Z",
+      "opponent": "Akmal Akkad",
+      "opponentSlug": "500379-akmal-akkad",
+      "result": "win",
+      "method": "sub",
+      "event": "Prize 8",
+      "eventSlug": "132641-prize-8",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-29T00:00:00.000Z",
+      "opponent": "Mihajlo Rajic",
+      "opponentSlug": "239772-mihajlo-rajic",
+      "result": "win",
+      "method": "tko",
+      "event": "Cage Time Series 2",
+      "eventSlug": "124215-cage-time-series-2",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-27T00:00:00.000Z",
+      "opponent": "Mário Farkáš",
+      "opponentSlug": "328918-mario-farkas",
+      "result": "win",
+      "method": "other",
+      "event": "Sparta Championship Fighting 4",
+      "eventSlug": "111996-sparta-championship-fighting-4",
+      "round": 1,
+      "timeInRound": "2:35"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:05:18.700Z"
+}

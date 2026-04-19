@@ -1,0 +1,154 @@
+{
+  "slug": "277271-isaiah-diggs",
+  "name": "Isaiah Diggs",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": 173,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1996-11-09",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/277271-isaiah-diggs",
+  "recentFights": [
+    {
+      "date": "2025-08-15T00:00:00.000Z",
+      "opponent": "Damion Nelson",
+      "opponentSlug": "208044-damion-nelson",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "PFL World Tournament 9",
+      "eventSlug": "122873-pfl-2025-world-tournament-championships-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-06-07T00:00:00.000Z",
+      "opponent": "Dusty Shaffer",
+      "opponentSlug": "292193-dustin-shaffer",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Caged Thunder 32",
+      "eventSlug": "124821-caged-thunder-32",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-22T00:00:00.000Z",
+      "opponent": "Gilbert Mejia",
+      "opponentSlug": "333670-gilbert-mejia-cavernicola",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fury Challenger Series 12",
+      "eventSlug": "119510-fury-challenger-series-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-12T00:00:00.000Z",
+      "opponent": "Kyle Todrank",
+      "opponentSlug": "291453-kyle-todrank",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fury FC 90: Saenz vs. Khera",
+      "eventSlug": "111453-fury-fc-90-dixon-vs-macklin",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-03T00:00:00.000Z",
+      "opponent": "Tony Toro",
+      "opponentSlug": "225112-tony-toro",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fury FC 84: Young vs. Richardson",
+      "eventSlug": "105246-fury-fc-84",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-26T00:00:00.000Z",
+      "opponent": "Pena Allamov",
+      "opponentSlug": "272296-pena-allamov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fury FC 65: Weems vs. Miller",
+      "eventSlug": "89281-fury-fc-65",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-19T00:00:00.000Z",
+      "opponent": "Cole Faust",
+      "opponentSlug": "232186-cole-faust",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "SteelFist Fight Night",
+      "eventSlug": "87669-steelfist-fight-night-unfazed",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-29T00:00:00.000Z",
+      "opponent": "Marcellus Wallace",
+      "opponentSlug": "244891-marcellus-wallace",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combat Quest 15",
+      "eventSlug": "83894-combat-quest-15-road-trip",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-22T00:00:00.000Z",
+      "opponent": "Gabe Parrot",
+      "opponentSlug": "306616-gabe-parrot",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 116: Fremd vs. Valente",
+      "eventSlug": "82589-lfa-116-fremd-vs-valente",
+      "round": 1,
+      "timeInRound": "1:22"
+    },
+    {
+      "date": "2021-08-28T00:00:00.000Z",
+      "opponent": "Josh Jolly",
+      "opponentSlug": "235201-josh-jolly",
+      "result": "win",
+      "method": "other",
+      "event": "Colorado Combat Club 8",
+      "eventSlug": "79869-colorado-combat-club-viii",
+      "round": 1,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2021-05-01T00:00:00.000Z",
+      "opponent": "Zeke Alirez",
+      "opponentSlug": "171322-zeke-alirez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Sparta Wyoming 7",
+      "eventSlug": "78085-sparta-wyoming-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-27T00:00:00.000Z",
+      "opponent": "Ethan Evans",
+      "opponentSlug": "289640-ethan-evans",
+      "result": "win",
+      "method": "other",
+      "event": "Sparta Wyoming 6",
+      "eventSlug": "78082-sparta-wyoming-6",
+      "round": 2,
+      "timeInRound": "1:33"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:39:21.707Z"
+}

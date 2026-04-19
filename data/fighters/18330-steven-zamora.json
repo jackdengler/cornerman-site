@@ -1,0 +1,55 @@
+{
+  "slug": "18330-steven-zamora",
+  "name": "Steven Zamora",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1987-07-29",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/18330-steven-zamora",
+  "recentFights": [
+    {
+      "date": "2018-09-08T00:00:00.000Z",
+      "opponent": "Reese Forest",
+      "opponentSlug": "137812-thomas-forest",
+      "result": "loss",
+      "method": "tko",
+      "event": "Rocks Xtreme MMA 24",
+      "eventSlug": "54651-rocks-xtreme-mma-24",
+      "round": 1,
+      "timeInRound": "2:51"
+    },
+    {
+      "date": "2013-03-16T00:00:00.000Z",
+      "opponent": "Ryan Spann",
+      "opponentSlug": "20908-ryan-spann",
+      "result": "loss",
+      "method": "sub",
+      "event": "El Orgullo del Valle",
+      "eventSlug": "29349-el-orgullo-del-valle",
+      "round": 1,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2010-09-03T00:00:00.000Z",
+      "opponent": "Andrew Garza",
+      "opponentSlug": "16485-andrew-garza",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:51:18.166Z"
+}

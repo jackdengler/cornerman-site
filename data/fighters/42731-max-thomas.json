@@ -1,0 +1,48 @@
+{
+  "slug": "42731-max-thomas",
+  "name": "Max Thomas",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1986-02-18",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/42731-max-thomas",
+  "recentFights": [
+    {
+      "date": "2014-06-28T00:00:00.000Z",
+      "opponent": "Cody Durden",
+      "opponentSlug": "68337-cody-durden",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "NFC 66: Wild Bill's Fight Night 65",
+      "eventSlug": "25154-nfc-66",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-02-16T00:00:00.000Z",
+      "opponent": "Dee Melton",
+      "opponentSlug": "42730-dee-melton",
+      "result": "loss",
+      "method": "tko",
+      "event": "Combat Quest 7",
+      "eventSlug": "16936-combat-quest-7-rise-of-the-warriors",
+      "round": 1,
+      "timeInRound": "2:59"
+    }
+  ],
+  "lastVerified": "2026-04-19T19:10:40.189Z"
+}

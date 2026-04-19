@@ -1,0 +1,143 @@
+{
+  "slug": "275111-kirill-grishenko",
+  "name": "Kirill Grishenko",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 193,
+  "reachCm": 201,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1991-07-12",
+  "nationality": "Belarus",
+  "url": "https://www.tapology.com/fightcenter/fighters/275111-kirill-grishenko",
+  "recentFights": [
+    {
+      "date": "2026-03-27T00:00:00.000Z",
+      "opponent": "Klidson Abreu",
+      "opponentSlug": "63237-klidson-farias-de-abreu",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ACA 201: Podlesniy vs. Silva",
+      "eventSlug": "139242-aca-201-podlesniy-vs-silva",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-08-01T00:00:00.000Z",
+      "opponent": "Ben Tynan",
+      "opponentSlug": "178465-ben-tynan",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE Fight Night 34",
+      "eventSlug": "124929-one-173-denver",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-02-20T00:00:00.000Z",
+      "opponent": "Mauro Cerilli",
+      "opponentSlug": "100331-mauro-cerilli",
+      "result": "win",
+      "method": "other",
+      "event": "ONE 171: Qatar",
+      "eventSlug": "121167-one-171-haggerty-vs-wei",
+      "round": 1,
+      "timeInRound": "3:28"
+    },
+    {
+      "date": "2024-07-05T00:00:00.000Z",
+      "opponent": "Ji Won Kang",
+      "opponentSlug": "87964-ji-won-kang",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE Fight Night 23",
+      "eventSlug": "109347-one-fight-night-24",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-26T00:00:00.000Z",
+      "opponent": "Marcus Buchecha",
+      "opponentSlug": "237072-marcius-almedia-buchecha",
+      "result": "loss",
+      "method": "sub",
+      "event": "ONE Fight Night 1",
+      "eventSlug": "89976-one-championship-161-moraes-vs-johnson-2",
+      "round": 1,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2022-02-11T00:00:00.000Z",
+      "opponent": "Anatoly Malykhin",
+      "opponentSlug": "166677-anatoliy-malykhin",
+      "result": "loss",
+      "method": "other",
+      "event": "ONE Championship",
+      "eventSlug": "85968-one-championship",
+      "round": 2,
+      "timeInRound": "3:42"
+    },
+    {
+      "date": "2021-10-29T00:00:00.000Z",
+      "opponent": "Dustin Joynson",
+      "opponentSlug": "24313-dustin-joynson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE Championship",
+      "eventSlug": "82105-one-championship-nextgen",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-28T00:00:00.000Z",
+      "opponent": "Oumar Kane",
+      "opponentSlug": "238888-oumar-kane-reug-reug",
+      "result": "win",
+      "method": "other",
+      "event": "ONE on TNT 4",
+      "eventSlug": "76801-one-on-tnt-4",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2020-11-28T00:00:00.000Z",
+      "opponent": "Ahmed Jabbar Al Rubaye",
+      "opponentSlug": "224128-ahmed-mohammad-zhabbar",
+      "result": "win",
+      "method": "tko",
+      "event": "NFG 16: Mortal Kombat",
+      "eventSlug": "72397-nfg-16-mortal-combat",
+      "round": 1,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2020-11-28T00:00:00.000Z",
+      "opponent": "Vladimir Davidovich",
+      "opponentSlug": "279068-vladimir-davidovich",
+      "result": "win",
+      "method": "sub",
+      "event": "NFG 16: Mortal Kombat",
+      "eventSlug": "72397-nfg-16-mortal-combat",
+      "round": 1,
+      "timeInRound": "1:18"
+    },
+    {
+      "date": "2020-10-24T00:00:00.000Z",
+      "opponent": "Gennadiy Matveenko",
+      "opponentSlug": "275112-gennadiy-matveenko",
+      "result": "win",
+      "method": "other",
+      "event": "BFC 63",
+      "eventSlug": "73307-bfc-63",
+      "round": 1,
+      "timeInRound": "1:26"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:39:10.826Z"
+}

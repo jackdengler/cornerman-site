@@ -1,0 +1,81 @@
+{
+  "slug": "461138-erick-medrano",
+  "name": "Erick Medrano",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1999-03-10",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/461138-erick-medrano",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Gunnar Nelson",
+      "opponentSlug": "549291-gunnar-nelson",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 231: Lozej vs. Ibarra",
+      "eventSlug": "140675-lfa-231-trembley-vs-johns",
+      "round": 1,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2025-08-09T00:00:00.000Z",
+      "opponent": "Nick Lindley",
+      "opponentSlug": "485508-nick-lindley",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "MCC 73: Debut at The Horizon Center",
+      "eventSlug": "130231-mcc-73-debut-at-the-horizon-center",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-06-14T00:00:00.000Z",
+      "opponent": "Gage Estus",
+      "opponentSlug": "450318-gage-estus",
+      "result": "loss",
+      "method": "sub",
+      "event": "North Iowa Fights 21",
+      "eventSlug": "126843-north-iowa-fights-21",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2025-04-12T00:00:00.000Z",
+      "opponent": "Jabez Anderson",
+      "opponentSlug": "490761-jabez-anderson-dizzy",
+      "result": "win",
+      "method": "sub",
+      "event": "MCC 72",
+      "eventSlug": "123852-mcc-72-fight-night-at-the-val-air-ballroom",
+      "round": 3,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2024-10-19T00:00:00.000Z",
+      "opponent": "Tay Dorsey",
+      "opponentSlug": "461137-tay-dorsey",
+      "result": "win",
+      "method": "other",
+      "event": "True Revelation 58",
+      "eventSlug": "116634-true-revelation-58",
+      "round": 1,
+      "timeInRound": "1:39"
+    }
+  ],
+  "lastVerified": "2026-04-18T06:00:16.830Z"
+}

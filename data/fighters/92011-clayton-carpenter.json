@@ -1,0 +1,220 @@
+{
+  "slug": "92011-clayton-carpenter",
+  "name": "Clayton Carpenter",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": 168,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1996-06-09",
+  "nationality": "Tualatin, Oregon, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/92011-clayton-carpenter",
+  "recentFights": [
+    {
+      "date": "2026-05-09T00:00:00.000Z",
+      "opponent": "Jose Ochoa",
+      "opponentSlug": "149882-jose-alberto-ochoa-oblitas",
+      "result": null,
+      "method": "other",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "eventSlug": "140614-ufc-328",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-11T00:00:00.000Z",
+      "opponent": "Jafel Filho",
+      "opponentSlug": "46690-jafel-cavalcante-filho",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "130995-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "4:42"
+    },
+    {
+      "date": "2025-01-18T00:00:00.000Z",
+      "opponent": "Tagir Ulanbekov",
+      "opponentSlug": "130955-tagir-ulanbekov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 311: Makhachev vs. Moicano",
+      "eventSlug": "118600-ufc-311",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-10-12T00:00:00.000Z",
+      "opponent": "Lucas Rocha",
+      "opponentSlug": "192343-lucas-rocha-fenomeno",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "115961-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2023-02-18T00:00:00.000Z",
+      "opponent": "Juancamilo Ronderos",
+      "opponentSlug": "87976-juancamilo-ronderos",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "94589-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "3:13"
+    },
+    {
+      "date": "2022-08-09T00:00:00.000Z",
+      "opponent": "Edgar Cháirez",
+      "opponentSlug": "80020-edgar-chaidez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Contender Series 2022",
+      "eventSlug": "89495-contender-series-2021-week-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-03T00:00:00.000Z",
+      "opponent": "Rodney Kealohi",
+      "opponentSlug": "98679-rodney-kealohi",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 119: Silveira vs. Revel",
+      "eventSlug": "84173-lfa-119-silveira-vs-revel",
+      "round": 1,
+      "timeInRound": "0:13"
+    },
+    {
+      "date": "2021-05-21T00:00:00.000Z",
+      "opponent": "Nick Clem",
+      "opponentSlug": "22328-nick-clem",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 108: Fremd vs. Rodrigues",
+      "eventSlug": "79065-lfa-108-fremd-vs-rodrigues",
+      "round": 1,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2020-08-28T00:00:00.000Z",
+      "opponent": "Manuel Medina",
+      "opponentSlug": "243057-manuel-medina",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 89: Moore vs. Giannetti",
+      "eventSlug": "71940-lfa-89-moore-vs-giannetti",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-22T00:00:00.000Z",
+      "opponent": "Maui Acantilado",
+      "opponentSlug": "115561-maui-acantilado",
+      "result": "win",
+      "method": "other",
+      "event": "WFF 42",
+      "eventSlug": "65364-wff-42",
+      "round": 1,
+      "timeInRound": "4:28"
+    },
+    {
+      "date": "2019-08-24T00:00:00.000Z",
+      "opponent": "Efren Ramirez",
+      "opponentSlug": "146949-efren-ramirez",
+      "result": "win",
+      "method": "sub",
+      "event": "Iron Boy MMA 16",
+      "eventSlug": "59118-iron-boy-mma-16",
+      "round": 3,
+      "timeInRound": "2:16"
+    },
+    {
+      "date": "2018-11-17T00:00:00.000Z",
+      "opponent": "Humberto Duarte",
+      "opponentSlug": "41498-humberto-duarte",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Iron Boy MMA 13",
+      "eventSlug": "55023-iron-boy-mma-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-01T00:00:00.000Z",
+      "opponent": "Reyes Cortez",
+      "opponentSlug": "43085-reyes-cortez",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Iron Boy MMA 3",
+      "eventSlug": "41911-iron-boy-mma-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-02T00:00:00.000Z",
+      "opponent": "Mark Ballocanog",
+      "opponentSlug": "67484-mark-ballocanog",
+      "result": "win",
+      "method": "sub",
+      "event": "Destiny Na Koa 10",
+      "eventSlug": "33432-destiny-na-koa-10",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2015-06-06T00:00:00.000Z",
+      "opponent": "Daniel Byers",
+      "opponentSlug": "90385-daniel-byers",
+      "result": "win",
+      "method": "sub",
+      "event": "RITC 178",
+      "eventSlug": "32645-ritc-178",
+      "round": 1,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2015-05-09T00:00:00.000Z",
+      "opponent": "Talon Glasser",
+      "opponentSlug": "114073-talon-glasser",
+      "result": "win",
+      "method": "sub",
+      "event": "Duel for Domination 11",
+      "eventSlug": "33015-duel-for-domination-11",
+      "round": 2,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2015-03-07T00:00:00.000Z",
+      "opponent": "Joshua Madrigal",
+      "opponentSlug": "94692-joshua-madrigal",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "RITC 176",
+      "eventSlug": "30353-ritc-176",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-01-31T00:00:00.000Z",
+      "opponent": "Thomas Castaneda",
+      "opponentSlug": "92010-thomas-castaneda",
+      "result": "win",
+      "method": "tko",
+      "event": "RITC 175: Super Bouts",
+      "eventSlug": "29222-ritc-175-super-bouts",
+      "round": 1,
+      "timeInRound": "0:40"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:55:16.874Z"
+}

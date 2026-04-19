@@ -1,0 +1,242 @@
+{
+  "slug": "104120-amir-aliakbari",
+  "name": "Amir Aliakbari",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 16,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 192,
+  "reachCm": 193,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1987-12-11",
+  "nationality": "Shahriar, Tehran, Iran",
+  "url": "https://www.tapology.com/fightcenter/fighters/104120-amir-aliakbari",
+  "recentFights": [
+    {
+      "date": "2025-10-23T00:00:00.000Z",
+      "opponent": "Tony Johnson Jr.",
+      "opponentSlug": "tony-johnson-jr",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ACA 194: Aliakbari vs. Johnson",
+      "eventSlug": "133259-aca-194",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-08-15T00:00:00.000Z",
+      "opponent": "Salimgerey Rasulov",
+      "opponentSlug": "21829-salimgirey-rasulov",
+      "result": "win",
+      "method": "other",
+      "event": "ACA 190: Gasanov vs. Aryshev",
+      "eventSlug": "129866-aca-190-gasanov-vs-aryshev",
+      "round": 1,
+      "timeInRound": "4:07"
+    },
+    {
+      "date": "2024-11-08T00:00:00.000Z",
+      "opponent": "Marcus Buchecha",
+      "opponentSlug": "237072-marcius-almedia-buchecha",
+      "result": "loss",
+      "method": "sub",
+      "event": "ONE 169: Malykhin vs. Kane",
+      "eventSlug": "109351-one-fight-night-28",
+      "round": 1,
+      "timeInRound": "3:15"
+    },
+    {
+      "date": "2024-03-01T00:00:00.000Z",
+      "opponent": "Arjan Bhullar",
+      "opponentSlug": "77932-arjan-bhullar",
+      "result": "win",
+      "method": "other",
+      "event": "ONE 166: De Ridder vs. Malykhin 2",
+      "eventSlug": "108903-one-166-malykhin-vs-de-ridder",
+      "round": 3,
+      "timeInRound": "4:15"
+    },
+    {
+      "date": "2023-07-14T00:00:00.000Z",
+      "opponent": "Dustin Joynson",
+      "opponentSlug": "24313-dustin-joynson",
+      "result": "win",
+      "method": "sub",
+      "event": "ONE Fight Night 12",
+      "eventSlug": "100718-one-fight-night-12-kai-vs-le-2",
+      "round": 1,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2022-12-03T00:00:00.000Z",
+      "opponent": "Brandon Vera",
+      "opponentSlug": "brandon-vera-the-truth",
+      "result": "win",
+      "method": "other",
+      "event": "ONE Championship 164",
+      "eventSlug": "91288-one-championship-164",
+      "round": 1,
+      "timeInRound": "3:37"
+    },
+    {
+      "date": "2022-08-26T00:00:00.000Z",
+      "opponent": "Mauro Cerilli",
+      "opponentSlug": "100331-mauro-cerilli",
+      "result": "win",
+      "method": "other",
+      "event": "ONE Fight Night 1",
+      "eventSlug": "89976-one-championship-161-moraes-vs-johnson-2",
+      "round": 2,
+      "timeInRound": "4:02"
+    },
+    {
+      "date": "2021-09-24T00:00:00.000Z",
+      "opponent": "Anatoly Malykhin",
+      "opponentSlug": "166677-anatoliy-malykhin",
+      "result": "loss",
+      "method": "other",
+      "event": "ONE Championship",
+      "eventSlug": "81073-one-championship-10-year-anniversary-2",
+      "round": 1,
+      "timeInRound": "2:57"
+    },
+    {
+      "date": "2021-03-05T00:00:00.000Z",
+      "opponent": "Ji Won Kang",
+      "opponentSlug": "87964-ji-won-kang",
+      "result": "loss",
+      "method": "other",
+      "event": "ONE Championship",
+      "eventSlug": "76890-one-championship-fists-of-fury-2",
+      "round": 1,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2019-03-16T00:00:00.000Z",
+      "opponent": "Shelton Graves",
+      "opponentSlug": "25281-shelton-graves",
+      "result": "win",
+      "method": "tko",
+      "event": "ACA 93: St. Petersburg",
+      "eventSlug": "57340-aca-93-st-petersburg",
+      "round": 1,
+      "timeInRound": "4:42"
+    },
+    {
+      "date": "2018-09-08T00:00:00.000Z",
+      "opponent": "Daniel Omielańczuk",
+      "opponentSlug": "20049-daniel-omielanczuk",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ACB 89: Krasnodar",
+      "eventSlug": "53028-acb-93-krasnodar",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-24T00:00:00.000Z",
+      "opponent": "Denis Smoldarev",
+      "opponentSlug": "23171-dennis-smoldarev",
+      "result": "win",
+      "method": "other",
+      "event": "ACB 83: Baku",
+      "eventSlug": "49953-acb-84-baku",
+      "round": 1,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2017-07-30T00:00:00.000Z",
+      "opponent": "Tyler King",
+      "opponentSlug": "tyler-king",
+      "result": "win",
+      "method": "other",
+      "event": "RIZIN Fighting World Grand Prix 2017 1st Round",
+      "eventSlug": "44322-rizin-2017-in-saitama",
+      "round": 1,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2017-04-16T00:00:00.000Z",
+      "opponent": "Gerônimo dos Santos",
+      "opponentSlug": "geronimo-dos-santos-mondragon",
+      "result": "win",
+      "method": "other",
+      "event": "RIZIN 2017 in Yokohama",
+      "eventSlug": "43479-rizin-2",
+      "round": 1,
+      "timeInRound": "3:34"
+    },
+    {
+      "date": "2016-12-31T00:00:00.000Z",
+      "opponent": "Mirko Filipović",
+      "opponentSlug": "mirko-filipovic-cro-cop",
+      "result": "loss",
+      "method": "other",
+      "event": "RIZIN Fighting World Grand Prix 2016",
+      "eventSlug": "39863-rizin-fighting-world-grand-prix-2016",
+      "round": 1,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2016-12-31T00:00:00.000Z",
+      "opponent": "Valentin Moldavsky",
+      "opponentSlug": "95055-valentin-moldavsky",
+      "result": "win",
+      "method": "dec-split",
+      "event": "RIZIN Fighting World Grand Prix 2016",
+      "eventSlug": "39863-rizin-fighting-world-grand-prix-2016",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-29T00:00:00.000Z",
+      "opponent": "Heath Herring",
+      "opponentSlug": "heath-herring-the-texas-crazy-horse",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "RIZIN Fighting World Grand Prix 2016",
+      "eventSlug": "40996-rizin-fighting-world-grand-prix-2016-2nd-round",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-25T00:00:00.000Z",
+      "opponent": "João Almeida",
+      "opponentSlug": "59287-joo-isidoro",
+      "result": "win",
+      "method": "other",
+      "event": "RIZIN Fighting World Grand Prix 2016",
+      "eventSlug": "40649-rizin-fighting-world-grand-prix-2016-1st-round",
+      "round": 1,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2015-12-05T00:00:00.000Z",
+      "opponent": "Radu Spinghel",
+      "opponentSlug": "29279-radu-spinghel",
+      "result": "win",
+      "method": "other",
+      "event": "Real 3",
+      "eventSlug": "32055-real",
+      "round": 1,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2015-10-31T00:00:00.000Z",
+      "opponent": "Hyung Chul Lee",
+      "opponentSlug": "68043-hyung-chul-lee",
+      "result": "win",
+      "method": "other",
+      "event": "Full Metal Dojo 7",
+      "eventSlug": "35671-full-metal-dojo-7-full-metal-massacre",
+      "round": 1,
+      "timeInRound": "0:14"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:39:06.982Z"
+}

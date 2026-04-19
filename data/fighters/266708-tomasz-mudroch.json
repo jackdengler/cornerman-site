@@ -1,0 +1,154 @@
+{
+  "slug": "266708-tomasz-mudroch",
+  "name": "Tomáš Mudroch",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1998-07-08",
+  "nationality": "Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/266708-tomasz-mudroch",
+  "recentFights": [
+    {
+      "date": "2026-02-14T00:00:00.000Z",
+      "opponent": "Fedor Duric",
+      "opponentSlug": "316079-fedor-duric",
+      "result": "loss",
+      "method": "other",
+      "event": "OKTAGON 84: Paradeiser vs. Brito",
+      "eventSlug": "135739-oktagon-84",
+      "round": 2,
+      "timeInRound": "3:15"
+    },
+    {
+      "date": "2025-11-01T00:00:00.000Z",
+      "opponent": "Jakub Dohnal",
+      "opponentSlug": "116834-jakub-dohnal",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 79: Surdu vs. Kalašnik",
+      "eventSlug": "118938-oktagon",
+      "round": 1,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2025-05-17T00:00:00.000Z",
+      "opponent": "Ozan Aslaner",
+      "opponentSlug": "107207-ozan-aslaner",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 71: Poppeck vs. Langer",
+      "eventSlug": "123601-oktagon-71",
+      "round": 1,
+      "timeInRound": "2:03"
+    },
+    {
+      "date": "2025-02-22T00:00:00.000Z",
+      "opponent": "Petru Buzdugan",
+      "opponentSlug": "169353-petru-bezdugan",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 67: Creasey vs. Adamia",
+      "eventSlug": "118929-oktagon",
+      "round": 1,
+      "timeInRound": "1:22"
+    },
+    {
+      "date": "2024-11-16T00:00:00.000Z",
+      "opponent": "Norbert Balasz",
+      "opponentSlug": "72491-norbert-balasz",
+      "result": "win",
+      "method": "other",
+      "event": "RFA 19",
+      "eventSlug": "116401-rfa-19",
+      "round": 1,
+      "timeInRound": "0:29"
+    },
+    {
+      "date": "2024-04-13T00:00:00.000Z",
+      "opponent": "Marián Jakubík",
+      "opponentSlug": "86815-marian-jakubik",
+      "result": "win",
+      "method": "other",
+      "event": "RFA 16",
+      "eventSlug": "110655-rfa-16",
+      "round": 1,
+      "timeInRound": "0:29"
+    },
+    {
+      "date": "2023-11-03T00:00:00.000Z",
+      "opponent": "Sviatoslav Zhymanov",
+      "opponentSlug": "216899-sviatoslaw-zhymanov",
+      "result": "win",
+      "method": "other",
+      "event": "Garage Fight Night",
+      "eventSlug": "105281-garage-fight-night",
+      "round": 1,
+      "timeInRound": "0:19"
+    },
+    {
+      "date": "2023-09-08T00:00:00.000Z",
+      "opponent": "Martin Čečil",
+      "opponentSlug": "349712-martin-cecil",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fusion 25",
+      "eventSlug": "101979-fusion-fn-25",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-07T00:00:00.000Z",
+      "opponent": "Jan Vinš",
+      "opponentSlug": "236939-jan-vins",
+      "result": "win",
+      "method": "sub",
+      "event": "Way of Warrior 8",
+      "eventSlug": "90134-way-of-warrior-8",
+      "round": 1,
+      "timeInRound": "3:41"
+    },
+    {
+      "date": "2021-11-13T00:00:00.000Z",
+      "opponent": "David Velíšek",
+      "opponentSlug": "104158-david-velek",
+      "result": "win",
+      "method": "sub",
+      "event": "I Am Fighter 3",
+      "eventSlug": "83233-i-am-fighter-3",
+      "round": 1,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2022-03-25T00:00:00.000Z",
+      "opponent": "Murtazali Magomedov",
+      "opponentSlug": "361797-murtazali-magomedov",
+      "result": "loss",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "88078-gamma-world-championships-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-25T00:00:00.000Z",
+      "opponent": "Sebastian Szalay",
+      "opponentSlug": "197650-sebastian-szalay",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "88078-gamma-world-championships-day-1",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:04:44.953Z"
+}

@@ -1,0 +1,198 @@
+{
+  "slug": "46894-oskar-piechota-imadlo",
+  "name": "Oskar Piechota",
+  "nickname": "Imadło",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 3,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 193,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1990-01-24",
+  "nationality": "Poland",
+  "url": "https://www.tapology.com/fightcenter/fighters/46894-oskar-piechota-imadlo",
+  "recentFights": [
+    {
+      "date": "2020-06-20T00:00:00.000Z",
+      "opponent": "Marc-André Barriault",
+      "opponentSlug": "26658-marc-andre-barriault",
+      "result": "nc",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "67608-ufc-on-espn",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-14T00:00:00.000Z",
+      "opponent": "Punahele Soriano",
+      "opponentSlug": "119534-punahele-soriano-story-time",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 245: Usman vs. Covington",
+      "eventSlug": "60326-ufc-245",
+      "round": 1,
+      "timeInRound": "3:17"
+    },
+    {
+      "date": "2019-08-10T00:00:00.000Z",
+      "opponent": "Rodolfo Vieira",
+      "opponentSlug": "148791-rodolfo-vieira-srour-the-black-belt-hunter",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC on ESPN+ 14",
+      "eventSlug": "60313-ufc-on-espn-14",
+      "round": 2,
+      "timeInRound": "4:26"
+    },
+    {
+      "date": "2018-07-06T00:00:00.000Z",
+      "opponent": "Gerald Meerschaert",
+      "opponentSlug": "6018-gerald-meerschaert-the-machine",
+      "result": "loss",
+      "method": "sub",
+      "event": "The Ultimate Fighter 27 Finale",
+      "eventSlug": "49920-the-ultimate-fighter-27-finale",
+      "round": 2,
+      "timeInRound": "4:55"
+    },
+    {
+      "date": "2018-02-18T00:00:00.000Z",
+      "opponent": "Tim Williams",
+      "opponentSlug": "11734-tim-williams",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night 126",
+      "eventSlug": "49027-ufc-fight-night-127",
+      "round": 1,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2017-10-21T00:00:00.000Z",
+      "opponent": "Jonathan Wilson",
+      "opponentSlug": "32389-jonathan-wilson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night 118",
+      "eventSlug": "44729-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-24T00:00:00.000Z",
+      "opponent": "Jason Radcliffe",
+      "opponentSlug": "17649-jason-radcliffe",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 85",
+      "eventSlug": "45256-cage-warriors-85",
+      "round": 1,
+      "timeInRound": "0:32"
+    },
+    {
+      "date": "2017-04-01T00:00:00.000Z",
+      "opponent": "Sergio Souza",
+      "opponentSlug": "34053-sergio-souza",
+      "result": "win",
+      "method": "other",
+      "event": "Spartan Fight 7",
+      "eventSlug": "43970-spartan-fight-7",
+      "round": 1,
+      "timeInRound": "0:36"
+    },
+    {
+      "date": "2016-12-17T00:00:00.000Z",
+      "opponent": "Nikos Sokolis",
+      "opponentSlug": "88824-nikos-sokolis",
+      "result": "win",
+      "method": "sub",
+      "event": "Spartan Fight 6",
+      "eventSlug": "42222-spartan-fight-6",
+      "round": 2,
+      "timeInRound": "2:47"
+    },
+    {
+      "date": "2015-01-17T00:00:00.000Z",
+      "opponent": "Craig White",
+      "opponentSlug": "13906-Craig-White",
+      "result": "win",
+      "method": "other",
+      "event": "Time of Masters 1",
+      "eventSlug": "27297-time-of-masters",
+      "round": 1,
+      "timeInRound": "1:17"
+    },
+    {
+      "date": "2014-06-27T00:00:00.000Z",
+      "opponent": "Mattia Schiavolin",
+      "opponentSlug": "49027-mattia-schiavolin",
+      "result": "win",
+      "method": "other",
+      "event": "Pro MMA Challenge",
+      "eventSlug": "23842-pro-mma-challenge-po-prostu-walcz",
+      "round": 2,
+      "timeInRound": "3:23"
+    },
+    {
+      "date": "2014-04-05T00:00:00.000Z",
+      "opponent": "Sadibou Sy",
+      "opponentSlug": "56067-sadibou-sy",
+      "result": "win",
+      "method": "sub",
+      "event": "IRFA 6.0: New Edition - The Upgrade",
+      "eventSlug": "23416-irfa-60-new-edition-the-upgrade",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-11-09T00:00:00.000Z",
+      "opponent": "Rafał Haratyk",
+      "opponentSlug": "40112-rafal-haratyk-65806-rafal-haratyk-65806",
+      "result": "draw",
+      "method": "dec-split",
+      "event": "No Contest",
+      "eventSlug": "22442-no-contest",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-04-27T00:00:00.000Z",
+      "opponent": "Livio Victoriano",
+      "opponentSlug": "26243-livio-victoriano",
+      "result": "win",
+      "method": "other",
+      "event": "MMA Attack 3",
+      "eventSlug": "14516-mma-attack-3",
+      "round": 2,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2012-11-09T00:00:00.000Z",
+      "opponent": "Michał Tarabańka",
+      "opponentSlug": "46902-michal-tarabanko",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-03-05T00:00:00.000Z",
+      "opponent": "Patryk Kania",
+      "opponentSlug": "37726-patryk-kania",
+      "result": "win",
+      "method": "sub",
+      "event": "Ring XF 3: Podwójne Uderzenie",
+      "eventSlug": "12715-ring-xf-3-podwjne-uderzenie",
+      "round": 1,
+      "timeInRound": "0:56"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:51:51.664Z"
+}

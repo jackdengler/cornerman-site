@@ -1,0 +1,220 @@
+{
+  "slug": "178522-oscar-alejandro-jurado-snchez",
+  "name": "Oscar Jurado Sánchez",
+  "nickname": "The Shank",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1997-01-14",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/178522-oscar-alejandro-jurado-snchez",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Yermakhan Oryntaev",
+      "opponentSlug": "361593-yermakhan-oryntaev",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 231: Lozej vs. Ibarra",
+      "eventSlug": "140675-lfa-231-trembley-vs-johns",
+      "round": 1,
+      "timeInRound": "0:15"
+    },
+    {
+      "date": "2024-11-09T00:00:00.000Z",
+      "opponent": "Josh Medeiros",
+      "opponentSlug": "307143-josh-medeiros",
+      "result": "win",
+      "method": "tko",
+      "event": "Combat Zone 86",
+      "eventSlug": "120042-combat-zone-86",
+      "round": 2,
+      "timeInRound": "3:13"
+    },
+    {
+      "date": "2023-11-11T00:00:00.000Z",
+      "opponent": "Devon Lozej",
+      "opponentSlug": "205775-devon-lozej",
+      "result": "loss",
+      "method": "other",
+      "event": "Mecca 20",
+      "eventSlug": "103306-mecca-20",
+      "round": 2,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2023-06-11T00:00:00.000Z",
+      "opponent": "Joel Flores Jr.",
+      "opponentSlug": "155949-joel-flores",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Anthony Pettis FC 5",
+      "eventSlug": "100453-anthony-pettis-fc-5-milwaukee-fight-night-ii",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-16T00:00:00.000Z",
+      "opponent": "Dan Moriarty",
+      "opponentSlug": "98844-dan-moriarty",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "LFA 142: Amorim vs. Nichols",
+      "eventSlug": "92238-lfa-142-amorim-vs-nichols",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-01-29T00:00:00.000Z",
+      "opponent": "Peter Lo",
+      "opponentSlug": "109436-peter-lo",
+      "result": "win",
+      "method": "other",
+      "event": "Chosen Few FC 20",
+      "eventSlug": "84308-chosen-few-fc-20",
+      "round": 1,
+      "timeInRound": "2:42"
+    },
+    {
+      "date": "2021-08-14T00:00:00.000Z",
+      "opponent": "Chance Wilson",
+      "opponentSlug": "51508-chancey-wilson",
+      "result": "win",
+      "method": "other",
+      "event": "EAFL: Elite Fight Night 1",
+      "eventSlug": "79881-eafl-elite-fight-night",
+      "round": 2,
+      "timeInRound": "0:01"
+    },
+    {
+      "date": "2021-02-27T00:00:00.000Z",
+      "opponent": "Willy Caylor",
+      "opponentSlug": "172179-william-caylor-jr",
+      "result": "win",
+      "method": "tko",
+      "event": "HR MMA 119",
+      "eventSlug": "73566-hr-mma-117",
+      "round": 3,
+      "timeInRound": "0:38"
+    },
+    {
+      "date": "2020-11-06T00:00:00.000Z",
+      "opponent": "Ben Willeford",
+      "opponentSlug": "123956-benjamin-willeford",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "HR MMA 116: 12 Year Anniversary",
+      "eventSlug": "72627-b2-fighting-series-hrmma-116",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-03-01T00:00:00.000Z",
+      "opponent": "Antione Bess",
+      "opponentSlug": "162549-antione-bess",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fight Card Entertainment",
+      "eventSlug": "67473-fight-card-entertainment-cross-the-line-2020",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-15T00:00:00.000Z",
+      "opponent": "Adrian Hernandez",
+      "opponentSlug": "162398-adrian-hernandez",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Fight Card Entertainment",
+      "eventSlug": "62848-fight-card-entertainment-takeover",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-06T00:00:00.000Z",
+      "opponent": "Alex Rego",
+      "opponentSlug": "199087-alex-reygo",
+      "result": "loss",
+      "method": "other",
+      "event": "XFO: Night of Champions",
+      "eventSlug": "58216-xfo-night-of-champions",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2019-02-23T00:00:00.000Z",
+      "opponent": "Datrelle Kozeluh",
+      "opponentSlug": "160772-datrelle-kozeluh",
+      "result": "loss",
+      "method": "other",
+      "event": "CCC: The Comeback",
+      "eventSlug": "58112-ccc-the-comeback",
+      "round": 1,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2018-12-16T00:00:00.000Z",
+      "opponent": "Pedro Gutierrez III",
+      "opponentSlug": "144901-pedro-gutierrez-iii",
+      "result": "win",
+      "method": "other",
+      "event": "EAFL: Indiana vs. Illinois",
+      "eventSlug": "56635-eafl-indiana-vs-illinois",
+      "round": 1,
+      "timeInRound": "0:25"
+    },
+    {
+      "date": "2018-11-30T00:00:00.000Z",
+      "opponent": "Pedro Sanchez",
+      "opponentSlug": "204440-pedro-sanchez",
+      "result": "win",
+      "method": "other",
+      "event": "Total Fight Challenge",
+      "eventSlug": "54908-total-fight-challenge",
+      "round": 1,
+      "timeInRound": "1:24"
+    },
+    {
+      "date": "2018-07-20T00:00:00.000Z",
+      "opponent": "Ernie Principe",
+      "opponentSlug": "115188-ernie-principe",
+      "result": "loss",
+      "method": "other",
+      "event": "Total Fight Challenge",
+      "eventSlug": "53844-total-fight-challenge",
+      "round": 3,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2018-06-06T00:00:00.000Z",
+      "opponent": "Ronny Hauser",
+      "opponentSlug": "165899-ronny-hauser",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fight Card Entertainment",
+      "eventSlug": "52029-fight-card-entertainment-undisputed",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-11T00:00:00.000Z",
+      "opponent": "Ricky Bravo",
+      "opponentSlug": "176401-ricky-bravo",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Card Entertainment",
+      "eventSlug": "49972-fight-card-entertainment-ruthless",
+      "round": 2,
+      "timeInRound": "0:45"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:59:57.663Z"
+}

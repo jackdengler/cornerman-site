@@ -1,0 +1,77 @@
+{
+  "slug": "13662-jacky-bryant",
+  "name": "Jacky Bryant",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 171,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1980-12-19",
+  "nationality": "Oklahoma, USA",
+  "url": "https://www.tapology.com/fightcenter/fighters/13662-jacky-bryant",
+  "recentFights": [
+    {
+      "date": "2010-10-08T00:00:00.000Z",
+      "opponent": "Anthony Session",
+      "opponentSlug": "12624-anthony-session",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-09-04T00:00:00.000Z",
+      "opponent": "Tony Quintero",
+      "opponentSlug": "13826-tony-quintero",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-06-05T00:00:00.000Z",
+      "opponent": "Ben Parpart",
+      "opponentSlug": "ben-parpart",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-12-11T00:00:00.000Z",
+      "opponent": "Jerod Spoon",
+      "opponentSlug": "13651-Jerod-Spoon",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-08-28T00:00:00.000Z",
+      "opponent": "Tim Elliott",
+      "opponentSlug": "13664-timothy-elliot",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:13:29.298Z"
+}

@@ -1,0 +1,253 @@
+{
+  "slug": "20133-jesse-wannemacher",
+  "name": "Jesse Wannemacher",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1986-11-15",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/20133-jesse-wannemacher",
+  "recentFights": [
+    {
+      "date": "2022-05-20T00:00:00.000Z",
+      "opponent": "Sam Cleveland",
+      "opponentSlug": "9627-sam-cleveland-sammybone",
+      "result": "win",
+      "method": "sub",
+      "event": "FAC 14",
+      "eventSlug": "88127-fac-14",
+      "round": 1,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2022-03-12T00:00:00.000Z",
+      "opponent": "Sam Hernandez",
+      "opponentSlug": "72562-sam-hernandez",
+      "result": "loss",
+      "method": "other",
+      "event": "Evolution 1",
+      "eventSlug": "85333-evolution-1",
+      "round": 1,
+      "timeInRound": "0:22"
+    },
+    {
+      "date": "2019-06-08T00:00:00.000Z",
+      "opponent": "Reshal Malik",
+      "opponentSlug": "79610-reshal-malik",
+      "result": "loss",
+      "method": "sub",
+      "event": "North Star Combat 11",
+      "eventSlug": "59386-north-star-combat-11",
+      "round": 2,
+      "timeInRound": "4:08"
+    },
+    {
+      "date": "2019-03-23T00:00:00.000Z",
+      "opponent": "Donald Williams",
+      "opponentSlug": "18208-donald-williams",
+      "result": "win",
+      "method": "sub",
+      "event": "North Star Combat 10",
+      "eventSlug": "55962-north-star-combat-10",
+      "round": 2,
+      "timeInRound": "2:37"
+    },
+    {
+      "date": "2018-12-07T00:00:00.000Z",
+      "opponent": "Sean McPadden",
+      "opponentSlug": "85223-sean-strube",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 56: Hubbard vs. Mota",
+      "eventSlug": "56318-lfa-56-hubbard-vs-mota",
+      "round": 1,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2018-05-19T00:00:00.000Z",
+      "opponent": "Eric Kemper",
+      "opponentSlug": "51115-eric-kemper",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "No Mercy 8",
+      "eventSlug": "49110-no-mercy-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-02-10T00:00:00.000Z",
+      "opponent": "Montel Jackson",
+      "opponentSlug": "89335-montel-jackson",
+      "result": "loss",
+      "method": "other",
+      "event": "No Mercy 7",
+      "eventSlug": "49107-no-mercy-7",
+      "round": 2,
+      "timeInRound": "3:16"
+    },
+    {
+      "date": "2016-07-08T00:00:00.000Z",
+      "opponent": "Rick Ogden",
+      "opponentSlug": "53520-rick-ogden",
+      "result": "win",
+      "method": "other",
+      "event": "KOTC: Ultimate Collision",
+      "eventSlug": "39844-kotc-ultimate-collision",
+      "round": 1,
+      "timeInRound": "1:27"
+    },
+    {
+      "date": "2016-05-21T00:00:00.000Z",
+      "opponent": "James Ogden",
+      "opponentSlug": "86372-james-ogden",
+      "result": "loss",
+      "method": "other",
+      "event": "No Mercy 5",
+      "eventSlug": "39574-no-mercy-5",
+      "round": 1,
+      "timeInRound": "2:31"
+    },
+    {
+      "date": "2015-11-21T00:00:00.000Z",
+      "opponent": "Josh Wolfe",
+      "opponentSlug": "107670-josh-wolfe",
+      "result": "win",
+      "method": "sub",
+      "event": "KOTC: Bear Brawl",
+      "eventSlug": "35539-kotc",
+      "round": 1,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2015-05-16T00:00:00.000Z",
+      "opponent": "Tony Crowder",
+      "opponentSlug": "7264-tony-crowder",
+      "result": "win",
+      "method": "sub",
+      "event": "No Mercy 4",
+      "eventSlug": "32788-no-mercy-4",
+      "round": 1,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2014-10-10T00:00:00.000Z",
+      "opponent": "Aruan Campa",
+      "opponentSlug": "34050-aruan-campa",
+      "result": "win",
+      "method": "other",
+      "event": "RFA 19: Collier vs. Checco",
+      "eventSlug": "26116-rfa-19-checco-vs-collier",
+      "round": 2,
+      "timeInRound": "1:18"
+    },
+    {
+      "date": "2014-07-12T00:00:00.000Z",
+      "opponent": "Kevin Schultz",
+      "opponentSlug": "26542-kevin-schultz",
+      "result": "win",
+      "method": "tko",
+      "event": "Last Man Standing",
+      "eventSlug": "25307-last-man-standing",
+      "round": 3,
+      "timeInRound": "0:41"
+    },
+    {
+      "date": "2014-02-22T00:00:00.000Z",
+      "opponent": "Sean Richman",
+      "opponentSlug": "32972-sean-richman",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Caged Chaos at Canterbury Park 5",
+      "eventSlug": "22194-caged-chaos-5-caged-chaos-at-canterbury-park",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-12-14T00:00:00.000Z",
+      "opponent": "Jesse Rogge",
+      "opponentSlug": "50014-jesse-rogge",
+      "result": "win",
+      "method": "other",
+      "event": "Caged Chaos at Canterbury Park 4",
+      "eventSlug": "21296-caged-chaos-4-caged-chaod-at-canterbury-park",
+      "round": 3,
+      "timeInRound": "0:58"
+    },
+    {
+      "date": "2013-06-15T00:00:00.000Z",
+      "opponent": "Robert Tahtinen",
+      "opponentSlug": "49974-robert-tahtinen",
+      "result": "loss",
+      "method": "sub",
+      "event": "CFX 45: The Return",
+      "eventSlug": "19327-cfx-45-the-return",
+      "round": 2,
+      "timeInRound": "2:16"
+    },
+    {
+      "date": "2012-09-01T00:00:00.000Z",
+      "opponent": "Dale Walters",
+      "opponentSlug": "34051-dale-walters",
+      "result": "win",
+      "method": "other",
+      "event": "CFX 38: Fall Brawl",
+      "eventSlug": "14320-cfx-35-st-cloud",
+      "round": 2,
+      "timeInRound": "0:54"
+    },
+    {
+      "date": "2012-05-18T00:00:00.000Z",
+      "opponent": "Nicholas Jessen",
+      "opponentSlug": "46487-nicholas-jessen",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-01-06T00:00:00.000Z",
+      "opponent": "Marcus Young",
+      "opponentSlug": "20134-marcus-young",
+      "result": "win",
+      "method": "other",
+      "event": "Downtown Showdown 2",
+      "eventSlug": "11849-downtown-showdown-2",
+      "round": 2,
+      "timeInRound": "1:42"
+    },
+    {
+      "date": "2011-06-03T00:00:00.000Z",
+      "opponent": "Alex Figueroa",
+      "opponentSlug": "26541-alex-figueroa",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-02-04T00:00:00.000Z",
+      "opponent": "Codie Kahler",
+      "opponentSlug": "32961-codie-kahler",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:37:51.150Z"
+}

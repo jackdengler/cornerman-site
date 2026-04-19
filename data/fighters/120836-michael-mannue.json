@@ -1,0 +1,187 @@
+{
+  "slug": "120836-michael-mannue",
+  "name": "Michael Mannu",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1996-10-08",
+  "nationality": "Melbourne, Victoria, Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/120836-michael-mannue",
+  "recentFights": [
+    {
+      "date": "2025-11-22T00:00:00.000Z",
+      "opponent": "Josh Grove",
+      "opponentSlug": "190739-josh-grove",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "HEX Fight Series 37",
+      "eventSlug": "120780-hex-fight-series-37",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-07T00:00:00.000Z",
+      "opponent": "Marwan Rahiki",
+      "opponentSlug": "388487-marwan-rahiki",
+      "result": "loss",
+      "method": "tko",
+      "event": "HEX Fight Series 32",
+      "eventSlug": "115236-hex-fight-series-32",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-02T00:00:00.000Z",
+      "opponent": "Colby Thicknesse",
+      "opponentSlug": "166902-colby-thicknesse",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "HEX Fight Series 29",
+      "eventSlug": "107573-hex-fight-series-29",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-18T00:00:00.000Z",
+      "opponent": "Emre Han Hekimoglu",
+      "opponentSlug": "260240-emre-han-hekimoglu",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hex Fight Series 28",
+      "eventSlug": "104226-hex-fight-series-28",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-18T00:00:00.000Z",
+      "opponent": "Shane Parker",
+      "opponentSlug": "83673-shane-parker",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Hex Fight Series 27",
+      "eventSlug": "101993-hex-fight-series-27",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-20T00:00:00.000Z",
+      "opponent": "Rod Costa",
+      "opponentSlug": "160502-rod-costa",
+      "result": "loss",
+      "method": "sub",
+      "event": "Eternal MMA 68",
+      "eventSlug": "91664-eternal-mma-68",
+      "round": 2,
+      "timeInRound": "4:04"
+    },
+    {
+      "date": "2019-12-13T00:00:00.000Z",
+      "opponent": "Jason Petropoulos",
+      "opponentSlug": "84661-jason-petropoulos",
+      "result": "win",
+      "method": "other",
+      "event": "Hex Fight Series 20",
+      "eventSlug": "63850-hex-fight-series-20",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2018-06-16T00:00:00.000Z",
+      "opponent": "Michael Tobin",
+      "opponentSlug": "46973-michael-tobin-the-great-white",
+      "result": "loss",
+      "method": "sub",
+      "event": "ACB 88: Brisbane",
+      "eventSlug": "52786-acb-88-silva-vs-camozzi",
+      "round": 1,
+      "timeInRound": "2:04"
+    },
+    {
+      "date": "2018-05-26T00:00:00.000Z",
+      "opponent": "Anthony Drilich",
+      "opponentSlug": "158431-anthony-drilich",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 34",
+      "eventSlug": "53311-eternal-mma-34",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-10-15T00:00:00.000Z",
+      "opponent": "Jamie Renouf",
+      "opponentSlug": "114891-jamie-renouf",
+      "result": "win",
+      "method": "sub",
+      "event": "Diamondback FC 4",
+      "eventSlug": "47839-diamondback-fc-4",
+      "round": 2,
+      "timeInRound": "3:20"
+    },
+    {
+      "date": "2017-07-16T00:00:00.000Z",
+      "opponent": "Rainer Fumera",
+      "opponentSlug": "67610-rainer-fumera",
+      "result": "win",
+      "method": "sub",
+      "event": "Diamondback FC 3",
+      "eventSlug": "46524-diamondback-fc-3",
+      "round": 1,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2017-03-03T00:00:00.000Z",
+      "opponent": "Alan Hartley",
+      "opponentSlug": "134850-alan-hartley",
+      "result": "loss",
+      "method": "other",
+      "event": "Diamondback FC 2",
+      "eventSlug": "43949-diamondback-fc-2",
+      "round": 2,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2016-10-30T00:00:00.000Z",
+      "opponent": "Jake Hearl",
+      "opponentSlug": "54808-jake-hearl",
+      "result": "win",
+      "method": "tko",
+      "event": "Diamondback FC 1",
+      "eventSlug": "41095-diamondback-fc-1",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-06-17T00:00:00.000Z",
+      "opponent": "Gearoid Cronin",
+      "opponentSlug": "134935-gearoid-cronin",
+      "result": null,
+      "method": "other",
+      "event": "Minotaur 4: Demolition",
+      "eventSlug": "40097-minotaur-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-27T00:00:00.000Z",
+      "opponent": "Dylan Orchard",
+      "opponentSlug": "99071-dylan-orchard",
+      "result": "win",
+      "method": "other",
+      "event": "Minotaur 2: Rampage",
+      "eventSlug": "36871-minotaur-2-rampage",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:56:27.079Z"
+}

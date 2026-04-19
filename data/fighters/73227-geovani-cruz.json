@@ -1,0 +1,143 @@
+{
+  "slug": "73227-geovani-cruz",
+  "name": "Geovani Cruz",
+  "nickname": "Parça",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1986-05-31",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/73227-geovani-cruz",
+  "recentFights": [
+    {
+      "date": "2023-10-14T00:00:00.000Z",
+      "opponent": "Juan Carlos De Leon",
+      "opponentSlug": "202059-juan-carlos",
+      "result": "loss",
+      "method": "tko",
+      "event": "Peak Fighting 32",
+      "eventSlug": "104447-peak-fighting-32",
+      "round": 1,
+      "timeInRound": "0:57"
+    },
+    {
+      "date": "2023-04-14T00:00:00.000Z",
+      "opponent": "Nikita Kulshin",
+      "opponentSlug": "178301-nikita-kulshin",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 156: Fuller vs. Waters",
+      "eventSlug": "98557-lfa-156-fuller-vs-waters",
+      "round": 1,
+      "timeInRound": "0:17"
+    },
+    {
+      "date": "2022-09-10T00:00:00.000Z",
+      "opponent": "Marcos Vinicius",
+      "opponentSlug": "114483-marcos-vinicius-sorriso",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Peak Fighting 23",
+      "eventSlug": "91820-pfc-23-pfc-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-16T00:00:00.000Z",
+      "opponent": "Roderick Stewart",
+      "opponentSlug": "137442-roderick-stewart",
+      "result": "win",
+      "method": "sub",
+      "event": "Peak Fighting 21",
+      "eventSlug": "89818-peak-fighting-21",
+      "round": 1,
+      "timeInRound": "4:33"
+    },
+    {
+      "date": "2022-02-05T00:00:00.000Z",
+      "opponent": "Malik Lewis",
+      "opponentSlug": "168189-malik-lewis",
+      "result": "loss",
+      "method": "tko",
+      "event": "Peak Fighting 17",
+      "eventSlug": "84502-pf-17-kahaunaele-vs-goughary-pf-17",
+      "round": 1,
+      "timeInRound": "3:08"
+    },
+    {
+      "date": "2021-08-21T00:00:00.000Z",
+      "opponent": "Mauricio Costa e Silva",
+      "opponentSlug": "305183-mauricio-costa-e-silva-malvadeza",
+      "result": "win",
+      "method": "other",
+      "event": "Gladiator CF 56",
+      "eventSlug": "79949-gladiator-cf-56",
+      "round": 1,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2021-07-17T00:00:00.000Z",
+      "opponent": "João Silvio",
+      "opponentSlug": "310045-joao-silvio-mestre",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-03-14T00:00:00.000Z",
+      "opponent": "Bruno Henrique",
+      "opponentSlug": "259736-bruno-henrique",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Force FC 17",
+      "eventSlug": "88645-force-fc",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-12T00:00:00.000Z",
+      "opponent": "Toni Maciel",
+      "opponentSlug": "241325-toni-maciel-caveira",
+      "result": "win",
+      "method": "other",
+      "event": "SC Incombat 1",
+      "eventSlug": "64134-sc-incombat-1",
+      "round": 1,
+      "timeInRound": "3:38"
+    },
+    {
+      "date": "2013-08-24T00:00:00.000Z",
+      "opponent": "Thiago Natan",
+      "opponentSlug": "51234-thiago-natan",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-10-27T00:00:00.000Z",
+      "opponent": "Guilherme Nascimento",
+      "opponentSlug": "42513-guilherme-nascimento",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:38:43.167Z"
+}

@@ -1,0 +1,209 @@
+{
+  "slug": "50039-jamie-moyle",
+  "name": "Jamie Moyle",
+  "nickname": "Love Boat",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 155,
+  "reachCm": 165,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1989-03-17",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/50039-jamie-moyle",
+  "recentFights": [
+    {
+      "date": "2018-12-15T00:00:00.000Z",
+      "opponent": "Brianna Fortino",
+      "opponentSlug": "36437-brianna-vanburen",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 33",
+      "eventSlug": "56175-invicta-fc-33-yu-frey-vs-grusander-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-07T00:00:00.000Z",
+      "opponent": "Emily Whitmire",
+      "opponentSlug": "33183-emily-whitmire",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 226: Miocic vs. Cormier",
+      "eventSlug": "49921-ufc-226",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-03T00:00:00.000Z",
+      "opponent": "Viviane Pereira",
+      "opponentSlug": "52810-viviane-pereira-sucuri",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 212: Aldo vs. Holloway",
+      "eventSlug": "44080-ufc-212",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-03T00:00:00.000Z",
+      "opponent": "Kailin Curran",
+      "opponentSlug": "43275-kailin-curran",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "The Ultimate Fighter 24 Finale",
+      "eventSlug": "41342-the-ultimate-fighter-24-finale",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-02-19T00:00:00.000Z",
+      "opponent": "Amanda Cooper",
+      "opponentSlug": "63720-amanda-bobby-cooper",
+      "result": "loss",
+      "method": "dec-majority",
+      "event": "The Ultimate Fighter Season 23",
+      "eventSlug": "41118-the-ultimate-fighter-season-23-team-joanna-vs-team-claudia",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-01-26T00:00:00.000Z",
+      "opponent": "Alyssa Krahn",
+      "opponentSlug": "59526-alyssa-krahn",
+      "result": "win",
+      "method": "sub",
+      "event": "The Ultimate Fighter Season 23",
+      "eventSlug": "41112-the-ultimate-fighter-season-23-team-joanna-vs-team-claudia",
+      "round": 1,
+      "timeInRound": "4:11"
+    },
+    {
+      "date": "2015-09-12T00:00:00.000Z",
+      "opponent": "Sharon Jacobson",
+      "opponentSlug": "41413-sharon-jacobsen",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 14",
+      "eventSlug": "34029-invicta-fc-14-souza-vs-grasso",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-07-09T00:00:00.000Z",
+      "opponent": "Amy Montenegro",
+      "opponentSlug": "32435-amy-cadwell",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Invicta FC 13",
+      "eventSlug": "30742-invicta-fc-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-02-27T00:00:00.000Z",
+      "opponent": "JJ Aldrich",
+      "opponentSlug": "28420-jj-aldrich",
+      "result": "win",
+      "method": "sub",
+      "event": "Invicta FC 11",
+      "eventSlug": "29679-invicta-fc-11",
+      "round": 1,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2014-11-01T00:00:00.000Z",
+      "opponent": "Jenny Liou",
+      "opponentSlug": "62318-jenny-liou",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 9",
+      "eventSlug": "26870-invicta-fc-9-honchak-vs-hashi",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-06-07T00:00:00.000Z",
+      "opponent": "Molly Wren-Holmes",
+      "opponentSlug": "47713-molly-wren-holmes",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Tuff-N-Uff: 20 Year Anniversary Show",
+      "eventSlug": "24324-tuff-n-uff-20-year-anniversary-show",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-04-11T00:00:00.000Z",
+      "opponent": "Jianna Denizard",
+      "opponentSlug": "45578-jianna-denizard",
+      "result": "win",
+      "method": "tko",
+      "event": "Tuff-N-Uff",
+      "eventSlug": "22379-tuff-n-uff",
+      "round": 2,
+      "timeInRound": "2:31"
+    },
+    {
+      "date": "2014-01-24T00:00:00.000Z",
+      "opponent": "Stephanie Alba",
+      "opponentSlug": "30240-stephanie-alba",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Tuff-N-Uff",
+      "eventSlug": "22211-tuff-n-uff",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-07-22T00:00:00.000Z",
+      "opponent": "Delaney Bailey",
+      "opponentSlug": "38465-delaney-owens",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-05-17T00:00:00.000Z",
+      "opponent": "Tecia Pennington",
+      "opponentSlug": "32610-tecia-torres-the-tiny-tornado",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-10-01T00:00:00.000Z",
+      "opponent": "Daynesha Bumangle",
+      "opponentSlug": "73060-daynesha-bumangle",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-07-01T00:00:00.000Z",
+      "opponent": "Sarah Cook",
+      "opponentSlug": "32262-sarah-cook-the-terror",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Breakthrough MMA 1",
+      "eventSlug": "12301-breakthrough-mma-1-proving-ground",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:01:42.711Z"
+}

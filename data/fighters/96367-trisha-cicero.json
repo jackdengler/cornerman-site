@@ -1,0 +1,143 @@
+{
+  "slug": "96367-trisha-cicero",
+  "name": "Trisha Cicero",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 163,
+  "reachCm": 168,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1987-10-24",
+  "nationality": "Syracuse, New York, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/96367-trisha-cicero",
+  "recentFights": [
+    {
+      "date": "2020-07-02T00:00:00.000Z",
+      "opponent": "Laura Gallardo",
+      "opponentSlug": "158429-laura-anderson",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Invicta FC 40",
+      "eventSlug": "70103-invicta-fc-40-ducote-vs-lima",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-19T00:00:00.000Z",
+      "opponent": "Brandi Narvaez",
+      "opponentSlug": "86827-brandi-narvaez",
+      "result": "win",
+      "method": "sub",
+      "event": "War at the Rock 2",
+      "eventSlug": "61924-fight-game",
+      "round": 1,
+      "timeInRound": "4:45"
+    },
+    {
+      "date": "2018-12-15T00:00:00.000Z",
+      "opponent": "Angie Jennings",
+      "opponentSlug": "96909-angie-jennings",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XFN 22",
+      "eventSlug": "57118-xfn-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-08-18T00:00:00.000Z",
+      "opponent": "Kylie O'Hearn",
+      "opponentSlug": "132438-kylie-ohearn",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage Titans 40",
+      "eventSlug": "54068-cage-titans-40",
+      "round": 2,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2018-04-06T00:00:00.000Z",
+      "opponent": "Chelsea LaGrasse",
+      "opponentSlug": "139375-chelsea-lagrasse",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Titan FC 49",
+      "eventSlug": "51347-titan-fc-49-gomez-vs-soares",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-10-14T00:00:00.000Z",
+      "opponent": "Joselyne Edwards",
+      "opponentSlug": "98366-yoselin-edwards",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UCC Fantastic Fight Night 8",
+      "eventSlug": "48649-ucc-fantastic-fight-night-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-02T00:00:00.000Z",
+      "opponent": "Bárbara Acioly",
+      "opponentSlug": "133496-barbara-acioly",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Titan FC 42",
+      "eventSlug": "42246-titan-fc-42-lima-vs-jackson",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-06-11T00:00:00.000Z",
+      "opponent": "Kayla Stricker",
+      "opponentSlug": "77754-kayla-stricker",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XFN 9",
+      "eventSlug": "40555-xfn-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-02-20T00:00:00.000Z",
+      "opponent": "Angie Jennings",
+      "opponentSlug": "96909-angie-jennings",
+      "result": "win",
+      "method": "sub",
+      "event": "XFN 7",
+      "eventSlug": "37935-xtreme-fighting-nation-7",
+      "round": 3,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2015-09-27T00:00:00.000Z",
+      "opponent": "Victoria Fernandez",
+      "opponentSlug": "73139-victoria-fernandez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XFN 6: Beatdown at the Burrow 3",
+      "eventSlug": "34482-xfn-6-beatdown-at-the-burrow-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-04-12T00:00:00.000Z",
+      "opponent": "Azucena Rodriguez",
+      "opponentSlug": "96366-azucena-rodriguez",
+      "result": "win",
+      "method": "sub",
+      "event": "XFN 4",
+      "eventSlug": "31262-xtreme-fighting-nation-4-feliciano-vs-poe",
+      "round": 3,
+      "timeInRound": "2:07"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:34:05.749Z"
+}

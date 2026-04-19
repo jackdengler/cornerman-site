@@ -1,0 +1,187 @@
+{
+  "slug": "31924-cody-garness",
+  "name": "Cody Garness",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1991-07-12",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/31924-cody-garness",
+  "recentFights": [
+    {
+      "date": "2019-11-16T00:00:00.000Z",
+      "opponent": "James Bennett",
+      "opponentSlug": "27615-james-bennett",
+      "result": "loss",
+      "method": "other",
+      "event": "Inner Strength MMA 18",
+      "eventSlug": "64332-inner-strength-mma-18-legacy-lives-on",
+      "round": 1,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2019-03-09T00:00:00.000Z",
+      "opponent": "Jamey Simmons",
+      "opponentSlug": "140010-james-krause-simmons",
+      "result": "loss",
+      "method": "other",
+      "event": "Pure FC 13: Stevens Point",
+      "eventSlug": "57440-pure-fc-13-stevens-point",
+      "round": 1,
+      "timeInRound": "1:41"
+    },
+    {
+      "date": "2018-02-17T00:00:00.000Z",
+      "opponent": "Nick Janowitz",
+      "opponentSlug": "27697-nick-janowitz",
+      "result": "loss",
+      "method": "other",
+      "event": "XFO 62",
+      "eventSlug": "49824-xfo-61",
+      "round": 1,
+      "timeInRound": "2:10"
+    },
+    {
+      "date": "2017-09-09T00:00:00.000Z",
+      "opponent": "Nick Spina",
+      "opponentSlug": "19914-nick-spina",
+      "result": "win",
+      "method": "sub",
+      "event": "KOTC: Never Surrender",
+      "eventSlug": "47080-kotc-never-surrender",
+      "round": 1,
+      "timeInRound": "0:39"
+    },
+    {
+      "date": "2017-07-15T00:00:00.000Z",
+      "opponent": "Jesse Free",
+      "opponentSlug": "87772-jesse-free",
+      "result": "win",
+      "method": "sub",
+      "event": "KOTC: Maximum Intensity",
+      "eventSlug": "46205-kotc-maximum-intensity",
+      "round": 1,
+      "timeInRound": "2:04"
+    },
+    {
+      "date": "2017-03-03T00:00:00.000Z",
+      "opponent": "Tye Knuckles",
+      "opponentSlug": "17048-ty-knuckles",
+      "result": "loss",
+      "method": "other",
+      "event": "KOTC: Violent Confrontation",
+      "eventSlug": "43661-kotc",
+      "round": 1,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2016-10-22T00:00:00.000Z",
+      "opponent": "Marc Hummel",
+      "opponentSlug": "26502-marc-hummel",
+      "result": "loss",
+      "method": "other",
+      "event": "KOTC: Revolutionary",
+      "eventSlug": "41565-kotc",
+      "round": 1,
+      "timeInRound": "0:29"
+    },
+    {
+      "date": "2016-09-09T00:00:00.000Z",
+      "opponent": "DeAngelo Curtis",
+      "opponentSlug": "34173-quinton-curtis",
+      "result": "loss",
+      "method": "sub",
+      "event": "KOTC: Due Process",
+      "eventSlug": "40951-kotc",
+      "round": 1,
+      "timeInRound": "3:22"
+    },
+    {
+      "date": "2016-04-16T00:00:00.000Z",
+      "opponent": "Alex Gilpin",
+      "opponentSlug": "50151-alex-gilpin",
+      "result": "loss",
+      "method": "sub",
+      "event": "Chosen Few FC 8",
+      "eventSlug": "38697-chosen-few-fc-8",
+      "round": 1,
+      "timeInRound": "4:37"
+    },
+    {
+      "date": "2014-09-13T00:00:00.000Z",
+      "opponent": "Damion Hill",
+      "opponentSlug": "19705-damien-hill",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-04-26T00:00:00.000Z",
+      "opponent": "Matt Gaffney",
+      "opponentSlug": "18446-matt-gaffney",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-10-12T00:00:00.000Z",
+      "opponent": "Randy Lene",
+      "opponentSlug": "20264-randy-lene",
+      "result": "win",
+      "method": "sub",
+      "event": "A-Town Throwdown",
+      "eventSlug": "21009-a-town-throwdown-the-arrival",
+      "round": 1,
+      "timeInRound": "1:22"
+    },
+    {
+      "date": "2012-08-04T00:00:00.000Z",
+      "opponent": "Nick Porter",
+      "opponentSlug": "31925-nick-porter",
+      "result": "loss",
+      "method": "sub",
+      "event": "3 River Throwdown 2",
+      "eventSlug": "14694-3-river-throwdown-2",
+      "round": 2,
+      "timeInRound": "1:16"
+    },
+    {
+      "date": "2012-05-18T00:00:00.000Z",
+      "opponent": "John Castañeda",
+      "opponentSlug": "20125-john-castaneda",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-11-11T00:00:00.000Z",
+      "opponent": "Richard Barajas",
+      "opponentSlug": "24835-richard-barajas",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:03:31.429Z"
+}

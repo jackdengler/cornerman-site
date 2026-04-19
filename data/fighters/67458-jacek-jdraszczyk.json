@@ -1,0 +1,176 @@
+{
+  "slug": "67458-jacek-jdraszczyk",
+  "name": "Jacek Jędraszczyk",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 187,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1986-11-06",
+  "nationality": "Poland",
+  "url": "https://www.tapology.com/fightcenter/fighters/67458-jacek-jdraszczyk",
+  "recentFights": [
+    {
+      "date": "2025-03-01T00:00:00.000Z",
+      "opponent": "Wawrzyniec Bartnik",
+      "opponentSlug": "162300-bartnik-wawrzyniec",
+      "result": "loss",
+      "method": "other",
+      "event": "FEN 58: Bartnik vs. Jędraszczyk 2",
+      "eventSlug": "122569-fen-58-bartnik-vs-jedraszczyk",
+      "round": 1,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2023-01-28T00:00:00.000Z",
+      "opponent": "Wawrzyniec Bartnik",
+      "opponentSlug": "162300-bartnik-wawrzyniec",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FEN 44: Orlen Paliwa Fight Night",
+      "eventSlug": "96042-fen-44",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-18T00:00:00.000Z",
+      "opponent": "Adrian Zieliński",
+      "opponentSlug": "29788-adrian-zielinski",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "FEN 40: ENERGA Fight Night Ostróda",
+      "eventSlug": "87598-fen-40",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-01-22T00:00:00.000Z",
+      "opponent": "Patryk Bogdan",
+      "opponentSlug": "218288-patryk-bogdan",
+      "result": "win",
+      "method": "other",
+      "event": "FEN 38: LOTOS Fight Night 7",
+      "eventSlug": "84712-fen-38",
+      "round": 2,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2020-08-22T00:00:00.000Z",
+      "opponent": "Robert Bryczek",
+      "opponentSlug": "26244-robert-bryczek",
+      "result": "loss",
+      "method": "other",
+      "event": "Fight Exclusive Night 29",
+      "eventSlug": "70114-fight-exclusive-night-29",
+      "round": 1,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2020-01-18T00:00:00.000Z",
+      "opponent": "Samuel Vogt",
+      "opponentSlug": "129200-samuel-vogt",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Exclusive Night 27",
+      "eventSlug": "63892-fight-exclusive-night-27",
+      "round": 2,
+      "timeInRound": "0:08"
+    },
+    {
+      "date": "2019-04-13T00:00:00.000Z",
+      "opponent": "Cezary Oleksiejczuk",
+      "opponentSlug": "71780-cezary-oleksiejczuk",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "RWC 2: Turniej Wagi Ciężkiej",
+      "eventSlug": "58248-rwc-2-turniej-wagi-ciezkiej",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-20T00:00:00.000Z",
+      "opponent": "Kamil Gniadek",
+      "opponentSlug": "52045-kamil-gniadek",
+      "result": "loss",
+      "method": "other",
+      "event": "Fight Exclusive Night 22",
+      "eventSlug": "55173-fight-exclusive-night-22-poznan-fight-night",
+      "round": 1,
+      "timeInRound": "2:51"
+    },
+    {
+      "date": "2018-05-25T00:00:00.000Z",
+      "opponent": "Tymoteusz Łopaczyk",
+      "opponentSlug": "143116-tymoteusz-opaczyk",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fight Exclusive Night 21",
+      "eventSlug": "51200-fight-exclusive-night-21",
+      "round": 3,
+      "timeInRound": "3:40"
+    },
+    {
+      "date": "2017-09-30T00:00:00.000Z",
+      "opponent": "Mateusz Głąb",
+      "opponentSlug": "100369-mateusz-gb",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Octagon No Mercy Runda 3",
+      "eventSlug": "47700-octagon-no-mercy-runda-3-fight-or-die",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-15T00:00:00.000Z",
+      "opponent": "Dagomir Zimmer",
+      "opponentSlug": "88770-dagomir-zimmer",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Gala Sportów Walki 13",
+      "eventSlug": "43878-gala-sportw-walki-13-thirteen-scary",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-21T00:00:00.000Z",
+      "opponent": "Michał Miłek",
+      "opponentSlug": "127496-micha-miek",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Soul FC 3",
+      "eventSlug": "29046-soul-fc-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-04-05T00:00:00.000Z",
+      "opponent": "Adrian Petela",
+      "opponentSlug": "69793-adrian-petela",
+      "result": "win",
+      "method": "sub",
+      "event": "Gala Sportów Walki 3",
+      "eventSlug": "23703-gala-sportw-walki-3",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2013-12-21T00:00:00.000Z",
+      "opponent": "Adrian Kupiec",
+      "opponentSlug": "69835-adrian-kupiec",
+      "result": "win",
+      "method": "other",
+      "event": "1st Warriors Fight Night",
+      "eventSlug": "22267-warriors-fight-night-1",
+      "round": 1,
+      "timeInRound": "2:24"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:18:12.594Z"
+}

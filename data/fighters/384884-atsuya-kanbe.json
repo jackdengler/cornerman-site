@@ -1,0 +1,132 @@
+{
+  "slug": "384884-atsuya-kanbe",
+  "name": "Atsuya Kanbe",
+  "nickname": "Atsubou",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1999-08-15",
+  "nationality": "Japan",
+  "url": "https://www.tapology.com/fightcenter/fighters/384884-atsuya-kanbe",
+  "recentFights": [
+    {
+      "date": "2026-04-29T00:00:00.000Z",
+      "opponent": "Kanata Nagai",
+      "opponentSlug": "379614-sota-nagai",
+      "result": null,
+      "method": "other",
+      "event": "ONE Samurai 1",
+      "eventSlug": "137460-one-175",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-08T00:00:00.000Z",
+      "opponent": "Daiki Gojima",
+      "opponentSlug": "27101-daiki-gojima",
+      "result": "win",
+      "method": "other",
+      "event": "Pancrase 358",
+      "eventSlug": "135550-pancrase-358",
+      "round": 1,
+      "timeInRound": "0:59"
+    },
+    {
+      "date": "2025-07-27T00:00:00.000Z",
+      "opponent": "Kohei Maeda",
+      "opponentSlug": "94545-kohei-maeda",
+      "result": "win",
+      "method": "other",
+      "event": "Pancrase 355",
+      "eventSlug": "129608-pancrase-355",
+      "round": 1,
+      "timeInRound": "2:32"
+    },
+    {
+      "date": "2025-04-26T00:00:00.000Z",
+      "opponent": "Toya Ohara",
+      "opponentSlug": "375643-toya-ohara",
+      "result": "win",
+      "method": "sub",
+      "event": "Pancrase 353",
+      "eventSlug": "125860-pancrase-353",
+      "round": 2,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2024-11-28T00:00:00.000Z",
+      "opponent": "Ryosuke Nakagiri",
+      "opponentSlug": "145606-ryosuke-nakagiri",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fighting NEXUS vol.37",
+      "eventSlug": "120269-fighting-nexus-vol-37",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-08-24T00:00:00.000Z",
+      "opponent": "Kodai Murata",
+      "opponentSlug": "47629-kodai-murata",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fighting NEXUS vol.36",
+      "eventSlug": "115893-fighting-nexus-vol-36",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-12T00:00:00.000Z",
+      "opponent": "Ken Nakano",
+      "opponentSlug": "105422-ken-nakano",
+      "result": "win",
+      "method": "other",
+      "event": "Fighting NEXUS vol.35",
+      "eventSlug": "112771-fighting-nexus-vol-35",
+      "round": 1,
+      "timeInRound": "3:16"
+    },
+    {
+      "date": "2023-12-10T00:00:00.000Z",
+      "opponent": "Yuto Shioya",
+      "opponentSlug": "396517-yuto-shioya",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fighting NEXUS vol.33",
+      "eventSlug": "107419-fighting-nexus-vol-33",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-10-15T00:00:00.000Z",
+      "opponent": "Masato Arai",
+      "opponentSlug": "60747-masato-arai",
+      "result": "win",
+      "method": "tko",
+      "event": "Fighting NEXUS",
+      "eventSlug": "105976-fighting-nexus-bayside-battle-in-yokosuka-2023",
+      "round": 1,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2023-05-21T00:00:00.000Z",
+      "opponent": "Hikaru Ito",
+      "opponentSlug": "360925-hikaru-ito",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Fighting NEXUS vol.31",
+      "eventSlug": "100721-fighting-nexus-vol-31",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:07:50.878Z"
+}

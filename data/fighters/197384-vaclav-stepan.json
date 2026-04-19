@@ -1,0 +1,154 @@
+{
+  "slug": "197384-vaclav-stepan",
+  "name": "Václav Štěpán",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 176,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Jaromer, Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/197384-vaclav-stepan",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Firas Daud",
+      "opponentSlug": "365273-firas-daud",
+      "result": null,
+      "method": "other",
+      "event": "OKTAGON 87: Szabová vs. Fernandes",
+      "eventSlug": "135741-oktagon-87",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-01T00:00:00.000Z",
+      "opponent": "Karol Kutyła",
+      "opponentSlug": "221562-karol-kutyla",
+      "result": "win",
+      "method": "sub",
+      "event": "OKTAGON 79: Surdu vs. Kalašnik",
+      "eventSlug": "118938-oktagon",
+      "round": 2,
+      "timeInRound": "3:46"
+    },
+    {
+      "date": "2024-12-14T00:00:00.000Z",
+      "opponent": "Karol Arteaga",
+      "opponentSlug": "358964-karol-arteaga-adesanya",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Heroes Gate 30",
+      "eventSlug": "121113-heroes-gate-30",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-03T00:00:00.000Z",
+      "opponent": "Jansu Gogia",
+      "opponentSlug": "344143-zhansu-gogia",
+      "result": "win",
+      "method": "other",
+      "event": "Fusion 27",
+      "eventSlug": "113208-fusion-28",
+      "round": 2,
+      "timeInRound": "3:23"
+    },
+    {
+      "date": "2023-12-02T00:00:00.000Z",
+      "opponent": "Dumitru Purice",
+      "opponentSlug": "169345-dumitru-purice",
+      "result": "win",
+      "method": "other",
+      "event": "Heroes Gate 28",
+      "eventSlug": "106831-heroes-gate-28",
+      "round": 1,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2022-12-10T00:00:00.000Z",
+      "opponent": "Mário Brezovský",
+      "opponentSlug": "222517-mario-brezovsky",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MG Fight Night 12",
+      "eventSlug": "94997-mg-fight-night-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-11T00:00:00.000Z",
+      "opponent": "Denis Gondžala",
+      "opponentSlug": "230938-denis-gondzala",
+      "result": "win",
+      "method": "tko",
+      "event": "MG Fight Night 11",
+      "eventSlug": "82712-mmasters-league-vol-4",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-07T00:00:00.000Z",
+      "opponent": "Josef Štummer",
+      "opponentSlug": "270603-josef-stummer",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMAsters League vol. 3",
+      "eventSlug": "78528-mmasters",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-12-12T00:00:00.000Z",
+      "opponent": "Martin Jonáš",
+      "opponentSlug": "280644-martin-jonas",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMAsters League vol. 2",
+      "eventSlug": "75017-mmasters-league-vol-2-galavecer-bojovych-sportu",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-06-26T00:00:00.000Z",
+      "opponent": "Petr Stříž",
+      "opponentSlug": "208330-petr-striz",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMAsters League vol. 1",
+      "eventSlug": "78068-mmasters-league-vol-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-14T00:00:00.000Z",
+      "opponent": "Šimon Hanzl",
+      "opponentSlug": "205618-simon-hanzl",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "RP Security MMAA Arena Cup 2018/19",
+      "eventSlug": "61125-rp-security-mmaa-arena-cup-2018-19-finalovy-galavecer",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-01-27T00:00:00.000Z",
+      "opponent": "Matěj Jež",
+      "opponentSlug": "197432-matej-jez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "RP Security MMAA Aréna Cup 48",
+      "eventSlug": "58110-rp-security-mmaa-arena-cup-48",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:05:03.079Z"
+}

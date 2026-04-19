@@ -1,0 +1,420 @@
+{
+  "slug": "137460-one-175",
+  "name": "ONE Samurai 1: Rodtang vs. Takeru 2",
+  "promotion": "ONE Championship",
+  "startTimeUtc": "2026-04-29T05:00:00.000Z",
+  "venueTimezone": null,
+  "venue": "Ariake Arena",
+  "location": "Tokyo, Japan",
+  "url": "https://www.tapology.com/fightcenter/events/137460-one-175",
+  "status": "scheduled",
+  "forumThreadId": "94061",
+  "fights": [
+    {
+      "id": "137460-one-175#1",
+      "eventSlug": "137460-one-175",
+      "order": 1,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "208722-rodtang-jitmuangnon-the-iron-man",
+        "name": "Rodtang Jitmuangnon",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "122092-takeru",
+        "name": "Takeru Segawa",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:39.258Z"
+    },
+    {
+      "id": "137460-one-175#2",
+      "eventSlug": "137460-one-175",
+      "order": 2,
+      "cardSection": "main",
+      "weightClass": "135 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "103817-yuya-wakamatsu",
+        "name": "Yuya Wakamatsu",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "364160-avazbek-kholmurzoev",
+        "name": "Avazbek Kholmirzaev",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:39.258Z"
+    },
+    {
+      "id": "137460-one-175#3",
+      "eventSlug": "137460-one-175",
+      "order": 3,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "245507-yoshinari-nadaka",
+        "name": "Nadaka Yoshinari",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "323486-songchainoi-kiatsongrit",
+        "name": "Songchainoi Kiatsongrit",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:39.258Z"
+    },
+    {
+      "id": "137460-one-175#4",
+      "eventSlug": "137460-one-175",
+      "order": 4,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "219794-jonathan-haggerty",
+        "name": "Jonathan Haggerty",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "233781-yuki-yoza",
+        "name": "Yuki Yoza",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:39.258Z"
+    },
+    {
+      "id": "137460-one-175#5",
+      "eventSlug": "137460-one-175",
+      "order": 5,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "149840-marat-grigorian",
+        "name": "Marat Grigorian",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "153317-kaito",
+        "name": "Kaito Ono",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:39.258Z"
+    },
+    {
+      "id": "137460-one-175#6",
+      "eventSlug": "137460-one-175",
+      "order": 6,
+      "cardSection": "main",
+      "weightClass": "115 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "68336-miura-ayaka",
+        "name": "Ayaka Miura",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "289752-chihiro-sawada",
+        "name": "Chihiro Sawada",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:39.258Z"
+    },
+    {
+      "id": "137460-one-175#7",
+      "eventSlug": "137460-one-175",
+      "order": 7,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "208720-hiroki-akimoto",
+        "name": "Hiroki Akimoto",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "332929",
+        "name": "Taimu Hisai",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:39.258Z"
+    },
+    {
+      "id": "137460-one-175#8",
+      "eventSlug": "137460-one-175",
+      "order": 8,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "215286-hiromi-wajima",
+        "name": "Hiromi Wajima",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "245716-ricardo-bravo",
+        "name": "Ricardo Bravo",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:39.258Z"
+    },
+    {
+      "id": "137460-one-175#9",
+      "eventSlug": "137460-one-175",
+      "order": 9,
+      "cardSection": "main",
+      "weightClass": "115 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "205347-itsuki-hirata",
+        "name": "Itsuki Hirata",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "240108-ritu-phogat",
+        "name": "Ritu Phogat",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:39.258Z"
+    },
+    {
+      "id": "137460-one-175#10",
+      "eventSlug": "137460-one-175",
+      "order": 10,
+      "cardSection": "main",
+      "weightClass": "135 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "4803-tatsumitsu-wada",
+        "name": "Tatsumitsu Wada",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "45048-seiichiro-ito",
+        "name": "Seiichiro Ito",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:39.258Z"
+    },
+    {
+      "id": "137460-one-175#11",
+      "eventSlug": "137460-one-175",
+      "order": 11,
+      "cardSection": "main",
+      "weightClass": "125 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "215789-keito-yamakita",
+        "name": "Keito Yamakita",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "45276-ken-asuka",
+        "name": "Ryohei Kurosawa",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:39.258Z"
+    },
+    {
+      "id": "137460-one-175#12",
+      "eventSlug": "137460-one-175",
+      "order": 12,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "272748-shimon-pk",
+        "name": "Shimon Yoshinari",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "374359-muhammad-johan-ghazali",
+        "name": "Johan Ghazali",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:39.258Z"
+    },
+    {
+      "id": "137460-one-175#13",
+      "eventSlug": "137460-one-175",
+      "order": 13,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "238806-touma-kuroda",
+        "name": "Toma Kuroda",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "238715-toki-tamaru",
+        "name": "Toki Tamaru",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:39.258Z"
+    },
+    {
+      "id": "137460-one-175#14",
+      "eventSlug": "137460-one-175",
+      "order": 14,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "351025-hiyu",
+        "name": "Hyu Iwata",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "153314-taiki-naito",
+        "name": "Taiki Naito",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:39.258Z"
+    },
+    {
+      "id": "137460-one-175#15",
+      "eventSlug": "137460-one-175",
+      "order": 15,
+      "cardSection": "main",
+      "weightClass": "145 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "379614-sota-nagai",
+        "name": "Kanata Nagai",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "384884-atsuya-kanbe",
+        "name": "Atsuya Kanbe",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:39.258Z"
+    }
+  ],
+  "lastVerified": "2026-04-19T19:09:39.258Z"
+}

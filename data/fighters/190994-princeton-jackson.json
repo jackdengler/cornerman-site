@@ -1,0 +1,121 @@
+{
+  "slug": "190994-princeton-jackson",
+  "name": "Princeton Jackson",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/190994-princeton-jackson",
+  "recentFights": [
+    {
+      "date": "2025-08-16T00:00:00.000Z",
+      "opponent": "Mykola Plazynskyi",
+      "opponentSlug": "149286-nikolai-plazinskiy",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "RUF 64: Lopez vs. Fortune",
+      "eventSlug": "131122-ruf-64",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-16T00:00:00.000Z",
+      "opponent": "James Pleasant",
+      "opponentSlug": "163189-james-pleasant",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "RUF 60",
+      "eventSlug": "117386-ruf-60",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-01-06T00:00:00.000Z",
+      "opponent": "CJ Brant",
+      "opponentSlug": "287721-chris-bryant",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 149: Bunes vs. Horiuchi",
+      "eventSlug": "95845-lfa-149-bunes-vs-horiuchi",
+      "round": 1,
+      "timeInRound": "4:09"
+    },
+    {
+      "date": "2022-12-10T00:00:00.000Z",
+      "opponent": "Ben Goodwin",
+      "opponentSlug": "190591-ben-goodwin",
+      "result": "win",
+      "method": "sub",
+      "event": "RUF 51: Year End Finale",
+      "eventSlug": "95544-ruf-51",
+      "round": 1,
+      "timeInRound": "2:51"
+    },
+    {
+      "date": "2022-07-15T00:00:00.000Z",
+      "opponent": "Jontae McCowan",
+      "opponentSlug": "223724-jontae-mccowan",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Freedom Fight Night 2",
+      "eventSlug": "89961-freedom-fight-night-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-22T00:00:00.000Z",
+      "opponent": "Avery Brightwell",
+      "opponentSlug": "118311-avery-brightwell",
+      "result": "win",
+      "method": "sub",
+      "event": "WFF 42",
+      "eventSlug": "65364-wff-42",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2019-05-18T00:00:00.000Z",
+      "opponent": "Kentrell Coleman",
+      "opponentSlug": "223722-kentrell-coleman",
+      "result": "win",
+      "method": "sub",
+      "event": "RUF MMA 32",
+      "eventSlug": "60303-ruf-mma-32",
+      "round": 1,
+      "timeInRound": "2:16"
+    },
+    {
+      "date": "2019-01-26T00:00:00.000Z",
+      "opponent": "Luigi Bisconti",
+      "opponentSlug": "206150-luigi-bisconti",
+      "result": "win",
+      "method": "sub",
+      "event": "RUF MMA 30",
+      "eventSlug": "57289-ruf-mma-30-night-of-legends",
+      "round": 3,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2018-07-28T00:00:00.000Z",
+      "opponent": "Cedric Katambwa",
+      "opponentSlug": "151861-cedric-katambwa",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Iron Boy MMA 12",
+      "eventSlug": "53838-iron-boy-mma-12",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:42:12.826Z"
+}

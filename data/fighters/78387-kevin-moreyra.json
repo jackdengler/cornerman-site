@@ -1,0 +1,165 @@
+{
+  "slug": "78387-kevin-moreyra",
+  "name": "Kevin Moreyra",
+  "nickname": "Demonio de los Andes",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1992-11-11",
+  "nationality": "Venezuela",
+  "url": "https://www.tapology.com/fightcenter/fighters/78387-kevin-moreyra",
+  "recentFights": [
+    {
+      "date": "2024-06-28T00:00:00.000Z",
+      "opponent": "Josimar Cuevas",
+      "opponentSlug": "172872-josimar-cuevas-joshi",
+      "result": "win",
+      "method": "sub",
+      "event": "Budo Sento Championship 23",
+      "eventSlug": "115286-budo-sento-championship-23",
+      "round": 2,
+      "timeInRound": "2:05"
+    },
+    {
+      "date": "2024-05-18T00:00:00.000Z",
+      "opponent": "Iván Maya",
+      "opponentSlug": "92197-ivan-maya-jaguar",
+      "result": "win",
+      "method": "other",
+      "event": "Champions Fight League 2",
+      "eventSlug": "114065-champions-fight-league-2",
+      "round": 1,
+      "timeInRound": "4:52"
+    },
+    {
+      "date": "2023-09-16T00:00:00.000Z",
+      "opponent": "Denilson Souza",
+      "opponentSlug": "295545-denilson-souza-furacao",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IFC 4: Moreyra vs. Souza",
+      "eventSlug": "105042-ifc-4-moreyra-vs-souza",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-22T00:00:00.000Z",
+      "opponent": "Alex Conceição",
+      "opponentSlug": "234390-alex-sombra",
+      "result": "win",
+      "method": "sub",
+      "event": "Inka FC 36: Macias vs. Reis",
+      "eventSlug": "102275-inka-fc-36-macias-vs-reis",
+      "round": 1,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2022-07-10T00:00:00.000Z",
+      "opponent": "Márcio Barbosa",
+      "opponentSlug": "126539-marcio-ticot",
+      "result": "loss",
+      "method": "other",
+      "event": "Inka FC 34: Peru vs. Brasil",
+      "eventSlug": "90737-inka-fc-34-peru-vs-brasil",
+      "round": 1,
+      "timeInRound": "3:21"
+    },
+    {
+      "date": "2020-02-26T00:00:00.000Z",
+      "opponent": "João Souza",
+      "opponentSlug": "77235-joo-souza-samurai",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Inka FC 33: Pinedo vs. De Santana",
+      "eventSlug": "66310-inka-fc-33-pinedo-vs-de-santana",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-31T00:00:00.000Z",
+      "opponent": "Bruno Pereira",
+      "opponentSlug": "38729-bruno-pereira-jacundo",
+      "result": "win",
+      "method": "other",
+      "event": "Combate 38: Combate Peru",
+      "eventSlug": "58979-combate-38",
+      "round": 2,
+      "timeInRound": "3:12"
+    },
+    {
+      "date": "2017-11-11T00:00:00.000Z",
+      "opponent": "John Castañeda",
+      "opponentSlug": "20125-john-castaneda",
+      "result": "loss",
+      "method": "sub",
+      "event": "Combate 18: Copa Combate",
+      "eventSlug": "49054-combate-18-copa-combate",
+      "round": 1,
+      "timeInRound": "4:52"
+    },
+    {
+      "date": "2017-07-01T00:00:00.000Z",
+      "opponent": "Romel Orosco",
+      "opponentSlug": "147627-romel-orosco",
+      "result": "win",
+      "method": "dec-split",
+      "event": "EMMA 11",
+      "eventSlug": "46306-emma-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-10T00:00:00.000Z",
+      "opponent": "Patrique Tavares",
+      "opponentSlug": "46388-patrick-tavares",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "300 Sparta 17",
+      "eventSlug": "43369-300-sparta-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-20T00:00:00.000Z",
+      "opponent": "Jonathan Percy Soler Muñoz",
+      "opponentSlug": "75083-jonathan-soler",
+      "result": "win",
+      "method": "other",
+      "event": "Fusion FC 21",
+      "eventSlug": "37856-fusion-fc-21",
+      "round": 1,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2015-09-30T00:00:00.000Z",
+      "opponent": "Alessandro Gandolfo",
+      "opponentSlug": "68449-alessandro-gandolfo",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fusion FC 16",
+      "eventSlug": "35131-fusion-fc-16",
+      "round": 2,
+      "timeInRound": "4:50"
+    },
+    {
+      "date": "2015-07-15T00:00:00.000Z",
+      "opponent": "Rolando Bedoya",
+      "opponentSlug": "81901-rolando-bedoya",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fusion FC 15",
+      "eventSlug": "32848-fusion-fc-15",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:56:44.069Z"
+}

@@ -1,0 +1,121 @@
+{
+  "slug": "131401-lauren-mueler",
+  "name": "Lauren Mueller",
+  "nickname": "Princess Tiger",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": 170,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1991-11-15",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/131401-lauren-mueler",
+  "recentFights": [
+    {
+      "date": "2021-08-27T00:00:00.000Z",
+      "opponent": "Serena DeJesus",
+      "opponentSlug": "87466-serena-dejesus",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Invicta FC 44",
+      "eventSlug": "81427-invicta-fc-44-a-new-era",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-12T00:00:00.000Z",
+      "opponent": "JJ Aldrich",
+      "opponentSlug": "28420-jj-aldrich",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC on ESPN+ 19",
+      "eventSlug": "60319-ufc-on-espn-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-13T00:00:00.000Z",
+      "opponent": "Poliana Botelho",
+      "opponentSlug": "72267-poliana-botelho",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 236: Holloway vs. Poirier 2",
+      "eventSlug": "57504-ufc-236",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-24T00:00:00.000Z",
+      "opponent": "Yanan Wu",
+      "opponentSlug": "74942-ya-nan-wu",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night 141",
+      "eventSlug": "54135-ufc-fight-night-141",
+      "round": 1,
+      "timeInRound": "4:00"
+    },
+    {
+      "date": "2018-04-14T00:00:00.000Z",
+      "opponent": "Shana Dobson",
+      "opponentSlug": "90374-shana-dobson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC on FOX 29",
+      "eventSlug": "50283-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-29T00:00:00.000Z",
+      "opponent": "Kelly McGill-Velasco",
+      "opponentSlug": "41014-kelly-mcgill",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "DW's Contender Series 2017",
+      "eventSlug": "46928-dana-whites-contender-series",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-23T00:00:00.000Z",
+      "opponent": "Hannah Fitzpatrick",
+      "opponentSlug": "39072-hannah-fitzpatrick",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Gladiator Challenge",
+      "eventSlug": "41123-gladiator-challenge-freedom-strikes",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-02T00:00:00.000Z",
+      "opponent": "Faye Shields",
+      "opponentSlug": "141669-faye-shields",
+      "result": "win",
+      "method": "other",
+      "event": "Gladiator Challenge",
+      "eventSlug": "39893-gladiator-challenge-mma-smack-around",
+      "round": 1,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2015-07-11T00:00:00.000Z",
+      "opponent": "Peggy Ross",
+      "opponentSlug": "131400-peggy-ross-the-truth",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Gladiator Challenge",
+      "eventSlug": "34314-gladiator-challenge-contenders",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:01:20.319Z"
+}

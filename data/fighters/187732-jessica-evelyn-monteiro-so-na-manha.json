@@ -1,0 +1,176 @@
+{
+  "slug": "187732-jessica-evelyn-monteiro-so-na-manha",
+  "name": "Jessica Cunha",
+  "nickname": "Só na Manha",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 157,
+  "reachCm": 159,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1994-11-08",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/187732-jessica-evelyn-monteiro-so-na-manha",
+  "recentFights": [
+    {
+      "date": "2025-07-05T00:00:00.000Z",
+      "opponent": "Paulina Wiśniewska",
+      "opponentSlug": "215096-paulina-wisniewska",
+      "result": "loss",
+      "method": "sub",
+      "event": "PFL Europe 2",
+      "eventSlug": "127948-pfl-europe-2025",
+      "round": 1,
+      "timeInRound": "4:12"
+    },
+    {
+      "date": "2022-12-12T00:00:00.000Z",
+      "opponent": "Paisiella Souza",
+      "opponentSlug": "341229-paisiella-souza-dielly",
+      "result": "win",
+      "method": "sub",
+      "event": "Pitbull Fight 61",
+      "eventSlug": "96433-pitbull-fight-61",
+      "round": 1,
+      "timeInRound": "0:17"
+    },
+    {
+      "date": "2022-11-19T00:00:00.000Z",
+      "opponent": "Juliana Rodrigues",
+      "opponentSlug": "302957-juliana-rodrigues",
+      "result": null,
+      "method": "other",
+      "event": "Capanema Fight Combat 2022",
+      "eventSlug": "95120-capanema-fight-combat-2022",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-08T00:00:00.000Z",
+      "opponent": "Claudia Alves",
+      "opponentSlug": "230111-claudilene-ferreira",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Iron Man MMA 23",
+      "eventSlug": "87112-iron-man-cf-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-10-31T00:00:00.000Z",
+      "opponent": "Julia Polastri",
+      "opponentSlug": "168315-julia-polastri",
+      "result": "loss",
+      "method": "sub",
+      "event": "SFT 22: Serafim vs. Mara",
+      "eventSlug": "73425-sft-22-serafim-vs-mara",
+      "round": 2,
+      "timeInRound": "4:18"
+    },
+    {
+      "date": "2019-11-09T00:00:00.000Z",
+      "opponent": "Joseanne Kelly",
+      "opponentSlug": "140743-josy-silva-pitbull",
+      "result": "win",
+      "method": "sub",
+      "event": "Pitbull Fight 54",
+      "eventSlug": "64852-pitbull-fight-54",
+      "round": 2,
+      "timeInRound": "2:42"
+    },
+    {
+      "date": "2019-05-18T00:00:00.000Z",
+      "opponent": "Ediana Silva",
+      "opponentSlug": "231819-edyanna-rodrygues-mel-pitbull",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-22T00:00:00.000Z",
+      "opponent": "Ana Claudia Silva",
+      "opponentSlug": "203257-ana-claudia-assis-silva-kakau",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-10T00:00:00.000Z",
+      "opponent": "Bruna May Santos",
+      "opponentSlug": "195521-bruna-may-santos-bruninha",
+      "result": "win",
+      "method": "sub",
+      "event": "Super Fight Brazil 1",
+      "eventSlug": "57328-super-fight-brazil-1",
+      "round": 1,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2018-08-11T00:00:00.000Z",
+      "opponent": "Shirley Duarte",
+      "opponentSlug": "181988-shirley-duarte-pitbull",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-17T00:00:00.000Z",
+      "opponent": "Ana Claudia Silva",
+      "opponentSlug": "203257-ana-claudia-assis-silva-kakau",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-16T00:00:00.000Z",
+      "opponent": "Naizi Cantanhede",
+      "opponentSlug": "172243-nayse-nascimento",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-16T00:00:00.000Z",
+      "opponent": "Rosiele Almeida",
+      "opponentSlug": "187716-rosiele-almeida-rosi",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-12-05T00:00:00.000Z",
+      "opponent": "Rayanne dos Santos",
+      "opponentSlug": "188018-rayanne-amanda",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:58:59.449Z"
+}

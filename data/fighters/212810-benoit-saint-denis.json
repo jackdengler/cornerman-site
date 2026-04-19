@@ -1,0 +1,253 @@
+{
+  "slug": "212810-benoit-saint-denis",
+  "name": "Benoit Saint-Denis",
+  "nickname": "God of War",
+  "aliases": [],
+  "recordPro": {
+    "wins": 17,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": 185,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1995-12-18",
+  "nationality": "Nîmes, France",
+  "url": "https://www.tapology.com/fightcenter/fighters/212810-benoit-saint-denis",
+  "recentFights": [
+    {
+      "date": "2026-01-31T00:00:00.000Z",
+      "opponent": "Dan Hooker",
+      "opponentSlug": "18854-daniel-hooker",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 325: Volkanovski vs. Lopes 2",
+      "eventSlug": "136549-ufc-325-volkanovski-vs-lopes-2",
+      "round": 2,
+      "timeInRound": "4:45"
+    },
+    {
+      "date": "2025-11-15T00:00:00.000Z",
+      "opponent": "Beneil Dariush",
+      "opponentSlug": "20010-beneil-dariush-benny",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 322",
+      "eventSlug": "132653-ufc-322",
+      "round": 1,
+      "timeInRound": "0:16"
+    },
+    {
+      "date": "2025-09-06T00:00:00.000Z",
+      "opponent": "Mauricio Ruffy",
+      "opponentSlug": "99747-mauricio-rufy",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "129146-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2025-05-10T00:00:00.000Z",
+      "opponent": "Kyle Prepolec",
+      "opponentSlug": "19063-kyle-prepolec",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC 315: Muhammad vs. Della Maddalena",
+      "eventSlug": "123873-ufc-315",
+      "round": 2,
+      "timeInRound": "2:35"
+    },
+    {
+      "date": "2024-09-28T00:00:00.000Z",
+      "opponent": "Renato Moicano",
+      "opponentSlug": "16950-renato-carneiro-moicano",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "111674-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2024-03-09T00:00:00.000Z",
+      "opponent": "Dustin Poirier",
+      "opponentSlug": "dustin-poirier-the-diamond",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "eventSlug": "107061-ufc-299",
+      "round": 2,
+      "timeInRound": "2:32"
+    },
+    {
+      "date": "2023-11-11T00:00:00.000Z",
+      "opponent": "Matt Frevola",
+      "opponentSlug": "83149-matt-frevola",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 295: Procházka vs. Pereira",
+      "eventSlug": "102959-ufc-295-jones-vs-miocic",
+      "round": 1,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2023-09-02T00:00:00.000Z",
+      "opponent": "Thiago Moisés",
+      "opponentSlug": "49744-thiago-moiss",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "102007-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "4:44"
+    },
+    {
+      "date": "2023-07-01T00:00:00.000Z",
+      "opponent": "Ismael Bonfim",
+      "opponentSlug": "35163-ismael-marreta",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "100452-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "4:48"
+    },
+    {
+      "date": "2022-09-03T00:00:00.000Z",
+      "opponent": "Gabriel Miranda",
+      "opponentSlug": "36548-gabriel-miranda-fly",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "88967-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "0:16"
+    },
+    {
+      "date": "2022-06-04T00:00:00.000Z",
+      "opponent": "Niklas Stolze",
+      "opponentSlug": "95449-niklas-stolze",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "86746-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2021-10-30T00:00:00.000Z",
+      "opponent": "Elizeu Zaleski dos Santos",
+      "opponentSlug": "28131-elizeu-zaleski-capoeira",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 267: Błachowicz vs. Teixeira",
+      "eventSlug": "80222-ufc-267",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-01T00:00:00.000Z",
+      "opponent": "Arkaitz Ramos",
+      "opponentSlug": "165283-arkaitz-ramos-gudari",
+      "result": "win",
+      "method": "sub",
+      "event": "BRAVE CF 52",
+      "eventSlug": "79778-brave-cf-italy",
+      "round": 1,
+      "timeInRound": "3:09"
+    },
+    {
+      "date": "2021-03-25T00:00:00.000Z",
+      "opponent": "Luan Santiago",
+      "opponentSlug": "53250-luan-santiago",
+      "result": "win",
+      "method": "sub",
+      "event": "BRAVE CF 49",
+      "eventSlug": "77283-brave-cf-49-super-fights",
+      "round": 2,
+      "timeInRound": "3:51"
+    },
+    {
+      "date": "2020-08-08T00:00:00.000Z",
+      "opponent": "Mario Saeed",
+      "opponentSlug": "29261-mario-saeed",
+      "result": "win",
+      "method": "other",
+      "event": "Brave CF 38",
+      "eventSlug": "70958-brave-cf-38",
+      "round": 2,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2020-01-19T00:00:00.000Z",
+      "opponent": "Ivica Trušček",
+      "opponentSlug": "14419-ivica-truscek-terror",
+      "result": "win",
+      "method": "other",
+      "event": "Brave CF 34",
+      "eventSlug": "61266-wfc-24-caged",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-04T00:00:00.000Z",
+      "opponent": "Paweł Kiełek",
+      "opponentSlug": "56464-pawel-kielek",
+      "result": "nc",
+      "method": "other",
+      "event": "Brave CF 28",
+      "eventSlug": "63307-brave-cf-28",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-12T00:00:00.000Z",
+      "opponent": "Ibragim Baisarov",
+      "opponentSlug": "56079-ibragim-baisarov",
+      "result": "win",
+      "method": "sub",
+      "event": "European Beatdown 7",
+      "eventSlug": "63283-european-beatdown-7",
+      "round": 1,
+      "timeInRound": "2:47"
+    },
+    {
+      "date": "2019-06-15T00:00:00.000Z",
+      "opponent": "Antoine Bensimon",
+      "opponentSlug": "181043-antoine-bensimon",
+      "result": "win",
+      "method": "sub",
+      "event": "Trophee de France",
+      "eventSlug": "84419-trophee-de-france",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-16T00:00:00.000Z",
+      "opponent": "Artur Szczepaniak",
+      "opponentSlug": "157677-artur-szczepaniak",
+      "result": "win",
+      "method": "sub",
+      "event": "Staredown 14",
+      "eventSlug": "57630-staredown-14",
+      "round": 3,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2019-02-16T00:00:00.000Z",
+      "opponent": "Marc Domon",
+      "opponentSlug": "125703-marc-domon",
+      "result": "win",
+      "method": "other",
+      "event": "Lions FC 8",
+      "eventSlug": "57627-lions-fc-8",
+      "round": 1,
+      "timeInRound": "3:29"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:11:08.408Z"
+}

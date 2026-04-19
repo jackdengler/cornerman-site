@@ -1,0 +1,154 @@
+{
+  "slug": "132438-kylie-ohearn",
+  "name": "Kylie O'Hearn",
+  "nickname": "K.O.",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1997-08-18",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/132438-kylie-ohearn",
+  "recentFights": [
+    {
+      "date": "2026-02-18T00:00:00.000Z",
+      "opponent": "Zareah Fa’avale",
+      "opponentSlug": "483847-zareah-faavale",
+      "result": "win",
+      "method": "other",
+      "event": "Alaska Fighting Championship 173",
+      "eventSlug": "139236-alaska-fighting-championship-173",
+      "round": 2,
+      "timeInRound": "4:11"
+    },
+    {
+      "date": "2025-11-23T00:00:00.000Z",
+      "opponent": "Mel Zeman",
+      "opponentSlug": "137353-mel-zeman",
+      "result": "win",
+      "method": "sub",
+      "event": "Anthony Pettis FC 21",
+      "eventSlug": "134077-anthony-pettis-fc-21-new-mexico-fight-night-ii",
+      "round": 1,
+      "timeInRound": "1:26"
+    },
+    {
+      "date": "2025-06-28T00:00:00.000Z",
+      "opponent": "Phaidra Knight",
+      "opponentSlug": "307736-phaidra-knight",
+      "result": "win",
+      "method": "sub",
+      "event": "Flex Fights",
+      "eventSlug": "128271-flex-fights-beach-brawl-vol-48",
+      "round": 2,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2023-03-15T00:00:00.000Z",
+      "opponent": "Fernanda Araujo",
+      "opponentSlug": "20840-fernanda-araujo",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Combat Zone 79",
+      "eventSlug": "98220-combat-zone-79",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-02T00:00:00.000Z",
+      "opponent": "Gabriella Gulfin",
+      "opponentSlug": "95363-gabriella-gulfin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Titans 52",
+      "eventSlug": "87474-cage-titans-52",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-07T00:00:00.000Z",
+      "opponent": "Jasmine Jasudavicius",
+      "opponentSlug": "171056-jasmine-jasdavicious",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Titans",
+      "eventSlug": "62687-cage-titans-combat-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-01-19T00:00:00.000Z",
+      "opponent": "Jessy Miele",
+      "opponentSlug": "52472-jessy-miele",
+      "result": "loss",
+      "method": "tko",
+      "event": "CES 54: Andrews vs. Logan",
+      "eventSlug": "57139-ces-54",
+      "round": 3,
+      "timeInRound": "4:27"
+    },
+    {
+      "date": "2018-08-18T00:00:00.000Z",
+      "opponent": "Trisha Cicero",
+      "opponentSlug": "96367-trisha-cicero",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Titans 40",
+      "eventSlug": "54068-cage-titans-40",
+      "round": 2,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2017-04-08T00:00:00.000Z",
+      "opponent": "LaNeisha Vinson",
+      "opponentSlug": "124435-laneisha-vinson",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Titans 33",
+      "eventSlug": "43471-cage-titans-33",
+      "round": 2,
+      "timeInRound": "1:40"
+    },
+    {
+      "date": "2016-08-27T00:00:00.000Z",
+      "opponent": "Kerri Kenneson",
+      "opponentSlug": "96947-kerri-kenneson",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Cage Titans 30",
+      "eventSlug": "40606-cage-titans-30",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-06-18T00:00:00.000Z",
+      "opponent": "Rebecca Moore",
+      "opponentSlug": "72306-rebecca-moore",
+      "result": "win",
+      "method": "tko",
+      "event": "Cage Titans 29",
+      "eventSlug": "39325-cage-titans-29",
+      "round": 2,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2016-05-14T00:00:00.000Z",
+      "opponent": "Angela Young",
+      "opponentSlug": "107135-angela-young",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "NEF 23: NEF Cages the Cape",
+      "eventSlug": "38666-nef-23-nef-cages-the-cape",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:09:57.446Z"
+}

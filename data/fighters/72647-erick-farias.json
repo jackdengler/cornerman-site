@@ -1,0 +1,44 @@
+{
+  "slug": "72647-erick-farias",
+  "name": "Eric Farias Bravo",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Chile",
+  "url": "https://www.tapology.com/fightcenter/fighters/72647-erick-farias",
+  "recentFights": [
+    {
+      "date": "2015-07-11T00:00:00.000Z",
+      "opponent": "Sebastián Vidal",
+      "opponentSlug": "96487-sebastian-vidal",
+      "result": "loss",
+      "method": "sub",
+      "event": "MFC Amateur",
+      "eventSlug": "34271-mfc-vidal-vs-farias",
+      "round": 3,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2013-04-27T00:00:00.000Z",
+      "opponent": "Victor Valenzuela",
+      "opponentSlug": "67389-victor-valenzuela-sicosis",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:58:25.251Z"
+}

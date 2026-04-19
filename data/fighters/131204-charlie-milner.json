@@ -1,0 +1,154 @@
+{
+  "slug": "131204-charlie-milner",
+  "name": "Charlie Milner",
+  "nickname": "Kung Fu Panda",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 193,
+  "reachCm": 216,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1993-03-19",
+  "nationality": "England",
+  "url": "https://www.tapology.com/fightcenter/fighters/131204-charlie-milner",
+  "recentFights": [
+    {
+      "date": "2026-02-14T00:00:00.000Z",
+      "opponent": "Jovan Leka",
+      "opponentSlug": "299622-jovan-leka",
+      "result": "loss",
+      "method": "sub",
+      "event": "BRAVE CF 104",
+      "eventSlug": "138949-brave-cf-104",
+      "round": 1,
+      "timeInRound": "2:36"
+    },
+    {
+      "date": "2022-09-17T00:00:00.000Z",
+      "opponent": "Pavel Dailidko",
+      "opponentSlug": "208830-pavel-dailidko",
+      "result": "loss",
+      "method": "tko",
+      "event": "Caged Steel 29",
+      "eventSlug": "88883-caged-steel-29",
+      "round": 1,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2022-06-17T00:00:00.000Z",
+      "opponent": "Satoshi Ishii",
+      "opponentSlug": "satoshi-ishii",
+      "result": "loss",
+      "method": "other",
+      "event": "FNC 6",
+      "eventSlug": "89319-fnc6",
+      "round": 1,
+      "timeInRound": "0:40"
+    },
+    {
+      "date": "2021-11-05T00:00:00.000Z",
+      "opponent": "Gokhan Saricam",
+      "opponentSlug": "203358-gokhan-saricam",
+      "result": "loss",
+      "method": "other",
+      "event": "Bellator 270",
+      "eventSlug": "81270-bellator-mma",
+      "round": 1,
+      "timeInRound": "0:15"
+    },
+    {
+      "date": "2021-07-31T00:00:00.000Z",
+      "opponent": "Charles Newey",
+      "opponentSlug": "304462-charles-newey",
+      "result": "win",
+      "method": "tko",
+      "event": "Olympus Fight Series 1",
+      "eventSlug": "80512-olympus-fight-series",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-05T00:00:00.000Z",
+      "opponent": "Tom Watson",
+      "opponentSlug": "275901-tom-watson",
+      "result": "win",
+      "method": "tko",
+      "event": "Lockdown Fight Series",
+      "eventSlug": "78416-lockdown-fight-series-caged-in",
+      "round": 1,
+      "timeInRound": "0:43"
+    },
+    {
+      "date": "2021-04-17T00:00:00.000Z",
+      "opponent": "Oliver Bassil",
+      "opponentSlug": "236586-oliver-bassil",
+      "result": "win",
+      "method": "other",
+      "event": "UFL 5: Next Gen",
+      "eventSlug": "78495-ufl-5",
+      "round": 1,
+      "timeInRound": "0:09"
+    },
+    {
+      "date": "2020-02-29T00:00:00.000Z",
+      "opponent": "Krzysztof Wiśniewski",
+      "opponentSlug": "154238-krzysztof-wisniewski",
+      "result": "loss",
+      "method": "tko",
+      "event": "ECMMA 6",
+      "eventSlug": "67023-ecmma-6",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-24T00:00:00.000Z",
+      "opponent": "Anwar Akchich",
+      "opponentSlug": "239957-anwar-akchich",
+      "result": "win",
+      "method": "tko",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "0:23"
+    },
+    {
+      "date": "2019-10-18T00:00:00.000Z",
+      "opponent": "Matt Hudd",
+      "opponentSlug": "237545-matt-hudd-scrapyard",
+      "result": "win",
+      "method": "other",
+      "event": "True Champion MMA",
+      "eventSlug": "63378-true-champion-mma-the-debut",
+      "round": 1,
+      "timeInRound": "0:11"
+    },
+    {
+      "date": "2019-09-07T00:00:00.000Z",
+      "opponent": "Joshua Salisbury",
+      "opponentSlug": "235161-joshua-salisbury",
+      "result": "win",
+      "method": "sub",
+      "event": "Sparta Fight Series 4",
+      "eventSlug": "60866-sparta-fight-series-4",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-02T00:00:00.000Z",
+      "opponent": "Kim Johansen",
+      "opponentSlug": "197973-kim-johansen-valhalla",
+      "result": "win",
+      "method": "other",
+      "event": "Sparta Fight Series 3",
+      "eventSlug": "57670-sparta-fight-series-3",
+      "round": 1,
+      "timeInRound": "1:49"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:59:50.342Z"
+}

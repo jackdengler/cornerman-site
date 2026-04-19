@@ -1,0 +1,154 @@
+{
+  "slug": "257185-andi-vrtacic",
+  "name": "Andi Vrtačić",
+  "nickname": "Highlight Machine",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 189,
+  "reachCm": 200,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1994-11-15",
+  "nationality": "Croatia",
+  "url": "https://www.tapology.com/fightcenter/fighters/257185-andi-vrtacic",
+  "recentFights": [
+    {
+      "date": "2026-04-18T00:00:00.000Z",
+      "opponent": "Albert Odzimkowski",
+      "opponentSlug": "50072-albert-odzimkowski-zloty",
+      "result": null,
+      "method": "other",
+      "event": "KSW 117: Pawlak vs. Khalidov",
+      "eventSlug": "140146-ksw-117-de-fries-vs-wojcik",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-01-17T00:00:00.000Z",
+      "opponent": "Mateusz Gola",
+      "opponentSlug": "91669-mateusz-gola",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 114: Parnasse vs. Held",
+      "eventSlug": "136117-ksw-114",
+      "round": 2,
+      "timeInRound": "2:39"
+    },
+    {
+      "date": "2025-08-09T00:00:00.000Z",
+      "opponent": "Michał Michalski",
+      "opponentSlug": "50974-michal-michalski",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "KSW 109: Kuberski vs. Paczuski",
+      "eventSlug": "129471-ksw-109",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-24T00:00:00.000Z",
+      "opponent": "Piotr Strus",
+      "opponentSlug": "26237-piotr-strus",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FNC 23: Fabjan vs. Moeil",
+      "eventSlug": "122524-fnc",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-01-25T00:00:00.000Z",
+      "opponent": "Cezariusz Kęsik",
+      "opponentSlug": "90597-cezary-ksik",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 102",
+      "eventSlug": "119217-ksw-102",
+      "round": 2,
+      "timeInRound": "4:33"
+    },
+    {
+      "date": "2024-11-23T00:00:00.000Z",
+      "opponent": "Kamil Oniszczuk",
+      "opponentSlug": "109966-kamil-oniszczuk",
+      "result": "win",
+      "method": "other",
+      "event": "FNC 20",
+      "eventSlug": "117742-fnc-20",
+      "round": 3,
+      "timeInRound": "2:28"
+    },
+    {
+      "date": "2023-05-28T00:00:00.000Z",
+      "opponent": "Robin Roos",
+      "opponentSlug": "140194-robin-roos",
+      "result": "loss",
+      "method": "other",
+      "event": "FNC 11: Erslan vs Broenstrup",
+      "eventSlug": "100308-fnc-11",
+      "round": 1,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2023-03-17T00:00:00.000Z",
+      "opponent": "Mateusz Janur",
+      "opponentSlug": "154667-mateusz-janur",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 80: Ruchała vs. Eskijev",
+      "eventSlug": "97604-ksw-80",
+      "round": 2,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2022-12-23T00:00:00.000Z",
+      "opponent": "Matija Bosančić",
+      "opponentSlug": "298705-matija-bosancic",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FNC 9: Pejić vs. Costa",
+      "eventSlug": "95413-fnc-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-03T00:00:00.000Z",
+      "opponent": "Đani Barbir",
+      "opponentSlug": "240038-dani-barber",
+      "result": "loss",
+      "method": "other",
+      "event": "FNC 7: Vitasović vs Gerônimo",
+      "eventSlug": "91583-fnc-7",
+      "round": 1,
+      "timeInRound": "3:16"
+    },
+    {
+      "date": "2022-04-30T00:00:00.000Z",
+      "opponent": "Zoran Đođ",
+      "opponentSlug": "60549-zoran-dod",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "GFN 7",
+      "eventSlug": "90942-gfn-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-22T00:00:00.000Z",
+      "opponent": "Leon Krajačić",
+      "opponentSlug": "132090-leon-krajai",
+      "result": "win",
+      "method": "other",
+      "event": "GFN 4",
+      "eventSlug": "67938-gladiator-fn-4",
+      "round": 1,
+      "timeInRound": "4:59"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:03:09.785Z"
+}

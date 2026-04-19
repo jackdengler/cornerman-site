@@ -1,0 +1,142 @@
+{
+  "slug": "182192-darragh-kelly",
+  "name": "Darragh Kelly",
+  "nickname": "The Moville Mauler",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 183,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1998-04-06",
+  "nationality": "Ireland",
+  "url": "https://www.tapology.com/fightcenter/fighters/182192-darragh-kelly",
+  "recentFights": [
+    {
+      "date": "2026-04-16T00:00:00.000Z",
+      "opponent": "Jay Jay Wilson",
+      "opponentSlug": "136000-jay-jay-wilson",
+      "result": null,
+      "method": "other",
+      "event": "PFL Belfast",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-26T00:00:00.000Z",
+      "opponent": "Bakhtiyar Abdulaev",
+      "opponentSlug": "90002-bakhtiyar-abdulaev-soldier",
+      "result": "win",
+      "method": "sub",
+      "event": "PFL Europe 3",
+      "round": 1,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2025-06-20T00:00:00.000Z",
+      "opponent": "Mike Hamel",
+      "opponentSlug": "92311-michael-hamel",
+      "result": "win",
+      "method": "other",
+      "event": "PFL World Tournament 6",
+      "round": 3,
+      "timeInRound": "1:51"
+    },
+    {
+      "date": "2024-09-14T00:00:00.000Z",
+      "opponent": "Dmytrii Hrytsenko",
+      "opponentSlug": "144556-dmitriy-gritsenko",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bellator Champions Series",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-22T00:00:00.000Z",
+      "opponent": "Mathias Poiron",
+      "opponentSlug": "306896-mathias-poiron",
+      "result": "win",
+      "method": "sub",
+      "event": "Bellator Champions Series",
+      "round": 1,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2023-09-23T00:00:00.000Z",
+      "opponent": "Jelle Zeegers",
+      "opponentSlug": "171564-jelle-zegers",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 299",
+      "round": 3,
+      "timeInRound": "3:42"
+    },
+    {
+      "date": "2023-06-11T00:00:00.000Z",
+      "opponent": "Andre Ferreira",
+      "opponentSlug": "281328-andre-ferreira-andrezinho-marajo",
+      "result": "win",
+      "method": "other",
+      "event": "Clan Wars 47",
+      "round": 2,
+      "timeInRound": "0:28"
+    },
+    {
+      "date": "2023-02-25T00:00:00.000Z",
+      "opponent": "Dorval Jordan",
+      "opponentSlug": "192749-dorval-jordan",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 291",
+      "round": 3,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2022-09-23T00:00:00.000Z",
+      "opponent": "Kye Stevens",
+      "opponentSlug": "169618-kye-stevens",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bellator 285",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-25T00:00:00.000Z",
+      "opponent": "Junior Morgan",
+      "opponentSlug": "66314-junior-morgan",
+      "result": "win",
+      "method": "sub",
+      "event": "Bellator 275",
+      "round": 1,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2021-06-05T00:00:00.000Z",
+      "opponent": "Solomon Simon",
+      "opponentSlug": "180334-soloman-simon",
+      "result": "win",
+      "method": "sub",
+      "event": "Clan Wars 39",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2020-09-26T00:00:00.000Z",
+      "opponent": "Tajik Abdullghahar",
+      "opponentSlug": "197386-abdullghahar-tajik",
+      "result": "win",
+      "method": "tko",
+      "event": "GMC Fight Night",
+      "round": 1,
+      "timeInRound": "2:31"
+    }
+  ],
+  "lastVerified": "2026-04-16T23:58:43.923Z"
+}

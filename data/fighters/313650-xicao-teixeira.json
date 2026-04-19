@@ -1,0 +1,143 @@
+{
+  "slug": "313650-xicao-teixeira",
+  "name": "Tallison Teixeira",
+  "nickname": "Xicão",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 201,
+  "reachCm": 211,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1999-12-07",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/313650-xicao-teixeira",
+  "recentFights": [
+    {
+      "date": "2026-05-30T00:00:00.000Z",
+      "opponent": "Sergei Pavlovich",
+      "opponentSlug": "89112-sergey-pavlovich",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "139238-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-01-31T00:00:00.000Z",
+      "opponent": "Tai Tuivasa",
+      "opponentSlug": "120884-tai-tuivasa-bam-bam",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 325: Volkanovski vs. Lopes 2",
+      "eventSlug": "136549-ufc-325-volkanovski-vs-lopes-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-07-12T00:00:00.000Z",
+      "opponent": "Derrick Lewis",
+      "opponentSlug": "14023-derrick-lewis-the-black-beast",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "126523-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2025-02-08T00:00:00.000Z",
+      "opponent": "Justin Tafa",
+      "opponentSlug": "152336-justin-tafa",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 312: Du Plessis vs. Strickland 2",
+      "eventSlug": "119136-ufc-312",
+      "round": 1,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2024-09-17T00:00:00.000Z",
+      "opponent": "Arthur Lopes",
+      "opponentSlug": "173162-arthur-guilherme-lopes-pereira-jon-jones",
+      "result": "win",
+      "method": "other",
+      "event": "Contender Series 2024",
+      "eventSlug": "112923-contender-series-2024-week-6",
+      "round": 1,
+      "timeInRound": "1:57"
+    },
+    {
+      "date": "2024-05-03T00:00:00.000Z",
+      "opponent": "Matheus Fonseca",
+      "opponentSlug": "270061-matheus-fonseca",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 183: Cantanhede vs. Guimarães",
+      "eventSlug": "111711-lfa-183",
+      "round": 1,
+      "timeInRound": "1:55"
+    },
+    {
+      "date": "2024-01-27T00:00:00.000Z",
+      "opponent": "Arthur Fonseca",
+      "opponentSlug": "332730-arthur-fonseca-mamute",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 175: Lopes vs. Brigagão",
+      "eventSlug": "109002-lfa-175-lopes-vs-brigagao",
+      "round": 1,
+      "timeInRound": "3:31"
+    },
+    {
+      "date": "2023-10-07T00:00:00.000Z",
+      "opponent": "Julio dos Santos",
+      "opponentSlug": "31954-julio-dos-santos-centauro",
+      "result": "win",
+      "method": "tko",
+      "event": "Dominium Fighter Championship",
+      "eventSlug": "105412-dominium-fighter-championship-ladies-of-steel",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-03T00:00:00.000Z",
+      "opponent": "Fernando Kato",
+      "opponentSlug": "285652-fernando-kato",
+      "result": "win",
+      "method": "other",
+      "event": "SFT 37: Prates vs. Oliveira",
+      "eventSlug": "92277-sft-37-prates-vs-oliveira",
+      "round": 1,
+      "timeInRound": "0:24"
+    },
+    {
+      "date": "2021-11-27T00:00:00.000Z",
+      "opponent": "Caio Rabelo",
+      "opponentSlug": "320352-caio-rabelo-el-tanque",
+      "result": "win",
+      "method": "other",
+      "event": "Pantanal FC 26",
+      "eventSlug": "85355-pantanal-fc-26",
+      "round": 1,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2021-10-30T00:00:00.000Z",
+      "opponent": "Carlos Sena",
+      "opponentSlug": "313651-carlos-sena",
+      "result": "win",
+      "method": "sub",
+      "event": "MF Fighters 6",
+      "eventSlug": "83777-mf-fighters-4",
+      "round": 1,
+      "timeInRound": "4:40"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:11:13.429Z"
+}

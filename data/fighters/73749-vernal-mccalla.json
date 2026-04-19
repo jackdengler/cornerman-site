@@ -1,0 +1,48 @@
+{
+  "slug": "73749-vernal-mccalla",
+  "name": "Vernal McCalla",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/73749-vernal-mccalla",
+  "recentFights": [
+    {
+      "date": "2018-02-02T00:00:00.000Z",
+      "opponent": "Dennis Buzukja",
+      "opponentSlug": "131561-dennis-buzukia",
+      "result": "loss",
+      "method": "tko",
+      "event": "Ring of Combat AM 27",
+      "eventSlug": "49888-ring-of-combat-am-27",
+      "round": 1,
+      "timeInRound": "0:28"
+    },
+    {
+      "date": "2014-06-28T00:00:00.000Z",
+      "opponent": "Macho Lopez",
+      "opponentSlug": "73119-macho-lopez",
+      "result": "loss",
+      "method": "sub",
+      "event": "Ring of Combat AM 18",
+      "eventSlug": "24139-ring-of-combat-am-18-mma-battle-schuetzen-park",
+      "round": 2,
+      "timeInRound": "2:43"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:13:21.050Z"
+}

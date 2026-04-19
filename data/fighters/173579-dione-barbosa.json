@@ -1,0 +1,187 @@
+{
+  "slug": "173579-dione-barbosa",
+  "name": "Dione Barbosa",
+  "nickname": "The Witch",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": 169,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1992-05-08",
+  "nationality": "Recife, Pernambuco, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/173579-dione-barbosa",
+  "recentFights": [
+    {
+      "date": "2026-04-04T00:00:00.000Z",
+      "opponent": "Melissa Gatto",
+      "opponentSlug": "164565-melissa-gatto",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "UFC Fight Night",
+      "eventSlug": "138212-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-08-16T00:00:00.000Z",
+      "opponent": "Karine Silva",
+      "opponentSlug": "69225-karine-silva-killer",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 319: Du Plessis vs. Chimaev",
+      "eventSlug": "128190-ufc-319-du-plessis-vs-chimaev",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-04-05T00:00:00.000Z",
+      "opponent": "Diana Belbiţă",
+      "opponentSlug": "76509-diana-belbita",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "122672-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "4:13"
+    },
+    {
+      "date": "2024-07-20T00:00:00.000Z",
+      "opponent": "Miranda Maverick",
+      "opponentSlug": "116637-miranda-maverick",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "112783-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-04T00:00:00.000Z",
+      "opponent": "Ernesta Kareckaite",
+      "opponentSlug": "104562-ernesta-kareckaite",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 301: Pantoja vs. Erceg",
+      "eventSlug": "109604-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-05T00:00:00.000Z",
+      "opponent": "Rainn Guerrero",
+      "opponentSlug": "190516-rainn-guerrero",
+      "result": "win",
+      "method": "sub",
+      "event": "Contender Series 2023",
+      "eventSlug": "100995-contender-series-2023-week-5",
+      "round": 1,
+      "timeInRound": "4:35"
+    },
+    {
+      "date": "2023-02-10T00:00:00.000Z",
+      "opponent": "Jessica Middleton",
+      "opponentSlug": "75095-jessica-middleton",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 152: Valente vs. Bekoev",
+      "eventSlug": "97300-lfa-152-valente-vs-bekoev",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-09T00:00:00.000Z",
+      "opponent": "Mariana Piccolo",
+      "opponentSlug": "274228-mariana-poltronieri-mari",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 148: Leyva vs. Brown",
+      "eventSlug": "94842-lfa-148-leyva-vs-brown",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-12T00:00:00.000Z",
+      "opponent": "Jena Bishop",
+      "opponentSlug": "211607-jena-bishop",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 118: Askar vs. Gomes",
+      "eventSlug": "83766-lfa-118",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-07T00:00:00.000Z",
+      "opponent": "Josiane Nunes",
+      "opponentSlug": "61258-josiane-nunes",
+      "result": "loss",
+      "method": "other",
+      "event": "Katana Fight 10",
+      "eventSlug": "64250-katana-fight-10",
+      "round": 2,
+      "timeInRound": "4:36"
+    },
+    {
+      "date": "2019-05-04T00:00:00.000Z",
+      "opponent": "Karine Silva",
+      "opponentSlug": "69225-karine-silva-killer",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Katana Fight 9",
+      "eventSlug": "59047-katana-fight-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-21T00:00:00.000Z",
+      "opponent": "Ana Paula",
+      "opponentSlug": "102490-ana-paula",
+      "result": "win",
+      "method": "sub",
+      "event": "Katana Fight 5",
+      "eventSlug": "54025-katana-fight-5-gold-edition",
+      "round": 1,
+      "timeInRound": "3:31"
+    },
+    {
+      "date": "2018-07-07T00:00:00.000Z",
+      "opponent": "Cristmi Niero",
+      "opponentSlug": "85728-cristmi-niero-cris",
+      "result": "win",
+      "method": "sub",
+      "event": "Federação Fight 8",
+      "eventSlug": "54057-federacao-fight-8",
+      "round": 1,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2017-12-02T00:00:00.000Z",
+      "opponent": "Karina Oliveira",
+      "opponentSlug": "173688-karina-oliveira",
+      "result": "win",
+      "method": "sub",
+      "event": "Federação Fight 6",
+      "eventSlug": "49477-federao-fight-6",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-10-07T00:00:00.000Z",
+      "opponent": "Andrea Paulino",
+      "opponentSlug": "554221-andrea-paulino",
+      "result": "win",
+      "method": "sub",
+      "event": "Champions Fight 7",
+      "eventSlug": "49047-champions-fight-7",
+      "round": 1,
+      "timeInRound": "3:00"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:10:13.399Z"
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "175125-moises-carrasco",
+  "name": "Moises Carrasco",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1996-10-31",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/175125-moises-carrasco",
+  "recentFights": [
+    {
+      "date": "2019-03-09T00:00:00.000Z",
+      "opponent": "Sedriques Dumas",
+      "opponentSlug": "188574-sedriques-dumas",
+      "result": "loss",
+      "method": "sub",
+      "event": "Summit FC 31",
+      "eventSlug": "57762-summit-fc-31",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-28T00:00:00.000Z",
+      "opponent": "Rodricus Dansby",
+      "opponentSlug": "136871-rodricus-dansby",
+      "result": "win",
+      "method": "other",
+      "event": "SHP 50",
+      "eventSlug": "53846-shp-50",
+      "round": 2,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2018-06-16T00:00:00.000Z",
+      "opponent": "Ethan Wood",
+      "opponentSlug": "169256",
+      "result": "win",
+      "method": "other",
+      "event": "Battle of New Orleans 28",
+      "eventSlug": "52017-battle-of-new-orleans-28",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-17T00:00:00.000Z",
+      "opponent": "Jacob Dykes",
+      "opponentSlug": "169101-jacob-dykes",
+      "result": "loss",
+      "method": "other",
+      "event": "SHP 49",
+      "eventSlug": "49829-shp-49",
+      "round": 1,
+      "timeInRound": "0:07"
+    },
+    {
+      "date": "2017-12-02T00:00:00.000Z",
+      "opponent": "Kaspar Caldwell",
+      "opponentSlug": "274341-kasper-caldwell",
+      "result": "win",
+      "method": "other",
+      "event": "Summit FC 25",
+      "eventSlug": "48822-summit-fc-25",
+      "round": 2,
+      "timeInRound": "0:45"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:53:33.870Z"
+}

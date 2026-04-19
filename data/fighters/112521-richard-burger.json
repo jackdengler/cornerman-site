@@ -1,0 +1,147 @@
+{
+  "slug": "112521-richard-burger",
+  "name": "Righard Burger",
+  "nickname": "The Honey Badger",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 4,
+    "losses": 7,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "South Africa",
+  "url": "https://www.tapology.com/fightcenter/fighters/112521-richard-burger",
+  "recentFights": [
+    {
+      "date": "2021-10-23T00:00:00.000Z",
+      "opponent": "Nathanial Komana",
+      "opponentSlug": "142078-nathaniel-komane",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Versus Fight Night 2",
+      "eventSlug": "84534-versus-fight-night-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-17T00:00:00.000Z",
+      "opponent": "Thimna Mhlauli",
+      "opponentSlug": "236380-thimna-mhlauli",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Versus Fight Night 1",
+      "eventSlug": "84539-versus-fight-night-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-06T00:00:00.000Z",
+      "opponent": "Thimna Mhlauli",
+      "opponentSlug": "236380-thimna-mhlauli",
+      "result": "win",
+      "method": "tko",
+      "event": "Alpha MMA 7",
+      "eventSlug": "64700-alpha-mma-7",
+      "round": 1,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2019-11-11T00:00:00.000Z",
+      "opponent": "Nikita Kulshin",
+      "opponentSlug": "178301-nikita-kulshin",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64317-immaf-wmmaa-amateur-world-championships-2019",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-02T00:00:00.000Z",
+      "opponent": "Cameron Saaiman",
+      "opponentSlug": "112520-cameron-saaiman",
+      "result": "loss",
+      "method": "other",
+      "event": "Fightstar FC 27",
+      "eventSlug": "48661-fightstar-fc-27",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-30T00:00:00.000Z",
+      "opponent": "Kgaugelo Moishela",
+      "opponentSlug": "166945-kgaugelo-moishela",
+      "result": "win",
+      "method": "sub",
+      "event": "Fightstar FC 26",
+      "eventSlug": "48002-fightstar-fc-26",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-05T00:00:00.000Z",
+      "opponent": "Shaun Guest",
+      "opponentSlug": "163377-shaun-guest",
+      "result": "win",
+      "method": "tko",
+      "event": "Fightstar FC 25",
+      "eventSlug": "46593-fightstar-fc-25",
+      "round": 2,
+      "timeInRound": "2:21"
+    },
+    {
+      "date": "2017-03-11T00:00:00.000Z",
+      "opponent": "Gift Walker",
+      "opponentSlug": "150898-gift-walker",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fightstar FC 22",
+      "eventSlug": "43530-fightstar-fc-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-24T00:00:00.000Z",
+      "opponent": "Frank Wetdewich",
+      "opponentSlug": "111373-frank",
+      "result": "loss",
+      "method": "other",
+      "event": "Klerksdorp Fight Night 3",
+      "eventSlug": "41047-klerksdorp-fight-night-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-30T00:00:00.000Z",
+      "opponent": "Aldo Booysen",
+      "opponentSlug": "135178-aldo-booysen",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fightstar FC 19",
+      "eventSlug": "29733-fightstar-fc-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-05T00:00:00.000Z",
+      "opponent": "Cameron Saaiman",
+      "opponentSlug": "112520-cameron-saaiman",
+      "result": "loss",
+      "method": "other",
+      "event": "Gauteng FC",
+      "eventSlug": "34619-gauteng-fc",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:38:58.915Z"
+}

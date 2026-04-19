@@ -1,0 +1,198 @@
+{
+  "slug": "119566-thomas-powell",
+  "name": "Thomas Powell",
+  "nickname": "Diamond",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": 201,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1995-05-21",
+  "nationality": "Monrovia, Liberia",
+  "url": "https://www.tapology.com/fightcenter/fighters/119566-thomas-powell",
+  "recentFights": [
+    {
+      "date": "2024-07-12T00:00:00.000Z",
+      "opponent": "Alik Lorenz",
+      "opponentSlug": "237265-alik-lorenz",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 188: Sweeney vs. Do Nascimento",
+      "eventSlug": "113977-lfa-188-sweeney-vs-do-nascimento",
+      "round": 1,
+      "timeInRound": "3:55"
+    },
+    {
+      "date": "2021-07-17T00:00:00.000Z",
+      "opponent": "Victor Valenzuela",
+      "opponentSlug": "67389-victor-valenzuela-sicosis",
+      "result": "win",
+      "method": "other",
+      "event": "Ring Of Combat 73",
+      "eventSlug": "79661-ring-of-combat-73",
+      "round": 1,
+      "timeInRound": "4:35"
+    },
+    {
+      "date": "2021-05-14T00:00:00.000Z",
+      "opponent": "Corey Davis",
+      "opponentSlug": "47720-corey-davis",
+      "result": "nc",
+      "method": "other",
+      "event": "LFA 107: Kirk vs. Swain",
+      "eventSlug": "79064-lfa-107-carvalho-vs-davlatmurodov",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-11-20T00:00:00.000Z",
+      "opponent": "Alex Pereira",
+      "opponentSlug": "117305-alex-pereira",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 95: Pereira vs. Powell",
+      "eventSlug": "73846-lfa-95-browne-vs-estrazulas",
+      "round": 1,
+      "timeInRound": "4:04"
+    },
+    {
+      "date": "2019-11-23T00:00:00.000Z",
+      "opponent": "Chase Gamble",
+      "opponentSlug": "29307-kenneth-gamble",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ring of Combat 70",
+      "eventSlug": "63200-ring-of-combat-70",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-31T00:00:00.000Z",
+      "opponent": "George Sullivan",
+      "opponentSlug": "11735-george-sullivan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Ring of Combat 68",
+      "eventSlug": "59296-ring-of-combat-68",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-02-22T00:00:00.000Z",
+      "opponent": "Jeremy Puglia",
+      "opponentSlug": "43072-jeremey-puglia",
+      "result": "win",
+      "method": "tko",
+      "event": "Ring of Combat 67",
+      "eventSlug": "57514-ring-of-combat-67",
+      "round": 3,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2018-11-16T00:00:00.000Z",
+      "opponent": "Tyler Bayer",
+      "opponentSlug": "44491-tyler-bayer",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Ring of Combat 66",
+      "eventSlug": "55790-ring-of-combat-66",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-21T00:00:00.000Z",
+      "opponent": "Liam Anderson",
+      "opponentSlug": "55947-liam-anderson",
+      "result": "win",
+      "method": "other",
+      "event": "Ring of Combat 65",
+      "eventSlug": "54203-ring-of-combat-65",
+      "round": 1,
+      "timeInRound": "0:21"
+    },
+    {
+      "date": "2018-07-28T00:00:00.000Z",
+      "opponent": "Manny Flores",
+      "opponentSlug": "130470-manny-flores",
+      "result": "win",
+      "method": "other",
+      "event": "Ring of Combat 64",
+      "eventSlug": "52728-ring-of-combat-64",
+      "round": 2,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2017-03-03T00:00:00.000Z",
+      "opponent": "Darrius Flowers",
+      "opponentSlug": "91236-darrius-flowers",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "KOTC: Violent Confrontation",
+      "eventSlug": "43661-kotc",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-08T00:00:00.000Z",
+      "opponent": "Anthony Rozema",
+      "opponentSlug": "91130-anthony-rozema",
+      "result": "loss",
+      "method": "tko",
+      "event": "KOTC: Social Disorder",
+      "eventSlug": "41563-kotc-social-disorder",
+      "round": 1,
+      "timeInRound": "3:50"
+    },
+    {
+      "date": "2016-09-03T00:00:00.000Z",
+      "opponent": "Geoff Owens",
+      "opponentSlug": "94073-geoff-owens",
+      "result": "win",
+      "method": "other",
+      "event": "KOTC: World Amateur Championships 3",
+      "eventSlug": "41332-kotc-world-amateur-championships-3",
+      "round": 1,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2016-06-04T00:00:00.000Z",
+      "opponent": "Justin Barowski",
+      "opponentSlug": "63200-justin-barowski",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "AFL 51",
+      "eventSlug": "38614-afl-51",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-14T00:00:00.000Z",
+      "opponent": "Cameron Chism-Brungard",
+      "opponentSlug": "125488-cameron-chism-brungard",
+      "result": "win",
+      "method": "tko",
+      "event": "Dead Serious 20",
+      "eventSlug": "39040-dead-serious-20",
+      "round": 2,
+      "timeInRound": "0:14"
+    },
+    {
+      "date": "2016-02-27T00:00:00.000Z",
+      "opponent": "Brian Bergus",
+      "opponentSlug": "126795-brian-bergus",
+      "result": "win",
+      "method": "other",
+      "event": "AFL 50",
+      "eventSlug": "37259-afl-50",
+      "round": 1,
+      "timeInRound": "2:13"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:58:07.235Z"
+}

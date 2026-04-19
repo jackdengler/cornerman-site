@@ -1,0 +1,125 @@
+{
+  "slug": "206400-maurice-yarbough",
+  "name": "Maurice Yarbrough",
+  "nickname": "Captain",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 5,
+    "losses": 4,
+    "draws": 0
+  },
+  "heightCm": 193,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1992-05-26",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/206400-maurice-yarbough",
+  "recentFights": [
+    {
+      "date": "2024-11-09T00:00:00.000Z",
+      "opponent": "RJ Harris",
+      "opponentSlug": "382864-rj-harris",
+      "result": "loss",
+      "method": "sub",
+      "event": "Ohio Combat League 32",
+      "eventSlug": "117383-ohio-combat-league-32",
+      "round": 1,
+      "timeInRound": "1:57"
+    },
+    {
+      "date": "2024-04-13T00:00:00.000Z",
+      "opponent": "Josh Lennert",
+      "opponentSlug": "239926-josh-lennert",
+      "result": "win",
+      "method": "sub",
+      "event": "Empire Fight Series 2",
+      "eventSlug": "110449-empire-fight-series-2",
+      "round": 1,
+      "timeInRound": "1:53"
+    },
+    {
+      "date": "2023-10-07T00:00:00.000Z",
+      "opponent": "Vester Harris",
+      "opponentSlug": "298930-vester-harris",
+      "result": "win",
+      "method": "sub",
+      "event": "Ohio Combat League 26",
+      "eventSlug": "104063-ohio-combat-league-26",
+      "round": 1,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2022-04-30T00:00:00.000Z",
+      "opponent": "Julius Walker",
+      "opponentSlug": "251543-julius-walker",
+      "result": "loss",
+      "method": "other",
+      "event": "B2 Fighting Series 159",
+      "eventSlug": "86534-b2-fighting-series-159-ohio",
+      "round": 1,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2021-11-06T00:00:00.000Z",
+      "opponent": "Cody Baker",
+      "opponentSlug": "303959-cody-baker",
+      "result": "loss",
+      "method": "other",
+      "event": "B2 Fighting Series 138",
+      "eventSlug": "81590-b2-fighting-series-139-ohio",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2021-06-26T00:00:00.000Z",
+      "opponent": "Joey Rinehart",
+      "opponentSlug": "286519-joe-rinehart-king-mojo-jojo",
+      "result": "win",
+      "method": "other",
+      "event": "B2 Fighting Series 125",
+      "eventSlug": "79155-b2-fighting-series-125-ohio",
+      "round": 1,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2020-11-06T00:00:00.000Z",
+      "opponent": "Daniel Dennison",
+      "opponentSlug": "139932-daniel-dennison",
+      "result": "win",
+      "method": "tko",
+      "event": "HR MMA 116: 12 Year Anniversary",
+      "eventSlug": "72627-b2-fighting-series-hrmma-116",
+      "round": 1,
+      "timeInRound": "2:28"
+    },
+    {
+      "date": "2019-12-07T00:00:00.000Z",
+      "opponent": "Quentin Campbell",
+      "opponentSlug": "244150-quentin-campbell",
+      "result": "win",
+      "method": "other",
+      "event": "HR MMA 113: Agnew vs Schommer",
+      "eventSlug": "63597-hrmma-113",
+      "round": 1,
+      "timeInRound": "1:06"
+    },
+    {
+      "date": "2019-02-02T00:00:00.000Z",
+      "opponent": "Loi Pio",
+      "opponentSlug": "196138-loi-pio-lingo",
+      "result": "loss",
+      "method": "other",
+      "event": "HR MMA 105",
+      "eventSlug": "56875-hr-mma-105",
+      "round": 1,
+      "timeInRound": "1:28"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:40:09.171Z"
+}

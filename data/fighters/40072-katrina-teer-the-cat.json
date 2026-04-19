@@ -1,0 +1,66 @@
+{
+  "slug": "40072-katrina-teer-the-cat",
+  "name": "Katrina Teer",
+  "nickname": "The Cat",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/40072-katrina-teer-the-cat",
+  "recentFights": [
+    {
+      "date": "2011-11-26T00:00:00.000Z",
+      "opponent": "Hanna Sillen",
+      "opponentSlug": "11693-hanna-sillen",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Rumble Of The Kings 2011",
+      "eventSlug": "11839-k-1-rumble-of-the-kings-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-08-27T00:00:00.000Z",
+      "opponent": "JJ Aldrich",
+      "opponentSlug": "28420-jj-aldrich",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-07-30T00:00:00.000Z",
+      "opponent": "Cortney Casey",
+      "opponentSlug": "21135-courtney-casey",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-06-11T00:00:00.000Z",
+      "opponent": "Jenny Liou",
+      "opponentSlug": "62318-jenny-liou",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ALFA League 3",
+      "eventSlug": "42906-bamma-badbeat-2-alfa-league-3",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:02:03.420Z"
+}

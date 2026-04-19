@@ -1,0 +1,242 @@
+{
+  "slug": "100982-marshall-kemp",
+  "name": "Marshal Kemp",
+  "nickname": "The Infamous",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": 185,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1998-05-29",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/100982-marshall-kemp",
+  "recentFights": [
+    {
+      "date": "2026-02-20T00:00:00.000Z",
+      "opponent": "Tracy Reeder",
+      "opponentSlug": "254161-tracy-reeder",
+      "result": "loss",
+      "method": "tko",
+      "event": "Xtreme Fight Night 407",
+      "eventSlug": "138374-xtreme-fight-night-407",
+      "round": 2,
+      "timeInRound": "2:06"
+    },
+    {
+      "date": "2025-05-02T00:00:00.000Z",
+      "opponent": "Cort Wahle",
+      "opponentSlug": "64958-cort-wahle",
+      "result": "win",
+      "method": "other",
+      "event": "FAC 29: Kemp vs. Wahle",
+      "eventSlug": "123853-fac-29",
+      "round": 1,
+      "timeInRound": "0:43"
+    },
+    {
+      "date": "2024-01-20T00:00:00.000Z",
+      "opponent": "Jose Martinez",
+      "opponentSlug": "62351-jose-martinez",
+      "result": "win",
+      "method": "sub",
+      "event": "Synergy FC 10",
+      "eventSlug": "107411-synergy-fc-10",
+      "round": 1,
+      "timeInRound": "1:03"
+    },
+    {
+      "date": "2022-10-07T00:00:00.000Z",
+      "opponent": "Irfan Mulabitinović",
+      "opponentSlug": "119355-irfan-mulabitinovic",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FAC 16",
+      "eventSlug": "91998-fac-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-21T00:00:00.000Z",
+      "opponent": "Cliff Wright",
+      "opponentSlug": "11610-cliff-wright",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Hard MMA",
+      "eventSlug": "89315-fight-hard-mma-springfield-fight-night-2",
+      "round": 1,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2022-02-06T00:00:00.000Z",
+      "opponent": "Ken Beverly",
+      "opponentSlug": "98588-ken-beverly",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "FAC 12: Lookin' For a Fight",
+      "eventSlug": "85292-fac-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-08T00:00:00.000Z",
+      "opponent": "Rome Lindsay",
+      "opponentSlug": "39990-henry-lindsay",
+      "result": "win",
+      "method": "sub",
+      "event": "FAC 10",
+      "eventSlug": "82861-fac-10",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2021-07-30T00:00:00.000Z",
+      "opponent": "Oscar Ahuatzi",
+      "opponentSlug": "117998-oscar-ahuatzi",
+      "result": "win",
+      "method": "sub",
+      "event": "FAC 9",
+      "eventSlug": "79725-fac-9",
+      "round": 2,
+      "timeInRound": "3:25"
+    },
+    {
+      "date": "2021-03-05T00:00:00.000Z",
+      "opponent": "Travis Ford",
+      "opponentSlug": "213568-travis-ford",
+      "result": "win",
+      "method": "sub",
+      "event": "FAC 7",
+      "eventSlug": "77131-fac-7",
+      "round": 1,
+      "timeInRound": "1:59"
+    },
+    {
+      "date": "2021-01-02T00:00:00.000Z",
+      "opponent": "Shea Conley",
+      "opponentSlug": "194924-danny-conley",
+      "result": "win",
+      "method": "sub",
+      "event": "MMAX FC 12: Bad Intentions",
+      "eventSlug": "75781-mmax-fc",
+      "round": 1,
+      "timeInRound": "4:05"
+    },
+    {
+      "date": "2020-10-24T00:00:00.000Z",
+      "opponent": "Thomas Shamblin",
+      "opponentSlug": "51493-thomas-shamblin",
+      "result": "win",
+      "method": "other",
+      "event": "Midwest Fight League",
+      "eventSlug": "73882-midwest-fight-league",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-28T00:00:00.000Z",
+      "opponent": "Gauge Young",
+      "opponentSlug": "213571-gauge-young",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "KC Fighting Alliance 35",
+      "eventSlug": "61338-kc-fighting-alliance-35",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-15T00:00:00.000Z",
+      "opponent": "Luis Felipe",
+      "opponentSlug": "120731-luis-felipe",
+      "result": "win",
+      "method": "sub",
+      "event": "Walkout FC 17",
+      "eventSlug": "60514-walkout-fc-17",
+      "round": 1,
+      "timeInRound": "1:53"
+    },
+    {
+      "date": "2019-04-13T00:00:00.000Z",
+      "opponent": "Ashton Kirby",
+      "opponentSlug": "163334-ashton-kirby",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Pyramid Fights 11",
+      "eventSlug": "58218-pyramid-fights-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-27T00:00:00.000Z",
+      "opponent": "Kaleb Young",
+      "opponentSlug": "161605-kaleb-young",
+      "result": "win",
+      "method": "sub",
+      "event": "Walkout FC 13",
+      "eventSlug": "55730-walkout-fc-13-new-era",
+      "round": 1,
+      "timeInRound": "2:49"
+    },
+    {
+      "date": "2018-09-15T00:00:00.000Z",
+      "opponent": "Shawn Moffett",
+      "opponentSlug": "168892-shawn-moffett",
+      "result": "win",
+      "method": "sub",
+      "event": "Walkout FC 12",
+      "eventSlug": "54533-walkout-fc-12-battle-at-the-crossing",
+      "round": 1,
+      "timeInRound": "1:03"
+    },
+    {
+      "date": "2018-05-05T00:00:00.000Z",
+      "opponent": "Hunter Edwards",
+      "opponentSlug": "90546-hunter-edwards",
+      "result": "win",
+      "method": "other",
+      "event": "Walkout FC 10",
+      "eventSlug": "50712-walkout-fc-10-the-tournament",
+      "round": 1,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2018-03-17T00:00:00.000Z",
+      "opponent": "Jonathan Verdier",
+      "opponentSlug": "174342-jonathan-verdier",
+      "result": "win",
+      "method": "sub",
+      "event": "Pyramid Fights 6",
+      "eventSlug": "50071-pyramid-fights-6",
+      "round": 1,
+      "timeInRound": "2:46"
+    },
+    {
+      "date": "2017-05-27T00:00:00.000Z",
+      "opponent": "Jim Sparlin",
+      "opponentSlug": "123316-jim-sparlin",
+      "result": "win",
+      "method": "other",
+      "event": "ShoFIGHT: Summer Smash 2017",
+      "eventSlug": "45181-shofight-summer-smash-2017",
+      "round": 1,
+      "timeInRound": "1:33"
+    },
+    {
+      "date": "2017-01-14T00:00:00.000Z",
+      "opponent": "David McKenzie",
+      "opponentSlug": "118436-david-mckenzie",
+      "result": "win",
+      "method": "sub",
+      "event": "Brawl Inc.: Clash at the Clarion",
+      "eventSlug": "42470-brawl-inc-clash-at-the-clarion",
+      "round": 1,
+      "timeInRound": "1:44"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:12:36.095Z"
+}

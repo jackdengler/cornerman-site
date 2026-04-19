@@ -1,0 +1,110 @@
+{
+  "slug": "113197-jacob-holyman-tague",
+  "name": "Jacob Holyman-Tague",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/113197-jacob-holyman-tague",
+  "recentFights": [
+    {
+      "date": "2018-06-16T00:00:00.000Z",
+      "opponent": "Rodolfo Vieira",
+      "opponentSlug": "148791-rodolfo-vieira-srour-the-black-belt-hunter",
+      "result": "loss",
+      "method": "sub",
+      "event": "ACB 88: Brisbane",
+      "eventSlug": "52786-acb-88-silva-vs-camozzi",
+      "round": 1,
+      "timeInRound": "3:51"
+    },
+    {
+      "date": "2018-04-21T00:00:00.000Z",
+      "opponent": "Matt Eland",
+      "opponentSlug": "56570-matt-eland",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Nitro MMA 15",
+      "eventSlug": "52596-nitro-mma-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-12T00:00:00.000Z",
+      "opponent": "Darcy Vendy",
+      "opponentSlug": "48380-darcy-vendy",
+      "result": "loss",
+      "method": "sub",
+      "event": "Reign Fighting 2",
+      "eventSlug": "42140-reign-fighting-2",
+      "round": 3,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2016-04-02T00:00:00.000Z",
+      "opponent": "Michele Evans",
+      "opponentSlug": "94621-michele-evans",
+      "result": "win",
+      "method": "sub",
+      "event": "Eternal MMA 16",
+      "eventSlug": "37949-eternal-mma-16",
+      "round": 3,
+      "timeInRound": "0:42"
+    },
+    {
+      "date": "2016-03-05T00:00:00.000Z",
+      "opponent": "Keohu Smith",
+      "opponentSlug": "78196-keohu-smith",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Carnage in the Cage 6",
+      "eventSlug": "37944-carnage-in-the-cage-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-12T00:00:00.000Z",
+      "opponent": "Jolon van Santen",
+      "opponentSlug": "93972-jolon-van-santen",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Valor Fight AM Series 8",
+      "eventSlug": "33865-valor-am-series-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-26T00:00:00.000Z",
+      "opponent": "Corbin Robertson",
+      "opponentSlug": "94620-corbin-robertson",
+      "result": "win",
+      "method": "sub",
+      "event": "Eternal MMA 12",
+      "eventSlug": "35660-eternal-mma-12",
+      "round": 3,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2012-07-21T00:00:00.000Z",
+      "opponent": "Kahn Sandy",
+      "opponentSlug": "33380-kahn-sandy",
+      "result": "win",
+      "method": "sub",
+      "event": "Valor Fight C Series 1",
+      "eventSlug": "55269-valor-fight-c-series-1",
+      "round": 1,
+      "timeInRound": "2:01"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:51:56.456Z"
+}

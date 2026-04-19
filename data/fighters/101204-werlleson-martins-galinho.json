@@ -1,0 +1,154 @@
+{
+  "slug": "101204-werlleson-martins-galinho",
+  "name": "Werlleson Martins",
+  "nickname": "Galinho",
+  "aliases": [],
+  "recordPro": {
+    "wins": 19,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": 177,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1995-09-05",
+  "nationality": "Manaus, Amazonas, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/101204-werlleson-martins-galinho",
+  "recentFights": [
+    {
+      "date": "2026-04-18T00:00:00.000Z",
+      "opponent": "Marcelo Morelli",
+      "opponentSlug": "312492-marcelo-morrelli",
+      "result": null,
+      "method": "other",
+      "event": "KSW 117: Pawlak vs. Khalidov",
+      "eventSlug": "140146-ksw-117-de-fries-vs-wojcik",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-18T00:00:00.000Z",
+      "opponent": "Leo Brichta",
+      "opponentSlug": "119916-leo-brichta",
+      "result": "loss",
+      "method": "other",
+      "event": "KSW 111: De Fries vs. Vojčák",
+      "eventSlug": "124802-xtb-ksw-111",
+      "round": 1,
+      "timeInRound": "3:27"
+    },
+    {
+      "date": "2025-08-31T00:00:00.000Z",
+      "opponent": "Ruslan Mammadov",
+      "opponentSlug": "170780-ruslan-mammadov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Serbian Battle Championship 51",
+      "eventSlug": "131686-serbian-battle-championship-51-revenge",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-14T00:00:00.000Z",
+      "opponent": "Zuriko Jojua",
+      "opponentSlug": "153999-zuriko-dzhodzhua",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "KSW 98: Paczuski vs. Zerhouni",
+      "eventSlug": "116155-ksw-98",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-01-20T00:00:00.000Z",
+      "opponent": "Oleksiy Polischuck",
+      "opponentSlug": "127592-aleksi-polischuk",
+      "result": "loss",
+      "method": "other",
+      "event": "KSW 90: Wrzosek vs. Vitasović",
+      "eventSlug": "106205-ksw-90",
+      "round": 2,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2023-04-22T00:00:00.000Z",
+      "opponent": "Patryk Surdyn",
+      "opponentSlug": "129168-patryk-surdyn",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 81: Bartosiński vs. Szczepaniak",
+      "eventSlug": "97605-ksw-81",
+      "round": 3,
+      "timeInRound": "0:12"
+    },
+    {
+      "date": "2022-09-10T00:00:00.000Z",
+      "opponent": "Paweł Polityło",
+      "opponentSlug": "72756-pawe-polityo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KSW 74: De Fries vs. Prasel",
+      "eventSlug": "91744-ksw-74",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-23T00:00:00.000Z",
+      "opponent": "Sebastian Przybysz",
+      "opponentSlug": "121479-sebastian-przybysz",
+      "result": "loss",
+      "method": "sub",
+      "event": "KSW 69: Przybysz vs. Martins",
+      "eventSlug": "87779-ksw-69",
+      "round": 5,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2021-09-11T00:00:00.000Z",
+      "opponent": "Nidzhat Imanov",
+      "opponentSlug": "165056-nidzhat-imanov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Serbian Battle Championship 34",
+      "eventSlug": "82411-serbian-battle-championship-34-revenge",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-21T00:00:00.000Z",
+      "opponent": "Gadzhimurad Gasanov",
+      "opponentSlug": "196815-gadzhimurad-gasanov",
+      "result": "win",
+      "method": "other",
+      "event": "Serbian Battle Championship 33",
+      "eventSlug": "81832-serbian-battle-championship-33-revenge",
+      "round": 2,
+      "timeInRound": "1:41"
+    },
+    {
+      "date": "2021-05-14T00:00:00.000Z",
+      "opponent": "Manuel Silva",
+      "opponentSlug": "131381-manuel-silva",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Silva Combat Fight 3",
+      "eventSlug": "79034-silva-combat-fight-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-11-13T00:00:00.000Z",
+      "opponent": "Rony Henrique",
+      "opponentSlug": "141729-rony-henrique-ratinho",
+      "result": "loss",
+      "method": "other",
+      "event": "Shooto Brasil 104",
+      "eventSlug": "71506-shooto-brasil-104",
+      "round": 1,
+      "timeInRound": "4:40"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:03:16.350Z"
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "276926-abubakar-temirgereev",
+  "name": "Abubakar Temirgereev",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1997-10-05",
+  "nationality": "Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/276926-abubakar-temirgereev",
+  "recentFights": [
+    {
+      "date": "2021-04-12T00:00:00.000Z",
+      "opponent": "German Kokaev",
+      "opponentSlug": "172619-herman-kokaev",
+      "result": "loss",
+      "method": "other",
+      "event": "ACA Young Eagles 18",
+      "eventSlug": "78337-aca-young-eagles-18-grand-prix-1-4-finals",
+      "round": 1,
+      "timeInRound": "0:31"
+    },
+    {
+      "date": "2021-02-20T00:00:00.000Z",
+      "opponent": "German Kokaev",
+      "opponentSlug": "172619-herman-kokaev",
+      "result": "win",
+      "method": "dec-split",
+      "event": "ACA Young Eagles 17",
+      "eventSlug": "75393-aca-young-eagles-17-featherweight-grand-prix-2021",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-11-14T00:00:00.000Z",
+      "opponent": "Nikita Kulshin",
+      "opponentSlug": "178301-nikita-kulshin",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ACA Young Eagles 14",
+      "eventSlug": "73640-aca-young-eagles-14",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:38:50.004Z"
+}

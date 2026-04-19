@@ -1,0 +1,209 @@
+{
+  "slug": "24714-julien-leblanc",
+  "name": "Julien Leblanc",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1992-01-21",
+  "nationality": "Gatineau, Quebec, Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/24714-julien-leblanc",
+  "recentFights": [
+    {
+      "date": "2026-04-18T00:00:00.000Z",
+      "opponent": "Robert Valentin",
+      "opponentSlug": "136498-robert-valentin",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "139670-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-21T00:00:00.000Z",
+      "opponent": "Ryan Rohovich",
+      "opponentSlug": "35797-ryan-rohovich",
+      "result": "win",
+      "method": "sub",
+      "event": "Samourai MMA 17",
+      "eventSlug": "134223-samourai-mma-17",
+      "round": 2,
+      "timeInRound": "4:19"
+    },
+    {
+      "date": "2025-03-07T00:00:00.000Z",
+      "opponent": "Darian Weeks",
+      "opponentSlug": "125166-darian-weeks",
+      "result": "win",
+      "method": "other",
+      "event": "Samourai MMA 13",
+      "eventSlug": "122712-samourai-mma-13",
+      "round": 3,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2024-06-14T00:00:00.000Z",
+      "opponent": "Mark Kolker",
+      "opponentSlug": "68194-mark-kolker",
+      "result": "win",
+      "method": "other",
+      "event": "Unified MMA 57",
+      "eventSlug": "112602-unified-mma-57",
+      "round": 2,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2023-10-28T00:00:00.000Z",
+      "opponent": "Chris Chapman",
+      "opponentSlug": "19057-chris-chapman",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Unified MMA 53",
+      "eventSlug": "104368-unified-mma-53",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-26T00:00:00.000Z",
+      "opponent": "Sallah-Eddine Dekhissi",
+      "opponentSlug": "79022-sallah-dekhissi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Samourai MMA 6",
+      "eventSlug": "100058-samourai-mma-6-chapitre-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-16T00:00:00.000Z",
+      "opponent": "Joel Bauman",
+      "opponentSlug": "136131-joel-bauman",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 104: McKenzie vs. Phillips",
+      "eventSlug": "78507-lfa-104-mckenzie-vs-phillips",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-21T00:00:00.000Z",
+      "opponent": "Damien Lapilus",
+      "opponentSlug": "35664-damien-lapilus",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "TKO 44",
+      "eventSlug": "53478-tko-44",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-10T00:00:00.000Z",
+      "opponent": "Drayton Angus",
+      "opponentSlug": "36584-drayton-angus",
+      "result": "win",
+      "method": "tko",
+      "event": "Wreck MMA: Gatineau",
+      "eventSlug": "49092-wreck-mma-gatineau",
+      "round": 1,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2017-05-12T00:00:00.000Z",
+      "opponent": "Mike Kent",
+      "opponentSlug": "20606-mike-kent",
+      "result": "win",
+      "method": "sub",
+      "event": "Prestige FC 8",
+      "eventSlug": "45045-prestige-fc-8",
+      "round": 1,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2016-10-15T00:00:00.000Z",
+      "opponent": "Gabriel Rossi",
+      "opponentSlug": "138608-gabriel-rossi",
+      "result": "win",
+      "method": "tko",
+      "event": "Hybrid Pro Series 5",
+      "eventSlug": "40230-hybrid-pro-series-5",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-17T00:00:00.000Z",
+      "opponent": "Montoyia Swilling",
+      "opponentSlug": "39568-monty-swilling",
+      "result": "win",
+      "method": "sub",
+      "event": "Hybrid Pro Series 4",
+      "eventSlug": "34277-hybrid-pro-series-4",
+      "round": 1,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2014-03-08T00:00:00.000Z",
+      "opponent": "Kevyn Thouin",
+      "opponentSlug": "23936-kevyn-thouin",
+      "result": "win",
+      "method": "sub",
+      "event": "Hybrid Pro Series 1",
+      "eventSlug": "21363-hybrid-pro-1",
+      "round": 2,
+      "timeInRound": "4:51"
+    },
+    {
+      "date": "2012-11-23T00:00:00.000Z",
+      "opponent": "Ralph David Jean-Pierre",
+      "opponentSlug": "24753-ralph-david",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hybrid 15",
+      "eventSlug": "15906-hybrid-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-05-11T00:00:00.000Z",
+      "opponent": "Mitchell Skinner",
+      "opponentSlug": "24706-mitchell-skinner",
+      "result": "win",
+      "method": "sub",
+      "event": "Hybrid 13",
+      "eventSlug": "13195-hybrid-13",
+      "round": 3,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2011-11-26T00:00:00.000Z",
+      "opponent": "Robert Pogue",
+      "opponentSlug": "24705-robert-pogue",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hybrid 11",
+      "eventSlug": "13200-hybrid-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-09-16T00:00:00.000Z",
+      "opponent": "Bruce Chaplin",
+      "opponentSlug": "24770-bruce-chaplin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hybrid 10",
+      "eventSlug": "13215-hybrid-10",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:52:36.002Z"
+}

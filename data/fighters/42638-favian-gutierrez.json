@@ -1,0 +1,121 @@
+{
+  "slug": "42638-favian-gutierrez",
+  "name": "Favian Gutierrez",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": 191,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1985-01-05",
+  "nationality": "San Jose, California",
+  "url": "https://www.tapology.com/fightcenter/fighters/42638-favian-gutierrez",
+  "recentFights": [
+    {
+      "date": "2024-06-08T00:00:00.000Z",
+      "opponent": "Lorenzo Figueroa",
+      "opponentSlug": "316599-lorenzo-figueroa",
+      "result": "loss",
+      "method": "tko",
+      "event": "Zhong Luo CFS 10",
+      "eventSlug": "115520-zhong-luo-cfs-10",
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2019-09-07T00:00:00.000Z",
+      "opponent": "Alan Benson",
+      "opponentSlug": "145910-alan-benson-beaston",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Bellator 226",
+      "eventSlug": "61709-bellator-226-bader-vs-kongo",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-23T00:00:00.000Z",
+      "opponent": "Adam Wamsley",
+      "opponentSlug": "106117-adam-wamsley",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Dragon House 31",
+      "eventSlug": "59395-dragon-house-31",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-10T00:00:00.000Z",
+      "opponent": "Joseph Kropschot",
+      "opponentSlug": "131395-joseph-kropschot",
+      "result": "loss",
+      "method": "sub",
+      "event": "Dragon House 30",
+      "eventSlug": "56570-dragon-house-30",
+      "round": 1,
+      "timeInRound": "1:18"
+    },
+    {
+      "date": "2018-07-21T00:00:00.000Z",
+      "opponent": "Mike Ortega",
+      "opponentSlug": "50373-michael-ortega",
+      "result": "win",
+      "method": "sub",
+      "event": "Dragon House 29",
+      "eventSlug": "53341-dragon-house-29",
+      "round": 1,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2018-03-24T00:00:00.000Z",
+      "opponent": "CJ Blackman",
+      "opponentSlug": "137166-cj-blackman-all-the-way",
+      "result": "win",
+      "method": "other",
+      "event": "Dragon House 28",
+      "eventSlug": "51901-dragon-house-28",
+      "round": 1,
+      "timeInRound": "3:17"
+    },
+    {
+      "date": "2016-03-18T00:00:00.000Z",
+      "opponent": "Mike Thurman",
+      "opponentSlug": "35239-mike-thurman",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "559 Fights 43",
+      "eventSlug": "38815-559-fights-43-navarro-vs-gallegos",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-02-09T00:00:00.000Z",
+      "opponent": "Nima Maleki",
+      "opponentSlug": "61657-nima-maleki",
+      "result": "win",
+      "method": "sub",
+      "event": "WCS 14: MMA Evolution Expo 2",
+      "eventSlug": "22174-wcs-mma-evolution-expo-2",
+      "round": 2,
+      "timeInRound": "0:18"
+    },
+    {
+      "date": "2013-02-02T00:00:00.000Z",
+      "opponent": "Mike Jenkins",
+      "opponentSlug": "25481-mike-jenkins",
+      "result": "loss",
+      "method": "dec-majority",
+      "event": "Dragon House 13",
+      "eventSlug": "17450-dragon-house-13",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:44:26.794Z"
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "221226-yoon-seo-shin",
+  "name": "Yoon Seo Shin",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "2003-10-23",
+  "nationality": "South Korea",
+  "url": "https://www.tapology.com/fightcenter/fighters/221226-yoon-seo-shin",
+  "recentFights": [
+    {
+      "date": "2023-09-23T00:00:00.000Z",
+      "opponent": "Ben Johnston",
+      "opponentSlug": "345042-ben-johnston",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 79",
+      "eventSlug": "102042-eternal-mma-79",
+      "round": 1,
+      "timeInRound": "3:42"
+    },
+    {
+      "date": "2022-12-18T00:00:00.000Z",
+      "opponent": "Sang Kwon Han",
+      "opponentSlug": "210840-sang-kwon-han",
+      "result": "loss",
+      "method": "sub",
+      "event": "Road FC 62",
+      "eventSlug": "96183-road-fc-62",
+      "round": 2,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2021-09-04T00:00:00.000Z",
+      "opponent": "Min Gyu Lee",
+      "opponentSlug": "172092-min-gyu-lee",
+      "result": "loss",
+      "method": "other",
+      "event": "Road FC 59",
+      "eventSlug": "79062-road-fc-59",
+      "round": 1,
+      "timeInRound": "4:19"
+    },
+    {
+      "date": "2021-03-27T00:00:00.000Z",
+      "opponent": "Doo Seok Oh",
+      "opponentSlug": "129038-doo-seok-oh",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ARC 004",
+      "eventSlug": "78193-arc-005",
+      "round": 3,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2020-05-23T00:00:00.000Z",
+      "opponent": "San Kim",
+      "opponentSlug": "245700-san-kim",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ARC 001",
+      "eventSlug": "69550-arc-001-afreecatv-road-championship",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-29T00:00:00.000Z",
+      "opponent": "Jin Woo Park",
+      "opponentSlug": "228902-jin-woo-park",
+      "result": "loss",
+      "method": "other",
+      "event": "Road FC Central League 48",
+      "eventSlug": "60664-road-fc-central-league-48",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-27T00:00:00.000Z",
+      "opponent": "Cheon Soo Lee",
+      "opponentSlug": "190178-cheon-soo-lee",
+      "result": "loss",
+      "method": "other",
+      "event": "Road FC Central League 47",
+      "eventSlug": "59604-road-fc-central-league-47",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:57:44.709Z"
+}

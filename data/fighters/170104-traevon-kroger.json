@@ -1,0 +1,125 @@
+{
+  "slug": "170104-traevon-kroger",
+  "name": "Traevon Kroger",
+  "nickname": "Kid Cobra",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 6,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": 191,
+  "reachCm": 196,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "2000-01-28",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/170104-traevon-kroger",
+  "recentFights": [
+    {
+      "date": "2021-07-23T00:00:00.000Z",
+      "opponent": "Josh Kristensen",
+      "opponentSlug": "143979-josh-kristensen",
+      "result": "loss",
+      "method": "sub",
+      "event": "Ascendancy FC 24",
+      "eventSlug": "80741-ascendancy-fc-24",
+      "round": 1,
+      "timeInRound": "1:19"
+    },
+    {
+      "date": "2021-04-24T00:00:00.000Z",
+      "opponent": "Miguel Sanson",
+      "opponentSlug": "277365-miguel-sanson",
+      "result": "loss",
+      "method": "sub",
+      "event": "North Iowa Fights",
+      "eventSlug": "78719-north-iowa-fights",
+      "round": 1,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2019-08-03T00:00:00.000Z",
+      "opponent": "Santana Acosta",
+      "opponentSlug": "85224-santana-acosta",
+      "result": "win",
+      "method": "other",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "62010-brutaal-genesis-fight-night-fort-frenzy-8",
+      "round": 1,
+      "timeInRound": "2:13"
+    },
+    {
+      "date": "2019-06-01T00:00:00.000Z",
+      "opponent": "Derek Washenberger",
+      "opponentSlug": "154121-derek-washenberger",
+      "result": "win",
+      "method": "other",
+      "event": "Knockout Events",
+      "eventSlug": "59228-knockout-events-wheel-jam-slam",
+      "round": 1,
+      "timeInRound": "0:49"
+    },
+    {
+      "date": "2019-03-23T00:00:00.000Z",
+      "opponent": "Tye Joint",
+      "opponentSlug": "194536-tye-joint",
+      "result": "loss",
+      "method": "other",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "58915-brutaal-genesis-fight-night-back-in-the-barn-14",
+      "round": 2,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2018-09-15T00:00:00.000Z",
+      "opponent": "Derek Washenberger",
+      "opponentSlug": "154121-derek-washenberger",
+      "result": "win",
+      "method": "sub",
+      "event": "Knockout Events",
+      "eventSlug": "55431-knockout-events",
+      "round": 1,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2018-05-18T00:00:00.000Z",
+      "opponent": "Josh Kristensen",
+      "opponentSlug": "143979-josh-kristensen",
+      "result": "win",
+      "method": "sub",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "52939-brutaal-genesis-fight-night-back-in-the-barn-11",
+      "round": 2,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2018-04-20T00:00:00.000Z",
+      "opponent": "Aaron Svenson",
+      "opponentSlug": "91066-aaron-svenson",
+      "result": "win",
+      "method": "tko",
+      "event": "LFA 37: Bice vs. Perez",
+      "eventSlug": "51514-lfa-37",
+      "round": 1,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2018-03-02T00:00:00.000Z",
+      "opponent": "TJ May",
+      "opponentSlug": "142584-tj-may",
+      "result": "win",
+      "method": "other",
+      "event": "Knockout Events",
+      "eventSlug": "51394-knockout-events",
+      "round": 1,
+      "timeInRound": "0:11"
+    }
+  ],
+  "lastVerified": "2026-04-18T09:06:05.878Z"
+}

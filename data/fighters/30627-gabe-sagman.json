@@ -1,0 +1,242 @@
+{
+  "slug": "30627-gabe-sagman",
+  "name": "Gabe Sagman",
+  "nickname": "Samurai",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1991-12-24",
+  "nationality": "Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/30627-gabe-sagman",
+  "recentFights": [
+    {
+      "date": "2024-11-16T00:00:00.000Z",
+      "opponent": "James Clarke",
+      "opponentSlug": "74412-james-clarke",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "BTC 26: Rumble in the Rapids",
+      "eventSlug": "118792-btc-26-rumble-in-the-rapids",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-14T00:00:00.000Z",
+      "opponent": "Anton Potocki",
+      "opponentSlug": "125322-anton-potocki",
+      "result": "win",
+      "method": "sub",
+      "event": "BTC 25: Legacy",
+      "eventSlug": "115356-btc-25-legacy",
+      "round": 1,
+      "timeInRound": "2:09"
+    },
+    {
+      "date": "2024-06-14T00:00:00.000Z",
+      "opponent": "Liam Macfadyen",
+      "opponentSlug": "404692-liam-macfadyen",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Unified MMA 57",
+      "eventSlug": "112602-unified-mma-57",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-16T00:00:00.000Z",
+      "opponent": "Louis Jourdain",
+      "opponentSlug": "42366-louis-jourdain",
+      "result": "loss",
+      "method": "tko",
+      "event": "Unified MMA 48",
+      "eventSlug": "93980-unified-mma-48",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2022-05-06T00:00:00.000Z",
+      "opponent": "Noah Ali",
+      "opponentSlug": "24805-noah-ali",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Unified MMA 44",
+      "eventSlug": "87777-unified-mma-44",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-20T00:00:00.000Z",
+      "opponent": "Matt Dawson",
+      "opponentSlug": "125320-matt-dawson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "BTC 13: Power",
+      "eventSlug": "83513-btc-13-power",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-01-18T00:00:00.000Z",
+      "opponent": "Morgan Rhynes",
+      "opponentSlug": "20642-morgan-rhynes",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Elite 1 MMA",
+      "eventSlug": "62509-elite-1-mma",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-13T00:00:00.000Z",
+      "opponent": "Jamie Siraj",
+      "opponentSlug": "35361-jamie-siraj-the-gremlin",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Rise FC 3",
+      "eventSlug": "56897-rise-fc-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-19T00:00:00.000Z",
+      "opponent": "Reza Razavi",
+      "opponentSlug": "142127-reza-razavi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "RXF 32",
+      "eventSlug": "56647-rxf-mma-32",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-23T00:00:00.000Z",
+      "opponent": "Tyler Wilson",
+      "opponentSlug": "28440-tyler-wilson",
+      "result": "loss",
+      "method": "other",
+      "event": "BTC 3: Prophecy",
+      "eventSlug": "51213-btc-3",
+      "round": 2,
+      "timeInRound": "3:44"
+    },
+    {
+      "date": "2017-12-18T00:00:00.000Z",
+      "opponent": "Ciprian Mariș",
+      "opponentSlug": "74372-ciprian-maris",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "RXF 29: MMA Allstars 4",
+      "eventSlug": "49247-rxf-29-mma-allstars-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-25T00:00:00.000Z",
+      "opponent": "Cosmin Dusa",
+      "opponentSlug": "156389-cosmin-dusa",
+      "result": "win",
+      "method": "sub",
+      "event": "RXF 26: Brașov Fight Night 2",
+      "eventSlug": "45535-rxf-26-braov-fight-night-2",
+      "round": 1,
+      "timeInRound": "2:46"
+    },
+    {
+      "date": "2016-10-10T00:00:00.000Z",
+      "opponent": "Constantin Pirtea",
+      "opponentSlug": "141996-constantin-pirtea",
+      "result": "win",
+      "method": "sub",
+      "event": "RXF 24: Brașov Fight Night",
+      "eventSlug": "42229-rxf-24-fight-night",
+      "round": 1,
+      "timeInRound": "3:31"
+    },
+    {
+      "date": "2016-03-04T00:00:00.000Z",
+      "opponent": "Keegan Oliver",
+      "opponentSlug": "20384-keegan-oliver",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KOTC: Wrecking Ball",
+      "eventSlug": "37836-kotc-wrecking-ball",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-22T00:00:00.000Z",
+      "opponent": "Kevin Walker",
+      "opponentSlug": "22277-kevin-walker",
+      "result": "win",
+      "method": "sub",
+      "event": "FIGHT4PRIDE Championship 2",
+      "eventSlug": "26764-fight4pride-championship-2",
+      "round": 1,
+      "timeInRound": "3:21"
+    },
+    {
+      "date": "2014-05-30T00:00:00.000Z",
+      "opponent": "Yoni Sherbatov",
+      "opponentSlug": "44154-yoni-sherbatov",
+      "result": "loss",
+      "method": "other",
+      "event": "FIGHT4PRIDE Championship 1",
+      "eventSlug": "23024-fight4pride-championship-1",
+      "round": 1,
+      "timeInRound": "0:22"
+    },
+    {
+      "date": "2014-02-22T00:00:00.000Z",
+      "opponent": "Ruben Sagman",
+      "opponentSlug": "99087-ruben-sagman",
+      "result": "loss",
+      "method": "sub",
+      "event": "AMMACS 3",
+      "eventSlug": "22117-ammacs-3",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-02-22T00:00:00.000Z",
+      "opponent": "Adam Gladue",
+      "opponentSlug": "58420-adam-gladue",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "AMMACS 3",
+      "eventSlug": "22117-ammacs-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-05-18T00:00:00.000Z",
+      "opponent": "Matthew Davis",
+      "opponentSlug": "25010-matthew-davis",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Victory MMA 9",
+      "eventSlug": "17429-victory-mma-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-07-14T00:00:00.000Z",
+      "opponent": "Joshua Harley",
+      "opponentSlug": "23956-josh-harley",
+      "result": "win",
+      "method": "sub",
+      "event": "Victory MMA 7",
+      "eventSlug": "13938-victory-mma-fight-night-1",
+      "round": 1,
+      "timeInRound": "0:26"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:04:40.465Z"
+}

@@ -1,0 +1,165 @@
+{
+  "slug": "226821-jene-zarbano",
+  "name": "Jene Zarbano",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 175,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "2000-08-30",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/226821-jene-zarbano",
+  "recentFights": [
+    {
+      "date": "2025-11-29T00:00:00.000Z",
+      "opponent": "Noah Gasho",
+      "opponentSlug": "348174-noah-gasho",
+      "result": "loss",
+      "method": "other",
+      "event": "North Iowa Fights 22",
+      "eventSlug": "135266-north-iowa-fights-22",
+      "round": 2,
+      "timeInRound": "3:24"
+    },
+    {
+      "date": "2025-05-31T00:00:00.000Z",
+      "opponent": "Brok Hopwood",
+      "opponentSlug": "287851-brok-hopwood",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Ascendancy FC 67",
+      "eventSlug": "128546-ascendancy-fc-67",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-13T00:00:00.000Z",
+      "opponent": "Aaron Skipitaris",
+      "opponentSlug": "333004-aaron-skipitaris",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Iowa Fight Series 2",
+      "eventSlug": "109676-iowa-fight-series-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-05T00:00:00.000Z",
+      "opponent": "Andres Lugo",
+      "opponentSlug": "329335-andrea-lugo",
+      "result": "loss",
+      "method": "other",
+      "event": "Absolute Combat League 2",
+      "eventSlug": "102573-absolute-combat-league-2",
+      "round": 2,
+      "timeInRound": "1:40"
+    },
+    {
+      "date": "2022-08-20T00:00:00.000Z",
+      "opponent": "Lucas Beardslee",
+      "opponentSlug": "202550-lucas-beardslee",
+      "result": "loss",
+      "method": "other",
+      "event": "DCS 80: Summer Showdown 2022",
+      "eventSlug": "89830-dcs-81-summer-showdown",
+      "round": 1,
+      "timeInRound": "0:52"
+    },
+    {
+      "date": "2022-02-06T00:00:00.000Z",
+      "opponent": "Alejandro Gomez",
+      "opponentSlug": "280892-alejandro-gomez",
+      "result": "loss",
+      "method": "sub",
+      "event": "FAC 12: Lookin' For a Fight",
+      "eventSlug": "85292-fac-12",
+      "round": 2,
+      "timeInRound": "1:40"
+    },
+    {
+      "date": "2021-12-18T00:00:00.000Z",
+      "opponent": "Drake McKim",
+      "opponentSlug": "278393-drake-mckim",
+      "result": "win",
+      "method": "sub",
+      "event": "Ascendancy FC 52",
+      "eventSlug": "80747-ascendancy-fc-27",
+      "round": 4,
+      "timeInRound": "0:39"
+    },
+    {
+      "date": "2021-02-06T00:00:00.000Z",
+      "opponent": "Levi Trenary",
+      "opponentSlug": "178481-levi-trenary",
+      "result": "win",
+      "method": "sub",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "76071-brutaal-genesis-fight-night-fort-frenzy-13",
+      "round": 1,
+      "timeInRound": "1:42"
+    },
+    {
+      "date": "2020-11-20T00:00:00.000Z",
+      "opponent": "Kristopher Brito IV",
+      "opponentSlug": "227506-kristopher-brito",
+      "result": "win",
+      "method": "sub",
+      "event": "DCS 63",
+      "eventSlug": "74463-dcs-thanksgiving-throwdown-ii-night-one",
+      "round": 3,
+      "timeInRound": "0:55"
+    },
+    {
+      "date": "2020-10-30T00:00:00.000Z",
+      "opponent": "David Garcia",
+      "opponentSlug": "190594-david-allen-garcia",
+      "result": "win",
+      "method": "sub",
+      "event": "MCF 19: The Beatdown",
+      "eventSlug": "72820-mcf-19-the-beatdown",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-11T00:00:00.000Z",
+      "opponent": "Miljan Djukanovic",
+      "opponentSlug": "272784-miljan-djukanovic",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Caged Aggression 27",
+      "eventSlug": "71094-caged-aggression-26-return-of-the-champions-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-21T00:00:00.000Z",
+      "opponent": "Max Bly",
+      "opponentSlug": "215532-max-bly",
+      "result": "win",
+      "method": "sub",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "62984-brutaal-genesis-fight-night-back-in-the-barn-15",
+      "round": 2,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2019-05-18T00:00:00.000Z",
+      "opponent": "Yunior Escobar",
+      "opponentSlug": "204501-yunior-escobar",
+      "result": "win",
+      "method": "sub",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "60302-brutaal-genesis-fight-night-fort-frenzy-7",
+      "round": 2,
+      "timeInRound": "2:48"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:42:28.925Z"
+}

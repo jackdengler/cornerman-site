@@ -1,0 +1,77 @@
+{
+  "slug": "34399-alexander-neufang",
+  "name": "Alexander Neufang",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 192,
+  "reachCm": 195,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1987-01-17",
+  "nationality": "Luxembourg",
+  "url": "https://www.tapology.com/fightcenter/fighters/34399-alexander-neufang",
+  "recentFights": [
+    {
+      "date": "2018-03-09T00:00:00.000Z",
+      "opponent": "Rodolfo Vieira",
+      "opponentSlug": "148791-rodolfo-vieira-srour-the-black-belt-hunter",
+      "result": "loss",
+      "method": "other",
+      "event": "ACB 82: Silva vs. Kolobegov",
+      "eventSlug": "49794-acb-83-brazil",
+      "round": 1,
+      "timeInRound": "3:42"
+    },
+    {
+      "date": "2013-04-13T00:00:00.000Z",
+      "opponent": "Stephan Puetz",
+      "opponentSlug": "33877-stephan-puetz",
+      "result": "loss",
+      "method": "tko",
+      "event": "Respect FC 9",
+      "eventSlug": "18273-respect-fc-9",
+      "round": 1,
+      "timeInRound": "3:21"
+    },
+    {
+      "date": "2012-10-20T00:00:00.000Z",
+      "opponent": "Steven Cnudde",
+      "opponentSlug": "58624-steven-cnudde",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-09-22T00:00:00.000Z",
+      "opponent": "Manuel Masuch",
+      "opponentSlug": "27307-manuel-masuch-alte-dame",
+      "result": "win",
+      "method": "sub",
+      "event": "Respect FC 8",
+      "eventSlug": "15772-respect-fc-8",
+      "round": 1,
+      "timeInRound": "3:56"
+    },
+    {
+      "date": "2012-02-18T00:00:00.000Z",
+      "opponent": "Sylvain Potard",
+      "opponentSlug": "34445-sylvain-potard",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:51:58.748Z"
+}

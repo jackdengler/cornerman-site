@@ -1,0 +1,220 @@
+{
+  "slug": "78560-martin-davila",
+  "name": "Martin Davila",
+  "nickname": "The Last Inca",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1985-12-19",
+  "nationality": "Chicago, Illinois, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/78560-martin-davila",
+  "recentFights": [
+    {
+      "date": "2023-04-08T00:00:00.000Z",
+      "opponent": "Ernesto Ibarra",
+      "opponentSlug": "109896-ernesto-ibarra",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combate Global",
+      "eventSlug": "100151-combate-global-ibarra-vs-davila",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-26T00:00:00.000Z",
+      "opponent": "Michael Reyes",
+      "opponentSlug": "65744-michael-reyes",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combate Global",
+      "eventSlug": "92471-combate-global",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-07T00:00:00.000Z",
+      "opponent": "Jonathan Sepulveda",
+      "opponentSlug": "85950-jonathan-sepulveda",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combate Global",
+      "eventSlug": "78989-combate-global-superfly",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-13T00:00:00.000Z",
+      "opponent": "Josh Trainor",
+      "opponentSlug": "100691-josh-trainor",
+      "result": "win",
+      "method": "tko",
+      "event": "Shogun Fights 22",
+      "eventSlug": "60690-shogun-fights-22",
+      "round": 3,
+      "timeInRound": "2:03"
+    },
+    {
+      "date": "2017-04-08T00:00:00.000Z",
+      "opponent": "Greg Fischer",
+      "opponentSlug": "37477-greg-fischer",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shogun Fights 16",
+      "eventSlug": "44017-shogun-fights-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-24T00:00:00.000Z",
+      "opponent": "Travis Tisdale",
+      "opponentSlug": "51172-travis-tisdale",
+      "result": "win",
+      "method": "other",
+      "event": "Odyssey Fights",
+      "eventSlug": "41458-odyssey-fights-round-3-battle-on-the-base",
+      "round": 1,
+      "timeInRound": "3:19"
+    },
+    {
+      "date": "2016-07-23T00:00:00.000Z",
+      "opponent": "Michael Whaley",
+      "opponentSlug": "85252-michael-whaley",
+      "result": "win",
+      "method": "sub",
+      "event": "Fire & Ice FC 3",
+      "eventSlug": "40590-fire-ice-fighting-championships-3-blood-and-honor",
+      "round": 1,
+      "timeInRound": "2:28"
+    },
+    {
+      "date": "2016-04-16T00:00:00.000Z",
+      "opponent": "Greg Fischer",
+      "opponentSlug": "37477-greg-fischer",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shogun Fights 14",
+      "eventSlug": "39141-shogun-fights-14",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-03T00:00:00.000Z",
+      "opponent": "Cody Gabelman",
+      "opponentSlug": "32271-cody-gableman",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Strike Off 6",
+      "eventSlug": "35755-strike-off-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-06-06T00:00:00.000Z",
+      "opponent": "Arthur Parker",
+      "opponentSlug": "23043-arthur-parker",
+      "result": "win",
+      "method": "sub",
+      "event": "Strike Off 5",
+      "eventSlug": "31964-strike-off-5",
+      "round": 2,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2015-02-28T00:00:00.000Z",
+      "opponent": "Huiber Garcia",
+      "opponentSlug": "50459-huiber-garcia",
+      "result": "win",
+      "method": "sub",
+      "event": "Strike Off 4",
+      "eventSlug": "29064-glory-fights-strike-off-4",
+      "round": 1,
+      "timeInRound": "4:22"
+    },
+    {
+      "date": "2014-05-17T00:00:00.000Z",
+      "opponent": "Hunter Silva",
+      "opponentSlug": "78577-hunter-silva",
+      "result": "win",
+      "method": "sub",
+      "event": "XFS: Adrenaline",
+      "eventSlug": "25114-xfs-adrenaline",
+      "round": 1,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2013-09-21T00:00:00.000Z",
+      "opponent": "Chris Kirk",
+      "opponentSlug": "61593-chris-kirk",
+      "result": "win",
+      "method": "other",
+      "event": "XFS: Creation",
+      "eventSlug": "20879-xfs-creation",
+      "round": 2,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2013-08-24T00:00:00.000Z",
+      "opponent": "Mike Tubera",
+      "opponentSlug": "41398-mike-tubera",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-05-18T00:00:00.000Z",
+      "opponent": "Victor Rosas",
+      "opponentSlug": "105487-victor-rosas",
+      "result": "win",
+      "method": "sub",
+      "event": "XFS: Devastation",
+      "eventSlug": "19775-xfs-devastation",
+      "round": 1,
+      "timeInRound": "2:23"
+    },
+    {
+      "date": "2013-01-19T00:00:00.000Z",
+      "opponent": "Chris Kirk",
+      "opponentSlug": "61593-chris-kirk",
+      "result": "win",
+      "method": "dec-split",
+      "event": "XFS: Vengeance",
+      "eventSlug": "17848-xfs-vengeance",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-09-22T00:00:00.000Z",
+      "opponent": "Dylan Barrales",
+      "opponentSlug": "91098-dylan-barrales",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "XFS: Anarchy",
+      "eventSlug": "16844-xfs-anarchy",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-02-25T00:00:00.000Z",
+      "opponent": "Ryan Rojas",
+      "opponentSlug": "156303-ryan-rojas",
+      "result": "win",
+      "method": "sub",
+      "event": "XFS Amateur Series 1",
+      "eventSlug": "28597-xfs-amateur-series-revolution",
+      "round": 2,
+      "timeInRound": "0:27"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:36:36.608Z"
+}

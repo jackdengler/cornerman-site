@@ -1,0 +1,70 @@
+{
+  "slug": "242792-sandra-meneses",
+  "name": "Sandra Meneses",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Romania",
+  "url": "https://www.tapology.com/fightcenter/fighters/242792-sandra-meneses",
+  "recentFights": [
+    {
+      "date": "2019-11-14T00:00:00.000Z",
+      "opponent": "Michelle Montague",
+      "opponentSlug": "237486-michell-montague",
+      "result": "loss",
+      "method": "sub",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64428-immaf-wmmaa-amateur-world-championships-2019-day-4",
+      "round": 1,
+      "timeInRound": "0:49"
+    },
+    {
+      "date": "2019-11-13T00:00:00.000Z",
+      "opponent": "Cruau Marine",
+      "opponentSlug": "242754-cruau-marine",
+      "result": "win",
+      "method": "tko",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64319-immaf-wmmaa-amateur-world-championships-2019",
+      "round": 2,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2019-06-23T00:00:00.000Z",
+      "opponent": "Yrsa Sandin",
+      "opponentSlug": "198383-yrsa-sandin",
+      "result": "loss",
+      "method": "sub",
+      "event": "2019 IMMAF-WMMAA European Senior & Junior Open Championships",
+      "eventSlug": "61275-2019-immaf-wmmaa-european-senior-junior-open-championships-day-5-cage-a-finals",
+      "round": 2,
+      "timeInRound": "2:53"
+    },
+    {
+      "date": "2019-06-22T00:00:00.000Z",
+      "opponent": "Tatyana Lyashuk",
+      "opponentSlug": "227998-tatiana-liashuk",
+      "result": "win",
+      "method": "tko",
+      "event": "2019 IMMAF-WMMAA European Senior & Junior Open Championships",
+      "eventSlug": "61273-2019-immaf-wmmaa-2019-european-senior-junior-open-championships-day-4-cage-a-semi-finals",
+      "round": 2,
+      "timeInRound": "0:33"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:55:07.966Z"
+}

@@ -1,0 +1,176 @@
+{
+  "slug": "213615-kelton-sneve",
+  "name": "Kelton Sneve",
+  "nickname": "Konqueror",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1999-12-14",
+  "nationality": "Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/213615-kelton-sneve",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Cedric Katambwa",
+      "opponentSlug": "151861-cedric-katambwa",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 231: Lozej vs. Ibarra",
+      "eventSlug": "140675-lfa-231-trembley-vs-johns",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-21T00:00:00.000Z",
+      "opponent": "Kevin Carrier",
+      "opponentSlug": "56906-kevin-carrier",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 223: Francischinelli vs. Piersma",
+      "eventSlug": "133540-lfa-223",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-12T00:00:00.000Z",
+      "opponent": "David McKinney",
+      "opponentSlug": "86702-david-mckinney",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 217: McKee vs. Nobre",
+      "eventSlug": "130821-lfa-217",
+      "round": 1,
+      "timeInRound": "1:03"
+    },
+    {
+      "date": "2025-01-25T00:00:00.000Z",
+      "opponent": "Steve Collins",
+      "opponentSlug": "307378-steve-collins",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "LFA 200: Johns vs. Douglas",
+      "eventSlug": "120838-lfa-200",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-05T00:00:00.000Z",
+      "opponent": "Davion Trotter",
+      "opponentSlug": "232240-davion-trotter",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 181: Siqueira vs. Hernandez",
+      "eventSlug": "110760-lfa-181",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-01-12T00:00:00.000Z",
+      "opponent": "Coty Milhausen",
+      "opponentSlug": "145994-coty-milhausen",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 174: Jones vs. Gennrich",
+      "eventSlug": "108251-lfa-174-jones-vs-gennrich",
+      "round": 1,
+      "timeInRound": "4:54"
+    },
+    {
+      "date": "2023-11-11T00:00:00.000Z",
+      "opponent": "Isaiah Mahto",
+      "opponentSlug": "379090-isaiah-mahto",
+      "result": "win",
+      "method": "sub",
+      "event": "Mecca 20",
+      "eventSlug": "103306-mecca-20",
+      "round": 1,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2023-02-24T00:00:00.000Z",
+      "opponent": "Trevon Lawson",
+      "opponentSlug": "201336-trey-lawson",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Compass Fight Series 2",
+      "eventSlug": "95397-compass-fight-series-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-19T00:00:00.000Z",
+      "opponent": "Antoine Tureaud",
+      "opponentSlug": "309802-antoine-tureaud",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Brawl @ Bourbon Street 5",
+      "eventSlug": "85331-ignite-fights-brawl-at-bourbon-street-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-23T00:00:00.000Z",
+      "opponent": "David Madriz",
+      "opponentSlug": "141132-david-madriz",
+      "result": "win",
+      "method": "sub",
+      "event": "Compass Fight Series 1",
+      "eventSlug": "88513-compass-fight-series-1",
+      "round": 1,
+      "timeInRound": "2:32"
+    },
+    {
+      "date": "2022-05-20T00:00:00.000Z",
+      "opponent": "Anteze Howard",
+      "opponentSlug": "257011-anteze-howard",
+      "result": "win",
+      "method": "other",
+      "event": "FAC 14",
+      "eventSlug": "88127-fac-14",
+      "round": 2,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2021-12-18T00:00:00.000Z",
+      "opponent": "Dalton Tommie",
+      "opponentSlug": "306620-dalton-tommie",
+      "result": "win",
+      "method": "sub",
+      "event": "Throne MMA 1",
+      "eventSlug": "83034-throne-mma-1",
+      "round": 1,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2019-12-14T00:00:00.000Z",
+      "opponent": "Michael Frehse",
+      "opponentSlug": "124438-michael-frehse",
+      "result": "win",
+      "method": "sub",
+      "event": "Warrior Games 8",
+      "eventSlug": "63912-warrior-games-8-winter-spirit",
+      "round": 1,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2019-10-12T00:00:00.000Z",
+      "opponent": "Shane Sullivan",
+      "opponentSlug": "225390-shane-sullivan",
+      "result": "win",
+      "method": "other",
+      "event": "Warrior Games 7",
+      "eventSlug": "62360-warrior-games-7",
+      "round": 2,
+      "timeInRound": "0:24"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:59:49.193Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "155315-willian",
+  "name": "Willian Martins",
+  "nickname": "Monstro / Will Boxer",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": "1992-03-27",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/155315-willian",
+  "recentFights": [
+    {
+      "date": "2017-09-30T00:00:00.000Z",
+      "opponent": "Márcio Barbosa",
+      "opponentSlug": "126539-marcio-ticot",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-15T00:00:00.000Z",
+      "opponent": "Iennedy Rodrigues",
+      "opponentSlug": "124023-iennedy-fransuile-rodrigues-dos-santos",
+      "result": "loss",
+      "method": "sub",
+      "event": "WCombat 21",
+      "eventSlug": "45342-wcombat-21",
+      "round": 1,
+      "timeInRound": "3:23"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:57:05.854Z"
+}

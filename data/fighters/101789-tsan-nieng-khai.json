@@ -1,0 +1,180 @@
+{
+  "slug": "101789-tsan-nieng-khai",
+  "name": "Nieng Khai Tsan",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 11,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Malaysia",
+  "url": "https://www.tapology.com/fightcenter/fighters/101789-tsan-nieng-khai",
+  "recentFights": [
+    {
+      "date": "2019-05-02T00:00:00.000Z",
+      "opponent": "Shamil Gaziev",
+      "opponentSlug": "201352-shamil-gaziev",
+      "result": "loss",
+      "method": "tko",
+      "event": "IMMAF WMMAA Asian Open",
+      "eventSlug": "60697-immaf-wmmaa-asian-open-day-1",
+      "round": 2,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2018-03-30T00:00:00.000Z",
+      "opponent": "Azreel Izzat",
+      "opponentSlug": "120638-azreel-izzat",
+      "result": "win",
+      "method": "other",
+      "event": "Malaysian Invasion 5: Grand Finals",
+      "eventSlug": "51339-malaysian-invasion-5-grand-finals",
+      "round": 3,
+      "timeInRound": "2:39"
+    },
+    {
+      "date": "2018-02-24T00:00:00.000Z",
+      "opponent": "Steven Yeoh",
+      "opponentSlug": "49898-steven-yeoh",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Malaysian Invasion 5",
+      "eventSlug": "50472-malaysian-invasion-5-semifinals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-16T00:00:00.000Z",
+      "opponent": "Muhammad Hisyam",
+      "opponentSlug": "174116-muhammad-hisyam",
+      "result": "win",
+      "method": "tko",
+      "event": "Malaysian Invasion League 6",
+      "eventSlug": "46412-malaysian-invasion-league-6",
+      "round": 1,
+      "timeInRound": "2:41"
+    },
+    {
+      "date": "2017-08-05T00:00:00.000Z",
+      "opponent": "Valvinder Singh",
+      "opponentSlug": "161165-valvinder-singh",
+      "result": "win",
+      "method": "other",
+      "event": "Malaysian Invasion League 2",
+      "eventSlug": "46408-malaysian-invasion-league-2",
+      "round": 2,
+      "timeInRound": "0:38"
+    },
+    {
+      "date": "2017-07-08T00:00:00.000Z",
+      "opponent": "Erleywansah Bin Japar",
+      "opponentSlug": "161163-erleywansah-bin-japar",
+      "result": "win",
+      "method": "other",
+      "event": "Malaysian Invasion League 1",
+      "eventSlug": "46406-malaysian-invasion-league-1",
+      "round": 1,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2016-10-08T00:00:00.000Z",
+      "opponent": "Darren Low",
+      "opponentSlug": "70852-darren-low",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Malaysian Invasion 4: Grand Finals",
+      "eventSlug": "41639-malaysian-invasion-4-grand-finals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-03T00:00:00.000Z",
+      "opponent": "Niker Tan",
+      "opponentSlug": "80258-niker-tan-sian-kai",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Malaysian Invasion 4: Contender Fight",
+      "eventSlug": "41254-malaysian-invasion-4-contender-fight",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-08-06T00:00:00.000Z",
+      "opponent": "Yaw Kent Tham",
+      "opponentSlug": "101774-tham-yaw-kent",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Malaysian Invasion 4: Semifinals",
+      "eventSlug": "40794-malaysian-invasion-4-semifinals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-27T00:00:00.000Z",
+      "opponent": "Simon Khor",
+      "opponentSlug": "130524-simon-khor",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Malaysian Invasion 4: Quarterfinals",
+      "eventSlug": "39744-malaysian-invasion-4-quarterfinal",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-28T00:00:00.000Z",
+      "opponent": "Steven Yeoh",
+      "opponentSlug": "49898-steven-yeoh",
+      "result": "win",
+      "method": "tko",
+      "event": "Ultimate Beatdown 18",
+      "eventSlug": "36879-ultimate-beatdown-18",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-01T00:00:00.000Z",
+      "opponent": "Yaw Kent Tham",
+      "opponentSlug": "101774-tham-yaw-kent",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Malaysian Invasion 3: Semifinals",
+      "eventSlug": "34056-malaysian-invasion-3-semifinals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-06-13T00:00:00.000Z",
+      "opponent": "Mohd Alfie",
+      "opponentSlug": "101791-mohd-alfie-bin-alias",
+      "result": "win",
+      "method": "other",
+      "event": "Malaysian Invasion 3: Quarterfinals",
+      "eventSlug": "33064-malaysian-invasion-3-quarterfinals",
+      "round": 3,
+      "timeInRound": "0:28"
+    },
+    {
+      "date": "2015-05-15T00:00:00.000Z",
+      "opponent": "Syabtu Zaayon Aumazza",
+      "opponentSlug": "101788-syabtu-zaayon-aumazza-bin-denno-umat",
+      "result": "win",
+      "method": "tko",
+      "event": "Malaysian Invasion 3",
+      "eventSlug": "32715-malaysian-invasion-3-ladder-match",
+      "round": 3,
+      "timeInRound": "2:42"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:55:55.377Z"
+}

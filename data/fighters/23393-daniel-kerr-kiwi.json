@@ -1,0 +1,110 @@
+{
+  "slug": "23393-daniel-kerr-kiwi",
+  "name": "Daniel Kerr",
+  "nickname": "Kiwi",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "New Zealand",
+  "url": "https://www.tapology.com/fightcenter/fighters/23393-daniel-kerr-kiwi",
+  "recentFights": [
+    {
+      "date": "2025-01-11T00:00:00.000Z",
+      "opponent": "Allan dos Reis",
+      "opponentSlug": "478515-allan-dos-reis",
+      "result": "win",
+      "method": "other",
+      "event": "TFC Fight Night 10",
+      "eventSlug": "122982-tfc-fight-night-10",
+      "round": 1,
+      "timeInRound": "0:20"
+    },
+    {
+      "date": "2023-05-26T00:00:00.000Z",
+      "opponent": "Jonathan Micallef",
+      "opponentSlug": "238862-jonathan-micallef",
+      "result": "loss",
+      "method": "sub",
+      "event": "Hex Fight Series 26",
+      "eventSlug": "98677-hex-fight-series-26",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-04-15T00:00:00.000Z",
+      "opponent": "John Vake",
+      "opponentSlug": "68353-john-vake",
+      "result": "loss",
+      "method": "other",
+      "event": "XFC 64",
+      "eventSlug": "97856-xfc-64",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-30T00:00:00.000Z",
+      "opponent": "Javier Trujillo",
+      "opponentSlug": "111433-javier-trujillo",
+      "result": "loss",
+      "method": "other",
+      "event": "Full Metal Dojo 18",
+      "eventSlug": "63365-full-metal-dojo-18",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-03-17T00:00:00.000Z",
+      "opponent": "Andre Marcolla",
+      "opponentSlug": "23392-andre-marcolla",
+      "result": "loss",
+      "method": "sub",
+      "event": "DARE 2/12",
+      "eventSlug": "12624-dare-212",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-06-25T00:00:00.000Z",
+      "opponent": "Regan Wilson",
+      "opponentSlug": "23418-regan-wilson",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-03-05T00:00:00.000Z",
+      "opponent": "Steve Micallef",
+      "opponentSlug": "12075-steve-micallef",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-09-12T00:00:00.000Z",
+      "opponent": "Nick Bailey",
+      "opponentSlug": "142482-nick-bailey-hitman",
+      "result": "win",
+      "method": "sub",
+      "event": "Legend Cage Fighting",
+      "eventSlug": "42345-legend-cage-fighting-project-mayheml",
+      "round": 1,
+      "timeInRound": "1:00"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:54:08.211Z"
+}

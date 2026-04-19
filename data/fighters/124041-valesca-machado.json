@@ -1,0 +1,242 @@
+{
+  "slug": "124041-valesca-machado",
+  "name": "Valesca Machado",
+  "nickname": "Tina Black",
+  "aliases": [],
+  "recordPro": {
+    "wins": 15,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 162,
+  "reachCm": 160,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": "1996-05-06",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/124041-valesca-machado",
+  "recentFights": [
+    {
+      "date": "2024-12-13T00:00:00.000Z",
+      "opponent": "Yasmin Castanho",
+      "opponentSlug": "199857-yasmin-castanho-smile",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 59",
+      "eventSlug": "120343-invicta-fc-59-bernardo-vs-maia",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-08-09T00:00:00.000Z",
+      "opponent": "Yulia Ostroverkhova",
+      "opponentSlug": "193340-yulia-ostroverkhova",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 56",
+      "eventSlug": "115187-invicta-fc-56",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-02-22T00:00:00.000Z",
+      "opponent": "Taylor Mauldin",
+      "opponentSlug": "166896-taylor-mauldin",
+      "result": "win",
+      "method": "tko",
+      "event": "Urijah Faber's A1 Combat 18",
+      "eventSlug": "109067-urijah-faber-s-a1-combat-18-hernandez-vs-vasquez",
+      "round": 1,
+      "timeInRound": "0:49"
+    },
+    {
+      "date": "2023-03-15T00:00:00.000Z",
+      "opponent": "Danni McCormack",
+      "opponentSlug": "144402-danni-neilan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 52",
+      "eventSlug": "98267-invicta-fc-52-machado-vs-mccormack",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-16T00:00:00.000Z",
+      "opponent": "Karolina Wójcik",
+      "opponentSlug": "132235-karolina-wojcik",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 50",
+      "eventSlug": "94217-invicta-fc-50-strawweight-title-tournament",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-16T00:00:00.000Z",
+      "opponent": "Ediana Silva",
+      "opponentSlug": "231819-edyanna-rodrygues-mel-pitbull",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Invicta FC 50",
+      "eventSlug": "94217-invicta-fc-50-strawweight-title-tournament",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-28T00:00:00.000Z",
+      "opponent": "Liz Tracy",
+      "opponentSlug": "72367-liz-tracy-the-titan",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 49",
+      "eventSlug": "92412-invicta-fc-49-delboni-vs-decoursey",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-19T00:00:00.000Z",
+      "opponent": "Janelice Moraes",
+      "opponentSlug": "237891-janelice-moraes-farinha",
+      "result": "win",
+      "method": "sub",
+      "event": "Arena Global 16",
+      "eventSlug": "85760-arena-global-16",
+      "round": 1,
+      "timeInRound": "4:56"
+    },
+    {
+      "date": "2021-10-19T00:00:00.000Z",
+      "opponent": "Piera Rodriguez",
+      "opponentSlug": "140642-pierangela-rodriguez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Contender Series 2021",
+      "eventSlug": "79535-contender-series-2021",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-07-26T00:00:00.000Z",
+      "opponent": "Karen Thalita",
+      "opponentSlug": "237784-karen-thalita-fenix",
+      "result": "win",
+      "method": "tko",
+      "event": "Shooto Brasil",
+      "eventSlug": "71130-shooto-brasil-solidariedade",
+      "round": 1,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2019-06-28T00:00:00.000Z",
+      "opponent": "Maria Ribeiro",
+      "opponentSlug": "165652-maria-ribeiro",
+      "result": "win",
+      "method": "other",
+      "event": "Future FC 6",
+      "eventSlug": "59821-future-fc-6-panico-vs-marretinha",
+      "round": 3,
+      "timeInRound": "4:03"
+    },
+    {
+      "date": "2019-05-18T00:00:00.000Z",
+      "opponent": "Janaina Soares",
+      "opponentSlug": "197361-janaina-soares-jay",
+      "result": "win",
+      "method": "tko",
+      "event": "WOCS 54",
+      "eventSlug": "60622-wocs-54",
+      "round": 1,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2019-03-30T00:00:00.000Z",
+      "opponent": "Lohayne Lopes",
+      "opponentSlug": "198957-lohayne-lopes-lolo",
+      "result": "win",
+      "method": "other",
+      "event": "Warriors Mix Challenger 1",
+      "eventSlug": "59409-warriors-mix-challenger-1",
+      "round": 2,
+      "timeInRound": "2:37"
+    },
+    {
+      "date": "2018-09-28T00:00:00.000Z",
+      "opponent": "Monique Adriane",
+      "opponentSlug": "140994-monique-adriane-azevedo",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Shooto Brasil 88",
+      "eventSlug": "55579-shooto-brasil-88",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-26T00:00:00.000Z",
+      "opponent": "Julia Polastri",
+      "opponentSlug": "168315-julia-polastri",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shooto Brasil 84",
+      "eventSlug": "53369-shooto-brasil-84",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-26T00:00:00.000Z",
+      "opponent": "Marcela Giantomassi",
+      "opponentSlug": "130372-marcela-giantomassi-aguiar",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Shooto Brasil 78",
+      "eventSlug": "49336-shooto-brasil-78",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-10T00:00:00.000Z",
+      "opponent": "Maria Oliveira",
+      "opponentSlug": "114735-maria-oliveira",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Angels & Fight Contest 1",
+      "eventSlug": "46114-angels-fight-contest-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-08T00:00:00.000Z",
+      "opponent": "Elaine Leal",
+      "opponentSlug": "137503-elaine-leal-pantera",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-07T00:00:00.000Z",
+      "opponent": "Kakau Costa",
+      "opponentSlug": "106406-kakau-costa-cacau",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-01-30T00:00:00.000Z",
+      "opponent": "Nayara Hemily",
+      "opponentSlug": "79643-nayara-hemily",
+      "result": "nc",
+      "method": "other",
+      "event": "NCE 4",
+      "eventSlug": "37772-nce-4",
+      "round": 3,
+      "timeInRound": "5:00"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:59:12.665Z"
+}

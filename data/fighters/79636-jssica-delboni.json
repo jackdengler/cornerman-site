@@ -1,0 +1,242 @@
+{
+  "slug": "79636-jssica-delboni",
+  "name": "Jéssica Delboni",
+  "nickname": "The Queen",
+  "aliases": [],
+  "recordPro": {
+    "wins": 13,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 155,
+  "reachCm": 157,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": "1993-09-07",
+  "nationality": "Vila Velha, Espirito Santo, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/79636-jssica-delboni",
+  "recentFights": [
+    {
+      "date": "2025-04-27T00:00:00.000Z",
+      "opponent": "Andrea Amaro",
+      "opponentSlug": "138415-andrea-amaro",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fury Challenger Series 13",
+      "eventSlug": "125593-fury-challenger-series-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-03T00:00:00.000Z",
+      "opponent": "Danielle Taylor",
+      "opponentSlug": "40903-danielle-taylor",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 53",
+      "eventSlug": "99821-invicta-fc-53-decoursey-vs-dos-santos",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-28T00:00:00.000Z",
+      "opponent": "Jillian DeCoursey",
+      "opponentSlug": "79011-jillian-decoursey",
+      "result": "loss",
+      "method": "sub",
+      "event": "Invicta FC 49",
+      "eventSlug": "92412-invicta-fc-49-delboni-vs-decoursey",
+      "round": 1,
+      "timeInRound": "4:49"
+    },
+    {
+      "date": "2022-01-12T00:00:00.000Z",
+      "opponent": "Alesha Zappitella",
+      "opponentSlug": "109456-alesha-zappittella",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 45",
+      "eventSlug": "85242-invicta-fc-45-zappitella-vs-delboni-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-11T00:00:00.000Z",
+      "opponent": "Lindsey VanZandt",
+      "opponentSlug": "96718-lindsey-van-zant",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Invicta on AXS TV",
+      "eventSlug": "79587-invicta-on-axs-tv-pheonix-tournament",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-11T00:00:00.000Z",
+      "opponent": "Marisa Messer-Belenchia",
+      "opponentSlug": "104088-marisa-messer-belenchia",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Invicta on AXS TV",
+      "eventSlug": "79587-invicta-on-axs-tv-pheonix-tournament",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-11T00:00:00.000Z",
+      "opponent": "Tabatha Ann Watkins",
+      "opponentSlug": "111645-tabatha-shanks",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Invicta on AXS TV",
+      "eventSlug": "79587-invicta-on-axs-tv-pheonix-tournament",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-21T00:00:00.000Z",
+      "opponent": "Alesha Zappitella",
+      "opponentSlug": "109456-alesha-zappittella",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Invicta on AXS TV",
+      "eventSlug": "78656-invicta-fc-44-zappitella-vs-delboni",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-17T00:00:00.000Z",
+      "opponent": "Herica Tiburcio",
+      "opponentSlug": "47324-herica-tiburcio",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 42",
+      "eventSlug": "71317-invicta-fc-42-cummins-vs-zappitella",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-19T00:00:00.000Z",
+      "opponent": "Julia Polastri",
+      "opponentSlug": "168315-julia-polastri",
+      "result": "loss",
+      "method": "tko",
+      "event": "Shooto Brasil 97",
+      "eventSlug": "63628-shooto-brasil-97",
+      "round": 2,
+      "timeInRound": "4:35"
+    },
+    {
+      "date": "2019-08-09T00:00:00.000Z",
+      "opponent": "Lindsey VanZandt",
+      "opponentSlug": "96718-lindsey-van-zant",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Invicta FC 36",
+      "eventSlug": "61544-invicta-fc-36-sorenson-vs-young",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-05T00:00:00.000Z",
+      "opponent": "Maiara Amanajás",
+      "opponentSlug": "78659-maiara-alves",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Shooto Brasil 91",
+      "eventSlug": "59374-shooto-brasil-91",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-16T00:00:00.000Z",
+      "opponent": "Ashley Cummins",
+      "opponentSlug": "17204-ashley-cummins-smashley",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 32",
+      "eventSlug": "55195-invicta-fc-32-sorenson-vs-spencer",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-07T00:00:00.000Z",
+      "opponent": "Liana Pirosin",
+      "opponentSlug": "83417-liana-pirosin-li",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Imortal FC 8",
+      "eventSlug": "51876-imortal-fc-8-soulless",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-18T00:00:00.000Z",
+      "opponent": "Bruna Brasil",
+      "opponentSlug": "117583-bruna-brasil",
+      "result": "win",
+      "method": "other",
+      "event": "Maringá Combat 5",
+      "eventSlug": "49196-maring-combat-5",
+      "round": 2,
+      "timeInRound": "4:12"
+    },
+    {
+      "date": "2017-10-15T00:00:00.000Z",
+      "opponent": "Pamela Ferreira",
+      "opponentSlug": "167609-pamela-ferreira-pitbull",
+      "result": "win",
+      "method": "other",
+      "event": "Angels & Fight Contest 2",
+      "eventSlug": "48813-angels-fight-contest-2",
+      "round": 1,
+      "timeInRound": "3:08"
+    },
+    {
+      "date": "2017-08-27T00:00:00.000Z",
+      "opponent": "Joice Mara",
+      "opponentSlug": "142374-joicemara",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shooto Brasil 74",
+      "eventSlug": "47633-shooto-brasil-74",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-01T00:00:00.000Z",
+      "opponent": "Bianca Sattelmayer",
+      "opponentSlug": "58437-bianca-reis",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Curitiba Top Fight 11",
+      "eventSlug": "45912-curitiba-top-fight-11-girls-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-16T00:00:00.000Z",
+      "opponent": "Cristiane Lima",
+      "opponentSlug": "110242-cristiane-lima",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Rei da CBX 2",
+      "eventSlug": "34674-rei-da-cbx-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-05-12T00:00:00.000Z",
+      "opponent": "Juliana Costa",
+      "opponentSlug": "79655-juliana-costa",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "HCC 12",
+      "eventSlug": "20469-hcc-12",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:59:01.954Z"
+}

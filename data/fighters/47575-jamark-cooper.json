@@ -1,0 +1,70 @@
+{
+  "slug": "47575-jamark-cooper",
+  "name": "Jamark Cooper",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1989-11-16",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/47575-jamark-cooper",
+  "recentFights": [
+    {
+      "date": "2015-09-18T00:00:00.000Z",
+      "opponent": "Cody Durden",
+      "opponentSlug": "68337-cody-durden",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "NFC 77",
+      "eventSlug": "35498-nfc-77",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-06-27T00:00:00.000Z",
+      "opponent": "Anthony Canzano",
+      "opponentSlug": "51388-anthony-canzano",
+      "result": "loss",
+      "method": "sub",
+      "event": "NFC 75: Rinaldi vs. Saraiva",
+      "eventSlug": "33670-nfc-75",
+      "round": 1,
+      "timeInRound": "2:18"
+    },
+    {
+      "date": "2014-04-26T00:00:00.000Z",
+      "opponent": "Josh Morris",
+      "opponentSlug": "43593-josh-morris",
+      "result": "win",
+      "method": "tko",
+      "event": "Conflict MMA 17",
+      "eventSlug": "23659-conflict-mma-havoc",
+      "round": 2,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2013-06-01T00:00:00.000Z",
+      "opponent": "Bobby Patton",
+      "opponentSlug": "40713-bobby-patton",
+      "result": "win",
+      "method": "sub",
+      "event": "Conflict MMA",
+      "eventSlug": "18864-conflict-mma-fight-night-at-the-point-9",
+      "round": 1,
+      "timeInRound": "1:13"
+    }
+  ],
+  "lastVerified": "2026-04-19T19:10:35.913Z"
+}

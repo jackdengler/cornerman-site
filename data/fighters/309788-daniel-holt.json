@@ -1,0 +1,154 @@
+{
+  "slug": "309788-daniel-holt",
+  "name": "Daniel Holt",
+  "nickname": "The Villain",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": 191,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "2003-05-11",
+  "nationality": "Chorlton, Manchester, England",
+  "url": "https://www.tapology.com/fightcenter/fighters/309788-daniel-holt",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Korey Taylor",
+      "opponentSlug": "193806-korey-taylor",
+      "result": null,
+      "method": "other",
+      "event": "LFA 231: Trembley vs. Johns",
+      "eventSlug": "140675-lfa-231-trembley-vs-johns",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-27T00:00:00.000Z",
+      "opponent": "Oscar Mendez",
+      "opponentSlug": "268677-oscar-mendez",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 218: Nascimento vs. Makaev",
+      "eventSlug": "130822-lfa-218",
+      "round": 1,
+      "timeInRound": "2:49"
+    },
+    {
+      "date": "2025-05-03T00:00:00.000Z",
+      "opponent": "Simone Manno",
+      "opponentSlug": "302133-simone-manno",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "PCFC 4: Prospects Rising",
+      "eventSlug": "126644-mfl-x-pcfc-prospects-rising",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-02-15T00:00:00.000Z",
+      "opponent": "Ross Coe",
+      "opponentSlug": "119447-ross-coe",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ECC 2",
+      "eventSlug": "121877-ecc-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-12-21T00:00:00.000Z",
+      "opponent": "Cheyenne Ferguson",
+      "opponentSlug": "493062-cheyenne-ferguson",
+      "result": "win",
+      "method": "other",
+      "event": "PCFC 2",
+      "eventSlug": "122322-progress-check-fc-2",
+      "round": 1,
+      "timeInRound": "0:15"
+    },
+    {
+      "date": "2024-06-22T00:00:00.000Z",
+      "opponent": "Ali Albazi",
+      "opponentSlug": "387718-ali-albazi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "The M Fight League",
+      "eventSlug": "111294-the-m-fight-league-m-war-iii",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-10-20T00:00:00.000Z",
+      "opponent": "Jack Grundy",
+      "opponentSlug": "317101-jack-grundy",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Anthony Pettis FC 8",
+      "eventSlug": "104160-anthony-pettis-fc-8-manchester-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-17T00:00:00.000Z",
+      "opponent": "Harry Thompson",
+      "opponentSlug": "326245-harry-thompson",
+      "result": null,
+      "method": "other",
+      "event": "Vida Fight Championship 5",
+      "eventSlug": "95664-vida-fight-championship-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-10T00:00:00.000Z",
+      "opponent": "Jake McHugh",
+      "opponentSlug": "319884-jake-mchugh",
+      "result": "loss",
+      "method": "sub",
+      "event": "Full Contact Contender 30",
+      "eventSlug": "92102-full-contact-contender-30",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-12T00:00:00.000Z",
+      "opponent": "Zach Fry",
+      "opponentSlug": "145572-zach-fry",
+      "result": "loss",
+      "method": "tko",
+      "event": "UK Fighting Championships 18",
+      "eventSlug": "86368-uk-fighting-championships-18",
+      "round": 2,
+      "timeInRound": "1:56"
+    },
+    {
+      "date": "2021-10-23T00:00:00.000Z",
+      "opponent": "Jack Ashman",
+      "opponentSlug": "307770-jack-ashmann",
+      "result": "win",
+      "method": "other",
+      "event": "BFC 1: Finally!",
+      "eventSlug": "82216-bfc1-finally",
+      "round": 1,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2021-08-28T00:00:00.000Z",
+      "opponent": "Louis Goodall",
+      "opponentSlug": "307397-louis-goodall",
+      "result": "win",
+      "method": "tko",
+      "event": "Full Contact Contender 26",
+      "eventSlug": "79739-full-contact-contender-26",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T03:46:06.150Z"
+}

@@ -1,0 +1,154 @@
+{
+  "slug": "347893-alex-hutyra",
+  "name": "Alex Hutyra",
+  "nickname": "Sauvage",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "2004-07-29",
+  "nationality": "Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/347893-alex-hutyra",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Umut Birdal",
+      "opponentSlug": "368664-umut-birdal",
+      "result": null,
+      "method": "other",
+      "event": "OKTAGON 87: Szabová vs. Fernandes",
+      "eventSlug": "135741-oktagon-87",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-12-28T00:00:00.000Z",
+      "opponent": "Viktor Kováč",
+      "opponentSlug": "347348-viktor-kovac",
+      "result": "win",
+      "method": "sub",
+      "event": "OKTAGON 81: Fleury vs. Buday",
+      "eventSlug": "118940-oktagon",
+      "round": 2,
+      "timeInRound": "2:52"
+    },
+    {
+      "date": "2025-11-08T00:00:00.000Z",
+      "opponent": "Tibor Balázs",
+      "opponentSlug": "199925-tibor-balasz",
+      "result": "win",
+      "method": "sub",
+      "event": "PML 17",
+      "eventSlug": "135515-pml-17",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-27T00:00:00.000Z",
+      "opponent": "Marouane Helali",
+      "opponentSlug": "382842-marouane-helali",
+      "result": "win",
+      "method": "sub",
+      "event": "PML 16",
+      "eventSlug": "130419-pml-16",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-30T00:00:00.000Z",
+      "opponent": "Petr Krenek",
+      "opponentSlug": "411276-petr-krenek",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Svarog Fight Night 2024",
+      "eventSlug": "120789-svarog-fight-nights",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-15T00:00:00.000Z",
+      "opponent": "Samuel Lehocký",
+      "opponentSlug": "197213-samuel-lehocky",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "War Zone 008",
+      "eventSlug": "113870-war-zone-008",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-22T00:00:00.000Z",
+      "opponent": "Tomáš Holeček",
+      "opponentSlug": "209231-tomas-holecek",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IAF 11: Noc válečníků",
+      "eventSlug": "109454-iaf-11-noc-valecniku",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-18T00:00:00.000Z",
+      "opponent": "Marek Čaniga",
+      "opponentSlug": "367059-marek-caniga",
+      "result": null,
+      "method": "other",
+      "event": "Svarog Fight Night 2023",
+      "eventSlug": "106491-svarog-cup-bitva-o-frydlant",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-09T00:00:00.000Z",
+      "opponent": "Tomáš Votava",
+      "opponentSlug": "197469-tomas-votava",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "War Zone 006",
+      "eventSlug": "101189-war-zone-006",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-06T00:00:00.000Z",
+      "opponent": "Petr Beran",
+      "opponentSlug": "263178-petr-beran-sicario",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "IAF 7",
+      "eventSlug": "98992-iaf-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-01-28T00:00:00.000Z",
+      "opponent": "Jakub Macháček",
+      "opponentSlug": "371483-jakub-machacek",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Way of Warrior 10",
+      "eventSlug": "96539-way-of-warrior-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-17T00:00:00.000Z",
+      "opponent": "Josef Lacina",
+      "opponentSlug": "332553-josef-lacina",
+      "result": "win",
+      "method": "other",
+      "event": "War Zone 004",
+      "eventSlug": "95478-war-zone-004",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:05:16.505Z"
+}

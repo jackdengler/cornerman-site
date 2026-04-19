@@ -1,0 +1,66 @@
+{
+  "slug": "130032-jiming-sun",
+  "name": "Jiming Sun",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "China",
+  "url": "https://www.tapology.com/fightcenter/fighters/130032-jiming-sun",
+  "recentFights": [
+    {
+      "date": "2017-02-18T00:00:00.000Z",
+      "opponent": "Mikhail Romanchuk",
+      "opponentSlug": "209848-mikhail-romanchuk",
+      "result": "loss",
+      "method": "other",
+      "event": "Chin Woo Men",
+      "eventSlug": "49243-chin-woo-men-2016-2017-season",
+      "round": 1,
+      "timeInRound": "0:36"
+    },
+    {
+      "date": "2017-01-07T00:00:00.000Z",
+      "opponent": "Ramazan",
+      "opponentSlug": "333366-ramazan",
+      "result": "win",
+      "method": "sub",
+      "event": "Chin Woo Men",
+      "eventSlug": "49790-chin-woo-men-2016-2017-season-fierce-battle-part-1",
+      "round": 1,
+      "timeInRound": "4:49"
+    },
+    {
+      "date": "2016-11-06T00:00:00.000Z",
+      "opponent": "Carlos Prates",
+      "opponentSlug": "36554-carlos-prates-carlao",
+      "result": "loss",
+      "method": "sub",
+      "event": "Chin Woo Men",
+      "eventSlug": "48034-chin-woo-men-2016-2017-season",
+      "round": 1,
+      "timeInRound": "4:58"
+    },
+    {
+      "date": "2016-04-09T00:00:00.000Z",
+      "opponent": "Tetsuo Kondo",
+      "opponentSlug": "57269-tetsuo-kondo",
+      "result": "win",
+      "method": "other",
+      "event": "Kunlun Fight 42",
+      "eventSlug": "39197-kunlun-fight-42",
+      "round": 1,
+      "timeInRound": "2:00"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:10:52.779Z"
+}

@@ -1,0 +1,121 @@
+{
+  "slug": "141896-sebastian-temesi",
+  "name": "Sebastian Temesi",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1990-04-24",
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/141896-sebastian-temesi",
+  "recentFights": [
+    {
+      "date": "2026-01-31T00:00:00.000Z",
+      "opponent": "Christian Lapham",
+      "opponentSlug": "194995-christian-lapham",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 102",
+      "eventSlug": "138396-eternal-mma-102",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-03T00:00:00.000Z",
+      "opponent": "John Martin Fraser",
+      "opponentSlug": "145385-john-martin-fraser",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 95",
+      "eventSlug": "125812-eternal-mma-95",
+      "round": 2,
+      "timeInRound": "4:31"
+    },
+    {
+      "date": "2021-11-21T00:00:00.000Z",
+      "opponent": "Dan Currie",
+      "opponentSlug": "143299-dan-currie",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Diamondback FC 12",
+      "eventSlug": "79288-diamondback-fc-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-12-12T00:00:00.000Z",
+      "opponent": "Craig Callaghan",
+      "opponentSlug": "56568-craig-callahan",
+      "result": "loss",
+      "method": "tko",
+      "event": "XFC 46: State Of Origin",
+      "eventSlug": "73764-xfc-46",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-04T00:00:00.000Z",
+      "opponent": "Jacob Malkoun",
+      "opponentSlug": "111323-jacob-malkoun",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 48",
+      "eventSlug": "62409-eternal-mma-48",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-02T00:00:00.000Z",
+      "opponent": "William Namoa",
+      "opponentSlug": "34241-william-namoa",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Urban Fight Night 13",
+      "eventSlug": "49014-urban-fight-night-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-16T00:00:00.000Z",
+      "opponent": "Dan Currie",
+      "opponentSlug": "143299-dan-currie",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Diamondback FC 3",
+      "eventSlug": "46524-diamondback-fc-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-01-28T00:00:00.000Z",
+      "opponent": "Jye Wyllie",
+      "opponentSlug": "139914-jye-wyllie-coyote",
+      "result": "win",
+      "method": "other",
+      "event": "Legend MMA 1",
+      "eventSlug": "43694-legend-mma-1",
+      "round": 1,
+      "timeInRound": "3:22"
+    },
+    {
+      "date": "2016-10-15T00:00:00.000Z",
+      "opponent": "Daniel Schuardt",
+      "opponentSlug": "95786-daniel-schuardt",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Australian FC 17",
+      "eventSlug": "41094-australian-fc-17",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:14:32.701Z"
+}

@@ -1,0 +1,220 @@
+{
+  "slug": "41540-joshua-miranda",
+  "name": "Joshua Miranda",
+  "nickname": "the most handsome man on the card",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 10,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": 185,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1986-12-26",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/41540-joshua-miranda",
+  "recentFights": [
+    {
+      "date": "2024-11-23T00:00:00.000Z",
+      "opponent": "James Delsid",
+      "opponentSlug": "201390-james-delsid",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "VFS 17",
+      "eventSlug": "120452-vfs-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-07T00:00:00.000Z",
+      "opponent": "AJ Perez",
+      "opponentSlug": "201381-aj-perez",
+      "result": "loss",
+      "method": "tko",
+      "event": "VFS 16",
+      "eventSlug": "117513-vfs-16",
+      "round": 2,
+      "timeInRound": "0:49"
+    },
+    {
+      "date": "2024-06-08T00:00:00.000Z",
+      "opponent": "Chris Lewis",
+      "opponentSlug": "107795-chris-lewis-the-law",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "VFS 15",
+      "eventSlug": "113409-vfs-15-pro-am-mma-muay-thai-bjj-pankration",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-09T00:00:00.000Z",
+      "opponent": "Jordan Powell",
+      "opponentSlug": "42098-jordan-powel",
+      "result": "win",
+      "method": "other",
+      "event": "Primal Fighting Championship",
+      "eventSlug": "111528-primal-fighting-championship-march-to-mayhem",
+      "round": 2,
+      "timeInRound": "1:56"
+    },
+    {
+      "date": "2023-11-11T00:00:00.000Z",
+      "opponent": "Jesse Arter",
+      "opponentSlug": "156980-jesse-arter",
+      "result": "win",
+      "method": "tko",
+      "event": "Primal Fighting Championship",
+      "eventSlug": "107654-primal-fighting-championship-fight-night",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2023-07-15T00:00:00.000Z",
+      "opponent": "Marcus Gaines",
+      "opponentSlug": "marcus-gaines",
+      "result": "loss",
+      "method": "tko",
+      "event": "Primal Fighting Championship",
+      "eventSlug": "103141-primal-fighting-championship-fists-on-fire",
+      "round": 2,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2023-05-20T00:00:00.000Z",
+      "opponent": "Giovanni Sarran",
+      "opponentSlug": "8290-giovanni-sarran-bam-bam",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "PureCombat: Battle Cry 2",
+      "eventSlug": "102614-purecombat-battle-cry-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-01-14T00:00:00.000Z",
+      "opponent": "Leo McDonald",
+      "opponentSlug": "39900-leo-mcdonald",
+      "result": "win",
+      "method": "tko",
+      "event": "Primal Fighting Championship",
+      "eventSlug": "97495-primal-fighting-championship-gladiators-collide",
+      "round": 1,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2022-07-16T00:00:00.000Z",
+      "opponent": "Matt Howell",
+      "opponentSlug": "51733-matt-howell",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Primal Fighting Championship",
+      "eventSlug": "91068-primal-fighting-championship-caged-inferno",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-01-15T00:00:00.000Z",
+      "opponent": "Scott Davenport",
+      "opponentSlug": "29823-scott-davenport",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Primal Fighting Championship",
+      "eventSlug": "86227-primal-fighting-championship-carnage-at-the-river",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-08-10T00:00:00.000Z",
+      "opponent": "Mike Morales",
+      "opponentSlug": "41588-mike-morales-mickey",
+      "result": "win",
+      "method": "other",
+      "event": "High Desert Brawl 14",
+      "eventSlug": "62392-high-desert-brawl-14",
+      "round": 2,
+      "timeInRound": "2:28"
+    },
+    {
+      "date": "2013-05-25T00:00:00.000Z",
+      "opponent": "Joey Cabezas",
+      "opponentSlug": "12782-joey-cabezas",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Gladiator Challenge",
+      "eventSlug": "19008-gladiator-challenge-showdown",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-02-07T00:00:00.000Z",
+      "opponent": "Marcelo Mafra",
+      "opponentSlug": "21294-marcelo-mafra-lapela",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "KOTC: Restitution",
+      "eventSlug": "17458-kotc-restitution",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-10-13T00:00:00.000Z",
+      "opponent": "John Corstorphine",
+      "opponentSlug": "5050-john-corstorphine",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-11-13T00:00:00.000Z",
+      "opponent": "Max Griffin",
+      "opponentSlug": "25437-max-griffin",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Gladiator Challenge",
+      "eventSlug": "8128-gladiator-challenge-impulse",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-09-25T00:00:00.000Z",
+      "opponent": "Moses Lira",
+      "opponentSlug": "41539-moses-lira",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-02-04T00:00:00.000Z",
+      "opponent": "Nader Maghribi",
+      "opponentSlug": "42460-nader-maghribi",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-05-02T00:00:00.000Z",
+      "opponent": "Tony Amaya",
+      "opponentSlug": "433095-tony-amaya",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:57:35.671Z"
+}

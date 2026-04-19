@@ -1,0 +1,158 @@
+{
+  "slug": "37112-ethan-pfantz",
+  "name": "Ethan Pfantz",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 5,
+    "losses": 6,
+    "draws": 0
+  },
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1991-05-21",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/37112-ethan-pfantz",
+  "recentFights": [
+    {
+      "date": "2018-06-22T00:00:00.000Z",
+      "opponent": "Josh Kristensen",
+      "opponentSlug": "143979-josh-kristensen",
+      "result": "win",
+      "method": "sub",
+      "event": "Ascendancy FC 17",
+      "eventSlug": "53492-ascendancy-fc-17",
+      "round": 2,
+      "timeInRound": "0:42"
+    },
+    {
+      "date": "2018-05-18T00:00:00.000Z",
+      "opponent": "Victor Cabadas",
+      "opponentSlug": "75640-victor-cabadas",
+      "result": "win",
+      "method": "sub",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "52939-brutaal-genesis-fight-night-back-in-the-barn-11",
+      "round": 1,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2017-12-16T00:00:00.000Z",
+      "opponent": "Victor Cabadas",
+      "opponentSlug": "75640-victor-cabadas",
+      "result": "nc",
+      "method": "other",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "49326-brutaal-genesis-fight-night-christmas-chaos",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-23T00:00:00.000Z",
+      "opponent": "Santana Acosta",
+      "opponentSlug": "85224-santana-acosta",
+      "result": "win",
+      "method": "sub",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "47933-brutaal-genesis-fight-night-back-in-the-barn-9",
+      "round": 3,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2017-01-27T00:00:00.000Z",
+      "opponent": "Earnest Walls",
+      "opponentSlug": "132345-earnest-walls",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MCC 63",
+      "eventSlug": "42475-mcc-63",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-17T00:00:00.000Z",
+      "opponent": "Nick Brown",
+      "opponentSlug": "116541-nick-brown",
+      "result": "win",
+      "method": "sub",
+      "event": "Back In The Barn 6",
+      "eventSlug": "43256-back-in-the-barn-6",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2016-02-13T00:00:00.000Z",
+      "opponent": "David Stieneke",
+      "opponentSlug": "36074-david-stineke",
+      "result": "loss",
+      "method": "other",
+      "event": "Ascendancy FC 8",
+      "eventSlug": "37785-ascendancy-fc-8-howser-vs-muniz",
+      "round": 1,
+      "timeInRound": "0:14"
+    },
+    {
+      "date": "2015-09-25T00:00:00.000Z",
+      "opponent": "Kane Richardson",
+      "opponentSlug": "75765-kane-richardson",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Ascendancy FC 6",
+      "eventSlug": "34980-ascendancy-fc-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-07-17T00:00:00.000Z",
+      "opponent": "Tyler Mathison",
+      "opponentSlug": "90377-tyler-mathison",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Legacy FC 43",
+      "eventSlug": "32485-legacy-fc-43-krantz-vs-larson",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-04-18T00:00:00.000Z",
+      "opponent": "Jack Shreffler",
+      "opponentSlug": "50697-jack-shreffler",
+      "result": "win",
+      "method": "sub",
+      "event": "O-Town Throwdown 2",
+      "eventSlug": "32056-o-town-throwdown-ii",
+      "round": 1,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2015-01-17T00:00:00.000Z",
+      "opponent": "Austin Hancock",
+      "opponentSlug": "90528-austin-hancock",
+      "result": "loss",
+      "method": "sub",
+      "event": "WWFC 17",
+      "eventSlug": "29124-wwfc-17",
+      "round": 2,
+      "timeInRound": "2:04"
+    },
+    {
+      "date": "2012-10-20T00:00:00.000Z",
+      "opponent": "Brach Amos",
+      "opponentSlug": "37111-brach-amos",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "WWFC 9",
+      "eventSlug": "16419-wwfc-9",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T09:06:16.925Z"
+}

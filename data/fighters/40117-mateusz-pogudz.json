@@ -1,0 +1,154 @@
+{
+  "slug": "40117-mateusz-pogudz",
+  "name": "Mateusz Pogudz",
+  "nickname": "Pogi",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 174,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1988-05-03",
+  "nationality": "Poland",
+  "url": "https://www.tapology.com/fightcenter/fighters/40117-mateusz-pogudz",
+  "recentFights": [
+    {
+      "date": "2022-03-11T00:00:00.000Z",
+      "opponent": "Piotr Ćwik",
+      "opponentSlug": "293805-piotr-cwik-bubu",
+      "result": "win",
+      "method": "other",
+      "event": "Solo Combat Federation",
+      "eventSlug": "86837-solo-combat-federation",
+      "round": 3,
+      "timeInRound": "1:09"
+    },
+    {
+      "date": "2016-04-15T00:00:00.000Z",
+      "opponent": "Konrad Chałko",
+      "opponentSlug": "98362-konrad-chako",
+      "result": "win",
+      "method": "sub",
+      "event": "Legion Fight Night 2",
+      "eventSlug": "39353-legion-fight-night-2",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-12T00:00:00.000Z",
+      "opponent": "Dawid Drobina",
+      "opponentSlug": "26287-dawid-drobina",
+      "result": "loss",
+      "method": "other",
+      "event": "AFC 1: PLMMA 57",
+      "eventSlug": "32786-afc-1",
+      "round": 2,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2015-03-14T00:00:00.000Z",
+      "opponent": "Rafał Zawidzki",
+      "opponentSlug": "48160-rafal-zawidzki",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "PLMMA 51: Kalisz",
+      "eventSlug": "28541-plmma-kalisz",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-04-19T00:00:00.000Z",
+      "opponent": "Michał Szuliński",
+      "opponentSlug": "33017-michal-szulinski",
+      "result": "loss",
+      "method": "sub",
+      "event": "PLMMA 14: Extra",
+      "eventSlug": "19055-plmma-14-extra",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2013-03-15T00:00:00.000Z",
+      "opponent": "Bogdan Pawlik",
+      "opponentSlug": "57149-bogdan-pawlik",
+      "result": "win",
+      "method": "other",
+      "event": "PLMMA 12: Black Dragon",
+      "eventSlug": "20297-plmma-12-black-dragon",
+      "round": 2,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2012-12-29T00:00:00.000Z",
+      "opponent": "Robert Bryczek",
+      "opponentSlug": "26244-robert-bryczek",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "PLMMA 10: Finał 2012",
+      "eventSlug": "18238-plmma-10-2012-final",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-11-23T00:00:00.000Z",
+      "opponent": "Tomasz Michałek",
+      "opponentSlug": "66023-tomasz-michaek",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-10-20T00:00:00.000Z",
+      "opponent": "Andrey Dryapko",
+      "opponentSlug": "32641-andrei-dryapko",
+      "result": "win",
+      "method": "other",
+      "event": "PLMMA 7: MMA Cup III / Białystok",
+      "eventSlug": "18242-plmma-7-mma-cup-3-biaystok",
+      "round": 3,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2012-09-21T00:00:00.000Z",
+      "opponent": "Oskar Ślepowroński",
+      "opponentSlug": "26281-oskar-slepowronski",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-05-30T00:00:00.000Z",
+      "opponent": "Rafał Haratyk",
+      "opponentSlug": "40112-rafal-haratyk-65806-rafal-haratyk-65806",
+      "result": "loss",
+      "method": "sub",
+      "event": "Ring XF 2: Drugie Uderzenie",
+      "eventSlug": "13240-ring-xf-2-second-coming",
+      "round": 1,
+      "timeInRound": "0:57"
+    },
+    {
+      "date": "2014-10-10T00:00:00.000Z",
+      "opponent": "Krystian Arndt",
+      "opponentSlug": "82629-krystian-arnd",
+      "result": "win",
+      "method": "other",
+      "event": "PLMMA 39: Borowski vs. Dylewski",
+      "eventSlug": "24241-plmma-prusice",
+      "round": 1,
+      "timeInRound": "1:58"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:18:34.256Z"
+}

@@ -1,0 +1,339 @@
+{
+  "slug": "140389-pfl-sioux-falls",
+  "name": "PFL Sioux Falls: Storley vs. Zendeli",
+  "promotion": "Professional Fighters League",
+  "startTimeUtc": "2026-05-02T23:00:00.000Z",
+  "venueTimezone": null,
+  "venue": "Sanford Pentagon",
+  "location": "Sioux Falls, South Dakota",
+  "url": "https://www.tapology.com/fightcenter/events/140389-pfl-sioux-falls",
+  "status": "scheduled",
+  "forumThreadId": "95679",
+  "fights": [
+    {
+      "id": "140389-pfl-sioux-falls#1",
+      "eventSlug": "140389-pfl-sioux-falls",
+      "order": 1,
+      "cardSection": "main",
+      "weightClass": "170 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "109294-logan-storley-storm",
+        "name": "Logan Storley",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "257049-florim-zendeli",
+        "name": "Florim Zendeli",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:43.637Z"
+    },
+    {
+      "id": "140389-pfl-sioux-falls#2",
+      "eventSlug": "140389-pfl-sioux-falls",
+      "order": 2,
+      "cardSection": "main",
+      "weightClass": "155 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "73440-gadzhi-rabadanov",
+        "name": "Gadzhi Rabadanov",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "123467-aleksandrs-iovs",
+        "name": "Aleksandr Chizov",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:43.637Z"
+    },
+    {
+      "id": "140389-pfl-sioux-falls#3",
+      "eventSlug": "140389-pfl-sioux-falls",
+      "order": 3,
+      "cardSection": "main",
+      "weightClass": "205 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "203421-simeon-powell",
+        "name": "Simeon Powell",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "24406-emiliano-sordi",
+        "name": "Emiliano Sordi",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:43.637Z"
+    },
+    {
+      "id": "140389-pfl-sioux-falls#4",
+      "eventSlug": "140389-pfl-sioux-falls",
+      "order": 4,
+      "cardSection": "main",
+      "weightClass": "265 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "87738-renan-pobrema",
+        "name": "Renan Ferreira",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "104366-sergey-belostenniy",
+        "name": "Sergey Bilostenniy",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:43.637Z"
+    },
+    {
+      "id": "140389-pfl-sioux-falls#5",
+      "eventSlug": "140389-pfl-sioux-falls",
+      "order": 5,
+      "cardSection": "main",
+      "weightClass": "135 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "36037-magomed-magomedov",
+        "name": "Magomed Magomedov",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "19870-leandro-higo",
+        "name": "Leandro Higo",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:43.637Z"
+    },
+    {
+      "id": "140389-pfl-sioux-falls#6",
+      "eventSlug": "140389-pfl-sioux-falls",
+      "order": 6,
+      "cardSection": "main",
+      "weightClass": "125 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "284655-cheyanne-bowers",
+        "name": "Cheyanne Bowers",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "242374-sabrina-laurentina-de-sousa",
+        "name": "Sabrinna de Sousa",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:43.637Z"
+    },
+    {
+      "id": "140389-pfl-sioux-falls#7",
+      "eventSlug": "140389-pfl-sioux-falls",
+      "order": 7,
+      "cardSection": "main",
+      "weightClass": "155 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "262924-angel-alvarez",
+        "name": "Angel Alvarez",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "49264-bryce-logan",
+        "name": "Bryce Logan",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:43.637Z"
+    },
+    {
+      "id": "140389-pfl-sioux-falls#8",
+      "eventSlug": "140389-pfl-sioux-falls",
+      "order": 8,
+      "cardSection": "main",
+      "weightClass": "170 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "321930-brett-bye",
+        "name": "Brett Bye",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "369343-taylor-michels",
+        "name": "Taylor Michels",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:43.637Z"
+    },
+    {
+      "id": "140389-pfl-sioux-falls#9",
+      "eventSlug": "140389-pfl-sioux-falls",
+      "order": 9,
+      "cardSection": "main",
+      "weightClass": "145 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "150127-sang-won-kim",
+        "name": "Sang Won Kim",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "53835-humberto-bandenay",
+        "name": "Humberto Bandenay",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:43.637Z"
+    },
+    {
+      "id": "140389-pfl-sioux-falls#10",
+      "eventSlug": "140389-pfl-sioux-falls",
+      "order": 10,
+      "cardSection": "main",
+      "weightClass": "125 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "74022-taila-santos",
+        "name": "Taila Santos",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "138393-qihui-yan",
+        "name": "Qihui Yan",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:43.637Z"
+    },
+    {
+      "id": "140389-pfl-sioux-falls#11",
+      "eventSlug": "140389-pfl-sioux-falls",
+      "order": 11,
+      "cardSection": "main",
+      "weightClass": "205 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "306298-rasul-magomedov",
+        "name": "Rasul Magomedov",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "67054-rafael-xavier-kratos",
+        "name": "Rafael Xavier",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:43.637Z"
+    },
+    {
+      "id": "140389-pfl-sioux-falls#12",
+      "eventSlug": "140389-pfl-sioux-falls",
+      "order": 12,
+      "cardSection": "main",
+      "weightClass": "265 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "343664-maxwell-djantou-nana",
+        "name": "Maxwell Djantou Nana",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "215578-karl-williams",
+        "name": "Karl Williams",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:43.637Z"
+    }
+  ],
+  "lastVerified": "2026-04-19T19:09:43.637Z"
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "21804-samuel-charbonneau",
+  "name": "Samuel Charbonneau",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Montreal, Quebec, Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/21804-samuel-charbonneau",
+  "recentFights": [
+    {
+      "date": "2011-03-26T00:00:00.000Z",
+      "opponent": "David Lafond",
+      "opponentSlug": "14578-david-lafond",
+      "result": "loss",
+      "method": "sub",
+      "event": "Ringside MMA",
+      "eventSlug": "10981-ringside-mma-rising-star-2",
+      "round": 3,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2010-11-13T00:00:00.000Z",
+      "opponent": "Yohan Gariepy",
+      "opponentSlug": "21766-yohan-gariepy",
+      "result": "win",
+      "method": "other",
+      "event": "Ringside MMA 9",
+      "eventSlug": "8017-ringside-mma-9-payback",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-12-19T00:00:00.000Z",
+      "opponent": "Mandel Nallo",
+      "opponentSlug": "24751-mandell-nallo",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fightquest 10",
+      "eventSlug": "14210-fightquest-10",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:08:26.985Z"
+}

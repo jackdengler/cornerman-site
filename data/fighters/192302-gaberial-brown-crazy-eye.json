@@ -1,0 +1,209 @@
+{
+  "slug": "192302-gaberial-brown-crazy-eye",
+  "name": "Gaberial Brown",
+  "nickname": "Crazy Eye",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "2000-05-11",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/192302-gaberial-brown-crazy-eye",
+  "recentFights": [
+    {
+      "date": "2025-12-13T00:00:00.000Z",
+      "opponent": "Dee Reddick",
+      "opponentSlug": "384066-diavantae-reddick",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fight For It 26",
+      "eventSlug": "137078-fight-for-it-26",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-06-13T00:00:00.000Z",
+      "opponent": "Steve Collins",
+      "opponentSlug": "307378-steve-collins",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 210: Lawrence vs. Reyes",
+      "eventSlug": "126691-lfa-210",
+      "round": 1,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2024-11-08T00:00:00.000Z",
+      "opponent": "JaCobi Jones",
+      "opponentSlug": "216724-jakobi-jones",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 196: Tanner vs. Ureña",
+      "eventSlug": "117776-lfa-196",
+      "round": 1,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2024-04-06T00:00:00.000Z",
+      "opponent": "Georges Kopa",
+      "opponentSlug": "280048-georges-kopa",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Showcase MMA 37",
+      "eventSlug": "109374-showcase-mma-37",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-19T00:00:00.000Z",
+      "opponent": "Cory Dulaney",
+      "opponentSlug": "38412-corey-dulaney",
+      "result": "win",
+      "method": "sub",
+      "event": "Showcase MMA 33",
+      "eventSlug": "102235-showcase-mma-33",
+      "round": 1,
+      "timeInRound": "2:19"
+    },
+    {
+      "date": "2023-06-24T00:00:00.000Z",
+      "opponent": "Kevin Schroder",
+      "opponentSlug": "89963-kevin-schroder",
+      "result": "win",
+      "method": "sub",
+      "event": "Comflict MMA 58",
+      "eventSlug": "102439-comflict-mma-58-fight-night-in-the-scra",
+      "round": 1,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2023-02-18T00:00:00.000Z",
+      "opponent": "Paris Artis",
+      "opponentSlug": "36004-peter-artis",
+      "result": "loss",
+      "method": "other",
+      "event": "Fight For It 14",
+      "eventSlug": "94395-fight-for-it-14",
+      "round": 2,
+      "timeInRound": "0:42"
+    },
+    {
+      "date": "2022-08-27T00:00:00.000Z",
+      "opponent": "Tony Edgar Rogers",
+      "opponentSlug": "26188-tony-rogers",
+      "result": "win",
+      "method": "sub",
+      "event": "Showcase MMA 27",
+      "eventSlug": "90819-showcase-mma-27",
+      "round": 1,
+      "timeInRound": "2:48"
+    },
+    {
+      "date": "2022-03-05T00:00:00.000Z",
+      "opponent": "Evan Hayes",
+      "opponentSlug": "63367-evan-hayes",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Conflict MMA 50",
+      "eventSlug": "86457-conflict-mma-50",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-09T00:00:00.000Z",
+      "opponent": "Nick Campbell",
+      "opponentSlug": "165093-nick-campbell",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Showcase MMA 22",
+      "eventSlug": "81932-showcase-mma-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-29T00:00:00.000Z",
+      "opponent": "Deliverance Mpuati",
+      "opponentSlug": "128819-deliverance-mpuati",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Showcase MMA 19",
+      "eventSlug": "79185-showcase-mma-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-29T00:00:00.000Z",
+      "opponent": "Nakia Brown",
+      "opponentSlug": "204508-nakia-brown",
+      "result": "win",
+      "method": "dec-split",
+      "event": "KOTC: Fists N Fury",
+      "eventSlug": "67499-fists-n-fury",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-08T00:00:00.000Z",
+      "opponent": "Robbie Collum",
+      "opponentSlug": "92538-robbie-collum",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KOTC: Rumble on the River 3",
+      "eventSlug": "63003-kotc-rumble-on-the-river-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-08-17T00:00:00.000Z",
+      "opponent": "Alex Lewis",
+      "opponentSlug": "163943-alex-lewis",
+      "result": "nc",
+      "method": "other",
+      "event": "Showcase MMA",
+      "eventSlug": "62089-showcase-mma-greenville",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-04T00:00:00.000Z",
+      "opponent": "BillyJack Cupp",
+      "opponentSlug": "143357-billyjack-cupp",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fight For It 6",
+      "eventSlug": "60023-fight-for-it-6",
+      "round": 1,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2018-09-29T00:00:00.000Z",
+      "opponent": "Jose Gallegos",
+      "opponentSlug": "198511-jose-gallegos",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "864 Fighting Championship",
+      "eventSlug": "55672-864-fighting-championship-fight-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-21T00:00:00.000Z",
+      "opponent": "Dakota Whitt",
+      "opponentSlug": "192303-dakota-whitt-the-warning",
+      "result": "win",
+      "method": "sub",
+      "event": "864 Fighting Championship",
+      "eventSlug": "54255-864-fighting-championship-fight-5",
+      "round": 1,
+      "timeInRound": "1:20"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:39:40.167Z"
+}

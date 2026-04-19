@@ -1,0 +1,84 @@
+[
+  {
+    "slug": "142298-one-friday-fights-151",
+    "name": "ONE Friday Fights 151",
+    "promotion": "ONE",
+    "startTimeUtc": "2026-04-24T10:30:00.000Z",
+    "venueTimezone": null,
+    "location": "Bangkok, TH",
+    "mainEvent": "NF Looksuan vs. Hussain",
+    "titleFight": false,
+    "sport": "Combat Sports"
+  },
+  {
+    "slug": "135741-oktagon-87",
+    "name": "OKTAGON 87: Szabová vs. Fernandes",
+    "promotion": "OKMMA",
+    "startTimeUtc": "2026-04-25T16:00:00.000Z",
+    "venueTimezone": null,
+    "location": "Liberec, Liberec Region",
+    "mainEvent": "Szabová vs. Fernandes",
+    "titleFight": true
+  },
+  {
+    "slug": "138938-cage-warriors-205",
+    "name": "Cage Warriors 205: Burlinson vs. Clancy Jr...",
+    "promotion": "CWFC",
+    "startTimeUtc": "2026-04-25T16:00:00.000Z",
+    "venueTimezone": null,
+    "location": "Glasgow, Scotland",
+    "mainEvent": "Burlinson vs. Clancy Jr.",
+    "titleFight": true
+  },
+  {
+    "slug": "141422-hexagone-mma-series-4-le-portel",
+    "name": "Hexagone MMA Series 4: Le Portel",
+    "promotion": "HXMMA",
+    "startTimeUtc": "2026-04-25T16:00:00.000Z",
+    "venueTimezone": null,
+    "location": "Le Portel, Hauts-de-France",
+    "mainEvent": "Tekenah vs. McTurk",
+    "titleFight": false,
+    "sport": "MMA"
+  },
+  {
+    "slug": "140114-ufc-fight-night",
+    "name": "UFC Fight Night",
+    "promotion": null,
+    "startTimeUtc": "2026-04-25T21:00:00.000Z",
+    "venueTimezone": null,
+    "location": null,
+    "mainEvent": null,
+    "titleFight": false
+  },
+  {
+    "slug": "137460-one-175",
+    "name": "ONE Samurai 1",
+    "promotion": null,
+    "startTimeUtc": "2026-04-29T05:00:00.000Z",
+    "venueTimezone": null,
+    "location": null,
+    "mainEvent": null,
+    "titleFight": false
+  },
+  {
+    "slug": "140511-ufc-fight-night-della-maddalena-vs-prates",
+    "name": "UFC Fight Night",
+    "promotion": null,
+    "startTimeUtc": "2026-05-02T08:00:00.000Z",
+    "venueTimezone": null,
+    "location": null,
+    "mainEvent": null,
+    "titleFight": false
+  },
+  {
+    "slug": "140389-pfl-sioux-falls",
+    "name": "PFL Sioux Falls",
+    "promotion": null,
+    "startTimeUtc": "2026-05-02T23:00:00.000Z",
+    "venueTimezone": null,
+    "location": null,
+    "mainEvent": null,
+    "titleFight": false
+  }
+]

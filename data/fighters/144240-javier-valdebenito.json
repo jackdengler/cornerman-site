@@ -1,0 +1,187 @@
+{
+  "slug": "144240-javier-valdebenito",
+  "name": "Javier Valdebenito",
+  "nickname": "El Pantera",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "2003-02-19",
+  "nationality": "Chile",
+  "url": "https://www.tapology.com/fightcenter/fighters/144240-javier-valdebenito",
+  "recentFights": [
+    {
+      "date": "2026-04-11T00:00:00.000Z",
+      "opponent": "Nicolas Sandoval",
+      "opponentSlug": "203862-nicolas-sandoval",
+      "result": "win",
+      "method": "other",
+      "event": "Guerra Campal 9",
+      "eventSlug": "138429-guerra-campal-9",
+      "round": 1,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2025-12-06T00:00:00.000Z",
+      "opponent": "Sebastian Sandoval",
+      "opponentSlug": "491052-sebastian-sandoval",
+      "result": "win",
+      "method": "sub",
+      "event": "Guerra Campal 8",
+      "eventSlug": "136869-guerra-campal-8",
+      "round": 3,
+      "timeInRound": "3:48"
+    },
+    {
+      "date": "2025-04-05T00:00:00.000Z",
+      "opponent": "Jhonnatan García",
+      "opponentSlug": "339618-johnathan-garcia",
+      "result": "win",
+      "method": "other",
+      "event": "Guerra Campal 7",
+      "eventSlug": "124418-empire-mma-xi-guerra-campal-7",
+      "round": 2,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2024-09-13T00:00:00.000Z",
+      "opponent": "Ivan Santos",
+      "opponentSlug": "358988-ivan-santos-o-terrivel",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Empire MMA 9",
+      "eventSlug": "116243-empire-mma-ix",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-06T00:00:00.000Z",
+      "opponent": "Javier Balladares",
+      "opponentSlug": "387648-javier-valladares",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Open Fight Latam 8",
+      "eventSlug": "110727-open-fight-latam",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-02T00:00:00.000Z",
+      "opponent": "Ernesto Ibarra",
+      "opponentSlug": "109896-ernesto-ibarra",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combate Global",
+      "eventSlug": "107955-combate-globa",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-29T00:00:00.000Z",
+      "opponent": "Gabriel Moyano",
+      "opponentSlug": "314440-gabriel-moyano",
+      "result": "win",
+      "method": "other",
+      "event": "Open Fight Latam 5",
+      "eventSlug": "102765-open-fight-latam",
+      "round": 1,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2023-03-18T00:00:00.000Z",
+      "opponent": "Roque Conceição",
+      "opponentSlug": "145239-roque-junior",
+      "result": "loss",
+      "method": "other",
+      "event": "Ragnarok Combate 5",
+      "eventSlug": "98573-ragnarok-combate-5",
+      "round": 2,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2022-12-03T00:00:00.000Z",
+      "opponent": "Lucas Silva",
+      "opponentSlug": "185610-lucas-silva",
+      "result": "win",
+      "method": "other",
+      "event": "Open Fight Chile 2",
+      "eventSlug": "96009-open-fight-chile-2",
+      "round": 3,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2022-10-29T00:00:00.000Z",
+      "opponent": "Francisco Angelini",
+      "opponentSlug": "114534-francisco-angelini",
+      "result": "win",
+      "method": "other",
+      "event": "Ragnarok Combate 3",
+      "eventSlug": "94005-ragnarok-combate-3",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-10-14T00:00:00.000Z",
+      "opponent": "Henry Beltran",
+      "opponentSlug": "96331-henry-beltran",
+      "result": "loss",
+      "method": "other",
+      "event": "Combate Global",
+      "eventSlug": "93843-combate",
+      "round": 1,
+      "timeInRound": "1:42"
+    },
+    {
+      "date": "2022-08-26T00:00:00.000Z",
+      "opponent": "Emmanuel Berumen",
+      "opponentSlug": "187851-emmanuel-berumen",
+      "result": "loss",
+      "method": "sub",
+      "event": "Combate Global",
+      "eventSlug": "92471-combate-global",
+      "round": 1,
+      "timeInRound": "3:15"
+    },
+    {
+      "date": "2022-08-06T00:00:00.000Z",
+      "opponent": "Alex Sepulveda",
+      "opponentSlug": "148044-alex-ignacio-sepulveda-rodriguez",
+      "result": "win",
+      "method": "tko",
+      "event": "Atacama Warriors League",
+      "eventSlug": "92016-atacama-warriors-league",
+      "round": 3,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2022-04-30T00:00:00.000Z",
+      "opponent": "Mario Rodriguez",
+      "opponentSlug": "336414-mario-rodriguez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Team Bahamondes MMA",
+      "eventSlug": "89185-team-bahamondes-mma",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-12T00:00:00.000Z",
+      "opponent": "Matias Valdes",
+      "opponentSlug": "144239-matias-valdes",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Guerra Campal 3",
+      "eventSlug": "42532-guerra-campal-3",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:36:34.175Z"
+}

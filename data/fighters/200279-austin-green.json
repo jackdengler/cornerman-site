@@ -1,0 +1,176 @@
+{
+  "slug": "200279-austin-green",
+  "name": "Austin Green",
+  "nickname": "The Bodyguard",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 196,
+  "reachCm": 210,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1993-08-23",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/200279-austin-green",
+  "recentFights": [
+    {
+      "date": "2025-11-21T00:00:00.000Z",
+      "opponent": "Joel Faglier",
+      "opponentSlug": "215576-joel-faglier",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fury Challenger Series 15",
+      "eventSlug": "135428-fury-challenger-series-15",
+      "round": 1,
+      "timeInRound": "3:06"
+    },
+    {
+      "date": "2025-09-13T00:00:00.000Z",
+      "opponent": "RJ Harris",
+      "opponentSlug": "382864-rj-harris",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Caged Thunder 34",
+      "eventSlug": "130291-caged-thunder-34",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-17T00:00:00.000Z",
+      "opponent": "Demoreo Dennis",
+      "opponentSlug": "34500-demoreo-dennis",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Fury FC 83: Holmes vs. McLaughlin",
+      "eventSlug": "103192-fury-fc-83",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-18T00:00:00.000Z",
+      "opponent": "Mario Moore",
+      "opponentSlug": "131884-mario-moore",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fury FC 72: Van vs. McLean",
+      "eventSlug": "94512-fury-fc-72",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-23T00:00:00.000Z",
+      "opponent": "Cameron Graham",
+      "opponentSlug": "191262-cameron-graham",
+      "result": "win",
+      "method": "sub",
+      "event": "NFC 149: Battle at the Brewery",
+      "eventSlug": "92953-nfc-149-battle-at-the-brewery",
+      "round": 3,
+      "timeInRound": "2:33"
+    },
+    {
+      "date": "2022-05-07T00:00:00.000Z",
+      "opponent": "Antwan Phillips",
+      "opponentSlug": "44519-antwan-phillips",
+      "result": "win",
+      "method": "other",
+      "event": "B2 Fighting Series 160",
+      "eventSlug": "87131-b2-fighting-series-160-duluth-georgia",
+      "round": 1,
+      "timeInRound": "0:21"
+    },
+    {
+      "date": "2021-12-03T00:00:00.000Z",
+      "opponent": "Cody Miskell",
+      "opponentSlug": "60446-cody-miskell",
+      "result": "win",
+      "method": "tko",
+      "event": "B2 Fighting Series 141",
+      "eventSlug": "81789-b2-fighting-series-142-kentucky-lexington-night-one-friday",
+      "round": 1,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2021-10-02T00:00:00.000Z",
+      "opponent": "Chris Miles",
+      "opponentSlug": "189362-chris-miles",
+      "result": "win",
+      "method": "other",
+      "event": "B2 Fighting Series 135",
+      "eventSlug": "81587-b2-fighting-series-136-west-virginia",
+      "round": 1,
+      "timeInRound": "4:40"
+    },
+    {
+      "date": "2021-02-06T00:00:00.000Z",
+      "opponent": "AJ Mattia",
+      "opponentSlug": "115919-aj-mattia",
+      "result": "win",
+      "method": "other",
+      "event": "HR MMA 117",
+      "eventSlug": "74312-hr-mma-117",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-01-25T00:00:00.000Z",
+      "opponent": "Brandon Calton",
+      "opponentSlug": "79735-brandon-calton",
+      "result": "loss",
+      "method": "tko",
+      "event": "Showcase MMA 11",
+      "eventSlug": "64641-showcase-mma-11",
+      "round": 2,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2019-06-29T00:00:00.000Z",
+      "opponent": "Erick Hastings",
+      "opponentSlug": "227733-erick-hastings-thor",
+      "result": "loss",
+      "method": "other",
+      "event": "HR MMA 109: Summer Series 2019",
+      "eventSlug": "60019-hr-mma-109",
+      "round": 1,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2019-03-09T00:00:00.000Z",
+      "opponent": "Michael Taylor",
+      "opponentSlug": "212515-michael-taylor",
+      "result": "win",
+      "method": "other",
+      "event": "HR MMA 106: Ward vs Jones",
+      "eventSlug": "56876-hr-mma-106",
+      "round": 1,
+      "timeInRound": "0:20"
+    },
+    {
+      "date": "2019-02-02T00:00:00.000Z",
+      "opponent": "Koree Stewart",
+      "opponentSlug": "198347-koree-stewart",
+      "result": "win",
+      "method": "other",
+      "event": "HR MMA 105",
+      "eventSlug": "56875-hr-mma-105",
+      "round": 3,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2018-11-30T00:00:00.000Z",
+      "opponent": "Miles Mims",
+      "opponentSlug": "200280-miles-mims",
+      "result": "win",
+      "method": "other",
+      "event": "Hardrock MMA 104",
+      "eventSlug": "55384-hardrock-mma-104-10-year-anniversary-event",
+      "round": 1,
+      "timeInRound": "2:47"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:40:02.563Z"
+}

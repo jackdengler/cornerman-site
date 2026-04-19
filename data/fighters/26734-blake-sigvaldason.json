@@ -1,0 +1,198 @@
+{
+  "slug": "26734-blake-sigvaldason",
+  "name": "Blake Sigvaldason",
+  "nickname": "The Northman",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1994-01-01",
+  "nationality": "Thornhill, British Columbia, Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/26734-blake-sigvaldason",
+  "recentFights": [
+    {
+      "date": "2023-03-18T00:00:00.000Z",
+      "opponent": "Tyler Wilson",
+      "opponentSlug": "28440-tyler-wilson",
+      "result": "loss",
+      "method": "sub",
+      "event": "BTC 19: Fight Night Kingston",
+      "eventSlug": "95166-btc-19",
+      "round": 1,
+      "timeInRound": "0:31"
+    },
+    {
+      "date": "2022-12-01T00:00:00.000Z",
+      "opponent": "Oguzhan Yalcin",
+      "opponentSlug": "216129-ozhan-yalcin",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "BFL 75",
+      "eventSlug": "95547-bfl-75",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-13T00:00:00.000Z",
+      "opponent": "Josh Kwiatkowski",
+      "opponentSlug": "118291-josh-kwiatkowski",
+      "result": "loss",
+      "method": "other",
+      "event": "Rise FC 6: Fighting the Stigma",
+      "eventSlug": "75162-rise-fc-6",
+      "round": 2,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2019-07-27T00:00:00.000Z",
+      "opponent": "Jamie Siraj",
+      "opponentSlug": "35361-jamie-siraj-the-gremlin",
+      "result": "loss",
+      "method": "tko",
+      "event": "Rise FC 4",
+      "eventSlug": "60140-rise-fc-4",
+      "round": 1,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2019-03-15T00:00:00.000Z",
+      "opponent": "Michael Imperato",
+      "opponentSlug": "22457-michael-imperato",
+      "result": "win",
+      "method": "other",
+      "event": "XFFC 21: Locked and Loaded",
+      "eventSlug": "57793-xffc-21-locked-and-loaded",
+      "round": 2,
+      "timeInRound": "3:23"
+    },
+    {
+      "date": "2018-12-14T00:00:00.000Z",
+      "opponent": "Daryl St. Rose",
+      "opponentSlug": "156788-daryl-st-rose",
+      "result": "win",
+      "method": "sub",
+      "event": "XFFC 20: Festival of Fists 3",
+      "eventSlug": "55055-xffc-20-2xcessive",
+      "round": 2,
+      "timeInRound": "3:06"
+    },
+    {
+      "date": "2018-07-21T00:00:00.000Z",
+      "opponent": "Robert Nelson",
+      "opponentSlug": "41027-robert-nelson",
+      "result": "win",
+      "method": "sub",
+      "event": "XFFC 18: Diablo Fight Series",
+      "eventSlug": "52223-xffc-18-diablo-fight-series",
+      "round": 1,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2017-06-24T00:00:00.000Z",
+      "opponent": "Craig Maclean",
+      "opponentSlug": "18134-craig-mclean",
+      "result": "loss",
+      "method": "other",
+      "event": "BFL 49",
+      "eventSlug": "46423-bfl-49",
+      "round": 1,
+      "timeInRound": "3:04"
+    },
+    {
+      "date": "2016-09-17T00:00:00.000Z",
+      "opponent": "Tylor Nicholson",
+      "opponentSlug": "30141-tyler-nicholson",
+      "result": "loss",
+      "method": "sub",
+      "event": "BFL 45: Ascension",
+      "eventSlug": "41391-bfl-45",
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2016-03-12T00:00:00.000Z",
+      "opponent": "Taylor Christopher",
+      "opponentSlug": "63425-taylor-christopher",
+      "result": "loss",
+      "method": "tko",
+      "event": "BFL 42: Harriott vs. Anderson II",
+      "eventSlug": "38556-bfl-42-harriott-vs-anderson-ii",
+      "round": 2,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2015-09-11T00:00:00.000Z",
+      "opponent": "Alex Bains",
+      "opponentSlug": "37973-alex-bains",
+      "result": "win",
+      "method": "dec-split",
+      "event": "BFL 38: Bad Blood",
+      "eventSlug": "34431-bfl-38",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-05-30T00:00:00.000Z",
+      "opponent": "Paul Kane",
+      "opponentSlug": "44868-paul-kane",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "BFL 36: Blood Brothers",
+      "eventSlug": "31883-bfl-36",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-05-10T00:00:00.000Z",
+      "opponent": "Gordon Hanson",
+      "opponentSlug": "65788-gordon-hanson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hard Knocks 36",
+      "eventSlug": "22329-hard-knocks-36",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-01-17T00:00:00.000Z",
+      "opponent": "Ashmat Bashir",
+      "opponentSlug": "52600-ashmat-bashir",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Hard Knocks 34",
+      "eventSlug": "21379-hard-knocks-34",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-02-08T00:00:00.000Z",
+      "opponent": "Louie Grover",
+      "opponentSlug": "20369-louie-grover",
+      "result": "loss",
+      "method": "sub",
+      "event": "Hard Knocks 30",
+      "eventSlug": "16704-hard-knocks-30",
+      "round": 2,
+      "timeInRound": "0:55"
+    },
+    {
+      "date": "2012-05-25T00:00:00.000Z",
+      "opponent": "Keegan Oliver",
+      "opponentSlug": "20384-keegan-oliver",
+      "result": "loss",
+      "method": "sub",
+      "event": "Hard Knocks 23",
+      "eventSlug": "12978-hard-knocks-23-calgary",
+      "round": 3,
+      "timeInRound": "2:06"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:04:38.432Z"
+}

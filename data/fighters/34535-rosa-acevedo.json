@@ -1,0 +1,187 @@
+{
+  "slug": "34535-rosa-acevedo",
+  "name": "Rosa Acevedo",
+  "nickname": "Rollie",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 158,
+  "reachCm": null,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": "1988-06-05",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/34535-rosa-acevedo",
+  "recentFights": [
+    {
+      "date": "2019-03-29T00:00:00.000Z",
+      "opponent": "Hilarie Rose",
+      "opponentSlug": "87574-hillary-rose",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "CES 55: Wells vs. de Jesus",
+      "eventSlug": "58799-ces-55",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-10-14T00:00:00.000Z",
+      "opponent": "Lacey Schuckman",
+      "opponentSlug": "lacey-schuckman-the-ladie",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "SCL 62: Unbroken",
+      "eventSlug": "47507-scl-62",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-02-25T00:00:00.000Z",
+      "opponent": "Brittany Horton",
+      "opponentSlug": "20764-brittany-horton",
+      "result": "win",
+      "method": "other",
+      "event": "Legion Combat 24",
+      "eventSlug": "43674-legion-combat-24",
+      "round": 1,
+      "timeInRound": "2:39"
+    },
+    {
+      "date": "2015-09-12T00:00:00.000Z",
+      "opponent": "JJ Aldrich",
+      "opponentSlug": "28420-jj-aldrich",
+      "result": "loss",
+      "method": "other",
+      "event": "Invicta FC 14",
+      "eventSlug": "34029-invicta-fc-14-souza-vs-grasso",
+      "round": 1,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2015-02-21T00:00:00.000Z",
+      "opponent": "Amanda Lovato",
+      "opponentSlug": "60670-amanda-lovato",
+      "result": "win",
+      "method": "sub",
+      "event": "Legion Combat 20",
+      "eventSlug": "29508-legion-combat-20-homecoming",
+      "round": 2,
+      "timeInRound": "3:20"
+    },
+    {
+      "date": "2014-06-06T00:00:00.000Z",
+      "opponent": "Kyra Batara",
+      "opponentSlug": "39907-kyra-batara-mogwai",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "RFA 15: Casey vs. Sanchez",
+      "eventSlug": "24336-rfa-15-casey-vs-sanchez",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-04-11T00:00:00.000Z",
+      "opponent": "Jocelyn Jones-Lybarger",
+      "opponentSlug": "27978-jocelyn-lybarger-lights-out",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "RFA 14: Manzanares vs. Maranhão",
+      "eventSlug": "23273-rfa-14-manzanares-vs-higo",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-01T00:00:00.000Z",
+      "opponent": "Sharice Davids",
+      "opponentSlug": "64038-sharice-davids",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Legion Combat 18",
+      "eventSlug": "22896-legion-combat-18-purgatory",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-05-11T00:00:00.000Z",
+      "opponent": "Katie Moerke",
+      "opponentSlug": "30685-katie-moerke",
+      "result": "win",
+      "method": "sub",
+      "event": "Kickdown 108",
+      "eventSlug": "18855-kickdown-108-munoz-vs-williams",
+      "round": 1,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2013-02-16T00:00:00.000Z",
+      "opponent": "Devin Rousseau",
+      "opponentSlug": "113875-devin-rousseau",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-12-08T00:00:00.000Z",
+      "opponent": "Zuhey Quezada",
+      "opponentSlug": "113876-zuhey-quezada",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-10-06T00:00:00.000Z",
+      "opponent": "David Morrison",
+      "opponentSlug": "85568-dj-morrison",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Rise of Champions",
+      "eventSlug": "35450-rise-of-champions",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-09-22T00:00:00.000Z",
+      "opponent": "Staci Vega",
+      "opponentSlug": "28413-stacey-vega",
+      "result": "win",
+      "method": "tko",
+      "event": "Kickdown 103",
+      "eventSlug": "15821-kickdown-103-wizards",
+      "round": 2,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2012-08-11T00:00:00.000Z",
+      "opponent": "Zuhey Quezada",
+      "opponentSlug": "113876-zuhey-quezada",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-05-12T00:00:00.000Z",
+      "opponent": "Denice Miller",
+      "opponentSlug": "113877-denise-miller",
+      "result": "win",
+      "method": "sub",
+      "event": "Women's FC 1",
+      "eventSlug": "13914-women-s-fc-1",
+      "round": 1,
+      "timeInRound": "1:02"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:01:40.390Z"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "119265-bobby-molnair",
+  "name": "Bobby Molnair",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/119265-bobby-molnair",
+  "recentFights": [
+    {
+      "date": "2016-01-23T00:00:00.000Z",
+      "opponent": "Youssef Zalal",
+      "opponentSlug": "110826-youssef-zalaal",
+      "result": "loss",
+      "method": "sub",
+      "event": "SCL 47: Rumble at the Rose",
+      "eventSlug": "37640-scl-47-rumble-at-the-rose",
+      "round": 2,
+      "timeInRound": "1:27"
+    },
+    {
+      "date": "2015-11-14T00:00:00.000Z",
+      "opponent": "Matt Foster",
+      "opponentSlug": "68773-matt-foster",
+      "result": "win",
+      "method": "other",
+      "event": "SCL 46: Fahr Too Strong",
+      "eventSlug": "36678-scl-46-fahr-too-strong",
+      "round": 1,
+      "timeInRound": "2:16"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:33:02.988Z"
+}

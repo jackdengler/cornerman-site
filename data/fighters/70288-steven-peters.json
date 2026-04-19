@@ -1,0 +1,59 @@
+{
+  "slug": "70288-steven-peters",
+  "name": "Steven Peters",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/70288-steven-peters",
+  "recentFights": [
+    {
+      "date": "2016-03-12T00:00:00.000Z",
+      "opponent": "Sean Mahany",
+      "opponentSlug": "37552-sean-mahany",
+      "result": "win",
+      "method": "sub",
+      "event": "WSOF 29: Gaethje vs. Foster",
+      "eventSlug": "37736-wsof-29-gaethje-vs-foster",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-22T00:00:00.000Z",
+      "opponent": "Youssef Zalal",
+      "opponentSlug": "110826-youssef-zalaal",
+      "result": "loss",
+      "method": "other",
+      "event": "SCL 43: Rumble on the Mountain",
+      "eventSlug": "34762-scl-rumble-on-the-mountain",
+      "round": 2,
+      "timeInRound": "0:20"
+    },
+    {
+      "date": "2014-04-26T00:00:00.000Z",
+      "opponent": "Steven Constable",
+      "opponentSlug": "70287-steven-constable",
+      "result": "win",
+      "method": "sub",
+      "event": "SCL: Fight For The Troops",
+      "eventSlug": "24362-scl-fight-for-the-troops-1pm-show",
+      "round": 1,
+      "timeInRound": "1:13"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:33:07.675Z"
+}

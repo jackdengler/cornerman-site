@@ -1,0 +1,191 @@
+{
+  "slug": "353203-jeffrey-tuley-whiplash",
+  "name": "Jeffrey Tuley",
+  "nickname": "Whiplash",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 7,
+    "losses": 8,
+    "draws": 0
+  },
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "2001-01-06",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/353203-jeffrey-tuley-whiplash",
+  "recentFights": [
+    {
+      "date": "2026-02-07T00:00:00.000Z",
+      "opponent": "Derek Chumley",
+      "opponentSlug": "489063-derek-chumley",
+      "result": "loss",
+      "method": "other",
+      "event": "GE Fights: Winter Storm",
+      "eventSlug": "134557-ge-fights-winter-storm",
+      "round": 3,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2025-10-18T00:00:00.000Z",
+      "opponent": "Julian Nieto",
+      "opponentSlug": "393152-julien-nieto",
+      "result": "loss",
+      "method": "other",
+      "event": "Caged Aggression 40",
+      "eventSlug": "127056-caged-aggression-40-the-big-show-night-2",
+      "round": 2,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2025-06-28T00:00:00.000Z",
+      "opponent": "Matt Brooks",
+      "opponentSlug": "505514-matt-brooks",
+      "result": "win",
+      "method": "other",
+      "event": "Caged Aggression Challengers 8",
+      "eventSlug": "127054-caged-aggression-challengers-8-road-to-the-big-show",
+      "round": 1,
+      "timeInRound": "2:37"
+    },
+    {
+      "date": "2025-05-03T00:00:00.000Z",
+      "opponent": "Jay Curry",
+      "opponentSlug": "373360-jay-curry",
+      "result": "win",
+      "method": "sub",
+      "event": "GE Fights 57",
+      "eventSlug": "120521-ge-fights-road-2-victory",
+      "round": 2,
+      "timeInRound": "1:11"
+    },
+    {
+      "date": "2025-03-22T00:00:00.000Z",
+      "opponent": "Brenden Kenter",
+      "opponentSlug": "332488-brenden-kenter",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Caged Aggression 39",
+      "eventSlug": "121273-caged-aggression-39-the-triad-night-3-ascendance",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-10-11T00:00:00.000Z",
+      "opponent": "Mark Anthony",
+      "opponentSlug": "314784-mark-anthony",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Caged Aggression 38",
+      "eventSlug": "116509-caged-aggression-38-retaliation-night-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-10T00:00:00.000Z",
+      "opponent": "Ethan Williams",
+      "opponentSlug": "374021-ethan-williams",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Knuckled Up Promotions",
+      "eventSlug": "109361-knuckled-up-promotions",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-20T00:00:00.000Z",
+      "opponent": "Hector Salazar",
+      "opponentSlug": "395875-hector-salazar",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Maximus 11",
+      "eventSlug": "111079-maximus-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-23T00:00:00.000Z",
+      "opponent": "Carter Stone",
+      "opponentSlug": "433688-carter-stone",
+      "result": "win",
+      "method": "other",
+      "event": "Caged Aggression 37",
+      "eventSlug": "109342-caged-aggression-37-path-to-glory-night-2",
+      "round": 2,
+      "timeInRound": "0:59"
+    },
+    {
+      "date": "2023-10-14T00:00:00.000Z",
+      "opponent": "Noah Harrell",
+      "opponentSlug": "290925-noa-harrell",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Caged Aggression 36",
+      "eventSlug": "103396-caged-aggression-36-bad-blood-night-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-04-21T00:00:00.000Z",
+      "opponent": "Noah Gasho",
+      "opponentSlug": "348174-noah-gasho",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 157: Croden vs. Cavalcanti",
+      "eventSlug": "98777-lfa-157-croden-vs-cavalcanti",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-24T00:00:00.000Z",
+      "opponent": "Moy Medina",
+      "opponentSlug": "339310-moy-medina",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Caged Aggression 35",
+      "eventSlug": "92881-caged-aggression-35-the-trilogy-night-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-01-06T00:00:00.000Z",
+      "opponent": "Dalton Mourton",
+      "opponentSlug": "369373-dalton-mourton",
+      "result": "win",
+      "method": "other",
+      "event": "True Revelation 50",
+      "eventSlug": "94910-true-revelation-50",
+      "round": 1,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2022-11-05T00:00:00.000Z",
+      "opponent": "Isaiah Benjamin",
+      "opponentSlug": "339315-isaiah-benjamin",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "B2 Fighting Series 177",
+      "eventSlug": "93110-b2-fighting-series-177-iowa",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-10-15T00:00:00.000Z",
+      "opponent": "Brannon Samuelson",
+      "opponentSlug": "335723-brannon-samuelson",
+      "result": "win",
+      "method": "sub",
+      "event": "Caged Aggression 34",
+      "eventSlug": "91653-caged-aggression-34-domination-night-2",
+      "round": 1,
+      "timeInRound": "1:08"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:42:38.012Z"
+}

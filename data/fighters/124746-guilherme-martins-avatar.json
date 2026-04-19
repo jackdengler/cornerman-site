@@ -1,0 +1,33 @@
+{
+  "slug": "124746-guilherme-martins-avatar",
+  "name": "Guilherme Martins",
+  "nickname": "Avatar",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/124746-guilherme-martins-avatar",
+  "recentFights": [
+    {
+      "date": "2015-12-17T00:00:00.000Z",
+      "opponent": "Kevin Christian",
+      "opponentSlug": "124745-kevin-christian",
+      "result": "loss",
+      "method": "other",
+      "event": "Mr. Cage 20",
+      "eventSlug": "37312-mr-cage-20",
+      "round": 1,
+      "timeInRound": "4:31"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:17:10.906Z"
+}

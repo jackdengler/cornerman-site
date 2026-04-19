@@ -1,0 +1,242 @@
+{
+  "slug": "302828-eduardo-castro-jacarezinho",
+  "name": "Eduardo Castro",
+  "nickname": "Jacarezinho",
+  "aliases": [],
+  "recordPro": {
+    "wins": 14,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 169,
+  "reachCm": 168,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "2002-09-17",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/302828-eduardo-castro-jacarezinho",
+  "recentFights": [
+    {
+      "date": "2025-04-15T00:00:00.000Z",
+      "opponent": "Yan Ferraz",
+      "opponentSlug": "121456-yan-ferraz",
+      "result": "win",
+      "method": "other",
+      "event": "Itapiranga Fight 1",
+      "eventSlug": "126712-itapiranga-fight-1",
+      "round": 3,
+      "timeInRound": "4:45"
+    },
+    {
+      "date": "2024-12-07T00:00:00.000Z",
+      "opponent": "Rodrigo de Moura",
+      "opponentSlug": "229445-rodrigo-sobrinho-de-moura-muralha",
+      "result": "win",
+      "method": "other",
+      "event": "Mr. Cage 51",
+      "eventSlug": "122563-mr-cage-51",
+      "round": 1,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2024-07-29T00:00:00.000Z",
+      "opponent": "Francisco Neves",
+      "opponentSlug": "237355-francisco-neves",
+      "result": "win",
+      "method": "sub",
+      "event": "Coari Champions 6",
+      "eventSlug": "115767-coari-champions-6",
+      "round": 1,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2024-07-06T00:00:00.000Z",
+      "opponent": "Gabriel Rodrigues",
+      "opponentSlug": "189769-gabriel-rodrigues-maizena",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Mr. Cage 50",
+      "eventSlug": "114364-mr-cage-50",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-30T00:00:00.000Z",
+      "opponent": "Lucas Mendes",
+      "opponentSlug": "225740-lucas-mendes",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Open Extreme Manaus",
+      "eventSlug": "111541-open-extreme-manaus-festival-cultural",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-10-21T00:00:00.000Z",
+      "opponent": "Matheus Kokama",
+      "opponentSlug": "345673-matheus-kokama",
+      "result": "win",
+      "method": "sub",
+      "event": "Open Extreme Manaus 11",
+      "eventSlug": "107315-open-extreme-manaus-4",
+      "round": 1,
+      "timeInRound": "4:39"
+    },
+    {
+      "date": "2023-04-28T00:00:00.000Z",
+      "opponent": "André Domingues",
+      "opponentSlug": "118146-andr-domingues",
+      "result": "loss",
+      "method": "sub",
+      "event": "Shooto Brasil 117",
+      "eventSlug": "97888-shooto-brasil-117",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-16T00:00:00.000Z",
+      "opponent": "Matheus Malta",
+      "opponentSlug": "106052-matheus-malta",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Shooto Brasil 114",
+      "eventSlug": "94866-shooto-brasil-114",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-10-06T00:00:00.000Z",
+      "opponent": "Rodrigo de Moura",
+      "opponentSlug": "229445-rodrigo-sobrinho-de-moura-muralha",
+      "result": "loss",
+      "method": "other",
+      "event": "Mr. Cage 45",
+      "eventSlug": "93451-mr-cage-45",
+      "round": 1,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2022-09-16T00:00:00.000Z",
+      "opponent": "David Souza",
+      "opponentSlug": "114239-deivid-souza-rock",
+      "result": "win",
+      "method": "sub",
+      "event": "Mega Fight Champions",
+      "eventSlug": "93104-mega-fight-champions-25-anos-etapa-final",
+      "round": 2,
+      "timeInRound": "4:25"
+    },
+    {
+      "date": "2022-09-08T00:00:00.000Z",
+      "opponent": "Nyldean Paes",
+      "opponentSlug": "206161-nyldean-paes-boda",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Mr. Cage 44",
+      "eventSlug": "92037-mr-cage-44",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-08T00:00:00.000Z",
+      "opponent": "Antônio César",
+      "opponentSlug": "317376-antonio-cesar-the-flash",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Mr. Cage 44",
+      "eventSlug": "92037-mr-cage-44",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-02T00:00:00.000Z",
+      "opponent": "Lucas Rocha",
+      "opponentSlug": "192343-lucas-rocha-fenomeno",
+      "result": "loss",
+      "method": "tko",
+      "event": "Coari Champions 4",
+      "eventSlug": "91588-coari-champions-4",
+      "round": 2,
+      "timeInRound": "0:40"
+    },
+    {
+      "date": "2022-07-08T00:00:00.000Z",
+      "opponent": "Wiverton Carvalho",
+      "opponentSlug": "224280-wiverton-deck",
+      "result": "win",
+      "method": "sub",
+      "event": "Mega Fight Champions",
+      "eventSlug": "90461-mega-fight-champions-25-anos-7-rodada",
+      "round": 1,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2022-06-19T00:00:00.000Z",
+      "opponent": "Jhonata Peres",
+      "opponentSlug": "180482-jhonata-de-souza-showtime",
+      "result": "win",
+      "method": "sub",
+      "event": "Jungle Fight 108",
+      "eventSlug": "89737-jungle-fight-108",
+      "round": 1,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2022-05-20T00:00:00.000Z",
+      "opponent": "Julianno Arcanjo",
+      "opponentSlug": "173565-julianno-arcanjo-striker-man",
+      "result": "win",
+      "method": "sub",
+      "event": "Mega Fight Champions",
+      "eventSlug": "89991-mega-fight-champions-25-anos-5-rodada",
+      "round": 1,
+      "timeInRound": "0:43"
+    },
+    {
+      "date": "2022-05-07T00:00:00.000Z",
+      "opponent": "Giliarde da Silva",
+      "opponentSlug": "49164-gilliard-da-silva-wolverine",
+      "result": "win",
+      "method": "other",
+      "event": "Zona Leste Fight 3",
+      "eventSlug": "89973-zlf-zona-leste-fight-3",
+      "round": 1,
+      "timeInRound": "3:34"
+    },
+    {
+      "date": "2021-10-21T00:00:00.000Z",
+      "opponent": "Klinger Pinheiro",
+      "opponentSlug": "106010-klinger-pinheiro-ferreira",
+      "result": "win",
+      "method": "other",
+      "event": "Estrada Shooto Brasil",
+      "eventSlug": "82788-road-shooto-brasil",
+      "round": 1,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2021-07-24T00:00:00.000Z",
+      "opponent": "Solano Silva",
+      "opponentSlug": "231241-solano-silva-snipe",
+      "result": "win",
+      "method": "sub",
+      "event": "CAMMA-AM Fight 2",
+      "eventSlug": "81135-camma-am-fight-2",
+      "round": 1,
+      "timeInRound": "3:10"
+    },
+    {
+      "date": "2019-08-31T00:00:00.000Z",
+      "opponent": "Lucas Mendes",
+      "opponentSlug": "225740-lucas-mendes",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Arena Fight 8",
+      "eventSlug": "81136-arena-fight-8",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:56:04.091Z"
+}

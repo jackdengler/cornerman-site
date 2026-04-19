@@ -1,0 +1,77 @@
+{
+  "slug": "61375-demagio-smith",
+  "name": "Demagio Smith",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1990-02-12",
+  "nationality": "St. Louis, Missouri",
+  "url": "https://www.tapology.com/fightcenter/fighters/61375-demagio-smith",
+  "recentFights": [
+    {
+      "date": "2022-07-29T00:00:00.000Z",
+      "opponent": "Gauge Young",
+      "opponentSlug": "213571-gauge-young",
+      "result": "loss",
+      "method": "other",
+      "event": "FAC 15",
+      "eventSlug": "89815-fac-15",
+      "round": 1,
+      "timeInRound": "1:27"
+    },
+    {
+      "date": "2021-06-25T00:00:00.000Z",
+      "opponent": "Derik Scott",
+      "opponentSlug": "116506-derik-scott",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shamrock FC 330",
+      "eventSlug": "79971-shamrock-fc-330",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-21T00:00:00.000Z",
+      "opponent": "Montoyia Swilling",
+      "opponentSlug": "39568-monty-swilling",
+      "result": "win",
+      "method": "sub",
+      "event": "Shamrock FC",
+      "eventSlug": "29231-shamrock-fc-showdown",
+      "round": 1,
+      "timeInRound": "2:17"
+    },
+    {
+      "date": "2014-12-06T00:00:00.000Z",
+      "opponent": "CJay Hunter",
+      "opponentSlug": "44992-cj-hunter",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-01-18T00:00:00.000Z",
+      "opponent": "Daniel Jefferson",
+      "opponentSlug": "61376-daniel-jefferson",
+      "result": "win",
+      "method": "sub",
+      "event": "Shamrock FC",
+      "eventSlug": "21931-shamrock-fc-demolition",
+      "round": 3,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:12:16.114Z"
+}

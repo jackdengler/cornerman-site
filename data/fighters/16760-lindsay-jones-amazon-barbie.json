@@ -1,0 +1,70 @@
+{
+  "slug": "16760-lindsay-jones-amazon-barbie",
+  "name": "Lindsay Jones",
+  "nickname": "Amazon Barbie",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/16760-lindsay-jones-amazon-barbie",
+  "recentFights": [
+    {
+      "date": "2014-03-29T00:00:00.000Z",
+      "opponent": "Michelle Williamson",
+      "opponentSlug": "63675-michelle-williamson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Triple A MMA 5",
+      "eventSlug": "22766-triple-a-mma-v-redemption-at-the-rock",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-06-02T00:00:00.000Z",
+      "opponent": "JJ Aldrich",
+      "opponentSlug": "28420-jj-aldrich",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Jackson's MMA Series 8",
+      "eventSlug": "13849-jacksons-mma-series-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-08-20T00:00:00.000Z",
+      "opponent": "Shannon Sinn",
+      "opponentSlug": "16758-shannon-culpepper",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ROF 41: Bragging Rights!",
+      "eventSlug": "10396-ring-of-fire-41-bragging-rights",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-08-06T00:00:00.000Z",
+      "opponent": "Jenny Yum",
+      "opponentSlug": "85133-jenny-yum",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:01:58.897Z"
+}

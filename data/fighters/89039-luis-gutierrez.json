@@ -1,0 +1,125 @@
+{
+  "slug": "89039-luis-gutierrez",
+  "name": "Luis Gutierrez",
+  "nickname": "El Destructor",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 6,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": 172,
+  "reachCm": 183,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1989-06-21",
+  "nationality": "Granada, Nicaragua",
+  "url": "https://www.tapology.com/fightcenter/fighters/89039-luis-gutierrez",
+  "recentFights": [
+    {
+      "date": "2019-10-04T00:00:00.000Z",
+      "opponent": "Mauricio Partida",
+      "opponentSlug": "194730-mauricio-partida",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UCC: Hell In The Cage 5",
+      "eventSlug": "63937-hell-in-cage-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-31T00:00:00.000Z",
+      "opponent": "Marcos Murillo",
+      "opponentSlug": "184527-marcos-murillo",
+      "result": "loss",
+      "method": "sub",
+      "event": "NFC 49: No Mercy",
+      "eventSlug": "60200-nfc-49-no-mercy",
+      "round": 1,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2016-12-02T00:00:00.000Z",
+      "opponent": "Adrian Luna Martinetti",
+      "opponentSlug": "139620-juan-adrian-luna",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UCC Fantastic Fight Night 4",
+      "eventSlug": "42726-ucc-fantastic-fight-night-4-final-de-temporada",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-28T00:00:00.000Z",
+      "opponent": "Fernando Pascual Alveo",
+      "opponentSlug": "89468-fernando-castillo",
+      "result": "win",
+      "method": "sub",
+      "event": "UCC Fantastic Fight Night 3",
+      "eventSlug": "42081-ucc-fantastic-fight-night-3",
+      "round": 1,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2016-08-26T00:00:00.000Z",
+      "opponent": "Moises Ramirez",
+      "opponentSlug": "134634-moises-ramirez-rudy",
+      "result": "win",
+      "method": "other",
+      "event": "UCC Fantastic Fight Night 1",
+      "eventSlug": "40969-ucc-fight-night",
+      "round": 2,
+      "timeInRound": "1:24"
+    },
+    {
+      "date": "2015-10-30T00:00:00.000Z",
+      "opponent": "Fernando Pascual Alveo",
+      "opponentSlug": "89468-fernando-castillo",
+      "result": "win",
+      "method": "other",
+      "event": "UCC 26: Inferno",
+      "eventSlug": "35868-ucc-26-inferno",
+      "round": 4,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2015-05-15T00:00:00.000Z",
+      "opponent": "Raimer Herrera Cordero",
+      "opponentSlug": "101989-raimer-herrera",
+      "result": "win",
+      "method": "sub",
+      "event": "UCC 24: Hell in Cage 2",
+      "eventSlug": "31827-ucc-24-hell-in-cage-2",
+      "round": 2,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2014-12-16T00:00:00.000Z",
+      "opponent": "Alexader Ayales Castro",
+      "opponentSlug": "83493-alex-ayales",
+      "result": "win",
+      "method": "other",
+      "event": "UCC 21",
+      "eventSlug": "28048-ucc-21",
+      "round": 1,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2014-08-29T00:00:00.000Z",
+      "opponent": "Alexander Salinas Pulido",
+      "opponentSlug": "89442-alexander-salinas",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CRFL Champ vs. Champ 6",
+      "eventSlug": "28950-crfl-champ-vs-champ-6",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:37:20.194Z"
+}

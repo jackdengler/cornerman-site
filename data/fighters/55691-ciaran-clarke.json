@@ -1,0 +1,142 @@
+{
+  "slug": "55691-ciaran-clarke",
+  "name": "Ciaran Clarke",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 168,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1995-05-25",
+  "nationality": "Ireland",
+  "url": "https://www.tapology.com/fightcenter/fighters/55691-ciaran-clarke",
+  "recentFights": [
+    {
+      "date": "2026-04-16T00:00:00.000Z",
+      "opponent": "Dean Garnett",
+      "opponentSlug": "22545-dean-garnett",
+      "result": "loss",
+      "method": "other",
+      "event": "PFL Belfast",
+      "round": 1,
+      "timeInRound": "1:52"
+    },
+    {
+      "date": "2024-09-14T00:00:00.000Z",
+      "opponent": "Tuomas Grönvall",
+      "opponentSlug": "33141-tuomas-gronvall",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bellator Champions Series",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-22T00:00:00.000Z",
+      "opponent": "Darius Mafi",
+      "opponentSlug": "142420-dariush-mafi",
+      "result": "win",
+      "method": "sub",
+      "event": "Bellator Champions Series",
+      "round": 3,
+      "timeInRound": "0:41"
+    },
+    {
+      "date": "2023-09-23T00:00:00.000Z",
+      "opponent": "Przemysław Górny",
+      "opponentSlug": "79146-przemysaw-grny",
+      "result": "win",
+      "method": "sub",
+      "event": "Bellator 299",
+      "round": 2,
+      "timeInRound": "2:52"
+    },
+    {
+      "date": "2023-02-25T00:00:00.000Z",
+      "opponent": "Leonardos Sinis",
+      "opponentSlug": "116641-leonardo-sinis",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bellator 291",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-23T00:00:00.000Z",
+      "opponent": "Rafael Hudson",
+      "opponentSlug": "146808-rafael-apocalipse",
+      "result": "win",
+      "method": "sub",
+      "event": "Bellator 285",
+      "round": 3,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2022-02-25T00:00:00.000Z",
+      "opponent": "Abou Tounkara",
+      "opponentSlug": "126609-abou-tounkara",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 275",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2021-11-05T00:00:00.000Z",
+      "opponent": "Jordan Barton",
+      "opponentSlug": "59776-jordan-barton",
+      "result": "win",
+      "method": "sub",
+      "event": "Bellator 270",
+      "round": 3,
+      "timeInRound": "4:11"
+    },
+    {
+      "date": "2020-10-10T00:00:00.000Z",
+      "opponent": "Jean N'Doye",
+      "opponentSlug": "14774-Jean-N-Doye",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bellator 248",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-22T00:00:00.000Z",
+      "opponent": "Jamie Faulding",
+      "opponentSlug": "181656-jamie-faulding",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bellator 240",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-27T00:00:00.000Z",
+      "opponent": "George Courtney",
+      "opponentSlug": "73414-george-courtney",
+      "result": "win",
+      "method": "sub",
+      "event": "Bellator 227",
+      "round": 3,
+      "timeInRound": "2:19"
+    },
+    {
+      "date": "2018-11-13T00:00:00.000Z",
+      "opponent": "Magomed Magomedov",
+      "opponentSlug": "271090-magomed-magomedov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "2018 IMMAF-WMMAA Unified World Championships",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-16T23:59:13.161Z"
+}

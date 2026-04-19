@@ -1,0 +1,165 @@
+{
+  "slug": "14855-jose-rodriguez",
+  "name": "Jose Rodriguez",
+  "nickname": "The Rockstar",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 183,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1985-11-26",
+  "nationality": "Saskatoon, Saskatchewan, Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/14855-jose-rodriguez",
+  "recentFights": [
+    {
+      "date": "2018-02-23T00:00:00.000Z",
+      "opponent": "Thomas Richardson",
+      "opponentSlug": "23266-thomas-richardson",
+      "result": "loss",
+      "method": "other",
+      "event": "Modern FC 1",
+      "eventSlug": "50183-modern-fc-1",
+      "round": 3,
+      "timeInRound": "4:06"
+    },
+    {
+      "date": "2017-03-31T00:00:00.000Z",
+      "opponent": "Shane Campbell",
+      "opponentSlug": "13104-shane-campbell",
+      "result": "loss",
+      "method": "other",
+      "event": "Unified MMA 30",
+      "eventSlug": "44510-unified-mma-30",
+      "round": 3,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2015-10-24T00:00:00.000Z",
+      "opponent": "Mandel Nallo",
+      "opponentSlug": "24751-mandell-nallo",
+      "result": "loss",
+      "method": "sub",
+      "event": "Prestige FC 1",
+      "eventSlug": "35455-prestige-fc-1-atonement",
+      "round": 2,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2015-06-05T00:00:00.000Z",
+      "opponent": "Stephen Beaumont",
+      "opponentSlug": "20724-stephen-beaumont-big-bad",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "WSOF 21: Palmer vs. Horodecki",
+      "eventSlug": "30093-wsof-21-ford-vs-okami",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-04-05T00:00:00.000Z",
+      "opponent": "Derek Boyle",
+      "opponentSlug": "derek-boyle",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Rumble in the Cage 49",
+      "eventSlug": "22719-rumble-in-the-cage-49",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-10-01T00:00:00.000Z",
+      "opponent": "Nick Heynen",
+      "opponentSlug": "20964-nick-heynen",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-12-04T00:00:00.000Z",
+      "opponent": "Eddie Rincon",
+      "opponentSlug": "4147-eddie-rincon",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-04-23T00:00:00.000Z",
+      "opponent": "Advin Omić",
+      "opponentSlug": "12572-advin-omic-bosnian-bad-boy",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-11-07T00:00:00.000Z",
+      "opponent": "Matt Bagshaw",
+      "opponentSlug": "11625-matt-bagshaw",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-06-19T00:00:00.000Z",
+      "opponent": "Eric St. Pierre",
+      "opponentSlug": "19096-eric-st-pierre",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-03-13T00:00:00.000Z",
+      "opponent": "Tiago Tavares",
+      "opponentSlug": "14846-Tiago-Tavares",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-11-28T00:00:00.000Z",
+      "opponent": "Mike Walton",
+      "opponentSlug": "17607-mike-walton",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-02-17T00:00:00.000Z",
+      "opponent": "Adam Lorenz",
+      "opponentSlug": "3809-adam-lorenz",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:08:10.929Z"
+}

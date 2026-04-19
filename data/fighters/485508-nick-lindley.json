@@ -1,0 +1,48 @@
+{
+  "slug": "485508-nick-lindley",
+  "name": "Nick Lindley",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 0,
+    "draws": 0
+  },
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "2006-08-02",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/485508-nick-lindley",
+  "recentFights": [
+    {
+      "date": "2025-08-09T00:00:00.000Z",
+      "opponent": "Erick Medrano",
+      "opponentSlug": "461138-erick-medrano",
+      "result": "win",
+      "method": "dec-split",
+      "event": "MCC 73: Debut at The Horizon Center",
+      "eventSlug": "130231-mcc-73-debut-at-the-horizon-center",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-08T00:00:00.000Z",
+      "opponent": "Levi Dunn",
+      "opponentSlug": "485509-levi-dunn",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "123851-brutaal-genesis-fight-night-fort-frenzy-22",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T09:06:34.556Z"
+}

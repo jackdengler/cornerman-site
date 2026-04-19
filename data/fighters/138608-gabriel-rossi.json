@@ -1,0 +1,44 @@
+{
+  "slug": "138608-gabriel-rossi",
+  "name": "Gabriel Rossi",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1983-02-13",
+  "nationality": "Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/138608-gabriel-rossi",
+  "recentFights": [
+    {
+      "date": "2016-10-15T00:00:00.000Z",
+      "opponent": "Julien Leblanc",
+      "opponentSlug": "24714-julien-leblanc",
+      "result": "loss",
+      "method": "tko",
+      "event": "Hybrid Pro Series 5",
+      "eventSlug": "40230-hybrid-pro-series-5",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2003-03-08T00:00:00.000Z",
+      "opponent": "Steve Legault",
+      "opponentSlug": "3385-steve-legault-the-sniper",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:58:09.454Z"
+}

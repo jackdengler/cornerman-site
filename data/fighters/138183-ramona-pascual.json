@@ -1,0 +1,154 @@
+{
+  "slug": "138183-ramona-pascual",
+  "name": "Ramona Pascual",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 168,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1988-09-23",
+  "nationality": "Hong Kong",
+  "url": "https://www.tapology.com/fightcenter/fighters/138183-ramona-pascual",
+  "recentFights": [
+    {
+      "date": "2024-03-29T00:00:00.000Z",
+      "opponent": "Riley Martinez",
+      "opponentSlug": "175805-riley-timmons",
+      "result": "loss",
+      "method": "other",
+      "event": "Front Street Fights 28",
+      "eventSlug": "109950-front-street-fights-28",
+      "round": 1,
+      "timeInRound": "4:08"
+    },
+    {
+      "date": "2022-11-05T00:00:00.000Z",
+      "opponent": "Tamires Vidal",
+      "opponentSlug": "193326-tamires-vidal",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "91921-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "3:06"
+    },
+    {
+      "date": "2022-06-11T00:00:00.000Z",
+      "opponent": "Joselyne Edwards",
+      "opponentSlug": "98366-yoselin-edwards",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 275: Teixeira vs. Procházka",
+      "eventSlug": "87286-ufc-275-teixeira-vs-prochazka",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-26T00:00:00.000Z",
+      "opponent": "Josiane Nunes",
+      "opponentSlug": "61258-josiane-nunes",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "83426-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-01-12T00:00:00.000Z",
+      "opponent": "Shamir Peshewa",
+      "opponentSlug": "76393-shamir-peshewa",
+      "result": "win",
+      "method": "other",
+      "event": "Invicta FC 45",
+      "eventSlug": "85242-invicta-fc-45-zappitella-vs-delboni-2",
+      "round": 1,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2021-06-11T00:00:00.000Z",
+      "opponent": "Guadalupe Guzman",
+      "opponentSlug": "297000-guadalupe-guzman",
+      "result": "win",
+      "method": "sub",
+      "event": "iKon Fighting Federation 7",
+      "eventSlug": "79070-ikon-fighting-federation-7",
+      "round": 1,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2019-11-15T00:00:00.000Z",
+      "opponent": "Yulia Kutsenko",
+      "opponentSlug": "154857-yulia-kutsenko",
+      "result": "win",
+      "method": "tko",
+      "event": "WLF W.A.R.S. 40",
+      "eventSlug": "64582-wlf-w-a-r-s-40",
+      "round": 1,
+      "timeInRound": "0:26"
+    },
+    {
+      "date": "2017-12-23T00:00:00.000Z",
+      "opponent": "Seo Woo Jin",
+      "opponentSlug": "143252-seo-woo-jin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Road FC 45",
+      "eventSlug": "43415-road-fc-45",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-31T00:00:00.000Z",
+      "opponent": "Janay Harding",
+      "opponentSlug": "67815-janay-harding",
+      "result": "loss",
+      "method": "other",
+      "event": "E-1 World Championship",
+      "eventSlug": "46198-e-1-world-championship",
+      "round": 2,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2017-04-01T00:00:00.000Z",
+      "opponent": "Jennifer Leigh Norris",
+      "opponentSlug": "95685-jennifer-leigh-norris",
+      "result": "loss",
+      "method": "sub",
+      "event": "IMPI World Series Asia 6",
+      "eventSlug": "43964-impi-world-series-asia-6",
+      "round": 3,
+      "timeInRound": "1:57"
+    },
+    {
+      "date": "2016-12-02T00:00:00.000Z",
+      "opponent": "Sun Yoo Cheon",
+      "opponentSlug": "143677-sun-yoo-chun",
+      "result": "win",
+      "method": "other",
+      "event": "IMPI World Series",
+      "eventSlug": "41010-impi-fighting-championship-world-series-asia-6",
+      "round": 1,
+      "timeInRound": "2:57"
+    },
+    {
+      "date": "2016-08-20T00:00:00.000Z",
+      "opponent": "Ella Tang",
+      "opponentSlug": "72398-ella-tang-ice-cool",
+      "result": "win",
+      "method": "other",
+      "event": "IMPI World Series",
+      "eventSlug": "40367-impi-fighting-championship-world-series-asia-4",
+      "round": 2,
+      "timeInRound": "5:00"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:33:49.742Z"
+}

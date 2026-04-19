@@ -1,0 +1,209 @@
+{
+  "slug": "29225-joseph-cleveland",
+  "name": "Joseph Cleveland",
+  "nickname": "The Boogieman",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/29225-joseph-cleveland",
+  "recentFights": [
+    {
+      "date": "2015-08-20T00:00:00.000Z",
+      "opponent": "Austin Arnett",
+      "opponentSlug": "39426-austin-arnett",
+      "result": "loss",
+      "method": "tko",
+      "event": "KOTC: Bad Reputation",
+      "eventSlug": "33691-kotc",
+      "round": 1,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2015-05-15T00:00:00.000Z",
+      "opponent": "Vince Morales",
+      "opponentSlug": "91401-vince-morales",
+      "result": "loss",
+      "method": "sub",
+      "event": "Front Street Fights 5",
+      "eventSlug": "31947-front-street-fights-5",
+      "round": 1,
+      "timeInRound": "1:51"
+    },
+    {
+      "date": "2015-04-03T00:00:00.000Z",
+      "opponent": "Brandon Sly",
+      "opponentSlug": "49927-brandon-sly",
+      "result": "win",
+      "method": "sub",
+      "event": "Conquest of the Cage 18",
+      "eventSlug": "30284-conquest-of-the-cage-presented-by-excitefight",
+      "round": 1,
+      "timeInRound": "3:37"
+    },
+    {
+      "date": "2014-05-30T00:00:00.000Z",
+      "opponent": "Brett Boksa",
+      "opponentSlug": "36327-brett-boksa",
+      "result": "win",
+      "method": "other",
+      "event": "Conquest of the Cage 16",
+      "eventSlug": "24943-conquest-of-the-cage-16",
+      "round": 1,
+      "timeInRound": "3:41"
+    },
+    {
+      "date": "2012-05-17T00:00:00.000Z",
+      "opponent": "Nathan Gow",
+      "opponentSlug": "29181-nathan-gow",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-05-21T00:00:00.000Z",
+      "opponent": "Brett Boksa",
+      "opponentSlug": "36327-brett-boksa",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Rumble In The Hive 1",
+      "eventSlug": "109113-rumble-in-the-hive-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-02-27T00:00:00.000Z",
+      "opponent": "Troy Clark",
+      "opponentSlug": "84218-troy-clark",
+      "result": "win",
+      "method": "sub",
+      "event": "PFA: Ultimate Cage Fighting 15",
+      "eventSlug": "61201-pfa-ultimate-cage-fighting-15",
+      "round": 1,
+      "timeInRound": "1:34"
+    },
+    {
+      "date": "2009-04-14T00:00:00.000Z",
+      "opponent": "Ty Lingo",
+      "opponentSlug": "71614-ty-lingo",
+      "result": "win",
+      "method": "tko",
+      "event": "Northwest Fighting",
+      "eventSlug": "86438-northwest-fighting-spokane-showdown-14",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-03-27T00:00:00.000Z",
+      "opponent": "Omar Avelar",
+      "opponentSlug": "15309-omar-avelar",
+      "result": "win",
+      "method": "sub",
+      "event": "PFA: Ultimate Cage Fighting 12",
+      "eventSlug": "6211-pfa-ultimate-cage-fighting-12",
+      "round": 2,
+      "timeInRound": "2:41"
+    },
+    {
+      "date": "2009-02-21T00:00:00.000Z",
+      "opponent": "Torin Anderson",
+      "opponentSlug": "50189-torin-anderson",
+      "result": "win",
+      "method": "other",
+      "event": "Northwest Fighting",
+      "eventSlug": "86437-northwest-fighting-spokane-showdown-13",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-11-01T00:00:00.000Z",
+      "opponent": "Arjay Murphy",
+      "opponentSlug": "36328-arjay-murphy",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Northwest Fighting",
+      "eventSlug": "86435-northwest-fighting-spokane-showdown-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-08-08T00:00:00.000Z",
+      "opponent": "Jimmy Wood",
+      "opponentSlug": "12560-jimmy-wood",
+      "result": "loss",
+      "method": "sub",
+      "event": "PFA: Ultimate Cage Fighting 8",
+      "eventSlug": "86954-pfa-ultimate-cage-fighting-8",
+      "round": 1,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2008-01-12T00:00:00.000Z",
+      "opponent": "James Billings",
+      "opponentSlug": "325098-james-billings",
+      "result": "win",
+      "method": "other",
+      "event": "Northwest Fighting",
+      "eventSlug": "86431-northwest-fighting-spokane-showdown-7",
+      "round": 1,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2007-10-25T00:00:00.000Z",
+      "opponent": "Chris Gardner",
+      "opponentSlug": "100132-chris-gardner",
+      "result": "win",
+      "method": "other",
+      "event": "PFA: Ultimate Cage Fighting 4",
+      "eventSlug": "32267-pfa-ultimate-cage-fighting-4",
+      "round": 1,
+      "timeInRound": "0:59"
+    },
+    {
+      "date": "2007-09-14T00:00:00.000Z",
+      "opponent": "Dan Ginerich",
+      "opponentSlug": "325607-dan-ginerich",
+      "result": "win",
+      "method": "other",
+      "event": "PFA: Ultimate Cage Fighting 3",
+      "eventSlug": "86684-pfa-ultimate-cage-fighting-4",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-07-19T00:00:00.000Z",
+      "opponent": "Thomas Mace",
+      "opponentSlug": "99266-thomas-mace-the-boy",
+      "result": "win",
+      "method": "sub",
+      "event": "PFA: Ultimate Cage Fighting 2",
+      "eventSlug": "32078-pfa-ultimate-cage-fighting-2",
+      "round": 1,
+      "timeInRound": "2:39"
+    },
+    {
+      "date": "2007-05-17T00:00:00.000Z",
+      "opponent": "Cameron Walcot",
+      "opponentSlug": "99267-cameron-walcot",
+      "result": "win",
+      "method": "other",
+      "event": "PFA: Ultimate Cage Fighting 1",
+      "eventSlug": "8066-pfa-ultimate-cage-fighting-1",
+      "round": 1,
+      "timeInRound": "0:46"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:57:35.743Z"
+}

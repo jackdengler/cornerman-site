@@ -1,0 +1,143 @@
+{
+  "slug": "19465-joey-banks",
+  "name": "Joey Banks",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 171,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/19465-joey-banks",
+  "recentFights": [
+    {
+      "date": "2021-10-29T00:00:00.000Z",
+      "opponent": "Caleb Hall",
+      "opponentSlug": "138243-caleb-hall",
+      "result": "win",
+      "method": "other",
+      "event": "Mile High MMAyhem",
+      "eventSlug": "83553-mile-high-mmayhem",
+      "round": 1,
+      "timeInRound": "0:19"
+    },
+    {
+      "date": "2018-03-16T00:00:00.000Z",
+      "opponent": "Youssef Zalal",
+      "opponentSlug": "110826-youssef-zalaal",
+      "result": "loss",
+      "method": "sub",
+      "event": "Paramount MMA",
+      "eventSlug": "50401-paramount-mma-contenders",
+      "round": 3,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2017-10-13T00:00:00.000Z",
+      "opponent": "Brian Sullivan",
+      "opponentSlug": "38141-brian-sullivan",
+      "result": "win",
+      "method": "other",
+      "event": "Paramount MMA 8",
+      "eventSlug": "47637-paramount-mma-8",
+      "round": 1,
+      "timeInRound": "3:04"
+    },
+    {
+      "date": "2017-03-18T00:00:00.000Z",
+      "opponent": "Sean Tobin",
+      "opponentSlug": "59533-sean-tobin",
+      "result": "loss",
+      "method": "sub",
+      "event": "SCL 58: Madness",
+      "eventSlug": "44737-scl-58-madness",
+      "round": 1,
+      "timeInRound": "4:37"
+    },
+    {
+      "date": "2013-10-18T00:00:00.000Z",
+      "opponent": "Alfredo Corona",
+      "opponentSlug": "6085-alfredo-corona",
+      "result": "win",
+      "method": "sub",
+      "event": "Prize FC 4: Thrillers",
+      "eventSlug": "20678-prize-fc-4",
+      "round": 1,
+      "timeInRound": "0:59"
+    },
+    {
+      "date": "2013-03-22T00:00:00.000Z",
+      "opponent": "Tommy Thompson",
+      "opponentSlug": "27199-tommy-thompson-gun",
+      "result": "loss",
+      "method": "other",
+      "event": "RFA 7: Thatch vs. Rhodes",
+      "eventSlug": "17762-rfa-7",
+      "round": 1,
+      "timeInRound": "0:20"
+    },
+    {
+      "date": "2012-09-14T00:00:00.000Z",
+      "opponent": "Matt Vigil",
+      "opponentSlug": "20588-matt-vigil",
+      "result": "win",
+      "method": "other",
+      "event": "Fight to Win",
+      "eventSlug": "15318-fight-to-win-the-warriors",
+      "round": 1,
+      "timeInRound": "0:41"
+    },
+    {
+      "date": "2012-05-19T00:00:00.000Z",
+      "opponent": "Jeremy Martinez",
+      "opponentSlug": "26178-jeremy-martinez",
+      "result": "win",
+      "method": "other",
+      "event": "Fight to Win",
+      "eventSlug": "13563-superheroes",
+      "round": 1,
+      "timeInRound": "0:39"
+    },
+    {
+      "date": "2009-03-28T00:00:00.000Z",
+      "opponent": "Matt Vigil",
+      "opponentSlug": "20588-matt-vigil",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-12-05T00:00:00.000Z",
+      "opponent": "Nick Macias",
+      "opponentSlug": "19032-nick-macias",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-03-02T00:00:00.000Z",
+      "opponent": "Cameron Thurgood",
+      "opponentSlug": "49583-cameron-thurgood",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:32:50.006Z"
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "19162-mike-berry",
+  "name": "Mike Berry",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 191,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/19162-mike-berry",
+  "recentFights": [
+    {
+      "date": "2011-02-19T00:00:00.000Z",
+      "opponent": "Mike Eikenberry",
+      "opponentSlug": "19728-mike-eikenberry",
+      "result": "win",
+      "method": "other",
+      "event": "Colosseum Combat 16",
+      "eventSlug": "9232-colosseum-combat-16",
+      "round": 1,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2010-01-02T00:00:00.000Z",
+      "opponent": "Brandon Delprado",
+      "opponentSlug": "23400-brandon-delprado",
+      "result": "loss",
+      "method": "other",
+      "event": "HFC 2: It's On",
+      "eventSlug": "3183-hfc-2-it-s-on",
+      "round": 1,
+      "timeInRound": "3:17"
+    },
+    {
+      "date": "2009-05-30T00:00:00.000Z",
+      "opponent": "Vance Swerdan",
+      "opponentSlug": "19133-vance-swerdan",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-05-02T00:00:00.000Z",
+      "opponent": "Aaron Johnson",
+      "opponentSlug": "114171-aaron-johnson",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-12-12T00:00:00.000Z",
+      "opponent": "Coleton Cavener",
+      "opponentSlug": "188254-coleton-cavener",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-09-26T00:00:00.000Z",
+      "opponent": "Corey Nichols",
+      "opponentSlug": "132275-corey-nichols",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-03-28T00:00:00.000Z",
+      "opponent": "Jay Finnegan",
+      "opponentSlug": "4882-jay-finnegan",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-07-19T00:00:00.000Z",
+      "opponent": "Tim Elliott",
+      "opponentSlug": "13664-timothy-elliot",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:13:35.988Z"
+}

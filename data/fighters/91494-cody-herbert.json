@@ -1,0 +1,143 @@
+{
+  "slug": "91494-cody-herbert",
+  "name": "Cody Herbert",
+  "nickname": "The Reason",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": 185,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1991-01-05",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/91494-cody-herbert",
+  "recentFights": [
+    {
+      "date": "2024-06-15T00:00:00.000Z",
+      "opponent": "Trae Cusac",
+      "opponentSlug": "340032-trae-cusac",
+      "result": "win",
+      "method": "dec-split",
+      "event": "EGO Fight Series 3",
+      "eventSlug": "112761-ego-fight-series-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-01T00:00:00.000Z",
+      "opponent": "Gregg Ellis",
+      "opponentSlug": "116528-gregg-ellis",
+      "result": "loss",
+      "method": "other",
+      "event": "Fusion Fight League",
+      "eventSlug": "88578-fusion-fight-league-boom-town-brawls",
+      "round": 1,
+      "timeInRound": "3:33"
+    },
+    {
+      "date": "2022-02-19T00:00:00.000Z",
+      "opponent": "Jordan Newman",
+      "opponentSlug": "191727-jordan-newman",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bellator 274",
+      "eventSlug": "85305-bellator-274",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-10-17T00:00:00.000Z",
+      "opponent": "Ty Evans",
+      "opponentSlug": "62558-ty-evans",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Empire FC 6",
+      "eventSlug": "72825-empire-fighting-championship-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-08-03T00:00:00.000Z",
+      "opponent": "Blake Singley",
+      "opponentSlug": "17781-blake-singley",
+      "result": "win",
+      "method": "other",
+      "event": "Southeastern Combat Championships 2",
+      "eventSlug": "61411-southeastern-combat-championships-2",
+      "round": 1,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2018-07-28T00:00:00.000Z",
+      "opponent": "Sedriques Dumas",
+      "opponentSlug": "188574-sedriques-dumas",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Island Fights 49",
+      "eventSlug": "54932-island-fights-49",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-21T00:00:00.000Z",
+      "opponent": "Brett Martin",
+      "opponentSlug": "96344-brett-martin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IT Fight Series 31",
+      "eventSlug": "30645-it-fight-series-31",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-29T00:00:00.000Z",
+      "opponent": "Anthony Grine",
+      "opponentSlug": "52565-anthony-grine",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "IT Fight Series 25",
+      "eventSlug": "23794-it-fight-series-25",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-08-15T00:00:00.000Z",
+      "opponent": "Xavier Nash",
+      "opponentSlug": "41524-xavier-nash",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-04-28T00:00:00.000Z",
+      "opponent": "Richie Council",
+      "opponentSlug": "327166-richie-council",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-06-18T00:00:00.000Z",
+      "opponent": "Caleb Fickert",
+      "opponentSlug": "35887-caleb-fickert",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:53:38.321Z"
+}

@@ -1,0 +1,154 @@
+{
+  "slug": "226482-christian-porter",
+  "name": "Christian Porter",
+  "nickname": "Hannibal",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1995-10-21",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/226482-christian-porter",
+  "recentFights": [
+    {
+      "date": "2026-02-07T00:00:00.000Z",
+      "opponent": "Mac Kukowski",
+      "opponentSlug": "324025-mac-kukowski",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "FAC 33: Carter vs. Graham",
+      "eventSlug": "137069-fac-33",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-13T00:00:00.000Z",
+      "opponent": "David Hawk",
+      "opponentSlug": "347653-david-hawk",
+      "result": "win",
+      "method": "sub",
+      "event": "Crash Combat Championship 6",
+      "eventSlug": "130232-crash-combat-championship-6",
+      "round": 2,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2025-04-11T00:00:00.000Z",
+      "opponent": "Ezayah Gomez",
+      "opponentSlug": "413108-ezaya-gomez-oropeza",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 206: Gennrich vs. Lebosnoyani",
+      "eventSlug": "124520-lfa-206",
+      "round": 2,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2023-10-06T00:00:00.000Z",
+      "opponent": "Vavega Tialino Jr.",
+      "opponentSlug": "377215-vavega-tialino-jr",
+      "result": "loss",
+      "method": "sub",
+      "event": "FAC 21",
+      "eventSlug": "104509-fac-21",
+      "round": 2,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2023-06-17T00:00:00.000Z",
+      "opponent": "Mackenzie Wischmann",
+      "opponentSlug": "234062-mackenzie-wischmann",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Synergy FC 7",
+      "eventSlug": "100563-synergy-fc-7-kansas-city-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-18T00:00:00.000Z",
+      "opponent": "Julius Walker",
+      "opponentSlug": "251543-julius-walker",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fight Hard MMA",
+      "eventSlug": "89632-fight-hard-mma-fight-night-at-the-crossing",
+      "round": 2,
+      "timeInRound": "2:17"
+    },
+    {
+      "date": "2022-03-25T00:00:00.000Z",
+      "opponent": "Brent Campbell",
+      "opponentSlug": "232399-brent-campbell",
+      "result": "loss",
+      "method": "other",
+      "event": "Colorado Combat Club 11",
+      "eventSlug": "85904-colorado-combat-club-11",
+      "round": 1,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2021-08-20T00:00:00.000Z",
+      "opponent": "Joshua Bush",
+      "opponentSlug": "175197-joshua-bush",
+      "result": "win",
+      "method": "sub",
+      "event": "Apex FC 2",
+      "eventSlug": "81780-apex-fc-2",
+      "round": 2,
+      "timeInRound": "2:39"
+    },
+    {
+      "date": "2021-06-12T00:00:00.000Z",
+      "opponent": "Michael Brereton",
+      "opponentSlug": "234061-michael-brereton",
+      "result": "win",
+      "method": "other",
+      "event": "Apex FC 1",
+      "eventSlug": "79789-apex-fc-1",
+      "round": 1,
+      "timeInRound": "2:17"
+    },
+    {
+      "date": "2019-11-08T00:00:00.000Z",
+      "opponent": "Zac Pauga",
+      "opponentSlug": "212294-zac-pauga",
+      "result": "loss",
+      "method": "sub",
+      "event": "Mile High MMAyhem",
+      "eventSlug": "64382-mile-high-mmayhem",
+      "round": 2,
+      "timeInRound": "2:46"
+    },
+    {
+      "date": "2019-11-08T00:00:00.000Z",
+      "opponent": "Lucas Michael Garcia",
+      "opponentSlug": "232402-lucas-garcia",
+      "result": null,
+      "method": "other",
+      "event": "MMA Mayhem 7",
+      "eventSlug": "64222-mma-mayhem-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-15T00:00:00.000Z",
+      "opponent": "Anthony Taylor",
+      "opponentSlug": "227712-anthony-taylor",
+      "result": "win",
+      "method": "sub",
+      "event": "Universal Combat League",
+      "eventSlug": "59227-universal-combat-league-battle-of-the-titans-2",
+      "round": 1,
+      "timeInRound": "1:12"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:44:13.414Z"
+}

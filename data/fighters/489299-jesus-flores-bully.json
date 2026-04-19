@@ -1,0 +1,33 @@
+{
+  "slug": "489299-jesus-flores-bully",
+  "name": "Jesus Flores",
+  "nickname": "Bully",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "2000-07-28",
+  "nationality": "Mexico",
+  "url": "https://www.tapology.com/fightcenter/fighters/489299-jesus-flores-bully",
+  "recentFights": [
+    {
+      "date": "2025-03-28T00:00:00.000Z",
+      "opponent": "Adrian Luna Martinetti",
+      "opponentSlug": "139620-juan-adrian-luna",
+      "result": "loss",
+      "method": "other",
+      "event": "MMA Mexico Fight Night",
+      "eventSlug": "126180-mma-mexico-fight-night",
+      "round": 1,
+      "timeInRound": "1:27"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:36:44.011Z"
+}

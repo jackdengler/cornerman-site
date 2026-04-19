@@ -1,0 +1,132 @@
+{
+  "slug": "323029-liam-pitts",
+  "name": "Liam Pitts",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Sweden",
+  "url": "https://www.tapology.com/fightcenter/fighters/323029-liam-pitts",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Kacper Matyszewski",
+      "opponentSlug": "229084-kacper-matyszewski",
+      "result": null,
+      "method": "other",
+      "event": "OKTAGON 87: Szabová vs. Fernandes",
+      "eventSlug": "135741-oktagon-87",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-01T00:00:00.000Z",
+      "opponent": "Stephan Guidea",
+      "opponentSlug": "358526-stephan-guidea",
+      "result": "win",
+      "method": "sub",
+      "event": "OKTAGON 79: Surdu vs. Kalašnik",
+      "eventSlug": "118938-oktagon",
+      "round": 1,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2025-06-14T00:00:00.000Z",
+      "opponent": "Aleksandar Antonov",
+      "opponentSlug": "342652-aleksandar-antonov",
+      "result": "win",
+      "method": "other",
+      "event": "AFN 10",
+      "eventSlug": "129297-afn-10",
+      "round": 1,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2024-10-19T00:00:00.000Z",
+      "opponent": "Brandon Najera",
+      "opponentSlug": "231444-brandon-najera",
+      "result": "win",
+      "method": "other",
+      "event": "AFN 8",
+      "eventSlug": "116850-afn-8",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-09T00:00:00.000Z",
+      "opponent": "Tufan Ahmadi",
+      "opponentSlug": "171103-tufan-ahmadi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "AFN 5",
+      "eventSlug": "109087-afn-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-30T00:00:00.000Z",
+      "opponent": "Rasmus Vauhkonen",
+      "opponentSlug": "364466-rasmus-vauhkonen",
+      "result": "win",
+      "method": "sub",
+      "event": "AFN 4",
+      "eventSlug": "106107-afn-4",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-20T00:00:00.000Z",
+      "opponent": "Gancho Ivanov",
+      "opponentSlug": "356197-gancho-ivanov",
+      "result": "win",
+      "method": "tko",
+      "event": "IMMAF",
+      "eventSlug": "134700-immaf-world-championships-2023-juniors-opening-round",
+      "round": 2,
+      "timeInRound": "2:05"
+    },
+    {
+      "date": "2023-08-26T00:00:00.000Z",
+      "opponent": "Andreas Forsberg",
+      "opponentSlug": "396973-andreas-forsberg",
+      "result": "win",
+      "method": "sub",
+      "event": "AFN 2",
+      "eventSlug": "102884-afn-2",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-03T00:00:00.000Z",
+      "opponent": "Enes Ahmemulic",
+      "opponentSlug": "374695-enes-ahmemulic",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FCR 16",
+      "eventSlug": "99269-fcr-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-26T00:00:00.000Z",
+      "opponent": "Noah Persson",
+      "opponentSlug": "326098-noah-persson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fight Club Rush 11",
+      "eventSlug": "85841-fight-club-rush-11",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:05:12.076Z"
+}

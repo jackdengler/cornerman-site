@@ -1,0 +1,48 @@
+{
+  "slug": "518836-carlos-candia",
+  "name": "Carlos Candia",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 0,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/518836-carlos-candia",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Rafael Hinojosa",
+      "opponentSlug": "509380-rafael-hinojosa",
+      "result": null,
+      "method": "other",
+      "event": "Noche de Campeones 10",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-12T00:00:00.000Z",
+      "opponent": "Randy Gonzales",
+      "opponentSlug": "517373-randy-gonzales",
+      "result": "win",
+      "method": "other",
+      "event": "Noche de Campeones 7",
+      "eventSlug": "133017-noche-de-campeones-7",
+      "round": 2,
+      "timeInRound": "2:14"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:01:55.309Z"
+}

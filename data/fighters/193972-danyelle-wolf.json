@@ -1,0 +1,44 @@
+{
+  "slug": "193972-danyelle-wolf",
+  "name": "Danyelle Wolf",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": 178,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1983-09-08",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/193972-danyelle-wolf",
+  "recentFights": [
+    {
+      "date": "2022-09-10T00:00:00.000Z",
+      "opponent": "Norma Dumont",
+      "opponentSlug": "139271-norma-dumont-viana",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 279: Diaz vs. Ferguson",
+      "eventSlug": "89492-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-15T00:00:00.000Z",
+      "opponent": "Taneisha Tennant",
+      "opponentSlug": "126894-taneisha-tennant",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Contender Series 2020",
+      "eventSlug": "70395-contender-series-2020-week-7",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:33:21.085Z"
+}

@@ -1,0 +1,154 @@
+{
+  "slug": "19640-zebaztian-kadestam",
+  "name": "Zebaztian Kadestam",
+  "nickname": "The Bandit",
+  "aliases": [],
+  "recordPro": {
+    "wins": 15,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1990-09-27",
+  "nationality": "Sweden",
+  "url": "https://www.tapology.com/fightcenter/fighters/19640-zebaztian-kadestam",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Dominik Humburger",
+      "opponentSlug": "169531-dominik-humburger",
+      "result": null,
+      "method": "other",
+      "event": "OKTAGON 87: Szabová vs. Fernandes",
+      "eventSlug": "135741-oktagon-87",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-03T00:00:00.000Z",
+      "opponent": "Aung La N Sang",
+      "opponentSlug": "aungla-nsang",
+      "result": "loss",
+      "method": "other",
+      "event": "ONE Fight Night 36",
+      "eventSlug": "127453-one-fight-night-35",
+      "round": 2,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2023-05-05T00:00:00.000Z",
+      "opponent": "Roberto Soldić",
+      "opponentSlug": "90283-roberto-soldic",
+      "result": "win",
+      "method": "other",
+      "event": "ONE Fight Night 10",
+      "eventSlug": "95948-one-on-prime-video-10-johnson-vs-moraes-3",
+      "round": 2,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2022-08-26T00:00:00.000Z",
+      "opponent": "Iuri Lapicus",
+      "opponentSlug": "140794-iurie-lapicus",
+      "result": "win",
+      "method": "other",
+      "event": "ONE Fight Night 1",
+      "eventSlug": "89976-one-championship-161-moraes-vs-johnson-2",
+      "round": 1,
+      "timeInRound": "0:57"
+    },
+    {
+      "date": "2022-02-25T00:00:00.000Z",
+      "opponent": "Valmir da Silva",
+      "opponentSlug": "180960-valmir-da-silva-junior",
+      "result": "win",
+      "method": "other",
+      "event": "ONE Championship",
+      "eventSlug": "85969-one-championship",
+      "round": 1,
+      "timeInRound": "1:26"
+    },
+    {
+      "date": "2021-12-17T00:00:00.000Z",
+      "opponent": "Murad Ramazanov",
+      "opponentSlug": "206138-murad-ramazanov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ONE Championship",
+      "eventSlug": "84659-one-championship-winter-warriors-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-01-22T00:00:00.000Z",
+      "opponent": "Gadjimurad Abdulaev",
+      "opponentSlug": "151952-abdulaev",
+      "result": "loss",
+      "method": "other",
+      "event": "ONE Championship",
+      "eventSlug": "75275-one-championship",
+      "round": 1,
+      "timeInRound": "2:08"
+    },
+    {
+      "date": "2019-10-25T00:00:00.000Z",
+      "opponent": "Kiamrian Abbasov",
+      "opponentSlug": "87148-kiamran-abbasov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ONE Championship",
+      "eventSlug": "61498-one-championship-dawn-of-valor",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-08T00:00:00.000Z",
+      "opponent": "Georgiy Kichigin",
+      "opponentSlug": "55748-grigoriy-kichigin",
+      "result": "win",
+      "method": "other",
+      "event": "ONE Championship",
+      "eventSlug": "56780-one-championship-reign-of-valor",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2018-11-17T00:00:00.000Z",
+      "opponent": "Tyler McGuire",
+      "opponentSlug": "33095-tyler-mcguire",
+      "result": "win",
+      "method": "other",
+      "event": "ONE Championship",
+      "eventSlug": "54598-one-championship-warrior-s-dream",
+      "round": 5,
+      "timeInRound": "4:32"
+    },
+    {
+      "date": "2018-07-13T00:00:00.000Z",
+      "opponent": "Agilan Thanigasalam",
+      "opponentSlug": "68848-agilan-chandran-the-alligator",
+      "result": "win",
+      "method": "other",
+      "event": "ONE Championship",
+      "eventSlug": "53808-one-championship-pursuit-of-power",
+      "round": 3,
+      "timeInRound": "1:56"
+    },
+    {
+      "date": "2017-09-02T00:00:00.000Z",
+      "opponent": "Ben Askren",
+      "opponentSlug": "ben-askren-funky",
+      "result": "loss",
+      "method": "other",
+      "event": "ONE Championship",
+      "eventSlug": "47630-one-championship-shanghai",
+      "round": 2,
+      "timeInRound": "4:09"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:04:38.192Z"
+}

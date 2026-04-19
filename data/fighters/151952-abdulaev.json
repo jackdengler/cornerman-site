@@ -1,0 +1,110 @@
+{
+  "slug": "151952-abdulaev",
+  "name": "Gadjimurad Abdulaev",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 182,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1996-10-10",
+  "nationality": "Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/151952-abdulaev",
+  "recentFights": [
+    {
+      "date": "2022-08-28T00:00:00.000Z",
+      "opponent": "Pavel Masalski",
+      "opponentSlug": "103123-paval-masalski",
+      "result": "win",
+      "method": "sub",
+      "event": "UFL 4",
+      "eventSlug": "92135-ufl-4",
+      "round": 1,
+      "timeInRound": "1:46"
+    },
+    {
+      "date": "2022-06-05T00:00:00.000Z",
+      "opponent": "Valdislav Vorontsov",
+      "opponentSlug": "352094-valdislav-vorontsov",
+      "result": "win",
+      "method": "other",
+      "event": "UF Selection 8",
+      "eventSlug": "91205-uf-selection-8",
+      "round": 1,
+      "timeInRound": "0:43"
+    },
+    {
+      "date": "2021-01-22T00:00:00.000Z",
+      "opponent": "Zebaztian Kadestam",
+      "opponentSlug": "19640-zebaztian-kadestam",
+      "result": "win",
+      "method": "other",
+      "event": "ONE Championship",
+      "eventSlug": "75275-one-championship",
+      "round": 1,
+      "timeInRound": "2:08"
+    },
+    {
+      "date": "2019-06-20T00:00:00.000Z",
+      "opponent": "Carlos Prates",
+      "opponentSlug": "36554-carlos-prates-carlao",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE Warrior Series 6",
+      "eventSlug": "60567-one-warrior-series-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-01-12T00:00:00.000Z",
+      "opponent": "Jonar Logasca",
+      "opponentSlug": "208462-jonar-logasca",
+      "result": "win",
+      "method": "sub",
+      "event": "Aspera FC Asia 2",
+      "eventSlug": "57963-aspera-fc-asia-2",
+      "round": 1,
+      "timeInRound": "2:06"
+    },
+    {
+      "date": "2018-11-16T00:00:00.000Z",
+      "opponent": "Allisson Barbosa",
+      "opponentSlug": "53355-alisson-barbosa-ceara",
+      "result": "win",
+      "method": "tko",
+      "event": "WLF W.A.R.S. 29",
+      "eventSlug": "57565-wlf-w-a-r-s-29",
+      "round": 2,
+      "timeInRound": "2:16"
+    },
+    {
+      "date": "2018-07-13T00:00:00.000Z",
+      "opponent": "Haolan Jietebusibai",
+      "opponentSlug": "80581-jiete-busibai",
+      "result": "win",
+      "method": "tko",
+      "event": "WLF W.A.R.S. 26",
+      "eventSlug": "54994-wlf-w-a-r-s-26",
+      "round": 1,
+      "timeInRound": "0:20"
+    },
+    {
+      "date": "2017-03-11T00:00:00.000Z",
+      "opponent": "Haolan Jietebusibai",
+      "opponentSlug": "80581-jiete-busibai",
+      "result": "win",
+      "method": "tko",
+      "event": "WLF W.A.R.S. 12",
+      "eventSlug": "44671-wlf-wars-12",
+      "round": 1,
+      "timeInRound": "1:05"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:10:41.975Z"
+}

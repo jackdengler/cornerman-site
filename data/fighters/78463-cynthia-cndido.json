@@ -1,0 +1,77 @@
+{
+  "slug": "78463-cynthia-cndido",
+  "name": "Cynthia Cândido",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 158,
+  "reachCm": null,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": "1996-01-02",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/78463-cynthia-cndido",
+  "recentFights": [
+    {
+      "date": "2016-07-09T00:00:00.000Z",
+      "opponent": "Maria Oliveira",
+      "opponentSlug": "114735-maria-oliveira",
+      "result": "loss",
+      "method": "sub",
+      "event": "PRVT: Matelândia Top Fight 1",
+      "eventSlug": "43020-matelndia-top-fight-1",
+      "round": 1,
+      "timeInRound": "4:42"
+    },
+    {
+      "date": "2016-03-13T00:00:00.000Z",
+      "opponent": "Kakau Costa",
+      "opponentSlug": "106406-kakau-costa-cacau",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cascavel Top Fight 3",
+      "eventSlug": "43017-cascavel-top-fight-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-18T00:00:00.000Z",
+      "opponent": "Istela Nunes",
+      "opponentSlug": "48686-istela-nunes",
+      "result": "loss",
+      "method": "other",
+      "event": "PRVT: Cascavel Top Fight 2",
+      "eventSlug": "36974-prvt-cascavel-top-fight-2",
+      "round": 1,
+      "timeInRound": "3:42"
+    },
+    {
+      "date": "2015-04-04T00:00:00.000Z",
+      "opponent": "Karine Silva",
+      "opponentSlug": "69225-karine-silva-killer",
+      "result": "loss",
+      "method": "other",
+      "event": "Aspera FC 17",
+      "eventSlug": "29920-aspera-fc-17",
+      "round": 1,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2014-08-30T00:00:00.000Z",
+      "opponent": "Janaisa Morandin",
+      "opponentSlug": "43987-janaisa-morandin",
+      "result": "loss",
+      "method": "other",
+      "event": "Aspera FC 11",
+      "eventSlug": "25720-aspera-fc-11",
+      "round": 2,
+      "timeInRound": "1:12"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:10:44.992Z"
+}

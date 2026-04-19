@@ -1,0 +1,110 @@
+{
+  "slug": "288519-kole-gray",
+  "name": "Kole Gray",
+  "nickname": "Pitbull",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1998-12-01",
+  "nationality": "Nebraska",
+  "url": "https://www.tapology.com/fightcenter/fighters/288519-kole-gray",
+  "recentFights": [
+    {
+      "date": "2023-12-08T00:00:00.000Z",
+      "opponent": "Jesse James Lee",
+      "opponentSlug": "138161-jesse-james-lee",
+      "result": "win",
+      "method": "other",
+      "event": "DCS 89: Seasons Beatings 2023",
+      "eventSlug": "106369-dcs-89-seasons-beatings-2023",
+      "round": 1,
+      "timeInRound": "2:17"
+    },
+    {
+      "date": "2023-10-13T00:00:00.000Z",
+      "opponent": "Corey Roberts",
+      "opponentSlug": "38481-corey-roberts",
+      "result": "win",
+      "method": "other",
+      "event": "DCS 88: Halloween Havoc",
+      "eventSlug": "103503-dcs-88-halloween-havoc",
+      "round": 1,
+      "timeInRound": "0:53"
+    },
+    {
+      "date": "2023-01-14T00:00:00.000Z",
+      "opponent": "Jaden Overman",
+      "opponentSlug": "335809-jaden-overman",
+      "result": "win",
+      "method": "sub",
+      "event": "DCS 83: New Years Knockout 2023",
+      "eventSlug": "96091-dcs-83-new-years-knockout-2023",
+      "round": 1,
+      "timeInRound": "0:52"
+    },
+    {
+      "date": "2022-08-20T00:00:00.000Z",
+      "opponent": "Je'Vonte Dyke",
+      "opponentSlug": "307300-je-vonte-dyke",
+      "result": "win",
+      "method": "other",
+      "event": "DCS 80: Summer Showdown 2022",
+      "eventSlug": "89830-dcs-81-summer-showdown",
+      "round": 2,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2022-01-14T00:00:00.000Z",
+      "opponent": "Vyphot Keomanivong",
+      "opponentSlug": "164872-vyphot-keomanivong",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "DCS 77: New Years Knockout 2022",
+      "eventSlug": "84823-dcs-77-new-years-knockout-2022",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-01T00:00:00.000Z",
+      "opponent": "Miljan Djukanovic",
+      "opponentSlug": "272784-miljan-djukanovic",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "DCS 75: The Tribute 2021",
+      "eventSlug": "82604-dcs-75-never-give-up",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-04T00:00:00.000Z",
+      "opponent": "Corbin Coomes",
+      "opponentSlug": "86960-corbin-coomes",
+      "result": "win",
+      "method": "tko",
+      "event": "DCS 71: Summer Kick-Off Night 1",
+      "eventSlug": "79400-dcs-71-summer-kick-off-night-1",
+      "round": 1,
+      "timeInRound": "1:27"
+    },
+    {
+      "date": "2021-03-13T00:00:00.000Z",
+      "opponent": "Zach Arnold",
+      "opponentSlug": "288520-zach-arnold",
+      "result": "win",
+      "method": "tko",
+      "event": "DCS 69: St. Patty's Showdown",
+      "eventSlug": "77339-dcs-69-st-patty-s-showdown",
+      "round": 3,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:42:51.131Z"
+}

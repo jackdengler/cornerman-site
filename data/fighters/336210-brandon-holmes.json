@@ -1,0 +1,143 @@
+{
+  "slug": "336210-brandon-holmes",
+  "name": "Brandon Holmes",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": 188,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1997-02-05",
+  "nationality": "Charleston, South Carolina, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/336210-brandon-holmes",
+  "recentFights": [
+    {
+      "date": "2026-01-18T00:00:00.000Z",
+      "opponent": "Preston LaGrange",
+      "opponentSlug": "353189-preston-lagrange",
+      "result": "win",
+      "method": "other",
+      "event": "Fury FC 113",
+      "eventSlug": "136700-fury-fc-113",
+      "round": 1,
+      "timeInRound": "3:13"
+    },
+    {
+      "date": "2025-08-19T00:00:00.000Z",
+      "opponent": "Cam Rowston",
+      "opponentSlug": "69262-cam-rowston",
+      "result": "loss",
+      "method": "other",
+      "event": "Contender Series 2025",
+      "eventSlug": "128459-contender-series-2025-week-2",
+      "round": 1,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2025-05-25T00:00:00.000Z",
+      "opponent": "Zack Borrego",
+      "opponentSlug": "280338-zachary-borrego",
+      "result": "win",
+      "method": "tko",
+      "event": "Fury FC 104",
+      "eventSlug": "126694-fury-fc-104",
+      "round": 3,
+      "timeInRound": "4:58"
+    },
+    {
+      "date": "2024-08-16T00:00:00.000Z",
+      "opponent": "Nick Galanti",
+      "opponentSlug": "287925-nick-galanti",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CFFC 134: Daukaus vs. Nchukwi",
+      "eventSlug": "115363-cffc-134",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-04T00:00:00.000Z",
+      "opponent": "Zayne Havener",
+      "opponentSlug": "296089-zayne-havener",
+      "result": "win",
+      "method": "other",
+      "event": "SICP 5: Mayhem",
+      "eventSlug": "108713-sicp-5-mayhem",
+      "round": 1,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2024-01-27T00:00:00.000Z",
+      "opponent": "Ralston Thomas",
+      "opponentSlug": "243427-ralston-thomas",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fight For It 18",
+      "eventSlug": "108840-fight-for-it-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-02T00:00:00.000Z",
+      "opponent": "David Richardson",
+      "opponentSlug": "271061-david-richardson",
+      "result": "win",
+      "method": "tko",
+      "event": "Conflict MMA 60",
+      "eventSlug": "106265-conflict-mma-60-holy-city-fight-night",
+      "round": 2,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2023-05-27T00:00:00.000Z",
+      "opponent": "Anthony Johnson",
+      "opponentSlug": "285907-anthony-johnson",
+      "result": "win",
+      "method": "other",
+      "event": "Conflict MMA 57",
+      "eventSlug": "100003-conflict-mma-57",
+      "round": 2,
+      "timeInRound": "2:06"
+    },
+    {
+      "date": "2023-02-18T00:00:00.000Z",
+      "opponent": "Justin Lawrence",
+      "opponentSlug": "349653-justin-lawrence",
+      "result": "win",
+      "method": "other",
+      "event": "864 Fighting Championship 11",
+      "eventSlug": "98578-864-fighting-championship-11",
+      "round": 2,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2022-09-10T00:00:00.000Z",
+      "opponent": "Manasse Tshitamba",
+      "opponentSlug": "351240-manasse-tshitamba",
+      "result": "win",
+      "method": "other",
+      "event": "Global Legion FC 22",
+      "eventSlug": "92813-global-legion-fc-22",
+      "round": 2,
+      "timeInRound": "1:42"
+    },
+    {
+      "date": "2022-04-30T00:00:00.000Z",
+      "opponent": "Jahrael Cromartie",
+      "opponentSlug": "82514-jehrell-cromartie",
+      "result": "win",
+      "method": "tko",
+      "event": "RAM Fighting Championships 3",
+      "eventSlug": "88757-ram-fighting-championships-3",
+      "round": 1,
+      "timeInRound": "1:44"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:17:15.241Z"
+}

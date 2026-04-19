@@ -1,0 +1,198 @@
+{
+  "slug": "27161-joe-cummins-silk",
+  "name": "Joe Cummins",
+  "nickname": "Silk",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": 182,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "England",
+  "url": "https://www.tapology.com/fightcenter/fighters/27161-joe-cummins-silk",
+  "recentFights": [
+    {
+      "date": "2023-09-09T00:00:00.000Z",
+      "opponent": "Lucas Aguiar",
+      "opponentSlug": "170043-lucas-aguiar",
+      "result": "win",
+      "method": "other",
+      "event": "FCC 35",
+      "eventSlug": "103665-fcc-35",
+      "round": 1,
+      "timeInRound": "4:05"
+    },
+    {
+      "date": "2023-04-22T00:00:00.000Z",
+      "opponent": "Dez Parker",
+      "opponentSlug": "39654-dez-parker",
+      "result": "win",
+      "method": "other",
+      "event": "Full Contact Contender 33",
+      "eventSlug": "99503-full-contact-contender-33",
+      "round": 1,
+      "timeInRound": "3:09"
+    },
+    {
+      "date": "2022-06-18T00:00:00.000Z",
+      "opponent": "David Round",
+      "opponentSlug": "18798-david-round",
+      "result": "win",
+      "method": "other",
+      "event": "Battle Arena Gloucester",
+      "eventSlug": "91140-battle-arena-gloucester",
+      "round": 1,
+      "timeInRound": "3:38"
+    },
+    {
+      "date": "2021-07-24T00:00:00.000Z",
+      "opponent": "Hayden Sherriff",
+      "opponentSlug": "68678-hayden-sheriff",
+      "result": "win",
+      "method": "other",
+      "event": "Battle Arena 62",
+      "eventSlug": "77938-battle-arena-62",
+      "round": 1,
+      "timeInRound": "1:24"
+    },
+    {
+      "date": "2021-06-26T00:00:00.000Z",
+      "opponent": "Thomas Paull",
+      "opponentSlug": "71414-thomas-paul",
+      "result": "win",
+      "method": "sub",
+      "event": "Golden Ticket Fight Promotions",
+      "eventSlug": "78417-golden-ticket-fight-promotions-15",
+      "round": 1,
+      "timeInRound": "4:36"
+    },
+    {
+      "date": "2020-03-07T00:00:00.000Z",
+      "opponent": "Brian Hooi",
+      "opponentSlug": "56065-brian-hooi",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Battle Arena 59",
+      "eventSlug": "67011-battle-arena-59",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-16T00:00:00.000Z",
+      "opponent": "Martin van Staden",
+      "opponentSlug": "martin-van-staden-the-punisher",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "EFC Worldwide 77",
+      "eventSlug": "57183-efc-worldwide-77",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-03T00:00:00.000Z",
+      "opponent": "Armand Scheepers",
+      "opponentSlug": "83315-armand-scheepers",
+      "result": "win",
+      "method": "other",
+      "event": "EFC Worldwide 75",
+      "eventSlug": "55965-efc-worldwide-75",
+      "round": 2,
+      "timeInRound": "3:07"
+    },
+    {
+      "date": "2017-05-13T00:00:00.000Z",
+      "opponent": "Shaun De Lange",
+      "opponentSlug": "58444-shaun-de-lange",
+      "result": "win",
+      "method": "sub",
+      "event": "EFC Worldwide 59",
+      "eventSlug": "43880-efc-worldwide-59",
+      "round": 1,
+      "timeInRound": "2:57"
+    },
+    {
+      "date": "2016-05-13T00:00:00.000Z",
+      "opponent": "Themba Gorimbo",
+      "opponentSlug": "52251-themba-takura-gorimbo",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "EFC Worldwide 49",
+      "eventSlug": "38429-efc-worldwide-49",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-07T00:00:00.000Z",
+      "opponent": "Bruno Mukulu",
+      "opponentSlug": "54729-bruno-mukulu-the-major",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "EFC Worldwide 45",
+      "eventSlug": "35216-efc-worldwide-45",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-05-07T00:00:00.000Z",
+      "opponent": "Marcel Teniers",
+      "opponentSlug": "58128-marcel-teniers-little-hammer",
+      "result": "win",
+      "method": "other",
+      "event": "EFC Africa 39",
+      "eventSlug": "29256-efc-africa-39",
+      "round": 1,
+      "timeInRound": "3:43"
+    },
+    {
+      "date": "2014-04-26T00:00:00.000Z",
+      "opponent": "Max Cotton",
+      "opponentSlug": "20949-max-cotton",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight UK",
+      "eventSlug": "23972-fight-uk-last-man-standing-lightweights",
+      "round": 1,
+      "timeInRound": "4:21"
+    },
+    {
+      "date": "2012-10-20T00:00:00.000Z",
+      "opponent": "Toby McLaren",
+      "opponentSlug": "26778-toby-mclaren",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ECFF: Rage",
+      "eventSlug": "16290-ecff-rage",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-05-05T00:00:00.000Z",
+      "opponent": "Janis Riekstins",
+      "opponentSlug": "27162-janis-riekstins",
+      "result": "win",
+      "method": "other",
+      "event": "ECFF: Under Pressure",
+      "eventSlug": "13704-ecff-under-pressure",
+      "round": 1,
+      "timeInRound": "1:42"
+    },
+    {
+      "date": "2011-07-16T00:00:00.000Z",
+      "opponent": "Mark Marshman",
+      "opponentSlug": "101434-mark-marshman",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:54:53.163Z"
+}

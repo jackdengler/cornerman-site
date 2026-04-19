@@ -1,0 +1,88 @@
+{
+  "slug": "74456-maciej-rycak",
+  "name": "Mateusz Rycak",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Poland",
+  "url": "https://www.tapology.com/fightcenter/fighters/74456-maciej-rycak",
+  "recentFights": [
+    {
+      "date": "2024-05-31T00:00:00.000Z",
+      "opponent": "Boris Atangana",
+      "opponentSlug": "337528-alan-mbarga",
+      "result": "loss",
+      "method": "tko",
+      "event": "AEF 7",
+      "eventSlug": "110730-aef-7",
+      "round": 1,
+      "timeInRound": "4:32"
+    },
+    {
+      "date": "2024-03-16T00:00:00.000Z",
+      "opponent": "Dawid Gruchalski",
+      "opponentSlug": "183146-dawid-gruchalski",
+      "result": "win",
+      "method": "tko",
+      "event": "Blood Fight Night 4",
+      "eventSlug": "111473-blood-fight-night-4",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-23T00:00:00.000Z",
+      "opponent": "Mikołaj Krukowski",
+      "opponentSlug": "172378-mikoaj-krukowski",
+      "result": "loss",
+      "method": "other",
+      "event": "Sparta MMA 2",
+      "eventSlug": "88950-sparta-mma-2",
+      "round": 1,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2015-03-21T00:00:00.000Z",
+      "opponent": "Robert Bryczek",
+      "opponentSlug": "26244-robert-bryczek",
+      "result": "loss",
+      "method": "other",
+      "event": "Iron Cage Warriors MMA 2",
+      "eventSlug": "24126-iron-cage-warriors-mma-2-silesia-fight-night",
+      "round": 1,
+      "timeInRound": "3:19"
+    },
+    {
+      "date": "2019-04-13T00:00:00.000Z",
+      "opponent": "Kamil Dąbrowski",
+      "opponentSlug": "219329-kamil-dabrowski",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Maximus Warriors 8",
+      "eventSlug": "59091-maximus-warriors-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-06-22T00:00:00.000Z",
+      "opponent": "Rafał Kowalski",
+      "opponentSlug": "56319-rafal-kowalski",
+      "result": "win",
+      "method": "sub",
+      "event": "ALMMA 62: Puchar Górnego Śląska",
+      "eventSlug": "70528-almma-62-puchar-gornego-slaska",
+      "round": 1,
+      "timeInRound": "1:46"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:18:27.489Z"
+}

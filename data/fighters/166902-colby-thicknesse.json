@@ -1,0 +1,231 @@
+{
+  "slug": "166902-colby-thicknesse",
+  "name": "Colby Thicknesse",
+  "nickname": "Slickness",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 175,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1999-06-23",
+  "nationality": "Wollongong, New South Wales, Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/166902-colby-thicknesse",
+  "recentFights": [
+    {
+      "date": "2026-05-02T00:00:00.000Z",
+      "opponent": "Vince Morales",
+      "opponentSlug": "91401-vince-morales",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "140511-ufc-fight-night-della-maddalena-vs-prates",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-27T00:00:00.000Z",
+      "opponent": "Josias Musasa",
+      "opponentSlug": "341923-josias-musasa",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "130754-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-02-08T00:00:00.000Z",
+      "opponent": "Aleksandre Topuria",
+      "opponentSlug": "100890-alex-topuria",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 312: Du Plessis vs. Strickland 2",
+      "eventSlug": "119136-ufc-312",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-23T00:00:00.000Z",
+      "opponent": "Marvin Malunes",
+      "opponentSlug": "249119-marvin-malunes",
+      "result": "win",
+      "method": "other",
+      "event": "HEX Fight Series 33",
+      "eventSlug": "117576-hex-fight-series-33",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-10-27T00:00:00.000Z",
+      "opponent": "Norman Agcorpra",
+      "opponentSlug": "123756-norman-accoprian",
+      "result": "win",
+      "method": "sub",
+      "event": "Canggu Fight Night 32",
+      "eventSlug": "118536-canggu-fight-night-32",
+      "round": 1,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2024-07-21T00:00:00.000Z",
+      "opponent": "Jufri Gobel",
+      "opponentSlug": "228770-jufri-gobel",
+      "result": "win",
+      "method": "other",
+      "event": "Canggu Fight Night 31",
+      "eventSlug": "115352-canggu-fight-night-31",
+      "round": 1,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2024-03-02T00:00:00.000Z",
+      "opponent": "Michael Mannu",
+      "opponentSlug": "120836-michael-mannue",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "HEX Fight Series 29",
+      "eventSlug": "107573-hex-fight-series-29",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-24T00:00:00.000Z",
+      "opponent": "Michael Barber",
+      "opponentSlug": "109283-michael-barber",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hex Fight Series 25",
+      "eventSlug": "95838-hex-fight-series-25",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-17T00:00:00.000Z",
+      "opponent": "Semakadde Kakembo",
+      "opponentSlug": "196400-sem-kakembo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 70",
+      "eventSlug": "91666-eternal-mma-70",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-11-21T00:00:00.000Z",
+      "opponent": "Shaun Johnson",
+      "opponentSlug": "102932-shaun-johnson",
+      "result": "win",
+      "method": "sub",
+      "event": "Eternal MMA 55",
+      "eventSlug": "73219-eternal-mma-55",
+      "round": 1,
+      "timeInRound": "4:54"
+    },
+    {
+      "date": "2020-03-08T00:00:00.000Z",
+      "opponent": "Dylan Thompson",
+      "opponentSlug": "164584-dylan-thompson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "67973-immaf-wmmaa-oceania-open-championship-finals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-03-07T00:00:00.000Z",
+      "opponent": "Abzzy Mahdawi",
+      "opponentSlug": "169485-abzzy-mahdawi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "67964-immaf-wmmaa-oceania-open-cup-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-03-06T00:00:00.000Z",
+      "opponent": "Ali Yaqoob",
+      "opponentSlug": "169370-ali-yaqoob",
+      "result": "win",
+      "method": "tko",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "67963-immaf-wmmaa-oceania-open-championship-day-1",
+      "round": 3,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2019-11-15T00:00:00.000Z",
+      "opponent": "Kris Ustijanovski",
+      "opponentSlug": "155740-kris-ustijanovski",
+      "result": "win",
+      "method": "sub",
+      "event": "Superfight MMA 14",
+      "eventSlug": "64076-superfight-mma-14",
+      "round": 3,
+      "timeInRound": "0:54"
+    },
+    {
+      "date": "2019-07-12T00:00:00.000Z",
+      "opponent": "Semakadde Kakembo",
+      "opponentSlug": "196400-sem-kakembo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Wollongong Wars 7",
+      "eventSlug": "61763-wollongong-wars-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-23T00:00:00.000Z",
+      "opponent": "Chris Thorne",
+      "opponentSlug": "191646-chris-thorne",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 42",
+      "eventSlug": "57693-eternal-mma-42",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-07T00:00:00.000Z",
+      "opponent": "Kris Ustijanovski",
+      "opponentSlug": "155740-kris-ustijanovski",
+      "result": "win",
+      "method": "sub",
+      "event": "Superfight MMA 8",
+      "eventSlug": "55071-superfight-mma-8",
+      "round": 1,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2018-05-18T00:00:00.000Z",
+      "opponent": "Thomas Riley",
+      "opponentSlug": "131489-thomas-riley",
+      "result": "win",
+      "method": "sub",
+      "event": "Superfight MMA 7",
+      "eventSlug": "53211-superfight-mma-7",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-29T00:00:00.000Z",
+      "opponent": "Thomas Grover",
+      "opponentSlug": "84728-thomas-grover",
+      "result": "win",
+      "method": "tko",
+      "event": "Wollongong Wars 6",
+      "eventSlug": "47801-wollongong-wars-6",
+      "round": 2,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T17:54:52.310Z"
+}

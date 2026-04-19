@@ -1,0 +1,99 @@
+{
+  "slug": "22562-joseph-latour",
+  "name": "Joseph Latour",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Toronto, Ontario, Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/22562-joseph-latour",
+  "recentFights": [
+    {
+      "date": "2012-11-30T00:00:00.000Z",
+      "opponent": "Mandel Nallo",
+      "opponentSlug": "24751-mandell-nallo",
+      "result": "loss",
+      "method": "other",
+      "event": "SLAMM 1",
+      "eventSlug": "16150-tristar-fight-night-1",
+      "round": 1,
+      "timeInRound": "0:39"
+    },
+    {
+      "date": "2010-02-26T00:00:00.000Z",
+      "opponent": "Mark Durant",
+      "opponentSlug": "17615-mark-durant-the-black-wolf",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-05-22T00:00:00.000Z",
+      "opponent": "Mark Durant",
+      "opponentSlug": "17615-mark-durant-the-black-wolf",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-02-06T00:00:00.000Z",
+      "opponent": "Lindsey Hawkes",
+      "opponentSlug": "11245-lindsey-hawkes",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2006-12-09T00:00:00.000Z",
+      "opponent": "John Salgado",
+      "opponentSlug": "john-salgado-greco",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2006-10-29T00:00:00.000Z",
+      "opponent": "Marquis Marquez",
+      "opponentSlug": "88526-marquis-marquez",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2006-09-02T00:00:00.000Z",
+      "opponent": "Matthew Gelfand",
+      "opponentSlug": "431316-matthew-gelfand",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:08:17.893Z"
+}

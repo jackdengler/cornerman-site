@@ -1,0 +1,44 @@
+{
+  "slug": "318499-djordie-rajic",
+  "name": "Djordie Rajic",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Serbia",
+  "url": "https://www.tapology.com/fightcenter/fighters/318499-djordie-rajic",
+  "recentFights": [
+    {
+      "date": "2023-04-01T00:00:00.000Z",
+      "opponent": "Robin Enontekiö",
+      "opponentSlug": "119941-robin-enonteki",
+      "result": "loss",
+      "method": "other",
+      "event": "Zone Pro League 5",
+      "eventSlug": "96981-zone-pro-league-5",
+      "round": 1,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2021-10-23T00:00:00.000Z",
+      "opponent": "Robert Valentin",
+      "opponentSlug": "136498-robert-valentin",
+      "result": "loss",
+      "method": "tko",
+      "event": "LIONS FC 9",
+      "eventSlug": "83234-lions-fc-4",
+      "round": 1,
+      "timeInRound": "0:39"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:57:34.699Z"
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "144892-seth-hart",
+  "name": "Seth Swinehart",
+  "nickname": "The Sweetheart",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 173,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1993-05-29",
+  "nationality": "Rockford, Illinois",
+  "url": "https://www.tapology.com/fightcenter/fighters/144892-seth-hart",
+  "recentFights": [
+    {
+      "date": "2021-12-10T00:00:00.000Z",
+      "opponent": "Jackson McVey",
+      "opponentSlug": "238221-jackson-mcvey",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 120: Cantuária vs. Horth",
+      "eventSlug": "84181-lfa-120-cantuaria-vs-horth",
+      "round": 2,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2020-10-24T00:00:00.000Z",
+      "opponent": "Michael Manning",
+      "opponentSlug": "185676-michael-manning",
+      "result": "win",
+      "method": "other",
+      "event": "Nemesis Fighting Alliance 3",
+      "eventSlug": "73579-nemesis-fighting-alliance-3",
+      "round": 1,
+      "timeInRound": "2:11"
+    },
+    {
+      "date": "2018-02-03T00:00:00.000Z",
+      "opponent": "JR Roberts",
+      "opponentSlug": "159377-jr-roberts",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XFO: Rocktown Showdown 32",
+      "eventSlug": "49823-xfo-rocktown-showdown-32",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-25T00:00:00.000Z",
+      "opponent": "Michael Adams",
+      "opponentSlug": "100587-michael-adams",
+      "result": "loss",
+      "method": "other",
+      "event": "XFO: Rocktown Showdown 31",
+      "eventSlug": "48142-xfo-rocktown-showdown-31",
+      "round": 2,
+      "timeInRound": "1:40"
+    },
+    {
+      "date": "2017-02-25T00:00:00.000Z",
+      "opponent": "Miles Mack",
+      "opponentSlug": "129849-miles-mack",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XFO: Rocktown Showdown 29",
+      "eventSlug": "44139-xfo-rocktown-showdown-29",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-25T00:00:00.000Z",
+      "opponent": "Brandon Basina",
+      "opponentSlug": "92571-brandon-basina",
+      "result": "win",
+      "method": "other",
+      "event": "XFO: Rocktown Showdown 28",
+      "eventSlug": "42456-xfo-rocktown-showdown-28",
+      "round": 2,
+      "timeInRound": "1:42"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:54:02.973Z"
+}

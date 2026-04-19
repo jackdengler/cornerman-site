@@ -1,0 +1,77 @@
+{
+  "slug": "237324-oscar-garcia",
+  "name": "Oscar García",
+  "nickname": "Rokita",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1999-11-14",
+  "nationality": "Mexico",
+  "url": "https://www.tapology.com/fightcenter/fighters/237324-oscar-garcia",
+  "recentFights": [
+    {
+      "date": "2023-06-03T00:00:00.000Z",
+      "opponent": "Ethan Herrod",
+      "opponentSlug": "301555-ethan-herrod",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Durham Fight Series 1",
+      "eventSlug": "101454-durham-fight-series-1-rise-of-the-pheonix",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-01T00:00:00.000Z",
+      "opponent": "Adrian Luna Martinetti",
+      "opponentSlug": "139620-juan-adrian-luna",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UWC 29",
+      "eventSlug": "82688-uwc-29",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-31T00:00:00.000Z",
+      "opponent": "Santos Rivera",
+      "opponentSlug": "139621-santos-isaias-rivera",
+      "result": "loss",
+      "method": "sub",
+      "event": "Combate Perfecto",
+      "eventSlug": "82851-combate-perfecto",
+      "round": 3,
+      "timeInRound": "1:21"
+    },
+    {
+      "date": "2021-03-27T00:00:00.000Z",
+      "opponent": "Diego Castillo",
+      "opponentSlug": "290243-diego-castillo",
+      "result": "loss",
+      "method": "tko",
+      "event": "JFL 23",
+      "eventSlug": "77994-jfl-23",
+      "round": 2,
+      "timeInRound": "2:28"
+    },
+    {
+      "date": "2019-09-28T00:00:00.000Z",
+      "opponent": "Luis Gómez",
+      "opponentSlug": "224960-luis-gomez-tarantula",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "War Cage Fighters 8",
+      "eventSlug": "63348-war-cage-fighters-8",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:36:59.697Z"
+}

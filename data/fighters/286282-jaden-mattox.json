@@ -1,0 +1,154 @@
+{
+  "slug": "286282-jaden-mattox",
+  "name": "Jaden Mattox",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 179,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1999-05-31",
+  "nationality": "Columbus, Ohio",
+  "url": "https://www.tapology.com/fightcenter/fighters/286282-jaden-mattox",
+  "recentFights": [
+    {
+      "date": "2026-03-07T00:00:00.000Z",
+      "opponent": "Jimmy Sandlin",
+      "opponentSlug": "138073-jimmy-sandlin",
+      "result": "win",
+      "method": "other",
+      "event": "Ohio Combat League 44",
+      "eventSlug": "137493-ohio-combat-league-44",
+      "round": 1,
+      "timeInRound": "3:09"
+    },
+    {
+      "date": "2025-12-20T00:00:00.000Z",
+      "opponent": "Jeremy Henry",
+      "opponentSlug": "195458-jeremy-henry-badcombination",
+      "result": "loss",
+      "method": "other",
+      "event": "Ohio Combat League 42",
+      "eventSlug": "134143-ohio-combat-league-42",
+      "round": 1,
+      "timeInRound": "3:36"
+    },
+    {
+      "date": "2025-03-01T00:00:00.000Z",
+      "opponent": "Titus Moore",
+      "opponentSlug": "285902-titus-moore",
+      "result": "win",
+      "method": "sub",
+      "event": "Ohio Combat League 36",
+      "eventSlug": "121675-ohio-combat-league-36-the-arnold-classic",
+      "round": 1,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2024-05-18T00:00:00.000Z",
+      "opponent": "Jeremy Henry",
+      "opponentSlug": "195458-jeremy-henry-badcombination",
+      "result": "loss",
+      "method": "other",
+      "event": "Ohio Combat League 29",
+      "eventSlug": "111362-ohio-combat-league-29",
+      "round": 2,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2023-12-16T00:00:00.000Z",
+      "opponent": "Toby Pee",
+      "opponentSlug": "61227-toby-pee",
+      "result": "win",
+      "method": "sub",
+      "event": "Ohio Combat League 27",
+      "eventSlug": "106638-ohio-combat-league-27",
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2023-10-07T00:00:00.000Z",
+      "opponent": "Jose Arriaga",
+      "opponentSlug": "158205-jose-arriaga",
+      "result": "win",
+      "method": "sub",
+      "event": "Ohio Combat League 26",
+      "eventSlug": "104063-ohio-combat-league-26",
+      "round": 1,
+      "timeInRound": "1:51"
+    },
+    {
+      "date": "2023-03-03T00:00:00.000Z",
+      "opponent": "Nick Mondelli",
+      "opponentSlug": "200281-nicholas-mondelli",
+      "result": "win",
+      "method": "other",
+      "event": "Ohio Combat League 24",
+      "eventSlug": "97670-ohio-combat-league-24",
+      "round": 1,
+      "timeInRound": "0:52"
+    },
+    {
+      "date": "2023-01-07T00:00:00.000Z",
+      "opponent": "Kobe Woodall",
+      "opponentSlug": "242823-kobe-woodall",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ohio Combat League 23",
+      "eventSlug": "94675-ohio-combat-league-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-11T00:00:00.000Z",
+      "opponent": "Shane Nuttall",
+      "opponentSlug": "307862-shane-nuttall-the-cyborg",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ohio Combat League 19",
+      "eventSlug": "88159-ohio-combat-league-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-01-29T00:00:00.000Z",
+      "opponent": "John Leark",
+      "opponentSlug": "243089-john-leark",
+      "result": "win",
+      "method": "other",
+      "event": "Ohio Combat League 17",
+      "eventSlug": "84532-ohio-combat-league-17",
+      "round": 1,
+      "timeInRound": "1:55"
+    },
+    {
+      "date": "2021-05-14T00:00:00.000Z",
+      "opponent": "Quintin Richards",
+      "opponentSlug": "292164-quintin-richards",
+      "result": "loss",
+      "method": "sub",
+      "event": "Ohio Combat League 12",
+      "eventSlug": "77790-ohio-combat-league-12",
+      "round": 3,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2021-03-05T00:00:00.000Z",
+      "opponent": "Bobby Kelley",
+      "opponentSlug": "286281-bobby-kelley-wolverine",
+      "result": "win",
+      "method": "other",
+      "event": "Ohio Combat League 10",
+      "eventSlug": "76920-ohio-combat-league-10",
+      "round": 3,
+      "timeInRound": "0:29"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:41:35.043Z"
+}

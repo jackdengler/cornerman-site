@@ -1,0 +1,70 @@
+{
+  "slug": "238864-matthew-kindred",
+  "name": "Matthew Kindred",
+  "nickname": "Happy Feet",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 4,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "2001-04-11",
+  "nationality": "Melton, Victoria, Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/238864-matthew-kindred",
+  "recentFights": [
+    {
+      "date": "2022-07-01T00:00:00.000Z",
+      "opponent": "Max Figgins",
+      "opponentSlug": "319120-max-figgins",
+      "result": "loss",
+      "method": "tko",
+      "event": "Rogue MMA 3",
+      "eventSlug": "89872-rogue-mma-3",
+      "round": 1,
+      "timeInRound": "0:21"
+    },
+    {
+      "date": "2021-11-27T00:00:00.000Z",
+      "opponent": "James Andrews",
+      "opponentSlug": "316377-james-andrews",
+      "result": "loss",
+      "method": "sub",
+      "event": "Bushido Fight Night 1",
+      "eventSlug": "84370-bushido-fight-night-1",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-22T00:00:00.000Z",
+      "opponent": "Jacob Lepage",
+      "opponentSlug": "289751-jacob-lepage",
+      "result": "loss",
+      "method": "sub",
+      "event": "Demolition Fight Series 3",
+      "eventSlug": "77541-demolition-fight-series-3",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-19T00:00:00.000Z",
+      "opponent": "Jonathan Micallef",
+      "opponentSlug": "238862-jonathan-micallef",
+      "result": "loss",
+      "method": "other",
+      "event": "Demolition Fight Series 1",
+      "eventSlug": "62762-xfc-demolition-1",
+      "round": 1,
+      "timeInRound": "5:00"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:54:26.509Z"
+}

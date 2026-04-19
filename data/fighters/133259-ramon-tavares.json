@@ -1,0 +1,253 @@
+{
+  "slug": "133259-ramon-tavares",
+  "name": "Ramon Taveras",
+  "nickname": "The Savage",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 178,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1994-01-09",
+  "nationality": "Duval County, Florida, USA",
+  "url": "https://www.tapology.com/fightcenter/fighters/133259-ramon-tavares",
+  "recentFights": [
+    {
+      "date": "2025-09-27T00:00:00.000Z",
+      "opponent": "Jack Jenkins",
+      "opponentSlug": "134851-jack-jenkins",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "130754-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-12-14T00:00:00.000Z",
+      "opponent": "Davey Grant",
+      "opponentSlug": "18815-david-grant",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "116905-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-01-20T00:00:00.000Z",
+      "opponent": "Serhiy Sidey",
+      "opponentSlug": "127056-serhiy-sidey",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC 297: Strickland vs. Du Plessis",
+      "eventSlug": "105840-ufc-297",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-10-10T00:00:00.000Z",
+      "opponent": "Cortavious Romious",
+      "opponentSlug": "113866-cortavious-romious",
+      "result": "win",
+      "method": "other",
+      "event": "Contender Series 2023",
+      "eventSlug": "101000-contender-series-2023-week-10",
+      "round": 1,
+      "timeInRound": "0:29"
+    },
+    {
+      "date": "2023-09-05T00:00:00.000Z",
+      "opponent": "Serhiy Sidey",
+      "opponentSlug": "127056-serhiy-sidey",
+      "result": "loss",
+      "method": "other",
+      "event": "Contender Series 2023",
+      "eventSlug": "100995-contender-series-2023-week-5",
+      "round": 1,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2023-05-06T00:00:00.000Z",
+      "opponent": "James Dunn",
+      "opponentSlug": "102421-james-dunn",
+      "result": "win",
+      "method": "tko",
+      "event": "Combat Night Pro",
+      "eventSlug": "99524-combat-night-pro-jacksonville",
+      "round": 2,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2023-03-04T00:00:00.000Z",
+      "opponent": "Charles Bennett",
+      "opponentSlug": "charles-bennett-krazy-horse",
+      "result": "win",
+      "method": "tko",
+      "event": "Combat Night",
+      "eventSlug": "98576-combat-night-orlando",
+      "round": 1,
+      "timeInRound": "2:10"
+    },
+    {
+      "date": "2022-04-30T00:00:00.000Z",
+      "opponent": "Martin Day",
+      "opponentSlug": "67451-martin-day",
+      "result": "win",
+      "method": "sub",
+      "event": "Combat Night Pro",
+      "eventSlug": "88764-combat-night-duval",
+      "round": 1,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2021-08-28T00:00:00.000Z",
+      "opponent": "Ryan Mondala",
+      "opponentSlug": "84132-ryan-mondala",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combat Night Pro",
+      "eventSlug": "81926-combat-night-pro-tallahassee",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-17T00:00:00.000Z",
+      "opponent": "Edward Massey",
+      "opponentSlug": "39294-edward-massey-the-ninja",
+      "result": "loss",
+      "method": "tko",
+      "event": "Combat Night Pro 21",
+      "eventSlug": "78571-combat-night-pro-21-tallahassee",
+      "round": 1,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2020-12-12T00:00:00.000Z",
+      "opponent": "Anthony Tisdale",
+      "opponentSlug": "67917-anthony-tisdale",
+      "result": "win",
+      "method": "sub",
+      "event": "Combat Night Pro 19",
+      "eventSlug": "74497-combat-night-pro-19",
+      "round": 1,
+      "timeInRound": "4:02"
+    },
+    {
+      "date": "2020-03-21T00:00:00.000Z",
+      "opponent": "Carlos Guerra",
+      "opponentSlug": "78232-carlos-guerra-diamante",
+      "result": "win",
+      "method": "tko",
+      "event": "Combat Night Pro 18",
+      "eventSlug": "68360-combat-night-pro-18",
+      "round": 1,
+      "timeInRound": "4:20"
+    },
+    {
+      "date": "2020-02-15T00:00:00.000Z",
+      "opponent": "Ginseng Du Jour",
+      "opponentSlug": "19588-ginseng-poit-dujour",
+      "result": "win",
+      "method": "tko",
+      "event": "Combat Night Pro 17",
+      "eventSlug": "67090-combat-night-pro-17",
+      "round": 3,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2019-11-09T00:00:00.000Z",
+      "opponent": "Christopher Wingate",
+      "opponentSlug": "93800-christopher-wingate",
+      "result": "win",
+      "method": "sub",
+      "event": "Combat Night Pro 15",
+      "eventSlug": "64210-combat-night-pro-15-duval",
+      "round": 2,
+      "timeInRound": "2:19"
+    },
+    {
+      "date": "2019-06-15T00:00:00.000Z",
+      "opponent": "Tristan McGraw",
+      "opponentSlug": "161975-tristan-mcgraw",
+      "result": "win",
+      "method": "sub",
+      "event": "Combat Night 107",
+      "eventSlug": "61096-combat-night-107",
+      "round": 3,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2018-11-10T00:00:00.000Z",
+      "opponent": "Loxbey Montalvan",
+      "opponentSlug": "157278-loxbey-montalvan",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combat Night Pro 9",
+      "eventSlug": "56482-combat-night-pro-9-duval",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-18T00:00:00.000Z",
+      "opponent": "Christopher Wingate",
+      "opponentSlug": "93800-christopher-wingate",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Combat Night 71",
+      "eventSlug": "44785-combat-night-71",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-17T00:00:00.000Z",
+      "opponent": "Joshua Dunkelberger",
+      "opponentSlug": "146759-josh-dunkelberger",
+      "result": "win",
+      "method": "tko",
+      "event": "Combat Night 67",
+      "eventSlug": "44256-combat-night-67",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-05T00:00:00.000Z",
+      "opponent": "Kris Deering",
+      "opponentSlug": "146737-kris-derring",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-08-27T00:00:00.000Z",
+      "opponent": "Randy Robinson",
+      "opponentSlug": "142456-randy-robinson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combat Night 63",
+      "eventSlug": "41469-combat-night-63",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-21T00:00:00.000Z",
+      "opponent": "Steven Koslow",
+      "opponentSlug": "131139-steven-koslow",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combat Night 60",
+      "eventSlug": "39305-combat-night-60",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:35:52.074Z"
+}

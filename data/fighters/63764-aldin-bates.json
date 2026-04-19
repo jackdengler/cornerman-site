@@ -1,0 +1,165 @@
+{
+  "slug": "63764-aldin-bates",
+  "name": "Aldin Bates",
+  "nickname": "Jamaican Warrior",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1986-11-12",
+  "nationality": "England, United Kingdom",
+  "url": "https://www.tapology.com/fightcenter/fighters/63764-aldin-bates",
+  "recentFights": [
+    {
+      "date": "2026-05-01T00:00:00.000Z",
+      "opponent": "John Martin Fraser",
+      "opponentSlug": "145385-john-martin-fraser",
+      "result": null,
+      "method": "other",
+      "event": "Eternal MMA 105",
+      "eventSlug": "140911-eternal-mma-105",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-02T00:00:00.000Z",
+      "opponent": "Jonathan Micallef",
+      "opponentSlug": "238862-jonathan-micallef",
+      "result": "win",
+      "method": "tko",
+      "event": "HEX Fight Series 29",
+      "eventSlug": "107573-hex-fight-series-29",
+      "round": 4,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2023-06-10T00:00:00.000Z",
+      "opponent": "Stu Dare",
+      "opponentSlug": "30893-stuart-dare",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 76",
+      "eventSlug": "99484-eternal-mma-76",
+      "round": 1,
+      "timeInRound": "3:31"
+    },
+    {
+      "date": "2023-02-11T00:00:00.000Z",
+      "opponent": "John Vake",
+      "opponentSlug": "68353-john-vake",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Eternal MMA 73",
+      "eventSlug": "95618-eternal-mma-73",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-10-10T00:00:00.000Z",
+      "opponent": "Jack Della Maddalena",
+      "opponentSlug": "119831-jack-della-maddalena",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 53",
+      "eventSlug": "71553-eternal-mma-53",
+      "round": 1,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2019-05-11T00:00:00.000Z",
+      "opponent": "Glen Pettigrew",
+      "opponentSlug": "102565-glen-pettigrew",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 44",
+      "eventSlug": "59459-eternal-mma-44",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-29T00:00:00.000Z",
+      "opponent": "Luke Howard",
+      "opponentSlug": "76023-luke-howard",
+      "result": "win",
+      "method": "tko",
+      "event": "Hex Fight Series 10",
+      "eventSlug": "46529-hex-fight-series-10",
+      "round": 1,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2017-03-31T00:00:00.000Z",
+      "opponent": "Kitt Campbell",
+      "opponentSlug": "59598-kitt-campbell",
+      "result": "loss",
+      "method": "other",
+      "event": "Hex Fight Series 8",
+      "eventSlug": "43840-hex-fight-series-8",
+      "round": 1,
+      "timeInRound": "2:18"
+    },
+    {
+      "date": "2017-03-05T00:00:00.000Z",
+      "opponent": "Nick Wood",
+      "opponentSlug": "119830-nick-wood",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 23",
+      "eventSlug": "43837-eternal-mma-24",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2016-07-09T00:00:00.000Z",
+      "opponent": "Damian Fraser",
+      "opponentSlug": "36935-damian-fraser",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 18",
+      "eventSlug": "39886-eternal-mma-18",
+      "round": 1,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2016-03-12T00:00:00.000Z",
+      "opponent": "Jack Della Maddalena",
+      "opponentSlug": "119831-jack-della-maddalena",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 15",
+      "eventSlug": "37947-eternal-mma-15",
+      "round": 3,
+      "timeInRound": "2:16"
+    },
+    {
+      "date": "2015-09-27T00:00:00.000Z",
+      "opponent": "Jamie van der Kuijl",
+      "opponentSlug": "115408-jamie-van-der-kuijl-vdk",
+      "result": "win",
+      "method": "other",
+      "event": "Bragging Rights 7",
+      "eventSlug": "33863-bragging-rights-7",
+      "round": 2,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2014-02-21T00:00:00.000Z",
+      "opponent": "Matt McGuiness",
+      "opponentSlug": "63765-matt-mcguiness",
+      "result": "win",
+      "method": "other",
+      "event": "Australian FC 8",
+      "eventSlug": "22225-afc-8-magalhaes-vs-patterson",
+      "round": 2,
+      "timeInRound": "1:18"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:54:03.548Z"
+}

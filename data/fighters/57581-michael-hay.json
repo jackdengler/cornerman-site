@@ -1,0 +1,110 @@
+{
+  "slug": "57581-michael-hay",
+  "name": "Michael Hay",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 177,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1993-04-17",
+  "nationality": "Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/57581-michael-hay",
+  "recentFights": [
+    {
+      "date": "2019-12-06T00:00:00.000Z",
+      "opponent": "Noah Ali",
+      "opponentSlug": "24805-noah-ali",
+      "result": "loss",
+      "method": "other",
+      "event": "Unified MMA 39",
+      "eventSlug": "63554-unified-mma-39",
+      "round": 3,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2018-12-07T00:00:00.000Z",
+      "opponent": "Jamie Siraj",
+      "opponentSlug": "35361-jamie-siraj-the-gremlin",
+      "result": "loss",
+      "method": "other",
+      "event": "Unified MMA 35",
+      "eventSlug": "54140-unified-mma-35",
+      "round": 5,
+      "timeInRound": "0:18"
+    },
+    {
+      "date": "2017-09-29T00:00:00.000Z",
+      "opponent": "Corey Gower",
+      "opponentSlug": "14331-Corey-Gower",
+      "result": "win",
+      "method": "sub",
+      "event": "Unified MMA 32",
+      "eventSlug": "47650-unified-mma-32",
+      "round": 1,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2017-03-31T00:00:00.000Z",
+      "opponent": "Rick Pfeifer",
+      "opponentSlug": "19059-rick-pfeifer",
+      "result": "win",
+      "method": "sub",
+      "event": "Unified MMA 30",
+      "eventSlug": "44510-unified-mma-30",
+      "round": 1,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2016-06-03T00:00:00.000Z",
+      "opponent": "Billy Marsh",
+      "opponentSlug": "130927-billy-marsh",
+      "result": "win",
+      "method": "sub",
+      "event": "Unified MMA 27",
+      "eventSlug": "38161-unified-mma-27",
+      "round": 1,
+      "timeInRound": "0:46"
+    },
+    {
+      "date": "2015-06-05T00:00:00.000Z",
+      "opponent": "Louie Grover",
+      "opponentSlug": "20369-louie-grover",
+      "result": "win",
+      "method": "sub",
+      "event": "WSOF 21: Palmer vs. Horodecki",
+      "eventSlug": "30093-wsof-21-ford-vs-okami",
+      "round": 1,
+      "timeInRound": "2:17"
+    },
+    {
+      "date": "2014-10-03T00:00:00.000Z",
+      "opponent": "Brad Katona",
+      "opponentSlug": "64459-brad-katona",
+      "result": "loss",
+      "method": "other",
+      "event": "MFC 41: All In",
+      "eventSlug": "24956-mfc-41",
+      "round": 1,
+      "timeInRound": "2:47"
+    },
+    {
+      "date": "2014-05-09T00:00:00.000Z",
+      "opponent": "Justin Lavertu",
+      "opponentSlug": "69932-justin-lavertu",
+      "result": "win",
+      "method": "sub",
+      "event": "MFC 40: Crowned Kings",
+      "eventSlug": "22175-mfc-40",
+      "round": 1,
+      "timeInRound": "3:27"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:04:42.666Z"
+}

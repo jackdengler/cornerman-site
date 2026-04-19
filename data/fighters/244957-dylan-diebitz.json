@@ -1,0 +1,165 @@
+{
+  "slug": "244957-dylan-diebitz",
+  "name": "Dylan Diebitz",
+  "nickname": "Debo",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": 189,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1995-05-31",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/244957-dylan-diebitz",
+  "recentFights": [
+    {
+      "date": "2026-04-04T00:00:00.000Z",
+      "opponent": "Tyler Hufnagle",
+      "opponentSlug": "38584-tyler-hufnagle",
+      "result": "win",
+      "method": "other",
+      "event": "MFL 59: Mortal Kombat",
+      "eventSlug": "139654-mfl-59-mortal-kombat",
+      "round": 1,
+      "timeInRound": "4:39"
+    },
+    {
+      "date": "2026-02-21T00:00:00.000Z",
+      "opponent": "Ryan Hawkins",
+      "opponentSlug": "105990-ryan-hawkins",
+      "result": "win",
+      "method": "other",
+      "event": "Pure FC 31",
+      "eventSlug": "138219-pure-fc-31",
+      "round": 1,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2025-08-15T00:00:00.000Z",
+      "opponent": "Brady Minner",
+      "opponentSlug": "165120-brady-minner",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 214: Fernando vs. Latu",
+      "eventSlug": "129780-lfa-214",
+      "round": 2,
+      "timeInRound": "1:57"
+    },
+    {
+      "date": "2024-09-13T00:00:00.000Z",
+      "opponent": "Theo Haig",
+      "opponentSlug": "253447-theo-haig",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 192: Climaco vs. Dias",
+      "eventSlug": "115811-lfa-192",
+      "round": 2,
+      "timeInRound": "4:03"
+    },
+    {
+      "date": "2024-04-20T00:00:00.000Z",
+      "opponent": "Jon Kennedy",
+      "opponentSlug": "18584-jon-kennedy",
+      "result": "win",
+      "method": "other",
+      "event": "North Iowa Fights 18",
+      "eventSlug": "111077-north-iowa-fights-18",
+      "round": 1,
+      "timeInRound": "2:05"
+    },
+    {
+      "date": "2023-09-16T00:00:00.000Z",
+      "opponent": "Patrick Keepers",
+      "opponentSlug": "218649-patrick-keepers",
+      "result": "win",
+      "method": "other",
+      "event": "Pure FC 26",
+      "eventSlug": "95813-pure-fc-25",
+      "round": 1,
+      "timeInRound": "3:04"
+    },
+    {
+      "date": "2023-03-11T00:00:00.000Z",
+      "opponent": "Jordan Chambliss",
+      "opponentSlug": "55093-jordan-chambliss-el-toro",
+      "result": "win",
+      "method": "sub",
+      "event": "WXCF 9",
+      "eventSlug": "95043-wxcf-9",
+      "round": 1,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2022-09-10T00:00:00.000Z",
+      "opponent": "Ben Ross",
+      "opponentSlug": "68382-ben-ross",
+      "result": "win",
+      "method": "other",
+      "event": "3 River Throwdown 19",
+      "eventSlug": "89279-3-river-throwdown-19",
+      "round": 1,
+      "timeInRound": "3:23"
+    },
+    {
+      "date": "2022-04-08T00:00:00.000Z",
+      "opponent": "Canyon Smith",
+      "opponentSlug": "309783-canyon-smith",
+      "result": "win",
+      "method": "tko",
+      "event": "Brawl @ Bourbon Street 3",
+      "eventSlug": "85330-ignite-fights-brawl-bourbon-street-3",
+      "round": 2,
+      "timeInRound": "0:59"
+    },
+    {
+      "date": "2021-09-24T00:00:00.000Z",
+      "opponent": "Jackson McVey",
+      "opponentSlug": "238221-jackson-mcvey",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 115: Silveira vs. Cummins",
+      "eventSlug": "82167-lfa-115-silveira-vs-cummins",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-27T00:00:00.000Z",
+      "opponent": "Ethan Soderstrom",
+      "opponentSlug": "295382-ethan-soderstrom",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Pure FC 19",
+      "eventSlug": "78464-pure-fc-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-10T00:00:00.000Z",
+      "opponent": "Wilson Lopshire",
+      "opponentSlug": "281484-wilson-lopshire",
+      "result": "win",
+      "method": "other",
+      "event": "Colosseum Combat 53",
+      "eventSlug": "76244-colosseum-combat-53",
+      "round": 1,
+      "timeInRound": "2:16"
+    },
+    {
+      "date": "2019-12-07T00:00:00.000Z",
+      "opponent": "Mike Lunde",
+      "opponentSlug": "237459-mike-lunde",
+      "result": "win",
+      "method": "other",
+      "event": "Pure FC 16",
+      "eventSlug": "62834-pure-fc-16",
+      "round": 1,
+      "timeInRound": "2:31"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:54:04.957Z"
+}

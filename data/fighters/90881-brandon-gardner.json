@@ -1,0 +1,81 @@
+{
+  "slug": "90881-brandon-gardner",
+  "name": "Brandon Gardner",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1987-11-03",
+  "nationality": "Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/90881-brandon-gardner",
+  "recentFights": [
+    {
+      "date": "2017-07-29T00:00:00.000Z",
+      "opponent": "Solomon Courtoreille",
+      "opponentSlug": "118930-solomon-courtoreille",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "XFFC 15",
+      "eventSlug": "46530-xffc-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-01-26T00:00:00.000Z",
+      "opponent": "Cameron Gilliam",
+      "opponentSlug": "21992-cameron-gilliam",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-11-10T00:00:00.000Z",
+      "opponent": "Jay Paulson",
+      "opponentSlug": "85222-jay-paulson",
+      "result": "win",
+      "method": "sub",
+      "event": "Lockout",
+      "eventSlug": "16501-lockout",
+      "round": 1,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2012-06-23T00:00:00.000Z",
+      "opponent": "John Castañeda",
+      "opponentSlug": "20125-john-castaneda",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-03-19T00:00:00.000Z",
+      "opponent": "Tanek Sokolowski",
+      "opponentSlug": "61088-tanek-sokolowski",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:03:28.721Z"
+}

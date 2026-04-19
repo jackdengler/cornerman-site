@@ -1,0 +1,66 @@
+{
+  "slug": "18999-rodrigo-sotelo",
+  "name": "Rodrigo Sotelo Jr.",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1985-03-25",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/18999-rodrigo-sotelo",
+  "recentFights": [
+    {
+      "date": "2015-09-26T00:00:00.000Z",
+      "opponent": "Alexander Hernandez",
+      "opponentSlug": "46253-alexander-hernandez",
+      "result": "loss",
+      "method": "sub",
+      "event": "Hero FC: Best of the Best 6",
+      "eventSlug": "34254-hero-fc-best-of-the-best-6",
+      "round": 1,
+      "timeInRound": "4:44"
+    },
+    {
+      "date": "2013-09-28T00:00:00.000Z",
+      "opponent": "Marques Daniels",
+      "opponentSlug": "8046-marques-daniels",
+      "result": "win",
+      "method": "other",
+      "event": "Rocktagon MMA 29",
+      "eventSlug": "20608-rocktagon-mma-29-journey-of-champions",
+      "round": 2,
+      "timeInRound": "0:13"
+    },
+    {
+      "date": "2013-07-26T00:00:00.000Z",
+      "opponent": "Joe Torrez",
+      "opponentSlug": "9013-joe-torrez",
+      "result": "win",
+      "method": "other",
+      "event": "Rocktagon MMA 28",
+      "eventSlug": "19752-rocktagon-mma-28",
+      "round": 1,
+      "timeInRound": "2:42"
+    },
+    {
+      "date": "2011-10-01T00:00:00.000Z",
+      "opponent": "Kevin Croom",
+      "opponentSlug": "kevin-croom-the-kremlin",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:35:31.641Z"
+}

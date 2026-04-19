@@ -1,0 +1,366 @@
+{
+  "slug": "140511-ufc-fight-night-della-maddalena-vs-prates",
+  "name": "UFC Fight Night: Della Maddalena vs. Prates",
+  "promotion": "Ultimate Fighting Championship",
+  "startTimeUtc": "2026-05-02T08:00:00.000Z",
+  "venueTimezone": null,
+  "venue": "RAC Arena",
+  "location": "Perth, Western Australia, Australia",
+  "url": "https://www.tapology.com/fightcenter/events/140511-ufc-fight-night-della-maddalena-vs-prates",
+  "status": "scheduled",
+  "forumThreadId": "95747",
+  "fights": [
+    {
+      "id": "140511-ufc-fight-night-della-maddalena-vs-prates#1",
+      "eventSlug": "140511-ufc-fight-night-della-maddalena-vs-prates",
+      "order": 1,
+      "cardSection": "main",
+      "weightClass": "170 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "119831-jack-della-maddalena",
+        "name": "Jack Della Maddalena",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "36554-carlos-prates-carlao",
+        "name": "Carlos Prates",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:41.486Z"
+    },
+    {
+      "id": "140511-ufc-fight-night-della-maddalena-vs-prates#2",
+      "eventSlug": "140511-ufc-fight-night-della-maddalena-vs-prates",
+      "order": 2,
+      "cardSection": "main",
+      "weightClass": "155 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "20010-beneil-dariush-benny",
+        "name": "Beneil Dariush",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "195051-quilland-salkid",
+        "name": "Quillan Salkilld",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:41.486Z"
+    },
+    {
+      "id": "140511-ufc-fight-night-della-maddalena-vs-prates#3",
+      "eventSlug": "140511-ufc-fight-night-della-maddalena-vs-prates",
+      "order": 3,
+      "cardSection": "main",
+      "weightClass": "265 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "120884-tai-tuivasa-bam-bam",
+        "name": "Tai Tuivasa",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "229173-sean-sharaf",
+        "name": "Sean Sharaf",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:41.486Z"
+    },
+    {
+      "id": "140511-ufc-fight-night-della-maddalena-vs-prates#4",
+      "eventSlug": "140511-ufc-fight-night-della-maddalena-vs-prates",
+      "order": 4,
+      "cardSection": "main",
+      "weightClass": "125 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "13664-timothy-elliot",
+        "name": "Tim Elliott",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "132326-stephen-erceg",
+        "name": "Steve Erceg",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:41.486Z"
+    },
+    {
+      "id": "140511-ufc-fight-night-della-maddalena-vs-prates#5",
+      "eventSlug": "140511-ufc-fight-night-della-maddalena-vs-prates",
+      "order": 5,
+      "cardSection": "main",
+      "weightClass": "185 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "111323-jacob-malkoun",
+        "name": "Jacob Malkoun",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "6018-gerald-meerschaert-the-machine",
+        "name": "Gerald Meerschaert",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:41.486Z"
+    },
+    {
+      "id": "140511-ufc-fight-night-della-maddalena-vs-prates#6",
+      "eventSlug": "140511-ufc-fight-night-della-maddalena-vs-prates",
+      "order": 6,
+      "cardSection": "main",
+      "weightClass": "205 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "242095-junior-tafa",
+        "name": "Junior Tafa",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "124745-kevin-christian",
+        "name": "Kevin Christian",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:41.486Z"
+    },
+    {
+      "id": "140511-ufc-fight-night-della-maddalena-vs-prates#7",
+      "eventSlug": "140511-ufc-fight-night-della-maddalena-vs-prates",
+      "order": 7,
+      "cardSection": "main",
+      "weightClass": "185 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "69262-cam-rowston",
+        "name": "Cam Rowston",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "26244-robert-bryczek",
+        "name": "Robert Bryczek",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:41.486Z"
+    },
+    {
+      "id": "140511-ufc-fight-night-della-maddalena-vs-prates#8",
+      "eventSlug": "140511-ufc-fight-night-della-maddalena-vs-prates",
+      "order": 8,
+      "cardSection": "main",
+      "weightClass": "155 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "228289-kody-steele",
+        "name": "Kody Steele",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "196890-dom-mar-fan",
+        "name": "Dom Mar Fan",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:41.486Z"
+    },
+    {
+      "id": "140511-ufc-fight-night-della-maddalena-vs-prates#9",
+      "eventSlug": "140511-ufc-fight-night-della-maddalena-vs-prates",
+      "order": 9,
+      "cardSection": "main",
+      "weightClass": "170 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "238862-jonathan-micallef",
+        "name": "Jonathan Micallef",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "52251-themba-takura-gorimbo",
+        "name": "Themba Gorimbo",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:41.486Z"
+    },
+    {
+      "id": "140511-ufc-fight-night-della-maddalena-vs-prates#10",
+      "eventSlug": "140511-ufc-fight-night-della-maddalena-vs-prates",
+      "order": 10,
+      "cardSection": "main",
+      "weightClass": "265 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "201352-shamil-gaziev",
+        "name": "Shamil Gaziev",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "195101-brando-pericic",
+        "name": "Brando Peričić",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:41.486Z"
+    },
+    {
+      "id": "140511-ufc-fight-night-della-maddalena-vs-prates#11",
+      "eventSlug": "140511-ufc-fight-night-della-maddalena-vs-prates",
+      "order": 11,
+      "cardSection": "main",
+      "weightClass": "135 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "166902-colby-thicknesse",
+        "name": "Colby Thicknesse",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "91401-vince-morales",
+        "name": "Vince Morales",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:41.486Z"
+    },
+    {
+      "id": "140511-ufc-fight-night-della-maddalena-vs-prates#12",
+      "eventSlug": "140511-ufc-fight-night-della-maddalena-vs-prates",
+      "order": 12,
+      "cardSection": "main",
+      "weightClass": "185 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "222807-wesley-schultz",
+        "name": "Wes Schultz",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "345042-ben-johnston",
+        "name": "Ben Johnston",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:41.486Z"
+    },
+    {
+      "id": "140511-ufc-fight-night-della-maddalena-vs-prates#13",
+      "eventSlug": "140511-ufc-fight-night-della-maddalena-vs-prates",
+      "order": 13,
+      "cardSection": "main",
+      "weightClass": "145 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "134851-jack-jenkins",
+        "name": "Jack Jenkins",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "388487-marwan-rahiki",
+        "name": "Marwan Rahiki",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T19:09:41.486Z"
+    }
+  ],
+  "lastVerified": "2026-04-19T19:09:41.486Z"
+}

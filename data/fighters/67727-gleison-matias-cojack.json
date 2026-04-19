@@ -1,0 +1,88 @@
+{
+  "slug": "67727-gleison-matias-cojack",
+  "name": "Gleison Matias",
+  "nickname": "Cojack",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 4,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/67727-gleison-matias-cojack",
+  "recentFights": [
+    {
+      "date": "2014-05-17T00:00:00.000Z",
+      "opponent": "Jafel Filho",
+      "opponentSlug": "46690-jafel-cavalcante-filho",
+      "result": "loss",
+      "method": "sub",
+      "event": "São Francisco Fight 4",
+      "eventSlug": "27921-sao-francisco-fight-4",
+      "round": 1,
+      "timeInRound": "2:43"
+    },
+    {
+      "date": "2014-04-10T00:00:00.000Z",
+      "opponent": "Romario Nobre",
+      "opponentSlug": "67728-romario-nobre",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "OX MMA 2: OX Revolution",
+      "eventSlug": "23668-ox-mma-2-ox-revolution",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-01-24T00:00:00.000Z",
+      "opponent": "Nelcione Nascimento",
+      "opponentSlug": "67745-jose-nelcione-dos-santos-nascimento",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-12-13T00:00:00.000Z",
+      "opponent": "Nelcione Nascimento",
+      "opponentSlug": "67745-jose-nelcione-dos-santos-nascimento",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-04-24T00:00:00.000Z",
+      "opponent": "Gabriel Abreu",
+      "opponentSlug": "67747-gabriel-abreu",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-09-29T00:00:00.000Z",
+      "opponent": "Wesley Oliveira",
+      "opponentSlug": "67749-wesley-oliveira",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:55:50.738Z"
+}

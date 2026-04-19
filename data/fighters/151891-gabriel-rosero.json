@@ -1,0 +1,48 @@
+{
+  "slug": "151891-gabriel-rosero",
+  "name": "Gabriel Rosero",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Ecuador",
+  "url": "https://www.tapology.com/fightcenter/fighters/151891-gabriel-rosero",
+  "recentFights": [
+    {
+      "date": "2018-07-27T00:00:00.000Z",
+      "opponent": "Dennis Buzukja",
+      "opponentSlug": "131561-dennis-buzukia",
+      "result": "loss",
+      "method": "tko",
+      "event": "Combat at the Capitale 41",
+      "eventSlug": "54202-combat-at-the-capitale-41",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2017-02-24T00:00:00.000Z",
+      "opponent": "Andrews Rodriguez",
+      "opponentSlug": "145524-andrew-rodriguez",
+      "result": "loss",
+      "method": "sub",
+      "event": "Triton Fights 1",
+      "eventSlug": "43324-triton-fights-1",
+      "round": 1,
+      "timeInRound": "1:18"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:13:16.674Z"
+}

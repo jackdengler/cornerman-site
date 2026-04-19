@@ -1,0 +1,198 @@
+{
+  "slug": "135356-pete-rodriguez",
+  "name": "Pete Rodriguez",
+  "nickname": "Dead Game",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 185,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1996-11-13",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/135356-pete-rodriguez",
+  "recentFights": [
+    {
+      "date": "2024-02-03T00:00:00.000Z",
+      "opponent": "Themba Gorimbo",
+      "opponentSlug": "52251-themba-takura-gorimbo",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "106801-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "0:32"
+    },
+    {
+      "date": "2022-10-15T00:00:00.000Z",
+      "opponent": "Mike Jackson",
+      "opponentSlug": "20057-mike-jackson",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "90713-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "1:33"
+    },
+    {
+      "date": "2022-01-22T00:00:00.000Z",
+      "opponent": "Jack Della Maddalena",
+      "opponentSlug": "119831-jack-della-maddalena",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 270: N'Gannou vs. Gane",
+      "eventSlug": "82993-ufc-270",
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2021-06-11T00:00:00.000Z",
+      "opponent": "Roberto Pixley",
+      "opponentSlug": "133598-roberto-pixley",
+      "result": "win",
+      "method": "other",
+      "event": "iKon Fighting Federation 7",
+      "eventSlug": "79070-ikon-fighting-federation-7",
+      "round": 1,
+      "timeInRound": "2:21"
+    },
+    {
+      "date": "2021-04-02T00:00:00.000Z",
+      "opponent": "José Luis Ríos Nava",
+      "opponentSlug": "96406-jose-luis-rios-el-tatis",
+      "result": "win",
+      "method": "other",
+      "event": "iKon Fighting Federation 6",
+      "eventSlug": "77993-ikon-fighting-federation-6",
+      "round": 1,
+      "timeInRound": "0:41"
+    },
+    {
+      "date": "2020-11-20T00:00:00.000Z",
+      "opponent": "Yasser Guzman",
+      "opponentSlug": "270731-yasser-guzman-pantera",
+      "result": "win",
+      "method": "other",
+      "event": "iKon Fighting Federation 3",
+      "eventSlug": "73843-ikon-3",
+      "round": 1,
+      "timeInRound": "0:10"
+    },
+    {
+      "date": "2020-10-22T00:00:00.000Z",
+      "opponent": "Jorge Olea",
+      "opponentSlug": "115544-jorge-olea",
+      "result": "win",
+      "method": "other",
+      "event": "iKon Fighting Federation 2",
+      "eventSlug": "72962-torres-vs-zepeda",
+      "round": 1,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2019-06-22T00:00:00.000Z",
+      "opponent": "Nate Aleo",
+      "opponentSlug": "162548-nathan-aleo",
+      "result": "win",
+      "method": "other",
+      "event": "EAFL: Season 3 National Championship",
+      "eventSlug": "60886-eafl-arizona-vs-illinois",
+      "round": 1,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2019-05-18T00:00:00.000Z",
+      "opponent": "Mike Schlageck",
+      "opponentSlug": "197829-mike-schlageck",
+      "result": "win",
+      "method": "other",
+      "event": "RUF MMA 32",
+      "eventSlug": "60303-ruf-mma-32",
+      "round": 2,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2019-03-30T00:00:00.000Z",
+      "opponent": "Terry Lyles",
+      "opponentSlug": "191000-terry-lyles",
+      "result": "loss",
+      "method": "sub",
+      "event": "Iron Boy MMA 14",
+      "eventSlug": "59115-iron-boy-mma-14",
+      "round": 1,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2018-08-11T00:00:00.000Z",
+      "opponent": "Donovan Cross",
+      "opponentSlug": "165641-donovan-cross",
+      "result": "win",
+      "method": "other",
+      "event": "RUF MMA 27",
+      "eventSlug": "53829-ruf-mma-27",
+      "round": 1,
+      "timeInRound": "0:19"
+    },
+    {
+      "date": "2018-03-17T00:00:00.000Z",
+      "opponent": "Jordan Holmes",
+      "opponentSlug": "132150-jordan-holmes",
+      "result": "win",
+      "method": "other",
+      "event": "RUF MMA 24",
+      "eventSlug": "50155-ruf-mma-23",
+      "round": 1,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2017-07-15T00:00:00.000Z",
+      "opponent": "Clayton Falemoe",
+      "opponentSlug": "136822-clayton-flaemoe",
+      "result": "win",
+      "method": "tko",
+      "event": "RUF MMA 20",
+      "eventSlug": "46750-ruf-mma",
+      "round": 1,
+      "timeInRound": "1:18"
+    },
+    {
+      "date": "2017-04-29T00:00:00.000Z",
+      "opponent": "George Sopi",
+      "opponentSlug": "155758-george-sopi",
+      "result": "win",
+      "method": "tko",
+      "event": "RUF MMA",
+      "eventSlug": "45043-ruf-mma",
+      "round": 1,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2016-10-22T00:00:00.000Z",
+      "opponent": "Christopher Llanes",
+      "opponentSlug": "103125-christopher-llanes",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Rage on the River 12",
+      "eventSlug": "42336-cage-rage-on-the-river-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-06-25T00:00:00.000Z",
+      "opponent": "Mario Bejarano",
+      "opponentSlug": "83122-mario-bejarano",
+      "result": "win",
+      "method": "tko",
+      "event": "Cage Rage on the River 11",
+      "eventSlug": "40470-cage-rage-on-the-river-10",
+      "round": 1,
+      "timeInRound": "2:26"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:54:33.129Z"
+}

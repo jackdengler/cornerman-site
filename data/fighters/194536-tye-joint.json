@@ -1,0 +1,103 @@
+{
+  "slug": "194536-tye-joint",
+  "name": "Tye Joint",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 5,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "2000-06-08",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/194536-tye-joint",
+  "recentFights": [
+    {
+      "date": "2019-12-14T00:00:00.000Z",
+      "opponent": "Paul Burgin",
+      "opponentSlug": "56774-paul-burgin",
+      "result": "win",
+      "method": "other",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "64509-brutaal-genesis-fight-night-back-in-the-barn-16",
+      "round": 2,
+      "timeInRound": "2:28"
+    },
+    {
+      "date": "2019-03-23T00:00:00.000Z",
+      "opponent": "Traevon Kroger",
+      "opponentSlug": "170104-traevon-kroger",
+      "result": "win",
+      "method": "other",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "58915-brutaal-genesis-fight-night-back-in-the-barn-14",
+      "round": 2,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2019-02-09T00:00:00.000Z",
+      "opponent": "Luis Sifuentes",
+      "opponentSlug": "95347-luis-sifuentes",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "58138-brutaal-genesis-fight-night-fort-frenzy-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-15T00:00:00.000Z",
+      "opponent": "Amon Langford",
+      "opponentSlug": "164380-amon-langford",
+      "result": "win",
+      "method": "sub",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "56749-brutaal-genesis-fight-night-back-in-the-barn-13",
+      "round": 2,
+      "timeInRound": "2:21"
+    },
+    {
+      "date": "2018-09-01T00:00:00.000Z",
+      "opponent": "Gary Konkol",
+      "opponentSlug": "92127-gary-konkol-wildboy",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Warrior Games 3",
+      "eventSlug": "54785-warrior-games-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-08-24T00:00:00.000Z",
+      "opponent": "Santana Acosta",
+      "opponentSlug": "85224-santana-acosta",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "54965-brutaal-genesis-fight-night-back-in-the-barn-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-14T00:00:00.000Z",
+      "opponent": "Izzy Heredia",
+      "opponentSlug": "143970-izzy-heredia",
+      "result": "win",
+      "method": "other",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "54155-brutaal-genesis-fight-night-fort-frenzy-4",
+      "round": 1,
+      "timeInRound": "3:00"
+    }
+  ],
+  "lastVerified": "2026-04-18T09:06:09.938Z"
+}

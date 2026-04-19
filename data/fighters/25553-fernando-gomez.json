@@ -1,0 +1,66 @@
+{
+  "slug": "25553-fernando-gomez",
+  "name": "Fernando Gomez",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/25553-fernando-gomez",
+  "recentFights": [
+    {
+      "date": "2008-05-16T00:00:00.000Z",
+      "opponent": "Marcus Ajian",
+      "opponentSlug": "7452-marcus-ajian",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-01-12T00:00:00.000Z",
+      "opponent": "Ryan Scheeper",
+      "opponentSlug": "2500-ryan-scheeper",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-11-10T00:00:00.000Z",
+      "opponent": "Bobby Galvan",
+      "opponentSlug": "18450-bobby-galvan",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-01-13T00:00:00.000Z",
+      "opponent": "Gerald Meerschaert",
+      "opponentSlug": "6018-gerald-meerschaert-the-machine",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:16:25.691Z"
+}

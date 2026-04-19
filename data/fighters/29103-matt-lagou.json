@@ -1,0 +1,143 @@
+{
+  "slug": "29103-matt-lagou",
+  "name": "Matt Lagou",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1981-09-20",
+  "nationality": "Brainerd, Minnesota",
+  "url": "https://www.tapology.com/fightcenter/fighters/29103-matt-lagou",
+  "recentFights": [
+    {
+      "date": "2023-10-21T00:00:00.000Z",
+      "opponent": "Pedro Gomez",
+      "opponentSlug": "306832-pedro-gomez",
+      "result": "loss",
+      "method": "other",
+      "event": "Iowa Fight Series 1",
+      "eventSlug": "103305-iowa-fight-series-1",
+      "round": 1,
+      "timeInRound": "4:29"
+    },
+    {
+      "date": "2023-06-02T00:00:00.000Z",
+      "opponent": "John Lopez",
+      "opponentSlug": "272145-john-lopez",
+      "result": "loss",
+      "method": "other",
+      "event": "XFC: Detroit Grand Prix",
+      "eventSlug": "101535-xfc-detroit-grand-prix",
+      "round": 1,
+      "timeInRound": "0:41"
+    },
+    {
+      "date": "2023-02-25T00:00:00.000Z",
+      "opponent": "Jacob Heavlin",
+      "opponentSlug": "175056-jacob-heavlin",
+      "result": "loss",
+      "method": "other",
+      "event": "IFA 2",
+      "eventSlug": "96950-ifa-2",
+      "round": 1,
+      "timeInRound": "1:46"
+    },
+    {
+      "date": "2022-09-10T00:00:00.000Z",
+      "opponent": "Thomas Herrera",
+      "opponentSlug": "26505-thomas-herrera",
+      "result": "loss",
+      "method": "sub",
+      "event": "A-Town Throwdown 18",
+      "eventSlug": "88579-a-town-throwdown-18",
+      "round": 1,
+      "timeInRound": "1:53"
+    },
+    {
+      "date": "2018-10-20T00:00:00.000Z",
+      "opponent": "Reese Hernandez",
+      "opponentSlug": "22479-reese-hernandez",
+      "result": "loss",
+      "method": "other",
+      "event": "No Mercy 9",
+      "eventSlug": "54886-no-mercy-9",
+      "round": 2,
+      "timeInRound": "0:21"
+    },
+    {
+      "date": "2015-07-17T00:00:00.000Z",
+      "opponent": "Ron Winslow",
+      "opponentSlug": "19924-ron-winslow",
+      "result": "loss",
+      "method": "other",
+      "event": "Legacy FC 43",
+      "eventSlug": "32485-legacy-fc-43-krantz-vs-larson",
+      "round": 1,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2014-10-11T00:00:00.000Z",
+      "opponent": "Jeremy Quagon",
+      "opponentSlug": "66683-jeremy-quagon",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-09-27T00:00:00.000Z",
+      "opponent": "Gerald Meerschaert",
+      "opponentSlug": "6018-gerald-meerschaert-the-machine",
+      "result": "loss",
+      "method": "sub",
+      "event": "KOTC: Magnum Force",
+      "eventSlug": "26572-kotc-magnum-force",
+      "round": 1,
+      "timeInRound": "3:15"
+    },
+    {
+      "date": "2012-03-31T00:00:00.000Z",
+      "opponent": "Derek Smith",
+      "opponentSlug": "9418-derek-smith",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-10-21T00:00:00.000Z",
+      "opponent": "Mike Suttles",
+      "opponentSlug": "2563-mike-suttles",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-09-10T00:00:00.000Z",
+      "opponent": "Cody Decker",
+      "opponentSlug": "395247-cody-decker",
+      "result": "win",
+      "method": "tko",
+      "event": "Tuff-N-Uff: Rags Stags",
+      "eventSlug": "103111-tuff-n-uff-rags-stags",
+      "round": 1,
+      "timeInRound": "1:59"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:15:34.221Z"
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "166051-nathielly-santos-naty-pitbull",
+  "name": "Nathielly Santos",
+  "nickname": "Macuxi",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 160,
+  "reachCm": 152,
+  "weightClass": "Atomweight",
+  "stance": null,
+  "dateOfBirth": "1996-08-21",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/166051-nathielly-santos-naty-pitbull",
+  "recentFights": [
+    {
+      "date": "2019-11-23T00:00:00.000Z",
+      "opponent": "Aline Pires",
+      "opponentSlug": "126994-aline-pires",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shooto Brasil 98",
+      "eventSlug": "64485-shooto-brasil-98",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-05T00:00:00.000Z",
+      "opponent": "Elaine Leal",
+      "opponentSlug": "137503-elaine-leal-pantera",
+      "result": "loss",
+      "method": "other",
+      "event": "Shooto Brasil 91",
+      "eventSlug": "59374-shooto-brasil-91",
+      "round": 2,
+      "timeInRound": "2:32"
+    },
+    {
+      "date": "2018-06-09T00:00:00.000Z",
+      "opponent": "Julie Mezabarba",
+      "opponentSlug": "113333-julie-mezabarba",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "NCE 27",
+      "eventSlug": "53513-nce-27",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-02-24T00:00:00.000Z",
+      "opponent": "Monique Adriane",
+      "opponentSlug": "140994-monique-adriane-azevedo",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-10-21T00:00:00.000Z",
+      "opponent": "Julia Polastri",
+      "opponentSlug": "168315-julia-polastri",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "NCE 19",
+      "eventSlug": "48411-nce-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-06T00:00:00.000Z",
+      "opponent": "Mirella Sollis",
+      "opponentSlug": "148813-mirela-solis",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:59:17.263Z"
+}

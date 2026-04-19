@@ -1,0 +1,66 @@
+{
+  "slug": "52253-chimmy-van-winkel",
+  "name": "Chimmy van Winkel",
+  "nickname": "Iceman",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "South Africa",
+  "url": "https://www.tapology.com/fightcenter/fighters/52253-chimmy-van-winkel",
+  "recentFights": [
+    {
+      "date": "2014-08-07T00:00:00.000Z",
+      "opponent": "Giovanni Pretorius",
+      "opponentSlug": "76331-giovanni-pretorius",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "EFC Africa 32",
+      "eventSlug": "25029-efca-32-allen-vs-nienabar",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-12-12T00:00:00.000Z",
+      "opponent": "Themba Gorimbo",
+      "opponentSlug": "52251-themba-takura-gorimbo",
+      "result": "loss",
+      "method": "sub",
+      "event": "EFC Africa 26",
+      "eventSlug": "20747-efca-26",
+      "round": 1,
+      "timeInRound": "1:59"
+    },
+    {
+      "date": "2013-08-15T00:00:00.000Z",
+      "opponent": "Morne Prinsloo",
+      "opponentSlug": "52254-morne-prinsloo",
+      "result": "loss",
+      "method": "other",
+      "event": "EFC Africa 22",
+      "eventSlug": "19749-efca-22",
+      "round": 1,
+      "timeInRound": "3:06"
+    },
+    {
+      "date": "2011-03-03T00:00:00.000Z",
+      "opponent": "Chaz Wasserman",
+      "opponentSlug": "52255-chaz-wasserman",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:55:01.710Z"
+}

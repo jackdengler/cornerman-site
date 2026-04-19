@@ -1,0 +1,33 @@
+{
+  "slug": "435114-manfredo-saavedra",
+  "name": "Manfredo Saavedra",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/435114-manfredo-saavedra",
+  "recentFights": [
+    {
+      "date": "2024-01-27T00:00:00.000Z",
+      "opponent": "Omar Calizaya",
+      "opponentSlug": "396383-omar-calizaya",
+      "result": "loss",
+      "method": "dec-majority",
+      "event": "Bolivian Amazon Fight",
+      "eventSlug": "112296-bolivian-amazon-fight",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:02:20.418Z"
+}
