@@ -1,0 +1,99 @@
+{
+  "slug": "65414-martin-torres",
+  "name": "Martin Torres",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Argentina",
+  "url": "https://www.tapology.com/fightcenter/fighters/65414-martin-torres",
+  "recentFights": [
+    {
+      "date": "2019-08-02T00:00:00.000Z",
+      "opponent": "Cam Rowston",
+      "opponentSlug": "69262-cam-rowston",
+      "result": "loss",
+      "method": "sub",
+      "event": "New Generation Cage MMA Series 3",
+      "eventSlug": "62033-new-generation-cage-series-3",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-14T00:00:00.000Z",
+      "opponent": "Lautaro Ayala",
+      "opponentSlug": "100757-jesus-ayala",
+      "result": "win",
+      "method": "tko",
+      "event": "Invictus Fighters 21",
+      "eventSlug": "57369-invictus-fighters-21",
+      "round": 3,
+      "timeInRound": "3:52"
+    },
+    {
+      "date": "2018-07-22T00:00:00.000Z",
+      "opponent": "Jean Mejias",
+      "opponentSlug": "83518-jean-mejias",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-16T00:00:00.000Z",
+      "opponent": "Jose Barrios Vargas",
+      "opponentSlug": "122357-jose-barrios-vargas-el-terrible",
+      "result": "loss",
+      "method": "tko",
+      "event": "Bosch Tour 5",
+      "eventSlug": "54166-bosch-tour-5",
+      "round": 1,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2016-07-31T00:00:00.000Z",
+      "opponent": "Gustavo Rodriguez",
+      "opponentSlug": "88742-gustavo-rodriguez-chino",
+      "result": "win",
+      "method": "other",
+      "event": "Bosch Tour 2",
+      "eventSlug": "43055-bosch-tour-2",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2014-12-20T00:00:00.000Z",
+      "opponent": "Marcos Jesus Cornejo",
+      "opponentSlug": "81348-marcos-cornejo-indio",
+      "result": "loss",
+      "method": "sub",
+      "event": "Arena Tour 4",
+      "eventSlug": "26464-arena-tour-4",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-22T00:00:00.000Z",
+      "opponent": "Victor Valenzuela",
+      "opponentSlug": "67389-victor-valenzuela-sicosis",
+      "result": "loss",
+      "method": "sub",
+      "event": "Arena Tour 2",
+      "eventSlug": "23054-arena-tour-2",
+      "round": 1,
+      "timeInRound": "2:51"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:58:16.439Z"
+}

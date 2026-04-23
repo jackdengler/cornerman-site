@@ -1,0 +1,165 @@
+{
+  "slug": "53862-guillermo-martinez-cubano",
+  "name": "Guillermo Martinez Ayme",
+  "nickname": "El Cubano",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 183,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Havana, Cuba",
+  "url": "https://www.tapology.com/fightcenter/fighters/53862-guillermo-martinez-cubano",
+  "recentFights": [
+    {
+      "date": "2017-01-13T00:00:00.000Z",
+      "opponent": "Ivan Castillo",
+      "opponentSlug": "40451-ivan-castillo-choko",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ACB 51: Silva vs. Torgeson",
+      "eventSlug": "43182-absolute-championship-berkut-51",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-15T00:00:00.000Z",
+      "opponent": "Ibragim Tibilov",
+      "opponentSlug": "53083-ibrahim-tibilov",
+      "result": "win",
+      "method": "other",
+      "event": "Absolute Championship Berkut 41",
+      "eventSlug": "38822-absolute-championship-berkut-35",
+      "round": 3,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2016-06-12T00:00:00.000Z",
+      "opponent": "Francis Garcia Guerra Flores",
+      "opponentSlug": "142748-francis-garcia-guerra-flores",
+      "result": "loss",
+      "method": "other",
+      "event": "Gold Warriors MMA",
+      "eventSlug": "43051-gold-warriors-mma",
+      "round": 1,
+      "timeInRound": "4:23"
+    },
+    {
+      "date": "2015-11-28T00:00:00.000Z",
+      "opponent": "Sergey Khandozhko",
+      "opponentSlug": "46101-sergey-khandozhko-honda",
+      "result": "loss",
+      "method": "dec-majority",
+      "event": "ACB 26: Berkut Cup 2015 - Stage 8",
+      "eventSlug": "36526-absolute-championship-berkut-26-grand-prix",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-19T00:00:00.000Z",
+      "opponent": "Ezequiel Ricci",
+      "opponentSlug": "38749-ezequiel-ricci-el-chino",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Arena Tour 7",
+      "eventSlug": "33772-arena-tour-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-04-25T00:00:00.000Z",
+      "opponent": "Victor Valenzuela",
+      "opponentSlug": "67389-victor-valenzuela-sicosis",
+      "result": "win",
+      "method": "tko",
+      "event": "MFC 11: 61 kg Title Grand Prix",
+      "eventSlug": "30115-mfc-11-61-kg-title-gp",
+      "round": 2,
+      "timeInRound": "4:54"
+    },
+    {
+      "date": "2014-12-20T00:00:00.000Z",
+      "opponent": "Darren Till",
+      "opponentSlug": "37393-darren-till",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Arena Tour 4",
+      "eventSlug": "26464-arena-tour-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-06-06T00:00:00.000Z",
+      "opponent": "William Florentino",
+      "opponentSlug": "16495-william-florentino",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Bellator 121",
+      "eventSlug": "23957-bellator-121-curran-vs-pitbull-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-22T00:00:00.000Z",
+      "opponent": "Cristobal Gonzalez",
+      "opponentSlug": "53834-cristobal-gonzalez",
+      "result": "win",
+      "method": "other",
+      "event": "Arena Tour 2",
+      "eventSlug": "23054-arena-tour-2",
+      "round": 2,
+      "timeInRound": "4:58"
+    },
+    {
+      "date": "2013-10-20T00:00:00.000Z",
+      "opponent": "Ruben Martinez",
+      "opponentSlug": "65941-ruben-martinez",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-08-25T00:00:00.000Z",
+      "opponent": "Juan Costa",
+      "opponentSlug": "33577-juan-psicopata",
+      "result": "nc",
+      "method": "other",
+      "event": "Shooto Brasil 42",
+      "eventSlug": "20081-shooto-brazil-42-fight-for-bope-3",
+      "round": 2,
+      "timeInRound": "0:43"
+    },
+    {
+      "date": "2013-07-27T00:00:00.000Z",
+      "opponent": "German Antonio Garcia",
+      "opponentSlug": "65942-german-garcia",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-11-27T00:00:00.000Z",
+      "opponent": "Matias Sosa Campi",
+      "opponentSlug": "46089-matias-sosa",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:58:11.936Z"
+}

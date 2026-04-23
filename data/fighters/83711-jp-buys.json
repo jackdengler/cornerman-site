@@ -1,0 +1,253 @@
+{
+  "slug": "83711-jp-buys",
+  "name": "JP Buys",
+  "nickname": "Young Savage",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": 170,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1996-04-30",
+  "nationality": "Brakpan, Gauteng, South Africa",
+  "url": "https://www.tapology.com/fightcenter/fighters/83711-jp-buys",
+  "recentFights": [
+    {
+      "date": "2023-08-12T00:00:00.000Z",
+      "opponent": "Marcus McGhee",
+      "opponentSlug": "70861-marcus-mcghee",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "101163-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "2:19"
+    },
+    {
+      "date": "2022-06-25T00:00:00.000Z",
+      "opponent": "Cody Durden",
+      "opponentSlug": "68337-cody-durden",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "87971-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2021-09-18T00:00:00.000Z",
+      "opponent": "Montel Jackson",
+      "opponentSlug": "89335-montel-jackson",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "79258-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-20T00:00:00.000Z",
+      "opponent": "Bruno Silva",
+      "opponentSlug": "55253-bruno-gustavo-aparecido-da-silva-bulldog",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "74572-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2020-11-17T00:00:00.000Z",
+      "opponent": "Jacob Silva",
+      "opponentSlug": "20066-jacob-silva",
+      "result": "win",
+      "method": "sub",
+      "event": "Contender Series 2020",
+      "eventSlug": "70398-contender-series-2020-week-10",
+      "round": 1,
+      "timeInRound": "4:54"
+    },
+    {
+      "date": "2019-11-15T00:00:00.000Z",
+      "opponent": "Cristian Rodriguez, Jr.",
+      "opponentSlug": "50455-chris-rodriguez",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 78: Yanez vs. Estrada",
+      "eventSlug": "64014-lfa-78-yanez-vs-estrada",
+      "round": 1,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2019-04-13T00:00:00.000Z",
+      "opponent": "Luthando Biko",
+      "opponentSlug": "86512-luthando-biko",
+      "result": "win",
+      "method": "other",
+      "event": "EFC Worldwide 78",
+      "eventSlug": "57184-efc-worldwide-78",
+      "round": 4,
+      "timeInRound": "4:00"
+    },
+    {
+      "date": "2018-10-27T00:00:00.000Z",
+      "opponent": "Gamzat Magomedov",
+      "opponentSlug": "155398-gamzat-magomedov",
+      "result": "win",
+      "method": "other",
+      "event": "Brave CF 17",
+      "eventSlug": "55676-brave-cf-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-28T00:00:00.000Z",
+      "opponent": "Philippe Rouch",
+      "opponentSlug": "116666-philippe-rouch",
+      "result": "win",
+      "method": "sub",
+      "event": "EFC Worldwide 69",
+      "eventSlug": "51694-efc-worldwide-69",
+      "round": 1,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2017-08-22T00:00:00.000Z",
+      "opponent": "Joby Sanchez",
+      "opponentSlug": "28639-joby-sanchez",
+      "result": "loss",
+      "method": "other",
+      "event": "DW's Contender Series 2017",
+      "eventSlug": "46989-dana-whites-contender-series-7",
+      "round": 2,
+      "timeInRound": "2:28"
+    },
+    {
+      "date": "2016-10-15T00:00:00.000Z",
+      "opponent": "Baldwin Mdlalose",
+      "opponentSlug": "56510-baldwin-mdlalose",
+      "result": "win",
+      "method": "sub",
+      "event": "EFC Worldwide 54",
+      "eventSlug": "40834-efc-worldwide-54",
+      "round": 1,
+      "timeInRound": "2:05"
+    },
+    {
+      "date": "2016-05-13T00:00:00.000Z",
+      "opponent": "Abdul Hassan",
+      "opponentSlug": "17919-abdul-hassan-hollywood",
+      "result": "win",
+      "method": "tko",
+      "event": "EFC Worldwide 49",
+      "eventSlug": "38429-efc-worldwide-49",
+      "round": 2,
+      "timeInRound": "2:06"
+    },
+    {
+      "date": "2016-03-05T00:00:00.000Z",
+      "opponent": "Roevan De Beer",
+      "opponentSlug": "82859-roevan-de-beer",
+      "result": "win",
+      "method": "sub",
+      "event": "EFC Worldwide 47",
+      "eventSlug": "37225-efc-worldwide-47",
+      "round": 1,
+      "timeInRound": "3:24"
+    },
+    {
+      "date": "2015-08-27T00:00:00.000Z",
+      "opponent": "Baldwin Mdlalose",
+      "opponentSlug": "56510-baldwin-mdlalose",
+      "result": "loss",
+      "method": "sub",
+      "event": "EFC Worldwide 43",
+      "eventSlug": "32125-efc-africa-43",
+      "round": 1,
+      "timeInRound": "3:29"
+    },
+    {
+      "date": "2015-07-11T00:00:00.000Z",
+      "opponent": "Josemare Emerson Octavio",
+      "opponentSlug": "82889-josemare-octavio",
+      "result": "win",
+      "method": "sub",
+      "event": "EFC Worldwide 41",
+      "eventSlug": "32123-efc-africa-41",
+      "round": 1,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2015-05-02T00:00:00.000Z",
+      "opponent": "Roevan De Beer",
+      "opponentSlug": "82859-roevan-de-beer",
+      "result": "win",
+      "method": "other",
+      "event": "Fightstar FC 12",
+      "eventSlug": "29727-fightstar-fc-12",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-02-28T00:00:00.000Z",
+      "opponent": "Jaydee Van Der Merwe",
+      "opponentSlug": "82853-jaydee-van-der-merwe",
+      "result": "win",
+      "method": "other",
+      "event": "Fightstar FC 11",
+      "eventSlug": "28829-fightstar-fc-11",
+      "round": 2,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2014-12-06T00:00:00.000Z",
+      "opponent": "TC Khusu",
+      "opponentSlug": "82727-cassim-khusu",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fightstar FC 10",
+      "eventSlug": "27877-fightstar-fc-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-22T00:00:00.000Z",
+      "opponent": "Norman Lekgothoane",
+      "opponentSlug": "82728-norman-lekgothorne",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Wars Evolution 4",
+      "eventSlug": "27444-cage-wars-evolution-4-retribution",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-10-25T00:00:00.000Z",
+      "opponent": "Leonard Gregory",
+      "opponentSlug": "83713-leonard-gregory",
+      "result": "win",
+      "method": "sub",
+      "event": "Fightstar FC 9",
+      "eventSlug": "27363-fightstar-fc-9-henning-vs-king",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-07-10T00:00:00.000Z",
+      "opponent": "Ntando Zama",
+      "opponentSlug": "84716-ntando-zama",
+      "result": "win",
+      "method": "sub",
+      "event": "African Fight League 21",
+      "eventSlug": "27467-afl-21",
+      "round": 1,
+      "timeInRound": "1:04"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:37:33.735Z"
+}

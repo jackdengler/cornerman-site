@@ -1,0 +1,70 @@
+{
+  "slug": "314457-daysi-perez",
+  "name": "Daysi Perez",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 165,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1992-06-14",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/314457-daysi-perez",
+  "recentFights": [
+    {
+      "date": "2026-01-16T00:00:00.000Z",
+      "opponent": "Jessie Hays",
+      "opponentSlug": "427776-jessie-hays",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 224: Adams vs Bilalov",
+      "eventSlug": "137873-legacy-fighting-alliance-224-lfa-224",
+      "round": 3,
+      "timeInRound": "1:26"
+    },
+    {
+      "date": "2023-10-07T00:00:00.000Z",
+      "opponent": "Juanita Shingles",
+      "opponentSlug": "304824-juanita-shingles",
+      "result": "loss",
+      "method": "other",
+      "event": "Chosen Few FC 23",
+      "eventSlug": "103308-chosen-few-fc-23",
+      "round": 1,
+      "timeInRound": "0:20"
+    },
+    {
+      "date": "2022-07-24T00:00:00.000Z",
+      "opponent": "Eva Brundage",
+      "opponentSlug": "294040-eva-brundage",
+      "result": null,
+      "method": "other",
+      "event": "FCE 74: Undisputed 2022",
+      "eventSlug": "88328-fce-74",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-15T00:00:00.000Z",
+      "opponent": "Lindsey Spencer",
+      "opponentSlug": "200617-lindsey-spencer",
+      "result": "win",
+      "method": "tko",
+      "event": "Caged Aggression 32",
+      "eventSlug": "83109-caged-aggression-33-no-limits",
+      "round": 2,
+      "timeInRound": "2:13"
+    }
+  ],
+  "lastVerified": "2026-04-18T09:06:52.672Z"
+}

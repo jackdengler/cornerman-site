@@ -1,0 +1,132 @@
+{
+  "slug": "243089-john-leark",
+  "name": "John Leark",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1995-11-26",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/243089-john-leark",
+  "recentFights": [
+    {
+      "date": "2026-04-18T00:00:00.000Z",
+      "opponent": "Andrew Smith",
+      "opponentSlug": "365270-andrew-smith",
+      "result": null,
+      "method": "other",
+      "event": "Carnage Fight Series 7",
+      "eventSlug": "139066-carnage-fight-series-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-12-20T00:00:00.000Z",
+      "opponent": "JD McNett",
+      "opponentSlug": "349182-jd-mcnett",
+      "result": "win",
+      "method": "sub",
+      "event": "Carnage Fight Series 5",
+      "eventSlug": "133960-carnage-fight-series-5-fights-before-christmas",
+      "round": 1,
+      "timeInRound": "4:09"
+    },
+    {
+      "date": "2025-04-19T00:00:00.000Z",
+      "opponent": "Griffen Leombruno",
+      "opponentSlug": "377152-griffen-leombruno",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Live MMA at Penguin City 8",
+      "eventSlug": "122654-live-mma-at-penguin-city-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-01T00:00:00.000Z",
+      "opponent": "Carlton Rematt",
+      "opponentSlug": "402807-carlton-rematt",
+      "result": "win",
+      "method": "other",
+      "event": "Live MMA at Penguin City 6",
+      "eventSlug": "114043-live-mma-at-penguin-city-6",
+      "round": 3,
+      "timeInRound": "1:46"
+    },
+    {
+      "date": "2023-06-03T00:00:00.000Z",
+      "opponent": "Nico O'Dor",
+      "opponentSlug": "337270-nico-o-dor-the-flow",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "WFC 155",
+      "eventSlug": "100306-wfc-155",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-03T00:00:00.000Z",
+      "opponent": "Daiveon Say",
+      "opponentSlug": "320633-davion-say",
+      "result": "win",
+      "method": "other",
+      "event": "Live Cage Fights at Penguin City",
+      "eventSlug": "94024-live-cage-fights-at-penguin-city",
+      "round": 1,
+      "timeInRound": "1:59"
+    },
+    {
+      "date": "2022-07-02T00:00:00.000Z",
+      "opponent": "Quintin Richards",
+      "opponentSlug": "292164-quintin-richards",
+      "result": "loss",
+      "method": "sub",
+      "event": "Ohio Combat League 20",
+      "eventSlug": "89237-ohio-combat-league-20",
+      "round": 1,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2022-01-29T00:00:00.000Z",
+      "opponent": "Jaden Mattox",
+      "opponentSlug": "286282-jaden-mattox",
+      "result": "loss",
+      "method": "other",
+      "event": "Ohio Combat League 17",
+      "eventSlug": "84532-ohio-combat-league-17",
+      "round": 1,
+      "timeInRound": "1:55"
+    },
+    {
+      "date": "2021-09-11T00:00:00.000Z",
+      "opponent": "Mike LeFay",
+      "opponentSlug": "197786-mike-lefay",
+      "result": "win",
+      "method": "tko",
+      "event": "Caged Thunder 12",
+      "eventSlug": "80951-caged-thunder-12",
+      "round": 2,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2019-12-14T00:00:00.000Z",
+      "opponent": "Malcolm Jones",
+      "opponentSlug": "245853-malcolm-jones",
+      "result": "win",
+      "method": "sub",
+      "event": "Lights Out Championship 6",
+      "eventSlug": "59158-lights-out-championship-6",
+      "round": 2,
+      "timeInRound": "1:32"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:41:30.605Z"
+}

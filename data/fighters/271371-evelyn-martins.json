@@ -1,0 +1,110 @@
+{
+  "slug": "271371-evelyn-martins",
+  "name": "Evelyn Martins",
+  "nickname": "Spartan",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 171,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "2002-09-07",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/271371-evelyn-martins",
+  "recentFights": [
+    {
+      "date": "2025-12-12T00:00:00.000Z",
+      "opponent": "Jaeleen Robledo",
+      "opponentSlug": "341539-jaeleen-robledo",
+      "result": "loss",
+      "method": "other",
+      "event": "Tuff-N-Uff 150",
+      "eventSlug": "135612-tuff-n-uff-150",
+      "round": 2,
+      "timeInRound": "4:06"
+    },
+    {
+      "date": "2025-08-23T00:00:00.000Z",
+      "opponent": "Taylor Guardado",
+      "opponentSlug": "32612-taylor-stratford-no-mercy",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Tuff-N-Uff 147",
+      "eventSlug": "131173-tuff-n-uff-147",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-16T00:00:00.000Z",
+      "opponent": "Marina Mokhnatkina",
+      "opponentSlug": "134452-marina-mokhnatkina",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "PFL 5: Regular Season",
+      "eventSlug": "99163-pfl-5-regular-season",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-04-07T00:00:00.000Z",
+      "opponent": "Karolina Sobek",
+      "opponentSlug": "172319-karolina-sobek",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "PFL 2: 2023 Regular Season",
+      "eventSlug": "98042-pfl-2-2023-regular-season",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-17T00:00:00.000Z",
+      "opponent": "Jackie Cataline",
+      "opponentSlug": "325044-jackie-cataline",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "PFL Challenger Series 2023",
+      "eventSlug": "95446-pfl-challenger-series-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-03T00:00:00.000Z",
+      "opponent": "Jeslen Mishelle",
+      "opponentSlug": "161249-jeslen-mishelle",
+      "result": "win",
+      "method": "sub",
+      "event": "PFL Challenger Series 2023",
+      "eventSlug": "95440-pfl-challenger-series-10",
+      "round": 2,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2021-02-12T00:00:00.000Z",
+      "opponent": "Melissa Croden",
+      "opponentSlug": "140510-melissa-croden",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Titan FC 67",
+      "eventSlug": "76386-titan-fc-67",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-25T00:00:00.000Z",
+      "opponent": "Serena DeJesus",
+      "opponentSlug": "87466-serena-dejesus",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Titan FC 64",
+      "eventSlug": "72578-titan-fc-64",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:00:19.990Z"
+}

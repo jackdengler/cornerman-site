@@ -1,0 +1,33 @@
+{
+  "slug": "294733-azamat-tapaskhanov",
+  "name": "Azamat Tapaskhanov",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/294733-azamat-tapaskhanov",
+  "recentFights": [
+    {
+      "date": "2021-05-22T00:00:00.000Z",
+      "opponent": "Nikita Kulshin",
+      "opponentSlug": "178301-nikita-kulshin",
+      "result": "loss",
+      "method": "sub",
+      "event": "Open Fighting Championship 4",
+      "eventSlug": "77670-open-fighting-championship-4",
+      "round": 1,
+      "timeInRound": "2:08"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:38:47.658Z"
+}

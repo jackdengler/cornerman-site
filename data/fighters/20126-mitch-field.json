@@ -1,0 +1,70 @@
+{
+  "slug": "20126-mitch-field",
+  "name": "Mitch Field",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/20126-mitch-field",
+  "recentFights": [
+    {
+      "date": "2012-04-28T00:00:00.000Z",
+      "opponent": "Nate Richardson",
+      "opponentSlug": "26501-nathaniel-togbah",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CFX 33: Minnesota vs. Japan",
+      "eventSlug": "12986-cfx-33-minnesota-vs-japan",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-03-03T00:00:00.000Z",
+      "opponent": "John Castañeda",
+      "opponentSlug": "20125-john-castaneda",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Downtown Showdown 3",
+      "eventSlug": "12482-downtown-showdown-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-01-06T00:00:00.000Z",
+      "opponent": "Kyle Waldvogel",
+      "opponentSlug": "20127-kyle-waldvogel",
+      "result": "win",
+      "method": "other",
+      "event": "Downtown Showdown 2",
+      "eventSlug": "11849-downtown-showdown-2",
+      "round": 2,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2011-12-10T00:00:00.000Z",
+      "opponent": "Andy Kidrowski",
+      "opponentSlug": "219217-andy-kidrowski",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:03:35.521Z"
+}

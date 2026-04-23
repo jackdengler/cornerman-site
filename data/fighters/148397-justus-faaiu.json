@@ -1,0 +1,143 @@
+{
+  "slug": "148397-justus-faaiu",
+  "name": "Justus Faaiu",
+  "nickname": "Mr.Poetic",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1995-02-25",
+  "nationality": "American Samoa",
+  "url": "https://www.tapology.com/fightcenter/fighters/148397-justus-faaiu",
+  "recentFights": [
+    {
+      "date": "2023-11-03T00:00:00.000Z",
+      "opponent": "Phillip Latu",
+      "opponentSlug": "303053-phillip-latu",
+      "result": "loss",
+      "method": "other",
+      "event": "CFFC 127: Kline vs. Cova",
+      "eventSlug": "106215-cffc-127",
+      "round": 3,
+      "timeInRound": "0:27"
+    },
+    {
+      "date": "2022-09-10T00:00:00.000Z",
+      "opponent": "Chris Cisneros",
+      "opponentSlug": "chris-cisneros-the-maverick",
+      "result": "win",
+      "method": "tko",
+      "event": "Destiny MMA",
+      "eventSlug": "92633-destiny-mma",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-03-14T00:00:00.000Z",
+      "opponent": "Ryan Whitemountain",
+      "opponentSlug": "25121-ryan-soft",
+      "result": "win",
+      "method": "other",
+      "event": "Trinity Kings 9",
+      "eventSlug": "67561-trinity-kings-9",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2019-10-12T00:00:00.000Z",
+      "opponent": "Chris Cisneros",
+      "opponentSlug": "chris-cisneros-the-maverick",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Trinity Kings 8",
+      "eventSlug": "62167-trinity-kings-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-27T00:00:00.000Z",
+      "opponent": "Maika Graf",
+      "opponentSlug": "137941-maika-graf-red-mat",
+      "result": "win",
+      "method": "other",
+      "event": "X-1 World Events 54",
+      "eventSlug": "58504-x-1-world-events-52-defenders-of-hawaii",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2018-11-10T00:00:00.000Z",
+      "opponent": "Clayton York",
+      "opponentSlug": "77860-clayton-york",
+      "result": "loss",
+      "method": "sub",
+      "event": "Prime Fighting 11",
+      "eventSlug": "54978-prime-fighting-11",
+      "round": 1,
+      "timeInRound": "3:48"
+    },
+    {
+      "date": "2018-02-17T00:00:00.000Z",
+      "opponent": "Jace Kaopua",
+      "opponentSlug": "67489-jace-kaopua",
+      "result": "win",
+      "method": "other",
+      "event": "Destiny MMA",
+      "eventSlug": "50150-destiny-mma-fight-night-4",
+      "round": 2,
+      "timeInRound": "0:46"
+    },
+    {
+      "date": "2017-09-30T00:00:00.000Z",
+      "opponent": "Clayton York",
+      "opponentSlug": "77860-clayton-york",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Prime Fighting 10",
+      "eventSlug": "47882-prime-fighting-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-19T00:00:00.000Z",
+      "opponent": "James Rego",
+      "opponentSlug": "138955-james-rego",
+      "result": "win",
+      "method": "other",
+      "event": "Destiny MMA",
+      "eventSlug": "47928-destiny-mma",
+      "round": 2,
+      "timeInRound": "4:39"
+    },
+    {
+      "date": "2017-06-24T00:00:00.000Z",
+      "opponent": "Paul Norman",
+      "opponentSlug": "113279-paul-norman",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "X-1 World Events 47",
+      "eventSlug": "46388-x-1-world-events",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-02-17T00:00:00.000Z",
+      "opponent": "Marcus Gamble",
+      "opponentSlug": "160377-marcus-gamble",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Mid-Pacific Championships 1",
+      "eventSlug": "46996-mid-pacific-championships",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:40:33.984Z"
+}

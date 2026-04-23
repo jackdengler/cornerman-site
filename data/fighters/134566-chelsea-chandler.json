@@ -1,0 +1,143 @@
+{
+  "slug": "134566-chelsea-chandler",
+  "name": "Chelsea Chandler",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 174,
+  "reachCm": 173,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1990-11-23",
+  "nationality": "Stockton, California, USA",
+  "url": "https://www.tapology.com/fightcenter/fighters/134566-chelsea-chandler",
+  "recentFights": [
+    {
+      "date": "2026-06-06T00:00:00.000Z",
+      "opponent": "Priscila Cachoeira",
+      "opponentSlug": "128371-priscila-cachoeira",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "140934-ufc-fight-night-muhammad-vs-bonfim",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-04-26T00:00:00.000Z",
+      "opponent": "Joselyne Edwards",
+      "opponentSlug": "98366-yoselin-edwards",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "123603-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "2:31"
+    },
+    {
+      "date": "2024-08-10T00:00:00.000Z",
+      "opponent": "Yana Santos",
+      "opponentSlug": "19820-yana-kunitskaya-foxy",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "112784-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-16T00:00:00.000Z",
+      "opponent": "Josiane Nunes",
+      "opponentSlug": "61258-josiane-nunes",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "108288-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-15T00:00:00.000Z",
+      "opponent": "Norma Dumont",
+      "opponentSlug": "139271-norma-dumont-viana",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "100553-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-10-01T00:00:00.000Z",
+      "opponent": "Julija Stoliarenko",
+      "opponentSlug": "54390-julia-stoliarenko",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "89894-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "4:15"
+    },
+    {
+      "date": "2022-05-11T00:00:00.000Z",
+      "opponent": "Courtney King",
+      "opponentSlug": "70284-courtney-king",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 47",
+      "eventSlug": "88077-invicta-fc-47-ducote-vs-zappitella",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-07-02T00:00:00.000Z",
+      "opponent": "Olivia Parker",
+      "opponentSlug": "129778-olivia-parker",
+      "result": "win",
+      "method": "sub",
+      "event": "Invicta FC 40",
+      "eventSlug": "70103-invicta-fc-40-ducote-vs-lima",
+      "round": 1,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2019-06-07T00:00:00.000Z",
+      "opponent": "Brittney Victoria",
+      "opponentSlug": "139207-brittney-victoria",
+      "result": "win",
+      "method": "other",
+      "event": "Invicta FC 35",
+      "eventSlug": "60147-invicta-fc-35-bennett-vs-rodriguez-2",
+      "round": 2,
+      "timeInRound": "3:58"
+    },
+    {
+      "date": "2018-11-16T00:00:00.000Z",
+      "opponent": "Mitzi Merry",
+      "opponentSlug": "171794-mitzi-merry",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 32",
+      "eventSlug": "55195-invicta-fc-32-sorenson-vs-spencer",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-24T00:00:00.000Z",
+      "opponent": "Kerri Kenneson",
+      "opponentSlug": "96947-kerri-kenneson",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 28",
+      "eventSlug": "50301-invicta-fc-28",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:33:16.759Z"
+}

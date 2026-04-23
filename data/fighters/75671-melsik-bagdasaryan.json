@@ -1,0 +1,143 @@
+{
+  "slug": "75671-melsik-bagdasaryan",
+  "name": "Melsik Baghdasaryan",
+  "nickname": "The Gun",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 178,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1992-01-28",
+  "nationality": "Yerevan, Armenia",
+  "url": "https://www.tapology.com/fightcenter/fighters/75671-melsik-bagdasaryan",
+  "recentFights": [
+    {
+      "date": "2025-02-22T00:00:00.000Z",
+      "opponent": "Jean Silva",
+      "opponentSlug": "144286-jean-silva",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "120012-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "4:15"
+    },
+    {
+      "date": "2023-07-15T00:00:00.000Z",
+      "opponent": "Tucker Lutz",
+      "opponentSlug": "39248-tucker-lutz",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "100553-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-11T00:00:00.000Z",
+      "opponent": "Josh Culibao",
+      "opponentSlug": "101823-joshua-culibao",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC 284: Makhachev vs. Volkanovski",
+      "eventSlug": "93764-ufc-284",
+      "round": 2,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2021-11-06T00:00:00.000Z",
+      "opponent": "Bruno Souza",
+      "opponentSlug": "136658-bruno-assis-karate",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 268: Usman vs. Covington 2",
+      "eventSlug": "81402-ufc-268-usman-vs-covington-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-31T00:00:00.000Z",
+      "opponent": "Collin Anglin",
+      "opponentSlug": "119395-collin-anglin",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "78698-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2020-09-01T00:00:00.000Z",
+      "opponent": "Dennis Buzukja",
+      "opponentSlug": "131561-dennis-buzukia",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Contender Series 2020",
+      "eventSlug": "70393-contender-series-2020-week-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-21T00:00:00.000Z",
+      "opponent": "Art Hernandez",
+      "opponentSlug": "47604-art-hernandez",
+      "result": "win",
+      "method": "tko",
+      "event": "LXF 3",
+      "eventSlug": "63004-lxf-3",
+      "round": 1,
+      "timeInRound": "0:07"
+    },
+    {
+      "date": "2019-06-01T00:00:00.000Z",
+      "opponent": "Jay White",
+      "opponentSlug": "232639-jay-white",
+      "result": "win",
+      "method": "other",
+      "event": "Gladiator Challenge",
+      "eventSlug": "61209-gladiator-challenge-california-state-mma-championships",
+      "round": 1,
+      "timeInRound": "0:09"
+    },
+    {
+      "date": "2019-05-11T00:00:00.000Z",
+      "opponent": "Mauricio Diaz",
+      "opponentSlug": "24665-mauricio-diaz",
+      "result": "win",
+      "method": "tko",
+      "event": "LXF 1",
+      "eventSlug": "60077-lxf-1",
+      "round": 1,
+      "timeInRound": "0:32"
+    },
+    {
+      "date": "2019-03-23T00:00:00.000Z",
+      "opponent": "Jason Gouvion",
+      "opponentSlug": "232629-jason-gouvion",
+      "result": "win",
+      "method": "other",
+      "event": "Gladiator Challenge",
+      "eventSlug": "59722-gladiator-challenge-mma-world-championships",
+      "round": 1,
+      "timeInRound": "0:14"
+    },
+    {
+      "date": "2014-04-12T00:00:00.000Z",
+      "opponent": "Jay Bogan",
+      "opponentSlug": "24667-jay-borgan",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:13:05.529Z"
+}

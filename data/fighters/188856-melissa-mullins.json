@@ -1,0 +1,231 @@
+{
+  "slug": "188856-melissa-mullins",
+  "name": "Melissa Mullins",
+  "nickname": "No Mess",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 173,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1991-07-23",
+  "nationality": "Oxford, England",
+  "url": "https://www.tapology.com/fightcenter/fighters/188856-melissa-mullins",
+  "recentFights": [
+    {
+      "date": "2026-06-20T00:00:00.000Z",
+      "opponent": "Bia Mesquita",
+      "opponentSlug": "210835-beatriz-mesquita",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "141144-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-06-21T00:00:00.000Z",
+      "opponent": "Darya Zheleznyakova",
+      "opponentSlug": "229363-dariya-zheleznyakova",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "125838-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-09T00:00:00.000Z",
+      "opponent": "Klaudia Syguła",
+      "opponentSlug": "172890-klaudia-sygua",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "116440-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2024-04-06T00:00:00.000Z",
+      "opponent": "Nora Cornolle",
+      "opponentSlug": "297105-nora-cornolle",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "108721-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "3:06"
+    },
+    {
+      "date": "2023-10-14T00:00:00.000Z",
+      "opponent": "Irina Alekseeva",
+      "opponentSlug": "213675-irina-alekseeva",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "103212-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-03T00:00:00.000Z",
+      "opponent": "Darya Zheleznyakova",
+      "opponentSlug": "229363-dariya-zheleznyakova",
+      "result": "win",
+      "method": "other",
+      "event": "Ares FC 9: Lapilus vs. Ayoub 2",
+      "eventSlug": "88260-ares-fc-9",
+      "round": 1,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2022-06-25T00:00:00.000Z",
+      "opponent": "Rizlen Zouak",
+      "opponentSlug": "159853-rizlen-zouak",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ares FC 7: Abdoul vs. Amoussou",
+      "eventSlug": "87594-ares-fc-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-04T00:00:00.000Z",
+      "opponent": "Mafalda Carmona",
+      "opponentSlug": "283458-mafalda-carmona",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Golden Ticket Fight Promotions 19",
+      "eventSlug": "90144-golden-ticket-fight-promotions-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-05T00:00:00.000Z",
+      "opponent": "Danielle Misteli",
+      "opponentSlug": "245997-danielle-misteli",
+      "result": "win",
+      "method": "tko",
+      "event": "Golden Ticket Fight Promotions 18",
+      "eventSlug": "85431-golden-ticket-fight-promotions-18",
+      "round": 1,
+      "timeInRound": "4:47"
+    },
+    {
+      "date": "2021-06-26T00:00:00.000Z",
+      "opponent": "Josie Blaber",
+      "opponentSlug": "150569-josie-blaber",
+      "result": "win",
+      "method": "tko",
+      "event": "Golden Ticket Fight Promotions",
+      "eventSlug": "75152-golden-ticket-fight-promotions-fight-night-14",
+      "round": 1,
+      "timeInRound": "3:25"
+    },
+    {
+      "date": "2019-11-12T00:00:00.000Z",
+      "opponent": "Pavla Kladivová",
+      "opponentSlug": "162774-pavla-kladivova",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64318-immaf-wmmaa-amateur-world-championships-2019-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-21T00:00:00.000Z",
+      "opponent": "Dagmar Hrund Sigurleifsdóttir",
+      "opponentSlug": "144400-dagmar-hrund-sigurleifsdottir",
+      "result": "win",
+      "method": "tko",
+      "event": "Ambition Fight Series 1",
+      "eventSlug": "62818-ambition-fight-series-1",
+      "round": 1,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2019-06-23T00:00:00.000Z",
+      "opponent": "Jasmine Favero",
+      "opponentSlug": "227994-christina-papasotiriou",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "2019 IMMAF-WMMAA European Senior & Junior Open Championships",
+      "eventSlug": "61275-2019-immaf-wmmaa-european-senior-junior-open-championships-day-5-cage-a-finals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-22T00:00:00.000Z",
+      "opponent": "Christina Papasotirou",
+      "opponentSlug": "189001-christina-papasotiriou",
+      "result": "win",
+      "method": "tko",
+      "event": "2019 IMMAF-WMMAA European Senior & Junior Open Championships",
+      "eventSlug": "61273-2019-immaf-wmmaa-2019-european-senior-junior-open-championships-day-4-cage-a-semi-finals",
+      "round": 3,
+      "timeInRound": "2:41"
+    },
+    {
+      "date": "2019-06-21T00:00:00.000Z",
+      "opponent": "Jessica Andersson",
+      "opponentSlug": "188146-jessica-andersson",
+      "result": "win",
+      "method": "tko",
+      "event": "2019 IMMAF-WMMAA European Senior & Junior Open Championships",
+      "eventSlug": "61286-2019-immaf-wmmaa-european-senior-junior-open-championships-day-3-cage-c-quarter-finals",
+      "round": 1,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2019-06-20T00:00:00.000Z",
+      "opponent": "Veronica Ruiz",
+      "opponentSlug": "229293-veronica-ruiz",
+      "result": "win",
+      "method": "tko",
+      "event": "2019 IMMAF-WMMAA European Senior & Junior Open Championships",
+      "eventSlug": "61280-2019-immaf-wmmaa-european-senior-junior-open-championships-day-2-cage-a",
+      "round": 1,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2019-03-02T00:00:00.000Z",
+      "opponent": "Molly Lindsay",
+      "opponentSlug": "127246-molly-lyndsey",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Battle Arena 54",
+      "eventSlug": "57659-battle-arena-54",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-17T00:00:00.000Z",
+      "opponent": "Ivana Petrović",
+      "opponentSlug": "201648-ivana-siric",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Battle Arena 52",
+      "eventSlug": "54745-battle-arena-52",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-02T00:00:00.000Z",
+      "opponent": "Kat Paes",
+      "opponentSlug": "172586-kat-paes",
+      "result": "win",
+      "method": "tko",
+      "event": "Fight UK: Night of the Champions",
+      "eventSlug": "53524-fight-uk-night-of-the-champions",
+      "round": 1,
+      "timeInRound": "0:14"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:00:35.657Z"
+}

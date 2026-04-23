@@ -1,0 +1,59 @@
+{
+  "slug": "140708-amanda-rogers",
+  "name": "Amanda Rogers",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 1
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 1
+  },
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/140708-amanda-rogers",
+  "recentFights": [
+    {
+      "date": "2019-08-24T00:00:00.000Z",
+      "opponent": "Jackie MacLean",
+      "opponentSlug": "231482-jackie-mclean",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Extreme FC 11",
+      "eventSlug": "61239-extreme-fighting-challenge-unbanned",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-12T00:00:00.000Z",
+      "opponent": "Melissa Croden",
+      "opponentSlug": "140510-melissa-croden",
+      "result": "loss",
+      "method": "other",
+      "event": "Rumble in the Cage 61",
+      "eventSlug": "57700-rumble-in-the-cage-61",
+      "round": 3,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2018-12-14T00:00:00.000Z",
+      "opponent": "Maria Djukic",
+      "opponentSlug": "176910-maria-djukic",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "XFFC 20: Festival of Fists 3",
+      "eventSlug": "55055-xffc-20-2xcessive",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:00:24.134Z"
+}

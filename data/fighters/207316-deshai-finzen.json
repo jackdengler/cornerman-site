@@ -1,0 +1,81 @@
+{
+  "slug": "207316-deshai-finzen",
+  "name": "DeShai Finzen",
+  "nickname": "Big Show",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 4,
+    "draws": 0
+  },
+  "heightCm": 206,
+  "reachCm": null,
+  "weightClass": "Super Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1993-04-06",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/207316-deshai-finzen",
+  "recentFights": [
+    {
+      "date": "2026-02-07T00:00:00.000Z",
+      "opponent": "Cole Van Wey",
+      "opponentSlug": "504627-cole-van-wey",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Fury Fight Series 4",
+      "eventSlug": "136655-fury-fight-series-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-12-06T00:00:00.000Z",
+      "opponent": "Trae Seffrood",
+      "opponentSlug": "487573-trae-seffrood",
+      "result": "loss",
+      "method": "other",
+      "event": "Stateline Rumble 5",
+      "eventSlug": "132171-stateline-rumble-5",
+      "round": 1,
+      "timeInRound": "2:10"
+    },
+    {
+      "date": "2025-10-18T00:00:00.000Z",
+      "opponent": "Daniel Rhone",
+      "opponentSlug": "525890-daniel-rhone",
+      "result": "win",
+      "method": "other",
+      "event": "Fury Fight Series 3",
+      "eventSlug": "130829-fury-fight-series-3",
+      "round": 1,
+      "timeInRound": "1:46"
+    },
+    {
+      "date": "2024-11-30T00:00:00.000Z",
+      "opponent": "Ezayah Gomez",
+      "opponentSlug": "413108-ezaya-gomez-oropeza",
+      "result": "loss",
+      "method": "other",
+      "event": "North Iowa Fights 20",
+      "eventSlug": "117150-north-iowa-fights-20",
+      "round": 1,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2019-01-12T00:00:00.000Z",
+      "opponent": "Yaw Osei",
+      "opponentSlug": "207317-yaw-osei",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "XKO 44: All In",
+      "eventSlug": "56159-xko-44",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:44:15.500Z"
+}

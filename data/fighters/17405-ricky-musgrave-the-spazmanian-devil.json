@@ -1,0 +1,231 @@
+{
+  "slug": "17405-ricky-musgrave-the-spazmanian-devil",
+  "name": "Ricky Musgrave",
+  "nickname": "The Spazmanian Devil",
+  "aliases": [],
+  "recordPro": {
+    "wins": 14,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 176,
+  "reachCm": 180,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1984-03-12",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/17405-ricky-musgrave-the-spazmanian-devil",
+  "recentFights": [
+    {
+      "date": "2015-08-21T00:00:00.000Z",
+      "opponent": "Raoni Barcelos",
+      "opponentSlug": "30448-raoni-barcellos",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "RFA 29: USA vs. BRAZIL",
+      "eventSlug": "34195-rfa-29-usa-vs-brazil",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-01-09T00:00:00.000Z",
+      "opponent": "Alvin Robinson",
+      "opponentSlug": "alvin-robinson-kid",
+      "result": "win",
+      "method": "other",
+      "event": "RFA 22: Smith vs. Njokuani",
+      "eventSlug": "28740-rfa-22-smith-vs-njokuani",
+      "round": 1,
+      "timeInRound": "3:55"
+    },
+    {
+      "date": "2014-10-24T00:00:00.000Z",
+      "opponent": "Joe Wilk",
+      "opponentSlug": "joe-wilk",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 130",
+      "eventSlug": "26123-bellator-130",
+      "round": 1,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2014-03-01T00:00:00.000Z",
+      "opponent": "Frank Caraballo",
+      "opponentSlug": "frank-carabello-the-tank",
+      "result": "win",
+      "method": "dec-split",
+      "event": "NAAFS: Driven MMA",
+      "eventSlug": "22902-driven-mma-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-10-11T00:00:00.000Z",
+      "opponent": "Cody Carrillo",
+      "opponentSlug": "13390-Cody-Carrillo",
+      "result": "win",
+      "method": "sub",
+      "event": "Bellator 103",
+      "eventSlug": "20005-bellator-103",
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2013-07-13T00:00:00.000Z",
+      "opponent": "Jarred Mercado",
+      "opponentSlug": "16419-jarred-mercado",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Prize FC 2: Sims vs. Wildman",
+      "eventSlug": "18775-fight-to-win",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-05-18T00:00:00.000Z",
+      "opponent": "Brad Grelck",
+      "opponentSlug": "48322-brad-grelck",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Steel City Rumble 10",
+      "eventSlug": "19112-steel-city-rumble-10-revolution",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-03-30T00:00:00.000Z",
+      "opponent": "Josh Huber",
+      "opponentSlug": "15362-josh-huber",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "SCL: Heavy Hitters",
+      "eventSlug": "18321-scl-heavy-hitters",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-10-13T00:00:00.000Z",
+      "opponent": "LT Nelson",
+      "opponentSlug": "19464-lt-nelson-smash",
+      "result": "loss",
+      "method": "other",
+      "event": "MFW 1",
+      "eventSlug": "15659-mfw-1",
+      "round": 1,
+      "timeInRound": "1:26"
+    },
+    {
+      "date": "2012-05-04T00:00:00.000Z",
+      "opponent": "Dave Castillo",
+      "opponentSlug": "12286-david-castillo",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Showdown Fights 7",
+      "eventSlug": "13220-showdown-fights-uprising",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-04-14T00:00:00.000Z",
+      "opponent": "Santana Martinez",
+      "opponentSlug": "15359-santana-martinez",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-03-03T00:00:00.000Z",
+      "opponent": "Bryant Craven",
+      "opponentSlug": "5975-bryant-craven",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Medieval FP",
+      "eventSlug": "13577-medieval-fp-vengeance",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-02-11T00:00:00.000Z",
+      "opponent": "Sean Claffey",
+      "opponentSlug": "26899-sean-claffey",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-08-21T00:00:00.000Z",
+      "opponent": "Jacob Clark",
+      "opponentSlug": "14589-jacob-clark",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-05-13T00:00:00.000Z",
+      "opponent": "Travis Coyle",
+      "opponentSlug": "travis-coyle",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-02-11T00:00:00.000Z",
+      "opponent": "Tim Means",
+      "opponentSlug": "3224-tim-means-the-dirty-bird",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-01-22T00:00:00.000Z",
+      "opponent": "Oliver Parker",
+      "opponentSlug": "19108-oliver-parker",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KOTC Underground 65",
+      "eventSlug": "12175-kotc-underground-65-colon-vs-martinez",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-10-09T00:00:00.000Z",
+      "opponent": "Tamboura Gerl",
+      "opponentSlug": "20600-tamboura-gerl",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-01-24T00:00:00.000Z",
+      "opponent": "Yannick Jones",
+      "opponentSlug": "65254-yannick-jones",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:38:39.971Z"
+}

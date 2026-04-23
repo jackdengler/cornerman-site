@@ -1,0 +1,143 @@
+{
+  "slug": "28067-gilmar-milhorance",
+  "name": "Gilmar Milhorance",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 10,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/28067-gilmar-milhorance",
+  "recentFights": [
+    {
+      "date": "2016-08-24T00:00:00.000Z",
+      "opponent": "Daniel Patricio Galvez",
+      "opponentSlug": "70594-daniel-morodo",
+      "result": "win",
+      "method": "sub",
+      "event": "Redemption Fighters 1",
+      "eventSlug": "41271-redemption-fighters",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-09-13T00:00:00.000Z",
+      "opponent": "Felipe Arinelli",
+      "opponentSlug": "2221-felipe-arinelli-mongo",
+      "result": "win",
+      "method": "other",
+      "event": "MMA Fight Show 3",
+      "eventSlug": "26384-mma-fight-show-3",
+      "round": 2,
+      "timeInRound": "3:12"
+    },
+    {
+      "date": "2012-09-24T00:00:00.000Z",
+      "opponent": "Joilton Lutterbach",
+      "opponentSlug": "43800-joilton-santos",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-08-25T00:00:00.000Z",
+      "opponent": "Glaucio Bezerra",
+      "opponentSlug": "49281-glaucio-bezerra",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-04-26T00:00:00.000Z",
+      "opponent": "Raoni Barcelos",
+      "opponentSlug": "30448-raoni-barcellos",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-03-10T00:00:00.000Z",
+      "opponent": "Leonardo Santos",
+      "opponentSlug": "leonardo-santos",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-06-04T00:00:00.000Z",
+      "opponent": "Rafael Bastos",
+      "opponentSlug": "2988-rafael-bastos-manteiga",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-11-13T00:00:00.000Z",
+      "opponent": "Rodrigo Ferreira",
+      "opponentSlug": "31230-rodrigo-kanu",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-10-02T00:00:00.000Z",
+      "opponent": "André Santos",
+      "opponentSlug": "8278-andre-santos-chatuba",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-08-15T00:00:00.000Z",
+      "opponent": "William Macário",
+      "opponentSlug": "46664-william-macario-patolino",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-07-27T00:00:00.000Z",
+      "opponent": "Flavio Luiz Moura",
+      "opponentSlug": "flavio-luiz-moura",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:38:57.850Z"
+}

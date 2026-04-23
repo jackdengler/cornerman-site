@@ -1,0 +1,143 @@
+{
+  "slug": "336743-taner-trembley",
+  "name": "Taner Trembley",
+  "nickname": "Killemquick",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1994-12-28",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/336743-taner-trembley",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Korey Taylor",
+      "opponentSlug": "193806-korey-taylor",
+      "result": "win",
+      "method": "tko",
+      "event": "LFA 231: Lozej vs. Ibarra",
+      "eventSlug": "140675-lfa-231-trembley-vs-johns",
+      "round": 2,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2026-01-16T00:00:00.000Z",
+      "opponent": "Shaheen Santana",
+      "opponentSlug": "107707-shaheen-santana",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 224: Adams vs Bilalov",
+      "eventSlug": "137873-legacy-fighting-alliance-224-lfa-224",
+      "round": 1,
+      "timeInRound": "3:32"
+    },
+    {
+      "date": "2025-11-21T00:00:00.000Z",
+      "opponent": "Cole Alaxanian",
+      "opponentSlug": "131659-cole-alaxanian",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 223: Francischinelli vs. Piersma",
+      "eventSlug": "133540-lfa-223",
+      "round": 3,
+      "timeInRound": "3:57"
+    },
+    {
+      "date": "2025-06-13T00:00:00.000Z",
+      "opponent": "Gabe Eurit",
+      "opponentSlug": "307962-gabe-eurit",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 210: Lawrence vs. Reyes",
+      "eventSlug": "126691-lfa-210",
+      "round": 1,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2025-04-11T00:00:00.000Z",
+      "opponent": "Kyle Zimick",
+      "opponentSlug": "166531-kyle-zimick",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 206: Gennrich vs. Lebosnoyani",
+      "eventSlug": "124520-lfa-206",
+      "round": 1,
+      "timeInRound": "3:13"
+    },
+    {
+      "date": "2024-06-29T00:00:00.000Z",
+      "opponent": "Davi Young",
+      "opponentSlug": "185867-davi-young",
+      "result": "win",
+      "method": "sub",
+      "event": "Mecca 22",
+      "eventSlug": "110075-mecca-22",
+      "round": 2,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2024-01-12T00:00:00.000Z",
+      "opponent": "Dylan Smerillo",
+      "opponentSlug": "277363-dylan-smerillo",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 174: Jones vs. Gennrich",
+      "eventSlug": "108251-lfa-174-jones-vs-gennrich",
+      "round": 1,
+      "timeInRound": "2:11"
+    },
+    {
+      "date": "2023-11-11T00:00:00.000Z",
+      "opponent": "Hayden Frym",
+      "opponentSlug": "291633-hayden-frym",
+      "result": "win",
+      "method": "other",
+      "event": "Mecca 20",
+      "eventSlug": "103306-mecca-20",
+      "round": 1,
+      "timeInRound": "0:06"
+    },
+    {
+      "date": "2023-04-15T00:00:00.000Z",
+      "opponent": "CJ Goon",
+      "opponentSlug": "247561-cj-goon-the-baboon",
+      "result": "win",
+      "method": "sub",
+      "event": "Inner Strength MMA 23",
+      "eventSlug": "93168-inner-strength-mma-22",
+      "round": 3,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2022-07-16T00:00:00.000Z",
+      "opponent": "Canon Swanson",
+      "opponentSlug": "329282-canon-swanson",
+      "result": "win",
+      "method": "sub",
+      "event": "Bud Brawl 2",
+      "eventSlug": "90103-bud-brawl-2",
+      "round": 2,
+      "timeInRound": "2:05"
+    },
+    {
+      "date": "2022-05-06T00:00:00.000Z",
+      "opponent": "Daylon Melby",
+      "opponentSlug": "316476-daylon-melby",
+      "result": "win",
+      "method": "tko",
+      "event": "CES 68: Greene vs. Williams",
+      "eventSlug": "87778-ces-68",
+      "round": 1,
+      "timeInRound": "2:17"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:59:28.422Z"
+}

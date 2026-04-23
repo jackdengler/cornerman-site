@@ -1,0 +1,77 @@
+{
+  "slug": "98526-yuri-mariano-jason",
+  "name": "Yuri Mariano",
+  "nickname": "Jason",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1982-08-14",
+  "nationality": "Quixada, Ceara, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/98526-yuri-mariano-jason",
+  "recentFights": [
+    {
+      "date": "2016-12-16T00:00:00.000Z",
+      "opponent": "Junior Melo",
+      "opponentSlug": "121289-jose-cleiton-de-melo-junior-melo",
+      "result": "loss",
+      "method": "sub",
+      "event": "1º Round Combat 3",
+      "eventSlug": "43168-1-round-combat-3",
+      "round": 2,
+      "timeInRound": "4:05"
+    },
+    {
+      "date": "2016-07-28T00:00:00.000Z",
+      "opponent": "Tarcisio Pierre",
+      "opponentSlug": "88282-tarcisio-pierre-psycho",
+      "result": "win",
+      "method": "other",
+      "event": "Limo Fight 18",
+      "eventSlug": "41049-limo-fight-18",
+      "round": 1,
+      "timeInRound": "1:53"
+    },
+    {
+      "date": "2015-12-19T00:00:00.000Z",
+      "opponent": "Jhonatan Santos",
+      "opponentSlug": "122392-jhonatan-santos",
+      "result": "loss",
+      "method": "sub",
+      "event": "Aspera FC 30",
+      "eventSlug": "33680-aspera-fc-30",
+      "round": 1,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2015-04-11T00:00:00.000Z",
+      "opponent": "Paulo Medina",
+      "opponentSlug": "72951-paulo-medina",
+      "result": "win",
+      "method": "sub",
+      "event": "EFC 1",
+      "eventSlug": "31919-efc-1",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-04-25T00:00:00.000Z",
+      "opponent": "Evandy Andrade",
+      "opponentSlug": "98560-evandy-andrade",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:38:30.403Z"
+}

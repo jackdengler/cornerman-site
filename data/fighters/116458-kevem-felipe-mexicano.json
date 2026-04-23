@@ -1,0 +1,209 @@
+{
+  "slug": "116458-kevem-felipe-mexicano",
+  "name": "Kevem Felipe",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 9,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 180,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1994-04-28",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/116458-kevem-felipe-mexicano",
+  "recentFights": [
+    {
+      "date": "2025-08-01T00:00:00.000Z",
+      "opponent": "Keanan Patershuk",
+      "opponentSlug": "322491-keanan-patershuck",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Urijah Faber's A1 Combat 29",
+      "eventSlug": "128023-urijah-faber-s-a1-combat-29",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-15T00:00:00.000Z",
+      "opponent": "Nick Maximov",
+      "opponentSlug": "160352-nick-maximov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Urijah Faber's A1 Combat 25",
+      "eventSlug": "117839-urijah-faber-s-a1-combat-25",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-07-20T00:00:00.000Z",
+      "opponent": "Jason Butcher",
+      "opponentSlug": "16604-jason-butcher",
+      "result": "win",
+      "method": "tko",
+      "event": "Urijah Faber's A1 Combat 22",
+      "eventSlug": "114223-urijah-faber-s-a1-combat-22",
+      "round": 1,
+      "timeInRound": "3:53"
+    },
+    {
+      "date": "2024-06-08T00:00:00.000Z",
+      "opponent": "Aireon Tavarres",
+      "opponentSlug": "163489-aireon-tavarres",
+      "result": "win",
+      "method": "tko",
+      "event": "Zhong Luo CFS 10",
+      "eventSlug": "115520-zhong-luo-cfs-10",
+      "round": 1,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2024-03-29T00:00:00.000Z",
+      "opponent": "Handesson Ferreira",
+      "opponentSlug": "64187-handesson-ferreira-boy-doido",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Urijah Faber's A1 Combat 19",
+      "eventSlug": "110165-urijah-faber-s-a1-combat-19-juarez-vs-kaldar",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-01-19T00:00:00.000Z",
+      "opponent": "Tony Charles",
+      "opponentSlug": "91097-tony-charles",
+      "result": "win",
+      "method": "sub",
+      "event": "Urijah Faber A1 Combat 17",
+      "eventSlug": "107729-urijah-faber-s-a1-combat-17-sac-state-green-vs-felipe",
+      "round": 1,
+      "timeInRound": "4:28"
+    },
+    {
+      "date": "2023-08-19T00:00:00.000Z",
+      "opponent": "Marcus Gaines",
+      "opponentSlug": "marcus-gaines",
+      "result": "win",
+      "method": "tko",
+      "event": "First Round Fights 1",
+      "eventSlug": "103735-first-round-fights",
+      "round": 1,
+      "timeInRound": "2:08"
+    },
+    {
+      "date": "2023-05-19T00:00:00.000Z",
+      "opponent": "Eric McConico",
+      "opponentSlug": "112634-eric-mcconico",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 158: Lebosnoyani vs. Jones",
+      "eventSlug": "100039-lfa-158-lebosnoyani-vs-jones",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-10T00:00:00.000Z",
+      "opponent": "David Wright",
+      "opponentSlug": "327470-david-wright",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 152: Valente vs. Bekoev",
+      "eventSlug": "97300-lfa-152-valente-vs-bekoev",
+      "round": 1,
+      "timeInRound": "0:38"
+    },
+    {
+      "date": "2022-05-27T00:00:00.000Z",
+      "opponent": "Rodrigo Cavalheiro",
+      "opponentSlug": "21973-rodrigo-cavalheiro",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Max Fight 24",
+      "eventSlug": "87920-max-fight-24",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-06T00:00:00.000Z",
+      "opponent": "Leandro Santos",
+      "opponentSlug": "189658-leandro-santos-mun-ra",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Premium FC 9",
+      "eventSlug": "83994-premium-fc-9-super-8-muay-thai",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-30T00:00:00.000Z",
+      "opponent": "Diego Bianchini",
+      "opponentSlug": "95617-diego-braga-neto",
+      "result": "loss",
+      "method": "sub",
+      "event": "SFT 10",
+      "eventSlug": "59057-sft-10",
+      "round": 2,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2018-12-15T00:00:00.000Z",
+      "opponent": "Marcus Vinicius",
+      "opponentSlug": "99876-marcus-vinicius-carrasco-jones",
+      "result": "loss",
+      "method": "other",
+      "event": "SFT 8",
+      "eventSlug": "57010-sft-8",
+      "round": 2,
+      "timeInRound": "4:51"
+    },
+    {
+      "date": "2018-10-27T00:00:00.000Z",
+      "opponent": "Claudio Ribeiro",
+      "opponentSlug": "149468-claudio-ribeiro",
+      "result": "win",
+      "method": "dec-split",
+      "event": "SFT 6",
+      "eventSlug": "56038-sft-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-13T00:00:00.000Z",
+      "opponent": "Edinei Sousa",
+      "opponentSlug": "131594-ednei-sousa-13",
+      "result": "win",
+      "method": "other",
+      "event": "Vikings Fight Club 4",
+      "eventSlug": "56281-vikings-fight-club-4",
+      "round": 2,
+      "timeInRound": "0:19"
+    },
+    {
+      "date": "2018-08-25T00:00:00.000Z",
+      "opponent": "Anderson Cruz",
+      "opponentSlug": "169656-anderson-cruz",
+      "result": "win",
+      "method": "other",
+      "event": "Vikings Fight Club 3",
+      "eventSlug": "55133-vikings-fight-club-3",
+      "round": 2,
+      "timeInRound": "3:49"
+    },
+    {
+      "date": "2015-09-19T00:00:00.000Z",
+      "opponent": "Alberto Antônio",
+      "opponentSlug": "57087-alberto-antonio",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:52:17.007Z"
+}

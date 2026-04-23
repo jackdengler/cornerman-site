@@ -1,0 +1,198 @@
+{
+  "slug": "90654-ukasz-brzeski",
+  "name": "Łukasz Brzeski",
+  "nickname": "The Bull",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 7,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 193,
+  "reachCm": 199,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1992-05-17",
+  "nationality": "Poronin, Poland",
+  "url": "https://www.tapology.com/fightcenter/fighters/90654-ukasz-brzeski",
+  "recentFights": [
+    {
+      "date": "2025-07-19T00:00:00.000Z",
+      "opponent": "Ryan Spann",
+      "opponentSlug": "20908-ryan-spann",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "eventSlug": "127441-ufc-318",
+      "round": 1,
+      "timeInRound": "2:37"
+    },
+    {
+      "date": "2024-12-07T00:00:00.000Z",
+      "opponent": "Kennedy Nzechukwu",
+      "opponentSlug": "119288-kennedy-nzechukwu",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 310: Pantoja vs. Asakura",
+      "eventSlug": "116766-ufc-310",
+      "round": 1,
+      "timeInRound": "4:51"
+    },
+    {
+      "date": "2024-07-27T00:00:00.000Z",
+      "opponent": "Mick Parkin",
+      "opponentSlug": "124944-michael-parkin",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 304: Edwards vs. Muhammad 2",
+      "eventSlug": "112936-ufc-304",
+      "round": 1,
+      "timeInRound": "3:23"
+    },
+    {
+      "date": "2024-04-06T00:00:00.000Z",
+      "opponent": "Valter Walker",
+      "opponentSlug": "267496-valter-rui-the-clean-monster",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "108721-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-26T00:00:00.000Z",
+      "opponent": "Waldo Cortes-Acosta",
+      "opponentSlug": "92314-waldo-cortes-acosta",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "101389-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "3:01"
+    },
+    {
+      "date": "2023-03-11T00:00:00.000Z",
+      "opponent": "Karl Williams",
+      "opponentSlug": "215578-karl-williams",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "95455-ufc-fight-night-smith-vs-hill",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-13T00:00:00.000Z",
+      "opponent": "Martin Buday",
+      "opponentSlug": "147242-martin-buday",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "89355-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-14T00:00:00.000Z",
+      "opponent": "Dylan Potter",
+      "opponentSlug": "91161-dylan-potter",
+      "result": "nc",
+      "method": "other",
+      "event": "Contender Series 2021",
+      "eventSlug": "78722-contender-series-2021",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-05-29T00:00:00.000Z",
+      "opponent": "Michał Piwowarski",
+      "opponentSlug": "161260-micha-piwowarski",
+      "result": "win",
+      "method": "other",
+      "event": "Babilon MMA 13",
+      "eventSlug": "67498-babilon-mma-13-revenge",
+      "round": 2,
+      "timeInRound": "4:07"
+    },
+    {
+      "date": "2019-10-26T00:00:00.000Z",
+      "opponent": "Ednaldo Oliveira",
+      "opponentSlug": "6617-edinaldo-oliveira-lula",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Babilon MMA 10",
+      "eventSlug": "62000-babilon-mma-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-31T00:00:00.000Z",
+      "opponent": "Michał Kita",
+      "opponentSlug": "michal-kita-masakra",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "Babilon MMA 8",
+      "eventSlug": "58954-babilon-mma-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-15T00:00:00.000Z",
+      "opponent": "Michał Orkowski",
+      "opponentSlug": "148709-micha-orkowski",
+      "result": "win",
+      "method": "other",
+      "event": "Babilon MMA 6",
+      "eventSlug": "56655-babilon-mma-6",
+      "round": 2,
+      "timeInRound": "0:41"
+    },
+    {
+      "date": "2018-11-10T00:00:00.000Z",
+      "opponent": "Alexandr Cverna",
+      "opponentSlug": "131826-alexandr-cverna",
+      "result": "win",
+      "method": "sub",
+      "event": "XFN 13",
+      "eventSlug": "56171-xfn-13",
+      "round": 2,
+      "timeInRound": "1:33"
+    },
+    {
+      "date": "2018-09-22T00:00:00.000Z",
+      "opponent": "Łukasz Domachowski",
+      "opponentSlug": "154447-ukasz-domachowski",
+      "result": "win",
+      "method": "other",
+      "event": "Envio Fight Night '19",
+      "eventSlug": "54031-envio-fight-night-19",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-04T00:00:00.000Z",
+      "opponent": "Grzegorz Ciepliński",
+      "opponentSlug": "27310-grzegorz-cieplinski",
+      "result": "loss",
+      "method": "other",
+      "event": "Wieczór Walk R8 2",
+      "eventSlug": "47113-wieczr-walk-r8-2",
+      "round": 1,
+      "timeInRound": "0:24"
+    },
+    {
+      "date": "2017-06-17T00:00:00.000Z",
+      "opponent": "Radoslav Tomašovič",
+      "opponentSlug": "143324-radoslav-tomasovic",
+      "result": "win",
+      "method": "other",
+      "event": "PCF 16: Face To Face",
+      "eventSlug": "46341-pcf-16-face-to-face",
+      "round": 1,
+      "timeInRound": "4:30"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:39:19.747Z"
+}

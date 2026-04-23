@@ -1,0 +1,110 @@
+{
+  "slug": "227432-jonathan-kuhn",
+  "name": "Jonathan Kuhn",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1995-02-25",
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/227432-jonathan-kuhn",
+  "recentFights": [
+    {
+      "date": "2025-05-31T00:00:00.000Z",
+      "opponent": "Jett Fisher",
+      "opponentSlug": "367343-jett-fisher",
+      "result": "loss",
+      "method": "sub",
+      "event": "HEX Fight Series 35",
+      "eventSlug": "120778-hex-fight-series-35",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-14T00:00:00.000Z",
+      "opponent": "Caleb Miller",
+      "opponentSlug": "235091-caleb-miller",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Beatdown Promotions 10",
+      "eventSlug": "120785-beatdown-promotions-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-18T00:00:00.000Z",
+      "opponent": "Tom Pratt",
+      "opponentSlug": "243259-tom-pratt",
+      "result": "loss",
+      "method": "other",
+      "event": "Endouro Fight Series 5",
+      "eventSlug": "106762-endouro-fight-series",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-12T00:00:00.000Z",
+      "opponent": "Jordan Thomas",
+      "opponentSlug": "160921-jordan-thomas",
+      "result": "loss",
+      "method": "sub",
+      "event": "Showdown 11",
+      "eventSlug": "96309-showdown-11",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-11T00:00:00.000Z",
+      "opponent": "Seb Ortiz",
+      "opponentSlug": "243256-seb-ortiz",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 61",
+      "eventSlug": "82273-eternal-mma-61",
+      "round": 3,
+      "timeInRound": "2:18"
+    },
+    {
+      "date": "2021-03-20T00:00:00.000Z",
+      "opponent": "Dom Mar Fan",
+      "opponentSlug": "196890-dom-mar-fan",
+      "result": "loss",
+      "method": "sub",
+      "event": "Beast Championship 6",
+      "eventSlug": "72141-beast-championship-6",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-02-20T00:00:00.000Z",
+      "opponent": "Alastair Volders",
+      "opponentSlug": "198294-alastair-volders",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-11-07T00:00:00.000Z",
+      "opponent": "Jai Ruane",
+      "opponentSlug": "61636-jai-ruane",
+      "result": "win",
+      "method": "tko",
+      "event": "Beast Championship 4",
+      "eventSlug": "72139-beast-championship-4",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:19:33.344Z"
+}

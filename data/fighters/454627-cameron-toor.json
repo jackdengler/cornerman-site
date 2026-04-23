@@ -1,0 +1,48 @@
+{
+  "slug": "454627-cameron-toor",
+  "name": "Cameron Toor",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 0,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "USA",
+  "url": "https://www.tapology.com/fightcenter/fighters/454627-cameron-toor",
+  "recentFights": [
+    {
+      "date": "2013-06-23T00:00:00.000Z",
+      "opponent": "Hector Morales",
+      "opponentSlug": "454628-hector-morales",
+      "result": "nc",
+      "method": "other",
+      "event": "Fist Series",
+      "eventSlug": "63099-del-mar-summerfist-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-05-31T00:00:00.000Z",
+      "opponent": "Rafa García",
+      "opponentSlug": "105452-rafael-garcia-gifted",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:35:04.366Z"
+}

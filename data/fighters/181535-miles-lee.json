@@ -1,0 +1,121 @@
+{
+  "slug": "181535-miles-lee",
+  "name": "Miles Lee",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1997-10-26",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/181535-miles-lee",
+  "recentFights": [
+    {
+      "date": "2022-07-29T00:00:00.000Z",
+      "opponent": "Donovan Beard",
+      "opponentSlug": "203983-donovan-beard",
+      "result": "loss",
+      "method": "sub",
+      "event": "CFFC 111: Lee vs. Beard",
+      "eventSlug": "90222-cffc-111",
+      "round": 4,
+      "timeInRound": "2:09"
+    },
+    {
+      "date": "2021-12-17T00:00:00.000Z",
+      "opponent": "Earl Small",
+      "opponentSlug": "66030-earl-small",
+      "result": "win",
+      "method": "dec-split",
+      "event": "CFFC 104: Torres vs. Bilder",
+      "eventSlug": "83370-cffc-104",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-03T00:00:00.000Z",
+      "opponent": "Liam Anderson",
+      "opponentSlug": "55947-liam-anderson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CFFC 98: Cutts vs. Lainesse",
+      "eventSlug": "79658-cffc-98-cutts-vs-lainesse",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-12T00:00:00.000Z",
+      "opponent": "Troy Cain",
+      "opponentSlug": "163940-troy-cain",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CFFC 93: Huckbody vs. Jeffery",
+      "eventSlug": "76659-cffc-93",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-01T00:00:00.000Z",
+      "opponent": "Sedriques Dumas",
+      "opponentSlug": "188574-sedriques-dumas",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CFFC 81: Sabatini vs. Gonzalez",
+      "eventSlug": "65236-cffc-81",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-21T00:00:00.000Z",
+      "opponent": "Ty Wildmo",
+      "opponentSlug": "199174-ty-wildmo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CFFC 78: Santella vs. Shutt",
+      "eventSlug": "62032-cffc-78",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-14T00:00:00.000Z",
+      "opponent": "Michael Travis",
+      "opponentSlug": "102987-michael-travis-ninja",
+      "result": "win",
+      "method": "sub",
+      "event": "CFFC 76",
+      "eventSlug": "59422-cffc-76",
+      "round": 2,
+      "timeInRound": "1:24"
+    },
+    {
+      "date": "2019-01-26T00:00:00.000Z",
+      "opponent": "Tre Cook",
+      "opponentSlug": "114084-tre-cook",
+      "result": "win",
+      "method": "sub",
+      "event": "Cowboy Fight Series 1",
+      "eventSlug": "56640-cowboy-fight-series-1",
+      "round": 1,
+      "timeInRound": "2:36"
+    },
+    {
+      "date": "2018-03-10T00:00:00.000Z",
+      "opponent": "Sean Glass",
+      "opponentSlug": "181536-sean-glass",
+      "result": "win",
+      "method": "sub",
+      "event": "Art of War Cage Fighting 6",
+      "eventSlug": "50817-art-of-war-cage-fighting-6",
+      "round": 3,
+      "timeInRound": "0:46"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:53:25.126Z"
+}

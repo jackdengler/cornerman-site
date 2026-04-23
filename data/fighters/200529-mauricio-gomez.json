@@ -1,0 +1,143 @@
+{
+  "slug": "200529-mauricio-gomez",
+  "name": "Mauricio Gomez",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1996-07-13",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/200529-mauricio-gomez",
+  "recentFights": [
+    {
+      "date": "2026-02-20T00:00:00.000Z",
+      "opponent": "Dakota Hope",
+      "opponentSlug": "185829-dakota-hope",
+      "result": "loss",
+      "method": "other",
+      "event": "Fury FC 116",
+      "eventSlug": "138383-fury-fc-116-saenz-vs-riles",
+      "round": 1,
+      "timeInRound": "1:59"
+    },
+    {
+      "date": "2025-12-14T00:00:00.000Z",
+      "opponent": "Carlos Calderon",
+      "opponentSlug": "149398-carlos-calderon",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Fury FC 112",
+      "eventSlug": "135424-fury-fc-112-kilmer-vs-khera",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-25T00:00:00.000Z",
+      "opponent": "Joe Hendershot",
+      "opponentSlug": "339291-joe-hendershot",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Fury FC 104",
+      "eventSlug": "126694-fury-fc-104",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-12-15T00:00:00.000Z",
+      "opponent": "Lucas Brennan",
+      "opponentSlug": "162427-lucas-brennan",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Fury FC 99: Aswell vs. Ramos",
+      "eventSlug": "119962-fury-fc-99",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-07-21T00:00:00.000Z",
+      "opponent": "Jordan Plutin",
+      "opponentSlug": "231725-jordan-plutin",
+      "result": "win",
+      "method": "sub",
+      "event": "Fury FC 94: Vigil vs. Gwerder",
+      "eventSlug": "114680-fury-fc-94-vigil-vs-wright",
+      "round": 1,
+      "timeInRound": "4:06"
+    },
+    {
+      "date": "2024-05-12T00:00:00.000Z",
+      "opponent": "Ricky Romo",
+      "opponentSlug": "172191-ricky-romo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fury FC 90: Saenz vs. Khera",
+      "eventSlug": "111453-fury-fc-90-dixon-vs-macklin",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-10T00:00:00.000Z",
+      "opponent": "Adam Amado",
+      "opponentSlug": "193193-adam-amado",
+      "result": "win",
+      "method": "sub",
+      "event": "CFFC 114: Smith vs. St. Louis",
+      "eventSlug": "93165-cffc-114",
+      "round": 2,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2022-01-21T00:00:00.000Z",
+      "opponent": "Juston Welch",
+      "opponentSlug": "253787-justin-welch",
+      "result": "win",
+      "method": "sub",
+      "event": "iKON FC 1",
+      "eventSlug": "86093-ikon-fc-1",
+      "round": 1,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2020-10-03T00:00:00.000Z",
+      "opponent": "Dave Romano",
+      "opponentSlug": "189375-david-romano",
+      "result": "win",
+      "method": "sub",
+      "event": "WCFL 27",
+      "eventSlug": "72938-wcfl-27",
+      "round": 3,
+      "timeInRound": "2:31"
+    },
+    {
+      "date": "2018-12-22T00:00:00.000Z",
+      "opponent": "Ahmed Khamis",
+      "opponentSlug": "194193-eddie-khamis",
+      "result": "win",
+      "method": "sub",
+      "event": "Pinnacle FC 18",
+      "eventSlug": "57250-pinnacle-fc-18",
+      "round": 2,
+      "timeInRound": "0:53"
+    },
+    {
+      "date": "2018-10-27T00:00:00.000Z",
+      "opponent": "Esthram Gavidia",
+      "opponentSlug": "200530-jacob-gavidia",
+      "result": "win",
+      "method": "sub",
+      "event": "305 Fights 4",
+      "eventSlug": "56300-305-fights-4",
+      "round": 1,
+      "timeInRound": "1:11"
+    }
+  ],
+  "lastVerified": "2026-04-21T06:14:15.014Z"
+}

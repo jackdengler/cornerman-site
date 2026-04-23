@@ -1,0 +1,77 @@
+{
+  "slug": "106288-isaac-villegas",
+  "name": "Isaac Villegas",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "2001-04-03",
+  "nationality": "Mexico",
+  "url": "https://www.tapology.com/fightcenter/fighters/106288-isaac-villegas",
+  "recentFights": [
+    {
+      "date": "2025-10-18T00:00:00.000Z",
+      "opponent": "Mauricio Ríos",
+      "opponentSlug": "202522-mauricio-rios",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MMA Mexico 6",
+      "eventSlug": "131143-mma-mexico-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-09T00:00:00.000Z",
+      "opponent": "Jairo Betancourth",
+      "opponentSlug": "374020-jairo-betancourth",
+      "result": "win",
+      "method": "sub",
+      "event": "TFC 4",
+      "eventSlug": "114954-tfc-4",
+      "round": 1,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2021-10-22T00:00:00.000Z",
+      "opponent": "Dorian Ramos",
+      "opponentSlug": "108139-dorian-ramos",
+      "result": "loss",
+      "method": "sub",
+      "event": "Combate Global",
+      "eventSlug": "83500-combate-global",
+      "round": 2,
+      "timeInRound": "2:53"
+    },
+    {
+      "date": "2019-06-07T00:00:00.000Z",
+      "opponent": "Lucas Brennan",
+      "opponentSlug": "162427-lucas-brennan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Tuff-N-Uff: The Future Stars of MMA",
+      "eventSlug": "60421-tuff-n-uff",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-06-27T00:00:00.000Z",
+      "opponent": "Juan Echeverria",
+      "opponentSlug": "106289-juan-echeverria",
+      "result": "win",
+      "method": "sub",
+      "event": "UWC 14: Bravo vs. Suruy",
+      "eventSlug": "33773-uwcevt-14",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-21T06:14:37.487Z"
+}

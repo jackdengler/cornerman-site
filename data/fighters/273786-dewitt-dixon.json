@@ -1,0 +1,143 @@
+{
+  "slug": "273786-dewitt-dixon",
+  "name": "DeWitt Dixon",
+  "nickname": "Crazy Cat",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": 188,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1989-07-07",
+  "nationality": "Pittsburgh, Pennsylvania, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/273786-dewitt-dixon",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Itso Babulaidze",
+      "opponentSlug": "196069-itso-babulaidze",
+      "result": null,
+      "method": "other",
+      "event": "CFFC 153: Seibert vs. Ruiz",
+      "eventSlug": "141013-cffc-153-hasan-vs-coyle",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-19T00:00:00.000Z",
+      "opponent": "Peter Petties",
+      "opponentSlug": "62070-peter-petties",
+      "result": "win",
+      "method": "tko",
+      "event": "NFC 180",
+      "eventSlug": "133314-nfc-180",
+      "round": 2,
+      "timeInRound": "0:33"
+    },
+    {
+      "date": "2022-08-05T00:00:00.000Z",
+      "opponent": "Lindsey Jones",
+      "opponentSlug": "54490-lindsey-jones",
+      "result": "win",
+      "method": "other",
+      "event": "iKON FC 4",
+      "eventSlug": "90581-ikon-fc-4",
+      "round": 2,
+      "timeInRound": "1:55"
+    },
+    {
+      "date": "2022-04-16T00:00:00.000Z",
+      "opponent": "Garrett Gross",
+      "opponentSlug": "38622-garrett-gross",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Aries Fight Series 6",
+      "eventSlug": "88384-aries-fight-series-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-01-21T00:00:00.000Z",
+      "opponent": "Sedriques Dumas",
+      "opponentSlug": "188574-sedriques-dumas",
+      "result": "loss",
+      "method": "other",
+      "event": "iKON FC 1",
+      "eventSlug": "86093-ikon-fc-1",
+      "round": 1,
+      "timeInRound": "0:59"
+    },
+    {
+      "date": "2021-11-20T00:00:00.000Z",
+      "opponent": "Anthony Wilson",
+      "opponentSlug": "79545-anthony-wilson",
+      "result": "win",
+      "method": "sub",
+      "event": "Rocket Combat Sports 7",
+      "eventSlug": "81903-rocket-combat-sports-7",
+      "round": 1,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2021-09-24T00:00:00.000Z",
+      "opponent": "Reeves Davis Jr.",
+      "opponentSlug": "228465-reeves-davis-jr",
+      "result": "win",
+      "method": "tko",
+      "event": "Island Fights 69",
+      "eventSlug": "83878-island-fights-69",
+      "round": 2,
+      "timeInRound": "0:40"
+    },
+    {
+      "date": "2021-08-07T00:00:00.000Z",
+      "opponent": "Cole Macek",
+      "opponentSlug": "205443-cole-macek",
+      "result": "win",
+      "method": "other",
+      "event": "247 FC: Brawl in the Burgh 8",
+      "eventSlug": "79397-247-fc-brawl-in-the-burgh-8",
+      "round": 1,
+      "timeInRound": "2:53"
+    },
+    {
+      "date": "2021-05-08T00:00:00.000Z",
+      "opponent": "Charles Payne",
+      "opponentSlug": "184040-charles-payne",
+      "result": "win",
+      "method": "tko",
+      "event": "Ultimate Battle Grounds 7",
+      "eventSlug": "77219-ultimate-battle-grounds-7-ubg-7",
+      "round": 1,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2021-02-06T00:00:00.000Z",
+      "opponent": "Roland Mizell",
+      "opponentSlug": "252790-roland-mizell",
+      "result": "win",
+      "method": "tko",
+      "event": "Ultimate Battle Grounds 6",
+      "eventSlug": "74957-ultimate-battle-grounds-6-mma-super-bowl",
+      "round": 1,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2020-10-03T00:00:00.000Z",
+      "opponent": "Jefferson Brink",
+      "opponentSlug": "273787-jefferson-brink",
+      "result": "win",
+      "method": "other",
+      "event": "Ultimate Battle Grounds 4",
+      "eventSlug": "72192-ultimate-battle-grounds-4-ubg-4-the-return",
+      "round": 1,
+      "timeInRound": "0:12"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:53:11.882Z"
+}

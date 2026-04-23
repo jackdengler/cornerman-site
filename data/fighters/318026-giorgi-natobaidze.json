@@ -1,0 +1,132 @@
+{
+  "slug": "318026-giorgi-natobaidze",
+  "name": "Giorgi Natobaidze",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "2003-01-29",
+  "nationality": "Georgia",
+  "url": "https://www.tapology.com/fightcenter/fighters/318026-giorgi-natobaidze",
+  "recentFights": [
+    {
+      "date": "2025-08-02T00:00:00.000Z",
+      "opponent": "Ilie Munteanu",
+      "opponentSlug": "434849-ilie-munteanu",
+      "result": "loss",
+      "method": "other",
+      "event": "Integra FC 21",
+      "eventSlug": "131477-integra-fc-21",
+      "round": 2,
+      "timeInRound": "3:38"
+    },
+    {
+      "date": "2024-06-15T00:00:00.000Z",
+      "opponent": "Nicolai Catan",
+      "opponentSlug": "440632-nicolai-catan",
+      "result": "win",
+      "method": "sub",
+      "event": "Integra FC 18",
+      "eventSlug": "116009-integra-fc-18",
+      "round": 1,
+      "timeInRound": "1:55"
+    },
+    {
+      "date": "2024-03-23T00:00:00.000Z",
+      "opponent": "Mihail Lapp",
+      "opponentSlug": "376039-mihail-lapp",
+      "result": "loss",
+      "method": "sub",
+      "event": "Rising MMA 1",
+      "eventSlug": "111727-rising-mma-1",
+      "round": 1,
+      "timeInRound": "3:04"
+    },
+    {
+      "date": "2023-11-04T00:00:00.000Z",
+      "opponent": "Nicolai Catan",
+      "opponentSlug": "440632-nicolai-catan",
+      "result": "win",
+      "method": "sub",
+      "event": "Integra FC 17",
+      "eventSlug": "107192-integra-fc-17",
+      "round": 2,
+      "timeInRound": "4:54"
+    },
+    {
+      "date": "2021-08-14T00:00:00.000Z",
+      "opponent": "Giorgi Maxaradze",
+      "opponentSlug": "318027-giorgi-maxaradze",
+      "result": "win",
+      "method": "sub",
+      "event": "Mglebi 9",
+      "eventSlug": "84620-mglebi-9",
+      "round": 2,
+      "timeInRound": "1:19"
+    },
+    {
+      "date": "2022-11-05T00:00:00.000Z",
+      "opponent": "Anatolie Gafin",
+      "opponentSlug": "350702-anatolie-gafin",
+      "result": "loss",
+      "method": "other",
+      "event": "Integra FC 16",
+      "eventSlug": "95769-integra-fc-16",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-25T00:00:00.000Z",
+      "opponent": "Richard Dobrotka",
+      "opponentSlug": "296979-richard-dobrotka",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "GAMMA",
+      "eventSlug": "94680-gamma-european-championships-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-27T00:00:00.000Z",
+      "opponent": "Yermakhan Oryntaev",
+      "opponentSlug": "361593-yermakhan-oryntaev",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "88080-gamma-world-championships-day-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-26T00:00:00.000Z",
+      "opponent": "Arsenba Ozukum",
+      "opponentSlug": "340859-arsenba-ozukum",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "88079-gamma-world-mma-championships-2021-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-25T00:00:00.000Z",
+      "opponent": "Chris Hanlon",
+      "opponentSlug": "276158-chris-hanlon",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "88078-gamma-world-championships-day-1",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:43:57.990Z"
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "225741-alessandro-soares-soldado",
+  "name": "Alessandro Soares",
+  "nickname": "Soldado",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1992-12-17",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/225741-alessandro-soares-soldado",
+  "recentFights": [
+    {
+      "date": "2025-08-02T00:00:00.000Z",
+      "opponent": "Junior Willian",
+      "opponentSlug": "274452-junior-willian-gato-preto",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LDCS 1",
+      "eventSlug": "132290-ldcs-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-20T00:00:00.000Z",
+      "opponent": "Klebson Freitas",
+      "opponentSlug": "66021-klebson-freitas-kleber-pedra",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Pará Combat Show 1",
+      "eventSlug": "113043-para-combat-show-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-15T00:00:00.000Z",
+      "opponent": "Cleilson da Silva",
+      "opponentSlug": "313295-cleilson-moreno-pinto",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Iron Man MMA 27",
+      "eventSlug": "108615-iron-man-mma-27",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-27T00:00:00.000Z",
+      "opponent": "Lucas Forquim",
+      "opponentSlug": "258187-lucas-forquim-cerebro",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Jungle Fight 116",
+      "eventSlug": "101194-jungle-fight-116",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-20T00:00:00.000Z",
+      "opponent": "Elizeu Silva",
+      "opponentSlug": "106508-elizeu-toquinho",
+      "result": "win",
+      "method": "sub",
+      "event": "Team Sarafian Combat 3",
+      "eventSlug": "92400-team-sarafian-combat-3",
+      "round": 1,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2019-12-06T00:00:00.000Z",
+      "opponent": "Demison Rodrigues",
+      "opponentSlug": "195090-demison-soares",
+      "result": "loss",
+      "method": "other",
+      "event": "Serpente Top Team 10",
+      "eventSlug": "64899-serpente-top-team-10",
+      "round": 2,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2019-09-14T00:00:00.000Z",
+      "opponent": "Márcio Barbosa",
+      "opponentSlug": "126539-marcio-ticot",
+      "result": "loss",
+      "method": "sub",
+      "event": "Amapá Fight Night 1",
+      "eventSlug": "62802-amapa-fight-night-1",
+      "round": 1,
+      "timeInRound": "2:42"
+    },
+    {
+      "date": "2019-05-30T00:00:00.000Z",
+      "opponent": "Cerivan Souza",
+      "opponentSlug": "225351-cerivan-souza",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Sombra Fight Champions 12",
+      "eventSlug": "60722-sombra-fight-champions-12",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:57:01.878Z"
+}

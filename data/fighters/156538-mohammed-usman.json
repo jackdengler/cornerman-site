@@ -1,0 +1,209 @@
+{
+  "slug": "156538-mohammed-usman",
+  "name": "Mohammed Usman",
+  "nickname": "The Motor",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": 201,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1989-04-01",
+  "nationality": "Auchi, Nigeria",
+  "url": "https://www.tapology.com/fightcenter/fighters/156538-mohammed-usman",
+  "recentFights": [
+    {
+      "date": "2025-06-21T00:00:00.000Z",
+      "opponent": "Hamdy Abdelwahab",
+      "opponentSlug": "227049-hamdy-abdelwahab",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "125838-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-07-20T00:00:00.000Z",
+      "opponent": "Thomas Petersen",
+      "opponentSlug": "187808-thomas-peterson",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "112783-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-23T00:00:00.000Z",
+      "opponent": "Mick Parkin",
+      "opponentSlug": "124944-michael-parkin",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "108462-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-23T00:00:00.000Z",
+      "opponent": "Jake Collier",
+      "opponentSlug": "17087-jake-collier",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "101865-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-04-22T00:00:00.000Z",
+      "opponent": "Junior Tafa",
+      "opponentSlug": "242095-junior-tafa",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "97433-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-06T00:00:00.000Z",
+      "opponent": "Zac Pauga",
+      "opponentSlug": "212294-zac-pauga",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "89111-ufc-fight-night-santos-vs-hill",
+      "round": 2,
+      "timeInRound": "0:36"
+    },
+    {
+      "date": "2022-07-12T00:00:00.000Z",
+      "opponent": "Eduardo Perez",
+      "opponentSlug": "130702-eduardo-perez",
+      "result": "win",
+      "method": "dec-split",
+      "event": "The Ultimate Fighter Season 30",
+      "eventSlug": "91394-the-ultimate-fighter-season-30-nunes-vs-pena",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-17T00:00:00.000Z",
+      "opponent": "Mitchell Sipe",
+      "opponentSlug": "103600-mitchell-sipe",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "The Ultimate Fighter Season 30",
+      "eventSlug": "91386-the-ultimate-fighter-season-30-nunes-vs-pena",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-06T00:00:00.000Z",
+      "opponent": "Brandon Sayles",
+      "opponentSlug": "18826-brandon-sayles",
+      "result": "loss",
+      "method": "sub",
+      "event": "PFL 2021 #3",
+      "eventSlug": "73516-pfl-2021-3",
+      "round": 2,
+      "timeInRound": "3:42"
+    },
+    {
+      "date": "2020-08-28T00:00:00.000Z",
+      "opponent": "Terrance Hodges",
+      "opponentSlug": "73619-terrance-hodges",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Titan FC 63",
+      "eventSlug": "71823-titan-fc-63",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-20T00:00:00.000Z",
+      "opponent": "Reggie Cato",
+      "opponentSlug": "155426-reggie-cato",
+      "result": "win",
+      "method": "tko",
+      "event": "Titan FC 58",
+      "eventSlug": "64420-titan-fc-58",
+      "round": 1,
+      "timeInRound": "0:48"
+    },
+    {
+      "date": "2019-10-19T00:00:00.000Z",
+      "opponent": "Alexis García",
+      "opponentSlug": "170086-alexis-garca",
+      "result": "win",
+      "method": "tko",
+      "event": "Titan FC 57",
+      "eventSlug": "62530-titan-fc-57-jurisic-vs-graves",
+      "round": 1,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2019-03-15T00:00:00.000Z",
+      "opponent": "Frank Tate",
+      "opponentSlug": "52432-frank-tate",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Titan FC 53",
+      "eventSlug": "58402-titan-fc-53-puerta-vs-balart-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-14T00:00:00.000Z",
+      "opponent": "Don'Tale Mayes",
+      "opponentSlug": "46499-dontale-mayes",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Victory FC 60",
+      "eventSlug": "50179-victory-fc",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-02T00:00:00.000Z",
+      "opponent": "Van Palacio",
+      "opponentSlug": "9756-van-palacio",
+      "result": "win",
+      "method": "other",
+      "event": "Tachi PF 33",
+      "eventSlug": "48952-tachi-pf-33-velasco-vs-lima",
+      "round": 1,
+      "timeInRound": "4:52"
+    },
+    {
+      "date": "2017-08-03T00:00:00.000Z",
+      "opponent": "Dante Harrell",
+      "opponentSlug": "152044-dante-harrell",
+      "result": "win",
+      "method": "sub",
+      "event": "Tachi PF 32",
+      "eventSlug": "47265-tachi-pf-32-perez-vs-george",
+      "round": 1,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2017-05-18T00:00:00.000Z",
+      "opponent": "Derrick Williams",
+      "opponentSlug": "43379-derrick-williams",
+      "result": "win",
+      "method": "sub",
+      "event": "Tachi PF 31",
+      "eventSlug": "45564-tachi-pf-31",
+      "round": 1,
+      "timeInRound": "1:16"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:16:41.314Z"
+}

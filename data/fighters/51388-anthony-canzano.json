@@ -1,0 +1,209 @@
+{
+  "slug": "51388-anthony-canzano",
+  "name": "Anthony Canzano",
+  "nickname": "Fat Tony",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1989-02-21",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/51388-anthony-canzano",
+  "recentFights": [
+    {
+      "date": "2023-02-05T00:00:00.000Z",
+      "opponent": "Alberto Trujillo",
+      "opponentSlug": "96328-alberto-trujillo",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fury FC 74: Smotherman vs. Caballero",
+      "eventSlug": "96722-fury-fc-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-08T00:00:00.000Z",
+      "opponent": "Eddie Torres",
+      "opponentSlug": "64818-eddie-torrez",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Fury FC 61",
+      "eventSlug": "88196-fury-fc-61",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-07T00:00:00.000Z",
+      "opponent": "Taylor Alfaro",
+      "opponentSlug": "49346-taylor-alfaro",
+      "result": "win",
+      "method": "tko",
+      "event": "NFC 136",
+      "eventSlug": "81697-nfc-136",
+      "round": 3,
+      "timeInRound": "3:12"
+    },
+    {
+      "date": "2021-05-29T00:00:00.000Z",
+      "opponent": "Nathan Lindsay",
+      "opponentSlug": "38202-nathan-lindsay-psycho-killa",
+      "result": "win",
+      "method": "tko",
+      "event": "B2 Fighting Series 123",
+      "eventSlug": "78655-b2-fighting-series-tennessee-123",
+      "round": 2,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2021-03-20T00:00:00.000Z",
+      "opponent": "Austin Childers",
+      "opponentSlug": "79914-austin-childers",
+      "result": "win",
+      "method": "sub",
+      "event": "NFC 130",
+      "eventSlug": "78013-nfc-130",
+      "round": 1,
+      "timeInRound": "4:49"
+    },
+    {
+      "date": "2019-11-08T00:00:00.000Z",
+      "opponent": "Windson Ramos",
+      "opponentSlug": "152369-windson-ramos",
+      "result": "loss",
+      "method": "sub",
+      "event": "KOTC: Rumble on the River 3",
+      "eventSlug": "63003-kotc-rumble-on-the-river-3",
+      "round": 1,
+      "timeInRound": "3:49"
+    },
+    {
+      "date": "2018-07-21T00:00:00.000Z",
+      "opponent": "Brian Hauser",
+      "opponentSlug": "87503-brian-hauser",
+      "result": "win",
+      "method": "dec-split",
+      "event": "864 Fighting Championship",
+      "eventSlug": "54255-864-fighting-championship-fight-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-02-16T00:00:00.000Z",
+      "opponent": "Levi Lucero",
+      "opponentSlug": "63674-levi-lucero",
+      "result": "win",
+      "method": "sub",
+      "event": "864 Fighting Championship",
+      "eventSlug": "51127-864-fighting-championship-fight-2",
+      "round": 1,
+      "timeInRound": "0:53"
+    },
+    {
+      "date": "2017-12-15T00:00:00.000Z",
+      "opponent": "Jose Medrano, Jr.",
+      "opponentSlug": "41030-jose-medrano",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Warfare MMA 17",
+      "eventSlug": "49611-warfare-mma-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-07T00:00:00.000Z",
+      "opponent": "Romondo Scott",
+      "opponentSlug": "56968-romondo-scott",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 8: Hamilton vs. Bazzi",
+      "eventSlug": "44721-lfa-8-hamilton-vs-bazzi",
+      "round": 1,
+      "timeInRound": "1:56"
+    },
+    {
+      "date": "2015-11-14T00:00:00.000Z",
+      "opponent": "Michael Whaley",
+      "opponentSlug": "85252-michael-whaley",
+      "result": "win",
+      "method": "tko",
+      "event": "USFFC 25: Defiance",
+      "eventSlug": "35169-usffc-25-defiance",
+      "round": 3,
+      "timeInRound": "0:40"
+    },
+    {
+      "date": "2015-06-27T00:00:00.000Z",
+      "opponent": "Jamark Cooper",
+      "opponentSlug": "47575-jamark-cooper",
+      "result": "win",
+      "method": "sub",
+      "event": "NFC 75: Rinaldi vs. Saraiva",
+      "eventSlug": "33670-nfc-75",
+      "round": 1,
+      "timeInRound": "2:18"
+    },
+    {
+      "date": "2015-02-28T00:00:00.000Z",
+      "opponent": "Aaron Douan",
+      "opponentSlug": "94065-aaron-douan",
+      "result": "win",
+      "method": "tko",
+      "event": "Caged Chaos 9",
+      "eventSlug": "30603-cage-chaos-9",
+      "round": 1,
+      "timeInRound": "2:47"
+    },
+    {
+      "date": "2014-09-13T00:00:00.000Z",
+      "opponent": "Cody Durden",
+      "opponentSlug": "68337-cody-durden",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "NFC 68: Wild Bill's Fight Night 67",
+      "eventSlug": "26544-nfc-68",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-04-12T00:00:00.000Z",
+      "opponent": "Dee Melton",
+      "opponentSlug": "42730-dee-melton",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XFE 40",
+      "eventSlug": "22542-xfe-40",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-01-25T00:00:00.000Z",
+      "opponent": "Brandon Webb",
+      "opponentSlug": "61841-brandon-webb",
+      "result": "loss",
+      "method": "tko",
+      "event": "NFC 62: Wild Bill's Fight Night 61",
+      "eventSlug": "22212-nfc-62",
+      "round": 2,
+      "timeInRound": "0:54"
+    },
+    {
+      "date": "2013-07-19T00:00:00.000Z",
+      "opponent": "Darius Napier",
+      "opponentSlug": "51389-darius-napier",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "NFC 58: Wild Bill's Fight Night 57",
+      "eventSlug": "19779-nfc-58-harvison-vs-weathers",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-19T19:10:38.124Z"
+}

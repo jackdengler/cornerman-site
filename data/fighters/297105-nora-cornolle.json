@@ -1,0 +1,165 @@
+{
+  "slug": "297105-nora-cornolle",
+  "name": "Nora Cornolle",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 169,
+  "reachCm": 170,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1989-12-06",
+  "nationality": "Epinay Sur Seine, France",
+  "url": "https://www.tapology.com/fightcenter/fighters/297105-nora-cornolle",
+  "recentFights": [
+    {
+      "date": "2026-02-21T00:00:00.000Z",
+      "opponent": "Joselyne Edwards",
+      "opponentSlug": "98366-yoselin-edwards",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "136872-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "2:44"
+    },
+    {
+      "date": "2025-08-02T00:00:00.000Z",
+      "opponent": "Karol Rosa",
+      "opponentSlug": "79637-karolline-rosa-karol",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "127934-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-04-12T00:00:00.000Z",
+      "opponent": "Hailey Cowan",
+      "opponentSlug": "166556-hailey-cowan",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC 314: Volkanovski vs. Lopes",
+      "eventSlug": "122989-ufc-314",
+      "round": 2,
+      "timeInRound": "1:52"
+    },
+    {
+      "date": "2024-09-28T00:00:00.000Z",
+      "opponent": "Jacqueline Cavalcanti",
+      "opponentSlug": "196666-jaqueline-cavalcanti",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "111674-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-06T00:00:00.000Z",
+      "opponent": "Melissa Mullins",
+      "opponentSlug": "188856-melissa-mullins",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "108721-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "3:06"
+    },
+    {
+      "date": "2023-09-02T00:00:00.000Z",
+      "opponent": "Joselyne Edwards",
+      "opponentSlug": "98366-yoselin-edwards",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "102007-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-17T00:00:00.000Z",
+      "opponent": "Hassna Jaber",
+      "opponentSlug": "176608-hassna-gaber",
+      "result": "win",
+      "method": "other",
+      "event": "UAE Warriors 38",
+      "eventSlug": "99101-uae-warriors-38-africa-5",
+      "round": 1,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2023-02-26T00:00:00.000Z",
+      "opponent": "Sanaa Mandar",
+      "opponentSlug": "374564-sanaa-mandar-fittest-of-morocco",
+      "result": "win",
+      "method": "other",
+      "event": "UAE Warriors 37",
+      "eventSlug": "98072-uae-warriors-37-arabia-9",
+      "round": 1,
+      "timeInRound": "2:47"
+    },
+    {
+      "date": "2023-01-22T00:00:00.000Z",
+      "opponent": "Priscila de Souza",
+      "opponentSlug": "58008-priscila-de-souza",
+      "result": "win",
+      "method": "tko",
+      "event": "Hexagone MMA 6",
+      "eventSlug": "94099-hexagone-mma-6",
+      "round": 2,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2022-09-16T00:00:00.000Z",
+      "opponent": "Asmaa Abach",
+      "opponentSlug": "348844-asmaa-abach",
+      "result": "win",
+      "method": "other",
+      "event": "UAE Warriors 32",
+      "eventSlug": "91345-uae-warriors-32-africa",
+      "round": 2,
+      "timeInRound": "3:15"
+    },
+    {
+      "date": "2022-04-23T00:00:00.000Z",
+      "opponent": "Juliet Chukwu",
+      "opponentSlug": "244906-juliet-chukwu",
+      "result": "win",
+      "method": "sub",
+      "event": "Benin FC 7",
+      "eventSlug": "88374-bfc-7",
+      "round": 1,
+      "timeInRound": "3:25"
+    },
+    {
+      "date": "2022-04-02T00:00:00.000Z",
+      "opponent": "Marie Loiseau",
+      "opponentSlug": "198237-marie-loiseau",
+      "result": "win",
+      "method": "other",
+      "event": "Gladiator Fighting Arena 13",
+      "eventSlug": "87626-gladiator-fighting-arena-13",
+      "round": 1,
+      "timeInRound": "4:16"
+    },
+    {
+      "date": "2021-07-10T00:00:00.000Z",
+      "opponent": "Jacqueline Cavalcanti",
+      "opponentSlug": "196666-jaqueline-cavalcanti",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "FFA Challenge 2",
+      "eventSlug": "79744-ffa-challenge-2",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:33:41.014Z"
+}

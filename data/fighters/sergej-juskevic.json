@@ -1,0 +1,253 @@
+{
+  "slug": "sergej-juskevic",
+  "name": "Sergej Juskevic",
+  "nickname": "El Dorado",
+  "aliases": [],
+  "recordPro": {
+    "wins": 15,
+    "losses": 8,
+    "draws": 2
+  },
+  "recordAmateur": null,
+  "heightCm": 176,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1986-05-29",
+  "nationality": "Lithuania",
+  "url": "https://www.tapology.com/fightcenter/fighters/sergej-juskevic",
+  "recentFights": [
+    {
+      "date": "2016-01-29T00:00:00.000Z",
+      "opponent": "Cody Wilson",
+      "opponentSlug": "29073-cody-wilson",
+      "result": "loss",
+      "method": "sub",
+      "event": "Hard Knocks 48",
+      "eventSlug": "37111-hard-knocks-48",
+      "round": 2,
+      "timeInRound": "4:42"
+    },
+    {
+      "date": "2015-05-22T00:00:00.000Z",
+      "opponent": "LT Nelson",
+      "opponentSlug": "19464-lt-nelson-smash",
+      "result": "win",
+      "method": "sub",
+      "event": "Hard Knocks 43",
+      "eventSlug": "29442-hard-knocks-43",
+      "round": 2,
+      "timeInRound": "2:43"
+    },
+    {
+      "date": "2014-11-14T00:00:00.000Z",
+      "opponent": "Joel Powell",
+      "opponentSlug": "8030-joel-powell",
+      "result": "win",
+      "method": "other",
+      "event": "Hard Knocks 39",
+      "eventSlug": "26308-hard-knocks-39",
+      "round": 1,
+      "timeInRound": "0:58"
+    },
+    {
+      "date": "2014-01-17T00:00:00.000Z",
+      "opponent": "Brandt Dewsbery",
+      "opponentSlug": "19428-brandt-dewsberry",
+      "result": "win",
+      "method": "sub",
+      "event": "Hard Knocks 34",
+      "eventSlug": "21379-hard-knocks-34",
+      "round": 1,
+      "timeInRound": "0:57"
+    },
+    {
+      "date": "2012-10-19T00:00:00.000Z",
+      "opponent": "Gerald Meerschaert",
+      "opponentSlug": "6018-gerald-meerschaert-the-machine",
+      "result": "win",
+      "method": "other",
+      "event": "Score Fighting Series 6",
+      "eventSlug": "15439-score-fighting-series-6",
+      "round": 1,
+      "timeInRound": "4:32"
+    },
+    {
+      "date": "2012-03-16T00:00:00.000Z",
+      "opponent": "Forrest Petz",
+      "opponentSlug": "forrest-petz-the-meat-cleaver",
+      "result": "loss",
+      "method": "other",
+      "event": "Score Fighting Series 4",
+      "eventSlug": "12299-score-fighting-series-4",
+      "round": 2,
+      "timeInRound": "3:25"
+    },
+    {
+      "date": "2011-05-06T00:00:00.000Z",
+      "opponent": "Gideon Ray",
+      "opponentSlug": "gideon-ray",
+      "result": "win",
+      "method": "sub",
+      "event": "Wreck MMA 7",
+      "eventSlug": "9561-wreck-mma-7-unstoppable",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2009-03-22T00:00:00.000Z",
+      "opponent": "Marek Chwalibogowski",
+      "opponentSlug": "15921-marek-chwalibogowski",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-03-29T00:00:00.000Z",
+      "opponent": "Bagautdin Gadzhimuradov",
+      "opponentSlug": "13592-bagavdin-gadzhimuradov",
+      "result": "win",
+      "method": "sub",
+      "event": "Shooto Russia",
+      "eventSlug": "10189-shooto-russia-kings-of-the-ring",
+      "round": 1,
+      "timeInRound": "0:17"
+    },
+    {
+      "date": "2007-12-07T00:00:00.000Z",
+      "opponent": "Jasse Junkkari",
+      "opponentSlug": "15923-jasse-junkkari",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-11-10T00:00:00.000Z",
+      "opponent": "Anton Kuivanen",
+      "opponentSlug": "5314-anton-kuivanen",
+      "result": "win",
+      "method": "other",
+      "event": "Bushido FC: Hero's 2007",
+      "eventSlug": "5106-bushido-fc-hero-s-2007",
+      "round": 2,
+      "timeInRound": "1:27"
+    },
+    {
+      "date": "2007-09-29T00:00:00.000Z",
+      "opponent": "Tomasz Jeruszka",
+      "opponentSlug": "15924-tomasz-jeruszka",
+      "result": "win",
+      "method": "sub",
+      "event": "Bushido FC: Battle Of Saule 2",
+      "eventSlug": "5107-bushido-fc-battle-of-saule-2",
+      "round": 1,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2007-09-01T00:00:00.000Z",
+      "opponent": "Alpo Kautonen",
+      "opponentSlug": "15925-alpo-kautonen",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-05-05T00:00:00.000Z",
+      "opponent": "Andrei Kaeshov",
+      "opponentSlug": "15017-andrei-kaeshov",
+      "result": "draw",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2006-07-20T00:00:00.000Z",
+      "opponent": "Marius Buzinskas",
+      "opponentSlug": "5907-marius-buzinskas",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2006-05-20T00:00:00.000Z",
+      "opponent": "Jerry Kvarnstrom",
+      "opponentSlug": "15927-jerry-kvarnstrom-adhd",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2006-04-23T00:00:00.000Z",
+      "opponent": "Masahiro Oishi",
+      "opponentSlug": "2254-masahiro-oishi-jackal",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2005-12-03T00:00:00.000Z",
+      "opponent": "Pasi Maliniemi",
+      "opponentSlug": "14612-pasi-maliniemi",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2005-10-23T00:00:00.000Z",
+      "opponent": "Michal Hamršmíd",
+      "opponentSlug": "5325-michal-hamrsmid-hasa",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2005-09-10T00:00:00.000Z",
+      "opponent": "Shuichiro Katsumura",
+      "opponentSlug": "shuichiro-katsumura",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2005-07-30T00:00:00.000Z",
+      "opponent": "Arunas Jurgelenas",
+      "opponentSlug": "3056-arunas-jurgelenas",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:15:47.936Z"
+}

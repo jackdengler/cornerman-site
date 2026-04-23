@@ -1,0 +1,187 @@
+{
+  "slug": "15510-dwight-daniel-gipson",
+  "name": "Dwight Gipson",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 11,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1990-02-28",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/15510-dwight-daniel-gipson",
+  "recentFights": [
+    {
+      "date": "2018-09-08T00:00:00.000Z",
+      "opponent": "Christian Anderson",
+      "opponentSlug": "54206-christian-anderson",
+      "result": "loss",
+      "method": "other",
+      "event": "Rocks Xtreme MMA 24",
+      "eventSlug": "54651-rocks-xtreme-mma-24",
+      "round": 3,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2018-01-26T00:00:00.000Z",
+      "opponent": "Juan Adams",
+      "opponentSlug": "139094-juan-adams",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 32: Allen vs. Hernandez",
+      "eventSlug": "49701-lfa-32-allen-vs-hernandez",
+      "round": 1,
+      "timeInRound": "4:09"
+    },
+    {
+      "date": "2016-07-23T00:00:00.000Z",
+      "opponent": "Jeremy Hardy",
+      "opponentSlug": "21621-jeremy-hardy",
+      "result": "win",
+      "method": "tko",
+      "event": "SCC 14: Rose City Showdown",
+      "eventSlug": "40704-scc-rose-city-showdown",
+      "round": 1,
+      "timeInRound": "1:52"
+    },
+    {
+      "date": "2015-05-29T00:00:00.000Z",
+      "opponent": "Andre Kavanaugh",
+      "opponentSlug": "17550-andre-kavanaugh",
+      "result": "win",
+      "method": "sub",
+      "event": "Border Wars 1",
+      "eventSlug": "31182-border-wars",
+      "round": 1,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2015-05-09T00:00:00.000Z",
+      "opponent": "Ryan Spann",
+      "opponentSlug": "20908-ryan-spann",
+      "result": "loss",
+      "method": "sub",
+      "event": "VFA: Round 5",
+      "eventSlug": "32385-vfa-round-5",
+      "round": 1,
+      "timeInRound": "4:39"
+    },
+    {
+      "date": "2014-09-13T00:00:00.000Z",
+      "opponent": "Jody McCallon",
+      "opponentSlug": "34693-jody-mccallon",
+      "result": "win",
+      "method": "tko",
+      "event": "Get Off the Ropes",
+      "eventSlug": "26547-get-off-the-ropes-thriller-in-deridder",
+      "round": 1,
+      "timeInRound": "0:15"
+    },
+    {
+      "date": "2013-11-02T00:00:00.000Z",
+      "opponent": "Michael Johnson",
+      "opponentSlug": "37752-michael-johnson",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Tap Snap or Nap",
+      "eventSlug": "24493-tap-snap-or-nap",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-08-03T00:00:00.000Z",
+      "opponent": "Chris Seifert",
+      "opponentSlug": "1972-chris-seifert",
+      "result": "win",
+      "method": "tko",
+      "event": "Rumble at RAXX 20",
+      "eventSlug": "20041-rumble-at-raxx-20",
+      "round": 2,
+      "timeInRound": "3:39"
+    },
+    {
+      "date": "2013-04-20T00:00:00.000Z",
+      "opponent": "Taz Hendricks",
+      "opponentSlug": "49932-taz-hendricks",
+      "result": "win",
+      "method": "other",
+      "event": "Rumble at the Rodeo 19",
+      "eventSlug": "47501-rumble-at-the-rodeo-19",
+      "round": 2,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2012-11-17T00:00:00.000Z",
+      "opponent": "Daniel Miller",
+      "opponentSlug": "19780-daniel-miller",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "EFC 3: Domination",
+      "eventSlug": "15346-efc-3-domination",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-04-22T00:00:00.000Z",
+      "opponent": "Richard Odoms",
+      "opponentSlug": "richard-odoms-the-black-eagle",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-10-14T00:00:00.000Z",
+      "opponent": "Ike Villanueva",
+      "opponentSlug": "isaac-villanueva",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-08-06T00:00:00.000Z",
+      "opponent": "James Gray II",
+      "opponentSlug": "15467-james-gray",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-06-13T00:00:00.000Z",
+      "opponent": "Jay Peche",
+      "opponentSlug": "9046-jay-peche",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-02-27T00:00:00.000Z",
+      "opponent": "Chris Trammel",
+      "opponentSlug": "7843-chris-trammel",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:51:04.424Z"
+}

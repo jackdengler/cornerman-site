@@ -1,0 +1,99 @@
+{
+  "slug": "90854-ben-bennett",
+  "name": "Ben Bennett",
+  "nickname": "Bad Man",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "England",
+  "url": "https://www.tapology.com/fightcenter/fighters/90854-ben-bennett",
+  "recentFights": [
+    {
+      "date": "2019-05-18T00:00:00.000Z",
+      "opponent": "Bobby Pallett",
+      "opponentSlug": "59775-bobby-pallett",
+      "result": "loss",
+      "method": "tko",
+      "event": "Full Contact Contender 23",
+      "eventSlug": "57655-full-contact-contender-23",
+      "round": 3,
+      "timeInRound": "3:16"
+    },
+    {
+      "date": "2018-11-30T00:00:00.000Z",
+      "opponent": "Vahid Hoseinpoor",
+      "opponentSlug": "136407-vahid-hoseinpoor",
+      "result": "win",
+      "method": "sub",
+      "event": "Celtic Gladiator 22",
+      "eventSlug": "56012-celtic-gladiator-22-manchester",
+      "round": 1,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2018-07-28T00:00:00.000Z",
+      "opponent": "George Hardwick",
+      "opponentSlug": "64203-george-hardwick",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Almighty Fighting Championship 9",
+      "eventSlug": "53543-almighty-fighting-championship-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-18T00:00:00.000Z",
+      "opponent": "Mush Aslani",
+      "opponentSlug": "83437-mush-aslani",
+      "result": "win",
+      "method": "sub",
+      "event": "Caged Steel FC 17",
+      "eventSlug": "43552-csfc-17",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-14T00:00:00.000Z",
+      "opponent": "Jai Herbert",
+      "opponentSlug": "70002-jai-herbert",
+      "result": "loss",
+      "method": "other",
+      "event": "BAMMA 23: Night Of Champions",
+      "eventSlug": "34729-bamma-23-night-of-champions",
+      "round": 2,
+      "timeInRound": "3:59"
+    },
+    {
+      "date": "2015-06-13T00:00:00.000Z",
+      "opponent": "Daniel Cassell",
+      "opponentSlug": "75999-daniel-cassell",
+      "result": "win",
+      "method": "sub",
+      "event": "BAMMA 21: DeVent Vs. Kone",
+      "eventSlug": "32254-bamma-21-devent-vs-kone",
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2015-04-04T00:00:00.000Z",
+      "opponent": "David Young",
+      "opponentSlug": "79770-david-young",
+      "result": "win",
+      "method": "other",
+      "event": "Combat Challenge North East 2",
+      "eventSlug": "27781-combat-challenge-north-east-2",
+      "round": 1,
+      "timeInRound": "0:52"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:09:10.125Z"
+}

@@ -1,0 +1,136 @@
+{
+  "slug": "179207-deante-francher",
+  "name": "Devante Frencher",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 5,
+    "losses": 5,
+    "draws": 0
+  },
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/179207-deante-francher",
+  "recentFights": [
+    {
+      "date": "2021-12-17T00:00:00.000Z",
+      "opponent": "Andre Sellars",
+      "opponentSlug": "247093-andre-sellars",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Brawl @ Bourbon Street 2",
+      "eventSlug": "82490-ignite-fights-brawl-bourbon-street-ii",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-28T00:00:00.000Z",
+      "opponent": "Blake Sims",
+      "opponentSlug": "280893-blake-sims",
+      "result": "win",
+      "method": "other",
+      "event": "MOKAN 1",
+      "eventSlug": "82107-mokan-1",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-26T00:00:00.000Z",
+      "opponent": "Lorenzo Carter",
+      "opponentSlug": "185118-lorenzo-carter",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "EFC 14",
+      "eventSlug": "79962-efc-14",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-05T00:00:00.000Z",
+      "opponent": "Ralph Hernandez III",
+      "opponentSlug": "190165-ralph-hernandez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "FAC 7",
+      "eventSlug": "77131-fac-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-12-12T00:00:00.000Z",
+      "opponent": "Billy Wilson",
+      "opponentSlug": "161594-billy-wilson",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "FAC 6",
+      "eventSlug": "74679-fac-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-28T00:00:00.000Z",
+      "opponent": "Alexis Garcia",
+      "opponentSlug": "165412-alexis-garcia",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "KC Fighting Alliance 35",
+      "eventSlug": "61338-kc-fighting-alliance-35",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-05T00:00:00.000Z",
+      "opponent": "Peter Lucitt",
+      "opponentSlug": "209509-peter-lucitt",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Ultimate Blue Corner Battles",
+      "eventSlug": "59220-ultimate-blue-corner-battles",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-01T00:00:00.000Z",
+      "opponent": "Jacob Smith",
+      "opponentSlug": "200804-jacob-smith",
+      "result": "win",
+      "method": "other",
+      "event": "KC Fighting Alliance 31",
+      "eventSlug": "55976-kc-fighting-alliance-31",
+      "round": 1,
+      "timeInRound": "0:32"
+    },
+    {
+      "date": "2018-04-06T00:00:00.000Z",
+      "opponent": "Harvey Kibble",
+      "opponentSlug": "180760-harvey-kibble",
+      "result": "win",
+      "method": "other",
+      "event": "Ultimate Blue Corner Battles",
+      "eventSlug": "52036-ultimate-blue-corner-battles",
+      "round": 3,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2018-02-17T00:00:00.000Z",
+      "opponent": "Fernando Andrade",
+      "opponentSlug": "64391-fernando-andrade",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KC Fighting Alliance 27",
+      "eventSlug": "49780-kc-fighting-alliance-27",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:44:53.703Z"
+}

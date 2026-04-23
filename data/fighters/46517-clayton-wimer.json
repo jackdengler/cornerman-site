@@ -1,0 +1,242 @@
+{
+  "slug": "46517-clayton-wimer",
+  "name": "Clay Wimer",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": 193,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1993-02-19",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/46517-clayton-wimer",
+  "recentFights": [
+    {
+      "date": "2018-01-18T00:00:00.000Z",
+      "opponent": "Jeremy Spoon",
+      "opponentSlug": "jeremy-spoon-spooner",
+      "result": "loss",
+      "method": "other",
+      "event": "OKC Charity Fight Night",
+      "eventSlug": "50348-okc-charity-fight-night",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2017-11-18T00:00:00.000Z",
+      "opponent": "Joey Munoz",
+      "opponentSlug": "25021-joey-munoz",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Legion Combat 26",
+      "eventSlug": "47974-legion-combat-26",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-10-27T00:00:00.000Z",
+      "opponent": "Youssef Zalal",
+      "opponentSlug": "110826-youssef-zalaal",
+      "result": "loss",
+      "method": "sub",
+      "event": "Mile High MMAyhem",
+      "eventSlug": "48792-mile-high-mmayhem",
+      "round": 2,
+      "timeInRound": "2:42"
+    },
+    {
+      "date": "2017-06-17T00:00:00.000Z",
+      "opponent": "Mitch Peterson",
+      "opponentSlug": "25019-mitch-peterson",
+      "result": "win",
+      "method": "sub",
+      "event": "Legion Combat 25",
+      "eventSlug": "45930-legion-combat-25-peterson-vs-santiago",
+      "round": 1,
+      "timeInRound": "3:23"
+    },
+    {
+      "date": "2016-09-09T00:00:00.000Z",
+      "opponent": "Cory Sandhagen",
+      "opponentSlug": "32931-cory-sandhagen",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "RFA 43: Camozzi vs. Barnes",
+      "eventSlug": "40830-rfa-43-camozzi-vs-barnes",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-03-12T00:00:00.000Z",
+      "opponent": "Josh Huber",
+      "opponentSlug": "15362-josh-huber",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "WSOF 29: Gaethje vs. Foster",
+      "eventSlug": "37736-wsof-29-gaethje-vs-foster",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-06T00:00:00.000Z",
+      "opponent": "Sean Richman",
+      "opponentSlug": "32972-sean-richman",
+      "result": "win",
+      "method": "other",
+      "event": "RFA 32: Blumer vs. Higo",
+      "eventSlug": "35696-rfa-32-blumer-vs-higo",
+      "round": 2,
+      "timeInRound": "3:16"
+    },
+    {
+      "date": "2015-08-21T00:00:00.000Z",
+      "opponent": "Eric Ramm",
+      "opponentSlug": "67207-eric-ramm",
+      "result": "win",
+      "method": "other",
+      "event": "RFA 29: USA vs. BRAZIL",
+      "eventSlug": "34195-rfa-29-usa-vs-brazil",
+      "round": 1,
+      "timeInRound": "4:17"
+    },
+    {
+      "date": "2015-08-05T00:00:00.000Z",
+      "opponent": "Adem Mujakić",
+      "opponentSlug": "19476-adem-mujakic",
+      "result": "win",
+      "method": "sub",
+      "event": "Caged Aggression",
+      "eventSlug": "33988-caged-aggression-sturgis-75th-anniversary-part-2",
+      "round": 1,
+      "timeInRound": "2:04"
+    },
+    {
+      "date": "2015-04-03T00:00:00.000Z",
+      "opponent": "Conrad Padilla",
+      "opponentSlug": "16057-conrad-padilla",
+      "result": "win",
+      "method": "sub",
+      "event": "SCL: AVM New Mexico",
+      "eventSlug": "31245-scl-42-avm-new-mexico",
+      "round": 3,
+      "timeInRound": "3:05"
+    },
+    {
+      "date": "2014-08-22T00:00:00.000Z",
+      "opponent": "Devin Turner",
+      "opponentSlug": "21947-devin-turner",
+      "result": "win",
+      "method": "sub",
+      "event": "RFA 17: Cochrane vs. Giagos",
+      "eventSlug": "25764-rfa-17-cochrane-vs-giagos",
+      "round": 3,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2014-05-16T00:00:00.000Z",
+      "opponent": "Shannon Patrick",
+      "opponentSlug": "33592-shannon-patrick",
+      "result": "win",
+      "method": "sub",
+      "event": "Prize FC 6: Bakken Rumble",
+      "eventSlug": "23246-prize-fc-6",
+      "round": 1,
+      "timeInRound": "2:31"
+    },
+    {
+      "date": "2014-03-01T00:00:00.000Z",
+      "opponent": "Jonathan Schmidt",
+      "opponentSlug": "41139-jonathan-schmidt",
+      "result": "win",
+      "method": "tko",
+      "event": "Legion Combat 18",
+      "eventSlug": "22896-legion-combat-18-purgatory",
+      "round": 1,
+      "timeInRound": "0:17"
+    },
+    {
+      "date": "2014-02-22T00:00:00.000Z",
+      "opponent": "Elijah Hatten",
+      "opponentSlug": "63618-elijah-hatten",
+      "result": "win",
+      "method": "sub",
+      "event": "Ring Wars 84",
+      "eventSlug": "22759-ring-wars-84-stacked",
+      "round": 1,
+      "timeInRound": "1:57"
+    },
+    {
+      "date": "2013-07-20T00:00:00.000Z",
+      "opponent": "Andrew Wells",
+      "opponentSlug": "110604-andrew-wells",
+      "result": "loss",
+      "method": "tko",
+      "event": "Ring Wars 82",
+      "eventSlug": "24542-ring-wars-82",
+      "round": 3,
+      "timeInRound": "0:32"
+    },
+    {
+      "date": "2013-05-04T00:00:00.000Z",
+      "opponent": "Jonathan Schmidt",
+      "opponentSlug": "41139-jonathan-schmidt",
+      "result": "loss",
+      "method": "sub",
+      "event": "Legion Combat 16",
+      "eventSlug": "18669-lcs-16-cinco-de-mayhem",
+      "round": 2,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2013-04-13T00:00:00.000Z",
+      "opponent": "Jared Gable",
+      "opponentSlug": "110605-jared-gable",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-02-22T00:00:00.000Z",
+      "opponent": "Bo Leonard",
+      "opponentSlug": "110606-bo-leonard",
+      "result": "loss",
+      "method": "other",
+      "event": "Ring Wars 80",
+      "eventSlug": "27349-ring-wars-80",
+      "round": 2,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2012-12-15T00:00:00.000Z",
+      "opponent": "Andrew Wells",
+      "opponentSlug": "110604-andrew-wells",
+      "result": "win",
+      "method": "sub",
+      "event": "Ring Wars 79",
+      "eventSlug": "24544-ring-wars-79",
+      "round": 1,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2012-10-06T00:00:00.000Z",
+      "opponent": "Christopher Mott",
+      "opponentSlug": "110607-christopher-mott",
+      "result": "win",
+      "method": "sub",
+      "event": "Ring Wars 78",
+      "eventSlug": "28347-ring-wars-78",
+      "round": 1,
+      "timeInRound": "0:39"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:32:52.331Z"
+}

@@ -1,0 +1,209 @@
+{
+  "slug": "162427-lucas-brennan",
+  "name": "Lucas Brennan",
+  "nickname": "Skywalker",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": 180,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "2000-06-03",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/162427-lucas-brennan",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Francis Marshall",
+      "opponentSlug": "186284-francis-marshall",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "140114-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-10T00:00:00.000Z",
+      "opponent": "Joshua Weems",
+      "opponentSlug": "169093-joshua-weems",
+      "result": "win",
+      "method": "sub",
+      "event": "XKO 71",
+      "eventSlug": "133953-xko-71",
+      "round": 1,
+      "timeInRound": "4:40"
+    },
+    {
+      "date": "2025-05-23T00:00:00.000Z",
+      "opponent": "Austin Coleman",
+      "opponentSlug": "149561-austin-coleman",
+      "result": "win",
+      "method": "sub",
+      "event": "XKO 70",
+      "eventSlug": "126311-xko-70",
+      "round": 1,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2024-12-15T00:00:00.000Z",
+      "opponent": "Mauricio Gomez",
+      "opponentSlug": "200529-mauricio-gomez",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Fury FC 99: Aswell vs. Ramos",
+      "eventSlug": "119962-fury-fc-99",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-04T00:00:00.000Z",
+      "opponent": "Dimitre Ivy",
+      "opponentSlug": "32135-dimitre-ivy",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "PFL 1: 2024 Regular Season",
+      "eventSlug": "110613-pfl-1-2024-regular-season",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-11T00:00:00.000Z",
+      "opponent": "Weber Almeida",
+      "opponentSlug": "112608-weber-almeida",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 298",
+      "eventSlug": "101316-bellator-mma",
+      "round": 3,
+      "timeInRound": "3:32"
+    },
+    {
+      "date": "2023-03-31T00:00:00.000Z",
+      "opponent": "Josh San Diego",
+      "opponentSlug": "33441-josh-san-diego",
+      "result": "win",
+      "method": "sub",
+      "event": "Bellator 293",
+      "eventSlug": "97674-bellator-293-golm-vs-james",
+      "round": 1,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2022-06-24T00:00:00.000Z",
+      "opponent": "Johnny Soto",
+      "opponentSlug": "186117-johnny-soto",
+      "result": "win",
+      "method": "sub",
+      "event": "Bellator 282",
+      "eventSlug": "88076-bellator-282-mousasi-vs-eblen",
+      "round": 1,
+      "timeInRound": "3:34"
+    },
+    {
+      "date": "2022-01-29T00:00:00.000Z",
+      "opponent": "Ben Lugo",
+      "opponentSlug": "45013-ben-lugo",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 273",
+      "eventSlug": "85140-bellator-273-bader-vs-moldavsky",
+      "round": 1,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2021-06-11T00:00:00.000Z",
+      "opponent": "Matthew Skibicki",
+      "opponentSlug": "79533-matt-skibicki",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 260",
+      "eventSlug": "78542-bellator-260",
+      "round": 1,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2020-11-12T00:00:00.000Z",
+      "opponent": "Andrew Salas",
+      "opponentSlug": "25886-andrew-salas",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bellator 252",
+      "eventSlug": "72762-bellator-251-pitbull-vs-carvalho",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-08-21T00:00:00.000Z",
+      "opponent": "Will Smith",
+      "opponentSlug": "75811-will-smith",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 244",
+      "eventSlug": "70974-bellator-mma",
+      "round": 2,
+      "timeInRound": "4:14"
+    },
+    {
+      "date": "2019-11-08T00:00:00.000Z",
+      "opponent": "Jacob Landin",
+      "opponentSlug": "72438-jacob-landin",
+      "result": "win",
+      "method": "sub",
+      "event": "Bellator 233",
+      "eventSlug": "62512-bellator-233-salter-vs-van-steenis",
+      "round": 1,
+      "timeInRound": "3:38"
+    },
+    {
+      "date": "2019-07-12T00:00:00.000Z",
+      "opponent": "Thomas Lopez",
+      "opponentSlug": "46942-thomas-lopez",
+      "result": "win",
+      "method": "sub",
+      "event": "Bellator 224",
+      "eventSlug": "59237-bellator-budd-vs-rubin",
+      "round": 1,
+      "timeInRound": "3:02"
+    },
+    {
+      "date": "2019-06-07T00:00:00.000Z",
+      "opponent": "Isaac Villegas",
+      "opponentSlug": "106288-isaac-villegas",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Tuff-N-Uff: The Future Stars of MMA",
+      "eventSlug": "60421-tuff-n-uff",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-25T00:00:00.000Z",
+      "opponent": "Diara Culpepper",
+      "opponentSlug": "185828-diara-culpepper",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 40: Aguilar vs. Le",
+      "eventSlug": "52491-lfa-40-aguilar-vs-le",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-12T00:00:00.000Z",
+      "opponent": "Christopher Williams",
+      "opponentSlug": "79594-christopher-williams",
+      "result": "win",
+      "method": "sub",
+      "event": "XKO 37",
+      "eventSlug": "47073-xko-37",
+      "round": 3,
+      "timeInRound": "1:17"
+    }
+  ],
+  "lastVerified": "2026-04-21T03:46:28.410Z"
+}

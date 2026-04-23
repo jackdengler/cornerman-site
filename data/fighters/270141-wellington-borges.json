@@ -1,0 +1,77 @@
+{
+  "slug": "270141-wellington-borges",
+  "name": "Wellington Borges",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/270141-wellington-borges",
+  "recentFights": [
+    {
+      "date": "2021-08-28T00:00:00.000Z",
+      "opponent": "Raphael Valadares",
+      "opponentSlug": "306092-raphael-valadares",
+      "result": "win",
+      "method": "other",
+      "event": "JFC 3",
+      "eventSlug": "80042-jfc-3",
+      "round": 1,
+      "timeInRound": "1:52"
+    },
+    {
+      "date": "2021-06-05T00:00:00.000Z",
+      "opponent": "Giovanni Oliveira",
+      "opponentSlug": "267534-giovanni-lopes",
+      "result": "loss",
+      "method": "other",
+      "event": "Arena Global 12",
+      "eventSlug": "78695-arena-global-12",
+      "round": 1,
+      "timeInRound": "0:40"
+    },
+    {
+      "date": "2021-03-13T00:00:00.000Z",
+      "opponent": "Gabriel Oliveira",
+      "opponentSlug": "288061-gabriel-oliveira",
+      "result": "win",
+      "method": "sub",
+      "event": "DM Fight 2",
+      "eventSlug": "77368-dm-fight-2",
+      "round": 1,
+      "timeInRound": "2:47"
+    },
+    {
+      "date": "2020-12-03T00:00:00.000Z",
+      "opponent": "Márcio Barbosa",
+      "opponentSlug": "126539-marcio-ticot",
+      "result": "loss",
+      "method": "other",
+      "event": "Shooto Brasil 105",
+      "eventSlug": "74542-shooto-brasil-105",
+      "round": 1,
+      "timeInRound": "0:59"
+    },
+    {
+      "date": "2019-05-01T00:00:00.000Z",
+      "opponent": "Elyseu Rodrigues",
+      "opponentSlug": "220352-elizeu-rodrigues-zeus",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "HCC 18",
+      "eventSlug": "60915-hcc-18",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:56:59.538Z"
+}

@@ -1,0 +1,143 @@
+{
+  "slug": "140932-joey-tizzano",
+  "name": "Joey Tizzano",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 170,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1996-10-22",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/140932-joey-tizzano",
+  "recentFights": [
+    {
+      "date": "2022-01-29T00:00:00.000Z",
+      "opponent": "Taylor Pierce",
+      "opponentSlug": "47152-taylor-pierce",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CFFC 105: Jeffrey vs. Harris",
+      "eventSlug": "85816-cffc-105",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-01T00:00:00.000Z",
+      "opponent": "Malek Mahmoud",
+      "opponentSlug": "149945-malek-mahmoud",
+      "result": "win",
+      "method": "sub",
+      "event": "CFFC 94: Hafez vs. Cutts",
+      "eventSlug": "77970-cffc-94-hafex-vs-cutts",
+      "round": 3,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2020-08-12T00:00:00.000Z",
+      "opponent": "Isaiah Monroe",
+      "opponentSlug": "54965-isaiah-monroe",
+      "result": "loss",
+      "method": "other",
+      "event": "CFFC 82",
+      "eventSlug": "71105-cffc-82",
+      "round": 1,
+      "timeInRound": "2:36"
+    },
+    {
+      "date": "2019-05-17T00:00:00.000Z",
+      "opponent": "Troy Sterling",
+      "opponentSlug": "130471-troy-sterling",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CFFC 74",
+      "eventSlug": "59170-cffc-74",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-02-16T00:00:00.000Z",
+      "opponent": "Benjamin Allen",
+      "opponentSlug": "102023-benjamin-allen",
+      "result": "win",
+      "method": "other",
+      "event": "CFFC 72: Brady vs. Abdul-Hakim",
+      "eventSlug": "57515-cffc-72",
+      "round": 2,
+      "timeInRound": "0:12"
+    },
+    {
+      "date": "2018-06-16T00:00:00.000Z",
+      "opponent": "Alex Snyder",
+      "opponentSlug": "75121-alex-snyder",
+      "result": "win",
+      "method": "tko",
+      "event": "PA Cage Fight 32",
+      "eventSlug": "52886-pa-cage-fight-32",
+      "round": 2,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2018-02-10T00:00:00.000Z",
+      "opponent": "Marcus Crawford",
+      "opponentSlug": "132419-marcus-crawford",
+      "result": "win",
+      "method": "tko",
+      "event": "PA Cage Fight 30",
+      "eventSlug": "49577-pa-cage-fight-30",
+      "round": 3,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2017-09-22T00:00:00.000Z",
+      "opponent": "Tyler Feist",
+      "opponentSlug": "25461-tyler-feist",
+      "result": "win",
+      "method": "tko",
+      "event": "PA Cage Fight 29",
+      "eventSlug": "47285-pa-cage-fight-29",
+      "round": 2,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2017-04-15T00:00:00.000Z",
+      "opponent": "Manuel Mirailh",
+      "opponentSlug": "154523-manuel-mirailh",
+      "result": "win",
+      "method": "tko",
+      "event": "PA Cage Fight 28",
+      "eventSlug": "44696-pa-cage-fight-28",
+      "round": 3,
+      "timeInRound": "0:43"
+    },
+    {
+      "date": "2017-02-17T00:00:00.000Z",
+      "opponent": "Omerao Kellom",
+      "opponentSlug": "80345-omerao-kellom",
+      "result": "win",
+      "method": "tko",
+      "event": "PA Cage Fight 27",
+      "eventSlug": "43387-pacf-27",
+      "round": 1,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2016-10-01T00:00:00.000Z",
+      "opponent": "Dennis Buzukja",
+      "opponentSlug": "131561-dennis-buzukia",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Dead Serious 21",
+      "eventSlug": "40600-dead-serious-21",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:56:27.839Z"
+}

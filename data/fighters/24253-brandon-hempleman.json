@@ -1,0 +1,220 @@
+{
+  "slug": "24253-brandon-hempleman",
+  "name": "Brandon Hempleman",
+  "nickname": "Hot Rod",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": 170,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1987-03-05",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/24253-brandon-hempleman",
+  "recentFights": [
+    {
+      "date": "2018-01-19T00:00:00.000Z",
+      "opponent": "Vince Morales",
+      "opponentSlug": "91401-vince-morales",
+      "result": "loss",
+      "method": "other",
+      "event": "Front Street Fights 15",
+      "eventSlug": "49820-front-street-fights-15",
+      "round": 2,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2015-02-20T00:00:00.000Z",
+      "opponent": "Steven Siler",
+      "opponentSlug": "4153-steven-siler-super",
+      "result": "loss",
+      "method": "tko",
+      "event": "Front Street Fights 4",
+      "eventSlug": "28952-front-street-fights-4",
+      "round": 1,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2014-08-09T00:00:00.000Z",
+      "opponent": "Alexis Vila",
+      "opponentSlug": "alexis-vila",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WSOF 12: Palomino vs. Gonzalez",
+      "eventSlug": "23630-wsof-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-08-10T00:00:00.000Z",
+      "opponent": "Marlon Moraes",
+      "opponentSlug": "14588-marlon-moraes",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "WSOF 4: Spong vs. DeAnda",
+      "eventSlug": "18777-wsof-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-12-08T00:00:00.000Z",
+      "opponent": "Paul McVeigh",
+      "opponentSlug": "5903-paul-mcveigh-metabolic",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 50",
+      "eventSlug": "16253-cage-warriors-50",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-11-16T00:00:00.000Z",
+      "opponent": "Olly Bradstreet",
+      "opponentSlug": "8297-olly-bradstreet",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Showdown Fights 9",
+      "eventSlug": "16141-showdown-fights-9-lightweight-championship",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-04-28T00:00:00.000Z",
+      "opponent": "Jeff Hatton",
+      "opponentSlug": "30632-jeff-hatton",
+      "result": "win",
+      "method": "other",
+      "event": "CageSport 19",
+      "eventSlug": "14010-cagesport-19",
+      "round": 1,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2012-04-14T00:00:00.000Z",
+      "opponent": "David Frix",
+      "opponentSlug": "25992-david-frix",
+      "result": "win",
+      "method": "sub",
+      "event": "KOTC: Bad Intentions 2",
+      "eventSlug": "13099-kotc-bad-intentions-2",
+      "round": 1,
+      "timeInRound": "0:46"
+    },
+    {
+      "date": "2012-02-10T00:00:00.000Z",
+      "opponent": "Tyler Wilcox",
+      "opponentSlug": "18852-tyler-wilcox",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-05-15T00:00:00.000Z",
+      "opponent": "Chanti Johnson",
+      "opponentSlug": "11764-chanti-johnson-the-brooklyn-knight",
+      "result": "loss",
+      "method": "other",
+      "event": "CageSport 10",
+      "eventSlug": "6436-cagesport-10-kovacs-vs-williams",
+      "round": 2,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2010-03-27T00:00:00.000Z",
+      "opponent": "Shane Brenner",
+      "opponentSlug": "16516-shane-brenner",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Rumble on the Ridge 9",
+      "eventSlug": "13104-rumble-on-the-ridge-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-08-22T00:00:00.000Z",
+      "opponent": "Ira Evanson",
+      "opponentSlug": "6928-ira-evanson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Alliance Fights 2",
+      "eventSlug": "5257-alliance-fights-2-counterstrike",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-05-01T00:00:00.000Z",
+      "opponent": "Jose Garcia",
+      "opponentSlug": "406145-jose-garcia",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-07-25T00:00:00.000Z",
+      "opponent": "James Gould",
+      "opponentSlug": "233702-james-gould-jd",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-03-15T00:00:00.000Z",
+      "opponent": "Bobby Earley",
+      "opponentSlug": "233708-bobby-earley",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-02-16T00:00:00.000Z",
+      "opponent": "Luke Salzbrun",
+      "opponentSlug": "468708-luke-salzbrun",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-01-12T00:00:00.000Z",
+      "opponent": "Bobby Earley",
+      "opponentSlug": "233708-bobby-earley",
+      "result": "loss",
+      "method": "tko",
+      "event": "AXE MMA: River City Rumble",
+      "eventSlug": "101131-axe-mma-river-city-rumble",
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2007-06-30T00:00:00.000Z",
+      "opponent": "Casey Johnson",
+      "opponentSlug": "21849-casey-johnson-wild-style",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:57:20.986Z"
+}

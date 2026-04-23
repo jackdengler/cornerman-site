@@ -1,0 +1,143 @@
+{
+  "slug": "174069-josefine-lindgren-knutsson-little-thunder",
+  "name": "Josefine Knutsson",
+  "nickname": "Thunder",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 160,
+  "reachCm": 152,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": "1996-01-16",
+  "nationality": "Bromma, Sweden",
+  "url": "https://www.tapology.com/fightcenter/fighters/174069-josefine-lindgren-knutsson-little-thunder",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Mileide Simplicio",
+      "opponentSlug": "266639-mileide-simplicio",
+      "result": null,
+      "method": "other",
+      "event": "OKTAGON 87: Szabová vs. Fernandes",
+      "eventSlug": "135741-oktagon-87",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-12-14T00:00:00.000Z",
+      "opponent": "Piera Rodriguez",
+      "opponentSlug": "140642-pierangela-rodriguez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "116905-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-15T00:00:00.000Z",
+      "opponent": "Julia Polastri",
+      "opponentSlug": "168315-julia-polastri",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "111669-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-16T00:00:00.000Z",
+      "opponent": "Marnic Mann",
+      "opponentSlug": "171672-marnic-mann",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "101864-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-22T00:00:00.000Z",
+      "opponent": "Isis Verbeek",
+      "opponentSlug": "183798-isis-verbeek-fight-queen",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Contender Series 2023",
+      "eventSlug": "100993-contender-series-2023-week-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-25T00:00:00.000Z",
+      "opponent": "Jacinta Austin",
+      "opponentSlug": "237494-jacinta-austin",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UAE Warriors 36",
+      "eventSlug": "98071-uae-warriors-36",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-10T00:00:00.000Z",
+      "opponent": "Ye Dam Seo",
+      "opponentSlug": "139551-ye-dam-seo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Road to UFC",
+      "eventSlug": "89905-road-to-ufc-singapore-episode-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-20T00:00:00.000Z",
+      "opponent": "Lanchana Green",
+      "opponentSlug": "63288-lanchana-green",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fight Club Rush 10",
+      "eventSlug": "83184-fight-club-rush-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-04T00:00:00.000Z",
+      "opponent": "Elizabeth Rodrigues",
+      "opponentSlug": "199317-elizabeth-rodrigues",
+      "result": "win",
+      "method": "tko",
+      "event": "Fight Club Rush 9",
+      "eventSlug": "81368-fight-club-rush-9",
+      "round": 2,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2021-03-06T00:00:00.000Z",
+      "opponent": "Adriana Fusini",
+      "opponentSlug": "227074-adriana-fusini",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fight Club Rush 8",
+      "eventSlug": "76424-fight-club-rush-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-08-01T00:00:00.000Z",
+      "opponent": "Nina Back",
+      "opponentSlug": "190261-nina-back",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Brave CF 37",
+      "eventSlug": "70957-brave-cf-37",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:58:48.155Z"
+}

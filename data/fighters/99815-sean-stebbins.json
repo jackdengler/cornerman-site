@@ -1,0 +1,253 @@
+{
+  "slug": "99815-sean-stebbins",
+  "name": "Sean Stebbins",
+  "nickname": "Sweetheart",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": 171,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1991-01-22",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/99815-sean-stebbins",
+  "recentFights": [
+    {
+      "date": "2024-11-30T00:00:00.000Z",
+      "opponent": "Nate Williams",
+      "opponentSlug": "6781-nate-williams",
+      "result": "loss",
+      "method": "sub",
+      "event": "North Iowa Fights 20",
+      "eventSlug": "117150-north-iowa-fights-20",
+      "round": 1,
+      "timeInRound": "0:27"
+    },
+    {
+      "date": "2024-09-14T00:00:00.000Z",
+      "opponent": "Gonzalo Ponce",
+      "opponentSlug": "68292-gonzalo-ponce",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "3 River Throwdown 23",
+      "eventSlug": "113843-3-river-throwdown-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-02-17T00:00:00.000Z",
+      "opponent": "Devon Lozej",
+      "opponentSlug": "205775-devon-lozej",
+      "result": "loss",
+      "method": "sub",
+      "event": "Mecca 21",
+      "eventSlug": "107581-mecca-21",
+      "round": 2,
+      "timeInRound": "3:56"
+    },
+    {
+      "date": "2022-05-06T00:00:00.000Z",
+      "opponent": "Jeff Silva",
+      "opponentSlug": "60724-jeff-silva",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CES 68: Greene vs. Williams",
+      "eventSlug": "87778-ces-68",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-10T00:00:00.000Z",
+      "opponent": "Miguel Sanson",
+      "opponentSlug": "277365-miguel-sanson",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "LFA 120: Cantuária vs. Horth",
+      "eventSlug": "84181-lfa-120-cantuaria-vs-horth",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-21T00:00:00.000Z",
+      "opponent": "Nate Smith",
+      "opponentSlug": "67804-nate-smith",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 82: Polizzi vs. Pogues",
+      "eventSlug": "66533-lfa-82-polizzi-vs-pogues",
+      "round": 2,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2019-09-27T00:00:00.000Z",
+      "opponent": "Keagon Blanco",
+      "opponentSlug": "93120-keegan-blanco",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 77: James vs. Martin",
+      "eventSlug": "62514-lfa-77-james-vs-martin",
+      "round": 1,
+      "timeInRound": "3:06"
+    },
+    {
+      "date": "2019-02-22T00:00:00.000Z",
+      "opponent": "Eric Kemper",
+      "opponentSlug": "51115-eric-kemper",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 61: Allen vs. Murrietta",
+      "eventSlug": "58382-lfa-61-allen-vs-murrietta",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-14T00:00:00.000Z",
+      "opponent": "Alibi Temirtassov",
+      "opponentSlug": "201284-alibi-temirtassov",
+      "result": "loss",
+      "method": "sub",
+      "event": "2018 IMMAF-WMMAA Unified World Championships",
+      "eventSlug": "56559-2018-immaf-wmma-unified-world-championships-day-3-cage-3",
+      "round": 1,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2018-11-13T00:00:00.000Z",
+      "opponent": "Irfan Ahmed",
+      "opponentSlug": "138813-irfan-ahmed",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "2018 IMMAF-WMMAA Unified World Championships",
+      "eventSlug": "56556-2018-immaf-wmma-unified-world-championships-day-2-cage-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-16T00:00:00.000Z",
+      "opponent": "Yernaz Mussabek",
+      "opponentSlug": "159786-yernaz-mussabek",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "2017 IMMAF World Championships",
+      "eventSlug": "49163-2017-immaf-world-championships-semi-finals-cage-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-15T00:00:00.000Z",
+      "opponent": "Giacomo Santoro",
+      "opponentSlug": "149696-giacomo-santoro",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "2017 IMMAF World Championships",
+      "eventSlug": "49159-2017-immaf-world-championships-day-3-cage-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-14T00:00:00.000Z",
+      "opponent": "Sanan Safarli",
+      "opponentSlug": "144376-sanan-safarli",
+      "result": "win",
+      "method": "dec-split",
+      "event": "2017 IMMAF World Championships",
+      "eventSlug": "49158-2017-immaf-world-championships-day-2-cage-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-13T00:00:00.000Z",
+      "opponent": "Ali Yaqoob",
+      "opponentSlug": "169370-ali-yaqoob",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "2017 IMMAF World Championships",
+      "eventSlug": "49050-2017-immaf-world-championships-day-1-cage-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-28T00:00:00.000Z",
+      "opponent": "Shamar Perez",
+      "opponentSlug": "83284-shamar-perez",
+      "result": "win",
+      "method": "sub",
+      "event": "UMMAF National Championship Tournament",
+      "eventSlug": "46042-ummaf-national-championship-tournament-day-3",
+      "round": 2,
+      "timeInRound": "1:51"
+    },
+    {
+      "date": "2017-05-27T00:00:00.000Z",
+      "opponent": "Lachlan Kritsonis",
+      "opponentSlug": "158547-lachlan-kritsonis",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UMMAF National Championship Tournament",
+      "eventSlug": "46041-ummaf-national-championship-tournament-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-28T00:00:00.000Z",
+      "opponent": "Robiel Tesfaldet",
+      "opponentSlug": "102036-robiel-tesfaldet",
+      "result": "win",
+      "method": "dec-split",
+      "event": "RFA 45: Meerschaert vs. Waldon",
+      "eventSlug": "41534-rfa-45-meerschaert-vs-waldon",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-03-19T00:00:00.000Z",
+      "opponent": "Kai Brunk",
+      "opponentSlug": "111840-kai-brunk",
+      "result": "win",
+      "method": "sub",
+      "event": "A-Town Throwdown 8",
+      "eventSlug": "38107-a-town-throwdown-8",
+      "round": 4,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2016-01-16T00:00:00.000Z",
+      "opponent": "Shane Scott",
+      "opponentSlug": "124417-shane-scott",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Mecca 7",
+      "eventSlug": "37148-mecca-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-19T00:00:00.000Z",
+      "opponent": "Taylor Henning",
+      "opponentSlug": "79726-taylor-henning",
+      "result": "win",
+      "method": "sub",
+      "event": "A-Town Throwdown 6",
+      "eventSlug": "35488-a-town-throwdown-6",
+      "round": 1,
+      "timeInRound": "2:47"
+    },
+    {
+      "date": "2015-04-25T00:00:00.000Z",
+      "opponent": "Pao Fue Moua",
+      "opponentSlug": "99816-pao-fue-moua",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "3 River Throwdown 7",
+      "eventSlug": "32191-3-river-throwdown-vii",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:36:08.171Z"
+}

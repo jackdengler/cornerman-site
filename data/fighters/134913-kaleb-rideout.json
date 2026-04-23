@@ -1,0 +1,220 @@
+{
+  "slug": "134913-kaleb-rideout",
+  "name": "Kaleb Rideout",
+  "nickname": "Krazy Horse",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": 185,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1997-06-19",
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/134913-kaleb-rideout",
+  "recentFights": [
+    {
+      "date": "2024-11-23T00:00:00.000Z",
+      "opponent": "Kitt Campbell",
+      "opponentSlug": "59598-kitt-campbell",
+      "result": "loss",
+      "method": "other",
+      "event": "HEX Fight Series 33",
+      "eventSlug": "117576-hex-fight-series-33",
+      "round": 1,
+      "timeInRound": "1:40"
+    },
+    {
+      "date": "2023-03-18T00:00:00.000Z",
+      "opponent": "Joseph Luciano",
+      "opponentSlug": "136006-joseph-luciano",
+      "result": "loss",
+      "method": "sub",
+      "event": "Eternal MMA 74",
+      "eventSlug": "95619-eternal-mma-74",
+      "round": 3,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2022-07-16T00:00:00.000Z",
+      "opponent": "Kevin Jousset",
+      "opponentSlug": "195097-kevin-jousset",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Eternal MMA 67",
+      "eventSlug": "89588-eternal-mma-67",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-19T00:00:00.000Z",
+      "opponent": "Ben Johnston",
+      "opponentSlug": "345042-ben-johnston",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 64",
+      "eventSlug": "85848-eternal-mma-65",
+      "round": 1,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2021-06-05T00:00:00.000Z",
+      "opponent": "Cody Barnwell",
+      "opponentSlug": "142696-cody-barnwell",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Beast Championship 7",
+      "eventSlug": "72142-beast-championship-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-09T00:00:00.000Z",
+      "opponent": "Thomas David",
+      "opponentSlug": "160487-thomas-davis",
+      "result": "win",
+      "method": "other",
+      "event": "Hex Fight Series 21",
+      "eventSlug": "75164-hex-fight-series-21",
+      "round": 2,
+      "timeInRound": "3:40"
+    },
+    {
+      "date": "2021-02-27T00:00:00.000Z",
+      "opponent": "Drew Alexander",
+      "opponentSlug": "184237-drew-alexander",
+      "result": "win",
+      "method": "other",
+      "event": "Urban Fight Night 24",
+      "eventSlug": "76101-urban-fight-night-24",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-08-30T00:00:00.000Z",
+      "opponent": "Chris Drummond",
+      "opponentSlug": "29986-chris-drummond",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Urban Fight Night 20",
+      "eventSlug": "61766-urban-fight-night-20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-28T00:00:00.000Z",
+      "opponent": "Joshua Murphy",
+      "opponentSlug": "120349-joshua-murphy",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Urban Fight Night 19",
+      "eventSlug": "58972-urban-fight-night-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-29T00:00:00.000Z",
+      "opponent": "Orhan Nuredin",
+      "opponentSlug": "95381-orhan-nuredin",
+      "result": "win",
+      "method": "other",
+      "event": "Hex Fight Series 18",
+      "eventSlug": "58679-hex-fight-series-18",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-07T00:00:00.000Z",
+      "opponent": "Ethan Thomas",
+      "opponentSlug": "136411-ethan-thomas",
+      "result": "loss",
+      "method": "sub",
+      "event": "Superfight MMA 8",
+      "eventSlug": "55071-superfight-mma-8",
+      "round": 2,
+      "timeInRound": "4:19"
+    },
+    {
+      "date": "2018-04-14T00:00:00.000Z",
+      "opponent": "Harry Thomson",
+      "opponentSlug": "101828-harry-thomson",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Urban Fight Night 15",
+      "eventSlug": "52395-urban-fight-night-14",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-29T00:00:00.000Z",
+      "opponent": "Dan Bennett",
+      "opponentSlug": "84723-dan-bennett",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Wollongong Wars 6",
+      "eventSlug": "47801-wollongong-wars-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-12T00:00:00.000Z",
+      "opponent": "Zac Hogan",
+      "opponentSlug": "142707-isaac-hogan",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Urban Fight Night 12",
+      "eventSlug": "46711-urban-fight-night-12-night-of-champions",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-03T00:00:00.000Z",
+      "opponent": "Elzat Tursunty",
+      "opponentSlug": "155702-elzat-tursunty",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Urban Fight Night 11",
+      "eventSlug": "45409-urban-fight-night-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-04T00:00:00.000Z",
+      "opponent": "Bruno Playfair",
+      "opponentSlug": "148292-bruno-playfair",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Urban Fight Night 10",
+      "eventSlug": "43841-urban-fight-night-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-03T00:00:00.000Z",
+      "opponent": "Anderson Chen",
+      "opponentSlug": "137031-anderson-chen",
+      "result": "win",
+      "method": "tko",
+      "event": "Urban Fight Night 9",
+      "eventSlug": "42142-urban-fight-night-9",
+      "round": 2,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2016-08-27T00:00:00.000Z",
+      "opponent": "Chris Tuckley",
+      "opponentSlug": "136802-chris-tuckley",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Urban Fight Night 8",
+      "eventSlug": "40413-urban-fight-night-8",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:57:51.355Z"
+}

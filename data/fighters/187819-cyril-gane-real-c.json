@@ -1,0 +1,209 @@
+{
+  "slug": "187819-cyril-gane-real-c",
+  "name": "Ciryl Gane",
+  "nickname": "Bon Gamin",
+  "aliases": [],
+  "recordPro": {
+    "wins": 13,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 193,
+  "reachCm": 206,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1990-04-12",
+  "nationality": "La Roche-Sur-Yon, Vendee, France",
+  "url": "https://www.tapology.com/fightcenter/fighters/187819-cyril-gane-real-c",
+  "recentFights": [
+    {
+      "date": "2026-06-14T00:00:00.000Z",
+      "opponent": "Alex Pereira",
+      "opponentSlug": "117305-alex-pereira",
+      "result": null,
+      "method": "other",
+      "event": "UFC Freedom Fights 250",
+      "eventSlug": "137848-ufc-white-house",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-25T00:00:00.000Z",
+      "opponent": "Tom Aspinall",
+      "opponentSlug": "23273-tom-aspinall",
+      "result": "nc",
+      "method": "other",
+      "event": "UFC 321: Aspinall vs. Gane",
+      "eventSlug": "130325-ufc-321",
+      "round": 1,
+      "timeInRound": "4:35"
+    },
+    {
+      "date": "2024-12-07T00:00:00.000Z",
+      "opponent": "Alexander Volkov",
+      "opponentSlug": "alexander-volkov",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC 310: Pantoja vs. Asakura",
+      "eventSlug": "116766-ufc-310",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-02T00:00:00.000Z",
+      "opponent": "Serghei Spivac",
+      "opponentSlug": "90068-sergey-spivak",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "102007-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "3:44"
+    },
+    {
+      "date": "2023-03-04T00:00:00.000Z",
+      "opponent": "Jon Jones",
+      "opponentSlug": "jon-jones-bones",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC 285: Jones vs. Gane",
+      "eventSlug": "94418-ufc-285",
+      "round": 1,
+      "timeInRound": "2:04"
+    },
+    {
+      "date": "2022-09-03T00:00:00.000Z",
+      "opponent": "Tai Tuivasa",
+      "opponentSlug": "120884-tai-tuivasa-bam-bam",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "88967-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "4:23"
+    },
+    {
+      "date": "2022-01-22T00:00:00.000Z",
+      "opponent": "Francis Ngannou",
+      "opponentSlug": "64378-francis-ngannou",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 270: N'Gannou vs. Gane",
+      "eventSlug": "82993-ufc-270",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-07T00:00:00.000Z",
+      "opponent": "Derrick Lewis",
+      "opponentSlug": "14023-derrick-lewis-the-black-beast",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 265: Lewis vs. Gane",
+      "eventSlug": "78675-ufc-265",
+      "round": 3,
+      "timeInRound": "4:11"
+    },
+    {
+      "date": "2021-06-26T00:00:00.000Z",
+      "opponent": "Alexander Volkov",
+      "opponentSlug": "alexander-volkov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "77763-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-02-27T00:00:00.000Z",
+      "opponent": "Jairzinho Rozenstruik",
+      "opponentSlug": "62467-jair-rozenstruik-bigi-boy",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "73679-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-12-12T00:00:00.000Z",
+      "opponent": "Junior dos Santos",
+      "opponentSlug": "junior-dos-santos-cigano",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 256: Figueiredo vs. Moreno",
+      "eventSlug": "71960-ufc-256",
+      "round": 2,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2019-12-21T00:00:00.000Z",
+      "opponent": "Tanner Boser",
+      "opponentSlug": "35149-tanner-boser",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC on ESPN+ 23",
+      "eventSlug": "60327-ufc-on-espn-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-26T00:00:00.000Z",
+      "opponent": "Don'Tale Mayes",
+      "opponentSlug": "46499-dontale-mayes",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC on ESPN+ 20",
+      "eventSlug": "60321-ufc-on-espn-20",
+      "round": 3,
+      "timeInRound": "4:46"
+    },
+    {
+      "date": "2019-08-10T00:00:00.000Z",
+      "opponent": "Raphael Pessoa",
+      "opponentSlug": "148375-rafael-gigante",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC on ESPN+ 14",
+      "eventSlug": "60313-ufc-on-espn-14",
+      "round": 1,
+      "timeInRound": "4:12"
+    },
+    {
+      "date": "2019-05-24T00:00:00.000Z",
+      "opponent": "Roggers Souza",
+      "opponentSlug": "148019-roggers-souza",
+      "result": "win",
+      "method": "other",
+      "event": "TKO 48: Sousa vs Gane",
+      "eventSlug": "58874-tko-48",
+      "round": 1,
+      "timeInRound": "4:26"
+    },
+    {
+      "date": "2018-09-21T00:00:00.000Z",
+      "opponent": "Adam Dyczka",
+      "opponentSlug": "23924-adam-daszcy",
+      "result": "win",
+      "method": "other",
+      "event": "TKO 44",
+      "eventSlug": "53478-tko-44",
+      "round": 2,
+      "timeInRound": "4:57"
+    },
+    {
+      "date": "2018-08-02T00:00:00.000Z",
+      "opponent": "Bobby Sullivan",
+      "opponentSlug": "24223-boddy-sullivan",
+      "result": "win",
+      "method": "other",
+      "event": "TKO Fight Night 1",
+      "eventSlug": "53307-tko-fight-night-1",
+      "round": 1,
+      "timeInRound": "1:42"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:58:45.263Z"
+}

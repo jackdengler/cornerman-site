@@ -1,0 +1,209 @@
+{
+  "slug": "164203-simon-smotritsky",
+  "name": "Shimon Smotritsky",
+  "nickname": "Assassin",
+  "aliases": [],
+  "recordPro": {
+    "wins": 12,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 187,
+  "reachCm": 188,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "2000-08-22",
+  "nationality": "Holon, Israel",
+  "url": "https://www.tapology.com/fightcenter/fighters/164203-simon-smotritsky",
+  "recentFights": [
+    {
+      "date": "2026-01-09T00:00:00.000Z",
+      "opponent": "James Porter",
+      "opponentSlug": "83517-james-porter",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "559 Fights 120",
+      "eventSlug": "125395-559-fights-120",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-26T00:00:00.000Z",
+      "opponent": "Troy Green",
+      "opponentSlug": "64128-troy-green",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Tuff-N-Uff 148",
+      "eventSlug": "132088-tuff-n-uff-148",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-02T00:00:00.000Z",
+      "opponent": "Mirali Huseynov",
+      "opponentSlug": "213773-mirali-huseynov",
+      "result": "loss",
+      "method": "other",
+      "event": "Urijah Faber's A1 Combat 27",
+      "eventSlug": "124275-urijah-faber-s-a1-combat-27-fajardo-vs-souza",
+      "round": 1,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2025-01-12T00:00:00.000Z",
+      "opponent": "Sam Kilmer",
+      "opponentSlug": "210532-sam-kilmer",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fury FC 100",
+      "eventSlug": "119963-fury-fc-100",
+      "round": 1,
+      "timeInRound": "1:55"
+    },
+    {
+      "date": "2024-06-16T00:00:00.000Z",
+      "opponent": "Aaron Phillips",
+      "opponentSlug": "196116-aaron-phillips",
+      "result": "win",
+      "method": "other",
+      "event": "Fury FC 92: Pa-ac vs. Piccininni",
+      "eventSlug": "112058-fury-fc-91",
+      "round": 1,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2023-08-27T00:00:00.000Z",
+      "opponent": "Kenan Jackson",
+      "opponentSlug": "132334-keenan-jackson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fury FC 82: Moran vs. Trujillo",
+      "eventSlug": "102559-fury-fc-82",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-02T00:00:00.000Z",
+      "opponent": "Charlie Decca",
+      "opponentSlug": "115296-charles-decca",
+      "result": "win",
+      "method": "other",
+      "event": "iKON FC 6",
+      "eventSlug": "95595-ikon-fc-6",
+      "round": 2,
+      "timeInRound": "2:47"
+    },
+    {
+      "date": "2022-08-02T00:00:00.000Z",
+      "opponent": "Billy Ray Goff",
+      "opponentSlug": "169724-billy-goff",
+      "result": "loss",
+      "method": "other",
+      "event": "Contender Series 2022",
+      "eventSlug": "89494-contender-series-2022",
+      "round": 1,
+      "timeInRound": "3:37"
+    },
+    {
+      "date": "2021-12-18T00:00:00.000Z",
+      "opponent": "William Macário",
+      "opponentSlug": "46664-william-macario-patolino",
+      "result": "win",
+      "method": "other",
+      "event": "RCC MMA 10: Rogozin vs. Enemoto",
+      "eventSlug": "84920-rcc-10",
+      "round": 2,
+      "timeInRound": "3:20"
+    },
+    {
+      "date": "2021-10-05T00:00:00.000Z",
+      "opponent": "Mike Malott",
+      "opponentSlug": "22740-mike-malott",
+      "result": "loss",
+      "method": "sub",
+      "event": "Contender Series 2021",
+      "eventSlug": "79437-contender-series-2021",
+      "round": 1,
+      "timeInRound": "0:39"
+    },
+    {
+      "date": "2020-12-19T00:00:00.000Z",
+      "opponent": "Sergey Yaskovets",
+      "opponentSlug": "126576-sergey-yaskovets",
+      "result": "win",
+      "method": "dec-split",
+      "event": "RCC MMA 8: Martynov vs. Enomoto",
+      "eventSlug": "74656-rcc-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-14T00:00:00.000Z",
+      "opponent": "Ilya Gladkiy",
+      "opponentSlug": "189132-ilya-gladkiy",
+      "result": "win",
+      "method": "tko",
+      "event": "Bellator 234",
+      "eventSlug": "62654-bellator-234-kharitonov-vs-vassell",
+      "round": 1,
+      "timeInRound": "3:29"
+    },
+    {
+      "date": "2018-11-15T00:00:00.000Z",
+      "opponent": "Matan Levi",
+      "opponentSlug": "146649-matan-levi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bellator 209",
+      "eventSlug": "54870-bellator-pitbull-vs-sanchez",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-01-20T00:00:00.000Z",
+      "opponent": "Amos Levi",
+      "opponentSlug": "162761-amos-levy",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMC 2",
+      "eventSlug": "49927-imc-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-27T00:00:00.000Z",
+      "opponent": "Rafael Aronov",
+      "opponentSlug": "174309-rafi-aronov",
+      "result": "win",
+      "method": "other",
+      "event": "MFC 3",
+      "eventSlug": "49832-mfc-3",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-18T00:00:00.000Z",
+      "opponent": "Yuriy Konsevich",
+      "opponentSlug": "164204-yuri-konsevich",
+      "result": "win",
+      "method": "sub",
+      "event": "KNO World Tour 1",
+      "eventSlug": "46090-kno-world-tour-1",
+      "round": 2,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2016-12-20T00:00:00.000Z",
+      "opponent": "Nadav Ganon",
+      "opponentSlug": "174308-nadav-ganon",
+      "result": "win",
+      "method": "other",
+      "event": "MFC 2",
+      "eventSlug": "48409-mfc-2",
+      "round": 1,
+      "timeInRound": "4:40"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:05:19.712Z"
+}

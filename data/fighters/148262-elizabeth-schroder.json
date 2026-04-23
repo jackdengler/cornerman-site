@@ -1,0 +1,176 @@
+{
+  "slug": "148262-elizabeth-schroder",
+  "name": "Elizabeth Schroder",
+  "nickname": "Lil Bruisie",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1988-10-14",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/148262-elizabeth-schroder",
+  "recentFights": [
+    {
+      "date": "2024-06-29T00:00:00.000Z",
+      "opponent": "Hope Chase",
+      "opponentSlug": "152437-hope-chase",
+      "result": "loss",
+      "method": "sub",
+      "event": "247 FC: Brawl in the Burgh 22",
+      "eventSlug": "110654-247-fc-brawl-in-the-burgh-22",
+      "round": 1,
+      "timeInRound": "4:24"
+    },
+    {
+      "date": "2024-03-08T00:00:00.000Z",
+      "opponent": "Serena DeJesus",
+      "opponentSlug": "87466-serena-dejesus",
+      "result": "loss",
+      "method": "other",
+      "event": "CFFC 130: Galvan vs. Dorzhiev",
+      "eventSlug": "110089-cffc-130",
+      "round": 3,
+      "timeInRound": "4:11"
+    },
+    {
+      "date": "2023-09-15T00:00:00.000Z",
+      "opponent": "Alexa Conners",
+      "opponentSlug": "45501-alexa-conners",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CFFC 125: Nakanelua vs. Echeverria",
+      "eventSlug": "104349-cffc-125",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-09T00:00:00.000Z",
+      "opponent": "Gina Mazany",
+      "opponentSlug": "53505-gina-mazany-danger",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "FAC 17",
+      "eventSlug": "93369-fac-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-29T00:00:00.000Z",
+      "opponent": "Chantel Coates",
+      "opponentSlug": "121418-chantel-coates",
+      "result": "win",
+      "method": "sub",
+      "event": "FAC 15",
+      "eventSlug": "89815-fac-15",
+      "round": 1,
+      "timeInRound": "3:47"
+    },
+    {
+      "date": "2022-05-06T00:00:00.000Z",
+      "opponent": "Flori Neamtu-Moeller",
+      "opponentSlug": "64390-florina-moeller",
+      "result": "win",
+      "method": "other",
+      "event": "FAC 13",
+      "eventSlug": "88011-fac-13",
+      "round": 1,
+      "timeInRound": "4:15"
+    },
+    {
+      "date": "2021-09-17T00:00:00.000Z",
+      "opponent": "Maritza Sanchez",
+      "opponentSlug": "124054-maritza-sanchez",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Combate: Bravo vs. Whitney",
+      "eventSlug": "82579-combate",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-30T00:00:00.000Z",
+      "opponent": "Byelka Soto",
+      "opponentSlug": "155416-byelka-soto",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combate Global",
+      "eventSlug": "78870-combate-global-cedillo-vs-adames",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-01-25T00:00:00.000Z",
+      "opponent": "Melissa Croden",
+      "opponentSlug": "140510-melissa-croden",
+      "result": "loss",
+      "method": "other",
+      "event": "Fight Night 12",
+      "eventSlug": "63373-fight-night-12",
+      "round": 2,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2018-09-29T00:00:00.000Z",
+      "opponent": "Anna Melisano",
+      "opponentSlug": "135931-anna-crutchfield",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "864 Fighting Championship",
+      "eventSlug": "55672-864-fighting-championship-fight-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-08-10T00:00:00.000Z",
+      "opponent": "Randa Moore",
+      "opponentSlug": "161953-randa-moore",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Battle of New Orleans 29",
+      "eventSlug": "54673-battle-of-new-orleans-29",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-22T00:00:00.000Z",
+      "opponent": "Mariah Grade",
+      "opponentSlug": "131444-mariah-grade",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Lab 59",
+      "eventSlug": "53886-fight-lab-59",
+      "round": 2,
+      "timeInRound": "2:05"
+    },
+    {
+      "date": "2017-10-14T00:00:00.000Z",
+      "opponent": "Carsyn Nash",
+      "opponentSlug": "137093-carsyn-nash",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Virginia Cage Fighting Championships",
+      "eventSlug": "46540-fall-brawl-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-01-28T00:00:00.000Z",
+      "opponent": "Kaylee Maynard",
+      "opponentSlug": "143352-kaylee-maynard",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Lab 54",
+      "eventSlug": "43856-fight-lab-54",
+      "round": 2,
+      "timeInRound": "2:30"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:00:21.870Z"
+}

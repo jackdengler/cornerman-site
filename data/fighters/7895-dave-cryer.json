@@ -1,0 +1,198 @@
+{
+  "slug": "7895-dave-cryer",
+  "name": "Dave Cryer",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 13,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/7895-dave-cryer",
+  "recentFights": [
+    {
+      "date": "2019-09-28T00:00:00.000Z",
+      "opponent": "Lonnie Holmes",
+      "opponentSlug": "152705-lonnie-holmes",
+      "result": "win",
+      "method": "sub",
+      "event": "Gladiator Challenge",
+      "eventSlug": "64741-gladiator-challenge-mma-state-championships",
+      "round": 1,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2019-06-01T00:00:00.000Z",
+      "opponent": "Phillip Tobin",
+      "opponentSlug": "163881-phillip-tobin",
+      "result": "win",
+      "method": "other",
+      "event": "Gladiator Challenge",
+      "eventSlug": "61209-gladiator-challenge-california-state-mma-championships",
+      "round": 1,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2017-10-14T00:00:00.000Z",
+      "opponent": "Tanner Boser",
+      "opponentSlug": "35149-tanner-boser",
+      "result": "loss",
+      "method": "other",
+      "event": "ACB 72: Makovsky vs. Sherbatov",
+      "eventSlug": "47826-acb-72-makovsky-vs-sherbatov",
+      "round": 2,
+      "timeInRound": "4:19"
+    },
+    {
+      "date": "2017-01-21T00:00:00.000Z",
+      "opponent": "Jack May",
+      "opponentSlug": "20325-jack-may",
+      "result": "loss",
+      "method": "other",
+      "event": "Bellator 170",
+      "eventSlug": "42321-bellator-170-ortiz-vs-sonnen",
+      "round": 1,
+      "timeInRound": "0:41"
+    },
+    {
+      "date": "2015-10-17T00:00:00.000Z",
+      "opponent": "Mike Morales",
+      "opponentSlug": "41588-mike-morales-mickey",
+      "result": "win",
+      "method": "other",
+      "event": "Gladiator Challenge",
+      "eventSlug": "36436-gladiator-challenge-california-state-championship-series",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2015-08-22T00:00:00.000Z",
+      "opponent": "Tyre Parks",
+      "opponentSlug": "146429-tyre-parks",
+      "result": "win",
+      "method": "other",
+      "event": "Gladiator Challenge",
+      "eventSlug": "35196-gladiator-challenge-california-state-championship-series",
+      "round": 1,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2010-12-12T00:00:00.000Z",
+      "opponent": "Matt Anderson",
+      "opponentSlug": "11882-matt-anderson",
+      "result": "win",
+      "method": "other",
+      "event": "Gladiator Challenge",
+      "eventSlug": "8391-gladiator-challenge-seasons-beatings-2",
+      "round": 2,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2009-08-13T00:00:00.000Z",
+      "opponent": "Tony Lopez",
+      "opponentSlug": "tony-lopez-kryptonite",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "KOTC: Superstars",
+      "eventSlug": "3136-kotc-superstars",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-05-16T00:00:00.000Z",
+      "opponent": "Paul Karsky",
+      "opponentSlug": "2858-paul-karsky-tall",
+      "result": "win",
+      "method": "other",
+      "event": "KOTC: Storm",
+      "eventSlug": "5385-kotc-storm",
+      "round": 1,
+      "timeInRound": "4:17"
+    },
+    {
+      "date": "2009-02-27T00:00:00.000Z",
+      "opponent": "Lucas Taber",
+      "opponentSlug": "20343-lucas-taber",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KOTC: Immortal",
+      "eventSlug": "5491-kotc-immortal",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-12-11T00:00:00.000Z",
+      "opponent": "Andrew Jones",
+      "opponentSlug": "2857-andrew-jones",
+      "result": "win",
+      "method": "other",
+      "event": "KOTC: Prowler",
+      "eventSlug": "3748-kotc-prowler",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-06-14T00:00:00.000Z",
+      "opponent": "John George",
+      "opponentSlug": "6044-john-george",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-12-02T00:00:00.000Z",
+      "opponent": "Noufel Amellouk",
+      "opponentSlug": "40612-noufel-amellouk",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KOTC: Final Chapter",
+      "eventSlug": "3935-kotc-underground-52-final-chapter",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-10-07T00:00:00.000Z",
+      "opponent": "Roch Worthy",
+      "opponentSlug": "146430-roch-worthy",
+      "result": "loss",
+      "method": "other",
+      "event": "KOTC Underground 18",
+      "eventSlug": "4351-kotc-underground-49-point-of-no-return",
+      "round": 1,
+      "timeInRound": "0:09"
+    },
+    {
+      "date": "2007-09-15T00:00:00.000Z",
+      "opponent": "Richard Wade",
+      "opponentSlug": "146431-richard-wade",
+      "result": "win",
+      "method": "other",
+      "event": "KOTC: River Rage",
+      "eventSlug": "2838-kotc-underground-46-river-rage",
+      "round": 1,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2007-06-08T00:00:00.000Z",
+      "opponent": "Uber Gallegos",
+      "opponentSlug": "7325-uber-gallegos",
+      "result": "win",
+      "method": "sub",
+      "event": "KOTC: Epicenter",
+      "eventSlug": "3936-kotc-underground-40-epicenter",
+      "round": 2,
+      "timeInRound": "1:41"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:59:00.929Z"
+}

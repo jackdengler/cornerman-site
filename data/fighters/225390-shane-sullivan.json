@@ -1,0 +1,70 @@
+{
+  "slug": "225390-shane-sullivan",
+  "name": "Shane Sullivan",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1990-10-29",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/225390-shane-sullivan",
+  "recentFights": [
+    {
+      "date": "2025-02-15T00:00:00.000Z",
+      "opponent": "Kyle Hedemark",
+      "opponentSlug": "413106-kyle-hedemark",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Mecca 24",
+      "eventSlug": "118840-mecca-24",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-12T00:00:00.000Z",
+      "opponent": "Kelton Sneve",
+      "opponentSlug": "213615-kelton-sneve",
+      "result": "loss",
+      "method": "other",
+      "event": "Warrior Games 7",
+      "eventSlug": "62360-warrior-games-7",
+      "round": 2,
+      "timeInRound": "0:24"
+    },
+    {
+      "date": "2019-09-07T00:00:00.000Z",
+      "opponent": "Austin Varro",
+      "opponentSlug": "197041-austin-varo",
+      "result": "win",
+      "method": "other",
+      "event": "Inner Strength MMA 17",
+      "eventSlug": "60510-inner-strength-mma",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2019-06-29T00:00:00.000Z",
+      "opponent": "Patrick Keepers",
+      "opponentSlug": "218649-patrick-keepers",
+      "result": "loss",
+      "method": "tko",
+      "event": "Warrior Games 6",
+      "eventSlug": "59520-warrior-games-vi",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:41:57.309Z"
+}

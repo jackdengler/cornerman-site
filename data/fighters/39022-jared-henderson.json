@@ -1,0 +1,132 @@
+{
+  "slug": "39022-jared-henderson",
+  "name": "Jared Henderson",
+  "nickname": "The King",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 192,
+  "reachCm": 193,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1987-06-03",
+  "nationality": "The Pas, Manitoba, Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/39022-jared-henderson",
+  "recentFights": [
+    {
+      "date": "2018-04-13T00:00:00.000Z",
+      "opponent": "Josh Heinz",
+      "opponentSlug": "27596-josh-heinz",
+      "result": "loss",
+      "method": "sub",
+      "event": "Rumble In The Cage 58",
+      "eventSlug": "51811-rumble-in-the-cage-58",
+      "round": 1,
+      "timeInRound": "3:55"
+    },
+    {
+      "date": "2017-09-15T00:00:00.000Z",
+      "opponent": "Jordan Murray",
+      "opponentSlug": "10460-jordan-murray",
+      "result": "win",
+      "method": "other",
+      "event": "Mercenary Combat League 1",
+      "eventSlug": "47824-mercenary-combat-league-1",
+      "round": 1,
+      "timeInRound": "0:58"
+    },
+    {
+      "date": "2017-06-10T00:00:00.000Z",
+      "opponent": "Dustin Joynson",
+      "opponentSlug": "24313-dustin-joynson",
+      "result": "loss",
+      "method": "other",
+      "event": "Fight Night 3",
+      "eventSlug": "45622-fight-night-medicine-hat-3",
+      "round": 1,
+      "timeInRound": "2:19"
+    },
+    {
+      "date": "2017-01-13T00:00:00.000Z",
+      "opponent": "Adam Dyczka",
+      "opponentSlug": "23924-adam-daszcy",
+      "result": "loss",
+      "method": "other",
+      "event": "TKO 37: Rivals",
+      "eventSlug": "42932-tko-37-rivals",
+      "round": 1,
+      "timeInRound": "0:54"
+    },
+    {
+      "date": "2016-10-28T00:00:00.000Z",
+      "opponent": "Robin Hahn",
+      "opponentSlug": "76491-robin-hahn",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Night 2",
+      "eventSlug": "41937-fight-night-medicine-hat-2",
+      "round": 1,
+      "timeInRound": "0:23"
+    },
+    {
+      "date": "2015-06-12T00:00:00.000Z",
+      "opponent": "Tanner Boser",
+      "opponentSlug": "35149-tanner-boser",
+      "result": "loss",
+      "method": "other",
+      "event": "KOTC: Mach 3",
+      "eventSlug": "29444-kotc",
+      "round": 1,
+      "timeInRound": "3:54"
+    },
+    {
+      "date": "2014-11-14T00:00:00.000Z",
+      "opponent": "Nick Campbell",
+      "opponentSlug": "21226-nick-campbell",
+      "result": "loss",
+      "method": "other",
+      "event": "KOTC: Mach 2",
+      "eventSlug": "26307-kotc",
+      "round": 1,
+      "timeInRound": "4:00"
+    },
+    {
+      "date": "2014-09-19T00:00:00.000Z",
+      "opponent": "Steve Roy",
+      "opponentSlug": "37863-steve-roy",
+      "result": "win",
+      "method": "other",
+      "event": "KOTC: Madness",
+      "eventSlug": "25091-kotc",
+      "round": 3,
+      "timeInRound": "1:03"
+    },
+    {
+      "date": "2013-08-31T00:00:00.000Z",
+      "opponent": "Carmen Umperville",
+      "opponentSlug": "43610-carmen-umperville",
+      "result": "win",
+      "method": "other",
+      "event": "Rumble on the Rez 2",
+      "eventSlug": "20345-rumble-on-the-rez-2",
+      "round": 1,
+      "timeInRound": "4:54"
+    },
+    {
+      "date": "2012-12-02T00:00:00.000Z",
+      "opponent": "Damon Steadman",
+      "opponentSlug": "27591-damon-steadman",
+      "result": "win",
+      "method": "other",
+      "event": "XCWFC 52: Seasons Beatings",
+      "eventSlug": "15819-xcwfc-53-mayhem-in-moose-jaw",
+      "round": 1,
+      "timeInRound": "2:33"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:59:21.389Z"
+}

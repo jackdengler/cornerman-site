@@ -1,0 +1,198 @@
+{
+  "slug": "150975-patrick-ferguson",
+  "name": "Patrick Ferguson",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/150975-patrick-ferguson",
+  "recentFights": [
+    {
+      "date": "2025-10-17T00:00:00.000Z",
+      "opponent": "Gage Harper",
+      "opponentSlug": "331316-gage-harper",
+      "result": "win",
+      "method": "sub",
+      "event": "Fury FC 110",
+      "eventSlug": "132782-fury-fc-110",
+      "round": 1,
+      "timeInRound": "3:26"
+    },
+    {
+      "date": "2025-01-31T00:00:00.000Z",
+      "opponent": "Daniel Velez",
+      "opponentSlug": "32377-daniel-garcia",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UWF: The New Era",
+      "eventSlug": "120371-uwf-the-new-era",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-05T00:00:00.000Z",
+      "opponent": "Tevin Dyce",
+      "opponentSlug": "100715-tevin-dyce",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fury Challenger Series 9",
+      "eventSlug": "105247-fury-challenger-series-9",
+      "round": 1,
+      "timeInRound": "3:51"
+    },
+    {
+      "date": "2023-08-19T00:00:00.000Z",
+      "opponent": "Donzeill Marshall",
+      "opponentSlug": "206783-donziel-marshall",
+      "result": "loss",
+      "method": "tko",
+      "event": "DFC 6",
+      "eventSlug": "102648-dfc-6",
+      "round": 3,
+      "timeInRound": "4:09"
+    },
+    {
+      "date": "2023-01-29T00:00:00.000Z",
+      "opponent": "Drake Lopez",
+      "opponentSlug": "231721-drake-lopez",
+      "result": "win",
+      "method": "dq",
+      "event": "Fury FC 73: Fraire vs. Walker",
+      "eventSlug": "96316-fury-fc-73",
+      "round": 1,
+      "timeInRound": "0:10"
+    },
+    {
+      "date": "2022-08-21T00:00:00.000Z",
+      "opponent": "Joseph Her",
+      "opponentSlug": "275801-joseph-her",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fury FC 68: Bauman vs. Ivy",
+      "eventSlug": "89285-fury-fc-68",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-23T00:00:00.000Z",
+      "opponent": "Josh Islas",
+      "opponentSlug": "165608-josh-islas",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Peak Fighting 16",
+      "eventSlug": "82594-peak-fighting-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-30T00:00:00.000Z",
+      "opponent": "Cezly Collard",
+      "opponentSlug": "73105-cezly-collard-chaos",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 113: Lewis vs. Petersen",
+      "eventSlug": "80472-lfa-113-lewis-vs-petersen",
+      "round": 1,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2019-08-30T00:00:00.000Z",
+      "opponent": "Allen Silva",
+      "opponentSlug": "154462-allen-silva",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fury FC 36",
+      "eventSlug": "61527-fury-fc",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-03T00:00:00.000Z",
+      "opponent": "Ruben Martinez Jr",
+      "opponentSlug": "18173-ruben-martinez-rapid",
+      "result": "win",
+      "method": "other",
+      "event": "Fury FC 30",
+      "eventSlug": "57208-fury-fc-30",
+      "round": 3,
+      "timeInRound": "0:15"
+    },
+    {
+      "date": "2018-11-29T00:00:00.000Z",
+      "opponent": "Daniel Figueroa-Estrada",
+      "opponentSlug": "202066-daniel-figueroa-estrada",
+      "result": "win",
+      "method": "sub",
+      "event": "Black Tie Brawl 2018",
+      "eventSlug": "56676-usaca-black-tie-brawl-5",
+      "round": 1,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2018-09-02T00:00:00.000Z",
+      "opponent": "John Yannis",
+      "opponentSlug": "151617-john-yannies",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fury FC 26",
+      "eventSlug": "54437-fury-fc-26",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-25T00:00:00.000Z",
+      "opponent": "Antonio Figueiredo",
+      "opponentSlug": "163206-antonio-figueiredo",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Fury FC 24",
+      "eventSlug": "52942-fury-fc-24",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-18T00:00:00.000Z",
+      "opponent": "Cody Roberts",
+      "opponentSlug": "169689-cody-roberts",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Texas Clash Bash 9",
+      "eventSlug": "48434-texas-clash-bash-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-10T00:00:00.000Z",
+      "opponent": "Aaron Castillo",
+      "opponentSlug": "158183-aaron-castillo",
+      "result": "win",
+      "method": "sub",
+      "event": "Fury FC 17",
+      "eventSlug": "45866-fury-fc-17",
+      "round": 2,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2017-03-10T00:00:00.000Z",
+      "opponent": "Jonathan Gomez",
+      "opponentSlug": "144209-jonathan-gomez",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 6: Junior vs. Rodriguez",
+      "eventSlug": "44061-lfa-6-junior-vs-rodriguez",
+      "round": 3,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:30:48.589Z"
+}

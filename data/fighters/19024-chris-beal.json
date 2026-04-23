@@ -1,0 +1,242 @@
+{
+  "slug": "19024-chris-beal",
+  "name": "Chris Beal",
+  "nickname": "The Real Deal",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 175,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1985-08-06",
+  "nationality": "Brooklyn, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/19024-chris-beal",
+  "recentFights": [
+    {
+      "date": "2022-07-23T00:00:00.000Z",
+      "opponent": "Josh Rettinghouse",
+      "opponentSlug": "18537-josh-rettinghouse",
+      "result": "loss",
+      "method": "other",
+      "event": "XMMA 5: 5outhern Heat",
+      "eventSlug": "90284-xmma-5-5outhern-heat",
+      "round": 1,
+      "timeInRound": "2:10"
+    },
+    {
+      "date": "2022-04-02T00:00:00.000Z",
+      "opponent": "James Acosta",
+      "opponentSlug": "46556-james-acosta",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WFC 136",
+      "eventSlug": "90985-wfc-136",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-21T00:00:00.000Z",
+      "opponent": "George Garcia",
+      "opponentSlug": "62345-georgie-garcia",
+      "result": "loss",
+      "method": "dec-majority",
+      "event": "CXF 12: Burbank Beatdown",
+      "eventSlug": "52569-cxf-12-burbank-beatdown",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-05T00:00:00.000Z",
+      "opponent": "John Castañeda",
+      "opponentSlug": "20125-john-castaneda",
+      "result": "loss",
+      "method": "other",
+      "event": "Combate 14: Cinco de Mayo",
+      "eventSlug": "45333-combate-14-cinco-de-mayo",
+      "round": 2,
+      "timeInRound": "0:42"
+    },
+    {
+      "date": "2016-12-17T00:00:00.000Z",
+      "opponent": "Alfred Khashakyan",
+      "opponentSlug": "48278-alfred-kashakyan",
+      "result": "loss",
+      "method": "other",
+      "event": "CXF 5: Night of Champions",
+      "eventSlug": "42156-cxf-5-night-of-champions",
+      "round": 1,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2016-06-18T00:00:00.000Z",
+      "opponent": "Joe Soto",
+      "opponentSlug": "joe-soto-the-hammer",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night 89",
+      "eventSlug": "38667-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "3:39"
+    },
+    {
+      "date": "2015-08-23T00:00:00.000Z",
+      "opponent": "Chris Kelades",
+      "opponentSlug": "17708-chris-kelades",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC Fight Night 74",
+      "eventSlug": "33357-ufc-fight-night-74-holloway-vs-oliveira",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-01-24T00:00:00.000Z",
+      "opponent": "Neil Seery",
+      "opponentSlug": "17184-neil-seery",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC on FOX 14",
+      "eventSlug": "27583-ufc-on-fox-14-gustafsson-vs-evans",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-09-05T00:00:00.000Z",
+      "opponent": "Tateki Matsuda",
+      "opponentSlug": "tateki-matsuda",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night 50",
+      "eventSlug": "24825-ufc-fight-night-50",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-04-26T00:00:00.000Z",
+      "opponent": "Patrick Williams",
+      "opponentSlug": "19595-patrick-williams",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 172: Jones vs. Teixeira",
+      "eventSlug": "21832-ufc-172-jones-vs-teixeira",
+      "round": 2,
+      "timeInRound": "1:51"
+    },
+    {
+      "date": "2014-03-28T00:00:00.000Z",
+      "opponent": "Keith Carson",
+      "opponentSlug": "55582-keith-carson-danger",
+      "result": "win",
+      "method": "other",
+      "event": "BAMMA Badbeat 12",
+      "eventSlug": "23209-bamma-badbeat-12",
+      "round": 2,
+      "timeInRound": "4:37"
+    },
+    {
+      "date": "2013-06-10T00:00:00.000Z",
+      "opponent": "Chris Holdsworth",
+      "opponentSlug": "16504-chris-holdsworth",
+      "result": "loss",
+      "method": "sub",
+      "event": "The Ultimate Fighter Season 18",
+      "eventSlug": "33766-the-ultimate-fighter-season-18",
+      "round": 1,
+      "timeInRound": "4:20"
+    },
+    {
+      "date": "2013-05-29T00:00:00.000Z",
+      "opponent": "Sirwan Kakai",
+      "opponentSlug": "24897-sirwan-kakai-zohan",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "The Ultimate Fighter Season 18",
+      "eventSlug": "33759-the-ultimate-fighter-season-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-10-12T00:00:00.000Z",
+      "opponent": "Shad Smith",
+      "opponentSlug": "2311-shad-smith",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "BAMMA Badbeat 7",
+      "eventSlug": "15658-bamma-badbeat-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-07-13T00:00:00.000Z",
+      "opponent": "Kana Hyatt",
+      "opponentSlug": "7011-kana-hyatt",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "BAMMA Badbeat 6",
+      "eventSlug": "13862-bamma-badbeat-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-03-16T00:00:00.000Z",
+      "opponent": "Jose Morales",
+      "opponentSlug": "8645-jose-morales",
+      "result": "win",
+      "method": "other",
+      "event": "BAMMA Badbeat 5",
+      "eventSlug": "12568-bamma-badbeat-5",
+      "round": 1,
+      "timeInRound": "4:45"
+    },
+    {
+      "date": "2012-01-13T00:00:00.000Z",
+      "opponent": "Jimmy Jones",
+      "opponentSlug": "14478-Jimmy-Jones-Rabbit",
+      "result": "win",
+      "method": "dec-split",
+      "event": "BAMMA Badbeat 4",
+      "eventSlug": "12145-bamma-badbeat-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-08-20T00:00:00.000Z",
+      "opponent": "Evan Esguerra",
+      "opponentSlug": "evan-esguerra",
+      "result": "win",
+      "method": "dec-split",
+      "event": "BAMMA Badbeat 3",
+      "eventSlug": "10952-bamma-badbeat-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-10-02T00:00:00.000Z",
+      "opponent": "Vincent Martinez",
+      "opponentSlug": "8479-vincent-martinez",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-07-02T00:00:00.000Z",
+      "opponent": "Andrew Dominquez",
+      "opponentSlug": "20359-andrew-dominquez",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:02:56.712Z"
+}

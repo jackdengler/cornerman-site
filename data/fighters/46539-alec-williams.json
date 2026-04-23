@@ -1,0 +1,143 @@
+{
+  "slug": "46539-alec-williams",
+  "name": "Alec Williams",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1990-07-20",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/46539-alec-williams",
+  "recentFights": [
+    {
+      "date": "2021-07-25T00:00:00.000Z",
+      "opponent": "Kolton Englund",
+      "opponentSlug": "20062-kolton-englund",
+      "result": "loss",
+      "method": "other",
+      "event": "Fury FC 48",
+      "eventSlug": "79974-fury-fc-48",
+      "round": 3,
+      "timeInRound": "4:34"
+    },
+    {
+      "date": "2021-05-16T00:00:00.000Z",
+      "opponent": "Alex Black",
+      "opponentSlug": "13860-alex-black",
+      "result": "win",
+      "method": "sub",
+      "event": "Fury FC 46: Lookin' For a Fight",
+      "eventSlug": "78119-fury-fc-46",
+      "round": 2,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2017-12-01T00:00:00.000Z",
+      "opponent": "Mandel Nallo",
+      "opponentSlug": "24751-mandell-nallo",
+      "result": "loss",
+      "method": "other",
+      "event": "Bellator 189",
+      "eventSlug": "48466-bellator-189-budd-vs-blencowe",
+      "round": 1,
+      "timeInRound": "0:18"
+    },
+    {
+      "date": "2017-06-10T00:00:00.000Z",
+      "opponent": "Travonne Hobbs",
+      "opponentSlug": "29690-travonne-hobbs",
+      "result": "win",
+      "method": "sub",
+      "event": "Fury FC 17",
+      "eventSlug": "45866-fury-fc-17",
+      "round": 3,
+      "timeInRound": "3:21"
+    },
+    {
+      "date": "2016-11-19T00:00:00.000Z",
+      "opponent": "Le'Ville Simpson",
+      "opponentSlug": "27434-leville-simpson",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fury FC 14",
+      "eventSlug": "42577-fury-fc-14",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-02T00:00:00.000Z",
+      "opponent": "Gabriel Arce",
+      "opponentSlug": "45128-gabriel-arce",
+      "result": "win",
+      "method": "sub",
+      "event": "SCC 12: Fighting for Hope",
+      "eventSlug": "38741-scc-fighting-for-hope",
+      "round": 2,
+      "timeInRound": "2:08"
+    },
+    {
+      "date": "2015-08-15T00:00:00.000Z",
+      "opponent": "Jesse Riley",
+      "opponentSlug": "27372-jesse-riley",
+      "result": "win",
+      "method": "tko",
+      "event": "GCS 4: Key City Chaos 2",
+      "eventSlug": "34246-gcs-4-key-city-chaos-2",
+      "round": 1,
+      "timeInRound": "0:54"
+    },
+    {
+      "date": "2015-02-21T00:00:00.000Z",
+      "opponent": "Hosay Batts",
+      "opponentSlug": "48123-hosay-batts",
+      "result": "win",
+      "method": "sub",
+      "event": "GCS 2: Battle of the Big Country",
+      "eventSlug": "29670-gcs-2-battle-of-the-big-country",
+      "round": 1,
+      "timeInRound": "2:46"
+    },
+    {
+      "date": "2014-09-06T00:00:00.000Z",
+      "opponent": "Tolutomi Agunbiade",
+      "opponentSlug": "45089-tolutomi-agunbiade",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "24/7 Entertainment 16 & 17",
+      "eventSlug": "26244-247-entertainment-16-17-injustice-tyranny",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-08-03T00:00:00.000Z",
+      "opponent": "Marcus Andrusia",
+      "opponentSlug": "marcus-andrusia",
+      "result": "win",
+      "method": "sub",
+      "event": "VFA: Round 2",
+      "eventSlug": "19519-vfa-round-2",
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2013-05-18T00:00:00.000Z",
+      "opponent": "Will Leads",
+      "opponentSlug": "41725-will-leads",
+      "result": "win",
+      "method": "sub",
+      "event": "IXFA 9: Delta Downs",
+      "eventSlug": "17963-ixfa-9-delta-downs",
+      "round": 2,
+      "timeInRound": "0:57"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:08:06.616Z"
+}

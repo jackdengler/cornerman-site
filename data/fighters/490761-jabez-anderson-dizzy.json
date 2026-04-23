@@ -1,0 +1,48 @@
+{
+  "slug": "490761-jabez-anderson-dizzy",
+  "name": "Jabez Anderson",
+  "nickname": "Dizzy",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "2002-09-19",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/490761-jabez-anderson-dizzy",
+  "recentFights": [
+    {
+      "date": "2026-03-27T00:00:00.000Z",
+      "opponent": "Jordan Theisen",
+      "opponentSlug": "407741-jordan-theisen",
+      "result": "win",
+      "method": "other",
+      "event": "DCS 106: St. Paddy Showdown 2026",
+      "eventSlug": "139930-dcs-106-st-paddy-showdown-2026",
+      "round": 1,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2025-04-12T00:00:00.000Z",
+      "opponent": "Erick Medrano",
+      "opponentSlug": "461138-erick-medrano",
+      "result": "loss",
+      "method": "sub",
+      "event": "MCC 72",
+      "eventSlug": "123852-mcc-72-fight-night-at-the-val-air-ballroom",
+      "round": 3,
+      "timeInRound": "1:31"
+    }
+  ],
+  "lastVerified": "2026-04-18T09:06:39.110Z"
+}

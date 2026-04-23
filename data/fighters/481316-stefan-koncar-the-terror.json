@@ -1,0 +1,88 @@
+{
+  "slug": "481316-stefan-koncar-the-terror",
+  "name": "Stefan Končar",
+  "nickname": "The Butcher",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "2001-08-24",
+  "nationality": "Serbia",
+  "url": "https://www.tapology.com/fightcenter/fighters/481316-stefan-koncar-the-terror",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Jan Malach",
+      "opponentSlug": "64719-jan-malach",
+      "result": null,
+      "method": "other",
+      "event": "OKTAGON 87: Szabová vs. Fernandes",
+      "eventSlug": "135741-oktagon-87",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-01-17T00:00:00.000Z",
+      "opponent": "Tamerlan Dulatov",
+      "opponentSlug": "195212-tamerlan-dulatov",
+      "result": "loss",
+      "method": "sub",
+      "event": "OKTAGON 82: Engizek vs. Jotko",
+      "eventSlug": "134065-oktagon-82",
+      "round": 1,
+      "timeInRound": "4:46"
+    },
+    {
+      "date": "2025-11-22T00:00:00.000Z",
+      "opponent": "Lahess Nassim",
+      "opponentSlug": "532884-lahess-nassim",
+      "result": "win",
+      "method": "sub",
+      "event": "ACF 6",
+      "eventSlug": "134555-acf-6",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2025-06-07T00:00:00.000Z",
+      "opponent": "Edo Hrustić",
+      "opponentSlug": "450330-edo-hrustic",
+      "result": "win",
+      "method": "other",
+      "event": "BFN 7: Uprising",
+      "eventSlug": "129299-bfn-7-uprising",
+      "round": 1,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2025-04-26T00:00:00.000Z",
+      "opponent": "Pero Pratljacic",
+      "opponentSlug": "485354-pero-pratljacic-killer",
+      "result": "win",
+      "method": "other",
+      "event": "ACF 5 & IMPACT 4",
+      "eventSlug": "126639-acf-5-impact-4",
+      "round": 1,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2025-03-08T00:00:00.000Z",
+      "opponent": "Brajan Boka",
+      "opponentSlug": "468236-brajan-boka",
+      "result": "win",
+      "method": "other",
+      "event": "ACF 4",
+      "eventSlug": "123727-acf-4",
+      "round": 2,
+      "timeInRound": "1:28"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:04:56.368Z"
+}

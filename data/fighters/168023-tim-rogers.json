@@ -1,0 +1,88 @@
+{
+  "slug": "168023-tim-rogers",
+  "name": "Tim Rogers",
+  "nickname": "Flashbang",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1992-07-21",
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/168023-tim-rogers",
+  "recentFights": [
+    {
+      "date": "2024-06-22T00:00:00.000Z",
+      "opponent": "Dom Mar Fan",
+      "opponentSlug": "196890-dom-mar-fan",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 86",
+      "eventSlug": "112017-eternal-mma-86",
+      "round": 2,
+      "timeInRound": "2:06"
+    },
+    {
+      "date": "2023-07-02T00:00:00.000Z",
+      "opponent": "Jesse Medina",
+      "opponentSlug": "54818-jesse-medina",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Diamondback FC 17",
+      "eventSlug": "102748-diamondback-fc-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-03T00:00:00.000Z",
+      "opponent": "Travis May",
+      "opponentSlug": "134922-travis-may",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Diamondback FC 9",
+      "eventSlug": "62451-diamondback-fc-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-01T00:00:00.000Z",
+      "opponent": "Taylor Garrett",
+      "opponentSlug": "160189-taylor-garrett",
+      "result": "win",
+      "method": "other",
+      "event": "Diamondback FC",
+      "eventSlug": "55482-diamondback-fc-rising-stars-2",
+      "round": 2,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2018-03-10T00:00:00.000Z",
+      "opponent": "Karim Kamara",
+      "opponentSlug": "168021-karim-kamara",
+      "result": "win",
+      "method": "sub",
+      "event": "Diamondback FC 5",
+      "eventSlug": "51519-diamondback-fc-5",
+      "round": 1,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2017-10-15T00:00:00.000Z",
+      "opponent": "Tom Hamilton",
+      "opponentSlug": "101846-tom-hamilton",
+      "result": "win",
+      "method": "tko",
+      "event": "Diamondback FC 4",
+      "eventSlug": "47839-diamondback-fc-4",
+      "round": 2,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:19:14.818Z"
+}

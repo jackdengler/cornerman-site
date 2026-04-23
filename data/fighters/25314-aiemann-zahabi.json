@@ -1,0 +1,231 @@
+{
+  "slug": "25314-aiemann-zahabi",
+  "name": "Aiemann Zahabi",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 14,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 174,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1987-11-19",
+  "nationality": "Laval, Quebec, Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/25314-aiemann-zahabi",
+  "recentFights": [
+    {
+      "date": "2026-06-14T00:00:00.000Z",
+      "opponent": "Sean O'Malley",
+      "opponentSlug": "68186-sean-omalley",
+      "result": null,
+      "method": "other",
+      "event": "UFC Freedom Fights 250",
+      "eventSlug": "137848-ufc-white-house",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-18T00:00:00.000Z",
+      "opponent": "Marlon Vera",
+      "opponentSlug": "48144-marlon-vera-chito",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "129312-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-10T00:00:00.000Z",
+      "opponent": "José Aldo",
+      "opponentSlug": "jose-aldo-junior",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 315: Muhammad vs. Della Maddalena",
+      "eventSlug": "123873-ufc-315",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-02T00:00:00.000Z",
+      "opponent": "Pedro Munhoz",
+      "opponentSlug": "5243-pedro-munoz-pedrinho",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "116421-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-02T00:00:00.000Z",
+      "opponent": "Javid Basharat",
+      "opponentSlug": "116280-javid-bashrat",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "106064-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-10T00:00:00.000Z",
+      "opponent": "Aoriqileng",
+      "opponentSlug": "119560-aoriqileng",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 289: Nunes vs. Aldana",
+      "eventSlug": "99346-ufc-289",
+      "round": 1,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2022-07-09T00:00:00.000Z",
+      "opponent": "Ricky Turcios",
+      "opponentSlug": "46586-ricky-turcios",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "88397-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-02-20T00:00:00.000Z",
+      "opponent": "Drako Rodriguez",
+      "opponentSlug": "108711-drako-rodriguez",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "74141-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "3:05"
+    },
+    {
+      "date": "2019-05-04T00:00:00.000Z",
+      "opponent": "Vince Morales",
+      "opponentSlug": "91401-vince-morales",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC on ESPN+ 9",
+      "eventSlug": "57507-ufc-on-espn-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-04T00:00:00.000Z",
+      "opponent": "Ricardo Ramos",
+      "opponentSlug": "56182-ricardo-ramos-carcacinha",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 217: Bisping vs. St. Pierre",
+      "eventSlug": "46980-ufc",
+      "round": 3,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2017-02-19T00:00:00.000Z",
+      "opponent": "Reginaldo Vieira",
+      "opponentSlug": "24429-reginaldo-vieira",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night 105",
+      "eventSlug": "42677-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-03-12T00:00:00.000Z",
+      "opponent": "Kyle Oliveira",
+      "opponentSlug": "24148-kyle-oliveira",
+      "result": "win",
+      "method": "other",
+      "event": "Prestige FC 2",
+      "eventSlug": "37110-prestige-fc-2-queen-city-coronation",
+      "round": 1,
+      "timeInRound": "2:17"
+    },
+    {
+      "date": "2015-10-17T00:00:00.000Z",
+      "opponent": "Jeremy DiChiara",
+      "opponentSlug": "77920-jeremy-dichiara",
+      "result": "win",
+      "method": "tko",
+      "event": "Hybrid Pro Series 4",
+      "eventSlug": "34277-hybrid-pro-series-4",
+      "round": 1,
+      "timeInRound": "0:18"
+    },
+    {
+      "date": "2015-03-13T00:00:00.000Z",
+      "opponent": "Scott Farhat",
+      "opponentSlug": "17547-scott-farhat",
+      "result": "win",
+      "method": "other",
+      "event": "Rivals MMA 1",
+      "eventSlug": "29315-rivals-mma-1",
+      "round": 1,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2014-11-15T00:00:00.000Z",
+      "opponent": "Wesley Bowman",
+      "opponentSlug": "48378-wesley-bowman",
+      "result": "win",
+      "method": "other",
+      "event": "Hybrid Pro Series 2",
+      "eventSlug": "25559-hybrid-pro-series-2",
+      "round": 1,
+      "timeInRound": "4:40"
+    },
+    {
+      "date": "2014-03-05T00:00:00.000Z",
+      "opponent": "Phillip Deschambeault",
+      "opponentSlug": "13254-phillip-deschambeault",
+      "result": "win",
+      "method": "sub",
+      "event": "Wednesday Night Fights 1",
+      "eventSlug": "22029-mma-fight-night-1",
+      "round": 1,
+      "timeInRound": "2:33"
+    },
+    {
+      "date": "2012-11-30T00:00:00.000Z",
+      "opponent": "Kyle Vivian",
+      "opponentSlug": "14385-kyle-vivian",
+      "result": "win",
+      "method": "other",
+      "event": "SLAMM 1",
+      "eventSlug": "16150-tristar-fight-night-1",
+      "round": 1,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2011-04-02T00:00:00.000Z",
+      "opponent": "Derek Charbonneau",
+      "opponentSlug": "24725-derek-charbonneau",
+      "result": "win",
+      "method": "sub",
+      "event": "Fightquest 17",
+      "eventSlug": "13344-fightquest-17",
+      "round": 3,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2010-12-04T00:00:00.000Z",
+      "opponent": "Stephane Grenon",
+      "opponentSlug": "28448-stephane-grenon",
+      "result": "win",
+      "method": "other",
+      "event": "Fightquest 15",
+      "eventSlug": "14205-fightquest-15",
+      "round": 1,
+      "timeInRound": "1:52"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:57:14.085Z"
+}

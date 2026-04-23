@@ -1,0 +1,37 @@
+{
+  "slug": "41153-bryan-head",
+  "name": "Bryan Head",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": "1990-07-05",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/41153-bryan-head",
+  "recentFights": [
+    {
+      "date": "2010-07-17T00:00:00.000Z",
+      "opponent": "Ryan Spann",
+      "opponentSlug": "20908-ryan-spann",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:51:29.370Z"
+}

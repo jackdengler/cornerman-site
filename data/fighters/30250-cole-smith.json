@@ -1,0 +1,209 @@
+{
+  "slug": "30250-cole-smith",
+  "name": "Cole Smith",
+  "nickname": "The Cole Train",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": 170,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1989-04-05",
+  "nationality": "Vancouver, British Columbia, Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/30250-cole-smith",
+  "recentFights": [
+    {
+      "date": "2022-04-02T00:00:00.000Z",
+      "opponent": "John Sweeney",
+      "opponentSlug": "72874-john-sweeney",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "XMMA 4: Bl4ck Magic",
+      "eventSlug": "86600-xmma-4-black-magic",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-05T00:00:00.000Z",
+      "opponent": "Hunter Azure",
+      "opponentSlug": "99152-hunter-azure",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "70907-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-14T00:00:00.000Z",
+      "opponent": "Miles Johns",
+      "opponentSlug": "46875-miles-johns",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC on ESPN+ 16",
+      "eventSlug": "60315-ufc-on-espn-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-04T00:00:00.000Z",
+      "opponent": "Mitch Gagnon",
+      "opponentSlug": "michel-gagnon",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC on ESPN+ 9",
+      "eventSlug": "57507-ufc-on-espn-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-01-12T00:00:00.000Z",
+      "opponent": "Tyler Wilson",
+      "opponentSlug": "28440-tyler-wilson",
+      "result": "win",
+      "method": "sub",
+      "event": "BFL 59",
+      "eventSlug": "56701-bfl-59",
+      "round": 1,
+      "timeInRound": "1:26"
+    },
+    {
+      "date": "2018-03-17T00:00:00.000Z",
+      "opponent": "Carlos Galvan",
+      "opponentSlug": "61564-carlos-galvan",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "BFL 54",
+      "eventSlug": "51611-bfl-fight-night-54",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-18T00:00:00.000Z",
+      "opponent": "Tyler Dolby",
+      "opponentSlug": "18131-tyler-dolby",
+      "result": "win",
+      "method": "sub",
+      "event": "BFL 52",
+      "eventSlug": "48278-bfl-52",
+      "round": 1,
+      "timeInRound": "3:13"
+    },
+    {
+      "date": "2017-04-01T00:00:00.000Z",
+      "opponent": "Reysaldo Trasmonte",
+      "opponentSlug": "21511-onyok-trasmonte",
+      "result": "win",
+      "method": "other",
+      "event": "Thailand FC 2",
+      "eventSlug": "44702-thailand-fc-2",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-29T00:00:00.000Z",
+      "opponent": "Jamie Siraj",
+      "opponentSlug": "35361-jamie-siraj-the-gremlin",
+      "result": "win",
+      "method": "sub",
+      "event": "BFL 46",
+      "eventSlug": "42793-bfl-46",
+      "round": 4,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2016-02-20T00:00:00.000Z",
+      "opponent": "Komon Ninin",
+      "opponentSlug": "94373-komon-ninin",
+      "result": "win",
+      "method": "other",
+      "event": "Thailand Ring Wars 3",
+      "eventSlug": "38768-thailand-ring-wars-3",
+      "round": 1,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2015-05-30T00:00:00.000Z",
+      "opponent": "Christian Tremayne",
+      "opponentSlug": "22425-christian-tremayne",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "BFL 36: Blood Brothers",
+      "eventSlug": "31883-bfl-36",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-28T00:00:00.000Z",
+      "opponent": "Kirk Tse",
+      "opponentSlug": "21085-kirk-tse",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "BFL 35",
+      "eventSlug": "29808-bfl-35",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-22T00:00:00.000Z",
+      "opponent": "Ali Motamed",
+      "opponentSlug": "74143-ali-motamed",
+      "result": "loss",
+      "method": "sub",
+      "event": "Full Metal Dojo 3",
+      "eventSlug": "27351-full-metal-dojo-no-sleep-till-bangkok",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-08-23T00:00:00.000Z",
+      "opponent": "Bradley Nicholson",
+      "opponentSlug": "32310-bradley-nicholson",
+      "result": "loss",
+      "method": "other",
+      "event": "BFL 32",
+      "eventSlug": "24005-bfl-32",
+      "round": 1,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2014-03-29T00:00:00.000Z",
+      "opponent": "Reece Wood",
+      "opponentSlug": "59356-reece-wood",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "BFL 29",
+      "eventSlug": "22446-bfl-29",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-12-07T00:00:00.000Z",
+      "opponent": "Damon Begg",
+      "opponentSlug": "59592-damon-begg",
+      "result": "win",
+      "method": "sub",
+      "event": "BFL 26",
+      "eventSlug": "21217-bfl-26",
+      "round": 1,
+      "timeInRound": "0:48"
+    },
+    {
+      "date": "2013-06-21T00:00:00.000Z",
+      "opponent": "Travis Drew",
+      "opponentSlug": "50284-travis-drew",
+      "result": "win",
+      "method": "sub",
+      "event": "Warpath MMA 10",
+      "eventSlug": "18102-warpath-mma-10",
+      "round": 2,
+      "timeInRound": "1:14"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:04:49.927Z"
+}

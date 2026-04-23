@@ -1,0 +1,165 @@
+{
+  "slug": "292593-ryan-loder",
+  "name": "Ryan Loder",
+  "nickname": "Man Of Steel",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": 193,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1991-06-05",
+  "nationality": "California",
+  "url": "https://www.tapology.com/fightcenter/fighters/292593-ryan-loder",
+  "recentFights": [
+    {
+      "date": "2025-11-22T00:00:00.000Z",
+      "opponent": "Ismail Naurdiev",
+      "opponentSlug": "79755-ismael-naurdiev",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "130635-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "1:26"
+    },
+    {
+      "date": "2025-05-03T00:00:00.000Z",
+      "opponent": "Azamat Bekoev",
+      "opponentSlug": "137588-azamat-bekoev",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "123376-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "2:44"
+    },
+    {
+      "date": "2024-08-24T00:00:00.000Z",
+      "opponent": "Robert Valentin",
+      "opponentSlug": "136498-robert-valentin",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "114902-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2024-04-09T00:00:00.000Z",
+      "opponent": "Omran Chaaban",
+      "opponentSlug": "130312-omran-chabaan",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "The Ultimate Fighter 32",
+      "eventSlug": "117196-the-ultimate-fighter-32-grasso-vs-shevchenko",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-27T00:00:00.000Z",
+      "opponent": "Tom Theocharis",
+      "opponentSlug": "117345-tom-theocharis",
+      "result": "win",
+      "method": "sub",
+      "event": "The Ultimate Fighter 32",
+      "eventSlug": "117195-the-ultimate-fighter-32-grasso-vs-shevchenko",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2023-08-12T00:00:00.000Z",
+      "opponent": "Lajuan Davis",
+      "opponentSlug": "157365-lajuan-davis",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "United Fight League 3",
+      "eventSlug": "101984-united-fight-league-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-13T00:00:00.000Z",
+      "opponent": "Leon Shahbazyan",
+      "opponentSlug": "99683-leon-shahbazyan",
+      "result": "win",
+      "method": "other",
+      "event": "United Fight League 2",
+      "eventSlug": "99178-united-fight-league-2",
+      "round": 1,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2023-01-13T00:00:00.000Z",
+      "opponent": "Troy Green",
+      "opponentSlug": "64128-troy-green",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Urijah Faber's A1 Combat 7",
+      "eventSlug": "94843-urijah-faber-s-a1-combat-7-coyne-vs-cornell",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-31T00:00:00.000Z",
+      "opponent": "Sean Sullivan",
+      "opponentSlug": "321351-sean-sullivan",
+      "result": "win",
+      "method": "other",
+      "event": "Urijah Faber's A1 Combat 4",
+      "eventSlug": "89972-urijah-faber-s-a1-combat-4-stockton",
+      "round": 1,
+      "timeInRound": "1:41"
+    },
+    {
+      "date": "2022-06-04T00:00:00.000Z",
+      "opponent": "Dorjan Dokaj",
+      "opponentSlug": "252608-dorjan-dokaj",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "BTC 15: Homecoming",
+      "eventSlug": "89045-btc-15-homecoming",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-12T00:00:00.000Z",
+      "opponent": "Marcus Gaines",
+      "opponentSlug": "marcus-gaines",
+      "result": "win",
+      "method": "tko",
+      "event": "FirePower 4",
+      "eventSlug": "85497-fpc-4-sudden-impact",
+      "round": 2,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2021-10-23T00:00:00.000Z",
+      "opponent": "James Porter",
+      "opponentSlug": "83517-james-porter",
+      "result": "win",
+      "method": "other",
+      "event": "FirePower MMA",
+      "eventSlug": "82078-no-shelter",
+      "round": 1,
+      "timeInRound": "0:12"
+    },
+    {
+      "date": "2021-05-01T00:00:00.000Z",
+      "opponent": "Shane O'Rourke",
+      "opponentSlug": "292592-shane-o-rourke",
+      "result": "win",
+      "method": "other",
+      "event": "MTF 26: Twin Falls",
+      "eventSlug": "78825-mtf-26-twin-falls",
+      "round": 1,
+      "timeInRound": "1:58"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:57:16.782Z"
+}

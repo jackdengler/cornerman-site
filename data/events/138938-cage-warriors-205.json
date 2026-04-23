@@ -1,0 +1,339 @@
+{
+  "slug": "138938-cage-warriors-205",
+  "name": "Cage Warriors 205: Burlinson vs. Clancy Jr.",
+  "promotion": "Cage Warriors",
+  "startTimeUtc": "2026-04-25T17:00:00.000Z",
+  "venueTimezone": null,
+  "venue": "Braehead Arena",
+  "location": "Glasgow, Scotland",
+  "url": "https://www.tapology.com/fightcenter/events/138938-cage-warriors-205",
+  "status": "scheduled",
+  "forumThreadId": "94707",
+  "fights": [
+    {
+      "id": "138938-cage-warriors-205#1",
+      "eventSlug": "138938-cage-warriors-205",
+      "order": 1,
+      "cardSection": "main",
+      "weightClass": "170 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "72469-justin-burlinson",
+        "name": "Justin Burlinson",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "195538-sean-clancy-jr",
+        "name": "Sean Clancy Jr.",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-23T06:17:29.795Z"
+    },
+    {
+      "id": "138938-cage-warriors-205#2",
+      "eventSlug": "138938-cage-warriors-205",
+      "order": 2,
+      "cardSection": "main",
+      "weightClass": "155 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "112206-jordan-stronge",
+        "name": "Jordan Stronge",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "312376-marc-philippe-ngatchou",
+        "name": "Marc-Philippe Ngatchou",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-23T06:17:29.795Z"
+    },
+    {
+      "id": "138938-cage-warriors-205#3",
+      "eventSlug": "138938-cage-warriors-205",
+      "order": 3,
+      "cardSection": "main",
+      "weightClass": "205 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "319820-norbert-pietrzak",
+        "name": "Norbert Pietrzak",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "226264-michael-tchamou",
+        "name": "Michael Tchamou",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-23T06:17:29.795Z"
+    },
+    {
+      "id": "138938-cage-warriors-205#4",
+      "eventSlug": "138938-cage-warriors-205",
+      "order": 4,
+      "cardSection": "main",
+      "weightClass": "145 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "30254-aiden-stephen",
+        "name": "Aidan Stephen",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "69897-josh-abraham",
+        "name": "Josh Abraham",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-23T06:17:29.795Z"
+    },
+    {
+      "id": "138938-cage-warriors-205#5",
+      "eventSlug": "138938-cage-warriors-205",
+      "order": 5,
+      "cardSection": "main",
+      "weightClass": "155 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "171433-michael-blair",
+        "name": "Michael Blair",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "202600-ermil-xhaferi",
+        "name": "Ermil Xhaferi",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-23T06:17:29.795Z"
+    },
+    {
+      "id": "138938-cage-warriors-205#6",
+      "eventSlug": "138938-cage-warriors-205",
+      "order": 6,
+      "cardSection": "main",
+      "weightClass": "125 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "30925-gary-priestly",
+        "name": "Gary Priestly",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "93524-aaron-towns",
+        "name": "Aaron Towns",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-23T06:17:29.795Z"
+    },
+    {
+      "id": "138938-cage-warriors-205#7",
+      "eventSlug": "138938-cage-warriors-205",
+      "order": 7,
+      "cardSection": "main",
+      "weightClass": "145 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "132978-damon-donald",
+        "name": "Damon Donald",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "304696-leon-armes",
+        "name": "Leon Armes",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-23T06:17:29.795Z"
+    },
+    {
+      "id": "138938-cage-warriors-205#8",
+      "eventSlug": "138938-cage-warriors-205",
+      "order": 8,
+      "cardSection": "main",
+      "weightClass": "145 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "512177-jamie-mcgowan",
+        "name": "Jamie McGowan",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "342230-taylor-sullivan",
+        "name": "Taylor Sullivan",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-23T06:17:29.795Z"
+    },
+    {
+      "id": "138938-cage-warriors-205#9",
+      "eventSlug": "138938-cage-warriors-205",
+      "order": 9,
+      "cardSection": "main",
+      "weightClass": "170 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "348322-lewis-urquhart",
+        "name": "Lewis Urquhart",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "349612-senan-coakley",
+        "name": "Senan Coakley",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-23T06:17:29.795Z"
+    },
+    {
+      "id": "138938-cage-warriors-205#10",
+      "eventSlug": "138938-cage-warriors-205",
+      "order": 10,
+      "cardSection": "main",
+      "weightClass": "161 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "334049-arturo-martin",
+        "name": "Arturo Izquierdo",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "339038-halajan-koffi",
+        "name": "Halajan Koffi",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-23T06:17:29.795Z"
+    },
+    {
+      "id": "138938-cage-warriors-205#11",
+      "eventSlug": "138938-cage-warriors-205",
+      "order": 11,
+      "cardSection": "main",
+      "weightClass": "132 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "56443-igor-wojtas",
+        "name": "Igor Wojtas",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "82357-leonardo-de-oliveira-balinha",
+        "name": "Leonardo de Oliveira",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-23T06:17:29.795Z"
+    },
+    {
+      "id": "138938-cage-warriors-205#12",
+      "eventSlug": "138938-cage-warriors-205",
+      "order": 12,
+      "cardSection": "main",
+      "weightClass": "140 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "314533-jack-foote",
+        "name": "Jack Foote",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "240909-eoin-mcdonald",
+        "name": "Eoin McDonald",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-23T06:17:29.795Z"
+    }
+  ],
+  "lastVerified": "2026-04-23T06:17:29.795Z"
+}

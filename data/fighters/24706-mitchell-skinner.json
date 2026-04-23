@@ -1,0 +1,103 @@
+{
+  "slug": "24706-mitchell-skinner",
+  "name": "Mitchell Skinner",
+  "nickname": "The Principal",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 4,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1992-11-29",
+  "nationality": "Collingwood, Ontario, Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/24706-mitchell-skinner",
+  "recentFights": [
+    {
+      "date": "2013-03-09T00:00:00.000Z",
+      "opponent": "Joe Goodleaf",
+      "opponentSlug": "26021-joe-goodleaf",
+      "result": "win",
+      "method": "other",
+      "event": "Fightquest 24",
+      "eventSlug": "17253-fightquest-24",
+      "round": 2,
+      "timeInRound": "1:42"
+    },
+    {
+      "date": "2013-02-23T00:00:00.000Z",
+      "opponent": "Francis Lepine",
+      "opponentSlug": "24745-frank-lepine",
+      "result": "win",
+      "method": "other",
+      "event": "Hybrid 16",
+      "eventSlug": "16923-hybrid-16",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2012-11-23T00:00:00.000Z",
+      "opponent": "Dan Lariviere",
+      "opponentSlug": "24213-dan-lariviere",
+      "result": "loss",
+      "method": "sub",
+      "event": "Hybrid 15",
+      "eventSlug": "15906-hybrid-15",
+      "round": 1,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2012-09-15T00:00:00.000Z",
+      "opponent": "Fred Decotret",
+      "opponentSlug": "30651-fred-decotret",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hybrid 14",
+      "eventSlug": "13930-hybrid-14",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-05-11T00:00:00.000Z",
+      "opponent": "Julien Leblanc",
+      "opponentSlug": "24714-julien-leblanc",
+      "result": "loss",
+      "method": "sub",
+      "event": "Hybrid 13",
+      "eventSlug": "13195-hybrid-13",
+      "round": 3,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2012-04-28T00:00:00.000Z",
+      "opponent": "Menad Abella",
+      "opponentSlug": "26588-menab-abella",
+      "result": "loss",
+      "method": "other",
+      "event": "Ultimate Boss Fight Night 2",
+      "eventSlug": "13696-ultimate-boss-fight-night-2",
+      "round": 2,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2011-06-18T00:00:00.000Z",
+      "opponent": "Seau Brauer",
+      "opponentSlug": "24789-seau-brauer",
+      "result": "loss",
+      "method": "sub",
+      "event": "Hybrid 9",
+      "eventSlug": "13221-hybrid-9",
+      "round": 1,
+      "timeInRound": "0:25"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:58:18.657Z"
+}

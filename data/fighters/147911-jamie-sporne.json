@@ -1,0 +1,143 @@
+{
+  "slug": "147911-jamie-sporne",
+  "name": "Jamie Sporne",
+  "nickname": "The Wutang Orangutan",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 198,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1994-06-20",
+  "nationality": "Clermont, Queensland, Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/147911-jamie-sporne",
+  "recentFights": [
+    {
+      "date": "2024-03-09T00:00:00.000Z",
+      "opponent": "Jack James",
+      "opponentSlug": "194896-jack-james",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Beatdown Promotions 6",
+      "eventSlug": "107332-beatdown-promotions-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-18T00:00:00.000Z",
+      "opponent": "Jonathan Micallef",
+      "opponentSlug": "238862-jonathan-micallef",
+      "result": "loss",
+      "method": "tko",
+      "event": "Hex Fight Series 24",
+      "eventSlug": "93819-hex-fight-series-24",
+      "round": 3,
+      "timeInRound": "3:50"
+    },
+    {
+      "date": "2022-05-07T00:00:00.000Z",
+      "opponent": "Ciaran Daly",
+      "opponentSlug": "86034-ciaran-daly",
+      "result": "win",
+      "method": "sub",
+      "event": "Eternal MMA 65",
+      "eventSlug": "88808-eternal-mma-65",
+      "round": 1,
+      "timeInRound": "2:51"
+    },
+    {
+      "date": "2021-03-20T00:00:00.000Z",
+      "opponent": "Peter Templer",
+      "opponentSlug": "124569-peter-templer",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 58",
+      "eventSlug": "74899-eternal-mma-58",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-12-12T00:00:00.000Z",
+      "opponent": "Michael Tepou",
+      "opponentSlug": "153662-michael-tepou",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XFC 46: State Of Origin",
+      "eventSlug": "73764-xfc-46",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-22T00:00:00.000Z",
+      "opponent": "Boston Caines",
+      "opponentSlug": "64019-boston-cains-boss-hog",
+      "result": "win",
+      "method": "sub",
+      "event": "Coastal Combat 7",
+      "eventSlug": "65791-coast-combat-7",
+      "round": 2,
+      "timeInRound": "2:48"
+    },
+    {
+      "date": "2019-09-07T00:00:00.000Z",
+      "opponent": "Zane Brassington",
+      "opponentSlug": "194893-zane-brassington",
+      "result": "win",
+      "method": "sub",
+      "event": "Coastal Combat 6",
+      "eventSlug": "60757-coastal-combat-6",
+      "round": 1,
+      "timeInRound": "0:55"
+    },
+    {
+      "date": "2019-08-17T00:00:00.000Z",
+      "opponent": "Loni Filimoehala",
+      "opponentSlug": "143314-loni-filimoehala",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "XFC 42",
+      "eventSlug": "61243-xfc-42",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-24T00:00:00.000Z",
+      "opponent": "Michael Pritchard",
+      "opponentSlug": "148291-michael-pritchard",
+      "result": "win",
+      "method": "tko",
+      "event": "XFC 41",
+      "eventSlug": "56683-xfc-41",
+      "round": 1,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2018-07-28T00:00:00.000Z",
+      "opponent": "Brendan Smith",
+      "opponentSlug": "51677-brendan-smith",
+      "result": "win",
+      "method": "other",
+      "event": "XFC 36: Joiner vs Tafa",
+      "eventSlug": "52919-xfc-36",
+      "round": 1,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2017-02-18T00:00:00.000Z",
+      "opponent": "Mitch Morrison",
+      "opponentSlug": "126289-mitch-morrison",
+      "result": "loss",
+      "method": "other",
+      "event": "XFC 29",
+      "eventSlug": "42980-xfc-29",
+      "round": 1,
+      "timeInRound": "0:44"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:54:10.636Z"
+}

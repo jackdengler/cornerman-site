@@ -1,0 +1,99 @@
+{
+  "slug": "312414-isaiah-flores",
+  "name": "Isaiah Flores",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "2003-04-12",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/312414-isaiah-flores",
+  "recentFights": [
+    {
+      "date": "2024-06-07T00:00:00.000Z",
+      "opponent": "Matthew Leonard",
+      "opponentSlug": "293437-matthew-leonard",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 185: Gennrich vs. Lewis",
+      "eventSlug": "113088-lfa-185",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-30T00:00:00.000Z",
+      "opponent": "Michael Dombrowski",
+      "opponentSlug": "61108-michael-dombrowski",
+      "result": "win",
+      "method": "other",
+      "event": "NAFC: Super Brawl",
+      "eventSlug": "109121-nafc-super-brawl",
+      "round": 1,
+      "timeInRound": "0:18"
+    },
+    {
+      "date": "2023-02-17T00:00:00.000Z",
+      "opponent": "Khatanbaatar Khuukhenkhuu",
+      "opponentSlug": "312954-katana-khukenkhuu",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 153: Mariscal vs. Faria",
+      "eventSlug": "97302-lfa-153-mariscal-vs-faria",
+      "round": 2,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2022-11-18T00:00:00.000Z",
+      "opponent": "Josue Sotero",
+      "opponentSlug": "351397-josue-sotero",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Anthony Pettis FC 3",
+      "eventSlug": "92457-anthony-pettis-fc-3-milwaukee-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-02T00:00:00.000Z",
+      "opponent": "Jordan Baxter",
+      "opponentSlug": "202368-jordan-baxter",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Stateline Rumble 1",
+      "eventSlug": "88486-stateline-rumble-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-27T00:00:00.000Z",
+      "opponent": "Steve Collins",
+      "opponentSlug": "307378-steve-collins",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "FCE 71: Cross the Line 2022",
+      "eventSlug": "85997-fight-card-entertainment-cross-the-line",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-06T00:00:00.000Z",
+      "opponent": "Samuel LaPaz",
+      "opponentSlug": "312413-samuel-lapaz",
+      "result": "win",
+      "method": "other",
+      "event": "NAFC: The Return",
+      "eventSlug": "82335-nafc-the-return",
+      "round": 2,
+      "timeInRound": "2:55"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:39:55.938Z"
+}

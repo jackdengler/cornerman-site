@@ -1,0 +1,142 @@
+{
+  "slug": "281167-andrea-vazquez",
+  "name": "Andrea Vázquez",
+  "nickname": "Monstruo",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 160,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1993-12-22",
+  "nationality": "Cuautla, Morelos, Mexico",
+  "url": "https://www.tapology.com/fightcenter/fighters/281167-andrea-vazquez",
+  "recentFights": [
+    {
+      "date": "2026-04-16T00:00:00.000Z",
+      "opponent": "Chelsea Hackett",
+      "opponentSlug": "214000-chelsea-hackett",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "PFL Belfast",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-16T00:00:00.000Z",
+      "opponent": "Dana Garcia",
+      "opponentSlug": "289584-dana-yasiri-garcia",
+      "result": "win",
+      "method": "other",
+      "event": "Lux Fight League 52",
+      "round": 4,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2024-10-11T00:00:00.000Z",
+      "opponent": "Jazmin Navarrete",
+      "opponentSlug": "143265-jazmin-navarrete-la-pantera",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Lux Fight League 46",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-26T00:00:00.000Z",
+      "opponent": "Leticia Baltazar",
+      "opponentSlug": "278815-leticia-baltazar",
+      "result": "win",
+      "method": "sub",
+      "event": "Lux Fight League 42",
+      "round": 2,
+      "timeInRound": "4:00"
+    },
+    {
+      "date": "2023-10-06T00:00:00.000Z",
+      "opponent": "Ana Laura Ramírez",
+      "opponentSlug": "234450-ana-ramirez",
+      "result": "win",
+      "method": "other",
+      "event": "Lux Fight League 36",
+      "round": 2,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2023-05-19T00:00:00.000Z",
+      "opponent": "Saray Orozco",
+      "opponentSlug": "115520-saray-orozco",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Lux Fight League 32",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-18T00:00:00.000Z",
+      "opponent": "Yajaira Romo",
+      "opponentSlug": "79106-yajaira-romo",
+      "result": "win",
+      "method": "sub",
+      "event": "Lux Fight League 28",
+      "round": 4,
+      "timeInRound": "4:40"
+    },
+    {
+      "date": "2022-06-17T00:00:00.000Z",
+      "opponent": "Linda Martell",
+      "opponentSlug": "290240-linda-martell",
+      "result": "win",
+      "method": "other",
+      "event": "Lux Fight League 23",
+      "round": 2,
+      "timeInRound": "3:28"
+    },
+    {
+      "date": "2022-02-11T00:00:00.000Z",
+      "opponent": "Dayerlin Colmenares",
+      "opponentSlug": "282109-dayerlin-colmenares",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Lux Fight League 20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-15T00:00:00.000Z",
+      "opponent": "Victoria Alba",
+      "opponentSlug": "302866-victoria-alba",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Lux Fight League 17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-25T00:00:00.000Z",
+      "opponent": "Hannah Ramos",
+      "opponentSlug": "288219-hannah-ramos",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Lux Fight League 14",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-18T00:00:00.000Z",
+      "opponent": "Andrea Ceballos",
+      "opponentSlug": "222946-andrea-ceballos",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-16T23:59:35.770Z"
+}

@@ -1,0 +1,242 @@
+{
+  "slug": "125815-alessandro-costa",
+  "name": "Alessandro Costa",
+  "nickname": "Nono",
+  "aliases": [],
+  "recordPro": {
+    "wins": 15,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 163,
+  "reachCm": 170,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1996-01-28",
+  "nationality": "Manaus, Amazonas, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/125815-alessandro-costa",
+  "recentFights": [
+    {
+      "date": "2026-04-04T00:00:00.000Z",
+      "opponent": "Stewart Nicoll",
+      "opponentSlug": "189829-stewart-nicoll",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "138212-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "4:56"
+    },
+    {
+      "date": "2025-09-13T00:00:00.000Z",
+      "opponent": "Alden Coria",
+      "opponentSlug": "111613-alden-coria",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "126286-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2024-05-04T00:00:00.000Z",
+      "opponent": "Kevin Borjas",
+      "opponentSlug": "115634-kevin-borias-olea",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 301: Pantoja vs. Erceg",
+      "eventSlug": "109604-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2023-11-11T00:00:00.000Z",
+      "opponent": "Steve Erceg",
+      "opponentSlug": "132326-stephen-erceg",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 295: Procházka vs. Pereira",
+      "eventSlug": "102959-ufc-295-jones-vs-miocic",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-17T00:00:00.000Z",
+      "opponent": "Jimmy Flick",
+      "opponentSlug": "jimmy-flick",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "99705-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "1:03"
+    },
+    {
+      "date": "2022-12-17T00:00:00.000Z",
+      "opponent": "Amir Albazi",
+      "opponentSlug": "84737-amir-albazi",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "92365-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "2:13"
+    },
+    {
+      "date": "2022-10-14T00:00:00.000Z",
+      "opponent": "Carlos Gómez",
+      "opponentSlug": "230418-carlos-gomez-kuriju",
+      "result": "win",
+      "method": "other",
+      "event": "Lux Fight League 27",
+      "eventSlug": "93845-lux-fight-league-27",
+      "round": 1,
+      "timeInRound": "0:12"
+    },
+    {
+      "date": "2022-07-26T00:00:00.000Z",
+      "opponent": "Andres Luna Martinetti",
+      "opponentSlug": "157021-juan-andres-luna",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Contender Series 2022",
+      "eventSlug": "89493-contender-series-2022-week-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-05T00:00:00.000Z",
+      "opponent": "Kike González",
+      "opponentSlug": "79117-kike-gonzalez-lokote",
+      "result": "win",
+      "method": "other",
+      "event": "Lux Fight League 18",
+      "eventSlug": "83483-lux-fight-league-18",
+      "round": 3,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2021-05-07T00:00:00.000Z",
+      "opponent": "Jorge Calvo",
+      "opponentSlug": "89605-jorge-calvo",
+      "result": "win",
+      "method": "other",
+      "event": "Lux Fight League 13",
+      "eventSlug": "79003-lux-fight-league-13",
+      "round": 1,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2020-09-18T00:00:00.000Z",
+      "opponent": "Luis Solorzano",
+      "opponentSlug": "92193-luis-solorzano",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Lux Fight League 10",
+      "eventSlug": "72244-lux-010",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-29T00:00:00.000Z",
+      "opponent": "Diego Ortiz",
+      "opponentSlug": "67124-diego-ortiz-el-terror",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Lux Fight League 7",
+      "eventSlug": "64727-lux-fight-league-007",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-19T00:00:00.000Z",
+      "opponent": "Alex Gonzalez",
+      "opponentSlug": "106486-alex-gonzalez",
+      "result": "win",
+      "method": "sub",
+      "event": "Lux Fight League 5",
+      "eventSlug": "61882-lux-005",
+      "round": 1,
+      "timeInRound": "1:19"
+    },
+    {
+      "date": "2018-11-17T00:00:00.000Z",
+      "opponent": "Ivan Hernandez-Flores",
+      "opponentSlug": "63980-ivan-flores-el-brasil",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Combate 28: Monterrey",
+      "eventSlug": "56572-combate-26",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-01-27T00:00:00.000Z",
+      "opponent": "Cesar Guerrero",
+      "opponentSlug": "90775-cesar-guerrero",
+      "result": "win",
+      "method": "sub",
+      "event": "Jasaji FL 18",
+      "eventSlug": "49761-jasaji-fl-18",
+      "round": 1,
+      "timeInRound": "0:36"
+    },
+    {
+      "date": "2017-12-09T00:00:00.000Z",
+      "opponent": "Daniel Corona",
+      "opponentSlug": "173278-daniel-saucedo-kiber",
+      "result": "win",
+      "method": "sub",
+      "event": "XFL 36",
+      "eventSlug": "49604-xfl-36",
+      "round": 1,
+      "timeInRound": "0:54"
+    },
+    {
+      "date": "2016-10-14T00:00:00.000Z",
+      "opponent": "Jonathan Cruz Santos",
+      "opponentSlug": "79120-jonathan-cruz",
+      "result": "win",
+      "method": "sub",
+      "event": "Xtreme Fighters Latino",
+      "eventSlug": "42625-xtreme-fighters-latino",
+      "round": 1,
+      "timeInRound": "2:21"
+    },
+    {
+      "date": "2016-06-11T00:00:00.000Z",
+      "opponent": "Uriel Cossio",
+      "opponentSlug": "96407-uriel-cossio",
+      "result": "loss",
+      "method": "tko",
+      "event": "MAX Fights: Battle On The Beach",
+      "eventSlug": "40271-max-fights-battle-on-the-beach",
+      "round": 2,
+      "timeInRound": "0:33"
+    },
+    {
+      "date": "2015-12-18T00:00:00.000Z",
+      "opponent": "Bulmaro Mezo",
+      "opponentSlug": "141208-bulmaro-mezo-toto",
+      "result": "win",
+      "method": "sub",
+      "event": "XFM Vol. 5: International Challenge",
+      "eventSlug": "36926-xfm-5-international-challenge",
+      "round": 1,
+      "timeInRound": "0:58"
+    },
+    {
+      "date": "2015-12-05T00:00:00.000Z",
+      "opponent": "Jorge Gonzalez",
+      "opponentSlug": "99401-jorge-gonzalez-la-mamba",
+      "result": "win",
+      "method": "sub",
+      "event": "MAX Fights: Batalla Por Los Niños",
+      "eventSlug": "36177-max-fights-batallas-por-los-nios",
+      "round": 1,
+      "timeInRound": "0:56"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:13:44.690Z"
+}

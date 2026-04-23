@@ -1,0 +1,143 @@
+{
+  "slug": "187676-chadricc-kindle-big-bad-chad",
+  "name": "Chadricc Kindle",
+  "nickname": "Big Bad Chad",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1990-01-03",
+  "nationality": "Los Angeles, California",
+  "url": "https://www.tapology.com/fightcenter/fighters/187676-chadricc-kindle-big-bad-chad",
+  "recentFights": [
+    {
+      "date": "2024-06-07T00:00:00.000Z",
+      "opponent": "Sean Rose",
+      "opponentSlug": "303693-sean-rose",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 173",
+      "eventSlug": "111770-cage-warriors-173",
+      "round": 1,
+      "timeInRound": "2:04"
+    },
+    {
+      "date": "2024-04-04T00:00:00.000Z",
+      "opponent": "Sean Sharaf",
+      "opponentSlug": "229173-sean-sharaf",
+      "result": "loss",
+      "method": "other",
+      "event": "Fight Club OC",
+      "eventSlug": "110475-fight-club-oc",
+      "round": 1,
+      "timeInRound": "4:31"
+    },
+    {
+      "date": "2024-02-23T00:00:00.000Z",
+      "opponent": "Von Simons",
+      "opponentSlug": "184038-devon-simmons",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 166",
+      "eventSlug": "108289-cage-warriors-166",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-23T00:00:00.000Z",
+      "opponent": "Jureall Simmons",
+      "opponentSlug": "64920-jureall-simmons",
+      "result": "loss",
+      "method": "sub",
+      "event": "Epic Fighting 46",
+      "eventSlug": "80414-epic-fighting-46",
+      "round": 2,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2019-10-05T00:00:00.000Z",
+      "opponent": "Daniel Arpajon",
+      "opponentSlug": "148645-daniel-arpajon",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "SSP Fight Night 45",
+      "eventSlug": "63368-ssp-fight-night-45",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-25T00:00:00.000Z",
+      "opponent": "Gregory Morales",
+      "opponentSlug": "171061-gregory-morales",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "559 Fights 72",
+      "eventSlug": "60652-559-fights-72-mccottrell-vs-gomez",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-07T00:00:00.000Z",
+      "opponent": "Dewuan Rodriguez",
+      "opponentSlug": "75072-dewuan-rodriguez",
+      "result": "loss",
+      "method": "tko",
+      "event": "Hendo's Fight Night 2",
+      "eventSlug": "57028-hendo-s-fight-night-2",
+      "round": 1,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2018-07-20T00:00:00.000Z",
+      "opponent": "Juan Rubio",
+      "opponentSlug": "166895-juan-rubio-buddah",
+      "result": "win",
+      "method": "tko",
+      "event": "LFA 45: Silva vs. Barnes",
+      "eventSlug": "53786-lfa-45-silva-vs-barnes",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-15T00:00:00.000Z",
+      "opponent": "Chris Jimerson",
+      "opponentSlug": "191527-chris-jimerson",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fist Series",
+      "eventSlug": "54228-summerfist-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-09T00:00:00.000Z",
+      "opponent": "Justin Nunes",
+      "opponentSlug": "133612-justin-nunes",
+      "result": "win",
+      "method": "tko",
+      "event": "559 Fights 65",
+      "eventSlug": "53345-559-fights-65-gonzales-vs-hamilton",
+      "round": 3,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2018-05-19T00:00:00.000Z",
+      "opponent": "Roderick Antery",
+      "opponentSlug": "176855-roderick-antery",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Knockout MMA",
+      "eventSlug": "53278-knockout-mma-culpepper-vs-mellor",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:12:03.545Z"
+}

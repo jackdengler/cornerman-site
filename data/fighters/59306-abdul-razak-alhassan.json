@@ -1,0 +1,242 @@
+{
+  "slug": "59306-abdul-razak-alhassan",
+  "name": "Abdul Razak Alhassan",
+  "nickname": "Judo Thunder",
+  "aliases": [],
+  "recordPro": {
+    "wins": 12,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": 185,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1985-08-11",
+  "nationality": "Minneapolis, Minnesota, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/59306-abdul-razak-alhassan",
+  "recentFights": [
+    {
+      "date": "2025-01-11T00:00:00.000Z",
+      "opponent": "César Almeida",
+      "opponentSlug": "126015-csar-almeida",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "118450-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "4:16"
+    },
+    {
+      "date": "2024-07-13T00:00:00.000Z",
+      "opponent": "Cody Brundage",
+      "opponentSlug": "169818-cody-brundage",
+      "result": "nc",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "111798-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2023-10-07T00:00:00.000Z",
+      "opponent": "Joe Pyfer",
+      "opponentSlug": "144942-joseph-pyfer",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "101866-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "2:05"
+    },
+    {
+      "date": "2023-01-14T00:00:00.000Z",
+      "opponent": "Claudio Ribeiro",
+      "opponentSlug": "149468-claudio-ribeiro",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "93279-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "0:28"
+    },
+    {
+      "date": "2022-02-19T00:00:00.000Z",
+      "opponent": "Joaquin Buckley",
+      "opponentSlug": "55022-joaquin-buckley",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "83406-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-28T00:00:00.000Z",
+      "opponent": "Alessio Di Chirico",
+      "opponentSlug": "74325-alessio-di-chirico",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "79108-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "0:17"
+    },
+    {
+      "date": "2021-04-17T00:00:00.000Z",
+      "opponent": "Jacob Malkoun",
+      "opponentSlug": "111323-jacob-malkoun",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "76103-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-11-14T00:00:00.000Z",
+      "opponent": "Khaos Williams",
+      "opponentSlug": "97154-kalinn-williams",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "71846-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2020-07-15T00:00:00.000Z",
+      "opponent": "Mounir Lazzez",
+      "opponentSlug": "26813-mounir-lazzez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "70017-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-08T00:00:00.000Z",
+      "opponent": "Niko Price",
+      "opponentSlug": "22461-nico-price",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 228: Woodley vs. Till",
+      "eventSlug": "53597-ufc-228",
+      "round": 1,
+      "timeInRound": "0:43"
+    },
+    {
+      "date": "2018-01-20T00:00:00.000Z",
+      "opponent": "Sabah Homasi",
+      "opponentSlug": "sabah-homasi-the-punisher",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 220: Miocic vs. N'Gannou",
+      "eventSlug": "48687-ufc-220",
+      "round": 1,
+      "timeInRound": "3:47"
+    },
+    {
+      "date": "2017-12-02T00:00:00.000Z",
+      "opponent": "Sabah Homasi",
+      "opponentSlug": "sabah-homasi-the-punisher",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 218: Holloway vs. Aldo 2",
+      "eventSlug": "47255-ufc-218",
+      "round": 1,
+      "timeInRound": "4:21"
+    },
+    {
+      "date": "2017-05-28T00:00:00.000Z",
+      "opponent": "Omari Akhmedov",
+      "opponentSlug": "40111-omari-akhmedov",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC Fight Night 109",
+      "eventSlug": "44414-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-19T00:00:00.000Z",
+      "opponent": "Charlie Ward",
+      "opponentSlug": "66418-charlie-ward",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night 99",
+      "eventSlug": "41367-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "0:53"
+    },
+    {
+      "date": "2016-10-14T00:00:00.000Z",
+      "opponent": "Jos Eichelberger",
+      "opponentSlug": "15001-jos-eichelberger",
+      "result": "win",
+      "method": "other",
+      "event": "Legacy FC 61",
+      "eventSlug": "41417-legacy-fc-61-peterson-vs-de-la-rosa",
+      "round": 1,
+      "timeInRound": "0:57"
+    },
+    {
+      "date": "2016-08-13T00:00:00.000Z",
+      "opponent": "Ken Jackson",
+      "opponentSlug": "4953-ken-jackson",
+      "result": "win",
+      "method": "tko",
+      "event": "Rage in the Cage OKC 47",
+      "eventSlug": "40138-rage-in-the-cage-okc-47",
+      "round": 1,
+      "timeInRound": "0:40"
+    },
+    {
+      "date": "2015-09-25T00:00:00.000Z",
+      "opponent": "Bryce Shepard-Mejia",
+      "opponentSlug": "105490-bryce-shepard-mejia",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 143",
+      "eventSlug": "34466-bellator-143",
+      "round": 1,
+      "timeInRound": "1:26"
+    },
+    {
+      "date": "2015-02-28T00:00:00.000Z",
+      "opponent": "Matt McKeon",
+      "opponentSlug": "30832-matt-mckeon",
+      "result": "win",
+      "method": "tko",
+      "event": "Rocks Xtreme MMA 12",
+      "eventSlug": "29995-rocks-xtreme-mma-12",
+      "round": 1,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2014-03-07T00:00:00.000Z",
+      "opponent": "Matt Jones",
+      "opponentSlug": "18171-matthew-jones",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 111",
+      "eventSlug": "21758-bellator-dantas-vs-silva",
+      "round": 1,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2013-11-23T00:00:00.000Z",
+      "opponent": "Kolby Adams",
+      "opponentSlug": "27443-kolby-adams",
+      "result": "win",
+      "method": "tko",
+      "event": "XKO 20",
+      "eventSlug": "21230-xko-20",
+      "round": 1,
+      "timeInRound": "0:25"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:14:28.584Z"
+}

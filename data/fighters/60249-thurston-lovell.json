@@ -1,0 +1,70 @@
+{
+  "slug": "60249-thurston-lovell",
+  "name": "Thurston Lovell",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 180,
+  "reachCm": 193,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1995-06-15",
+  "nationality": "Davenport Iowa",
+  "url": "https://www.tapology.com/fightcenter/fighters/60249-thurston-lovell",
+  "recentFights": [
+    {
+      "date": "2015-11-14T00:00:00.000Z",
+      "opponent": "Montel Jackson",
+      "opponentSlug": "89335-montel-jackson",
+      "result": "loss",
+      "method": "other",
+      "event": "Pure FC 2",
+      "eventSlug": "35363-pure-fc-2",
+      "round": 1,
+      "timeInRound": "0:39"
+    },
+    {
+      "date": "2014-12-06T00:00:00.000Z",
+      "opponent": "Gio Arvizu",
+      "opponentSlug": "13554-gio-arvizu",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-07-26T00:00:00.000Z",
+      "opponent": "Aurtan Daley",
+      "opponentSlug": "115180-aurtan-daley",
+      "result": "win",
+      "method": "sub",
+      "event": "KOTC: Damage Report",
+      "eventSlug": "26141-kotc-damage-report",
+      "round": 1,
+      "timeInRound": "1:21"
+    },
+    {
+      "date": "2013-12-14T00:00:00.000Z",
+      "opponent": "Nicholas Lasure",
+      "opponentSlug": "60248-nicholas-lasure",
+      "result": "win",
+      "method": "sub",
+      "event": "Stateline Warriors 59",
+      "eventSlug": "21767-stateline-warriors-59",
+      "round": 2,
+      "timeInRound": "1:36"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:38:04.213Z"
+}

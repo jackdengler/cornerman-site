@@ -1,0 +1,231 @@
+{
+  "slug": "32133-steve-mowry",
+  "name": "Steve Mowry",
+  "nickname": "Tall",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 2,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 203,
+  "reachCm": 201,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1992-07-14",
+  "nationality": "Pittsburgh, Pennsylvania",
+  "url": "https://www.tapology.com/fightcenter/fighters/32133-steve-mowry",
+  "recentFights": [
+    {
+      "date": "2024-04-04T00:00:00.000Z",
+      "opponent": "Oleg Popov",
+      "opponentSlug": "117155-oleg-popov",
+      "result": "loss",
+      "method": "other",
+      "event": "PFL 1: 2024 Regular Season",
+      "eventSlug": "110613-pfl-1-2024-regular-season",
+      "round": 2,
+      "timeInRound": "3:47"
+    },
+    {
+      "date": "2023-08-11T00:00:00.000Z",
+      "opponent": "Valentin Moldavsky",
+      "opponentSlug": "95055-valentin-moldavsky",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bellator 298",
+      "eventSlug": "101316-bellator-mma",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-04T00:00:00.000Z",
+      "opponent": "Ali Isaev",
+      "opponentSlug": "130712-ali-isaev",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "Bellator 290",
+      "eventSlug": "95280-bellator-290-bader-vs-emelianenko-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-12T00:00:00.000Z",
+      "opponent": "Valentin Moldavsky",
+      "opponentSlug": "95055-valentin-moldavsky",
+      "result": "nc",
+      "method": "other",
+      "event": "Bellator 284",
+      "eventSlug": "90026-bellator-284",
+      "round": 1,
+      "timeInRound": "0:54"
+    },
+    {
+      "date": "2021-11-12T00:00:00.000Z",
+      "opponent": "Rakim Cleveland",
+      "opponentSlug": "14025-rankim-cleveland",
+      "result": "win",
+      "method": "sub",
+      "event": "Bellator 271",
+      "eventSlug": "83243-bellator-271-cyborg-vs-kavanagh",
+      "round": 1,
+      "timeInRound": "3:28"
+    },
+    {
+      "date": "2021-04-16T00:00:00.000Z",
+      "opponent": "Shaun Asher",
+      "opponentSlug": "20008-shaun-asher-sugar",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 257",
+      "eventSlug": "76830-bellator-mma",
+      "round": 1,
+      "timeInRound": "0:55"
+    },
+    {
+      "date": "2020-10-15T00:00:00.000Z",
+      "opponent": "Shawn Teed",
+      "opponentSlug": "69688-shawn-teed",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 249",
+      "eventSlug": "72502-bellator-247-cyborg-vs-blencowe",
+      "round": 1,
+      "timeInRound": "4:22"
+    },
+    {
+      "date": "2019-10-25T00:00:00.000Z",
+      "opponent": "Gokhan Saricam",
+      "opponentSlug": "203358-gokhan-saricam",
+      "result": "win",
+      "method": "sub",
+      "event": "Bellator 231",
+      "eventSlug": "62502-bellator-231",
+      "round": 2,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2019-02-15T00:00:00.000Z",
+      "opponent": "Darion Abbey",
+      "opponentSlug": "155924-darion-abbey",
+      "result": "win",
+      "method": "sub",
+      "event": "Bellator 215",
+      "eventSlug": "56985-bellator-215-mitrione-vs-kharitonov",
+      "round": 1,
+      "timeInRound": "1:27"
+    },
+    {
+      "date": "2018-09-21T00:00:00.000Z",
+      "opponent": "Ben Moa",
+      "opponentSlug": "131438-ben-moa",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 205",
+      "eventSlug": "54285-bellator-205",
+      "round": 1,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2018-04-06T00:00:00.000Z",
+      "opponent": "Said Sowma",
+      "opponentSlug": "183184-said-sowma",
+      "result": "win",
+      "method": "other",
+      "event": "Titan FC 49",
+      "eventSlug": "51347-titan-fc-49-gomez-vs-soares",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2017-12-15T00:00:00.000Z",
+      "opponent": "Frank Tate",
+      "opponentSlug": "52432-frank-tate",
+      "result": "win",
+      "method": "sub",
+      "event": "Titan FC 47",
+      "eventSlug": "49260-titan-fc-47",
+      "round": 1,
+      "timeInRound": "2:31"
+    },
+    {
+      "date": "2017-08-18T00:00:00.000Z",
+      "opponent": "Dustin Clements",
+      "opponentSlug": "84614-dustin-clements",
+      "result": "win",
+      "method": "other",
+      "event": "Titan FC 45",
+      "eventSlug": "47023-titan-fc-45-araujo-vs-capitulino",
+      "round": 1,
+      "timeInRound": "1:21"
+    },
+    {
+      "date": "2016-09-09T00:00:00.000Z",
+      "opponent": "Marino Eatman",
+      "opponentSlug": "86098-marino-eatman",
+      "result": "win",
+      "method": "sub",
+      "event": "Titan FC 41",
+      "eventSlug": "40723-titan-fc-41",
+      "round": 3,
+      "timeInRound": "2:49"
+    },
+    {
+      "date": "2015-06-06T00:00:00.000Z",
+      "opponent": "Chris Araujo",
+      "opponentSlug": "101577-chris-araujo",
+      "result": "win",
+      "method": "sub",
+      "event": "GOTC MMA 17",
+      "eventSlug": "31365-gotc-mma-17",
+      "round": 2,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2015-01-17T00:00:00.000Z",
+      "opponent": "JD Ramsey",
+      "opponentSlug": "48118-jd-ramsey",
+      "result": "win",
+      "method": "sub",
+      "event": "Caged Madness 33",
+      "eventSlug": "28662-caged-madness-33",
+      "round": 2,
+      "timeInRound": "1:59"
+    },
+    {
+      "date": "2014-06-14T00:00:00.000Z",
+      "opponent": "Tebaris Gordon",
+      "opponentSlug": "56126-tebaris-gordon",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Gladiator's of the Cage",
+      "eventSlug": "23951-gladiators-of-the-cage-north-shores-rise-to-power-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-02-08T00:00:00.000Z",
+      "opponent": "Tracy Wiant",
+      "opponentSlug": "70877-tracy-wiant",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-11-23T00:00:00.000Z",
+      "opponent": "Andi Iftiu",
+      "opponentSlug": "70878-andi-iftiu",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:59:54.845Z"
+}

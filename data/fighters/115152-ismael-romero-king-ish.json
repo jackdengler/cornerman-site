@@ -1,0 +1,70 @@
+{
+  "slug": "115152-ismael-romero-king-ish",
+  "name": "Ismael Romero Pugh",
+  "nickname": "King Ish",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "San Diego, California",
+  "url": "https://www.tapology.com/fightcenter/fighters/115152-ismael-romero-king-ish",
+  "recentFights": [
+    {
+      "date": "2021-11-20T00:00:00.000Z",
+      "opponent": "Lorenzo Figueroa",
+      "opponentSlug": "316599-lorenzo-figueroa",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "War by the Shore 3",
+      "eventSlug": "84317-war-by-the-shore-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-29T00:00:00.000Z",
+      "opponent": "Esley Colson",
+      "opponentSlug": "93916-esley-colson",
+      "result": "win",
+      "method": "other",
+      "event": "209 Beatdown 2",
+      "eventSlug": "45440-209-beatdown-2",
+      "round": 2,
+      "timeInRound": "2:42"
+    },
+    {
+      "date": "2016-02-06T00:00:00.000Z",
+      "opponent": "Cameron Domondon",
+      "opponentSlug": "108856-cameron-domondon",
+      "result": "win",
+      "method": "tko",
+      "event": "Dragon House 22",
+      "eventSlug": "37780-dragon-house-22",
+      "round": 1,
+      "timeInRound": "0:24"
+    },
+    {
+      "date": "2015-11-08T00:00:00.000Z",
+      "opponent": "Russell Jones",
+      "opponentSlug": "90819-russell-jones",
+      "result": "loss",
+      "method": "tko",
+      "event": "Gallus FC 7",
+      "eventSlug": "36221-gallus-fc-7",
+      "round": 1,
+      "timeInRound": "1:09"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:44:35.559Z"
+}

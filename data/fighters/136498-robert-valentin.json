@@ -1,0 +1,253 @@
+{
+  "slug": "136498-robert-valentin",
+  "name": "Robert Valentin",
+  "nickname": "Robzilla",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": 196,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1995-03-31",
+  "nationality": "Switzerland",
+  "url": "https://www.tapology.com/fightcenter/fighters/136498-robert-valentin",
+  "recentFights": [
+    {
+      "date": "2026-04-18T00:00:00.000Z",
+      "opponent": "Julien Leblanc",
+      "opponentSlug": "24714-julien-leblanc",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "139670-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-07-19T00:00:00.000Z",
+      "opponent": "Ateba Gautier",
+      "opponentSlug": "283766-ateba-abega-gautier",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "eventSlug": "127441-ufc-318",
+      "round": 1,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2025-04-05T00:00:00.000Z",
+      "opponent": "Torrez Finney",
+      "opponentSlug": "272716-torrez-finney",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "122672-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-08-24T00:00:00.000Z",
+      "opponent": "Ryan Loder",
+      "opponentSlug": "292593-ryan-loder",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "114902-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2024-04-09T00:00:00.000Z",
+      "opponent": "Paddy McCorry",
+      "opponentSlug": "135607-paddy-henderson",
+      "result": "win",
+      "method": "sub",
+      "event": "The Ultimate Fighter 32",
+      "eventSlug": "117196-the-ultimate-fighter-32-grasso-vs-shevchenko",
+      "round": 1,
+      "timeInRound": "3:35"
+    },
+    {
+      "date": "2024-03-20T00:00:00.000Z",
+      "opponent": "Giannis Bachar",
+      "opponentSlug": "123989-giannis-basar",
+      "result": "win",
+      "method": "other",
+      "event": "The Ultimate Fighter 32",
+      "eventSlug": "117194-the-ultimate-fighter-32-grasso-vs-shevchenko",
+      "round": 1,
+      "timeInRound": "0:20"
+    },
+    {
+      "date": "2023-12-09T00:00:00.000Z",
+      "opponent": "Zoran Đođ",
+      "opponentSlug": "60549-zoran-dod",
+      "result": "win",
+      "method": "sub",
+      "event": "Lions FC 10",
+      "eventSlug": "104820-lions-fc-10",
+      "round": 1,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2023-07-08T00:00:00.000Z",
+      "opponent": "Samuil Shelest",
+      "opponentSlug": "153838-samuil-shelest",
+      "result": "win",
+      "method": "sub",
+      "event": "RCC: Intro 27",
+      "eventSlug": "102484-rcc-intro-27",
+      "round": 2,
+      "timeInRound": "4:51"
+    },
+    {
+      "date": "2023-04-07T00:00:00.000Z",
+      "opponent": "Pietro Penini",
+      "opponentSlug": "83259-pietro-penini",
+      "result": "win",
+      "method": "sub",
+      "event": "Ares FC 14: Lebout vs. Staropoli",
+      "eventSlug": "96199-ares-fc-14",
+      "round": 1,
+      "timeInRound": "3:49"
+    },
+    {
+      "date": "2022-11-03T00:00:00.000Z",
+      "opponent": "Pietro Penini",
+      "opponentSlug": "83259-pietro-penini",
+      "result": "nc",
+      "method": "other",
+      "event": "Ares FC 9: Lapilus vs. Ayoub 2",
+      "eventSlug": "88260-ares-fc-9",
+      "round": 2,
+      "timeInRound": "4:34"
+    },
+    {
+      "date": "2022-06-26T00:00:00.000Z",
+      "opponent": "Remco van den Brink",
+      "opponentSlug": "174026-remco-van-den-brink",
+      "result": "win",
+      "method": "other",
+      "event": "Levels Fight League 5",
+      "eventSlug": "89595-levels-fight-league-5",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2022-03-10T00:00:00.000Z",
+      "opponent": "Akhmed Salamov",
+      "opponentSlug": "216629-akhmed-salamov",
+      "result": "loss",
+      "method": "other",
+      "event": "Ares FC 4: Kruschewsky vs. Lapilus",
+      "eventSlug": "87017-ares-fc-4-lapilus-kruschewsky",
+      "round": 3,
+      "timeInRound": "4:46"
+    },
+    {
+      "date": "2021-10-23T00:00:00.000Z",
+      "opponent": "Djordie Rajic",
+      "opponentSlug": "318499-djordie-rajic",
+      "result": "win",
+      "method": "tko",
+      "event": "LIONS FC 9",
+      "eventSlug": "83234-lions-fc-4",
+      "round": 1,
+      "timeInRound": "0:39"
+    },
+    {
+      "date": "2021-05-30T00:00:00.000Z",
+      "opponent": "Joey Berkenbosch",
+      "opponentSlug": "123439-michael-berkenbosch",
+      "result": "win",
+      "method": "sub",
+      "event": "Levels Fight League 1",
+      "eventSlug": "78552-levels-fight-league-1",
+      "round": 1,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2019-02-16T00:00:00.000Z",
+      "opponent": "Djati Mélan",
+      "opponentSlug": "118662-djati-melan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Lions FC 8",
+      "eventSlug": "57627-lions-fc-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-01T00:00:00.000Z",
+      "opponent": "Ibo Aslan",
+      "opponentSlug": "151252-ibo-aslan",
+      "result": "loss",
+      "method": "other",
+      "event": "Austrian FC 8",
+      "eventSlug": "53571-austrian-fc-8",
+      "round": 3,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2018-05-12T00:00:00.000Z",
+      "opponent": "Mensur Alić",
+      "opponentSlug": "104273-mensur-alic",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "INNFERNO Fighting Championship 3",
+      "eventSlug": "53276-innferno-fighting-championship-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-10T00:00:00.000Z",
+      "opponent": "Mario Dengg",
+      "opponentSlug": "88976-mario-dengg",
+      "result": "win",
+      "method": "sub",
+      "event": "Aggrelin 19",
+      "eventSlug": "46914-aggrelin-19",
+      "round": 2,
+      "timeInRound": "4:02"
+    },
+    {
+      "date": "2017-07-02T00:00:00.000Z",
+      "opponent": "Jeroen Mullers",
+      "opponentSlug": "84113-jeroen-mullers",
+      "result": "win",
+      "method": "sub",
+      "event": "Vote MMA 6",
+      "eventSlug": "46828-vote-mma-6",
+      "round": 1,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2016-11-26T00:00:00.000Z",
+      "opponent": "Paul Batomene",
+      "opponentSlug": "67212-paul-batomene",
+      "result": "win",
+      "method": "sub",
+      "event": "We Love MMA 26",
+      "eventSlug": "37430-we-love-mma-26",
+      "round": 1,
+      "timeInRound": "3:05"
+    },
+    {
+      "date": "2016-07-17T00:00:00.000Z",
+      "opponent": "Vincent Schwarm",
+      "opponentSlug": "136499-vincent-schwarm",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Age of Cage 8",
+      "eventSlug": "39925-age-of-cage-8",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:52:33.620Z"
+}

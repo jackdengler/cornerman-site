@@ -1,0 +1,143 @@
+{
+  "slug": "186117-johnny-soto",
+  "name": "Johnny Soto",
+  "nickname": "Phantom",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 178,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1992-10-11",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/186117-johnny-soto",
+  "recentFights": [
+    {
+      "date": "2022-06-24T00:00:00.000Z",
+      "opponent": "Lucas Brennan",
+      "opponentSlug": "162427-lucas-brennan",
+      "result": "loss",
+      "method": "sub",
+      "event": "Bellator 282",
+      "eventSlug": "88076-bellator-282-mousasi-vs-eblen",
+      "round": 1,
+      "timeInRound": "3:34"
+    },
+    {
+      "date": "2021-07-16T00:00:00.000Z",
+      "opponent": "Adil Benjilany",
+      "opponentSlug": "61823-adil-benjilany",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bellator 262",
+      "eventSlug": "79368-bellator-262-velasquez-vs-kielholtz",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-07T00:00:00.000Z",
+      "opponent": "Weber Almeida",
+      "opponentSlug": "112608-weber-almeida",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bellator 258",
+      "eventSlug": "77132-bellator-258-archuleta-vs-pettis",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-29T00:00:00.000Z",
+      "opponent": "Jesus Mondragon",
+      "opponentSlug": "27088-jesus-mondragon-the-mongoose",
+      "result": "win",
+      "method": "sub",
+      "event": "CCW 18: Ragnarok",
+      "eventSlug": "68060-ccw-18",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2019-12-14T00:00:00.000Z",
+      "opponent": "Vrendavena das Herdrick",
+      "opponentSlug": "247960-vrendavena-das-herdrick",
+      "result": "win",
+      "method": "tko",
+      "event": "CCW 17: Fortitude",
+      "eventSlug": "65463-ccw-17-fortitude",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-07T00:00:00.000Z",
+      "opponent": "Chris Sandt",
+      "opponentSlug": "27823-chris-sandt-the-killer-skater",
+      "result": "win",
+      "method": "sub",
+      "event": "CCW 15: Regulators",
+      "eventSlug": "62114-ccw-15-regulators",
+      "round": 1,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2019-05-25T00:00:00.000Z",
+      "opponent": "Danny Silva",
+      "opponentSlug": "174093-danny-silva",
+      "result": "loss",
+      "method": "other",
+      "event": "CFFC 75",
+      "eventSlug": "59188-cffc-75",
+      "round": 3,
+      "timeInRound": "4:15"
+    },
+    {
+      "date": "2019-01-20T00:00:00.000Z",
+      "opponent": "Bryce Callaghan",
+      "opponentSlug": "186484-bryce-callaghan",
+      "result": "win",
+      "method": "tko",
+      "event": "CCW 10",
+      "eventSlug": "58471-ccw-10",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-16T00:00:00.000Z",
+      "opponent": "Angel Guarardo",
+      "opponentSlug": "171627-angel-guarardo",
+      "result": "win",
+      "method": "other",
+      "event": "CCW 8",
+      "eventSlug": "54764-ccw-8",
+      "round": 1,
+      "timeInRound": "1:46"
+    },
+    {
+      "date": "2018-06-10T00:00:00.000Z",
+      "opponent": "Jace Nguyen",
+      "opponentSlug": "193630-jace-nguyen",
+      "result": "win",
+      "method": "tko",
+      "event": "CCW 6",
+      "eventSlug": "53893-ccw-6",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-22T00:00:00.000Z",
+      "opponent": "Chris Fluke",
+      "opponentSlug": "33808-chris-fluke",
+      "result": "win",
+      "method": "sub",
+      "event": "CCW 5",
+      "eventSlug": "52849-ccw-5",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-21T06:14:21.543Z"
+}

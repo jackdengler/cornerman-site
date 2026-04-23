@@ -1,0 +1,165 @@
+{
+  "slug": "194896-jack-james",
+  "name": "Jack James",
+  "nickname": "Bricktop",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/194896-jack-james",
+  "recentFights": [
+    {
+      "date": "2025-03-14T00:00:00.000Z",
+      "opponent": "Mike Mathetha",
+      "opponentSlug": "166857-mike-diamond-blood",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Beatdown Promotions 10",
+      "eventSlug": "120785-beatdown-promotions-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-11T00:00:00.000Z",
+      "opponent": "Adam Cook",
+      "opponentSlug": "54927-adam-cook",
+      "result": "win",
+      "method": "other",
+      "event": "Beatdown Promotions 7",
+      "eventSlug": "112020-beatdown-promotions-7-battle-in-the-north",
+      "round": 3,
+      "timeInRound": "2:16"
+    },
+    {
+      "date": "2024-03-09T00:00:00.000Z",
+      "opponent": "Jamie Sporne",
+      "opponentSlug": "147911-jamie-sporne",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Beatdown Promotions 6",
+      "eventSlug": "107332-beatdown-promotions-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-18T00:00:00.000Z",
+      "opponent": "Jonathan Micallef",
+      "opponentSlug": "238862-jonathan-micallef",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Hex Fight Series 27",
+      "eventSlug": "101993-hex-fight-series-27",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-24T00:00:00.000Z",
+      "opponent": "Tsubasa Morii",
+      "opponentSlug": "333024-tsubasa-morii",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Beatdown Promotions 4",
+      "eventSlug": "99253-beatdown-promotions-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-04T00:00:00.000Z",
+      "opponent": "Edimar Teixeira",
+      "opponentSlug": "69214-edimar-teixeira",
+      "result": "win",
+      "method": "other",
+      "event": "Beatdown Promotions 3",
+      "eventSlug": "94613-beatdown-promotions-3",
+      "round": 2,
+      "timeInRound": "3:08"
+    },
+    {
+      "date": "2022-10-15T00:00:00.000Z",
+      "opponent": "Kevin Piras",
+      "opponentSlug": "288822-kevin-piras",
+      "result": "win",
+      "method": "other",
+      "event": "Beatdown Promotions 2",
+      "eventSlug": "91760-beatdown-promotions-2",
+      "round": 1,
+      "timeInRound": "3:39"
+    },
+    {
+      "date": "2021-11-20T00:00:00.000Z",
+      "opponent": "Darcy Vendy",
+      "opponentSlug": "48380-darcy-vendy",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 63",
+      "eventSlug": "82991-eternal-mma-62",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-11T00:00:00.000Z",
+      "opponent": "Nick Kepu",
+      "opponentSlug": "124557-nick-kefu",
+      "result": "win",
+      "method": "sub",
+      "event": "Eternal MMA 61",
+      "eventSlug": "82273-eternal-mma-61",
+      "round": 2,
+      "timeInRound": "3:47"
+    },
+    {
+      "date": "2020-12-05T00:00:00.000Z",
+      "opponent": "JayJay Te Huia",
+      "opponentSlug": "251154-jayjay-te-huia-tapu",
+      "result": "win",
+      "method": "other",
+      "event": "Coastal Combat 8",
+      "eventSlug": "72851-coastal-combat-8",
+      "round": 2,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2019-09-07T00:00:00.000Z",
+      "opponent": "Michael Moss",
+      "opponentSlug": "61093-michael-moss",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Coastal Combat 6",
+      "eventSlug": "60757-coastal-combat-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-04T00:00:00.000Z",
+      "opponent": "Sam Forster",
+      "opponentSlug": "222106-sam-forster",
+      "result": "win",
+      "method": "tko",
+      "event": "Path to Hex 9",
+      "eventSlug": "58752-path-to-hex-9",
+      "round": 1,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2018-09-08T00:00:00.000Z",
+      "opponent": "Matt Maddock",
+      "opponentSlug": "194895-matt-maddock",
+      "result": "win",
+      "method": "sub",
+      "event": "Coastal Combat 4",
+      "eventSlug": "54013-coastal-combat-4",
+      "round": 2,
+      "timeInRound": "2:45"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:54:06.045Z"
+}

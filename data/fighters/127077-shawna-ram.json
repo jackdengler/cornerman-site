@@ -1,0 +1,88 @@
+{
+  "slug": "127077-shawna-ram",
+  "name": "Shawna Ram",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 160,
+  "reachCm": null,
+  "weightClass": "Atomweight",
+  "stance": null,
+  "dateOfBirth": "1986-05-26",
+  "nationality": "Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/127077-shawna-ram",
+  "recentFights": [
+    {
+      "date": "2018-10-05T00:00:00.000Z",
+      "opponent": "Chelsea LaGrasse",
+      "opponentSlug": "139375-chelsea-lagrasse",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Mamba Fight Night 5",
+      "eventSlug": "55056-mamba-fight-night-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-08T00:00:00.000Z",
+      "opponent": "Jamey-Lyn Horth",
+      "opponentSlug": "148703-jamey-lyn-horth",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "BFL 50: Next Wave",
+      "eventSlug": "46951-bfl-50",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-02-18T00:00:00.000Z",
+      "opponent": "Sam Hughes",
+      "opponentSlug": "140901-sam-hughes",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "BFL 47",
+      "eventSlug": "43967-battlefield-fight-league-47",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-22T00:00:00.000Z",
+      "opponent": "Elysse Stevenson",
+      "opponentSlug": "62563-elyse-stevenson",
+      "result": "win",
+      "method": "sub",
+      "event": "Mamba Fight Night 3",
+      "eventSlug": "42486-mamba-fight-night-3",
+      "round": 3,
+      "timeInRound": "0:52"
+    },
+    {
+      "date": "2016-09-17T00:00:00.000Z",
+      "opponent": "Stephanie Murray",
+      "opponentSlug": "113900-stephanie-murray",
+      "result": "win",
+      "method": "sub",
+      "event": "BFL 45: Ascension",
+      "eventSlug": "41391-bfl-45",
+      "round": 1,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2016-03-12T00:00:00.000Z",
+      "opponent": "Ali Cranmer",
+      "opponentSlug": "127078-ali-cranmer",
+      "result": "win",
+      "method": "tko",
+      "event": "BFL 42: Harriott vs. Anderson II",
+      "eventSlug": "38556-bfl-42-harriott-vs-anderson-ii",
+      "round": 2,
+      "timeInRound": "2:55"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:02:27.787Z"
+}

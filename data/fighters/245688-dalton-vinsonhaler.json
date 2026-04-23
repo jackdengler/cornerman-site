@@ -1,0 +1,59 @@
+{
+  "slug": "245688-dalton-vinsonhaler",
+  "name": "Dalton Vinsonhaler",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1994-09-05",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/245688-dalton-vinsonhaler",
+  "recentFights": [
+    {
+      "date": "2020-08-01T00:00:00.000Z",
+      "opponent": "Levi Stevicks",
+      "opponentSlug": "245304-levi-stevicks",
+      "result": "win",
+      "method": "sub",
+      "event": "KCC: Charity Brawl 2",
+      "eventSlug": "71702-kcc-charity-brawl-2",
+      "round": 1,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2020-02-22T00:00:00.000Z",
+      "opponent": "Ralph Hernandez III",
+      "opponentSlug": "190165-ralph-hernandez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shamrock FC 328",
+      "eventSlug": "64517-shamrock-fc-328",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-06T00:00:00.000Z",
+      "opponent": "Jeff Perkins",
+      "opponentSlug": "170665-jeff-perkins",
+      "result": "win",
+      "method": "other",
+      "event": "Ultimate Blue Corner Battles",
+      "eventSlug": "64574-ultimate-blue-corner-battles",
+      "round": 1,
+      "timeInRound": "1:33"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:44:58.060Z"
+}

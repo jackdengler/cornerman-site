@@ -1,0 +1,77 @@
+{
+  "slug": "35566-mario-mancillas",
+  "name": "Mario Mancillas",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 183,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1992-04-22",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/35566-mario-mancillas",
+  "recentFights": [
+    {
+      "date": "2021-10-29T00:00:00.000Z",
+      "opponent": "Sedriques Dumas",
+      "opponentSlug": "188574-sedriques-dumas",
+      "result": "loss",
+      "method": "other",
+      "event": "AKA 18",
+      "eventSlug": "83851-aka-18",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2021-06-25T00:00:00.000Z",
+      "opponent": "Earnest Singleton",
+      "opponentSlug": "69048-earnest-singleton",
+      "result": "win",
+      "method": "dec-split",
+      "event": "AKA 16",
+      "eventSlug": "79638-aka-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-08-01T00:00:00.000Z",
+      "opponent": "Rick Gonzalez",
+      "opponentSlug": "37209-rick-gonzalez",
+      "result": "loss",
+      "method": "tko",
+      "event": "SCC 8: Wiltz vs. Galavez",
+      "eventSlug": "25331-superior-cc-8",
+      "round": 3,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2013-11-08T00:00:00.000Z",
+      "opponent": "Brad Bell",
+      "opponentSlug": "34071-brad-bell",
+      "result": "win",
+      "method": "other",
+      "event": "SCC 5: Pasadena Salute To The Troops",
+      "eventSlug": "20707-scc-v",
+      "round": 3,
+      "timeInRound": "0:10"
+    },
+    {
+      "date": "2012-09-28T00:00:00.000Z",
+      "opponent": "Chris Istre",
+      "opponentSlug": "35567-chris-istre",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Combat 11",
+      "eventSlug": "15601-cage-combat-11",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:53:13.961Z"
+}

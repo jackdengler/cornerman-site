@@ -1,0 +1,121 @@
+{
+  "slug": "331443-adam-garcia",
+  "name": "Adam Garcia",
+  "nickname": "Vista",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 181,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/331443-adam-garcia",
+  "recentFights": [
+    {
+      "date": "2025-03-22T00:00:00.000Z",
+      "opponent": "Allan Stott",
+      "opponentSlug": "170926-allan-stott",
+      "result": "loss",
+      "method": "other",
+      "event": "LXF 23",
+      "eventSlug": "124781-lxf-23",
+      "round": 2,
+      "timeInRound": "0:48"
+    },
+    {
+      "date": "2024-10-26T00:00:00.000Z",
+      "opponent": "Anthony Desilva",
+      "opponentSlug": "215574-anthony-desilva",
+      "result": "loss",
+      "method": "tko",
+      "event": "LXF 20",
+      "eventSlug": "117655-lxf-20",
+      "round": 1,
+      "timeInRound": "0:54"
+    },
+    {
+      "date": "2024-06-20T00:00:00.000Z",
+      "opponent": "Curtis Hill",
+      "opponentSlug": "77751-curtis-hill",
+      "result": "win",
+      "method": "tko",
+      "event": "Fight Club OC",
+      "eventSlug": "110476-fight-club-oc",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-10-21T00:00:00.000Z",
+      "opponent": "Zack Kraschinsky",
+      "opponentSlug": "103129-zack-kraschinsky",
+      "result": "loss",
+      "method": "sub",
+      "event": "UNF 13",
+      "eventSlug": "106295-unf-13",
+      "round": 2,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2023-05-13T00:00:00.000Z",
+      "opponent": "Garrett Williams",
+      "opponentSlug": "108008-garrett-williams",
+      "result": "loss",
+      "method": "sub",
+      "event": "UNF 7",
+      "eventSlug": "101013-unf-7",
+      "round": 2,
+      "timeInRound": "3:33"
+    },
+    {
+      "date": "2023-01-06T00:00:00.000Z",
+      "opponent": "Cedric Katambwa",
+      "opponentSlug": "151861-cedric-katambwa",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 149: Bunes vs. Horiuchi",
+      "eventSlug": "95845-lfa-149-bunes-vs-horiuchi",
+      "round": 1,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2022-10-27T00:00:00.000Z",
+      "opponent": "Kyusam Hwang",
+      "opponentSlug": "331441-kyusam-hwang",
+      "result": "win",
+      "method": "other",
+      "event": "Radcliffe vs. Gerardo",
+      "eventSlug": "94351-radcliffe-vs-gerardo",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2022-06-05T00:00:00.000Z",
+      "opponent": "Jonathan Santana",
+      "opponentSlug": "197715-jonathan-santana",
+      "result": "win",
+      "method": "sub",
+      "event": "Royal Combat 2",
+      "eventSlug": "89910-royal-combat",
+      "round": 1,
+      "timeInRound": "1:41"
+    },
+    {
+      "date": "2022-04-03T00:00:00.000Z",
+      "opponent": "Omar Farag Amer",
+      "opponentSlug": "237473-omar-farag-amer",
+      "result": "win",
+      "method": "tko",
+      "event": "Royal Combat 1",
+      "eventSlug": "86897-royal-combat-1",
+      "round": 2,
+      "timeInRound": "1:04"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:42:05.982Z"
+}

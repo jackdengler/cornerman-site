@@ -1,0 +1,143 @@
+{
+  "slug": "211798-richard-daffron",
+  "name": "Richard Daffron",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1999-04-10",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/211798-richard-daffron",
+  "recentFights": [
+    {
+      "date": "2025-05-31T00:00:00.000Z",
+      "opponent": "Zlatko Skuljan",
+      "opponentSlug": "216331-zlatko-skuljan",
+      "result": "loss",
+      "method": "tko",
+      "event": "HRMMA 125: Fight Night Bowling Green",
+      "eventSlug": "121400-hrmma-125",
+      "round": 1,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2024-09-20T00:00:00.000Z",
+      "opponent": "Steve Collins",
+      "opponentSlug": "307378-steve-collins",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 193: Bowers vs. Borisova",
+      "eventSlug": "115812-lfa-193",
+      "round": 1,
+      "timeInRound": "3:33"
+    },
+    {
+      "date": "2024-04-13T00:00:00.000Z",
+      "opponent": "Chris Polanco",
+      "opponentSlug": "249211-chris-polanco",
+      "result": "win",
+      "method": "other",
+      "event": "Inner Strength MMA 25",
+      "eventSlug": "106114-inner-strength-mma-25",
+      "round": 2,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2024-01-13T00:00:00.000Z",
+      "opponent": "Darren Hamilton",
+      "opponentSlug": "308619-darren-hamilton",
+      "result": "win",
+      "method": "sub",
+      "event": "Warrior Games 17",
+      "eventSlug": "107450-warrior-games-17",
+      "round": 1,
+      "timeInRound": "1:18"
+    },
+    {
+      "date": "2023-08-05T00:00:00.000Z",
+      "opponent": "Jeremy Landowski",
+      "opponentSlug": "291631-jeremy-landowski",
+      "result": "loss",
+      "method": "other",
+      "event": "Inner Strength MMA 24",
+      "eventSlug": "93169-inner-strength-mma-23",
+      "round": 2,
+      "timeInRound": "0:01"
+    },
+    {
+      "date": "2023-04-15T00:00:00.000Z",
+      "opponent": "Brenden Daves",
+      "opponentSlug": "308614-brenden-daves",
+      "result": "win",
+      "method": "other",
+      "event": "Inner Strength MMA 23",
+      "eventSlug": "93168-inner-strength-mma-22",
+      "round": 1,
+      "timeInRound": "0:24"
+    },
+    {
+      "date": "2023-02-11T00:00:00.000Z",
+      "opponent": "Chris Polanco",
+      "opponentSlug": "249211-chris-polanco",
+      "result": "win",
+      "method": "sub",
+      "event": "Inner Strength MMA 22",
+      "eventSlug": "96462-inner-strength-mma-22-war-in-the-woods",
+      "round": 3,
+      "timeInRound": "1:51"
+    },
+    {
+      "date": "2022-08-06T00:00:00.000Z",
+      "opponent": "Lar Yi Htoo",
+      "opponentSlug": "348552-lar-yi-htoo",
+      "result": "win",
+      "method": "other",
+      "event": "Inner Strength MMA 21",
+      "eventSlug": "84727-inner-strength-mma-21",
+      "round": 1,
+      "timeInRound": "0:11"
+    },
+    {
+      "date": "2021-08-21T00:00:00.000Z",
+      "opponent": "D'Angelo Kuehnow",
+      "opponentSlug": "308616-d-angelo-kuehnow",
+      "result": "win",
+      "method": "sub",
+      "event": "Inner Strength MMA 20",
+      "eventSlug": "78463-inner-strength-mma-20-mma-outdoor-war",
+      "round": 2,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2019-03-16T00:00:00.000Z",
+      "opponent": "William Duvall",
+      "opponentSlug": "216321-william-duvall",
+      "result": "loss",
+      "method": "sub",
+      "event": "Southside Rumble 3",
+      "eventSlug": "58904-southside-rumble-3",
+      "round": 1,
+      "timeInRound": "0:40"
+    },
+    {
+      "date": "2019-01-26T00:00:00.000Z",
+      "opponent": "Clinton Vernieu",
+      "opponentSlug": "128670-clinton-vernieu",
+      "result": "loss",
+      "method": "sub",
+      "event": "Elk River Rumble",
+      "eventSlug": "58035-elk-river-rumble",
+      "round": 1,
+      "timeInRound": "1:12"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:39:42.318Z"
+}

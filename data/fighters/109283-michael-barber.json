@@ -1,0 +1,198 @@
+{
+  "slug": "109283-michael-barber",
+  "name": "Michael Barber",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 10,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 176,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/109283-michael-barber",
+  "recentFights": [
+    {
+      "date": "2025-07-05T00:00:00.000Z",
+      "opponent": "Dimps Gillies",
+      "opponentSlug": "140176-dimps-gillies",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Beatdown Promotions 11",
+      "eventSlug": "127021-beatdown-promotions-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-01T00:00:00.000Z",
+      "opponent": "Marwan Rahiki",
+      "opponentSlug": "388487-marwan-rahiki",
+      "result": "loss",
+      "method": "other",
+      "event": "HEX Fight Series 34",
+      "eventSlug": "120777-hex-fight-series-34",
+      "round": 1,
+      "timeInRound": "3:02"
+    },
+    {
+      "date": "2024-11-23T00:00:00.000Z",
+      "opponent": "Abdalla Biayda",
+      "opponentSlug": "202073-abdullah-eltigani",
+      "result": "win",
+      "method": "other",
+      "event": "HEX Fight Series 33",
+      "eventSlug": "117576-hex-fight-series-33",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-04T00:00:00.000Z",
+      "opponent": "Justin Van Heerden",
+      "opponentSlug": "86412-justin-van-heerdan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "HEX Fight Series 30",
+      "eventSlug": "107574-hex-fight-series-30-hex-goes-global",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-02T00:00:00.000Z",
+      "opponent": "Semakadde Kakembo",
+      "opponentSlug": "196400-sem-kakembo",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "HEX Fight Series 29",
+      "eventSlug": "107573-hex-fight-series-29",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-26T00:00:00.000Z",
+      "opponent": "Jeffrey Mesa",
+      "opponentSlug": "71953-jeff-mesa",
+      "result": "win",
+      "method": "tko",
+      "event": "Hex Fight Series 26",
+      "eventSlug": "98677-hex-fight-series-26",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-24T00:00:00.000Z",
+      "opponent": "Colby Thicknesse",
+      "opponentSlug": "166902-colby-thicknesse",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Hex Fight Series 25",
+      "eventSlug": "95838-hex-fight-series-25",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-20T00:00:00.000Z",
+      "opponent": "Anthony Drilich",
+      "opponentSlug": "158431-anthony-drilich",
+      "result": "loss",
+      "method": "tko",
+      "event": "Eternal MMA 68",
+      "eventSlug": "91664-eternal-mma-68",
+      "round": 1,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2021-11-19T00:00:00.000Z",
+      "opponent": "Sam Hibberd",
+      "opponentSlug": "87482-sam-hibberd",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hex Fight Series",
+      "eventSlug": "77407-hex-fight-series-24",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-07T00:00:00.000Z",
+      "opponent": "Justin Van Heerden",
+      "opponentSlug": "86412-justin-van-heerdan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 59",
+      "eventSlug": "78431-eternal-mma-59",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-13T00:00:00.000Z",
+      "opponent": "Raja Shippen",
+      "opponentSlug": "12032-raja-shippen",
+      "result": "loss",
+      "method": "other",
+      "event": "Hex Fight Series 20",
+      "eventSlug": "63850-hex-fight-series-20",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-29T00:00:00.000Z",
+      "opponent": "Bekhzod Usmonov",
+      "opponentSlug": "152459-behzod-usmonov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hex Fight Series 18",
+      "eventSlug": "58679-hex-fight-series-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-26T00:00:00.000Z",
+      "opponent": "Kane Jones",
+      "opponentSlug": "108108-kane-jones",
+      "result": "win",
+      "method": "other",
+      "event": "Hex Fight Series 17",
+      "eventSlug": "55464-hex-fight-series-17",
+      "round": 2,
+      "timeInRound": "3:49"
+    },
+    {
+      "date": "2017-09-29T00:00:00.000Z",
+      "opponent": "Orcun As",
+      "opponentSlug": "79555-orcan-as",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Wollongong Wars 6",
+      "eventSlug": "47801-wollongong-wars-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-12T00:00:00.000Z",
+      "opponent": "Ivo Dos Santos",
+      "opponentSlug": "39437-ivo-dos-santos",
+      "result": "loss",
+      "method": "sub",
+      "event": "Australian FC 14",
+      "eventSlug": "34480-australian-fc-14",
+      "round": 2,
+      "timeInRound": "1:51"
+    },
+    {
+      "date": "2014-03-01T00:00:00.000Z",
+      "opponent": "Daniel O'Regan",
+      "opponentSlug": "93708-daniel-oregan",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:56:29.194Z"
+}

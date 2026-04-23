@@ -1,0 +1,154 @@
+{
+  "slug": "127592-aleksi-polischuk",
+  "name": "Oleksiy Polischuck",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 15,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 176,
+  "reachCm": 188,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1996-03-13",
+  "nationality": "Ukraine",
+  "url": "https://www.tapology.com/fightcenter/fighters/127592-aleksi-polischuk",
+  "recentFights": [
+    {
+      "date": "2026-04-18T00:00:00.000Z",
+      "opponent": "Daniel Rutkowski",
+      "opponentSlug": "104075-daniel-rutkowski",
+      "result": null,
+      "method": "other",
+      "event": "KSW 117: Pawlak vs. Khalidov",
+      "eventSlug": "140146-ksw-117-de-fries-vs-wojcik",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-15T00:00:00.000Z",
+      "opponent": "Kamil Szkaradek",
+      "opponentSlug": "206916-kamil-szkaradek",
+      "result": "loss",
+      "method": "sub",
+      "event": "KSW 112: Kaczmarczyk vs. Soldaev",
+      "eventSlug": "132390-ksw-112",
+      "round": 2,
+      "timeInRound": "4:44"
+    },
+    {
+      "date": "2025-09-13T00:00:00.000Z",
+      "opponent": "Edgar Davalos",
+      "opponentSlug": "112836-edgar-davalos",
+      "result": "win",
+      "method": "tko",
+      "event": "Hybrid MMA 9",
+      "eventSlug": "130588-hybrid-mma-9-nowe-rozdanie",
+      "round": 2,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2025-06-14T00:00:00.000Z",
+      "opponent": "Islam Djabrailov",
+      "opponentSlug": "183895-islam-djabrailov",
+      "result": "win",
+      "method": "sub",
+      "event": "KSW 107: De Fries vs. Wrzosek",
+      "eventSlug": "127398-ksw-107-de-fries-vs-wrzosek",
+      "round": 1,
+      "timeInRound": "2:23"
+    },
+    {
+      "date": "2025-02-21T00:00:00.000Z",
+      "opponent": "Alfan Rocher-Labes",
+      "opponentSlug": "171526-alfan-rocher-labes",
+      "result": "win",
+      "method": "sub",
+      "event": "KSW 103: Brichta vs. Charzewski",
+      "eventSlug": "119218-ksw-103",
+      "round": 2,
+      "timeInRound": "3:10"
+    },
+    {
+      "date": "2024-08-24T00:00:00.000Z",
+      "opponent": "Bruno Azevedo",
+      "opponentSlug": "16049-bruno-azevedo-macaco",
+      "result": "loss",
+      "method": "sub",
+      "event": "KSW 97: Bajor vs. Scheffel",
+      "eventSlug": "114692-ksw-97",
+      "round": 2,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2024-01-20T00:00:00.000Z",
+      "opponent": "Werlleson Martins",
+      "opponentSlug": "101204-werlleson-martins-galinho",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 90: Wrzosek vs. Vitasović",
+      "eventSlug": "106205-ksw-90",
+      "round": 2,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2023-10-14T00:00:00.000Z",
+      "opponent": "Filip Macek",
+      "opponentSlug": "18869-filip-macek",
+      "result": "win",
+      "method": "sub",
+      "event": "KSW 87: Martínek vs. Stošić",
+      "eventSlug": "104170-ksw-87-stosic-vs-martinek",
+      "round": 1,
+      "timeInRound": "4:06"
+    },
+    {
+      "date": "2022-10-14T00:00:00.000Z",
+      "opponent": "Adam Soldaev",
+      "opponentSlug": "91574-adam-soldaev",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "KSW 75: Stasiak vs. Ruchała",
+      "eventSlug": "92897-ksw-75",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-18T00:00:00.000Z",
+      "opponent": "Sylwester Miller",
+      "opponentSlug": "90041-sylwester-miller",
+      "result": "win",
+      "method": "other",
+      "event": "Armia Fight Night 13",
+      "eventSlug": "89339-armia-fight-night-13",
+      "round": 3,
+      "timeInRound": "3:16"
+    },
+    {
+      "date": "2021-11-05T00:00:00.000Z",
+      "opponent": "Sylwester Miller",
+      "opponentSlug": "90041-sylwester-miller",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Armia Fight Night 11",
+      "eventSlug": "83205-armia-fight-night-11-bitwa-o-niepodleglosc",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-09T00:00:00.000Z",
+      "opponent": "Islam Mayrasultanov",
+      "opponentSlug": "110416-islam-mayrasultanov",
+      "result": "win",
+      "method": "sub",
+      "event": "EFM Show 1: Różański vs. Pasternak",
+      "eventSlug": "77771-efm-challenge-show",
+      "round": 2,
+      "timeInRound": "1:12"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:03:07.517Z"
+}

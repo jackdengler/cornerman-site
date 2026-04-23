@@ -1,0 +1,187 @@
+{
+  "slug": "28413-stacey-vega",
+  "name": "Staci Vega",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 3,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 163,
+  "reachCm": null,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": "1988-05-11",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/28413-stacey-vega",
+  "recentFights": [
+    {
+      "date": "2023-04-29T00:00:00.000Z",
+      "opponent": "Brittany Camozzi",
+      "opponentSlug": "66200-brittany-boone",
+      "result": "loss",
+      "method": "sub",
+      "event": "SCL: Army vs. Marines 14",
+      "eventSlug": "96560-scl-army-vs-marines-14",
+      "round": 3,
+      "timeInRound": "2:44"
+    },
+    {
+      "date": "2021-07-02T00:00:00.000Z",
+      "opponent": "Talita Alencar",
+      "opponentSlug": "217437-talita-alencar",
+      "result": "loss",
+      "method": "sub",
+      "event": "Titan FC 70",
+      "eventSlug": "79652-titan-fc-70",
+      "round": 1,
+      "timeInRound": "4:14"
+    },
+    {
+      "date": "2019-11-02T00:00:00.000Z",
+      "opponent": "Randee Morales",
+      "opponentSlug": "77871-randee-morales",
+      "result": "draw",
+      "method": "dec-majority",
+      "event": "SCL 78",
+      "eventSlug": "62966-scl-78",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-05T00:00:00.000Z",
+      "opponent": "Jennah Macallister",
+      "opponentSlug": "69702-jenna-macallister",
+      "result": "loss",
+      "method": "sub",
+      "event": "SCL: Wyoming",
+      "eventSlug": "46331-scl",
+      "round": 1,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2016-04-01T00:00:00.000Z",
+      "opponent": "Roosa Jones",
+      "opponentSlug": "114680-roosa-jones",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Jackson's MMA Series 18",
+      "eventSlug": "38827-jacksons-mma-series-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-14T00:00:00.000Z",
+      "opponent": "Elizabeth Van Der Horst",
+      "opponentSlug": "99197-liz-vanderhorst",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fighters Source",
+      "eventSlug": "36027-fighters-source-semi-finals",
+      "round": 1,
+      "timeInRound": "0:16"
+    },
+    {
+      "date": "2015-10-03T00:00:00.000Z",
+      "opponent": "Danielle Donaldson",
+      "opponentSlug": "65465-danielle-donaldson",
+      "result": "loss",
+      "method": "tko",
+      "event": "SteelFist Fight Night 37",
+      "eventSlug": "35368-steelfist-fight-night-37-stacked",
+      "round": 1,
+      "timeInRound": "2:03"
+    },
+    {
+      "date": "2013-04-13T00:00:00.000Z",
+      "opponent": "Stephanie Essensa",
+      "opponentSlug": "31798-stephanie-essensa",
+      "result": "loss",
+      "method": "sub",
+      "event": "PFC MMA 1: The Rising",
+      "eventSlug": "17435-prestige-fight-club-mma-1",
+      "round": 1,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2012-09-22T00:00:00.000Z",
+      "opponent": "Rosa Acevedo",
+      "opponentSlug": "34535-rosa-acevedo",
+      "result": "loss",
+      "method": "tko",
+      "event": "Kickdown 103",
+      "eventSlug": "15821-kickdown-103-wizards",
+      "round": 2,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2012-06-30T00:00:00.000Z",
+      "opponent": "Ashley Deen",
+      "opponentSlug": "78343-ashley-deen",
+      "result": "loss",
+      "method": "sub",
+      "event": "Medieval FP",
+      "eventSlug": "16119-medieval-fp-resurrection",
+      "round": 3,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2012-06-02T00:00:00.000Z",
+      "opponent": "Erin McDougall",
+      "opponentSlug": "28412-erin-mcdougall",
+      "result": "loss",
+      "method": "other",
+      "event": "Jackson's MMA Series 8",
+      "eventSlug": "13849-jacksons-mma-series-8",
+      "round": 1,
+      "timeInRound": "1:11"
+    },
+    {
+      "date": "2012-05-12T00:00:00.000Z",
+      "opponent": "Margaret Bloom",
+      "opponentSlug": "25023-margaret-bloom-brutal",
+      "result": "loss",
+      "method": "other",
+      "event": "Women's FC 1",
+      "eventSlug": "13914-women-s-fc-1",
+      "round": 4,
+      "timeInRound": "0:31"
+    },
+    {
+      "date": "2012-02-18T00:00:00.000Z",
+      "opponent": "Baylee Antijunti",
+      "opponentSlug": "496104-baylee-antijunti",
+      "result": "win",
+      "method": "sub",
+      "event": "UFA 8: Women of MMA",
+      "eventSlug": "15824-ufa-8-women-of-mma",
+      "round": 2,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2009-05-30T00:00:00.000Z",
+      "opponent": "Kyane Hampton",
+      "opponentSlug": "16858-kyane-hampton-pepper",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-02-21T00:00:00.000Z",
+      "opponent": "Raquel Pennington",
+      "opponentSlug": "26224-raquel-pennington",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:58:41.444Z"
+}

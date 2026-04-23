@@ -1,0 +1,187 @@
+{
+  "slug": "252256-ashton-charlton",
+  "name": "Ashton Charlton",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/252256-ashton-charlton",
+  "recentFights": [
+    {
+      "date": "2026-03-13T00:00:00.000Z",
+      "opponent": "Morquez Forest",
+      "opponentSlug": "307917-marquez-forest",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "CFFC 151: Gonzales vs. Resende",
+      "eventSlug": "138855-cffc-151",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-04T00:00:00.000Z",
+      "opponent": "Cole Faust",
+      "opponentSlug": "232186-cole-faust",
+      "result": "win",
+      "method": "sub",
+      "event": "BFL 84",
+      "eventSlug": "131123-bfl-84",
+      "round": 2,
+      "timeInRound": "4:29"
+    },
+    {
+      "date": "2024-09-06T00:00:00.000Z",
+      "opponent": "Mac Laursen",
+      "opponentSlug": "73041-mac-laursen",
+      "result": "loss",
+      "method": "sub",
+      "event": "BFL 81: World War 2",
+      "eventSlug": "114885-bfl-81",
+      "round": 3,
+      "timeInRound": "3:29"
+    },
+    {
+      "date": "2024-05-09T00:00:00.000Z",
+      "opponent": "Ash Mashreghi",
+      "opponentSlug": "20889-ash-mashreghi",
+      "result": "win",
+      "method": "sub",
+      "event": "BFL 80: World War",
+      "eventSlug": "110899-bfl-80-world-war",
+      "round": 1,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2023-10-19T00:00:00.000Z",
+      "opponent": "Dario Sinagoga",
+      "opponentSlug": "117351-dario-sinagoga",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "BFL 78",
+      "eventSlug": "102815-bfl-78",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-16T00:00:00.000Z",
+      "opponent": "Billy Martin",
+      "opponentSlug": "29150-billy-martin",
+      "result": "win",
+      "method": "other",
+      "event": "Conquest of the Cage",
+      "eventSlug": "103298-conquest-of-the-cage",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-19T00:00:00.000Z",
+      "opponent": "Mike Kuehne",
+      "opponentSlug": "147854-michael-kuehne",
+      "result": "win",
+      "method": "sub",
+      "event": "Conquest of the Cage",
+      "eventSlug": "101346-conquest-of-the-cage",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-04T00:00:00.000Z",
+      "opponent": "Aaron Iriarte",
+      "opponentSlug": "25352-aaron-iriarte",
+      "result": "win",
+      "method": "tko",
+      "event": "Conquest of the Cage",
+      "eventSlug": "96445-conquest-of-the-cage",
+      "round": 1,
+      "timeInRound": "1:59"
+    },
+    {
+      "date": "2022-10-15T00:00:00.000Z",
+      "opponent": "Charon Spain",
+      "opponentSlug": "15247-charon-spain",
+      "result": "win",
+      "method": "sub",
+      "event": "Conquest of the Cage",
+      "eventSlug": "101702-conquest-of-the-cage",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-16T00:00:00.000Z",
+      "opponent": "Kyle McGrough",
+      "opponentSlug": "120011-kyle-mcgrough",
+      "result": "win",
+      "method": "sub",
+      "event": "Muckleshoot Fight Night 2",
+      "eventSlug": "92699-conquest-of-the-cage",
+      "round": 1,
+      "timeInRound": "0:54"
+    },
+    {
+      "date": "2022-06-04T00:00:00.000Z",
+      "opponent": "Fay Bursell",
+      "opponentSlug": "91183-fay-bursell",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "ExciteFight",
+      "eventSlug": "89338-conquest-of-the-cage",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-04T00:00:00.000Z",
+      "opponent": "Tristan Ezell",
+      "opponentSlug": "177991-tristan-ezell",
+      "result": "win",
+      "method": "tko",
+      "event": "Tuff-N-Uff 127",
+      "eventSlug": "87349-tuff-n-uff-127",
+      "round": 1,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2021-10-29T00:00:00.000Z",
+      "opponent": "Jessee Gengler",
+      "opponentSlug": "98650-jessee-gengler",
+      "result": "win",
+      "method": "sub",
+      "event": "Conquest of the Cage",
+      "eventSlug": "84681-conquest-of-the-cage-mckenzie-vs-ensley",
+      "round": 1,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2021-05-15T00:00:00.000Z",
+      "opponent": "Andrew Kile",
+      "opponentSlug": "211772-andrew-kile",
+      "result": "win",
+      "method": "other",
+      "event": "Conquest of the Cage",
+      "eventSlug": "79379-conquest-of-the-cage",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2020-02-08T00:00:00.000Z",
+      "opponent": "Michael Ursic",
+      "opponentSlug": "252255-michael-ursic",
+      "result": "win",
+      "method": "other",
+      "event": "Conquest of the Cage",
+      "eventSlug": "65367-conquest-of-the-cage",
+      "round": 1,
+      "timeInRound": "2:34"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:39:05.742Z"
+}

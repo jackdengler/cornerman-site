@@ -1,0 +1,253 @@
+{
+  "slug": "55402-bruno-korea",
+  "name": "Bruno Korea",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 12,
+    "losses": 4,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": 166,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1991-06-28",
+  "nationality": "Brasilia, Distrito Federal, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/55402-bruno-korea",
+  "recentFights": [
+    {
+      "date": "2021-09-07T00:00:00.000Z",
+      "opponent": "CJ Vergara",
+      "opponentSlug": "38340-carlos-vergara",
+      "result": "loss",
+      "method": "other",
+      "event": "Contender Series 2021",
+      "eventSlug": "79436-contender-series-2021",
+      "round": 1,
+      "timeInRound": "0:41"
+    },
+    {
+      "date": "2020-10-23T00:00:00.000Z",
+      "opponent": "Felipe Gheno",
+      "opponentSlug": "38796-felipe-gueno",
+      "result": "win",
+      "method": "other",
+      "event": "Taura MMA 10",
+      "eventSlug": "71326-taura-mma-10",
+      "round": 3,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2019-10-19T00:00:00.000Z",
+      "opponent": "João Elias",
+      "opponentSlug": "50648-joo-elias-alicate",
+      "result": "draw",
+      "method": "dec-majority",
+      "event": "Future FC 9",
+      "eventSlug": "61777-future-fc-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-19T00:00:00.000Z",
+      "opponent": "Leandro Soares",
+      "opponentSlug": "76727-leandro-soares-ferrugem",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Future FC 4",
+      "eventSlug": "59269-future-fc-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-24T00:00:00.000Z",
+      "opponent": "Alan Ferreira",
+      "opponentSlug": "118132-alan-galo-de-ao",
+      "result": "win",
+      "method": "other",
+      "event": "WOCS 53",
+      "eventSlug": "56800-wocs-53",
+      "round": 1,
+      "timeInRound": "4:46"
+    },
+    {
+      "date": "2018-09-29T00:00:00.000Z",
+      "opponent": "Lucas Alfalfa",
+      "opponentSlug": "188003-lucas-alfalfa",
+      "result": "win",
+      "method": "tko",
+      "event": "WOCS 52",
+      "eventSlug": "55670-wocs-52",
+      "round": 2,
+      "timeInRound": "1:56"
+    },
+    {
+      "date": "2018-07-14T00:00:00.000Z",
+      "opponent": "Willian Oliveira",
+      "opponentSlug": "144146-william-santos-oliveira",
+      "result": "win",
+      "method": "sub",
+      "event": "WOCS 51",
+      "eventSlug": "54263-wocs-51",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-15T00:00:00.000Z",
+      "opponent": "Gustavo Balart",
+      "opponentSlug": "107762-gustavo-eddy-balart-martin",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Titan FC 47",
+      "eventSlug": "49260-titan-fc-47",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-19T00:00:00.000Z",
+      "opponent": "Jorge Calvo",
+      "opponentSlug": "89605-jorge-calvo",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Titan FC 44",
+      "eventSlug": "44481-titan-fc-44-torres-vs-sharipov",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-02T00:00:00.000Z",
+      "opponent": "Abdiel Velazquez",
+      "opponentSlug": "73715-abdiel-velazquez",
+      "result": "win",
+      "method": "other",
+      "event": "Titan FC 42",
+      "eventSlug": "42246-titan-fc-42-lima-vs-jackson",
+      "round": 2,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2016-06-25T00:00:00.000Z",
+      "opponent": "André Lourenço",
+      "opponentSlug": "44236-andre-minobrca",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WOCS 43",
+      "eventSlug": "40197-wocs-43",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-29T00:00:00.000Z",
+      "opponent": "Flavio dos Santos",
+      "opponentSlug": "56744-flavio-dos-santos-baiano",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-07T00:00:00.000Z",
+      "opponent": "Matheus Nicolau",
+      "opponentSlug": "35392-matheus-nicolau-pereira",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night 77",
+      "eventSlug": "34071-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "3:27"
+    },
+    {
+      "date": "2015-03-07T00:00:00.000Z",
+      "opponent": "Reginaldo Vieira",
+      "opponentSlug": "24429-reginaldo-vieira",
+      "result": "loss",
+      "method": "sub",
+      "event": "The Ultimate Fighter Brazil Season 4",
+      "eventSlug": "41133-the-ultimate-fighter-brazil-season-4",
+      "round": 2,
+      "timeInRound": "4:46"
+    },
+    {
+      "date": "2015-02-20T00:00:00.000Z",
+      "opponent": "Leandro Higo",
+      "opponentSlug": "19870-leandro-higo",
+      "result": "win",
+      "method": "sub",
+      "event": "The Ultimate Fighter Brazil Season 4",
+      "eventSlug": "41129-the-ultimate-fighter-brazil-season-4",
+      "round": 1,
+      "timeInRound": "4:04"
+    },
+    {
+      "date": "2015-02-02T00:00:00.000Z",
+      "opponent": "Franklyn Santos",
+      "opponentSlug": "39601-frank-souza",
+      "result": "win",
+      "method": "other",
+      "event": "The Ultimate Fighter Brazil Season 4",
+      "eventSlug": "41124-the-ultimate-fighter-brazil-season-4",
+      "round": 1,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2014-08-24T00:00:00.000Z",
+      "opponent": "Jafel Filho",
+      "opponentSlug": "46690-jafel-cavalcante-filho",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shooto Brasil 49",
+      "eventSlug": "25470-shooto-brazil-fight-for-bope-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-06-20T00:00:00.000Z",
+      "opponent": "Paulino Barbosa",
+      "opponentSlug": "72323-paulino-barbosa",
+      "result": "win",
+      "method": "sub",
+      "event": "Shooto Brasil 48",
+      "eventSlug": "24736-shooto-brazil-48",
+      "round": 3,
+      "timeInRound": "2:16"
+    },
+    {
+      "date": "2014-04-04T00:00:00.000Z",
+      "opponent": "Luis Felipe",
+      "opponentSlug": "66541-luis-felipe-buda",
+      "result": "win",
+      "method": "other",
+      "event": "Shooto Brasil 47",
+      "eventSlug": "22375-shooto-brazil-47",
+      "round": 2,
+      "timeInRound": "2:42"
+    },
+    {
+      "date": "2013-11-01T00:00:00.000Z",
+      "opponent": "Agustin Zas",
+      "opponentSlug": "54574-augustin-zas",
+      "result": "win",
+      "method": "sub",
+      "event": "WOCS 31",
+      "eventSlug": "21262-wocs-31",
+      "round": 2,
+      "timeInRound": "1:53"
+    },
+    {
+      "date": "2013-09-20T00:00:00.000Z",
+      "opponent": "Wagner China",
+      "opponentSlug": "55403-wagner-china",
+      "result": "win",
+      "method": "sub",
+      "event": "WOCS 29",
+      "eventSlug": "20488-wocs-29",
+      "round": 1,
+      "timeInRound": "2:43"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:55:48.435Z"
+}

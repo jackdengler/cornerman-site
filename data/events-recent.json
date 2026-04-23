@@ -1,0 +1,95 @@
+[
+  {
+    "slug": "138562-cage-warriors-academy-italy",
+    "name": "Cage Warriors Academy Italy 22",
+    "promotion": "CWAI",
+    "startTimeUtc": "2026-04-19T16:00:00.000Z",
+    "venueTimezone": null,
+    "location": "Taranto, Puglia",
+    "mainEvent": "Ancora vs. Salvia",
+    "titleFight": false,
+    "sport": "MMA"
+  },
+  {
+    "slug": "141525-throne-mma-22",
+    "name": "Throne MMA 122: Simons vs. Hummel",
+    "promotion": "TMMA",
+    "startTimeUtc": "2026-04-19T00:00:00.000Z",
+    "venueTimezone": null,
+    "location": "Walker, MN",
+    "mainEvent": "Simons vs. Hummel",
+    "titleFight": true,
+    "sport": "MMA"
+  },
+  {
+    "slug": "140363-king-of-the-cage",
+    "name": "King of the Cage: Strike Zone 2",
+    "promotion": "KOTC",
+    "startTimeUtc": "2026-04-18T23:30:00.000Z",
+    "venueTimezone": null,
+    "location": "San Bernardino, CA",
+    "mainEvent": "Campos vs. Toburen",
+    "titleFight": false,
+    "sport": "MMA"
+  },
+  {
+    "slug": "135741-oktagon-87",
+    "name": "OKTAGON 87",
+    "promotion": null,
+    "startTimeUtc": "2026-04-25T15:00:00.000Z",
+    "venueTimezone": null,
+    "location": null,
+    "mainEvent": null,
+    "titleFight": false
+  },
+  {
+    "slug": "138938-cage-warriors-205",
+    "name": "Cage Warriors 205",
+    "promotion": null,
+    "startTimeUtc": "2026-04-25T16:00:00.000Z",
+    "venueTimezone": null,
+    "location": null,
+    "mainEvent": null,
+    "titleFight": false
+  },
+  {
+    "slug": "140114-ufc-fight-night",
+    "name": "UFC Fight Night",
+    "promotion": null,
+    "startTimeUtc": "2026-04-25T21:00:00.000Z",
+    "venueTimezone": null,
+    "location": null,
+    "mainEvent": null,
+    "titleFight": false
+  },
+  {
+    "slug": "137460-one-175",
+    "name": "ONE Samurai 1",
+    "promotion": null,
+    "startTimeUtc": "2026-04-29T05:00:00.000Z",
+    "venueTimezone": null,
+    "location": null,
+    "mainEvent": null,
+    "titleFight": false
+  },
+  {
+    "slug": "140511-ufc-fight-night-della-maddalena-vs-prates",
+    "name": "UFC Fight Night",
+    "promotion": null,
+    "startTimeUtc": "2026-05-02T08:00:00.000Z",
+    "venueTimezone": null,
+    "location": null,
+    "mainEvent": null,
+    "titleFight": false
+  },
+  {
+    "slug": "140389-pfl-sioux-falls",
+    "name": "PFL Sioux Falls",
+    "promotion": null,
+    "startTimeUtc": "2026-05-02T23:00:00.000Z",
+    "venueTimezone": null,
+    "location": null,
+    "mainEvent": null,
+    "titleFight": false
+  }
+]

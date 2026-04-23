@@ -1,0 +1,143 @@
+{
+  "slug": "45286-gabriel-silva-gabito",
+  "name": "Gabriel Silva",
+  "nickname": "Gambit",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": 180,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1994-08-23",
+  "nationality": "Vila Velha, Espirito Santo, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/45286-gabriel-silva-gabito",
+  "recentFights": [
+    {
+      "date": "2023-11-03T00:00:00.000Z",
+      "opponent": "Carlos Marques",
+      "opponentSlug": "63217-carlos-rhuan",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 171: Neves vs. Cunha",
+      "eventSlug": "105821-lfa-171-neves-vs-cunha",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-30T00:00:00.000Z",
+      "opponent": "Caio Machado",
+      "opponentSlug": "61724-caio-machado",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 143: Lopes vs. Paiva",
+      "eventSlug": "92701-lfa-143-lopes-vs-paiva",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-13T00:00:00.000Z",
+      "opponent": "Rono Junior",
+      "opponentSlug": "86361-ronio-costa-silva",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 132: Gomes vs. Costa",
+      "eventSlug": "88790-lfa-132-lidio-vs-gomes",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-29T00:00:00.000Z",
+      "opponent": "Kyler Phillips",
+      "opponentSlug": "93501-kyler-phillips",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC on ESPN+ 27",
+      "eventSlug": "65142-ufc-on-espn-27",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-20T00:00:00.000Z",
+      "opponent": "Ray Borg",
+      "opponentSlug": "22889-ray-borg",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC on ESPN 4",
+      "eventSlug": "60311-ufc-on-espn-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-29T00:00:00.000Z",
+      "opponent": "Jake Heffernan",
+      "opponentSlug": "43898-jake-heffernan",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 63: Krantz vs. Patterson",
+      "eventSlug": "58594-lfa-63-krantz-vs-patterson",
+      "round": 1,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2017-03-11T00:00:00.000Z",
+      "opponent": "Kamil Łebkowski",
+      "opponentSlug": "56430-kamil-lebkowski",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fight Exclusive Night 16",
+      "eventSlug": "42287-fight-exclusive-night-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-12T00:00:00.000Z",
+      "opponent": "Wendel Araujo",
+      "opponentSlug": "56751-wendel-araujo-cobra",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Face to Face 12",
+      "eventSlug": "33359-face-to-face-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-29T00:00:00.000Z",
+      "opponent": "Willian Vogado",
+      "opponentSlug": "53660-willian-vogado",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Jungle Fight 67",
+      "eventSlug": "23248-jungle-fight-67",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-04-06T00:00:00.000Z",
+      "opponent": "Vinicius Baraldo",
+      "opponentSlug": "40082-vinicius-baraldo-astro-boy",
+      "result": "win",
+      "method": "other",
+      "event": "Jungle Fight 50",
+      "eventSlug": "18199-jungle-fight-51",
+      "round": 1,
+      "timeInRound": "0:28"
+    },
+    {
+      "date": "2012-03-31T00:00:00.000Z",
+      "opponent": "Diego Pralon",
+      "opponentSlug": "65506-diego-rodrigues-pralon-tanzao",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:05:55.432Z"
+}

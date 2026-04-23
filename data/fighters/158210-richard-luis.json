@@ -1,0 +1,165 @@
+{
+  "slug": "158210-richard-luis",
+  "name": "Kimo Luis",
+  "nickname": "The War Hammer",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Hilo, Hawaii",
+  "url": "https://www.tapology.com/fightcenter/fighters/158210-richard-luis",
+  "recentFights": [
+    {
+      "date": "2024-02-17T00:00:00.000Z",
+      "opponent": "Elisha Ellison",
+      "opponentSlug": "364104-elisha-ellison",
+      "result": "loss",
+      "method": "tko",
+      "event": "Muckleshoot Fight Night 8",
+      "eventSlug": "109949-muckleshoot-fight-night-8",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-02-03T00:00:00.000Z",
+      "opponent": "Dave Pearson",
+      "opponentSlug": "138278-dave-pearson",
+      "result": "loss",
+      "method": "other",
+      "event": "Conquest of the Cage",
+      "eventSlug": "109408-conquest-of-the-cage",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-18T00:00:00.000Z",
+      "opponent": "Jerrod Fisher",
+      "opponentSlug": "220139-jerrod-fisher",
+      "result": "win",
+      "method": "other",
+      "event": "Conquest of the Cage",
+      "eventSlug": "105263-excitefight",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-04-16T00:00:00.000Z",
+      "opponent": "Phillip Latu",
+      "opponentSlug": "303053-phillip-latu",
+      "result": "loss",
+      "method": "tko",
+      "event": "Fury FC 77: Gamble vs. Cunningham",
+      "eventSlug": "96725-fury-fc-77",
+      "round": 1,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2022-12-18T00:00:00.000Z",
+      "opponent": "Al Savea",
+      "opponentSlug": "140898-al-savea",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fury FC 72: Van vs. McLean",
+      "eventSlug": "94512-fury-fc-72",
+      "round": 1,
+      "timeInRound": "3:18"
+    },
+    {
+      "date": "2021-06-20T00:00:00.000Z",
+      "opponent": "Ricardo Evangelista",
+      "opponentSlug": "215354-ricardo-evangelista",
+      "result": "win",
+      "method": "other",
+      "event": "Fury FC 47",
+      "eventSlug": "79461-fury-fc-47",
+      "round": 2,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2021-01-15T00:00:00.000Z",
+      "opponent": "Thomas Petersen",
+      "opponentSlug": "187808-thomas-peterson",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 97: Browne vs. Estrázulas",
+      "eventSlug": "75299-lfa-97-browne-vs-estrazulas",
+      "round": 1,
+      "timeInRound": "0:19"
+    },
+    {
+      "date": "2019-10-19T00:00:00.000Z",
+      "opponent": "Josh Bonner",
+      "opponentSlug": "52440-josh-bonner",
+      "result": "win",
+      "method": "other",
+      "event": "Battle at the Bay 15",
+      "eventSlug": "63701-battle-at-the-bay-15",
+      "round": 1,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2019-10-05T00:00:00.000Z",
+      "opponent": "James Haman",
+      "opponentSlug": "95123-james-haman",
+      "result": "loss",
+      "method": "sub",
+      "event": "CageSport 59",
+      "eventSlug": "62866-cagesport-59",
+      "round": 1,
+      "timeInRound": "4:15"
+    },
+    {
+      "date": "2017-08-25T00:00:00.000Z",
+      "opponent": "Randy Zarza",
+      "opponentSlug": "54997-randy-zarza",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "COGA Combat Games 58",
+      "eventSlug": "47675-summer-showdown-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-29T00:00:00.000Z",
+      "opponent": "Josh Bonner",
+      "opponentSlug": "52440-josh-bonner",
+      "result": "win",
+      "method": "tko",
+      "event": "ExciteFight",
+      "eventSlug": "45570-excitefight-mmayhem-3",
+      "round": 1,
+      "timeInRound": "2:23"
+    },
+    {
+      "date": "2016-08-06T00:00:00.000Z",
+      "opponent": "Sua Tuani",
+      "opponentSlug": "125896-sua-tuani",
+      "result": "win",
+      "method": "other",
+      "event": "ExciteFight",
+      "eventSlug": "41208-excitefight-summer-showdown-3",
+      "round": 2,
+      "timeInRound": "2:09"
+    },
+    {
+      "date": "2016-05-21T00:00:00.000Z",
+      "opponent": "Sua Tuani",
+      "opponentSlug": "125896-sua-tuani",
+      "result": "win",
+      "method": "other",
+      "event": "The Redemption 6",
+      "eventSlug": "53083-the-redemption-6",
+      "round": 2,
+      "timeInRound": "3:00"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:40:38.465Z"
+}

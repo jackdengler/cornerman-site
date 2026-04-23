@@ -1,0 +1,70 @@
+{
+  "slug": "108735-kevin-harrison",
+  "name": "Kevin Harrison",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1993-09-13",
+  "nationality": "Ohio, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/108735-kevin-harrison",
+  "recentFights": [
+    {
+      "date": "2022-08-20T00:00:00.000Z",
+      "opponent": "Korey Taylor",
+      "opponentSlug": "193806-korey-taylor",
+      "result": "loss",
+      "method": "other",
+      "event": "Combat Night Pro",
+      "eventSlug": "92166-combat-night-pro-tallahassee",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2017-07-22T00:00:00.000Z",
+      "opponent": "Dakota Sorosiak",
+      "opponentSlug": "130903-dakota-sorosiak",
+      "result": "loss",
+      "method": "other",
+      "event": "New League Fights 6",
+      "eventSlug": "45182-new-league-promotions-6-summer-daze",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2016-10-01T00:00:00.000Z",
+      "opponent": "Carlos Garnett Jr.",
+      "opponentSlug": "64067-carlos-garnett-jr",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "New League Fights 4",
+      "eventSlug": "41350-new-league-promotions-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-02-21T00:00:00.000Z",
+      "opponent": "Zenon Herrera",
+      "opponentSlug": "98665-zenon-herrera",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:37:11.183Z"
+}

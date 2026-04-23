@@ -1,0 +1,99 @@
+{
+  "slug": "63379-gabriel-schuppo",
+  "name": "Gabriel Schlupp",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 162,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/63379-gabriel-schuppo",
+  "recentFights": [
+    {
+      "date": "2025-07-05T00:00:00.000Z",
+      "opponent": "Marwan Rahiki",
+      "opponentSlug": "388487-marwan-rahiki",
+      "result": "loss",
+      "method": "other",
+      "event": "Beatdown Promotions 11",
+      "eventSlug": "127021-beatdown-promotions-11",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-22T00:00:00.000Z",
+      "opponent": "Sebastian Szalay",
+      "opponentSlug": "197650-sebastian-szalay",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 86",
+      "eventSlug": "112017-eternal-mma-86",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-16T00:00:00.000Z",
+      "opponent": "Brogan Stewart-Ng",
+      "opponentSlug": "41209-brogan-stewart",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 83",
+      "eventSlug": "108185-eternal-mma-83",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-13T00:00:00.000Z",
+      "opponent": "Darley Monteiro",
+      "opponentSlug": "254934-darley-monteiro",
+      "result": "win",
+      "method": "other",
+      "event": "São José Super Fight",
+      "eventSlug": "66309-sao-jose-super-fight",
+      "round": 1,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2018-04-21T00:00:00.000Z",
+      "opponent": "Jean Silva",
+      "opponentSlug": "144286-jean-silva",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "São José Super Fight",
+      "eventSlug": "52859-sao-jose-super-fight-qualifying",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-21T00:00:00.000Z",
+      "opponent": "Tailer Juriatti",
+      "opponentSlug": "69118-tailer-juriatti",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Nitrix Fight Evolution 4",
+      "eventSlug": "27918-nitrix-fight-evolution-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-08T00:00:00.000Z",
+      "opponent": "Carlos Antônio",
+      "opponentSlug": "65171-carlos-antnio-capoeira",
+      "result": "win",
+      "method": "sub",
+      "event": "Jungle Fight 66",
+      "eventSlug": "22704-jungle-favela-1",
+      "round": 2,
+      "timeInRound": "2:39"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:58:29.376Z"
+}

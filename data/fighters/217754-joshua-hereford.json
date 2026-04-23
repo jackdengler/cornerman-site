@@ -1,0 +1,81 @@
+{
+  "slug": "217754-joshua-hereford",
+  "name": "Joshua Hereford",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "USA",
+  "url": "https://www.tapology.com/fightcenter/fighters/217754-joshua-hereford",
+  "recentFights": [
+    {
+      "date": "2008-02-09T00:00:00.000Z",
+      "opponent": "Jammie Hill",
+      "opponentSlug": "386927-jammie-hill",
+      "result": "loss",
+      "method": "dec-split",
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-10-27T00:00:00.000Z",
+      "opponent": "Chris Siscoe",
+      "opponentSlug": "386477-chris-siscoe",
+      "result": "win",
+      "method": "sub",
+      "event": "MMA Evolution 5",
+      "eventSlug": "10619-mma-evolution-5",
+      "round": 2,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2007-08-04T00:00:00.000Z",
+      "opponent": "Jeremy Holzhauer",
+      "opponentSlug": "385229-jeremy-holzhauer",
+      "result": "loss",
+      "method": "tko",
+      "event": "MMA Evolution 3",
+      "eventSlug": "100342-mma-evolution-3-battle-at-the-dome",
+      "round": 1,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2007-06-09T00:00:00.000Z",
+      "opponent": "Gerald Meerschaert",
+      "opponentSlug": "6018-gerald-meerschaert-the-machine",
+      "result": "loss",
+      "method": "sub",
+      "event": "MMA Evolution 2",
+      "eventSlug": "46825-mma-evolution-2",
+      "round": 3,
+      "timeInRound": "1:03"
+    },
+    {
+      "date": "2007-04-14T00:00:00.000Z",
+      "opponent": "Chad Lockhart",
+      "opponentSlug": "371927-chad-lockhart",
+      "result": "win",
+      "method": "sub",
+      "event": "MMA Evolution 1",
+      "eventSlug": "5391-mma-evolution-1-the-beginning",
+      "round": 2,
+      "timeInRound": "0:14"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:16:28.175Z"
+}

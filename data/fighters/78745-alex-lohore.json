@@ -1,0 +1,142 @@
+{
+  "slug": "78745-alex-lohore",
+  "name": "Alex Lohoré",
+  "nickname": "Da Killa King",
+  "aliases": [],
+  "recordPro": {
+    "wins": 26,
+    "losses": 11,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 193,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1989-12-19",
+  "nationality": "England",
+  "url": "https://www.tapology.com/fightcenter/fighters/78745-alex-lohore",
+  "recentFights": [
+    {
+      "date": "2026-04-16T00:00:00.000Z",
+      "opponent": "Rhys McKee",
+      "opponentSlug": "54321-rhys-mckee",
+      "result": null,
+      "method": "other",
+      "event": "PFL Belfast",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-17T00:00:00.000Z",
+      "opponent": "Mansur Abdurzakov",
+      "opponentSlug": "172306-mansur-abdurzakov",
+      "result": "win",
+      "method": "other",
+      "event": "BRAVE CF 94",
+      "round": 3,
+      "timeInRound": "4:37"
+    },
+    {
+      "date": "2024-12-20T00:00:00.000Z",
+      "opponent": "Artur Szczepaniak",
+      "opponentSlug": "157677-artur-szczepaniak",
+      "result": "loss",
+      "method": "other",
+      "event": "KSW 101: Le Classique",
+      "round": 2,
+      "timeInRound": "0:54"
+    },
+    {
+      "date": "2024-08-24T00:00:00.000Z",
+      "opponent": "Jivko Stoimenov",
+      "opponentSlug": "114991-jivko-stoimenov",
+      "result": "win",
+      "method": "other",
+      "event": "BRAVE CF 86",
+      "round": 1,
+      "timeInRound": "4:03"
+    },
+    {
+      "date": "2024-05-25T00:00:00.000Z",
+      "opponent": "Marcin Bandel",
+      "opponentSlug": "42857-marcin-bandel-bomba",
+      "result": "win",
+      "method": "other",
+      "event": "BRAVE CF 83",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2023-11-04T00:00:00.000Z",
+      "opponent": "Ion Surdu",
+      "opponentSlug": "139534-ion-surdu",
+      "result": "loss",
+      "method": "other",
+      "event": "OKTAGON 48: Aby vs Garcia",
+      "round": 1,
+      "timeInRound": "4:10"
+    },
+    {
+      "date": "2023-05-20T00:00:00.000Z",
+      "opponent": "David Kozma",
+      "opponentSlug": "18860-david-kozma-nestling",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 43: Kincl vs Vemola 2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-04T00:00:00.000Z",
+      "opponent": "Samuel Krištofič",
+      "opponentSlug": "127416-samuel-kristofic",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 40",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-30T00:00:00.000Z",
+      "opponent": "Matúš Juráček",
+      "opponentSlug": "36771-matus-juracek",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 38: Macek vs. Lopez",
+      "round": 3,
+      "timeInRound": "0:16"
+    },
+    {
+      "date": "2022-09-17T00:00:00.000Z",
+      "opponent": "Patrik Kincl",
+      "opponentSlug": "7517-patrick-kincl",
+      "result": "loss",
+      "method": "other",
+      "event": "OKTAGON 35: Kincl vs. Lohore",
+      "round": 1,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2022-02-26T00:00:00.000Z",
+      "opponent": "Zdenek Polivka",
+      "opponentSlug": "141928-zdenek-polivka",
+      "result": "win",
+      "method": "tko",
+      "event": "OKTAGON 31",
+      "round": 1,
+      "timeInRound": "3:25"
+    },
+    {
+      "date": "2021-03-27T00:00:00.000Z",
+      "opponent": "Tato Primera",
+      "opponentSlug": "56035-tato-primera",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 22",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-16T23:58:50.610Z"
+}

@@ -1,0 +1,187 @@
+{
+  "slug": "9073-sergio-vieira",
+  "name": "Sergio Vieira",
+  "nickname": "Serginho",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/9073-sergio-vieira",
+  "recentFights": [
+    {
+      "date": "2014-08-09T00:00:00.000Z",
+      "opponent": "Cemir Silva",
+      "opponentSlug": "15877-cemir-jose-da-silva",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Real Fight 11",
+      "eventSlug": "25825-real-fight-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-11-29T00:00:00.000Z",
+      "opponent": "Cemir Silva",
+      "opponentSlug": "15877-cemir-jose-da-silva",
+      "result": "loss",
+      "method": "other",
+      "event": "SFT 2",
+      "eventSlug": "21524-sft-2",
+      "round": 1,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2013-09-13T00:00:00.000Z",
+      "opponent": "Rodrigo Gomes",
+      "opponentSlug": "32096-rodrigo-gomes-cabeca",
+      "result": "loss",
+      "method": "sub",
+      "event": "Premium FC 2",
+      "eventSlug": "20242-premium-fc-2",
+      "round": 1,
+      "timeInRound": "4:57"
+    },
+    {
+      "date": "2013-06-22T00:00:00.000Z",
+      "opponent": "Munil Adriano",
+      "opponentSlug": "8093-munil-adriano",
+      "result": "nc",
+      "method": "other",
+      "event": "Premium FC 1",
+      "eventSlug": "19416-premium-fc-1",
+      "round": 1,
+      "timeInRound": "0:57"
+    },
+    {
+      "date": "2012-12-16T00:00:00.000Z",
+      "opponent": "Henrique Gomes",
+      "opponentSlug": "24371-paulo-henrique-gomes",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-03-17T00:00:00.000Z",
+      "opponent": "Carlos Prates",
+      "opponentSlug": "36554-carlos-prates-carlao",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-11-10T00:00:00.000Z",
+      "opponent": "Guilherme Faria",
+      "opponentSlug": "44429-guilherme-faria",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-05-08T00:00:00.000Z",
+      "opponent": "André Luiz",
+      "opponentSlug": "22019-andre-luis-toquinho",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-03-21T00:00:00.000Z",
+      "opponent": "Cemir Silva",
+      "opponentSlug": "15877-cemir-jose-da-silva",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-08-23T00:00:00.000Z",
+      "opponent": "Felipe Vidal",
+      "opponentSlug": "48992-felipe-vidal",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-03-29T00:00:00.000Z",
+      "opponent": "Nilson Pereira",
+      "opponentSlug": "4967-nilson-pereira-feijao",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-09-15T00:00:00.000Z",
+      "opponent": "Marcos dos Santos",
+      "opponentSlug": "3069-marcos-dos-santos-babuino",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-08-25T00:00:00.000Z",
+      "opponent": "Gilmar Sales",
+      "opponentSlug": "49871-gilmar-sales-china",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-06-06T00:00:00.000Z",
+      "opponent": "Munil Adriano",
+      "opponentSlug": "8093-munil-adriano",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2005-03-19T00:00:00.000Z",
+      "opponent": "Andre Amado",
+      "opponentSlug": "andre-amade-dida",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:11:11.305Z"
+}

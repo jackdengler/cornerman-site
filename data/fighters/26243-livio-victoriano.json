@@ -1,0 +1,99 @@
+{
+  "slug": "26243-livio-victoriano",
+  "name": "Livio Victoriano",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1991-04-15",
+  "nationality": "Poland",
+  "url": "https://www.tapology.com/fightcenter/fighters/26243-livio-victoriano",
+  "recentFights": [
+    {
+      "date": "2013-12-10T00:00:00.000Z",
+      "opponent": "Makhmud Muradov",
+      "opponentSlug": "34702-makhmud-muradov",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-06-07T00:00:00.000Z",
+      "opponent": "Paweł Brandys",
+      "opponentSlug": "61288-pawe-brandys",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-04-27T00:00:00.000Z",
+      "opponent": "Oskar Piechota",
+      "opponentSlug": "46894-oskar-piechota-imadlo",
+      "result": "loss",
+      "method": "other",
+      "event": "MMA Attack 3",
+      "eventSlug": "14516-mma-attack-3",
+      "round": 2,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2013-01-12T00:00:00.000Z",
+      "opponent": "Andrzej Grzebyk",
+      "opponentSlug": "46986-andrzej-grzebyk",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-06-01T00:00:00.000Z",
+      "opponent": "Grzegorz Omański",
+      "opponentSlug": "34450-grzegorz-omanski",
+      "result": "win",
+      "method": "sub",
+      "event": "Prime FC 1: Tybura vs. Bajor",
+      "eventSlug": "15790-prime-fc-1-tybura-vs-bajor",
+      "round": 1,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2012-04-27T00:00:00.000Z",
+      "opponent": "Robert Bryczek",
+      "opponentSlug": "26244-robert-bryczek",
+      "result": "win",
+      "method": "sub",
+      "event": "MMA Attack 2",
+      "eventSlug": "13581-mma-attack-2",
+      "round": 1,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2011-02-19T00:00:00.000Z",
+      "opponent": "Robert Balicki",
+      "opponentSlug": "26259-robert-balicki",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:18:38.275Z"
+}

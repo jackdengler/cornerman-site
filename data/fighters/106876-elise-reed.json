@@ -1,0 +1,253 @@
+{
+  "slug": "106876-elise-reed",
+  "name": "Elise Reed",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 160,
+  "reachCm": 160,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": "1992-12-05",
+  "nationality": "Sacramento, California, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/106876-elise-reed",
+  "recentFights": [
+    {
+      "date": "2025-05-17T00:00:00.000Z",
+      "opponent": "Denise Gomes",
+      "opponentSlug": "165655-denise-gomes",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "124622-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2024-10-19T00:00:00.000Z",
+      "opponent": "Jessica Penne",
+      "opponentSlug": "jessica-pene",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "116368-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-16T00:00:00.000Z",
+      "opponent": "Lupita Godinez",
+      "opponentSlug": "133312-lupita-godinez",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "101864-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "3:38"
+    },
+    {
+      "date": "2023-06-03T00:00:00.000Z",
+      "opponent": "Jinh Yu Frey",
+      "opponentSlug": "32655-jinh-yu",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "99119-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-11T00:00:00.000Z",
+      "opponent": "Loma Lookboonmee",
+      "opponentSlug": "174166-looma-lookboonmee",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC 284: Makhachev vs. Volkanovski",
+      "eventSlug": "93764-ufc-284",
+      "round": 2,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2022-09-10T00:00:00.000Z",
+      "opponent": "Melissa Martinez",
+      "opponentSlug": "113003-melissa-martinez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 279: Diaz vs. Ferguson",
+      "eventSlug": "89492-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-21T00:00:00.000Z",
+      "opponent": "Sam Hughes",
+      "opponentSlug": "140901-sam-hughes",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "86509-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "3:52"
+    },
+    {
+      "date": "2022-03-19T00:00:00.000Z",
+      "opponent": "Cory McKenna",
+      "opponentSlug": "81574-cory-mckenna",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "83999-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-24T00:00:00.000Z",
+      "opponent": "Sijara Eubanks",
+      "opponentSlug": "56532-sajara-eubanks",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "78477-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "3:49"
+    },
+    {
+      "date": "2021-05-29T00:00:00.000Z",
+      "opponent": "Hilarie Rose",
+      "opponentSlug": "87574-hillary-rose",
+      "result": "win",
+      "method": "other",
+      "event": "CFFC 97: Reed vs. Rose",
+      "eventSlug": "78964-cffc-97",
+      "round": 2,
+      "timeInRound": "4:57"
+    },
+    {
+      "date": "2020-12-18T00:00:00.000Z",
+      "opponent": "Jillian DeCoursey",
+      "opponentSlug": "79011-jillian-decoursey",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CFFC 91: Sabatini vs. Stirn",
+      "eventSlug": "74817-cffc-91",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-08-13T00:00:00.000Z",
+      "opponent": "Jasmine Jasudavicius",
+      "opponentSlug": "171056-jasmine-jasdavicious",
+      "result": "win",
+      "method": "dec-split",
+      "event": "CFFC 83",
+      "eventSlug": "71104-cffc-83",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-25T00:00:00.000Z",
+      "opponent": "Rebecca Bryggman",
+      "opponentSlug": "140422-rebecca-bryggman",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 231",
+      "eventSlug": "62502-bellator-231",
+      "round": 1,
+      "timeInRound": "4:48"
+    },
+    {
+      "date": "2019-02-01T00:00:00.000Z",
+      "opponent": "Samantha Schell",
+      "opponentSlug": "136841-samantha-seff",
+      "result": "win",
+      "method": "tko",
+      "event": "Spartyka Fight League 37",
+      "eventSlug": "57110-spartyka-fight-league-37-friday-night-fights",
+      "round": 2,
+      "timeInRound": "4:29"
+    },
+    {
+      "date": "2018-12-15T00:00:00.000Z",
+      "opponent": "Amy Golding",
+      "opponentSlug": "199693-amy-golding",
+      "result": "win",
+      "method": "sub",
+      "event": "Cagezilla FC 53",
+      "eventSlug": "57108-cagezilla-fc-53",
+      "round": 2,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2018-11-24T00:00:00.000Z",
+      "opponent": "Hailey Hoard",
+      "opponentSlug": "164614-hailey-hoard",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Wars 39",
+      "eventSlug": "52908-cage-wars-39",
+      "round": 2,
+      "timeInRound": "1:11"
+    },
+    {
+      "date": "2018-06-23T00:00:00.000Z",
+      "opponent": "Stephanie Irizarry",
+      "opponentSlug": "154520-stephanie-irizarry",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Maverick MMA 8",
+      "eventSlug": "53458-maverick-mma-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-22T00:00:00.000Z",
+      "opponent": "Tara Pagano",
+      "opponentSlug": "102066-tara-gaff",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Spartyka Fight League 26",
+      "eventSlug": "41980-spartyka-fight-league-26-gold-rush",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-12-12T00:00:00.000Z",
+      "opponent": "Roya Darvishian",
+      "opponentSlug": "39382-roya-darvishian",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cagezilla FC 5",
+      "eventSlug": "36659-cagezilla-fc-5-oo-38",
+      "round": 2,
+      "timeInRound": "2:04"
+    },
+    {
+      "date": "2015-09-19T00:00:00.000Z",
+      "opponent": "Lindsey MacMhaolain",
+      "opponentSlug": "114221-lindsey-macmhaolain",
+      "result": "win",
+      "method": "other",
+      "event": "Cagezilla FC 4",
+      "eventSlug": "35517-cagezilla-fc-4",
+      "round": 1,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2013-07-20T00:00:00.000Z",
+      "opponent": "Kaitlyn Conners",
+      "opponentSlug": "106875-kaitlyn-conners",
+      "result": "win",
+      "method": "other",
+      "event": "OO Fights: 24",
+      "eventSlug": "30437-oo-fights-24",
+      "round": 1,
+      "timeInRound": "0:15"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:09:50.994Z"
+}

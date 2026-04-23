@@ -1,0 +1,142 @@
+{
+  "slug": "136000-jay-jay-wilson",
+  "name": "Jay Jay Wilson",
+  "nickname": "The Māori Kid",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": 188,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1997-08-02",
+  "nationality": "New Zealand",
+  "url": "https://www.tapology.com/fightcenter/fighters/136000-jay-jay-wilson",
+  "recentFights": [
+    {
+      "date": "2026-04-16T00:00:00.000Z",
+      "opponent": "Darragh Kelly",
+      "opponentSlug": "182192-darragh-kelly",
+      "result": null,
+      "method": "other",
+      "event": "PFL Belfast",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-03T00:00:00.000Z",
+      "opponent": "Archie Colgan",
+      "opponentSlug": "240989-archie-colgon",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "PFL Champions Series 2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-04-18T00:00:00.000Z",
+      "opponent": "Mads Burnell",
+      "opponentSlug": "52291-mads-burnell",
+      "result": "win",
+      "method": "other",
+      "event": "PFL World Tournament 3",
+      "round": 3,
+      "timeInRound": "4:42"
+    },
+    {
+      "date": "2023-09-23T00:00:00.000Z",
+      "opponent": "Mansour Barnaoui",
+      "opponentSlug": "23670-mansour-barnaoui",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bellator 299",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-10-01T00:00:00.000Z",
+      "opponent": "Vladimir Tokov",
+      "opponentSlug": "172121-vladimir-tokov",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Bellator 286",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-12T00:00:00.000Z",
+      "opponent": "Gadzhi Rabadanov",
+      "opponentSlug": "73440-gadzhi-rabadanov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bellator 276",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-16T00:00:00.000Z",
+      "opponent": "Pedro Carvalho",
+      "opponentSlug": "126006-pedro-carvalho",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 257",
+      "round": 2,
+      "timeInRound": "0:53"
+    },
+    {
+      "date": "2020-11-19T00:00:00.000Z",
+      "opponent": "Sergio DeBari",
+      "opponentSlug": "45188-sergio-debari",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 253",
+      "round": 1,
+      "timeInRound": "0:20"
+    },
+    {
+      "date": "2020-07-24T00:00:00.000Z",
+      "opponent": "Ty-wan Claxton",
+      "opponentSlug": "108498-tywan-claxton",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Bellator 242",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-01-25T00:00:00.000Z",
+      "opponent": "Mario Navarro",
+      "opponentSlug": "22257-mario-navarro",
+      "result": "win",
+      "method": "sub",
+      "event": "Bellator 238",
+      "round": 2,
+      "timeInRound": "2:48"
+    },
+    {
+      "date": "2019-10-04T00:00:00.000Z",
+      "opponent": "Jorge Juarez",
+      "opponentSlug": "109336-jorge-juarez",
+      "result": "win",
+      "method": "sub",
+      "event": "Bellator 229",
+      "round": 1,
+      "timeInRound": "1:33"
+    },
+    {
+      "date": "2019-07-21T00:00:00.000Z",
+      "opponent": "Quincy Nguyen",
+      "opponentSlug": "232325-quincy-nguyen-halloween",
+      "result": "win",
+      "method": "other",
+      "event": "CCW 14",
+      "round": 1,
+      "timeInRound": "0:44"
+    }
+  ],
+  "lastVerified": "2026-04-16T23:58:46.358Z"
+}

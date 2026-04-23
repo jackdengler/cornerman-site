@@ -1,0 +1,176 @@
+{
+  "slug": "224467-tariel-abbasov",
+  "name": "Tariel Abbasov",
+  "nickname": "Azeri Lion",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 176,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1996-01-16",
+  "nationality": "Azerbaijan",
+  "url": "https://www.tapology.com/fightcenter/fighters/224467-tariel-abbasov",
+  "recentFights": [
+    {
+      "date": "2025-10-04T00:00:00.000Z",
+      "opponent": "Luca Borando",
+      "opponentSlug": "199263-luca-borando",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 195",
+      "eventSlug": "130856-cage-warriors-195",
+      "round": 1,
+      "timeInRound": "4:29"
+    },
+    {
+      "date": "2025-03-15T00:00:00.000Z",
+      "opponent": "Luke Riley",
+      "opponentSlug": "243621-luke-riley",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 185",
+      "eventSlug": "120830-cage-warriors-185",
+      "round": 2,
+      "timeInRound": "3:09"
+    },
+    {
+      "date": "2024-12-14T00:00:00.000Z",
+      "opponent": "Feroz Nejrabi",
+      "opponentSlug": "211477-firuz-nejrabi",
+      "result": "win",
+      "method": "other",
+      "event": "Vendetta Fight Nights",
+      "eventSlug": "109471-vendetta-fight-nights-41",
+      "round": 1,
+      "timeInRound": "1:52"
+    },
+    {
+      "date": "2024-05-24T00:00:00.000Z",
+      "opponent": "Jamie Siraj",
+      "opponentSlug": "35361-jamie-siraj-the-gremlin",
+      "result": "loss",
+      "method": "sub",
+      "event": "Tuff-N-Uff 137",
+      "eventSlug": "112800-tuff-n-uff-137",
+      "round": 2,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2023-12-16T00:00:00.000Z",
+      "opponent": "Rony Jason",
+      "opponentSlug": "7788-ronny-jason",
+      "result": "loss",
+      "method": "sub",
+      "event": "FNC 14",
+      "eventSlug": "106947-fnc-14",
+      "round": 3,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2023-07-22T00:00:00.000Z",
+      "opponent": "Peyman Haciev",
+      "opponentSlug": "214240-peyman-haciev",
+      "result": "win",
+      "method": "sub",
+      "event": "FNC Armagedon 4",
+      "eventSlug": "102376-fnc-armagedon-4-finals",
+      "round": 3,
+      "timeInRound": "3:02"
+    },
+    {
+      "date": "2023-03-04T00:00:00.000Z",
+      "opponent": "Mauro Paixão",
+      "opponentSlug": "66881-mauro-paixo",
+      "result": "win",
+      "method": "sub",
+      "event": "FNC 10: Croata vs Ribeiro",
+      "eventSlug": "97931-fnc-10",
+      "round": 1,
+      "timeInRound": "4:35"
+    },
+    {
+      "date": "2022-12-15T00:00:00.000Z",
+      "opponent": "Lior Yasnogorodsky",
+      "opponentSlug": "365983-lior-yasnogorodsky",
+      "result": "win",
+      "method": "sub",
+      "event": "MMA Open 1",
+      "eventSlug": "95601-mma-open",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-03T00:00:00.000Z",
+      "opponent": "Abdygany Halbaev",
+      "opponentSlug": "277209-abdygany-khalbaev",
+      "result": "win",
+      "method": "sub",
+      "event": "Open Fighting Championship 20",
+      "eventSlug": "89687-open-fighting-championship-20",
+      "round": 1,
+      "timeInRound": "2:11"
+    },
+    {
+      "date": "2022-01-29T00:00:00.000Z",
+      "opponent": "Wdison Costa",
+      "opponentSlug": "138857-wilson-costa",
+      "result": "win",
+      "method": "sub",
+      "event": "Open Fighting Championship 16",
+      "eventSlug": "85418-open-fighting-championship-16",
+      "round": 2,
+      "timeInRound": "0:55"
+    },
+    {
+      "date": "2021-08-22T00:00:00.000Z",
+      "opponent": "Aslan Unezhev",
+      "opponentSlug": "108456-aslan-unehzev",
+      "result": "win",
+      "method": "sub",
+      "event": "Eagle FC 39",
+      "eventSlug": "81154-efc-39",
+      "round": 2,
+      "timeInRound": "2:17"
+    },
+    {
+      "date": "2021-03-19T00:00:00.000Z",
+      "opponent": "Omurbek Ilyaz Uulu",
+      "opponentSlug": "282243-omurbek-ilyaz-uulu",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eagle FC 34",
+      "eventSlug": "77624-efc-34-khavalov-vs-magomedov",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-02-20T00:00:00.000Z",
+      "opponent": "Arslan Muradbekov",
+      "opponentSlug": "282219-arslan-muradbekov",
+      "result": "win",
+      "method": "sub",
+      "event": "Eagle FC Selection 1",
+      "eventSlug": "77358-efc-selection",
+      "round": 2,
+      "timeInRound": "4:30"
+    },
+    {
+      "date": "2019-04-04T00:00:00.000Z",
+      "opponent": "Mikail Dulgher",
+      "opponentSlug": "147235-mikhail-dulger",
+      "result": "win",
+      "method": "sub",
+      "event": "KNO World Tour 5",
+      "eventSlug": "60488-kno-world-tour-5",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:04:33.987Z"
+}

@@ -1,0 +1,132 @@
+{
+  "slug": "64818-eddie-torrez",
+  "name": "Eddie Torres",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/64818-eddie-torrez",
+  "recentFights": [
+    {
+      "date": "2022-05-08T00:00:00.000Z",
+      "opponent": "Anthony Canzano",
+      "opponentSlug": "51388-anthony-canzano",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Fury FC 61",
+      "eventSlug": "88196-fury-fc-61",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-29T00:00:00.000Z",
+      "opponent": "John Yannis",
+      "opponentSlug": "151617-john-yannies",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Fury FC 49",
+      "eventSlug": "81320-fury-fc-49",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-14T00:00:00.000Z",
+      "opponent": "John Pham",
+      "opponentSlug": "80495-john-pham",
+      "result": "win",
+      "method": "dec-split",
+      "event": "XKO 50",
+      "eventSlug": "78812-xko-50",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-27T00:00:00.000Z",
+      "opponent": "Kaleb Petereit",
+      "opponentSlug": "72435-kaleb-petereit",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fury FC 38",
+      "eventSlug": "62412-fury-fc-38",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-20T00:00:00.000Z",
+      "opponent": "Cody Freeman",
+      "opponentSlug": "110095-cody-freeman",
+      "result": "loss",
+      "method": "other",
+      "event": "Rocks Xtreme MMA 26",
+      "eventSlug": "58828-rocks-xtreme-mma-26",
+      "round": 2,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2018-09-08T00:00:00.000Z",
+      "opponent": "Henry Candela",
+      "opponentSlug": "193819-henry-candela",
+      "result": "win",
+      "method": "other",
+      "event": "Rocks Xtreme MMA 24",
+      "eventSlug": "54651-rocks-xtreme-mma-24",
+      "round": 2,
+      "timeInRound": "0:49"
+    },
+    {
+      "date": "2018-03-09T00:00:00.000Z",
+      "opponent": "Eduardo Anaya",
+      "opponentSlug": "121035-eduardo-anaya",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 35: Newell vs. Luque",
+      "eventSlug": "50675-lfa-35-mazo-vs-jurez",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-24T00:00:00.000Z",
+      "opponent": "Christopher Cuadra",
+      "opponentSlug": "140975-christopher-cuadra",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Texas Clash Bash 8",
+      "eventSlug": "46561-texas-clash-bash-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-02-11T00:00:00.000Z",
+      "opponent": "Cody Ortiz",
+      "opponentSlug": "136109-cody-ortiz",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Texas Clash Bash 7",
+      "eventSlug": "43833-texas-clash-bash-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-16T00:00:00.000Z",
+      "opponent": "Eddie Ortiz",
+      "opponentSlug": "108688-eddie-ortiz",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Rocks Xtreme MMA 20",
+      "eventSlug": "38832-rocks-xtreme-mma-20",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:05:37.147Z"
+}

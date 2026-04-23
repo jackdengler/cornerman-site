@@ -1,0 +1,70 @@
+{
+  "slug": "95481-anthony-bruhl",
+  "name": "Anthony Bruhl",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 163,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1990-07-13",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/95481-anthony-bruhl",
+  "recentFights": [
+    {
+      "date": "2015-12-19T00:00:00.000Z",
+      "opponent": "Tyler Holbrook",
+      "opponentSlug": "97849-tyler-holbrook",
+      "result": "loss",
+      "method": "sub",
+      "event": "Brutaal Genesis Iowa",
+      "eventSlug": "36529-brutaal-genesis-iowa-back-at-the-barn-3",
+      "round": 1,
+      "timeInRound": "2:23"
+    },
+    {
+      "date": "2015-10-17T00:00:00.000Z",
+      "opponent": "Santana Acosta",
+      "opponentSlug": "85224-santana-acosta",
+      "result": "loss",
+      "method": "tko",
+      "event": "Fight Night at the Laramar 9",
+      "eventSlug": "36133-fight-night-at-the-laramar-9",
+      "round": 1,
+      "timeInRound": "0:42"
+    },
+    {
+      "date": "2015-04-18T00:00:00.000Z",
+      "opponent": "Tyler Holbrook",
+      "opponentSlug": "97849-tyler-holbrook",
+      "result": "win",
+      "method": "sub",
+      "event": "Brutaal Genesis Iowa",
+      "eventSlug": "31713-brutal-genesis-iowa-back-in-the-barn",
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2015-03-14T00:00:00.000Z",
+      "opponent": "Timmy Reed",
+      "opponentSlug": "96071-timmy-reed",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Night at the Laramar 7",
+      "eventSlug": "30972-fight-night-at-the-laramar-7",
+      "round": 1,
+      "timeInRound": "2:59"
+    }
+  ],
+  "lastVerified": "2026-04-18T09:06:27.886Z"
+}

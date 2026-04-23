@@ -1,0 +1,209 @@
+{
+  "slug": "36777-ricardo-dias",
+  "name": "Ricardo Dias",
+  "nickname": "Ricardinho",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 9,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1990-11-13",
+  "nationality": "Niteroi, Rio de Janeiro, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/36777-ricardo-dias",
+  "recentFights": [
+    {
+      "date": "2025-10-23T00:00:00.000Z",
+      "opponent": "Steve Mora",
+      "opponentSlug": "191532-steve-mora",
+      "result": "loss",
+      "method": "other",
+      "event": "Fight Club OC",
+      "eventSlug": "134873-fight-club-oc",
+      "round": 1,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2025-05-02T00:00:00.000Z",
+      "opponent": "Reyes Cortez",
+      "opponentSlug": "43085-reyes-cortez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "United Fight League 6",
+      "eventSlug": "123643-united-fight-league-6-phoenix-vs-orange-county",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-02-24T00:00:00.000Z",
+      "opponent": "Anthony Romero",
+      "opponentSlug": "116306-anthony-romero",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UNF 16",
+      "eventSlug": "110501-unf-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-29T00:00:00.000Z",
+      "opponent": "John Sweeney",
+      "opponentSlug": "72874-john-sweeney",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "LFA 137: Gibson vs. Amil",
+      "eventSlug": "90493-lfa-137",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-05T00:00:00.000Z",
+      "opponent": "Michinori Tanaka",
+      "opponentSlug": "22883-michinori-tanaka",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 117: Dias vs. Tanaka",
+      "eventSlug": "83286-lfa-117-dias-vs-tanaka",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-14T00:00:00.000Z",
+      "opponent": "George Garcia",
+      "opponentSlug": "62345-georgie-garcia",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 107: Kirk vs. Swain",
+      "eventSlug": "79064-lfa-107-carvalho-vs-davlatmurodov",
+      "round": 2,
+      "timeInRound": "0:25"
+    },
+    {
+      "date": "2020-08-28T00:00:00.000Z",
+      "opponent": "Desmond Torres",
+      "opponentSlug": "88070-desmond-torres",
+      "result": "win",
+      "method": "dec-split",
+      "event": "LFA 89: Moore vs. Giannetti",
+      "eventSlug": "71940-lfa-89-moore-vs-giannetti",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-07T00:00:00.000Z",
+      "opponent": "Woo Jae Kim",
+      "opponentSlug": "64315-oo-jae-kim",
+      "result": "win",
+      "method": "sub",
+      "event": "Arzalet Fighting 3",
+      "eventSlug": "54145-arzalet-fighting-3",
+      "round": 1,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2016-11-26T00:00:00.000Z",
+      "opponent": "Irmeson Oliveira",
+      "opponentSlug": "35424-irmeson-cavalcante-de-oliveira",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Katana Fight 1",
+      "eventSlug": "42860-katana-fight-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-03T00:00:00.000Z",
+      "opponent": "Jimmy Allan",
+      "opponentSlug": "136642-jimmy-allan",
+      "result": "win",
+      "method": "other",
+      "event": "Fatality Arena 9",
+      "eventSlug": "40863-fatality-arena-9",
+      "round": 2,
+      "timeInRound": "2:16"
+    },
+    {
+      "date": "2016-06-25T00:00:00.000Z",
+      "opponent": "Marcos Antônio",
+      "opponentSlug": "83687-marcos-lindovaldo-marquinhos",
+      "result": "win",
+      "method": "sub",
+      "event": "WOCS 43",
+      "eventSlug": "40197-wocs-43",
+      "round": 1,
+      "timeInRound": "2:44"
+    },
+    {
+      "date": "2015-12-13T00:00:00.000Z",
+      "opponent": "Vitor de Souza",
+      "opponentSlug": "85659-vitor-de-souza",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-21T00:00:00.000Z",
+      "opponent": "Jafel Filho",
+      "opponentSlug": "46690-jafel-cavalcante-filho",
+      "result": "loss",
+      "method": "sub",
+      "event": "Shooto Brasil 56",
+      "eventSlug": "34676-shooto-brasil-56",
+      "round": 1,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2015-06-07T00:00:00.000Z",
+      "opponent": "Dyllan Nascimento",
+      "opponentSlug": "99495-dyllan-nascimento",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-04-18T00:00:00.000Z",
+      "opponent": "Jamilson Silva",
+      "opponentSlug": "38114-jamilson-silva-daduzinho",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fatality Arena 8",
+      "eventSlug": "31977-fatality-arena-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-30T00:00:00.000Z",
+      "opponent": "Denison Silva",
+      "opponentSlug": "24792-denilson-silva",
+      "result": "loss",
+      "method": "other",
+      "event": "Fatality Arena 6",
+      "eventSlug": "23103-fatality-arena-7",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-08-25T00:00:00.000Z",
+      "opponent": "Henrique Aquino",
+      "opponentSlug": "36765-henrique-aquino-yog",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:55:46.363Z"
+}

@@ -1,0 +1,154 @@
+{
+  "slug": "64719-jan-malach",
+  "name": "Jan Malach",
+  "nickname": "Kral Severu",
+  "aliases": [],
+  "recordPro": {
+    "wins": 18,
+    "losses": 17,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/64719-jan-malach",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Stefan Končar",
+      "opponentSlug": "481316-stefan-koncar-the-terror",
+      "result": null,
+      "method": "other",
+      "event": "OKTAGON 87: Szabová vs. Fernandes",
+      "eventSlug": "135741-oktagon-87",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-01-31T00:00:00.000Z",
+      "opponent": "Ahmad Halimson",
+      "opponentSlug": "157689-ahmad-halimson",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 83: Samsonidse vs. Machaev",
+      "eventSlug": "134546-oktagon-83-stuttgart",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-17T00:00:00.000Z",
+      "opponent": "Endrit Brajshori",
+      "opponentSlug": "131257-endrit-brajshori",
+      "result": "loss",
+      "method": "other",
+      "event": "OKTAGON 71: Poppeck vs. Langer",
+      "eventSlug": "123601-oktagon-71",
+      "round": 1,
+      "timeInRound": "1:33"
+    },
+    {
+      "date": "2025-01-25T00:00:00.000Z",
+      "opponent": "Alisson Marreira",
+      "opponentSlug": "160931-alisson-sakuraba",
+      "result": "win",
+      "method": "other",
+      "event": "PML 13",
+      "eventSlug": "121880-pml-13",
+      "round": 1,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2024-12-07T00:00:00.000Z",
+      "opponent": "Gökhan Aksu",
+      "opponentSlug": "104264-gkhan-asku",
+      "result": "loss",
+      "method": "sub",
+      "event": "OKTAGON 64: Brito vs. Surdu",
+      "eventSlug": "117613-oktagon-64",
+      "round": 1,
+      "timeInRound": "3:28"
+    },
+    {
+      "date": "2024-05-18T00:00:00.000Z",
+      "opponent": "Hascen Neri Gelezi",
+      "opponentSlug": "154742-hascen-neri-gelezi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Khan Fight 4",
+      "eventSlug": "112015-khan-fight-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-02-10T00:00:00.000Z",
+      "opponent": "Luka Milidragović",
+      "opponentSlug": "115727-luka-milidragovi",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 53: Dalisda vs. Dourthe",
+      "eventSlug": "107434-oktagon-53",
+      "round": 2,
+      "timeInRound": "3:01"
+    },
+    {
+      "date": "2023-07-28T00:00:00.000Z",
+      "opponent": "Shem Rock",
+      "opponentSlug": "130621-shaqueme-rock",
+      "result": "loss",
+      "method": "sub",
+      "event": "OKTAGON 45: Mågård vs Lima",
+      "eventSlug": "101739-oktagon-stvanice-special",
+      "round": 1,
+      "timeInRound": "2:08"
+    },
+    {
+      "date": "2023-04-15T00:00:00.000Z",
+      "opponent": "Ebrahim Hosseinpour",
+      "opponentSlug": "106418-ebraim-hosseinpur",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 41: Mågård vs. Lopez",
+      "eventSlug": "95854-oktagon-41",
+      "round": 1,
+      "timeInRound": "2:03"
+    },
+    {
+      "date": "2022-12-30T00:00:00.000Z",
+      "opponent": "Matouš Kohout",
+      "opponentSlug": "130021-matou-kohout",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 38: Macek vs. Lopez",
+      "eventSlug": "91582-oktagon-38",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-10-29T00:00:00.000Z",
+      "opponent": "Kamil Łebkowski",
+      "opponentSlug": "56430-kamil-lebkowski",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "East PRO Fight",
+      "eventSlug": "93297-east-pro-fight",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-04T00:00:00.000Z",
+      "opponent": "Arda Adas",
+      "opponentSlug": "62039-arda-adas",
+      "result": "loss",
+      "method": "sub",
+      "event": "OKTAGON 29",
+      "eventSlug": "84142-oktagon-29",
+      "round": 3,
+      "timeInRound": "3:59"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:04:54.570Z"
+}

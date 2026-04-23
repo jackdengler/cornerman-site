@@ -1,0 +1,132 @@
+{
+  "slug": "65809-chris-senior",
+  "name": "Chris Senior",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "England",
+  "url": "https://www.tapology.com/fightcenter/fighters/65809-chris-senior",
+  "recentFights": [
+    {
+      "date": "2017-09-30T00:00:00.000Z",
+      "opponent": "Dan Hunter",
+      "opponentSlug": "140241-dan-hunter",
+      "result": "win",
+      "method": "sub",
+      "event": "Full Contact Contender 19",
+      "eventSlug": "46894-full-contact-contender-19",
+      "round": 1,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2016-03-05T00:00:00.000Z",
+      "opponent": "Mark Kinsella",
+      "opponentSlug": "54540-mark-kinsella",
+      "result": "loss",
+      "method": "sub",
+      "event": "Full Contact Contender 15",
+      "eventSlug": "36557-full-contact-contender-15",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-17T00:00:00.000Z",
+      "opponent": "Matthew Bonner",
+      "opponentSlug": "93532-matthew-bonner",
+      "result": "win",
+      "method": "sub",
+      "event": "Full Contact Contender 14",
+      "eventSlug": "35244-full-contact-contender-14",
+      "round": 2,
+      "timeInRound": "2:16"
+    },
+    {
+      "date": "2015-03-28T00:00:00.000Z",
+      "opponent": "Andreas Tricomitis",
+      "opponentSlug": "65815-andreas-tricomitis",
+      "result": "win",
+      "method": "sub",
+      "event": "Full Contact Contender 12",
+      "eventSlug": "29987-full-contact-contender-12-fcc12",
+      "round": 3,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2014-05-31T00:00:00.000Z",
+      "opponent": "Jai Herbert",
+      "opponentSlug": "70002-jai-herbert",
+      "result": "loss",
+      "method": "other",
+      "event": "Shinobi War 2",
+      "eventSlug": "24009-shinobi-war-2",
+      "round": 2,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2014-03-22T00:00:00.000Z",
+      "opponent": "Josh Stacey McManus",
+      "opponentSlug": "43567-josh-mcmanus",
+      "result": "win",
+      "method": "sub",
+      "event": "Full Contact Contender 9",
+      "eventSlug": "23355-full-contact-contender-9",
+      "round": 1,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2013-11-02T00:00:00.000Z",
+      "opponent": "Kieran Norris",
+      "opponentSlug": "515353-kieran-norris",
+      "result": "win",
+      "method": "tko",
+      "event": "Full Contact Contender 8",
+      "eventSlug": "22935-full-contact-contender-8-minogue-vs-chadwick",
+      "round": 1,
+      "timeInRound": "0:43"
+    },
+    {
+      "date": "2013-06-22T00:00:00.000Z",
+      "opponent": "Luke Ryder",
+      "opponentSlug": "68654-luke-ryder",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Full Contact Contender 6",
+      "eventSlug": "23356-full-contact-contender-6-menga-vs-sitenkov",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-03-16T00:00:00.000Z",
+      "opponent": "Aaron Johnson",
+      "opponentSlug": "84761-aaron-johnson",
+      "result": "win",
+      "method": "sub",
+      "event": "Full Contact Contender 5",
+      "eventSlug": "19392-full-contact-contender-5",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2012-03-10T00:00:00.000Z",
+      "opponent": "Danny Mullins",
+      "opponentSlug": "132351-danny-mullins",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:09:21.437Z"
+}

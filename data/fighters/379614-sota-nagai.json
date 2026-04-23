@@ -1,0 +1,143 @@
+{
+  "slug": "379614-sota-nagai",
+  "name": "Kanata Nagai",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 0,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 166,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "2005-04-13",
+  "nationality": "Higashimurayama, Tokyo, Japan",
+  "url": "https://www.tapology.com/fightcenter/fighters/379614-sota-nagai",
+  "recentFights": [
+    {
+      "date": "2026-04-29T00:00:00.000Z",
+      "opponent": "Atsuya Kanbe",
+      "opponentSlug": "384884-atsuya-kanbe",
+      "result": null,
+      "method": "other",
+      "event": "ONE Samurai 1",
+      "eventSlug": "137460-one-175",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-21T00:00:00.000Z",
+      "opponent": "Shoji Saito",
+      "opponentSlug": "218977-shoji-saito",
+      "result": "win",
+      "method": "sub",
+      "event": "Shooto 2025 Vol.8",
+      "eventSlug": "133532-shooto-2025-vol-8",
+      "round": 3,
+      "timeInRound": "3:24"
+    },
+    {
+      "date": "2025-05-24T00:00:00.000Z",
+      "opponent": "Daiki Tsubota",
+      "opponentSlug": "44689-daiki-tsubota",
+      "result": "win",
+      "method": "other",
+      "event": "Shooto 2025 Vol.5",
+      "eventSlug": "127776-shooto-2025-vol-5",
+      "round": 1,
+      "timeInRound": "4:52"
+    },
+    {
+      "date": "2025-03-16T00:00:00.000Z",
+      "opponent": "Nobuki Fujii",
+      "opponentSlug": "24902-nobuki-fujii",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shooto 2025 Vol.2",
+      "eventSlug": "124450-shooto-2025-vol-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-10-20T00:00:00.000Z",
+      "opponent": "Takahiro Ichijo",
+      "opponentSlug": "11024-takahiro-ichijo",
+      "result": "win",
+      "method": "tko",
+      "event": "Shooto GIG TOKYO Vol.37",
+      "eventSlug": "118883-shooto-gig-tokyo-vol-37",
+      "round": 1,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2024-08-16T00:00:00.000Z",
+      "opponent": "Tatsuya Karasawa",
+      "opponentSlug": "37864-tatsuya-karasawa",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "T.T.F. Challenge Vol.10",
+      "eventSlug": "116151-t-t-f-challenge-vol-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-07T00:00:00.000Z",
+      "opponent": "Yusuke Matsushita",
+      "opponentSlug": "75371-yusuke-matsushita",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shooto GIG TOKYO Vol.36",
+      "eventSlug": "111880-shooto-gig-tokyo-vol-36",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-01-27T00:00:00.000Z",
+      "opponent": "Ryo Katsuno",
+      "opponentSlug": "316650-katu-hammer",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shooto 2024 Vol.1",
+      "eventSlug": "109114-shooto-2024-vol-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-10-21T00:00:00.000Z",
+      "opponent": "Yoshizumi Kobayashi",
+      "opponentSlug": "149871-yoshizumi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shooto GIG TOKYO Vol.35",
+      "eventSlug": "105657-shooto-gig-tokyo-vol-35",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-21T00:00:00.000Z",
+      "opponent": "Takumi Arai",
+      "opponentSlug": "247140-takumi-arai",
+      "result": "win",
+      "method": "tko",
+      "event": "Shooto 2023 Vol.3",
+      "eventSlug": "100775-shooto-2023-vol-3",
+      "round": 1,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2023-04-09T00:00:00.000Z",
+      "opponent": "Munenori Fujita",
+      "opponentSlug": "307524-munenori-fujita",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "Shooto GIG TOKYO Vol.34",
+      "eventSlug": "99676-shooto-gig-tokyo-vol-34",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:07:48.966Z"
+}

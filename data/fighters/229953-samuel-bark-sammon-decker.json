@@ -1,0 +1,154 @@
+{
+  "slug": "229953-samuel-bark-sammon-decker",
+  "name": "Samuel Bark",
+  "nickname": "Sammon Decker",
+  "aliases": [],
+  "recordPro": {
+    "wins": 13,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1992-07-14",
+  "nationality": "Sweden",
+  "url": "https://www.tapology.com/fightcenter/fighters/229953-samuel-bark-sammon-decker",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Radek Roušal",
+      "opponentSlug": "279961-radek-rousal-ruchy",
+      "result": null,
+      "method": "other",
+      "event": "OKTAGON 87: Szabová vs. Fernandes",
+      "eventSlug": "135741-oktagon-87",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-01-17T00:00:00.000Z",
+      "opponent": "Zafar Mohsen",
+      "opponentSlug": "90413-zafar-mohsen",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 82: Engizek vs. Jotko",
+      "eventSlug": "134065-oktagon-82",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-01T00:00:00.000Z",
+      "opponent": "Mate Sanikidze",
+      "opponentSlug": "161763-mate-sanikidze",
+      "result": "win",
+      "method": "sub",
+      "event": "OKTAGON 79: Surdu vs. Kalašnik",
+      "eventSlug": "118938-oktagon",
+      "round": 3,
+      "timeInRound": "4:31"
+    },
+    {
+      "date": "2025-06-14T00:00:00.000Z",
+      "opponent": "Frederik Skov Strauss",
+      "opponentSlug": "133535-frederik-skov-strauss",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "AFN 10",
+      "eventSlug": "129297-afn-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-10-19T00:00:00.000Z",
+      "opponent": "Ricardo Monteiro",
+      "opponentSlug": "106109-ricardo-monteiro",
+      "result": "win",
+      "method": "other",
+      "event": "AFN 8",
+      "eventSlug": "116850-afn-8",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-18T00:00:00.000Z",
+      "opponent": "Ali AlQaisi",
+      "opponentSlug": "85844-ali-al-qaisi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UAE Warriors 50",
+      "eventSlug": "112622-uae-warriors-50",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-09T00:00:00.000Z",
+      "opponent": "Vladimír Lengál",
+      "opponentSlug": "305714-vladimir-lengal-vlado",
+      "result": "win",
+      "method": "dec-split",
+      "event": "OKTAGON 50: Keita vs. Samsonidse",
+      "eventSlug": "98887-oktagon",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-11T00:00:00.000Z",
+      "opponent": "Losene Keita",
+      "opponentSlug": "158525-losene-keita",
+      "result": "loss",
+      "method": "other",
+      "event": "OKTAGON 39: Jungwirth vs. Neves",
+      "eventSlug": "94070-oktagon-39",
+      "round": 3,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2022-12-31T00:00:00.000Z",
+      "opponent": "Orlando Wilson Prins",
+      "opponentSlug": "123326-orlando-wilson-prins",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 148",
+      "eventSlug": "94496-cage-warriors-148",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-10T00:00:00.000Z",
+      "opponent": "Jerry Kvarnstrom",
+      "opponentSlug": "15927-jerry-kvarnstrom-adhd",
+      "result": "win",
+      "method": "other",
+      "event": "Superior Challenge 25",
+      "eventSlug": "95173-superior-challenge-25",
+      "round": 1,
+      "timeInRound": "3:25"
+    },
+    {
+      "date": "2022-11-12T00:00:00.000Z",
+      "opponent": "Manny Akpan",
+      "opponentSlug": "86653-manny-akpan",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 146",
+      "eventSlug": "92600-cage-warriors-146",
+      "round": 2,
+      "timeInRound": "2:53"
+    },
+    {
+      "date": "2022-07-22T00:00:00.000Z",
+      "opponent": "Tobias Harila",
+      "opponentSlug": "116293-tobias-harila",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 141",
+      "eventSlug": "89059-cage-warriors-141",
+      "round": 2,
+      "timeInRound": "2:30"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:04:43.560Z"
+}

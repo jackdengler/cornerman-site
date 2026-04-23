@@ -1,0 +1,121 @@
+{
+  "slug": "192351-elijones-pereira-lorinho",
+  "name": "Elijones Pereira",
+  "nickname": "Lorinho",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1998-01-21",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/192351-elijones-pereira-lorinho",
+  "recentFights": [
+    {
+      "date": "2023-05-27T00:00:00.000Z",
+      "opponent": "Wiverton Carvalho",
+      "opponentSlug": "224280-wiverton-deck",
+      "result": "loss",
+      "method": "sub",
+      "event": "Coari New Talent 1",
+      "eventSlug": "101503-coari-new-talent-1",
+      "round": 2,
+      "timeInRound": "1:22"
+    },
+    {
+      "date": "2022-07-08T00:00:00.000Z",
+      "opponent": "David Souza",
+      "opponentSlug": "114239-deivid-souza-rock",
+      "result": "loss",
+      "method": "tko",
+      "event": "Mega Fight Champions",
+      "eventSlug": "90461-mega-fight-champions-25-anos-7-rodada",
+      "round": 2,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2022-06-03T00:00:00.000Z",
+      "opponent": "Ricardo Sobrinho",
+      "opponentSlug": "296268-jose-ricardo-japao",
+      "result": "win",
+      "method": "other",
+      "event": "Mega Fight Champions",
+      "eventSlug": "89914-mega-fight-champions-25-anos",
+      "round": 3,
+      "timeInRound": "4:10"
+    },
+    {
+      "date": "2022-03-12T00:00:00.000Z",
+      "opponent": "Lucas Ramos",
+      "opponentSlug": "126535-lucas-ramos-cabrita",
+      "result": "win",
+      "method": "other",
+      "event": "Arena Strikers Combat 2",
+      "eventSlug": "87396-arena-strikers-combat-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-12T00:00:00.000Z",
+      "opponent": "Marcos Vinicius",
+      "opponentSlug": "277798-marcos-vinicius-pacu",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Arena Strikers Combat 2",
+      "eventSlug": "87396-arena-strikers-combat-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-28T00:00:00.000Z",
+      "opponent": "Breno dos Santos",
+      "opponentSlug": "229435-breno-dos-santos-sombra",
+      "result": "win",
+      "method": "other",
+      "event": "Jungle Fight 100",
+      "eventSlug": "65278-jungle-fight-100",
+      "round": 2,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2018-11-03T00:00:00.000Z",
+      "opponent": "Claudiomar de Cruz",
+      "opponentSlug": "189782-claudiomar-cruz-claudio-pitbull",
+      "result": "win",
+      "method": "sub",
+      "event": "MFC 2",
+      "eventSlug": "56202-mfc-2",
+      "round": 1,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2018-05-12T00:00:00.000Z",
+      "opponent": "Francisco Teodoro",
+      "opponentSlug": "199811-francisco-teodoro-kiko",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-10T00:00:00.000Z",
+      "opponent": "Lucas Rocha",
+      "opponentSlug": "192343-lucas-rocha-fenomeno",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:56:37.513Z"
+}

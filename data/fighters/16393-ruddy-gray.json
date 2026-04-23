@@ -1,0 +1,143 @@
+{
+  "slug": "16393-ruddy-gray",
+  "name": "Ruddy Gray",
+  "nickname": "Hard Hitting",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/16393-ruddy-gray",
+  "recentFights": [
+    {
+      "date": "2014-07-26T00:00:00.000Z",
+      "opponent": "John Castañeda",
+      "opponentSlug": "20125-john-castaneda",
+      "result": "loss",
+      "method": "tko",
+      "event": "Live MMA at 7 Clans Casino",
+      "eventSlug": "25565-live-mma-at-7-clans-casino",
+      "round": 2,
+      "timeInRound": "3:17"
+    },
+    {
+      "date": "2013-09-28T00:00:00.000Z",
+      "opponent": "Jose Pacheco",
+      "opponentSlug": "18348-jose-pacheco",
+      "result": "win",
+      "method": "dec-split",
+      "event": "NAFC: Battle in the Ballroom",
+      "eventSlug": "20477-nafc-battle-in-the-ballroom",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-08-31T00:00:00.000Z",
+      "opponent": "Morgan Sickinger",
+      "opponentSlug": "14125-morgan-sickinger-the-captain",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-08-18T00:00:00.000Z",
+      "opponent": "Lance Surma",
+      "opponentSlug": "23008-lance-surma",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "HFC 12: Killion vs. Rosenbaum",
+      "eventSlug": "14501-hfc-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-02-10T00:00:00.000Z",
+      "opponent": "Chris Collins",
+      "opponentSlug": "19761-christopher-collins",
+      "result": "loss",
+      "method": "sub",
+      "event": "LOF 51: Little Giants",
+      "eventSlug": "12316-lfc-51",
+      "round": 1,
+      "timeInRound": "3:42"
+    },
+    {
+      "date": "2011-08-20T00:00:00.000Z",
+      "opponent": "Nate McCoy",
+      "opponentSlug": "16392-nate-mccoy",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Tour: Sylvia vs Barrentine",
+      "eventSlug": "10382-fight-tour-sylvia-vs-adams",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2011-04-09T00:00:00.000Z",
+      "opponent": "Evian Rodriguez",
+      "opponentSlug": "16406-evian-rodriguez",
+      "result": "win",
+      "method": "other",
+      "event": "KOTC: Outkasts",
+      "eventSlug": "9754-kotc-outkasts",
+      "round": 1,
+      "timeInRound": "3:20"
+    },
+    {
+      "date": "2010-08-14T00:00:00.000Z",
+      "opponent": "Shawn West",
+      "opponentSlug": "17740-shawn-west",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-07-21T00:00:00.000Z",
+      "opponent": "Riley Trevino",
+      "opponentSlug": "315288-riley-trevino",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-12-12T00:00:00.000Z",
+      "opponent": "Royce Arnold",
+      "opponentSlug": "68314-royce-arnold",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-09-26T00:00:00.000Z",
+      "opponent": "Taylor Roberts",
+      "opponentSlug": "8978-taylor-roberts",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:03:17.493Z"
+}

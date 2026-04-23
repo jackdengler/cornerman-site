@@ -1,0 +1,231 @@
+{
+  "slug": "277363-dylan-smerillo",
+  "name": "Dylan Smerillo",
+  "nickname": "D-Real Show",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1999-06-03",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/277363-dylan-smerillo",
+  "recentFights": [
+    {
+      "date": "2026-03-21T00:00:00.000Z",
+      "opponent": "Michael Blockhus",
+      "opponentSlug": "388734-michael-blockhus",
+      "result": "loss",
+      "method": "sub",
+      "event": "Ignite Fights 111",
+      "eventSlug": "136130-ignite-fights-111",
+      "round": 1,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2025-11-01T00:00:00.000Z",
+      "opponent": "Gary Konkol",
+      "opponentSlug": "92127-gary-konkol-wildboy",
+      "result": "win",
+      "method": "sub",
+      "event": "Ignite Fights 110",
+      "eventSlug": "132193-ignite-fights-110",
+      "round": 1,
+      "timeInRound": "1:16"
+    },
+    {
+      "date": "2025-08-16T00:00:00.000Z",
+      "opponent": "Darren Coleman",
+      "opponentSlug": "308625-darren-coleman",
+      "result": "win",
+      "method": "sub",
+      "event": "Ignite Fights 109",
+      "eventSlug": "127306-ignite-fights-109",
+      "round": 1,
+      "timeInRound": "4:40"
+    },
+    {
+      "date": "2024-10-04T00:00:00.000Z",
+      "opponent": "Zedekiah Montanez",
+      "opponentSlug": "25291-zedekiah-montanez",
+      "result": "loss",
+      "method": "other",
+      "event": "Art of War Cage Fighting 37",
+      "eventSlug": "116484-art-of-war-cage-fighting-37",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-08-17T00:00:00.000Z",
+      "opponent": "Jake Pilla",
+      "opponentSlug": "52973-jake-pilla",
+      "result": "win",
+      "method": "tko",
+      "event": "Combat Zone 85",
+      "eventSlug": "115197-combat-zone-85",
+      "round": 1,
+      "timeInRound": "2:21"
+    },
+    {
+      "date": "2024-05-18T00:00:00.000Z",
+      "opponent": "Nathaniel Grimard",
+      "opponentSlug": "232649-nathaniel-grimard",
+      "result": "win",
+      "method": "sub",
+      "event": "Combat Zone 84",
+      "eventSlug": "112227-combat-zone-84",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2024-04-20T00:00:00.000Z",
+      "opponent": "Felipe Martinez",
+      "opponentSlug": "128941-felipe-martinez-donis",
+      "result": "loss",
+      "method": "sub",
+      "event": "3 River Throwdown 22",
+      "eventSlug": "108513-3-river-throwdown-22",
+      "round": 1,
+      "timeInRound": "3:46"
+    },
+    {
+      "date": "2024-01-12T00:00:00.000Z",
+      "opponent": "Taner Trembley",
+      "opponentSlug": "336743-taner-trembley",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 174: Jones vs. Gennrich",
+      "eventSlug": "108251-lfa-174-jones-vs-gennrich",
+      "round": 1,
+      "timeInRound": "2:11"
+    },
+    {
+      "date": "2023-09-22T00:00:00.000Z",
+      "opponent": "Nick Fishback",
+      "opponentSlug": "352252-nick-fishback",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 168: McKee vs. McPadden",
+      "eventSlug": "104272-lfa-168-mckee-vs-mcpadden",
+      "round": 3,
+      "timeInRound": "1:11"
+    },
+    {
+      "date": "2023-07-08T00:00:00.000Z",
+      "opponent": "Xavier Rosenbloom",
+      "opponentSlug": "365730-xavier-rosenbloom",
+      "result": "win",
+      "method": "sub",
+      "event": "Mecca 19",
+      "eventSlug": "99892-mecca-19",
+      "round": 2,
+      "timeInRound": "1:59"
+    },
+    {
+      "date": "2023-01-21T00:00:00.000Z",
+      "opponent": "Amir Murad",
+      "opponentSlug": "325828-amir-murad",
+      "result": "win",
+      "method": "sub",
+      "event": "Captain's Fight Club 2",
+      "eventSlug": "96210-captain-s-fight-club-2",
+      "round": 1,
+      "timeInRound": "2:05"
+    },
+    {
+      "date": "2022-12-17T00:00:00.000Z",
+      "opponent": "Linzy Hudson",
+      "opponentSlug": "287848-linzy-hudson",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "A-Town Throwdown 19",
+      "eventSlug": "88580-a-town-throwdown-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-10T00:00:00.000Z",
+      "opponent": "Anteze Howard",
+      "opponentSlug": "257011-anteze-howard",
+      "result": "loss",
+      "method": "sub",
+      "event": "A-Town Throwdown 18",
+      "eventSlug": "88579-a-town-throwdown-18",
+      "round": 2,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2022-06-25T00:00:00.000Z",
+      "opponent": "Michael Boylan",
+      "opponentSlug": "232900-michael-boylan",
+      "result": "loss",
+      "method": "other",
+      "event": "MCC 67",
+      "eventSlug": "89633-mcc-67",
+      "round": 2,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2022-05-07T00:00:00.000Z",
+      "opponent": "Reagan Slack",
+      "opponentSlug": "318525-reagan-slack",
+      "result": "win",
+      "method": "sub",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "88324-brutaal-genesis-fight-night-fort-frenzy-18",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2022-02-12T00:00:00.000Z",
+      "opponent": "Alan Silva Jr.",
+      "opponentSlug": "277364-alan-silva-jr",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Night at Fort Frenzy 17",
+      "eventSlug": "89642-fight-night-at-fort-frenzy-17",
+      "round": 1,
+      "timeInRound": "2:47"
+    },
+    {
+      "date": "2021-08-07T00:00:00.000Z",
+      "opponent": "Barrett Brown",
+      "opponentSlug": "166253-barrett-brown",
+      "result": "loss",
+      "method": "sub",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "80901-brutaal-genesis-fight-night-fort-frenzy-15",
+      "round": 1,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2021-05-08T00:00:00.000Z",
+      "opponent": "Dalton Brandel",
+      "opponentSlug": "198816-dalton-brandel",
+      "result": "win",
+      "method": "other",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "79020-brutaal-genesis-fight-night-fort-frenzy-14",
+      "round": 2,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2020-11-07T00:00:00.000Z",
+      "opponent": "Kaleb Huffman",
+      "opponentSlug": "253438-kaleb-huffman",
+      "result": "win",
+      "method": "tko",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "74038-brutaal-genesis-fight-night-fort-frenzy-11",
+      "round": 1,
+      "timeInRound": "2:28"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:37:38.287Z"
+}

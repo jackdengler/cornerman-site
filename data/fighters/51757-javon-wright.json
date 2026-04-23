@@ -1,0 +1,198 @@
+{
+  "slug": "51757-javon-wright",
+  "name": "Javon Wright",
+  "nickname": "Wolfman",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": 185,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1991-04-07",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/51757-javon-wright",
+  "recentFights": [
+    {
+      "date": "2022-06-17T00:00:00.000Z",
+      "opponent": "Nathan Ghareeb",
+      "opponentSlug": "130252-nathan-ghareeb",
+      "result": "loss",
+      "method": "other",
+      "event": "CES 69: Ajim vs. Baatar",
+      "eventSlug": "88914-ces-69",
+      "round": 1,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2016-05-21T00:00:00.000Z",
+      "opponent": "John De Jesus",
+      "opponentSlug": "25947-john-de-jesus",
+      "result": "loss",
+      "method": "other",
+      "event": "KOTC: Blood Enemies",
+      "eventSlug": "39156-kotc-blood-enemies",
+      "round": 2,
+      "timeInRound": "3:48"
+    },
+    {
+      "date": "2015-08-07T00:00:00.000Z",
+      "opponent": "Thiago Moisés",
+      "opponentSlug": "49744-thiago-moiss",
+      "result": "loss",
+      "method": "sub",
+      "event": "RFA 28: Sanchez vs. Poppie",
+      "eventSlug": "33801-rfa-28-sanchez-vs-poppie",
+      "round": 2,
+      "timeInRound": "2:10"
+    },
+    {
+      "date": "2014-09-13T00:00:00.000Z",
+      "opponent": "Jake Constant",
+      "opponentSlug": "32283-jake-constant",
+      "result": "win",
+      "method": "sub",
+      "event": "CCCW 12: The Undertaking",
+      "eventSlug": "26030-cccw-the-undertaking",
+      "round": 1,
+      "timeInRound": "3:05"
+    },
+    {
+      "date": "2014-07-18T00:00:00.000Z",
+      "opponent": "Malcolm Smith",
+      "opponentSlug": "64583-malcolm-smith",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-07-19T00:00:00.000Z",
+      "opponent": "Luke Sanders",
+      "opponentSlug": "luke-sanders",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Rhino FC 7",
+      "eventSlug": "19848-rhino-fc-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-05-03T00:00:00.000Z",
+      "opponent": "Ramon Barber",
+      "opponentSlug": "8213-ramon-barber-abnormal",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-11-10T00:00:00.000Z",
+      "opponent": "Chase Beebe",
+      "opponentSlug": "chase-beebe-the-rage",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-11-03T00:00:00.000Z",
+      "opponent": "Jesse Thorton",
+      "opponentSlug": "15892-jesse-thorton",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-08-18T00:00:00.000Z",
+      "opponent": "Alex White",
+      "opponentSlug": "31517-alex-white-the-spartan",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-06-23T00:00:00.000Z",
+      "opponent": "Juan Parra",
+      "opponentSlug": "117754-juan-parra",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-02-19T00:00:00.000Z",
+      "opponent": "Joshua Crouch",
+      "opponentSlug": "75816-joshua-crouch",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-01-15T00:00:00.000Z",
+      "opponent": "Korey McAuliffe",
+      "opponentSlug": "83349-korey-mcauliffe",
+      "result": "win",
+      "method": "sub",
+      "event": "ShoFIGHT 5: Branson Beatdown 5",
+      "eventSlug": "27517-shofight-5-branson-beatdown-5",
+      "round": 1,
+      "timeInRound": "3:05"
+    },
+    {
+      "date": "2010-10-02T00:00:00.000Z",
+      "opponent": "Jay Thompson",
+      "opponentSlug": "103289-jay-thompson",
+      "result": "win",
+      "method": "tko",
+      "event": "ShoFIGHT 4: Branson Beatdown 4",
+      "eventSlug": "27518-shofight-4-branson-beatdown-4",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-07-31T00:00:00.000Z",
+      "opponent": "Kyle Cason",
+      "opponentSlug": "71842-kyle-cason-snow-monkey",
+      "result": "win",
+      "method": "other",
+      "event": "ShoFIGHT 3: Branson Beatdown 3",
+      "eventSlug": "110877-shofight-3-branson-beatdown-3",
+      "round": 1,
+      "timeInRound": "2:33"
+    },
+    {
+      "date": "2010-06-12T00:00:00.000Z",
+      "opponent": "Jonathan Moore",
+      "opponentSlug": "136141-jonathan-moore",
+      "result": "win",
+      "method": "dec-split",
+      "event": "ShoFIGHT 2: Branson Beatdown 2",
+      "eventSlug": "27521-shofight-2-branson-beatdown-2",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:11:42.448Z"
+}

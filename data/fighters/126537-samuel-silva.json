@@ -1,0 +1,242 @@
+{
+  "slug": "126537-samuel-silva",
+  "name": "Samuel Silva",
+  "nickname": "Caveira",
+  "aliases": [],
+  "recordPro": {
+    "wins": 13,
+    "losses": 6,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 184,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1996-01-02",
+  "nationality": "Manaus, Amazonas, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/126537-samuel-silva",
+  "recentFights": [
+    {
+      "date": "2026-03-14T00:00:00.000Z",
+      "opponent": "Omiel Brown",
+      "opponentSlug": "112250-omeil-brown",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 202",
+      "eventSlug": "136752-cage-warriors-202",
+      "round": 3,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2025-09-02T00:00:00.000Z",
+      "opponent": "Mandel Nallo",
+      "opponentSlug": "24751-mandell-nallo",
+      "result": "loss",
+      "method": "other",
+      "event": "Contender Series 2025",
+      "eventSlug": "128461-contender-series-2025-week-4",
+      "round": 1,
+      "timeInRound": "3:29"
+    },
+    {
+      "date": "2025-03-21T00:00:00.000Z",
+      "opponent": "George Hardwick",
+      "opponentSlug": "64203-george-hardwick",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 186",
+      "eventSlug": "120831-cage-warriors-186",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-01-27T00:00:00.000Z",
+      "opponent": "Anderson Ferreira",
+      "opponentSlug": "52195-anderson-ferreira-buzica",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 175: Lopes vs. Brigagão",
+      "eventSlug": "109002-lfa-175-lopes-vs-brigagao",
+      "round": 2,
+      "timeInRound": "2:48"
+    },
+    {
+      "date": "2023-09-02T00:00:00.000Z",
+      "opponent": "Rodrigo Lídio",
+      "opponentSlug": "88262-rodrigo-lidio",
+      "result": "win",
+      "method": "dec-split",
+      "event": "LFA 166: Neto vs. Conrado",
+      "eventSlug": "103491-lfa-166-neto-vs-conrado",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-13T00:00:00.000Z",
+      "opponent": "Lucas Ribeiro",
+      "opponentSlug": "321722-lucas-ribeiro",
+      "result": "win",
+      "method": "other",
+      "event": "Amazon Talent 14",
+      "eventSlug": "104832-amazon-talent-14",
+      "round": 1,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2023-06-09T00:00:00.000Z",
+      "opponent": "Denisson Teixeira",
+      "opponentSlug": "336236-denisson-teixeira",
+      "result": "win",
+      "method": "tko",
+      "event": "TFC 1",
+      "eventSlug": "102061-tfc-1",
+      "round": 1,
+      "timeInRound": "2:17"
+    },
+    {
+      "date": "2023-02-03T00:00:00.000Z",
+      "opponent": "Guilherme Doin",
+      "opponentSlug": "47080-guilherme-doin",
+      "result": "loss",
+      "method": "tko",
+      "event": "Shooto Brasil 115",
+      "eventSlug": "97886-shooto-brasil-115",
+      "round": 1,
+      "timeInRound": "0:43"
+    },
+    {
+      "date": "2022-01-23T00:00:00.000Z",
+      "opponent": "Bruno Coelho",
+      "opponentSlug": "88340-bruno-s",
+      "result": "win",
+      "method": "other",
+      "event": "Big Shot MMA 2",
+      "eventSlug": "86248-big-shot-mma-1",
+      "round": 1,
+      "timeInRound": "4:50"
+    },
+    {
+      "date": "2021-10-16T00:00:00.000Z",
+      "opponent": "Vladimir Palchenkov",
+      "opponentSlug": "82313-vladimir-palchenkov",
+      "result": "draw",
+      "method": "dec-split",
+      "event": "RCC MMA: Intro 16",
+      "eventSlug": "83312-rcc-intro-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-07T00:00:00.000Z",
+      "opponent": "Uilian Alves",
+      "opponentSlug": "47775-uilian-fuga",
+      "result": "win",
+      "method": "sub",
+      "event": "Katana Fight 10",
+      "eventSlug": "64250-katana-fight-10",
+      "round": 1,
+      "timeInRound": "1:22"
+    },
+    {
+      "date": "2019-09-14T00:00:00.000Z",
+      "opponent": "Davi Rodrigues",
+      "opponentSlug": "185528-davi-rodrigues-strike",
+      "result": "win",
+      "method": "sub",
+      "event": "Curitiba Fight Pro 8",
+      "eventSlug": "63433-curitiba-fight-pro-8",
+      "round": 1,
+      "timeInRound": "2:28"
+    },
+    {
+      "date": "2019-05-04T00:00:00.000Z",
+      "opponent": "Edilson Silva",
+      "opponentSlug": "117497-edilson-souza",
+      "result": "win",
+      "method": "sub",
+      "event": "Katana Fight 9",
+      "eventSlug": "59047-katana-fight-9",
+      "round": 3,
+      "timeInRound": "3:45"
+    },
+    {
+      "date": "2018-07-21T00:00:00.000Z",
+      "opponent": "Alejandro Marroquin",
+      "opponentSlug": "152124-alejandro-marroquin-marro",
+      "result": "win",
+      "method": "other",
+      "event": "Katana Fight 5",
+      "eventSlug": "54025-katana-fight-5-gold-edition",
+      "round": 1,
+      "timeInRound": "0:27"
+    },
+    {
+      "date": "2017-08-10T00:00:00.000Z",
+      "opponent": "Lucas Ananias",
+      "opponentSlug": "134477-lucas-ananias",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-04T00:00:00.000Z",
+      "opponent": "Elves Brener",
+      "opponentSlug": "131388-elvis-brenner",
+      "result": "loss",
+      "method": "other",
+      "event": "Amazon Talent 7",
+      "eventSlug": "51627-amazon-talent-7",
+      "round": 3,
+      "timeInRound": "4:45"
+    },
+    {
+      "date": "2016-11-26T00:00:00.000Z",
+      "opponent": "Thales Morais",
+      "opponentSlug": "131387-thales-moraes",
+      "result": "win",
+      "method": "tko",
+      "event": "Rei da Selva Combat 8",
+      "eventSlug": "43013-rei-da-selva-combat-8",
+      "round": 2,
+      "timeInRound": "0:12"
+    },
+    {
+      "date": "2016-03-10T00:00:00.000Z",
+      "opponent": "Gildo Ferreira",
+      "opponentSlug": "36100-gildo-ferreira-predador",
+      "result": "win",
+      "method": "other",
+      "event": "Amazon Talent 4",
+      "eventSlug": "42328-amazon-talent-4",
+      "round": 1,
+      "timeInRound": "3:15"
+    },
+    {
+      "date": "2016-02-13T00:00:00.000Z",
+      "opponent": "Rodrigo Oliveira",
+      "opponentSlug": "126536-rodrigo-oliveira",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Mr. Cage 21",
+      "eventSlug": "37973-mr-cage-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-27T00:00:00.000Z",
+      "opponent": "Moises Madeira",
+      "opponentSlug": "126551-moises-madeira",
+      "result": "win",
+      "method": "sub",
+      "event": "Amazon Talent 2",
+      "eventSlug": "35484-amazon-talent-2",
+      "round": 1,
+      "timeInRound": "0:50"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:07:40.019Z"
+}

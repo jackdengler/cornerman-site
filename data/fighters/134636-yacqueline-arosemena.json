@@ -1,0 +1,33 @@
+{
+  "slug": "134636-yacqueline-arosemena",
+  "name": "Yacqueline Arosemena",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Panama",
+  "url": "https://www.tapology.com/fightcenter/fighters/134636-yacqueline-arosemena",
+  "recentFights": [
+    {
+      "date": "2016-07-01T00:00:00.000Z",
+      "opponent": "Joselyne Edwards",
+      "opponentSlug": "98366-yoselin-edwards",
+      "result": "loss",
+      "method": "other",
+      "event": "UCC 29",
+      "eventSlug": "39865-ucc-29",
+      "round": 1,
+      "timeInRound": "1:58"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:34:12.723Z"
+}

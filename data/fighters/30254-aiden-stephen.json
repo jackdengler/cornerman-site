@@ -1,0 +1,154 @@
+{
+  "slug": "30254-aiden-stephen",
+  "name": "Aidan Stephen",
+  "nickname": "The Phenomenal",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1992-01-12",
+  "nationality": "Scotland",
+  "url": "https://www.tapology.com/fightcenter/fighters/30254-aiden-stephen",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Josh Abraham",
+      "opponentSlug": "69897-josh-abraham",
+      "result": null,
+      "method": "other",
+      "event": "Cage Warriors 205",
+      "eventSlug": "138938-cage-warriors-205",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-07-12T00:00:00.000Z",
+      "opponent": "Weslley Maia",
+      "opponentSlug": "109165-weslley-maia-pia",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage Warriors 192",
+      "eventSlug": "126924-cage-warriors-192",
+      "round": 1,
+      "timeInRound": "4:53"
+    },
+    {
+      "date": "2025-04-19T00:00:00.000Z",
+      "opponent": "Jordy Bakkes",
+      "opponentSlug": "133550-jordy-bakkes",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Warriors 187",
+      "eventSlug": "120832-cage-warriors-187",
+      "round": 3,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2024-07-20T00:00:00.000Z",
+      "opponent": "Alexander Lööf",
+      "opponentSlug": "178019-alexander-lf",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 174",
+      "eventSlug": "112984-cage-warriors",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-20T00:00:00.000Z",
+      "opponent": "Gianluca Scottoli",
+      "opponentSlug": "26669-gianluca-scottoli",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 171",
+      "eventSlug": "108293-cage-warriors-170",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-11T00:00:00.000Z",
+      "opponent": "Edward Walls",
+      "opponentSlug": "54851-edward-walls",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 132",
+      "eventSlug": "83199-cage-warriors-132",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-20T00:00:00.000Z",
+      "opponent": "Tobias Harila",
+      "opponentSlug": "116293-tobias-harila",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 122",
+      "eventSlug": "74960-cage-warriors-122",
+      "round": 1,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2020-12-10T00:00:00.000Z",
+      "opponent": "Emrah Sonmez",
+      "opponentSlug": "44847-emrah-sonmez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 117",
+      "eventSlug": "73174-cage-warriors-117",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-26T00:00:00.000Z",
+      "opponent": "Paul Hughes",
+      "opponentSlug": "35866-paul-hughes",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage Warriors 116",
+      "eventSlug": "66948-cage-warriors",
+      "round": 3,
+      "timeInRound": "4:21"
+    },
+    {
+      "date": "2020-03-20T00:00:00.000Z",
+      "opponent": "Jack Collins",
+      "opponentSlug": "210990-jack-collins",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 113",
+      "eventSlug": "65887-cage-warriors-113",
+      "round": 1,
+      "timeInRound": "1:24"
+    },
+    {
+      "date": "2019-05-31T00:00:00.000Z",
+      "opponent": "Steve Aimable",
+      "opponentSlug": "26774-steve-aimable",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 105",
+      "eventSlug": "59936-cage-warriors-105",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-02T00:00:00.000Z",
+      "opponent": "Kingsley Crawford",
+      "opponentSlug": "107200-kingsley-crawford",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 102",
+      "eventSlug": "55680-cage-warriors-102",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:05:34.133Z"
+}

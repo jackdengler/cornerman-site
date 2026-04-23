@@ -1,0 +1,143 @@
+{
+  "slug": "7178-brandon-morris",
+  "name": "Brandon Morris",
+  "nickname": "Young Money",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1990-08-09",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/7178-brandon-morris",
+  "recentFights": [
+    {
+      "date": "2015-06-26T00:00:00.000Z",
+      "opponent": "Chris Saunders",
+      "opponentSlug": "15770-chris-saunders-the-so-cal-kids",
+      "result": "loss",
+      "method": "sub",
+      "event": "BAMMA Badbeat 16",
+      "eventSlug": "33356-bamma-badbeat-15-saunders-vs-morris",
+      "round": 2,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2015-01-09T00:00:00.000Z",
+      "opponent": "Mike Segura",
+      "opponentSlug": "53619-mike-segura",
+      "result": "win",
+      "method": "other",
+      "event": "BAMMA Badbeat 14",
+      "eventSlug": "27635-bamma-badbeat-14",
+      "round": 1,
+      "timeInRound": "1:57"
+    },
+    {
+      "date": "2014-03-29T00:00:00.000Z",
+      "opponent": "Raymond Pina",
+      "opponentSlug": "54041-raymond-pina",
+      "result": "loss",
+      "method": "tko",
+      "event": "WFF 13: Wild Horse Pass Casino Fights",
+      "eventSlug": "23137-wff-13-wild-horse-pass-casino-fights",
+      "round": 2,
+      "timeInRound": "1:27"
+    },
+    {
+      "date": "2013-09-07T00:00:00.000Z",
+      "opponent": "Brandon Wilson",
+      "opponentSlug": "54489-brandon-wilson",
+      "result": "loss",
+      "method": "sub",
+      "event": "Submission Championship 3",
+      "eventSlug": "20527-ie-summer-rumble",
+      "round": 1,
+      "timeInRound": "1:59"
+    },
+    {
+      "date": "2012-09-22T00:00:00.000Z",
+      "opponent": "Gabe Lopez",
+      "opponentSlug": "16689-gabriel-lopez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XFS: Anarchy",
+      "eventSlug": "16844-xfs-anarchy",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-03-24T00:00:00.000Z",
+      "opponent": "Cordell Williams",
+      "opponentSlug": "54498-cardell-williams",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XFS: Disarm",
+      "eventSlug": "13975-xfs-disarm",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-04-14T00:00:00.000Z",
+      "opponent": "Hunter Worsham",
+      "opponentSlug": "hunter-worsham-the-future",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-02-11T00:00:00.000Z",
+      "opponent": "Milan Zerjal",
+      "opponentSlug": "33032-milan-zerjal",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-01-21T00:00:00.000Z",
+      "opponent": "Brandon Doucette",
+      "opponentSlug": "156430-brandon-doucette",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-08-06T00:00:00.000Z",
+      "opponent": "Gil Guardado",
+      "opponentSlug": "22248-gilbert-guardado",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-04-16T00:00:00.000Z",
+      "opponent": "Max Griffin",
+      "opponentSlug": "25437-max-griffin",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:57:44.721Z"
+}

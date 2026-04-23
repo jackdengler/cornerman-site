@@ -1,0 +1,253 @@
+{
+  "slug": "joel-roberts",
+  "name": "Joel Roberts",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": 163,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1982-06-01",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/joel-roberts",
+  "recentFights": [
+    {
+      "date": "2014-02-22T00:00:00.000Z",
+      "opponent": "Bill Algeo",
+      "opponentSlug": "25872-william-algeo-honey-badger",
+      "result": "loss",
+      "method": "other",
+      "event": "CFFC 32: Stripling vs. Anyanwu",
+      "eventSlug": "21982-cffc-32",
+      "round": 3,
+      "timeInRound": "2:08"
+    },
+    {
+      "date": "2013-11-02T00:00:00.000Z",
+      "opponent": "Aljamain Sterling",
+      "opponentSlug": "aljamain-sterling",
+      "result": "loss",
+      "method": "sub",
+      "event": "CFFC 30: Sterling vs. Roberts",
+      "eventSlug": "21032-cffc-30",
+      "round": 1,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2013-03-16T00:00:00.000Z",
+      "opponent": "Jason McLean",
+      "opponentSlug": "jason-mclean-the-next-level",
+      "result": "win",
+      "method": "dec-split",
+      "event": "CFFC 22: Wynn vs. Velez",
+      "eventSlug": "17109-cffc-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-09-14T00:00:00.000Z",
+      "opponent": "Jimmie Rivera",
+      "opponentSlug": "jimmie-rivera-el-terror",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Ring of Combat 42",
+      "eventSlug": "14510-ring-of-combat-42",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-05-19T00:00:00.000Z",
+      "opponent": "James Cianci",
+      "opponentSlug": "15787-james-cianci",
+      "result": "win",
+      "method": "sub",
+      "event": "PA Cage Fight 12",
+      "eventSlug": "13411-pa-cage-fight-12",
+      "round": 1,
+      "timeInRound": "4:00"
+    },
+    {
+      "date": "2011-09-10T00:00:00.000Z",
+      "opponent": "Brylan Van Artsdalen",
+      "opponentSlug": "brylan-van-artsdalen",
+      "result": "win",
+      "method": "sub",
+      "event": "Bellator 49",
+      "eventSlug": "10058-bellator-49",
+      "round": 2,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2011-06-24T00:00:00.000Z",
+      "opponent": "Bret Thomas",
+      "opponentSlug": "15143-bret-thomas",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-03-26T00:00:00.000Z",
+      "opponent": "Scott Heckman",
+      "opponentSlug": "16507-scott-heckman-the-animal",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-02-05T00:00:00.000Z",
+      "opponent": "Bobby Gorham",
+      "opponentSlug": "15843-bobby-gorham",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-05-28T00:00:00.000Z",
+      "opponent": "Noe Quintanilla",
+      "opponentSlug": "13368-noe-quintanilla",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-02-07T00:00:00.000Z",
+      "opponent": "Kenny Foster",
+      "opponentSlug": "kenny-foster-the-tooth-fairy",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-10-22T00:00:00.000Z",
+      "opponent": "Biff Walizer",
+      "opponentSlug": "12440-biff-walizer",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-10-03T00:00:00.000Z",
+      "opponent": "Tony Abbate",
+      "opponentSlug": "16510-tony-abbate",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-07-10T00:00:00.000Z",
+      "opponent": "Dustin Pague",
+      "opponentSlug": "4059-dustin-pague-the-disciple",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-11-26T00:00:00.000Z",
+      "opponent": "Ryan Vaccaro",
+      "opponentSlug": "ryan-vaccaro",
+      "result": "win",
+      "method": "sub",
+      "event": "New Breed Fighters 19",
+      "eventSlug": "35646-new-breed-fighters",
+      "round": 2,
+      "timeInRound": "1:11"
+    },
+    {
+      "date": "2008-08-09T00:00:00.000Z",
+      "opponent": "Jeff Lentz",
+      "opponentSlug": "jeff-lentz",
+      "result": "win",
+      "method": "sub",
+      "event": "New Breed Fighters 16",
+      "eventSlug": "40578-new-breed-fighters-battle-of-the-cruisers-finals",
+      "round": 3,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2008-07-12T00:00:00.000Z",
+      "opponent": "Allen Cozze",
+      "opponentSlug": "17949-allen-cozze",
+      "result": "nc",
+      "method": "other",
+      "event": "New Breed Fighters 15",
+      "eventSlug": "40822-new-breed-fighters-15-return-to-the-abyss",
+      "round": 3,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2008-05-03T00:00:00.000Z",
+      "opponent": "Peter DeYonker",
+      "opponentSlug": "42713-peter-deyonker",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "New Breed Fighters 13",
+      "eventSlug": "43683-new-breed-fighters-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-03-29T00:00:00.000Z",
+      "opponent": "Mike Palmer",
+      "opponentSlug": "85803-mike-palmer",
+      "result": "win",
+      "method": "sub",
+      "event": "New Breed Fighters 11",
+      "eventSlug": "43651-new-breed-fighters-11",
+      "round": 1,
+      "timeInRound": "0:43"
+    },
+    {
+      "date": "2007-11-21T00:00:00.000Z",
+      "opponent": "Myles Jury",
+      "opponentSlug": "11278-myles-jury-the-fury",
+      "result": "loss",
+      "method": "tko",
+      "event": "KOTC: Bad Boys",
+      "eventSlug": "3461-kotc-bad-boys",
+      "round": 1,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2007-06-15T00:00:00.000Z",
+      "opponent": "Scotty Bickerstaff",
+      "opponentSlug": "7396-scott-bickerstaff",
+      "result": "win",
+      "method": "sub",
+      "event": "KOTC: Explosion",
+      "eventSlug": "3462-kotc-underground-41-explosion",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:31:45.345Z"
+}

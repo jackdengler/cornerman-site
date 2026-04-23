@@ -1,0 +1,48 @@
+{
+  "slug": "131489-thomas-riley",
+  "name": "Thomas Riley",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/131489-thomas-riley",
+  "recentFights": [
+    {
+      "date": "2018-05-18T00:00:00.000Z",
+      "opponent": "Colby Thicknesse",
+      "opponentSlug": "166902-colby-thicknesse",
+      "result": "loss",
+      "method": "sub",
+      "event": "Superfight MMA 7",
+      "eventSlug": "53211-superfight-mma-7",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-07T00:00:00.000Z",
+      "opponent": "Jerry Chen",
+      "opponentSlug": "131488-jerry-chen",
+      "result": "loss",
+      "method": "sub",
+      "event": "Urban Fight Night 7",
+      "eventSlug": "39523-urban-fight-night-7",
+      "round": 2,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:56:46.971Z"
+}

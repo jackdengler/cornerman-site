@@ -1,0 +1,33 @@
+{
+  "slug": "33689-mike-cobey",
+  "name": "Mike Cobey",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1982-11-20",
+  "nationality": "Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/33689-mike-cobey",
+  "recentFights": [
+    {
+      "date": "2012-10-05T00:00:00.000Z",
+      "opponent": "Tanner Boser",
+      "opponentSlug": "35149-tanner-boser",
+      "result": "loss",
+      "method": "other",
+      "event": "Unified MMA 13",
+      "eventSlug": "15473-unified-mma-13",
+      "round": 3,
+      "timeInRound": "3:44"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:59:34.482Z"
+}

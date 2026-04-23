@@ -1,0 +1,231 @@
+{
+  "slug": "142461-cage-one-2",
+  "name": "Cage One 2",
+  "promotion": "Cage One",
+  "startTimeUtc": "2026-04-18T17:00:00.000Z",
+  "venueTimezone": null,
+  "venue": "N/A",
+  "location": "Saint-André-de-Sangonis, France",
+  "url": "https://www.tapology.com/fightcenter/events/142461-cage-one-2",
+  "status": "scheduled",
+  "forumThreadId": "96931",
+  "fights": [
+    {
+      "id": "142461-cage-one-2#1",
+      "eventSlug": "142461-cage-one-2",
+      "order": 1,
+      "cardSection": "main",
+      "weightClass": "170 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "426736-hamza-khouna",
+        "name": "Hamza Khouna",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "467983-ilian-boudissa",
+        "name": "Ilian Boudissa",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T16:58:15.251Z"
+    },
+    {
+      "id": "142461-cage-one-2#2",
+      "eventSlug": "142461-cage-one-2",
+      "order": 2,
+      "cardSection": "main",
+      "weightClass": "130 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "557185-ayoub-zahmad",
+        "name": "Ayoub Zahmad",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "557186-othman-boukrama",
+        "name": "Othman Boukrama",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T16:58:15.251Z"
+    },
+    {
+      "id": "142461-cage-one-2#3",
+      "eventSlug": "142461-cage-one-2",
+      "order": 3,
+      "cardSection": "main",
+      "weightClass": "170 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "557187-imran-hamzaoui",
+        "name": "Imran Hamzaoui",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "492038-florian-monduc",
+        "name": "Florian Monduc",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T16:58:15.251Z"
+    },
+    {
+      "id": "142461-cage-one-2#4",
+      "eventSlug": "142461-cage-one-2",
+      "order": 4,
+      "cardSection": "main",
+      "weightClass": "125 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "511810-lohan-durandet",
+        "name": "Lohan Durandet",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "470115-simon-ettouati",
+        "name": "Simon Ettouati",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T16:58:15.251Z"
+    },
+    {
+      "id": "142461-cage-one-2#5",
+      "eventSlug": "142461-cage-one-2",
+      "order": 5,
+      "cardSection": "main",
+      "weightClass": "159 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "557189-enzo-martin",
+        "name": "Enzo Martin",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "523559-quentin-raibaldi",
+        "name": "Quentin Raibaldi",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T16:58:15.251Z"
+    },
+    {
+      "id": "142461-cage-one-2#6",
+      "eventSlug": "142461-cage-one-2",
+      "order": 6,
+      "cardSection": "main",
+      "weightClass": "170 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "525551-paul-vachaud",
+        "name": "Paul Vachaud",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "557191-mathieu-plasse",
+        "name": "Mathieu Plasse",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T16:58:15.251Z"
+    },
+    {
+      "id": "142461-cage-one-2#7",
+      "eventSlug": "142461-cage-one-2",
+      "order": 7,
+      "cardSection": "main",
+      "weightClass": "135 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "557194-mehdi-es-soussi",
+        "name": "Mehdi Es Soussi",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "471692-magomed-saydulaev",
+        "name": "Magomed Saydulaev",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T16:58:15.251Z"
+    },
+    {
+      "id": "142461-cage-one-2#8",
+      "eventSlug": "142461-cage-one-2",
+      "order": 8,
+      "cardSection": "main",
+      "weightClass": "145 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "557197-johan-salacroup",
+        "name": "Johan Salacroup",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "557199-alexis-giner",
+        "name": "Alexis Giner",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T16:58:15.251Z"
+    }
+  ],
+  "lastVerified": "2026-04-18T16:58:15.251Z"
+}

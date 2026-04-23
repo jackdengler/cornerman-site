@@ -1,0 +1,110 @@
+{
+  "slug": "33380-kahn-sandy",
+  "name": "Kahn Sandy",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Hobart, Tasmania",
+  "url": "https://www.tapology.com/fightcenter/fighters/33380-kahn-sandy",
+  "recentFights": [
+    {
+      "date": "2023-06-24T00:00:00.000Z",
+      "opponent": "Blair Bretag",
+      "opponentSlug": "350519-blair-bretag",
+      "result": "win",
+      "method": "other",
+      "event": "Beatdown Promotions 4",
+      "eventSlug": "99253-beatdown-promotions-4",
+      "round": 1,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2022-07-16T00:00:00.000Z",
+      "opponent": "Ben Johnston",
+      "opponentSlug": "345042-ben-johnston",
+      "result": "loss",
+      "method": "sub",
+      "event": "Eternal MMA 67",
+      "eventSlug": "89588-eternal-mma-67",
+      "round": 2,
+      "timeInRound": "3:04"
+    },
+    {
+      "date": "2021-02-20T00:00:00.000Z",
+      "opponent": "Shane Mitchell",
+      "opponentSlug": "54826-shane-mitchell",
+      "result": "loss",
+      "method": "tko",
+      "event": "Diamondback FC 11",
+      "eventSlug": "72688-diamondback-fc-11",
+      "round": 1,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2015-10-31T00:00:00.000Z",
+      "opponent": "Callan Potter",
+      "opponentSlug": "39471-callan-potter",
+      "result": "loss",
+      "method": "sub",
+      "event": "Hex Fight Series 4",
+      "eventSlug": "35669-hex-fight-series-4",
+      "round": 2,
+      "timeInRound": "4:10"
+    },
+    {
+      "date": "2015-06-13T00:00:00.000Z",
+      "opponent": "Mark Dowe",
+      "opponentSlug": "37972-mark-dowe",
+      "result": "win",
+      "method": "other",
+      "event": "Valor Fight 11",
+      "eventSlug": "31366-valor-fight-11",
+      "round": 2,
+      "timeInRound": "2:43"
+    },
+    {
+      "date": "2014-09-06T00:00:00.000Z",
+      "opponent": "Stephan Friedrich",
+      "opponentSlug": "83909-stephan-friedrich",
+      "result": "win",
+      "method": "other",
+      "event": "Valor Fight C Series 6",
+      "eventSlug": "27649-valor-fight-c-series-6",
+      "round": 1,
+      "timeInRound": "0:18"
+    },
+    {
+      "date": "2014-02-15T00:00:00.000Z",
+      "opponent": "Adam Cook",
+      "opponentSlug": "54927-adam-cook",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Valor Fight 7",
+      "eventSlug": "21723-valor-fight-7-potter-vs-butt",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-07-21T00:00:00.000Z",
+      "opponent": "Jacob Holyman-Tague",
+      "opponentSlug": "113197-jacob-holyman-tague",
+      "result": "loss",
+      "method": "sub",
+      "event": "Valor Fight C Series 1",
+      "eventSlug": "55269-valor-fight-c-series-1",
+      "round": 1,
+      "timeInRound": "2:01"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:57:49.426Z"
+}

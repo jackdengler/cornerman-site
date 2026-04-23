@@ -1,0 +1,121 @@
+{
+  "slug": "121965-jade-wong",
+  "name": "Jade Masson-Wong",
+  "nickname": "Evil Smile",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 163,
+  "reachCm": 160,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1992-10-05",
+  "nationality": "Quebec, Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/121965-jade-wong",
+  "recentFights": [
+    {
+      "date": "2026-05-16T00:00:00.000Z",
+      "opponent": "Aline Pereira",
+      "opponentSlug": "237252-aline-pereira",
+      "result": null,
+      "method": "other",
+      "event": "MVP MMA 1: Rousey vs. Carano",
+      "eventSlug": "140072-rousey-vs-carano",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-08T00:00:00.000Z",
+      "opponent": "Jamey-Lyn Horth",
+      "opponentSlug": "148703-jamey-lyn-horth",
+      "result": "loss",
+      "method": "other",
+      "event": "BFL 65",
+      "eventSlug": "64458-bfl-65",
+      "round": 3,
+      "timeInRound": "2:31"
+    },
+    {
+      "date": "2019-05-24T00:00:00.000Z",
+      "opponent": "Mandy Böhm",
+      "opponentSlug": "79758-mandy-bhm",
+      "result": "loss",
+      "method": "sub",
+      "event": "TKO 48: Sousa vs Gane",
+      "eventSlug": "58874-tko-48",
+      "round": 3,
+      "timeInRound": "3:43"
+    },
+    {
+      "date": "2018-12-07T00:00:00.000Z",
+      "opponent": "Marilyn Micallef",
+      "opponentSlug": "128826-marilyn-micallef",
+      "result": "win",
+      "method": "other",
+      "event": "TKO 45: Jourdain Vs Morgan",
+      "eventSlug": "56124-tko-45-jourdain-vs-morgan",
+      "round": 3,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2018-09-21T00:00:00.000Z",
+      "opponent": "Corinne Laframboise",
+      "opponentSlug": "138606-corinne-laframboise",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "TKO 44",
+      "eventSlug": "53478-tko-44",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-04T00:00:00.000Z",
+      "opponent": "Maggie Poulin",
+      "opponentSlug": "124363-maggie-poulin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "TKO 43",
+      "eventSlug": "51609-tko-43",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-01-27T00:00:00.000Z",
+      "opponent": "Megan Owen",
+      "opponentSlug": "151488-megan-owen",
+      "result": "win",
+      "method": "dec-split",
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-16T00:00:00.000Z",
+      "opponent": "Margot Sumantri",
+      "opponentSlug": "97550-margot-sumantri",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fightquest 39",
+      "eventSlug": "48179-fightquest-39",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-02-13T00:00:00.000Z",
+      "opponent": "Maggie Poulin",
+      "opponentSlug": "124363-maggie-poulin",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fightquest 34",
+      "eventSlug": "35680-fightquest-34",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:02:21.794Z"
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "102736-martin-sweeney",
+  "name": "Martin Sweeney",
+  "nickname": "The Machine",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "England",
+  "url": "https://www.tapology.com/fightcenter/fighters/102736-martin-sweeney",
+  "recentFights": [
+    {
+      "date": "2018-07-07T00:00:00.000Z",
+      "opponent": "Daryl Golding",
+      "opponentSlug": "73236-daryl-golding",
+      "result": "loss",
+      "method": "sub",
+      "event": "ICE FC: Fight Festival",
+      "eventSlug": "53557-ice-fc-fight-festival",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-29T00:00:00.000Z",
+      "opponent": "Krzysiek Adamczyk",
+      "opponentSlug": "68590-krzysztof-adamczyk",
+      "result": "loss",
+      "method": "sub",
+      "event": "Almighty Fighting Championship 3",
+      "eventSlug": "41632-almighty-fighting-championship-3",
+      "round": 2,
+      "timeInRound": "2:09"
+    },
+    {
+      "date": "2015-11-20T00:00:00.000Z",
+      "opponent": "Arthur Brek",
+      "opponentSlug": "109807-arthur-brek",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ICE FC 9: The Rematch",
+      "eventSlug": "36213-ice-fc-9-the-rematch",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-06-20T00:00:00.000Z",
+      "opponent": "Jai Herbert",
+      "opponentSlug": "70002-jai-herbert",
+      "result": "loss",
+      "method": "tko",
+      "event": "Full Contact Contender 13",
+      "eventSlug": "32322-full-contact-contender-13",
+      "round": 2,
+      "timeInRound": "0:41"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:09:12.634Z"
+}

@@ -1,0 +1,154 @@
+{
+  "slug": "32292-josh-tulley",
+  "name": "Josh Tully",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1983-11-20",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/32292-josh-tulley",
+  "recentFights": [
+    {
+      "date": "2024-05-03T00:00:00.000Z",
+      "opponent": "Gauge Young",
+      "opponentSlug": "213571-gauge-young",
+      "result": "loss",
+      "method": "other",
+      "event": "FAC 24",
+      "eventSlug": "110439-fac-24",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2023-07-28T00:00:00.000Z",
+      "opponent": "Zach Scroggin",
+      "opponentSlug": "121735-zach-scroggins",
+      "result": "loss",
+      "method": "sub",
+      "event": "FAC 20",
+      "eventSlug": "101558-fac-20",
+      "round": 1,
+      "timeInRound": "3:41"
+    },
+    {
+      "date": "2018-02-17T00:00:00.000Z",
+      "opponent": "Bobby Cooper",
+      "opponentSlug": "bobby-cooper",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "KC Fighting Alliance 27",
+      "eventSlug": "49780-kc-fighting-alliance-27",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-06T00:00:00.000Z",
+      "opponent": "Dominic Garcia",
+      "opponentSlug": "94831-dominic-garcia",
+      "result": "win",
+      "method": "other",
+      "event": "KC Fighting Alliance 23",
+      "eventSlug": "44810-kc-fighting-alliance-23",
+      "round": 2,
+      "timeInRound": "4:55"
+    },
+    {
+      "date": "2015-04-25T00:00:00.000Z",
+      "opponent": "Jason Witt",
+      "opponentSlug": "53481-jason-witt",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-07-19T00:00:00.000Z",
+      "opponent": "Bobby Cooper",
+      "opponentSlug": "bobby-cooper",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-04-19T00:00:00.000Z",
+      "opponent": "Dallas Browning",
+      "opponentSlug": "dallas-browning",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-11-01T00:00:00.000Z",
+      "opponent": "Henry Chionuma",
+      "opponentSlug": "53479-henry-chionuma",
+      "result": "win",
+      "method": "other",
+      "event": "Shamrock FC",
+      "eventSlug": "20749-shamrock-fc-conquest",
+      "round": 1,
+      "timeInRound": "0:24"
+    },
+    {
+      "date": "2013-09-14T00:00:00.000Z",
+      "opponent": "Chris Heatherly",
+      "opponentSlug": "38901-chris-heatherly",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Time Production",
+      "eventSlug": "22180-cage-time-production",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-02-13T00:00:00.000Z",
+      "opponent": "Clayton Robinson",
+      "opponentSlug": "23014-clayton-robinson",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-05-18T00:00:00.000Z",
+      "opponent": "Dean Johnston",
+      "opponentSlug": "362257-dean-johnston",
+      "result": "win",
+      "method": "tko",
+      "event": "World Series Of Rumble 4",
+      "eventSlug": "85566-world-series-of-rumble-4",
+      "round": 1,
+      "timeInRound": "1:18"
+    },
+    {
+      "date": "2007-05-05T00:00:00.000Z",
+      "opponent": "Brock Hill",
+      "opponentSlug": "383694-brock-hill",
+      "result": "win",
+      "method": "other",
+      "event": "World Series Of Rumble 3",
+      "eventSlug": "100508-world-series-of-rumble-3",
+      "round": 1,
+      "timeInRound": "0:30"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:12:07.496Z"
+}

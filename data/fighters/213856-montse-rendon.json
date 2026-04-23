@@ -1,0 +1,143 @@
+{
+  "slug": "213856-montse-rendon",
+  "name": "Montse Rendon",
+  "nickname": "Monster",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 172,
+  "reachCm": 173,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1989-03-16",
+  "nationality": "Mexico",
+  "url": "https://www.tapology.com/fightcenter/fighters/213856-montse-rendon",
+  "recentFights": [
+    {
+      "date": "2026-03-14T00:00:00.000Z",
+      "opponent": "Bia Mesquita",
+      "opponentSlug": "210835-beatriz-mesquita",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "136874-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2025-09-13T00:00:00.000Z",
+      "opponent": "Alice Pereira",
+      "opponentSlug": "400890-maria-alice-lima",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "126286-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-23T00:00:00.000Z",
+      "opponent": "Darya Zheleznyakova",
+      "opponentSlug": "229363-dariya-zheleznyakova",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "108462-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-23T00:00:00.000Z",
+      "opponent": "Tamires Vidal",
+      "opponentSlug": "193326-tamires-vidal",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "101865-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-28T00:00:00.000Z",
+      "opponent": "Brittney Cloudy",
+      "opponentSlug": "129727-brittney-cloudy",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Invicta FC 49",
+      "eventSlug": "92412-invicta-fc-49-delboni-vs-decoursey",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-19T00:00:00.000Z",
+      "opponent": "Claudia Zamora",
+      "opponentSlug": "189685-claudia-zamora",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Freedom Fight Night",
+      "eventSlug": "87528-freedom-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-19T00:00:00.000Z",
+      "opponent": "Kristina Pettigrew",
+      "opponentSlug": "178106-kristina-pettigrew",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Combate Global",
+      "eventSlug": "84362-combate-global",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-01T00:00:00.000Z",
+      "opponent": "Micaela Rampage",
+      "opponentSlug": "165114-micaela-rampage",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combate Global",
+      "eventSlug": "83023-combate-global",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-25T00:00:00.000Z",
+      "opponent": "Janetti Delgado",
+      "opponentSlug": "219386-janetti-delgado",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fearless 6",
+      "eventSlug": "78594-fearless-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-14T00:00:00.000Z",
+      "opponent": "Xochilt Ponce",
+      "opponentSlug": "243966-xochilt-ponce-valkiria",
+      "result": "win",
+      "method": "other",
+      "event": "XFM Vol. 12",
+      "eventSlug": "64707-xfm-vol-12",
+      "round": 1,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2019-03-02T00:00:00.000Z",
+      "opponent": "Dulce Briones",
+      "opponentSlug": "213858-dulce-briones",
+      "result": "win",
+      "method": "sub",
+      "event": "XFM Vol. 11",
+      "eventSlug": "58645-xfm-11-international-challenge-mex-vs-usa",
+      "round": 2,
+      "timeInRound": "1:33"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:00:39.856Z"
+}

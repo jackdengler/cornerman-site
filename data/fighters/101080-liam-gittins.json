@@ -1,0 +1,142 @@
+{
+  "slug": "101080-liam-gittins",
+  "name": "Liam Gittins",
+  "nickname": "Nightmare",
+  "aliases": [],
+  "recordPro": {
+    "wins": 13,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": 165,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "England",
+  "url": "https://www.tapology.com/fightcenter/fighters/101080-liam-gittins",
+  "recentFights": [
+    {
+      "date": "2026-04-16T00:00:00.000Z",
+      "opponent": "Sean Gauci",
+      "opponentSlug": "65305-sean-gauci",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "PFL Belfast",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-12-13T00:00:00.000Z",
+      "opponent": "Taylor Lapilus",
+      "opponentSlug": "52612-taylor-lapilus",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "PFL Europe 4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-08T00:00:00.000Z",
+      "opponent": "Alessandro Giordano",
+      "opponentSlug": "205637-alessandro-giordano",
+      "result": "nc",
+      "method": "other",
+      "event": "Cage Warriors 183",
+      "round": 3,
+      "timeInRound": "2:18"
+    },
+    {
+      "date": "2024-03-16T00:00:00.000Z",
+      "opponent": "Roberto Hernandez",
+      "opponentSlug": "47706-roberto-hernandez",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Warriors 168",
+      "round": 5,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2023-11-25T00:00:00.000Z",
+      "opponent": "Reece McEwan",
+      "opponentSlug": "117700-reece-mcewan",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 164",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-21T00:00:00.000Z",
+      "opponent": "Janne Elonen-Kulmala",
+      "opponentSlug": "15618-janne-elonen-kulmala-jamba",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 157",
+      "round": 1,
+      "timeInRound": "3:17"
+    },
+    {
+      "date": "2023-04-15T00:00:00.000Z",
+      "opponent": "Rory Evans",
+      "opponentSlug": "47940-rory-evans",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 152",
+      "round": 2,
+      "timeInRound": "4:23"
+    },
+    {
+      "date": "2022-11-12T00:00:00.000Z",
+      "opponent": "Faisal Malik",
+      "opponentSlug": "71984-faisal-malik",
+      "result": "win",
+      "method": "tko",
+      "event": "Cage Warriors 146",
+      "round": 1,
+      "timeInRound": "4:08"
+    },
+    {
+      "date": "2022-04-01T00:00:00.000Z",
+      "opponent": "Edward Walls",
+      "opponentSlug": "54851-edward-walls",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 135",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-10T00:00:00.000Z",
+      "opponent": "Kingsley Crawford",
+      "opponentSlug": "107200-kingsley-crawford",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 131",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-01T00:00:00.000Z",
+      "opponent": "Gerardo Fanny",
+      "opponentSlug": "141138-gerardo-fanny",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 128",
+      "round": 2,
+      "timeInRound": "4:55"
+    },
+    {
+      "date": "2021-06-24T00:00:00.000Z",
+      "opponent": "Emrah Sonmez",
+      "opponentSlug": "44847-emrah-sonmez",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Warriors 123",
+      "round": 2,
+      "timeInRound": "4:38"
+    }
+  ],
+  "lastVerified": "2026-04-16T23:59:26.760Z"
+}

@@ -1,0 +1,253 @@
+{
+  "slug": "64543-alan-garcia",
+  "name": "Alan Cantú",
+  "nickname": "Beche",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 10,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Mexico",
+  "url": "https://www.tapology.com/fightcenter/fighters/64543-alan-garcia",
+  "recentFights": [
+    {
+      "date": "2025-09-26T00:00:00.000Z",
+      "opponent": "Ismael Zamora",
+      "opponentSlug": "201495-ismael-zamora",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Budo Sento Championship 31",
+      "eventSlug": "132987-budo-sento-championship-31",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-16T00:00:00.000Z",
+      "opponent": "Felipe Diaz",
+      "opponentSlug": "131913-felipe-diaz",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combate Global",
+      "eventSlug": "92996-combate",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-27T00:00:00.000Z",
+      "opponent": "Pierre Daguzan",
+      "opponentSlug": "25004-pierre-daguzan",
+      "result": "win",
+      "method": "tko",
+      "event": "Combate Global",
+      "eventSlug": "89706-combate-global",
+      "round": 1,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2021-12-12T00:00:00.000Z",
+      "opponent": "Ricky Bandejas",
+      "opponentSlug": "37466-ricky-bandejas",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combate: Copa Combate",
+      "eventSlug": "84777-combate-copa-combate",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-29T00:00:00.000Z",
+      "opponent": "David Martinez",
+      "opponentSlug": "138373-david-martinez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combate Global",
+      "eventSlug": "79378-combate-global",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-29T00:00:00.000Z",
+      "opponent": "Ernesto Ibarra",
+      "opponentSlug": "109896-ernesto-ibarra",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combate Global",
+      "eventSlug": "79378-combate-global",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-12T00:00:00.000Z",
+      "opponent": "Joey Ruquet",
+      "opponentSlug": "83063-joey-ruquet",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combate 35: Combate Estrellas 3",
+      "eventSlug": "58976-combate-35",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-17T00:00:00.000Z",
+      "opponent": "Eduardo Alvarado",
+      "opponentSlug": "83000-eduardo-alvarado",
+      "result": "win",
+      "method": "other",
+      "event": "Combate 28: Monterrey",
+      "eventSlug": "56572-combate-26",
+      "round": 1,
+      "timeInRound": "0:26"
+    },
+    {
+      "date": "2018-05-18T00:00:00.000Z",
+      "opponent": "Edgar Cháirez",
+      "opponentSlug": "80020-edgar-chaidez",
+      "result": "loss",
+      "method": "other",
+      "event": "Combate 23: México vs. El Mundo",
+      "eventSlug": "53066-combate-21-mexico-vs-el-mundo",
+      "round": 1,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2017-12-09T00:00:00.000Z",
+      "opponent": "Daniel Lezama",
+      "opponentSlug": "79963-daniel-lezama-doberman",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-15T00:00:00.000Z",
+      "opponent": "Kevin García",
+      "opponentSlug": "79101-kevin-garcia",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WMMAA Pan-American Championships",
+      "eventSlug": "47039-wmmaa-pan-american-championships-monterrey-2017-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-24T00:00:00.000Z",
+      "opponent": "Diego Illescas",
+      "opponentSlug": "70230-diego-illescas",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Coliseo Gladiadores 15",
+      "eventSlug": "48173-coliseo-gladiadores-rivera-vs-rodriguez",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-19T00:00:00.000Z",
+      "opponent": "Jonathan Avila Perez",
+      "opponentSlug": "151570-jonathan-avila-perez",
+      "result": "win",
+      "method": "tko",
+      "event": "Combate Extremo",
+      "eventSlug": "44596-combate-extremo-nino-vs-loco",
+      "round": 2,
+      "timeInRound": "1:57"
+    },
+    {
+      "date": "2016-05-13T00:00:00.000Z",
+      "opponent": "Roberto Martinez Cuellar",
+      "opponentSlug": "168123-roberto-martinez-cuellar",
+      "result": "win",
+      "method": "sub",
+      "event": "Combate Extremo",
+      "eventSlug": "39807-combate-extremo-alex-flores-vs-fito-rubio",
+      "round": 1,
+      "timeInRound": "2:11"
+    },
+    {
+      "date": "2015-10-02T00:00:00.000Z",
+      "opponent": "Javier Reyes",
+      "opponentSlug": "106179-javier-reyes",
+      "result": "win",
+      "method": "tko",
+      "event": "TSC 6: New Era",
+      "eventSlug": "35037-tsc-6",
+      "round": 1,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2015-07-04T00:00:00.000Z",
+      "opponent": "José Roura",
+      "opponentSlug": "106700-jose-nieto",
+      "result": "loss",
+      "method": "sub",
+      "event": "Combate Extremo 15th Anniversary",
+      "eventSlug": "33318-combate-extremo-15th-anniversary-loco-vs-galvan-2",
+      "round": 2,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2015-03-13T00:00:00.000Z",
+      "opponent": "Alejandro Garcia",
+      "opponentSlug": "94365-alejandro-garcia",
+      "result": "win",
+      "method": "tko",
+      "event": "Combate Extremo",
+      "eventSlug": "29834-combate-extremo-chacho-vs-gato",
+      "round": 2,
+      "timeInRound": "2:23"
+    },
+    {
+      "date": "2014-10-24T00:00:00.000Z",
+      "opponent": "Carlos Márquez",
+      "opponentSlug": "94364-carlos-marquez-marley",
+      "result": "win",
+      "method": "sub",
+      "event": "Combate Extremo",
+      "eventSlug": "27737-combate-extremo-loco-vs-rizzo",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-09-06T00:00:00.000Z",
+      "opponent": "Hector Garcia",
+      "opponentSlug": "79115-hector-garcia",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "TSC 5",
+      "eventSlug": "26470-tsc-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-02-28T00:00:00.000Z",
+      "opponent": "Adam Acquaviva",
+      "opponentSlug": "32657-adam-aquaviva",
+      "result": "loss",
+      "method": "other",
+      "event": "RDC 3: USA vs. Mexico",
+      "eventSlug": "22913-rdc-3",
+      "round": 2,
+      "timeInRound": "3:06"
+    },
+    {
+      "date": "2013-06-15T00:00:00.000Z",
+      "opponent": "Ernesto Quiroga Rodriguez",
+      "opponentSlug": "106174-ernesto-quiroga",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:36:43.286Z"
+}

@@ -1,0 +1,154 @@
+{
+  "slug": "242095-junior-tafa",
+  "name": "Junior Tafa",
+  "nickname": "The Juggernaut",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 191,
+  "reachCm": 183,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1996-09-21",
+  "nationality": "Avondale, New Zealand",
+  "url": "https://www.tapology.com/fightcenter/fighters/242095-junior-tafa",
+  "recentFights": [
+    {
+      "date": "2026-05-02T00:00:00.000Z",
+      "opponent": "Kevin Christian",
+      "opponentSlug": "124745-kevin-christian",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "140511-ufc-fight-night-della-maddalena-vs-prates",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-01-31T00:00:00.000Z",
+      "opponent": "Billy Elekana",
+      "opponentSlug": "152109-billy-elekana",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC 325: Volkanovski vs. Lopes 2",
+      "eventSlug": "136549-ufc-325-volkanovski-vs-lopes-2",
+      "round": 2,
+      "timeInRound": "3:18"
+    },
+    {
+      "date": "2025-07-12T00:00:00.000Z",
+      "opponent": "Tuco Tokkos",
+      "opponentSlug": "165168-george-tokkos",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "126523-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "4:52"
+    },
+    {
+      "date": "2024-10-12T00:00:00.000Z",
+      "opponent": "Sean Sharaf",
+      "opponentSlug": "229173-sean-sharaf",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "115961-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2024-08-17T00:00:00.000Z",
+      "opponent": "Valter Walker",
+      "opponentSlug": "267496-valter-rui-the-clean-monster",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC 305: Du Plessis vs. Adesanya",
+      "eventSlug": "111885-ufc-305",
+      "round": 1,
+      "timeInRound": "4:56"
+    },
+    {
+      "date": "2024-02-17T00:00:00.000Z",
+      "opponent": "Marcos Rogério de Lima",
+      "opponentSlug": "marcos-rogerio-de-lima-pezao",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 298: Volkanovski vs. Topuria",
+      "eventSlug": "107060-ufc-298",
+      "round": 2,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2023-08-26T00:00:00.000Z",
+      "opponent": "Parker Porter",
+      "opponentSlug": "parker-porter",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "101389-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "1:24"
+    },
+    {
+      "date": "2023-04-22T00:00:00.000Z",
+      "opponent": "Mohammed Usman",
+      "opponentSlug": "156538-mohammed-usman",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "97433-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-31T00:00:00.000Z",
+      "opponent": "Tsuyoshi Sudario",
+      "opponentSlug": "271208-tsuyoshi-sudario-takanofuji-sanzo",
+      "result": "win",
+      "method": "tko",
+      "event": "RIZIN 40",
+      "eventSlug": "94453-rizin-40",
+      "round": 1,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2022-11-26T00:00:00.000Z",
+      "opponent": "Nicolas Đurđević",
+      "opponentSlug": "88984-nicolas-djurdjevic",
+      "result": "win",
+      "method": "other",
+      "event": "BRAVE CF 66",
+      "eventSlug": "95134-brave-cf-66",
+      "round": 1,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2022-08-05T00:00:00.000Z",
+      "opponent": "Kelvin Fitial",
+      "opponentSlug": "11389-kelvin-fitial-the-big-hit",
+      "result": "win",
+      "method": "other",
+      "event": "Hex Fight Series 23",
+      "eventSlug": "91477-hex-fight-series-23",
+      "round": 2,
+      "timeInRound": "4:36"
+    },
+    {
+      "date": "2022-07-09T00:00:00.000Z",
+      "opponent": "Taisei Sekino",
+      "opponentSlug": "247190-taisei-sekino",
+      "result": "win",
+      "method": "other",
+      "event": "Beatdown Promotions 1",
+      "eventSlug": "88927-beatdown-promotions-1",
+      "round": 1,
+      "timeInRound": "1:06"
+    }
+  ],
+  "lastVerified": "2026-04-18T17:54:29.213Z"
+}

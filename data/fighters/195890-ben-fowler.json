@@ -1,0 +1,143 @@
+{
+  "slug": "195890-ben-fowler",
+  "name": "Ben Fowler",
+  "nickname": "Southend",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 191,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1990-12-29",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/195890-ben-fowler",
+  "recentFights": [
+    {
+      "date": "2024-09-20T00:00:00.000Z",
+      "opponent": "Jackson McVey",
+      "opponentSlug": "238221-jackson-mcvey",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 193: Bowers vs. Borisova",
+      "eventSlug": "115812-lfa-193",
+      "round": 1,
+      "timeInRound": "0:33"
+    },
+    {
+      "date": "2024-03-29T00:00:00.000Z",
+      "opponent": "Trae Cusac",
+      "opponentSlug": "340032-trae-cusac",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 180: Lawrence vs. Ward",
+      "eventSlug": "109365-legacy-fighting-alliance-180-lfa-180",
+      "round": 2,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2022-06-24T00:00:00.000Z",
+      "opponent": "Gabriel Mota",
+      "opponentSlug": "104519-gabriel-mota",
+      "result": "loss",
+      "method": "tko",
+      "event": "B2 Fighting Series 167",
+      "eventSlug": "89439-b2-fighting-series-167-louisville-ky-friday-night-one",
+      "round": 3,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2022-05-28T00:00:00.000Z",
+      "opponent": "Logan Crosby",
+      "opponentSlug": "232060-logan-crosby",
+      "result": "win",
+      "method": "other",
+      "event": "B2 Fighting Series 163",
+      "eventSlug": "88663-b2-fighting-series-163-arkansas",
+      "round": 1,
+      "timeInRound": "0:18"
+    },
+    {
+      "date": "2022-04-16T00:00:00.000Z",
+      "opponent": "Travis Murchison",
+      "opponentSlug": "111933-travis-murchinson",
+      "result": "win",
+      "method": "other",
+      "event": "B2 Fighting Series 156",
+      "eventSlug": "86531-b2-fighting-series-156-iowa",
+      "round": 1,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2021-02-06T00:00:00.000Z",
+      "opponent": "Bryan Battle",
+      "opponentSlug": "153353-bryan-battle",
+      "result": "loss",
+      "method": "sub",
+      "event": "HR MMA 117",
+      "eventSlug": "74312-hr-mma-117",
+      "round": 2,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2019-11-23T00:00:00.000Z",
+      "opponent": "Derik Overstreet",
+      "opponentSlug": "211514-derik-overstreet",
+      "result": "win",
+      "method": "tko",
+      "event": "HR MMA 112: 11 Year Anniversary",
+      "eventSlug": "62673-hrmma-112-11-year-anniversary",
+      "round": 1,
+      "timeInRound": "0:06"
+    },
+    {
+      "date": "2019-08-17T00:00:00.000Z",
+      "opponent": "Elijah Walker",
+      "opponentSlug": "227736-elijah-walker",
+      "result": "win",
+      "method": "sub",
+      "event": "HR MMA 110",
+      "eventSlug": "60179-hr-mma-110",
+      "round": 1,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2019-02-02T00:00:00.000Z",
+      "opponent": "Payton Hughes",
+      "opponentSlug": "157191-payton-hughes",
+      "result": "loss",
+      "method": "tko",
+      "event": "HR MMA 105",
+      "eventSlug": "56875-hr-mma-105",
+      "round": 1,
+      "timeInRound": "1:55"
+    },
+    {
+      "date": "2018-09-15T00:00:00.000Z",
+      "opponent": "Chris Warf",
+      "opponentSlug": "55424-chris-warf",
+      "result": "win",
+      "method": "sub",
+      "event": "Hardrock MMA 102",
+      "eventSlug": "52004-hardrock-mma-101",
+      "round": 1,
+      "timeInRound": "0:48"
+    },
+    {
+      "date": "2012-02-18T00:00:00.000Z",
+      "opponent": "Damon Bell",
+      "opponentSlug": "23708-damon-bell",
+      "result": "win",
+      "method": "other",
+      "event": "Second 2 None",
+      "eventSlug": "32434-second-2-none",
+      "round": 1,
+      "timeInRound": "2:00"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:53:49.955Z"
+}

@@ -1,0 +1,176 @@
+{
+  "slug": "128870-brennan-mckisick",
+  "name": "Brennan McKisick",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/128870-brennan-mckisick",
+  "recentFights": [
+    {
+      "date": "2025-08-08T00:00:00.000Z",
+      "opponent": "Tracy Reeder",
+      "opponentSlug": "254161-tracy-reeder",
+      "result": "loss",
+      "method": "sub",
+      "event": "Xtreme Fight Night 403",
+      "eventSlug": "122750-xtreme-fight-night-403",
+      "round": 3,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2025-02-21T00:00:00.000Z",
+      "opponent": "Triston Gwaltney",
+      "opponentSlug": "149585-triston-gwaltney-9291997",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Xtreme Fight Night 399",
+      "eventSlug": "122747-xtreme-fight-night-399",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-10-05T00:00:00.000Z",
+      "opponent": "Clarence Brown",
+      "opponentSlug": "47295-clarence-brown",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "RDC 16",
+      "eventSlug": "117575-rdc-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-03T00:00:00.000Z",
+      "opponent": "Steve Collins",
+      "opponentSlug": "307378-steve-collins",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "CFFC 127: Kline vs. Cova",
+      "eventSlug": "106215-cffc-127",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-03T00:00:00.000Z",
+      "opponent": "Michael Banks",
+      "opponentSlug": "209529-michael-banks",
+      "result": "win",
+      "method": "sub",
+      "event": "RDC 6",
+      "eventSlug": "100331-real-deal-championships-6",
+      "round": 1,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2021-08-14T00:00:00.000Z",
+      "opponent": "Eli Mefford",
+      "opponentSlug": "151759-eli-mefford",
+      "result": "win",
+      "method": "sub",
+      "event": "B2 Fighting Series 131",
+      "eventSlug": "79790-b2-fighting-series-131-arkansas",
+      "round": 2,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2021-05-22T00:00:00.000Z",
+      "opponent": "Chris Cantu",
+      "opponentSlug": "293069-chris-cantu",
+      "result": "win",
+      "method": "sub",
+      "event": "Peak Fighting 12",
+      "eventSlug": "78331-pf-12-pickney-vs-hatley-jr",
+      "round": 1,
+      "timeInRound": "3:39"
+    },
+    {
+      "date": "2020-08-15T00:00:00.000Z",
+      "opponent": "Zac Moore",
+      "opponentSlug": "218995-zac-moore",
+      "result": "win",
+      "method": "other",
+      "event": "MMAX FC 9: High Stakes 2",
+      "eventSlug": "71087-mmax-fc-9",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-01-25T00:00:00.000Z",
+      "opponent": "Kyle Campbell",
+      "opponentSlug": "195581-kyle-campbell",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Pyramid vs. Walkout FC",
+      "eventSlug": "62152-pyramid-vs-walkout-fc",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-28T00:00:00.000Z",
+      "opponent": "Chase Smith",
+      "opponentSlug": "111776-chase-smith",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Attitude MMA Fights 19",
+      "eventSlug": "62107-attitude-mma-fights-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-08-10T00:00:00.000Z",
+      "opponent": "Arshion Wade",
+      "opponentSlug": "190939-arshion-wade",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Pyramid Fights 13",
+      "eventSlug": "61442-pyramid-fights-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-01-28T00:00:00.000Z",
+      "opponent": "Michael Walker",
+      "opponentSlug": "117719-michael-walker",
+      "result": "loss",
+      "method": "sub",
+      "event": "Pyramid Fights 1",
+      "eventSlug": "43665-pyramid-fights",
+      "round": 2,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2016-06-25T00:00:00.000Z",
+      "opponent": "Colton Hamm",
+      "opponentSlug": "135951-colton-hamm",
+      "result": "win",
+      "method": "tko",
+      "event": "XFI 17",
+      "eventSlug": "40380-xfi-17",
+      "round": 2,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2016-04-02T00:00:00.000Z",
+      "opponent": "Justin Weaver",
+      "opponentSlug": "72899-justin-weaver",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Off The Chain MMA 11",
+      "eventSlug": "38641-off-the-chain-mma-11",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:39:44.292Z"
+}

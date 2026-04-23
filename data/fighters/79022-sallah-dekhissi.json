@@ -1,0 +1,110 @@
+{
+  "slug": "79022-sallah-dekhissi",
+  "name": "Sallah-Eddine Dekhissi",
+  "nickname": "2.0",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 198,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1993-03-26",
+  "nationality": "France",
+  "url": "https://www.tapology.com/fightcenter/fighters/79022-sallah-dekhissi",
+  "recentFights": [
+    {
+      "date": "2023-05-26T00:00:00.000Z",
+      "opponent": "Julien Leblanc",
+      "opponentSlug": "24714-julien-leblanc",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Samourai MMA 6",
+      "eventSlug": "100058-samourai-mma-6-chapitre-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-19T00:00:00.000Z",
+      "opponent": "Yousri Belgaroui",
+      "opponentSlug": "237485-yousri-belgaroui-baby-face-assassin",
+      "result": "loss",
+      "method": "tko",
+      "event": "UAE Warriors 17",
+      "eventSlug": "77795-uae-warriors-17-arabia-2",
+      "round": 1,
+      "timeInRound": "2:44"
+    },
+    {
+      "date": "2021-01-22T00:00:00.000Z",
+      "opponent": "Abdel Rahman Emam",
+      "opponentSlug": "56846-abdel-emam",
+      "result": "win",
+      "method": "tko",
+      "event": "UAE Warriors Arabia",
+      "eventSlug": "76392-uae-warriors-arabia",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-05T00:00:00.000Z",
+      "opponent": "Mohammad Karaki",
+      "opponentSlug": "68895-mohammad-karaki",
+      "result": "loss",
+      "method": "sub",
+      "event": "Phoenix FC 6",
+      "eventSlug": "50989-phoenix-fc-6",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-03T00:00:00.000Z",
+      "opponent": "Mohamed ElDwansy",
+      "opponentSlug": "19383-mohamed-al-dawansy",
+      "result": "win",
+      "method": "sub",
+      "event": "Cedar FC 4",
+      "eventSlug": "47601-cedar-fc-4",
+      "round": 1,
+      "timeInRound": "0:27"
+    },
+    {
+      "date": "2015-02-09T00:00:00.000Z",
+      "opponent": "Majid Sedigh Moridani",
+      "opponentSlug": "47431-majid-seddigh",
+      "result": "win",
+      "method": "sub",
+      "event": "Desert Force 15",
+      "eventSlug": "28906-desert-force-15-dubai",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-12-15T00:00:00.000Z",
+      "opponent": "Aws Al Obeidi",
+      "opponentSlug": "85622-aws-al-obeidi",
+      "result": "win",
+      "method": "other",
+      "event": "Desert Force 14",
+      "eventSlug": "26605-desert-force-14-al-acadamiya-2-finale",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-04-05T00:00:00.000Z",
+      "opponent": "Roggy Lawson",
+      "opponentSlug": "79006-roggy-lawson",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:58:01.082Z"
+}

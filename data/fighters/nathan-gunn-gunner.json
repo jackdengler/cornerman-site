@@ -1,0 +1,165 @@
+{
+  "slug": "nathan-gunn-gunner",
+  "name": "Nathan Gunn",
+  "nickname": "Gunner",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1978-07-26",
+  "nationality": "Thunder Bay, Ontario, Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/nathan-gunn-gunner",
+  "recentFights": [
+    {
+      "date": "2013-09-13T00:00:00.000Z",
+      "opponent": "Gerald Meerschaert",
+      "opponentSlug": "6018-gerald-meerschaert-the-machine",
+      "result": "loss",
+      "method": "sub",
+      "event": "CFC 8: Resurrection",
+      "eventSlug": "18307-cfc-8-resurrection",
+      "round": 2,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2013-07-20T00:00:00.000Z",
+      "opponent": "Ryan Machan",
+      "opponentSlug": "ryan-machan",
+      "result": "loss",
+      "method": "sub",
+      "event": "Xcessive Force FC 2",
+      "eventSlug": "18503-xcessive-force-fc-2",
+      "round": 2,
+      "timeInRound": "4:14"
+    },
+    {
+      "date": "2012-12-14T00:00:00.000Z",
+      "opponent": "George Belanger",
+      "opponentSlug": "14551-george-belanger",
+      "result": "win",
+      "method": "other",
+      "event": "Havoc FC 1",
+      "eventSlug": "16242-havoc-fc-1",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2012-05-04T00:00:00.000Z",
+      "opponent": "Dom O'Grady",
+      "opponentSlug": "3788-dom-ogrady-i-hate-you-so-much",
+      "result": "loss",
+      "method": "sub",
+      "event": "Bellator 67",
+      "eventSlug": "12757-bellator-67",
+      "round": 2,
+      "timeInRound": "4:51"
+    },
+    {
+      "date": "2011-10-28T00:00:00.000Z",
+      "opponent": "Nabil Khatib",
+      "opponentSlug": "4004-nabil-khatib-the-thrill",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Wreck MMA 8",
+      "eventSlug": "11224-wreck-mma-8-unfinished-business",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-05-06T00:00:00.000Z",
+      "opponent": "Lindsey Hawkes",
+      "opponentSlug": "11245-lindsey-hawkes",
+      "result": "win",
+      "method": "other",
+      "event": "Wreck MMA 7",
+      "eventSlug": "9561-wreck-mma-7-unstoppable",
+      "round": 2,
+      "timeInRound": "2:08"
+    },
+    {
+      "date": "2010-02-26T00:00:00.000Z",
+      "opponent": "Jesse Juarez",
+      "opponentSlug": "jesse-juarez",
+      "result": "loss",
+      "method": "other",
+      "event": "MFC 24: HeatXC",
+      "eventSlug": "mfc-24-heatxc",
+      "round": 1,
+      "timeInRound": "0:11"
+    },
+    {
+      "date": "2009-10-02T00:00:00.000Z",
+      "opponent": "Pete Spratt",
+      "opponentSlug": "pete-spratt-secret-weapon",
+      "result": "loss",
+      "method": "other",
+      "event": "MFC 22: Payoff",
+      "eventSlug": "mfc-22-payoff",
+      "round": 2,
+      "timeInRound": "4:19"
+    },
+    {
+      "date": "2009-02-27T00:00:00.000Z",
+      "opponent": "Tyler Jackson",
+      "opponentSlug": "tyler-jackson-tnt",
+      "result": "win",
+      "method": "dec-split",
+      "event": "KOTC: Trooper",
+      "eventSlug": "5910-kotc-trooper",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-10-25T00:00:00.000Z",
+      "opponent": "Jaret Evans",
+      "opponentSlug": "jaret-evans",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-06-20T00:00:00.000Z",
+      "opponent": "Max Dalsin",
+      "opponentSlug": "7706-max-dalsin",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-04-26T00:00:00.000Z",
+      "opponent": "Carlos Espinoza",
+      "opponentSlug": "7707-carlos-espinoza",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-11-30T00:00:00.000Z",
+      "opponent": "Nick Almen",
+      "opponentSlug": "2354-nick-almen",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:15:38.082Z"
+}

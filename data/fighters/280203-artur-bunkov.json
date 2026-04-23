@@ -1,0 +1,33 @@
+{
+  "slug": "280203-artur-bunkov",
+  "name": "Artur Bunkov",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/280203-artur-bunkov",
+  "recentFights": [
+    {
+      "date": "2020-12-12T00:00:00.000Z",
+      "opponent": "Shamil Gaziev",
+      "opponentSlug": "201352-shamil-gaziev",
+      "result": "loss",
+      "method": "tko",
+      "event": "MMA Series 22",
+      "eventSlug": "74165-fcp-mma-series-24",
+      "round": 1,
+      "timeInRound": "0:20"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:55:36.624Z"
+}

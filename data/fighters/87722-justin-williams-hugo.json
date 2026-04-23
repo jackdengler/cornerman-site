@@ -1,0 +1,209 @@
+{
+  "slug": "87722-justin-williams-hugo",
+  "name": "Justin Hugo",
+  "nickname": "Eagle Drop",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": 179,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1993-03-31",
+  "nationality": "Puyallup, Washington, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/87722-justin-williams-hugo",
+  "recentFights": [
+    {
+      "date": "2024-08-10T00:00:00.000Z",
+      "opponent": "Ben Wada",
+      "opponentSlug": "76223-ben-wada-speedy",
+      "result": "loss",
+      "method": "other",
+      "event": "War Championship 11",
+      "eventSlug": "115233-war-championship-11-mma",
+      "round": 1,
+      "timeInRound": "1:26"
+    },
+    {
+      "date": "2019-02-09T00:00:00.000Z",
+      "opponent": "Dylan Atkinson",
+      "opponentSlug": "33194-dylan-atkinson",
+      "result": "loss",
+      "method": "sub",
+      "event": "CageSport 55",
+      "eventSlug": "57292-cagesport-55",
+      "round": 2,
+      "timeInRound": "4:01"
+    },
+    {
+      "date": "2018-09-21T00:00:00.000Z",
+      "opponent": "Vince Morales",
+      "opponentSlug": "91401-vince-morales",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bellator 205",
+      "eventSlug": "54285-bellator-205",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-02-24T00:00:00.000Z",
+      "opponent": "Joey Elzea",
+      "opponentSlug": "36317-joey-elzea",
+      "result": "loss",
+      "method": "sub",
+      "event": "Dominate FC",
+      "eventSlug": "49421-dominate-fc",
+      "round": 1,
+      "timeInRound": "4:02"
+    },
+    {
+      "date": "2017-08-12T00:00:00.000Z",
+      "opponent": "Bill Takeuchi",
+      "opponentSlug": "47984-bill-takeuchi",
+      "result": "loss",
+      "method": "other",
+      "event": "X-1 World Events 48",
+      "eventSlug": "47790-x-1-world-events-48-braddah-vs-felony",
+      "round": 3,
+      "timeInRound": "3:53"
+    },
+    {
+      "date": "2017-07-15T00:00:00.000Z",
+      "opponent": "Jordan Mackin",
+      "opponentSlug": "49163-jordan-mackin",
+      "result": "win",
+      "method": "sub",
+      "event": "CageSport 46",
+      "eventSlug": "46876-cagesport-46-erosa-vs-mcintyre",
+      "round": 1,
+      "timeInRound": "2:05"
+    },
+    {
+      "date": "2017-04-22T00:00:00.000Z",
+      "opponent": "Jake Blaski",
+      "opponentSlug": "34269-jake-blaski",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CageSport 45",
+      "eventSlug": "45484-cagesport-45-erosa-vs-harrington-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-30T00:00:00.000Z",
+      "opponent": "Tycen Lynn",
+      "opponentSlug": "37661-tycen-lynn",
+      "result": "loss",
+      "method": "sub",
+      "event": "WSOF 32: Moraes vs. Hill 2",
+      "eventSlug": "38028-wsof-32",
+      "round": 1,
+      "timeInRound": "2:17"
+    },
+    {
+      "date": "2016-02-20T00:00:00.000Z",
+      "opponent": "Jon Marc Cortez",
+      "opponentSlug": "31945-jon-marc-cortez",
+      "result": "win",
+      "method": "sub",
+      "event": "CageSport 39",
+      "eventSlug": "38205-super-fight-league-46",
+      "round": 2,
+      "timeInRound": "4:16"
+    },
+    {
+      "date": "2015-12-12T00:00:00.000Z",
+      "opponent": "Journey Newson",
+      "opponentSlug": "41203-journey-newson",
+      "result": "loss",
+      "method": "sub",
+      "event": "CageSport 38",
+      "eventSlug": "37183-super-fight-league-45",
+      "round": 1,
+      "timeInRound": "2:17"
+    },
+    {
+      "date": "2015-06-06T00:00:00.000Z",
+      "opponent": "Dillon Serr",
+      "opponentSlug": "91891-dillon-serr",
+      "result": "win",
+      "method": "sub",
+      "event": "KOA Combat: EWALU",
+      "eventSlug": "33037-koa-combat-ewalu",
+      "round": 1,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2015-02-21T00:00:00.000Z",
+      "opponent": "Jon Marc Cortez",
+      "opponentSlug": "31945-jon-marc-cortez",
+      "result": "win",
+      "method": "sub",
+      "event": "The Redemption 2",
+      "eventSlug": "29491-the-redemption-2",
+      "round": 2,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2014-11-22T00:00:00.000Z",
+      "opponent": "Sean Williams",
+      "opponentSlug": "50546-sean-williams",
+      "result": "loss",
+      "method": "sub",
+      "event": "Northwest Fight Challenge 20",
+      "eventSlug": "27585-nw-fight-challenge-20",
+      "round": 1,
+      "timeInRound": "0:46"
+    },
+    {
+      "date": "2014-03-22T00:00:00.000Z",
+      "opponent": "Joey Elzea",
+      "opponentSlug": "36317-joey-elzea",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Ax Fighting",
+      "eventSlug": "27027-ax-fighting-bellingham-fight-night-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-06-01T00:00:00.000Z",
+      "opponent": "Luis Gomez",
+      "opponentSlug": "52442-luis-gomez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Absolute Chaos 5",
+      "eventSlug": "115766-absolute-chaos-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-05-26T00:00:00.000Z",
+      "opponent": "Jessie Adkins",
+      "opponentSlug": "36318-jessie-adkins",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Reign Fighting Championships",
+      "eventSlug": "27028-reign-fighting-championships",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-12-17T00:00:00.000Z",
+      "opponent": "Keith Johnson",
+      "opponentSlug": "413140-keith-johnson",
+      "result": "loss",
+      "method": "other",
+      "event": "Harbor Beatdown 9",
+      "eventSlug": "103240-harbor-beatdown-9-merry-fistmas",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:57:16.435Z"
+}

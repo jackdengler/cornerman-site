@@ -1,0 +1,242 @@
+{
+  "slug": "187808-thomas-peterson",
+  "name": "Thomas Petersen",
+  "nickname": "The Train",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 188,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1995-03-30",
+  "nationality": "Farmington, Minnesota, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/187808-thomas-peterson",
+  "recentFights": [
+    {
+      "date": "2026-04-04T00:00:00.000Z",
+      "opponent": "Guilherme Pat",
+      "opponentSlug": "315186-guilherme-pat",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "UFC Fight Night",
+      "eventSlug": "138212-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-11T00:00:00.000Z",
+      "opponent": "Vitor Petrino",
+      "opponentSlug": "158172-vitor-petrino",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "130995-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "0:26"
+    },
+    {
+      "date": "2025-05-03T00:00:00.000Z",
+      "opponent": "Don'Tale Mayes",
+      "opponentSlug": "46499-dontale-mayes",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "123376-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-02-01T00:00:00.000Z",
+      "opponent": "Shamil Gaziev",
+      "opponentSlug": "201352-shamil-gaziev",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "119459-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "3:12"
+    },
+    {
+      "date": "2024-07-20T00:00:00.000Z",
+      "opponent": "Mohammed Usman",
+      "opponentSlug": "156538-mohammed-usman",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "112783-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-02-03T00:00:00.000Z",
+      "opponent": "Jamal Pogues",
+      "opponentSlug": "60287-jamal-pogues",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "106801-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-29T00:00:00.000Z",
+      "opponent": "Chandler Cole",
+      "opponentSlug": "95294-chandler-cole",
+      "result": "win",
+      "method": "other",
+      "event": "Contender Series 2023",
+      "eventSlug": "100994-contender-series-2023-week-4",
+      "round": 2,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2023-01-13T00:00:00.000Z",
+      "opponent": "Richard Foster",
+      "opponentSlug": "35728-richard-foster-frosty",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 150: Farias vs. Sweeney",
+      "eventSlug": "96178-lfa-150-farias-vs-sweeney",
+      "round": 1,
+      "timeInRound": "3:48"
+    },
+    {
+      "date": "2022-09-16T00:00:00.000Z",
+      "opponent": "Kory Moegenburg",
+      "opponentSlug": "49671-korey-moegenburg",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 142: Amorim vs. Nichols",
+      "eventSlug": "92238-lfa-142-amorim-vs-nichols",
+      "round": 2,
+      "timeInRound": "3:14"
+    },
+    {
+      "date": "2022-04-15T00:00:00.000Z",
+      "opponent": "Waldo Cortes-Acosta",
+      "opponentSlug": "92314-waldo-cortes-acosta",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 129: Petersen vs. Cortes-Acosta",
+      "eventSlug": "87693-lfa-129-petersen-vs-cortes-acosta",
+      "round": 3,
+      "timeInRound": "4:53"
+    },
+    {
+      "date": "2021-07-30T00:00:00.000Z",
+      "opponent": "Vernon Lewis",
+      "opponentSlug": "16424-vernon-lewis",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 113: Lewis vs. Petersen",
+      "eventSlug": "80472-lfa-113-lewis-vs-petersen",
+      "round": 1,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2021-04-16T00:00:00.000Z",
+      "opponent": "Odell Pantin",
+      "opponentSlug": "187759-odell-pantin",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 104: McKenzie vs. Phillips",
+      "eventSlug": "78507-lfa-104-mckenzie-vs-phillips",
+      "round": 1,
+      "timeInRound": "3:33"
+    },
+    {
+      "date": "2021-01-15T00:00:00.000Z",
+      "opponent": "Kimo Luis",
+      "opponentSlug": "158210-richard-luis",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 97: Browne vs. Estrázulas",
+      "eventSlug": "75299-lfa-97-browne-vs-estrazulas",
+      "round": 1,
+      "timeInRound": "0:19"
+    },
+    {
+      "date": "2020-02-21T00:00:00.000Z",
+      "opponent": "Brian Peterson",
+      "opponentSlug": "109397-brian-peterson",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 82: Polizzi vs. Pogues",
+      "eventSlug": "66533-lfa-82-polizzi-vs-pogues",
+      "round": 1,
+      "timeInRound": "1:52"
+    },
+    {
+      "date": "2019-12-21T00:00:00.000Z",
+      "opponent": "BJ Lacy",
+      "opponentSlug": "2534-bj-lacy-da-beast",
+      "result": "win",
+      "method": "other",
+      "event": "Mecca 16",
+      "eventSlug": "64511-mecca-16",
+      "round": 1,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2019-09-27T00:00:00.000Z",
+      "opponent": "Jimmy Barnes",
+      "opponentSlug": "197044-jimmy-barnes",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 77: James vs. Martin",
+      "eventSlug": "62514-lfa-77-james-vs-martin",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-27T00:00:00.000Z",
+      "opponent": "Jordan Franks",
+      "opponentSlug": "100683-jordan-franks",
+      "result": "win",
+      "method": "other",
+      "event": "KC Fighting Alliance 34",
+      "eventSlug": "60419-kc-fighting-alliance-34",
+      "round": 1,
+      "timeInRound": "2:04"
+    },
+    {
+      "date": "2019-05-31T00:00:00.000Z",
+      "opponent": "Keefer Bender",
+      "opponentSlug": "165427-keefer-bender",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 68: Jennerman vs. Barbosa",
+      "eventSlug": "59775-lfa-68-stots-vs-erak",
+      "round": 3,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2018-12-07T00:00:00.000Z",
+      "opponent": "Chato Wiest",
+      "opponentSlug": "169177-chato-wiest",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 56: Hubbard vs. Mota",
+      "eventSlug": "56318-lfa-56-hubbard-vs-mota",
+      "round": 1,
+      "timeInRound": "0:17"
+    },
+    {
+      "date": "2018-06-01T00:00:00.000Z",
+      "opponent": "James Norris",
+      "opponentSlug": "174291-james-norris",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 41: Moisés vs. Peterson",
+      "eventSlug": "52492-lfa-41-moises-vs-peterson",
+      "round": 1,
+      "timeInRound": "2:42"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:55:12.262Z"
+}

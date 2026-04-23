@@ -1,0 +1,143 @@
+{
+  "slug": "174371-fernando-calvo",
+  "name": "Fernando Calvo",
+  "nickname": "El Bicho",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1996-03-29",
+  "nationality": "Spain",
+  "url": "https://www.tapology.com/fightcenter/fighters/174371-fernando-calvo",
+  "recentFights": [
+    {
+      "date": "2024-10-05T00:00:00.000Z",
+      "opponent": "Samuel Blasco",
+      "opponentSlug": "158893-samuel-blasco-yan",
+      "result": "loss",
+      "method": "other",
+      "event": "AFL 36: New Era",
+      "eventSlug": "116941-afl-36-new-era",
+      "round": 2,
+      "timeInRound": "0:20"
+    },
+    {
+      "date": "2022-09-16T00:00:00.000Z",
+      "opponent": "Jose Diaz",
+      "opponentSlug": "52245-jose-diaz-suavecito",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Combate Global",
+      "eventSlug": "92996-combate",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-10T00:00:00.000Z",
+      "opponent": "Victor Valenzuela",
+      "opponentSlug": "67389-victor-valenzuela-sicosis",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combate Global",
+      "eventSlug": "90028-combate-global",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-18T00:00:00.000Z",
+      "opponent": "Helio Hernandez",
+      "opponentSlug": "311131-helio-hernandez",
+      "result": "win",
+      "method": "sub",
+      "event": "AFL 26: Aranjuez",
+      "eventSlug": "83755-afl-26-aranjuez",
+      "round": 1,
+      "timeInRound": "3:04"
+    },
+    {
+      "date": "2021-05-01T00:00:00.000Z",
+      "opponent": "Simone Serra",
+      "opponentSlug": "183070-simone-serra",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "AFL 23",
+      "eventSlug": "78872-afl-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-30T00:00:00.000Z",
+      "opponent": "Moussa Sabaly",
+      "opponentSlug": "200739-moha-sabaly-musa",
+      "result": "win",
+      "method": "other",
+      "event": "AFL 22: Bad Blood",
+      "eventSlug": "64622-afl-22-bad-blood",
+      "round": 3,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2019-05-18T00:00:00.000Z",
+      "opponent": "Attila Zoltan",
+      "opponentSlug": "228624-attila-zoltan",
+      "result": "win",
+      "method": "other",
+      "event": "AFL 20: Resurrection",
+      "eventSlug": "59787-afl-20-resurrection",
+      "round": 1,
+      "timeInRound": "1:26"
+    },
+    {
+      "date": "2018-09-29T00:00:00.000Z",
+      "opponent": "Saúl Gonzalez",
+      "opponentSlug": "165281-sal-gonzalez",
+      "result": "loss",
+      "method": "other",
+      "event": "AFL 16: Feudal War",
+      "eventSlug": "53562-afl-17",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2018-04-15T00:00:00.000Z",
+      "opponent": "Maikon Gustavo",
+      "opponentSlug": "170792-gustavo-maikon",
+      "result": "win",
+      "method": "tko",
+      "event": "Hombres de Honor 93",
+      "eventSlug": "52607-hombres-de-honor-93",
+      "round": 2,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2017-12-16T00:00:00.000Z",
+      "opponent": "Alix JeanGuillaume",
+      "opponentSlug": "142718-alix-jean-guillaume",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "Hombres de Honor 90",
+      "eventSlug": "49844-hombres-de-honor-90",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-11T00:00:00.000Z",
+      "opponent": "Juan Jose Carrillo",
+      "opponentSlug": "175145-juan-jose-carrillo",
+      "result": "win",
+      "method": "tko",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "0:52"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:58:04.949Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "52255-chaz-wasserman",
+  "name": "Chaz Wasserman",
+  "nickname": "Bad News",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 187,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1987-01-23",
+  "nationality": "South Africa",
+  "url": "https://www.tapology.com/fightcenter/fighters/52255-chaz-wasserman",
+  "recentFights": [
+    {
+      "date": "2014-02-27T00:00:00.000Z",
+      "opponent": "Themba Gorimbo",
+      "opponentSlug": "52251-themba-takura-gorimbo",
+      "result": "loss",
+      "method": "other",
+      "event": "EFC Africa 27",
+      "eventSlug": "21733-efca-27",
+      "round": 2,
+      "timeInRound": "4:31"
+    },
+    {
+      "date": "2011-03-03T00:00:00.000Z",
+      "opponent": "Chimmy van Winkel",
+      "opponentSlug": "52253-chimmy-van-winkel",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:54:59.958Z"
+}

@@ -1,0 +1,114 @@
+{
+  "slug": "49376-josh-treseler",
+  "name": "Josh Treseler",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 5,
+    "draws": 0
+  },
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/49376-josh-treseler",
+  "recentFights": [
+    {
+      "date": "2013-11-02T00:00:00.000Z",
+      "opponent": "Kyle Todd",
+      "opponentSlug": "23649-kyle-todd",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-08-10T00:00:00.000Z",
+      "opponent": "Joe Wilson",
+      "opponentSlug": "52941-joe-willson",
+      "result": "win",
+      "method": "other",
+      "event": "Mecca 1: MMA at the Myth",
+      "eventSlug": "19086-mecca-1-mma-at-the-myth",
+      "round": 2,
+      "timeInRound": "0:43"
+    },
+    {
+      "date": "2013-06-08T00:00:00.000Z",
+      "opponent": "Jacob Ouradnik",
+      "opponentSlug": "49377-jacob-ouradnik",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Valhalla Cage Fighting 1",
+      "eventSlug": "19328-valhalla-rising",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-03-23T00:00:00.000Z",
+      "opponent": "John Castañeda",
+      "opponentSlug": "20125-john-castaneda",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-11-23T00:00:00.000Z",
+      "opponent": "Stephen Watt",
+      "opponentSlug": "19911-stephen-watt",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-10-07T00:00:00.000Z",
+      "opponent": "Bobbe Dulitz",
+      "opponentSlug": "62398-bobbe-dulitz",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-06-10T00:00:00.000Z",
+      "opponent": "Bobbe Dulitz",
+      "opponentSlug": "62398-bobbe-dulitz",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-04-08T00:00:00.000Z",
+      "opponent": "Stephen Watt",
+      "opponentSlug": "19911-stephen-watt",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:03:33.431Z"
+}

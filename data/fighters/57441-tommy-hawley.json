@@ -1,0 +1,70 @@
+{
+  "slug": "57441-tommy-hawley",
+  "name": "Tommy Hawley",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/57441-tommy-hawley",
+  "recentFights": [
+    {
+      "date": "2015-06-12T00:00:00.000Z",
+      "opponent": "Montel Jackson",
+      "opponentSlug": "89335-montel-jackson",
+      "result": "loss",
+      "method": "tko",
+      "event": "XFO: Rocktown Showdown 24",
+      "eventSlug": "33153-xfo-rocktown-showdown-24",
+      "round": 3,
+      "timeInRound": "0:16"
+    },
+    {
+      "date": "2014-03-14T00:00:00.000Z",
+      "opponent": "Joe Ray",
+      "opponentSlug": "60969-joe-ray",
+      "result": "win",
+      "method": "tko",
+      "event": "XFO: Rocktown Showdown 19",
+      "eventSlug": "23198-xfo-rocktown-showdown-19",
+      "round": 1,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2013-12-13T00:00:00.000Z",
+      "opponent": "Jordan Wiggins",
+      "opponentSlug": "60094-jordan-wiggins",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "XFO 49: Maciejewski vs. Petkovic",
+      "eventSlug": "21313-xfo-49-morrow-vs-marrello-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-10-26T00:00:00.000Z",
+      "opponent": "James Heise",
+      "opponentSlug": "53717-james-heise",
+      "result": "win",
+      "method": "sub",
+      "event": "XFO: Rocktown Showdown 18",
+      "eventSlug": "21221-xfo-rocktown-showdown-18",
+      "round": 1,
+      "timeInRound": "2:25"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:38:08.582Z"
+}

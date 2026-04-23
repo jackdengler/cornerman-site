@@ -1,0 +1,81 @@
+{
+  "slug": "499516-kayara-hartfield",
+  "name": "Kayara Hartfield",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "2003-11-14",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/499516-kayara-hartfield",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Jessie Hays",
+      "opponentSlug": "427776-jessie-hays",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 231: Lozej vs. Ibarra",
+      "eventSlug": "140675-lfa-231-trembley-vs-johns",
+      "round": 2,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2026-01-22T00:00:00.000Z",
+      "opponent": "Ashley Green",
+      "opponentSlug": "542683-ashley-green",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Tuff-N-Uff 151",
+      "eventSlug": "138371-tuff-n-uff-151",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-08T00:00:00.000Z",
+      "opponent": "Brianna Nightingale",
+      "opponentSlug": "307739-brianna-knightingale",
+      "result": "win",
+      "method": "tko",
+      "event": "Flex Fights",
+      "eventSlug": "135349-flex-fights-the-underground-vol-52",
+      "round": 2,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2025-07-12T00:00:00.000Z",
+      "opponent": "Hannah Gladden",
+      "opponentSlug": "507360-hannah-gladden",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Blue Collar Fight Club",
+      "eventSlug": "128499-clash-at-the-coosa",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-31T00:00:00.000Z",
+      "opponent": "Taryn Swartz",
+      "opponentSlug": "499517-taryn-swartz",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Ascendancy FC 67",
+      "eventSlug": "128546-ascendancy-fc-67",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:35:53.960Z"
+}

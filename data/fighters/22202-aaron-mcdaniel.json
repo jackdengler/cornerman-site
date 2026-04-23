@@ -1,0 +1,110 @@
+{
+  "slug": "22202-aaron-mcdaniel",
+  "name": "Aaron McDaniel",
+  "nickname": "Ice Tre",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "2002-03-08",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/22202-aaron-mcdaniel",
+  "recentFights": [
+    {
+      "date": "2026-01-18T00:00:00.000Z",
+      "opponent": "Quincy Evans",
+      "opponentSlug": "292277-quincy-evans",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fury FC 113",
+      "eventSlug": "136700-fury-fc-113",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-26T00:00:00.000Z",
+      "opponent": "Edward Lavallie",
+      "opponentSlug": "139659-edward-lavallie",
+      "result": "win",
+      "method": "other",
+      "event": "CFFC 146: Roberts vs. Alvarez",
+      "eventSlug": "132187-cffc-146-roberts-vs-alvarez",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2024-12-14T00:00:00.000Z",
+      "opponent": "Quintin Richards",
+      "opponentSlug": "292164-quintin-richards",
+      "result": "loss",
+      "method": "other",
+      "event": "SCS: The Fight Before Christmas 2",
+      "eventSlug": "118591-scs-the-fight-before-christmas-2",
+      "round": 2,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2024-09-20T00:00:00.000Z",
+      "opponent": "Darence Dewayne Brooks",
+      "opponentSlug": "200018-darence-dewayne-brooks",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Titan Combat Championship 3",
+      "eventSlug": "116735-titan-combat-championship-3-redemption",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-01-06T00:00:00.000Z",
+      "opponent": "Justice Cochran",
+      "opponentSlug": "377206-justice-cochran",
+      "result": "win",
+      "method": "dec-split",
+      "event": "ECC 13",
+      "eventSlug": "107734-southeastern-combat-championships-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-10-14T00:00:00.000Z",
+      "opponent": "Taquel Young",
+      "opponentSlug": "409107-taquel-young",
+      "result": "win",
+      "method": "dec-split",
+      "event": "NFC 158: Halloween Fight Party",
+      "eventSlug": "104974-nfc-158-halloween",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-12T00:00:00.000Z",
+      "opponent": "Nicholas Rees",
+      "opponentSlug": "397625-nicholas-rees",
+      "result": "win",
+      "method": "other",
+      "event": "ECC 12",
+      "eventSlug": "103701-southeastern-combat-championships-12",
+      "round": 1,
+      "timeInRound": "2:49"
+    },
+    {
+      "date": "2023-03-04T00:00:00.000Z",
+      "opponent": "Devon Henton",
+      "opponentSlug": "377329-devon-henton",
+      "result": "win",
+      "method": "sub",
+      "event": "ECC 10",
+      "eventSlug": "97996-eminence-combat-championships-x-ecc-x",
+      "round": 2,
+      "timeInRound": "2:58"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:41:16.711Z"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "404259-evan-smith",
+  "name": "Evan Smith",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/404259-evan-smith",
+  "recentFights": [
+    {
+      "date": "2010-07-03T00:00:00.000Z",
+      "opponent": "Ben Johnston",
+      "opponentSlug": "345042-ben-johnston",
+      "result": "loss",
+      "method": "sub",
+      "event": "Battle By The Bay",
+      "eventSlug": "105373-battle-by-the-bay",
+      "round": 1,
+      "timeInRound": "2:53"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:57:53.574Z"
+}

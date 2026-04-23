@@ -1,0 +1,81 @@
+{
+  "slug": "123448-maksat-musaev",
+  "name": "Maksat Musabaev",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1990-12-29",
+  "nationality": "Kyrgyzstan",
+  "url": "https://www.tapology.com/fightcenter/fighters/123448-maksat-musaev",
+  "recentFights": [
+    {
+      "date": "2019-11-12T00:00:00.000Z",
+      "opponent": "Shamil Gaziev",
+      "opponentSlug": "201352-shamil-gaziev",
+      "result": "loss",
+      "method": "tko",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64318-immaf-wmmaa-amateur-world-championships-2019-day-2",
+      "round": 1,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2019-11-11T00:00:00.000Z",
+      "opponent": "Nasih El Arja",
+      "opponentSlug": "242944-nasih-el-arja",
+      "result": "win",
+      "method": "tko",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64317-immaf-wmmaa-amateur-world-championships-2019",
+      "round": 1,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2017-03-10T00:00:00.000Z",
+      "opponent": "Kairat Sharshembekov",
+      "opponentSlug": "202984-kairat-sharshembekov",
+      "result": "win",
+      "method": "other",
+      "event": "Kyrgyz MMA Championship 2017",
+      "eventSlug": "56820-kyrgyz-mma-championship-2017",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-08-07T00:00:00.000Z",
+      "opponent": "Mohmed Sulimanov",
+      "opponentSlug": "120859-mohmed-sulimanov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "WMMAA Asian Championships Day 2",
+      "eventSlug": "41056-wmmaa-asian-championships-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-26T00:00:00.000Z",
+      "opponent": "Viktor Pavlíček",
+      "opponentSlug": "93319-viktor-pavlicek-vito",
+      "result": "loss",
+      "method": "other",
+      "event": "WMMAA",
+      "eventSlug": "37066-wmmaa-2015-world-championships-day-1",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:55:43.677Z"
+}

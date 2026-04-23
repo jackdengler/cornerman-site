@@ -1,0 +1,312 @@
+{
+  "slug": "135741-oktagon-87",
+  "name": "OKTAGON 87: Szabová vs. Fernandes",
+  "promotion": "Oktagon MMA",
+  "startTimeUtc": "2026-04-25T16:00:00.000Z",
+  "venueTimezone": null,
+  "venue": "Home Credit Arena",
+  "location": "Liberec, Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/events/135741-oktagon-87",
+  "status": "scheduled",
+  "forumThreadId": "93017",
+  "fights": [
+    {
+      "id": "135741-oktagon-87#1",
+      "eventSlug": "135741-oktagon-87",
+      "order": 1,
+      "cardSection": "main",
+      "weightClass": "125 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "187305-lucia-szabova-queen-bee",
+        "name": "Lucia Szabová",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "271498-leidiane-fernandes",
+        "name": "Leidiane Fernandes",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-23T06:17:25.607Z"
+    },
+    {
+      "id": "135741-oktagon-87#2",
+      "eventSlug": "135741-oktagon-87",
+      "order": 2,
+      "cardSection": "main",
+      "weightClass": "185 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "169531-dominik-humburger",
+        "name": "Dominik Humburger",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "19640-zebaztian-kadestam",
+        "name": "Zebaztian Kadestam",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-23T06:17:25.607Z"
+    },
+    {
+      "id": "135741-oktagon-87#3",
+      "eventSlug": "135741-oktagon-87",
+      "order": 3,
+      "cardSection": "main",
+      "weightClass": "145 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "279961-radek-rousal-ruchy",
+        "name": "Radek Roušal",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "229953-samuel-bark-sammon-decker",
+        "name": "Samuel Bark",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-23T06:17:25.607Z"
+    },
+    {
+      "id": "135741-oktagon-87#4",
+      "eventSlug": "135741-oktagon-87",
+      "order": 4,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "266708-tomasz-mudroch",
+        "name": "Tomáš Mudroch",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "267974-josef-hala",
+        "name": "Josef Hála",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-23T06:17:25.607Z"
+    },
+    {
+      "id": "135741-oktagon-87#5",
+      "eventSlug": "135741-oktagon-87",
+      "order": 5,
+      "cardSection": "main",
+      "weightClass": "155 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "305714-vladimir-lengal-vlado",
+        "name": "Vladimír Lengál",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "107207-ozan-aslaner",
+        "name": "Ozan Aslaner",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-23T06:17:25.607Z"
+    },
+    {
+      "id": "135741-oktagon-87#6",
+      "eventSlug": "135741-oktagon-87",
+      "order": 6,
+      "cardSection": "main",
+      "weightClass": "165 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "64719-jan-malach",
+        "name": "Jan Malach",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "481316-stefan-koncar-the-terror",
+        "name": "Stefan Končar",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-23T06:17:25.607Z"
+    },
+    {
+      "id": "135741-oktagon-87#7",
+      "eventSlug": "135741-oktagon-87",
+      "order": 7,
+      "cardSection": "main",
+      "weightClass": "205 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "34433-mateusz-strzelczyk",
+        "name": "Mateusz Strzelczyk",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "145826-vojtech-garba",
+        "name": "Vojtech Garba",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-23T06:17:25.607Z"
+    },
+    {
+      "id": "135741-oktagon-87#8",
+      "eventSlug": "135741-oktagon-87",
+      "order": 8,
+      "cardSection": "main",
+      "weightClass": "145 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "197384-vaclav-stepan",
+        "name": "Václav Štěpán",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "365273-firas-daud",
+        "name": "Firas Daud",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-23T06:17:25.607Z"
+    },
+    {
+      "id": "135741-oktagon-87#9",
+      "eventSlug": "135741-oktagon-87",
+      "order": 9,
+      "cardSection": "main",
+      "weightClass": "115 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "174069-josefine-lindgren-knutsson-little-thunder",
+        "name": "Josefine Knutsson",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "266639-mileide-simplicio",
+        "name": "Mileide Simplicio",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-23T06:17:25.607Z"
+    },
+    {
+      "id": "135741-oktagon-87#10",
+      "eventSlug": "135741-oktagon-87",
+      "order": 10,
+      "cardSection": "main",
+      "weightClass": "140 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "323029-liam-pitts",
+        "name": "Liam Pitts",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "229084-kacper-matyszewski",
+        "name": "Kacper Matyszewski",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-23T06:17:25.607Z"
+    },
+    {
+      "id": "135741-oktagon-87#11",
+      "eventSlug": "135741-oktagon-87",
+      "order": 11,
+      "cardSection": "main",
+      "weightClass": "155 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "347893-alex-hutyra",
+        "name": "Alex Hutyra",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "368664-umut-birdal",
+        "name": "Umut Birdal",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-23T06:17:25.607Z"
+    }
+  ],
+  "lastVerified": "2026-04-23T06:17:25.607Z"
+}

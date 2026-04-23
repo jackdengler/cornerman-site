@@ -1,0 +1,37 @@
+{
+  "slug": "372153-obrien-younger",
+  "name": "OBrien Younger",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 188,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/372153-obrien-younger",
+  "recentFights": [
+    {
+      "date": "2023-02-04T00:00:00.000Z",
+      "opponent": "Lorenzo Figueroa",
+      "opponentSlug": "316599-lorenzo-figueroa",
+      "result": "loss",
+      "method": "tko",
+      "event": "Central Coast Fighting Championship",
+      "eventSlug": "96669-central-coast-fighting-championship",
+      "round": 1,
+      "timeInRound": "0:16"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:44:30.825Z"
+}

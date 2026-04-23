@@ -1,0 +1,33 @@
+{
+  "slug": "351025-hiyu",
+  "name": "Hyu Iwata",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 173,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "2002-11-09",
+  "nationality": "Japan",
+  "url": "https://www.tapology.com/fightcenter/fighters/351025-hiyu",
+  "recentFights": [
+    {
+      "date": "2024-07-27T00:00:00.000Z",
+      "opponent": "Kazuteru Yamazaki",
+      "opponentSlug": "401697-kazuo-yamazaki",
+      "result": "win",
+      "method": "tko",
+      "event": "Shooto 2024 Vol.6",
+      "eventSlug": "115223-shooto-2024-vol-6",
+      "round": 1,
+      "timeInRound": "1:46"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:07:21.913Z"
+}

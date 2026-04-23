@@ -1,0 +1,165 @@
+{
+  "slug": "113559-ronald-girones-sago",
+  "name": "Ronald Girones Sago",
+  "nickname": "Mr. Cuba",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Cuba",
+  "url": "https://www.tapology.com/fightcenter/fighters/113559-ronald-girones-sago",
+  "recentFights": [
+    {
+      "date": "2026-02-14T00:00:00.000Z",
+      "opponent": "Korey Taylor",
+      "opponentSlug": "193806-korey-taylor",
+      "result": "loss",
+      "method": "tko",
+      "event": "Combat Night Tallahassee",
+      "eventSlug": "139575-combat-night-tallahassee",
+      "round": 2,
+      "timeInRound": "1:24"
+    },
+    {
+      "date": "2025-08-09T00:00:00.000Z",
+      "opponent": "Angel Mercado",
+      "opponentSlug": "76303-angel-mercado",
+      "result": "loss",
+      "method": "tko",
+      "event": "Combat Night Kissimmee",
+      "eventSlug": "131119-combat-night-kissimmee",
+      "round": 1,
+      "timeInRound": "3:28"
+    },
+    {
+      "date": "2023-05-03T00:00:00.000Z",
+      "opponent": "Jesse Roberts",
+      "opponentSlug": "107594-jesse-roberts",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "XMMA 6: Bash at the Beach",
+      "eventSlug": "99256-xmma-6-bash-at-the-beach",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-11-27T00:00:00.000Z",
+      "opponent": "Ho Taek Oh",
+      "opponentSlug": "61122-ho-tak-oh",
+      "result": "loss",
+      "method": "sub",
+      "event": "UAE Warriors 14",
+      "eventSlug": "73549-uae-warriors-14",
+      "round": 3,
+      "timeInRound": "3:58"
+    },
+    {
+      "date": "2019-03-23T00:00:00.000Z",
+      "opponent": "Mauricio Salgado",
+      "opponentSlug": "113599-mauricio-salgado",
+      "result": "win",
+      "method": "other",
+      "event": "Knockout Challenge 2",
+      "eventSlug": "58480-knockout-challenge-2",
+      "round": 2,
+      "timeInRound": "0:58"
+    },
+    {
+      "date": "2018-11-24T00:00:00.000Z",
+      "opponent": "David Aquino",
+      "opponentSlug": "202978-david-aquino-el-perro",
+      "result": "win",
+      "method": "other",
+      "event": "Knockout Challenge",
+      "eventSlug": "56670-knockout-challenge",
+      "round": 1,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2017-11-24T00:00:00.000Z",
+      "opponent": "Marcelo Duarte",
+      "opponentSlug": "50778-marcelo-duarte",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Infernales MMA 2",
+      "eventSlug": "48957-infernales-mma-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-10-28T00:00:00.000Z",
+      "opponent": "Jose Mario Vidal",
+      "opponentSlug": "84169-mario-vidal",
+      "result": "win",
+      "method": "other",
+      "event": "TFC 2: Girones vs Vidal",
+      "eventSlug": "48955-tucuman-fighting-championship-2-girones-vs-vidal",
+      "round": 1,
+      "timeInRound": "4:08"
+    },
+    {
+      "date": "2017-08-27T00:00:00.000Z",
+      "opponent": "Javier Colombo",
+      "opponentSlug": "139162-javier-colombo-la-muerte",
+      "result": "win",
+      "method": "other",
+      "event": "Mixed Real World FIghters",
+      "eventSlug": "47531-mixed-real-world-fighters",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2016-11-04T00:00:00.000Z",
+      "opponent": "Gonzalo Pereyra",
+      "opponentSlug": "142750-gonzalo-pereyra",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Arena Tour 8",
+      "eventSlug": "42080-arena-tour-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-23T00:00:00.000Z",
+      "opponent": "Gabriel Jaime",
+      "opponentSlug": "87470-gabriel-jaime",
+      "result": "win",
+      "method": "other",
+      "event": "TFC 1",
+      "eventSlug": "39519-tfc-1",
+      "round": 1,
+      "timeInRound": "4:00"
+    },
+    {
+      "date": "2015-12-18T00:00:00.000Z",
+      "opponent": "Santiago Cao",
+      "opponentSlug": "33611-santiago-cao-el-leon",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Iron Fighter 3",
+      "eventSlug": "37345-ifc",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-05T00:00:00.000Z",
+      "opponent": "Alejandro Galvan",
+      "opponentSlug": "113558-alejandro-galvan",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "Instinto Animal",
+      "eventSlug": "34199-instinto-animal-la-noche-de-los-valientes",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:36:56.057Z"
+}

@@ -1,0 +1,132 @@
+{
+  "slug": "271498-leidiane-fernandes",
+  "name": "Leidiane Fernandes",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 163,
+  "reachCm": null,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": "1991-12-16",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/271498-leidiane-fernandes",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Lucia Szabová",
+      "opponentSlug": "187305-lucia-szabova-queen-bee",
+      "result": null,
+      "method": "other",
+      "event": "OKTAGON 87: Szabová vs. Fernandes",
+      "eventSlug": "135741-oktagon-87",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-25T00:00:00.000Z",
+      "opponent": "Brena Cardozo",
+      "opponentSlug": "242373-brena-soares-cardozo",
+      "result": "win",
+      "method": "other",
+      "event": "Jungle Fight 141",
+      "eventSlug": "132729-jungle-fight-141",
+      "round": 3,
+      "timeInRound": "3:45"
+    },
+    {
+      "date": "2025-09-20T00:00:00.000Z",
+      "opponent": "Yasmin Guimarães",
+      "opponentSlug": "286554-yasmin-guimaraes",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Jungle Fight 140",
+      "eventSlug": "132728-jungle-fight-140",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-07-12T00:00:00.000Z",
+      "opponent": "Yasmin Guimarães",
+      "opponentSlug": "286554-yasmin-guimaraes",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Jungle Fight 138",
+      "eventSlug": "129988-jungle-fight-138-fight-do-milhao",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-02-07T00:00:00.000Z",
+      "opponent": "Ruth Pereira",
+      "opponentSlug": "251247-ruth-pereira-ravena",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 201: Conceição vs. Silva",
+      "eventSlug": "121294-lfa-201",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-12-13T00:00:00.000Z",
+      "opponent": "Gisele Libânio",
+      "opponentSlug": "292482-gisele-libanio",
+      "result": "win",
+      "method": "other",
+      "event": "Shooto Brasil 127",
+      "eventSlug": "120774-shooto-brasil-127",
+      "round": 1,
+      "timeInRound": "3:47"
+    },
+    {
+      "date": "2024-05-03T00:00:00.000Z",
+      "opponent": "Djulia Ariana",
+      "opponentSlug": "286648-djulia-ariana",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 183: Cantanhede vs. Guimarães",
+      "eventSlug": "111711-lfa-183",
+      "round": 1,
+      "timeInRound": "3:46"
+    },
+    {
+      "date": "2023-09-02T00:00:00.000Z",
+      "opponent": "Diana Morais",
+      "opponentSlug": "161845-diana-morais",
+      "result": "win",
+      "method": "sub",
+      "event": "MAC 5",
+      "eventSlug": "103906-mac-5",
+      "round": 1,
+      "timeInRound": "2:09"
+    },
+    {
+      "date": "2021-07-17T00:00:00.000Z",
+      "opponent": "Josy Fabriely",
+      "opponentSlug": "244969-josy-maldita",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Refit Pro Fighters 1",
+      "eventSlug": "80827-refit-pro-fighters-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-27T00:00:00.000Z",
+      "opponent": "Lorrany Santos",
+      "opponentSlug": "244661-lorrany-santos",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shooto Brasil 101",
+      "eventSlug": "71503-shooto-brasil-101",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:04:33.364Z"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "213570-larry-hill",
+  "name": "Larry Hill",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/213570-larry-hill",
+  "recentFights": [
+    {
+      "date": "2019-02-23T00:00:00.000Z",
+      "opponent": "Gauge Young",
+      "opponentSlug": "213571-gauge-young",
+      "result": "loss",
+      "method": "other",
+      "event": "KC Fighting Alliance 32",
+      "eventSlug": "57463-kc-fighting-alliance-32",
+      "round": 3,
+      "timeInRound": "1:50"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:12:42.716Z"
+}

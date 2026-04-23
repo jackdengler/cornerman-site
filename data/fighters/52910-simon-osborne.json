@@ -1,0 +1,55 @@
+{
+  "slug": "52910-simon-osborne",
+  "name": "Simon Osborne",
+  "nickname": "Ozzie",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/52910-simon-osborne",
+  "recentFights": [
+    {
+      "date": "2014-11-01T00:00:00.000Z",
+      "opponent": "Brandon Sosoli",
+      "opponentSlug": "52902-brandon-sosoli-zilla",
+      "result": "loss",
+      "method": "tko",
+      "event": "Wollongong Wars 2",
+      "eventSlug": "27589-wollongong-wars-2",
+      "round": 1,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2013-08-10T00:00:00.000Z",
+      "opponent": "Michael McDaniel",
+      "opponentSlug": "67818-michael-mcdaniel",
+      "result": "win",
+      "method": "other",
+      "event": "UCU 1",
+      "eventSlug": "21024-ucu-1",
+      "round": 2,
+      "timeInRound": "2:47"
+    },
+    {
+      "date": "2012-07-06T00:00:00.000Z",
+      "opponent": "Tai Tuivasa",
+      "opponentSlug": "120884-tai-tuivasa-bam-bam",
+      "result": "loss",
+      "method": "other",
+      "event": "ECC 2",
+      "eventSlug": "14465-ecc-2",
+      "round": 1,
+      "timeInRound": "0:20"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:11:57.206Z"
+}

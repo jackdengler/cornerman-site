@@ -1,0 +1,142 @@
+{
+  "slug": "89392-daniel-cossio",
+  "name": "Sergio Cossio",
+  "nickname": "Drako",
+  "aliases": [],
+  "recordPro": {
+    "wins": 27,
+    "losses": 12,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 178,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Mexico",
+  "url": "https://www.tapology.com/fightcenter/fighters/89392-daniel-cossio",
+  "recentFights": [
+    {
+      "date": "2026-04-16T00:00:00.000Z",
+      "opponent": "Pedro Carvalho",
+      "opponentSlug": "126006-pedro-carvalho",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "PFL Belfast",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-08-01T00:00:00.000Z",
+      "opponent": "Jakub Kaszuba",
+      "opponentSlug": "104186-kuba-kaszuba",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "PFL World Tournament 8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-08-02T00:00:00.000Z",
+      "opponent": "Dedrek Sanders",
+      "opponentSlug": "142432-dedrek-saunders",
+      "result": "loss",
+      "method": "other",
+      "event": "PFL 7: 2024 Playoffs",
+      "round": 1,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2024-06-21T00:00:00.000Z",
+      "opponent": "Anthony Romero",
+      "opponentSlug": "94638-anthony-romero",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "PFL 5: 2024 Regular Season",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-10-07T00:00:00.000Z",
+      "opponent": "Jesse Roberts",
+      "opponentSlug": "107594-jesse-roberts",
+      "result": "win",
+      "method": "sub",
+      "event": "Bellator 300",
+      "round": 3,
+      "timeInRound": "4:05"
+    },
+    {
+      "date": "2022-12-09T00:00:00.000Z",
+      "opponent": "Fernando Martinez",
+      "opponentSlug": "18328-fernando-martinez-pitbull",
+      "result": "win",
+      "method": "sub",
+      "event": "Lux Fight League 29",
+      "round": 5,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2022-05-26T00:00:00.000Z",
+      "opponent": "Edgar Delgado",
+      "opponentSlug": "81159-edgar-delgado-jimenez",
+      "result": "win",
+      "method": "other",
+      "event": "Lux Fight League 22",
+      "round": 1,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2021-09-17T00:00:00.000Z",
+      "opponent": "Alan Domínguez",
+      "opponentSlug": "115510-alan-dominguez",
+      "result": "win",
+      "method": "sub",
+      "event": "Lux Fight League 16",
+      "round": 1,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2020-02-14T00:00:00.000Z",
+      "opponent": "Hugo Flores",
+      "opponentSlug": "131817-hugo-flores-hooligan",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Lux Fight League 8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-29T00:00:00.000Z",
+      "opponent": "Allan Zuñiga",
+      "opponentSlug": "83007-allan-zuniga",
+      "result": "win",
+      "method": "other",
+      "event": "Lux Fight League 7",
+      "round": 3,
+      "timeInRound": "1:41"
+    },
+    {
+      "date": "2019-08-30T00:00:00.000Z",
+      "opponent": "Ricardo Arreola",
+      "opponentSlug": "84291-ricardo-arreola-el-loco",
+      "result": "win",
+      "method": "other",
+      "event": "Lux Fight League 6",
+      "round": 3,
+      "timeInRound": "4:05"
+    },
+    {
+      "date": "2019-03-15T00:00:00.000Z",
+      "opponent": "Marcos Beristaín",
+      "opponentSlug": "27851-marcos-beristain",
+      "result": "win",
+      "method": "sub",
+      "event": "Lux Fight League 4",
+      "round": 1,
+      "timeInRound": "2:04"
+    }
+  ],
+  "lastVerified": "2026-04-16T23:59:17.655Z"
+}

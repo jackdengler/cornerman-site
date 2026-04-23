@@ -1,0 +1,154 @@
+{
+  "slug": "305714-vladimir-lengal-vlado",
+  "name": "Vladimír Lengál",
+  "nickname": "Vlado",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 176,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Znojmo, Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/305714-vladimir-lengal-vlado",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Ozan Aslaner",
+      "opponentSlug": "107207-ozan-aslaner",
+      "result": null,
+      "method": "other",
+      "event": "OKTAGON 87: Szabová vs. Fernandes",
+      "eventSlug": "135741-oktagon-87",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-01T00:00:00.000Z",
+      "opponent": "Ognjen Dimić",
+      "opponentSlug": "180529-ognjen-dimi",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 79: Surdu vs. Kalašnik",
+      "eventSlug": "118938-oktagon",
+      "round": 2,
+      "timeInRound": "4:52"
+    },
+    {
+      "date": "2025-06-14T00:00:00.000Z",
+      "opponent": "Ivan Buchinger",
+      "opponentSlug": "4084-ivan-buchinger-buki",
+      "result": "loss",
+      "method": "sub",
+      "event": "OKTAGON 72: Vémola vs. Végh 3",
+      "eventSlug": "122082-oktagon-72",
+      "round": 2,
+      "timeInRound": "4:31"
+    },
+    {
+      "date": "2025-03-29T00:00:00.000Z",
+      "opponent": "Kerker Silva",
+      "opponentSlug": "81545-kerker-silva",
+      "result": "win",
+      "method": "other",
+      "event": "PML 14",
+      "eventSlug": "123472-pml-14",
+      "round": 1,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2025-02-01T00:00:00.000Z",
+      "opponent": "Deniz Ilbay",
+      "opponentSlug": "212961-deniz-ilbay",
+      "result": "loss",
+      "method": "other",
+      "event": "OKTAGON 66: Engizek vs. Oniszczuk",
+      "eventSlug": "118928-oktagon",
+      "round": 2,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2024-09-21T00:00:00.000Z",
+      "opponent": "Corey Fry",
+      "opponentSlug": "97867-corey-fry",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 61: Paradeiser vs. Duque",
+      "eventSlug": "113352-oktagon-60",
+      "round": 2,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2024-03-02T00:00:00.000Z",
+      "opponent": "Daniel Torres",
+      "opponentSlug": "55428-daniel-carvalho-torres",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 54: Kincl vs. Wawrzyniak",
+      "eventSlug": "108298-oktagon-54-tipsport-gamechanger-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-09T00:00:00.000Z",
+      "opponent": "Samuel Bark",
+      "opponentSlug": "229953-samuel-bark-sammon-decker",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "OKTAGON 50: Keita vs. Samsonidse",
+      "eventSlug": "98887-oktagon",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-28T00:00:00.000Z",
+      "opponent": "Michael Deiga-Scheck",
+      "opponentSlug": "120423-michael-deiga-scheck",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 45: Mågård vs Lima",
+      "eventSlug": "101739-oktagon-stvanice-special",
+      "round": 1,
+      "timeInRound": "2:49"
+    },
+    {
+      "date": "2023-02-11T00:00:00.000Z",
+      "opponent": "Cem Kuyumcuoglu",
+      "opponentSlug": "373200-cem-kuyumcuoglu",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 39: Jungwirth vs. Neves",
+      "eventSlug": "94070-oktagon-39",
+      "round": 2,
+      "timeInRound": "4:12"
+    },
+    {
+      "date": "2022-11-05T00:00:00.000Z",
+      "opponent": "Karol Ryšavý",
+      "opponentSlug": "127463-karol-rysavy",
+      "result": "win",
+      "method": "tko",
+      "event": "FABRIQ MMA",
+      "eventSlug": "93257-fabriq-mma-1",
+      "round": 1,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2022-10-22T00:00:00.000Z",
+      "opponent": "Tomáš Kuruc",
+      "opponentSlug": "359639-tomas-kuruc",
+      "result": "win",
+      "method": "other",
+      "event": "DFN 8: Battle for the Throne",
+      "eventSlug": "91999-dfn-8",
+      "round": 1,
+      "timeInRound": "1:29"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:04:49.733Z"
+}

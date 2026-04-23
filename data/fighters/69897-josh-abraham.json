@@ -1,0 +1,154 @@
+{
+  "slug": "69897-josh-abraham",
+  "name": "Josh Abraham",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1997-05-18",
+  "nationality": "England",
+  "url": "https://www.tapology.com/fightcenter/fighters/69897-josh-abraham",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Aidan Stephen",
+      "opponentSlug": "30254-aiden-stephen",
+      "result": null,
+      "method": "other",
+      "event": "Cage Warriors 205",
+      "eventSlug": "138938-cage-warriors-205",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-12-06T00:00:00.000Z",
+      "opponent": "Nicolas Barna",
+      "opponentSlug": "130169-nicolas-berna",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Warriors 199",
+      "eventSlug": "134063-cage-warriors-199",
+      "round": 1,
+      "timeInRound": "3:54"
+    },
+    {
+      "date": "2025-06-27T00:00:00.000Z",
+      "opponent": "Harry Shaw",
+      "opponentSlug": "190903-harry-shaw",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 190",
+      "eventSlug": "127518-cage-warriors-190-unplugged",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-25T00:00:00.000Z",
+      "opponent": "Aiden Lee",
+      "opponentSlug": "68589-aiden-lee",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage Warriors 172",
+      "eventSlug": "108296-cage-warriors-172",
+      "round": 1,
+      "timeInRound": "4:46"
+    },
+    {
+      "date": "2023-03-04T00:00:00.000Z",
+      "opponent": "Liam Thomas",
+      "opponentSlug": "172677-liam-thomas",
+      "result": "win",
+      "method": "other",
+      "event": "Unity Fighting Championship",
+      "eventSlug": "99133-unity-fighting-championship",
+      "round": 1,
+      "timeInRound": "0:23"
+    },
+    {
+      "date": "2019-04-27T00:00:00.000Z",
+      "opponent": "Kris Edwards",
+      "opponentSlug": "17112-kris-edwards",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 104",
+      "eventSlug": "57346-cage-warriors-104",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-17T00:00:00.000Z",
+      "opponent": "Steve Aimable",
+      "opponentSlug": "26774-steve-aimable",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 99",
+      "eventSlug": "54712-cage-warriors-99",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-02-24T00:00:00.000Z",
+      "opponent": "Elliot Jenkins",
+      "opponentSlug": "23275-elliot-jenkins",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage Warriors 90",
+      "eventSlug": "48896-cage-warriors-90",
+      "round": 1,
+      "timeInRound": "4:23"
+    },
+    {
+      "date": "2017-09-02T00:00:00.000Z",
+      "opponent": "Danny Nash",
+      "opponentSlug": "94777-danny-nash",
+      "result": "win",
+      "method": "sub",
+      "event": "M4TC 25: Legacy",
+      "eventSlug": "46888-m4tc-25-legacy",
+      "round": 1,
+      "timeInRound": "4:00"
+    },
+    {
+      "date": "2017-05-06T00:00:00.000Z",
+      "opponent": "Ashley Griffiths",
+      "opponentSlug": "27419-ashley-griffiths",
+      "result": "win",
+      "method": "sub",
+      "event": "Generations of Combat FC 1",
+      "eventSlug": "45840-generations-of-combat-fc-champions",
+      "round": 1,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2017-02-25T00:00:00.000Z",
+      "opponent": "Craig Clarkson",
+      "opponentSlug": "64177-craig-clarkson",
+      "result": "win",
+      "method": "sub",
+      "event": "M4TC 23: Carnage",
+      "eventSlug": "43562-m4tc-23-carnage",
+      "round": 1,
+      "timeInRound": "0:19"
+    },
+    {
+      "date": "2016-06-18T00:00:00.000Z",
+      "opponent": "Josh Galloway",
+      "opponentSlug": "135035-josh-galloway",
+      "result": "win",
+      "method": "tko",
+      "event": "ICE FC 16",
+      "eventSlug": "38932-ice-fc-16",
+      "round": 1,
+      "timeInRound": "0:52"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:05:36.204Z"
+}

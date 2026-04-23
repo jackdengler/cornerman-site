@@ -1,0 +1,132 @@
+{
+  "slug": "291498-scottie-sopko",
+  "name": "Scottie Sopko",
+  "nickname": "Freak Show",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1996-02-20",
+  "nationality": "Lake Station, Indiana",
+  "url": "https://www.tapology.com/fightcenter/fighters/291498-scottie-sopko",
+  "recentFights": [
+    {
+      "date": "2026-02-20T00:00:00.000Z",
+      "opponent": "Siron Harrison",
+      "opponentSlug": "108310-siron-harrison",
+      "result": "win",
+      "method": "sub",
+      "event": "Elite Fight Night 29",
+      "eventSlug": "137291-elite-fight-night-29-havoc",
+      "round": 1,
+      "timeInRound": "2:08"
+    },
+    {
+      "date": "2025-11-07T00:00:00.000Z",
+      "opponent": "Antonio Orlando",
+      "opponentSlug": "425170-antonio-orlando",
+      "result": "win",
+      "method": "sub",
+      "event": "Elite Fight Night 28",
+      "eventSlug": "132192-elite-fight-night-28-rumble-at-hard-rock",
+      "round": 1,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2025-06-28T00:00:00.000Z",
+      "opponent": "Andrew DeWulf",
+      "opponentSlug": "90131-andrew-dewulf",
+      "result": "win",
+      "method": "other",
+      "event": "BFC 8",
+      "eventSlug": "127845-bfc-8",
+      "round": 1,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2024-08-31T00:00:00.000Z",
+      "opponent": "Johnny Mologousis",
+      "opponentSlug": "375776-johnny-mologousis",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Matador Fighter Challenge 7",
+      "eventSlug": "116508-matador-fighter-challenge-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-30T00:00:00.000Z",
+      "opponent": "Simeon Norton",
+      "opponentSlug": "401139-simeon-norton",
+      "result": "win",
+      "method": "sub",
+      "event": "MFL 53: Spring Break Brawl",
+      "eventSlug": "109692-mfl-53",
+      "round": 2,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2023-06-02T00:00:00.000Z",
+      "opponent": "Kody McGehee",
+      "opponentSlug": "205313-kody-mcgehee",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Compass Fight Series 3",
+      "eventSlug": "99578-compass-fight-series-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-19T00:00:00.000Z",
+      "opponent": "Matthew Leonard",
+      "opponentSlug": "293437-matthew-leonard",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Brawl @ Bourbon Street 5",
+      "eventSlug": "85331-ignite-fights-brawl-at-bourbon-street-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-29T00:00:00.000Z",
+      "opponent": "Steve Collins",
+      "opponentSlug": "307378-steve-collins",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FCE 73: Victory 2022",
+      "eventSlug": "88327-fce-73",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-26T00:00:00.000Z",
+      "opponent": "Treyveon Cook",
+      "opponentSlug": "328205-treyveon-cook",
+      "result": "win",
+      "method": "other",
+      "event": "Colosseum Combat 58",
+      "eventSlug": "85142-colosseum-combat-58",
+      "round": 1,
+      "timeInRound": "2:42"
+    },
+    {
+      "date": "2021-06-05T00:00:00.000Z",
+      "opponent": "Anthony Metallo",
+      "opponentSlug": "292335-anthony-metallo",
+      "result": "win",
+      "method": "other",
+      "event": "EAFL: Steel City Showdown",
+      "eventSlug": "78080-eafl-steel-city-showdown",
+      "round": 2,
+      "timeInRound": "0:42"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:39:53.432Z"
+}

@@ -1,0 +1,114 @@
+{
+  "slug": "276114-erin-carter",
+  "name": "Erin Carter",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 5,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "2002-02-24",
+  "nationality": "England",
+  "url": "https://www.tapology.com/fightcenter/fighters/276114-erin-carter",
+  "recentFights": [
+    {
+      "date": "2026-03-20T00:00:00.000Z",
+      "opponent": "Capri Lonie",
+      "opponentSlug": "489374-capri-lonie",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Beatdown Promotions 13",
+      "eventSlug": "138546-beatdown-promotions-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-02T00:00:00.000Z",
+      "opponent": "Isla Fono",
+      "opponentSlug": "452249-isla-fono",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "IMMAF",
+      "eventSlug": "133047-immaf-world-championships-2025-seniors-finals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-01T00:00:00.000Z",
+      "opponent": "Veronika Kratyuk",
+      "opponentSlug": "523224-veronika-kratyuk",
+      "result": "win",
+      "method": "tko",
+      "event": "IMMAF",
+      "eventSlug": "133046-immaf-world-championships-2025-seniors-semi-finals",
+      "round": 1,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2025-03-14T00:00:00.000Z",
+      "opponent": "Jillian Hardey",
+      "opponentSlug": "377016-jillian-hardy",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Beatdown Promotions 10",
+      "eventSlug": "120785-beatdown-promotions-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-01-28T00:00:00.000Z",
+      "opponent": "Dariya Pirogova",
+      "opponentSlug": "306274-dariya-pirogova",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "IMMAF",
+      "eventSlug": "86220-immaf-2021-world-junior-championships-finals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-26T00:00:00.000Z",
+      "opponent": "Michelle Montague",
+      "opponentSlug": "237486-michell-montague",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shuriken Fight Series 10",
+      "eventSlug": "81053-shuriken-fight-series-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-17T00:00:00.000Z",
+      "opponent": "Rebecca Cerra",
+      "opponentSlug": "196560-rebecca-cerra",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Coastal Combat 9",
+      "eventSlug": "75775-coastal-combat-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-12-05T00:00:00.000Z",
+      "opponent": "Lisa Kyriacou",
+      "opponentSlug": "195048-lisa-kyriacou",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Coastal Combat 8",
+      "eventSlug": "72851-coastal-combat-8",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:54:58.914Z"
+}

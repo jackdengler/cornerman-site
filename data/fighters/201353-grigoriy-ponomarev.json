@@ -1,0 +1,165 @@
+{
+  "slug": "201353-grigoriy-ponomarev",
+  "name": "Grigoriy Ponomarev",
+  "nickname": "Grizzly",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 198,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1995-07-18",
+  "nationality": "Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/201353-grigoriy-ponomarev",
+  "recentFights": [
+    {
+      "date": "2023-08-11T00:00:00.000Z",
+      "opponent": "Mukhamad Vakhaev",
+      "opponentSlug": "62159-mukhomad-vakhaev",
+      "result": "loss",
+      "method": "other",
+      "event": "ACA 161: Gasanov vs Abdurakhmanov",
+      "eventSlug": "100376-aca-161",
+      "round": 1,
+      "timeInRound": "0:32"
+    },
+    {
+      "date": "2023-03-18T00:00:00.000Z",
+      "opponent": "Yusup Shuaev",
+      "opponentSlug": "83565-yusup-shuaev",
+      "result": "win",
+      "method": "other",
+      "event": "AMC Fight Nights 119",
+      "eventSlug": "98851-amc-fight-nights-119",
+      "round": 1,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2022-10-14T00:00:00.000Z",
+      "opponent": "Yusup Shuaev",
+      "opponentSlug": "83565-yusup-shuaev",
+      "result": "win",
+      "method": "sub",
+      "event": "AMC Fight Nights 115",
+      "eventSlug": "92946-amc-fight-nights-115",
+      "round": 1,
+      "timeInRound": "4:03"
+    },
+    {
+      "date": "2022-03-25T00:00:00.000Z",
+      "opponent": "Yusup Shuaev",
+      "opponentSlug": "83565-yusup-shuaev",
+      "result": "loss",
+      "method": "other",
+      "event": "AMC Fight Nights 110",
+      "eventSlug": "87855-amc-fight-nights-110-grebnev-vs-makhno",
+      "round": 2,
+      "timeInRound": "4:51"
+    },
+    {
+      "date": "2022-01-28T00:00:00.000Z",
+      "opponent": "Alison Vicente",
+      "opponentSlug": "36263-alisson-vicente",
+      "result": "win",
+      "method": "other",
+      "event": "AMC Fight Nights 108",
+      "eventSlug": "86159-amc-fight-nights-108",
+      "round": 1,
+      "timeInRound": "1:22"
+    },
+    {
+      "date": "2021-12-20T00:00:00.000Z",
+      "opponent": "Alireza Safara",
+      "opponentSlug": "281203-alireza-safara",
+      "result": "win",
+      "method": "other",
+      "event": "AMC Fight Nights 107",
+      "eventSlug": "85097-amc-fight-nights-107",
+      "round": 1,
+      "timeInRound": "3:23"
+    },
+    {
+      "date": "2021-09-24T00:00:00.000Z",
+      "opponent": "Shamil Gaziev",
+      "opponentSlug": "201352-shamil-gaziev",
+      "result": "loss",
+      "method": "other",
+      "event": "AMC Fight Nights 104",
+      "eventSlug": "82829-amc-fight-nights-global-donskoy-ataman",
+      "round": 2,
+      "timeInRound": "0:38"
+    },
+    {
+      "date": "2021-03-16T00:00:00.000Z",
+      "opponent": "Timofey Mishev",
+      "opponentSlug": "130713-mikhail-terekhov",
+      "result": "win",
+      "method": "other",
+      "event": "AMC Fight Nights",
+      "eventSlug": "77668-amc-fight-nights-dedicated-to-the-memory-of-vladimir-voronov",
+      "round": 1,
+      "timeInRound": "0:46"
+    },
+    {
+      "date": "2020-12-25T00:00:00.000Z",
+      "opponent": "Shakhmaral Dzhetpisov",
+      "opponentSlug": "20048-shakhmaral-dzhepisov",
+      "result": "win",
+      "method": "other",
+      "event": "AMC Fight Nights 99",
+      "eventSlug": "74033-amc-fight-nights-global",
+      "round": 1,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2018-11-17T00:00:00.000Z",
+      "opponent": "Pasha Kharkhachaev",
+      "opponentSlug": "201422-pasha-kharkhachaev",
+      "result": "loss",
+      "method": "tko",
+      "event": "2018 IMMAF-WMMAA Unified World Championships",
+      "eventSlug": "56565-2018-immaf-wmmaa-unified-world-championships-day-5-finals",
+      "round": 1,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2018-11-15T00:00:00.000Z",
+      "opponent": "Delano Human",
+      "opponentSlug": "150948-delano-human",
+      "result": "win",
+      "method": "other",
+      "event": "2018 IMMAF-WMMAA Unified World Championships",
+      "eventSlug": "56563-2018-immaf-wmmaa-unified-world-championships-day-4-cage-3",
+      "round": 1,
+      "timeInRound": "1:09"
+    },
+    {
+      "date": "2018-11-14T00:00:00.000Z",
+      "opponent": "Ruslan Moiseienko",
+      "opponentSlug": "201425-ruslan-moiseienko",
+      "result": "win",
+      "method": "tko",
+      "event": "2018 IMMAF-WMMAA Unified World Championships",
+      "eventSlug": "56557-2018-immaf-wmma-unified-world-championships-day-3-cage-1",
+      "round": 1,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2018-11-13T00:00:00.000Z",
+      "opponent": "Shamil Gaziev",
+      "opponentSlug": "201352-shamil-gaziev",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "2018 IMMAF-WMMAA Unified World Championships",
+      "eventSlug": "56554-2018-immaf-wmma-unified-world-championships-day-2-cage-b",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:55:27.536Z"
+}

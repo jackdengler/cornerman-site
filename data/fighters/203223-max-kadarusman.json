@@ -1,0 +1,59 @@
+{
+  "slug": "203223-max-kadarusman",
+  "name": "Max Kadarusman",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1995-12-21",
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/203223-max-kadarusman",
+  "recentFights": [
+    {
+      "date": "2022-02-26T00:00:00.000Z",
+      "opponent": "Jonathan Micallef",
+      "opponentSlug": "238862-jonathan-micallef",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Demolition Fight Series 5",
+      "eventSlug": "84707-demolition-fight-series-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-22T00:00:00.000Z",
+      "opponent": "Kim Luk",
+      "opponentSlug": "196493-kim-luk",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Demolition Fight Series 3",
+      "eventSlug": "77541-demolition-fight-series-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-01T00:00:00.000Z",
+      "opponent": "Dale Rea",
+      "opponentSlug": "203222-dale-rea",
+      "result": "win",
+      "method": "other",
+      "event": "Path to Hex 7",
+      "eventSlug": "55468-path-to-hex-7",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:54:15.665Z"
+}

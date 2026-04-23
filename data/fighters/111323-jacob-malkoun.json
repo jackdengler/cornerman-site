@@ -1,0 +1,187 @@
+{
+  "slug": "111323-jacob-malkoun",
+  "name": "Jacob Malkoun",
+  "nickname": "Mamba",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 185,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1995-08-26",
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/111323-jacob-malkoun",
+  "recentFights": [
+    {
+      "date": "2026-05-02T00:00:00.000Z",
+      "opponent": "Gerald Meerschaert",
+      "opponentSlug": "6018-gerald-meerschaert-the-machine",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "140511-ufc-fight-night-della-maddalena-vs-prates",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-01-31T00:00:00.000Z",
+      "opponent": "Torrez Finney",
+      "opponentSlug": "272716-torrez-finney",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 325: Volkanovski vs. Lopes 2",
+      "eventSlug": "136549-ufc-325-volkanovski-vs-lopes-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-30T00:00:00.000Z",
+      "opponent": "Andre Petroski",
+      "opponentSlug": "123353-andre-petroski",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "107896-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "0:39"
+    },
+    {
+      "date": "2023-09-23T00:00:00.000Z",
+      "opponent": "Cody Brundage",
+      "opponentSlug": "169818-cody-brundage",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "101865-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "4:15"
+    },
+    {
+      "date": "2022-10-15T00:00:00.000Z",
+      "opponent": "Nick Maximov",
+      "opponentSlug": "160352-nick-maximov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "90713-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-11T00:00:00.000Z",
+      "opponent": "Brendan Allen",
+      "opponentSlug": "91516-brendan-allen",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 275: Teixeira vs. Procházka",
+      "eventSlug": "87286-ufc-275-teixeira-vs-prochazka",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-12T00:00:00.000Z",
+      "opponent": "AJ Dobson",
+      "opponentSlug": "29725-aj-dobson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 271: Adesanya vs. Whittaker 2",
+      "eventSlug": "83288-ufc-271",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-17T00:00:00.000Z",
+      "opponent": "Abdul Razak Alhassan",
+      "opponentSlug": "59306-abdul-razak-alhassan",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "76103-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-10-24T00:00:00.000Z",
+      "opponent": "Phil Hawes",
+      "opponentSlug": "63542-phil-hawes",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 254: Khabib vs. Gaethje",
+      "eventSlug": "70869-ufc-255",
+      "round": 1,
+      "timeInRound": "0:18"
+    },
+    {
+      "date": "2019-10-04T00:00:00.000Z",
+      "opponent": "Sebastian Temesi",
+      "opponentSlug": "141896-sebastian-temesi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 48",
+      "eventSlug": "62409-eternal-mma-48",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-12T00:00:00.000Z",
+      "opponent": "Christophe Van Dijk",
+      "opponentSlug": "50881-cristophe-van-dijk",
+      "result": "win",
+      "method": "tko",
+      "event": "Wollongong Wars 7",
+      "eventSlug": "61763-wollongong-wars-7",
+      "round": 2,
+      "timeInRound": "3:31"
+    },
+    {
+      "date": "2018-10-26T00:00:00.000Z",
+      "opponent": "Ryan Heketa",
+      "opponentSlug": "56911-ryan-heketa",
+      "result": "win",
+      "method": "other",
+      "event": "Hex Fight Series 17",
+      "eventSlug": "55464-hex-fight-series-17",
+      "round": 1,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2017-03-18T00:00:00.000Z",
+      "opponent": "Cam Rowston",
+      "opponentSlug": "69262-cam-rowston",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "BRACE 47",
+      "eventSlug": "42308-brace-47",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-02-19T00:00:00.000Z",
+      "opponent": "Rhys Savage",
+      "opponentSlug": "69263-rhys-savage",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Superfight MMA 2",
+      "eventSlug": "37930-superfight-mma-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-21T00:00:00.000Z",
+      "opponent": "Dean Bradley",
+      "opponentSlug": "111324-dean-bradley",
+      "result": "win",
+      "method": "other",
+      "event": "Superfight MMA 1",
+      "eventSlug": "33990-superfight-mma-1",
+      "round": 2,
+      "timeInRound": "0:43"
+    }
+  ],
+  "lastVerified": "2026-04-18T17:54:25.078Z"
+}

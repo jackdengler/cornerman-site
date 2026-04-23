@@ -1,0 +1,187 @@
+{
+  "slug": "163014-tiago-terra-nova",
+  "name": "Tiago Ramos",
+  "nickname": "Terra Nova",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1995-03-07",
+  "nationality": "Manaus, Amazonas, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/163014-tiago-terra-nova",
+  "recentFights": [
+    {
+      "date": "2025-07-19T00:00:00.000Z",
+      "opponent": "Elismar Lima",
+      "opponentSlug": "63218-elismar-lima-carrasco",
+      "result": "loss",
+      "method": "other",
+      "event": "SFT 57: Terra Nova vs. Carrasco",
+      "eventSlug": "129986-sft-57",
+      "round": 3,
+      "timeInRound": "4:02"
+    },
+    {
+      "date": "2024-09-21T00:00:00.000Z",
+      "opponent": "Heliton dos Santos",
+      "opponentSlug": "17148-heliton-santos",
+      "result": "win",
+      "method": "other",
+      "event": "SFT Combat: dos Santos vs Terra Nova",
+      "eventSlug": "117291-sft-51-dos-santos-vs-terra-nova",
+      "round": 3,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2024-04-13T00:00:00.000Z",
+      "opponent": "Francisco Felipe",
+      "opponentSlug": "180739-francisco-felipe",
+      "result": "win",
+      "method": "sub",
+      "event": "SFT 47: Lany Silva vs. Laysa da Silva",
+      "eventSlug": "112023-sft-47-lany-silva-vs-laysa-da-silva",
+      "round": 2,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2023-12-17T00:00:00.000Z",
+      "opponent": "Shahin Najafi",
+      "opponentSlug": "139481-shahin-najafi",
+      "result": "win",
+      "method": "other",
+      "event": "SFT 46: Black Diamond vs. Peregrino",
+      "eventSlug": "107966-sft-45",
+      "round": 2,
+      "timeInRound": "0:18"
+    },
+    {
+      "date": "2023-09-16T00:00:00.000Z",
+      "opponent": "Wallace dos Santos",
+      "opponentSlug": "293121-wallace-pateta",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "SFT 42: Lima vs Bad Boy",
+      "eventSlug": "103553-sft-42-riberio-vs-muniz",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-11T00:00:00.000Z",
+      "opponent": "Mario Araújo",
+      "opponentSlug": "173427-mario-dos-santos-araujo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "SFT 39: Velaminho vs. dos Santos",
+      "eventSlug": "97157-sft-39",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-10-01T00:00:00.000Z",
+      "opponent": "Leandro Oliveira",
+      "opponentSlug": "135766-leandro-oliveira",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Spartacus MMA 15",
+      "eventSlug": "93157-spartacus-mma-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-01T00:00:00.000Z",
+      "opponent": "Márcio Barbosa",
+      "opponentSlug": "126539-marcio-ticot",
+      "result": "loss",
+      "method": "sub",
+      "event": "Jungle Fight 107",
+      "eventSlug": "88504-jungle-fight-107",
+      "round": 1,
+      "timeInRound": "3:41"
+    },
+    {
+      "date": "2021-07-10T00:00:00.000Z",
+      "opponent": "Gelson Naze",
+      "opponentSlug": "251273-gelson-naze-et",
+      "result": "win",
+      "method": "tko",
+      "event": "Elite FC 11",
+      "eventSlug": "82405-elite-fc-11",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2019-08-10T00:00:00.000Z",
+      "opponent": "Cristovão Alves",
+      "opponentSlug": "182445-cristovao-alves",
+      "result": "win",
+      "method": "sub",
+      "event": "Elite FC 8",
+      "eventSlug": "70834-elite-fc-8",
+      "round": 1,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2019-06-29T00:00:00.000Z",
+      "opponent": "Aprígio Acássio",
+      "opponentSlug": "176761-aprgio-acssio-chito",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-22T00:00:00.000Z",
+      "opponent": "Thiago dos Santos",
+      "opponentSlug": "129384-thiago-tubaro",
+      "result": "win",
+      "method": "other",
+      "event": "MFC 2: Osasco",
+      "eventSlug": "61250-mfc-2-osasco",
+      "round": 1,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2019-03-30T00:00:00.000Z",
+      "opponent": "Jefferson Rodrigues",
+      "opponentSlug": "227891-jefferson-rodrigues-monstrinho",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-28T00:00:00.000Z",
+      "opponent": "Sergio Toledo",
+      "opponentSlug": "195104-sergio-toledo",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-04T00:00:00.000Z",
+      "opponent": "Willian Batista",
+      "opponentSlug": "163012-willian-batista",
+      "result": "win",
+      "method": "other",
+      "event": "Thunder Fight 11",
+      "eventSlug": "46954-thunder-fight-11-special-edition",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:56:46.270Z"
+}

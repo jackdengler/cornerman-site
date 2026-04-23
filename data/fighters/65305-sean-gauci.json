@@ -1,0 +1,154 @@
+{
+  "slug": "65305-sean-gauci",
+  "name": "Sean Gauci",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": 164,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1996-10-07",
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/65305-sean-gauci",
+  "recentFights": [
+    {
+      "date": "2026-04-16T00:00:00.000Z",
+      "opponent": "Liam Gittins",
+      "opponentSlug": "101080-liam-gittins",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "PFL Belfast",
+      "eventSlug": "138222-pfl-boston",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-10-08T00:00:00.000Z",
+      "opponent": "Anthony Drilich",
+      "opponentSlug": "158431-anthony-drilich",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Contender Series 2024",
+      "eventSlug": "112926-contender-series-2024-week-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-04T00:00:00.000Z",
+      "opponent": "Nobuyoshi Nakatsukasa",
+      "opponentSlug": "186425-n-o-v",
+      "result": "win",
+      "method": "other",
+      "event": "HEX Fight Series 30",
+      "eventSlug": "107574-hex-fight-series-30-hex-goes-global",
+      "round": 1,
+      "timeInRound": "1:27"
+    },
+    {
+      "date": "2023-02-24T00:00:00.000Z",
+      "opponent": "Hae Won Lee",
+      "opponentSlug": "67983-hae-won-lee",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hex Fight Series 25",
+      "eventSlug": "95838-hex-fight-series-25",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-18T00:00:00.000Z",
+      "opponent": "Ariane Fantilanan",
+      "opponentSlug": "200337-ariane-fantilanan",
+      "result": "win",
+      "method": "tko",
+      "event": "Hex Fight Series 24",
+      "eventSlug": "93819-hex-fight-series-24",
+      "round": 1,
+      "timeInRound": "0:16"
+    },
+    {
+      "date": "2019-09-06T00:00:00.000Z",
+      "opponent": "Angel Oliveras",
+      "opponentSlug": "67909-angel-oliveras",
+      "result": "win",
+      "method": "other",
+      "event": "Hex Fight Series 19",
+      "eventSlug": "61244-hex-fight-series-19",
+      "round": 1,
+      "timeInRound": "3:32"
+    },
+    {
+      "date": "2018-03-23T00:00:00.000Z",
+      "opponent": "Rich Lockett",
+      "opponentSlug": "136025-rich-lockett",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hex Fight Series 13",
+      "eventSlug": "51762-hex-fight-series-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-01T00:00:00.000Z",
+      "opponent": "Steve Erceg",
+      "opponentSlug": "132326-stephen-erceg",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hex Fight Series 11",
+      "eventSlug": "47793-hex-fight-series-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-08T00:00:00.000Z",
+      "opponent": "Tim Moore",
+      "opponentSlug": "40419-tim-moore",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Reign Fighting 3",
+      "eventSlug": "44514-reign-fighting-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-14T00:00:00.000Z",
+      "opponent": "Hayden Wright",
+      "opponentSlug": "110082-hayden-wright",
+      "result": "win",
+      "method": "other",
+      "event": "Minotaur 1: Unleashed",
+      "eventSlug": "34328-minotaur-mma-1",
+      "round": 1,
+      "timeInRound": "2:53"
+    },
+    {
+      "date": "2015-03-14T00:00:00.000Z",
+      "opponent": "Andrew Jacobs",
+      "opponentSlug": "95737-andrew-jacobs",
+      "result": "win",
+      "method": "other",
+      "event": "Hex Fight Series 2",
+      "eventSlug": "30014-hex-fight-series-2",
+      "round": 2,
+      "timeInRound": "3:03"
+    },
+    {
+      "date": "2014-04-05T00:00:00.000Z",
+      "opponent": "Gavin Toyama",
+      "opponentSlug": "65304-gavin-toyama",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMA Downunder 5",
+      "eventSlug": "23211-mma-downunder-5",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:14:04.546Z"
+}

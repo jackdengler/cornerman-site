@@ -1,0 +1,165 @@
+{
+  "slug": "106109-ricardo-monteiro",
+  "name": "Ricardo Monteiro",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1993-03-26",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/106109-ricardo-monteiro",
+  "recentFights": [
+    {
+      "date": "2026-04-26T00:00:00.000Z",
+      "opponent": "Giorgos Pilidis",
+      "opponentSlug": "388643-giorgos-pilidis",
+      "result": null,
+      "method": "other",
+      "event": "Quest MMA 16",
+      "eventSlug": "140151-quest-mma-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-06-07T00:00:00.000Z",
+      "opponent": "Fábio Perpetua",
+      "opponentSlug": "208197-fabio-perpetua",
+      "result": "loss",
+      "method": "other",
+      "event": "Night Combat 2",
+      "eventSlug": "130097-night-combat-2",
+      "round": 3,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2024-10-19T00:00:00.000Z",
+      "opponent": "Samuel Bark",
+      "opponentSlug": "229953-samuel-bark-sammon-decker",
+      "result": "loss",
+      "method": "other",
+      "event": "AFN 8",
+      "eventSlug": "116850-afn-8",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-29T00:00:00.000Z",
+      "opponent": "Arlindo dal Santo",
+      "opponentSlug": "189654-arlindo-dal-santo",
+      "result": "win",
+      "method": "sub",
+      "event": "PFC 3",
+      "eventSlug": "115700-pfc-3",
+      "round": 1,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2024-03-09T00:00:00.000Z",
+      "opponent": "Mark Vologdin",
+      "opponentSlug": "202598-mark-vologdin",
+      "result": "loss",
+      "method": "other",
+      "event": "AFN 5",
+      "eventSlug": "109087-afn-5",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-10-29T00:00:00.000Z",
+      "opponent": "Jeferson Bastos",
+      "opponentSlug": "164037-jeferson-bastos",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Music Show",
+      "eventSlug": "106013-fight-music-show-fight-night-2",
+      "round": 1,
+      "timeInRound": "3:42"
+    },
+    {
+      "date": "2023-02-11T00:00:00.000Z",
+      "opponent": "Wanderson Santos",
+      "opponentSlug": "208734-wanderson-santos",
+      "result": "loss",
+      "method": "other",
+      "event": "Spartacus MMA",
+      "eventSlug": "97508-spartacus-mma",
+      "round": 2,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2022-03-20T00:00:00.000Z",
+      "opponent": "Edilson Silva",
+      "opponentSlug": "117497-edilson-souza",
+      "result": "win",
+      "method": "tko",
+      "event": "Favela Kombat 37",
+      "eventSlug": "86979-favela-kombat-37",
+      "round": 1,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2019-10-26T00:00:00.000Z",
+      "opponent": "Mateus Brauns",
+      "opponentSlug": "107488-mateus-brauns-magria",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "JF Fight 20",
+      "eventSlug": "63733-jf-fight-20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-02-09T00:00:00.000Z",
+      "opponent": "Hamyrez Oliveira",
+      "opponentSlug": "86265-hamyrez-oliveira",
+      "result": "loss",
+      "method": "sub",
+      "event": "W Force 1",
+      "eventSlug": "58407-w-force-1",
+      "round": 1,
+      "timeInRound": "3:14"
+    },
+    {
+      "date": "2018-02-03T00:00:00.000Z",
+      "opponent": "Felipe Dornella",
+      "opponentSlug": "159455-felipe-dornella-preto",
+      "result": "win",
+      "method": "other",
+      "event": "Favela Kombat 27",
+      "eventSlug": "51422-favela-kombat-27",
+      "round": 2,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2016-10-08T00:00:00.000Z",
+      "opponent": "Glyan Alves",
+      "opponentSlug": "66783-glyaan-alves",
+      "result": "loss",
+      "method": "other",
+      "event": "JF Fight 17",
+      "eventSlug": "42112-jf-fight-17-evolution",
+      "round": 1,
+      "timeInRound": "3:16"
+    },
+    {
+      "date": "2013-12-14T00:00:00.000Z",
+      "opponent": "Júlio Cesar Moraes",
+      "opponentSlug": "67763-julio-cesar-moraes-splinter",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:03:50.996Z"
+}

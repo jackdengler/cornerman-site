@@ -1,0 +1,209 @@
+{
+  "slug": "14969-connor-matthews",
+  "name": "Connor Matthews",
+  "nickname": "The Controller",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 180,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1992-05-31",
+  "nationality": "Fall River, Massachusetts, USA",
+  "url": "https://www.tapology.com/fightcenter/fighters/14969-connor-matthews",
+  "recentFights": [
+    {
+      "date": "2025-05-17T00:00:00.000Z",
+      "opponent": "Yadier del Valle",
+      "opponentSlug": "137817-yadier-delvalle",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "124622-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2025-02-15T00:00:00.000Z",
+      "opponent": "Jose Delgado",
+      "opponentSlug": "196121-jose-delgado",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "120487-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2024-03-30T00:00:00.000Z",
+      "opponent": "Dennis Buzukja",
+      "opponentSlug": "131561-dennis-buzukia",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "107896-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "0:22"
+    },
+    {
+      "date": "2023-10-10T00:00:00.000Z",
+      "opponent": "Jair Farias",
+      "opponentSlug": "117526-jair-farias",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Contender Series 2023",
+      "eventSlug": "101000-contender-series-2023-week-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-15T00:00:00.000Z",
+      "opponent": "Andrew Cruz",
+      "opponentSlug": "25042-andrew-cruz",
+      "result": "win",
+      "method": "sub",
+      "event": "Combat Zone 79",
+      "eventSlug": "98220-combat-zone-79",
+      "round": 1,
+      "timeInRound": "3:57"
+    },
+    {
+      "date": "2022-08-02T00:00:00.000Z",
+      "opponent": "Francis Marshall",
+      "opponentSlug": "186284-francis-marshall",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Contender Series 2022",
+      "eventSlug": "89494-contender-series-2022",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-04T00:00:00.000Z",
+      "opponent": "Josh Hardy",
+      "opponentSlug": "166324-josh-hardy",
+      "result": "win",
+      "method": "sub",
+      "event": "CES 66: Soukhamthath vs. Silva",
+      "eventSlug": "85678-ces-66",
+      "round": 1,
+      "timeInRound": "0:48"
+    },
+    {
+      "date": "2021-07-10T00:00:00.000Z",
+      "opponent": "Jay Ellis",
+      "opponentSlug": "2586-jay-ellis",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Titans 48",
+      "eventSlug": "79205-cage-titans-49",
+      "round": 1,
+      "timeInRound": "2:21"
+    },
+    {
+      "date": "2020-10-14T00:00:00.000Z",
+      "opponent": "Joshua Marer",
+      "opponentSlug": "66820-joshua-marer",
+      "result": "win",
+      "method": "sub",
+      "event": "CES 61: Gotti III vs. Alley",
+      "eventSlug": "73041-ces-61",
+      "round": 1,
+      "timeInRound": "0:57"
+    },
+    {
+      "date": "2020-01-25T00:00:00.000Z",
+      "opponent": "Rob Fuller",
+      "opponentSlug": "133797-rob-fuller",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Titans 47",
+      "eventSlug": "65706-cage-titans-47",
+      "round": 1,
+      "timeInRound": "0:57"
+    },
+    {
+      "date": "2019-08-24T00:00:00.000Z",
+      "opponent": "Stacey Anderson",
+      "opponentSlug": "58393-stacy-anderson",
+      "result": "win",
+      "method": "tko",
+      "event": "Cage Titans 45",
+      "eventSlug": "61901-cage-wars-45",
+      "round": 1,
+      "timeInRound": "0:07"
+    },
+    {
+      "date": "2019-05-04T00:00:00.000Z",
+      "opponent": "Brent Sanchez",
+      "opponentSlug": "122562-brent-sanchez",
+      "result": "win",
+      "method": "other",
+      "event": "Northwest Fight Challenge 28",
+      "eventSlug": "60138-nw-fight-challenge",
+      "round": 1,
+      "timeInRound": "0:09"
+    },
+    {
+      "date": "2019-02-16T00:00:00.000Z",
+      "opponent": "Jimmy Wilson",
+      "opponentSlug": "163029-jimmy-wilson",
+      "result": "loss",
+      "method": "other",
+      "event": "The Redemption 15",
+      "eventSlug": "57296-the-redemption-15",
+      "round": 2,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2018-11-17T00:00:00.000Z",
+      "opponent": "Will Schoenfeld",
+      "opponentSlug": "202461-will-schoenfeld",
+      "result": "win",
+      "method": "other",
+      "event": "Northwest Fight Challenge 27",
+      "eventSlug": "56414-nw-fight-challenge",
+      "round": 1,
+      "timeInRound": "0:12"
+    },
+    {
+      "date": "2012-05-05T00:00:00.000Z",
+      "opponent": "Anthony Hargrove",
+      "opponentSlug": "27277-anthony-hargrove",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Titans 8",
+      "eventSlug": "13177-cage-titans-8-conquer",
+      "round": 1,
+      "timeInRound": "1:42"
+    },
+    {
+      "date": "2011-09-10T00:00:00.000Z",
+      "opponent": "Shannon Soares",
+      "opponentSlug": "14054-Shannon-Soares",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Titans 6",
+      "eventSlug": "10360-cage-titans-6-invasion",
+      "round": 1,
+      "timeInRound": "0:04"
+    },
+    {
+      "date": "2011-06-25T00:00:00.000Z",
+      "opponent": "Derek Shorey",
+      "opponentSlug": "15090-derek-shorey",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Titans 5",
+      "eventSlug": "cage-titans-5-vendetta",
+      "round": 1,
+      "timeInRound": "1:57"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:12:47.511Z"
+}

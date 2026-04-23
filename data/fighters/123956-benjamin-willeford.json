@@ -1,0 +1,176 @@
+{
+  "slug": "123956-benjamin-willeford",
+  "name": "Ben Willeford",
+  "nickname": "Mudbug",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 160,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1992-05-06",
+  "nationality": "Baton Rouge, Louisiana, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/123956-benjamin-willeford",
+  "recentFights": [
+    {
+      "date": "2026-05-23T00:00:00.000Z",
+      "opponent": "Luis Perez",
+      "opponentSlug": "343330-luis-perez",
+      "result": null,
+      "method": "other",
+      "event": "Caged Thunder 39",
+      "eventSlug": "140699-caged-thunder-39-fight-night-in-the-land",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-12-13T00:00:00.000Z",
+      "opponent": "Windson Ramos",
+      "opponentSlug": "152369-windson-ramos",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Caged Thunder 36",
+      "eventSlug": "133267-caged-thunder-36",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-01-11T00:00:00.000Z",
+      "opponent": "Trevor Wells",
+      "opponentSlug": "61460-trevor-wells",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ohio Combat League 34",
+      "eventSlug": "121066-ohio-combat-league-34",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-08-17T00:00:00.000Z",
+      "opponent": "Siegfried Stevens",
+      "opponentSlug": "202202-tyler-stevens",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Caged Thunder 28",
+      "eventSlug": "113393-caged-thunder-28-fight-night-in-the-flats",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-10-28T00:00:00.000Z",
+      "opponent": "Miguel Junior Diaz",
+      "opponentSlug": "64630-miguel-ramos-diaz",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Live MMA at NEO",
+      "eventSlug": "104413-live-mma-at-neo",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-06T00:00:00.000Z",
+      "opponent": "Drake Lopez",
+      "opponentSlug": "231721-drake-lopez",
+      "result": "win",
+      "method": "sub",
+      "event": "Fury FC 56",
+      "eventSlug": "85222-fury-fc-56",
+      "round": 2,
+      "timeInRound": "4:22"
+    },
+    {
+      "date": "2021-11-14T00:00:00.000Z",
+      "opponent": "Isiah Torres",
+      "opponentSlug": "148863-isaiah-torres",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fury FC 53: Lookin' For a Fight",
+      "eventSlug": "83020-fury-fc-53-lookin-for-a-fight",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-11-06T00:00:00.000Z",
+      "opponent": "Oscar Jurado Sánchez",
+      "opponentSlug": "178522-oscar-alejandro-jurado-snchez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "HR MMA 116: 12 Year Anniversary",
+      "eventSlug": "72627-b2-fighting-series-hrmma-116",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-15T00:00:00.000Z",
+      "opponent": "Andre Sanders",
+      "opponentSlug": "176412-andre-sanders",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Cupid's Knockout",
+      "eventSlug": "65055-cupid-s-knockout",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-16T00:00:00.000Z",
+      "opponent": "Brian Hauser",
+      "opponentSlug": "87503-brian-hauser",
+      "result": "loss",
+      "method": "other",
+      "event": "IT Fight Series 76",
+      "eventSlug": "47376-it-fight-series-76",
+      "round": 2,
+      "timeInRound": "0:14"
+    },
+    {
+      "date": "2017-03-25T00:00:00.000Z",
+      "opponent": "A.J. Wilkins",
+      "opponentSlug": "101586-alan-wilkins",
+      "result": "win",
+      "method": "sub",
+      "event": "IT Fight Series 72",
+      "eventSlug": "44150-it-fight-series-72",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-01-28T00:00:00.000Z",
+      "opponent": "Jett Heldenbrand",
+      "opponentSlug": "142612-jett-heldenbrand",
+      "result": "win",
+      "method": "sub",
+      "event": "Big Guns 22",
+      "eventSlug": "42923-big-guns-22",
+      "round": 1,
+      "timeInRound": "0:36"
+    },
+    {
+      "date": "2016-11-19T00:00:00.000Z",
+      "opponent": "Robert Presley",
+      "opponentSlug": "144449-robert-presley",
+      "result": "win",
+      "method": "sub",
+      "event": "Big Guns 21",
+      "eventSlug": "42446-big-guns-21",
+      "round": 1,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2016-02-20T00:00:00.000Z",
+      "opponent": "Nick Hatfield",
+      "opponentSlug": "126462-nick-hatfield-no-nonsense",
+      "result": "win",
+      "method": "other",
+      "event": "Warrior Nation Fight Series 35",
+      "eventSlug": "37652-warrior-nation-fight-series-35",
+      "round": 1,
+      "timeInRound": "2:57"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:43:14.266Z"
+}

@@ -1,0 +1,187 @@
+{
+  "slug": "338034-steven-asplund",
+  "name": "Steven Asplund",
+  "nickname": "Concrete",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 196,
+  "reachCm": 198,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1998-07-16",
+  "nationality": "Minneapolis, Minnesota, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/338034-steven-asplund",
+  "recentFights": [
+    {
+      "date": "2026-03-14T00:00:00.000Z",
+      "opponent": "Vitor Petrino",
+      "opponentSlug": "158172-vitor-petrino",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "136874-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-12-13T00:00:00.000Z",
+      "opponent": "Sean Sharaf",
+      "opponentSlug": "229173-sean-sharaf",
+      "result": "win",
+      "method": "tko",
+      "event": "UFC Fight Night",
+      "eventSlug": "132921-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "3:49"
+    },
+    {
+      "date": "2025-09-09T00:00:00.000Z",
+      "opponent": "Anthony Guarascio",
+      "opponentSlug": "110377-anthony-guarascio",
+      "result": "win",
+      "method": "other",
+      "event": "Contender Series 2025",
+      "eventSlug": "128462-contender-series-2025-week-5",
+      "round": 1,
+      "timeInRound": "0:16"
+    },
+    {
+      "date": "2025-04-11T00:00:00.000Z",
+      "opponent": "Raiden Kovacs",
+      "opponentSlug": "254074-raiden-keller",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 206: Gennrich vs. Lebosnoyani",
+      "eventSlug": "124520-lfa-206",
+      "round": 2,
+      "timeInRound": "1:53"
+    },
+    {
+      "date": "2025-01-25T00:00:00.000Z",
+      "opponent": "Hammer Morton",
+      "opponentSlug": "80843-hammer-morton",
+      "result": "win",
+      "method": "tko",
+      "event": "LFA 200: Johns vs. Douglas",
+      "eventSlug": "120838-lfa-200",
+      "round": 3,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2024-09-20T00:00:00.000Z",
+      "opponent": "Denzel Freeman",
+      "opponentSlug": "124753-denzedenzel-freeman",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 193: Bowers vs. Borisova",
+      "eventSlug": "115812-lfa-193",
+      "round": 2,
+      "timeInRound": "1:17"
+    },
+    {
+      "date": "2024-04-05T00:00:00.000Z",
+      "opponent": "Larry Gonzales",
+      "opponentSlug": "219757-larry-gonzales",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 181: Siqueira vs. Hernandez",
+      "eventSlug": "110760-lfa-181",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-01-12T00:00:00.000Z",
+      "opponent": "Billy Ray Valdez",
+      "opponentSlug": "203994-billy-ray-valdez",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 174: Jones vs. Gennrich",
+      "eventSlug": "108251-lfa-174-jones-vs-gennrich",
+      "round": 1,
+      "timeInRound": "4:48"
+    },
+    {
+      "date": "2023-11-11T00:00:00.000Z",
+      "opponent": "Anthony Garrett",
+      "opponentSlug": "117902-anthony-garrett",
+      "result": "win",
+      "method": "other",
+      "event": "Mecca 20",
+      "eventSlug": "103306-mecca-20",
+      "round": 1,
+      "timeInRound": "0:11"
+    },
+    {
+      "date": "2023-07-08T00:00:00.000Z",
+      "opponent": "Adam Poulin",
+      "opponentSlug": "342208-adam-poulin",
+      "result": "win",
+      "method": "sub",
+      "event": "Mecca 19",
+      "eventSlug": "99892-mecca-19",
+      "round": 3,
+      "timeInRound": "0:23"
+    },
+    {
+      "date": "2023-02-24T00:00:00.000Z",
+      "opponent": "Scott Mlyniec",
+      "opponentSlug": "307090-scott-mylniec",
+      "result": "win",
+      "method": "sub",
+      "event": "Compass Fight Series 2",
+      "eventSlug": "95397-compass-fight-series-2",
+      "round": 3,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2022-11-23T00:00:00.000Z",
+      "opponent": "Pedro Gomez",
+      "opponentSlug": "306832-pedro-gomez",
+      "result": "win",
+      "method": "dec-split",
+      "event": "MCC 68: Thanksgiving Throwdown",
+      "eventSlug": "93269-thanksgiving-throwdown",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-16T00:00:00.000Z",
+      "opponent": "Rick Jones",
+      "opponentSlug": "119190-richard-jones",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 142: Amorim vs. Nichols",
+      "eventSlug": "92238-lfa-142-amorim-vs-nichols",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-23T00:00:00.000Z",
+      "opponent": "Kyle Coldiron",
+      "opponentSlug": "326619-kyle-coldiron",
+      "result": "win",
+      "method": "other",
+      "event": "Compass Fight Series 1",
+      "eventSlug": "88513-compass-fight-series-1",
+      "round": 1,
+      "timeInRound": "2:39"
+    },
+    {
+      "date": "2022-05-07T00:00:00.000Z",
+      "opponent": "Joseph Ndubuisi",
+      "opponentSlug": "311829-joseph-ndubuasi",
+      "result": "win",
+      "method": "other",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "88324-brutaal-genesis-fight-night-fort-frenzy-18",
+      "round": 1,
+      "timeInRound": "2:28"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:11:59.157Z"
+}

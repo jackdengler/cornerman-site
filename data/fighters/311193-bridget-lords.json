@@ -1,0 +1,37 @@
+{
+  "slug": "311193-bridget-lords",
+  "name": "Bridget Lords",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "New Zealand",
+  "url": "https://www.tapology.com/fightcenter/fighters/311193-bridget-lords",
+  "recentFights": [
+    {
+      "date": "2016-07-30T00:00:00.000Z",
+      "opponent": "Michelle Montague",
+      "opponentSlug": "237486-michell-montague",
+      "result": "loss",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 2,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:55:12.621Z"
+}

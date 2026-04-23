@@ -1,0 +1,154 @@
+{
+  "slug": "162024-brakenden-freeman",
+  "name": "Brakenden Freeman",
+  "nickname": "King Killa",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1997-06-02",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/162024-brakenden-freeman",
+  "recentFights": [
+    {
+      "date": "2025-10-10T00:00:00.000Z",
+      "opponent": "Shea Conley",
+      "opponentSlug": "194924-danny-conley",
+      "result": "loss",
+      "method": "other",
+      "event": "Xtreme Fight Night 404",
+      "eventSlug": "122751-xtreme-fight-night-404",
+      "round": 1,
+      "timeInRound": "0:32"
+    },
+    {
+      "date": "2025-05-10T00:00:00.000Z",
+      "opponent": "Joe Saucedo",
+      "opponentSlug": "45144-joe-saucedo",
+      "result": "win",
+      "method": "tko",
+      "event": "Peak Fighting 44",
+      "eventSlug": "123863-peak-fighting-44",
+      "round": 1,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2024-06-14T00:00:00.000Z",
+      "opponent": "Edgardo Guzman",
+      "opponentSlug": "164942-edgardo-guzman",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "XKO 67",
+      "eventSlug": "113617-xko-67",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-10-20T00:00:00.000Z",
+      "opponent": "Emmanuel Calhoune",
+      "opponentSlug": "145335-emmanuel-calhoune",
+      "result": "win",
+      "method": "dec-split",
+      "event": "XKO 64: Fight Night",
+      "eventSlug": "104764-xko-64-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-07T00:00:00.000Z",
+      "opponent": "Eduardo Tejada",
+      "opponentSlug": "293963-eduardo-tejada",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fury FC 79: Rodrigues vs. Holmes",
+      "eventSlug": "99972-fury-fc-79",
+      "round": 1,
+      "timeInRound": "4:19"
+    },
+    {
+      "date": "2023-01-15T00:00:00.000Z",
+      "opponent": "Jordan Plutin",
+      "opponentSlug": "231725-jordan-plutin",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Fury Challenger Series 2",
+      "eventSlug": "95375-fury-challenger-series-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-10-23T00:00:00.000Z",
+      "opponent": "Kody Steele",
+      "opponentSlug": "228289-kody-steele",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fury Challenger Series 1",
+      "eventSlug": "91560-fury-challenger-series-1",
+      "round": 2,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2021-10-16T00:00:00.000Z",
+      "opponent": "Tater McSpadden",
+      "opponentSlug": "225065-tater-mcspadden",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Rage in the Cage OKC 84",
+      "eventSlug": "83074-rage-in-the-cage-okc-84",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-07T00:00:00.000Z",
+      "opponent": "Hunter Smith",
+      "opponentSlug": "209582-hunter-smith",
+      "result": "win",
+      "method": "tko",
+      "event": "Rage in the Cage OKC 82",
+      "eventSlug": "81806-rage-in-the-cage-okc-82",
+      "round": 1,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2021-01-30T00:00:00.000Z",
+      "opponent": "George Smith",
+      "opponentSlug": "44782-george-smith",
+      "result": "win",
+      "method": "tko",
+      "event": "Rage in the Cage OKC 78",
+      "eventSlug": "76664-rage-in-the-cage-okc-78-in-glorious-battle-we-trust",
+      "round": 2,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2019-03-09T00:00:00.000Z",
+      "opponent": "Scott Vanhuss",
+      "opponentSlug": "94000-scott-vanhuss",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "GCF 8",
+      "eventSlug": "57458-gcf-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-08T00:00:00.000Z",
+      "opponent": "Brandon Benevento",
+      "opponentSlug": "145268-brandon-benevento",
+      "result": "win",
+      "method": "other",
+      "event": "GCF 5",
+      "eventSlug": "45931-gcf-5",
+      "round": 2,
+      "timeInRound": "2:22"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:18:56.695Z"
+}

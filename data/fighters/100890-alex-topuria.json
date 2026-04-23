@@ -1,0 +1,110 @@
+{
+  "slug": "100890-alex-topuria",
+  "name": "Aleksandre Topuria",
+  "nickname": "El Conquistador",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 173,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1996-01-28",
+  "nationality": "Georgia",
+  "url": "https://www.tapology.com/fightcenter/fighters/100890-alex-topuria",
+  "recentFights": [
+    {
+      "date": "2025-11-22T00:00:00.000Z",
+      "opponent": "Bekzat Almakhan",
+      "opponentSlug": "192704-bekzat-almakhan",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "130635-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-02-08T00:00:00.000Z",
+      "opponent": "Colby Thicknesse",
+      "opponentSlug": "166902-colby-thicknesse",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 312: Du Plessis vs. Strickland 2",
+      "eventSlug": "119136-ufc-312",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-20T00:00:00.000Z",
+      "opponent": "Johan Segas",
+      "opponentSlug": "141316-johan-segas-silencer",
+      "result": "win",
+      "method": "other",
+      "event": "WOW 9",
+      "eventSlug": "100355-wow-9",
+      "round": 1,
+      "timeInRound": "2:17"
+    },
+    {
+      "date": "2022-03-12T00:00:00.000Z",
+      "opponent": "Alberto Ibañez",
+      "opponentSlug": "187811-alberto-ibanez",
+      "result": "win",
+      "method": "other",
+      "event": "WAR 1",
+      "eventSlug": "87584-war-mma",
+      "round": 1,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2021-12-08T00:00:00.000Z",
+      "opponent": "Lucas Tenório",
+      "opponentSlug": "109643-lucas-tenorio-luco",
+      "result": "win",
+      "method": "other",
+      "event": "HDH 110",
+      "eventSlug": "84956-hdh-110",
+      "round": 1,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2015-05-29T00:00:00.000Z",
+      "opponent": "Ivo Ivanov",
+      "opponentSlug": "100889-ivo-ivanov",
+      "result": "loss",
+      "method": "tko",
+      "event": "Mix Fight Events",
+      "eventSlug": "31820-mix-fight-events",
+      "round": 3,
+      "timeInRound": "4:10"
+    },
+    {
+      "date": "2015-05-09T00:00:00.000Z",
+      "opponent": "Alejandro Rumin",
+      "opponentSlug": "94207-alejandro-rumin",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-04-04T00:00:00.000Z",
+      "opponent": "Andres Braulio Lazaro Chiguano",
+      "opponentSlug": "85668-andres-braulio-lazaro-chiguano",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:56:17.634Z"
+}

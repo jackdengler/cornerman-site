@@ -1,0 +1,33 @@
+{
+  "slug": "157024-jordie-alulima",
+  "name": "Jordie Alulima",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Ecuador",
+  "url": "https://www.tapology.com/fightcenter/fighters/157024-jordie-alulima",
+  "recentFights": [
+    {
+      "date": "2014-10-25T00:00:00.000Z",
+      "opponent": "Adrian Luna Martinetti",
+      "opponentSlug": "139620-juan-adrian-luna",
+      "result": "loss",
+      "method": "other",
+      "event": "YFC 2: Warriors",
+      "eventSlug": "45661-yfc-2",
+      "round": 1,
+      "timeInRound": "1:12"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:37:18.021Z"
+}

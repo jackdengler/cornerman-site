@@ -1,0 +1,88 @@
+{
+  "slug": "288061-gabriel-oliveira",
+  "name": "Gabriel Oliveira",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/288061-gabriel-oliveira",
+  "recentFights": [
+    {
+      "date": "2022-09-24T00:00:00.000Z",
+      "opponent": "Lucas Cardoso",
+      "opponentSlug": "180949-lucas-cardoso",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Demo Fight 14",
+      "eventSlug": "92006-demo-fight-14",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-28T00:00:00.000Z",
+      "opponent": "Weslley Ramos",
+      "opponentSlug": "321717-weslley-ramos-lello",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Demo Fight 13",
+      "eventSlug": "88400-demo-fight-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-13T00:00:00.000Z",
+      "opponent": "Mateus Fidelis",
+      "opponentSlug": "294356-mateus-fidelis",
+      "result": "win",
+      "method": "other",
+      "event": "SFFN 6",
+      "eventSlug": "83128-sffn-6",
+      "round": 2,
+      "timeInRound": "2:09"
+    },
+    {
+      "date": "2021-09-25T00:00:00.000Z",
+      "opponent": "Márcio Barbosa",
+      "opponentSlug": "126539-marcio-ticot",
+      "result": "loss",
+      "method": "other",
+      "event": "SFFN 5",
+      "eventSlug": "81657-sffn-5",
+      "round": 1,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2021-08-28T00:00:00.000Z",
+      "opponent": "Yuri Santos",
+      "opponentSlug": "252553-yuri-santos",
+      "result": "loss",
+      "method": "sub",
+      "event": "JFC 3",
+      "eventSlug": "80042-jfc-3",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-13T00:00:00.000Z",
+      "opponent": "Wellington Borges",
+      "opponentSlug": "270141-wellington-borges",
+      "result": "loss",
+      "method": "sub",
+      "event": "DM Fight 2",
+      "eventSlug": "77368-dm-fight-2",
+      "round": 1,
+      "timeInRound": "2:47"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:56:55.245Z"
+}

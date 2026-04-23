@@ -1,0 +1,143 @@
+{
+  "slug": "42684-horacio-bepre",
+  "name": "Horacio Bepre",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 3,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Argentina",
+  "url": "https://www.tapology.com/fightcenter/fighters/42684-horacio-bepre",
+  "recentFights": [
+    {
+      "date": "2024-06-15T00:00:00.000Z",
+      "opponent": "Cesar Benitez",
+      "opponentSlug": "114462-cesar-benitez",
+      "result": "win",
+      "method": "sub",
+      "event": "Deep Combat 6",
+      "eventSlug": "113494-deep-combat-6",
+      "round": 1,
+      "timeInRound": "3:05"
+    },
+    {
+      "date": "2019-12-07T00:00:00.000Z",
+      "opponent": "Ángel Bogado",
+      "opponentSlug": "248216-angel-bogado",
+      "result": "loss",
+      "method": "other",
+      "event": "HFC 95",
+      "eventSlug": "65529-hfc-95",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2019-06-28T00:00:00.000Z",
+      "opponent": "Rodrigo Sebastian Pezoli",
+      "opponentSlug": "111345-rodrigo-pezoli",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "HFC 88",
+      "eventSlug": "110856-hfc-88",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-06T00:00:00.000Z",
+      "opponent": "Paulo Bueno",
+      "opponentSlug": "33329-paulo-bueno",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "HFC 82",
+      "eventSlug": "55184-hfc-20-anos",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-16T00:00:00.000Z",
+      "opponent": "Gustavo Gomez",
+      "opponentSlug": "169374-gustavo-gomez",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "The ONE MMA",
+      "eventSlug": "49443-the-one-mma",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-09-07T00:00:00.000Z",
+      "opponent": "Diego Lopez",
+      "opponentSlug": "46722-diego-lopez-el-pulpo",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-06-22T00:00:00.000Z",
+      "opponent": "Victor Valenzuela",
+      "opponentSlug": "67389-victor-valenzuela-sicosis",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-08-25T00:00:00.000Z",
+      "opponent": "Cesar Veron",
+      "opponentSlug": "62604-cesar-veron-el-oso",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-04-18T00:00:00.000Z",
+      "opponent": "Diego Palau",
+      "opponentSlug": "24970-diego-palau-el-loco",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-03-07T00:00:00.000Z",
+      "opponent": "Wellington Monalisa",
+      "opponentSlug": "4410-wellington-monalisa",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-12-14T00:00:00.000Z",
+      "opponent": "Diego Palau",
+      "opponentSlug": "24970-diego-palau-el-loco",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:58:22.969Z"
+}

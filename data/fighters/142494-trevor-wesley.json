@@ -1,0 +1,92 @@
+{
+  "slug": "142494-trevor-wesley",
+  "name": "Trevor Wesley",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/142494-trevor-wesley",
+  "recentFights": [
+    {
+      "date": "2017-04-22T00:00:00.000Z",
+      "opponent": "Eric McConico",
+      "opponentSlug": "112634-eric-mcconico",
+      "result": "loss",
+      "method": "tko",
+      "event": "Budofights 16",
+      "eventSlug": "44823-budofights-16",
+      "round": 3,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2016-10-22T00:00:00.000Z",
+      "opponent": "Shawn Smith",
+      "opponentSlug": "142493-shawn-smith",
+      "result": "win",
+      "method": "sub",
+      "event": "Knucklehead 16",
+      "eventSlug": "42225-knucklehead-16",
+      "round": 1,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2012-05-19T00:00:00.000Z",
+      "opponent": "Shane Patterson",
+      "opponentSlug": "33197-shane-patterson",
+      "result": "win",
+      "method": "sub",
+      "event": "Rumble at the Roseland 63",
+      "eventSlug": "29601-rumble-at-the-roseland-63",
+      "round": 1,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2011-11-19T00:00:00.000Z",
+      "opponent": "Brad Clark",
+      "opponentSlug": "423460-brad-clark",
+      "result": "win",
+      "method": "other",
+      "event": "Beatdown at the Barracuda",
+      "eventSlug": "23182-beatdown-at-the-barracuda",
+      "round": 2,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2010-03-05T00:00:00.000Z",
+      "opponent": "Christopher Kidby",
+      "opponentSlug": "106480-christopher-kidby",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Alive MMA: First Friday Fights 7",
+      "eventSlug": "58569-first-friday-fights-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-02-05T00:00:00.000Z",
+      "opponent": "Joe Helfey",
+      "opponentSlug": "91371-joe-helfey",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Alive MMA: First Friday Fights 6",
+      "eventSlug": "108160-alive-mma-first-friday-fights-6",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:52:37.262Z"
+}

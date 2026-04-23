@@ -1,0 +1,165 @@
+{
+  "slug": "126538-michel-costa",
+  "name": "Michel Costa",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/126538-michel-costa",
+  "recentFights": [
+    {
+      "date": "2019-12-21T00:00:00.000Z",
+      "opponent": "Frank Bispo",
+      "opponentSlug": "86272-frank-bispo-jagunco",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shooto Brasil",
+      "eventSlug": "65215-shooto-brasil-christmas",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-25T00:00:00.000Z",
+      "opponent": "Yan Teixeira",
+      "opponentSlug": "109636-yan-teixeira-yanzinho",
+      "result": "loss",
+      "method": "other",
+      "event": "Shooto Brasil 92",
+      "eventSlug": "60598-shooto-brasil-92",
+      "round": 3,
+      "timeInRound": "3:04"
+    },
+    {
+      "date": "2018-07-28T00:00:00.000Z",
+      "opponent": "Lucas Rocha",
+      "opponentSlug": "192343-lucas-rocha-fenomeno",
+      "result": "loss",
+      "method": "other",
+      "event": "Mr. Cage 35",
+      "eventSlug": "52835-mr-cage-35",
+      "round": 5,
+      "timeInRound": "4:45"
+    },
+    {
+      "date": "2018-03-17T00:00:00.000Z",
+      "opponent": "Diney Souza",
+      "opponentSlug": "156611-diney-souza",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Shooto Brasil 81",
+      "eventSlug": "50851-shooto-brasil-81",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-06T00:00:00.000Z",
+      "opponent": "Raone Souza",
+      "opponentSlug": "172242-raone-souza",
+      "result": "win",
+      "method": "other",
+      "event": "Mr. Cage 31",
+      "eventSlug": "49424-mr-cage-31",
+      "round": 3,
+      "timeInRound": "4:27"
+    },
+    {
+      "date": "2017-09-24T00:00:00.000Z",
+      "opponent": "Gilberto Dias",
+      "opponentSlug": "24377-gilberto-dias",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shooto Brasil 75",
+      "eventSlug": "48104-shooto-brasil-75",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-08T00:00:00.000Z",
+      "opponent": "Jessé Souza",
+      "opponentSlug": "114074-jesse-souza",
+      "result": "win",
+      "method": "tko",
+      "event": "Luta Tribal 1",
+      "eventSlug": "46786-luta-tribal-1",
+      "round": 3,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2017-03-25T00:00:00.000Z",
+      "opponent": "Kayck Alencar",
+      "opponentSlug": "98238-kayck-alencar-queixo-de-titanium",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Katana Fight 2",
+      "eventSlug": "44400-katana-fight-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-22T00:00:00.000Z",
+      "opponent": "Ivan Luiz",
+      "opponentSlug": "133426-ivan-luiz",
+      "result": "win",
+      "method": "tko",
+      "event": "Mr. Cage 25",
+      "eventSlug": "43447-mr-cage-25",
+      "round": 2,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2016-12-22T00:00:00.000Z",
+      "opponent": "Ranieri Silva",
+      "opponentSlug": "101202-ranieri-silva",
+      "result": "win",
+      "method": "tko",
+      "event": "Mr. Cage 25",
+      "eventSlug": "43447-mr-cage-25",
+      "round": 1,
+      "timeInRound": "3:45"
+    },
+    {
+      "date": "2016-06-25T00:00:00.000Z",
+      "opponent": "Dilan Santiago",
+      "opponentSlug": "124751-dilan-santiago",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-02-13T00:00:00.000Z",
+      "opponent": "Carlos Daniel Oliveira",
+      "opponentSlug": "124750-carlos-daniel-oliveira-danielzinho",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Mr. Cage 21",
+      "eventSlug": "37973-mr-cage-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-02-21T00:00:00.000Z",
+      "opponent": "Davyd Miranda",
+      "opponentSlug": "126553-davyd-miranda",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:56:19.900Z"
+}

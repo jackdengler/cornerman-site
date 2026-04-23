@@ -1,0 +1,165 @@
+{
+  "slug": "96485-enrique-pacheco-pesadilla",
+  "name": "Enrique Pacheco Parra",
+  "nickname": "La Pesadilla",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": 170,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1992-03-11",
+  "nationality": "Chile",
+  "url": "https://www.tapology.com/fightcenter/fighters/96485-enrique-pacheco-pesadilla",
+  "recentFights": [
+    {
+      "date": "2026-03-27T00:00:00.000Z",
+      "opponent": "Tony Rojas",
+      "opponentSlug": "309501-tony-rojas",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Unified MMA 68",
+      "eventSlug": "135635-unified-mma-68",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-01-25T00:00:00.000Z",
+      "opponent": "Devon Lozej",
+      "opponentSlug": "205775-devon-lozej",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 200: Johns vs. Douglas",
+      "eventSlug": "120838-lfa-200",
+      "round": 2,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2023-09-23T00:00:00.000Z",
+      "opponent": "Ryan Ocasio",
+      "opponentSlug": "294753-ryan-ocasio",
+      "result": "win",
+      "method": "sub",
+      "event": "Combate Global",
+      "eventSlug": "105122-combate-global-slice-vs-ewert",
+      "round": 1,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2023-03-18T00:00:00.000Z",
+      "opponent": "Michael Reyes",
+      "opponentSlug": "65744-michael-reyes",
+      "result": "win",
+      "method": "sub",
+      "event": "Combate Global",
+      "eventSlug": "99363-combate-global-pace-vs-matuz",
+      "round": 2,
+      "timeInRound": "2:11"
+    },
+    {
+      "date": "2021-08-28T00:00:00.000Z",
+      "opponent": "Alfredo Muaiad",
+      "opponentSlug": "131911-alfredo-muaiad",
+      "result": "loss",
+      "method": "other",
+      "event": "Live Fight Night 3",
+      "eventSlug": "81095-live-fight-night-3",
+      "round": 4,
+      "timeInRound": "3:15"
+    },
+    {
+      "date": "2020-11-21T00:00:00.000Z",
+      "opponent": "Alfredo Muaiad",
+      "opponentSlug": "131911-alfredo-muaiad",
+      "result": "win",
+      "method": "sub",
+      "event": "Live Fight Night",
+      "eventSlug": "73022-one-live-2",
+      "round": 1,
+      "timeInRound": "1:52"
+    },
+    {
+      "date": "2018-07-28T00:00:00.000Z",
+      "opponent": "Gregory Campos",
+      "opponentSlug": "95253-gregory-campos",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MFC 15: Ortega vs Quintana",
+      "eventSlug": "53615-mfc-15-ortega-vs-quintana",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-24T00:00:00.000Z",
+      "opponent": "Francisco Perez Castillo",
+      "opponentSlug": "278533-francisco-perez-castillo",
+      "result": "win",
+      "method": "sub",
+      "event": "MFC Amateur 21",
+      "eventSlug": "53085-mfc-amateur",
+      "round": 1,
+      "timeInRound": "2:57"
+    },
+    {
+      "date": "2017-11-24T00:00:00.000Z",
+      "opponent": "Facundo Diaz",
+      "opponentSlug": "158880-facundo-diaz",
+      "result": "win",
+      "method": "sub",
+      "event": "Infernales MMA 2",
+      "eventSlug": "48957-infernales-mma-2",
+      "round": 1,
+      "timeInRound": "1:40"
+    },
+    {
+      "date": "2017-07-22T00:00:00.000Z",
+      "opponent": "Luis Chang Guibert",
+      "opponentSlug": "55222-luis-chang-guibert",
+      "result": "win",
+      "method": "dec-split",
+      "event": "MFC 14: Navarrete vs. Arevalo",
+      "eventSlug": "47435-mfc-14-navarrete-vs-arevalo",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-22T00:00:00.000Z",
+      "opponent": "Jesus Mora",
+      "opponentSlug": "96480-jesus-mora-nitro",
+      "result": "win",
+      "method": "sub",
+      "event": "MFC: Pro & Amateur",
+      "eventSlug": "45361-mfc-amateur",
+      "round": 1,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2016-12-17T00:00:00.000Z",
+      "opponent": "Alfredo Muaiad",
+      "opponentSlug": "131911-alfredo-muaiad",
+      "result": "win",
+      "method": "sub",
+      "event": "MFC 13: End of Conflict",
+      "eventSlug": "43107-mfc-13-end-of-conflict",
+      "round": 2,
+      "timeInRound": "1:34"
+    },
+    {
+      "date": "2015-03-21T00:00:00.000Z",
+      "opponent": "Joaquin Figueroa Vera",
+      "opponentSlug": "96486-joaquin-figueroa",
+      "result": null,
+      "method": "other",
+      "event": "MFC Amateur",
+      "eventSlug": "30731-mfc-amateur",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:36:01.191Z"
+}

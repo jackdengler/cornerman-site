@@ -1,0 +1,143 @@
+{
+  "slug": "307962-gabe-eurit",
+  "name": "Gabe Eurit",
+  "nickname": "Tag",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "2001-05-10",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/307962-gabe-eurit",
+  "recentFights": [
+    {
+      "date": "2025-06-13T00:00:00.000Z",
+      "opponent": "Taner Trembley",
+      "opponentSlug": "336743-taner-trembley",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 210: Lawrence vs. Reyes",
+      "eventSlug": "126691-lfa-210",
+      "round": 1,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2025-02-15T00:00:00.000Z",
+      "opponent": "Zakariya Camara",
+      "opponentSlug": "189943-zack-camara",
+      "result": "win",
+      "method": "other",
+      "event": "Ohio Combat League 35",
+      "eventSlug": "121674-ohio-combat-league-35",
+      "round": 2,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2024-09-14T00:00:00.000Z",
+      "opponent": "Calvin Walterhouse",
+      "opponentSlug": "458059-calvin-walterhouse",
+      "result": "win",
+      "method": "sub",
+      "event": "Art of Scrap 9",
+      "eventSlug": "116589-art-of-scrap-9",
+      "round": 1,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2024-06-29T00:00:00.000Z",
+      "opponent": "Noah Kiszka",
+      "opponentSlug": "364037-noah-kiszka",
+      "result": "win",
+      "method": "dec-split",
+      "event": "247 FC: Brawl in the Burgh 22",
+      "eventSlug": "110654-247-fc-brawl-in-the-burgh-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-01-27T00:00:00.000Z",
+      "opponent": "Simeon Teague",
+      "opponentSlug": "302540-simeon-teague",
+      "result": "win",
+      "method": "sub",
+      "event": "GE Fights: Unforgiven",
+      "eventSlug": "104873-ge-fights-unforgiven",
+      "round": 1,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2023-11-04T00:00:00.000Z",
+      "opponent": "Josiah McNelly",
+      "opponentSlug": "352033-josiah-mcnelly",
+      "result": "win",
+      "method": "sub",
+      "event": "SICP 4",
+      "eventSlug": "99187-sicp-2-the-second-coming",
+      "round": 2,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2023-08-05T00:00:00.000Z",
+      "opponent": "Sergio Martinez",
+      "opponentSlug": "331697-sergio-martinez",
+      "result": "win",
+      "method": "sub",
+      "event": "SICP 3",
+      "eventSlug": "99891-sicp-3",
+      "round": 2,
+      "timeInRound": "1:16"
+    },
+    {
+      "date": "2022-10-15T00:00:00.000Z",
+      "opponent": "Bobby Kelley",
+      "opponentSlug": "286281-bobby-kelley-wolverine",
+      "result": "win",
+      "method": "other",
+      "event": "Art of Scrap 5",
+      "eventSlug": "91274-art-of-scrap-5",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2022-04-15T00:00:00.000Z",
+      "opponent": "David Lawhorne",
+      "opponentSlug": "333799-david-lawhorne",
+      "result": "win",
+      "method": "other",
+      "event": "Art of Scrap 4",
+      "eventSlug": "85955-art-of-scrap-4",
+      "round": 2,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2021-12-11T00:00:00.000Z",
+      "opponent": "Austin Todd",
+      "opponentSlug": "253465-austin-todd",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Colosseum Combat 57",
+      "eventSlug": "83704-colosseum-combat-57",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-15T00:00:00.000Z",
+      "opponent": "Dillon Gattie",
+      "opponentSlug": "307379-dillon-gattie",
+      "result": "win",
+      "method": "other",
+      "event": "Colosseum Combat 55",
+      "eventSlug": "81382-colosseum-combat-55",
+      "round": 1,
+      "timeInRound": "2:27"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:37:31.868Z"
+}

@@ -1,0 +1,132 @@
+{
+  "slug": "119591-chase-kuebler",
+  "name": "Chase Kuebler",
+  "nickname": "Militia",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1995-07-07",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/119591-chase-kuebler",
+  "recentFights": [
+    {
+      "date": "2025-02-01T00:00:00.000Z",
+      "opponent": "Collin Anglin",
+      "opponentSlug": "119395-collin-anglin",
+      "result": "loss",
+      "method": "other",
+      "event": "Legends of Combat 1",
+      "eventSlug": "122323-legends-of-combat",
+      "round": 2,
+      "timeInRound": "3:38"
+    },
+    {
+      "date": "2024-04-13T00:00:00.000Z",
+      "opponent": "Aaron Smith",
+      "opponentSlug": "45542-aaron-smith",
+      "result": "win",
+      "method": "sub",
+      "event": "Lights Out Championship 15",
+      "eventSlug": "110643-lights-out-championship-15",
+      "round": 1,
+      "timeInRound": "4:11"
+    },
+    {
+      "date": "2023-09-30T00:00:00.000Z",
+      "opponent": "Gary Edwards",
+      "opponentSlug": "109611-gary-edwards",
+      "result": "win",
+      "method": "sub",
+      "event": "Lights Out Championship 13",
+      "eventSlug": "103767-lights-out-championship-13",
+      "round": 2,
+      "timeInRound": "2:23"
+    },
+    {
+      "date": "2023-04-29T00:00:00.000Z",
+      "opponent": "Artwaun Steele",
+      "opponentSlug": "234009-artwaun-steele",
+      "result": "win",
+      "method": "sub",
+      "event": "Lights Out Championship 11",
+      "eventSlug": "98770-lights-out-championship-11",
+      "round": 1,
+      "timeInRound": "3:11"
+    },
+    {
+      "date": "2021-05-07T00:00:00.000Z",
+      "opponent": "Gauge Young",
+      "opponentSlug": "213571-gauge-young",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "FAC 8",
+      "eventSlug": "77762-fac-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-11T00:00:00.000Z",
+      "opponent": "Jesse Drost",
+      "opponentSlug": "164413-jesse-drost",
+      "result": "win",
+      "method": "sub",
+      "event": "IFL 70: Fight Night And Bikes 4",
+      "eventSlug": "58272-ifl-70",
+      "round": 2,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2018-02-17T00:00:00.000Z",
+      "opponent": "Devon Jackson",
+      "opponentSlug": "99559-devon-jackson",
+      "result": "loss",
+      "method": "sub",
+      "event": "WXC 71: Night Of Champions 10",
+      "eventSlug": "49251-wxc-71-night-of-champions-10",
+      "round": 1,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2015-11-28T00:00:00.000Z",
+      "opponent": "Jared Chauvin",
+      "opponentSlug": "103596-jared-chauvin",
+      "result": "win",
+      "method": "other",
+      "event": "TFC Fightzone",
+      "eventSlug": "35362-tfc-fightzone-michigan-mma-state-championship-finals",
+      "round": 2,
+      "timeInRound": "2:17"
+    },
+    {
+      "date": "2015-04-25T00:00:00.000Z",
+      "opponent": "Nate Cubbison",
+      "opponentSlug": "110282-nathan-cubbison",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-10-18T00:00:00.000Z",
+      "opponent": "Pablo Ramos",
+      "opponentSlug": "126772-pablo-ramos",
+      "result": "loss",
+      "method": "dec-split",
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:12:22.717Z"
+}

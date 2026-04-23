@@ -1,0 +1,121 @@
+{
+  "slug": "81034-maurice-salazar",
+  "name": "Maurice Salazar",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/81034-maurice-salazar",
+  "recentFights": [
+    {
+      "date": "2017-09-08T00:00:00.000Z",
+      "opponent": "Youssef Zalal",
+      "opponentSlug": "110826-youssef-zalaal",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 22: Heinisch vs. Perez",
+      "eventSlug": "47407-lfa-22-heinisch-vs-perez",
+      "round": 2,
+      "timeInRound": "4:41"
+    },
+    {
+      "date": "2017-02-24T00:00:00.000Z",
+      "opponent": "Enrique Gonzalez",
+      "opponentSlug": "119365-kike-gonzalez",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 5: Edwards vs. Townsend",
+      "eventSlug": "43695-lfa-5-edwards-vs-townsend",
+      "round": 1,
+      "timeInRound": "4:55"
+    },
+    {
+      "date": "2016-11-12T00:00:00.000Z",
+      "opponent": "Jake Mendez",
+      "opponentSlug": "56529-jake-mendez",
+      "result": "win",
+      "method": "sub",
+      "event": "SCL 55: Freedom",
+      "eventSlug": "42683-scl-55-freedom",
+      "round": 2,
+      "timeInRound": "4:06"
+    },
+    {
+      "date": "2016-09-09T00:00:00.000Z",
+      "opponent": "Phil Gonzalez",
+      "opponentSlug": "56531-phil-gonzalez",
+      "result": "win",
+      "method": "sub",
+      "event": "RFA 43: Camozzi vs. Barnes",
+      "eventSlug": "40830-rfa-43-camozzi-vs-barnes",
+      "round": 1,
+      "timeInRound": "0:26"
+    },
+    {
+      "date": "2016-04-15T00:00:00.000Z",
+      "opponent": "Mike Manus",
+      "opponentSlug": "113399-mike-manus",
+      "result": "win",
+      "method": "sub",
+      "event": "Paramount MMA",
+      "eventSlug": "39090-prize-fc-13",
+      "round": 1,
+      "timeInRound": "0:54"
+    },
+    {
+      "date": "2015-10-02T00:00:00.000Z",
+      "opponent": "Alan Lechuga",
+      "opponentSlug": "73736-alan-lechuga",
+      "result": "win",
+      "method": "sub",
+      "event": "Kickdown 120",
+      "eventSlug": "35662-kickdown-mma-120",
+      "round": 2,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2015-05-16T00:00:00.000Z",
+      "opponent": "Andrei Jones",
+      "opponentSlug": "54736-andrei-jones",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Kickdown 118",
+      "eventSlug": "32386-kickdown-118-undeniable",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-14T00:00:00.000Z",
+      "opponent": "Michael Beals",
+      "opponentSlug": "94342-michael-beals",
+      "result": "win",
+      "method": "sub",
+      "event": "Kickdown 117",
+      "eventSlug": "30817-kickdown-117-counter-attack",
+      "round": 1,
+      "timeInRound": "0:29"
+    },
+    {
+      "date": "2014-11-08T00:00:00.000Z",
+      "opponent": "Jason Rubio",
+      "opponentSlug": "47808-jason-rubio",
+      "result": "win",
+      "method": "sub",
+      "event": "Kickdown 115",
+      "eventSlug": "27708-kickdown-115-stampede",
+      "round": 1,
+      "timeInRound": "0:16"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:32:54.640Z"
+}

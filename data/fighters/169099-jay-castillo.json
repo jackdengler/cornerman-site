@@ -1,0 +1,114 @@
+{
+  "slug": "169099-jay-castillo",
+  "name": "Jaylin Castillo",
+  "nickname": "Jay",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 6,
+    "draws": 0
+  },
+  "heightCm": 191,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1988-03-19",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/169099-jay-castillo",
+  "recentFights": [
+    {
+      "date": "2022-09-03T00:00:00.000Z",
+      "opponent": "Dallas Dodd",
+      "opponentSlug": "285379-dallas-dodd",
+      "result": "loss",
+      "method": "other",
+      "event": "Melee FC 1",
+      "eventSlug": "90475-melee-fc-1",
+      "round": 2,
+      "timeInRound": "2:28"
+    },
+    {
+      "date": "2022-05-28T00:00:00.000Z",
+      "opponent": "Carlos McGee",
+      "opponentSlug": "174560-carlos-mcgee",
+      "result": "loss",
+      "method": "tko",
+      "event": "SEFC 25",
+      "eventSlug": "90229-sefc-25",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-16T00:00:00.000Z",
+      "opponent": "Dinh Bates",
+      "opponentSlug": "117893-dinh-bates",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "SEFC 22",
+      "eventSlug": "83746-sefc-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-10T00:00:00.000Z",
+      "opponent": "Will McCown",
+      "opponentSlug": "294103-will-mccown",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fight Night",
+      "eventSlug": "79338-fight-night-sand-mountain-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-27T00:00:00.000Z",
+      "opponent": "Terry Wiggins",
+      "opponentSlug": "217584-terry-wiggins",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Empire FC 10",
+      "eventSlug": "76823-empire-fc-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-09T00:00:00.000Z",
+      "opponent": "Sedriques Dumas",
+      "opponentSlug": "188574-sedriques-dumas",
+      "result": "loss",
+      "method": "other",
+      "event": "Summit FC 28",
+      "eventSlug": "53484-summit-fc-28",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2018-04-28T00:00:00.000Z",
+      "opponent": "Jordan Fowler",
+      "opponentSlug": "91872-jordan-fowler",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "V3 Fights 68",
+      "eventSlug": "52008-v3-fights-68",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-10-14T00:00:00.000Z",
+      "opponent": "Parker Turner",
+      "opponentSlug": "169098-parker-turner",
+      "result": "win",
+      "method": "other",
+      "event": "Summit FC 24",
+      "eventSlug": "48791-summit-fc-24-jackson",
+      "round": 1,
+      "timeInRound": "2:24"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:53:40.409Z"
+}

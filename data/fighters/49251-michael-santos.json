@@ -1,0 +1,143 @@
+{
+  "slug": "49251-michael-santos",
+  "name": "Michael Santos",
+  "nickname": "Bolo",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1991-04-16",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/49251-michael-santos",
+  "recentFights": [
+    {
+      "date": "2019-11-22T00:00:00.000Z",
+      "opponent": "Edwin Chavez",
+      "opponentSlug": "186440-edwin-chavez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 79: Royval vs. Williams",
+      "eventSlug": "64015-lfa-79-royval-vs-scoggins",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-15T00:00:00.000Z",
+      "opponent": "Jake Mendez",
+      "opponentSlug": "56529-jake-mendez",
+      "result": "win",
+      "method": "other",
+      "event": "Colorado Combat Club 1",
+      "eventSlug": "58463-colorado-combat-club",
+      "round": 1,
+      "timeInRound": "3:31"
+    },
+    {
+      "date": "2019-01-19T00:00:00.000Z",
+      "opponent": "Tyler Cutsforth",
+      "opponentSlug": "55727-tyler-cutsforth",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "NMEF: Annihilation 65",
+      "eventSlug": "57288-nmef-annihilation-65",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-27T00:00:00.000Z",
+      "opponent": "Ben Lugo",
+      "opponentSlug": "45013-ben-lugo",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "SCL: Fight Night 7",
+      "eventSlug": "54293-scl-fight-night-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-19T00:00:00.000Z",
+      "opponent": "Youssef Zalal",
+      "opponentSlug": "110826-youssef-zalaal",
+      "result": "loss",
+      "method": "other",
+      "event": "SCL 61: Huber vs. Shippen",
+      "eventSlug": "47508-scl-61-huber-vs-shippen",
+      "round": 3,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2017-06-17T00:00:00.000Z",
+      "opponent": "Tom Prather",
+      "opponentSlug": "98832-tom-prather",
+      "result": "win",
+      "method": "other",
+      "event": "SCL 59: Rampage",
+      "eventSlug": "45935-scl-rampage",
+      "round": 1,
+      "timeInRound": "1:34"
+    },
+    {
+      "date": "2017-03-10T00:00:00.000Z",
+      "opponent": "Hiram Martinez",
+      "opponentSlug": "128624-hiram-martinez",
+      "result": "win",
+      "method": "sub",
+      "event": "Kickdown 127",
+      "eventSlug": "44141-kickdown-127",
+      "round": 1,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2014-10-04T00:00:00.000Z",
+      "opponent": "Sodiq Yusuff",
+      "opponentSlug": "58362-sodiq-yusuff",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Real MMA: Fall Brawl",
+      "eventSlug": "27388-real-mma-fall-brawl",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-08-02T00:00:00.000Z",
+      "opponent": "Joe Poteat",
+      "opponentSlug": "42535-joe-poteat",
+      "result": "win",
+      "method": "tko",
+      "event": "Bull City Brawl 15",
+      "eventSlug": "25186-bull-city-brawl-15",
+      "round": 2,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2013-07-27T00:00:00.000Z",
+      "opponent": "Ronald Bittiker",
+      "opponentSlug": "51880-ronald-bittiker",
+      "result": "win",
+      "method": "sub",
+      "event": "Bull City Brawl 12",
+      "eventSlug": "19287-bull-city-brawl-12",
+      "round": 1,
+      "timeInRound": "0:33"
+    },
+    {
+      "date": "2013-05-31T00:00:00.000Z",
+      "opponent": "Garrett Bucksath",
+      "opponentSlug": "48501-garrett-bucksath",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Battle in the South 6",
+      "eventSlug": "17967-battle-in-the-south-6",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:32:56.558Z"
+}

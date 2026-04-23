@@ -1,0 +1,33 @@
+{
+  "slug": "403981-didar-zhandosay",
+  "name": "Didar Zhandosay",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Kazakhstan",
+  "url": "https://www.tapology.com/fightcenter/fighters/403981-didar-zhandosay",
+  "recentFights": [
+    {
+      "date": "2023-09-15T00:00:00.000Z",
+      "opponent": "Yermakhan Oryntaev",
+      "opponentSlug": "361593-yermakhan-oryntaev",
+      "result": "loss",
+      "method": "other",
+      "event": "Octagon Selection 27",
+      "eventSlug": "105332-octagon-selection-27",
+      "round": 1,
+      "timeInRound": "2:55"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:43:48.582Z"
+}

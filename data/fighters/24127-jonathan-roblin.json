@@ -1,0 +1,121 @@
+{
+  "slug": "24127-jonathan-roblin",
+  "name": "Jonathan Roblin",
+  "nickname": "The Raging Warrior",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/24127-jonathan-roblin",
+  "recentFights": [
+    {
+      "date": "2014-03-08T00:00:00.000Z",
+      "opponent": "Mandel Nallo",
+      "opponentSlug": "24751-mandell-nallo",
+      "result": "loss",
+      "method": "sub",
+      "event": "Hybrid Pro Series 1",
+      "eventSlug": "21363-hybrid-pro-1",
+      "round": 1,
+      "timeInRound": "4:34"
+    },
+    {
+      "date": "2013-08-17T00:00:00.000Z",
+      "opponent": "Karim Ranni",
+      "opponentSlug": "24105-karim-ranni",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Challenge MMA 2",
+      "eventSlug": "18684-challenge-mma-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-06-29T00:00:00.000Z",
+      "opponent": "Duncan Henry",
+      "opponentSlug": "25005-duncan-henry",
+      "result": "win",
+      "method": "other",
+      "event": "Fightquest 25",
+      "eventSlug": "18320-fightquest-25",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2013-03-09T00:00:00.000Z",
+      "opponent": "Jeremie Capony",
+      "opponentSlug": "24212-jeremie-capony",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Fightquest 24",
+      "eventSlug": "17253-fightquest-24",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-02-16T00:00:00.000Z",
+      "opponent": "Khalil El Amrani",
+      "opponentSlug": "40470-khalil-el-amrani",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Victory MMA 8",
+      "eventSlug": "13157-victory-mma-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-10-08T00:00:00.000Z",
+      "opponent": "Sim Lapointe",
+      "opponentSlug": "26551-simon-lapointe",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Ring Extreme 19",
+      "eventSlug": "13672-ring-extreme-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-09-17T00:00:00.000Z",
+      "opponent": "Kevin Lampron",
+      "opponentSlug": "24215-kevin-lampron",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Summum MMA 6",
+      "eventSlug": "14057-summum-mma-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-04-16T00:00:00.000Z",
+      "opponent": "Kevyn Thouin",
+      "opponentSlug": "23936-kevyn-thouin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Gladiateur MMA 1",
+      "eventSlug": "13086-gladiateur-mma-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-01-29T00:00:00.000Z",
+      "opponent": "Mohammed Sylla",
+      "opponentSlug": "27951-mohammed-sylla",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Summum MMA 2",
+      "eventSlug": "14018-summum-2",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:08:15.415Z"
+}

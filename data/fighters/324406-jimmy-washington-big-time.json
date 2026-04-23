@@ -1,0 +1,99 @@
+{
+  "slug": "324406-jimmy-washington-big-time",
+  "name": "Jimmy Washington",
+  "nickname": "Big Time",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1996-01-21",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/324406-jimmy-washington-big-time",
+  "recentFights": [
+    {
+      "date": "2026-01-16T00:00:00.000Z",
+      "opponent": "Canon Swanson",
+      "opponentSlug": "329282-canon-swanson",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 224: Adams vs Bilalov",
+      "eventSlug": "137873-legacy-fighting-alliance-224-lfa-224",
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2025-06-25T00:00:00.000Z",
+      "opponent": "Marcellus Wallace",
+      "opponentSlug": "244891-marcellus-wallace",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XFC Young Guns 9 & 10",
+      "eventSlug": "128958-xfc-young-guns-9-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-02-26T00:00:00.000Z",
+      "opponent": "Joseph Pernal",
+      "opponentSlug": "358961-joseph-pernal",
+      "result": "win",
+      "method": "tko",
+      "event": "XFC Young Guns 6",
+      "eventSlug": "124518-xfc-young-guns-6",
+      "round": 1,
+      "timeInRound": "0:27"
+    },
+    {
+      "date": "2024-10-05T00:00:00.000Z",
+      "opponent": "Austin Spivey",
+      "opponentSlug": "101145-austin-spivey",
+      "result": "win",
+      "method": "tko",
+      "event": "Made Men: Palm Beach",
+      "eventSlug": "117036-made-men-palm-beach",
+      "round": 2,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2022-08-27T00:00:00.000Z",
+      "opponent": "Daniel Perez",
+      "opponentSlug": "325386-daniel-perez",
+      "result": "win",
+      "method": "tko",
+      "event": "World Class Combat Sports 5",
+      "eventSlug": "92351-world-class-combat-sports-5",
+      "round": 2,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2022-04-30T00:00:00.000Z",
+      "opponent": "Hector Contreras",
+      "opponentSlug": "334425-hector-contreras",
+      "result": "win",
+      "method": "sub",
+      "event": "XFN 43",
+      "eventSlug": "88724-xfn-43",
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2022-01-29T00:00:00.000Z",
+      "opponent": "Noel Hernandez",
+      "opponentSlug": "302263-noel-hernandez",
+      "result": "win",
+      "method": "tko",
+      "event": "World Class Combat Sports 1",
+      "eventSlug": "86166-world-class-combat-sports-1",
+      "round": 2,
+      "timeInRound": "1:20"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:40:47.299Z"
+}

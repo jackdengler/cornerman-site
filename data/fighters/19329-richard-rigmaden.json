@@ -1,0 +1,187 @@
+{
+  "slug": "19329-richard-rigmaden",
+  "name": "Richard Rigmaden",
+  "nickname": "The Beast",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 12,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 191,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1980-04-25",
+  "nationality": "Stockton, California",
+  "url": "https://www.tapology.com/fightcenter/fighters/19329-richard-rigmaden",
+  "recentFights": [
+    {
+      "date": "2017-11-18T00:00:00.000Z",
+      "opponent": "Joseph Ramirez",
+      "opponentSlug": "86227-joseph-ramirez",
+      "result": "loss",
+      "method": "sub",
+      "event": "CFC 1: King of the Mountain",
+      "eventSlug": "49189-cfc-1-king-of-the-mountain",
+      "round": 1,
+      "timeInRound": "0:49"
+    },
+    {
+      "date": "2017-03-18T00:00:00.000Z",
+      "opponent": "Aarason Perry",
+      "opponentSlug": "38037-arason-perry",
+      "result": "loss",
+      "method": "tko",
+      "event": "Conquer FC 3",
+      "eventSlug": "43759-cfc-3",
+      "round": 1,
+      "timeInRound": "1:19"
+    },
+    {
+      "date": "2016-11-12T00:00:00.000Z",
+      "opponent": "Zach Andrews",
+      "opponentSlug": "67843-zachery-andrews",
+      "result": "loss",
+      "method": "other",
+      "event": "Dragon House 24",
+      "eventSlug": "41422-dragon-house-24",
+      "round": 1,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2016-03-19T00:00:00.000Z",
+      "opponent": "Joaquin Lopez",
+      "opponentSlug": "160471-joaquin-lopez",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-10T00:00:00.000Z",
+      "opponent": "Jordan Williams",
+      "opponentSlug": "73288-jordan-williams",
+      "result": "loss",
+      "method": "other",
+      "event": "West Coast FC 15",
+      "eventSlug": "35087-west-coast-fc-15-griffin-vs-terrado",
+      "round": 1,
+      "timeInRound": "0:46"
+    },
+    {
+      "date": "2015-09-26T00:00:00.000Z",
+      "opponent": "Brandon Collins",
+      "opponentSlug": "40909-brandon-collins",
+      "result": "win",
+      "method": "sub",
+      "event": "IFC 37: California Caged Combat",
+      "eventSlug": "35104-ifc-caged-combat",
+      "round": 1,
+      "timeInRound": "1:46"
+    },
+    {
+      "date": "2014-08-09T00:00:00.000Z",
+      "opponent": "Dino Pagtakhan",
+      "opponentSlug": "59832-dino-pagtakhan",
+      "result": "loss",
+      "method": "sub",
+      "event": "Dragon House 17",
+      "eventSlug": "24763-dragon-house-17",
+      "round": 2,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2013-08-17T00:00:00.000Z",
+      "opponent": "Mike Quintance",
+      "opponentSlug": "78599-mike-quintance",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-05-03T00:00:00.000Z",
+      "opponent": "Nicholas Christy",
+      "opponentSlug": "14444-nicholas-christy",
+      "result": "loss",
+      "method": "other",
+      "event": "West Coast FC 5",
+      "eventSlug": "18914-wcfc-5-andrews-vs-griffin",
+      "round": 1,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2013-03-07T00:00:00.000Z",
+      "opponent": "Keith Berry",
+      "opponentSlug": "keith-berry-ko-kid",
+      "result": "loss",
+      "method": "sub",
+      "event": "Bellator 92",
+      "eventSlug": "17535-bellator-92",
+      "round": 1,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2013-01-18T00:00:00.000Z",
+      "opponent": "Max Griffin",
+      "opponentSlug": "25437-max-griffin",
+      "result": "loss",
+      "method": "other",
+      "event": "West Coast FC 4",
+      "eventSlug": "17442-wcfc-4",
+      "round": 1,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2012-10-13T00:00:00.000Z",
+      "opponent": "Sam Oropeza",
+      "opponentSlug": "sam-oropeza",
+      "result": "loss",
+      "method": "sub",
+      "event": "XFE 18",
+      "eventSlug": "14731-cage-wars-18",
+      "round": 1,
+      "timeInRound": "0:31"
+    },
+    {
+      "date": "2012-05-19T00:00:00.000Z",
+      "opponent": "Matt Clark",
+      "opponentSlug": "18412-matt-clark",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-12-10T00:00:00.000Z",
+      "opponent": "Davin Clark",
+      "opponentSlug": "17802-davin-clark",
+      "result": "loss",
+      "method": "sub",
+      "event": "Impact MMA 1",
+      "eventSlug": "11714-impact-mma-1-recognition",
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2011-08-20T00:00:00.000Z",
+      "opponent": "Mike Moreno",
+      "opponentSlug": "19406-mike-moreno",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:57:26.557Z"
+}

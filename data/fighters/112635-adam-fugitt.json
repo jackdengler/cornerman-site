@@ -1,0 +1,231 @@
+{
+  "slug": "112635-adam-fugitt",
+  "name": "Adam Fugitt",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 196,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1989-01-12",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/112635-adam-fugitt",
+  "recentFights": [
+    {
+      "date": "2026-01-24T00:00:00.000Z",
+      "opponent": "Ty Miller",
+      "opponentSlug": "203990-ty-miller",
+      "result": "loss",
+      "method": "tko",
+      "event": "UFC 324: Gaethje vs. Pimblett",
+      "eventSlug": "135755-ufc-324",
+      "round": 1,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2025-07-19T00:00:00.000Z",
+      "opponent": "Islam Dulatov",
+      "opponentSlug": "143542-islam-dultakov",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "eventSlug": "127441-ufc-318",
+      "round": 1,
+      "timeInRound": "4:06"
+    },
+    {
+      "date": "2024-06-15T00:00:00.000Z",
+      "opponent": "Josh Quinlan",
+      "opponentSlug": "114123-josh-quinlan",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "111669-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-10T00:00:00.000Z",
+      "opponent": "Mike Malott",
+      "opponentSlug": "22740-mike-malott",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC 289: Nunes vs. Aldana",
+      "eventSlug": "99346-ufc-289",
+      "round": 2,
+      "timeInRound": "1:06"
+    },
+    {
+      "date": "2023-02-04T00:00:00.000Z",
+      "opponent": "Yusaku Kinoshita",
+      "opponentSlug": "152934-yusaku-kinoshita",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "93977-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "4:36"
+    },
+    {
+      "date": "2022-07-30T00:00:00.000Z",
+      "opponent": "Michael Morales",
+      "opponentSlug": "164286-michael-morales",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 277: Peña vs. Nunes 2",
+      "eventSlug": "87975-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "1:09"
+    },
+    {
+      "date": "2022-02-25T00:00:00.000Z",
+      "opponent": "Solomon Renfro",
+      "opponentSlug": "102505-soloman-renfro",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 125: Amorim vs. Young",
+      "eventSlug": "86768-lfa-125-amorim-vs-young",
+      "round": 1,
+      "timeInRound": "0:43"
+    },
+    {
+      "date": "2019-11-16T00:00:00.000Z",
+      "opponent": "Devon Brock",
+      "opponentSlug": "158506-devon-brock",
+      "result": "win",
+      "method": "other",
+      "event": "PureCombat: Battle For The Brave",
+      "eventSlug": "63526-purecombat-battle-for-the-brave",
+      "round": 2,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2019-04-27T00:00:00.000Z",
+      "opponent": "Reno Remigio",
+      "opponentSlug": "16869-reno-remegio",
+      "result": "win",
+      "method": "sub",
+      "event": "X-1 World Events 54",
+      "eventSlug": "58504-x-1-world-events-52-defenders-of-hawaii",
+      "round": 3,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2019-01-19T00:00:00.000Z",
+      "opponent": "Johnavan Vistante",
+      "opponentSlug": "20298-johnavan-vistante-the-immortal-warrior",
+      "result": "win",
+      "method": "sub",
+      "event": "X-1 World Events 51",
+      "eventSlug": "56209-x-1-world-events-51",
+      "round": 2,
+      "timeInRound": "2:23"
+    },
+    {
+      "date": "2018-09-28T00:00:00.000Z",
+      "opponent": "Kailan Hill",
+      "opponentSlug": "136254-kailan-hill",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 51: Gibson vs. Erak",
+      "eventSlug": "55408-lfa-51-mazo-vs-nievera",
+      "round": 1,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2018-05-05T00:00:00.000Z",
+      "opponent": "Travis LeBrun",
+      "opponentSlug": "17881-travis-leburn",
+      "result": "win",
+      "method": "sub",
+      "event": "CageSport 51",
+      "eventSlug": "52113-cagesport-51",
+      "round": 2,
+      "timeInRound": "2:33"
+    },
+    {
+      "date": "2017-09-30T00:00:00.000Z",
+      "opponent": "TJ Koehler",
+      "opponentSlug": "43290-tj-koehler",
+      "result": "win",
+      "method": "other",
+      "event": "Prime Fighting 10",
+      "eventSlug": "47882-prime-fighting-10",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-08T00:00:00.000Z",
+      "opponent": "Austin Vanderford",
+      "opponentSlug": "39902-austin-vandeford",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Arena Wars: Total Kombat",
+      "eventSlug": "46523-arena-wars-total-kombat",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-11T00:00:00.000Z",
+      "opponent": "Hamza Salim",
+      "opponentSlug": "117025-hamza-salim",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Prime Fighting 9",
+      "eventSlug": "40835-prime-fighting-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-08T00:00:00.000Z",
+      "opponent": "Amin Kajtaz",
+      "opponentSlug": "116631-amin-kajtaz",
+      "result": "win",
+      "method": "tko",
+      "event": "Prime Fighting 8",
+      "eventSlug": "40239-prime-fighting-8",
+      "round": 2,
+      "timeInRound": "3:57"
+    },
+    {
+      "date": "2016-08-27T00:00:00.000Z",
+      "opponent": "Saul Ruiz",
+      "opponentSlug": "35811-saul-ruiz",
+      "result": "win",
+      "method": "tko",
+      "event": "Midtown Throwdown 9",
+      "eventSlug": "40785-midtown-throwdown-9",
+      "round": 1,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2016-04-23T00:00:00.000Z",
+      "opponent": "Steve Chase",
+      "opponentSlug": "95122-steve-chase",
+      "result": "win",
+      "method": "tko",
+      "event": "Midtown Throwdown 8",
+      "eventSlug": "38833-midtown-throwdown-8",
+      "round": 3,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2015-09-12T00:00:00.000Z",
+      "opponent": "Michael Gonzalez",
+      "opponentSlug": "49070-michael-gonzalez",
+      "result": "win",
+      "method": "tko",
+      "event": "Battle in the Burg 3",
+      "eventSlug": "33555-battle-in-the-burg-3",
+      "round": 2,
+      "timeInRound": "1:08"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:05:13.097Z"
+}

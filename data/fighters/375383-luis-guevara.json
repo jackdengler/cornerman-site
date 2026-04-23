@@ -1,0 +1,99 @@
+{
+  "slug": "375383-luis-guevara",
+  "name": "Luis Guevara Jr.",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "2001-03-16",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/375383-luis-guevara",
+  "recentFights": [
+    {
+      "date": "2026-03-14T00:00:00.000Z",
+      "opponent": "Darren Coleman",
+      "opponentSlug": "308625-darren-coleman",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Southern Wisconsin Fight Night",
+      "eventSlug": "139294-southern-wisconsin-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-06T00:00:00.000Z",
+      "opponent": "Jeremiah Huff",
+      "opponentSlug": "311857-jeremiah-huff",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "NAFC: Summer Slam",
+      "eventSlug": "128060-nafc-summer-slam",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-25T00:00:00.000Z",
+      "opponent": "Maxime-Kolbe Ayikoue",
+      "opponentSlug": "325933-ayikoue-maxime-kolbe",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Anthony Pettis FC 11",
+      "eventSlug": "112480-apfc-11-fight-fiesta",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-16T00:00:00.000Z",
+      "opponent": "Brandon McKenzie",
+      "opponentSlug": "414875-brandon-mckenzie",
+      "result": "win",
+      "method": "other",
+      "event": "NAFC: Season's Beatings",
+      "eventSlug": "106324-nafc-season-s-beatings-mma-kickboxing-novice-mma-grappling",
+      "round": 1,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2023-09-03T00:00:00.000Z",
+      "opponent": "Mason Young",
+      "opponentSlug": "361494-mason-young",
+      "result": "win",
+      "method": "other",
+      "event": "Anthony Pettis FC 7",
+      "eventSlug": "102874-anthony-pettis-fc-7-indiana-fight-night-ii",
+      "round": 1,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2023-06-11T00:00:00.000Z",
+      "opponent": "Josue Sotero",
+      "opponentSlug": "351397-josue-sotero",
+      "result": "loss",
+      "method": "dec-majority",
+      "event": "Anthony Pettis FC 5",
+      "eventSlug": "100453-anthony-pettis-fc-5-milwaukee-fight-night-ii",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-25T00:00:00.000Z",
+      "opponent": "Luke Johnson",
+      "opponentSlug": "361873-luke-johnson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "NAFC: Super Brawl",
+      "eventSlug": "95613-nafc-super-brawl",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:45:02.147Z"
+}

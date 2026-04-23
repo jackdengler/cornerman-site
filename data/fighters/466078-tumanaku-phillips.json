@@ -1,0 +1,33 @@
+{
+  "slug": "466078-tumanaku-phillips",
+  "name": "Tumanako Phillips",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "New Zealand",
+  "url": "https://www.tapology.com/fightcenter/fighters/466078-tumanaku-phillips",
+  "recentFights": [
+    {
+      "date": "2024-10-25T00:00:00.000Z",
+      "opponent": "Brando Peričić",
+      "opponentSlug": "195101-brando-pericic",
+      "result": "loss",
+      "method": "other",
+      "event": "SFL 1",
+      "eventSlug": "117718-stealth-fighters-league-sfl-001",
+      "round": 1,
+      "timeInRound": "0:17"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:56:04.111Z"
+}

@@ -1,0 +1,121 @@
+{
+  "slug": "84113-jeroen-mullers",
+  "name": "Jeroen Mullers",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 190,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1994-07-30",
+  "nationality": "Nijmegen, Netherlands",
+  "url": "https://www.tapology.com/fightcenter/fighters/84113-jeroen-mullers",
+  "recentFights": [
+    {
+      "date": "2017-07-02T00:00:00.000Z",
+      "opponent": "Robert Valentin",
+      "opponentSlug": "136498-robert-valentin",
+      "result": "loss",
+      "method": "sub",
+      "event": "Vote MMA 6",
+      "eventSlug": "46828-vote-mma-6",
+      "round": 1,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2017-04-28T00:00:00.000Z",
+      "opponent": "Konstantin Fischer",
+      "opponentSlug": "133109-konstantin-fischer",
+      "result": "win",
+      "method": "sub",
+      "event": "Vote MMA 5",
+      "eventSlug": "45636-vote-mma-5",
+      "round": 1,
+      "timeInRound": "2:49"
+    },
+    {
+      "date": "2015-12-12T00:00:00.000Z",
+      "opponent": "Agron Smakici",
+      "opponentSlug": "126135-agron-smakici",
+      "result": "win",
+      "method": "other",
+      "event": "Austrian FC 2",
+      "eventSlug": "37748-austrian-fc-2",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-07T00:00:00.000Z",
+      "opponent": "Ilia Kotsev",
+      "opponentSlug": "125471-ilia-kotsev",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-10-31T00:00:00.000Z",
+      "opponent": "Falk David Akuetey",
+      "opponentSlug": "84112-falk-david-akuetey",
+      "result": "loss",
+      "method": "sub",
+      "event": "Vote MMA 2: Germany vs. Holland",
+      "eventSlug": "27693-vote-mma-2",
+      "round": 1,
+      "timeInRound": "4:39"
+    },
+    {
+      "date": "2014-04-19T00:00:00.000Z",
+      "opponent": "Jannick Olbina",
+      "opponentSlug": "126434-jannick-olbina",
+      "result": "win",
+      "method": "other",
+      "event": "Ringer Rage 4",
+      "eventSlug": "38432-ringer-rage-4",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-02-22T00:00:00.000Z",
+      "opponent": "Bram Brown",
+      "opponentSlug": "125349-bram-brown",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-10-26T00:00:00.000Z",
+      "opponent": "Armen Sarkisyan",
+      "opponentSlug": "125474-armen-sarkissian",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-05-19T00:00:00.000Z",
+      "opponent": "Wesley Cramer",
+      "opponentSlug": "125472-wesley-cramer",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:57:47.758Z"
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "14568-Alan-Wilson",
+  "name": "Allan Wilson",
+  "nickname": "Machine Gun",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1986-05-23T00:00:00.000Z",
+  "nationality": "Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/14568-Alan-Wilson",
+  "recentFights": [
+    {
+      "date": "2014-05-30T00:00:00.000Z",
+      "opponent": "Mike Malott",
+      "opponentSlug": "22740-mike-malott",
+      "result": "loss",
+      "method": "other",
+      "event": "SCC 2",
+      "eventSlug": "23347-scc-2",
+      "round": 1,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2012-10-19T00:00:00.000Z",
+      "opponent": "Joel Paquette",
+      "opponentSlug": "18738-joel-paquette",
+      "result": "loss",
+      "method": "other",
+      "event": "Score Fighting Series 6",
+      "eventSlug": "15439-score-fighting-series-6",
+      "round": 1,
+      "timeInRound": "4:50"
+    },
+    {
+      "date": "2012-04-27T00:00:00.000Z",
+      "opponent": "Derek MacDonald",
+      "opponentSlug": "24003-derek-macdonald",
+      "result": "win",
+      "method": "sub",
+      "event": "Discipline MMA 1",
+      "eventSlug": "12857-discipline-mma-1",
+      "round": 1,
+      "timeInRound": "2:13"
+    },
+    {
+      "date": "2011-05-19T00:00:00.000Z",
+      "opponent": "Theo Toney",
+      "opponentSlug": "14567-theo-toney-the-poetic-hitman",
+      "result": "win",
+      "method": "sub",
+      "event": "MMA Live 1: Parisyan vs Ford",
+      "eventSlug": "mma-live-1-parisyan-vs-ford",
+      "round": 2,
+      "timeInRound": "3:25"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:05:30.260Z"
+}

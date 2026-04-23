@@ -1,0 +1,187 @@
+{
+  "slug": "187991-bekulan-saipzhanov",
+  "name": "Bekulan Saipjan Uulu",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Kyrgyzstan",
+  "url": "https://www.tapology.com/fightcenter/fighters/187991-bekulan-saipzhanov",
+  "recentFights": [
+    {
+      "date": "2022-07-17T00:00:00.000Z",
+      "opponent": "Sharif Kushaev",
+      "opponentSlug": "296610-sharif-kushaev",
+      "result": "loss",
+      "method": "other",
+      "event": "ATF 12: Kushaev vs. Saipjan uulu",
+      "eventSlug": "90661-atf-12",
+      "round": 2,
+      "timeInRound": "3:52"
+    },
+    {
+      "date": "2022-07-03T00:00:00.000Z",
+      "opponent": "Mark Vologdin",
+      "opponentSlug": "202598-mark-vologdin",
+      "result": "loss",
+      "method": "other",
+      "event": "Open Fighting Championship 20",
+      "eventSlug": "89687-open-fighting-championship-20",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-27T00:00:00.000Z",
+      "opponent": "Zhavokhir Narzullaev",
+      "opponentSlug": "344514-zhavokhir-narzullaev",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ATF 4",
+      "eventSlug": "83658-atf-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-27T00:00:00.000Z",
+      "opponent": "Sukhrodzhidin Akhmatzhanov",
+      "opponentSlug": "228557-sukhrodzhidin-akhmatzhanov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WEF ProfFight 46",
+      "eventSlug": "83824-wef-110-proffight-46",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-04T00:00:00.000Z",
+      "opponent": "Amirkhon Atakhanov",
+      "opponentSlug": "300731-amirkhon-atakhanov",
+      "result": "loss",
+      "method": "sub",
+      "event": "ATF 2",
+      "eventSlug": "79756-atf-2",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-27T00:00:00.000Z",
+      "opponent": "Janysh Zalimbek Uulu",
+      "opponentSlug": "286539-janysh-zalimbek-uulu",
+      "result": "win",
+      "method": "tko",
+      "event": "WEF ProfFight 42",
+      "eventSlug": "77832-wef-proffight-42",
+      "round": 1,
+      "timeInRound": "4:30"
+    },
+    {
+      "date": "2021-01-30T00:00:00.000Z",
+      "opponent": "Marlen Toychubaev",
+      "opponentSlug": "252783-marlen-toychubaev",
+      "result": "loss",
+      "method": "other",
+      "event": "EFC Global 10",
+      "eventSlug": "75543-efc-afc",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-27T00:00:00.000Z",
+      "opponent": "Almanbet Nusratilla uulu",
+      "opponentSlug": "214215-almanbet-nusratillaev",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "WEF Global 16",
+      "eventSlug": "63955-wef-grand-prix-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-13T00:00:00.000Z",
+      "opponent": "Abdurasul Koylubay",
+      "opponentSlug": "197122-abdurasul-koylubay-uulu",
+      "result": "win",
+      "method": "other",
+      "event": "WEF ProfFight 38",
+      "eventSlug": "62039-wef-global-15",
+      "round": 1,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2019-09-08T00:00:00.000Z",
+      "opponent": "Shakhboz Tursunov",
+      "opponentSlug": "234663-shakhboz-tursunov",
+      "result": "loss",
+      "method": "other",
+      "event": "WTKF 3",
+      "eventSlug": "62696-wtkf-3",
+      "round": 2,
+      "timeInRound": "4:08"
+    },
+    {
+      "date": "2019-08-03T00:00:00.000Z",
+      "opponent": "Evgeny Chuvatov",
+      "opponentSlug": "166501-evgeny-chuvatov",
+      "result": "win",
+      "method": "other",
+      "event": "Strength Limit Sports Festival 2019",
+      "eventSlug": "61534-strength-limit-professional-2019",
+      "round": 2,
+      "timeInRound": "3:48"
+    },
+    {
+      "date": "2019-06-15T00:00:00.000Z",
+      "opponent": "Firdavs Rakhimov",
+      "opponentSlug": "225720-firdavs-rakhimov",
+      "result": "win",
+      "method": "other",
+      "event": "WTKF",
+      "eventSlug": "59805-wtkf",
+      "round": 1,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2019-04-26T00:00:00.000Z",
+      "opponent": "Egor Filidov",
+      "opponentSlug": "176067-igor-filidov",
+      "result": "win",
+      "method": "other",
+      "event": "WCSA Combat Ring 29",
+      "eventSlug": "58315-wcsa-combat-ring-steel-heart-x",
+      "round": 2,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2019-04-06T00:00:00.000Z",
+      "opponent": "Daniil Bukreev",
+      "opponentSlug": "180999-daniil-bukeev",
+      "result": "win",
+      "method": "tko",
+      "event": "Road to M-1",
+      "eventSlug": "58768-road-to-m-1",
+      "round": 1,
+      "timeInRound": "2:39"
+    },
+    {
+      "date": "2018-04-28T00:00:00.000Z",
+      "opponent": "Nursultan Ergeshov",
+      "opponentSlug": "187992-nursultan-ergeshov",
+      "result": "win",
+      "method": "tko",
+      "event": "Jash-Kuch FC",
+      "eventSlug": "52719-jash-kuch-fc-young-force-2",
+      "round": 1,
+      "timeInRound": "2:00"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:03:56.020Z"
+}

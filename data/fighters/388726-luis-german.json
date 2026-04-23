@@ -1,0 +1,48 @@
+{
+  "slug": "388726-luis-german",
+  "name": "Luis German",
+  "nickname": "Dominican Hercules",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1991-01-12",
+  "nationality": "Santo Domingo, Dominican Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/388726-luis-german",
+  "recentFights": [
+    {
+      "date": "2024-03-23T00:00:00.000Z",
+      "opponent": "RJ Harris",
+      "opponentSlug": "382864-rj-harris",
+      "result": "loss",
+      "method": "other",
+      "event": "Live MMA at NEO 2",
+      "eventSlug": "108498-live-mma-at-neo-2",
+      "round": 1,
+      "timeInRound": "1:46"
+    },
+    {
+      "date": "2023-06-17T00:00:00.000Z",
+      "opponent": "Wimberly Cook",
+      "opponentSlug": "339813-wimberly-cook-trey",
+      "result": "win",
+      "method": "other",
+      "event": "Ohio Combat League 25",
+      "eventSlug": "100370-ohio-combat-league-25",
+      "round": 1,
+      "timeInRound": "1:11"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:40:16.155Z"
+}

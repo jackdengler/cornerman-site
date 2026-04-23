@@ -1,0 +1,209 @@
+{
+  "slug": "97516-ramon-vizcarra",
+  "name": "Ramon Vizcarra",
+  "nickname": "Wild Boy",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1996-01-01",
+  "nationality": "Mexico",
+  "url": "https://www.tapology.com/fightcenter/fighters/97516-ramon-vizcarra",
+  "recentFights": [
+    {
+      "date": "2025-11-29T00:00:00.000Z",
+      "opponent": "Bryan Martínez",
+      "opponentSlug": "249496-bryan-martinez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "EXF 22",
+      "eventSlug": "136030-exf-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-18T00:00:00.000Z",
+      "opponent": "Keenan Lewis",
+      "opponentSlug": "20388-keenan-lewis",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LXF 16",
+      "eventSlug": "112806-lxf-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-16T00:00:00.000Z",
+      "opponent": "Alex Gonzalez",
+      "opponentSlug": "106486-alex-gonzalez",
+      "result": "loss",
+      "method": "sub",
+      "event": "Combate Global",
+      "eventSlug": "104910-combate-global-jimenez-vs-romero",
+      "round": 1,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2023-03-11T00:00:00.000Z",
+      "opponent": "Ismael Zamora",
+      "opponentSlug": "201495-ismael-zamora",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combate Global",
+      "eventSlug": "99165-mexico-vs-usa",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-10-21T00:00:00.000Z",
+      "opponent": "Victor Cisneros",
+      "opponentSlug": "193885-victor-cisneros-ragnar",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combate Global",
+      "eventSlug": "94213-combate",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-29T00:00:00.000Z",
+      "opponent": "Ulysses Molina",
+      "opponentSlug": "171036-ulysses-molina",
+      "result": "win",
+      "method": "sub",
+      "event": "Combate Global",
+      "eventSlug": "91618-combate-global-zamora-vs-barraza",
+      "round": 1,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2022-06-03T00:00:00.000Z",
+      "opponent": "David Zelner",
+      "opponentSlug": "186930-david-zelner-dz-machine",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combate Global",
+      "eventSlug": "89915-combate-global",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-02T00:00:00.000Z",
+      "opponent": "Josue Rodriguez",
+      "opponentSlug": "80046-josue-rodriguez",
+      "result": "win",
+      "method": "sub",
+      "event": "Fights Factory",
+      "eventSlug": "88612-fights-factory-unstoppable",
+      "round": 3,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2021-09-17T00:00:00.000Z",
+      "opponent": "David Solorzano",
+      "opponentSlug": "137182-david-solorzano",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combate: Bravo vs. Whitney",
+      "eventSlug": "82579-combate",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-09T00:00:00.000Z",
+      "opponent": "Dany Gonzalez",
+      "opponentSlug": "150214-daniel-gonzalez",
+      "result": "win",
+      "method": "sub",
+      "event": "Combate Global",
+      "eventSlug": "80641-combate-global",
+      "round": 2,
+      "timeInRound": "2:31"
+    },
+    {
+      "date": "2021-02-26T00:00:00.000Z",
+      "opponent": "Nick Patea",
+      "opponentSlug": "148643-nick-patea",
+      "result": "loss",
+      "method": "other",
+      "event": "UWC 25",
+      "eventSlug": "76966-uwc-25",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2019-02-08T00:00:00.000Z",
+      "opponent": "Ernesto Ibarra",
+      "opponentSlug": "109896-ernesto-ibarra",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combate 30: Mexicali",
+      "eventSlug": "57831-combate-30-combate-baja",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-14T00:00:00.000Z",
+      "opponent": "Angel Torres",
+      "opponentSlug": "106292-angel-hernandez-toques",
+      "result": "win",
+      "method": "sub",
+      "event": "EXF 12",
+      "eventSlug": "55362-elite-xtreme-fighting",
+      "round": 1,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2018-03-17T00:00:00.000Z",
+      "opponent": "Carlos Apodaca",
+      "opponentSlug": "80029-carlos-apodaca",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-17T00:00:00.000Z",
+      "opponent": "Edgar Cháirez",
+      "opponentSlug": "80020-edgar-chaidez",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Fighters 4",
+      "eventSlug": "35305-cage-fighters-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-07-18T00:00:00.000Z",
+      "opponent": "Eric Arias",
+      "opponentSlug": "110340-eric-arias",
+      "result": "win",
+      "method": "dec-split",
+      "event": "WCF 6",
+      "eventSlug": "33320-wcf-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-04-17T00:00:00.000Z",
+      "opponent": "Daniel Heredia",
+      "opponentSlug": "97515-daniel-heredia",
+      "result": "loss",
+      "method": "sub",
+      "event": "EXF 2",
+      "eventSlug": "30898-eef",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:36:49.765Z"
+}

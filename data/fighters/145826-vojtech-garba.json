@@ -1,0 +1,154 @@
+{
+  "slug": "145826-vojtech-garba",
+  "name": "Vojtech Garba",
+  "nickname": "Silesian Knight",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 193,
+  "reachCm": 200,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1996-05-07",
+  "nationality": "Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/145826-vojtech-garba",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Mateusz Strzelczyk",
+      "opponentSlug": "34433-mateusz-strzelczyk",
+      "result": null,
+      "method": "other",
+      "event": "OKTAGON 87: Szabová vs. Fernandes",
+      "eventSlug": "135741-oktagon-87",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-22T00:00:00.000Z",
+      "opponent": "Alejandro Arcas",
+      "opponentSlug": "344421-alejandro-arcas",
+      "result": "loss",
+      "method": "other",
+      "event": "RFA 21 x ZHS",
+      "eventSlug": "122028-rfa-x-zhs",
+      "round": 1,
+      "timeInRound": "0:31"
+    },
+    {
+      "date": "2024-10-19T00:00:00.000Z",
+      "opponent": "Maciej Różański",
+      "opponentSlug": "31960-maciej-rozanski",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "KSW 99: Martínek vs. Vojčák",
+      "eventSlug": "116516-ksw-99",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-10-14T00:00:00.000Z",
+      "opponent": "Michał Dreczkowski",
+      "opponentSlug": "269953-michal-dreczkowski",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "KSW 87: Martínek vs. Stošić",
+      "eventSlug": "104170-ksw-87-stosic-vs-martinek",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-13T00:00:00.000Z",
+      "opponent": "Zsolt Balla",
+      "opponentSlug": "14080-zsolt-balla",
+      "result": "win",
+      "method": "other",
+      "event": "RFA 10",
+      "eventSlug": "99135-rfa-10",
+      "round": 1,
+      "timeInRound": "4:11"
+    },
+    {
+      "date": "2022-10-29T00:00:00.000Z",
+      "opponent": "Bruce Souto",
+      "opponentSlug": "35174-bruce-souto",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "RFA 5",
+      "eventSlug": "93278-rfa-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-23T00:00:00.000Z",
+      "opponent": "Goran Reljić",
+      "opponentSlug": "goran-reljic",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "RFA 3",
+      "eventSlug": "91075-rfa-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-26T00:00:00.000Z",
+      "opponent": "Adam Horváth",
+      "opponentSlug": "136017-adam-horvath",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Fighting 7",
+      "eventSlug": "64094-cage-fighting-7",
+      "round": 2,
+      "timeInRound": "0:46"
+    },
+    {
+      "date": "2019-10-11T00:00:00.000Z",
+      "opponent": "René Matejov",
+      "opponentSlug": "166484-rene-matejov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fight Night West 5",
+      "eventSlug": "63631-fight-night-west-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-02-16T00:00:00.000Z",
+      "opponent": "Jesse Urholin",
+      "opponentSlug": "183233-jesse-urholin",
+      "result": "loss",
+      "method": "sub",
+      "event": "CAGE 46",
+      "eventSlug": "57610-cage-46",
+      "round": 1,
+      "timeInRound": "4:02"
+    },
+    {
+      "date": "2018-11-10T00:00:00.000Z",
+      "opponent": "Martin Kalucz",
+      "opponentSlug": "40110-martin-kalucz",
+      "result": "win",
+      "method": "tko",
+      "event": "Cage Fighting Komárno 5",
+      "eventSlug": "56198-cage-fighting-komarno-5",
+      "round": 2,
+      "timeInRound": "4:43"
+    },
+    {
+      "date": "2018-02-17T00:00:00.000Z",
+      "opponent": "Mikko Ahmala",
+      "opponentSlug": "55110-mikko-ahmala",
+      "result": "win",
+      "method": "other",
+      "event": "Cage 42",
+      "eventSlug": "51048-cage-42",
+      "round": 2,
+      "timeInRound": "4:02"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:05:00.887Z"
+}

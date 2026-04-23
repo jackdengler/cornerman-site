@@ -1,0 +1,33 @@
+{
+  "slug": "202599-maskat-egreshov",
+  "name": "Maskat Egreshov",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/202599-maskat-egreshov",
+  "recentFights": [
+    {
+      "date": "2018-12-01T00:00:00.000Z",
+      "opponent": "Mark Vologdin",
+      "opponentSlug": "202598-mark-vologdin",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "L-1 Russia: The New Time",
+      "eventSlug": "56764-l-1-russia-the-new-time",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:04:20.424Z"
+}

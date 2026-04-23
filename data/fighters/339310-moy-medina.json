@@ -1,0 +1,59 @@
+{
+  "slug": "339310-moy-medina",
+  "name": "Moy Medina",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "2002-08-06",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/339310-moy-medina",
+  "recentFights": [
+    {
+      "date": "2023-03-24T00:00:00.000Z",
+      "opponent": "Jeffrey Tuley",
+      "opponentSlug": "353203-jeffrey-tuley-whiplash",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Caged Aggression 35",
+      "eventSlug": "92881-caged-aggression-35-the-trilogy-night-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-01-13T00:00:00.000Z",
+      "opponent": "Noah Gasho",
+      "opponentSlug": "348174-noah-gasho",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 150: Farias vs. Sweeney",
+      "eventSlug": "96178-lfa-150-farias-vs-sweeney",
+      "round": 3,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2022-11-19T00:00:00.000Z",
+      "opponent": "Kyle Allen",
+      "opponentSlug": "359705-kyle-allen",
+      "result": "win",
+      "method": "other",
+      "event": "Brawl @ Bourbon Street 5",
+      "eventSlug": "85331-ignite-fights-brawl-at-bourbon-street-5",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:42:40.096Z"
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "155952-paul-karns",
+  "name": "Paul Karns",
+  "nickname": "The Haitian Sensation",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 5,
+    "draws": 0
+  },
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1995-12-06",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/155952-paul-karns",
+  "recentFights": [
+    {
+      "date": "2023-10-14T00:00:00.000Z",
+      "opponent": "Anthony Dooley Sr.",
+      "opponentSlug": "395981-george-dooley",
+      "result": "loss",
+      "method": "other",
+      "event": "Shamrock FC 348",
+      "eventSlug": "104072-shamrock-fc-348",
+      "round": 2,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2023-04-01T00:00:00.000Z",
+      "opponent": "Tyrell Burns",
+      "opponentSlug": "359334-tyrell-burns",
+      "result": "loss",
+      "method": "sub",
+      "event": "EFC 17",
+      "eventSlug": "95422-efc-17",
+      "round": 1,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2019-04-27T00:00:00.000Z",
+      "opponent": "John Yannis",
+      "opponentSlug": "151617-john-yannies",
+      "result": "loss",
+      "method": "other",
+      "event": "RCWC: Rumble On The Plains",
+      "eventSlug": "58474-rcwc-rumble-on-the-plains",
+      "round": 1,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2019-03-23T00:00:00.000Z",
+      "opponent": "Jose Gomez",
+      "opponentSlug": "126334-jose-gomez",
+      "result": "loss",
+      "method": "other",
+      "event": "Conquest Promotions",
+      "eventSlug": "58215-conquest-promotions-throwdown-at-the-gateway",
+      "round": 1,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2018-04-28T00:00:00.000Z",
+      "opponent": "Julian Montes",
+      "opponentSlug": "185743-julian-montes",
+      "result": "loss",
+      "method": "sub",
+      "event": "RCWC: Battle on Boot Hill 2",
+      "eventSlug": "51996-rcwc-battle-on-boot-hill-2",
+      "round": 2,
+      "timeInRound": "1:31"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:30:43.720Z"
+}

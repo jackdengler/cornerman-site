@@ -1,0 +1,59 @@
+{
+  "slug": "307379-dillon-gattie",
+  "name": "Dillon Gattie",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "2001-10-03",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/307379-dillon-gattie",
+  "recentFights": [
+    {
+      "date": "2022-02-26T00:00:00.000Z",
+      "opponent": "Derek Anderson",
+      "opponentSlug": "274107-derek-anderson",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Colosseum Combat 58",
+      "eventSlug": "85142-colosseum-combat-58",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-15T00:00:00.000Z",
+      "opponent": "Gabe Eurit",
+      "opponentSlug": "307962-gabe-eurit",
+      "result": "loss",
+      "method": "other",
+      "event": "Colosseum Combat 55",
+      "eventSlug": "81382-colosseum-combat-55",
+      "round": 1,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2021-08-27T00:00:00.000Z",
+      "opponent": "Steve Collins",
+      "opponentSlug": "307378-steve-collins",
+      "result": "loss",
+      "method": "tko",
+      "event": "Brawl @ Bourbon Street",
+      "eventSlug": "80854-ignite-fights-brawl-bourbon-street",
+      "round": 2,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:39:57.907Z"
+}

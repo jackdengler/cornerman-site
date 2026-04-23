@@ -1,0 +1,48 @@
+{
+  "slug": "382865-dillon-burke",
+  "name": "Dillon Burke",
+  "nickname": "Big Dawg",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Super Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1996-04-25",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/382865-dillon-burke",
+  "recentFights": [
+    {
+      "date": "2023-12-02T00:00:00.000Z",
+      "opponent": "Tyler Bryant",
+      "opponentSlug": "360473-tyler-bryant",
+      "result": "loss",
+      "method": "other",
+      "event": "Live MMA at Penguin City 4",
+      "eventSlug": "105591-live-mma-at-penguin-city-4",
+      "round": 1,
+      "timeInRound": "0:31"
+    },
+    {
+      "date": "2023-05-20T00:00:00.000Z",
+      "opponent": "RJ Harris",
+      "opponentSlug": "382864-rj-harris",
+      "result": "loss",
+      "method": "other",
+      "event": "Caged Thunder 21",
+      "eventSlug": "98598-caged-thunder-21",
+      "round": 1,
+      "timeInRound": "0:09"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:40:20.771Z"
+}

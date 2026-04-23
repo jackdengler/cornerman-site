@@ -1,0 +1,99 @@
+{
+  "slug": "104273-mensur-alic",
+  "name": "Mensur Alić",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Srebrenik, Bosnia",
+  "url": "https://www.tapology.com/fightcenter/fighters/104273-mensur-alic",
+  "recentFights": [
+    {
+      "date": "2019-10-05T00:00:00.000Z",
+      "opponent": "Fabio Quagliati",
+      "opponentSlug": "171397-fabio-quagliati",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "INNFERNO Fighting Championship 4",
+      "eventSlug": "63286-innferno-fighting-championship-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-02-09T00:00:00.000Z",
+      "opponent": "Amilcar Alves",
+      "opponentSlug": "amilcar-alves",
+      "result": "loss",
+      "method": "other",
+      "event": "WSFC 6: Redemption",
+      "eventSlug": "56370-wsfc-6-redemption",
+      "round": 2,
+      "timeInRound": "3:18"
+    },
+    {
+      "date": "2018-05-12T00:00:00.000Z",
+      "opponent": "Robert Valentin",
+      "opponentSlug": "136498-robert-valentin",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "INNFERNO Fighting Championship 3",
+      "eventSlug": "53276-innferno-fighting-championship-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-26T00:00:00.000Z",
+      "opponent": "Umit Polat",
+      "opponentSlug": "66389-umit-polat",
+      "result": "win",
+      "method": "sub",
+      "event": "WSFC 4: The Next Round",
+      "eventSlug": "41590-wsfc-4-the-next-round",
+      "round": 1,
+      "timeInRound": "4:13"
+    },
+    {
+      "date": "2016-08-14T00:00:00.000Z",
+      "opponent": "Francisco de Souza",
+      "opponentSlug": "112218-francisco-de-souza",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "INNFERNO Fighting Championship 2",
+      "eventSlug": "38908-innferno-fighting-championship-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-06-13T00:00:00.000Z",
+      "opponent": "Johannes Heigl",
+      "opponentSlug": "85179-johannes-eigl",
+      "result": "win",
+      "method": "dec-split",
+      "event": "INNFERNO Fighting Championship 1",
+      "eventSlug": "33048-innferno-fighting-championship-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-01T00:00:00.000Z",
+      "opponent": "Giuseppe Massignani",
+      "opponentSlug": "104312-giuseppe-massignani",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:57:43.560Z"
+}

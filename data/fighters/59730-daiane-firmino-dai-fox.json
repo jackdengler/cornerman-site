@@ -1,0 +1,187 @@
+{
+  "slug": "59730-daiane-firmino-dai-fox",
+  "name": "Daiane Firmino",
+  "nickname": "Day Fox",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1989-06-18",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/59730-daiane-firmino-dai-fox",
+  "recentFights": [
+    {
+      "date": "2019-10-26T00:00:00.000Z",
+      "opponent": "Gisele Moreira",
+      "opponentSlug": "61730-gisele-moreira",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "SFT 17",
+      "eventSlug": "64039-sft-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-27T00:00:00.000Z",
+      "opponent": "Vanessa Melo",
+      "opponentSlug": "50942-vanessa-melo",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "SFT 6",
+      "eventSlug": "56038-sft-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-01T00:00:00.000Z",
+      "opponent": "Pearl Gonzalez",
+      "opponentSlug": "21324-pearl-gonzalez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 31",
+      "eventSlug": "54291-invicta-fc-31-jandiroba-vs-morandin",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-21T00:00:00.000Z",
+      "opponent": "Mariana Morais",
+      "opponentSlug": "68151-mariana-morais",
+      "result": "win",
+      "method": "sub",
+      "event": "SFT 3",
+      "eventSlug": "54282-sft-3",
+      "round": 3,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2017-12-16T00:00:00.000Z",
+      "opponent": "Jennifer González",
+      "opponentSlug": "96178-jennifer-gonzalez",
+      "result": "win",
+      "method": "sub",
+      "event": "The ONE MMA",
+      "eventSlug": "49443-the-one-mma",
+      "round": 1,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2017-09-23T00:00:00.000Z",
+      "opponent": "Vanessa Santos",
+      "opponentSlug": "173196-vanessa-santos-guerreira",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Batalha MMA 9",
+      "eventSlug": "48492-batalha-mma-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-11T00:00:00.000Z",
+      "opponent": "Mayra Bueno Silva",
+      "opponentSlug": "140732-mayra-bueno-silva-sheetara",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Batalha MMA 5",
+      "eventSlug": "43827-batalha-mma-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-19T00:00:00.000Z",
+      "opponent": "Natália Silva",
+      "opponentSlug": "99885-natalia-silva",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Batalha MMA 4",
+      "eventSlug": "43114-batalha-mma-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-06-03T00:00:00.000Z",
+      "opponent": "Mixeli Daiane",
+      "opponentSlug": "151692-mixeli-daiane-almeida-mi",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-01-24T00:00:00.000Z",
+      "opponent": "Luana Carolina",
+      "opponentSlug": "114251-luana-carolina-dread",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-15T00:00:00.000Z",
+      "opponent": "Ariane da Silva",
+      "opponentSlug": "57056-ariane-lipski",
+      "result": "win",
+      "method": "tko",
+      "event": "MMA Super Heroes 7",
+      "eventSlug": "28116-mma-super-heroes-7",
+      "round": 1,
+      "timeInRound": "3:20"
+    },
+    {
+      "date": "2014-08-02T00:00:00.000Z",
+      "opponent": "Mariana Leonardo",
+      "opponentSlug": "65000-mariana-leonardo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMA Super Heroes 5",
+      "eventSlug": "25509-mma-super-heroes-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-05-30T00:00:00.000Z",
+      "opponent": "Karina Santana",
+      "opponentSlug": "70648-karina-santana-kamikaze",
+      "result": "win",
+      "method": "sub",
+      "event": "MMA Super Heroes 4",
+      "eventSlug": "24434-mma-super-heroes-4",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2013-11-29T00:00:00.000Z",
+      "opponent": "Carina Damm",
+      "opponentSlug": "carina-damm-beauty-but-the-beast",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "SFT 2",
+      "eventSlug": "21524-sft-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-11-10T00:00:00.000Z",
+      "opponent": "Roberta Gomes",
+      "opponentSlug": "58493-roberta-gomes-marreta",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:54:27.024Z"
+}

@@ -1,0 +1,242 @@
+{
+  "slug": "194924-danny-conley",
+  "name": "Shea Conley",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1995-09-09",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/194924-danny-conley",
+  "recentFights": [
+    {
+      "date": "2025-10-10T00:00:00.000Z",
+      "opponent": "Brakenden Freeman",
+      "opponentSlug": "162024-brakenden-freeman",
+      "result": "win",
+      "method": "other",
+      "event": "Xtreme Fight Night 404",
+      "eventSlug": "122751-xtreme-fight-night-404",
+      "round": 1,
+      "timeInRound": "0:32"
+    },
+    {
+      "date": "2024-08-16T00:00:00.000Z",
+      "opponent": "Aaron Roberson",
+      "opponentSlug": "35869-aaron-roberson",
+      "result": "win",
+      "method": "tko",
+      "event": "Xtreme Fight Night 395",
+      "eventSlug": "115399-xtreme-fight-night-395",
+      "round": 1,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2024-02-23T00:00:00.000Z",
+      "opponent": "Steve Moore",
+      "opponentSlug": "32975-steve-moore",
+      "result": "win",
+      "method": "sub",
+      "event": "Xtreme Fight Night 392",
+      "eventSlug": "109540-xtreme-fight-night-392",
+      "round": 1,
+      "timeInRound": "0:52"
+    },
+    {
+      "date": "2023-10-13T00:00:00.000Z",
+      "opponent": "Roderick Stewart",
+      "opponentSlug": "137442-roderick-stewart",
+      "result": "loss",
+      "method": "tko",
+      "event": "Xtreme Fight Night 389",
+      "eventSlug": "105898-xtreme-fight-night-389",
+      "round": 1,
+      "timeInRound": "3:33"
+    },
+    {
+      "date": "2023-06-30T00:00:00.000Z",
+      "opponent": "Zac Kelley",
+      "opponentSlug": "18647-zac-kelley-the-punisher",
+      "result": "win",
+      "method": "tko",
+      "event": "Xtreme Fight Night 388",
+      "eventSlug": "102023-xtreme-fight-night-388",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-18T00:00:00.000Z",
+      "opponent": "Jose Martinez",
+      "opponentSlug": "62351-jose-martinez",
+      "result": "loss",
+      "method": "sub",
+      "event": "Martial Combat League 5",
+      "eventSlug": "99436-martial-combat-league-5",
+      "round": 3,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2022-10-14T00:00:00.000Z",
+      "opponent": "Joshua Anderson",
+      "opponentSlug": "62349-joshua-anderson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Xtreme Fight Night 383",
+      "eventSlug": "93917-xtreme-fight-night-383",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-05T00:00:00.000Z",
+      "opponent": "AJ Cunningham",
+      "opponentSlug": "124154-austin-cunningham",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 138: Farias vs. Tanaka",
+      "eventSlug": "90629-lfa-138-farias-vs-tanaka",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-21T00:00:00.000Z",
+      "opponent": "Dalton Duncan",
+      "opponentSlug": "117788-dalton-duncan",
+      "result": "win",
+      "method": "tko",
+      "event": "B2 Fighting Series 162",
+      "eventSlug": "88662-b2-fighting-series-162-oklahoma",
+      "round": 1,
+      "timeInRound": "0:14"
+    },
+    {
+      "date": "2022-03-26T00:00:00.000Z",
+      "opponent": "Josh Nealy",
+      "opponentSlug": "61988-josh-nealy",
+      "result": "win",
+      "method": "sub",
+      "event": "FCF 62",
+      "eventSlug": "88539-fcf-62",
+      "round": 1,
+      "timeInRound": "2:16"
+    },
+    {
+      "date": "2021-08-07T00:00:00.000Z",
+      "opponent": "Earl Young",
+      "opponentSlug": "112518-aryon-young",
+      "result": "win",
+      "method": "tko",
+      "event": "Rage in the Cage OKC 82",
+      "eventSlug": "81806-rage-in-the-cage-okc-82",
+      "round": 2,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2021-04-10T00:00:00.000Z",
+      "opponent": "Spencer Glenn",
+      "opponentSlug": "112178-spencer-glenn-brutus",
+      "result": "win",
+      "method": "sub",
+      "event": "FCF 61",
+      "eventSlug": "78518-fcf-61",
+      "round": 1,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2021-01-02T00:00:00.000Z",
+      "opponent": "Marshal Kemp",
+      "opponentSlug": "100982-marshall-kemp",
+      "result": "loss",
+      "method": "sub",
+      "event": "MMAX FC 12: Bad Intentions",
+      "eventSlug": "75781-mmax-fc",
+      "round": 1,
+      "timeInRound": "4:05"
+    },
+    {
+      "date": "2020-12-11T00:00:00.000Z",
+      "opponent": "Gauge Young",
+      "opponentSlug": "213571-gauge-young",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "FAC 5",
+      "eventSlug": "74678-fac-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-02T00:00:00.000Z",
+      "opponent": "AJ Nichols",
+      "opponentSlug": "125090-aj-nichols",
+      "result": "loss",
+      "method": "sub",
+      "event": "FCF 59",
+      "eventSlug": "62857-fcf-59",
+      "round": 1,
+      "timeInRound": "3:22"
+    },
+    {
+      "date": "2019-07-27T00:00:00.000Z",
+      "opponent": "Greg Childers",
+      "opponentSlug": "50429-greg-childers",
+      "result": "win",
+      "method": "sub",
+      "event": "FCF 58",
+      "eventSlug": "60988-fcf-58",
+      "round": 2,
+      "timeInRound": "4:22"
+    },
+    {
+      "date": "2019-03-09T00:00:00.000Z",
+      "opponent": "Andrew Siegismund",
+      "opponentSlug": "58343-andrew-siegismund",
+      "result": "win",
+      "method": "other",
+      "event": "FCF 57",
+      "eventSlug": "58299-fcf-57",
+      "round": 1,
+      "timeInRound": "0:49"
+    },
+    {
+      "date": "2019-01-19T00:00:00.000Z",
+      "opponent": "Kris Vereen",
+      "opponentSlug": "138041-kris-vereen",
+      "result": "loss",
+      "method": "sub",
+      "event": "Xtreme Fight Night 355",
+      "eventSlug": "58088-xtreme-fight-night-355",
+      "round": 2,
+      "timeInRound": "1:22"
+    },
+    {
+      "date": "2018-11-30T00:00:00.000Z",
+      "opponent": "Chris Roe",
+      "opponentSlug": "189632-chris-roe",
+      "result": "win",
+      "method": "other",
+      "event": "Xtreme Fight Night 353",
+      "eventSlug": "56761-xtreme-fight-night-353-superfights",
+      "round": 1,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2018-08-25T00:00:00.000Z",
+      "opponent": "Noah Johnson",
+      "opponentSlug": "194931-noah-johnson",
+      "result": "win",
+      "method": "sub",
+      "event": "FCF 55",
+      "eventSlug": "54812-fcf-55",
+      "round": 1,
+      "timeInRound": "1:14"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:12:25.291Z"
+}

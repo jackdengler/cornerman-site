@@ -1,0 +1,176 @@
+{
+  "slug": "110814-dylan-forkner",
+  "name": "Dylan Forkner",
+  "nickname": "ForkU",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 180,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1996-05-20",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/110814-dylan-forkner",
+  "recentFights": [
+    {
+      "date": "2018-10-20T00:00:00.000Z",
+      "opponent": "Nate Endres",
+      "opponentSlug": "59365-nate-endres",
+      "result": "win",
+      "method": "other",
+      "event": "Extreme Challenge 238",
+      "eventSlug": "55941-extreme-challenge-238",
+      "round": 1,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2018-05-18T00:00:00.000Z",
+      "opponent": "Luis Felipe",
+      "opponentSlug": "120731-luis-felipe",
+      "result": "win",
+      "method": "other",
+      "event": "The Fight Series",
+      "eventSlug": "53298-the-fight-series",
+      "round": 2,
+      "timeInRound": "0:17"
+    },
+    {
+      "date": "2018-03-24T00:00:00.000Z",
+      "opponent": "Anthony Salazar",
+      "opponentSlug": "60218-anthony-salazar",
+      "result": "win",
+      "method": "sub",
+      "event": "Ascendancy FC 16",
+      "eventSlug": "50748-ascendancy-fc-16",
+      "round": 1,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2018-01-19T00:00:00.000Z",
+      "opponent": "Dominic Taus",
+      "opponentSlug": "154459-dominic-taus",
+      "result": "win",
+      "method": "other",
+      "event": "Pinnacle Combat 27",
+      "eventSlug": "49939-pinnacle-combat-27",
+      "round": 1,
+      "timeInRound": "0:24"
+    },
+    {
+      "date": "2017-04-15T00:00:00.000Z",
+      "opponent": "Jarod Kirby",
+      "opponentSlug": "109265-jarod-kirby",
+      "result": "win",
+      "method": "other",
+      "event": "Extreme Challenge 234",
+      "eventSlug": "45160-extreme-challenge-234",
+      "round": 2,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2017-03-24T00:00:00.000Z",
+      "opponent": "Dominic Martin",
+      "opponentSlug": "67941-dominic-martin",
+      "result": "loss",
+      "method": "sub",
+      "event": "Caged Aggression 19",
+      "eventSlug": "44149-caged-aggression-19-clash-of-champions",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-01-27T00:00:00.000Z",
+      "opponent": "Santana Acosta",
+      "opponentSlug": "85224-santana-acosta",
+      "result": "win",
+      "method": "other",
+      "event": "MCC 63",
+      "eventSlug": "42475-mcc-63",
+      "round": 2,
+      "timeInRound": "2:13"
+    },
+    {
+      "date": "2016-08-06T00:00:00.000Z",
+      "opponent": "Steven Merrill",
+      "opponentSlug": "86703-steven-merrill",
+      "result": "win",
+      "method": "other",
+      "event": "Laramar Fight Night 12",
+      "eventSlug": "42814-laramar-fight-night-12",
+      "round": 1,
+      "timeInRound": "2:57"
+    },
+    {
+      "date": "2016-06-25T00:00:00.000Z",
+      "opponent": "Francisco Carrasco",
+      "opponentSlug": "119268-francisco-carrasco",
+      "result": "win",
+      "method": "tko",
+      "event": "MMA Kombat",
+      "eventSlug": "40481-mma-kombat",
+      "round": 3,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2016-03-11T00:00:00.000Z",
+      "opponent": "Jacob Walker",
+      "opponentSlug": "123849-jacob-waler",
+      "result": "win",
+      "method": "other",
+      "event": "The Fight Series",
+      "eventSlug": "38683-the-fight-series-gilmore-vs-perez",
+      "round": 1,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2016-02-13T00:00:00.000Z",
+      "opponent": "James Pennington",
+      "opponentSlug": "111029-james-pennington",
+      "result": "win",
+      "method": "sub",
+      "event": "Ascendancy FC 8",
+      "eventSlug": "37785-ascendancy-fc-8-howser-vs-muniz",
+      "round": 1,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2015-12-19T00:00:00.000Z",
+      "opponent": "Steven Behlers",
+      "opponentSlug": "111839-steven-behlers",
+      "result": "win",
+      "method": "sub",
+      "event": "Brutaal Genesis Iowa",
+      "eventSlug": "36529-brutaal-genesis-iowa-back-at-the-barn-3",
+      "round": 1,
+      "timeInRound": "1:21"
+    },
+    {
+      "date": "2015-10-17T00:00:00.000Z",
+      "opponent": "Skyler Rice",
+      "opponentSlug": "116542-skyler-rice",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fight Night at the Laramar 9",
+      "eventSlug": "36133-fight-night-at-the-laramar-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-21T00:00:00.000Z",
+      "opponent": "Jaymie Robinson",
+      "opponentSlug": "64690-jaymie-robinson",
+      "result": "win",
+      "method": "tko",
+      "event": "Brutaal Genesis Iowa",
+      "eventSlug": "34760-brutal-genesis-iowa-back-in-the-barn-2",
+      "round": 1,
+      "timeInRound": "1:01"
+    }
+  ],
+  "lastVerified": "2026-04-18T09:06:21.033Z"
+}

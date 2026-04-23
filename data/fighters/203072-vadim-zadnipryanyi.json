@@ -1,0 +1,66 @@
+{
+  "slug": "203072-vadim-zadnipryanyi",
+  "name": "Vadim Zadnipryanyi",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 176,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Ukraine",
+  "url": "https://www.tapology.com/fightcenter/fighters/203072-vadim-zadnipryanyi",
+  "recentFights": [
+    {
+      "date": "2025-07-19T00:00:00.000Z",
+      "opponent": "Saheeb Jackson",
+      "opponentSlug": "361510-saheeb-jackson",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage Titans 72",
+      "eventSlug": "126008-cage-titans-72",
+      "round": 1,
+      "timeInRound": "4:03"
+    },
+    {
+      "date": "2025-03-15T00:00:00.000Z",
+      "opponent": "Bayarmandakh Ulzii-Badrakh",
+      "opponentSlug": "161712-bayarmandakh",
+      "result": "win",
+      "method": "sub",
+      "event": "Zhong Luo CFS 12",
+      "eventSlug": "124780-zhong-luo-cfs-12",
+      "round": 2,
+      "timeInRound": "2:51"
+    },
+    {
+      "date": "2024-12-14T00:00:00.000Z",
+      "opponent": "Antonio Vasquez",
+      "opponentSlug": "326649-antonio-vasquez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fight Night San Jose",
+      "eventSlug": "120998-fight-night-san-jose",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-19T00:00:00.000Z",
+      "opponent": "Youssef Zalal",
+      "opponentSlug": "110826-youssef-zalaal",
+      "result": "loss",
+      "method": "sub",
+      "event": "Sparta 98",
+      "eventSlug": "103023-sparta-98-king-of-sparta-featherweight-pro",
+      "round": 1,
+      "timeInRound": "3:48"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:32:20.776Z"
+}

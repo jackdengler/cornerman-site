@@ -1,0 +1,242 @@
+{
+  "slug": "83801-yousef-wehbe",
+  "name": "Yousef Wehbe",
+  "nickname": "The Silverback",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 9,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 190,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Lebanon",
+  "url": "https://www.tapology.com/fightcenter/fighters/83801-yousef-wehbe",
+  "recentFights": [
+    {
+      "date": "2021-10-28T00:00:00.000Z",
+      "opponent": "Yassin Najid",
+      "opponentSlug": "73742-yassin-najid",
+      "result": "loss",
+      "method": "sub",
+      "event": "UAE Warriors 23",
+      "eventSlug": "83259-uae-warriors-23-arabia-5",
+      "round": 1,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2019-12-27T00:00:00.000Z",
+      "opponent": "Ahmed Amir",
+      "opponentSlug": "77081-ahmed-amir",
+      "result": "loss",
+      "method": "sub",
+      "event": "Brave CF 33",
+      "eventSlug": "64813-brave-cf-33",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-27T00:00:00.000Z",
+      "opponent": "Reyad Hamzah",
+      "opponentSlug": "78446-reyad-hamzah-mountain",
+      "result": "win",
+      "method": "sub",
+      "event": "Iraqi CFC 11",
+      "eventSlug": "63573-iraqi-cfc-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-05T00:00:00.000Z",
+      "opponent": "Amin Ayoub",
+      "opponentSlug": "92734-amin-ayoub",
+      "result": "loss",
+      "method": "sub",
+      "event": "UAE Warriors 7",
+      "eventSlug": "60486-uae-warriors-2",
+      "round": 2,
+      "timeInRound": "1:22"
+    },
+    {
+      "date": "2019-05-03T00:00:00.000Z",
+      "opponent": "Leandro Martins Oliveira",
+      "opponentSlug": "168681-leandro-martins-oliveira",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UAE Warriors 6",
+      "eventSlug": "59427-uae-warriors-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-01-26T00:00:00.000Z",
+      "opponent": "Leandro Martins Oliveira",
+      "opponentSlug": "168681-leandro-martins-oliveira",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UAE Warriors 5",
+      "eventSlug": "57590-abu-dhabi-warriors-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-05T00:00:00.000Z",
+      "opponent": "Amin Ayoub",
+      "opponentSlug": "92734-amin-ayoub",
+      "result": "loss",
+      "method": "sub",
+      "event": "Phoenix FC 6",
+      "eventSlug": "50989-phoenix-fc-6",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-22T00:00:00.000Z",
+      "opponent": "Alfie Davis",
+      "opponentSlug": "52606-alfie-davies",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Phoenix FC 3",
+      "eventSlug": "47714-phoenix-fc-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-18T00:00:00.000Z",
+      "opponent": "Jorge Patino",
+      "opponentSlug": "jorge-patino-macaco",
+      "result": "nc",
+      "method": "other",
+      "event": "Battlefield Fighting Championships",
+      "eventSlug": "44277-battlefield-fighting-championships",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-05T00:00:00.000Z",
+      "opponent": "Mohamad Triki",
+      "opponentSlug": "66615-mohammad-trigui-trigui",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Desert Force 24",
+      "eventSlug": "41028-desert-force-24",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-30T00:00:00.000Z",
+      "opponent": "Tareq Hamdi",
+      "opponentSlug": "68092-tarek-hamdi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Desert Force 23",
+      "eventSlug": "39041-desert-force",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-03-14T00:00:00.000Z",
+      "opponent": "Jafar Al-Tamimi",
+      "opponentSlug": "94266-jafar-al-tamimi",
+      "result": "win",
+      "method": "tko",
+      "event": "Desert Force 21",
+      "eventSlug": "38280-desert-force-21",
+      "round": 3,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2016-01-10T00:00:00.000Z",
+      "opponent": "Carlos Prates",
+      "opponentSlug": "36554-carlos-prates-carlao",
+      "result": "loss",
+      "method": "sub",
+      "event": "Full Metal Dojo 8",
+      "eventSlug": "37614-full-metal-dojo-8-return-of-the-mack",
+      "round": 2,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2015-10-31T00:00:00.000Z",
+      "opponent": "Nikolay Kozyrev",
+      "opponentSlug": "110887-nikolai-kozyrev",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Full Metal Dojo 7",
+      "eventSlug": "35671-full-metal-dojo-7-full-metal-massacre",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-17T00:00:00.000Z",
+      "opponent": "Mohamad Ali Sabbah",
+      "opponentSlug": "77119-mohamad-ali-sabbah",
+      "result": "win",
+      "method": "other",
+      "event": "Desert Force 18",
+      "eventSlug": "33932-desert-force-18",
+      "round": 2,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2015-08-06T00:00:00.000Z",
+      "opponent": "Saadawi Mohammed Abd Elazeez",
+      "opponentSlug": "109886-saadawi-mohammed-abd-elazeez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "EFC Fight Night 19",
+      "eventSlug": "33867-efc-fight-night-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-27T00:00:00.000Z",
+      "opponent": "Nasr Elcoprosly",
+      "opponentSlug": "77039-nasr-elcoprosly",
+      "result": "nc",
+      "method": "other",
+      "event": "EFC Evolution",
+      "eventSlug": "28430-egyptian-fc-19",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-01-18T00:00:00.000Z",
+      "opponent": "Habiti Tuerxunbieke",
+      "opponentSlug": "81838-habiti",
+      "result": "loss",
+      "method": "sub",
+      "event": "Kunlun Fight 18",
+      "eventSlug": "29351-kunlun-fight",
+      "round": 1,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2014-11-22T00:00:00.000Z",
+      "opponent": "Dmitrijs Homjakovs",
+      "opponentSlug": "83803-dmitrijs-homjakovs",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Full Metal Dojo 3",
+      "eventSlug": "27351-full-metal-dojo-no-sleep-till-bangkok",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-09-27T00:00:00.000Z",
+      "opponent": "Youness Mikiss",
+      "opponentSlug": "53877-youness-mikiss",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Al Batal: Season 2",
+      "eventSlug": "32508-al-batal-season-2",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:10:55.094Z"
+}

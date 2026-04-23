@@ -1,0 +1,154 @@
+{
+  "slug": "82348-joseph-gigliotti",
+  "name": "Joe Gigliotti",
+  "nickname": "Capo",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": 175,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1993-08-13",
+  "nationality": "Cleveland, Ohio",
+  "url": "https://www.tapology.com/fightcenter/fighters/82348-joseph-gigliotti",
+  "recentFights": [
+    {
+      "date": "2022-07-23T00:00:00.000Z",
+      "opponent": "Demarques Jackson",
+      "opponentSlug": "67287-demarques-jackson",
+      "result": "loss",
+      "method": "sub",
+      "event": "XMMA 5: 5outhern Heat",
+      "eventSlug": "90284-xmma-5-5outhern-heat",
+      "round": 2,
+      "timeInRound": "3:33"
+    },
+    {
+      "date": "2016-12-09T00:00:00.000Z",
+      "opponent": "Gerald Meerschaert",
+      "opponentSlug": "6018-gerald-meerschaert-the-machine",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night 102",
+      "eventSlug": "41370-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "4:12"
+    },
+    {
+      "date": "2016-08-06T00:00:00.000Z",
+      "opponent": "Trevor Smith",
+      "opponentSlug": "trevor-smith",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night 92",
+      "eventSlug": "40152-ufc-fight-night-92",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-15T00:00:00.000Z",
+      "opponent": "John Poppie",
+      "opponentSlug": "26921-john-poppie",
+      "result": "win",
+      "method": "sub",
+      "event": "RFA 37: Viana vs. Clark",
+      "eventSlug": "38624-rfa-37-viana-vs-clark",
+      "round": 1,
+      "timeInRound": "0:58"
+    },
+    {
+      "date": "2016-01-16T00:00:00.000Z",
+      "opponent": "Nick Salantri",
+      "opponentSlug": "124300-nick-salantri",
+      "result": "win",
+      "method": "sub",
+      "event": "Aggression Session 2",
+      "eventSlug": "37629-aggression-session-2-the-aggression-era-continues",
+      "round": 1,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2015-03-28T00:00:00.000Z",
+      "opponent": "Brendan Tierney",
+      "opponentSlug": "brendan-tierney",
+      "result": "win",
+      "method": "other",
+      "event": "WSOF 19: Gaethje vs. Palomino",
+      "eventSlug": "29324-wsof-19-gaethje-vs-palomino",
+      "round": 3,
+      "timeInRound": "4:45"
+    },
+    {
+      "date": "2015-01-31T00:00:00.000Z",
+      "opponent": "Robert Wilbanks",
+      "opponentSlug": "91644-robert-wilbanks",
+      "result": "win",
+      "method": "sub",
+      "event": "RITC 175: Super Bouts",
+      "eventSlug": "29222-ritc-175-super-bouts",
+      "round": 1,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2014-10-11T00:00:00.000Z",
+      "opponent": "Raylen Davis",
+      "opponentSlug": "66716-raylen-davis",
+      "result": "win",
+      "method": "sub",
+      "event": "RITC 174",
+      "eventSlug": "27270-ritc-174",
+      "round": 3,
+      "timeInRound": "3:45"
+    },
+    {
+      "date": "2014-08-09T00:00:00.000Z",
+      "opponent": "Kirk Washington",
+      "opponentSlug": "57225-kirk-washington",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-06-14T00:00:00.000Z",
+      "opponent": "Dylan Jahrling",
+      "opponentSlug": "30224-dylan-jarhling",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-02-01T00:00:00.000Z",
+      "opponent": "Israel Aquino",
+      "opponentSlug": "79570-israel-aquino",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-12-21T00:00:00.000Z",
+      "opponent": "Deon Clash",
+      "opponentSlug": "41494-deon-clash",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:15:22.702Z"
+}

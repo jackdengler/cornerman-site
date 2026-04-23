@@ -1,0 +1,37 @@
+{
+  "slug": "228686-eldar-kudarov",
+  "name": "Eldar Kudarov",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/228686-eldar-kudarov",
+  "recentFights": [
+    {
+      "date": "2019-05-03T00:00:00.000Z",
+      "opponent": "Shamil Gaziev",
+      "opponentSlug": "201352-shamil-gaziev",
+      "result": "loss",
+      "method": "tko",
+      "event": "IMMAF WMMAA Asian Open",
+      "eventSlug": "60698-immaf-wmmaa-asian-open-day-2",
+      "round": 1,
+      "timeInRound": "1:16"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:55:53.000Z"
+}

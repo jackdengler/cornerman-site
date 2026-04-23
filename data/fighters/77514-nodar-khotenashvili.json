@@ -1,0 +1,176 @@
+{
+  "slug": "77514-nodar-khotenashvili",
+  "name": "Nodar Khotenashvili",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 9,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 169,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Republic of Georgia",
+  "url": "https://www.tapology.com/fightcenter/fighters/77514-nodar-khotenashvili",
+  "recentFights": [
+    {
+      "date": "2025-11-22T00:00:00.000Z",
+      "opponent": "Turkhan Javadov",
+      "opponentSlug": "200386-turkhan-javadov",
+      "result": "draw",
+      "method": "dec-split",
+      "event": "Gama MMA 4: Pirtskheliani vs Torabi",
+      "eventSlug": "135291-gama-mma-4-pirtskheliani-vs-torabi",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-10-14T00:00:00.000Z",
+      "opponent": "Janne Elonen-Kulmala",
+      "opponentSlug": "15618-janne-elonen-kulmala-jamba",
+      "result": "loss",
+      "method": "sub",
+      "event": "Carelia Fight 17",
+      "eventSlug": "106218-carelia-fight-17",
+      "round": 1,
+      "timeInRound": "3:19"
+    },
+    {
+      "date": "2023-07-01T00:00:00.000Z",
+      "opponent": "Mark Vologdin",
+      "opponentSlug": "202598-mark-vologdin",
+      "result": "loss",
+      "method": "other",
+      "event": "AFN 1",
+      "eventSlug": "102883-afn-1",
+      "round": 1,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2022-05-20T00:00:00.000Z",
+      "opponent": "Aqil Ahmadzade",
+      "opponentSlug": "376623-aqil-ahmadzade",
+      "result": "win",
+      "method": "tko",
+      "event": "Iron Fist FC 1",
+      "eventSlug": "94212-wjf-20",
+      "round": 2,
+      "timeInRound": "3:14"
+    },
+    {
+      "date": "2021-12-12T00:00:00.000Z",
+      "opponent": "Elguja Gogia",
+      "opponentSlug": "286824-elguja-gogia",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "AGC: Challenge 3",
+      "eventSlug": "92094-agc-challenge-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-17T00:00:00.000Z",
+      "opponent": "Giorgi Chalatashvili",
+      "opponentSlug": "222320-giorgi-chalatashvili",
+      "result": "win",
+      "method": "tko",
+      "event": "AGC: Challenge 2",
+      "eventSlug": "80688-agc-challenge-2",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-19T00:00:00.000Z",
+      "opponent": "Elaman Sayassatov",
+      "opponentSlug": "295558-elaman-sayassatov",
+      "result": "loss",
+      "method": "other",
+      "event": "MFC 1",
+      "eventSlug": "78991-mfc",
+      "round": 2,
+      "timeInRound": "0:24"
+    },
+    {
+      "date": "2019-11-23T00:00:00.000Z",
+      "opponent": "Dawid Romański",
+      "opponentSlug": "82562-dawid-romaski",
+      "result": "loss",
+      "method": "sub",
+      "event": "Runda 9: Łazarz vs. Kalenik",
+      "eventSlug": "63890-runda-9",
+      "round": 1,
+      "timeInRound": "2:06"
+    },
+    {
+      "date": "2019-09-01T00:00:00.000Z",
+      "opponent": "Nurzhan Sagynov",
+      "opponentSlug": "235597-nurzhan-sagynov",
+      "result": "loss",
+      "method": "other",
+      "event": "Jayynger Martial Arts Festival",
+      "eventSlug": "62922-jayynger-martial-arts-festival",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-10T00:00:00.000Z",
+      "opponent": "Jandos Janat",
+      "opponentSlug": "214623-zhandos-zhanat",
+      "result": "win",
+      "method": "tko",
+      "event": "WJF 2",
+      "eventSlug": "58802-wjf-1-wjmmaf-super-league",
+      "round": 3,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2018-11-16T00:00:00.000Z",
+      "opponent": "Emuxue",
+      "opponentSlug": "133478-muxue-e",
+      "result": "loss",
+      "method": "other",
+      "event": "WLF W.A.R.S. 29",
+      "eventSlug": "57565-wlf-w-a-r-s-29",
+      "round": 1,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2018-09-14T00:00:00.000Z",
+      "opponent": "Banma Duoji",
+      "opponentSlug": "130864-banmauoji",
+      "result": "loss",
+      "method": "tko",
+      "event": "WLF W.A.R.S. 27",
+      "eventSlug": "55434-wlf-w-a-r-s",
+      "round": 2,
+      "timeInRound": "3:10"
+    },
+    {
+      "date": "2013-10-13T00:00:00.000Z",
+      "opponent": "Beka Eradze",
+      "opponentSlug": "77515-beka-eradze",
+      "result": "loss",
+      "method": "sub",
+      "event": "GAMMA Caucasian Rage 2",
+      "eventSlug": "26066-gamma-caucasian-rage-2",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-04-26T00:00:00.000Z",
+      "opponent": "Ali Karal",
+      "opponentSlug": "104813-ali-karal",
+      "result": "win",
+      "method": "sub",
+      "event": "GFP Challenge",
+      "eventSlug": "33348-gfp-challenge",
+      "round": 1,
+      "timeInRound": "2:25"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:03:53.440Z"
+}

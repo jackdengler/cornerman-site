@@ -1,0 +1,209 @@
+{
+  "slug": "60086-herbert-burns",
+  "name": "Herbert Burns",
+  "nickname": "The Blaze",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 187,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1988-02-02",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/60086-herbert-burns",
+  "recentFights": [
+    {
+      "date": "2024-08-17T00:00:00.000Z",
+      "opponent": "Jack Jenkins",
+      "opponentSlug": "134851-jack-jenkins",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 305: Du Plessis vs. Adesanya",
+      "eventSlug": "111885-ufc-305",
+      "round": 3,
+      "timeInRound": "0:48"
+    },
+    {
+      "date": "2024-03-30T00:00:00.000Z",
+      "opponent": "Julio Arce",
+      "opponentSlug": "30552-julio-arce",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "107896-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2022-07-16T00:00:00.000Z",
+      "opponent": "Bill Algeo",
+      "opponentSlug": "25872-william-algeo-honey-badger",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC on ABC 3",
+      "eventSlug": "88485-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2020-08-15T00:00:00.000Z",
+      "opponent": "Daniel Pineda",
+      "opponentSlug": "daniel-pineda",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "eventSlug": "67159-ufc-on-espn",
+      "round": 2,
+      "timeInRound": "4:37"
+    },
+    {
+      "date": "2020-06-06T00:00:00.000Z",
+      "opponent": "Evan Dunham",
+      "opponentSlug": "evan-dunham-the-kid",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC 250: Nunes vs. Spencer",
+      "eventSlug": "67364-ufc-251",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2020-01-25T00:00:00.000Z",
+      "opponent": "Nate Landwehr",
+      "opponentSlug": "26263-nate-landwehr",
+      "result": "win",
+      "method": "other",
+      "event": "UFC on ESPN+ 24",
+      "eventSlug": "64361-ufc-on-espn-24",
+      "round": 1,
+      "timeInRound": "2:43"
+    },
+    {
+      "date": "2019-08-06T00:00:00.000Z",
+      "opponent": "Darrick Minner",
+      "opponentSlug": "19491-darrick-minner",
+      "result": "win",
+      "method": "sub",
+      "event": "Contender Series 2019",
+      "eventSlug": "59998-dw-s-contender-series-2019-week-8",
+      "round": 1,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2019-04-26T00:00:00.000Z",
+      "opponent": "Luis Gomez",
+      "opponentSlug": "108514-luis-raul-gomez",
+      "result": "win",
+      "method": "sub",
+      "event": "Titan FC 54",
+      "eventSlug": "59079-titan-fc-54",
+      "round": 1,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2018-12-21T00:00:00.000Z",
+      "opponent": "Aibek Nurseit",
+      "opponentSlug": "128108-aibek-nurseit",
+      "result": "win",
+      "method": "sub",
+      "event": "Titan FC 51",
+      "eventSlug": "56479-titan-fc-51-the-battle-of-kazakhstan",
+      "round": 2,
+      "timeInRound": "2:35"
+    },
+    {
+      "date": "2017-08-05T00:00:00.000Z",
+      "opponent": "Magomed Idrisov",
+      "opponentSlug": "63925-magomed-idrisov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ONE Championship",
+      "eventSlug": "46695-one-championship-kings-and-conquerors",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-02-10T00:00:00.000Z",
+      "opponent": "Movlid Khaybulaev",
+      "opponentSlug": "68161-mavlidin-khaibulaev",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ONE Championship",
+      "eventSlug": "43727-one-championship-throne-of-tigers",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-27T00:00:00.000Z",
+      "opponent": "Timofey Nastyukhin",
+      "opponentSlug": "72236-timofey-nastyukhin",
+      "result": "win",
+      "method": "sub",
+      "event": "ONE Championship",
+      "eventSlug": "34169-one-fc-31-odyssey-of-champions",
+      "round": 1,
+      "timeInRound": "3:25"
+    },
+    {
+      "date": "2014-12-05T00:00:00.000Z",
+      "opponent": "Honorio Banario",
+      "opponentSlug": "20758-honorio-banario-the-rock",
+      "result": "win",
+      "method": "sub",
+      "event": "ONE FC 23: Warrior's Way",
+      "eventSlug": "26446-one-fc-23-warriors-way",
+      "round": 1,
+      "timeInRound": "3:59"
+    },
+    {
+      "date": "2014-08-29T00:00:00.000Z",
+      "opponent": "Hiroshige Tanaka",
+      "opponentSlug": "28662-hiroshige-tanaka-hanzo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE FC 19: Reign of Champions",
+      "eventSlug": "25279-one-fc-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-14T00:00:00.000Z",
+      "opponent": "Harris Sarmiento",
+      "opponentSlug": "harris-sarmiento-the-hitman",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE FC 14: War of Nations",
+      "eventSlug": "22119-one-fc-14-war-of-nations",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-12-06T00:00:00.000Z",
+      "opponent": "Edward Kelly",
+      "opponentSlug": "49914-edward-kelly",
+      "result": "win",
+      "method": "sub",
+      "event": "ONE FC 13: Moment of Truth",
+      "eventSlug": "21250-one-fc-13-moment-of-truth",
+      "round": 1,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2012-02-25T00:00:00.000Z",
+      "opponent": "Saulo Eduardo da Silva",
+      "opponentSlug": "40271-saulo-eduardo-da-silva",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:57:55.935Z"
+}

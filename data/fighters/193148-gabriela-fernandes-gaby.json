@@ -1,0 +1,198 @@
+{
+  "slug": "193148-gabriela-fernandes-gaby",
+  "name": "Gabriella Fernandes",
+  "nickname": "Gabi",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": 168,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1993-08-13",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/193148-gabriela-fernandes-gaby",
+  "recentFights": [
+    {
+      "date": "2026-03-28T00:00:00.000Z",
+      "opponent": "Casey O'Neill",
+      "opponentSlug": "74768-casey-oneill",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "136873-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "3:11"
+    },
+    {
+      "date": "2025-08-09T00:00:00.000Z",
+      "opponent": "Julija Stoliarenko",
+      "opponentSlug": "54390-julia-stoliarenko",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "127957-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-23T00:00:00.000Z",
+      "opponent": "Cong Wang",
+      "opponentSlug": "271545-cong-wang",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "116899-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "3:49"
+    },
+    {
+      "date": "2024-06-15T00:00:00.000Z",
+      "opponent": "Carli Judice",
+      "opponentSlug": "286593-carli-judice",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "111669-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-17T00:00:00.000Z",
+      "opponent": "Tereza Bledá",
+      "opponentSlug": "169518-tereza-bieda",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "99705-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-25T00:00:00.000Z",
+      "opponent": "Jasmine Jasudavicius",
+      "opponentSlug": "171056-jasmine-jasdavicious",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "95023-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-30T00:00:00.000Z",
+      "opponent": "Karoline Martins",
+      "opponentSlug": "87623-karoline-martins",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 143: Lopes vs. Paiva",
+      "eventSlug": "92701-lfa-143-lopes-vs-paiva",
+      "round": 2,
+      "timeInRound": "3:03"
+    },
+    {
+      "date": "2022-05-13T00:00:00.000Z",
+      "opponent": "Edna Oliveira",
+      "opponentSlug": "134462-edna-trakinas",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 132: Gomes vs. Costa",
+      "eventSlug": "88790-lfa-132-lidio-vs-gomes",
+      "round": 2,
+      "timeInRound": "3:17"
+    },
+    {
+      "date": "2021-07-16T00:00:00.000Z",
+      "opponent": "Queila Braga",
+      "opponentSlug": "241171-queila-braga",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 111: De Sa vs. Bonfim",
+      "eventSlug": "80470-lfa-111-de-sa-vs-bonfim",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-10-31T00:00:00.000Z",
+      "opponent": "Shamara Braga",
+      "opponentSlug": "430194-shamara-cavalcante",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Action Fight 16",
+      "eventSlug": "73401-action-fight-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-21T00:00:00.000Z",
+      "opponent": "Katarzyna Biegajło",
+      "opponentSlug": "130211-katarzyna-biegajo",
+      "result": "win",
+      "method": "sub",
+      "event": "Thunderstrike Fight League 19",
+      "eventSlug": "63392-thunderstrike-fight-league-19-christmas-time",
+      "round": 2,
+      "timeInRound": "3:48"
+    },
+    {
+      "date": "2019-11-16T00:00:00.000Z",
+      "opponent": "Petya Atanasova",
+      "opponentSlug": "249790-petya-atanasova",
+      "result": "win",
+      "method": "tko",
+      "event": "ISFA Final Conflict 2019",
+      "eventSlug": "65907-isfa-final-conflict-2019",
+      "round": 3,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2019-06-01T00:00:00.000Z",
+      "opponent": "Antonia Silvaneide",
+      "opponentSlug": "67384-silvaneide-pereira-marretinha",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Arena Fight Combat 22",
+      "eventSlug": "60724-arena-fight-combat-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-09T00:00:00.000Z",
+      "opponent": "Maria Silva",
+      "opponentSlug": "159868-maria-silva-viva-negra",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "NFC 15",
+      "eventSlug": "54617-natal-fc-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-24T00:00:00.000Z",
+      "opponent": "Iasmin Lucindo",
+      "opponentSlug": "166360-iasmin-lucindo",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-08-06T00:00:00.000Z",
+      "opponent": "Dayana Oliveira",
+      "opponentSlug": "375733-dayana-oliveira",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:09:42.038Z"
+}

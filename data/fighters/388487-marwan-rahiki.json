@@ -1,0 +1,187 @@
+{
+  "slug": "388487-marwan-rahiki",
+  "name": "Marwan Rahiki",
+  "nickname": "Freaky",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 183,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "2002-05-10",
+  "nationality": "Rabat, Morocco",
+  "url": "https://www.tapology.com/fightcenter/fighters/388487-marwan-rahiki",
+  "recentFights": [
+    {
+      "date": "2026-05-02T00:00:00.000Z",
+      "opponent": "Jack Jenkins",
+      "opponentSlug": "134851-jack-jenkins",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "140511-ufc-fight-night-della-maddalena-vs-prates",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-03-14T00:00:00.000Z",
+      "opponent": "Harry Hardwick",
+      "opponentSlug": "64199-harry-hardwick",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "136874-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2025-10-14T00:00:00.000Z",
+      "opponent": "Ananias Mulumba",
+      "opponentSlug": "333318-mulumba-ntambwe",
+      "result": "win",
+      "method": "other",
+      "event": "Contender Series 2025",
+      "eventSlug": "128467-contender-series-2025-week-10",
+      "round": 2,
+      "timeInRound": "2:13"
+    },
+    {
+      "date": "2025-07-05T00:00:00.000Z",
+      "opponent": "Gabriel Schlupp",
+      "opponentSlug": "63379-gabriel-schuppo",
+      "result": "win",
+      "method": "other",
+      "event": "Beatdown Promotions 11",
+      "eventSlug": "127021-beatdown-promotions-11",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-31T00:00:00.000Z",
+      "opponent": "Semakadde Kakembo",
+      "opponentSlug": "196400-sem-kakembo",
+      "result": "win",
+      "method": "sub",
+      "event": "HEX Fight Series 35",
+      "eventSlug": "120778-hex-fight-series-35",
+      "round": 4,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-01T00:00:00.000Z",
+      "opponent": "Michael Barber",
+      "opponentSlug": "109283-michael-barber",
+      "result": "win",
+      "method": "other",
+      "event": "HEX Fight Series 34",
+      "eventSlug": "120777-hex-fight-series-34",
+      "round": 1,
+      "timeInRound": "3:02"
+    },
+    {
+      "date": "2024-09-07T00:00:00.000Z",
+      "opponent": "Michael Mannu",
+      "opponentSlug": "120836-michael-mannue",
+      "result": "win",
+      "method": "tko",
+      "event": "HEX Fight Series 32",
+      "eventSlug": "115236-hex-fight-series-32",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-07-27T00:00:00.000Z",
+      "opponent": "Ryan Dennis",
+      "opponentSlug": "150374-ryan-dennis",
+      "result": "win",
+      "method": "other",
+      "event": "Superfight MMA 22",
+      "eventSlug": "115077-superfight-mma-22",
+      "round": 1,
+      "timeInRound": "4:31"
+    },
+    {
+      "date": "2024-02-10T00:00:00.000Z",
+      "opponent": "Julian Giustiniano",
+      "opponentSlug": "311841-julian-giustiniano",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 82",
+      "eventSlug": "106684-eternal-mma-82",
+      "round": 2,
+      "timeInRound": "0:28"
+    },
+    {
+      "date": "2023-12-09T00:00:00.000Z",
+      "opponent": "Ali Gündüz",
+      "opponentSlug": "341786-ali-gunduz",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "GAMMA",
+      "eventSlug": "108613-gamma-world-mma-championship-2023-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-08T00:00:00.000Z",
+      "opponent": "Tagaybek Sayfidin Uulu",
+      "opponentSlug": "279576-tagaibek-sayfidin-uulu",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "108384-gamma-world-mma-championship-2023-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-08T00:00:00.000Z",
+      "opponent": "Ondrej Kuchta",
+      "opponentSlug": "362687-ondrej-kuchta",
+      "result": "win",
+      "method": "sub",
+      "event": "GAMMA",
+      "eventSlug": "108384-gamma-world-mma-championship-2023-day-1",
+      "round": 2,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2023-10-28T00:00:00.000Z",
+      "opponent": "Basri Demirel",
+      "opponentSlug": "319163-basir-demirel",
+      "result": "win",
+      "method": "tko",
+      "event": "Superfight MMA 20",
+      "eventSlug": "106611-superfight-mma-20",
+      "round": 1,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2023-05-27T00:00:00.000Z",
+      "opponent": "Ashton Johnston",
+      "opponentSlug": "187783-ashton-johnston",
+      "result": "win",
+      "method": "sub",
+      "event": "XFC 65",
+      "eventSlug": "97857-xfc-65",
+      "round": 2,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2023-04-29T00:00:00.000Z",
+      "opponent": "Brandon White",
+      "opponentSlug": "232000-brandon-white",
+      "result": "win",
+      "method": "tko",
+      "event": "Superfight MMA 19",
+      "eventSlug": "101609-superfight-mma",
+      "round": 3,
+      "timeInRound": "0:16"
+    }
+  ],
+  "lastVerified": "2026-04-18T17:55:01.510Z"
+}

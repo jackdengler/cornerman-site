@@ -1,0 +1,165 @@
+{
+  "slug": "198237-marie-loiseau",
+  "name": "Marie Loiseau",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 176,
+  "reachCm": 175,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1980-07-03",
+  "nationality": "France",
+  "url": "https://www.tapology.com/fightcenter/fighters/198237-marie-loiseau",
+  "recentFights": [
+    {
+      "date": "2024-06-08T00:00:00.000Z",
+      "opponent": "Valentina Scatizzi",
+      "opponentSlug": "283991-valentina-scatizzi",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "PFL Europe 2",
+      "eventSlug": "109702-pfl-europe-2-2024-regular-season",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-24T00:00:00.000Z",
+      "opponent": "Katarzyna Sadura",
+      "opponentSlug": "90407-katarzyna-sadura",
+      "result": "win",
+      "method": "sub",
+      "event": "Babilon MMA 41",
+      "eventSlug": "107133-babilon-mma-41",
+      "round": 2,
+      "timeInRound": "2:03"
+    },
+    {
+      "date": "2023-04-07T00:00:00.000Z",
+      "opponent": "Darya Zheleznyakova",
+      "opponentSlug": "229363-dariya-zheleznyakova",
+      "result": "loss",
+      "method": "other",
+      "event": "Ares FC 14: Lebout vs. Staropoli",
+      "eventSlug": "96199-ares-fc-14",
+      "round": 1,
+      "timeInRound": "1:27"
+    },
+    {
+      "date": "2022-11-26T00:00:00.000Z",
+      "opponent": "Nadia Akihary-van der Wel",
+      "opponentSlug": "8900-nadia-van-der-wel",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors Academy",
+      "eventSlug": "93777-cage-warriors-academy-lowlands-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-04T00:00:00.000Z",
+      "opponent": "Jenny Gotti",
+      "opponentSlug": "127977-jenny-gotti",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Mixed Martial Arts Grand Prix",
+      "eventSlug": "88565-mixed-martial-arts-grand-prix-the-last-of-kings",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-02T00:00:00.000Z",
+      "opponent": "Nora Cornolle",
+      "opponentSlug": "297105-nora-cornolle",
+      "result": "loss",
+      "method": "other",
+      "event": "Gladiator Fighting Arena 13",
+      "eventSlug": "87626-gladiator-fighting-arena-13",
+      "round": 1,
+      "timeInRound": "4:16"
+    },
+    {
+      "date": "2021-04-08T00:00:00.000Z",
+      "opponent": "Laetitia Blot",
+      "opponentSlug": "261042-laetitia-blot-c18",
+      "result": "loss",
+      "method": "other",
+      "event": "Mixed Martial Arts Grand Prix 2",
+      "eventSlug": "78074-mixed-martial-arts-grand-prix-2",
+      "round": 3,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2020-09-26T00:00:00.000Z",
+      "opponent": "Tereza Bledá",
+      "opponentSlug": "169518-tereza-bieda",
+      "result": "loss",
+      "method": "tko",
+      "event": "Oktagon 16: Ryšavý vs Paradeiser",
+      "eventSlug": "72251-oktagon-16-rysavy-vs-paradeiser",
+      "round": 2,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2019-04-20T00:00:00.000Z",
+      "opponent": "Asci Kubra",
+      "opponentSlug": "4850-asci-kubra",
+      "result": "win",
+      "method": "sub",
+      "event": "Le ROI DU FIGHT 2019",
+      "eventSlug": "59963-le-roi-du-fight-2019",
+      "round": 2,
+      "timeInRound": "0:58"
+    },
+    {
+      "date": "2019-03-16T00:00:00.000Z",
+      "opponent": "Tania dos Santos",
+      "opponentSlug": "212068-tania-dos-santos",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hard Fighting Championship 18",
+      "eventSlug": "59063-hard-fighting-championship-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-02T00:00:00.000Z",
+      "opponent": "Silvia Leonora Nascimento",
+      "opponentSlug": "185863-silvia-nascimento",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-20T00:00:00.000Z",
+      "opponent": "Josie Blaber",
+      "opponentSlug": "150569-josie-blaber",
+      "result": "loss",
+      "method": "other",
+      "event": "British Challenge MMA 22",
+      "eventSlug": "53541-british-challenge-mma-22-cage-warriors-academy-south-east",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-25T00:00:00.000Z",
+      "opponent": "Elin Salmonson",
+      "opponentSlug": "150399-elin-salmonson",
+      "result": "win",
+      "method": "dec-split",
+      "event": "British Challenge MMA 20",
+      "eventSlug": "45881-british-challenge-mma-20-cage-warriors-academy",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:00:42.495Z"
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "232589-stanley-dorsainvil",
+  "name": "Stanley Dorsainvil",
+  "nickname": "The Drill",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": 193,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "2000-05-12",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/232589-stanley-dorsainvil",
+  "recentFights": [
+    {
+      "date": "2024-11-16T00:00:00.000Z",
+      "opponent": "Johnny Smith",
+      "opponentSlug": "156271-johnny-smith",
+      "result": "win",
+      "method": "sub",
+      "event": "Peak Fighting 40",
+      "eventSlug": "115326-peak-fighting-40",
+      "round": 1,
+      "timeInRound": "3:34"
+    },
+    {
+      "date": "2024-07-12T00:00:00.000Z",
+      "opponent": "Cedric Katambwa",
+      "opponentSlug": "151861-cedric-katambwa",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 188: Sweeney vs. Do Nascimento",
+      "eventSlug": "113977-lfa-188-sweeney-vs-do-nascimento",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-02T00:00:00.000Z",
+      "opponent": "Joao Guerra",
+      "opponentSlug": "285102-joao-guerra",
+      "result": "win",
+      "method": "sub",
+      "event": "XFC: Detroit Grand Prix",
+      "eventSlug": "101535-xfc-detroit-grand-prix",
+      "round": 1,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2023-01-20T00:00:00.000Z",
+      "opponent": "Hernandez Banks",
+      "opponentSlug": "28917-hernandez-banks",
+      "result": "win",
+      "method": "sub",
+      "event": "AFL: Invincible 2023",
+      "eventSlug": "96556-lombard-vs-tarrh",
+      "round": 1,
+      "timeInRound": "2:48"
+    },
+    {
+      "date": "2022-04-16T00:00:00.000Z",
+      "opponent": "Shane Mistretta",
+      "opponentSlug": "287725-shane-mistretta",
+      "result": "win",
+      "method": "sub",
+      "event": "Rise of a Warrior 32",
+      "eventSlug": "88545-rise-of-a-warrior-32",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-01-29T00:00:00.000Z",
+      "opponent": "Arthur Jean",
+      "opponentSlug": "256998-arthur-jean",
+      "result": "win",
+      "method": "sub",
+      "event": "World Class Combat Sports 1",
+      "eventSlug": "86166-world-class-combat-sports-1",
+      "round": 2,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2019-11-23T00:00:00.000Z",
+      "opponent": "Fabian Llerena",
+      "opponentSlug": "44898-fabian-llerena",
+      "result": "win",
+      "method": "tko",
+      "event": "XFN 26",
+      "eventSlug": "64667-xfn-26",
+      "round": 1,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2019-06-23T00:00:00.000Z",
+      "opponent": "Jason Cherry",
+      "opponentSlug": "232588-jason-cherry",
+      "result": "win",
+      "method": "tko",
+      "event": "XFN 24",
+      "eventSlug": "62204-xfn-24",
+      "round": 3,
+      "timeInRound": "0:01"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:41:59.726Z"
+}

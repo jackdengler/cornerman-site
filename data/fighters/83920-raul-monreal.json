@@ -1,0 +1,220 @@
+{
+  "slug": "83920-raul-monreal",
+  "name": "Santiago Monreal",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 166,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1995-07-24",
+  "nationality": "Mexico",
+  "url": "https://www.tapology.com/fightcenter/fighters/83920-raul-monreal",
+  "recentFights": [
+    {
+      "date": "2023-03-18T00:00:00.000Z",
+      "opponent": "Ryan Ocasio",
+      "opponentSlug": "294753-ryan-ocasio",
+      "result": "loss",
+      "method": "sub",
+      "event": "Combate Global",
+      "eventSlug": "99363-combate-global-pace-vs-matuz",
+      "round": 2,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2022-08-26T00:00:00.000Z",
+      "opponent": "Gerardo Graniel",
+      "opponentSlug": "187499-gerardo-graniel-terrier",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combate Global",
+      "eventSlug": "92471-combate-global",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-27T00:00:00.000Z",
+      "opponent": "Edwin Sarria",
+      "opponentSlug": "49144-edwin-serria",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combate Global",
+      "eventSlug": "89706-combate-global",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-19T00:00:00.000Z",
+      "opponent": "Cesar Hernandez-Arauz",
+      "opponentSlug": "145913-cesar-hernandez-arauz",
+      "result": "win",
+      "method": "sub",
+      "event": "Combate Global",
+      "eventSlug": "84362-combate-global",
+      "round": 1,
+      "timeInRound": "3:38"
+    },
+    {
+      "date": "2021-09-17T00:00:00.000Z",
+      "opponent": "Christopher Daniel",
+      "opponentSlug": "152801-christopher-daniels",
+      "result": "loss",
+      "method": "sub",
+      "event": "Combate: Bravo vs. Whitney",
+      "eventSlug": "82579-combate",
+      "round": 1,
+      "timeInRound": "4:56"
+    },
+    {
+      "date": "2020-02-21T00:00:00.000Z",
+      "opponent": "Ernesto Ibarra",
+      "opponentSlug": "109896-ernesto-ibarra",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combate 55: Mexicali",
+      "eventSlug": "65832-combate-mexicali",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-20T00:00:00.000Z",
+      "opponent": "Gabriel Valdez",
+      "opponentSlug": "80015-gabriel-valdez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combate 44: Mexicali",
+      "eventSlug": "62921-combate-campeonato-mundial-de-peso-ligero",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-02-08T00:00:00.000Z",
+      "opponent": "Heber Castillo",
+      "opponentSlug": "149969-heber-castillo",
+      "result": "win",
+      "method": "other",
+      "event": "Combate 30: Mexicali",
+      "eventSlug": "57831-combate-30-combate-baja",
+      "round": 1,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2018-12-15T00:00:00.000Z",
+      "opponent": "Héctor Valenzuela",
+      "opponentSlug": "47224-hector-valenzuela",
+      "result": "win",
+      "method": "sub",
+      "event": "WCF 10: The Comeback",
+      "eventSlug": "58748-wcf-x-the-comeback",
+      "round": 2,
+      "timeInRound": "3:52"
+    },
+    {
+      "date": "2017-10-07T00:00:00.000Z",
+      "opponent": "David Hanna",
+      "opponentSlug": "74648-david-hanna",
+      "result": "win",
+      "method": null,
+      "event": "Gladiator Challenge",
+      "eventSlug": "47832-gladiator-challenge-fight-club",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-08T00:00:00.000Z",
+      "opponent": "Carlos Apodaca",
+      "opponentSlug": "80029-carlos-apodaca",
+      "result": "win",
+      "method": "sub",
+      "event": "BWCF 9",
+      "eventSlug": "47029-wcf-9",
+      "round": 1,
+      "timeInRound": "4:12"
+    },
+    {
+      "date": "2016-07-30T00:00:00.000Z",
+      "opponent": "Edgar Cháirez",
+      "opponentSlug": "80020-edgar-chaidez",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fights Factory",
+      "eventSlug": "40889-the-one",
+      "round": 2,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2015-11-21T00:00:00.000Z",
+      "opponent": "Alan Varela",
+      "opponentSlug": "80016-alan-varela",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fights Factory",
+      "eventSlug": "33009-fights-factory-the-championship-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-05-16T00:00:00.000Z",
+      "opponent": "Carlos Apodaca",
+      "opponentSlug": "80029-carlos-apodaca",
+      "result": "win",
+      "method": "other",
+      "event": "Fights Factory",
+      "eventSlug": "30896-fights-factory-back-to-the-cage",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-12-13T00:00:00.000Z",
+      "opponent": "Gabriel Valdez",
+      "opponentSlug": "80015-gabriel-valdez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fights Factory",
+      "eventSlug": "27352-fights-factory-the-championship",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-10-26T00:00:00.000Z",
+      "opponent": "Juan Lara",
+      "opponentSlug": "80039-juan-lara",
+      "result": null,
+      "method": "other",
+      "event": "Fights Factory",
+      "eventSlug": "27650-fights-factory-expo-hombre",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-07-26T00:00:00.000Z",
+      "opponent": "Alan Varela",
+      "opponentSlug": "80016-alan-varela",
+      "result": "win",
+      "method": null,
+      "event": "Fights Factory",
+      "eventSlug": "26692-fights-factory-next",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-22T00:00:00.000Z",
+      "opponent": "Juan Lara",
+      "opponentSlug": "80039-juan-lara",
+      "result": "win",
+      "method": null,
+      "event": "Fights Factory",
+      "eventSlug": "26691-fights-factory-reloaded",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:36:47.663Z"
+}

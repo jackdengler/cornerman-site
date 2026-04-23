@@ -1,0 +1,33 @@
+{
+  "slug": "46255-brandon-atkins",
+  "name": "Brandon Atkins",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 191,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1994-12-28",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/46255-brandon-atkins",
+  "recentFights": [
+    {
+      "date": "2013-06-21T00:00:00.000Z",
+      "opponent": "Ryan Spann",
+      "opponentSlug": "20908-ryan-spann",
+      "result": "loss",
+      "method": "sub",
+      "event": "Pride of the Valley 2",
+      "eventSlug": "18594-pride-of-the-valley-2",
+      "round": 1,
+      "timeInRound": "0:44"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:51:15.595Z"
+}

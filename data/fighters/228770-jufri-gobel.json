@@ -1,0 +1,110 @@
+{
+  "slug": "228770-jufri-gobel",
+  "name": "Jufri Gobel",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Indonesia",
+  "url": "https://www.tapology.com/fightcenter/fighters/228770-jufri-gobel",
+  "recentFights": [
+    {
+      "date": "2024-11-02T00:00:00.000Z",
+      "opponent": "Mandala Simanjuntak",
+      "opponentSlug": "231174-mandala-simanjuntak",
+      "result": "win",
+      "method": "sub",
+      "event": "One Pride MMA Fight Night 84",
+      "eventSlug": "119878-one-pride-mma-fight-night-84",
+      "round": 1,
+      "timeInRound": "4:14"
+    },
+    {
+      "date": "2024-07-21T00:00:00.000Z",
+      "opponent": "Colby Thicknesse",
+      "opponentSlug": "166902-colby-thicknesse",
+      "result": "loss",
+      "method": "other",
+      "event": "Canggu Fight Night 31",
+      "eventSlug": "115352-canggu-fight-night-31",
+      "round": 1,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2024-02-03T00:00:00.000Z",
+      "opponent": "Mario Satya Wirawan",
+      "opponentSlug": "68713-mario-wirawan",
+      "result": "loss",
+      "method": "sub",
+      "event": "One Pride MMA Fight Night 76",
+      "eventSlug": "110148-one-pride-mma-fight-night-76",
+      "round": 1,
+      "timeInRound": "1:53"
+    },
+    {
+      "date": "2023-08-12T00:00:00.000Z",
+      "opponent": "Paskalis Tanoi",
+      "opponentSlug": "351081-paskalis-tanoi",
+      "result": "win",
+      "method": "other",
+      "event": "One Pride MMA Fight Night 71",
+      "eventSlug": "103901-one-pride-mma-fight-night-71",
+      "round": 2,
+      "timeInRound": "3:40"
+    },
+    {
+      "date": "2022-08-27T00:00:00.000Z",
+      "opponent": "Joan Yohanis",
+      "opponentSlug": "214705-joan-yohanis",
+      "result": "win",
+      "method": "other",
+      "event": "One Pride MMA Fight Night 61",
+      "eventSlug": "92505-one-pride-mma-fight-night-61",
+      "round": 1,
+      "timeInRound": "0:22"
+    },
+    {
+      "date": "2021-10-09T00:00:00.000Z",
+      "opponent": "Frans Sormin",
+      "opponentSlug": "289343-frans-sormin",
+      "result": "loss",
+      "method": "sub",
+      "event": "One Pride MMA Fight Night 50",
+      "eventSlug": "83491-one-pride-mma-fight-night-50",
+      "round": 1,
+      "timeInRound": "2:21"
+    },
+    {
+      "date": "2019-12-14T00:00:00.000Z",
+      "opponent": "Boido Simanjuntak",
+      "opponentSlug": "245411-boido-simanjuntak",
+      "result": "win",
+      "method": "other",
+      "event": "One Pride MMA Fight Night 35",
+      "eventSlug": "64964-one-pride-mma-fight-night-35-warriors-never-quit",
+      "round": 3,
+      "timeInRound": "0:59"
+    },
+    {
+      "date": "2019-06-29T00:00:00.000Z",
+      "opponent": "Edy Nur Cahyono",
+      "opponentSlug": "191446-eddy-nur-cahyono",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "One Pride MMA Fight Night 29",
+      "eventSlug": "61361-one-pride-mma-fight-night-29-never-quit-the-fight",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:56:24.617Z"
+}

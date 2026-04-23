@@ -1,0 +1,44 @@
+{
+  "slug": "182900-ronei-aylla",
+  "name": "Ronei Aylla",
+  "nickname": "PQD",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": "1991-09-22",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/182900-ronei-aylla",
+  "recentFights": [
+    {
+      "date": "2018-03-31T00:00:00.000Z",
+      "opponent": "Junior Melo",
+      "opponentSlug": "121289-jose-cleiton-de-melo-junior-melo",
+      "result": "loss",
+      "method": "sub",
+      "event": "Vila FC 1",
+      "eventSlug": "50852-vfc-1",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2015-10-11T00:00:00.000Z",
+      "opponent": "Augusto Matias",
+      "opponentSlug": "130082-augusto-matias-abdias",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:38:23.328Z"
+}

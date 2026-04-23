@@ -1,0 +1,198 @@
+{
+  "slug": "75811-will-smith",
+  "name": "Will Smith",
+  "nickname": "Ill",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 184,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1989-10-18",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/75811-will-smith",
+  "recentFights": [
+    {
+      "date": "2023-05-27T00:00:00.000Z",
+      "opponent": "Andrew Valdina",
+      "opponentSlug": "225602-andrew-valdina",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Titans 59",
+      "eventSlug": "100293-cage-titans-59",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2023-01-07T00:00:00.000Z",
+      "opponent": "Kam Arnold",
+      "opponentSlug": "159308-kam-arnold",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Titans 57",
+      "eventSlug": "95244-cage-titans-57",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-27T00:00:00.000Z",
+      "opponent": "Lionel Young",
+      "opponentSlug": "lionel-young",
+      "result": "loss",
+      "method": "tko",
+      "event": "Cage Titans 55",
+      "eventSlug": "91353-cage-titans-55",
+      "round": 1,
+      "timeInRound": "0:33"
+    },
+    {
+      "date": "2021-08-06T00:00:00.000Z",
+      "opponent": "Chris Disonell",
+      "opponentSlug": "92651-chris-disonell",
+      "result": "loss",
+      "method": "other",
+      "event": "CES 63: Howard vs. Alvarez",
+      "eventSlug": "80482-ces-63-back-2-back",
+      "round": 1,
+      "timeInRound": "3:38"
+    },
+    {
+      "date": "2021-04-09T00:00:00.000Z",
+      "opponent": "John Douma",
+      "opponentSlug": "93332-john-douma",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Bellator 256",
+      "eventSlug": "76829-bellator-mma",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-08-21T00:00:00.000Z",
+      "opponent": "Lucas Brennan",
+      "opponentSlug": "162427-lucas-brennan",
+      "result": "loss",
+      "method": "other",
+      "event": "Bellator 244",
+      "eventSlug": "70974-bellator-mma",
+      "round": 2,
+      "timeInRound": "4:14"
+    },
+    {
+      "date": "2019-09-07T00:00:00.000Z",
+      "opponent": "Aaron Reese",
+      "opponentSlug": "186846-aaron-reese",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CES 58: De Jesus vs. Lozano",
+      "eventSlug": "62170-ces-58",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-20T00:00:00.000Z",
+      "opponent": "Carl Langston",
+      "opponentSlug": "57147-carl-langston",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "AMMO Fight League 7",
+      "eventSlug": "60213-ammo-fight-league-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-31T00:00:00.000Z",
+      "opponent": "Ashiek Ajim",
+      "opponentSlug": "130569-ashiek-aiim",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "CES 56: Boyington vs. Dabuque",
+      "eventSlug": "59653-ces-56-boyington-vs-dabuque",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-16T00:00:00.000Z",
+      "opponent": "Bradley Sustad",
+      "opponentSlug": "54012-bradley-sustad",
+      "result": "win",
+      "method": "other",
+      "event": "AMMO Fight League 6",
+      "eventSlug": "56865-ammo-fight-league-6",
+      "round": 1,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2018-04-14T00:00:00.000Z",
+      "opponent": "Jacobo Apito",
+      "opponentSlug": "48703-jacob-kasprowski",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Titans 38",
+      "eventSlug": "51281-cage-titans-38",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-01-02T00:00:00.000Z",
+      "opponent": "Luis Finateri",
+      "opponentSlug": "39050-luis-finateri",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Reality Fighting",
+      "eventSlug": "35888-reality-fighting",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-06-20T00:00:00.000Z",
+      "opponent": "Kris Moutinho",
+      "opponentSlug": "40607-kris-moutino",
+      "result": "loss",
+      "method": "tko",
+      "event": "Cage Titans 24",
+      "eventSlug": "32500-cage-titans-24",
+      "round": 3,
+      "timeInRound": "2:39"
+    },
+    {
+      "date": "2015-03-06T00:00:00.000Z",
+      "opponent": "Ali Zebian",
+      "opponentSlug": "56001-ali-zebian",
+      "result": "win",
+      "method": "sub",
+      "event": "Warrior Nation XFA 10",
+      "eventSlug": "27313-warrior-nation-xfa-10",
+      "round": 5,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2015-01-24T00:00:00.000Z",
+      "opponent": "Andres Rodriguez",
+      "opponentSlug": "71951-andres-rodriguez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Titans 22",
+      "eventSlug": "27904-cage-titans-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-08-02T00:00:00.000Z",
+      "opponent": "Joe Albani",
+      "opponentSlug": "75810-joe-albani",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Warrior Nation XFA 9",
+      "eventSlug": "24594-warrior-nation-xfa-9",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-21T06:14:30.659Z"
+}

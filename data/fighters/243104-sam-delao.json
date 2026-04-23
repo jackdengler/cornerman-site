@@ -1,0 +1,55 @@
+{
+  "slug": "243104-sam-delao",
+  "name": "Sam DeLao",
+  "nickname": "Sicario",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1994-08-23",
+  "nationality": "Louisiana, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/243104-sam-delao",
+  "recentFights": [
+    {
+      "date": "2025-09-28T00:00:00.000Z",
+      "opponent": "Daniel Joseph",
+      "opponentSlug": "108567-daniel-joseph",
+      "result": "win",
+      "method": "other",
+      "event": "Tampa Bay Fight Night",
+      "eventSlug": "131031-tampa-bay-fight-night",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-07-27T00:00:00.000Z",
+      "opponent": "Billy Jacobs",
+      "opponentSlug": "506819-billy-jacobs",
+      "result": "win",
+      "method": "tko",
+      "event": "Tampa Bay Fight Night",
+      "eventSlug": "128949-tampa-bay-fight-night",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-22T00:00:00.000Z",
+      "opponent": "Cole Faust",
+      "opponentSlug": "232186-cole-faust",
+      "result": "loss",
+      "method": "sub",
+      "event": "Steelfist Fight Night",
+      "eventSlug": "64467-steelfist-fight-night-no-fear",
+      "round": 1,
+      "timeInRound": "1:16"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:39:33.246Z"
+}

@@ -1,0 +1,220 @@
+{
+  "slug": "171129-eduardo-henrique-da-silva-chapolim",
+  "name": "Eduardo Henrique",
+  "nickname": "Chapolin",
+  "aliases": [],
+  "recordPro": {
+    "wins": 15,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 171,
+  "reachCm": 170,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1995-11-23",
+  "nationality": "Buritama, São Paulo, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/171129-eduardo-henrique-da-silva-chapolim",
+  "recentFights": [
+    {
+      "date": "2025-09-02T00:00:00.000Z",
+      "opponent": "An Tuan Ho",
+      "opponentSlug": "196541-an-ho",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Contender Series 2025",
+      "eventSlug": "128461-contender-series-2025-week-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-08-22T00:00:00.000Z",
+      "opponent": "Devon Lozej",
+      "opponentSlug": "205775-devon-lozej",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 215: Miranda vs. Barzilay",
+      "eventSlug": "129781-lfa-215",
+      "round": 1,
+      "timeInRound": "2:57"
+    },
+    {
+      "date": "2025-02-19T00:00:00.000Z",
+      "opponent": "Joseph Morales",
+      "opponentSlug": "72613-joseph-morales",
+      "result": "loss",
+      "method": "sub",
+      "event": "The Ultimate Fighter 33",
+      "eventSlug": "133183-the-ultimate-fighter-33-cormier-vs-sonnen",
+      "round": 1,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2024-08-23T00:00:00.000Z",
+      "opponent": "Igor Siqueira",
+      "opponentSlug": "182404-igor-siqueira",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 190: Chapolin vs. Siqueira",
+      "eventSlug": "114936-lfa-190",
+      "round": 1,
+      "timeInRound": "1:26"
+    },
+    {
+      "date": "2023-11-17T00:00:00.000Z",
+      "opponent": "Cody Davis",
+      "opponentSlug": "187681-cody-davis",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 172: Davis vs. Chapolin",
+      "eventSlug": "106248-lfa-172-davis-vs-chapolin",
+      "round": 4,
+      "timeInRound": "2:36"
+    },
+    {
+      "date": "2023-08-18T00:00:00.000Z",
+      "opponent": "Leandro Soares",
+      "opponentSlug": "76727-leandro-soares-ferrugem",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 165: Compton vs. Valente",
+      "eventSlug": "102757-lfa-165-compton-vs-valente",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-15T00:00:00.000Z",
+      "opponent": "Davi Bittencourt",
+      "opponentSlug": "240544-davi-costa-black",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 136: Rio de Janeiro vs. São Paulo",
+      "eventSlug": "90492-lfa-136",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-30T00:00:00.000Z",
+      "opponent": "Denis Araujo",
+      "opponentSlug": "72001-denis-araujo-deninho",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "SFT 34: Rise of Champions",
+      "eventSlug": "87113-sft-34",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-21T00:00:00.000Z",
+      "opponent": "Tiago Xavier",
+      "opponentSlug": "138398-tiago-pitbull",
+      "result": "win",
+      "method": "other",
+      "event": "Brazilian Fighting Series 3",
+      "eventSlug": "83632-brazilian-fighting-series-3",
+      "round": 2,
+      "timeInRound": "3:36"
+    },
+    {
+      "date": "2021-10-30T00:00:00.000Z",
+      "opponent": "Tiago Santos",
+      "opponentSlug": "196570-tiago-santos-pacoca",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MF Fighters 6",
+      "eventSlug": "83777-mf-fighters-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-27T00:00:00.000Z",
+      "opponent": "Júnior Assis",
+      "opponentSlug": "175761-junior-tratorzinho",
+      "result": "win",
+      "method": "other",
+      "event": "Road to Future 1",
+      "eventSlug": "79470-road-to-future-1",
+      "round": 3,
+      "timeInRound": "3:56"
+    },
+    {
+      "date": "2020-01-31T00:00:00.000Z",
+      "opponent": "Robert Correa",
+      "opponentSlug": "203933-robert-correa",
+      "result": "win",
+      "method": "sub",
+      "event": "Jungle Fight 101",
+      "eventSlug": "66537-jungle-fight-101",
+      "round": 1,
+      "timeInRound": "3:45"
+    },
+    {
+      "date": "2019-10-26T00:00:00.000Z",
+      "opponent": "Kleydson Rodrigues",
+      "opponentSlug": "147055-kleidison-rodrigues-kr",
+      "result": "loss",
+      "method": "sub",
+      "event": "Jungle Fight 97",
+      "eventSlug": "63965-jungle-fight-97",
+      "round": 2,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2019-09-28T00:00:00.000Z",
+      "opponent": "Mateus Matarazzo",
+      "opponentSlug": "142812-mateus-tork",
+      "result": "win",
+      "method": "tko",
+      "event": "Jungle Fight 95",
+      "eventSlug": "62985-jungle-fight-95",
+      "round": 2,
+      "timeInRound": "3:13"
+    },
+    {
+      "date": "2019-09-21T00:00:00.000Z",
+      "opponent": "Aldejan Ferreira",
+      "opponentSlug": "222258-aldejan-ferreira-djan",
+      "result": "win",
+      "method": "other",
+      "event": "MF Fighters 4",
+      "eventSlug": "63010-mf-fighters-4",
+      "round": 1,
+      "timeInRound": "1:53"
+    },
+    {
+      "date": "2019-07-27T00:00:00.000Z",
+      "opponent": "Felipe Benicá",
+      "opponentSlug": "171860-felipe-benica",
+      "result": "win",
+      "method": "other",
+      "event": "Demolidor Fight 15",
+      "eventSlug": "61907-demolidor-fight-15",
+      "round": 1,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2016-12-10T00:00:00.000Z",
+      "opponent": "Wilherson Jackson",
+      "opponentSlug": "199836-wilherson-rithieri-som",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-05-02T00:00:00.000Z",
+      "opponent": "Kelvin Redriano",
+      "opponentSlug": "87691-kelvin-redriano",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:35:58.776Z"
+}

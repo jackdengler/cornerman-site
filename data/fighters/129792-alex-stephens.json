@@ -1,0 +1,37 @@
+{
+  "slug": "129792-alex-stephens",
+  "name": "Alex Stephens",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/129792-alex-stephens",
+  "recentFights": [
+    {
+      "date": "2016-09-17T00:00:00.000Z",
+      "opponent": "Eric McConico",
+      "opponentSlug": "112634-eric-mcconico",
+      "result": "loss",
+      "method": "tko",
+      "event": "Arena Wars: Bad Blood",
+      "eventSlug": "41405-arena-wars-bad-blood",
+      "round": 1,
+      "timeInRound": "0:10"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:52:46.929Z"
+}

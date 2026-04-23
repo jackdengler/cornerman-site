@@ -1,0 +1,132 @@
+{
+  "slug": "41541-aaron-hamilton",
+  "name": "Aaron Hamilton",
+  "nickname": "The Snake",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1982-11-20",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/41541-aaron-hamilton",
+  "recentFights": [
+    {
+      "date": "2019-11-30T00:00:00.000Z",
+      "opponent": "Gabriel Pacheco-Dolce",
+      "opponentSlug": "112266-gabriel-pacheco-dolce",
+      "result": "loss",
+      "method": "tko",
+      "event": "PureCombat: High Impact",
+      "eventSlug": "64687-high-impact",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-08-24T00:00:00.000Z",
+      "opponent": "Christopher Snyder",
+      "opponentSlug": "184997-christopher-snyder",
+      "result": "win",
+      "method": "sub",
+      "event": "CFC 4",
+      "eventSlug": "63290-cfc-4",
+      "round": 1,
+      "timeInRound": "3:15"
+    },
+    {
+      "date": "2018-11-09T00:00:00.000Z",
+      "opponent": "Evan Solorio",
+      "opponentSlug": "23512-evan-solorio",
+      "result": "loss",
+      "method": "tko",
+      "event": "Tachi PF 35",
+      "eventSlug": "56724-tachi-pf-35-hernandez-vs-reyes",
+      "round": 2,
+      "timeInRound": "0:36"
+    },
+    {
+      "date": "2018-02-17T00:00:00.000Z",
+      "opponent": "Edmen Shahbazyan",
+      "opponentSlug": "142325-edmen-shahbazyan",
+      "result": "loss",
+      "method": "other",
+      "event": "CXF 11: Alpha Dog",
+      "eventSlug": "51003-cxf-11-alpha-dog",
+      "round": 1,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2017-11-04T00:00:00.000Z",
+      "opponent": "Sinjen Smith",
+      "opponentSlug": "38046-sinjen-smith",
+      "result": "loss",
+      "method": "tko",
+      "event": "GKO 11",
+      "eventSlug": "48050-global-knockout-11",
+      "round": 1,
+      "timeInRound": "3:43"
+    },
+    {
+      "date": "2017-03-18T00:00:00.000Z",
+      "opponent": "Jumoke Hunter",
+      "opponentSlug": "67845-jumoke-hunter",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Conquer FC 3",
+      "eventSlug": "43759-cfc-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-19T00:00:00.000Z",
+      "opponent": "Kevin Ferguson Jr.",
+      "opponentSlug": "128152-kevin-ferguson-jr-baby-slice",
+      "result": "win",
+      "method": "sub",
+      "event": "Bellator 165",
+      "eventSlug": "41466-bellator-163",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2016-03-19T00:00:00.000Z",
+      "opponent": "Rick Dusio",
+      "opponentSlug": "128621-rick-dusio",
+      "result": "loss",
+      "method": "sub",
+      "event": "KOTC: Home Turf",
+      "eventSlug": "38888-kotc-home-turf",
+      "round": 2,
+      "timeInRound": "1:57"
+    },
+    {
+      "date": "2010-09-18T00:00:00.000Z",
+      "opponent": "Max Griffin",
+      "opponentSlug": "25437-max-griffin",
+      "result": "loss",
+      "method": "other",
+      "event": "Gladiator Challenge",
+      "eventSlug": "8097-gladiator-challenge-undisputed",
+      "round": 2,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2013-05-26T00:00:00.000Z",
+      "opponent": "Sean Nelson",
+      "opponentSlug": "48497-sean-nelson",
+      "result": "win",
+      "method": "tko",
+      "event": "WFC 7: MMA at the Lake 4",
+      "eventSlug": "18441-wfc-7",
+      "round": 1,
+      "timeInRound": "0:46"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:57:38.046Z"
+}

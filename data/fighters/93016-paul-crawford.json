@@ -1,0 +1,110 @@
+{
+  "slug": "93016-paul-crawford",
+  "name": "Paul Crawford",
+  "nickname": "Ferocious",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/93016-paul-crawford",
+  "recentFights": [
+    {
+      "date": "2018-02-23T00:00:00.000Z",
+      "opponent": "Billy Carothers",
+      "opponentSlug": "8510-billy-carothers",
+      "result": "loss",
+      "method": "sub",
+      "event": "Front Street Fights 16",
+      "eventSlug": "49905-front-street-fights-16",
+      "round": 1,
+      "timeInRound": "2:37"
+    },
+    {
+      "date": "2017-11-10T00:00:00.000Z",
+      "opponent": "Bryce Edminister",
+      "opponentSlug": "25046-bryce-edminister",
+      "result": "win",
+      "method": "other",
+      "event": "Front Street Fights 14",
+      "eventSlug": "48712-front-street-fights-14",
+      "round": 1,
+      "timeInRound": "1:41"
+    },
+    {
+      "date": "2017-02-24T00:00:00.000Z",
+      "opponent": "Jacob Hauck",
+      "opponentSlug": "29240-jacob-hauck",
+      "result": "loss",
+      "method": "sub",
+      "event": "Front Street Fights 11",
+      "eventSlug": "44378-front-street-fights-11",
+      "round": 1,
+      "timeInRound": "1:27"
+    },
+    {
+      "date": "2016-12-09T00:00:00.000Z",
+      "opponent": "Michael Fuentes",
+      "opponentSlug": "44788-michael-fuentes",
+      "result": "win",
+      "method": "tko",
+      "event": "Front Street Fights 10",
+      "eventSlug": "43135-front-street-fights-10",
+      "round": 1,
+      "timeInRound": "0:58"
+    },
+    {
+      "date": "2016-08-12T00:00:00.000Z",
+      "opponent": "Chase Peel",
+      "opponentSlug": "137436-chase-peel",
+      "result": "loss",
+      "method": "sub",
+      "event": "Front Street Fights 9",
+      "eventSlug": "41068-front-street-fights-9",
+      "round": 2,
+      "timeInRound": "1:46"
+    },
+    {
+      "date": "2016-02-13T00:00:00.000Z",
+      "opponent": "Steven Hernandez",
+      "opponentSlug": "123950-steven-hernandez",
+      "result": "loss",
+      "method": "sub",
+      "event": "Front Street Fights 8",
+      "eventSlug": "38410-front-street-fights-8",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-07-03T00:00:00.000Z",
+      "opponent": "Jordan Ransom",
+      "opponentSlug": "102006-jordan-ransom",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "RFA 27: Murphy vs. Brock",
+      "eventSlug": "32968-rfa-27-murphy-vs-brock",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-02-20T00:00:00.000Z",
+      "opponent": "Vince Morales",
+      "opponentSlug": "91401-vince-morales",
+      "result": "loss",
+      "method": "sub",
+      "event": "Front Street Fights 4",
+      "eventSlug": "28952-front-street-fights-4",
+      "round": 2,
+      "timeInRound": "1:49"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:57:38.152Z"
+}

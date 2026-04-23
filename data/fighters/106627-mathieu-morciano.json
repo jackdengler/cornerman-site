@@ -1,0 +1,187 @@
+{
+  "slug": "106627-mathieu-morciano",
+  "name": "Mathieu Morciano",
+  "nickname": "Braveheart",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "France",
+  "url": "https://www.tapology.com/fightcenter/fighters/106627-mathieu-morciano",
+  "recentFights": [
+    {
+      "date": "2023-10-13T00:00:00.000Z",
+      "opponent": "Malek Benmoussa",
+      "opponentSlug": "170227-malek-benmoussa",
+      "result": "loss",
+      "method": "tko",
+      "event": "AGM 4: Classico",
+      "eventSlug": "104290-agm-4-classico",
+      "round": 2,
+      "timeInRound": "4:35"
+    },
+    {
+      "date": "2022-03-25T00:00:00.000Z",
+      "opponent": "Sami Yahia",
+      "opponentSlug": "143328-sami-yahia",
+      "result": "loss",
+      "method": "other",
+      "event": "AGM 2",
+      "eventSlug": "87767-agm-2",
+      "round": 2,
+      "timeInRound": "3:48"
+    },
+    {
+      "date": "2020-02-29T00:00:00.000Z",
+      "opponent": "Keir Harvie",
+      "opponentSlug": "87308-keir-harvie",
+      "result": "loss",
+      "method": "other",
+      "event": "On Top 23",
+      "eventSlug": "67048-on-top-23",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-07T00:00:00.000Z",
+      "opponent": "Bartosz Wójcikiewicz",
+      "opponentSlug": "187796-bartosz-wojcikiewicz",
+      "result": "loss",
+      "method": "other",
+      "event": "Superior Challenge 20",
+      "eventSlug": "60949-superior-challenge-20",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2019-05-18T00:00:00.000Z",
+      "opponent": "Sylvain Sommereisen",
+      "opponentSlug": "113194-sylvain-sommereisen",
+      "result": "win",
+      "method": "sub",
+      "event": "Hard Fighting Championship 19",
+      "eventSlug": "60640-hard-fighting-championship-19",
+      "round": 3,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2018-05-26T00:00:00.000Z",
+      "opponent": "Fedik Sargsyan",
+      "opponentSlug": "127141-sargyan-fedick",
+      "result": "loss",
+      "method": "other",
+      "event": "Octogone: 2nd Edition",
+      "eventSlug": "53419-octogone-2nd-edition",
+      "round": 2,
+      "timeInRound": "0:07"
+    },
+    {
+      "date": "2018-01-13T00:00:00.000Z",
+      "opponent": "Mickael Belaid",
+      "opponentSlug": "118659-mickael-belaid",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hard Fighting Championship 12",
+      "eventSlug": "50104-hard-fighting-championship-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-01T00:00:00.000Z",
+      "opponent": "Michael Aljarouj",
+      "opponentSlug": "154253-michael-aljarouj",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hard Fighting Championship 9",
+      "eventSlug": "45996-hard-fighting-championship-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-07T00:00:00.000Z",
+      "opponent": "Charles Jourdain",
+      "opponentSlug": "36724-charles-jourdain",
+      "result": "loss",
+      "method": "tko",
+      "event": "TKO 38: Ascension",
+      "eventSlug": "44512-tko-38-ascension",
+      "round": 2,
+      "timeInRound": "1:42"
+    },
+    {
+      "date": "2017-02-18T00:00:00.000Z",
+      "opponent": "Aliev Khadis",
+      "opponentSlug": "150230-alieve-khadis",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Hard Fighting Championship 7",
+      "eventSlug": "43591-hard-fighting-championship",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-26T00:00:00.000Z",
+      "opponent": "Adam Ventre",
+      "opponentSlug": "49188-adam-ventre",
+      "result": "loss",
+      "method": "sub",
+      "event": "Shinobi War 9",
+      "eventSlug": "42746-shinobi-war-9",
+      "round": 1,
+      "timeInRound": "3:04"
+    },
+    {
+      "date": "2016-09-24T00:00:00.000Z",
+      "opponent": "Quentin Domergue",
+      "opponentSlug": "140266-quentin-domergue",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hard Fighting Championship 6",
+      "eventSlug": "40524-hard-fighting-championship-6-qualifier-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-14T00:00:00.000Z",
+      "opponent": "Nicolas Filliponi",
+      "opponentSlug": "132668-nicolas-filliponi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hard Fighting Championship 6",
+      "eventSlug": "39785-hard-fighting-championship-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-03-12T00:00:00.000Z",
+      "opponent": "Sylvain Sommereisen",
+      "opponentSlug": "113194-sylvain-sommereisen",
+      "result": "win",
+      "method": "tko",
+      "event": "Hard Fighting Championship 6",
+      "eventSlug": "38763-hard-fighting-championship-6",
+      "round": 2,
+      "timeInRound": "3:57"
+    },
+    {
+      "date": "2015-07-04T00:00:00.000Z",
+      "opponent": "Charlie Howard",
+      "opponentSlug": "34553-charlie-boy",
+      "result": "loss",
+      "method": "other",
+      "event": "Killacam Fight Night 8",
+      "eventSlug": "33832-killacam-fight-night-8-confinement",
+      "round": 2,
+      "timeInRound": "1:32"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:07:07.802Z"
+}

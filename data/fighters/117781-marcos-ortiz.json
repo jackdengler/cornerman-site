@@ -1,0 +1,37 @@
+{
+  "slug": "117781-marcos-ortiz",
+  "name": "Marcos Ortiz",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/117781-marcos-ortiz",
+  "recentFights": [
+    {
+      "date": "2015-10-24T00:00:00.000Z",
+      "opponent": "Kyler Phillips",
+      "opponentSlug": "93501-kyler-phillips",
+      "result": "loss",
+      "method": "tko",
+      "event": "RITC 180",
+      "eventSlug": "35999-ritc-180",
+      "round": 1,
+      "timeInRound": "1:05"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:06:15.394Z"
+}

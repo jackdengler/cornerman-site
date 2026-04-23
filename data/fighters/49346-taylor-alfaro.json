@@ -1,0 +1,209 @@
+{
+  "slug": "49346-taylor-alfaro",
+  "name": "Taylor Alfaro",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 163,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1993-11-09",
+  "nationality": "Riverside, California, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/49346-taylor-alfaro",
+  "recentFights": [
+    {
+      "date": "2024-02-17T00:00:00.000Z",
+      "opponent": "Taylor Moore",
+      "opponentSlug": "109307-taylor-moore",
+      "result": "loss",
+      "method": "other",
+      "event": "Rebel Combat Sports",
+      "eventSlug": "108352-rebel-combat-sports",
+      "round": 1,
+      "timeInRound": "0:27"
+    },
+    {
+      "date": "2023-01-28T00:00:00.000Z",
+      "opponent": "Jesse Strader",
+      "opponentSlug": "78843-jesse-strader",
+      "result": "loss",
+      "method": "tko",
+      "event": "UNF 4",
+      "eventSlug": "96456-unf-4",
+      "round": 2,
+      "timeInRound": "3:35"
+    },
+    {
+      "date": "2022-06-11T00:00:00.000Z",
+      "opponent": "Israel Galvan",
+      "opponentSlug": "200307-israel-galvan",
+      "result": "loss",
+      "method": "other",
+      "event": "B2 Fighting Series 165",
+      "eventSlug": "88665-b2-fighting-series-165-alabama",
+      "round": 2,
+      "timeInRound": "4:24"
+    },
+    {
+      "date": "2021-08-07T00:00:00.000Z",
+      "opponent": "Anthony Canzano",
+      "opponentSlug": "51388-anthony-canzano",
+      "result": "loss",
+      "method": "tko",
+      "event": "NFC 136",
+      "eventSlug": "81697-nfc-136",
+      "round": 3,
+      "timeInRound": "3:12"
+    },
+    {
+      "date": "2019-07-06T00:00:00.000Z",
+      "opponent": "Sergio Perez",
+      "opponentSlug": "62478-sergio-perez",
+      "result": "loss",
+      "method": "sub",
+      "event": "LXF 2",
+      "eventSlug": "61349-lxf-2",
+      "round": 3,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2019-05-09T00:00:00.000Z",
+      "opponent": "Keenan Lewis",
+      "opponentSlug": "20388-keenan-lewis",
+      "result": "win",
+      "method": "sub",
+      "event": "Night at the Fights 2019",
+      "eventSlug": "59830-naiop-socal-s-night-at-the-fights-2019",
+      "round": 3,
+      "timeInRound": "4:40"
+    },
+    {
+      "date": "2019-01-20T00:00:00.000Z",
+      "opponent": "Brandon Cohea",
+      "opponentSlug": "38327-brandon-cohea",
+      "result": "win",
+      "method": "dec-split",
+      "event": "CCW 10",
+      "eventSlug": "58471-ccw-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-20T00:00:00.000Z",
+      "opponent": "Jose Medina",
+      "opponentSlug": "82040-jose-medina",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "LFA 45: Silva vs. Barnes",
+      "eventSlug": "53786-lfa-45-silva-vs-barnes",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-08T00:00:00.000Z",
+      "opponent": "Mark Alvidrez",
+      "opponentSlug": "134788-mark-alvidrez",
+      "result": "win",
+      "method": "sub",
+      "event": "Celtic Gladiator 17",
+      "eventSlug": "49709-celtic-gladiator-17",
+      "round": 2,
+      "timeInRound": "4:21"
+    },
+    {
+      "date": "2017-07-14T00:00:00.000Z",
+      "opponent": "Eric Rios",
+      "opponentSlug": "76376-eric-rios",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Celtic Gladiator 13",
+      "eventSlug": "46891-celtic-gladiator-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-29T00:00:00.000Z",
+      "opponent": "Milton Arguello",
+      "opponentSlug": "66717-milton-arguello",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CXF 7: Locked and Loaded",
+      "eventSlug": "45425-cxf-7-locked-and-loaded",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-03-04T00:00:00.000Z",
+      "opponent": "Kyler Phillips",
+      "opponentSlug": "93501-kyler-phillips",
+      "result": "loss",
+      "method": "other",
+      "event": "CXF 1: The Return",
+      "eventSlug": "38258-california-xtreme-fighting-the-comeback",
+      "round": 1,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2015-10-03T00:00:00.000Z",
+      "opponent": "Cameron Underhill",
+      "opponentSlug": "30648-cameron-underhill",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CFL 4",
+      "eventSlug": "35695-cfl-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-06-20T00:00:00.000Z",
+      "opponent": "Steven Hartman",
+      "opponentSlug": "58184-steven-hartman",
+      "result": "win",
+      "method": "tko",
+      "event": "CFL HD 3: Rise of the Champions",
+      "eventSlug": "33092-cfl-hd-3-rise-of-the-champions",
+      "round": 2,
+      "timeInRound": "0:07"
+    },
+    {
+      "date": "2015-06-06T00:00:00.000Z",
+      "opponent": "Ryan Medina",
+      "opponentSlug": "86248-ryan-medina",
+      "result": "win",
+      "method": "tko",
+      "event": "Knockout MMA",
+      "eventSlug": "33090-knockout-mma-summer-slam",
+      "round": 1,
+      "timeInRound": "0:17"
+    },
+    {
+      "date": "2013-10-18T00:00:00.000Z",
+      "opponent": "Kenneth Webb",
+      "opponentSlug": "56970-kenneth-webb",
+      "result": "win",
+      "method": "sub",
+      "event": "NFC 60: Wild Bill's Fight Night 59",
+      "eventSlug": "21133-wild-bills-fight-night-60",
+      "round": 1,
+      "timeInRound": "2:31"
+    },
+    {
+      "date": "2013-06-08T00:00:00.000Z",
+      "opponent": "Brent Merkle",
+      "opponentSlug": "49347-brent-merkle",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "NFC 57: Wild Bill's Fight Night 56",
+      "eventSlug": "19335-wild-bills-fight-night-57",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:06:13.181Z"
+}

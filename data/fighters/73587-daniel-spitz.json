@@ -1,0 +1,187 @@
+{
+  "slug": "73587-daniel-spitz",
+  "name": "Daniel Spitz",
+  "nickname": "Daddy Long Legs",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 201,
+  "reachCm": 208,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1990-07-31",
+  "nationality": "Spokane, Washington",
+  "url": "https://www.tapology.com/fightcenter/fighters/73587-daniel-spitz",
+  "recentFights": [
+    {
+      "date": "2019-10-18T00:00:00.000Z",
+      "opponent": "Tanner Boser",
+      "opponentSlug": "35149-tanner-boser",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC on ESPN 6",
+      "eventSlug": "60320-ufc-on-espn-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-01T00:00:00.000Z",
+      "opponent": "Walt Harris",
+      "opponentSlug": "17046-walter-harris",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night 131",
+      "eventSlug": "50754-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2017-09-16T00:00:00.000Z",
+      "opponent": "Anthony Hamilton",
+      "opponentSlug": "19031-anthony-hamilton",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night 116",
+      "eventSlug": "46943-ufc-fight-night-116",
+      "round": 1,
+      "timeInRound": "0:24"
+    },
+    {
+      "date": "2017-03-04T00:00:00.000Z",
+      "opponent": "Mark Godbeer",
+      "opponentSlug": "13786-mark-godbeer-the-hand-of",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 209: Woodley vs. Thompson 2",
+      "eventSlug": "42699-ufc-210",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-17T00:00:00.000Z",
+      "opponent": "Colton Vaughn",
+      "opponentSlug": "31341-colton-vaughn",
+      "result": "win",
+      "method": "other",
+      "event": "KOTC: Fall Out",
+      "eventSlug": "42575-kotc-fall-out",
+      "round": 1,
+      "timeInRound": "0:04"
+    },
+    {
+      "date": "2016-04-22T00:00:00.000Z",
+      "opponent": "Wesley Correira",
+      "opponentSlug": "wesley-correira-cabbage",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Just Scrap",
+      "eventSlug": "39692-just-scrap",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-03-18T00:00:00.000Z",
+      "opponent": "Trandon Benson",
+      "opponentSlug": "137454-trandon-benson",
+      "result": "win",
+      "method": "sub",
+      "event": "Conquest of the Cage 21",
+      "eventSlug": "39092-conquest-of-the-cage-21",
+      "round": 1,
+      "timeInRound": "1:26"
+    },
+    {
+      "date": "2015-11-06T00:00:00.000Z",
+      "opponent": "David Lewis",
+      "opponentSlug": "56557-david-lewis",
+      "result": "win",
+      "method": "sub",
+      "event": "Conquest of the Cage 20",
+      "eventSlug": "35090-conquest-of-the-cage-20-thompson-vs-arnett",
+      "round": 1,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2015-07-18T00:00:00.000Z",
+      "opponent": "Matt Kovacs",
+      "opponentSlug": "matt-kovacs",
+      "result": "win",
+      "method": "sub",
+      "event": "ExciteFight",
+      "eventSlug": "33039-mma-summer-showdown-2",
+      "round": 1,
+      "timeInRound": "3:45"
+    },
+    {
+      "date": "2015-05-15T00:00:00.000Z",
+      "opponent": "Russell Koharchick",
+      "opponentSlug": "91398-russell-koharchick",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Front Street Fights 5",
+      "eventSlug": "31947-front-street-fights-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-15T00:00:00.000Z",
+      "opponent": "Theo Doukas",
+      "opponentSlug": "86368-theo-doukas",
+      "result": "win",
+      "method": "other",
+      "event": "Conquest of the Cage 17",
+      "eventSlug": "26781-conquest-of-the-cage-17",
+      "round": 3,
+      "timeInRound": "0:15"
+    },
+    {
+      "date": "2014-07-12T00:00:00.000Z",
+      "opponent": "Jamie Smyth",
+      "opponentSlug": "60947-jamie-smyth",
+      "result": "loss",
+      "method": "tko",
+      "event": "BFL 31",
+      "eventSlug": "24004-bfl-31",
+      "round": 2,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2014-04-19T00:00:00.000Z",
+      "opponent": "Tyson Davis",
+      "opponentSlug": "187454-tyson-davis",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-08-03T00:00:00.000Z",
+      "opponent": "Keaton Irby",
+      "opponentSlug": "151413-keaton-irby",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-07-20T00:00:00.000Z",
+      "opponent": "Isley Worthy",
+      "opponentSlug": "151414-isley-worthy",
+      "result": "win",
+      "method": "tko",
+      "event": "Conquest of the Cage 13",
+      "eventSlug": "20282-conquest-of-the-cage-13",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:58:47.530Z"
+}

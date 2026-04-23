@@ -1,0 +1,92 @@
+{
+  "slug": "115188-ernie-principe",
+  "name": "Ernie Principe",
+  "nickname": "The Savage",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": 165,
+  "reachCm": 165,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1991-05-09",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/115188-ernie-principe",
+  "recentFights": [
+    {
+      "date": "2018-07-20T00:00:00.000Z",
+      "opponent": "Oscar Jurado Sánchez",
+      "opponentSlug": "178522-oscar-alejandro-jurado-snchez",
+      "result": "win",
+      "method": "other",
+      "event": "Total Fight Challenge",
+      "eventSlug": "53844-total-fight-challenge",
+      "round": 3,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2016-12-01T00:00:00.000Z",
+      "opponent": "Joshua Liu",
+      "opponentSlug": "144906-joshua-liu",
+      "result": "loss",
+      "method": "other",
+      "event": "Total Fight Challenge",
+      "eventSlug": "42477-total-fight-challenge",
+      "round": 1,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2016-09-30T00:00:00.000Z",
+      "opponent": "Kanat Tassybay",
+      "opponentSlug": "129738-kanat-tassybay",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Total Fight Challenge",
+      "eventSlug": "40718-total-fight-challenge",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-18T00:00:00.000Z",
+      "opponent": "Kenneth Reyes",
+      "opponentSlug": "99712-jalen-reyes",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Fight Card Entertainment",
+      "eventSlug": "39068-fight-card-entertainment-resurgence",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-12-11T00:00:00.000Z",
+      "opponent": "Kyial Sheriev",
+      "opponentSlug": "121196-kyial-sheriev",
+      "result": "loss",
+      "method": "sub",
+      "event": "XFO Fight Night",
+      "eventSlug": "37045-xfo-fight-night",
+      "round": 1,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2015-10-17T00:00:00.000Z",
+      "opponent": "Moshun Scott",
+      "opponentSlug": "105171-moshun-scott",
+      "result": "win",
+      "method": "other",
+      "event": "XFO: Rocktown Showdown 25",
+      "eventSlug": "35365-xfo-fight-night",
+      "round": 3,
+      "timeInRound": "0:32"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:43:30.796Z"
+}

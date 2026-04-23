@@ -1,0 +1,99 @@
+{
+  "slug": "79594-christopher-williams",
+  "name": "Christopher Williams",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 163,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1990-12-24",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/79594-christopher-williams",
+  "recentFights": [
+    {
+      "date": "2023-07-28T00:00:00.000Z",
+      "opponent": "Steven Orozco",
+      "opponentSlug": "137444-steven-orozco",
+      "result": "loss",
+      "method": "tko",
+      "event": "XKO 63: Summer Bash",
+      "eventSlug": "102487-xko-63",
+      "round": 3,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2019-10-05T00:00:00.000Z",
+      "opponent": "Rashaad Robinson",
+      "opponentSlug": "107579-rashaad-robinson",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Peak Fighting 3",
+      "eventSlug": "61986-pf3-showdown-after-sundown-pf3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-20T00:00:00.000Z",
+      "opponent": "Jesus Martinez",
+      "opponentSlug": "107571-jesus-martinez",
+      "result": "win",
+      "method": "sub",
+      "event": "Peak Fighting 2",
+      "eventSlug": "59065-peak-fighting-2-rise",
+      "round": 2,
+      "timeInRound": "2:39"
+    },
+    {
+      "date": "2018-08-10T00:00:00.000Z",
+      "opponent": "Xavier Franklin",
+      "opponentSlug": "145346-xavier-franklin",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 47: Jackson vs. Jennerman",
+      "eventSlug": "54465-lfa-47-jackson-vs-jennerman",
+      "round": 1,
+      "timeInRound": "2:42"
+    },
+    {
+      "date": "2017-11-30T00:00:00.000Z",
+      "opponent": "Rashaad Robinson",
+      "opponentSlug": "107579-rashaad-robinson",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "LFA: Black Tie Brawl 2017",
+      "eventSlug": "49415-legacy-amateur-series-black-tie-brawl-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-12T00:00:00.000Z",
+      "opponent": "Lucas Brennan",
+      "opponentSlug": "162427-lucas-brennan",
+      "result": "loss",
+      "method": "sub",
+      "event": "XKO 37",
+      "eventSlug": "47073-xko-37",
+      "round": 3,
+      "timeInRound": "1:17"
+    },
+    {
+      "date": "2017-01-28T00:00:00.000Z",
+      "opponent": "Juan Ontiveros",
+      "opponentSlug": "58575-juan-ontiveros",
+      "result": "win",
+      "method": "sub",
+      "event": "XKO 34",
+      "eventSlug": "43688-xko-34",
+      "round": 1,
+      "timeInRound": "1:15"
+    }
+  ],
+  "lastVerified": "2026-04-21T06:14:42.169Z"
+}

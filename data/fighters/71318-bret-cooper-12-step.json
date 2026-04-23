@@ -1,0 +1,198 @@
+{
+  "slug": "71318-bret-cooper-12-step",
+  "name": "Bret Cooper",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1993-05-13",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/71318-bret-cooper-12-step",
+  "recentFights": [
+    {
+      "date": "2024-10-26T00:00:00.000Z",
+      "opponent": "Brock Hamer",
+      "opponentSlug": "299603-brock-hamer",
+      "result": "loss",
+      "method": "sub",
+      "event": "Absolute Combat League 5",
+      "eventSlug": "117400-absolute-combat-league-5",
+      "round": 1,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2023-11-17T00:00:00.000Z",
+      "opponent": "Cedric Katambwa",
+      "opponentSlug": "151861-cedric-katambwa",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 172: Davis vs. Chapolin",
+      "eventSlug": "106248-lfa-172-davis-vs-chapolin",
+      "round": 2,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2022-10-22T00:00:00.000Z",
+      "opponent": "Cameron Williamson",
+      "opponentSlug": "152635-cameron-williamson",
+      "result": "win",
+      "method": "tko",
+      "event": "RUF 50",
+      "eventSlug": "93069-ruf-50",
+      "round": 1,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2021-08-13T00:00:00.000Z",
+      "opponent": "Derrick Brown",
+      "opponentSlug": "53652-derrick-brown",
+      "result": "loss",
+      "method": "sub",
+      "event": "WFF 43",
+      "eventSlug": "79966-wff-43",
+      "round": 1,
+      "timeInRound": "4:20"
+    },
+    {
+      "date": "2021-03-13T00:00:00.000Z",
+      "opponent": "JorDan Christensen",
+      "opponentSlug": "47708-jordan-christensen",
+      "result": "win",
+      "method": "tko",
+      "event": "RUF MMA 39: Road to ONE",
+      "eventSlug": "77711-ruf-mma-39",
+      "round": 3,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2019-03-29T00:00:00.000Z",
+      "opponent": "Loai Abushaar",
+      "opponentSlug": "166215-loai-abushaar",
+      "result": "loss",
+      "method": "sub",
+      "event": "Combate 33: Alday vs. Lopez 2",
+      "eventSlug": "58975-combate-33-alday-vs-lopez-2",
+      "round": 1,
+      "timeInRound": "1:51"
+    },
+    {
+      "date": "2018-10-27T00:00:00.000Z",
+      "opponent": "Joe Montoya",
+      "opponentSlug": "7944-joe-montoya",
+      "result": "win",
+      "method": "sub",
+      "event": "WFF 40: Night of Champions",
+      "eventSlug": "55397-wff-40-night-of-champions",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2017-09-23T00:00:00.000Z",
+      "opponent": "Tom Stephens",
+      "opponentSlug": "157335-tom-stephens",
+      "result": "win",
+      "method": "sub",
+      "event": "RUF MMA 22",
+      "eventSlug": "47802-ruf-mma-22",
+      "round": 2,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2017-01-28T00:00:00.000Z",
+      "opponent": "Jacob Michaels",
+      "opponentSlug": "115346-jacob-michaels",
+      "result": "win",
+      "method": "tko",
+      "event": "WFF 33",
+      "eventSlug": "43732-wff-33",
+      "round": 1,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2016-10-01T00:00:00.000Z",
+      "opponent": "Levi Escobar",
+      "opponentSlug": "93504-levi-escobar",
+      "result": "win",
+      "method": "dq",
+      "event": "WFF 31",
+      "eventSlug": "41307-wff-31",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2016-02-02T00:00:00.000Z",
+      "opponent": "Jeremy Hohl",
+      "opponentSlug": "95648-jeremy-hohl",
+      "result": "loss",
+      "method": "other",
+      "event": "Breakthrough MMA 19",
+      "eventSlug": "38332-breakthrough-mma-19",
+      "round": 1,
+      "timeInRound": "0:52"
+    },
+    {
+      "date": "2015-12-11T00:00:00.000Z",
+      "opponent": "Casey Long",
+      "opponentSlug": "73499-casey-long",
+      "result": "win",
+      "method": "tko",
+      "event": null,
+      "eventSlug": null,
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-12T00:00:00.000Z",
+      "opponent": "Emre Örün",
+      "opponentSlug": "57997-emre-rn",
+      "result": "loss",
+      "method": "other",
+      "event": "Undisputed Florida Fighting Championship 2",
+      "eventSlug": "34469-united-florida-fighting-championship-2",
+      "round": 2,
+      "timeInRound": "2:21"
+    },
+    {
+      "date": "2015-02-28T00:00:00.000Z",
+      "opponent": "Daniel Rodriguez",
+      "opponentSlug": "85792-daniel-rodriguez",
+      "result": "win",
+      "method": "other",
+      "event": "Breakthrough MMA 15",
+      "eventSlug": "27804-breakthrough-mma-15",
+      "round": 1,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2014-08-16T00:00:00.000Z",
+      "opponent": "Carlos Barrera",
+      "opponentSlug": "76300-carlos-barrera",
+      "result": "win",
+      "method": "other",
+      "event": "Breakthrough MMA 13",
+      "eventSlug": "24750-breakthrough-mma-13-champions-emerge",
+      "round": 1,
+      "timeInRound": "2:05"
+    },
+    {
+      "date": "2014-07-12T00:00:00.000Z",
+      "opponent": "Erik Watkins",
+      "opponentSlug": "99763-erik-watkins",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combat Night 32",
+      "eventSlug": "27509-combat-night-32-fight-for-autism",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:42:02.232Z"
+}

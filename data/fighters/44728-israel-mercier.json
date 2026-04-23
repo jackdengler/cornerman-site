@@ -1,0 +1,70 @@
+{
+  "slug": "44728-israel-mercier",
+  "name": "Israel Mercier",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/44728-israel-mercier",
+  "recentFights": [
+    {
+      "date": "2019-02-23T00:00:00.000Z",
+      "opponent": "Yanis Hazard",
+      "opponentSlug": "124919-yanis-hazard",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fightquest 47",
+      "eventSlug": "58774-fight-quest-47-thivierge-vs-poulin",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-20T00:00:00.000Z",
+      "opponent": "Taha Bendaoud",
+      "opponentSlug": "82617-taha-bendaoud",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fightquest 45",
+      "eventSlug": "54877-fightquest-45",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-08-18T00:00:00.000Z",
+      "opponent": "Camillo Avellan",
+      "opponentSlug": "209423-camillo-avellan",
+      "result": "loss",
+      "method": "sub",
+      "event": "Nova Fight League 7",
+      "eventSlug": "68088-nova-fight-league-7",
+      "round": 4,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-03-23T00:00:00.000Z",
+      "opponent": "Charles Jourdain",
+      "opponentSlug": "36724-charles-jourdain",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Impak MMA Round 1",
+      "eventSlug": "17859-impak-mma-round-1",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:07:35.324Z"
+}

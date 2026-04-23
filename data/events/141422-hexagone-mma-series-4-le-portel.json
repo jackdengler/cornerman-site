@@ -1,0 +1,150 @@
+{
+  "slug": "141422-hexagone-mma-series-4-le-portel",
+  "name": "Hexagone MMA Series 4: Le Portel",
+  "promotion": "Hexagone MMA",
+  "startTimeUtc": "2026-04-25T16:00:00.000Z",
+  "venueTimezone": null,
+  "venue": "Le Chaudron",
+  "location": "Le Portel, France",
+  "url": "https://www.tapology.com/fightcenter/events/141422-hexagone-mma-series-4-le-portel",
+  "status": "scheduled",
+  "forumThreadId": "96240",
+  "fights": [
+    {
+      "id": "141422-hexagone-mma-series-4-le-portel#1",
+      "eventSlug": "141422-hexagone-mma-series-4-le-portel",
+      "order": 1,
+      "cardSection": "main",
+      "weightClass": "176 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "150798-romain-debienne",
+        "name": "Romain Debienne",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "62117-adam-jankowski-jankes",
+        "name": "Adam Jankowski",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-23T06:17:27.602Z"
+    },
+    {
+      "id": "141422-hexagone-mma-series-4-le-portel#2",
+      "eventSlug": "141422-hexagone-mma-series-4-le-portel",
+      "order": 2,
+      "cardSection": "main",
+      "weightClass": "125 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "325369-alexandra-tekenah",
+        "name": "Alexandra Tekenah",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "335918-jenethzareth-mc-turk",
+        "name": "Jenethzareth McTurk",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-23T06:17:27.602Z"
+    },
+    {
+      "id": "141422-hexagone-mma-series-4-le-portel#3",
+      "eventSlug": "141422-hexagone-mma-series-4-le-portel",
+      "order": 3,
+      "cardSection": "main",
+      "weightClass": "125 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "443211-shirzay-torabi",
+        "name": "Shirzay Toraby",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "419950-saber-talmoust-izem",
+        "name": "Sabir Talmoust",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-23T06:17:27.602Z"
+    },
+    {
+      "id": "141422-hexagone-mma-series-4-le-portel#4",
+      "eventSlug": "141422-hexagone-mma-series-4-le-portel",
+      "order": 4,
+      "cardSection": "main",
+      "weightClass": "185 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "201215-samuel-akesse",
+        "name": "Samuel Akesse",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "391134-william-sifran",
+        "name": "William Sifran",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-23T06:17:27.602Z"
+    },
+    {
+      "id": "141422-hexagone-mma-series-4-le-portel#5",
+      "eventSlug": "141422-hexagone-mma-series-4-le-portel",
+      "order": 5,
+      "cardSection": "main",
+      "weightClass": "145 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "311074-mathys-duragrin",
+        "name": "Mathys Duragrin",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "230424-heimo-carvalho-gregorio",
+        "name": "Heimo Gregório",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-23T06:17:27.602Z"
+    }
+  ],
+  "lastVerified": "2026-04-23T06:17:27.602Z"
+}

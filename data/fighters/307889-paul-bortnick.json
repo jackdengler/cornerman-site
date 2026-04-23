@@ -1,0 +1,81 @@
+{
+  "slug": "307889-paul-bortnick",
+  "name": "Paul Bortnick",
+  "nickname": "Milk Man",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1998-03-15",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/307889-paul-bortnick",
+  "recentFights": [
+    {
+      "date": "2023-06-03T00:00:00.000Z",
+      "opponent": "Chase Archangelo",
+      "opponentSlug": "307902-chase-archangelo",
+      "result": "loss",
+      "method": "other",
+      "event": "WFC 155",
+      "eventSlug": "100306-wfc-155",
+      "round": 2,
+      "timeInRound": "2:44"
+    },
+    {
+      "date": "2022-10-08T00:00:00.000Z",
+      "opponent": "Tyrone Kinchen",
+      "opponentSlug": "303046-tyrone-kinchen",
+      "result": "win",
+      "method": "sub",
+      "event": "Ohio Combat League 22",
+      "eventSlug": "92305-ohio-combat-league-22",
+      "round": 2,
+      "timeInRound": "0:32"
+    },
+    {
+      "date": "2022-07-23T00:00:00.000Z",
+      "opponent": "Byron Norwood Jr.",
+      "opponentSlug": "177283-byron-norwood",
+      "result": "win",
+      "method": "sub",
+      "event": "Clash at the Casino",
+      "eventSlug": "88849-clash-at-the-casino",
+      "round": 3,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2022-02-19T00:00:00.000Z",
+      "opponent": "Ahmed Sulaiman",
+      "opponentSlug": "322838-ahmed-sulaiman",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WFC 133",
+      "eventSlug": "84451-wfc",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-11T00:00:00.000Z",
+      "opponent": "Quintin Richards",
+      "opponentSlug": "292164-quintin-richards",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Caged Thunder 12",
+      "eventSlug": "80951-caged-thunder-12",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:41:32.443Z"
+}

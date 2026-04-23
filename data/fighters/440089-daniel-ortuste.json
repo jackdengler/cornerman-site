@@ -1,0 +1,66 @@
+{
+  "slug": "440089-daniel-ortuste",
+  "name": "Daniel Ortuste",
+  "nickname": "Zurdo",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Bolivia",
+  "url": "https://www.tapology.com/fightcenter/fighters/440089-daniel-ortuste",
+  "recentFights": [
+    {
+      "date": "2025-11-28T00:00:00.000Z",
+      "opponent": "Isaias Quicho",
+      "opponentSlug": "450691-isaias-quicho",
+      "result": "win",
+      "method": "other",
+      "event": "Champion 24",
+      "eventSlug": "134064-copa-ciclon-combat-4",
+      "round": 1,
+      "timeInRound": "4:14"
+    },
+    {
+      "date": "2025-09-12T00:00:00.000Z",
+      "opponent": "Hugo Rivera",
+      "opponentSlug": "518837-hugo-ribera",
+      "result": "win",
+      "method": "other",
+      "event": "Noche de Campeones 7",
+      "eventSlug": "133017-noche-de-campeones-7",
+      "round": 3,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2025-07-25T00:00:00.000Z",
+      "opponent": "Jose Escudero",
+      "opponentSlug": "509382-jose-escudero",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "La Fundacion MMA",
+      "eventSlug": "130833-la-fundacion-mma-euphoria-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-06-27T00:00:00.000Z",
+      "opponent": "Pedro Alarcon",
+      "opponentSlug": "506856-pedro-alarcon",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Noche de Campeones 6",
+      "eventSlug": "130298-noche-de-campeones-6",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:02:22.926Z"
+}
