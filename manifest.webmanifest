@@ -1,1 +1,40 @@
-{"name":"Cornerman","short_name":"Cornerman","description":"A clean, offline-first mobile feed of MMA fight cards.","start_url":"/cornerman-site/","display":"standalone","background_color":"#0a0a0a","theme_color":"#0a0a0a","lang":"en","scope":"/cornerman-site/","orientation":"portrait","icons":[{"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},{"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},{"src":"icons/icon-512-maskable.png","sizes":"512x512","type":"image/png","purpose":"maskable"}]}
+{
+  "id": "/cornerman-site/",
+  "name": "Cornerman",
+  "short_name": "Cornerman",
+  "description": "A clean, offline-first mobile feed of MMA fight cards, fighter profiles, and results.",
+  "start_url": "/cornerman-site/",
+  "scope": "/cornerman-site/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "lang": "en",
+  "categories": ["sports", "news", "lifestyle"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    {
+      "name": "Upcoming events",
+      "short_name": "Upcoming",
+      "url": "/cornerman-site/?view=upcoming",
+      "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Recent results",
+      "short_name": "Recent",
+      "url": "/cornerman-site/?view=recent",
+      "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Search",
+      "short_name": "Search",
+      "url": "/cornerman-site/?view=search",
+      "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}

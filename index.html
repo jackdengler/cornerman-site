@@ -4,9 +4,14 @@
     <meta charset="UTF-8" />
     <meta
       name="viewport"
-      content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1"
+      content="width=device-width, initial-scale=1, viewport-fit=cover"
     />
     <meta name="theme-color" content="#0a0a0a" />
+    <meta
+      name="description"
+      content="Cornerman — a clean, offline-first mobile feed of MMA fight cards, fighter profiles, and results."
+    />
+
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta
       name="apple-mobile-web-app-status-bar-style"
@@ -14,6 +19,22 @@
     />
     <meta name="apple-mobile-web-app-title" content="Cornerman" />
     <meta name="referrer" content="strict-origin-when-cross-origin" />
+    <meta name="color-scheme" content="dark" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Cornerman" />
+    <meta
+      property="og:description"
+      content="A clean, offline-first mobile feed of MMA fight cards."
+    />
+    <meta property="og:image" content="./icons/icon-512.png" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Cornerman" />
+    <meta
+      name="twitter:description"
+      content="A clean, offline-first mobile feed of MMA fight cards."
+    />
+
     <meta
       http-equiv="Content-Security-Policy"
       content="default-src 'self'; img-src 'self' data: blob:; script-src 'self'; style-src 'self' 'unsafe-inline'; connect-src 'self'; manifest-src 'self'; worker-src 'self';"
@@ -36,12 +57,18 @@
       crossorigin="anonymous"
     />
 
-    <title>Cornerman</title>
+    <title>Cornerman — MMA fight cards</title>
     <script type="module" crossorigin src="/cornerman-site/assets/index-B6Uz8Df1.js"></script>
     <link rel="modulepreload" crossorigin href="/cornerman-site/assets/react-D63gDlFa.js">
     <link rel="stylesheet" crossorigin href="/cornerman-site/assets/index-CRCI1e-U.css">
   <link rel="manifest" href="/cornerman-site/manifest.webmanifest"><script id="vite-plugin-pwa:register-sw" src="/cornerman-site/registerSW.js"></script></head>
   <body>
-    <div id="root"></div>
+    <div id="root">
+      <noscript>
+        <div style="padding:24px;color:#fff;background:#0a0a0a;font-family:system-ui,sans-serif;text-align:center;">
+          Cornerman needs JavaScript to display fight cards. Please enable it to continue.
+        </div>
+      </noscript>
+    </div>
   </body>
 </html>
