@@ -1,0 +1,44 @@
+{
+  "slug": "64491-andrei-shalavai",
+  "name": "Andrei Shalavai",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Ukraine",
+  "url": "https://www.tapology.com/fightcenter/fighters/64491-andrei-shalavai",
+  "recentFights": [
+    {
+      "date": "2014-07-26T00:00:00.000Z",
+      "opponent": "Yaroslav Amosov",
+      "opponentSlug": "81129-yaroslav-amosov",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-03-30T00:00:00.000Z",
+      "opponent": "Sergey Churilov",
+      "opponentSlug": "22805-sergei-churilov",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:04:55.848Z"
+}

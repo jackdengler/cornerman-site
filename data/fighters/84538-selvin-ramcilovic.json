@@ -1,0 +1,121 @@
+{
+  "slug": "84538-selvin-ramcilovic",
+  "name": "Selvin Ramcilovic",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Germany",
+  "url": "https://www.tapology.com/fightcenter/fighters/84538-selvin-ramcilovic",
+  "recentFights": [
+    {
+      "date": "2021-07-08T00:00:00.000Z",
+      "opponent": "Konstantinos Ntelis",
+      "opponentSlug": "118951-konstantinos-delis",
+      "result": "loss",
+      "method": "sub",
+      "event": "Quest MMA 2",
+      "eventSlug": "80461-quest-mma-1-vendetta",
+      "round": 1,
+      "timeInRound": "3:34"
+    },
+    {
+      "date": "2019-05-18T00:00:00.000Z",
+      "opponent": "Daniel Huchler",
+      "opponentSlug": "61685-daniel-huchler",
+      "result": "loss",
+      "method": "sub",
+      "event": "Shooto Kings 8",
+      "eventSlug": "57612-shooto-kings-8",
+      "round": 2,
+      "timeInRound": "3:44"
+    },
+    {
+      "date": "2018-02-24T00:00:00.000Z",
+      "opponent": "David Depannemaecker",
+      "opponentSlug": "66397-david-depannemaecker-le-legionaire",
+      "result": "loss",
+      "method": "sub",
+      "event": "We Love MMA 38",
+      "eventSlug": "45989-we-love-mma-38",
+      "round": 1,
+      "timeInRound": "1:17"
+    },
+    {
+      "date": "2017-06-10T00:00:00.000Z",
+      "opponent": "Rahim Miradjeddin",
+      "opponentSlug": "88979-rahim-miradjeddin",
+      "result": "win",
+      "method": "sub",
+      "event": "Shooto Kings 6",
+      "eventSlug": "45090-shooto-kings-vi-ichigeki",
+      "round": 2,
+      "timeInRound": "3:48"
+    },
+    {
+      "date": "2017-04-01T00:00:00.000Z",
+      "opponent": "Daniel Stampfl",
+      "opponentSlug": "81595-daniel-stampfl",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-24T00:00:00.000Z",
+      "opponent": "Oliver Buth",
+      "opponentSlug": "127159-oliver-buth",
+      "result": "win",
+      "method": "sub",
+      "event": "We Love MMA 23",
+      "eventSlug": "37428-we-love-mma-24",
+      "round": 1,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2015-04-11T00:00:00.000Z",
+      "opponent": "Alexander Schwarz",
+      "opponentSlug": "37048-alexander-schwarz",
+      "result": "loss",
+      "method": "sub",
+      "event": "Respect FC 12",
+      "eventSlug": "31777-respect-fc-12",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-03-05T00:00:00.000Z",
+      "opponent": "Ozan Aslaner",
+      "opponentSlug": "107207-ozan-aslaner",
+      "result": "loss",
+      "method": "sub",
+      "event": "Respect FC",
+      "eventSlug": "37413-respect-fc-amateur-championships-4",
+      "round": 1,
+      "timeInRound": "1:53"
+    },
+    {
+      "date": "2014-10-11T00:00:00.000Z",
+      "opponent": "Raphael Lesnino",
+      "opponentSlug": "84537-raphael-lesnino",
+      "result": "loss",
+      "method": "sub",
+      "event": "Shooto Kings 2",
+      "eventSlug": "26197-shooto-kings-ii-supernova",
+      "round": 1,
+      "timeInRound": "2:29"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:07:15.703Z"
+}

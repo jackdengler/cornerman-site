@@ -1,0 +1,154 @@
+{
+  "slug": "133535-frederik-skov-strauss",
+  "name": "Frederik Skov Strauss",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Denmark",
+  "url": "https://www.tapology.com/fightcenter/fighters/133535-frederik-skov-strauss",
+  "recentFights": [
+    {
+      "date": "2025-11-22T00:00:00.000Z",
+      "opponent": "Miguel Haro",
+      "opponentSlug": "35730-miguel-haro",
+      "result": "loss",
+      "method": "sub",
+      "event": "MMA Galla Vol. 28",
+      "eventSlug": "122093-mma-galla",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-06-14T00:00:00.000Z",
+      "opponent": "Samuel Bark",
+      "opponentSlug": "229953-samuel-bark-sammon-decker",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "AFN 10",
+      "eventSlug": "129297-afn-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-01T00:00:00.000Z",
+      "opponent": "Edoardo Caiazza",
+      "opponentSlug": "217296-edoardo-caiazza",
+      "result": "win",
+      "method": "sub",
+      "event": "MMA Galla Vol. 23",
+      "eventSlug": "122088-mma-galla-vol-23",
+      "round": 1,
+      "timeInRound": "3:51"
+    },
+    {
+      "date": "2024-08-31T00:00:00.000Z",
+      "opponent": "Zemaray Afzali",
+      "opponentSlug": "361988-zeremay-afzali",
+      "result": "win",
+      "method": "sub",
+      "event": "MMA Galla Vol. 20",
+      "eventSlug": "106203-mma-galla-vol-20",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-09T00:00:00.000Z",
+      "opponent": "Cameron Hardy",
+      "opponentSlug": "136526-cameron-hardy",
+      "result": "win",
+      "method": "sub",
+      "event": "M4TC 30",
+      "eventSlug": "105012-m4tc-30",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-03T00:00:00.000Z",
+      "opponent": "Konstantinos Leonidou",
+      "opponentSlug": "313373-konstantinos-leonidou",
+      "result": "win",
+      "method": "sub",
+      "event": "MMA Galla Vol. 13",
+      "eventSlug": "99808-mma-galla-vol-13",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-25T00:00:00.000Z",
+      "opponent": "Hecher Sosa",
+      "opponentSlug": "128530-hecher-sosa",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "FCR 15",
+      "eventSlug": "96726-fcr-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-12T00:00:00.000Z",
+      "opponent": "Martin Fouda",
+      "opponentSlug": "38504-martin-fouda",
+      "result": "win",
+      "method": "other",
+      "event": "MMA Galla",
+      "eventSlug": "95071-mma-galla",
+      "round": 1,
+      "timeInRound": "0:26"
+    },
+    {
+      "date": "2022-05-28T00:00:00.000Z",
+      "opponent": "Hussein Abbas-Zade",
+      "opponentSlug": "301514-hussein-abbas-zade-the-scorpion",
+      "result": "win",
+      "method": null,
+      "event": "MMA Fight Night Denmark",
+      "eventSlug": "90190-mma-fight-night-denmark",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-26T00:00:00.000Z",
+      "opponent": "Bilal Tipsaev",
+      "opponentSlug": "139992-bilal-tipsaev",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fight Club Rush 11",
+      "eventSlug": "85841-fight-club-rush-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-06T00:00:00.000Z",
+      "opponent": "Navi Shahi",
+      "opponentSlug": "165080-navi-majeedi",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-28T00:00:00.000Z",
+      "opponent": "Prince Avenu",
+      "opponentSlug": "133885-prince-avanu",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ICE FC 15",
+      "eventSlug": "38931-ice-fc-15",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:05:04.424Z"
+}

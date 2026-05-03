@@ -1,0 +1,88 @@
+{
+  "slug": "349712-martin-cecil",
+  "name": "Martin Čečil",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Slovakia",
+  "url": "https://www.tapology.com/fightcenter/fighters/349712-martin-cecil",
+  "recentFights": [
+    {
+      "date": "2025-04-26T00:00:00.000Z",
+      "opponent": "Tagir Machmudov",
+      "opponentSlug": "324947-tagir-machmudov",
+      "result": "loss",
+      "method": "other",
+      "event": "RFA 22",
+      "eventSlug": "122030-rfa",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-25T00:00:00.000Z",
+      "opponent": "Jan Berus",
+      "opponentSlug": "360623-jan-berus",
+      "result": "loss",
+      "method": "sub",
+      "event": "VFN 9",
+      "eventSlug": "112912-vfn-9",
+      "round": 1,
+      "timeInRound": "3:40"
+    },
+    {
+      "date": "2023-09-08T00:00:00.000Z",
+      "opponent": "Tomáš Mudroch",
+      "opponentSlug": "266708-tomasz-mudroch",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fusion 25",
+      "eventSlug": "101979-fusion-fn-25",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-18T00:00:00.000Z",
+      "opponent": "Miroslav Borovský",
+      "opponentSlug": "88392-miroslav-borovsk",
+      "result": "win",
+      "method": "tko",
+      "event": "Beast VFN 3",
+      "eventSlug": "96559-beast-vfn-3",
+      "round": 2,
+      "timeInRound": "2:09"
+    },
+    {
+      "date": "2022-09-03T00:00:00.000Z",
+      "opponent": "Miroslav Krybus",
+      "opponentSlug": "198715-miroslav-krybus",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "GCF 65: Back in The Cage",
+      "eventSlug": "92048-gcf-65-back-in-the-cage",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-27T00:00:00.000Z",
+      "opponent": "Tomas Pistak",
+      "opponentSlug": "508967-tomas-pistak",
+      "result": "win",
+      "method": "other",
+      "event": "Redneck Fight 3",
+      "eventSlug": "130696-redneck-fight-3",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:05:46.759Z"
+}

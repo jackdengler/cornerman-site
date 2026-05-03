@@ -1,0 +1,187 @@
+{
+  "slug": "180034-hyun-sung-park",
+  "name": "Hyun Sung Park",
+  "nickname": "Peace of Mind",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 171,
+  "reachCm": 168,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1995-11-04",
+  "nationality": "Gyeonggi-Do, South Korea",
+  "url": "https://www.tapology.com/fightcenter/fighters/180034-hyun-sung-park",
+  "recentFights": [
+    {
+      "date": "2025-10-18T00:00:00.000Z",
+      "opponent": "Bruno Silva",
+      "opponentSlug": "55253-bruno-gustavo-aparecido-da-silva-bulldog",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "129312-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2025-08-02T00:00:00.000Z",
+      "opponent": "Tatsuro Taira",
+      "opponentSlug": "145595-tatsuro-taira",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "127934-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "1:06"
+    },
+    {
+      "date": "2025-05-17T00:00:00.000Z",
+      "opponent": "Carlos Hernandez",
+      "opponentSlug": "60838-carlos-hernandez",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "124622-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2023-12-09T00:00:00.000Z",
+      "opponent": "Shannon Ross",
+      "opponentSlug": "14797-shannon-mcclellan",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "105194-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "3:59"
+    },
+    {
+      "date": "2023-02-04T00:00:00.000Z",
+      "opponent": "Seung Guk Choi",
+      "opponentSlug": "142246-seung-guk-choi",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "93977-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "3:11"
+    },
+    {
+      "date": "2022-10-23T00:00:00.000Z",
+      "opponent": "Topnoi Kiwram",
+      "opponentSlug": "128196-thanongsaklek-tigermuaythai-top-noi",
+      "result": "win",
+      "method": "sub",
+      "event": "Road to UFC",
+      "eventSlug": "93008-road-to-ufc-abu-dhabi-episode-6",
+      "round": 1,
+      "timeInRound": "3:05"
+    },
+    {
+      "date": "2022-06-10T00:00:00.000Z",
+      "opponent": "Jeremia Siregar",
+      "opponentSlug": "160724-jeremia-siregar",
+      "result": "win",
+      "method": "other",
+      "event": "Road to UFC",
+      "eventSlug": "89906-road-to-ufc-singapore-episode-4",
+      "round": 1,
+      "timeInRound": "3:56"
+    },
+    {
+      "date": "2021-12-30T00:00:00.000Z",
+      "opponent": "Joo Hwan Kim",
+      "opponentSlug": "96437-joo-hwan-kim",
+      "result": "win",
+      "method": "other",
+      "event": "Double G FC 11",
+      "eventSlug": "84406-double-g-fc-11",
+      "round": 2,
+      "timeInRound": "3:40"
+    },
+    {
+      "date": "2021-03-19T00:00:00.000Z",
+      "opponent": "Kim Se Hyun",
+      "opponentSlug": "289831-kim-se-hyun",
+      "result": "win",
+      "method": "sub",
+      "event": "Double G 6",
+      "eventSlug": "78138-double-g-6",
+      "round": 1,
+      "timeInRound": "4:01"
+    },
+    {
+      "date": "2020-11-28T00:00:00.000Z",
+      "opponent": "Dong Hyun Seo",
+      "opponentSlug": "279003-dong-hyun-seo",
+      "result": "win",
+      "method": "other",
+      "event": "Double G 5",
+      "eventSlug": "73141-double-g-5",
+      "round": 1,
+      "timeInRound": "2:09"
+    },
+    {
+      "date": "2019-03-30T00:00:00.000Z",
+      "opponent": "Tsubasa Akiyama",
+      "opponentSlug": "30628-tsubasa-akiyama",
+      "result": "win",
+      "method": "sub",
+      "event": "Double G FC 2",
+      "eventSlug": "58896-double-g-fc-2",
+      "round": 2,
+      "timeInRound": "0:40"
+    },
+    {
+      "date": "2018-11-18T00:00:00.000Z",
+      "opponent": "Min Soo Kwon",
+      "opponentSlug": "101213",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Double G FC 1",
+      "eventSlug": "55878-double-g",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-07T00:00:00.000Z",
+      "opponent": "Kyun Tae Park",
+      "opponentSlug": "191414-kyun-tae-park",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "TFC Jiu Jitsu Mall League 30",
+      "eventSlug": "54206-tfc-jiu-jitsu-mall-league-30",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-23T00:00:00.000Z",
+      "opponent": "Chang Hee Kim",
+      "opponentSlug": "174864-chang-hee-kim",
+      "result": "win",
+      "method": "other",
+      "event": "Road FC Central League 42",
+      "eventSlug": "53495-road-fc-central-league-42",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-03T00:00:00.000Z",
+      "opponent": "Sung Uk Yoon",
+      "opponentSlug": "180035-sung-uk-yoon",
+      "result": "win",
+      "method": "other",
+      "event": "Road FC Central League 40",
+      "eventSlug": "51314-road-fc-central-league-40",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T22:58:54.762Z"
+}

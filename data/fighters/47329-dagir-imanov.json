@@ -1,0 +1,242 @@
+{
+  "slug": "47329-dagir-imanov",
+  "name": "Daguir Imavov",
+  "nickname": "Specnaz",
+  "aliases": [],
+  "recordPro": {
+    "wins": 15,
+    "losses": 3,
+    "draws": 2
+  },
+  "recordAmateur": null,
+  "heightCm": 177,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1991-11-04",
+  "nationality": "Dagestan, Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/47329-dagir-imanov",
+  "recentFights": [
+    {
+      "date": "2024-06-14T00:00:00.000Z",
+      "opponent": "Axel Sola",
+      "opponentSlug": "169437-sola-axel",
+      "result": "draw",
+      "method": "dec-majority",
+      "event": "Ares FC 22: Sola vs. Imavov",
+      "eventSlug": "111990-ares-fc-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-23T00:00:00.000Z",
+      "opponent": "Geraldo de Freitas",
+      "opponentSlug": "30876-geraldo-de-freitas",
+      "result": "win",
+      "method": "other",
+      "event": "Ares FC 16: Chamsoudinov vs. Escudero",
+      "eventSlug": "96201-ares-fc-16",
+      "round": 1,
+      "timeInRound": "2:33"
+    },
+    {
+      "date": "2021-12-11T00:00:00.000Z",
+      "opponent": "David Tonatiuh Crol",
+      "opponentSlug": "117505-david-tonatiuh-crol",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ares FC 2",
+      "eventSlug": "83522-ares-fc-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-25T00:00:00.000Z",
+      "opponent": "Alexander Dobrodiy",
+      "opponentSlug": "191195-alexander-dobrodiy",
+      "result": "win",
+      "method": "sub",
+      "event": "French Fighting Championship 1",
+      "eventSlug": "82348-french-fighting-championship-1",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-01-12T00:00:00.000Z",
+      "opponent": "Mateusz Rębecki",
+      "opponentSlug": "65128-mateusz-rbecki-chiczyk",
+      "result": "loss",
+      "method": "other",
+      "event": "Fight Exclusive Night 23",
+      "eventSlug": "56170-fight-exclusive-night-23",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2017-11-04T00:00:00.000Z",
+      "opponent": "Rafael Macedo",
+      "opponentSlug": "30910-rafael-macedo-margarida",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Centurion Fight Championship 2",
+      "eventSlug": "48729-centurion-fight-championship-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-12T00:00:00.000Z",
+      "opponent": "Kamil Łebkowski",
+      "opponentSlug": "56430-kamil-lebkowski",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fight Exclusive Night 18",
+      "eventSlug": "45744-fight-exclusive-night-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-11T00:00:00.000Z",
+      "opponent": "Bartłomiej Kopera",
+      "opponentSlug": "42765-bartlomiej-kopera",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Exclusive Night 16",
+      "eventSlug": "42287-fight-exclusive-night-16",
+      "round": 2,
+      "timeInRound": "4:00"
+    },
+    {
+      "date": "2016-05-28T00:00:00.000Z",
+      "opponent": "Ott Tonissaar",
+      "opponentSlug": "36888-ott-tonissaar",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "NFC Fight Night 1",
+      "eventSlug": "38863-nfc-fight-night-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-28T00:00:00.000Z",
+      "opponent": "Juha-Pekka Vainikainen",
+      "opponentSlug": "14181-juha-pekka-vainikainen",
+      "result": "win",
+      "method": "tko",
+      "event": "Cage 28",
+      "eventSlug": "26719-cage-challenger-jyvskyl",
+      "round": 1,
+      "timeInRound": "4:14"
+    },
+    {
+      "date": "2014-09-06T00:00:00.000Z",
+      "opponent": "Jani Ridasmaa",
+      "opponentSlug": "33136-jani-ridasmaa",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Carelia Fight 10",
+      "eventSlug": "25786-carelia-fight-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-04-26T00:00:00.000Z",
+      "opponent": "Damien Lapilus",
+      "opponentSlug": "35664-damien-lapilus",
+      "result": "draw",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-04-12T00:00:00.000Z",
+      "opponent": "Thibault Colleuil",
+      "opponentSlug": "39221-thibault-colleuil",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-02-22T00:00:00.000Z",
+      "opponent": "Pierre Berillon",
+      "opponentSlug": "48002-pierre-berillon",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-12-20T00:00:00.000Z",
+      "opponent": "Araik Margaryan",
+      "opponentSlug": "18664-araik-margarian",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-11-16T00:00:00.000Z",
+      "opponent": "Jean-Baptiste Leloup-Francesci",
+      "opponentSlug": "87235-jean-baptiste-leloup-francesci",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-11-16T00:00:00.000Z",
+      "opponent": "Saykhan Adaev",
+      "opponentSlug": "87234-saykhan-adaev",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-09-26T00:00:00.000Z",
+      "opponent": "Soren Bak",
+      "opponentSlug": "32825-soren-bak",
+      "result": "loss",
+      "method": "sub",
+      "event": "European MMA 6",
+      "eventSlug": "19922-european-mma-6",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-04-27T00:00:00.000Z",
+      "opponent": "Arannick Montero",
+      "opponentSlug": "17358-aranik-montero",
+      "result": "win",
+      "method": "other",
+      "event": "PFC 5",
+      "eventSlug": "18648-pfc-5",
+      "round": 1,
+      "timeInRound": "1:24"
+    },
+    {
+      "date": "2013-04-13T00:00:00.000Z",
+      "opponent": "Cedric Perruchet",
+      "opponentSlug": "13925-cedric-perruchet",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:05:31.948Z"
+}

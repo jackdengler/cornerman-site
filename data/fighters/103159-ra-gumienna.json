@@ -1,0 +1,132 @@
+{
+  "slug": "103159-ra-gumienna",
+  "name": "Róża Gumienna",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 174,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1989-08-06",
+  "nationality": "Poland",
+  "url": "https://www.tapology.com/fightcenter/fighters/103159-ra-gumienna",
+  "recentFights": [
+    {
+      "date": "2025-06-14T00:00:00.000Z",
+      "opponent": "Alina Dalaslan",
+      "opponentSlug": "402986-alina-dalaslan",
+      "result": "loss",
+      "method": "other",
+      "event": "OKTAGON 72: Vémola vs. Végh 3",
+      "eventSlug": "122082-oktagon-72",
+      "round": 3,
+      "timeInRound": "3:19"
+    },
+    {
+      "date": "2024-03-23T00:00:00.000Z",
+      "opponent": "Lucia Szabová",
+      "opponentSlug": "187305-lucia-szabova-queen-bee",
+      "result": "loss",
+      "method": "sub",
+      "event": "OKTAGON 55: Jungwirth vs. Pukač",
+      "eventSlug": "107451-oktagon-55",
+      "round": 3,
+      "timeInRound": "4:38"
+    },
+    {
+      "date": "2023-07-28T00:00:00.000Z",
+      "opponent": "Lucia Krajčovič",
+      "opponentSlug": "104019-lucia-krajovi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 45: Mågård vs Lima",
+      "eventSlug": "101739-oktagon-stvanice-special",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-23T00:00:00.000Z",
+      "opponent": "Cornelia Holm",
+      "opponentSlug": "101419-cornelia-holm",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 34",
+      "eventSlug": "90997-oktagon-34",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-25T00:00:00.000Z",
+      "opponent": "Kethylen Rothenburg",
+      "opponentSlug": "178606-kethylen-rothenburg",
+      "result": "win",
+      "method": "other",
+      "event": "Strife 2",
+      "eventSlug": "90575-strife-2",
+      "round": 3,
+      "timeInRound": "1:16"
+    },
+    {
+      "date": "2021-06-25T00:00:00.000Z",
+      "opponent": "Vladlena Yavorskaya",
+      "opponentSlug": "19836-vlada-javorskaja",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Babilon MMA 23",
+      "eventSlug": "79353-babilon-mma-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-02-12T00:00:00.000Z",
+      "opponent": "Ekaterina Shakalova",
+      "opponentSlug": "229506-katarina-shakalova",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Babilon MMA 19",
+      "eventSlug": "76405-babilon-mma-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-25T00:00:00.000Z",
+      "opponent": "Magdalena Rak",
+      "opponentSlug": "165384-magdalena-rak",
+      "result": "win",
+      "method": "sub",
+      "event": "Babilon MMA 16",
+      "eventSlug": "72237-babilon-mma-16",
+      "round": 1,
+      "timeInRound": "3:42"
+    },
+    {
+      "date": "2020-06-26T00:00:00.000Z",
+      "opponent": "Aldina Seferović",
+      "opponentSlug": "264421-aldina-seferovic",
+      "result": "win",
+      "method": "other",
+      "event": "Babilon MMA 14",
+      "eventSlug": "69946-babilon-mma-14",
+      "round": 2,
+      "timeInRound": "2:21"
+    },
+    {
+      "date": "2019-10-26T00:00:00.000Z",
+      "opponent": "Raimonda Grundulaitė",
+      "opponentSlug": "240075-raimonda-grundulaite",
+      "result": "win",
+      "method": "other",
+      "event": "Babilon MMA 10",
+      "eventSlug": "62000-babilon-mma-10",
+      "round": 1,
+      "timeInRound": "1:28"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:02:30.048Z"
+}

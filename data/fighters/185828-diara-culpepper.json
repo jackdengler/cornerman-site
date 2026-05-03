@@ -1,0 +1,165 @@
+{
+  "slug": "185828-diara-culpepper",
+  "name": "Diara Culpepper",
+  "nickname": "Spice",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1997-03-06",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/185828-diara-culpepper",
+  "recentFights": [
+    {
+      "date": "2026-03-14T00:00:00.000Z",
+      "opponent": "Jayson Scott",
+      "opponentSlug": "189755-jayson-scott",
+      "result": "loss",
+      "method": "sub",
+      "event": "MCF 30: St. Paddy’s Beatdown 14",
+      "eventSlug": "138975-mcf-30-st-paddy-s-beatdown-14",
+      "round": 1,
+      "timeInRound": "1:33"
+    },
+    {
+      "date": "2024-08-24T00:00:00.000Z",
+      "opponent": "Ozzy Chavez",
+      "opponentSlug": "154787-ozzy-chavez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FightWorld 36",
+      "eventSlug": "114789-fightworld-36",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-10-22T00:00:00.000Z",
+      "opponent": "German Orpineda Ponce",
+      "opponentSlug": "253442-german-orpineda-ponce",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Fury Challenger Series 8",
+      "eventSlug": "104835-fury-challenger-series-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-17T00:00:00.000Z",
+      "opponent": "Alex Rego",
+      "opponentSlug": "199087-alex-reygo",
+      "result": "win",
+      "method": "other",
+      "event": "Fury FC 75: Cutts vs. Hafez",
+      "eventSlug": "96723-fury-fc-75",
+      "round": 1,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2022-03-19T00:00:00.000Z",
+      "opponent": "Edgar Delgado",
+      "opponentSlug": "116544-edgar-delgado",
+      "result": "win",
+      "method": "tko",
+      "event": "Freedom Fight Night",
+      "eventSlug": "87528-freedom-fight-night",
+      "round": 2,
+      "timeInRound": "4:08"
+    },
+    {
+      "date": "2021-09-18T00:00:00.000Z",
+      "opponent": "Xavier Franklin",
+      "opponentSlug": "145346-xavier-franklin",
+      "result": "nc",
+      "method": "dec-split",
+      "event": "XKO 53",
+      "eventSlug": "81790-xko-the-statler",
+      "round": 3,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2021-07-30T00:00:00.000Z",
+      "opponent": "Zackery Bibb",
+      "opponentSlug": "278700-zackery-bibb",
+      "result": "win",
+      "method": "tko",
+      "event": "Martial Combat League 1",
+      "eventSlug": "81723-martial-combat-league-1",
+      "round": 3,
+      "timeInRound": "1:59"
+    },
+    {
+      "date": "2020-02-29T00:00:00.000Z",
+      "opponent": "Jesse Gonzalez",
+      "opponentSlug": "140880-jesse-gonzalez",
+      "result": "win",
+      "method": "sub",
+      "event": "XKO Amateur Series 19",
+      "eventSlug": "64809-xko-amateur-series-19",
+      "round": 2,
+      "timeInRound": "1:24"
+    },
+    {
+      "date": "2019-06-29T00:00:00.000Z",
+      "opponent": "Keron Reed",
+      "opponentSlug": "193210-keron-reed",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Fury FC 33",
+      "eventSlug": "58586-fury-fc-33",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-09T00:00:00.000Z",
+      "opponent": "Ihor Liaschenko",
+      "opponentSlug": "137008-ihor-liaschenko",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FCF 57",
+      "eventSlug": "58299-fcf-57",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-23T00:00:00.000Z",
+      "opponent": "Alexander Renteria",
+      "opponentSlug": "190189-alexander-renteria",
+      "result": "win",
+      "method": "tko",
+      "event": "A Dragon's Tale 5",
+      "eventSlug": "52234-a-dragon-s-tale-5",
+      "round": 1,
+      "timeInRound": "2:32"
+    },
+    {
+      "date": "2018-05-25T00:00:00.000Z",
+      "opponent": "Lucas Brennan",
+      "opponentSlug": "162427-lucas-brennan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 40: Aguilar vs. Le",
+      "eventSlug": "52491-lfa-40-aguilar-vs-le",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-21T00:00:00.000Z",
+      "opponent": "Jeff Hoppas",
+      "opponentSlug": "68417-jeff-hoppas",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Valor FL: Brazos Throwdown 4",
+      "eventSlug": "52112-vfl-brazos-throwdown-4",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-21T06:14:39.780Z"
+}

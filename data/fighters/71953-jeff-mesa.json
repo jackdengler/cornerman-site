@@ -1,0 +1,332 @@
+{
+  "slug": "71953-jeff-mesa",
+  "name": "Jeffrey Mesa",
+  "nickname": "Jrock",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 6,
+    "draws": 3
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1992-05-29",
+  "nationality": "Yigo, Guam",
+  "url": "https://www.tapology.com/fightcenter/fighters/71953-jeff-mesa",
+  "recentFights": [
+    {
+      "date": "2026-03-07T00:00:00.000Z",
+      "opponent": "Ollie Schmid",
+      "opponentSlug": "237487-oliver-schmid",
+      "result": "loss",
+      "method": "other",
+      "event": "Shuriken Fight Series 23",
+      "eventSlug": "138392-shuriken-fight-series-23",
+      "round": 1,
+      "timeInRound": "0:15"
+    },
+    {
+      "date": "2025-04-25T00:00:00.000Z",
+      "opponent": "Hyun Seok Sung",
+      "opponentSlug": "384764-hyeon-seok-seong",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "Scraps Presented by Brawl",
+      "eventSlug": "130432-scraps-presented-by-brawl",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-10-11T00:00:00.000Z",
+      "opponent": "Sam Emmanuel",
+      "opponentSlug": "361002-sam-emmanuel",
+      "result": "win",
+      "method": "other",
+      "event": "Brawl 4",
+      "eventSlug": "121258-brawl-4",
+      "round": 4,
+      "timeInRound": "4:12"
+    },
+    {
+      "date": "2023-10-13T00:00:00.000Z",
+      "opponent": "Micah Lopez",
+      "opponentSlug": "360014-micah-lopez",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "Brawl 3",
+      "eventSlug": "106230-brawl-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-26T00:00:00.000Z",
+      "opponent": "Michael Barber",
+      "opponentSlug": "109283-michael-barber",
+      "result": "loss",
+      "method": "tko",
+      "event": "Hex Fight Series 26",
+      "eventSlug": "98677-hex-fight-series-26",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-05T00:00:00.000Z",
+      "opponent": "Joshua Trambulo",
+      "opponentSlug": "128244-joshua-riley",
+      "result": "loss",
+      "method": "tko",
+      "event": "Hex Fight Series 23",
+      "eventSlug": "91477-hex-fight-series-23",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-11T00:00:00.000Z",
+      "opponent": "Brandon Apfel",
+      "opponentSlug": "18705-brandon-apfel",
+      "result": "win",
+      "method": "sub",
+      "event": "Warrior Games 11",
+      "eventSlug": "83416-ogitchidaa-fight-promotions-warrior-games-11",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2019-09-06T00:00:00.000Z",
+      "opponent": "Sam Hibberd",
+      "opponentSlug": "87482-sam-hibberd",
+      "result": "loss",
+      "method": "other",
+      "event": "Hex Fight Series 19",
+      "eventSlug": "61244-hex-fight-series-19",
+      "round": 2,
+      "timeInRound": "3:20"
+    },
+    {
+      "date": "2019-03-29T00:00:00.000Z",
+      "opponent": "Chris Wase",
+      "opponentSlug": "84660-chris-wase",
+      "result": "draw",
+      "method": "dec-majority",
+      "event": "Hex Fight Series 18",
+      "eventSlug": "58679-hex-fight-series-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-18T00:00:00.000Z",
+      "opponent": "Fernando Padilla",
+      "opponentSlug": "98371-fernando-padilla",
+      "result": "loss",
+      "method": "other",
+      "event": "Mid-Pacific Championships 5",
+      "eventSlug": "49267-mid-pacific-championships-4",
+      "round": 1,
+      "timeInRound": "3:36"
+    },
+    {
+      "date": "2017-03-25T00:00:00.000Z",
+      "opponent": "Kai Kamaka III",
+      "opponentSlug": "74838-kai-kamaka-iii-boy",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "PXC 56",
+      "eventSlug": "44430-pxc-56",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-18T00:00:00.000Z",
+      "opponent": "Justin Quichocho",
+      "opponentSlug": "120742-justin-quichocho",
+      "result": "win",
+      "method": "sub",
+      "event": "PXC 55",
+      "eventSlug": "42174-pxc-55",
+      "round": 2,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2016-07-08T00:00:00.000Z",
+      "opponent": "Robin Eclavea",
+      "opponentSlug": "71952-robin-eclavea",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "PXC 54",
+      "eventSlug": "39853-pxc-54",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-06-27T00:00:00.000Z",
+      "opponent": "Robin Eclavea",
+      "opponentSlug": "71952-robin-eclavea",
+      "result": "loss",
+      "method": "sub",
+      "event": "PXC 44: Calvo vs Kadestam",
+      "eventSlug": "23937-pxc-44",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "allFights": [
+    {
+      "date": "2026-03-07T00:00:00.000Z",
+      "opponent": "Ollie Schmid",
+      "opponentSlug": "237487-oliver-schmid",
+      "result": "loss",
+      "method": "other",
+      "event": "Shuriken Fight Series 23",
+      "eventSlug": "138392-shuriken-fight-series-23",
+      "round": 1,
+      "timeInRound": "0:15"
+    },
+    {
+      "date": "2025-04-25T00:00:00.000Z",
+      "opponent": "Hyun Seok Sung",
+      "opponentSlug": "384764-hyeon-seok-seong",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "Scraps Presented by Brawl",
+      "eventSlug": "130432-scraps-presented-by-brawl",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-10-11T00:00:00.000Z",
+      "opponent": "Sam Emmanuel",
+      "opponentSlug": "361002-sam-emmanuel",
+      "result": "win",
+      "method": "other",
+      "event": "Brawl 4",
+      "eventSlug": "121258-brawl-4",
+      "round": 4,
+      "timeInRound": "4:12"
+    },
+    {
+      "date": "2023-10-13T00:00:00.000Z",
+      "opponent": "Micah Lopez",
+      "opponentSlug": "360014-micah-lopez",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "Brawl 3",
+      "eventSlug": "106230-brawl-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-26T00:00:00.000Z",
+      "opponent": "Michael Barber",
+      "opponentSlug": "109283-michael-barber",
+      "result": "loss",
+      "method": "tko",
+      "event": "Hex Fight Series 26",
+      "eventSlug": "98677-hex-fight-series-26",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-05T00:00:00.000Z",
+      "opponent": "Joshua Trambulo",
+      "opponentSlug": "128244-joshua-riley",
+      "result": "loss",
+      "method": "tko",
+      "event": "Hex Fight Series 23",
+      "eventSlug": "91477-hex-fight-series-23",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-11T00:00:00.000Z",
+      "opponent": "Brandon Apfel",
+      "opponentSlug": "18705-brandon-apfel",
+      "result": "win",
+      "method": "sub",
+      "event": "Warrior Games 11",
+      "eventSlug": "83416-ogitchidaa-fight-promotions-warrior-games-11",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2019-09-06T00:00:00.000Z",
+      "opponent": "Sam Hibberd",
+      "opponentSlug": "87482-sam-hibberd",
+      "result": "loss",
+      "method": "other",
+      "event": "Hex Fight Series 19",
+      "eventSlug": "61244-hex-fight-series-19",
+      "round": 2,
+      "timeInRound": "3:20"
+    },
+    {
+      "date": "2019-03-29T00:00:00.000Z",
+      "opponent": "Chris Wase",
+      "opponentSlug": "84660-chris-wase",
+      "result": "draw",
+      "method": "dec-majority",
+      "event": "Hex Fight Series 18",
+      "eventSlug": "58679-hex-fight-series-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-18T00:00:00.000Z",
+      "opponent": "Fernando Padilla",
+      "opponentSlug": "98371-fernando-padilla",
+      "result": "loss",
+      "method": "other",
+      "event": "Mid-Pacific Championships 5",
+      "eventSlug": "49267-mid-pacific-championships-4",
+      "round": 1,
+      "timeInRound": "3:36"
+    },
+    {
+      "date": "2017-03-25T00:00:00.000Z",
+      "opponent": "Kai Kamaka III",
+      "opponentSlug": "74838-kai-kamaka-iii-boy",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "PXC 56",
+      "eventSlug": "44430-pxc-56",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-18T00:00:00.000Z",
+      "opponent": "Justin Quichocho",
+      "opponentSlug": "120742-justin-quichocho",
+      "result": "win",
+      "method": "sub",
+      "event": "PXC 55",
+      "eventSlug": "42174-pxc-55",
+      "round": 2,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2016-07-08T00:00:00.000Z",
+      "opponent": "Robin Eclavea",
+      "opponentSlug": "71952-robin-eclavea",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "PXC 54",
+      "eventSlug": "39853-pxc-54",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-06-27T00:00:00.000Z",
+      "opponent": "Robin Eclavea",
+      "opponentSlug": "71952-robin-eclavea",
+      "result": "loss",
+      "method": "sub",
+      "event": "PXC 44: Calvo vs Kadestam",
+      "eventSlug": "23937-pxc-44",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-05-03T08:57:42.377Z"
+}

@@ -1,0 +1,187 @@
+{
+  "slug": "40110-martin-kalucz",
+  "name": "Martin Kalucz",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 9,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1992-10-18",
+  "nationality": "Hungary",
+  "url": "https://www.tapology.com/fightcenter/fighters/40110-martin-kalucz",
+  "recentFights": [
+    {
+      "date": "2022-05-14T00:00:00.000Z",
+      "opponent": "Jozef Wittner",
+      "opponentSlug": "100068-jozef-wittner",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "RFA: Grand Opening",
+      "eventSlug": "89571-rfa-grand-opening",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-26T00:00:00.000Z",
+      "opponent": "Moussa Coulibaly",
+      "opponentSlug": "58907-moussa-coulibaly",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Fighting 7",
+      "eventSlug": "64094-cage-fighting-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-10T00:00:00.000Z",
+      "opponent": "Vojtech Garba",
+      "opponentSlug": "145826-vojtech-garba",
+      "result": "loss",
+      "method": "tko",
+      "event": "Cage Fighting Komárno 5",
+      "eventSlug": "56198-cage-fighting-komarno-5",
+      "round": 2,
+      "timeInRound": "4:43"
+    },
+    {
+      "date": "2017-07-01T00:00:00.000Z",
+      "opponent": "Sebastian Coste",
+      "opponentSlug": "255209-sebastian-coste",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Gala du Phenix 9",
+      "eventSlug": "67382-gala-du-phenix-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-02-24T00:00:00.000Z",
+      "opponent": "Erik Oganov",
+      "opponentSlug": "erik-oganov",
+      "result": "loss",
+      "method": null,
+      "event": "A-Fight MMA 5",
+      "eventSlug": "47823-a-fight-mmaa-fight-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-27T00:00:00.000Z",
+      "opponent": "Luca Poclit",
+      "opponentSlug": "29663-luca-poclit",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Eagles Fighting Championship 2",
+      "eventSlug": "39648-eagles-fighting-championship-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-31T00:00:00.000Z",
+      "opponent": "Maxime Souque",
+      "opponentSlug": "116668-maxime-souque",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "HFC 11",
+      "eventSlug": "33346-hfc-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-10-12T00:00:00.000Z",
+      "opponent": "Istvan Ruzsinszky",
+      "opponentSlug": "82462-istvan-ruzsinszky",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-12-22T00:00:00.000Z",
+      "opponent": "Shamkhal Kerimov",
+      "opponentSlug": "32845-shamkhal-kerimov",
+      "result": "loss",
+      "method": "sub",
+      "event": "Tech-KREP FC",
+      "eventSlug": "17131-new-fighting-championship-battle-of-the-stars",
+      "round": 1,
+      "timeInRound": "3:27"
+    },
+    {
+      "date": "2012-12-21T00:00:00.000Z",
+      "opponent": "Philipp Grieble",
+      "opponentSlug": "55816-philipp-grieble",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-03-24T00:00:00.000Z",
+      "opponent": "Sebastian Horeica",
+      "opponentSlug": "40126-sebastian-horeica",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-02-24T00:00:00.000Z",
+      "opponent": "Grzegorz Lipski",
+      "opponentSlug": "40127-grzegorz-lipski",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-12-17T00:00:00.000Z",
+      "opponent": "Moric Besztercei",
+      "opponentSlug": "99117-moric-besztercei",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-11-05T00:00:00.000Z",
+      "opponent": "Adam Šindelář",
+      "opponentSlug": "18938-adam-sindelar",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-10-30T00:00:00.000Z",
+      "opponent": "László Soltész",
+      "opponentSlug": "18976-laszlo-soltesz",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:09:03.730Z"
+}

@@ -1,0 +1,209 @@
+{
+  "slug": "44735-pedro-velasco",
+  "name": "Pedro Velasco",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1987-01-11",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/44735-pedro-velasco",
+  "recentFights": [
+    {
+      "date": "2016-05-21T00:00:00.000Z",
+      "opponent": "Francis Healy",
+      "opponentSlug": "43627-francis-healy",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "KOTC: Blood Enemies",
+      "eventSlug": "39156-kotc-blood-enemies",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-01-23T00:00:00.000Z",
+      "opponent": "Alex Gilpin",
+      "opponentSlug": "50151-alex-gilpin",
+      "result": "loss",
+      "method": "other",
+      "event": "Chosen Few FC 7",
+      "eventSlug": "36953-chosen-few-fc-7",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2015-05-16T00:00:00.000Z",
+      "opponent": "John Castañeda",
+      "opponentSlug": "20125-john-castaneda",
+      "result": "loss",
+      "method": "sub",
+      "event": "KOTC: Total Dominance",
+      "eventSlug": "32737-kotc-total-dominance",
+      "round": 1,
+      "timeInRound": "2:42"
+    },
+    {
+      "date": "2015-03-28T00:00:00.000Z",
+      "opponent": "Chris Johnson",
+      "opponentSlug": "56542-chris-johnson",
+      "result": "win",
+      "method": "sub",
+      "event": "MFL 37",
+      "eventSlug": "28064-mfl-37",
+      "round": 3,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2015-01-24T00:00:00.000Z",
+      "opponent": "John DeVall",
+      "opponentSlug": "15758-john-devall",
+      "result": "loss",
+      "method": "sub",
+      "event": "KOTC: Rough Justice",
+      "eventSlug": "29317-kotc-rough-justice",
+      "round": 2,
+      "timeInRound": "4:48"
+    },
+    {
+      "date": "2014-10-25T00:00:00.000Z",
+      "opponent": "Rocco Maggiore",
+      "opponentSlug": "16181-rocco-maggorie",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-09-20T00:00:00.000Z",
+      "opponent": "Alex Brockway",
+      "opponentSlug": "37788-alex-brockway",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-05-31T00:00:00.000Z",
+      "opponent": "Oliver Vazquez",
+      "opponentSlug": "44732-oliver-vazquez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "XFO 51",
+      "eventSlug": "24141-xfo-51",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-04-05T00:00:00.000Z",
+      "opponent": "Bobby Moffett",
+      "opponentSlug": "29376-bobby-moffett",
+      "result": "loss",
+      "method": "sub",
+      "event": "APFC 16: Johnson vs. Stittgen",
+      "eventSlug": "21939-apfc-16-chicago-cagefighting-championship",
+      "round": 1,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2013-10-19T00:00:00.000Z",
+      "opponent": "Anthony Terrell Smith",
+      "opponentSlug": "36018-anthony-smith",
+      "result": "loss",
+      "method": "other",
+      "event": "XFE 27: Delbrugge vs. Johnson",
+      "eventSlug": "20690-xfe-27",
+      "round": 1,
+      "timeInRound": "0:23"
+    },
+    {
+      "date": "2013-09-27T00:00:00.000Z",
+      "opponent": "Adam Ward",
+      "opponentSlug": "14760-adam-ward",
+      "result": "loss",
+      "method": "sub",
+      "event": "Total Fight Challenge",
+      "eventSlug": "20850-total-fight-challenge",
+      "round": 1,
+      "timeInRound": "0:42"
+    },
+    {
+      "date": "2013-08-10T00:00:00.000Z",
+      "opponent": "Vincent Romandine",
+      "opponentSlug": "52731-vincent-romandine",
+      "result": "win",
+      "method": "sub",
+      "event": "XFO 48: Outdoor War 9",
+      "eventSlug": "19925-xfo-48-outdoor-war-9",
+      "round": 1,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2013-06-22T00:00:00.000Z",
+      "opponent": "Jeff Lavallee",
+      "opponentSlug": "27473-jeff-lavallee",
+      "result": "win",
+      "method": "sub",
+      "event": "APFC 11: Champion vs. Champion",
+      "eventSlug": "19278-apfc-11-champion-vs-champion",
+      "round": 1,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2013-03-29T00:00:00.000Z",
+      "opponent": "Anthony Goodwin",
+      "opponentSlug": "19275-anthony-goodwin",
+      "result": "win",
+      "method": "sub",
+      "event": "XFO 47",
+      "eventSlug": "18266-xfo-47",
+      "round": 1,
+      "timeInRound": "2:44"
+    },
+    {
+      "date": "2011-12-10T00:00:00.000Z",
+      "opponent": "Cory Galloway",
+      "opponentSlug": "23010-cory-galloway",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-02-19T00:00:00.000Z",
+      "opponent": "Jordin Hinman",
+      "opponentSlug": "16435-jordin-hinman",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-09-03T00:00:00.000Z",
+      "opponent": "Brady Hovermale",
+      "opponentSlug": "16692-brady-hovermale-the-alpha-male",
+      "result": "loss",
+      "method": "sub",
+      "event": "Total Warrior Challenge 7",
+      "eventSlug": "10709-total-warrior-challenge-7",
+      "round": 1,
+      "timeInRound": "2:33"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:03:12.862Z"
+}

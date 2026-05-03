@@ -1,0 +1,143 @@
+{
+  "slug": "28038-sam-de-balke",
+  "name": "Sam Debalke",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1990-11-09",
+  "nationality": "Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/28038-sam-de-balke",
+  "recentFights": [
+    {
+      "date": "2019-06-15T00:00:00.000Z",
+      "opponent": "Tony Laramie",
+      "opponentSlug": "126998-tony-laramie",
+      "result": "loss",
+      "method": "other",
+      "event": "PFC 10",
+      "eventSlug": "59721-pfc-10",
+      "round": 2,
+      "timeInRound": "4:16"
+    },
+    {
+      "date": "2017-11-10T00:00:00.000Z",
+      "opponent": "Tyler Kirk",
+      "opponentSlug": "36174-tyler-kirk",
+      "result": "win",
+      "method": "tko",
+      "event": "Wreck MMA: Gatineau",
+      "eventSlug": "49092-wreck-mma-gatineau",
+      "round": 1,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2016-08-18T00:00:00.000Z",
+      "opponent": "Louis Jourdain",
+      "opponentSlug": "42366-louis-jourdain",
+      "result": "loss",
+      "method": "other",
+      "event": "Wreck MMA",
+      "eventSlug": "41385-wreck-mma",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-06-25T00:00:00.000Z",
+      "opponent": "Shawn Lalonde",
+      "opponentSlug": "25011-shawn-lalonde",
+      "result": "win",
+      "method": "sub",
+      "event": "Wreck Amateur Fighting Championships",
+      "eventSlug": "40505-wreck-amateur-fighting-championships-cornwall-debut",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-01-29T00:00:00.000Z",
+      "opponent": "Tyler Wilson",
+      "opponentSlug": "28440-tyler-wilson",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Wreck Amateur Fighting Championships 1",
+      "eventSlug": "36494-wreck-amateur-fighting-championships-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-07-04T00:00:00.000Z",
+      "opponent": "Samuel Moisan",
+      "opponentSlug": "24649-samuel-moisan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fightquest 32",
+      "eventSlug": "31900-fightquest-32",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-02-07T00:00:00.000Z",
+      "opponent": "Charles Jourdain",
+      "opponentSlug": "36724-charles-jourdain",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fightquest 31",
+      "eventSlug": "27702-fightquest-31",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-21T00:00:00.000Z",
+      "opponent": "Samuel Michel",
+      "opponentSlug": "57214-samuel-michel",
+      "result": "win",
+      "method": "sub",
+      "event": "Heroes Combat League 4",
+      "eventSlug": "27287-heroes-combat-league-4-united",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-10-25T00:00:00.000Z",
+      "opponent": "Phillipe Brassard",
+      "opponentSlug": "46945-phillipe-brassard",
+      "result": "loss",
+      "method": "other",
+      "event": "Fightquest 30",
+      "eventSlug": "25558-fightquest-30",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2014-05-03T00:00:00.000Z",
+      "opponent": "Tyler Wilson",
+      "opponentSlug": "28440-tyler-wilson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fightquest 28",
+      "eventSlug": "22819-fightquest-28",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-09-17T00:00:00.000Z",
+      "opponent": "Matthew Calabro-Adams",
+      "opponentSlug": "28039-matthew-calabro-adams",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Summum MMA 6",
+      "eventSlug": "14057-summum-mma-6",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:07:17.031Z"
+}

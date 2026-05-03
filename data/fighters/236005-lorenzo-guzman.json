@@ -1,0 +1,37 @@
+{
+  "slug": "236005-lorenzo-guzman",
+  "name": "Lorenzo Guzman",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/236005-lorenzo-guzman",
+  "recentFights": [
+    {
+      "date": "2019-09-21T00:00:00.000Z",
+      "opponent": "Sean Sharaf",
+      "opponentSlug": "229173-sean-sharaf",
+      "result": "loss",
+      "method": "tko",
+      "event": "LXF 3",
+      "eventSlug": "63004-lxf-3",
+      "round": 1,
+      "timeInRound": "1:20"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:12:10.567Z"
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "202986-jason-akers",
+  "name": "Jason Akers",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1987-01-15",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/202986-jason-akers",
+  "recentFights": [
+    {
+      "date": "2021-03-13T00:00:00.000Z",
+      "opponent": "Jackson McVey",
+      "opponentSlug": "238221-jackson-mcvey",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage of Honor 80",
+      "eventSlug": "77859-cage-of-honor-80",
+      "round": 1,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2019-06-22T00:00:00.000Z",
+      "opponent": "Tivon Taylor",
+      "opponentSlug": "168055-tivon-taylor",
+      "result": "loss",
+      "method": "other",
+      "event": "Nemesis Fighting Alliance",
+      "eventSlug": "60511-nemesis-fighting-alliance-this-is-war",
+      "round": 1,
+      "timeInRound": "0:22"
+    },
+    {
+      "date": "2019-03-15T00:00:00.000Z",
+      "opponent": "Wally Herndon",
+      "opponentSlug": "193253-wallace-herndon",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shamrock FC 316",
+      "eventSlug": "56758-shamrock-fc-316",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-22T00:00:00.000Z",
+      "opponent": "Joe Fitzpatrick",
+      "opponentSlug": "53037-joe-fitzpatrick",
+      "result": "win",
+      "method": "other",
+      "event": "Shamrock FC 312",
+      "eventSlug": "55986-guns-n-hoses-2018",
+      "round": 1,
+      "timeInRound": "2:59"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:54:07.019Z"
+}

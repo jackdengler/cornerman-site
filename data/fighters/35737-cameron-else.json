@@ -1,0 +1,220 @@
+{
+  "slug": "35737-cameron-else",
+  "name": "Cameron Else",
+  "nickname": "Camchida",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 180,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1987-04-27",
+  "nationality": "England",
+  "url": "https://www.tapology.com/fightcenter/fighters/35737-cameron-else",
+  "recentFights": [
+    {
+      "date": "2025-07-12T00:00:00.000Z",
+      "opponent": "Shirzad Qadrian",
+      "opponentSlug": "332802-shirzad-qadrian",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 192",
+      "eventSlug": "126924-cage-warriors-192",
+      "round": 1,
+      "timeInRound": "4:06"
+    },
+    {
+      "date": "2024-04-20T00:00:00.000Z",
+      "opponent": "Reece McEwan",
+      "opponentSlug": "117700-reece-mcewan",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Cage Warriors 171",
+      "eventSlug": "108293-cage-warriors-170",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-23T00:00:00.000Z",
+      "opponent": "Aoriqileng",
+      "opponentSlug": "119560-aoriqileng",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "86013-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "2:48"
+    },
+    {
+      "date": "2020-10-03T00:00:00.000Z",
+      "opponent": "Kyler Phillips",
+      "opponentSlug": "93501-kyler-phillips",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "71155-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2020-02-08T00:00:00.000Z",
+      "opponent": "Brad Evans",
+      "opponentSlug": "48638-brad-evans",
+      "result": "win",
+      "method": "sub",
+      "event": "Fusion FC 32",
+      "eventSlug": "63247-fusion-fc-31",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2019-12-14T00:00:00.000Z",
+      "opponent": "Mark Stevens",
+      "opponentSlug": "101403-mark-stevens",
+      "result": "win",
+      "method": "tko",
+      "event": "WCMMA 39",
+      "eventSlug": "60860-wcmma-39",
+      "round": 1,
+      "timeInRound": "0:52"
+    },
+    {
+      "date": "2019-07-25T00:00:00.000Z",
+      "opponent": "Aidan James",
+      "opponentSlug": "80249-aidan-james",
+      "result": "win",
+      "method": "tko",
+      "event": "Brave CF 24",
+      "eventSlug": "61233-brave-cf-24",
+      "round": 1,
+      "timeInRound": "0:59"
+    },
+    {
+      "date": "2019-06-15T00:00:00.000Z",
+      "opponent": "Tom Major",
+      "opponentSlug": "226884-tom-major",
+      "result": "win",
+      "method": "other",
+      "event": "Fusion FC 30",
+      "eventSlug": "57664-fusion-fc-30",
+      "round": 1,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2018-03-24T00:00:00.000Z",
+      "opponent": "Thomas Terdjman",
+      "opponentSlug": "80794-thomas-terdjman",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Warriors 92",
+      "eventSlug": "50479-cage-warriors-92-super-saturday",
+      "round": 1,
+      "timeInRound": "4:27"
+    },
+    {
+      "date": "2018-02-10T00:00:00.000Z",
+      "opponent": "Jordan Ramshaw",
+      "opponentSlug": "151470-jordan-ramshaw",
+      "result": "win",
+      "method": "other",
+      "event": "UCMMA 54",
+      "eventSlug": "48759-ucmma-54",
+      "round": 1,
+      "timeInRound": "0:14"
+    },
+    {
+      "date": "2017-06-24T00:00:00.000Z",
+      "opponent": "Damo Weeden",
+      "opponentSlug": "20785-damien-weeden",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 85",
+      "eventSlug": "45256-cage-warriors-85",
+      "round": 2,
+      "timeInRound": "0:40"
+    },
+    {
+      "date": "2016-12-16T00:00:00.000Z",
+      "opponent": "Dylan Tuke",
+      "opponentSlug": "82235-dylan-tuke",
+      "result": "win",
+      "method": "tko",
+      "event": "Bellator 169",
+      "eventSlug": "42239-bellator-169-king-mo-vs-ishii",
+      "round": 1,
+      "timeInRound": "0:20"
+    },
+    {
+      "date": "2016-05-14T00:00:00.000Z",
+      "opponent": "Ed Arthur",
+      "opponentSlug": "49238-edward-arthur",
+      "result": "loss",
+      "method": "other",
+      "event": "BAMMA 25: Champion vs. Champion",
+      "eventSlug": "37799-bamma-25",
+      "round": 1,
+      "timeInRound": "4:57"
+    },
+    {
+      "date": "2015-11-14T00:00:00.000Z",
+      "opponent": "Jay Butler",
+      "opponentSlug": "42797-jay-butler",
+      "result": "win",
+      "method": "other",
+      "event": "BAMMA 23: Night Of Champions",
+      "eventSlug": "34729-bamma-23-night-of-champions",
+      "round": 1,
+      "timeInRound": "2:48"
+    },
+    {
+      "date": "2014-02-15T00:00:00.000Z",
+      "opponent": "Spencer Hewitt",
+      "opponentSlug": "15592-spencer-hewitt",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 64",
+      "eventSlug": "22089-cage-warriors-64",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-10-05T00:00:00.000Z",
+      "opponent": "Paddy Pimblett",
+      "opponentSlug": "36807-paddy-pimblett",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 60",
+      "eventSlug": "19551-cage-warriors-60",
+      "round": 1,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2012-11-18T00:00:00.000Z",
+      "opponent": "Gary Duffy",
+      "opponentSlug": "27456-garry-duffy",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "0:51"
+    },
+    {
+      "date": "2012-10-06T00:00:00.000Z",
+      "opponent": "Spencer Hewitt",
+      "opponentSlug": "15592-spencer-hewitt",
+      "result": "loss",
+      "method": "sub",
+      "event": "UCMMA 30",
+      "eventSlug": "15417-ucmma-30",
+      "round": 1,
+      "timeInRound": "3:57"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:05:52.941Z"
+}

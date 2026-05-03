@@ -1,0 +1,154 @@
+{
+  "slug": "169308-jhoao-ruiz",
+  "name": "Jhoao Ruiz",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1986-12-11",
+  "nationality": "Mexico",
+  "url": "https://www.tapology.com/fightcenter/fighters/169308-jhoao-ruiz",
+  "recentFights": [
+    {
+      "date": "2023-11-24T00:00:00.000Z",
+      "opponent": "Osvaldo Segura",
+      "opponentSlug": "296952-osvaldo-segura",
+      "result": "loss",
+      "method": "sub",
+      "event": "LMI Mexico 12",
+      "eventSlug": "107553-lmi-mexico-12",
+      "round": 3,
+      "timeInRound": "2:49"
+    },
+    {
+      "date": "2023-06-03T00:00:00.000Z",
+      "opponent": "Eli Perez",
+      "opponentSlug": "187855-eli-perez-el-cucuy",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Peleas ExtreMMAs 40",
+      "eventSlug": "102775-peleas-extremmas-40-paez-vs-ortiz",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-01T00:00:00.000Z",
+      "opponent": "Jose Ochoa",
+      "opponentSlug": "149882-jose-alberto-ochoa-oblitas",
+      "result": "nc",
+      "method": "other",
+      "event": "UWC 29",
+      "eventSlug": "82688-uwc-29",
+      "round": 1,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2021-05-07T00:00:00.000Z",
+      "opponent": "Ernesto Ibarra",
+      "opponentSlug": "109896-ernesto-ibarra",
+      "result": "loss",
+      "method": "sub",
+      "event": "EXF 15",
+      "eventSlug": "79238-exf-15",
+      "round": 2,
+      "timeInRound": "3:13"
+    },
+    {
+      "date": "2020-12-11T00:00:00.000Z",
+      "opponent": "Alfredo Arreola",
+      "opponentSlug": "115542-alfredo-arreola",
+      "result": "win",
+      "method": "other",
+      "event": "iKon Fighting Federation 4",
+      "eventSlug": "74692-ikon-fighting-federation-3",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2020-02-29T00:00:00.000Z",
+      "opponent": "Luis Aguirre",
+      "opponentSlug": "150262-luis-aguirre",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UWC 21: Bloody Valentine",
+      "eventSlug": "68612-uwc-21u-bloody-valentine",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-14T00:00:00.000Z",
+      "opponent": "Ernesto Ibarra",
+      "opponentSlug": "109896-ernesto-ibarra",
+      "result": "loss",
+      "method": "other",
+      "event": "EXF 12",
+      "eventSlug": "55362-elite-xtreme-fighting",
+      "round": 3,
+      "timeInRound": "3:43"
+    },
+    {
+      "date": "2018-04-21T00:00:00.000Z",
+      "opponent": "Raul Romero de Loa",
+      "opponentSlug": "184547-raul-romero-de-loa-roca",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "M Uno: Volumen 5",
+      "eventSlug": "52261-m-uno-volumen-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-02-15T00:00:00.000Z",
+      "opponent": "Benjamin Torres",
+      "opponentSlug": "151472-benjamin-torres",
+      "result": "loss",
+      "method": "tko",
+      "event": "EXF 13",
+      "eventSlug": "59181-exf-13",
+      "round": 2,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2017-12-02T00:00:00.000Z",
+      "opponent": "Jose Urias Garcia",
+      "opponentSlug": "146227-jose-alberto-urias-garcia",
+      "result": "win",
+      "method": "sub",
+      "event": "M Uno: Volumen 4",
+      "eventSlug": "49253-m-uno-volumen-4",
+      "round": 1,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2017-10-28T00:00:00.000Z",
+      "opponent": "Israel Serrano",
+      "opponentSlug": "106943-israel-serrano",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Warrior FC 1",
+      "eventSlug": "53212-warrior-fc-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-29T00:00:00.000Z",
+      "opponent": "Luis David García Gutierrez",
+      "opponentSlug": "156803-luis-david-garcia-gutierrez",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Master Fight",
+      "eventSlug": "45628-master-fight-mf-ii",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:36:45.426Z"
+}

@@ -1,0 +1,136 @@
+{
+  "slug": "182804-sydney-ross",
+  "name": "Sydney Ross",
+  "nickname": "The Blonde Demon",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 6,
+    "losses": 4,
+    "draws": 0
+  },
+  "heightCm": 165,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "2000-01-24",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/182804-sydney-ross",
+  "recentFights": [
+    {
+      "date": "2021-10-23T00:00:00.000Z",
+      "opponent": "Angel Blackwell",
+      "opponentSlug": "168738-angel-blackwell",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "247 FC: Brawl in the Burgh 9",
+      "eventSlug": "81771-247-fc-brawl-in-the-burgh-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-07T00:00:00.000Z",
+      "opponent": "Gabby Valdez",
+      "opponentSlug": "218913-gabriela-valdez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "247 FC: Brawl in the Burgh 8",
+      "eventSlug": "79397-247-fc-brawl-in-the-burgh-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-11-28T00:00:00.000Z",
+      "opponent": "Kelsey Gilmore",
+      "opponentSlug": "97425-kelsey-gilmore",
+      "result": "win",
+      "method": "other",
+      "event": "247 FC: Brawl in the Burgh 5",
+      "eventSlug": "73743-247-fc-brawl-in-the-burgh-5",
+      "round": 1,
+      "timeInRound": "1:41"
+    },
+    {
+      "date": "2019-12-21T00:00:00.000Z",
+      "opponent": "Tia Jablonsky",
+      "opponentSlug": "102056-tia-jablonsky",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cowboy Fight Series 4",
+      "eventSlug": "64953-cowboy-fight-series-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-28T00:00:00.000Z",
+      "opponent": "Kawehi Wallace",
+      "opponentSlug": "113216-kawehi-wallace",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Cowboy Fight Series 3",
+      "eventSlug": "62179-cowboy-fight-series-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-27T00:00:00.000Z",
+      "opponent": "Amber Blevins",
+      "opponentSlug": "162887-amber-blevins",
+      "result": "win",
+      "method": "other",
+      "event": "247 FC: Brawl In The Burgh",
+      "eventSlug": "60417-247-fc-steeltown-throwdown-2",
+      "round": 1,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2018-12-15T00:00:00.000Z",
+      "opponent": "Jasmine Jasudavicius",
+      "opponentSlug": "171056-jasmine-jasdavicious",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "BCM Promotions",
+      "eventSlug": "56636-bcm-promotions-fight-night-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-08-11T00:00:00.000Z",
+      "opponent": "Alyssa Linduska",
+      "opponentSlug": "186419-alyssa-melody",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "BCM Promotions",
+      "eventSlug": "53963-bcm-promotions-fight-night-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-09T00:00:00.000Z",
+      "opponent": "Robin Stevenson",
+      "opponentSlug": "179122-robin-stevenson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Pinnacle FC 17",
+      "eventSlug": "52885-pinnacle-fc-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-24T00:00:00.000Z",
+      "opponent": "Lydia Warren",
+      "opponentSlug": "182805-lydia-warren",
+      "result": "win",
+      "method": "sub",
+      "event": "Pinnacle FC 16",
+      "eventSlug": "50823-pinnacle-fc-16",
+      "round": 1,
+      "timeInRound": "1:30"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:10:02.098Z"
+}

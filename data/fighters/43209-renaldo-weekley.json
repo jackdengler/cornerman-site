@@ -1,0 +1,132 @@
+{
+  "slug": "43209-renaldo-weekley",
+  "name": "Renaldo Weekley",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1993-02-09",
+  "nationality": "East Saint Louis, Illinois",
+  "url": "https://www.tapology.com/fightcenter/fighters/43209-renaldo-weekley",
+  "recentFights": [
+    {
+      "date": "2016-11-05T00:00:00.000Z",
+      "opponent": "Pat Sabatini",
+      "opponentSlug": "29210-pat-sabatini",
+      "result": "loss",
+      "method": "sub",
+      "event": "Dead Serious 22",
+      "eventSlug": "41078-dead-serious-22",
+      "round": 1,
+      "timeInRound": "1:17"
+    },
+    {
+      "date": "2016-05-21T00:00:00.000Z",
+      "opponent": "Brandon Kaiser",
+      "opponentSlug": "28539-brandon-kaiser",
+      "result": "win",
+      "method": "other",
+      "event": "Colosseum Combat 35",
+      "eventSlug": "39008-colosseum-combat-35",
+      "round": 1,
+      "timeInRound": "0:29"
+    },
+    {
+      "date": "2015-09-26T00:00:00.000Z",
+      "opponent": "Carlos Garnett Jr.",
+      "opponentSlug": "64067-carlos-garnett-jr",
+      "result": "win",
+      "method": "tko",
+      "event": "HooknShoot: Hall Of Fame",
+      "eventSlug": "35366-hooknshoot",
+      "round": 1,
+      "timeInRound": "0:29"
+    },
+    {
+      "date": "2015-08-08T00:00:00.000Z",
+      "opponent": "Brock Davis",
+      "opponentSlug": "35914-brock-davis",
+      "result": "win",
+      "method": "tko",
+      "event": "Hardrock MMA 74",
+      "eventSlug": "33989-hardrock-mma-74",
+      "round": 1,
+      "timeInRound": "0:40"
+    },
+    {
+      "date": "2014-08-16T00:00:00.000Z",
+      "opponent": "Ethan McGee",
+      "opponentSlug": "33778-ethan-mcgee",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Turf Wars 20",
+      "eventSlug": "25453-turf-wars-20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-08T00:00:00.000Z",
+      "opponent": "Darrin Hardin",
+      "opponentSlug": "46396-darrin-hardin",
+      "result": "win",
+      "method": "tko",
+      "event": "HOOKnSHOOT: Fightapalooza 2",
+      "eventSlug": "22906-hooknshoot-fightapalooza-2",
+      "round": 1,
+      "timeInRound": "1:34"
+    },
+    {
+      "date": "2014-02-01T00:00:00.000Z",
+      "opponent": "Jorge Gonzalez-Rolon",
+      "opponentSlug": "56169-jorge-gonzalez-rolon",
+      "result": "win",
+      "method": "other",
+      "event": "Art of War FC 9",
+      "eventSlug": "22075-aowc-9-the-return",
+      "round": 1,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2013-10-12T00:00:00.000Z",
+      "opponent": "Blayne Hodges",
+      "opponentSlug": "21756-blayne-hodges",
+      "result": "loss",
+      "method": "sub",
+      "event": "Art of War FC 8",
+      "eventSlug": "20623-aowc-8-evolution",
+      "round": 1,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2013-02-23T00:00:00.000Z",
+      "opponent": "Miguel Calixto",
+      "opponentSlug": "30872-miguel-calixto",
+      "result": "win",
+      "method": "other",
+      "event": "Art of War FC 4",
+      "eventSlug": "16942-art-of-war-championships-4-night-of-the-champions",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2012-11-10T00:00:00.000Z",
+      "opponent": "Johnathan Kools",
+      "opponentSlug": "35920-johnathan-kool",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:06:24.615Z"
+}

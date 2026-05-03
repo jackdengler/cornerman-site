@@ -1,0 +1,198 @@
+{
+  "slug": "180529-ognjen-dimi",
+  "name": "Ognjen Dimić",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 5,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Serbia",
+  "url": "https://www.tapology.com/fightcenter/fighters/180529-ognjen-dimi",
+  "recentFights": [
+    {
+      "date": "2025-11-01T00:00:00.000Z",
+      "opponent": "Vladimír Lengál",
+      "opponentSlug": "305714-vladimir-lengal-vlado",
+      "result": "loss",
+      "method": "other",
+      "event": "OKTAGON 79: Surdu vs. Kalašnik",
+      "eventSlug": "118938-oktagon",
+      "round": 2,
+      "timeInRound": "4:52"
+    },
+    {
+      "date": "2025-08-31T00:00:00.000Z",
+      "opponent": "Paulo Bananada",
+      "opponentSlug": "14443-paulo-goncalves-silva-bananada",
+      "result": "win",
+      "method": "other",
+      "event": "Serbian Battle Championship 51",
+      "eventSlug": "131686-serbian-battle-championship-51-revenge",
+      "round": 2,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2025-05-17T00:00:00.000Z",
+      "opponent": "Gökhan Aksu",
+      "opponentSlug": "104264-gkhan-asku",
+      "result": "loss",
+      "method": "other",
+      "event": "OKTAGON 71: Poppeck vs. Langer",
+      "eventSlug": "123601-oktagon-71",
+      "round": 1,
+      "timeInRound": "2:43"
+    },
+    {
+      "date": "2024-12-29T00:00:00.000Z",
+      "opponent": "Agy Sardari",
+      "opponentSlug": "128978-agy-sardary-the-wolverine",
+      "result": "loss",
+      "method": "sub",
+      "event": "OKTAGON 65: Paradeiser vs. Keita 2",
+      "eventSlug": "116291-oktagon-65",
+      "round": 2,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2024-09-21T00:00:00.000Z",
+      "opponent": "Robson Cavalcante",
+      "opponentSlug": "4959-robson-cisco",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Serbian Battle Championship 49",
+      "eventSlug": "117769-serbian-battle-championship-49",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-01T00:00:00.000Z",
+      "opponent": "Anuar Bensayiid",
+      "opponentSlug": "297719-anuar-ben-saed",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "Fight 2 One",
+      "eventSlug": "112658-fight-2-one-06",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-02T00:00:00.000Z",
+      "opponent": "Nair Melikyan",
+      "opponentSlug": "214722-nair-melikyan",
+      "result": "nc",
+      "method": "other",
+      "event": "Titan FC 82",
+      "eventSlug": "100791-sbc-47",
+      "round": 1,
+      "timeInRound": "4:24"
+    },
+    {
+      "date": "2022-12-28T00:00:00.000Z",
+      "opponent": "Ramazan Amirov",
+      "opponentSlug": "98973-ramazan-amirov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Serbian Battle Championship 45",
+      "eventSlug": "95357-sbc-45-revenge",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-16T00:00:00.000Z",
+      "opponent": "Krisztián Simon",
+      "opponentSlug": "145837-simon-krisztian",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Serbian Battle Championship 42",
+      "eventSlug": "91057-serbian-battle-championship-42-revenge",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-02T00:00:00.000Z",
+      "opponent": "Ulanbek Konurbaev",
+      "opponentSlug": "159031-ulanbek-korunbaev",
+      "result": "win",
+      "method": "other",
+      "event": "Serbian Battle Championship 40",
+      "eventSlug": "88002-serbian-battle-championship-40-revenge",
+      "round": 1,
+      "timeInRound": "2:28"
+    },
+    {
+      "date": "2021-12-24T00:00:00.000Z",
+      "opponent": "Akbar Gadzhiekperov",
+      "opponentSlug": "110819-ekper-gadzhiekperov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Serbian Battle Championship 37",
+      "eventSlug": "85518-serbian-battle-championship-37-revenge",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-24T00:00:00.000Z",
+      "opponent": "Martin Horinek",
+      "opponentSlug": "200861-martin-horinek",
+      "result": "win",
+      "method": "other",
+      "event": "Serbian Battle Championship 32",
+      "eventSlug": "80681-serbian-battle-championship-32-revenge",
+      "round": 2,
+      "timeInRound": "4:13"
+    },
+    {
+      "date": "2021-03-12T00:00:00.000Z",
+      "opponent": "Halil Amir",
+      "opponentSlug": "220588-amir-khalil",
+      "result": "loss",
+      "method": "other",
+      "event": "Serbian Battle Championship 30",
+      "eventSlug": "77444-serbian-battle-championship-30-revenge",
+      "round": 3,
+      "timeInRound": "3:15"
+    },
+    {
+      "date": "2018-12-29T00:00:00.000Z",
+      "opponent": "Shamil Ilishkanov",
+      "opponentSlug": "190791-shamil-ilishkanov",
+      "result": "win",
+      "method": "tko",
+      "event": "Austrian Fight Night 2",
+      "eventSlug": "58464-austrian-fight-night-2",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-06T00:00:00.000Z",
+      "opponent": "Mirko Jovanović",
+      "opponentSlug": "169855-mirko-jovanovic",
+      "result": "win",
+      "method": "other",
+      "event": "Serbian Battle Championship 18",
+      "eventSlug": "53960-serbian-battle-championship-18",
+      "round": 1,
+      "timeInRound": "3:32"
+    },
+    {
+      "date": "2018-02-16T00:00:00.000Z",
+      "opponent": "Ilija Ulamović",
+      "opponentSlug": "180530-ilija-ulamovi",
+      "result": "win",
+      "method": "other",
+      "event": "Serbian Battle Championship 16",
+      "eventSlug": "51572-serbian-battle-championship-16",
+      "round": 1,
+      "timeInRound": "2:12"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:06:13.506Z"
+}

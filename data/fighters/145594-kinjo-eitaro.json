@@ -1,0 +1,37 @@
+{
+  "slug": "145594-kinjo-eitaro",
+  "name": "Kinjo Eitaro",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Japan",
+  "url": "https://www.tapology.com/fightcenter/fighters/145594-kinjo-eitaro",
+  "recentFights": [
+    {
+      "date": "2016-11-27T00:00:00.000Z",
+      "opponent": "Tatsuro Taira",
+      "opponentSlug": "145595-tatsuro-taira",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Ryukyu Free Fight 9",
+      "eventSlug": "43093-ryukyu-free-fight-9",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T22:59:47.296Z"
+}

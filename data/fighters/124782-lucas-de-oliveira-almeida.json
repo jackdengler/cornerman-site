@@ -1,0 +1,231 @@
+{
+  "slug": "124782-lucas-de-oliveira-almeida",
+  "name": "Lucas Almeida",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 15,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": 180,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1991-01-13",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/124782-lucas-de-oliveira-almeida",
+  "recentFights": [
+    {
+      "date": "2025-10-11T00:00:00.000Z",
+      "opponent": "Michael Aswell Jr.",
+      "opponentSlug": "187792-michael-aswell",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "130995-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "1:42"
+    },
+    {
+      "date": "2025-03-01T00:00:00.000Z",
+      "opponent": "Danny Silva",
+      "opponentSlug": "174093-danny-silva",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "120055-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-15T00:00:00.000Z",
+      "opponent": "Timmy Cuamba",
+      "opponentSlug": "181377-timothy-cuamba",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "111669-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-16T00:00:00.000Z",
+      "opponent": "Andre Fili",
+      "opponentSlug": "11328-andre-fili-dre-duke",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 296: Edwards vs. Covington",
+      "eventSlug": "101868-ufc",
+      "round": 1,
+      "timeInRound": "3:32"
+    },
+    {
+      "date": "2023-06-17T00:00:00.000Z",
+      "opponent": "Pat Sabatini",
+      "opponentSlug": "29210-pat-sabatini",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "99705-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2022-06-04T00:00:00.000Z",
+      "opponent": "Michael Trizano",
+      "opponentSlug": "64126-michael-trizano",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "86746-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "0:55"
+    },
+    {
+      "date": "2021-11-28T00:00:00.000Z",
+      "opponent": "Ítalo Trindade",
+      "opponentSlug": "177783-italo-trindade",
+      "result": "win",
+      "method": "sub",
+      "event": "Jungle Fight 103",
+      "eventSlug": "82342-jungle-fight-103",
+      "round": 1,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2021-09-28T00:00:00.000Z",
+      "opponent": "Daniel Zellhuber",
+      "opponentSlug": "156784-daniel-olvera-zellhuber-zellhuber",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Contender Series 2021",
+      "eventSlug": "78724-contender-series-2021",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-30T00:00:00.000Z",
+      "opponent": "Nico Cocuccio",
+      "opponentSlug": "161848-nico-cocuccio-la-cobra",
+      "result": "win",
+      "method": "other",
+      "event": "Jungle Fight 99",
+      "eventSlug": "64830-jungle-fight-99",
+      "round": 3,
+      "timeInRound": "4:10"
+    },
+    {
+      "date": "2018-12-01T00:00:00.000Z",
+      "opponent": "Bruno Tavares",
+      "opponentSlug": "31974-bruno-tavares-beirute",
+      "result": "win",
+      "method": "other",
+      "event": "Max Fight 21",
+      "eventSlug": "57532-max-fight-21",
+      "round": 5,
+      "timeInRound": "1:27"
+    },
+    {
+      "date": "2018-10-27T00:00:00.000Z",
+      "opponent": "Edilson Faria",
+      "opponentSlug": "200405-edilson-faria",
+      "result": "win",
+      "method": "sub",
+      "event": "Leões da Luta 5",
+      "eventSlug": "56200-leoes-da-luta-5",
+      "round": 1,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2018-08-18T00:00:00.000Z",
+      "opponent": "Guilherme Miranda",
+      "opponentSlug": "31091-guilherme-miranda-carcaca",
+      "result": "win",
+      "method": "tko",
+      "event": "Max Fight 20",
+      "eventSlug": "54619-max-fight-20",
+      "round": 1,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2018-06-10T00:00:00.000Z",
+      "opponent": "Maicon Ribeiro",
+      "opponentSlug": "171689-maicon-ribeiro-boco",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-19T00:00:00.000Z",
+      "opponent": "Cleber Santana",
+      "opponentSlug": "109364-cleber-santana",
+      "result": "win",
+      "method": "sub",
+      "event": "ECC 20",
+      "eventSlug": "53237-ecc-20",
+      "round": 1,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2017-08-26T00:00:00.000Z",
+      "opponent": "Claudiere Freitas",
+      "opponentSlug": "8368-claudiere-freitas",
+      "result": "win",
+      "method": "other",
+      "event": "Max Fight 19",
+      "eventSlug": "47705-max-fight-19",
+      "round": 1,
+      "timeInRound": "4:49"
+    },
+    {
+      "date": "2016-07-30T00:00:00.000Z",
+      "opponent": "Diego Barbosa",
+      "opponentSlug": "52563-diego-barbosa",
+      "result": "win",
+      "method": "other",
+      "event": "Jungle Fight 89",
+      "eventSlug": "40696-jungle-fight-89",
+      "round": 2,
+      "timeInRound": "3:58"
+    },
+    {
+      "date": "2016-05-21T00:00:00.000Z",
+      "opponent": "Diogo Silva",
+      "opponentSlug": "70672-diogo-silva-pink",
+      "result": "win",
+      "method": "sub",
+      "event": "Jungle Fight 87",
+      "eventSlug": "39783-jungle-fight-87",
+      "round": 2,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2016-01-23T00:00:00.000Z",
+      "opponent": "Felipe Castro",
+      "opponentSlug": "124783-felipe-castro",
+      "result": "win",
+      "method": "tko",
+      "event": "Jungle Fight 85",
+      "eventSlug": "37251-jungle-fight-85",
+      "round": 1,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2015-03-14T00:00:00.000Z",
+      "opponent": "Luis Henrique Nogueira",
+      "opponentSlug": "95583-luis-henrique-nogueira",
+      "result": "win",
+      "method": "other",
+      "event": "Evolution of Fighters 8",
+      "eventSlug": "30785-evolution-of-fighters-8",
+      "round": 1,
+      "timeInRound": "2:58"
+    }
+  ],
+  "lastVerified": "2026-04-25T23:06:04.044Z"
+}

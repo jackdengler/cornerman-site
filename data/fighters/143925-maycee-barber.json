@@ -1,0 +1,231 @@
+{
+  "slug": "143925-maycee-barber",
+  "name": "Maycee Barber",
+  "nickname": "The Future",
+  "aliases": [],
+  "recordPro": {
+    "wins": 15,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": 165,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1998-05-18",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/143925-maycee-barber",
+  "recentFights": [
+    {
+      "date": "2026-03-28T00:00:00.000Z",
+      "opponent": "Alexa Grasso",
+      "opponentSlug": "68972-alexa-grasso",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "136873-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "2:42"
+    },
+    {
+      "date": "2025-12-06T00:00:00.000Z",
+      "opponent": "Karine Silva",
+      "opponentSlug": "69225-karine-silva-killer",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "eventSlug": "133220-ufc-323",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-09T00:00:00.000Z",
+      "opponent": "Katlyn Cerminara",
+      "opponentSlug": "37760-katlyn-chookagian",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "eventSlug": "107061-ufc-299",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-24T00:00:00.000Z",
+      "opponent": "Amanda Ribas",
+      "opponentSlug": "74330-amanda-ribas",
+      "result": "win",
+      "method": "other",
+      "event": "UFC on ABC 5",
+      "eventSlug": "99780-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "3:42"
+    },
+    {
+      "date": "2023-03-25T00:00:00.000Z",
+      "opponent": "Andrea Lee",
+      "opponentSlug": "47916-andrea-lee",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "96078-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-02T00:00:00.000Z",
+      "opponent": "Jessica Eye",
+      "opponentSlug": "14208-jessica-eye",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 276: Adesanya vs. Cannonier",
+      "eventSlug": "87604-ufc-276",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-23T00:00:00.000Z",
+      "opponent": "Montana De La Rosa",
+      "opponentSlug": "62316-montana-stewart",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "86013-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-24T00:00:00.000Z",
+      "opponent": "Miranda Maverick",
+      "opponentSlug": "116637-miranda-maverick",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "78477-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-02-13T00:00:00.000Z",
+      "opponent": "Alexa Grasso",
+      "opponentSlug": "68972-alexa-grasso",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 258: Usman vs. Burns",
+      "eventSlug": "73379-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-01-18T00:00:00.000Z",
+      "opponent": "Roxanne Modafferi",
+      "opponentSlug": "roxanne-modafferi-the-happy-warrior",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 246: McGregor vs. Cerrone",
+      "eventSlug": "63997-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-18T00:00:00.000Z",
+      "opponent": "Gillian Robertson",
+      "opponentSlug": "73142-gillian-robertson",
+      "result": "win",
+      "method": "other",
+      "event": "UFC on ESPN 6",
+      "eventSlug": "60320-ufc-on-espn-2",
+      "round": 1,
+      "timeInRound": "3:04"
+    },
+    {
+      "date": "2019-03-23T00:00:00.000Z",
+      "opponent": "JJ Aldrich",
+      "opponentSlug": "28420-jj-aldrich",
+      "result": "win",
+      "method": "other",
+      "event": "UFC on ESPN+ 6",
+      "eventSlug": "56353-ufc-fight-night-149",
+      "round": 2,
+      "timeInRound": "3:01"
+    },
+    {
+      "date": "2018-11-10T00:00:00.000Z",
+      "opponent": "Hannah Cifers",
+      "opponentSlug": "34495-hannah-cifers",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night 139",
+      "eventSlug": "53520-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2018-07-17T00:00:00.000Z",
+      "opponent": "Jamie Colleen Miller",
+      "opponentSlug": "37798-jamie-miller",
+      "result": "win",
+      "method": "other",
+      "event": "DW's Contender Series 2018",
+      "eventSlug": "52734-dw-s-contender-series-2018-week-6",
+      "round": 3,
+      "timeInRound": "4:15"
+    },
+    {
+      "date": "2018-05-04T00:00:00.000Z",
+      "opponent": "Audrey Perkins",
+      "opponentSlug": "46445-audrey-perkins",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 39: Heinisch vs. Checco",
+      "eventSlug": "51993-lfa-39",
+      "round": 3,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2018-02-16T00:00:00.000Z",
+      "opponent": "Kaila Thompson",
+      "opponentSlug": "112511-kaila-thompson",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 33: Willis vs. Stewart",
+      "eventSlug": "50420-lfa-33-willis-vs-stewart",
+      "round": 1,
+      "timeInRound": "0:31"
+    },
+    {
+      "date": "2017-09-08T00:00:00.000Z",
+      "opponent": "Mallory Martin",
+      "opponentSlug": "66199-mallory-martin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 22: Heinisch vs. Perez",
+      "eventSlug": "47407-lfa-22-heinisch-vs-perez",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-23T00:00:00.000Z",
+      "opponent": "Itzel Esquivel",
+      "opponentSlug": "121052-itzel-esquivel",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 14: Allen vs. Anders",
+      "eventSlug": "46045-lfa-14-allen-vs-anders",
+      "round": 1,
+      "timeInRound": "3:52"
+    },
+    {
+      "date": "2017-01-07T00:00:00.000Z",
+      "opponent": "Christina Breault",
+      "opponentSlug": "114677-christina-breault",
+      "result": "win",
+      "method": "other",
+      "event": "SCL 56: Rise",
+      "eventSlug": "43667-scl-56-rise",
+      "round": 1,
+      "timeInRound": "0:20"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:10:11.378Z"
+}

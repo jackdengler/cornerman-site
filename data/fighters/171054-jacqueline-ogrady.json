@@ -1,0 +1,37 @@
+{
+  "slug": "171054-jacqueline-ogrady",
+  "name": "Jacqueline O'Grady",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/171054-jacqueline-ogrady",
+  "recentFights": [
+    {
+      "date": "2017-11-18T00:00:00.000Z",
+      "opponent": "Jasmine Jasudavicius",
+      "opponentSlug": "171056-jasmine-jasdavicious",
+      "result": "loss",
+      "method": "sub",
+      "event": "Full Contact Promotions",
+      "eventSlug": "48155-full-contact-promotions-rage-in-the-cage-2",
+      "round": 3,
+      "timeInRound": "0:50"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:10:08.944Z"
+}

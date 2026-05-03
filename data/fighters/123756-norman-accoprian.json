@@ -1,0 +1,165 @@
+{
+  "slug": "123756-norman-accoprian",
+  "name": "Norman Agcorpra",
+  "nickname": "The Gunman",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Philippines",
+  "url": "https://www.tapology.com/fightcenter/fighters/123756-norman-accoprian",
+  "recentFights": [
+    {
+      "date": "2026-04-18T00:00:00.000Z",
+      "opponent": "Sherzod Kabutov",
+      "opponentSlug": "269567-sherzod-kabutov",
+      "result": null,
+      "method": "other",
+      "event": "Canggu Fight Night 38",
+      "eventSlug": "141086-canggu-fight-night-38",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-03-01T00:00:00.000Z",
+      "opponent": "Jacis Macasinag",
+      "opponentSlug": "367067-jacis-macasinag-the-game-changer",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Southside Cage War 3",
+      "eventSlug": "141824-southside-cage-war-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-11T00:00:00.000Z",
+      "opponent": "Phuong Hoai Nguyen Vu",
+      "opponentSlug": "399395-phuong-hoai-nguyen-vu",
+      "result": "loss",
+      "method": "sub",
+      "event": "Gods of Martial Arts 9",
+      "eventSlug": "131951-gods-of-martial-arts-9",
+      "round": 1,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2025-04-06T00:00:00.000Z",
+      "opponent": "Elipitua Siregar",
+      "opponentSlug": "187043-elipitua-siregar",
+      "result": "loss",
+      "method": "sub",
+      "event": "Canggu Fight Night 34",
+      "eventSlug": "126817-canggu-fight-night-34",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2024-12-22T00:00:00.000Z",
+      "opponent": "Nauris Bartoska",
+      "opponentSlug": "169210-nauris-bartoska",
+      "result": "loss",
+      "method": "other",
+      "event": "IFL 3: The Hunger Games",
+      "eventSlug": "122674-ifl-3-the-hunger-games",
+      "round": 1,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2024-10-27T00:00:00.000Z",
+      "opponent": "Colby Thicknesse",
+      "opponentSlug": "166902-colby-thicknesse",
+      "result": "loss",
+      "method": "sub",
+      "event": "Canggu Fight Night 32",
+      "eventSlug": "118536-canggu-fight-night-32",
+      "round": 1,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2022-11-26T00:00:00.000Z",
+      "opponent": "Leonard Pornia",
+      "opponentSlug": "340533-leonard-pornia",
+      "result": "win",
+      "method": "tko",
+      "event": "WFC 4",
+      "eventSlug": "95761-wfc-4-2nd-qualifying",
+      "round": 1,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2018-03-23T00:00:00.000Z",
+      "opponent": "Kyu Hwa Kim",
+      "opponentSlug": "44516-kyu-hwa-kim",
+      "result": "win",
+      "method": "tko",
+      "event": "URCC Bets 5",
+      "eventSlug": "51144-urcc-bets-5",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-02-25T00:00:00.000Z",
+      "opponent": "Rizalino Olivar Jr",
+      "opponentSlug": "94015-rizalino-olivar-jr",
+      "result": "loss",
+      "method": "sub",
+      "event": "Team Lakay Championship 12",
+      "eventSlug": "44184-team-lakay-championship-12",
+      "round": 1,
+      "timeInRound": "3:31"
+    },
+    {
+      "date": "2016-11-06T00:00:00.000Z",
+      "opponent": "Jiar Castillo",
+      "opponentSlug": "61813-jiar-castillo",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "URCC 28: Vindication",
+      "eventSlug": "42521-urcc-28-vindication",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-06-24T00:00:00.000Z",
+      "opponent": "Nico Allego",
+      "opponentSlug": "136630-nico-allego",
+      "result": "win",
+      "method": "tko",
+      "event": "UGB MMA Championship 15",
+      "eventSlug": "40851-ugb-mma-championship-15-foreign-invasion-2",
+      "round": 1,
+      "timeInRound": "2:49"
+    },
+    {
+      "date": "2016-01-22T00:00:00.000Z",
+      "opponent": "Reiner Gervasio",
+      "opponentSlug": "123755-reiner-gervasio",
+      "result": "win",
+      "method": "other",
+      "event": "UGB MMA Championship 13",
+      "eventSlug": "37732-ugb-mma-championship-13-foreign-invasion",
+      "round": 1,
+      "timeInRound": "3:39"
+    },
+    {
+      "date": "2025-04-27T00:00:00.000Z",
+      "opponent": "Neil Gaerlan",
+      "opponentSlug": "526238-neil-gaerlan",
+      "result": "win",
+      "method": "other",
+      "event": "Narvacan Fight Night 2025",
+      "eventSlug": "135014-narvacan-fight-night-2025",
+      "round": 2,
+      "timeInRound": "2:50"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:56:22.468Z"
+}

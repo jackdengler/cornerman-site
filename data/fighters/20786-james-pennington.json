@@ -1,0 +1,165 @@
+{
+  "slug": "20786-james-pennington",
+  "name": "James Pennington",
+  "nickname": "The Power Weasle",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1987-04-08",
+  "nationality": "England",
+  "url": "https://www.tapology.com/fightcenter/fighters/20786-james-pennington",
+  "recentFights": [
+    {
+      "date": "2015-04-25T00:00:00.000Z",
+      "opponent": "Janne Elonen-Kulmala",
+      "opponentSlug": "15618-janne-elonen-kulmala-jamba",
+      "result": "loss",
+      "method": "other",
+      "event": "FNF 9: Turku Fight Night",
+      "eventSlug": "31187-fnf-9-turku-fight-night",
+      "round": 2,
+      "timeInRound": "0:27"
+    },
+    {
+      "date": "2014-11-22T00:00:00.000Z",
+      "opponent": "Tyler Thomas",
+      "opponentSlug": "54147-tyler-thomas",
+      "result": "win",
+      "method": "sub",
+      "event": "Shock n' Awe 18",
+      "eventSlug": "27825-shock-n-awe-18",
+      "round": 1,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2014-02-15T00:00:00.000Z",
+      "opponent": "Cory Tait",
+      "opponentSlug": "15625-cory-tait",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage Warriors 64",
+      "eventSlug": "22089-cage-warriors-64",
+      "round": 1,
+      "timeInRound": "2:35"
+    },
+    {
+      "date": "2013-09-14T00:00:00.000Z",
+      "opponent": "Kris Edwards",
+      "opponentSlug": "17112-kris-edwards",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 59",
+      "eventSlug": "19550-cage-warriors-59",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-07-27T00:00:00.000Z",
+      "opponent": "Ben Crook",
+      "opponentSlug": "13962-ben-crook",
+      "result": "win",
+      "method": "sub",
+      "event": "Shock n' Awe 14",
+      "eventSlug": "18136-shock-n-awe-14",
+      "round": 1,
+      "timeInRound": "4:52"
+    },
+    {
+      "date": "2013-04-13T00:00:00.000Z",
+      "opponent": "James Doolan",
+      "opponentSlug": "12122-james-doolan-thaison",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Warriors 53",
+      "eventSlug": "17629-cage-warriors-53",
+      "round": 3,
+      "timeInRound": "0:29"
+    },
+    {
+      "date": "2012-07-14T00:00:00.000Z",
+      "opponent": "Davey Grant",
+      "opponentSlug": "18815-david-grant",
+      "result": "loss",
+      "method": "sub",
+      "event": "Shock n' Awe 11",
+      "eventSlug": "14416-shock-n-awe-11",
+      "round": 1,
+      "timeInRound": "3:59"
+    },
+    {
+      "date": "2012-04-29T00:00:00.000Z",
+      "opponent": "Carl Hunt",
+      "opponentSlug": "18760-carl-hunt",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-03-10T00:00:00.000Z",
+      "opponent": "Chris Garry",
+      "opponentSlug": "15623-chris-garry",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Shock n' Awe 10",
+      "eventSlug": "12270-shock-n-awe-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-04-23T00:00:00.000Z",
+      "opponent": "Sam Hewitt",
+      "opponentSlug": "20818-sam-hewitt",
+      "result": "win",
+      "method": "sub",
+      "event": "Shock n' Awe 7",
+      "eventSlug": "10393-shock-n-awe-7",
+      "round": 1,
+      "timeInRound": "2:13"
+    },
+    {
+      "date": "2011-02-12T00:00:00.000Z",
+      "opponent": "Dinko Pehlic",
+      "opponentSlug": "20819-dinko-pehlic",
+      "result": "win",
+      "method": "sub",
+      "event": "Shock n' Awe 6",
+      "eventSlug": "8659-shock-n-awe-6-battleground",
+      "round": 1,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2010-09-17T00:00:00.000Z",
+      "opponent": "Pavel Flamurant",
+      "opponentSlug": "35083-pavel-flamurant",
+      "result": "win",
+      "method": "sub",
+      "event": "Shock n' Awe 5",
+      "eventSlug": "9165-shock-n-awe-5",
+      "round": 1,
+      "timeInRound": "2:05"
+    },
+    {
+      "date": "2010-05-02T00:00:00.000Z",
+      "opponent": "Harry Fox",
+      "opponentSlug": "14702-harry-fox",
+      "result": "win",
+      "method": "sub",
+      "event": "Shock n' Awe 4",
+      "eventSlug": "10773-shock-n-awe-4-bank-holiday-beatdown",
+      "round": 1,
+      "timeInRound": "1:42"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:36:21.527Z"
+}

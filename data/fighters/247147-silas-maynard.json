@@ -1,0 +1,77 @@
+{
+  "slug": "247147-silas-maynard",
+  "name": "Silas Maynard",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": "1977-05-23",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/247147-silas-maynard",
+  "recentFights": [
+    {
+      "date": "2013-11-09T00:00:00.000Z",
+      "opponent": "Gele Qing",
+      "opponentSlug": "35400-gele-qing",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "China MMA League",
+      "eventSlug": "38367-cmmal-china-mma-league",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-07-19T00:00:00.000Z",
+      "opponent": "Zebaztian Kadestam",
+      "opponentSlug": "19640-zebaztian-kadestam",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-09-10T00:00:00.000Z",
+      "opponent": "Wenbo Liu",
+      "opponentSlug": "liu-wen-bo",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-03-22T00:00:00.000Z",
+      "opponent": "Randy Adams",
+      "opponentSlug": "54953-randy-adams",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-09-08T00:00:00.000Z",
+      "opponent": "Dustin Bloom",
+      "opponentSlug": "247133-dustin-bloom-the-bull",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:04:30.620Z"
+}

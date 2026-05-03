@@ -1,0 +1,143 @@
+{
+  "slug": "203994-billy-ray-valdez",
+  "name": "Billy Ray Valdez",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 187,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1994-11-12",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/203994-billy-ray-valdez",
+  "recentFights": [
+    {
+      "date": "2025-04-11T00:00:00.000Z",
+      "opponent": "Alvin Hines",
+      "opponentSlug": "29107-goozie-hines",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 206: Gennrich vs. Lebosnoyani",
+      "eventSlug": "124520-lfa-206",
+      "round": 3,
+      "timeInRound": "2:09"
+    },
+    {
+      "date": "2025-01-10T00:00:00.000Z",
+      "opponent": "Larry Gonzales",
+      "opponentSlug": "219757-larry-gonzales",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 199: Farias vs. Visconde",
+      "eventSlug": "120837-lfa-199",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-08-24T00:00:00.000Z",
+      "opponent": "Dwight Maters",
+      "opponentSlug": "121207-akuma-maters",
+      "result": "win",
+      "method": "other",
+      "event": "FightWorld 36",
+      "eventSlug": "114789-fightworld-36",
+      "round": 2,
+      "timeInRound": "3:01"
+    },
+    {
+      "date": "2024-01-12T00:00:00.000Z",
+      "opponent": "Steven Asplund",
+      "opponentSlug": "338034-steven-asplund",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 174: Jones vs. Gennrich",
+      "eventSlug": "108251-lfa-174-jones-vs-gennrich",
+      "round": 1,
+      "timeInRound": "4:48"
+    },
+    {
+      "date": "2023-08-18T00:00:00.000Z",
+      "opponent": "Lorenzo Figueroa",
+      "opponentSlug": "316599-lorenzo-figueroa",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 165: Compton vs. Valente",
+      "eventSlug": "102757-lfa-165-compton-vs-valente",
+      "round": 1,
+      "timeInRound": "2:33"
+    },
+    {
+      "date": "2022-12-16T00:00:00.000Z",
+      "opponent": "Ian Allston",
+      "opponentSlug": "188456-ian-allston",
+      "result": "win",
+      "method": "other",
+      "event": "CFFC 116: Torres vs. Mathison",
+      "eventSlug": "94763-cffc-116",
+      "round": 1,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2022-05-21T00:00:00.000Z",
+      "opponent": "Erik Jimenez",
+      "opponentSlug": "337558-erik-jimenez",
+      "result": "win",
+      "method": "sub",
+      "event": "FightWorld 23",
+      "eventSlug": "88661-fightworld-23",
+      "round": 2,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2021-10-09T00:00:00.000Z",
+      "opponent": "Tyrique Ransom",
+      "opponentSlug": "242627-tyrique-ransom",
+      "result": "win",
+      "method": "tko",
+      "event": "KOTC: Legendary",
+      "eventSlug": "83150-kotc-legendary",
+      "round": 2,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2021-07-24T00:00:00.000Z",
+      "opponent": "Ricky Belmontez",
+      "opponentSlug": "254014-ricky-belmontez",
+      "result": "loss",
+      "method": "tko",
+      "event": "Colorado Combat Club 7",
+      "eventSlug": "79129-colorado-combat-club-7-khai-wu-vs-alejandro-rodriguez",
+      "round": 1,
+      "timeInRound": "0:22"
+    },
+    {
+      "date": "2019-06-08T00:00:00.000Z",
+      "opponent": "Mario Moore",
+      "opponentSlug": "131884-mario-moore",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Southwest MMA Series 28",
+      "eventSlug": "60603-southwest-mma-series-28",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-02T00:00:00.000Z",
+      "opponent": "Kristopher Christian",
+      "opponentSlug": "203993-kristopher-christian",
+      "result": "win",
+      "method": "other",
+      "event": "KOTC: Starbound 2",
+      "eventSlug": "55978-kotc",
+      "round": 2,
+      "timeInRound": "1:13"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:44:28.818Z"
+}

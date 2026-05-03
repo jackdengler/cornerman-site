@@ -1,0 +1,176 @@
+{
+  "slug": "239830-matthieu-letho",
+  "name": "Matthieu Duclos",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 191,
+  "reachCm": 196,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1995-04-04",
+  "nationality": "France",
+  "url": "https://www.tapology.com/fightcenter/fighters/239830-matthieu-letho",
+  "recentFights": [
+    {
+      "date": "2026-06-12T00:00:00.000Z",
+      "opponent": "Norbert Novenyi Jr.",
+      "opponentSlug": "137212-norbert-novenyi",
+      "result": null,
+      "method": "other",
+      "event": "Hexagone MMA 45",
+      "eventSlug": "138812-hexagone-mma-45",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-04-11T00:00:00.000Z",
+      "opponent": "Ilian Bouafia",
+      "opponentSlug": "298832-ilian-bouafia",
+      "result": "win",
+      "method": "other",
+      "event": "Hexagone MMA 43",
+      "eventSlug": "139504-hexagone-mma-43",
+      "round": 1,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2025-11-07T00:00:00.000Z",
+      "opponent": "Moacir Rocha",
+      "opponentSlug": "152249-moacir-cordeiro",
+      "result": "win",
+      "method": "other",
+      "event": "Hexagone MMA 36",
+      "eventSlug": "134248-hexagone-mma-36",
+      "round": 2,
+      "timeInRound": "4:28"
+    },
+    {
+      "date": "2025-04-25T00:00:00.000Z",
+      "opponent": "Thiago Hayne",
+      "opponentSlug": "113716-thiago-silva-tico",
+      "result": "win",
+      "method": "other",
+      "event": "Hexagone MMA 27",
+      "eventSlug": "123947-hexagone-mma-28",
+      "round": 2,
+      "timeInRound": "4:21"
+    },
+    {
+      "date": "2025-01-10T00:00:00.000Z",
+      "opponent": "Daichi Mikami",
+      "opponentSlug": "237858-daichi-mikami",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hexagone MMA 23",
+      "eventSlug": "117694-hexagone-mma-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-08-27T00:00:00.000Z",
+      "opponent": "Marco Tulio",
+      "opponentSlug": "165750-marco-tulio-silva",
+      "result": "loss",
+      "method": "other",
+      "event": "Contender Series 2024",
+      "eventSlug": "112920-contender-series-2024-week-3",
+      "round": 2,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2024-02-10T00:00:00.000Z",
+      "opponent": "Alexis Fontes",
+      "opponentSlug": "184221-alexis-fontes",
+      "result": "win",
+      "method": "other",
+      "event": "Hexagone MMA 14",
+      "eventSlug": "106568-hexagone-mma-14",
+      "round": 1,
+      "timeInRound": "1:18"
+    },
+    {
+      "date": "2023-06-17T00:00:00.000Z",
+      "opponent": "Geison Santana Moreno",
+      "opponentSlug": "180156-geison-moreno",
+      "result": "win",
+      "method": "tko",
+      "event": "Hexagone MMA 9",
+      "eventSlug": "97627-hexagone-mma-9",
+      "round": 1,
+      "timeInRound": "3:28"
+    },
+    {
+      "date": "2023-01-22T00:00:00.000Z",
+      "opponent": "Tobiasz Lewandowski",
+      "opponentSlug": "215095-tobiasz-lewandowski",
+      "result": "win",
+      "method": "other",
+      "event": "Hexagone MMA 6",
+      "eventSlug": "94099-hexagone-mma-6",
+      "round": 2,
+      "timeInRound": "3:16"
+    },
+    {
+      "date": "2022-10-15T00:00:00.000Z",
+      "opponent": "Giorgi Egnatashvili",
+      "opponentSlug": "254284-giorgi-egnatashvili",
+      "result": "win",
+      "method": "other",
+      "event": "Hexagone MMA 5",
+      "eventSlug": "92656-hexagone-mma-5",
+      "round": 1,
+      "timeInRound": "2:21"
+    },
+    {
+      "date": "2022-05-06T00:00:00.000Z",
+      "opponent": "Youcef Ouabbas",
+      "opponentSlug": "200933-youcef-ouabbas",
+      "result": "loss",
+      "method": "tko",
+      "event": "Bellator 280",
+      "eventSlug": "86506-bellator-paris-bader-vs-kongo-2",
+      "round": 1,
+      "timeInRound": "4:17"
+    },
+    {
+      "date": "2022-03-20T00:00:00.000Z",
+      "opponent": "Mathias Rieucros",
+      "opponentSlug": "228619-mathias-rieucros",
+      "result": "win",
+      "method": "other",
+      "event": "YFC 1",
+      "eventSlug": "88421-yfc-3",
+      "round": 2,
+      "timeInRound": "3:12"
+    },
+    {
+      "date": "2021-07-10T00:00:00.000Z",
+      "opponent": "Louis Laurent",
+      "opponentSlug": "191033-lois-laurent",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FFA Challenge 2",
+      "eventSlug": "79744-ffa-challenge-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-19T00:00:00.000Z",
+      "opponent": "Wissame Akhmouch",
+      "opponentSlug": "171520-wissame-akhmouch",
+      "result": "loss",
+      "method": "sub",
+      "event": "100% Fight 41",
+      "eventSlug": "63276-100-fight-41",
+      "round": 1,
+      "timeInRound": "1:20"
+    }
+  ],
+  "lastVerified": "2026-04-25T23:03:19.237Z"
+}

@@ -1,0 +1,244 @@
+{
+  "slug": "166857-mike-diamond-blood",
+  "name": "Mike Mathetha",
+  "nickname": "Blood Diamond",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": 193,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1988-07-10",
+  "nationality": "Bulawayo, Zimbabwe",
+  "url": "https://www.tapology.com/fightcenter/fighters/166857-mike-diamond-blood",
+  "recentFights": [
+    {
+      "date": "2026-03-14T00:00:00.000Z",
+      "opponent": "Elano Andrade",
+      "opponentSlug": "220300-elano-andrade-gomes",
+      "result": "win",
+      "method": "other",
+      "event": "SFL 4",
+      "eventSlug": "138550-sfl-4",
+      "round": 1,
+      "timeInRound": "3:32"
+    },
+    {
+      "date": "2025-11-22T00:00:00.000Z",
+      "opponent": "Saeed Karsaz",
+      "opponentSlug": "126284-saeed-karsaz",
+      "result": "win",
+      "method": "other",
+      "event": "HEX Fight Series 37",
+      "eventSlug": "120780-hex-fight-series-37",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-14T00:00:00.000Z",
+      "opponent": "Jack James",
+      "opponentSlug": "194896-jack-james",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Beatdown Promotions 10",
+      "eventSlug": "120785-beatdown-promotions-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-04T00:00:00.000Z",
+      "opponent": "Raymart Quintana",
+      "opponentSlug": "101822-raymart-quintana",
+      "result": "loss",
+      "method": "other",
+      "event": "HEX Fight Series 30",
+      "eventSlug": "107574-hex-fight-series-30-hex-goes-global",
+      "round": 1,
+      "timeInRound": "1:17"
+    },
+    {
+      "date": "2023-09-09T00:00:00.000Z",
+      "opponent": "Charles Radtke",
+      "opponentSlug": "29374-charlie-radtke",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 293: Adesanya vs. Strickland",
+      "eventSlug": "101315-ufc-293",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-30T00:00:00.000Z",
+      "opponent": "Orion Cosce",
+      "opponentSlug": "67420-orion-cosce",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 277: Peña vs. Nunes 2",
+      "eventSlug": "87975-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-12T00:00:00.000Z",
+      "opponent": "Jeremiah Wells",
+      "opponentSlug": "15782-jeremiah-wells",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC 271: Adesanya vs. Whittaker 2",
+      "eventSlug": "83288-ufc-271",
+      "round": 1,
+      "timeInRound": "4:38"
+    },
+    {
+      "date": "2020-02-22T00:00:00.000Z",
+      "opponent": "Dimps Gillies",
+      "opponentSlug": "140176-dimps-gillies",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 50",
+      "eventSlug": "64804-eternal-mma-50",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-21T00:00:00.000Z",
+      "opponent": "Hyun Min Hwang",
+      "opponentSlug": "191551-hyun-min-hwang",
+      "result": "win",
+      "method": "sub",
+      "event": "Hex Fight Series 15",
+      "eventSlug": "54051-hex-fight-series-15",
+      "round": 1,
+      "timeInRound": "3:53"
+    },
+    {
+      "date": "2017-05-06T00:00:00.000Z",
+      "opponent": "Jo Van Duin",
+      "opponentSlug": "78173-jo-van-dui",
+      "result": "win",
+      "method": "tko",
+      "event": "Shuriken Fight Series 1",
+      "eventSlug": "46482-shuriken-mma",
+      "round": 2,
+      "timeInRound": null
+    }
+  ],
+  "allFights": [
+    {
+      "date": "2026-03-14T00:00:00.000Z",
+      "opponent": "Elano Andrade",
+      "opponentSlug": "220300-elano-andrade-gomes",
+      "result": "win",
+      "method": "other",
+      "event": "SFL 4",
+      "eventSlug": "138550-sfl-4",
+      "round": 1,
+      "timeInRound": "3:32"
+    },
+    {
+      "date": "2025-11-22T00:00:00.000Z",
+      "opponent": "Saeed Karsaz",
+      "opponentSlug": "126284-saeed-karsaz",
+      "result": "win",
+      "method": "other",
+      "event": "HEX Fight Series 37",
+      "eventSlug": "120780-hex-fight-series-37",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-14T00:00:00.000Z",
+      "opponent": "Jack James",
+      "opponentSlug": "194896-jack-james",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Beatdown Promotions 10",
+      "eventSlug": "120785-beatdown-promotions-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-04T00:00:00.000Z",
+      "opponent": "Raymart Quintana",
+      "opponentSlug": "101822-raymart-quintana",
+      "result": "loss",
+      "method": "other",
+      "event": "HEX Fight Series 30",
+      "eventSlug": "107574-hex-fight-series-30-hex-goes-global",
+      "round": 1,
+      "timeInRound": "1:17"
+    },
+    {
+      "date": "2023-09-09T00:00:00.000Z",
+      "opponent": "Charles Radtke",
+      "opponentSlug": "29374-charlie-radtke",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 293: Adesanya vs. Strickland",
+      "eventSlug": "101315-ufc-293",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-30T00:00:00.000Z",
+      "opponent": "Orion Cosce",
+      "opponentSlug": "67420-orion-cosce",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 277: Peña vs. Nunes 2",
+      "eventSlug": "87975-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-12T00:00:00.000Z",
+      "opponent": "Jeremiah Wells",
+      "opponentSlug": "15782-jeremiah-wells",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC 271: Adesanya vs. Whittaker 2",
+      "eventSlug": "83288-ufc-271",
+      "round": 1,
+      "timeInRound": "4:38"
+    },
+    {
+      "date": "2020-02-22T00:00:00.000Z",
+      "opponent": "Dimps Gillies",
+      "opponentSlug": "140176-dimps-gillies",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 50",
+      "eventSlug": "64804-eternal-mma-50",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-21T00:00:00.000Z",
+      "opponent": "Hyun Min Hwang",
+      "opponentSlug": "191551-hyun-min-hwang",
+      "result": "win",
+      "method": "sub",
+      "event": "Hex Fight Series 15",
+      "eventSlug": "54051-hex-fight-series-15",
+      "round": 1,
+      "timeInRound": "3:53"
+    },
+    {
+      "date": "2017-05-06T00:00:00.000Z",
+      "opponent": "Jo Van Duin",
+      "opponentSlug": "78173-jo-van-dui",
+      "result": "win",
+      "method": "tko",
+      "event": "Shuriken Fight Series 1",
+      "eventSlug": "46482-shuriken-mma",
+      "round": 2,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-05-03T10:17:20.173Z"
+}

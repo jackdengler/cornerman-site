@@ -1,0 +1,59 @@
+{
+  "slug": "71936-george-maldarelli",
+  "name": "George Maldarelli",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/71936-george-maldarelli",
+  "recentFights": [
+    {
+      "date": "2014-11-08T00:00:00.000Z",
+      "opponent": "Alex Groden",
+      "opponentSlug": "66591-alex-groden",
+      "result": "loss",
+      "method": "sub",
+      "event": "Ring of Combat AM 19",
+      "eventSlug": "26283-ring-of-combat-am-19",
+      "round": 1,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2014-06-28T00:00:00.000Z",
+      "opponent": "Kyle Lynch",
+      "opponentSlug": "69314-kyle-lynch",
+      "result": "win",
+      "method": "sub",
+      "event": "Ring of Combat AM 18",
+      "eventSlug": "24139-ring-of-combat-am-18-mma-battle-schuetzen-park",
+      "round": 3,
+      "timeInRound": "2:46"
+    },
+    {
+      "date": "2010-10-16T00:00:00.000Z",
+      "opponent": "Pat Sabatini",
+      "opponentSlug": "29210-pat-sabatini",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:06:37.578Z"
+}

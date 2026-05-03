@@ -1,0 +1,103 @@
+{
+  "slug": "147505-jeremy-pompei",
+  "name": "Jeremy Pompei",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/147505-jeremy-pompei",
+  "recentFights": [
+    {
+      "date": "2009-10-03T00:00:00.000Z",
+      "opponent": "Robert Lawless",
+      "opponentSlug": "61161-robert-lawless",
+      "result": "win",
+      "method": "dec-split",
+      "event": "New Breed Fighters 25",
+      "eventSlug": "35644-new-breed-fighters-25-one-step-closer",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-08-01T00:00:00.000Z",
+      "opponent": "Pat Sabatini",
+      "opponentSlug": "29210-pat-sabatini",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-05-30T00:00:00.000Z",
+      "opponent": "Philip Ferraro",
+      "opponentSlug": "43391-philip-ferraro",
+      "result": "nc",
+      "method": "other",
+      "event": "New Breed Fighters 22",
+      "eventSlug": "43746-new-breed-fighters-22",
+      "round": 2,
+      "timeInRound": "2:36"
+    },
+    {
+      "date": "2009-04-11T00:00:00.000Z",
+      "opponent": "Evan Chmieleski",
+      "opponentSlug": "16244-evan-chmieleski",
+      "result": "win",
+      "method": "sub",
+      "event": "New Breed Fighters 21",
+      "eventSlug": "32755-new-breed-fighters-one-step-closer",
+      "round": 3,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2008-11-26T00:00:00.000Z",
+      "opponent": "Mark Hassmiller",
+      "opponentSlug": "147768-mark-hassmiller",
+      "result": "win",
+      "method": "sub",
+      "event": "New Breed Fighters 19",
+      "eventSlug": "35646-new-breed-fighters",
+      "round": 3,
+      "timeInRound": "0:38"
+    },
+    {
+      "date": "2008-07-12T00:00:00.000Z",
+      "opponent": "Zachary Burhans",
+      "opponentSlug": "40058-zachary-burhans",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "New Breed Fighters 15",
+      "eventSlug": "40822-new-breed-fighters-15-return-to-the-abyss",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-04-26T00:00:00.000Z",
+      "opponent": "Christian Teran",
+      "opponentSlug": "97562-christian-teran",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "New Breed Fighters 12",
+      "eventSlug": "43682-new-breed-fighters-12",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:06:46.879Z"
+}

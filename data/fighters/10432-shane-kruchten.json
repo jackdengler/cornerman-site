@@ -1,0 +1,198 @@
+{
+  "slug": "10432-shane-kruchten",
+  "name": "Shane Kruchten",
+  "nickname": "The War Rhino",
+  "aliases": [],
+  "recordPro": {
+    "wins": 12,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 186,
+  "reachCm": 185,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1984-06-07",
+  "nationality": "Oshkosh, Wisconsin",
+  "url": "https://www.tapology.com/fightcenter/fighters/10432-shane-kruchten",
+  "recentFights": [
+    {
+      "date": "2019-03-29T00:00:00.000Z",
+      "opponent": "Daniel Straus",
+      "opponentSlug": "daniel-straus",
+      "result": "loss",
+      "method": "sub",
+      "event": "Bellator 219",
+      "eventSlug": "57176-bellator-220-koreshkov-vs-larkin",
+      "round": 1,
+      "timeInRound": "3:53"
+    },
+    {
+      "date": "2018-01-20T00:00:00.000Z",
+      "opponent": "Aaron Pico",
+      "opponentSlug": "86018-aaron-pico",
+      "result": "loss",
+      "method": "other",
+      "event": "Bellator 192",
+      "eventSlug": "48178-bellator-lima-vs-macdonald",
+      "round": 1,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2016-12-31T00:00:00.000Z",
+      "opponent": "Jeremy Mahon",
+      "opponentSlug": "6940-jeremy-mahon",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WSOF 34: Gaethje vs. Firmino",
+      "eventSlug": "38070-wsof-36",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-29T00:00:00.000Z",
+      "opponent": "Mike Corey",
+      "opponentSlug": "mike-corey",
+      "result": "loss",
+      "method": "sub",
+      "event": "WSOF 9: Carl vs. Palhares",
+      "eventSlug": "22120-wsof-9",
+      "round": 2,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2013-05-18T00:00:00.000Z",
+      "opponent": "Joey Apodaca",
+      "opponentSlug": "52328-joey-apodaca",
+      "result": "win",
+      "method": "sub",
+      "event": "XFS: Devastation",
+      "eventSlug": "19775-xfs-devastation",
+      "round": 1,
+      "timeInRound": "0:42"
+    },
+    {
+      "date": "2012-06-22T00:00:00.000Z",
+      "opponent": "Jason Miknuk",
+      "opponentSlug": "13078-jason-miknuk",
+      "result": "win",
+      "method": "dec-split",
+      "event": "XFS: Combat Ready",
+      "eventSlug": "17226-xfs-combat-ready",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-03-24T00:00:00.000Z",
+      "opponent": "Jordan Gammel",
+      "opponentSlug": "27922-jordan-gammel",
+      "result": "win",
+      "method": "sub",
+      "event": "XFS: Disarm",
+      "eventSlug": "13975-xfs-disarm",
+      "round": 1,
+      "timeInRound": "0:09"
+    },
+    {
+      "date": "2012-02-26T00:00:00.000Z",
+      "opponent": "Mike Arellano",
+      "opponentSlug": "mike-arellano-showtime",
+      "result": "win",
+      "method": "other",
+      "event": "Gladiator Challenge",
+      "eventSlug": "12868-gladiator-challenge-bombs-away",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2012-01-21T00:00:00.000Z",
+      "opponent": "Doug Trotter",
+      "opponentSlug": "20829-doug-trotter",
+      "result": "win",
+      "method": "other",
+      "event": "XFS: Brutal Conduct",
+      "eventSlug": "12277-xfs-brutal-conduct",
+      "round": 2,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2011-11-19T00:00:00.000Z",
+      "opponent": "Anthony Moore",
+      "opponentSlug": "20849-anthony-moore",
+      "result": "win",
+      "method": "sub",
+      "event": "XFS: Hillside Havoc",
+      "eventSlug": "11499-xfs-hillside-havoc",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-10-16T00:00:00.000Z",
+      "opponent": "Justin Berg",
+      "opponentSlug": "40436-justin-berg",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Gladiator Challenge",
+      "eventSlug": "12571-gladiator-challenge-pro-am-series-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-09-24T00:00:00.000Z",
+      "opponent": "Joe Neri",
+      "opponentSlug": "16755-joe-neri",
+      "result": "win",
+      "method": "other",
+      "event": "Gladiator Challenge",
+      "eventSlug": "11286-gladiator-challenge-armed-conflict",
+      "round": 1,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2011-05-21T00:00:00.000Z",
+      "opponent": "Brandon Anderson",
+      "opponentSlug": "20326-brandon-anderson",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-08-27T00:00:00.000Z",
+      "opponent": "Marco Daniels",
+      "opponentSlug": "10787-marco-daniels",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-06-02T00:00:00.000Z",
+      "opponent": "Luke Zachrich",
+      "opponentSlug": "luke-zachrich",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-05-12T00:00:00.000Z",
+      "opponent": "Gerald Meerschaert",
+      "opponentSlug": "6018-gerald-meerschaert-the-machine",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:16:23.502Z"
+}

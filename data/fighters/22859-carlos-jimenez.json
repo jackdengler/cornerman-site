@@ -1,0 +1,231 @@
+{
+  "slug": "22859-carlos-jimenez",
+  "name": "CJ Jimenez",
+  "nickname": "The Mechanic",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1987-04-16",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/22859-carlos-jimenez",
+  "recentFights": [
+    {
+      "date": "2026-03-15T00:00:00.000Z",
+      "opponent": "Kendon Lee",
+      "opponentSlug": "351618-kendon-lee",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fury FC 117",
+      "eventSlug": "139492-fury-fc-117-wint-vs-tatum",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-09T00:00:00.000Z",
+      "opponent": "Carlos Rivera",
+      "opponentSlug": "171324-carlos-rivera",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fury FC 111",
+      "eventSlug": "133410-fury-fc-111",
+      "round": 1,
+      "timeInRound": "3:36"
+    },
+    {
+      "date": "2024-12-15T00:00:00.000Z",
+      "opponent": "John Yannis",
+      "opponentSlug": "151617-john-yannies",
+      "result": "loss",
+      "method": "tko",
+      "event": "Fury FC 99: Aswell vs. Ramos",
+      "eventSlug": "119962-fury-fc-99",
+      "round": 2,
+      "timeInRound": "0:09"
+    },
+    {
+      "date": "2024-01-21T00:00:00.000Z",
+      "opponent": "Francisco Obando",
+      "opponentSlug": "121050-francisco-obando",
+      "result": "loss",
+      "method": "tko",
+      "event": "Fury FC 85: Aswell vs. Altum",
+      "eventSlug": "107478-fury-fc-85",
+      "round": 2,
+      "timeInRound": "0:36"
+    },
+    {
+      "date": "2023-10-22T00:00:00.000Z",
+      "opponent": "Shane Torres",
+      "opponentSlug": "171638-shane-torres",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fury Challenger Series 8",
+      "eventSlug": "104835-fury-challenger-series-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-21T00:00:00.000Z",
+      "opponent": "Cristian Lopez",
+      "opponentSlug": "232643-cristian-lopez",
+      "result": "win",
+      "method": "sub",
+      "event": "Fury Challenger Series 4",
+      "eventSlug": "100510-fury-challenger-series-4",
+      "round": 2,
+      "timeInRound": "3:41"
+    },
+    {
+      "date": "2023-01-15T00:00:00.000Z",
+      "opponent": "Rylan Melancon",
+      "opponentSlug": "206784-rylan-melanoon",
+      "result": "win",
+      "method": "tko",
+      "event": "Fury Challenger Series 2",
+      "eventSlug": "95375-fury-challenger-series-2",
+      "round": 2,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2022-08-14T00:00:00.000Z",
+      "opponent": "Aaron Gomez",
+      "opponentSlug": "39307-aaron-gomez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fury FC 67: Aliev vs. Richardson",
+      "eventSlug": "89284-fury-fc-67",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-24T00:00:00.000Z",
+      "opponent": "Moises Oropeza",
+      "opponentSlug": "166761-moises-oropeza",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Fury FC 60",
+      "eventSlug": "88016-fury-fc-60",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-05T00:00:00.000Z",
+      "opponent": "Eduardo Anaya",
+      "opponentSlug": "121035-eduardo-anaya",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fury FC 50",
+      "eventSlug": "79973-fury-fc-50",
+      "round": 1,
+      "timeInRound": "4:47"
+    },
+    {
+      "date": "2021-05-16T00:00:00.000Z",
+      "opponent": "Cameron Smotherman",
+      "opponentSlug": "232642-cameron-smotherean",
+      "result": "win",
+      "method": "other",
+      "event": "Fury FC 46: Lookin' For a Fight",
+      "eventSlug": "78119-fury-fc-46",
+      "round": 1,
+      "timeInRound": "0:13"
+    },
+    {
+      "date": "2012-07-27T00:00:00.000Z",
+      "opponent": "Ricardo Delgado",
+      "opponentSlug": "20067-ricardo-delgado",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Combat 10",
+      "eventSlug": "14489-cage-combat-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-03-02T00:00:00.000Z",
+      "opponent": "Leroy Shafer",
+      "opponentSlug": "22858-leroy-shafer",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Cage Combat 8",
+      "eventSlug": "12753-cage-combat-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-11-04T00:00:00.000Z",
+      "opponent": "James DeHerrera",
+      "opponentSlug": "19563-james-deherrera",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-07-01T00:00:00.000Z",
+      "opponent": "Ricardo Delgado",
+      "opponentSlug": "20067-ricardo-delgado",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-03-04T00:00:00.000Z",
+      "opponent": "Randy McCullough",
+      "opponentSlug": "22847-randy-mccullough",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-09-18T00:00:00.000Z",
+      "opponent": "Colin Wright",
+      "opponentSlug": "37542-colin-wright",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-05-14T00:00:00.000Z",
+      "opponent": "Manny Lozoya",
+      "opponentSlug": "29856-manny-lozoya",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-01-30T00:00:00.000Z",
+      "opponent": "Gerzan Chaw",
+      "opponentSlug": "16369-gerzan-chaw",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:05:17.662Z"
+}

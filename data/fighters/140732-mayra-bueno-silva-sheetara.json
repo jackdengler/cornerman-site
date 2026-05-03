@@ -1,0 +1,231 @@
+{
+  "slug": "140732-mayra-bueno-silva-sheetara",
+  "name": "Mayra Bueno Silva",
+  "nickname": "Sheetara",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 6,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": 169,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1991-08-22",
+  "nationality": "Uberlandia, Minas Gerais, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/140732-mayra-bueno-silva-sheetara",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Michelle Montague",
+      "opponentSlug": "237486-michell-montague",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "140114-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-08T00:00:00.000Z",
+      "opponent": "Jacqueline Cavalcanti",
+      "opponentSlug": "196666-jaqueline-cavalcanti",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "132761-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-02-01T00:00:00.000Z",
+      "opponent": "Jasmine Jasudavicius",
+      "opponentSlug": "171056-jasmine-jasdavicious",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "119459-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-29T00:00:00.000Z",
+      "opponent": "Macy Chiasson",
+      "opponentSlug": "77737-macy-chiasson",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 303: Pereira vs. Procházka 2",
+      "eventSlug": "109011-ufc",
+      "round": 2,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2024-01-20T00:00:00.000Z",
+      "opponent": "Raquel Pennington",
+      "opponentSlug": "26224-raquel-pennington",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 297: Strickland vs. Du Plessis",
+      "eventSlug": "105840-ufc-297",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-15T00:00:00.000Z",
+      "opponent": "Holly Holm",
+      "opponentSlug": "18698-holly-holm-hottie",
+      "result": "nc",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "100553-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-18T00:00:00.000Z",
+      "opponent": "Lina Länsberg",
+      "opponentSlug": "44543-lina-akhtar-lansberg",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "94589-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "4:45"
+    },
+    {
+      "date": "2022-08-06T00:00:00.000Z",
+      "opponent": "Stephanie Egger",
+      "opponentSlug": "114098-stephanie-egger",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "89111-ufc-fight-night-santos-vs-hill",
+      "round": 1,
+      "timeInRound": "1:17"
+    },
+    {
+      "date": "2022-04-16T00:00:00.000Z",
+      "opponent": "Yanan Wu",
+      "opponentSlug": "74942-ya-nan-wu",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "85814-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-16T00:00:00.000Z",
+      "opponent": "Manon Fiorot",
+      "opponentSlug": "136168-manon-fiorot",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "80539-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-02-27T00:00:00.000Z",
+      "opponent": "Montana De La Rosa",
+      "opponentSlug": "62316-montana-stewart",
+      "result": "draw",
+      "method": "dec-majority",
+      "event": "UFC Fight Night",
+      "eventSlug": "73679-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-19T00:00:00.000Z",
+      "opponent": "Mara Romero Borella",
+      "opponentSlug": "98890-mara-romero-borella",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "70810-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2020-03-14T00:00:00.000Z",
+      "opponent": "Maryna Moroz",
+      "opponentSlug": "73990-marina-moroz",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC on ESPN+ 28",
+      "eventSlug": "64600-ufc-on-espn-26",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-22T00:00:00.000Z",
+      "opponent": "Gillian Robertson",
+      "opponentSlug": "73142-gillian-robertson",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night 137",
+      "eventSlug": "53984-ufc-fight-night-137",
+      "round": 1,
+      "timeInRound": "4:55"
+    },
+    {
+      "date": "2018-08-10T00:00:00.000Z",
+      "opponent": "Mayana Souza",
+      "opponentSlug": "104970-mayana-kellen",
+      "result": "win",
+      "method": "other",
+      "event": "DW's Contender Series 2018",
+      "eventSlug": "54661-dw-s-contender-series-2018-brazil-1",
+      "round": 1,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2017-03-11T00:00:00.000Z",
+      "opponent": "Daiane Firmino",
+      "opponentSlug": "59730-daiane-firmino-dai-fox",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Batalha MMA 5",
+      "eventSlug": "43827-batalha-mma-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-21T00:00:00.000Z",
+      "opponent": "Taynna Taygma",
+      "opponentSlug": "144604-taynna-taygma",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-30T00:00:00.000Z",
+      "opponent": "Marilia Santos",
+      "opponentSlug": "56623-marilia-santos",
+      "result": "win",
+      "method": "other",
+      "event": "Sidney Sibamba Fight 4",
+      "eventSlug": "40462-sidney-sibamba-fight-4",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2015-03-07T00:00:00.000Z",
+      "opponent": "Shun Lee",
+      "opponentSlug": "159204-shun-lee",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "0:58"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:53:36.706Z"
+}

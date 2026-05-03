@@ -1,0 +1,231 @@
+{
+  "slug": "78843-jesse-strader",
+  "name": "Jesse Strader",
+  "nickname": "Sui Generis",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 178,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1991-05-29",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/78843-jesse-strader",
+  "recentFights": [
+    {
+      "date": "2026-05-09T00:00:00.000Z",
+      "opponent": "Francisco Rivera Jr.",
+      "opponentSlug": "francisco-rivera-cisco",
+      "result": null,
+      "method": "other",
+      "event": "UNF 33",
+      "eventSlug": "141922-unf-33",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-04-19T00:00:00.000Z",
+      "opponent": "Alex Valentino Arteaga",
+      "opponentSlug": "141351-alex-arteaga",
+      "result": "win",
+      "method": "other",
+      "event": "UNF 24",
+      "eventSlug": "124899-unf-24",
+      "round": 1,
+      "timeInRound": "4:53"
+    },
+    {
+      "date": "2024-09-28T00:00:00.000Z",
+      "opponent": "Albert Morales",
+      "opponentSlug": "64619-albert-morales",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UNF 20",
+      "eventSlug": "116857-unf-20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-02-24T00:00:00.000Z",
+      "opponent": "Francisco Rivera Jr.",
+      "opponentSlug": "francisco-rivera-cisco",
+      "result": "nc",
+      "method": "other",
+      "event": "UNF 16",
+      "eventSlug": "110501-unf-16",
+      "round": 2,
+      "timeInRound": "0:27"
+    },
+    {
+      "date": "2023-07-01T00:00:00.000Z",
+      "opponent": "Ryan Lilley",
+      "opponentSlug": "48775-ryan-lilley",
+      "result": "win",
+      "method": "sub",
+      "event": "UNF 9",
+      "eventSlug": "102056-unf-9",
+      "round": 2,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2023-01-28T00:00:00.000Z",
+      "opponent": "Taylor Alfaro",
+      "opponentSlug": "49346-taylor-alfaro",
+      "result": "win",
+      "method": "tko",
+      "event": "UNF 4",
+      "eventSlug": "96456-unf-4",
+      "round": 2,
+      "timeInRound": "3:35"
+    },
+    {
+      "date": "2022-02-19T00:00:00.000Z",
+      "opponent": "Chad Anheliger",
+      "opponentSlug": "20364-chad-anheliger",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "83406-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "3:33"
+    },
+    {
+      "date": "2021-03-20T00:00:00.000Z",
+      "opponent": "Montel Jackson",
+      "opponentSlug": "89335-montel-jackson",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "74572-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2019-08-02T00:00:00.000Z",
+      "opponent": "Isaiah Batin-Gonzalez",
+      "opponentSlug": "25494-isaiah-gonzalez",
+      "result": "win",
+      "method": "other",
+      "event": "Combate 41: Frausto vs. Cordoba",
+      "eventSlug": "60981-combate-45-fresno",
+      "round": 1,
+      "timeInRound": "1:56"
+    },
+    {
+      "date": "2019-04-26T00:00:00.000Z",
+      "opponent": "Michael Jackson",
+      "opponentSlug": "61669-michael-jackson",
+      "result": "win",
+      "method": "other",
+      "event": "Combate 36: Reinas",
+      "eventSlug": "58977-combate-36",
+      "round": 2,
+      "timeInRound": "4:41"
+    },
+    {
+      "date": "2018-10-26T00:00:00.000Z",
+      "opponent": "Marcelo Rojo",
+      "opponentSlug": "24632-marcelo-rojo",
+      "result": "loss",
+      "method": "other",
+      "event": "Combate 27: La Batalla de Guadalajara",
+      "eventSlug": "56142-combate-25-la-batalla-de-guadalajara",
+      "round": 1,
+      "timeInRound": "4:13"
+    },
+    {
+      "date": "2018-05-11T00:00:00.000Z",
+      "opponent": "José Aguayo",
+      "opponentSlug": "61573-jose-aguayo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combate 22: Mexico vs. USA",
+      "eventSlug": "53063-combate-20-mexico-vs-usa",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-02-24T00:00:00.000Z",
+      "opponent": "Cristian Garcia",
+      "opponentSlug": "47613-cristian-garcia",
+      "result": "win",
+      "method": "other",
+      "event": "KOTC: Energetic Pursuit",
+      "eventSlug": "51784-kotc",
+      "round": 2,
+      "timeInRound": "4:20"
+    },
+    {
+      "date": "2017-09-30T00:00:00.000Z",
+      "opponent": "Roberto Hernandez",
+      "opponentSlug": "47706-roberto-hernandez",
+      "result": "win",
+      "method": "other",
+      "event": "CFL 12",
+      "eventSlug": "48054-cfl-12",
+      "round": 1,
+      "timeInRound": "3:56"
+    },
+    {
+      "date": "2016-07-30T00:00:00.000Z",
+      "opponent": "Josh Wang-Kim",
+      "opponentSlug": "105532-josh-kim",
+      "result": "win",
+      "method": "dec-split",
+      "event": "CFL 8",
+      "eventSlug": "40860-cfl-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-06-20T00:00:00.000Z",
+      "opponent": "Danny Chiaramonte",
+      "opponentSlug": "82038-daniel-chiaramonte",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CFL HD 3: Rise of the Champions",
+      "eventSlug": "33092-cfl-hd-3-rise-of-the-champions",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-08-30T00:00:00.000Z",
+      "opponent": "Raul Hernandez",
+      "opponentSlug": "37606-raul-hernandez",
+      "result": "loss",
+      "method": "tko",
+      "event": "KOTC: Future Legends 25",
+      "eventSlug": "26082-kotc-future-legends-25",
+      "round": 1,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2013-05-18T00:00:00.000Z",
+      "opponent": "Jesus Garcia",
+      "opponentSlug": "181489-jesus-garcia",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-06-18T00:00:00.000Z",
+      "opponent": "Victor Borrayo",
+      "opponentSlug": "46207-victor-borrayo",
+      "result": "win",
+      "method": "sub",
+      "event": "XFS Amateur Fight Series 3",
+      "eventSlug": "42057-xfs-amateur-fight-series-3-legendary",
+      "round": 1,
+      "timeInRound": "1:49"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:37:35.820Z"
+}

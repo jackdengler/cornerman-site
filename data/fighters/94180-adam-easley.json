@@ -1,0 +1,169 @@
+{
+  "slug": "94180-adam-easley",
+  "name": "Adam Easley",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 6,
+    "losses": 7,
+    "draws": 0
+  },
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1987-06-10",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/94180-adam-easley",
+  "recentFights": [
+    {
+      "date": "2025-09-06T00:00:00.000Z",
+      "opponent": "Alan Aragon",
+      "opponentSlug": "356628-alan-aragon",
+      "result": "loss",
+      "method": "other",
+      "event": "Fierce Challenger Series 16",
+      "eventSlug": "131609-fierce-challenger-series-16",
+      "round": 1,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2024-09-14T00:00:00.000Z",
+      "opponent": "Luke Sanders",
+      "opponentSlug": "331245-luke-sanders",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Fierce Challenger Series 13",
+      "eventSlug": "116160-fierce-challenger-series-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-19T00:00:00.000Z",
+      "opponent": "Justin McDonald",
+      "opponentSlug": "209534-justin-mcdonald",
+      "result": "loss",
+      "method": "other",
+      "event": "SteelFist Fight Night",
+      "eventSlug": "99401-steelfist-fight-night",
+      "round": 2,
+      "timeInRound": "2:23"
+    },
+    {
+      "date": "2023-02-10T00:00:00.000Z",
+      "opponent": "Treyce Tuckett",
+      "opponentSlug": "340670-treyce-tuckett",
+      "result": "loss",
+      "method": "sub",
+      "event": "SteelFist Fight Night",
+      "eventSlug": "99106-steelfist-fight-night-elevated",
+      "round": 2,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2022-09-30T00:00:00.000Z",
+      "opponent": "Malachi Novosel",
+      "opponentSlug": "269678-malachi-novasol",
+      "result": "loss",
+      "method": "other",
+      "event": "Steelfist Fight Night",
+      "eventSlug": "92483-steeliest-fight-night-rampage",
+      "round": 2,
+      "timeInRound": "0:14"
+    },
+    {
+      "date": "2022-05-06T00:00:00.000Z",
+      "opponent": "Andrew Dean",
+      "opponentSlug": "231772-andrew-dean",
+      "result": "loss",
+      "method": "sub",
+      "event": "SteelFist Fight Night",
+      "eventSlug": "92481-steelfist-fight-night-pinnacle",
+      "round": 1,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2021-12-17T00:00:00.000Z",
+      "opponent": "Juan Alcantar",
+      "opponentSlug": "juan-alcain",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "SteelFist Fight Night",
+      "eventSlug": "85133-steelfist-fight-night-deck-the-halls",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-13T00:00:00.000Z",
+      "opponent": "Cole Faust",
+      "opponentSlug": "232186-cole-faust",
+      "result": "loss",
+      "method": "sub",
+      "event": "Steelfist Fight Night 75",
+      "eventSlug": "75774-steelfist-fight-night-74-resurrection",
+      "round": 1,
+      "timeInRound": "2:23"
+    },
+    {
+      "date": "2020-10-23T00:00:00.000Z",
+      "opponent": "Greg Nielsen",
+      "opponentSlug": "39321-greg-nielsen",
+      "result": "win",
+      "method": "sub",
+      "event": "MTF 18: Logan",
+      "eventSlug": "72819-mtf-18-logan",
+      "round": 2,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2016-05-21T00:00:00.000Z",
+      "opponent": "Kyle Frazier",
+      "opponentSlug": "76709-kyle-frazier",
+      "result": "win",
+      "method": "sub",
+      "event": "SteelFist Fight Night 42",
+      "eventSlug": "39537-steelfist-fight-night-42-night-of-champions",
+      "round": 2,
+      "timeInRound": "2:31"
+    },
+    {
+      "date": "2016-01-09T00:00:00.000Z",
+      "opponent": "Ului Papanue",
+      "opponentSlug": "77290-ului-papanue",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "SteelFist Fight Night 39",
+      "eventSlug": "37233-steelfist-fight-night-39-conquer",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-03T00:00:00.000Z",
+      "opponent": "Ethan Shepherd",
+      "opponentSlug": "115081-ethan-shepherd",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "SteelFist Fight Night 37",
+      "eventSlug": "35368-steelfist-fight-night-37-stacked",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-21T00:00:00.000Z",
+      "opponent": "Devin Black",
+      "opponentSlug": "88048-devin-black",
+      "result": "loss",
+      "method": "sub",
+      "event": "The Clash MMA 13",
+      "eventSlug": "30646-the-clash-mma-13",
+      "round": 2,
+      "timeInRound": "1:24"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:39:30.992Z"
+}

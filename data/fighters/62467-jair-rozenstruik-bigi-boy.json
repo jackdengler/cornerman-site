@@ -1,0 +1,253 @@
+{
+  "slug": "62467-jair-rozenstruik-bigi-boy",
+  "name": "Jairzinho Rozenstruik",
+  "nickname": "Bigi Boy",
+  "aliases": [],
+  "recordPro": {
+    "wins": 15,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": 198,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1988-03-17",
+  "nationality": "Paramaribo, Suriname",
+  "url": "https://www.tapology.com/fightcenter/fighters/62467-jair-rozenstruik-bigi-boy",
+  "recentFights": [
+    {
+      "date": "2025-02-01T00:00:00.000Z",
+      "opponent": "Sergei Pavlovich",
+      "opponentSlug": "89112-sergey-pavlovich",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "119459-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-08-17T00:00:00.000Z",
+      "opponent": "Tai Tuivasa",
+      "opponentSlug": "120884-tai-tuivasa-bam-bam",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC 305: Du Plessis vs. Adesanya",
+      "eventSlug": "111885-ufc-305",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-02T00:00:00.000Z",
+      "opponent": "Shamil Gaziev",
+      "opponentSlug": "201352-shamil-gaziev",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "106064-ufc-fight-night",
+      "round": 4,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2023-05-13T00:00:00.000Z",
+      "opponent": "Jailton Almeida",
+      "opponentSlug": "151690-jailton-junior-malhadinho",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC on ABC 4",
+      "eventSlug": "98223-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "3:43"
+    },
+    {
+      "date": "2022-12-10T00:00:00.000Z",
+      "opponent": "Chris Daukaus",
+      "opponentSlug": "25880-christopher-daukaus",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 282: Błachowicz vs. Ankalaev",
+      "eventSlug": "92214-ufc-282",
+      "round": 1,
+      "timeInRound": "0:23"
+    },
+    {
+      "date": "2022-06-04T00:00:00.000Z",
+      "opponent": "Alexander Volkov",
+      "opponentSlug": "alexander-volkov",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "86746-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2021-09-25T00:00:00.000Z",
+      "opponent": "Curtis Blaydes",
+      "opponentSlug": "51080-curtis-blaydes",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 266: Volkanovski vs. Ortega",
+      "eventSlug": "78601-ufc-266",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-05T00:00:00.000Z",
+      "opponent": "Augusto Sakai",
+      "opponentSlug": "44468-augusto-sakai",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "77692-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2021-02-27T00:00:00.000Z",
+      "opponent": "Ciryl Gane",
+      "opponentSlug": "187819-cyril-gane-real-c",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "73679-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-08-15T00:00:00.000Z",
+      "opponent": "Junior dos Santos",
+      "opponentSlug": "junior-dos-santos-cigano",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 252: Miocic vs. Cormier 3",
+      "eventSlug": "67159-ufc-on-espn",
+      "round": 2,
+      "timeInRound": "3:47"
+    },
+    {
+      "date": "2020-05-09T00:00:00.000Z",
+      "opponent": "Francis Ngannou",
+      "opponentSlug": "64378-francis-ngannou",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 249: Ferguson vs. Gaethje",
+      "eventSlug": "66312-ufc-250",
+      "round": 1,
+      "timeInRound": "0:20"
+    },
+    {
+      "date": "2019-12-07T00:00:00.000Z",
+      "opponent": "Alistair Overeem",
+      "opponentSlug": "alistair-overeem-demolition-man",
+      "result": "win",
+      "method": "other",
+      "event": "UFC on ESPN 7",
+      "eventSlug": "60325-ufc-on-espn-6",
+      "round": 5,
+      "timeInRound": "4:56"
+    },
+    {
+      "date": "2019-11-02T00:00:00.000Z",
+      "opponent": "Andrei Arlovski",
+      "opponentSlug": "andrei-arlovski-the-pitbull",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 244: Masvidal vs. Diaz",
+      "eventSlug": "60322-ufc-244",
+      "round": 1,
+      "timeInRound": "0:29"
+    },
+    {
+      "date": "2019-06-22T00:00:00.000Z",
+      "opponent": "Allen Crowder",
+      "opponentSlug": "34648-allen-crowder",
+      "result": "win",
+      "method": "other",
+      "event": "UFC on ESPN+ 12",
+      "eventSlug": "57512-ufc-on-espn-11",
+      "round": 1,
+      "timeInRound": "0:09"
+    },
+    {
+      "date": "2019-02-02T00:00:00.000Z",
+      "opponent": "Júnior Albini",
+      "opponentSlug": "36385-albini-muralha-junior-baby",
+      "result": "win",
+      "method": "other",
+      "event": "UFC on ESPN+ 2",
+      "eventSlug": "56348-ufc-fight-night-144",
+      "round": 2,
+      "timeInRound": "0:54"
+    },
+    {
+      "date": "2018-12-27T00:00:00.000Z",
+      "opponent": "Robert McCarthy",
+      "opponentSlug": "53362-robert-mccarthy-danger",
+      "result": "win",
+      "method": "other",
+      "event": "Fearless 3: Thaibox Gala",
+      "eventSlug": "57541-fearless-3-thaibox-gala",
+      "round": 1,
+      "timeInRound": "0:10"
+    },
+    {
+      "date": "2018-05-06T00:00:00.000Z",
+      "opponent": "Andrey Kovalev",
+      "opponentSlug": "123442-andrei-kovalev",
+      "result": "win",
+      "method": "dec-split",
+      "event": "RIZIN 10",
+      "eventSlug": "49924-rizin",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-22T00:00:00.000Z",
+      "opponent": "Marvin Aboeli",
+      "opponentSlug": "12128-marvin-aboeli",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-28T00:00:00.000Z",
+      "opponent": "Steven Berbin",
+      "opponentSlug": "175823-steven-berbin",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-11-24T00:00:00.000Z",
+      "opponent": "Evgeny Boldyrev",
+      "opponentSlug": "62369-evgeni-boldyrev",
+      "result": "win",
+      "method": "other",
+      "event": "Draka MMA: Governor's Cup 11",
+      "eventSlug": "18824-draka-mma-governor-s-cup-11",
+      "round": 1,
+      "timeInRound": "2:05"
+    },
+    {
+      "date": "2012-05-26T00:00:00.000Z",
+      "opponent": "Evgeny Boldyrev",
+      "opponentSlug": "62369-evgeni-boldyrev",
+      "result": "win",
+      "method": "other",
+      "event": "Draka MMA: Governor's Cup 7",
+      "eventSlug": "14440-draka-mma-governor-s-cup-7",
+      "round": 1,
+      "timeInRound": "2:36"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:11:16.623Z"
+}

@@ -1,0 +1,242 @@
+{
+  "slug": "23936-kevyn-thouin",
+  "name": "Kevyn Thouin",
+  "nickname": "The Juggernaut",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1989-04-27",
+  "nationality": "Drummondville, Quebec, Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/23936-kevyn-thouin",
+  "recentFights": [
+    {
+      "date": "2016-10-15T00:00:00.000Z",
+      "opponent": "Kevin Généreux",
+      "opponentSlug": "20753-kevin-genereux",
+      "result": "loss",
+      "method": "tko",
+      "event": "Hybrid Pro Series 5",
+      "eventSlug": "40230-hybrid-pro-series-5",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-15T00:00:00.000Z",
+      "opponent": "Jason Bissonette",
+      "opponentSlug": "35330-jason-bissonette-the-monster",
+      "result": "loss",
+      "method": "sub",
+      "event": "Hybrid Pro Series 2",
+      "eventSlug": "25559-hybrid-pro-series-2",
+      "round": 1,
+      "timeInRound": "3:53"
+    },
+    {
+      "date": "2014-06-21T00:00:00.000Z",
+      "opponent": "Karim Ranni",
+      "opponentSlug": "24105-karim-ranni",
+      "result": "loss",
+      "method": "other",
+      "event": "LAMMQ 3",
+      "eventSlug": "23353-lammq-3",
+      "round": 2,
+      "timeInRound": "4:14"
+    },
+    {
+      "date": "2014-03-08T00:00:00.000Z",
+      "opponent": "Julien Leblanc",
+      "opponentSlug": "24714-julien-leblanc",
+      "result": "loss",
+      "method": "sub",
+      "event": "Hybrid Pro Series 1",
+      "eventSlug": "21363-hybrid-pro-1",
+      "round": 2,
+      "timeInRound": "4:51"
+    },
+    {
+      "date": "2013-10-05T00:00:00.000Z",
+      "opponent": "Zander McComber",
+      "opponentSlug": "25013-zander-mccomber",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LAMMQ 1",
+      "eventSlug": "19066-lammq-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-03-02T00:00:00.000Z",
+      "opponent": "Dan Lariviere",
+      "opponentSlug": "24213-dan-lariviere",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Championnat du Quebec",
+      "eventSlug": "17549-championnat-du-quebec-finals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-01-26T00:00:00.000Z",
+      "opponent": "Nicolas Roy",
+      "opponentSlug": "42358-nicolas-roy",
+      "result": "win",
+      "method": "other",
+      "event": "Championnat du Quebec",
+      "eventSlug": "17424-championnat-du-quebec-de-mma-amateur",
+      "round": 2,
+      "timeInRound": "2:35"
+    },
+    {
+      "date": "2012-12-15T00:00:00.000Z",
+      "opponent": "Guillaume Chevarie",
+      "opponentSlug": "26648-guillaume-chevarie",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Sherbrooke Against All 5",
+      "eventSlug": "15773-sherbrooke-against-all-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-10-06T00:00:00.000Z",
+      "opponent": "Guillaume Chevarie",
+      "opponentSlug": "26648-guillaume-chevarie",
+      "result": "win",
+      "method": "other",
+      "event": "Let's Fight 5",
+      "eventSlug": "16308-lets-fight-5",
+      "round": 3,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2012-08-25T00:00:00.000Z",
+      "opponent": "Simon Fréchette",
+      "opponentSlug": "26724-simon-frechette",
+      "result": "win",
+      "method": "sub",
+      "event": "Ultimate Boss Fight Night 3",
+      "eventSlug": "15504-ultimate-boss-fight-night-3",
+      "round": 2,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2012-07-07T00:00:00.000Z",
+      "opponent": "Pascal Ledoux",
+      "opponentSlug": "26401-pascal-ledoux",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Let's Fight 4",
+      "eventSlug": "14652-lets-fight-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-05-26T00:00:00.000Z",
+      "opponent": "Yan Vaillancourt",
+      "opponentSlug": "21238-yan-vaillancourt",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Sherbrooke Against All 4",
+      "eventSlug": "12890-sherbrooke-against-all-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-05-05T00:00:00.000Z",
+      "opponent": "Kevin Massé",
+      "opponentSlug": "27249-kevin-masse",
+      "result": "win",
+      "method": "other",
+      "event": "Zone Hostile",
+      "eventSlug": "13872-zone-hostile-lultime-bataille-vii",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-03-03T00:00:00.000Z",
+      "opponent": "Mathieu Langlais",
+      "opponentSlug": "24108-mathieu-langlais",
+      "result": "loss",
+      "method": "sub",
+      "event": "Ultimaction 4",
+      "eventSlug": "13166-ultimaction-4",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-11-26T00:00:00.000Z",
+      "opponent": "O'Denva Phillips",
+      "opponentSlug": "21398-odenva-phillips",
+      "result": "loss",
+      "method": "other",
+      "event": "Victory MMA 4",
+      "eventSlug": "13057-victory-mma-4-battle-for-the-belts",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2011-11-05T00:00:00.000Z",
+      "opponent": "Azzam Jaber",
+      "opponentSlug": "24220-azzam-jaber",
+      "result": "win",
+      "method": "other",
+      "event": "EFL 3: The Comeback",
+      "eventSlug": "13096-efl-3",
+      "round": 2,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2011-07-02T00:00:00.000Z",
+      "opponent": "Mathieu Langlais",
+      "opponentSlug": "24108-mathieu-langlais",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "EFL 1: Hands Up Chin Down",
+      "eventSlug": "13098-efl-1-hands-up-chin-down",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-06-25T00:00:00.000Z",
+      "opponent": "Jonathan Brun",
+      "opponentSlug": "23968-jonathan-brun",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Victory MMA 1",
+      "eventSlug": "13060-victory-mma-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-04-16T00:00:00.000Z",
+      "opponent": "Jonathan Roblin",
+      "opponentSlug": "24127-jonathan-roblin",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Gladiateur MMA 1",
+      "eventSlug": "13086-gladiateur-mma-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-03-26T00:00:00.000Z",
+      "opponent": "Patrick Robert",
+      "opponentSlug": "24183-patrick-robert",
+      "result": "win",
+      "method": null,
+      "event": "Sherbrooke Against All 1",
+      "eventSlug": "13091-sherbrooke-against-all-1",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:58:14.066Z"
+}

@@ -1,0 +1,798 @@
+{
+  "slug": "142521-noche-de-campeones-10",
+  "name": "Noche de Campeones 10",
+  "promotion": "Pierre Salas Promotions",
+  "startTimeUtc": "2026-04-18T00:00:00.000Z",
+  "venueTimezone": null,
+  "venue": "Knockout Arena",
+  "location": "Santa Cruz de la Sierra, Bolivia",
+  "url": "https://www.tapology.com/fightcenter/events/142521-noche-de-campeones-10",
+  "status": "live",
+  "forumThreadId": "96983",
+  "fights": [
+    {
+      "id": "142521-noche-de-campeones-10#1",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "order": 1,
+      "cardSection": "main",
+      "weightClass": "125 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "205775-devon-lozej",
+        "name": "Devon Lozej",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "109896-ernesto-ibarra",
+        "name": "Ernesto Ibarra",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "live",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-17T23:56:07.796Z"
+    },
+    {
+      "id": "142521-noche-de-campeones-10#2",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "order": 2,
+      "cardSection": "main",
+      "weightClass": "160 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "193806-korey-taylor",
+        "name": "Korey Taylor",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "336743-taner-trembley",
+        "name": "Taner Trembley",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "live",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-17T23:56:07.796Z"
+    },
+    {
+      "id": "142521-noche-de-campeones-10#3",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "order": 3,
+      "cardSection": "main",
+      "weightClass": "155 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "121289-jose-cleiton-de-melo-junior-melo",
+        "name": "Junior Melo",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "178301-nikita-kulshin",
+        "name": "Nikita Kulshin",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "live",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-17T23:56:07.796Z"
+    },
+    {
+      "id": "142521-noche-de-campeones-10#4",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "order": 4,
+      "cardSection": "main",
+      "weightClass": "155 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "232186-cole-faust",
+        "name": "Cole Faust",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "307378-steve-collins",
+        "name": "Steve Collins",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "live",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-17T23:56:07.796Z"
+    },
+    {
+      "id": "142521-noche-de-campeones-10#5",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "order": 5,
+      "cardSection": "main",
+      "weightClass": "265 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "382864-rj-harris",
+        "name": "RJ Harris",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "303053-phillip-latu",
+        "name": "Phillip Latu",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "live",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-17T23:56:07.796Z"
+    },
+    {
+      "id": "142521-noche-de-campeones-10#6",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "order": 6,
+      "cardSection": "main",
+      "weightClass": "155 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "329282-canon-swanson",
+        "name": "Canon Swanson",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "292164-quintin-richards",
+        "name": "Quintin Richards",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "live",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-17T23:56:07.796Z"
+    },
+    {
+      "id": "142521-noche-de-campeones-10#7",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "order": 7,
+      "cardSection": "main",
+      "weightClass": "155 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "213615-kelton-sneve",
+        "name": "Kelton Sneve",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "151861-cedric-katambwa",
+        "name": "Cedric Katambwa",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "live",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-17T23:56:07.796Z"
+    },
+    {
+      "id": "142521-noche-de-campeones-10#8",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "order": 8,
+      "cardSection": "main",
+      "weightClass": "150 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "348174-noah-gasho",
+        "name": "Noah Gasho",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "272784-miljan-djukanovic",
+        "name": "Miljan Djukanovic",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-17T23:56:07.796Z"
+    },
+    {
+      "id": "142521-noche-de-campeones-10#9",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "order": 9,
+      "cardSection": "main",
+      "weightClass": "125 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "178522-oscar-alejandro-jurado-snchez",
+        "name": "Oscar Jurado Sánchez",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "361593-yermakhan-oryntaev",
+        "name": "Yermakhan Oryntaev",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-17T23:56:07.796Z"
+    },
+    {
+      "id": "142521-noche-de-campeones-10#10",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "order": 10,
+      "cardSection": "main",
+      "weightClass": "265 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "413108-ezaya-gomez-oropeza",
+        "name": "Ezayah Gomez",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "316599-lorenzo-figueroa",
+        "name": "Lorenzo Figueroa",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-17T23:56:07.796Z"
+    },
+    {
+      "id": "142521-noche-de-campeones-10#11",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "order": 11,
+      "cardSection": "main",
+      "weightClass": "155 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "190165-ralph-hernandez",
+        "name": "Ralph Hernandez III",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "311857-jeremiah-huff",
+        "name": "Jeremiah Huff",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-17T23:56:07.796Z"
+    },
+    {
+      "id": "142521-noche-de-campeones-10#12",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "order": 12,
+      "cardSection": "main",
+      "weightClass": "150 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "365733-sam-bailey",
+        "name": "Sam Bailey",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "85224-santana-acosta",
+        "name": "Santana Acosta",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-17T23:56:07.796Z"
+    },
+    {
+      "id": "142521-noche-de-campeones-10#13",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "order": 13,
+      "cardSection": "main",
+      "weightClass": "125 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "549291-gunnar-nelson",
+        "name": "Gunnar Nelson",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "461138-erick-medrano",
+        "name": "Erick Medrano",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-17T23:56:07.796Z"
+    },
+    {
+      "id": "142521-noche-de-campeones-10#14",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "order": 14,
+      "cardSection": "main",
+      "weightClass": "145 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "499516-kayara-hartfield",
+        "name": "Kayara Hartfield",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "427776-jessie-hays",
+        "name": "Jessie Hays",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-17T23:56:07.796Z"
+    },
+    {
+      "id": "142521-noche-de-campeones-10#15",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "order": 15,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "457865-roberto-cuellar",
+        "name": "Roberto Cuellar",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "557370-jorge-limpias",
+        "name": "Jorge Limpias",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-17T23:56:07.796Z"
+    },
+    {
+      "id": "142521-noche-de-campeones-10#16",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "order": 16,
+      "cardSection": "main",
+      "weightClass": "155 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "509380-rafael-hinojosa",
+        "name": "Rafael Hinojosa",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "518836-carlos-candia",
+        "name": "Carlos Candia",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-17T23:56:07.796Z"
+    },
+    {
+      "id": "142521-noche-de-campeones-10#17",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "order": 17,
+      "cardSection": "main",
+      "weightClass": "121 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "506855-prissca-mamani",
+        "name": "Prissca Mamani",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "557371-ariana-velasquez",
+        "name": "Ariana Velasquez",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-17T23:56:07.796Z"
+    },
+    {
+      "id": "142521-noche-de-campeones-10#18",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "order": 18,
+      "cardSection": "main",
+      "weightClass": "176 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "542949-junior-alvis",
+        "name": "Junior Alvis",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "557372-fernando-nava",
+        "name": "Fernando Nava",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-17T23:56:07.796Z"
+    },
+    {
+      "id": "142521-noche-de-campeones-10#19",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "order": 19,
+      "cardSection": "main",
+      "weightClass": "155 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "536575-jhairo-cuellar",
+        "name": "Jhairo Cuellar",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "514323-luis-justiniano",
+        "name": "Luis Justiniano",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-17T23:56:07.796Z"
+    },
+    {
+      "id": "142521-noche-de-campeones-10#20",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "order": 20,
+      "cardSection": "main",
+      "weightClass": "145 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "557378-manuel-figuera",
+        "name": "Manuel Figuera",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "557380-brandon-piloy",
+        "name": "Brandon Piloy",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-17T23:56:07.796Z"
+    },
+    {
+      "id": "142521-noche-de-campeones-10#21",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "order": 21,
+      "cardSection": "main",
+      "weightClass": "135 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "536110-josue-airase",
+        "name": "Josue Airase",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "557381-bryan-cespedes",
+        "name": "Bryan Céspedes",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-17T23:56:07.796Z"
+    },
+    {
+      "id": "142521-noche-de-campeones-10#22",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "order": 22,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "435114-manfredo-saavedra",
+        "name": "Manfredo Saavedra",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "440089-daniel-ortuste",
+        "name": "Daniel Ortuste",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-17T23:56:07.796Z"
+    },
+    {
+      "id": "142521-noche-de-campeones-10#23",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "order": 23,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "557384-miguel-paz",
+        "name": "Miguel Paz",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "510453-thiago-rodriguez",
+        "name": "Thiago Rodriguez",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-17T23:56:07.796Z"
+    },
+    {
+      "id": "142521-noche-de-campeones-10#24",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "order": 24,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "557386-alan-quete",
+        "name": "Alan Quete",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "557387-edierson-rodriguez",
+        "name": "Edierson Rodriguez",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-17T23:56:07.796Z"
+    },
+    {
+      "id": "142521-noche-de-campeones-10#25",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "order": 25,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "557388-santiago-guarachi",
+        "name": "Santiago Guarachi",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "557389-josue-hurtado",
+        "name": "Josue Hurtado",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-17T23:56:07.796Z"
+    },
+    {
+      "id": "142521-noche-de-campeones-10#26",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "order": 26,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "518970-kamil-arzadum",
+        "name": "Kamil Arzadum",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "557390-yair-guzman",
+        "name": "Yair Guzmán",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-17T23:56:07.796Z"
+    },
+    {
+      "id": "142521-noche-de-campeones-10#27",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "order": 27,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "557391-jose-mamani",
+        "name": "Jose Mamani",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "557392-matias-algaranaz",
+        "name": "Matias Algarañaz",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-17T23:56:07.796Z"
+    },
+    {
+      "id": "142521-noche-de-campeones-10#28",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "order": 28,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "557393-luis-ortiz",
+        "name": "Luis Ortiz",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "557394-bruno-velez",
+        "name": "Bruno Velez",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-17T23:56:07.796Z"
+    },
+    {
+      "id": "142521-noche-de-campeones-10#29",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "order": 29,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "557395-alexander-guzman",
+        "name": "Alexander Guzmán",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "557396-jesus-vasquez",
+        "name": "Jesús Vásquez",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-17T23:56:07.796Z"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:56:07.796Z"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "226571-mike-samadian",
+  "name": "Mike Samadian",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/226571-mike-samadian",
+  "recentFights": [
+    {
+      "date": "2019-08-03T00:00:00.000Z",
+      "opponent": "Tyler Hill",
+      "opponentSlug": "231800-tyler-hill",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Caged Warrior Championship 22",
+      "eventSlug": "61445-caged-warrior-championship-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-01T00:00:00.000Z",
+      "opponent": "John Yannis",
+      "opponentSlug": "151617-john-yannies",
+      "result": "loss",
+      "method": "other",
+      "event": "Caged Warrior Championship 21",
+      "eventSlug": "60559-caged-warrior-championship-21",
+      "round": 2,
+      "timeInRound": "1:36"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:30:41.323Z"
+}

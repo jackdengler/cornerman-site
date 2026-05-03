@@ -1,0 +1,132 @@
+{
+  "slug": "104712-jackie-gosh",
+  "name": "Jackie Gosh",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": 182,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1983-05-05",
+  "nationality": "Jerusalem, Israel",
+  "url": "https://www.tapology.com/fightcenter/fighters/104712-jackie-gosh",
+  "recentFights": [
+    {
+      "date": "2020-07-31T00:00:00.000Z",
+      "opponent": "Joaquin Buckley",
+      "opponentSlug": "55022-joaquin-buckley",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 87: Logan vs. Rosales",
+      "eventSlug": "70299-lfa-87-logan-vs-rosales",
+      "round": 2,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2019-06-20T00:00:00.000Z",
+      "opponent": "Buddy Wallace",
+      "opponentSlug": "36467-randall-wallace-buddy",
+      "result": "win",
+      "method": "sub",
+      "event": "Final Fight Championship 38",
+      "eventSlug": "59751-final-fight-championship-38",
+      "round": 1,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2018-11-15T00:00:00.000Z",
+      "opponent": "Jamil Ibragimov",
+      "opponentSlug": "91568-jamil-ibragimov",
+      "result": "loss",
+      "method": "tko",
+      "event": "Bellator 209",
+      "eventSlug": "54870-bellator-pitbull-vs-sanchez",
+      "round": 1,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2017-06-02T00:00:00.000Z",
+      "opponent": "Oleg Dadonov",
+      "opponentSlug": "141697-oleg-dadonov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fight Nights Global 68",
+      "eventSlug": "45285-fight-nights-global-68",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-10T00:00:00.000Z",
+      "opponent": "Joaquin Buckley",
+      "opponentSlug": "55022-joaquin-buckley",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 164",
+      "eventSlug": "41700-bellator-163-koreshkov-vs-lima-2",
+      "round": 1,
+      "timeInRound": "2:44"
+    },
+    {
+      "date": "2016-01-23T00:00:00.000Z",
+      "opponent": "Nidzhat Karabakhskiy",
+      "opponentSlug": "125465-nidzhat-karabakhskiy",
+      "result": "win",
+      "method": "sub",
+      "event": "RFP 41: Wolf Fighting Club 9",
+      "eventSlug": "38141-wolf-fighting-club-9",
+      "round": 1,
+      "timeInRound": "0:55"
+    },
+    {
+      "date": "2015-10-31T00:00:00.000Z",
+      "opponent": "Maté Galbács",
+      "opponentSlug": "99135-mate-galbacs",
+      "result": "win",
+      "method": "sub",
+      "event": "HFC 11",
+      "eventSlug": "33346-hfc-11",
+      "round": 2,
+      "timeInRound": "0:57"
+    },
+    {
+      "date": "2015-10-19T00:00:00.000Z",
+      "opponent": "Alexandru Ianțoc",
+      "opponentSlug": "112274-alexandru-ianoc",
+      "result": "win",
+      "method": "sub",
+      "event": "RXF 20: The Champion is Here",
+      "eventSlug": "35884-rxf-20",
+      "round": 2,
+      "timeInRound": "4:25"
+    },
+    {
+      "date": "2015-06-15T00:00:00.000Z",
+      "opponent": "Ciprian Ratză",
+      "opponentSlug": "88821-ratza-ciprian",
+      "result": "win",
+      "method": "sub",
+      "event": "RXF 18: Cluj-Napoca Fight Night",
+      "eventSlug": "32013-rxf-18",
+      "round": 1,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2010-11-12T00:00:00.000Z",
+      "opponent": "Amioz Boyd",
+      "opponentSlug": "139982-amioz-boyd",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:00:03.318Z"
+}

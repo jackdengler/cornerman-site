@@ -1,0 +1,103 @@
+{
+  "slug": "277364-alan-silva-jr",
+  "name": "Alan Silva Jr.",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 4,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1999-08-02",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/277364-alan-silva-jr",
+  "recentFights": [
+    {
+      "date": "2022-06-25T00:00:00.000Z",
+      "opponent": "Brock Hamer",
+      "opponentSlug": "299603-brock-hamer",
+      "result": "loss",
+      "method": "sub",
+      "event": "MCC 67",
+      "eventSlug": "89633-mcc-67",
+      "round": 1,
+      "timeInRound": "2:10"
+    },
+    {
+      "date": "2022-02-12T00:00:00.000Z",
+      "opponent": "Dylan Smerillo",
+      "opponentSlug": "277363-dylan-smerillo",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fight Night at Fort Frenzy 17",
+      "eventSlug": "89642-fight-night-at-fort-frenzy-17",
+      "round": 1,
+      "timeInRound": "2:47"
+    },
+    {
+      "date": "2021-10-16T00:00:00.000Z",
+      "opponent": "Caleb Coleman",
+      "opponentSlug": "302015-caleb-coleman",
+      "result": "win",
+      "method": "other",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "83348-brutaal-genesis-fight-night-fort-frenzy-16",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2021-06-26T00:00:00.000Z",
+      "opponent": "Miljan Djukanovic",
+      "opponentSlug": "272784-miljan-djukanovic",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MCC 65: The Return",
+      "eventSlug": "79612-mcc-65-the-return",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-08T00:00:00.000Z",
+      "opponent": "Brandon Trees",
+      "opponentSlug": "220161-brandon-trees",
+      "result": "loss",
+      "method": "sub",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "79020-brutaal-genesis-fight-night-fort-frenzy-14",
+      "round": 1,
+      "timeInRound": "1:26"
+    },
+    {
+      "date": "2021-02-06T00:00:00.000Z",
+      "opponent": "Logan Rohlfing",
+      "opponentSlug": "227636-logan-rohlfing",
+      "result": "win",
+      "method": "tko",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "76071-brutaal-genesis-fight-night-fort-frenzy-13",
+      "round": 1,
+      "timeInRound": "1:55"
+    },
+    {
+      "date": "2020-11-07T00:00:00.000Z",
+      "opponent": "Dawson Lalor",
+      "opponentSlug": "226822-dawson-lalor",
+      "result": "win",
+      "method": "tko",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "74038-brutaal-genesis-fight-night-fort-frenzy-11",
+      "round": 3,
+      "timeInRound": "0:25"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:42:53.380Z"
+}

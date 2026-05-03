@@ -1,0 +1,44 @@
+{
+  "slug": "116770-arouna-kanoute-the-spider",
+  "name": "Arouna Kanoute",
+  "nickname": "The Spider",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1991-08-29",
+  "nationality": "France",
+  "url": "https://www.tapology.com/fightcenter/fighters/116770-arouna-kanoute-the-spider",
+  "recentFights": [
+    {
+      "date": "2016-11-12T00:00:00.000Z",
+      "opponent": "William Gomis",
+      "opponentSlug": "125696-william-gomis",
+      "result": "loss",
+      "method": "other",
+      "event": "Octagon Fighting Club 16",
+      "eventSlug": "42771-octagon-fighting-club-16",
+      "round": 2,
+      "timeInRound": "4:25"
+    },
+    {
+      "date": "2014-02-15T00:00:00.000Z",
+      "opponent": "Herman Grebaba",
+      "opponentSlug": "54401-herman-grebaba",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:55:30.538Z"
+}

@@ -1,0 +1,198 @@
+{
+  "slug": "67529-diorden-maguila",
+  "name": "Djorden Santos",
+  "nickname": "Shakur",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 192,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1997-08-01",
+  "nationality": "Belo Horizonte, Minas Gerais, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/67529-diorden-maguila",
+  "recentFights": [
+    {
+      "date": "2026-05-09T00:00:00.000Z",
+      "opponent": "Baisangur Susurkaev",
+      "opponentSlug": "281344-baysangur-susurkaev",
+      "result": null,
+      "method": "other",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "eventSlug": "140614-ufc-328",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-18T00:00:00.000Z",
+      "opponent": "Danny Barlow",
+      "opponentSlug": "222456-danny-barlow",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "129312-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-08T00:00:00.000Z",
+      "opponent": "Ozzy Diaz",
+      "opponentSlug": "61676-ozzy-diaz",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 313: Pereira vs. Ankalaev",
+      "eventSlug": "120488-ufc-313",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-03T00:00:00.000Z",
+      "opponent": "Will Currie",
+      "opponentSlug": "153147-will-currie",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Contender Series 2024",
+      "eventSlug": "112921-contender-series-2024-week-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-24T00:00:00.000Z",
+      "opponent": "Filipe Moitinho",
+      "opponentSlug": "224268-filipe-moitinho",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Thunder Fight 39",
+      "eventSlug": "95017-thunder-fight-39",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-19T00:00:00.000Z",
+      "opponent": "Miguel Firmino",
+      "opponentSlug": "129416-miguel-firmino-demolidor",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Thunder Fight 33",
+      "eventSlug": "84138-thunder-fight-33-legends",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-14T00:00:00.000Z",
+      "opponent": "Daniel Chicão",
+      "opponentSlug": "56494-daniel-chico",
+      "result": "win",
+      "method": "other",
+      "event": "X1 Kombat 4",
+      "eventSlug": "81516-x1-kombat-4",
+      "round": 2,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2021-07-31T00:00:00.000Z",
+      "opponent": "Rodolfo Oliveira",
+      "opponentSlug": "192728-rodolfo-oliveira-dolfao",
+      "result": "win",
+      "method": "other",
+      "event": "SFFN 4",
+      "eventSlug": "79950-sffn-4",
+      "round": 2,
+      "timeInRound": "1:40"
+    },
+    {
+      "date": "2019-01-25T00:00:00.000Z",
+      "opponent": "Cristhian Torres",
+      "opponentSlug": "33572-cristian-torres",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Titan FC 52",
+      "eventSlug": "57434-titan-fc-52-soares-vs-uruguai",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-07T00:00:00.000Z",
+      "opponent": "Khristhian Aranha",
+      "opponentSlug": "87740-khristhian-aranha-silva",
+      "result": "win",
+      "method": "other",
+      "event": "Samurai Fight 1",
+      "eventSlug": "55524-samuray-fight-1",
+      "round": 3,
+      "timeInRound": "1:52"
+    },
+    {
+      "date": "2017-03-31T00:00:00.000Z",
+      "opponent": "Jerônimo Oliveira",
+      "opponentSlug": "54309-gernimo-oliveira-gera",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-26T00:00:00.000Z",
+      "opponent": "Cristiano Bonis",
+      "opponentSlug": "121271-cristiano-bonis",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-08T00:00:00.000Z",
+      "opponent": "Eduardo Silva",
+      "opponentSlug": "47522-eduardo-silva",
+      "result": "win",
+      "method": "sub",
+      "event": "Aspera FC 45",
+      "eventSlug": "39046-aspera-fc-45",
+      "round": 2,
+      "timeInRound": "2:31"
+    },
+    {
+      "date": "2014-10-04T00:00:00.000Z",
+      "opponent": "Rafael Castro",
+      "opponentSlug": "361311-rafael-castro",
+      "result": "win",
+      "method": "other",
+      "event": "BH Fight Open MMA Amador",
+      "eventSlug": "95117-bh-fight-open-mma-amador",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-09-27T00:00:00.000Z",
+      "opponent": "Haroldo Ferreira",
+      "opponentSlug": "140399-haroldo-ferreira-de-mello-filho-iron-man",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Full House Battle Home 9",
+      "eventSlug": "28213-full-house-battle-home-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-29T00:00:00.000Z",
+      "opponent": "Igor de Araujo",
+      "opponentSlug": "67530-igor-gigante",
+      "result": "win",
+      "method": "tko",
+      "event": "Full House Battle Home 3.1",
+      "eventSlug": "23566-full-house-battle-home-3-dia-1",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T21:53:53.936Z"
+}

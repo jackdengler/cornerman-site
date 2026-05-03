@@ -1,0 +1,198 @@
+{
+  "slug": "47202-damarcus-holmes",
+  "name": "Damarcus Holmes",
+  "nickname": "Air Time",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1989-04-04",
+  "nationality": "Clarksville, Tennessee, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/47202-damarcus-holmes",
+  "recentFights": [
+    {
+      "date": "2017-08-19T00:00:00.000Z",
+      "opponent": "Graeme Prue",
+      "opponentSlug": "graeme-prue",
+      "result": "win",
+      "method": "other",
+      "event": "Concert And The Cage 11",
+      "eventSlug": "47911-armbars-guitars",
+      "round": 2,
+      "timeInRound": "2:37"
+    },
+    {
+      "date": "2017-01-21T00:00:00.000Z",
+      "opponent": "Cleveland McLean",
+      "opponentSlug": "26187-cleveland-mclean",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combat Night Pro",
+      "eventSlug": "43201-combat-night-pro",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-08-27T00:00:00.000Z",
+      "opponent": "Devin Ward",
+      "opponentSlug": "59140-devin-ward",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Valor Fights 37",
+      "eventSlug": "41138-valor-fights-37-grun-vs-anders",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-22T00:00:00.000Z",
+      "opponent": "Cody Durden",
+      "opponentSlug": "68337-cody-durden",
+      "result": "loss",
+      "method": "sub",
+      "event": "NFC 85: Walton vs. Smith",
+      "eventSlug": "40890-nfc-85",
+      "round": 1,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2016-04-30T00:00:00.000Z",
+      "opponent": "Michael Whaley",
+      "opponentSlug": "85252-michael-whaley",
+      "result": "win",
+      "method": "sub",
+      "event": "Conflict MMA 37",
+      "eventSlug": "38048-conflict-mma-37",
+      "round": 2,
+      "timeInRound": "1:33"
+    },
+    {
+      "date": "2015-12-05T00:00:00.000Z",
+      "opponent": "Cee Jay Hamilton",
+      "opponentSlug": "37017-cj-hamilton",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "NFC 80",
+      "eventSlug": "37029-nfc-80",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-07-25T00:00:00.000Z",
+      "opponent": "Varon Webb",
+      "opponentSlug": "25702-varon-webb",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Conflict MMA 29",
+      "eventSlug": "33281-conflict-mma-29",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-06-27T00:00:00.000Z",
+      "opponent": "Angel Marquez",
+      "opponentSlug": "94223-angel-marquez",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Fear No Battle 5",
+      "eventSlug": "33664-fear-no-battle-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-04-04T00:00:00.000Z",
+      "opponent": "Michael Ryals",
+      "opponentSlug": "31649-michael-brandon-ryals-lil-lethal",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Conflict MMA 26",
+      "eventSlug": "31782-conflict-mma-25-newtown-beatdown",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-15T00:00:00.000Z",
+      "opponent": "Austin McCray",
+      "opponentSlug": "75234-austin-mccray",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-08-02T00:00:00.000Z",
+      "opponent": "Loubriel Vazquez",
+      "opponentSlug": "93826-lou-vasquez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-05-10T00:00:00.000Z",
+      "opponent": "Cole Ferrell",
+      "opponentSlug": "93827-cole-ferrell",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-12-07T00:00:00.000Z",
+      "opponent": "Nate McCall",
+      "opponentSlug": "93828-nate-mccall",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-05-04T00:00:00.000Z",
+      "opponent": "Jerald Colbert",
+      "opponentSlug": "47203-jerald-colbert",
+      "result": "win",
+      "method": "dec-split",
+      "event": "BAMA: Rise of Champions",
+      "eventSlug": "18853-bama-rise-of-champions",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-04-26T00:00:00.000Z",
+      "opponent": "Tate Phillips",
+      "opponentSlug": "71313-tate-phillips",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-03-02T00:00:00.000Z",
+      "opponent": "David Walker",
+      "opponentSlug": "93829-david-walker",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combat Night 11",
+      "eventSlug": "30513-combat-night-11",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-19T19:10:29.270Z"
+}

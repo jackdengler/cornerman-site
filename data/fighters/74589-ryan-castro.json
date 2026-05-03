@@ -1,0 +1,198 @@
+{
+  "slug": "74589-ryan-castro",
+  "name": "Ryan Castro",
+  "nickname": "Loborious",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": 178,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1992-06-02",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/74589-ryan-castro",
+  "recentFights": [
+    {
+      "date": "2021-03-27T00:00:00.000Z",
+      "opponent": "Dylan Bryson",
+      "opponentSlug": "57925-dylan-bryson",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Triton Fights 18",
+      "eventSlug": "77667-triton-fights-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-13T00:00:00.000Z",
+      "opponent": "Dennis Buzukja",
+      "opponentSlug": "131561-dennis-buzukia",
+      "result": "loss",
+      "method": "other",
+      "event": "Bellator 208",
+      "eventSlug": "54298-bellator-208-fedor-vs-sonnen",
+      "round": 1,
+      "timeInRound": "2:53"
+    },
+    {
+      "date": "2018-04-06T00:00:00.000Z",
+      "opponent": "Pat Casey",
+      "opponentSlug": "89979-pat-casey",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "CES 49",
+      "eventSlug": "50832-ces-49",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-02T00:00:00.000Z",
+      "opponent": "Tim Ring",
+      "opponentSlug": "131033-tim-ring",
+      "result": "win",
+      "method": "sub",
+      "event": "Triton Fights 5",
+      "eventSlug": "43328-triton-fights-5",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-16T00:00:00.000Z",
+      "opponent": "Justin Elliott Walker",
+      "opponentSlug": "128076-justin-elliott-walker",
+      "result": "win",
+      "method": "sub",
+      "event": "NYFE 15",
+      "eventSlug": "47604-nyfe-15",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2017-09-08T00:00:00.000Z",
+      "opponent": "Johnny Pierro",
+      "opponentSlug": "136875-johnny-pierro",
+      "result": "win",
+      "method": "other",
+      "event": "Triton Fights 4",
+      "eventSlug": "43327-triton-fights-4",
+      "round": 2,
+      "timeInRound": "1:34"
+    },
+    {
+      "date": "2017-05-06T00:00:00.000Z",
+      "opponent": "Davon Zimmerman",
+      "opponentSlug": "72525-devon-zimmerman",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "NYFE 14: Pressure Creates Diamonds",
+      "eventSlug": "44063-nyfe-14-pressure-creates-diamonds",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-24T00:00:00.000Z",
+      "opponent": "Alvin Davis",
+      "opponentSlug": "52428-alvin-davis",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Golden MMA Championships",
+      "eventSlug": "43847-golden-mma-championships",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-09T00:00:00.000Z",
+      "opponent": "Paul Thimote",
+      "opponentSlug": "83043-paul-thimote",
+      "result": "loss",
+      "method": "other",
+      "event": "KTFO 15",
+      "eventSlug": "40575-ktfo-15",
+      "round": 1,
+      "timeInRound": "0:09"
+    },
+    {
+      "date": "2016-04-30T00:00:00.000Z",
+      "opponent": "Jude Paulemon",
+      "opponentSlug": "74120-jude-paulemon",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "KTFO 13",
+      "eventSlug": "38988-ktfo-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-02-19T00:00:00.000Z",
+      "opponent": "Thomas Kern",
+      "opponentSlug": "57737-thomas-kern",
+      "result": "win",
+      "method": "other",
+      "event": "MMA Platinum Gloves 12",
+      "eventSlug": "37407-mma-platinum-gloves-12",
+      "round": 1,
+      "timeInRound": "0:12"
+    },
+    {
+      "date": "2015-09-12T00:00:00.000Z",
+      "opponent": "Nick Fiore",
+      "opponentSlug": "74123-nick-fiore",
+      "result": "loss",
+      "method": "sub",
+      "event": "NYFE 8: Only The Strong Survive",
+      "eventSlug": "33686-nyfe-8",
+      "round": 2,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2015-03-28T00:00:00.000Z",
+      "opponent": "Sam Watford",
+      "opponentSlug": "62801-sam-watford",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "NYFE 6: The Fight Marches On",
+      "eventSlug": "29814-nyfe-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-02-07T00:00:00.000Z",
+      "opponent": "Drew Nolan",
+      "opponentSlug": "55721-andrew-nolan",
+      "result": "win",
+      "method": "tko",
+      "event": "MMA Platinum Gloves 8",
+      "eventSlug": "28618-mma-platinum-gloves-8",
+      "round": 1,
+      "timeInRound": "0:22"
+    },
+    {
+      "date": "2015-01-23T00:00:00.000Z",
+      "opponent": "Andre Small",
+      "opponentSlug": "64129-andrew-small",
+      "result": "win",
+      "method": "sub",
+      "event": "NYFE 5: When Hell Freezes Over",
+      "eventSlug": "28568-nyfe-5-when-hell-freezes-over",
+      "round": 1,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2014-11-01T00:00:00.000Z",
+      "opponent": "James Gonzalez",
+      "opponentSlug": "79020-james-gonzalez",
+      "result": "win",
+      "method": "dec-split",
+      "event": "MMA Platinum Gloves 7",
+      "eventSlug": "27310-mma-platinum-gloves-7",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:13:14.224Z"
+}

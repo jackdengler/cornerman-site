@@ -1,0 +1,110 @@
+{
+  "slug": "229259-karen-quintero",
+  "name": "Karen Quintero",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 155,
+  "reachCm": 157,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Colombia",
+  "url": "https://www.tapology.com/fightcenter/fighters/229259-karen-quintero",
+  "recentFights": [
+    {
+      "date": "2025-04-05T00:00:00.000Z",
+      "opponent": "Katherinne Machuca",
+      "opponentSlug": "402969-katherinne-machuca",
+      "result": "loss",
+      "method": "other",
+      "event": "Guerra Campal 7",
+      "eventSlug": "124418-empire-mma-xi-guerra-campal-7",
+      "round": 1,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2023-07-08T00:00:00.000Z",
+      "opponent": "Lina Narvaez",
+      "opponentSlug": "254361-lina-narvaez",
+      "result": "loss",
+      "method": "other",
+      "event": "Empire MMA 5",
+      "eventSlug": "99941-empire-mma-v",
+      "round": 1,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2023-04-14T00:00:00.000Z",
+      "opponent": "Natasha Kuziutina",
+      "opponentSlug": "363577-natasha-kuziutina-kuzya",
+      "result": "loss",
+      "method": "sub",
+      "event": "Titan FC 81",
+      "eventSlug": "98855-titan-fc-81",
+      "round": 1,
+      "timeInRound": "0:39"
+    },
+    {
+      "date": "2022-09-24T00:00:00.000Z",
+      "opponent": "Yasmeli Araque",
+      "opponentSlug": "165645-yasmeli-araque",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Xpartana MMA 4",
+      "eventSlug": "92657-xpartana-mma-04-edicion",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-29T00:00:00.000Z",
+      "opponent": "Talita Alencar",
+      "opponentSlug": "217437-talita-alencar",
+      "result": "loss",
+      "method": "sub",
+      "event": "Titan FC 78",
+      "eventSlug": "91486-titan-fc-78",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2019-08-03T00:00:00.000Z",
+      "opponent": "Luisa Cifuentes",
+      "opponentSlug": "108519-luisa-fernanda-cifuentes-harley-quinn",
+      "result": "loss",
+      "method": "other",
+      "event": "Caray 2: Temporada 1 MMA Fights",
+      "eventSlug": "61486-caray-mma-boxing-temporada-1-mma-fights-2",
+      "round": 1,
+      "timeInRound": "1:03"
+    },
+    {
+      "date": "2019-04-13T00:00:00.000Z",
+      "opponent": "Laura Milena Contreras",
+      "opponentSlug": "165644-laura-contreras",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Caray 1",
+      "eventSlug": "59671-caray-peleas-profesionales",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-02T00:00:00.000Z",
+      "opponent": "Juliana Otálora",
+      "opponentSlug": "179678-juliana-otlora",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Time 20 Aniversario",
+      "eventSlug": "62276-fight-time-20-aniversario",
+      "round": 1,
+      "timeInRound": "2:27"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:58:36.697Z"
+}

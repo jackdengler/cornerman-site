@@ -1,0 +1,154 @@
+{
+  "slug": "188764-greg-velasco",
+  "name": "Greg Velasco",
+  "nickname": "The Viking King",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": 178,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1993-09-23",
+  "nationality": "Trenton, New Jersey, USA",
+  "url": "https://www.tapology.com/fightcenter/fighters/188764-greg-velasco",
+  "recentFights": [
+    {
+      "date": "2024-04-12T00:00:00.000Z",
+      "opponent": "Bailey Schoenfelder",
+      "opponentSlug": "294038-bailey-schoenfelder",
+      "result": "loss",
+      "method": "tko",
+      "event": "CFFC 131: Fernandez vs. Dicke",
+      "eventSlug": "110788-cffc-131-fernandez-vs-dicke",
+      "round": 2,
+      "timeInRound": "3:24"
+    },
+    {
+      "date": "2023-09-19T00:00:00.000Z",
+      "opponent": "Shamil Gaziev",
+      "opponentSlug": "201352-shamil-gaziev",
+      "result": "loss",
+      "method": "sub",
+      "event": "Contender Series 2023",
+      "eventSlug": "100997-contender-series-2023-week-7",
+      "round": 1,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2023-03-31T00:00:00.000Z",
+      "opponent": "Ronald Coleman",
+      "opponentSlug": "279096-ronald-coleman",
+      "result": "win",
+      "method": "other",
+      "event": "CFFC 117: Kamchybekov vs. Gunnison",
+      "eventSlug": "97942-cffc-117-kamchybekov-vs-gunnison",
+      "round": 2,
+      "timeInRound": "4:11"
+    },
+    {
+      "date": "2022-10-08T00:00:00.000Z",
+      "opponent": "Kevin Sears",
+      "opponentSlug": "45001-kevin-sears",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CFFC 113: Sears vs. Velasco",
+      "eventSlug": "92969-cffc-113",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-15T00:00:00.000Z",
+      "opponent": "Edwin Smart",
+      "opponentSlug": "77346-edwin-smart",
+      "result": "win",
+      "method": "sub",
+      "event": "CFFC 107: Bilder vs. Carvalho",
+      "eventSlug": "87363-cffc-107-bilder-vs-carvalho",
+      "round": 2,
+      "timeInRound": "2:49"
+    },
+    {
+      "date": "2021-12-17T00:00:00.000Z",
+      "opponent": "Willie Tarpley",
+      "opponentSlug": "12383-william-tarpley",
+      "result": "win",
+      "method": "sub",
+      "event": "CFFC 104: Torres vs. Bilder",
+      "eventSlug": "83370-cffc-104",
+      "round": 2,
+      "timeInRound": "3:34"
+    },
+    {
+      "date": "2021-10-02T00:00:00.000Z",
+      "opponent": "Jacob Heavlin",
+      "opponentSlug": "175056-jacob-heavlin",
+      "result": "win",
+      "method": "sub",
+      "event": "CFFC 101: Nkuta vs. Diaz",
+      "eventSlug": "82133-cffc-101",
+      "round": 2,
+      "timeInRound": "4:40"
+    },
+    {
+      "date": "2021-05-29T00:00:00.000Z",
+      "opponent": "Halston Williams",
+      "opponentSlug": "51378-halston-williams",
+      "result": "win",
+      "method": "other",
+      "event": "CFFC 97: Reed vs. Rose",
+      "eventSlug": "78964-cffc-97",
+      "round": 1,
+      "timeInRound": "3:18"
+    },
+    {
+      "date": "2019-06-14T00:00:00.000Z",
+      "opponent": "Hamdy Abdelwahab",
+      "opponentSlug": "227049-hamdy-abdelwahab",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "CFFC 76",
+      "eventSlug": "59422-cffc-76",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-27T00:00:00.000Z",
+      "opponent": "Gregg White",
+      "opponentSlug": "211127-gregg-white",
+      "result": "win",
+      "method": "sub",
+      "event": "Stellar Fights 41",
+      "eventSlug": "59852-stellar-fights-41",
+      "round": 1,
+      "timeInRound": "2:31"
+    },
+    {
+      "date": "2019-03-02T00:00:00.000Z",
+      "opponent": "Ian Allston",
+      "opponentSlug": "188456-ian-allston",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CFFC 73: Anyanwu vs. Daukaus",
+      "eventSlug": "56945-cffc-73",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-08T00:00:00.000Z",
+      "opponent": "Tommy Martinez",
+      "opponentSlug": "143498-tommy-martinez",
+      "result": "win",
+      "method": "sub",
+      "event": "NYFE 16: Kings of New York",
+      "eventSlug": "53906-nyfe-17",
+      "round": 1,
+      "timeInRound": "2:41"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:55:16.989Z"
+}

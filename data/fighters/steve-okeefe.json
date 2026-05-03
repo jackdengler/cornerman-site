@@ -1,0 +1,165 @@
+{
+  "slug": "steve-okeefe",
+  "name": "Steve O'Keefe",
+  "nickname": "The Spartan",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 171,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "England",
+  "url": "https://www.tapology.com/fightcenter/fighters/steve-okeefe",
+  "recentFights": [
+    {
+      "date": "2019-03-02T00:00:00.000Z",
+      "opponent": "Jai Herbert",
+      "opponentSlug": "70002-jai-herbert",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 102",
+      "eventSlug": "55680-cage-warriors-102",
+      "round": 1,
+      "timeInRound": "4:07"
+    },
+    {
+      "date": "2018-03-09T00:00:00.000Z",
+      "opponent": "Martyn Harris",
+      "opponentSlug": "78744-martyn-harris",
+      "result": "win",
+      "method": "sub",
+      "event": "BAMMA 34: Lohore vs. Brazier",
+      "eventSlug": "49668-bamma-34-lohore-vs-brazier",
+      "round": 1,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2017-12-09T00:00:00.000Z",
+      "opponent": "Bjarki Thor Palsson",
+      "opponentSlug": "43190-thor-palsson",
+      "result": "win",
+      "method": "other",
+      "event": "FightStar Championship 13",
+      "eventSlug": "45875-fightstar-championship-13",
+      "round": 1,
+      "timeInRound": "1:18"
+    },
+    {
+      "date": "2017-06-02T00:00:00.000Z",
+      "opponent": "Sean Carter",
+      "opponentSlug": "21206-sean-carter",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Warriors 84",
+      "eventSlug": "44317-cage-warriors",
+      "round": 1,
+      "timeInRound": "2:10"
+    },
+    {
+      "date": "2013-03-09T00:00:00.000Z",
+      "opponent": "Chris Fishgold",
+      "opponentSlug": "17032-chris-fishgold",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage Warriors 52",
+      "eventSlug": "17483-cage-warriors-52",
+      "round": 1,
+      "timeInRound": "1:34"
+    },
+    {
+      "date": "2012-02-18T00:00:00.000Z",
+      "opponent": "Conor McGregor",
+      "opponentSlug": "14607-conor-mcgregor",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 45",
+      "eventSlug": "12312-cage-warriors-45",
+      "round": 1,
+      "timeInRound": "1:33"
+    },
+    {
+      "date": "2011-11-05T00:00:00.000Z",
+      "opponent": "Gediminas Surmaitis",
+      "opponentSlug": "23665-gediminas-surmaitis",
+      "result": "win",
+      "method": "other",
+      "event": "Bushido FC: Bushido London 2011",
+      "eventSlug": "12040-bushido-fc-bushido-london-2011",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-10-01T00:00:00.000Z",
+      "opponent": "Dean Reilly",
+      "opponentSlug": "13911-Dean-Reilly",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Warriors 44",
+      "eventSlug": "10803-cage-warriors-44",
+      "round": 1,
+      "timeInRound": "0:54"
+    },
+    {
+      "date": "2011-07-09T00:00:00.000Z",
+      "opponent": "Artem Lobov",
+      "opponentSlug": "13910-Artem-Lobov",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Warriors 43",
+      "eventSlug": "cage-warriors-43",
+      "round": 3,
+      "timeInRound": "1:24"
+    },
+    {
+      "date": "2011-02-27T00:00:00.000Z",
+      "opponent": "Oscar Nave",
+      "opponentSlug": "15519-oscar-nave",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-09-12T00:00:00.000Z",
+      "opponent": "Jeremy Petley",
+      "opponentSlug": "jeremy-petley",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-06-06T00:00:00.000Z",
+      "opponent": "Diego Vital",
+      "opponentSlug": "diego-vital",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-03-07T00:00:00.000Z",
+      "opponent": "Deivydas Rehenbergas",
+      "opponentSlug": "22975-deivydas-rehenbergas",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:08:56.118Z"
+}

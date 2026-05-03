@@ -1,0 +1,154 @@
+{
+  "slug": "226264-michael-tchamou",
+  "name": "Michael Tchamou",
+  "nickname": "Jaguar",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 181,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1991-04-10",
+  "nationality": "England",
+  "url": "https://www.tapology.com/fightcenter/fighters/226264-michael-tchamou",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Norbert Pietrzak",
+      "opponentSlug": "319820-norbert-pietrzak",
+      "result": null,
+      "method": "other",
+      "event": "Cage Warriors 205",
+      "eventSlug": "138938-cage-warriors-205",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-14T00:00:00.000Z",
+      "opponent": "Mantas Kondratavičius",
+      "opponentSlug": "101215-mantas-kandratavicius",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 184",
+      "eventSlug": "120829-cage-warriors-184",
+      "round": 1,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2024-11-23T00:00:00.000Z",
+      "opponent": "Delmar Silva",
+      "opponentSlug": "161139-delmar-silva-dell",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Warriors 181",
+      "eventSlug": "114649-cage-warriors-181",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2024-09-20T00:00:00.000Z",
+      "opponent": "Angus Hewett",
+      "opponentSlug": "311496-angus-hewett",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 177",
+      "eventSlug": "114646-cage-warriors-177-unplugged",
+      "round": 1,
+      "timeInRound": "3:21"
+    },
+    {
+      "date": "2024-05-25T00:00:00.000Z",
+      "opponent": "Joe Ambler",
+      "opponentSlug": "229604-joe-ambler",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Warriors 172",
+      "eventSlug": "108296-cage-warriors-172",
+      "round": 1,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2023-11-25T00:00:00.000Z",
+      "opponent": "Carlos Graca",
+      "opponentSlug": "190874-carlos-graca",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 164",
+      "eventSlug": "102523-cage-warriors-164-newcastle",
+      "round": 3,
+      "timeInRound": "3:48"
+    },
+    {
+      "date": "2023-03-24T00:00:00.000Z",
+      "opponent": "Naglis Kanišauskas",
+      "opponentSlug": "101322-naglis-kaniauskas",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage Warriors 151",
+      "eventSlug": "98000-cage-warriors-151-unplugged",
+      "round": 1,
+      "timeInRound": "3:21"
+    },
+    {
+      "date": "2022-11-20T00:00:00.000Z",
+      "opponent": "Will Currie",
+      "opponentSlug": "153147-will-currie",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 147",
+      "eventSlug": "93986-cage-warriors-147-unplugged",
+      "round": 1,
+      "timeInRound": "3:05"
+    },
+    {
+      "date": "2022-06-25T00:00:00.000Z",
+      "opponent": "Glenn Irvine",
+      "opponentSlug": "93518-glenn-irvine",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 140",
+      "eventSlug": "87787-cage-warriors-137",
+      "round": 1,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2022-04-02T00:00:00.000Z",
+      "opponent": "Piotr Chmielecki",
+      "opponentSlug": "128720-piotr-chmielecki",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 136",
+      "eventSlug": "86255-cage-warriors-136",
+      "round": 1,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2021-12-10T00:00:00.000Z",
+      "opponent": "Samir Kadi",
+      "opponentSlug": "181334-samir-kadi",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 131",
+      "eventSlug": "83198-cage-warriors-131",
+      "round": 2,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2021-06-05T00:00:00.000Z",
+      "opponent": "Craig Rawlins",
+      "opponentSlug": "94724-craig-rawlins",
+      "result": "win",
+      "method": "tko",
+      "event": "Lockdown Fight Series",
+      "eventSlug": "78416-lockdown-fight-series-caged-in",
+      "round": 1,
+      "timeInRound": "0:56"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:05:32.168Z"
+}

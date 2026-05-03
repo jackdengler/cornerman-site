@@ -1,0 +1,242 @@
+{
+  "slug": "39902-austin-vandeford",
+  "name": "Austin Vanderford",
+  "nickname": "The Gentleman",
+  "aliases": [],
+  "recordPro": {
+    "wins": 13,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": 188,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1990-03-21",
+  "nationality": "Alaska, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/39902-austin-vandeford",
+  "recentFights": [
+    {
+      "date": "2025-10-04T00:00:00.000Z",
+      "opponent": "Ramiz Brahimaj",
+      "opponentSlug": "129794-ramiz-brahimaj",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC 320: Ankalaev vs. Pereira 2",
+      "eventSlug": "129311-ufc-320",
+      "round": 2,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2025-02-22T00:00:00.000Z",
+      "opponent": "Nikolay Veretennikov",
+      "opponentSlug": "74381-nikolai-veretenikov",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "120012-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "4:13"
+    },
+    {
+      "date": "2024-10-18T00:00:00.000Z",
+      "opponent": "Victor Romero",
+      "opponentSlug": "129930-victor-romero",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 194: Magomedov vs. Leyva",
+      "eventSlug": "117126-lfa-194-magomedov-vs-leyva",
+      "round": 1,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2022-08-12T00:00:00.000Z",
+      "opponent": "Aaron Jeffery",
+      "opponentSlug": "39683-aaron-jeffery",
+      "result": "loss",
+      "method": "other",
+      "event": "Bellator 284",
+      "eventSlug": "90026-bellator-284",
+      "round": 1,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2022-02-25T00:00:00.000Z",
+      "opponent": "Gegard Mousasi",
+      "opponentSlug": "gegard-mousasi-the-dreamcatcher",
+      "result": "loss",
+      "method": "other",
+      "event": "Bellator 275",
+      "eventSlug": "85214-bellator-mma",
+      "round": 1,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2021-05-21T00:00:00.000Z",
+      "opponent": "Fabian Edwards",
+      "opponentSlug": "106608-fabian-edwards",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bellator 259",
+      "eventSlug": "77893-bellator-259",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-11-05T00:00:00.000Z",
+      "opponent": "Vinicius de Jesus",
+      "opponentSlug": "47312-vinicius-de-jesus",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bellator 251",
+      "eventSlug": "73156-bellator-mma",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-14T00:00:00.000Z",
+      "opponent": "Grachik Bozinyan",
+      "opponentSlug": "64879-grachiya-bozinyan",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bellator 234",
+      "eventSlug": "62654-bellator-234-kharitonov-vs-vassell",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-08-24T00:00:00.000Z",
+      "opponent": "Joseph Creer",
+      "opponentSlug": "52534-joseph-creer",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 225",
+      "eventSlug": "61155-bellator-mitrione-vs-kharitonov-2",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2019-02-15T00:00:00.000Z",
+      "opponent": "Cody Jones",
+      "opponentSlug": "70832-cody-jones",
+      "result": "win",
+      "method": "sub",
+      "event": "Bellator 215",
+      "eventSlug": "56985-bellator-215-mitrione-vs-kharitonov",
+      "round": 1,
+      "timeInRound": "4:49"
+    },
+    {
+      "date": "2018-10-19T00:00:00.000Z",
+      "opponent": "Edmilson Freitas",
+      "opponentSlug": "132995-edmilson-freitas-junior",
+      "result": "win",
+      "method": "other",
+      "event": "Final Fight Championship 32",
+      "eventSlug": "55914-final-fight-championship-32-night-of-champions",
+      "round": 1,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2018-07-17T00:00:00.000Z",
+      "opponent": "Angelo Trevino",
+      "opponentSlug": "25499-angelo-trevino",
+      "result": "win",
+      "method": "sub",
+      "event": "DW's Contender Series 2018",
+      "eventSlug": "52734-dw-s-contender-series-2018-week-6",
+      "round": 2,
+      "timeInRound": "2:42"
+    },
+    {
+      "date": "2017-12-16T00:00:00.000Z",
+      "opponent": "Kenny Licea",
+      "opponentSlug": "75091-kenny-licea",
+      "result": "win",
+      "method": "sub",
+      "event": "Victory FC 59",
+      "eventSlug": "48982-victory-fc-59",
+      "round": 2,
+      "timeInRound": "4:03"
+    },
+    {
+      "date": "2017-10-14T00:00:00.000Z",
+      "opponent": "Ben Fodor",
+      "opponentSlug": "25184-ben-fodor",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CageSport 47",
+      "eventSlug": "48532-cagesport",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-08T00:00:00.000Z",
+      "opponent": "Adam Fugitt",
+      "opponentSlug": "112635-adam-fugitt",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Arena Wars: Total Kombat",
+      "eventSlug": "46523-arena-wars-total-kombat",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-11T00:00:00.000Z",
+      "opponent": "Sol Renato",
+      "opponentSlug": "142400-sol-renato",
+      "result": "win",
+      "method": "other",
+      "event": "Prime Fighting 9",
+      "eventSlug": "40835-prime-fighting-9",
+      "round": 1,
+      "timeInRound": "2:33"
+    },
+    {
+      "date": "2016-04-09T00:00:00.000Z",
+      "opponent": "Erik Herman",
+      "opponentSlug": "48873-erik-herman",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Arena Wars: Redemption",
+      "eventSlug": "38914-arena-wars-redemption",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-01-23T00:00:00.000Z",
+      "opponent": "Daniel Pihl",
+      "opponentSlug": "33208-daniel-pihl",
+      "result": "win",
+      "method": "sub",
+      "event": "Rumble at the Roseland 85",
+      "eventSlug": "37632-rumble-at-the-roseland-85",
+      "round": 2,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2015-10-24T00:00:00.000Z",
+      "opponent": "Michael Collazo",
+      "opponentSlug": "85742-michael-collazo",
+      "result": "win",
+      "method": "tko",
+      "event": "Budofights 13",
+      "eventSlug": "34987-budofights-13",
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2015-09-12T00:00:00.000Z",
+      "opponent": "Eric McConico",
+      "opponentSlug": "112634-eric-mcconico",
+      "result": "win",
+      "method": "sub",
+      "event": "Battle in the Burg 3",
+      "eventSlug": "33555-battle-in-the-burg-3",
+      "round": 1,
+      "timeInRound": "2:30"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:52:51.562Z"
+}

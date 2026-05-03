@@ -1,0 +1,231 @@
+{
+  "slug": "38901-chris-heatherly",
+  "name": "Chris Heatherly",
+  "nickname": "Stump",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 174,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1987-11-24",
+  "nationality": "Cahokia, Illinois",
+  "url": "https://www.tapology.com/fightcenter/fighters/38901-chris-heatherly",
+  "recentFights": [
+    {
+      "date": "2016-06-24T00:00:00.000Z",
+      "opponent": "Joaquin Buckley",
+      "opponentSlug": "55022-joaquin-buckley",
+      "result": "loss",
+      "method": "other",
+      "event": "Bellator 157",
+      "eventSlug": "39194-bellator-157-dynamite-2",
+      "round": 2,
+      "timeInRound": "4:14"
+    },
+    {
+      "date": "2015-06-19T00:00:00.000Z",
+      "opponent": "Garrett Gross",
+      "opponentSlug": "38622-garrett-gross",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bellator 138",
+      "eventSlug": "30701-bellator-slice-vs-shamrock",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-15T00:00:00.000Z",
+      "opponent": "Augusto Montaño",
+      "opponentSlug": "24547-salvador-augusto-montano-dogerdes",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 180: Werdum vs. Hunt",
+      "eventSlug": "24140-ufc-180-velasquez-vs-werdum",
+      "round": 1,
+      "timeInRound": "4:50"
+    },
+    {
+      "date": "2014-08-23T00:00:00.000Z",
+      "opponent": "Ben Saunders",
+      "opponentSlug": "ben-saunders-killa-b",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night 49",
+      "eventSlug": "23966-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "2:18"
+    },
+    {
+      "date": "2014-07-25T00:00:00.000Z",
+      "opponent": "Josh Cavan",
+      "opponentSlug": "20581-josh-cavan",
+      "result": "win",
+      "method": "sub",
+      "event": "RFA 16: Copeland vs. Jorgensen",
+      "eventSlug": "25061-rfa-16-copeland-vs-jorgensen",
+      "round": 2,
+      "timeInRound": "3:20"
+    },
+    {
+      "date": "2014-03-07T00:00:00.000Z",
+      "opponent": "Chidi Njokuani",
+      "opponentSlug": "chidi-njokuani",
+      "result": "nc",
+      "method": "other",
+      "event": "RFA 13: Cochrane vs. Escudero",
+      "eventSlug": "22178-rfa-13-cochrane-vs-escudero",
+      "round": 1,
+      "timeInRound": "3:31"
+    },
+    {
+      "date": "2013-10-26T00:00:00.000Z",
+      "opponent": "Dakota Cochrane",
+      "opponentSlug": "dakota-cochrane",
+      "result": "win",
+      "method": "sub",
+      "event": "Warriors for Heroes",
+      "eventSlug": "22179-warriors-for-heroes-mma-vs-ptsd",
+      "round": 1,
+      "timeInRound": "4:13"
+    },
+    {
+      "date": "2013-09-14T00:00:00.000Z",
+      "opponent": "Josh Tully",
+      "opponentSlug": "32292-josh-tulley",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Time Production",
+      "eventSlug": "22180-cage-time-production",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-08-17T00:00:00.000Z",
+      "opponent": "Alex Garcia",
+      "opponentSlug": "alex-garcia-",
+      "result": "loss",
+      "method": "sub",
+      "event": "Challenge MMA 2",
+      "eventSlug": "18684-challenge-mma-2",
+      "round": 1,
+      "timeInRound": "1:42"
+    },
+    {
+      "date": "2013-04-05T00:00:00.000Z",
+      "opponent": "Gert Kocani",
+      "opponentSlug": "9218-gert-kocani",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-11-03T00:00:00.000Z",
+      "opponent": "Sal Woods",
+      "opponentSlug": "sal-woods",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-08-18T00:00:00.000Z",
+      "opponent": "Sean Huffman",
+      "opponentSlug": "2509-sean-huffman",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-06-23T00:00:00.000Z",
+      "opponent": "David Colter",
+      "opponentSlug": "38907-david-colter",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-05-19T00:00:00.000Z",
+      "opponent": "Corey Barreiro",
+      "opponentSlug": "38908-corey-barreiro",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-02-11T00:00:00.000Z",
+      "opponent": "Tony Souders",
+      "opponentSlug": "63355-tony-souders",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-02-04T00:00:00.000Z",
+      "opponent": "Kain Royer",
+      "opponentSlug": "53041-kain-royer",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-12-03T00:00:00.000Z",
+      "opponent": "Corey Hauter",
+      "opponentSlug": "46402-corey-hauter",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-06-11T00:00:00.000Z",
+      "opponent": "Brian Schell",
+      "opponentSlug": "52792-brian-schell",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-04-30T00:00:00.000Z",
+      "opponent": "Brian Bowman",
+      "opponentSlug": "78012-brian-bowman",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:00:14.613Z"
+}

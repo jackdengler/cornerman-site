@@ -1,0 +1,88 @@
+{
+  "slug": "87047-johan-fernandez",
+  "name": "Johan Fernandez",
+  "nickname": "JC",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1987-05-05",
+  "nationality": "Colombia",
+  "url": "https://www.tapology.com/fightcenter/fighters/87047-johan-fernandez",
+  "recentFights": [
+    {
+      "date": "2020-11-06T00:00:00.000Z",
+      "opponent": "Adrian Luna Martinetti",
+      "opponentSlug": "139620-juan-adrian-luna",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "QFC 10: Luna vs. Fernandez",
+      "eventSlug": "73723-qfc-10-luna-vs-fernandez",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-20T00:00:00.000Z",
+      "opponent": "Lenin Guerra",
+      "opponentSlug": "134637-lenin-santiago-guerra",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UCC Fantastic Fight Night 5",
+      "eventSlug": "46296-fantastic-fight-night-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-12-11T00:00:00.000Z",
+      "opponent": "Alberto Orellano",
+      "opponentSlug": "86950-alberto-orellano",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "SFC 21",
+      "eventSlug": "34706-sfc-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-26T00:00:00.000Z",
+      "opponent": "Andrés Leal",
+      "opponentSlug": "79928-andres-ayala-double-a",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "SFC 18",
+      "eventSlug": "29273-sfc-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-05-22T00:00:00.000Z",
+      "opponent": "Jhon Douglas Bedoya Agudelo",
+      "opponentSlug": "87049-jhon-bedoya",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFC 5",
+      "eventSlug": "28375-lfc-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-05-22T00:00:00.000Z",
+      "opponent": "Steven Suarez",
+      "opponentSlug": "87044-steven-suarez",
+      "result": "win",
+      "method": "sub",
+      "event": "LFC 5",
+      "eventSlug": "28375-lfc-5",
+      "round": 1,
+      "timeInRound": "1:21"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:37:04.448Z"
+}

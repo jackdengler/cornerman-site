@@ -1,0 +1,244 @@
+{
+  "slug": "384764-hyeon-seok-seong",
+  "name": "Hyun Seok Sung",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 4,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "South Korea",
+  "url": "https://www.tapology.com/fightcenter/fighters/384764-hyeon-seok-seong",
+  "recentFights": [
+    {
+      "date": "2025-06-15T00:00:00.000Z",
+      "opponent": "Kyung Min Song",
+      "opponentSlug": "511973-kyung-min-song",
+      "result": "loss",
+      "method": "other",
+      "event": "Beast 16",
+      "eventSlug": "132875-beast-16",
+      "round": 1,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2025-04-25T00:00:00.000Z",
+      "opponent": "Jeffrey Mesa",
+      "opponentSlug": "71953-jeff-mesa",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "Scraps Presented by Brawl",
+      "eventSlug": "130432-scraps-presented-by-brawl",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-01-10T00:00:00.000Z",
+      "opponent": "Fayang Wan",
+      "opponentSlug": "269501-fayang-wan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "WLF MMA 81",
+      "eventSlug": "121475-wlf-mma-81",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-08-24T00:00:00.000Z",
+      "opponent": "Jake Wilkins",
+      "opponentSlug": "295068-jake-wilkins",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fighting NEXUS vol.36",
+      "eventSlug": "115893-fighting-nexus-vol-36",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-11T00:00:00.000Z",
+      "opponent": "Kalinu Kadelibieke",
+      "opponentSlug": "302204-kalinu",
+      "result": "win",
+      "method": "dec-split",
+      "event": "WKG & M-1 Global",
+      "eventSlug": "112429-wkg-m-1-global",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-09T00:00:00.000Z",
+      "opponent": "Min Gyu Jin",
+      "opponentSlug": "311639-min-gyu-jin",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Life Dream",
+      "eventSlug": "116799-fight-life-dream-hidden-warriors",
+      "round": 1,
+      "timeInRound": "2:46"
+    },
+    {
+      "date": "2023-10-27T00:00:00.000Z",
+      "opponent": "Zeqiuduoji",
+      "opponentSlug": "297910-duoji-zeqiu",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "WLF MMA 69",
+      "eventSlug": "106130-wlf-mma-69",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-01T00:00:00.000Z",
+      "opponent": "Ethan Thomas",
+      "opponentSlug": "136411-ethan-thomas",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 77",
+      "eventSlug": "100977-eternal-mma-77",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-21T00:00:00.000Z",
+      "opponent": "Kazuya Tanaka",
+      "opponentSlug": "163260-kazuya-tanaka",
+      "result": "win",
+      "method": "sub",
+      "event": "Fighting NEXUS vol.31",
+      "eventSlug": "100721-fighting-nexus-vol-31",
+      "round": 2,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2022-12-03T00:00:00.000Z",
+      "opponent": "Jeong Hwan Park",
+      "opponentSlug": "391997-jeong-hwan-park",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "GFC 09",
+      "eventSlug": "95660-gfc-09",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "allFights": [
+    {
+      "date": "2025-06-15T00:00:00.000Z",
+      "opponent": "Kyung Min Song",
+      "opponentSlug": "511973-kyung-min-song",
+      "result": "loss",
+      "method": "other",
+      "event": "Beast 16",
+      "eventSlug": "132875-beast-16",
+      "round": 1,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2025-04-25T00:00:00.000Z",
+      "opponent": "Jeffrey Mesa",
+      "opponentSlug": "71953-jeff-mesa",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "Scraps Presented by Brawl",
+      "eventSlug": "130432-scraps-presented-by-brawl",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-01-10T00:00:00.000Z",
+      "opponent": "Fayang Wan",
+      "opponentSlug": "269501-fayang-wan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "WLF MMA 81",
+      "eventSlug": "121475-wlf-mma-81",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-08-24T00:00:00.000Z",
+      "opponent": "Jake Wilkins",
+      "opponentSlug": "295068-jake-wilkins",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fighting NEXUS vol.36",
+      "eventSlug": "115893-fighting-nexus-vol-36",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-11T00:00:00.000Z",
+      "opponent": "Kalinu Kadelibieke",
+      "opponentSlug": "302204-kalinu",
+      "result": "win",
+      "method": "dec-split",
+      "event": "WKG & M-1 Global",
+      "eventSlug": "112429-wkg-m-1-global",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-09T00:00:00.000Z",
+      "opponent": "Min Gyu Jin",
+      "opponentSlug": "311639-min-gyu-jin",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Life Dream",
+      "eventSlug": "116799-fight-life-dream-hidden-warriors",
+      "round": 1,
+      "timeInRound": "2:46"
+    },
+    {
+      "date": "2023-10-27T00:00:00.000Z",
+      "opponent": "Zeqiuduoji",
+      "opponentSlug": "297910-duoji-zeqiu",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "WLF MMA 69",
+      "eventSlug": "106130-wlf-mma-69",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-01T00:00:00.000Z",
+      "opponent": "Ethan Thomas",
+      "opponentSlug": "136411-ethan-thomas",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 77",
+      "eventSlug": "100977-eternal-mma-77",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-21T00:00:00.000Z",
+      "opponent": "Kazuya Tanaka",
+      "opponentSlug": "163260-kazuya-tanaka",
+      "result": "win",
+      "method": "sub",
+      "event": "Fighting NEXUS vol.31",
+      "eventSlug": "100721-fighting-nexus-vol-31",
+      "round": 2,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2022-12-03T00:00:00.000Z",
+      "opponent": "Jeong Hwan Park",
+      "opponentSlug": "391997-jeong-hwan-park",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "GFC 09",
+      "eventSlug": "95660-gfc-09",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-05-03T10:16:43.860Z"
+}

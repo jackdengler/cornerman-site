@@ -1,0 +1,690 @@
+{
+  "slug": "140363-king-of-the-cage",
+  "name": "King of the Cage: Strike Zone 2",
+  "promotion": "King of the Cage",
+  "startTimeUtc": "2026-04-18T23:30:00.000Z",
+  "venueTimezone": null,
+  "venue": "San Manuel Stadium",
+  "location": "San Bernadino, California",
+  "url": "https://www.tapology.com/fightcenter/events/140363-king-of-the-cage",
+  "status": "live",
+  "forumThreadId": "95658",
+  "fights": [
+    {
+      "id": "140363-king-of-the-cage#1",
+      "eventSlug": "140363-king-of-the-cage",
+      "order": 1,
+      "cardSection": "main",
+      "weightClass": "170 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "31168-gilbert-burns-durinho",
+        "name": "Gilbert Burns",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "22740-mike-malott",
+        "name": "Mike Malott",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "live",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T22:55:37.839Z"
+    },
+    {
+      "id": "140363-king-of-the-cage#2",
+      "eventSlug": "140363-king-of-the-cage",
+      "order": 2,
+      "cardSection": "main",
+      "weightClass": "135 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "93501-kyler-phillips",
+        "name": "Kyler Phillips",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "36724-charles-jourdain",
+        "name": "Charles Jourdain",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "live",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T22:55:37.839Z"
+    },
+    {
+      "id": "140363-king-of-the-cage#3",
+      "eventSlug": "140363-king-of-the-cage",
+      "order": 3,
+      "cardSection": "main",
+      "weightClass": "155 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "24751-mandell-nallo",
+        "name": "Mandel Nallo",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "70002-jai-herbert",
+        "name": "Jai Herbert",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "live",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T22:55:37.839Z"
+    },
+    {
+      "id": "140363-king-of-the-cage#4",
+      "eventSlug": "140363-king-of-the-cage",
+      "order": 4,
+      "cardSection": "main",
+      "weightClass": "125 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "171056-jasmine-jasdavicious",
+        "name": "Jasmine Jasudavicius",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "69225-karine-silva-killer",
+        "name": "Karine Silva",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "live",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T22:55:37.839Z"
+    },
+    {
+      "id": "140363-king-of-the-cage#5",
+      "eventSlug": "140363-king-of-the-cage",
+      "order": 5,
+      "cardSection": "main",
+      "weightClass": "155 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "49744-thiago-moiss",
+        "name": "Thiago Moisés",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "213571-gauge-young",
+        "name": "Gauge Young",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "live",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T22:55:37.839Z"
+    },
+    {
+      "id": "140363-king-of-the-cage#6",
+      "eventSlug": "140363-king-of-the-cage",
+      "order": 6,
+      "cardSection": "main",
+      "weightClass": "145 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "131561-dennis-buzukia",
+        "name": "Dennis Buzukja",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "126539-marcio-ticot",
+        "name": "Márcio Barbosa",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "live",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T22:55:37.839Z"
+    },
+    {
+      "id": "140363-king-of-the-cage#7",
+      "eventSlug": "140363-king-of-the-cage",
+      "order": 7,
+      "cardSection": "main",
+      "weightClass": "185 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "136498-robert-valentin",
+        "name": "Robert Valentin",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "24714-julien-leblanc",
+        "name": "Julien Leblanc",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "live",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T22:55:37.839Z"
+    },
+    {
+      "id": "140363-king-of-the-cage#8",
+      "eventSlug": "140363-king-of-the-cage",
+      "order": 8,
+      "cardSection": "main",
+      "weightClass": "265 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "35149-tanner-boser",
+        "name": "Tanner Boser",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "203358-gokhan-saricam",
+        "name": "Gokhan Saricam",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "live",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T22:55:37.839Z"
+    },
+    {
+      "id": "140363-king-of-the-cage#9",
+      "eventSlug": "140363-king-of-the-cage",
+      "order": 9,
+      "cardSection": "main",
+      "weightClass": "135 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "140510-melissa-croden",
+        "name": "Melissa Croden",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "229363-dariya-zheleznyakova",
+        "name": "Darya Zheleznyakova",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T22:55:37.839Z"
+    },
+    {
+      "id": "140363-king-of-the-cage#10",
+      "eventSlug": "140363-king-of-the-cage",
+      "order": 10,
+      "cardSection": "main",
+      "weightClass": "125 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "28420-jj-aldrich",
+        "name": "JJ Aldrich",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "148703-jamey-lyn-horth",
+        "name": "Jamey-Lyn Horth",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T22:55:37.839Z"
+    },
+    {
+      "id": "140363-king-of-the-cage#11",
+      "eventSlug": "140363-king-of-the-cage",
+      "order": 11,
+      "cardSection": "main",
+      "weightClass": "139 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "20125-john-castaneda",
+        "name": "John Castañeda",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "202598-mark-vologdin",
+        "name": "Mark Vologdin",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T22:55:37.839Z"
+    },
+    {
+      "id": "140363-king-of-the-cage#12",
+      "eventSlug": "140363-king-of-the-cage",
+      "order": 12,
+      "cardSection": "main",
+      "weightClass": "135 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "151617-john-yannies",
+        "name": "John Yannis",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "35361-jamie-siraj-the-gremlin",
+        "name": "Jamie Siraj",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T22:55:37.839Z"
+    },
+    {
+      "id": "140363-king-of-the-cage#13",
+      "eventSlug": "140363-king-of-the-cage",
+      "order": 13,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "466300-adrian-hernandez",
+        "name": "Adrian Hernandez",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "520966-pierre-tobgui",
+        "name": "Pierre Tobgui",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T22:55:37.839Z"
+    },
+    {
+      "id": "140363-king-of-the-cage#14",
+      "eventSlug": "140363-king-of-the-cage",
+      "order": 14,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "102666-gavin-faulkner",
+        "name": "Gavin Faulkner",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "551023-donald-walker",
+        "name": "Donald Walker",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T22:55:37.839Z"
+    },
+    {
+      "id": "140363-king-of-the-cage#15",
+      "eventSlug": "140363-king-of-the-cage",
+      "order": 15,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "522078-cameron-papa",
+        "name": "Cameron Papa",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "522077-marcus-juan",
+        "name": "Marcus Juan",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T22:55:37.839Z"
+    },
+    {
+      "id": "140363-king-of-the-cage#16",
+      "eventSlug": "140363-king-of-the-cage",
+      "order": 16,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "557291-raul-zazueta",
+        "name": "Raul Zazueta",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "557292-ricardo-rodriguez",
+        "name": "Ricardo Rodriguez",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T22:55:37.839Z"
+    },
+    {
+      "id": "140363-king-of-the-cage#17",
+      "eventSlug": "140363-king-of-the-cage",
+      "order": 17,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "495640-austin-misenheimer-ozzy",
+        "name": "Austin Misenheimer",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "368625-andrew-torres",
+        "name": "Andrew Torres",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T22:55:37.839Z"
+    },
+    {
+      "id": "140363-king-of-the-cage#18",
+      "eventSlug": "140363-king-of-the-cage",
+      "order": 18,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "375677-mario-garcia-renderos",
+        "name": "Mario Garcia Renderos",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "351490-amir-dawood",
+        "name": "Amir Dawood",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T22:55:37.839Z"
+    },
+    {
+      "id": "140363-king-of-the-cage#19",
+      "eventSlug": "140363-king-of-the-cage",
+      "order": 19,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "498064-nathaniel-marshall",
+        "name": "Nathaniel Marshall",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "513861-kamren-raliegh",
+        "name": "Kamren Raleigh",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T22:55:37.839Z"
+    },
+    {
+      "id": "140363-king-of-the-cage#20",
+      "eventSlug": "140363-king-of-the-cage",
+      "order": 20,
+      "cardSection": "main",
+      "weightClass": "265 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "502380-nicholas-grieve",
+        "name": "Nicholas Grieve",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "548006-amanii-montgomery",
+        "name": "Amanii Montgomery",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T22:55:37.839Z"
+    },
+    {
+      "id": "140363-king-of-the-cage#21",
+      "eventSlug": "140363-king-of-the-cage",
+      "order": 21,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "557293-berenice-espino",
+        "name": "Berenice Espino",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "497413-kasandra-piccirilli",
+        "name": "Kasandra Piccirilli",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T22:55:37.839Z"
+    },
+    {
+      "id": "140363-king-of-the-cage#22",
+      "eventSlug": "140363-king-of-the-cage",
+      "order": 22,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "337222-dominic-costa",
+        "name": "Dominic Costa",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "557294-azariah-cuamani",
+        "name": "Azariah Cuamani",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T22:55:37.839Z"
+    },
+    {
+      "id": "140363-king-of-the-cage#23",
+      "eventSlug": "140363-king-of-the-cage",
+      "order": 23,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "433718-joshua-brown",
+        "name": "Joshua Brown",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "495639-jaime-najera",
+        "name": "Jaime Najera",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T22:55:37.839Z"
+    },
+    {
+      "id": "140363-king-of-the-cage#24",
+      "eventSlug": "140363-king-of-the-cage",
+      "order": 24,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "557296-jonathan-bitter",
+        "name": "Jonathan Bitter",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "557295-david-keers-jr",
+        "name": "David Keers Jr.",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T22:55:37.839Z"
+    },
+    {
+      "id": "140363-king-of-the-cage#25",
+      "eventSlug": "140363-king-of-the-cage",
+      "order": 25,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "161649-alex-campos",
+        "name": "Alex Campos",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "454862-jake-toburen",
+        "name": "Jake Toburen",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T22:55:37.839Z"
+    }
+  ],
+  "lastVerified": "2026-04-18T22:55:37.839Z"
+}

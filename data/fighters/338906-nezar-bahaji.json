@@ -1,0 +1,99 @@
+{
+  "slug": "338906-nezar-bahaji",
+  "name": "Nezar Bahaji",
+  "nickname": "Just",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "France",
+  "url": "https://www.tapology.com/fightcenter/fighters/338906-nezar-bahaji",
+  "recentFights": [
+    {
+      "date": "2026-05-29T00:00:00.000Z",
+      "opponent": "Georges N'Goma",
+      "opponentSlug": "394189-georges-n-goma",
+      "result": null,
+      "method": "other",
+      "event": "Hexagone MMA 44",
+      "eventSlug": "139578-hexagone-mma-44",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-19T00:00:00.000Z",
+      "opponent": "Youssouf Ouattara",
+      "opponentSlug": "355948-youssouf-ouattara",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hexagone MMA 34",
+      "eventSlug": "132064-hexagone-mma-34",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-21T00:00:00.000Z",
+      "opponent": "Radek Roušal",
+      "opponentSlug": "279961-radek-rousal-ruchy",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 61: Paradeiser vs. Duque",
+      "eventSlug": "113352-oktagon-60",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-17T00:00:00.000Z",
+      "opponent": "Anzor Baybatyrov",
+      "opponentSlug": "338231-anzor-baybatyrov",
+      "result": "win",
+      "method": "dec-split",
+      "event": "AEF 6",
+      "eventSlug": "110801-aef-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-08T00:00:00.000Z",
+      "opponent": "Thibault Molins",
+      "opponentSlug": "367007-thibault-molins",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WML 1",
+      "eventSlug": "103091-wml-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-26T00:00:00.000Z",
+      "opponent": "Alain Majorique",
+      "opponentSlug": "341691-alain-majorique",
+      "result": "loss",
+      "method": "sub",
+      "event": "Samourai MMA 6",
+      "eventSlug": "100058-samourai-mma-6-chapitre-6",
+      "round": 1,
+      "timeInRound": "2:48"
+    },
+    {
+      "date": "2022-05-28T00:00:00.000Z",
+      "opponent": "Geoffroy Puigvert",
+      "opponentSlug": "33655-geoffroy-puigvert",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "FFA Challenge 5",
+      "eventSlug": "88454-ffa-challenge-5-orange-mma-fight-night",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:04:50.737Z"
+}

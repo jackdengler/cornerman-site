@@ -1,0 +1,114 @@
+{
+  "slug": "24753-ralph-david",
+  "name": "Ralph David Jean-Pierre",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 5,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1978-12-12",
+  "nationality": "Port-au-Prince, Haiti",
+  "url": "https://www.tapology.com/fightcenter/fighters/24753-ralph-david",
+  "recentFights": [
+    {
+      "date": "2013-08-24T00:00:00.000Z",
+      "opponent": "Simon Lagarde",
+      "opponentSlug": "36098-simon-lagarde",
+      "result": "loss",
+      "method": "other",
+      "event": "Victory MMA 10",
+      "eventSlug": "18293-victory-mma-10",
+      "round": 2,
+      "timeInRound": "1:33"
+    },
+    {
+      "date": "2012-11-23T00:00:00.000Z",
+      "opponent": "Julien Leblanc",
+      "opponentSlug": "24714-julien-leblanc",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Hybrid 15",
+      "eventSlug": "15906-hybrid-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-11-26T00:00:00.000Z",
+      "opponent": "Mathieu Lemay",
+      "opponentSlug": "24754-mathieu-lemay",
+      "result": "win",
+      "method": "other",
+      "event": "Hybrid 11",
+      "eventSlug": "13200-hybrid-11",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-06-18T00:00:00.000Z",
+      "opponent": "Dan Lariviere",
+      "opponentSlug": "24213-dan-lariviere",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hybrid 9",
+      "eventSlug": "13221-hybrid-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-03-05T00:00:00.000Z",
+      "opponent": "Harley David O'Reilly",
+      "opponentSlug": "24824-harley-david",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Hybrid 8",
+      "eventSlug": "13236-hybrid-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-10-30T00:00:00.000Z",
+      "opponent": "Oso Sanchez",
+      "opponentSlug": "25735-oso-sanchez",
+      "result": "win",
+      "method": "sub",
+      "event": "Hybrid 7",
+      "eventSlug": "13436-hybrid-7",
+      "round": 2,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2010-05-22T00:00:00.000Z",
+      "opponent": "Harley David O'Reilly",
+      "opponentSlug": "24824-harley-david",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hybrid 5",
+      "eventSlug": "13627-hybrid-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-05-29T00:00:00.000Z",
+      "opponent": "Tyler Wilson",
+      "opponentSlug": "84592-tyler-wilson",
+      "result": "win",
+      "method": "tko",
+      "event": "Hybrid 1",
+      "eventSlug": "13671-hybrid-1",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:58:16.398Z"
+}

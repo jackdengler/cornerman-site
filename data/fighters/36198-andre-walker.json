@@ -1,0 +1,132 @@
+{
+  "slug": "36198-andre-walker",
+  "name": "Andre Walker",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": 207,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1986-05-01",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/36198-andre-walker",
+  "recentFights": [
+    {
+      "date": "2019-12-08T00:00:00.000Z",
+      "opponent": "Eric McConico",
+      "opponentSlug": "112634-eric-mcconico",
+      "result": "win",
+      "method": "tko",
+      "event": "KOTC: Hard Drive",
+      "eventSlug": "64841-kotc",
+      "round": 3,
+      "timeInRound": "1:56"
+    },
+    {
+      "date": "2019-09-28T00:00:00.000Z",
+      "opponent": "Ozzy Diaz",
+      "opponentSlug": "61676-ozzy-diaz",
+      "result": "loss",
+      "method": "sub",
+      "event": "Bellator 228",
+      "eventSlug": "61700-bellator-228-pitbull-vs-archuleta",
+      "round": 1,
+      "timeInRound": "3:05"
+    },
+    {
+      "date": "2019-02-21T00:00:00.000Z",
+      "opponent": "Chris Herrera",
+      "opponentSlug": "51201-chris-herrera-the-crusher",
+      "result": "win",
+      "method": "tko",
+      "event": "Fight Club OC",
+      "eventSlug": "58621-fcoc-56",
+      "round": 1,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2018-11-16T00:00:00.000Z",
+      "opponent": "Kailan Hill",
+      "opponentSlug": "136254-kailan-hill",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 54: Mazo vs. Yariwaki",
+      "eventSlug": "56062-lfa-54-mazo-vs-yariwaki",
+      "round": 1,
+      "timeInRound": "0:11"
+    },
+    {
+      "date": "2018-06-07T00:00:00.000Z",
+      "opponent": "Santiago Diaz",
+      "opponentSlug": "76417-santiago-diaz",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Club OC",
+      "eventSlug": "53336-fcoc-52",
+      "round": 1,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2016-10-07T00:00:00.000Z",
+      "opponent": "Enrique Guillen",
+      "opponentSlug": "13223-rick-guillen",
+      "result": "win",
+      "method": "other",
+      "event": "TWC 25: Vengeance",
+      "eventSlug": "42660-twc-25-vengeance",
+      "round": 1,
+      "timeInRound": "2:46"
+    },
+    {
+      "date": "2015-04-10T00:00:00.000Z",
+      "opponent": "John Hernandez",
+      "opponentSlug": "36378-john-hernandez-el-cazador",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "BAMMA Badbeat 15",
+      "eventSlug": "30921-bamma-badbeat-15-luciano-vs-emilio-chavez",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-10-03T00:00:00.000Z",
+      "opponent": "Paul Gemmati",
+      "opponentSlug": "30483-paul-gemmati-rocky",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Fight Club OC",
+      "eventSlug": "20611-fight-club-oc",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-07-13T00:00:00.000Z",
+      "opponent": "Justin Schalk",
+      "opponentSlug": "44887-justin-schalk-bully",
+      "result": "win",
+      "method": "other",
+      "event": "Respect in the Cage",
+      "eventSlug": "19731-respect-in-the-cage",
+      "round": 1,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2012-10-06T00:00:00.000Z",
+      "opponent": "Marcus Erickson",
+      "opponentSlug": "36199-marcus-erickson",
+      "result": "win",
+      "method": "tko",
+      "event": "Fight Club OC",
+      "eventSlug": "15660-fight-club-mma-rising-stars-1",
+      "round": 1,
+      "timeInRound": "0:24"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:52:21.342Z"
+}

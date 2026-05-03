@@ -1,0 +1,198 @@
+{
+  "slug": "27469-thiago-carfi",
+  "name": "Thiago Carfi",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/27469-thiago-carfi",
+  "recentFights": [
+    {
+      "date": "2013-06-08T00:00:00.000Z",
+      "opponent": "Kurt Chase-Patrick",
+      "opponentSlug": "14485-Kurt-Chase-Patrick",
+      "result": "loss",
+      "method": "sub",
+      "event": "Reality Fighting",
+      "eventSlug": "17905-reality-fighting",
+      "round": 1,
+      "timeInRound": "1:52"
+    },
+    {
+      "date": "2012-09-22T00:00:00.000Z",
+      "opponent": "Robby Slade",
+      "opponentSlug": "14292-robby-slade",
+      "result": "loss",
+      "method": "other",
+      "event": "Reality Fighting",
+      "eventSlug": "15851-reality-fighting-vaca-vs-grant",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2011-08-05T00:00:00.000Z",
+      "opponent": "Sergio da Silva",
+      "opponentSlug": "15151-sergio-da-silva-the-savage",
+      "result": "win",
+      "method": "other",
+      "event": "Reality Fighting 31",
+      "eventSlug": "10929-reality-fighting-battle-at-the-beach-2011",
+      "round": 1,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2010-10-16T00:00:00.000Z",
+      "opponent": "Dwayne Holman",
+      "opponentSlug": "27470-dwayne-holman",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-06-05T00:00:00.000Z",
+      "opponent": "Abel Ekonomakos",
+      "opponentSlug": "70888-abel-ekonomakos",
+      "result": "loss",
+      "method": "sub",
+      "event": "Ring of Combat AM 8",
+      "eventSlug": "24611-ring-of-combat-am-bi-annual-amateur-championships",
+      "round": 1,
+      "timeInRound": "2:31"
+    },
+    {
+      "date": "2010-05-15T00:00:00.000Z",
+      "opponent": "Eric Ng",
+      "opponentSlug": "146587-eric-ng",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-07-23T00:00:00.000Z",
+      "opponent": "Edwin Uzquiano",
+      "opponentSlug": "53363-edwin-uzquiano",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-05-16T00:00:00.000Z",
+      "opponent": "Oscar Arizmendi",
+      "opponentSlug": "146607-oscar-arizmendi",
+      "result": "win",
+      "method": "other",
+      "event": "AFL 16: Fusion",
+      "eventSlug": "28661-afl-16-championship-series-1",
+      "round": 1,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2009-05-02T00:00:00.000Z",
+      "opponent": "Pat Sabatini",
+      "opponentSlug": "29210-pat-sabatini",
+      "result": "loss",
+      "method": "sub",
+      "event": "AFL 14: Championship Series 1",
+      "eventSlug": "43382-afl-14-championship-series-1",
+      "round": 1,
+      "timeInRound": "2:13"
+    },
+    {
+      "date": "2009-01-24T00:00:00.000Z",
+      "opponent": "Jay Perez",
+      "opponentSlug": "70934-jay-perez",
+      "result": "win",
+      "method": "sub",
+      "event": "Ring of Combat AM 7",
+      "eventSlug": "24508-ring-of-combat-am-proving-grounds-cage-fighting-at-essex",
+      "round": 1,
+      "timeInRound": "1:11"
+    },
+    {
+      "date": "2008-12-12T00:00:00.000Z",
+      "opponent": "Raymond Brady",
+      "opponentSlug": "146898-raymond-brady",
+      "result": "nc",
+      "method": "other",
+      "event": "AFL 9",
+      "eventSlug": "43431-afl-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-06-21T00:00:00.000Z",
+      "opponent": "Matthew Nieves",
+      "opponentSlug": "147387-matthew-nieves",
+      "result": "loss",
+      "method": "other",
+      "event": "New Breed Fighters 14",
+      "eventSlug": "27669-new-breed-fighters-14-battle-of-the-cruisers-part-2",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2008-03-29T00:00:00.000Z",
+      "opponent": "Jaffer Panezai",
+      "opponentSlug": "147472-jaffer-panezai",
+      "result": "loss",
+      "method": "sub",
+      "event": "New Breed Fighters 11",
+      "eventSlug": "43651-new-breed-fighters-11",
+      "round": 1,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2008-02-09T00:00:00.000Z",
+      "opponent": "Louis Gaudinot",
+      "opponentSlug": "11290-louis-gaudinot",
+      "result": "loss",
+      "method": "sub",
+      "event": "New Breed Fighters 10",
+      "eventSlug": "43645-new-breed-fighters-10-valentines-day-brawl",
+      "round": 3,
+      "timeInRound": "2:44"
+    },
+    {
+      "date": "2007-12-15T00:00:00.000Z",
+      "opponent": "Chris Aquino",
+      "opponentSlug": "19184-chris-aquino",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-08-24T00:00:00.000Z",
+      "opponent": "Jimmie Rivera",
+      "opponentSlug": "jimmie-rivera-el-terror",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "New Breed Fighters 6",
+      "eventSlug": "43628-new-breed-fighters-6",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:06:51.650Z"
+}

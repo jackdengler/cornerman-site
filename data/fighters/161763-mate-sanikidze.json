@@ -1,0 +1,198 @@
+{
+  "slug": "161763-mate-sanikidze",
+  "name": "Mate Sanikidze",
+  "nickname": "The NextGen",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 187,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1998-11-19",
+  "nationality": "Georgia",
+  "url": "https://www.tapology.com/fightcenter/fighters/161763-mate-sanikidze",
+  "recentFights": [
+    {
+      "date": "2025-11-01T00:00:00.000Z",
+      "opponent": "Samuel Bark",
+      "opponentSlug": "229953-samuel-bark-sammon-decker",
+      "result": "loss",
+      "method": "sub",
+      "event": "OKTAGON 79: Surdu vs. Kalašnik",
+      "eventSlug": "118938-oktagon",
+      "round": 3,
+      "timeInRound": "4:31"
+    },
+    {
+      "date": "2024-09-21T00:00:00.000Z",
+      "opponent": "Jack Cartwright",
+      "opponentSlug": "43571-jack-cartwright",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 61: Paradeiser vs. Duque",
+      "eventSlug": "113352-oktagon-60",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-04T00:00:00.000Z",
+      "opponent": "Farbod Iran Nezhad",
+      "opponentSlug": "39306-farbod-irannejad",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 57: Eckerlin vs. Brož",
+      "eventSlug": "110513-oktagon-57",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-29T00:00:00.000Z",
+      "opponent": "Losene Keita",
+      "opponentSlug": "158525-losene-keita",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 45: Sanikidze vs Keita",
+      "eventSlug": "101388-oktagon-45",
+      "round": 1,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2022-12-03T00:00:00.000Z",
+      "opponent": "Jakub Tichota",
+      "opponentSlug": "159770-jakub-tichota",
+      "result": "win",
+      "method": "dec-split",
+      "event": "OKTAGON 37: Kozma vs. Brito",
+      "eventSlug": "91182-oktagon-37",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-26T00:00:00.000Z",
+      "opponent": "David Moon",
+      "opponentSlug": "30369-david-moon",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "OKTAGON Prime 5",
+      "eventSlug": "85466-oktagon-prime-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-30T00:00:00.000Z",
+      "opponent": "Aleksandr Kolontay",
+      "opponentSlug": "164758-aleksandr-kolontai",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 30",
+      "eventSlug": "83044-oktagon-30",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-17T00:00:00.000Z",
+      "opponent": "Giorgi Gelashvili",
+      "opponentSlug": "387022-giorgi-gelashvili",
+      "result": "win",
+      "method": "sub",
+      "event": "AGC: Challenge 2",
+      "eventSlug": "80688-agc-challenge-2",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-01T00:00:00.000Z",
+      "opponent": "Levan Kirtadze",
+      "opponentSlug": "295816-levan-kirtadze",
+      "result": "win",
+      "method": "sub",
+      "event": "AGC: Challenge 1",
+      "eventSlug": "79426-agc-challenge",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-17T00:00:00.000Z",
+      "opponent": "Ayijiake Akenbieke",
+      "opponentSlug": "80579-akenbieke-ayijiake",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WLF W.A.R.S. 33",
+      "eventSlug": "60519-wlf-w-a-r-s-33",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-04T00:00:00.000Z",
+      "opponent": "Fuad Musaev",
+      "opponentSlug": "125669-fuad-musaev",
+      "result": "win",
+      "method": "tko",
+      "event": "TGC",
+      "eventSlug": "59762-tgc",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-15T00:00:00.000Z",
+      "opponent": "Sabit Zhusupov",
+      "opponentSlug": "157558-sabit-zhusupov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "M-1 Challenge 100",
+      "eventSlug": "56739-m-1-challenge-100-battle-in-atyrau",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-21T00:00:00.000Z",
+      "opponent": "Edward Massey",
+      "opponentSlug": "39294-edward-massey-the-ninja",
+      "result": "loss",
+      "method": "other",
+      "event": "M-1 Challenge 95",
+      "eventSlug": "53608-m-1-challenge-95-battle-in-the-mountains-7",
+      "round": 1,
+      "timeInRound": "0:18"
+    },
+    {
+      "date": "2018-03-24T00:00:00.000Z",
+      "opponent": "Firuz Mammadov",
+      "opponentSlug": "92587-firuz-mammadov-eagle",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ACB 83: Baku",
+      "eventSlug": "49953-acb-84-baku",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-01-28T00:00:00.000Z",
+      "opponent": "Yousef Jelodari",
+      "opponentSlug": "172881-yosef-jelodari",
+      "result": "win",
+      "method": "tko",
+      "event": "Ultimax FC 3",
+      "eventSlug": "52322-ultimax-fc-3-world-ultimax-championship-2018",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-19T00:00:00.000Z",
+      "opponent": "Halil Dogan",
+      "opponentSlug": "161762-halil-dogan",
+      "result": "win",
+      "method": "other",
+      "event": "ACB 64: Young Eagles 19 Turkey",
+      "eventSlug": "46721-acb-64-young-eagles-19",
+      "round": 1,
+      "timeInRound": "5:00"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:05:02.425Z"
+}

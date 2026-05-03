@@ -1,0 +1,154 @@
+{
+  "slug": "154742-hascen-neri-gelezi",
+  "name": "Hascen Neri Gelezi",
+  "nickname": "Morning Breakfast",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Saudi Arabia",
+  "url": "https://www.tapology.com/fightcenter/fighters/154742-hascen-neri-gelezi",
+  "recentFights": [
+    {
+      "date": "2024-05-18T00:00:00.000Z",
+      "opponent": "Jan Malach",
+      "opponentSlug": "64719-jan-malach",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Khan Fight 4",
+      "eventSlug": "112015-khan-fight-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-04T00:00:00.000Z",
+      "opponent": "Aaron McDonald",
+      "opponentSlug": "201175-aaron-mcdonald",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 48: Aby vs Garcia",
+      "eventSlug": "100811-oktagon",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-12T00:00:00.000Z",
+      "opponent": "Denis Frimpong",
+      "opponentSlug": "304840-denis-frimpong",
+      "result": "loss",
+      "method": "other",
+      "event": "OKTAGON 7 Challenge England vs. Ireland",
+      "eventSlug": "123807-oktagon-7-challenge-england-vs-ireland-quarterfinals",
+      "round": 2,
+      "timeInRound": "3:24"
+    },
+    {
+      "date": "2021-07-31T00:00:00.000Z",
+      "opponent": "Craig McIntosh",
+      "opponentSlug": "64252-craig-mcintosh",
+      "result": "win",
+      "method": "tko",
+      "event": "Olympus Fight Series 1",
+      "eventSlug": "80512-olympus-fight-series",
+      "round": 4,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-29T00:00:00.000Z",
+      "opponent": "Mickey Miller",
+      "opponentSlug": "19322-mickey-millar",
+      "result": "win",
+      "method": "tko",
+      "event": "Supreme CFC 14",
+      "eventSlug": "65601-supreme-cfc-14",
+      "round": 1,
+      "timeInRound": "4:03"
+    },
+    {
+      "date": "2019-09-21T00:00:00.000Z",
+      "opponent": "Jack Scott",
+      "opponentSlug": "127150-jack-scott",
+      "result": "win",
+      "method": "other",
+      "event": "Fusion FC 31",
+      "eventSlug": "57663-fusion-fc-31",
+      "round": 1,
+      "timeInRound": "0:18"
+    },
+    {
+      "date": "2019-06-15T00:00:00.000Z",
+      "opponent": "Jordan Miller",
+      "opponentSlug": "3039-jordan-miller",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fusion FC 30",
+      "eventSlug": "57664-fusion-fc-30",
+      "round": 2,
+      "timeInRound": "2:46"
+    },
+    {
+      "date": "2018-04-28T00:00:00.000Z",
+      "opponent": "John Spencer",
+      "opponentSlug": "50993-john-spencer",
+      "result": "win",
+      "method": "other",
+      "event": "Fusion FC 27",
+      "eventSlug": "51083-fusion-fc-27",
+      "round": 1,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2017-12-09T00:00:00.000Z",
+      "opponent": "Stelios Theocharous",
+      "opponentSlug": "116271-stelios-theocharous",
+      "result": "loss",
+      "method": "other",
+      "event": "FightStar Championship 13",
+      "eventSlug": "45875-fightstar-championship-13",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-25T00:00:00.000Z",
+      "opponent": "Mateusz Daszewski",
+      "opponentSlug": "171464-mateusz-daszewski",
+      "result": "win",
+      "method": "tko",
+      "event": "Fusion FC 26",
+      "eventSlug": "45893-fusion-fc-26",
+      "round": 1,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2017-10-07T00:00:00.000Z",
+      "opponent": "Umberto Dias Passos",
+      "opponentSlug": "145581-umberto-dias-passos",
+      "result": "nc",
+      "method": "other",
+      "event": "FightStar Championship 12",
+      "eventSlug": "45874-fightstar-championship-12",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-29T00:00:00.000Z",
+      "opponent": "Akonne Wanliss",
+      "opponentSlug": "80941-akonne-wanliss",
+      "result": "loss",
+      "method": "sub",
+      "event": "FightStar Championship 9",
+      "eventSlug": "43547-fightstar-championship-9",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:07:26.640Z"
+}

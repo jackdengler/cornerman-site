@@ -1,0 +1,154 @@
+{
+  "slug": "104075-daniel-rutkowski",
+  "name": "Daniel Rutkowski",
+  "nickname": "Rutek",
+  "aliases": [],
+  "recordPro": {
+    "wins": 17,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 172,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1989-01-20",
+  "nationality": "Radom, Poland",
+  "url": "https://www.tapology.com/fightcenter/fighters/104075-daniel-rutkowski",
+  "recentFights": [
+    {
+      "date": "2026-04-18T00:00:00.000Z",
+      "opponent": "Oleksiy Polischuck",
+      "opponentSlug": "127592-aleksi-polischuk",
+      "result": null,
+      "method": "other",
+      "event": "KSW 117: Pawlak vs. Khalidov",
+      "eventSlug": "140146-ksw-117-de-fries-vs-wojcik",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-16T00:00:00.000Z",
+      "opponent": "Julio Cesar Neves",
+      "opponentSlug": "42506-julio-cesar-neves-morceguinho",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KSW 92: Wikłacz vs. Jojua",
+      "eventSlug": "108592-ksw-92",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-11T00:00:00.000Z",
+      "opponent": "Patryk Kaczmarczyk",
+      "opponentSlug": "172819-patryk-kaczmarczyk",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "KSW 88: Bitwa o Radom",
+      "eventSlug": "105211-ksw-88-bitwa-o-radom",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-03T00:00:00.000Z",
+      "opponent": "Adam Soldaev",
+      "opponentSlug": "91574-adam-soldaev",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KSW 83: Colosseum 2",
+      "eventSlug": "98636-ksw-83-colosseum-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-17T00:00:00.000Z",
+      "opponent": "Lom-Ali Eskiev",
+      "opponentSlug": "33885-lom-ali-eskijew-leon",
+      "result": "win",
+      "method": "dec-split",
+      "event": "KSW 77: Mamed vs. Pudzian",
+      "eventSlug": "92899-ksw-77",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-20T00:00:00.000Z",
+      "opponent": "Reginaldo Vieira",
+      "opponentSlug": "24429-reginaldo-vieira",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KSW 73: Wrzosek vs. Sarara",
+      "eventSlug": "90418-ksw-73",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-19T00:00:00.000Z",
+      "opponent": "Salahdine Parnasse",
+      "opponentSlug": "118604-salahdine-parnasse",
+      "result": "loss",
+      "method": "sub",
+      "event": "KSW 68: Parnasse vs. Rutkowski",
+      "eventSlug": "86778-ksw-68",
+      "round": 4,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2021-10-23T00:00:00.000Z",
+      "opponent": "Filip Pejić",
+      "opponentSlug": "72481-filip-pejic",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 64: Przybysz vs. Santos",
+      "eventSlug": "82372-ksw-64",
+      "round": 2,
+      "timeInRound": "2:11"
+    },
+    {
+      "date": "2020-11-28T00:00:00.000Z",
+      "opponent": "Adrian Zieliński",
+      "opponentSlug": "29788-adrian-zielinski",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FEN 31: Rutkowski vs. Zieliński 2",
+      "eventSlug": "73013-fen-31-rutkowski-vs-zielinski-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-25T00:00:00.000Z",
+      "opponent": "Rene Runge",
+      "opponentSlug": "139986-rene-runge",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Babilon MMA 16",
+      "eventSlug": "72237-babilon-mma-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-13T00:00:00.000Z",
+      "opponent": "Estabili Amato",
+      "opponentSlug": "197618-estabili-amato",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Babilon MMA 11",
+      "eventSlug": "63980-babilon-mma-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-26T00:00:00.000Z",
+      "opponent": "Adrian Zieliński",
+      "opponentSlug": "29788-adrian-zielinski",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Babilon MMA 10",
+      "eventSlug": "62000-babilon-mma-10",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:03:05.166Z"
+}

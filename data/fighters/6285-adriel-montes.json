@@ -1,0 +1,77 @@
+{
+  "slug": "6285-adriel-montes",
+  "name": "Adriel Montes",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/6285-adriel-montes",
+  "recentFights": [
+    {
+      "date": "2010-10-02T00:00:00.000Z",
+      "opponent": "Sean Strickland",
+      "opponentSlug": "6055-sean-strickland-tarzan",
+      "result": "loss",
+      "method": "other",
+      "event": "KOTC Underground 63",
+      "eventSlug": "8350-kotc-underground-63-strickland-vs-montes",
+      "round": 2,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2009-10-03T00:00:00.000Z",
+      "opponent": "Ramon Fajardo",
+      "opponentSlug": "72158-ramon-fajardo",
+      "result": "loss",
+      "method": "sub",
+      "event": "KOTC Underground 45",
+      "eventSlug": "7073-kotc-underground-45-jolted",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2004-08-28T00:00:00.000Z",
+      "opponent": "Chappo Montijo",
+      "opponentSlug": "9462-chappo-montijo",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2004-07-31T00:00:00.000Z",
+      "opponent": "Chappo Montijo",
+      "opponentSlug": "9462-chappo-montijo",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2004-05-01T00:00:00.000Z",
+      "opponent": "Richie Hightower",
+      "opponentSlug": "richie-hightower-the-dirty-samurai",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T22:58:43.770Z"
+}

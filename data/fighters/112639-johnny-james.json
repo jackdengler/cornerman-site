@@ -1,0 +1,132 @@
+{
+  "slug": "112639-johnny-james",
+  "name": "Johnny James Jr.",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1995-01-18",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/112639-johnny-james",
+  "recentFights": [
+    {
+      "date": "2020-09-11T00:00:00.000Z",
+      "opponent": "Nick Maximov",
+      "opponentSlug": "160352-nick-maximov",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 91: Njokuani vs. Torres",
+      "eventSlug": "72275-lfa-91-njokuani-vs-torres",
+      "round": 2,
+      "timeInRound": "4:01"
+    },
+    {
+      "date": "2020-01-31T00:00:00.000Z",
+      "opponent": "Keanan Kellar",
+      "opponentSlug": "110833-kennan-kellar",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Mamba Fight Night 8",
+      "eventSlug": "66175-mamba-fight-night-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-27T00:00:00.000Z",
+      "opponent": "Nick Mills",
+      "opponentSlug": "139497-nick-mills",
+      "result": "win",
+      "method": "sub",
+      "event": "CageSport 56",
+      "eventSlug": "58455-cagesport-56",
+      "round": 3,
+      "timeInRound": "3:07"
+    },
+    {
+      "date": "2018-01-20T00:00:00.000Z",
+      "opponent": "Raymond Leonard Hill",
+      "opponentSlug": "89993-raymond-hill",
+      "result": "loss",
+      "method": "tko",
+      "event": "Rumble at the Roseland 96",
+      "eventSlug": "49800-rumble-at-the-roseland-96",
+      "round": 1,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2017-07-22T00:00:00.000Z",
+      "opponent": "Saul Ruiz",
+      "opponentSlug": "35811-saul-ruiz",
+      "result": "win",
+      "method": "tko",
+      "event": "Rumble at the Roseland 93",
+      "eventSlug": "46526-rumble-at-the-roseland-93",
+      "round": 2,
+      "timeInRound": "1:51"
+    },
+    {
+      "date": "2017-03-11T00:00:00.000Z",
+      "opponent": "Dennis Mccarthy",
+      "opponentSlug": "151341-dennis-mccarthy",
+      "result": "win",
+      "method": "other",
+      "event": "Prime Fighting 9",
+      "eventSlug": "40835-prime-fighting-9",
+      "round": 3,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2016-12-03T00:00:00.000Z",
+      "opponent": "Eric McConico",
+      "opponentSlug": "112634-eric-mcconico",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Budofights 15",
+      "eventSlug": "42348-budofights-15-confrontation",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-16T00:00:00.000Z",
+      "opponent": "Derek Rottenberg",
+      "opponentSlug": "128784-derek-rottenberg",
+      "result": "loss",
+      "method": "tko",
+      "event": "Rumble at the Roseland 88",
+      "eventSlug": "40285-rumble-at-the-roseland-88",
+      "round": 2,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2016-01-23T00:00:00.000Z",
+      "opponent": "Shane WhiteEagle",
+      "opponentSlug": "125393-shane-whiteeagle",
+      "result": "win",
+      "method": "tko",
+      "event": "Prime Fighting 6",
+      "eventSlug": "33330-prime-fighting-6",
+      "round": 2,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2015-09-12T00:00:00.000Z",
+      "opponent": "Cody Bellenbaum",
+      "opponentSlug": "72052-cody-bellenbaum",
+      "result": "win",
+      "method": "tko",
+      "event": "Battle in the Burg 3",
+      "eventSlug": "33555-battle-in-the-burg-3",
+      "round": 2,
+      "timeInRound": "2:35"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:52:44.690Z"
+}

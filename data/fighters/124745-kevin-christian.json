@@ -1,0 +1,154 @@
+{
+  "slug": "124745-kevin-christian",
+  "name": "Kevin Christian",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 201,
+  "reachCm": 203,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1995-01-21",
+  "nationality": "Rio Preto da Eva, Amazonas, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/124745-kevin-christian",
+  "recentFights": [
+    {
+      "date": "2026-05-02T00:00:00.000Z",
+      "opponent": "Junior Tafa",
+      "opponentSlug": "242095-junior-tafa",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "140511-ufc-fight-night-della-maddalena-vs-prates",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-01T00:00:00.000Z",
+      "opponent": "Billy Elekana",
+      "opponentSlug": "152109-billy-elekana",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "132058-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "3:33"
+    },
+    {
+      "date": "2024-09-24T00:00:00.000Z",
+      "opponent": "Francesco Mazzeo",
+      "opponentSlug": "227850-francesco-mazzeo",
+      "result": "win",
+      "method": "sub",
+      "event": "Contender Series 2024",
+      "eventSlug": "112924-contender-series-2024-week-7",
+      "round": 2,
+      "timeInRound": "4:17"
+    },
+    {
+      "date": "2024-01-27T00:00:00.000Z",
+      "opponent": "Miguel Porto",
+      "opponentSlug": "299804-miguel-porto",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 175: Lopes vs. Brigagão",
+      "eventSlug": "109002-lfa-175-lopes-vs-brigagao",
+      "round": 2,
+      "timeInRound": "0:39"
+    },
+    {
+      "date": "2019-09-28T00:00:00.000Z",
+      "opponent": "Álvaro Tabosa",
+      "opponentSlug": "142361-lvaro-tabosa",
+      "result": "win",
+      "method": "other",
+      "event": "Rei da Selva Combat 15",
+      "eventSlug": "63167-rei-da-selva-combat-15",
+      "round": 1,
+      "timeInRound": "3:45"
+    },
+    {
+      "date": "2019-03-17T00:00:00.000Z",
+      "opponent": "Daniel Trindade",
+      "opponentSlug": "4378-daniel-trindade",
+      "result": "win",
+      "method": "sub",
+      "event": "Boa Vista Combat 4",
+      "eventSlug": "86425-boa-vista-combat-4",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2017-02-25T00:00:00.000Z",
+      "opponent": "Nerivan Silva",
+      "opponentSlug": "230100-nerivan-silva-babyssauro",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-27T00:00:00.000Z",
+      "opponent": "Moisés Costa",
+      "opponentSlug": "93465-moises-costa",
+      "result": "loss",
+      "method": "other",
+      "event": "Amazon Talent 6",
+      "eventSlug": "46959-amazon-talent-6",
+      "round": 2,
+      "timeInRound": "4:38"
+    },
+    {
+      "date": "2016-05-21T00:00:00.000Z",
+      "opponent": "Leandro Moreira",
+      "opponentSlug": "80680-leandro-moreira",
+      "result": "win",
+      "method": "sub",
+      "event": "Rei da Selva Combat 7",
+      "eventSlug": "39874-rei-da-selva-combat-7",
+      "round": 1,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2016-02-27T00:00:00.000Z",
+      "opponent": "Jordan Rocha",
+      "opponentSlug": "70911-jordan-rocha-kratos",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-12-17T00:00:00.000Z",
+      "opponent": "Guilherme Martins",
+      "opponentSlug": "124746-guilherme-martins-avatar",
+      "result": "win",
+      "method": "other",
+      "event": "Mr. Cage 20",
+      "eventSlug": "37312-mr-cage-20",
+      "round": 1,
+      "timeInRound": "4:31"
+    },
+    {
+      "date": "2014-09-29T00:00:00.000Z",
+      "opponent": "Wanderley Freitas",
+      "opponentSlug": "114579-wanderley-freitas",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T17:54:31.476Z"
+}

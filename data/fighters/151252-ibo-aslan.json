@@ -1,0 +1,198 @@
+{
+  "slug": "151252-ibo-aslan",
+  "name": "Ibo Aslan",
+  "nickname": "The Last Ottoman",
+  "aliases": [],
+  "recordPro": {
+    "wins": 14,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 190,
+  "reachCm": 197,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1996-04-23",
+  "nationality": "Türkiye",
+  "url": "https://www.tapology.com/fightcenter/fighters/151252-ibo-aslan",
+  "recentFights": [
+    {
+      "date": "2025-12-06T00:00:00.000Z",
+      "opponent": "Iwo Baraniewski",
+      "opponentSlug": "272653-filip-bartoszewicki",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "eventSlug": "133220-ufc-323",
+      "round": 1,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2025-07-26T00:00:00.000Z",
+      "opponent": "Billy Elekana",
+      "opponentSlug": "152109-billy-elekana",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "125931-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-02-22T00:00:00.000Z",
+      "opponent": "Ion Cutelaba",
+      "opponentSlug": "34843-ion-cutelaba",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "120012-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "2:51"
+    },
+    {
+      "date": "2024-10-26T00:00:00.000Z",
+      "opponent": "Raffael Cerqueira",
+      "opponentSlug": "236274-rafael-lima-rafael-bjj",
+      "result": "win",
+      "method": "tko",
+      "event": "UFC 308: Topuria vs. Holloway",
+      "eventSlug": "112501-ufc-308",
+      "round": 1,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2024-03-30T00:00:00.000Z",
+      "opponent": "Anton Turkalj",
+      "opponentSlug": "115015-anton-turkalj",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "107896-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2023-08-15T00:00:00.000Z",
+      "opponent": "Paulo Renato Jr.",
+      "opponentSlug": "126923-paulo-renato-jr",
+      "result": "win",
+      "method": "other",
+      "event": "Contender Series 2023",
+      "eventSlug": "100992-contender-series-2023-week-2",
+      "round": 1,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2023-03-18T00:00:00.000Z",
+      "opponent": "Giorgi Khubejashvili",
+      "opponentSlug": "214257-giorgi-kubejashvili",
+      "result": "win",
+      "method": "other",
+      "event": "Vendetta Fight Nights 33",
+      "eventSlug": "98456-vendetta-fight-nights-33-charity",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2022-04-02T00:00:00.000Z",
+      "opponent": "Amilcar Alves",
+      "opponentSlug": "amilcar-alves",
+      "result": "win",
+      "method": "tko",
+      "event": "Sparta Championship Fighting 1",
+      "eventSlug": "88838-sparta-championship-fighting-1",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2022-03-12T00:00:00.000Z",
+      "opponent": "Felix Polianidis",
+      "opponentSlug": "91027-felix-polianidis",
+      "result": "win",
+      "method": "other",
+      "event": "Tosan Fight Night",
+      "eventSlug": "89455-tosan-fight-night",
+      "round": 1,
+      "timeInRound": "0:20"
+    },
+    {
+      "date": "2020-08-24T00:00:00.000Z",
+      "opponent": "Anton Turkalj",
+      "opponentSlug": "115015-anton-turkalj",
+      "result": "loss",
+      "method": "sub",
+      "event": "Brave CF 40",
+      "eventSlug": "71873-brave-cf-40",
+      "round": 2,
+      "timeInRound": "1:56"
+    },
+    {
+      "date": "2019-06-15T00:00:00.000Z",
+      "opponent": "Ivan Vičić",
+      "opponentSlug": "132081-ivan-vii",
+      "result": "win",
+      "method": "other",
+      "event": "Vendetta 18",
+      "eventSlug": "57635-vendetta-18",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-01T00:00:00.000Z",
+      "opponent": "Robert Valentin",
+      "opponentSlug": "136498-robert-valentin",
+      "result": "win",
+      "method": "other",
+      "event": "Austrian FC 8",
+      "eventSlug": "53571-austrian-fc-8",
+      "round": 3,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2018-06-16T00:00:00.000Z",
+      "opponent": "Bart Cillessen",
+      "opponentSlug": "126414-bart-cillessen",
+      "result": "win",
+      "method": "other",
+      "event": "Austrian FC 7",
+      "eventSlug": "53570-austrian-fc-7",
+      "round": 1,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2017-12-09T00:00:00.000Z",
+      "opponent": "Milan Stojadinovic",
+      "opponentSlug": "189708-milan-stojadinovic-shipka",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-10T00:00:00.000Z",
+      "opponent": "Igor Kantar",
+      "opponentSlug": "115721-igor-kantar",
+      "result": "win",
+      "method": "other",
+      "event": "Austrian FC",
+      "eventSlug": "46002-austrian-fc-new-talents-2",
+      "round": 1,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2017-03-04T00:00:00.000Z",
+      "opponent": "Milan Bodonji",
+      "opponentSlug": "151253-milan-bodonji",
+      "result": "win",
+      "method": "tko",
+      "event": "Austrian FC 5",
+      "eventSlug": "43595-austrian-fc-5",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:57:41.737Z"
+}

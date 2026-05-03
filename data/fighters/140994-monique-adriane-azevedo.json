@@ -1,0 +1,132 @@
+{
+  "slug": "140994-monique-adriane-azevedo",
+  "name": "Monique Adriane",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 160,
+  "reachCm": 165,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": "1996-06-25",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/140994-monique-adriane-azevedo",
+  "recentFights": [
+    {
+      "date": "2026-03-08T00:00:00.000Z",
+      "opponent": "Liane Barros",
+      "opponentSlug": "339510-liane-barros-lia-strike",
+      "result": "win",
+      "method": "other",
+      "event": "3MFight: #015FIRE",
+      "eventSlug": "140153-3mfight-015fire",
+      "round": 2,
+      "timeInRound": "4:15"
+    },
+    {
+      "date": "2024-12-13T00:00:00.000Z",
+      "opponent": "Ana Palacios",
+      "opponentSlug": "162885-ana-palacios",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 59",
+      "eventSlug": "120343-invicta-fc-59-bernardo-vs-maia",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-03T00:00:00.000Z",
+      "opponent": "Nicole Geraldo",
+      "opponentSlug": "225054-nicole-geraldo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 53",
+      "eventSlug": "99821-invicta-fc-53-decoursey-vs-dos-santos",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-09T00:00:00.000Z",
+      "opponent": "Paulina Granados",
+      "opponentSlug": "38608-paulina-granados-firefox",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 46",
+      "eventSlug": "85983-invicta-fc-46",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-07T00:00:00.000Z",
+      "opponent": "Loma Lookboonmee",
+      "opponentSlug": "174166-looma-lookboonmee",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 35",
+      "eventSlug": "60147-invicta-fc-35-bennett-vs-rodriguez-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-22T00:00:00.000Z",
+      "opponent": "Vanessa Santos",
+      "opponentSlug": "179746-vanessa-santos",
+      "result": "win",
+      "method": "tko",
+      "event": "Future FC 3",
+      "eventSlug": "57835-future-fc-3",
+      "round": 2,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2018-09-28T00:00:00.000Z",
+      "opponent": "Valesca Machado",
+      "opponentSlug": "124041-valesca-machado",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Shooto Brasil 88",
+      "eventSlug": "55579-shooto-brasil-88",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-02-24T00:00:00.000Z",
+      "opponent": "Nathielly Santos",
+      "opponentSlug": "166051-nathielly-santos-naty-pitbull",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-23T00:00:00.000Z",
+      "opponent": "Julia Polastri",
+      "opponentSlug": "168315-julia-polastri",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-30T00:00:00.000Z",
+      "opponent": "Jenifer Stefanie Silva",
+      "opponentSlug": "140997-jenifer-stefanie-silva",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Thunder Fight 9",
+      "eventSlug": "41436-thunder-fight-9",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:59:19.423Z"
+}

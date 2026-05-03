@@ -1,0 +1,66 @@
+{
+  "slug": "44851-rodolpho-coronel",
+  "name": "Rodolfo Coronel",
+  "nickname": "Coronel",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1989-03-07",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/44851-rodolpho-coronel",
+  "recentFights": [
+    {
+      "date": "2017-05-06T00:00:00.000Z",
+      "opponent": "Aldo Pereira",
+      "opponentSlug": "109633-aldo-pereira",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fight for Life 1",
+      "eventSlug": "46741-fight-for-life-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-07-19T00:00:00.000Z",
+      "opponent": "Maicon Theophilo",
+      "opponentSlug": "43806-michael-teofilo",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-08T00:00:00.000Z",
+      "opponent": "Luiz Antônio dos Santos",
+      "opponentSlug": "63377-luiz-antnio-dos-santos",
+      "result": "win",
+      "method": "other",
+      "event": "Jungle Fight 66",
+      "eventSlug": "22704-jungle-favela-1",
+      "round": 2,
+      "timeInRound": "1:52"
+    },
+    {
+      "date": "2013-03-25T00:00:00.000Z",
+      "opponent": "Gilbert Burns",
+      "opponentSlug": "31168-gilbert-burns-durinho",
+      "result": "loss",
+      "method": "sub",
+      "event": "MMA Champions League 1",
+      "eventSlug": "17552-mma-champions-league-1",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:04:57.524Z"
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "160858-bun-kyo-in",
+  "name": "Kazuki Takahashi",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/160858-bun-kyo-in",
+  "recentFights": [
+    {
+      "date": "2017-09-22T00:00:00.000Z",
+      "opponent": "Tatsuro Taira",
+      "opponentSlug": "145595-tatsuro-taira",
+      "result": "loss",
+      "method": "other",
+      "event": "24th All Japan Amateur Shooto Championships",
+      "eventSlug": "47318-24th-all-japan-amateur-shooto-championships",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-01T00:00:00.000Z",
+      "opponent": "Hayato Sasaki",
+      "opponentSlug": "153031-shun-sasaki",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "11th Tohoku Amateur Shooto Championships",
+      "eventSlug": "46557-11th-tohoku-amateur-shooto-championships",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-01T00:00:00.000Z",
+      "opponent": "Yoshiki Hitosugi",
+      "opponentSlug": "81148-yoshiki-yuji",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "11th Tohoku Amateur Shooto Championships",
+      "eventSlug": "46557-11th-tohoku-amateur-shooto-championships",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-01T00:00:00.000Z",
+      "opponent": "Beto Cabrera",
+      "opponentSlug": "159189-beto-cabrera",
+      "result": "win",
+      "method": "sub",
+      "event": "11th Tohoku Amateur Shooto Championships",
+      "eventSlug": "46557-11th-tohoku-amateur-shooto-championships",
+      "round": 1,
+      "timeInRound": "3:56"
+    }
+  ],
+  "lastVerified": "2026-04-25T22:59:33.624Z"
+}

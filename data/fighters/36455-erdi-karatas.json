@@ -1,0 +1,165 @@
+{
+  "slug": "36455-erdi-karatas",
+  "name": "Erdi Karatas",
+  "nickname": "The Pitbull",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1991-02-19",
+  "nationality": "Holland",
+  "url": "https://www.tapology.com/fightcenter/fighters/36455-erdi-karatas",
+  "recentFights": [
+    {
+      "date": "2018-06-16T00:00:00.000Z",
+      "opponent": "Jai Herbert",
+      "opponentSlug": "70002-jai-herbert",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 94",
+      "eventSlug": "51416-cage-warriors-94",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-23T00:00:00.000Z",
+      "opponent": "Harun Kina",
+      "opponentSlug": "36452-harun-kina",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-23T00:00:00.000Z",
+      "opponent": "Duane van Helvoirt",
+      "opponentSlug": "12661-duane-van-helvoirt",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-26T00:00:00.000Z",
+      "opponent": "Alexis Savvidis",
+      "opponentSlug": "67208-alexis-savvidis-the-furious-kid",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-04-05T00:00:00.000Z",
+      "opponent": "Gary Kono",
+      "opponentSlug": "16831-gary-kono",
+      "result": "loss",
+      "method": "sub",
+      "event": "Respect FC 11",
+      "eventSlug": "23654-respect-fc-11",
+      "round": 2,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2014-02-15T00:00:00.000Z",
+      "opponent": "Quincy Makatita",
+      "opponentSlug": "64247-quincy-makatita",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-10-05T00:00:00.000Z",
+      "opponent": "Hubert Geven",
+      "opponentSlug": "47412-hubert-geven",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-02-23T00:00:00.000Z",
+      "opponent": "Magomed Alkhasov",
+      "opponentSlug": "40265-magomed-alhasov",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fight Nights Global 14",
+      "eventSlug": "17685-fight-nights-battle-of-moscow-10",
+      "round": 1,
+      "timeInRound": "1:57"
+    },
+    {
+      "date": "2013-02-02T00:00:00.000Z",
+      "opponent": "Seif Harnafi",
+      "opponentSlug": "67510-seif-harnafi",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-11-03T00:00:00.000Z",
+      "opponent": "Robert van de Heuvel",
+      "opponentSlug": "67511-robert-van-de-heuvel",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-03-31T00:00:00.000Z",
+      "opponent": "Paul Gruntjes",
+      "opponentSlug": "42468-paul-gruntjes",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-03-10T00:00:00.000Z",
+      "opponent": "Michel Verhoeven",
+      "opponentSlug": "42469-michel-verhoeven",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-11-19T00:00:00.000Z",
+      "opponent": "Harun Kina",
+      "opponentSlug": "36452-harun-kina",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:09:00.711Z"
+}

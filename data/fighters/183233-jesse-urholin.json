@@ -1,0 +1,143 @@
+{
+  "slug": "183233-jesse-urholin",
+  "name": "Jesse Urholin",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 186,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1989-05-18",
+  "nationality": "Pori, Finland",
+  "url": "https://www.tapology.com/fightcenter/fighters/183233-jesse-urholin",
+  "recentFights": [
+    {
+      "date": "2025-10-18T00:00:00.000Z",
+      "opponent": "Quinten DeVreught",
+      "opponentSlug": "101430-quinten-devreught",
+      "result": "win",
+      "method": "sub",
+      "event": "Lahti Fight Night",
+      "eventSlug": "132700-lahti-fight-night",
+      "round": 1,
+      "timeInRound": "3:39"
+    },
+    {
+      "date": "2023-07-21T00:00:00.000Z",
+      "opponent": "Omiel Brown",
+      "opponentSlug": "112250-omeil-brown",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 157",
+      "eventSlug": "99929-cage-warriors-london",
+      "round": 1,
+      "timeInRound": "3:47"
+    },
+    {
+      "date": "2022-07-22T00:00:00.000Z",
+      "opponent": "Madars Fleminas",
+      "opponentSlug": "70007-madars-fleminas",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 141",
+      "eventSlug": "89059-cage-warriors-141",
+      "round": 2,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2021-10-01T00:00:00.000Z",
+      "opponent": "John Palaiologos",
+      "opponentSlug": "91026-john-paleologus",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 128",
+      "eventSlug": "80684-cage-warriors-128",
+      "round": 2,
+      "timeInRound": "3:36"
+    },
+    {
+      "date": "2021-06-25T00:00:00.000Z",
+      "opponent": "Aaron Khalid",
+      "opponentSlug": "57960-aaron-khalid",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 124",
+      "eventSlug": "78049-cage-warriors-124",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-15T00:00:00.000Z",
+      "opponent": "Dante Schiro",
+      "opponentSlug": "109429-dante-schiro",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CAGE 50",
+      "eventSlug": "66726-cage-50",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-30T00:00:00.000Z",
+      "opponent": "Tamaz Bochorishvili",
+      "opponentSlug": "77513-tazo-bochorishvili",
+      "result": "win",
+      "method": "other",
+      "event": "CAGE 49",
+      "eventSlug": "63273-cage-49",
+      "round": 1,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2019-04-27T00:00:00.000Z",
+      "opponent": "Husniddin Ganiev",
+      "opponentSlug": "203792-khusnidin-ganiev",
+      "result": "win",
+      "method": "other",
+      "event": "CAGE 47",
+      "eventSlug": "59886-cage-47",
+      "round": 1,
+      "timeInRound": "3:22"
+    },
+    {
+      "date": "2019-02-16T00:00:00.000Z",
+      "opponent": "Vojtech Garba",
+      "opponentSlug": "145826-vojtech-garba",
+      "result": "win",
+      "method": "sub",
+      "event": "CAGE 46",
+      "eventSlug": "57610-cage-46",
+      "round": 1,
+      "timeInRound": "4:02"
+    },
+    {
+      "date": "2018-11-24T00:00:00.000Z",
+      "opponent": "Denis Vygovsky",
+      "opponentSlug": "98465-denis-vygovsky",
+      "result": "win",
+      "method": "other",
+      "event": "CAGE 45",
+      "eventSlug": "56366-cage-45",
+      "round": 1,
+      "timeInRound": "3:20"
+    },
+    {
+      "date": "2018-04-28T00:00:00.000Z",
+      "opponent": "Aaron Kennedy",
+      "opponentSlug": "23343-aaron-kennedy",
+      "result": "win",
+      "method": "other",
+      "event": "CAGE 43",
+      "eventSlug": "52174-cage-43",
+      "round": 2,
+      "timeInRound": "4:26"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:09:01.406Z"
+}

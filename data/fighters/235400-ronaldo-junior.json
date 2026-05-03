@@ -1,0 +1,66 @@
+{
+  "slug": "235400-ronaldo-junior",
+  "name": "Ronaldo Junior",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 172,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1997-05-19",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/235400-ronaldo-junior",
+  "recentFights": [
+    {
+      "date": "2022-08-20T00:00:00.000Z",
+      "opponent": "Ebeson Sevalho",
+      "opponentSlug": "106352-ebeson-sevalho-branco",
+      "result": "loss",
+      "method": "other",
+      "event": "Spartacus MMA 9",
+      "eventSlug": "92383-spartacus-mma-9",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2021-10-30T00:00:00.000Z",
+      "opponent": "Higor Yamanoi",
+      "opponentSlug": "168929-higor-yamanoi",
+      "result": "loss",
+      "method": "other",
+      "event": "MF Fighters 6",
+      "eventSlug": "83777-mf-fighters-4",
+      "round": 2,
+      "timeInRound": "0:01"
+    },
+    {
+      "date": "2021-07-11T00:00:00.000Z",
+      "opponent": "Márcio Barbosa",
+      "opponentSlug": "126539-marcio-ticot",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Thunder Fight 28",
+      "eventSlug": "79933-thunder-fight-28",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-12T00:00:00.000Z",
+      "opponent": "Leonardo Alves",
+      "opponentSlug": "235401-leonardo-alves-nate-diaz",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:56:57.229Z"
+}

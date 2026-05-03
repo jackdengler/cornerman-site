@@ -1,0 +1,132 @@
+{
+  "slug": "80455-lyle-karam",
+  "name": "Lyle Karam",
+  "nickname": "Krusher",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 193,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1996-08-14",
+  "nationality": "South Africa",
+  "url": "https://www.tapology.com/fightcenter/fighters/80455-lyle-karam",
+  "recentFights": [
+    {
+      "date": "2025-03-09T00:00:00.000Z",
+      "opponent": "Matt Vaile",
+      "opponentSlug": "118454-matt-vaile",
+      "result": "loss",
+      "method": "tko",
+      "event": "Diamondback FC 22",
+      "eventSlug": "122462-diamondback-fc-22",
+      "round": 4,
+      "timeInRound": "4:10"
+    },
+    {
+      "date": "2022-03-12T00:00:00.000Z",
+      "opponent": "Damon Upton-Greer",
+      "opponentSlug": "33371-damon-upton-greer",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Diamondback FC 13",
+      "eventSlug": "87020-diamondback-fc-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-03-14T00:00:00.000Z",
+      "opponent": "Themba Gorimbo",
+      "opponentSlug": "52251-themba-takura-gorimbo",
+      "result": "loss",
+      "method": "sub",
+      "event": "EFC Worldwide 84",
+      "eventSlug": "66355-efc-worldwide-84",
+      "round": 2,
+      "timeInRound": "2:06"
+    },
+    {
+      "date": "2019-12-01T00:00:00.000Z",
+      "opponent": "Luke Howard",
+      "opponentSlug": "76023-luke-howard",
+      "result": "win",
+      "method": "other",
+      "event": "Australian FC 23",
+      "eventSlug": "64027-australian-fc-23",
+      "round": 3,
+      "timeInRound": "4:53"
+    },
+    {
+      "date": "2019-08-10T00:00:00.000Z",
+      "opponent": "Stefan Pretorius",
+      "opponentSlug": "82997-stefan-pretorious",
+      "result": "win",
+      "method": "dec-split",
+      "event": "EFC Worldwide 81",
+      "eventSlug": "59802-efc-worldwide-81",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-22T00:00:00.000Z",
+      "opponent": "Wallace Okosso",
+      "opponentSlug": "88687-gorilla",
+      "result": "win",
+      "method": "other",
+      "event": "EFC Worldwide 48",
+      "eventSlug": "38203-efc-worldwide-48",
+      "round": 2,
+      "timeInRound": "3:29"
+    },
+    {
+      "date": "2015-07-11T00:00:00.000Z",
+      "opponent": "Mark Hulme",
+      "opponentSlug": "63903-mark-hulme",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "EFC Worldwide 41",
+      "eventSlug": "32123-efc-africa-41",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-02-21T00:00:00.000Z",
+      "opponent": "Marcel Teniers",
+      "opponentSlug": "58128-marcel-teniers-little-hammer",
+      "result": "win",
+      "method": "other",
+      "event": "EFC Africa 37",
+      "eventSlug": "28156-efca",
+      "round": 2,
+      "timeInRound": "2:18"
+    },
+    {
+      "date": "2014-10-02T00:00:00.000Z",
+      "opponent": "Tyron Bester",
+      "opponentSlug": "80454-tyron-bester",
+      "result": "win",
+      "method": "sub",
+      "event": "EFC Africa 34",
+      "eventSlug": "26034-efca-34-mynhardt-vs-madge-3",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2014-03-08T00:00:00.000Z",
+      "opponent": "Cole Henning",
+      "opponentSlug": "82757-cole-henning",
+      "result": "win",
+      "method": "other",
+      "event": "Fightstar FC 6",
+      "eventSlug": "27387-fightstar-fc-6",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:54:43.902Z"
+}

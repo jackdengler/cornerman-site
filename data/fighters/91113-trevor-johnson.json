@@ -1,0 +1,147 @@
+{
+  "slug": "91113-trevor-johnson",
+  "name": "Trevor Johnson",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 5,
+    "losses": 6,
+    "draws": 0
+  },
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1988-04-25",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/91113-trevor-johnson",
+  "recentFights": [
+    {
+      "date": "2021-10-09T00:00:00.000Z",
+      "opponent": "Ralph Hernandez III",
+      "opponentSlug": "190165-ralph-hernandez",
+      "result": "loss",
+      "method": "tko",
+      "event": "Shamrock FC 332",
+      "eventSlug": "80911-shamrock-332",
+      "round": 2,
+      "timeInRound": "0:52"
+    },
+    {
+      "date": "2019-12-07T00:00:00.000Z",
+      "opponent": "Joshua Mitchell",
+      "opponentSlug": "67251-joshua-mitchell",
+      "result": "win",
+      "method": "sub",
+      "event": "Shamrock FC 326",
+      "eventSlug": "64506-shamrock-fc-326",
+      "round": 2,
+      "timeInRound": "0:57"
+    },
+    {
+      "date": "2019-06-08T00:00:00.000Z",
+      "opponent": "Oscar Ahuatzi",
+      "opponentSlug": "117998-oscar-ahuatzi",
+      "result": "loss",
+      "method": "other",
+      "event": "Shamrock FC 319",
+      "eventSlug": "59201-shamrock-fc-319",
+      "round": 2,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2018-10-13T00:00:00.000Z",
+      "opponent": "Joe Estrada",
+      "opponentSlug": "90079-joe-estrada",
+      "result": "win",
+      "method": "sub",
+      "event": "Shamrock FC 310",
+      "eventSlug": "54885-shamrock-fc-310",
+      "round": 1,
+      "timeInRound": "1:40"
+    },
+    {
+      "date": "2018-06-16T00:00:00.000Z",
+      "opponent": "Terrance Carter",
+      "opponentSlug": "136396-terrance-carter",
+      "result": "win",
+      "method": "sub",
+      "event": "Shamrock FC 306",
+      "eventSlug": "52437-shamrock-fc-306",
+      "round": 2,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2017-11-18T00:00:00.000Z",
+      "opponent": "Kary Allen",
+      "opponentSlug": "137506-kary-allen",
+      "result": "loss",
+      "method": "other",
+      "event": "Shamrock FC 298",
+      "eventSlug": "48134-shamrock-fc-298",
+      "round": 1,
+      "timeInRound": "2:35"
+    },
+    {
+      "date": "2017-05-20T00:00:00.000Z",
+      "opponent": "Brandon Santana",
+      "opponentSlug": "91111-brandon-santana",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shamrock FC 289",
+      "eventSlug": "44156-shamrock-fc-289",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-01-14T00:00:00.000Z",
+      "opponent": "Derik Scott",
+      "opponentSlug": "116506-derik-scott",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shamrock FC 282",
+      "eventSlug": "43193-shamrock-fc-282",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-24T00:00:00.000Z",
+      "opponent": "Chris Sorrell",
+      "opponentSlug": "91386-chris-sorrell",
+      "result": "win",
+      "method": "sub",
+      "event": "Shamrock FC 276",
+      "eventSlug": "41552-shamrock-fc-276",
+      "round": 1,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2015-09-26T00:00:00.000Z",
+      "opponent": "Tyson Hicks",
+      "opponentSlug": "62071-tyson-hicks",
+      "result": "loss",
+      "method": "tko",
+      "event": "Shamrock FC",
+      "eventSlug": "33993-shamrock-fc-clash",
+      "round": 1,
+      "timeInRound": "1:24"
+    },
+    {
+      "date": "2015-01-17T00:00:00.000Z",
+      "opponent": "LJ Hermreck",
+      "opponentSlug": "30856-loren-hermreck",
+      "result": "win",
+      "method": "tko",
+      "event": "Shamrock FC",
+      "eventSlug": "29125-shamrock-fc-shock",
+      "round": 2,
+      "timeInRound": "2:41"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:44:51.875Z"
+}

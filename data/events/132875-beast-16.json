@@ -1,0 +1,114 @@
+{
+  "slug": "132875-beast-16",
+  "name": "Beast 16",
+  "promotion": "Beast CF",
+  "startTimeUtc": null,
+  "venueTimezone": null,
+  "venue": "Ilsan Monster Sports",
+  "location": "Ilsan, South Korea",
+  "url": "https://www.tapology.com/fightcenter/events/132875-beast-16",
+  "status": "scheduled",
+  "forumThreadId": null,
+  "fights": [
+    {
+      "id": "132875-beast-16#1",
+      "eventSlug": "132875-beast-16",
+      "order": 1,
+      "cardSection": "main",
+      "weightClass": "154 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "511973-kyung-min-song",
+        "name": "Kyung Min Song",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "384764-hyeon-seok-seong",
+        "name": "Hyun Seok Sung",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-05-03T10:32:35.696Z",
+      "odds": null,
+      "judges": null,
+      "referee": null,
+      "bonuses": null,
+      "sigStrikes": null,
+      "roundScores": null
+    },
+    {
+      "id": "132875-beast-16#2",
+      "eventSlug": "132875-beast-16",
+      "order": 2,
+      "cardSection": "main",
+      "weightClass": "150 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "489479-in-seo-eom",
+        "name": "In Seo Eom",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "137635-seul-cheon-park",
+        "name": "Seul Cheon Park",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-05-03T10:32:35.696Z",
+      "odds": null,
+      "judges": null,
+      "referee": null,
+      "bonuses": null,
+      "sigStrikes": null,
+      "roundScores": null
+    },
+    {
+      "id": "132875-beast-16#3",
+      "eventSlug": "132875-beast-16",
+      "order": 3,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "198443-brennan-cleveland",
+        "name": "Brennan Kim",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "517078-jae-wan-shim",
+        "name": "Jae Wan Shim",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-05-03T10:32:35.696Z",
+      "odds": null,
+      "judges": null,
+      "referee": null,
+      "bonuses": null,
+      "sigStrikes": null,
+      "roundScores": null
+    }
+  ],
+  "lastVerified": "2026-05-03T10:32:35.696Z"
+}

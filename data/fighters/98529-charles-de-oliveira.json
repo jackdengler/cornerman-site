@@ -1,0 +1,220 @@
+{
+  "slug": "98529-charles-de-oliveira",
+  "name": "Charles Oliveira",
+  "nickname": "One Punch",
+  "aliases": [],
+  "recordPro": {
+    "wins": 12,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 177,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Porto Velho, Rondonia, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/98529-charles-de-oliveira",
+  "recentFights": [
+    {
+      "date": "2026-04-08T00:00:00.000Z",
+      "opponent": "Isaac Dull",
+      "opponentSlug": "79685-isac-dull",
+      "result": "win",
+      "method": "tko",
+      "event": "CFC 28: Progredior",
+      "eventSlug": "140746-cfc-28-progredior",
+      "round": 2,
+      "timeInRound": "3:44"
+    },
+    {
+      "date": "2025-08-28T00:00:00.000Z",
+      "opponent": "Almir Lima",
+      "opponentSlug": "173479-almir-lima",
+      "result": "win",
+      "method": "other",
+      "event": "BRTL 8",
+      "eventSlug": "131453-brtl-8",
+      "round": 1,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2025-05-24T00:00:00.000Z",
+      "opponent": "Alan Silva",
+      "opponentSlug": "191993-alan-silva",
+      "result": "loss",
+      "method": "other",
+      "event": "SFT 56: King Kong vs. Soldado",
+      "eventSlug": "127975-sft-56-king-kong-vs-soldado",
+      "round": 1,
+      "timeInRound": "3:38"
+    },
+    {
+      "date": "2025-04-09T00:00:00.000Z",
+      "opponent": "André Ricardo",
+      "opponentSlug": "50791-andr-ricardo-ded",
+      "result": "loss",
+      "method": "tko",
+      "event": "CFC 26",
+      "eventSlug": "126001-cfc-26",
+      "round": 2,
+      "timeInRound": "3:46"
+    },
+    {
+      "date": "2024-06-08T00:00:00.000Z",
+      "opponent": "Marco Antonio",
+      "opponentSlug": "274403-marco-black",
+      "result": "win",
+      "method": "sub",
+      "event": "SFT 48: Sousa vs. Soldado",
+      "eventSlug": "113695-sft-48-sousa-vs-soldado",
+      "round": 1,
+      "timeInRound": "4:13"
+    },
+    {
+      "date": "2023-11-18T00:00:00.000Z",
+      "opponent": "Ramon Almeida",
+      "opponentSlug": "59843-ren-almeida",
+      "result": "win",
+      "method": "sub",
+      "event": "Coliseu Combat Aquidauana 2",
+      "eventSlug": "108165-coliseu-combat-aquiduana",
+      "round": 1,
+      "timeInRound": "3:05"
+    },
+    {
+      "date": "2022-12-17T00:00:00.000Z",
+      "opponent": "André Fischer",
+      "opponentSlug": "164489-andre-fischer",
+      "result": "loss",
+      "method": "other",
+      "event": "SFT 38: Ascenção dos Heróis",
+      "eventSlug": "94152-sft-38-ascencao-dos-herois",
+      "round": 2,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2022-09-03T00:00:00.000Z",
+      "opponent": "Carlos Prates",
+      "opponentSlug": "36554-carlos-prates-carlao",
+      "result": "loss",
+      "method": "other",
+      "event": "SFT 37: Prates vs. Oliveira",
+      "eventSlug": "92277-sft-37-prates-vs-oliveira",
+      "round": 1,
+      "timeInRound": "3:14"
+    },
+    {
+      "date": "2022-03-12T00:00:00.000Z",
+      "opponent": "Moacir Rocha",
+      "opponentSlug": "152249-moacir-cordeiro",
+      "result": "win",
+      "method": "other",
+      "event": "SFT 33: Buakaw vs. Ben 10",
+      "eventSlug": "86578-sft-33",
+      "round": 1,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2021-10-23T00:00:00.000Z",
+      "opponent": "João Mendes",
+      "opponentSlug": "194709-joao-mendes-sorriso",
+      "result": "win",
+      "method": "tko",
+      "event": "SFT 30: Predador vs. Manchinha",
+      "eventSlug": "83292-sft-30-predador-vs-manchinha",
+      "round": 1,
+      "timeInRound": "0:24"
+    },
+    {
+      "date": "2021-06-27T00:00:00.000Z",
+      "opponent": "Murillo Trindade",
+      "opponentSlug": "182427-murilo-trindade",
+      "result": "win",
+      "method": "other",
+      "event": "Road to Future 1",
+      "eventSlug": "79470-road-to-future-1",
+      "round": 1,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2019-09-21T00:00:00.000Z",
+      "opponent": "Devair Ribeiro",
+      "opponentSlug": "188108-devair-ribeiro-deva",
+      "result": "win",
+      "method": "other",
+      "event": "MF Fighters 4",
+      "eventSlug": "63010-mf-fighters-4",
+      "round": 1,
+      "timeInRound": "4:33"
+    },
+    {
+      "date": "2019-09-07T00:00:00.000Z",
+      "opponent": "Washington Rodrigues",
+      "opponentSlug": "203948-washington-rodrigues",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-06T00:00:00.000Z",
+      "opponent": "André Ricardo",
+      "opponentSlug": "50791-andr-ricardo-ded",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-14T00:00:00.000Z",
+      "opponent": "Romilson Luna",
+      "opponentSlug": "122781-romilson-luna-urso",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-17T00:00:00.000Z",
+      "opponent": "João Paulo Alves",
+      "opponentSlug": "2222-joo-paulo-alves",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-10T00:00:00.000Z",
+      "opponent": "Wallison Henrique",
+      "opponentSlug": "69770-wallison-latino",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-04-11T00:00:00.000Z",
+      "opponent": "Jean Felipe Prestes",
+      "opponentSlug": "98528-jean-felipe-prestes-tch",
+      "result": "loss",
+      "method": "sub",
+      "event": "EFC 1",
+      "eventSlug": "31919-efc-1",
+      "round": 1,
+      "timeInRound": "1:42"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:10:33.121Z"
+}

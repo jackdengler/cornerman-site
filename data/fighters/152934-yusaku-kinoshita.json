@@ -1,0 +1,187 @@
+{
+  "slug": "152934-yusaku-kinoshita",
+  "name": "Yusaku Kinoshita",
+  "nickname": "Wonderboy",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 182,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "2000-08-21",
+  "nationality": "Osaka, Japan",
+  "url": "https://www.tapology.com/fightcenter/fighters/152934-yusaku-kinoshita",
+  "recentFights": [
+    {
+      "date": "2026-03-30T00:00:00.000Z",
+      "opponent": "Victor Valenzuela",
+      "opponentSlug": "67389-victor-valenzuela-sicosis",
+      "result": "loss",
+      "method": "tko",
+      "event": "Lemino Shooto.4",
+      "eventSlug": "140133-lemino-shooto-4",
+      "round": 2,
+      "timeInRound": "4:13"
+    },
+    {
+      "date": "2023-08-26T00:00:00.000Z",
+      "opponent": "Billy Ray Goff",
+      "opponentSlug": "169724-billy-goff",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "101389-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "3:49"
+    },
+    {
+      "date": "2023-02-04T00:00:00.000Z",
+      "opponent": "Adam Fugitt",
+      "opponentSlug": "112635-adam-fugitt",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "93977-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "4:36"
+    },
+    {
+      "date": "2022-08-30T00:00:00.000Z",
+      "opponent": "José Henrique",
+      "opponentSlug": "289580-jose-henrique-canela",
+      "result": "win",
+      "method": "other",
+      "event": "Contender Series 2022",
+      "eventSlug": "89499-contender-series-2022-week-6",
+      "round": 3,
+      "timeInRound": "0:43"
+    },
+    {
+      "date": "2022-04-29T00:00:00.000Z",
+      "opponent": "Akihiro Murayama",
+      "opponentSlug": "7513-akihiro-murayama",
+      "result": "win",
+      "method": "other",
+      "event": "Pancrase 327",
+      "eventSlug": "88115-pancrase-327",
+      "round": 1,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2021-11-28T00:00:00.000Z",
+      "opponent": "Ryuichiro Sumimura",
+      "opponentSlug": "28667-ryuichiro-sumimura",
+      "result": "loss",
+      "method": "other",
+      "event": "RIZIN Trigger 1st",
+      "eventSlug": "83666-rizin-trigger-1st",
+      "round": 2,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2021-09-11T00:00:00.000Z",
+      "opponent": "Kenta Takagi",
+      "opponentSlug": "kenta-takagi",
+      "result": "win",
+      "method": "other",
+      "event": "Pancrase 323",
+      "eventSlug": "80878-pancrase-323",
+      "round": 1,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2021-07-17T00:00:00.000Z",
+      "opponent": "Yuta Nakamura",
+      "opponentSlug": "3438-yuta-nakamura",
+      "result": "win",
+      "method": "other",
+      "event": "Pancrase Osaka",
+      "eventSlug": "80142-pancrase-osaka",
+      "round": 1,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2021-04-04T00:00:00.000Z",
+      "opponent": "Ibuki Shimada",
+      "opponentSlug": "148963-ibuki-shibata",
+      "result": "win",
+      "method": "tko",
+      "event": "DEEP Osaka Impact 2021",
+      "eventSlug": "77353-deep-osaka-impact-2021",
+      "round": 1,
+      "timeInRound": "2:19"
+    },
+    {
+      "date": "2020-11-29T00:00:00.000Z",
+      "opponent": "Yuta Amifuji",
+      "opponentSlug": "75346-yuta-amifuji",
+      "result": "win",
+      "method": "sub",
+      "event": "DEEP & Pancrase Osaka",
+      "eventSlug": "77732-deep-pancrase-osaka",
+      "round": 1,
+      "timeInRound": "0:52"
+    },
+    {
+      "date": "2018-05-13T00:00:00.000Z",
+      "opponent": "Angelo Ferre",
+      "opponentSlug": "157700-angelo-ferre",
+      "result": "win",
+      "method": "sub",
+      "event": "JMMAF Kansai 22",
+      "eventSlug": "54102-jmmaf-kansai-22",
+      "round": 1,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2017-09-24T00:00:00.000Z",
+      "opponent": "Takuya Takahashi",
+      "opponentSlug": "166651-takuya-takahashi",
+      "result": "win",
+      "method": "sub",
+      "event": "JMMAF Kansai 20",
+      "eventSlug": "47148-jmmaf-kansai-20",
+      "round": 1,
+      "timeInRound": "2:03"
+    },
+    {
+      "date": "2017-05-14T00:00:00.000Z",
+      "opponent": "Yoshinobu Kitano",
+      "opponentSlug": "140864-kitano-megumito",
+      "result": "win",
+      "method": "sub",
+      "event": "JMMAF Kansai 19",
+      "eventSlug": "45479-jmmaf-kansai-19",
+      "round": 2,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2017-05-14T00:00:00.000Z",
+      "opponent": "Naoki Oda",
+      "opponentSlug": "149979-naoki-oda",
+      "result": "win",
+      "method": "sub",
+      "event": "JMMAF Kansai 19",
+      "eventSlug": "45479-jmmaf-kansai-19",
+      "round": 2,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2017-03-26T00:00:00.000Z",
+      "opponent": "Ichiki Tanaka",
+      "opponentSlug": "99552-ichiki-tanaka",
+      "result": "win",
+      "method": "other",
+      "event": "Osaka Cage Fight 3",
+      "eventSlug": "43997-osaka-cage-fight-3",
+      "round": 1,
+      "timeInRound": "0:06"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:57:49.392Z"
+}

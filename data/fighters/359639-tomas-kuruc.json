@@ -1,0 +1,44 @@
+{
+  "slug": "359639-tomas-kuruc",
+  "name": "Tomáš Kuruc",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Slovakia",
+  "url": "https://www.tapology.com/fightcenter/fighters/359639-tomas-kuruc",
+  "recentFights": [
+    {
+      "date": "2022-10-22T00:00:00.000Z",
+      "opponent": "Vladimír Lengál",
+      "opponentSlug": "305714-vladimir-lengal-vlado",
+      "result": "loss",
+      "method": "other",
+      "event": "DFN 8: Battle for the Throne",
+      "eventSlug": "91999-dfn-8",
+      "round": 1,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2013-06-25T00:00:00.000Z",
+      "opponent": "Tibor Ujhelsky",
+      "opponentSlug": "135690-tibor-ujhelsky",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:06:31.005Z"
+}

@@ -1,0 +1,253 @@
+{
+  "slug": "50344-han-seul-kim",
+  "name": "Han Seul Kim",
+  "nickname": "Spade",
+  "aliases": [],
+  "recordPro": {
+    "wins": 13,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 185,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1990-06-19",
+  "nationality": "South Korea",
+  "url": "https://www.tapology.com/fightcenter/fighters/50344-han-seul-kim",
+  "recentFights": [
+    {
+      "date": "2024-12-14T00:00:00.000Z",
+      "opponent": "In Soo Hwang",
+      "opponentSlug": "161782-in-soo-hwang",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "ZFN 2",
+      "eventSlug": "120605-zfn-02",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-29T00:00:00.000Z",
+      "opponent": "Fabrício Azevedo",
+      "opponentSlug": "133483-fabrcio-azevedo",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ZFN 1",
+      "eventSlug": "115254-z-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-18T00:00:00.000Z",
+      "opponent": "Bahatebole Batebolati",
+      "opponentSlug": "321450-bahatebole-batebolati-lion-king",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Road to UFC",
+      "eventSlug": "111912-road-to-ufc-shanghai",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-27T00:00:00.000Z",
+      "opponent": "Taiyilake Nueraji",
+      "opponentSlug": "278666-taiyilake",
+      "result": "loss",
+      "method": "other",
+      "event": "Road to UFC",
+      "eventSlug": "101113-road-to-ufc-shanghai",
+      "round": 2,
+      "timeInRound": "3:22"
+    },
+    {
+      "date": "2022-06-10T00:00:00.000Z",
+      "opponent": "John Adajar",
+      "opponentSlug": "134742-john-adajar-outlaw",
+      "result": "win",
+      "method": "sub",
+      "event": "Road to UFC",
+      "eventSlug": "89906-road-to-ufc-singapore-episode-4",
+      "round": 1,
+      "timeInRound": "4:37"
+    },
+    {
+      "date": "2021-12-30T00:00:00.000Z",
+      "opponent": "Seok Hyeon Ko",
+      "opponentSlug": "175557-seok-hyun-ko",
+      "result": "win",
+      "method": "other",
+      "event": "Double G FC 11",
+      "eventSlug": "84406-double-g-fc-11",
+      "round": 1,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2021-06-05T00:00:00.000Z",
+      "opponent": "Yong Joo Lim",
+      "opponentSlug": "140788-yong-joo-lim",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Double G FC 7",
+      "eventSlug": "78598-double-g-fc-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-11-28T00:00:00.000Z",
+      "opponent": "Tae Ho Jin",
+      "opponentSlug": "19046-tae-ho-jin",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Double G 5",
+      "eventSlug": "73141-double-g-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-05T00:00:00.000Z",
+      "opponent": "Makoto Maeda",
+      "opponentSlug": "29681-makoto-maeda-chomolangma-12",
+      "result": "win",
+      "method": "other",
+      "event": "Double G 3",
+      "eventSlug": "62044-double-g-fc-03",
+      "round": 1,
+      "timeInRound": "3:55"
+    },
+    {
+      "date": "2017-12-22T00:00:00.000Z",
+      "opponent": "Mohamad Ghorabi",
+      "opponentSlug": "66365-mohamad-ghorabi",
+      "result": "win",
+      "method": "other",
+      "event": "Phoenix FC 4",
+      "eventSlug": "48158-phoenix-fc-4",
+      "round": 2,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2016-07-08T00:00:00.000Z",
+      "opponent": "Frank Camacho",
+      "opponentSlug": "6791-frank-camacho-the-crank",
+      "result": "win",
+      "method": "other",
+      "event": "PXC 54",
+      "eventSlug": "39853-pxc-54",
+      "round": 1,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2016-03-19T00:00:00.000Z",
+      "opponent": "Takenori Sato",
+      "opponentSlug": "takenori-sato",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Top FC 10",
+      "eventSlug": "37996-top-fc-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-01-16T00:00:00.000Z",
+      "opponent": "Nao Yoneda",
+      "opponentSlug": "50293-nao-yoneda",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "PXC 51",
+      "eventSlug": "37201-pxc-51",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-24T00:00:00.000Z",
+      "opponent": "Jae Woong Kim",
+      "opponentSlug": "68977-jae-woong-kim",
+      "result": "win",
+      "method": "other",
+      "event": "Top FC 9: Battle of Incheon",
+      "eventSlug": "35808-top-fc-9",
+      "round": 1,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2015-03-13T00:00:00.000Z",
+      "opponent": "Zebaztian Kadestam",
+      "opponentSlug": "19640-zebaztian-kadestam",
+      "result": "loss",
+      "method": "other",
+      "event": "PXC 47",
+      "eventSlug": "29479-pxc-47",
+      "round": 2,
+      "timeInRound": "2:35"
+    },
+    {
+      "date": "2014-11-15T00:00:00.000Z",
+      "opponent": "Min Seok Heo",
+      "opponentSlug": "2678-min-suk-heo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Top FC 4: Edge of Pride",
+      "eventSlug": "26799-top-fc-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-06-27T00:00:00.000Z",
+      "opponent": "Eric Michael Fought",
+      "opponentSlug": "7505-eric-fought",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "PXC 44: Calvo vs Kadestam",
+      "eventSlug": "23937-pxc-44",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-12-08T00:00:00.000Z",
+      "opponent": "Sung Won Son",
+      "opponentSlug": "45629-seong-won-son",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Top FC: National League 1",
+      "eventSlug": "22979-top-fc-national-league-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-06-29T00:00:00.000Z",
+      "opponent": "Young Jun Jeon",
+      "opponentSlug": "50345-jun-young-joon",
+      "result": "loss",
+      "method": "tko",
+      "event": "Top FC 1: Original",
+      "eventSlug": "19281-top-fc-1",
+      "round": 1,
+      "timeInRound": "0:15"
+    },
+    {
+      "date": "2012-09-22T00:00:00.000Z",
+      "opponent": "Douglas Ronca Kobayashi",
+      "opponentSlug": "43894-douglas-ronca-kobayashi",
+      "result": "win",
+      "method": "other",
+      "event": "M-1: Battle in Mokpo",
+      "eventSlug": "24775-m-1-korea-m-1-korea-in-mokpo",
+      "round": 1,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2012-06-18T00:00:00.000Z",
+      "opponent": "Sung Baek Lee",
+      "opponentSlug": "50352-sung-beak-lee",
+      "result": "win",
+      "method": "other",
+      "event": "Gladiator 37",
+      "eventSlug": "15534-gladiator-37",
+      "round": 1,
+      "timeInRound": "1:56"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:04:23.834Z"
+}

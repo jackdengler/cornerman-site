@@ -1,0 +1,110 @@
+{
+  "slug": "384075-sardor-ochirov",
+  "name": "Sardor Ochilov",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 171,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Uzbekistan",
+  "url": "https://www.tapology.com/fightcenter/fighters/384075-sardor-ochirov",
+  "recentFights": [
+    {
+      "date": "2026-02-28T00:00:00.000Z",
+      "opponent": "Saba Sozashvili",
+      "opponentSlug": "286817-saba-sozashvili",
+      "result": "loss",
+      "method": "sub",
+      "event": "Max Fight 14",
+      "eventSlug": "139210-max-fight-14",
+      "round": 1,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2025-02-22T00:00:00.000Z",
+      "opponent": "Sylwester Miller",
+      "opponentSlug": "90041-sylwester-miller",
+      "result": "loss",
+      "method": "sub",
+      "event": "FSC 11",
+      "eventSlug": "122095-fsc-11",
+      "round": 1,
+      "timeInRound": "1:55"
+    },
+    {
+      "date": "2024-06-15T00:00:00.000Z",
+      "opponent": "Sebastian Decowski",
+      "opponentSlug": "170921-sebastian-decowski",
+      "result": "loss",
+      "method": "other",
+      "event": "FEN 55: Abdurzakov vs. Pietrzak",
+      "eventSlug": "113817-fen-55",
+      "round": 1,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2024-05-11T00:00:00.000Z",
+      "opponent": "Kacper Matyszewski",
+      "opponentSlug": "229084-kacper-matyszewski",
+      "result": "loss",
+      "method": "other",
+      "event": "FSC 9",
+      "eventSlug": "111624-fsc-9",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2021-04-13T00:00:00.000Z",
+      "opponent": "Vsevolod Panteleev",
+      "opponentSlug": "384080-vsevolod-panteleev",
+      "result": "win",
+      "method": "sub",
+      "event": "Patriot Pro League",
+      "eventSlug": "100584-patriot-pro-league",
+      "round": 1,
+      "timeInRound": "0:42"
+    },
+    {
+      "date": "2021-03-12T00:00:00.000Z",
+      "opponent": "Kuanysh Sabirinov",
+      "opponentSlug": "384076-kuanysh-sabirinov",
+      "result": "win",
+      "method": "sub",
+      "event": "Perviy Club",
+      "eventSlug": "77899-perviy-club-fight-show-50",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-01-26T00:00:00.000Z",
+      "opponent": "Dzhigit Kylych Uluu",
+      "opponentSlug": "384082-dzhigit-kylych-uluu",
+      "result": "win",
+      "method": "sub",
+      "event": "Colosseum MMA",
+      "eventSlug": "65948-colosseum-mma-battle-of-champions-12",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-08-26T00:00:00.000Z",
+      "opponent": "Lui Bo",
+      "opponentSlug": "385238-lui-bo",
+      "result": "win",
+      "method": "tko",
+      "event": "CTT/NGCT",
+      "eventSlug": "77255-ctt-ngct",
+      "round": 1,
+      "timeInRound": "1:55"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:11:07.333Z"
+}

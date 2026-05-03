@@ -1,0 +1,88 @@
+{
+  "slug": "250132-umid-aghamurov",
+  "name": "Umid Agamirov",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 1,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 157,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Azerbaijan",
+  "url": "https://www.tapology.com/fightcenter/fighters/250132-umid-aghamurov",
+  "recentFights": [
+    {
+      "date": "2022-12-15T00:00:00.000Z",
+      "opponent": "Raz Bring",
+      "opponentSlug": "142406-raz-bring",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "MMA Open 1",
+      "eventSlug": "95601-mma-open",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-04T00:00:00.000Z",
+      "opponent": "Nikolay Shakhobov",
+      "opponentSlug": "173982-nikolay-shakhobov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Open Fighting Championship 11",
+      "eventSlug": "83709-open-fighting-championship-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-26T00:00:00.000Z",
+      "opponent": "Mark Vologdin",
+      "opponentSlug": "202598-mark-vologdin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMA Series 35",
+      "eventSlug": "79806-mma-series-35-time-of-new-heroes-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-01-19T00:00:00.000Z",
+      "opponent": "AmirHossein Arefi Niya",
+      "opponentSlug": "284535-amirhossein-arefi-niya",
+      "result": "win",
+      "method": "sub",
+      "event": "Yusif FC 7",
+      "eventSlug": "66037-yusif-fc-7",
+      "round": 1,
+      "timeInRound": "3:12"
+    },
+    {
+      "date": "2019-10-27T00:00:00.000Z",
+      "opponent": "Ali Aliev",
+      "opponentSlug": "492804-ali-aliev",
+      "result": "win",
+      "method": "tko",
+      "event": "Yusif FC 4",
+      "eventSlug": "65680-yusif-fc",
+      "round": 1,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2019-09-29T00:00:00.000Z",
+      "opponent": "Behruz Ahmedov",
+      "opponentSlug": "214013-behruz-ehmedov",
+      "result": "win",
+      "method": "tko",
+      "event": "Yusif FC 3",
+      "eventSlug": "65581-yusif-fc-3",
+      "round": 1,
+      "timeInRound": "0:35"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:04:02.312Z"
+}

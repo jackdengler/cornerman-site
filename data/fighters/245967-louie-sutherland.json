@@ -1,0 +1,198 @@
+{
+  "slug": "245967-louie-sutherland",
+  "name": "Louie Sutherland",
+  "nickname": "Vanilla Gorilla",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 191,
+  "reachCm": 193,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1994-02-08",
+  "nationality": "England",
+  "url": "https://www.tapology.com/fightcenter/fighters/245967-louie-sutherland",
+  "recentFights": [
+    {
+      "date": "2026-03-21T00:00:00.000Z",
+      "opponent": "Brando Peričić",
+      "opponentSlug": "195101-brando-pericic",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "136856-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2025-10-25T00:00:00.000Z",
+      "opponent": "Valter Walker",
+      "opponentSlug": "267496-valter-rui-the-clean-monster",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC 321: Aspinall vs. Gane",
+      "eventSlug": "130325-ufc-321",
+      "round": 1,
+      "timeInRound": "1:24"
+    },
+    {
+      "date": "2025-06-15T00:00:00.000Z",
+      "opponent": "Luke Newland",
+      "opponentSlug": "226878-luke-newland",
+      "result": "win",
+      "method": "other",
+      "event": "Levels Fight League 18",
+      "eventSlug": "125886-levels-fight-league-18-open-air-mma",
+      "round": 1,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2025-04-13T00:00:00.000Z",
+      "opponent": "Matusalém dos Santos",
+      "opponentSlug": "135386-matusalm-domingos",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Levels Fight League 17",
+      "eventSlug": "123707-levels-fight-league-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-02-16T00:00:00.000Z",
+      "opponent": "Luis Carlos de Brito",
+      "opponentSlug": "74820-luis-carlos-brito-krikri",
+      "result": "win",
+      "method": "other",
+      "event": "Levels Fight League 16",
+      "eventSlug": "121633-levels-fight-league-16",
+      "round": 1,
+      "timeInRound": "3:25"
+    },
+    {
+      "date": "2024-12-08T00:00:00.000Z",
+      "opponent": "Renato Rangel",
+      "opponentSlug": "99754-renato-rangel",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Levels Fight League 15",
+      "eventSlug": "118576-levels-fight-league-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-17T00:00:00.000Z",
+      "opponent": "Slim Trabelsi",
+      "opponentSlug": "209267-slim-trabelsi",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bellator Champions Series",
+      "eventSlug": "111171-bellator-champions-series-paris",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-18T00:00:00.000Z",
+      "opponent": "Luis Carlos de Brito",
+      "opponentSlug": "74820-luis-carlos-brito-krikri",
+      "result": "win",
+      "method": "other",
+      "event": "FightStar Championship 27",
+      "eventSlug": "105148-fightstar-championship-27",
+      "round": 1,
+      "timeInRound": "4:11"
+    },
+    {
+      "date": "2023-07-09T00:00:00.000Z",
+      "opponent": "Moreno Kacapor",
+      "opponentSlug": "218443-moreno-kacapor",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Levels Fight League 9",
+      "eventSlug": "99528-levels-fight-league-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-10T00:00:00.000Z",
+      "opponent": "Alton Meeks",
+      "opponentSlug": "174367-alton-meeks",
+      "result": "win",
+      "method": "other",
+      "event": "PFL Challenger Series 2023",
+      "eventSlug": "95441-pfl-challenger-series-11",
+      "round": 2,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2022-08-20T00:00:00.000Z",
+      "opponent": "Abraham Bably",
+      "opponentSlug": "248068-abraham-bably",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "PFL 9: 2022 Playoffs",
+      "eventSlug": "87840-pfl-2022-9-playoffs",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-23T00:00:00.000Z",
+      "opponent": "Dion Groombridge",
+      "opponentSlug": "125587-dion-goombridge",
+      "result": "win",
+      "method": "tko",
+      "event": "Sparta Fight Knights 1",
+      "eventSlug": "89026-sparta-fight-knights-1-the-rise-of-sparta",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-05T00:00:00.000Z",
+      "opponent": "Jan Lysak",
+      "opponentSlug": "101098-jan-lysak",
+      "result": "win",
+      "method": "tko",
+      "event": "Ambition Fight Series",
+      "eventSlug": "85865-ambition-fight-series-london",
+      "round": 1,
+      "timeInRound": "0:25"
+    },
+    {
+      "date": "2021-12-18T00:00:00.000Z",
+      "opponent": "Atanas Krastanov",
+      "opponentSlug": "144383-atanas-krastanov",
+      "result": "win",
+      "method": "tko",
+      "event": "FightStar Championship 20",
+      "eventSlug": "84646-fightstar-championship-20",
+      "round": 1,
+      "timeInRound": "2:05"
+    },
+    {
+      "date": "2021-08-07T00:00:00.000Z",
+      "opponent": "Pavel Dailidko",
+      "opponentSlug": "208830-pavel-dailidko",
+      "result": "win",
+      "method": "other",
+      "event": "Almighty Fighting Championship 18",
+      "eventSlug": "72450-almighty-fighting-championship-26",
+      "round": 1,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2019-12-14T00:00:00.000Z",
+      "opponent": "Zsolt Balázs",
+      "opponentSlug": "136204-zsolt-balzs",
+      "result": "win",
+      "method": "other",
+      "event": "FightStar Championship 19",
+      "eventSlug": "63260-fightstar-championship-19",
+      "round": 2,
+      "timeInRound": "2:06"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:55:57.245Z"
+}

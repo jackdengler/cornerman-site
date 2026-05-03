@@ -1,0 +1,81 @@
+{
+  "slug": "253562-shmyrko-kyrylo",
+  "name": "Shmyrko Kyrylo",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Ukraine",
+  "url": "https://www.tapology.com/fightcenter/fighters/253562-shmyrko-kyrylo",
+  "recentFights": [
+    {
+      "date": "2023-06-17T00:00:00.000Z",
+      "opponent": "Andriy Protasyuk",
+      "opponentSlug": "299350-andriy-protasyuk",
+      "result": null,
+      "method": "other",
+      "event": "Asgard Fight Night 2",
+      "eventSlug": "103798-asgard-fight-night-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-06T00:00:00.000Z",
+      "opponent": "Francesco Labellarte",
+      "opponentSlug": "187747-francesco-labbellarte",
+      "result": "loss",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "115207-gamma-european-championships-2021-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-06T00:00:00.000Z",
+      "opponent": "Vyacheslav Kalenik",
+      "opponentSlug": "366067-vyacheslav-kalenik",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "115207-gamma-european-championships-2021-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-20T00:00:00.000Z",
+      "opponent": "Steve Erceg",
+      "opponentSlug": "132326-stephen-erceg",
+      "result": "loss",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "65226-gamma-singapore-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-20T00:00:00.000Z",
+      "opponent": "Mortaza Taherkhani",
+      "opponentSlug": "214253-mortaza-taherkhani",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "65226-gamma-singapore-day-1",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:14:13.125Z"
+}

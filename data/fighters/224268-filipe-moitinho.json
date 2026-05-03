@@ -1,0 +1,143 @@
+{
+  "slug": "224268-filipe-moitinho",
+  "name": "Filipe Moitinho",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1995-06-10",
+  "nationality": "Vitoria da Conquista, Bahia, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/224268-filipe-moitinho",
+  "recentFights": [
+    {
+      "date": "2022-11-24T00:00:00.000Z",
+      "opponent": "Djorden Santos",
+      "opponentSlug": "67529-diorden-maguila",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Thunder Fight 39",
+      "eventSlug": "95017-thunder-fight-39",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-28T00:00:00.000Z",
+      "opponent": "Marcio da Silva",
+      "opponentSlug": "338446-marcio-da-silva",
+      "result": "win",
+      "method": "other",
+      "event": "Demo Fight 13",
+      "eventSlug": "88400-demo-fight-13",
+      "round": 1,
+      "timeInRound": "0:12"
+    },
+    {
+      "date": "2022-04-02T00:00:00.000Z",
+      "opponent": "Ciro Rodrigues",
+      "opponentSlug": "24414-ciro-rodrigues-bad-boy",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Qualify Combat 10",
+      "eventSlug": "86987-qualify-combat-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-19T00:00:00.000Z",
+      "opponent": "Markus Perez",
+      "opponentSlug": "54963-marcus-perez-maluco",
+      "result": "loss",
+      "method": "sub",
+      "event": "Thunder Fight 33",
+      "eventSlug": "84138-thunder-fight-33-legends",
+      "round": 1,
+      "timeInRound": "0:33"
+    },
+    {
+      "date": "2021-09-19T00:00:00.000Z",
+      "opponent": "Rafael Santos",
+      "opponentSlug": "194715-jose-rafael-santos-ze-maritaca",
+      "result": "win",
+      "method": "sub",
+      "event": "Thunder Fight 30",
+      "eventSlug": "82251-thunder-fight-30",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-17T00:00:00.000Z",
+      "opponent": "Ulisses Netto",
+      "opponentSlug": "175024-ulisses-netto",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ReciFight 6",
+      "eventSlug": "77915-recifight-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-03-15T00:00:00.000Z",
+      "opponent": "Gustavo dos Santos",
+      "opponentSlug": "236275-gustavo-dos-santos-rottweiler",
+      "result": "win",
+      "method": "other",
+      "event": "Jardim Fight 1",
+      "eventSlug": "68614-jardim-fight-1",
+      "round": 1,
+      "timeInRound": "0:40"
+    },
+    {
+      "date": "2019-12-21T00:00:00.000Z",
+      "opponent": "Luciano Santos",
+      "opponentSlug": "110238-luciano-santos",
+      "result": "win",
+      "method": "other",
+      "event": "Dubai Fight 1",
+      "eventSlug": "65196-dubai-fight-1",
+      "round": 1,
+      "timeInRound": "0:43"
+    },
+    {
+      "date": "2019-08-17T00:00:00.000Z",
+      "opponent": "Walter de Souza",
+      "opponentSlug": "234398-walter-de-souza",
+      "result": "win",
+      "method": "sub",
+      "event": "BrazilMMA 1",
+      "eventSlug": "62639-brazilmma-1",
+      "round": 2,
+      "timeInRound": "0:53"
+    },
+    {
+      "date": "2019-07-13T00:00:00.000Z",
+      "opponent": "Vitor Igor Santos",
+      "opponentSlug": "230119-vitor-igor-santos",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fight On 6",
+      "eventSlug": "61686-fight-on-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-16T00:00:00.000Z",
+      "opponent": "Advan Junior",
+      "opponentSlug": "224267-advan-junior-crazy-boy",
+      "result": "win",
+      "method": "sub",
+      "event": "Imperium MMA Pro 14",
+      "eventSlug": "59788-imperium-mma-pro-14",
+      "round": 1,
+      "timeInRound": "1:45"
+    }
+  ],
+  "lastVerified": "2026-04-25T23:03:50.738Z"
+}

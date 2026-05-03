@@ -1,0 +1,176 @@
+{
+  "slug": "83472-alexander-vertko",
+  "name": "Aleksandr Vertko",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 12,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1996-04-03",
+  "nationality": "Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/83472-alexander-vertko",
+  "recentFights": [
+    {
+      "date": "2022-06-18T00:00:00.000Z",
+      "opponent": "Arda Adas",
+      "opponentSlug": "62039-arda-adas",
+      "result": "win",
+      "method": "other",
+      "event": "NFC 9",
+      "eventSlug": "90359-nfc-9",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-25T00:00:00.000Z",
+      "opponent": "Arbi Mezhidov",
+      "opponentSlug": "33031-arbi-mezdihov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "National Fighting Championship 4",
+      "eventSlug": "77060-national-fighting-championship-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-19T00:00:00.000Z",
+      "opponent": "Mikail Bayram",
+      "opponentSlug": "218392-mikail-bayram",
+      "result": "win",
+      "method": "other",
+      "event": "National Fighting Championship 2",
+      "eventSlug": "72721-national-fighting-championship-2",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-07T00:00:00.000Z",
+      "opponent": "Anatolij Baal",
+      "opponentSlug": "66398-anatoli-baar",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "GMC 21",
+      "eventSlug": "57633-gmc",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-23T00:00:00.000Z",
+      "opponent": "Nicolae Dragos",
+      "opponentSlug": "146651-nicolae-dragos",
+      "result": "win",
+      "method": "other",
+      "event": "Big Game 3",
+      "eventSlug": "54722-big-game-3-finest-mma-kickboxing-gala",
+      "round": 1,
+      "timeInRound": "0:17"
+    },
+    {
+      "date": "2019-02-02T00:00:00.000Z",
+      "opponent": "Ozan Aslaner",
+      "opponentSlug": "107207-ozan-aslaner",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "GMC 18",
+      "eventSlug": "56510-gmc-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-06T00:00:00.000Z",
+      "opponent": "Islam Khapilaev",
+      "opponentSlug": "102959-islam-khapilaev",
+      "result": "win",
+      "method": "tko",
+      "event": "Fair FC 8",
+      "eventSlug": "54724-fair-fc-8",
+      "round": 1,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2018-06-16T00:00:00.000Z",
+      "opponent": "Jonny Kruschinske",
+      "opponentSlug": "30205-jonny-kruschinske-son-goku",
+      "result": "win",
+      "method": "sub",
+      "event": "UMACC 1: Prenzlauer Fight Night",
+      "eventSlug": "53961-umacc-1-prenzlauer-fight-night",
+      "round": 1,
+      "timeInRound": "0:38"
+    },
+    {
+      "date": "2018-03-10T00:00:00.000Z",
+      "opponent": "Rene Runge",
+      "opponentSlug": "139986-rene-runge",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Big Game 2",
+      "eventSlug": "51037-big-game-2-finest-mma-kickboxing-gala",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-10-07T00:00:00.000Z",
+      "opponent": "Pascal Wolf",
+      "opponentSlug": "62244-pascal-wolf",
+      "result": "win",
+      "method": "tko",
+      "event": "Fair FC 7",
+      "eventSlug": "46008-fair-fc-7",
+      "round": 1,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2015-05-30T00:00:00.000Z",
+      "opponent": "Andrey Mitrofanov",
+      "opponentSlug": "71453-andrey-mitrofanov",
+      "result": "loss",
+      "method": "other",
+      "event": "ACB 19: Berkut Cup 2015 - Stage 4",
+      "eventSlug": "32205-absolute-championship-berkut-18",
+      "round": 1,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2015-03-19T00:00:00.000Z",
+      "opponent": "Ruslan Rakhmonkulov",
+      "opponentSlug": "98429-ruslan-rakhmonkulov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fight Nights Global 32",
+      "eventSlug": "31870-fight-nights-fight-club-russian-team-championship-stage-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-01T00:00:00.000Z",
+      "opponent": "Anatoly Angelovskiy",
+      "opponentSlug": "81734-anatoly-angelovskiy",
+      "result": "win",
+      "method": "sub",
+      "event": "Baltic Fights",
+      "eventSlug": "27552-profc-56-baltic-challenge-6",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-09-29T00:00:00.000Z",
+      "opponent": "Alexander Osyushkin",
+      "opponentSlug": "177544-aleksandr-osyushkin",
+      "result": "win",
+      "method": "other",
+      "event": "Kaliningrad Open Cup 2013",
+      "eventSlug": "53086-kaliningrad-open-cup-2013",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:06:55.833Z"
+}

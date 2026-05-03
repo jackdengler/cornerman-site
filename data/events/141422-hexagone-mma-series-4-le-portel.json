@@ -1,0 +1,555 @@
+{
+  "slug": "141422-hexagone-mma-series-4-le-portel",
+  "name": "Hexagone MMA Series 4: Le Portel",
+  "promotion": "Hexagone MMA",
+  "startTimeUtc": "2026-04-25T16:00:00.000Z",
+  "venueTimezone": null,
+  "venue": "Le Chaudron",
+  "location": "Le Portel, France",
+  "url": "https://www.tapology.com/fightcenter/events/141422-hexagone-mma-series-4-le-portel",
+  "status": "live",
+  "forumThreadId": "96240",
+  "fights": [
+    {
+      "id": "141422-hexagone-mma-series-4-le-portel#1",
+      "eventSlug": "141422-hexagone-mma-series-4-le-portel",
+      "order": 1,
+      "cardSection": "main",
+      "weightClass": "125 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "187305-lucia-szabova-queen-bee",
+        "name": "Lucia Szabová",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "271498-leidiane-fernandes",
+        "name": "Leidiane Fernandes",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "live",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T15:56:15.452Z"
+    },
+    {
+      "id": "141422-hexagone-mma-series-4-le-portel#2",
+      "eventSlug": "141422-hexagone-mma-series-4-le-portel",
+      "order": 2,
+      "cardSection": "main",
+      "weightClass": "185 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "169531-dominik-humburger",
+        "name": "Dominik Humburger",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "19640-zebaztian-kadestam",
+        "name": "Zebaztian Kadestam",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "live",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T15:56:15.452Z"
+    },
+    {
+      "id": "141422-hexagone-mma-series-4-le-portel#3",
+      "eventSlug": "141422-hexagone-mma-series-4-le-portel",
+      "order": 3,
+      "cardSection": "main",
+      "weightClass": "145 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "279961-radek-rousal-ruchy",
+        "name": "Radek Roušal",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "229953-samuel-bark-sammon-decker",
+        "name": "Samuel Bark",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "live",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T15:56:15.452Z"
+    },
+    {
+      "id": "141422-hexagone-mma-series-4-le-portel#4",
+      "eventSlug": "141422-hexagone-mma-series-4-le-portel",
+      "order": 4,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "266708-tomasz-mudroch",
+        "name": "Tomáš Mudroch",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "267974-josef-hala",
+        "name": "Josef Hála",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "live",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T15:56:15.452Z"
+    },
+    {
+      "id": "141422-hexagone-mma-series-4-le-portel#5",
+      "eventSlug": "141422-hexagone-mma-series-4-le-portel",
+      "order": 5,
+      "cardSection": "main",
+      "weightClass": "155 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "305714-vladimir-lengal-vlado",
+        "name": "Vladimír Lengál",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "107207-ozan-aslaner",
+        "name": "Ozan Aslaner",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "live",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T15:56:15.452Z"
+    },
+    {
+      "id": "141422-hexagone-mma-series-4-le-portel#6",
+      "eventSlug": "141422-hexagone-mma-series-4-le-portel",
+      "order": 6,
+      "cardSection": "main",
+      "weightClass": "165 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "64719-jan-malach",
+        "name": "Jan Malach",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "481316-stefan-koncar-the-terror",
+        "name": "Stefan Končar",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "live",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T15:56:15.452Z"
+    },
+    {
+      "id": "141422-hexagone-mma-series-4-le-portel#7",
+      "eventSlug": "141422-hexagone-mma-series-4-le-portel",
+      "order": 7,
+      "cardSection": "main",
+      "weightClass": "205 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "34433-mateusz-strzelczyk",
+        "name": "Mateusz Strzelczyk",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "145826-vojtech-garba",
+        "name": "Vojtech Garba",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "live",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T15:56:15.452Z"
+    },
+    {
+      "id": "141422-hexagone-mma-series-4-le-portel#8",
+      "eventSlug": "141422-hexagone-mma-series-4-le-portel",
+      "order": 8,
+      "cardSection": "main",
+      "weightClass": "145 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "197384-vaclav-stepan",
+        "name": "Václav Štěpán",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "365273-firas-daud",
+        "name": "Firas Daud",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "live",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T15:56:15.452Z"
+    },
+    {
+      "id": "141422-hexagone-mma-series-4-le-portel#9",
+      "eventSlug": "141422-hexagone-mma-series-4-le-portel",
+      "order": 9,
+      "cardSection": "main",
+      "weightClass": "115 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "174069-josefine-lindgren-knutsson-little-thunder",
+        "name": "Josefine Knutsson",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "266639-mileide-simplicio",
+        "name": "Mileide Simplicio",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "live",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T15:56:15.452Z"
+    },
+    {
+      "id": "141422-hexagone-mma-series-4-le-portel#10",
+      "eventSlug": "141422-hexagone-mma-series-4-le-portel",
+      "order": 10,
+      "cardSection": "main",
+      "weightClass": "140 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "323029-liam-pitts",
+        "name": "Liam Pitts",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "229084-kacper-matyszewski",
+        "name": "Kacper Matyszewski",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "live",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T15:56:15.452Z"
+    },
+    {
+      "id": "141422-hexagone-mma-series-4-le-portel#11",
+      "eventSlug": "141422-hexagone-mma-series-4-le-portel",
+      "order": 11,
+      "cardSection": "main",
+      "weightClass": "155 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "347893-alex-hutyra",
+        "name": "Alex Hutyra",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "368664-umut-birdal",
+        "name": "Umut Birdal",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "live",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T15:56:15.452Z"
+    },
+    {
+      "id": "141422-hexagone-mma-series-4-le-portel#12",
+      "eventSlug": "141422-hexagone-mma-series-4-le-portel",
+      "order": 12,
+      "cardSection": "main",
+      "weightClass": "176 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "150798-romain-debienne",
+        "name": "Romain Debienne",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "62117-adam-jankowski-jankes",
+        "name": "Adam Jankowski",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T15:56:15.452Z"
+    },
+    {
+      "id": "141422-hexagone-mma-series-4-le-portel#13",
+      "eventSlug": "141422-hexagone-mma-series-4-le-portel",
+      "order": 13,
+      "cardSection": "main",
+      "weightClass": "125 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "325369-alexandra-tekenah",
+        "name": "Alexandra Tekenah",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "335918-jenethzareth-mc-turk",
+        "name": "Jenethzareth McTurk",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T15:56:15.452Z"
+    },
+    {
+      "id": "141422-hexagone-mma-series-4-le-portel#14",
+      "eventSlug": "141422-hexagone-mma-series-4-le-portel",
+      "order": 14,
+      "cardSection": "main",
+      "weightClass": "125 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "443211-shirzay-torabi",
+        "name": "Shirzay Toraby",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "419950-saber-talmoust-izem",
+        "name": "Sabir Talmoust",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T15:56:15.452Z"
+    },
+    {
+      "id": "141422-hexagone-mma-series-4-le-portel#15",
+      "eventSlug": "141422-hexagone-mma-series-4-le-portel",
+      "order": 15,
+      "cardSection": "main",
+      "weightClass": "185 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "201215-samuel-akesse",
+        "name": "Samuel Akesse",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "391134-william-sifran",
+        "name": "William Sifran",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T15:56:15.452Z"
+    },
+    {
+      "id": "141422-hexagone-mma-series-4-le-portel#16",
+      "eventSlug": "141422-hexagone-mma-series-4-le-portel",
+      "order": 16,
+      "cardSection": "main",
+      "weightClass": "145 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "311074-mathys-duragrin",
+        "name": "Mathys Duragrin",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "230424-heimo-carvalho-gregorio",
+        "name": "Heimo Gregório",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T15:56:15.452Z"
+    },
+    {
+      "id": "141422-hexagone-mma-series-4-le-portel#17",
+      "eventSlug": "141422-hexagone-mma-series-4-le-portel",
+      "order": 17,
+      "cardSection": "main",
+      "weightClass": "145 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "532258-yaniss-noirmain",
+        "name": "Yaniss Noirmain",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "523360-reda-el-korchi",
+        "name": "Reda El Korchi",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T15:56:15.452Z"
+    },
+    {
+      "id": "141422-hexagone-mma-series-4-le-portel#18",
+      "eventSlug": "141422-hexagone-mma-series-4-le-portel",
+      "order": 18,
+      "cardSection": "main",
+      "weightClass": "135 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "478486-aref-sakhizadeh",
+        "name": "Aref Sakhizadeh",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "465306-noam-pionnier",
+        "name": "Noam Pionnier",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T15:56:15.452Z"
+    },
+    {
+      "id": "141422-hexagone-mma-series-4-le-portel#19",
+      "eventSlug": "141422-hexagone-mma-series-4-le-portel",
+      "order": 19,
+      "cardSection": "main",
+      "weightClass": "135 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "387367-abtrus-asaitie",
+        "name": "Abtrus Asaitie",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "391687-bradley-deketer",
+        "name": "Bradley Deketer",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T15:56:15.452Z"
+    },
+    {
+      "id": "141422-hexagone-mma-series-4-le-portel#20",
+      "eventSlug": "141422-hexagone-mma-series-4-le-portel",
+      "order": 20,
+      "cardSection": "main",
+      "weightClass": "170 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "414559-dante-dacher",
+        "name": "Duncan Dacher",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "506074-rudy-delanque",
+        "name": "Rudy Delangue",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T15:56:15.452Z"
+    }
+  ],
+  "lastVerified": "2026-04-25T15:56:15.452Z"
+}

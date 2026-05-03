@@ -1,0 +1,154 @@
+{
+  "slug": "243259-tom-pratt",
+  "name": "Tom Pratt",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 190,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/243259-tom-pratt",
+  "recentFights": [
+    {
+      "date": "2024-11-30T00:00:00.000Z",
+      "opponent": "Dom Mar Fan",
+      "opponentSlug": "196890-dom-mar-fan",
+      "result": "loss",
+      "method": "sub",
+      "event": "Eternal MMA 91",
+      "eventSlug": "118583-eternal-mma-91",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2024-07-13T00:00:00.000Z",
+      "opponent": "Coby Porter",
+      "opponentSlug": "222516-coby-porter",
+      "result": "win",
+      "method": "sub",
+      "event": "Beatdown Promotions 8",
+      "eventSlug": "115765-beatdown-promotions-8",
+      "round": 2,
+      "timeInRound": "2:37"
+    },
+    {
+      "date": "2024-06-21T00:00:00.000Z",
+      "opponent": "Lucas Cannon",
+      "opponentSlug": "437333-lucas-cannon",
+      "result": "win",
+      "method": "other",
+      "event": "Showdown 18",
+      "eventSlug": "115004-showdown-18",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-18T00:00:00.000Z",
+      "opponent": "Jonathan Kuhn",
+      "opponentSlug": "227432-jonathan-kuhn",
+      "result": "win",
+      "method": "other",
+      "event": "Endouro Fight Series 5",
+      "eventSlug": "106762-endouro-fight-series",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-29T00:00:00.000Z",
+      "opponent": "Mitchell Holden",
+      "opponentSlug": "124553-mitchell-holden",
+      "result": "win",
+      "method": "other",
+      "event": "Endouro Fight Series 4",
+      "eventSlug": "103733-endouro-fight-series-4",
+      "round": 2,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2023-03-18T00:00:00.000Z",
+      "opponent": "Tasar Malone",
+      "opponentSlug": "224448-tasar-malone",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 74",
+      "eventSlug": "95619-eternal-mma-74",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-16T00:00:00.000Z",
+      "opponent": "Liam Brewster",
+      "opponentSlug": "208471-liam-brewster",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 69",
+      "eventSlug": "91665-eternal-mma-69",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-30T00:00:00.000Z",
+      "opponent": "Ashley Rodger",
+      "opponentSlug": "347685-ashley-rodgers",
+      "result": "win",
+      "method": "sub",
+      "event": "Bushido Fight Night 3",
+      "eventSlug": "92128-bushido-fight-night-3",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-25T00:00:00.000Z",
+      "opponent": "David Velíšek",
+      "opponentSlug": "104158-david-velek",
+      "result": "loss",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "88078-gamma-world-championships-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-25T00:00:00.000Z",
+      "opponent": "Sheik Uways Juanbocus",
+      "opponentSlug": "448602-sheik-uways-juanbocus",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "88078-gamma-world-championships-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-10-31T00:00:00.000Z",
+      "opponent": "Jed Stewart",
+      "opponentSlug": "276165-jed-stewart",
+      "result": "win",
+      "method": "sub",
+      "event": "Eternal MMA 54",
+      "eventSlug": "72850-eternal-mma-54",
+      "round": 1,
+      "timeInRound": "1:06"
+    },
+    {
+      "date": "2019-11-29T00:00:00.000Z",
+      "opponent": "Sam Aleksic",
+      "opponentSlug": "214002-sam-aleksic",
+      "result": "loss",
+      "method": "sub",
+      "event": "Urban Fight Night 21",
+      "eventSlug": "63143-urban-fight-night-21",
+      "round": 1,
+      "timeInRound": "0:27"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:19:12.573Z"
+}

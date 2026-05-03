@@ -1,0 +1,99 @@
+{
+  "slug": "123146-alexandru-chitoran-the-romanian-sensation",
+  "name": "Alexandru Chitoran",
+  "nickname": "The Romanian Sensation",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Romania",
+  "url": "https://www.tapology.com/fightcenter/fighters/123146-alexandru-chitoran-the-romanian-sensation",
+  "recentFights": [
+    {
+      "date": "2022-07-02T00:00:00.000Z",
+      "opponent": "Samuel Bark",
+      "opponentSlug": "229953-samuel-bark-sammon-decker",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UAE Warriors 30",
+      "eventSlug": "89634-uae-warriors-30",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-07-31T00:00:00.000Z",
+      "opponent": "Do Gyeom Lee",
+      "opponentSlug": "74062-do-gyum-lee",
+      "result": "loss",
+      "method": "other",
+      "event": "UAE Warriors 12",
+      "eventSlug": "70859-uae-warriors-12",
+      "round": 1,
+      "timeInRound": "3:14"
+    },
+    {
+      "date": "2019-11-29T00:00:00.000Z",
+      "opponent": "Rogelio Enumerables",
+      "opponentSlug": "138786-rogelio-enumerables",
+      "result": "win",
+      "method": "other",
+      "event": "UAE Warriors 9",
+      "eventSlug": "64344-uae-warriors-4",
+      "round": 1,
+      "timeInRound": "4:18"
+    },
+    {
+      "date": "2019-10-18T00:00:00.000Z",
+      "opponent": "Hussein Fakher",
+      "opponentSlug": "78455-hussein-fakher",
+      "result": "win",
+      "method": "other",
+      "event": "UAE Warriors 8",
+      "eventSlug": "63315-uae-warriors-3",
+      "round": 1,
+      "timeInRound": "2:43"
+    },
+    {
+      "date": "2019-07-05T00:00:00.000Z",
+      "opponent": "Hussein Fakher",
+      "opponentSlug": "78455-hussein-fakher",
+      "result": "nc",
+      "method": "other",
+      "event": "UAE Warriors 7",
+      "eventSlug": "60486-uae-warriors-2",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-01-26T00:00:00.000Z",
+      "opponent": "Mahmoud Fawaz",
+      "opponentSlug": "88573-mahmoud-fawaz",
+      "result": "win",
+      "method": "other",
+      "event": "UAE Warriors 5",
+      "eventSlug": "57590-abu-dhabi-warriors-5",
+      "round": 2,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2015-12-11T00:00:00.000Z",
+      "opponent": "Wade Saed",
+      "opponentSlug": "117285-waed-saed",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hard Knox Fight Night 3",
+      "eventSlug": "36757-hard-knox-fight-night-3",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:05:19.630Z"
+}

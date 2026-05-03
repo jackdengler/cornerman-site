@@ -1,0 +1,44 @@
+{
+  "slug": "14319-john-wright",
+  "name": "John Wright",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/14319-john-wright",
+  "recentFights": [
+    {
+      "date": "2004-03-26T00:00:00.000Z",
+      "opponent": "Sean Wilson",
+      "opponentSlug": "sean-wilson-p-town",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2004-01-30T00:00:00.000Z",
+      "opponent": "Jeremy Stephens",
+      "opponentSlug": "jeremy-stephens-lil-heathen",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:02:13.260Z"
+}

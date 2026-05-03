@@ -1,0 +1,59 @@
+{
+  "slug": "47880-jerell-cephas",
+  "name": "Jerell Cephas",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/47880-jerell-cephas",
+  "recentFights": [
+    {
+      "date": "2014-03-30T00:00:00.000Z",
+      "opponent": "Ozzy Diaz",
+      "opponentSlug": "61676-ozzy-diaz",
+      "result": "loss",
+      "method": "tko",
+      "event": "University of MMA",
+      "eventSlug": "22378-university-of-mma-fight-night-6",
+      "round": 1,
+      "timeInRound": "0:18"
+    },
+    {
+      "date": "2013-10-11T00:00:00.000Z",
+      "opponent": "Angelo Henry",
+      "opponentSlug": "78909-angelo-henry",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-05-19T00:00:00.000Z",
+      "opponent": "Jens Grau",
+      "opponentSlug": "47879-jens-grau",
+      "result": "win",
+      "method": "tko",
+      "event": "University of MMA",
+      "eventSlug": "19006-university-of-mma-fight-night-2",
+      "round": 1,
+      "timeInRound": "0:56"
+    }
+  ],
+  "lastVerified": "2026-04-25T23:02:42.903Z"
+}

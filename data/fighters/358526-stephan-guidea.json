@@ -1,0 +1,99 @@
+{
+  "slug": "358526-stephan-guidea",
+  "name": "Stephan Guidea",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Germany",
+  "url": "https://www.tapology.com/fightcenter/fighters/358526-stephan-guidea",
+  "recentFights": [
+    {
+      "date": "2025-11-01T00:00:00.000Z",
+      "opponent": "Liam Pitts",
+      "opponentSlug": "323029-liam-pitts",
+      "result": "loss",
+      "method": "sub",
+      "event": "OKTAGON 79: Surdu vs. Kalašnik",
+      "eventSlug": "118938-oktagon",
+      "round": 1,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2025-05-24T00:00:00.000Z",
+      "opponent": "Benjamin Abazović",
+      "opponentSlug": "345207-benjamin-abazovic",
+      "result": "win",
+      "method": "sub",
+      "event": "Phoenix FC 4",
+      "eventSlug": "128104-phoenix-fc-4",
+      "round": 1,
+      "timeInRound": "1:42"
+    },
+    {
+      "date": "2024-09-28T00:00:00.000Z",
+      "opponent": "Juan Pereira",
+      "opponentSlug": "312359-juan-pereira",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "We Love MMA 73",
+      "eventSlug": "110123-we-love-mma-73",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-22T00:00:00.000Z",
+      "opponent": "Raul Lemberanskij",
+      "opponentSlug": "218766-raul-lemberanskij",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "NFC 19: Vespaziani vs. Elhanna",
+      "eventSlug": "108751-nfc-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-30T00:00:00.000Z",
+      "opponent": "Moritz Merten",
+      "opponentSlug": "370111-moritz-mertens",
+      "result": "win",
+      "method": "other",
+      "event": "We Love MMA 66",
+      "eventSlug": "102642-we-love-mma-66",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2023-03-04T00:00:00.000Z",
+      "opponent": "Islam Elmurzaev",
+      "opponentSlug": "333180-islam-elmurzaev",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "EMC Talents 4",
+      "eventSlug": "97458-emc-talents-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-10-29T00:00:00.000Z",
+      "opponent": "Avdi Avdievski",
+      "opponentSlug": "342400-avdi-avdievski",
+      "result": "win",
+      "method": "other",
+      "event": "EMC Talents 3",
+      "eventSlug": "94467-emc-talents",
+      "round": 2,
+      "timeInRound": "2:34"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:10:40.650Z"
+}

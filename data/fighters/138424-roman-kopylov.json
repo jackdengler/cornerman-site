@@ -1,0 +1,242 @@
+{
+  "slug": "138424-roman-kopylov",
+  "name": "Roman Kopylov",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 14,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 191,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1991-05-04",
+  "nationality": "Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/138424-roman-kopylov",
+  "recentFights": [
+    {
+      "date": "2026-05-09T00:00:00.000Z",
+      "opponent": "Marco Tulio",
+      "opponentSlug": "165750-marco-tulio-silva",
+      "result": null,
+      "method": "other",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "eventSlug": "140614-ufc-328",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-15T00:00:00.000Z",
+      "opponent": "Gregory Rodrigues",
+      "opponentSlug": "78681-gregory-rodrigues-robocop",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 322",
+      "eventSlug": "132653-ufc-322",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-07-19T00:00:00.000Z",
+      "opponent": "Paulo Costa",
+      "opponentSlug": "64306-paulo-henrique-costa-borrachinha",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "eventSlug": "127441-ufc-318",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-01-11T00:00:00.000Z",
+      "opponent": "Chris Curtis",
+      "opponentSlug": "14863-christopher-curtis-the-action-man",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "118450-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2024-06-01T00:00:00.000Z",
+      "opponent": "César Almeida",
+      "opponentSlug": "126015-csar-almeida",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC 302: Makhachev vs. Poirier",
+      "eventSlug": "110366-ufc-302",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-02-17T00:00:00.000Z",
+      "opponent": "Anthony Hernandez",
+      "opponentSlug": "41538-anthony-hernandez",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC 298: Volkanovski vs. Topuria",
+      "eventSlug": "107060-ufc-298",
+      "round": 2,
+      "timeInRound": "3:23"
+    },
+    {
+      "date": "2023-09-16T00:00:00.000Z",
+      "opponent": "Josh Fremd",
+      "opponentSlug": "65199-joshua-fremd",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "101864-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "4:44"
+    },
+    {
+      "date": "2023-07-29T00:00:00.000Z",
+      "opponent": "Claudio Ribeiro",
+      "opponentSlug": "149468-claudio-ribeiro",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 291: Poirier vs. Gaethje 2",
+      "eventSlug": "101214-ufc-291",
+      "round": 2,
+      "timeInRound": "0:33"
+    },
+    {
+      "date": "2023-01-14T00:00:00.000Z",
+      "opponent": "Punahele Soriano",
+      "opponentSlug": "119534-punahele-soriano-story-time",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "93279-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "3:19"
+    },
+    {
+      "date": "2022-09-03T00:00:00.000Z",
+      "opponent": "Alessio Di Chirico",
+      "opponentSlug": "74325-alessio-di-chirico",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "88967-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "1:09"
+    },
+    {
+      "date": "2021-10-30T00:00:00.000Z",
+      "opponent": "Albert Duraev",
+      "opponentSlug": "18658-albert-duraev",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 267: Błachowicz vs. Teixeira",
+      "eventSlug": "80222-ufc-267",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-09T00:00:00.000Z",
+      "opponent": "Karl Roberson",
+      "opponentSlug": "45190-karl-robinson",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC on ESPN+ 21",
+      "eventSlug": "61626-ufc-on-espn-21",
+      "round": 3,
+      "timeInRound": "4:01"
+    },
+    {
+      "date": "2018-12-27T00:00:00.000Z",
+      "opponent": "Yasubey Enomoto",
+      "opponentSlug": "yasubey-enomoto",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Nights Global 91",
+      "eventSlug": "56974-fight-nights-global-gtc",
+      "round": 4,
+      "timeInRound": "3:42"
+    },
+    {
+      "date": "2018-03-30T00:00:00.000Z",
+      "opponent": "Abusupyan Alikhanov",
+      "opponentSlug": "32477-abdulsupyan-alikhanov",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Nights Global 85",
+      "eventSlug": "50304-fight-nights-global-85",
+      "round": 4,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2017-08-08T00:00:00.000Z",
+      "opponent": "Luiz Gustavo Dutra",
+      "opponentSlug": "31367-luiz-gustavo-dutra-gugu",
+      "result": "win",
+      "method": "other",
+      "event": "S-70: Plotforma Cup 2017",
+      "eventSlug": "47450-plotforma-s-70-8th",
+      "round": 1,
+      "timeInRound": "3:15"
+    },
+    {
+      "date": "2017-06-30T00:00:00.000Z",
+      "opponent": "Kobe Ortiz",
+      "opponentSlug": "jacob-ortiz-kobe-the-stunna",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Nights Global 69",
+      "eventSlug": "45286-fight-nights-global-69",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2017-02-23T00:00:00.000Z",
+      "opponent": "Artem Shokalo",
+      "opponentSlug": "41797-artem-shokalo",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Nights Global 59",
+      "eventSlug": "44216-fight-nights-global-59-devoted-to-defenders-of-the-fatherland-day",
+      "round": 3,
+      "timeInRound": "4:10"
+    },
+    {
+      "date": "2016-11-26T00:00:00.000Z",
+      "opponent": "Islam Gugov",
+      "opponentSlug": "34714-islam-gugov",
+      "result": "win",
+      "method": "other",
+      "event": "ACB 49: The Rostov Sich",
+      "eventSlug": "40974-absolute-championship-berkut-48",
+      "round": 2,
+      "timeInRound": "3:58"
+    },
+    {
+      "date": "2016-08-21T00:00:00.000Z",
+      "opponent": "José Santos",
+      "opponentSlug": "77352-jose-santos-zeca-predador",
+      "result": "win",
+      "method": "other",
+      "event": "S-70: Plotforma Cup 2016",
+      "eventSlug": "41274-plotforma-s-70-7th",
+      "round": 3,
+      "timeInRound": "4:52"
+    },
+    {
+      "date": "2016-04-01T00:00:00.000Z",
+      "opponent": "Felipe Nsue",
+      "opponentSlug": "69454-felipe-salvador-nsue-ayiugono-biggi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WCSA Combat Ring 18",
+      "eventSlug": "51126-combat-ring-18",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T21:53:49.590Z"
+}

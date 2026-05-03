@@ -1,0 +1,46 @@
+{
+  "slug": "291473-ford-gerbes",
+  "name": "Ford Gerbes",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Napier, New Zealand",
+  "url": "https://www.tapology.com/fightcenter/fighters/291473-ford-gerbes",
+  "recentFights": [
+    {
+      "date": "2025-07-05T00:00:00.000Z",
+      "opponent": "Ollie Schmid",
+      "opponentSlug": "237487-oliver-schmid",
+      "result": "loss",
+      "method": "other",
+      "event": "SFC: Rivalry",
+      "eventSlug": "125113-sfc-rivalry",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "allFights": [
+    {
+      "date": "2025-07-05T00:00:00.000Z",
+      "opponent": "Ollie Schmid",
+      "opponentSlug": "237487-oliver-schmid",
+      "result": "loss",
+      "method": "other",
+      "event": "SFC: Rivalry",
+      "eventSlug": "125113-sfc-rivalry",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-05-03T08:57:44.763Z"
+}

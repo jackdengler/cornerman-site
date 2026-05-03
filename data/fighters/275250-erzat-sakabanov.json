@@ -1,0 +1,132 @@
+{
+  "slug": "275250-erzat-sakabanov",
+  "name": "Erzat Sakabanov",
+  "nickname": "Khamza",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1993-11-08",
+  "nationality": "Ust-Kamenogorsk, Kazakhstan",
+  "url": "https://www.tapology.com/fightcenter/fighters/275250-erzat-sakabanov",
+  "recentFights": [
+    {
+      "date": "2025-09-27T00:00:00.000Z",
+      "opponent": "Sirozhiddin Bekmurodov",
+      "opponentSlug": "367233-sirozhiddin-bekmurodov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Naiza FC 77",
+      "eventSlug": "132587-naiza-fc-77",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-08-10T00:00:00.000Z",
+      "opponent": "Miravaz Mirjalolov",
+      "opponentSlug": "215699-edil-emilbekov",
+      "result": "win",
+      "method": "sub",
+      "event": "Steppe Warriors 1",
+      "eventSlug": "132779-steppe-warriors-1-sakabanov-vs-mirjalolov",
+      "round": 1,
+      "timeInRound": "4:03"
+    },
+    {
+      "date": "2024-12-21T00:00:00.000Z",
+      "opponent": "Yermakhan Oryntaev",
+      "opponentSlug": "361593-yermakhan-oryntaev",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Naiza FC 70",
+      "eventSlug": "120784-naiza-fc-70",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-10-12T00:00:00.000Z",
+      "opponent": "Ruslan Kudaiberdiev",
+      "opponentSlug": "167279-ruslan-kudaiberdiev",
+      "result": "win",
+      "method": "other",
+      "event": "EFC Global 37",
+      "eventSlug": "105654-efc-global-37",
+      "round": 2,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2023-07-29T00:00:00.000Z",
+      "opponent": "Dostonbek Makhamatjanov",
+      "opponentSlug": "184069-dostonbek-makhamatzhanov",
+      "result": "win",
+      "method": "sub",
+      "event": "Alash Pride 87",
+      "eventSlug": "103084-alash-pride-87",
+      "round": 2,
+      "timeInRound": "2:35"
+    },
+    {
+      "date": "2021-12-04T00:00:00.000Z",
+      "opponent": "Rasulov Isroiljon",
+      "opponentSlug": "355192-rasulov-isroiljon",
+      "result": "win",
+      "method": "other",
+      "event": "Zhekpe Zhek",
+      "eventSlug": "93755-zhekpe-zhek",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2021-02-21T00:00:00.000Z",
+      "opponent": "Almazbek Alimbek uulu",
+      "opponentSlug": "423371-almazbek-alimbek-uulu",
+      "result": "win",
+      "method": "other",
+      "event": "Zhekpe Zhek",
+      "eventSlug": "109599-zhekpe-zhek",
+      "round": 1,
+      "timeInRound": "0:20"
+    },
+    {
+      "date": "2020-10-25T00:00:00.000Z",
+      "opponent": "Rauan Bekbolat",
+      "opponentSlug": "186874-rauan-bekbolat",
+      "result": "loss",
+      "method": "other",
+      "event": "Bushido Qazaqstan FC 3",
+      "eventSlug": "73120-bushido-fighting-championship-featherweight-grand-prix-2020",
+      "round": 3,
+      "timeInRound": "2:52"
+    },
+    {
+      "date": "2020-10-25T00:00:00.000Z",
+      "opponent": "Serzhan Sapargaliev",
+      "opponentSlug": "225219-yerzhan-sapargaliev",
+      "result": "win",
+      "method": "sub",
+      "event": "Bushido Qazaqstan FC 3",
+      "eventSlug": "73120-bushido-fighting-championship-featherweight-grand-prix-2020",
+      "round": 3,
+      "timeInRound": "3:38"
+    },
+    {
+      "date": "2019-06-17T00:00:00.000Z",
+      "opponent": "Bakhitjon Farkhadzhonov",
+      "opponentSlug": "423373-bakhitjon-farkhadzhonov",
+      "result": "win",
+      "method": "other",
+      "event": "Aibyn Fighting Team",
+      "eventSlug": "67810-aibyn-fighting-team-zhekpe-zhek-eurasia-cup",
+      "round": 1,
+      "timeInRound": "0:48"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:43:41.812Z"
+}

@@ -1,0 +1,209 @@
+{
+  "slug": "78152-luke-michael",
+  "name": "Luke Michael",
+  "nickname": "Young Gun",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "South Africa",
+  "url": "https://www.tapology.com/fightcenter/fighters/78152-luke-michael",
+  "recentFights": [
+    {
+      "date": "2026-02-26T00:00:00.000Z",
+      "opponent": "Diego Bandu",
+      "opponentSlug": "195374-diego-bandu",
+      "result": "loss",
+      "method": "other",
+      "event": "EFC 131: KNOX Legacy Series",
+      "eventSlug": "138746-efc-131-knox-legacy-series",
+      "round": 3,
+      "timeInRound": "2:57"
+    },
+    {
+      "date": "2025-07-03T00:00:00.000Z",
+      "opponent": "Siyaku Dumiso",
+      "opponentSlug": "342342-siyaku-dumiso",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "EFC 125: Michael vs. Nomvemve",
+      "eventSlug": "129267-efc-125",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-12-12T00:00:00.000Z",
+      "opponent": "Zaakir Badat",
+      "opponentSlug": "165841-zaakir-badat",
+      "result": "loss",
+      "method": "sub",
+      "event": "EFC 120",
+      "eventSlug": "118270-efc-120",
+      "round": 1,
+      "timeInRound": "3:55"
+    },
+    {
+      "date": "2024-08-08T00:00:00.000Z",
+      "opponent": "Jaco Du Plessis",
+      "opponentSlug": "90598-jacques-du-plessis",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "EFC 116",
+      "eventSlug": "115805-efc-116",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-11T00:00:00.000Z",
+      "opponent": "JP Kruger",
+      "opponentSlug": "21937-jp-kruger",
+      "result": "loss",
+      "method": "sub",
+      "event": "EFC 112",
+      "eventSlug": "111073-efc-112",
+      "round": 2,
+      "timeInRound": "1:56"
+    },
+    {
+      "date": "2022-03-05T00:00:00.000Z",
+      "opponent": "Pupanga Tresor",
+      "opponentSlug": "66606-pupanga-tresor",
+      "result": "win",
+      "method": "other",
+      "event": "EFC 92",
+      "eventSlug": "85322-efc",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2021-07-03T00:00:00.000Z",
+      "opponent": "Dino Bagattin",
+      "opponentSlug": "23149-dino-bagattin-the-lion",
+      "result": "win",
+      "method": "sub",
+      "event": "EFC 87",
+      "eventSlug": "78355-efc-87",
+      "round": 1,
+      "timeInRound": "1:21"
+    },
+    {
+      "date": "2019-09-28T00:00:00.000Z",
+      "opponent": "Themba Gorimbo",
+      "opponentSlug": "52251-themba-takura-gorimbo",
+      "result": "loss",
+      "method": "other",
+      "event": "EFC Worldwide 82",
+      "eventSlug": "61312-efc-82-worldwide",
+      "round": 1,
+      "timeInRound": "2:48"
+    },
+    {
+      "date": "2018-03-31T00:00:00.000Z",
+      "opponent": "Francois Cundari",
+      "opponentSlug": "83062-francois-dasanto-strydom",
+      "result": "win",
+      "method": "sub",
+      "event": "EFC Worldwide 68",
+      "eventSlug": "50990-efc-worldwide-68",
+      "round": 1,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2017-11-04T00:00:00.000Z",
+      "opponent": "Rodrique Kena",
+      "opponentSlug": "83019-rodrick-kena",
+      "result": "win",
+      "method": "sub",
+      "event": "EFC Worldwide 65",
+      "eventSlug": "43886-efc-worldwide-65",
+      "round": 1,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2016-06-17T00:00:00.000Z",
+      "opponent": "Mtobisi Buthelezi",
+      "opponentSlug": "80452-mtobisi-buthelezi",
+      "result": "loss",
+      "method": "other",
+      "event": "EFC Worldwide 50",
+      "eventSlug": "39749-efc-worldwide-50",
+      "round": 1,
+      "timeInRound": "4:42"
+    },
+    {
+      "date": "2015-11-07T00:00:00.000Z",
+      "opponent": "Kaleka Kabanda",
+      "opponentSlug": "86660-block-kabanda",
+      "result": "loss",
+      "method": "other",
+      "event": "EFC Worldwide 45",
+      "eventSlug": "35216-efc-worldwide-45",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2015-05-07T00:00:00.000Z",
+      "opponent": "Sibusiso Mdoko",
+      "opponentSlug": "50412-sibusiso-mdoko-the-monster",
+      "result": "loss",
+      "method": "other",
+      "event": "EFC Africa 39",
+      "eventSlug": "29256-efc-africa-39",
+      "round": 3,
+      "timeInRound": "4:32"
+    },
+    {
+      "date": "2014-11-06T00:00:00.000Z",
+      "opponent": "Regis Muyambo",
+      "opponentSlug": "58130-regis-muyambo",
+      "result": "win",
+      "method": "tko",
+      "event": "EFC Africa 35",
+      "eventSlug": "26035-efca-35-drotschie-vs-wessels",
+      "round": 3,
+      "timeInRound": "4:27"
+    },
+    {
+      "date": "2014-08-30T00:00:00.000Z",
+      "opponent": "Texier Kabesa",
+      "opponentSlug": "66604-texier-kabesa",
+      "result": "win",
+      "method": "sub",
+      "event": "EFC Africa 33",
+      "eventSlug": "25032-efca-33-mclellan-vs-du-plessis",
+      "round": 1,
+      "timeInRound": "4:23"
+    },
+    {
+      "date": "2013-12-07T00:00:00.000Z",
+      "opponent": "Graham Roberts",
+      "opponentSlug": "88712-graham-roberts-the-danger",
+      "result": "win",
+      "method": "other",
+      "event": "Cape Fight League 5",
+      "eventSlug": "28776-cape-fight-league-5",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-09-07T00:00:00.000Z",
+      "opponent": "Daniel Capsopoulos",
+      "opponentSlug": "94161-daniel-capsopoulos",
+      "result": "win",
+      "method": "sub",
+      "event": "Cape Fight League 4",
+      "eventSlug": "28777-cape-fight-league-4",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:54:46.253Z"
+}

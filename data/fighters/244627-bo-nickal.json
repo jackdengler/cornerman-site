@@ -1,0 +1,154 @@
+{
+  "slug": "244627-bo-nickal",
+  "name": "Bo Nickal",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 193,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1996-01-14",
+  "nationality": "Rifle, Colorado, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/244627-bo-nickal",
+  "recentFights": [
+    {
+      "date": "2026-06-14T00:00:00.000Z",
+      "opponent": "Kyle Daukaus",
+      "opponentSlug": "16027-kyle-daukaus",
+      "result": null,
+      "method": "other",
+      "event": "UFC Freedom Fights 250",
+      "eventSlug": "137848-ufc-white-house",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-15T00:00:00.000Z",
+      "opponent": "Rodolfo Vieira",
+      "opponentSlug": "148791-rodolfo-vieira-srour-the-black-belt-hunter",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 322",
+      "eventSlug": "132653-ufc-322",
+      "round": 3,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2025-05-03T00:00:00.000Z",
+      "opponent": "Reinier de Ridder",
+      "opponentSlug": "49983-reinier-de-ridder",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "123376-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "1:53"
+    },
+    {
+      "date": "2024-11-16T00:00:00.000Z",
+      "opponent": "Paul Craig",
+      "opponentSlug": "25338-paul-craig",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 309: Jones vs. Miocic",
+      "eventSlug": "116669-ufc-309",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-13T00:00:00.000Z",
+      "opponent": "Cody Brundage",
+      "opponentSlug": "169818-cody-brundage",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC 300: Pereira vs. Hill",
+      "eventSlug": "108579-ufc-300",
+      "round": 2,
+      "timeInRound": "3:38"
+    },
+    {
+      "date": "2023-07-08T00:00:00.000Z",
+      "opponent": "Val Woodburn",
+      "opponentSlug": "166396-valentine-woodburn",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 290: Volkanovski vs. Rodriguez",
+      "eventSlug": "98868-ufc-290",
+      "round": 1,
+      "timeInRound": "0:38"
+    },
+    {
+      "date": "2023-03-04T00:00:00.000Z",
+      "opponent": "Jamie Pickett",
+      "opponentSlug": "38304-jamie-pickett",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC 285: Jones vs. Gane",
+      "eventSlug": "94418-ufc-285",
+      "round": 1,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2022-09-27T00:00:00.000Z",
+      "opponent": "Donovan Beard",
+      "opponentSlug": "203983-donovan-beard",
+      "result": "win",
+      "method": "sub",
+      "event": "Contender Series 2022",
+      "eventSlug": "89503-contender-series-2022-week-10",
+      "round": 1,
+      "timeInRound": "0:52"
+    },
+    {
+      "date": "2022-08-09T00:00:00.000Z",
+      "opponent": "Zack Borrego",
+      "opponentSlug": "280338-zachary-borrego",
+      "result": "win",
+      "method": "sub",
+      "event": "Contender Series 2022",
+      "eventSlug": "89495-contender-series-2021-week-3",
+      "round": 1,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2022-06-03T00:00:00.000Z",
+      "opponent": "John Noland",
+      "opponentSlug": "149599-john-noland",
+      "result": "win",
+      "method": "other",
+      "event": "iKON FC 3",
+      "eventSlug": "88572-ikon-fc-3",
+      "round": 1,
+      "timeInRound": "0:33"
+    },
+    {
+      "date": "2021-11-05T00:00:00.000Z",
+      "opponent": "Billy Goode",
+      "opponentSlug": "98211-billy-goode",
+      "result": "win",
+      "method": "tko",
+      "event": "Island Fights 70",
+      "eventSlug": "83891-island-fights-70",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2021-09-24T00:00:00.000Z",
+      "opponent": "David Conley",
+      "opponentSlug": "513777-david-conley",
+      "result": "win",
+      "method": "sub",
+      "event": "Island Fights 69",
+      "eventSlug": "83878-island-fights-69",
+      "round": 1,
+      "timeInRound": "2:02"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:51:32.196Z"
+}

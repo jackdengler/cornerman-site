@@ -1,0 +1,165 @@
+{
+  "slug": "156652-dayvison-silva-tanque",
+  "name": "Dayvison Silva",
+  "nickname": "Tanque",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1991-02-25",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/156652-dayvison-silva-tanque",
+  "recentFights": [
+    {
+      "date": "2024-05-25T00:00:00.000Z",
+      "opponent": "Hecher Sosa",
+      "opponentSlug": "128530-hecher-sosa",
+      "result": "loss",
+      "method": "other",
+      "event": "WOW 14: Madrid",
+      "eventSlug": "112656-wow-14-madrid",
+      "round": 2,
+      "timeInRound": "2:39"
+    },
+    {
+      "date": "2024-05-18T00:00:00.000Z",
+      "opponent": "Sami Yahia",
+      "opponentSlug": "143328-sami-yahia",
+      "result": "loss",
+      "method": "sub",
+      "event": "NDC Contenders",
+      "eventSlug": "115322-ndc-contenders-ambrosis-boxing-challenge",
+      "round": 2,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2024-02-24T00:00:00.000Z",
+      "opponent": "Kamil Giez",
+      "opponentSlug": "122850-kamil-giez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "TFL 29: I'm Coming Home",
+      "eventSlug": "110317-tfl-29-i-am-coming-home",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-18T00:00:00.000Z",
+      "opponent": "Jafel Filho",
+      "opponentSlug": "46690-jafel-cavalcante-filho",
+      "result": "loss",
+      "method": "sub",
+      "event": "Shooto Brasil 110",
+      "eventSlug": "84731-shooto-brasil-110",
+      "round": 1,
+      "timeInRound": "3:09"
+    },
+    {
+      "date": "2021-09-19T00:00:00.000Z",
+      "opponent": "Fernando dos Santos",
+      "opponentSlug": "35384-fernando-dos-santos-cheio",
+      "result": "win",
+      "method": "tko",
+      "event": "Thunder Fight 30",
+      "eventSlug": "82251-thunder-fight-30",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-06T00:00:00.000Z",
+      "opponent": "Marcéu Pasin",
+      "opponentSlug": "195962-marceu-pasin",
+      "result": "loss",
+      "method": "tko",
+      "event": "Thunder Fight 27",
+      "eventSlug": "79308-thunder-fight-27",
+      "round": 2,
+      "timeInRound": "4:50"
+    },
+    {
+      "date": "2020-12-12T00:00:00.000Z",
+      "opponent": "Ronaldo Saminez",
+      "opponentSlug": "161634-ronaldo-saminez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Gladiators Fight Night 3",
+      "eventSlug": "77664-gladiators-fight-night-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-28T00:00:00.000Z",
+      "opponent": "Ronaldo Saminez",
+      "opponentSlug": "161634-ronaldo-saminez",
+      "result": "win",
+      "method": "sub",
+      "event": "Legends of Fight 4",
+      "eventSlug": "62817-legends-of-fight-4-prince-vs-rafael",
+      "round": 3,
+      "timeInRound": "3:46"
+    },
+    {
+      "date": "2019-03-23T00:00:00.000Z",
+      "opponent": "Micael de Jesus",
+      "opponentSlug": "100244-micael-guilherme-jesus",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fusion Fight Festival 1",
+      "eventSlug": "58780-fusion-fight-festival-1",
+      "round": 1,
+      "timeInRound": "3:40"
+    },
+    {
+      "date": "2018-04-28T00:00:00.000Z",
+      "opponent": "Pablo Picaso",
+      "opponentSlug": "105021-pablo-picasso-de-andrade-gomes-tubarao",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-18T00:00:00.000Z",
+      "opponent": "Kleiton Avila",
+      "opponentSlug": "197365-kleiton-avila-kelinho",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-15T00:00:00.000Z",
+      "opponent": "Diego Teixeira",
+      "opponentSlug": "156649-diego-teixeira-pavo",
+      "result": "loss",
+      "method": "other",
+      "event": "Champions Fight 3",
+      "eventSlug": "45592-champions-fight-3",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2015-08-08T00:00:00.000Z",
+      "opponent": "Filipi Gusmão",
+      "opponentSlug": "180774-filipi-gusmo",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:55:30.802Z"
+}

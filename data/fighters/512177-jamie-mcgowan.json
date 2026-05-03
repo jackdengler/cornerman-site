@@ -1,0 +1,44 @@
+{
+  "slug": "512177-jamie-mcgowan",
+  "name": "Jamie McGowan",
+  "nickname": "Choirboy",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Scotland",
+  "url": "https://www.tapology.com/fightcenter/fighters/512177-jamie-mcgowan",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Taylor Sullivan",
+      "opponentSlug": "342230-taylor-sullivan",
+      "result": null,
+      "method": "other",
+      "event": "Cage Warriors 205",
+      "eventSlug": "138938-cage-warriors-205",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-27T00:00:00.000Z",
+      "opponent": "Joe Doyle",
+      "opponentSlug": "347535-joe-doyle",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 194",
+      "eventSlug": "129014-cage-warriors-194",
+      "round": 1,
+      "timeInRound": "0:49"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:05:52.186Z"
+}

@@ -1,0 +1,112 @@
+{
+  "slug": "179591-joey-karami",
+  "name": "Joey Karami",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/179591-joey-karami",
+  "recentFights": [
+    {
+      "date": "2019-10-19T00:00:00.000Z",
+      "opponent": "Jasper Dunphy",
+      "opponentSlug": "108691-jasper-dunphy",
+      "result": "loss",
+      "method": "dec-majority",
+      "event": "Demolition Fight Series 1",
+      "eventSlug": "62762-xfc-demolition-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-24T00:00:00.000Z",
+      "opponent": "Dimps Gillies",
+      "opponentSlug": "140176-dimps-gillies",
+      "result": "loss",
+      "method": "other",
+      "event": "XFC 41",
+      "eventSlug": "56683-xfc-41",
+      "round": 2,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2019-03-29T00:00:00.000Z",
+      "opponent": "Junior Mo",
+      "opponentSlug": "143832-junior-mo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hex Fight Series 18",
+      "eventSlug": "58679-hex-fight-series-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-08T00:00:00.000Z",
+      "opponent": "Steve Thouliss",
+      "opponentSlug": "160359-steve-thouliss",
+      "result": "win",
+      "method": "other",
+      "event": "Hex Fight Series 16",
+      "eventSlug": "55073-hex-fight-series",
+      "round": 3,
+      "timeInRound": "2:08"
+    }
+  ],
+  "allFights": [
+    {
+      "date": "2019-10-19T00:00:00.000Z",
+      "opponent": "Jasper Dunphy",
+      "opponentSlug": "108691-jasper-dunphy",
+      "result": "loss",
+      "method": "dec-majority",
+      "event": "Demolition Fight Series 1",
+      "eventSlug": "62762-xfc-demolition-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-24T00:00:00.000Z",
+      "opponent": "Dimps Gillies",
+      "opponentSlug": "140176-dimps-gillies",
+      "result": "loss",
+      "method": "other",
+      "event": "XFC 41",
+      "eventSlug": "56683-xfc-41",
+      "round": 2,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2019-03-29T00:00:00.000Z",
+      "opponent": "Junior Mo",
+      "opponentSlug": "143832-junior-mo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hex Fight Series 18",
+      "eventSlug": "58679-hex-fight-series-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-08T00:00:00.000Z",
+      "opponent": "Steve Thouliss",
+      "opponentSlug": "160359-steve-thouliss",
+      "result": "win",
+      "method": "other",
+      "event": "Hex Fight Series 16",
+      "eventSlug": "55073-hex-fight-series",
+      "round": 3,
+      "timeInRound": "2:08"
+    }
+  ],
+  "lastVerified": "2026-05-03T10:17:26.592Z"
+}

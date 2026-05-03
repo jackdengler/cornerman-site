@@ -1,0 +1,209 @@
+{
+  "slug": "63731-mickey-gall",
+  "name": "Mickey Gall",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": 188,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1992-01-22",
+  "nationality": "Green Brook, New Jersey, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/63731-mickey-gall",
+  "recentFights": [
+    {
+      "date": "2024-11-16T00:00:00.000Z",
+      "opponent": "Ramiz Brahimaj",
+      "opponentSlug": "129794-ramiz-brahimaj",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 309: Jones vs. Miocic",
+      "eventSlug": "116669-ufc-309",
+      "round": 1,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2024-06-01T00:00:00.000Z",
+      "opponent": "Bassil Hafez",
+      "opponentSlug": "36621-bassil-hafez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 302: Makhachev vs. Poirier",
+      "eventSlug": "110366-ufc-302",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-09T00:00:00.000Z",
+      "opponent": "Mike Malott",
+      "opponentSlug": "22740-mike-malott",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 273",
+      "eventSlug": "85306-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "3:41"
+    },
+    {
+      "date": "2021-12-04T00:00:00.000Z",
+      "opponent": "Alex Morono",
+      "opponentSlug": "16353-alex-morono",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "82179-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-24T00:00:00.000Z",
+      "opponent": "Jordan Williams",
+      "opponentSlug": "73288-jordan-williams",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "78477-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "2:57"
+    },
+    {
+      "date": "2020-06-27T00:00:00.000Z",
+      "opponent": "Mike Perry",
+      "opponentSlug": "78335-mike-perry",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "67596-ufc-on-espn",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-08-03T00:00:00.000Z",
+      "opponent": "Salim Touahri",
+      "opponentSlug": "56301-salim-touahri",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC on ESPN 5",
+      "eventSlug": "60312-ufc-on-espn-5-covington-vs-lawler",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-02T00:00:00.000Z",
+      "opponent": "Diego Sanchez",
+      "opponentSlug": "diego-sanchez-nightmare",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 235: Jones vs. Smith",
+      "eventSlug": "56351-ufc-235",
+      "round": 2,
+      "timeInRound": "4:13"
+    },
+    {
+      "date": "2018-08-25T00:00:00.000Z",
+      "opponent": "George Sullivan",
+      "opponentSlug": "11735-george-sullivan",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night 135",
+      "eventSlug": "52393-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "1:09"
+    },
+    {
+      "date": "2017-11-04T00:00:00.000Z",
+      "opponent": "Randy Brown",
+      "opponentSlug": "21348-randall-brown-rude-boy",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 217: Bisping vs. St. Pierre",
+      "eventSlug": "46980-ufc",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-17T00:00:00.000Z",
+      "opponent": "Sage Northcutt",
+      "opponentSlug": "43901-sage-northcutt",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC on FOX 22",
+      "eventSlug": "41372-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "1:40"
+    },
+    {
+      "date": "2016-09-10T00:00:00.000Z",
+      "opponent": "CM Punk",
+      "opponentSlug": "87925-phillip-jack-brooks-cm-punk",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC 203: Miocic vs. Overeem",
+      "eventSlug": "40102-ufc-203-miocic-vs-overeem",
+      "round": 1,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2016-02-06T00:00:00.000Z",
+      "opponent": "Mike Jackson",
+      "opponentSlug": "20057-mike-jackson",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night 82",
+      "eventSlug": "36542-ufc-196",
+      "round": 1,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2015-11-21T00:00:00.000Z",
+      "opponent": "Ron Templeton",
+      "opponentSlug": "43402-ron-templeton",
+      "result": "win",
+      "method": "sub",
+      "event": "Dead Serious 17",
+      "eventSlug": "34798-dead-serious-17",
+      "round": 1,
+      "timeInRound": "2:53"
+    },
+    {
+      "date": "2015-05-30T00:00:00.000Z",
+      "opponent": "Marvin Nino",
+      "opponentSlug": "28599-marvin-nino-rockstar",
+      "result": "win",
+      "method": "sub",
+      "event": "Dead Serious 15",
+      "eventSlug": "28874-dead-serious-15",
+      "round": 3,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2014-11-15T00:00:00.000Z",
+      "opponent": "Joseph Morrison",
+      "opponentSlug": "84711-joseph-morrison",
+      "result": "win",
+      "method": "sub",
+      "event": "WCC 11",
+      "eventSlug": "26793-wcc-11",
+      "round": 2,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2014-02-22T00:00:00.000Z",
+      "opponent": "Woodmy Jean",
+      "opponentSlug": "63732-woodmy-jean",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CFFC 32: Stripling vs. Anyanwu",
+      "eventSlug": "21982-cffc-32",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:05:17.414Z"
+}

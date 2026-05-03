@@ -1,0 +1,66 @@
+{
+  "slug": "99091-pal-kottes",
+  "name": "Pal Kottes",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Hungary",
+  "url": "https://www.tapology.com/fightcenter/fighters/99091-pal-kottes",
+  "recentFights": [
+    {
+      "date": "2015-10-02T00:00:00.000Z",
+      "opponent": "Jan Malach",
+      "opponentSlug": "64719-jan-malach",
+      "result": "loss",
+      "method": "tko",
+      "event": "Gladork Arena 6",
+      "eventSlug": "36197-gladork-arena-6",
+      "round": 2,
+      "timeInRound": "3:48"
+    },
+    {
+      "date": "2014-11-15T00:00:00.000Z",
+      "opponent": "Gábor Boráros",
+      "opponentSlug": "34740-gabor-boraros",
+      "result": "loss",
+      "method": "tko",
+      "event": "HFC 7: Finals 2014",
+      "eventSlug": "32042-hfc-7",
+      "round": 2,
+      "timeInRound": "4:10"
+    },
+    {
+      "date": "2014-04-05T00:00:00.000Z",
+      "opponent": "Sándor Végh",
+      "opponentSlug": "67875-sandor-vegh",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "HFC 2",
+      "eventSlug": "32039-hfc-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-04-05T00:00:00.000Z",
+      "opponent": "Gabor Szabo",
+      "opponentSlug": "67872-gabor-szabo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "HFC 2",
+      "eventSlug": "32039-hfc-2",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:08:14.302Z"
+}

@@ -1,0 +1,198 @@
+{
+  "slug": "85585-nathan-reddy",
+  "name": "Nathan Reddy",
+  "nickname": "Vanilla Gorilla",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1984-03-22",
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/85585-nathan-reddy",
+  "recentFights": [
+    {
+      "date": "2019-03-29T00:00:00.000Z",
+      "opponent": "John Martin Fraser",
+      "opponentSlug": "145385-john-martin-fraser",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hex Fight Series 18",
+      "eventSlug": "58679-hex-fight-series-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-26T00:00:00.000Z",
+      "opponent": "Bob Armstrong",
+      "opponentSlug": "60610-bob-armstrong",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hex Fight Series 17",
+      "eventSlug": "55464-hex-fight-series-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-08T00:00:00.000Z",
+      "opponent": "Parminder Singh",
+      "opponentSlug": "180271-parminder-singh",
+      "result": "win",
+      "method": "other",
+      "event": "Hex Fight Series 16",
+      "eventSlug": "55073-hex-fight-series",
+      "round": 1,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2018-02-17T00:00:00.000Z",
+      "opponent": "Randall Rayment",
+      "opponentSlug": "30395-randall-rayment",
+      "result": "win",
+      "method": "sub",
+      "event": "Urban Fight Night 14",
+      "eventSlug": "50070-urban-fight-night-14",
+      "round": 4,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-02T00:00:00.000Z",
+      "opponent": "Duke Didier",
+      "opponentSlug": "36930-duke-didier",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Urban Fight Night 13",
+      "eventSlug": "49014-urban-fight-night-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-29T00:00:00.000Z",
+      "opponent": "Michael McDaniel",
+      "opponentSlug": "67818-michael-mcdaniel",
+      "result": "win",
+      "method": "sub",
+      "event": "Wollongong Wars 6",
+      "eventSlug": "47801-wollongong-wars-6",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-12T00:00:00.000Z",
+      "opponent": "Jeff King",
+      "opponentSlug": "8796-jeff-king",
+      "result": "win",
+      "method": "tko",
+      "event": "Urban Fight Night 12",
+      "eventSlug": "46711-urban-fight-night-12-night-of-champions",
+      "round": 1,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2017-03-31T00:00:00.000Z",
+      "opponent": "Jimmy Crute",
+      "opponentSlug": "126283-jim-chute",
+      "result": "loss",
+      "method": "other",
+      "event": "Hex Fight Series 8",
+      "eventSlug": "43840-hex-fight-series-8",
+      "round": 1,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2016-07-08T00:00:00.000Z",
+      "opponent": "Mike Turner",
+      "opponentSlug": "30886-mike-turner",
+      "result": "win",
+      "method": "tko",
+      "event": "Wollongong Wars 4",
+      "eventSlug": "40130-wollongong-wars-4",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-02-19T00:00:00.000Z",
+      "opponent": "Jamie Lyngkuist",
+      "opponentSlug": "58673-jamie-lyngkuist",
+      "result": "win",
+      "method": "tko",
+      "event": "Superfight MMA 2",
+      "eventSlug": "37930-superfight-mma-2",
+      "round": 1,
+      "timeInRound": "0:51"
+    },
+    {
+      "date": "2015-11-08T00:00:00.000Z",
+      "opponent": "Tasi Kalolo",
+      "opponentSlug": "116742-tasi-kalolo",
+      "result": "win",
+      "method": "tko",
+      "event": "Urban Fight Night 4",
+      "eventSlug": "35676-urban-fight-night-4",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-23T00:00:00.000Z",
+      "opponent": "Rob Mayers",
+      "opponentSlug": "118941-rob-mayers",
+      "result": "win",
+      "method": "other",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "0:58"
+    },
+    {
+      "date": "2014-11-15T00:00:00.000Z",
+      "opponent": "Cam Rowston",
+      "opponentSlug": "69262-cam-rowston",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "BRACE: Ascend 2",
+      "eventSlug": "26266-brace-ascend-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-10-25T00:00:00.000Z",
+      "opponent": "Ivan Leafa",
+      "opponentSlug": "120938-ivan-leafa",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-04-05T00:00:00.000Z",
+      "opponent": "Richie Finau",
+      "opponentSlug": "120930-richie-finau",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-15T00:00:00.000Z",
+      "opponent": "Jimmy Stockton",
+      "opponentSlug": "121066-jimmy-stockton",
+      "result": "win",
+      "method": "other",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:17:49.372Z"
+}

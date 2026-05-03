@@ -1,0 +1,253 @@
+{
+  "slug": "152109-billy-elekana",
+  "name": "Billy Elekana",
+  "nickname": "Son of Susie",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 191,
+  "reachCm": 196,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1995-05-28",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/152109-billy-elekana",
+  "recentFights": [
+    {
+      "date": "2026-06-06T00:00:00.000Z",
+      "opponent": "Iwo Baraniewski",
+      "opponentSlug": "272653-filip-bartoszewicki",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "140934-ufc-fight-night-muhammad-vs-bonfim",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-01-31T00:00:00.000Z",
+      "opponent": "Junior Tafa",
+      "opponentSlug": "242095-junior-tafa",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC 325: Volkanovski vs. Lopes 2",
+      "eventSlug": "136549-ufc-325-volkanovski-vs-lopes-2",
+      "round": 2,
+      "timeInRound": "3:18"
+    },
+    {
+      "date": "2025-11-01T00:00:00.000Z",
+      "opponent": "Kevin Christian",
+      "opponentSlug": "124745-kevin-christian",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "132058-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "3:33"
+    },
+    {
+      "date": "2025-07-26T00:00:00.000Z",
+      "opponent": "Ibo Aslan",
+      "opponentSlug": "151252-ibo-aslan",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "125931-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-01-18T00:00:00.000Z",
+      "opponent": "Bogdan Guskov",
+      "opponentSlug": "136052-bogdan-guskov",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC 311: Makhachev vs. Moicano",
+      "eventSlug": "118600-ufc-311",
+      "round": 2,
+      "timeInRound": "3:33"
+    },
+    {
+      "date": "2024-07-27T00:00:00.000Z",
+      "opponent": "Jureall Simmons",
+      "opponentSlug": "64920-jureall-simmons",
+      "result": "win",
+      "method": "tko",
+      "event": "LXF 18",
+      "eventSlug": "114752-lxf-18",
+      "round": 1,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2023-08-04T00:00:00.000Z",
+      "opponent": "Chuck Campbell",
+      "opponentSlug": "193701-chuck-campbell",
+      "result": "win",
+      "method": "dec-split",
+      "event": "PFL 7: 2023 Playoffs",
+      "eventSlug": "101462-pfl-2023-playoffs",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-10T00:00:00.000Z",
+      "opponent": "Tristan Overvig",
+      "opponentSlug": "193966-tristan-overvig",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "PFL Challenger Series 2023",
+      "eventSlug": "95445-pfl-challenger-series-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-29T00:00:00.000Z",
+      "opponent": "Daniel Compton",
+      "opponentSlug": "55447-daniel-compton",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "LFA 137: Gibson vs. Amil",
+      "eventSlug": "90493-lfa-137",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-22T00:00:00.000Z",
+      "opponent": "Kohlman Scribner",
+      "opponentSlug": "120118-kohlman-scribner",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 130: Ksiazkiewicz vs. Gambulino",
+      "eventSlug": "87858-lfa-130-ksiazkiewicz-vs-gambulino",
+      "round": 1,
+      "timeInRound": "3:02"
+    },
+    {
+      "date": "2021-12-10T00:00:00.000Z",
+      "opponent": "Jeff Nielsen",
+      "opponentSlug": "166814-jeff-nielsen",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 120: Cantuária vs. Horth",
+      "eventSlug": "84181-lfa-120-cantuaria-vs-horth",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-28T00:00:00.000Z",
+      "opponent": "Starling Simmons",
+      "opponentSlug": "193009-starling-simmons",
+      "result": "win",
+      "method": "other",
+      "event": "Fierce FC 16",
+      "eventSlug": "82129-fierce-fc-16-siler-vs-hardman",
+      "round": 1,
+      "timeInRound": "3:41"
+    },
+    {
+      "date": "2021-05-14T00:00:00.000Z",
+      "opponent": "Ravon Baxter",
+      "opponentSlug": "138436-ravon-baxter",
+      "result": "win",
+      "method": "sub",
+      "event": "Fierce FC 15",
+      "eventSlug": "78832-fierce-fc-15-hatch-vs-curtis",
+      "round": 2,
+      "timeInRound": "2:21"
+    },
+    {
+      "date": "2019-06-29T00:00:00.000Z",
+      "opponent": "Koby Jeffers",
+      "opponentSlug": "94848-koby-jeffers",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Tuff-N-Uff",
+      "eventSlug": "61173-tuff-n-uff-world-amateur-championships",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-06T00:00:00.000Z",
+      "opponent": "Sullivan Cauley",
+      "opponentSlug": "175706-sullivan-cauley",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Tuff-N-Uff: Fight Night",
+      "eventSlug": "59190-tuff-n-uff-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-15T00:00:00.000Z",
+      "opponent": "Bryan Battle",
+      "opponentSlug": "153353-bryan-battle",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Tuff-N-Uff: Mayhem In Mesquite 16",
+      "eventSlug": "57163-tuff-n-uff-mayhem-in-mesquite-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-08-25T00:00:00.000Z",
+      "opponent": "Joe Flores",
+      "opponentSlug": "86528-joey-florez",
+      "result": "win",
+      "method": "other",
+      "event": "Real MMA 18",
+      "eventSlug": "53830-real-mma-18",
+      "round": 2,
+      "timeInRound": "1:59"
+    },
+    {
+      "date": "2018-07-27T00:00:00.000Z",
+      "opponent": "BeeJay Hurst III",
+      "opponentSlug": "192806-joe-hurst",
+      "result": "win",
+      "method": "other",
+      "event": "Tuff-N-Uff",
+      "eventSlug": "54236-tuff-n-uff",
+      "round": 2,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2017-07-15T00:00:00.000Z",
+      "opponent": "Ty Gwerder",
+      "opponentSlug": "163665-jered-gwerder-ty",
+      "result": "draw",
+      "method": "dec-majority",
+      "event": "KOTC: Future Legends 37",
+      "eventSlug": "47488-kotc-future-legends-37",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-15T00:00:00.000Z",
+      "opponent": "Nick Kimball",
+      "opponentSlug": "142452-nick-kimball",
+      "result": "win",
+      "method": "tko",
+      "event": "KOTC: Future Legends 35",
+      "eventSlug": "45433-kotc-future-legends-35",
+      "round": 1,
+      "timeInRound": "1:16"
+    },
+    {
+      "date": "2017-03-10T00:00:00.000Z",
+      "opponent": "Art Aranza",
+      "opponentSlug": "152110-art-aranza",
+      "result": "win",
+      "method": "tko",
+      "event": "Tuff-N-Uff: Downtown Showdown",
+      "eventSlug": "44640-tuff-n-uff-downtown-showdown",
+      "round": 2,
+      "timeInRound": "1:34"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:16:30.387Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "116763-bruna-rosso",
+  "name": "Bruna Rosso",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/116763-bruna-rosso",
+  "recentFights": [
+    {
+      "date": "2015-11-21T00:00:00.000Z",
+      "opponent": "Taila Santos",
+      "opponentSlug": "74022-taila-santos",
+      "result": "loss",
+      "method": "other",
+      "event": null,
+      "eventSlug": null,
+      "round": 2,
+      "timeInRound": "3:06"
+    },
+    {
+      "date": "2015-10-17T00:00:00.000Z",
+      "opponent": "Karine Silva",
+      "opponentSlug": "69225-karine-silva-killer",
+      "result": "loss",
+      "method": "other",
+      "event": "Aspera FC 25",
+      "eventSlug": "33675-aspera-fc-25",
+      "round": 2,
+      "timeInRound": "3:28"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:10:40.427Z"
+}

@@ -1,0 +1,112 @@
+{
+  "slug": "120742-justin-quichocho",
+  "name": "Justin Quichocho",
+  "nickname": "Ichi Banger",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Chalan Pago, Guam",
+  "url": "https://www.tapology.com/fightcenter/fighters/120742-justin-quichocho",
+  "recentFights": [
+    {
+      "date": "2016-12-09T00:00:00.000Z",
+      "opponent": "Jay Muña",
+      "opponentSlug": "21554-jay-muna-tabi",
+      "result": "win",
+      "method": "sub",
+      "event": "Trench Warz 20",
+      "eventSlug": "42761-trench-warz-20",
+      "round": 1,
+      "timeInRound": "4:28"
+    },
+    {
+      "date": "2016-11-18T00:00:00.000Z",
+      "opponent": "Jeffrey Mesa",
+      "opponentSlug": "71953-jeff-mesa",
+      "result": "loss",
+      "method": "sub",
+      "event": "PXC 55",
+      "eventSlug": "42174-pxc-55",
+      "round": 2,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2016-04-22T00:00:00.000Z",
+      "opponent": "Bradlee Manalo",
+      "opponentSlug": "91002-bradley-manalo-the-assassin",
+      "result": "win",
+      "method": "other",
+      "event": "Rites of Passage 19",
+      "eventSlug": "39091-ritesof-passage-19-seek-destroy",
+      "round": 1,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2015-11-27T00:00:00.000Z",
+      "opponent": "Mike Muña",
+      "opponentSlug": "101884-mike-mua",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Trench Warz 19",
+      "eventSlug": "36143-trench-warz-19-no-holding-back",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "allFights": [
+    {
+      "date": "2016-12-09T00:00:00.000Z",
+      "opponent": "Jay Muña",
+      "opponentSlug": "21554-jay-muna-tabi",
+      "result": "win",
+      "method": "sub",
+      "event": "Trench Warz 20",
+      "eventSlug": "42761-trench-warz-20",
+      "round": 1,
+      "timeInRound": "4:28"
+    },
+    {
+      "date": "2016-11-18T00:00:00.000Z",
+      "opponent": "Jeffrey Mesa",
+      "opponentSlug": "71953-jeff-mesa",
+      "result": "loss",
+      "method": "sub",
+      "event": "PXC 55",
+      "eventSlug": "42174-pxc-55",
+      "round": 2,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2016-04-22T00:00:00.000Z",
+      "opponent": "Bradlee Manalo",
+      "opponentSlug": "91002-bradley-manalo-the-assassin",
+      "result": "win",
+      "method": "other",
+      "event": "Rites of Passage 19",
+      "eventSlug": "39091-ritesof-passage-19-seek-destroy",
+      "round": 1,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2015-11-27T00:00:00.000Z",
+      "opponent": "Mike Muña",
+      "opponentSlug": "101884-mike-mua",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Trench Warz 19",
+      "eventSlug": "36143-trench-warz-19-no-holding-back",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-05-03T10:17:04.254Z"
+}

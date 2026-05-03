@@ -1,0 +1,198 @@
+{
+  "slug": "289643-elijah-smith",
+  "name": "Elijah Smith",
+  "nickname": "Swift",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 180,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "2002-09-05",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/289643-elijah-smith",
+  "recentFights": [
+    {
+      "date": "2026-03-14T00:00:00.000Z",
+      "opponent": "Su Young You",
+      "opponentSlug": "73544-soo-young-yoo",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "136874-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2025-08-09T00:00:00.000Z",
+      "opponent": "Toshiomi Kazama",
+      "opponentSlug": "265124-toshiomi-kazama",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "127957-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "4:10"
+    },
+    {
+      "date": "2025-02-15T00:00:00.000Z",
+      "opponent": "Vince Morales",
+      "opponentSlug": "91401-vince-morales",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "120487-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-17T00:00:00.000Z",
+      "opponent": "Aaron Tau",
+      "opponentSlug": "137028-aaron-tau",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Contender Series 2024",
+      "eventSlug": "112923-contender-series-2024-week-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-16T00:00:00.000Z",
+      "opponent": "Josh Walker",
+      "opponentSlug": "135949-josh-walker",
+      "result": "win",
+      "method": "other",
+      "event": "Fury FC 92: Pa-ac vs. Piccininni",
+      "eventSlug": "112058-fury-fc-91",
+      "round": 1,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2024-02-17T00:00:00.000Z",
+      "opponent": "Jacob Kreitel",
+      "opponentSlug": "245877-jacob-kreitel",
+      "result": "win",
+      "method": "tko",
+      "event": "Battle MMA Championships 12",
+      "eventSlug": "106115-battle-mma-championships-12",
+      "round": 1,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2023-12-15T00:00:00.000Z",
+      "opponent": "Robert Trujillo",
+      "opponentSlug": "48326-robert-trujillo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Colorado Combat Club 21",
+      "eventSlug": "107105-colorado-combat-club-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-01T00:00:00.000Z",
+      "opponent": "Dimas Chapa",
+      "opponentSlug": "236135-dimas-chapa",
+      "result": "win",
+      "method": "sub",
+      "event": "Fury Challenger Series 6",
+      "eventSlug": "103519-fury-challenger-series-6",
+      "round": 3,
+      "timeInRound": "2:09"
+    },
+    {
+      "date": "2023-03-24T00:00:00.000Z",
+      "opponent": "Reyes Cortez",
+      "opponentSlug": "43085-reyes-cortez",
+      "result": "loss",
+      "method": "tko",
+      "event": "Fury FC 76: Chairez vs. Vasquez",
+      "eventSlug": "96724-fury-fc-76",
+      "round": 3,
+      "timeInRound": "2:17"
+    },
+    {
+      "date": "2022-12-18T00:00:00.000Z",
+      "opponent": "Christian Strong",
+      "opponentSlug": "227460-christian-bagdadi",
+      "result": "win",
+      "method": "tko",
+      "event": "Fury FC 72: Van vs. McLean",
+      "eventSlug": "94512-fury-fc-72",
+      "round": 1,
+      "timeInRound": "1:18"
+    },
+    {
+      "date": "2022-08-21T00:00:00.000Z",
+      "opponent": "Roger Smith",
+      "opponentSlug": "214786-roger-smith",
+      "result": "win",
+      "method": "tko",
+      "event": "Fury FC 68: Bauman vs. Ivy",
+      "eventSlug": "89285-fury-fc-68",
+      "round": 3,
+      "timeInRound": "0:10"
+    },
+    {
+      "date": "2022-03-25T00:00:00.000Z",
+      "opponent": "Felix Cano",
+      "opponentSlug": "298024-felix-cano",
+      "result": "win",
+      "method": "sub",
+      "event": "Colorado Combat Club 11",
+      "eventSlug": "85904-colorado-combat-club-11",
+      "round": 2,
+      "timeInRound": "2:39"
+    },
+    {
+      "date": "2021-12-18T00:00:00.000Z",
+      "opponent": "Aaron Brito",
+      "opponentSlug": "296817-aaron-brito",
+      "result": "win",
+      "method": "tko",
+      "event": "Colorado Combat Club 10",
+      "eventSlug": "83427-colorado-combat-club-x-petrosyan-vs-dunkle",
+      "round": 1,
+      "timeInRound": "2:33"
+    },
+    {
+      "date": "2021-07-24T00:00:00.000Z",
+      "opponent": "Bizjhan Bahadori",
+      "opponentSlug": "128304-bizjhan-bahadori",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Colorado Combat Club 7",
+      "eventSlug": "79129-colorado-combat-club-7-khai-wu-vs-alejandro-rodriguez",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-01T00:00:00.000Z",
+      "opponent": "Brandon Henson",
+      "opponentSlug": "294144-brandon-henson",
+      "result": "win",
+      "method": "other",
+      "event": "Sparta Wyoming 7",
+      "eventSlug": "78085-sparta-wyoming-7",
+      "round": 1,
+      "timeInRound": "0:07"
+    },
+    {
+      "date": "2021-03-27T00:00:00.000Z",
+      "opponent": "Luis Romero",
+      "opponentSlug": "289644-luis-romero",
+      "result": "win",
+      "method": "other",
+      "event": "Sparta Wyoming 6",
+      "eventSlug": "78082-sparta-wyoming-6",
+      "round": 1,
+      "timeInRound": "0:15"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:56:53.889Z"
+}

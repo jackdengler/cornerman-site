@@ -1,0 +1,77 @@
+{
+  "slug": "315159-raja-jackson",
+  "name": "Raja Jackson",
+  "nickname": "da Clone",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "2000-05-02",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/315159-raja-jackson",
+  "recentFights": [
+    {
+      "date": "2023-08-12T00:00:00.000Z",
+      "opponent": "Steve Collins",
+      "opponentSlug": "307378-steve-collins",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "United Fight League 3",
+      "eventSlug": "101984-united-fight-league-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-13T00:00:00.000Z",
+      "opponent": "Hastings McMillan",
+      "opponentSlug": "302545-hastings-mcmillan",
+      "result": "win",
+      "method": "tko",
+      "event": "United Fight League 2",
+      "eventSlug": "99178-united-fight-league-2",
+      "round": 1,
+      "timeInRound": "3:28"
+    },
+    {
+      "date": "2022-09-10T00:00:00.000Z",
+      "opponent": "Kendal Morris",
+      "opponentSlug": "187621-kendal-morris",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Global Legion FC 22",
+      "eventSlug": "92813-global-legion-fc-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-19T00:00:00.000Z",
+      "opponent": "Malique Lee",
+      "opponentSlug": "327362-malique-lee",
+      "result": "win",
+      "method": "other",
+      "event": "Global Legion FC 20",
+      "eventSlug": "86456-global-legion-fc-20",
+      "round": 1,
+      "timeInRound": "0:54"
+    },
+    {
+      "date": "2021-11-13T00:00:00.000Z",
+      "opponent": "Zalimkhan Shakhrudinov",
+      "opponentSlug": "311793-zalimkhan-shakhrudinov",
+      "result": "win",
+      "method": "other",
+      "event": "Knockout MMA",
+      "eventSlug": "83673-knockout-mma",
+      "round": 2,
+      "timeInRound": "0:51"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:39:46.464Z"
+}

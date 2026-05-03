@@ -1,0 +1,132 @@
+{
+  "slug": "76897-tony-morgan",
+  "name": "Tony Morgan",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "England",
+  "url": "https://www.tapology.com/fightcenter/fighters/76897-tony-morgan",
+  "recentFights": [
+    {
+      "date": "2017-09-30T00:00:00.000Z",
+      "opponent": "Kenneth Richardson",
+      "opponentSlug": "93925-kenneth-richardson-k-force",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Full Contact Contender 19",
+      "eventSlug": "46894-full-contact-contender-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-14T00:00:00.000Z",
+      "opponent": "Jai Herbert",
+      "opponentSlug": "70002-jai-herbert",
+      "result": "loss",
+      "method": "sub",
+      "event": "BAMMA 25: Champion vs. Champion",
+      "eventSlug": "37799-bamma-25",
+      "round": 2,
+      "timeInRound": "2:19"
+    },
+    {
+      "date": "2015-10-17T00:00:00.000Z",
+      "opponent": "Danny Barker",
+      "opponentSlug": "73950-danny-barker",
+      "result": "win",
+      "method": "tko",
+      "event": "Full Contact Contender 14",
+      "eventSlug": "35244-full-contact-contender-14",
+      "round": 1,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2015-03-08T00:00:00.000Z",
+      "opponent": "Kevin Fryer",
+      "opponentSlug": "94803-kevin-fryer",
+      "result": "win",
+      "method": "other",
+      "event": "Budo Fighting Championships 7",
+      "eventSlug": "30006-budo-fighting-championships-7-morgan-vs-fryer",
+      "round": 3,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2014-08-23T00:00:00.000Z",
+      "opponent": "David Stone",
+      "opponentSlug": "19001-david-stone",
+      "result": "win",
+      "method": "sub",
+      "event": "Budo Fighting Championships 4",
+      "eventSlug": "25769-budo-fighting-championships-4-lewis-vs-bray",
+      "round": 1,
+      "timeInRound": "0:23"
+    },
+    {
+      "date": "2013-12-14T00:00:00.000Z",
+      "opponent": "Jonno Mears",
+      "opponentSlug": "68653-jonno-mears",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-10-12T00:00:00.000Z",
+      "opponent": "Alex Cossey",
+      "opponentSlug": "79010-alex-cossey",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-09-07T00:00:00.000Z",
+      "opponent": "Conor Riordan",
+      "opponentSlug": "65821-conor-riordan",
+      "result": "win",
+      "method": "tko",
+      "event": "Full Contact Contender 7",
+      "eventSlug": "22669-full-contact-contender-7",
+      "round": 1,
+      "timeInRound": "2:32"
+    },
+    {
+      "date": "2013-05-18T00:00:00.000Z",
+      "opponent": "Micky Oliver",
+      "opponentSlug": "52331-mickey-oliver",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-03-31T00:00:00.000Z",
+      "opponent": "Kyle Winder",
+      "opponentSlug": "79786-kyle-winder",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:09:08.045Z"
+}

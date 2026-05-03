@@ -1,0 +1,154 @@
+{
+  "slug": "292164-quintin-richards",
+  "name": "Quintin Richards",
+  "nickname": "The Guy",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1998-04-06",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/292164-quintin-richards",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Canon Swanson",
+      "opponentSlug": "329282-canon-swanson",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 231: Lozej vs. Ibarra",
+      "eventSlug": "140675-lfa-231-trembley-vs-johns",
+      "round": 1,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2025-06-28T00:00:00.000Z",
+      "opponent": "Jimmy Sandlin",
+      "opponentSlug": "138073-jimmy-sandlin",
+      "result": "win",
+      "method": "other",
+      "event": "Carnage Fight Series 2",
+      "eventSlug": "127159-carnage-fight-series-2-richards-vs-sandlin",
+      "round": 3,
+      "timeInRound": "0:31"
+    },
+    {
+      "date": "2025-03-22T00:00:00.000Z",
+      "opponent": "Caleb Contreras",
+      "opponentSlug": "40954-caleb-contreras",
+      "result": "win",
+      "method": "sub",
+      "event": "Carnage Fight Series 1",
+      "eventSlug": "123569-carnage-fight-series-5",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2024-12-14T00:00:00.000Z",
+      "opponent": "Aaron McDaniel",
+      "opponentSlug": "22202-aaron-mcdaniel",
+      "result": "win",
+      "method": "other",
+      "event": "SCS: The Fight Before Christmas 2",
+      "eventSlug": "118591-scs-the-fight-before-christmas-2",
+      "round": 2,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2024-08-17T00:00:00.000Z",
+      "opponent": "Aaron Hughes",
+      "opponentSlug": "117081-aaron-hughes",
+      "result": "win",
+      "method": "sub",
+      "event": "SCS: Route 30 Rumble 3",
+      "eventSlug": "115211-scs-route-30-rumble",
+      "round": 1,
+      "timeInRound": "1:40"
+    },
+    {
+      "date": "2024-03-16T00:00:00.000Z",
+      "opponent": "Nick Mondelli",
+      "opponentSlug": "200281-nicholas-mondelli",
+      "result": "win",
+      "method": "other",
+      "event": "SCS: Renegade Rumble 7",
+      "eventSlug": "109906-scs-renegade-rumble",
+      "round": 1,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2023-11-11T00:00:00.000Z",
+      "opponent": "Zane Finley",
+      "opponentSlug": "348612-zane-finley-the-sparkplug",
+      "result": "win",
+      "method": "other",
+      "event": "BCM Fight Night 15",
+      "eventSlug": "105316-bcm-promotions-fight-night-15",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2023-05-20T00:00:00.000Z",
+      "opponent": "Eric Cole",
+      "opponentSlug": "346382-eric-cole",
+      "result": "win",
+      "method": "other",
+      "event": "ECC Cage Fighting",
+      "eventSlug": "99700-ecc-cage-fighting-cage-wars-5",
+      "round": 2,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2023-01-28T00:00:00.000Z",
+      "opponent": "Jarred Gonzales",
+      "opponentSlug": "186735-jarred-gonzales",
+      "result": "win",
+      "method": "other",
+      "event": "ECC Cage Fighting",
+      "eventSlug": "96117-ecc-cage-fighting-cage-wars-4",
+      "round": 2,
+      "timeInRound": "2:06"
+    },
+    {
+      "date": "2022-07-02T00:00:00.000Z",
+      "opponent": "John Leark",
+      "opponentSlug": "243089-john-leark",
+      "result": "win",
+      "method": "sub",
+      "event": "Ohio Combat League 20",
+      "eventSlug": "89237-ohio-combat-league-20",
+      "round": 1,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2021-09-11T00:00:00.000Z",
+      "opponent": "Paul Bortnick",
+      "opponentSlug": "307889-paul-bortnick",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Caged Thunder 12",
+      "eventSlug": "80951-caged-thunder-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-14T00:00:00.000Z",
+      "opponent": "Jaden Mattox",
+      "opponentSlug": "286282-jaden-mattox",
+      "result": "win",
+      "method": "sub",
+      "event": "Ohio Combat League 12",
+      "eventSlug": "77790-ohio-combat-league-12",
+      "round": 3,
+      "timeInRound": "2:07"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:59:46.909Z"
+}

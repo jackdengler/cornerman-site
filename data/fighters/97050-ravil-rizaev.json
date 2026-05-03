@@ -1,0 +1,110 @@
+{
+  "slug": "97050-ravil-rizaev",
+  "name": "Ravil Rizaev",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1994-09-17",
+  "nationality": "Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/97050-ravil-rizaev",
+  "recentFights": [
+    {
+      "date": "2020-03-03T00:00:00.000Z",
+      "opponent": "Jonibek Farmonov",
+      "opponentSlug": "186590-zhonibek-farmonov",
+      "result": "loss",
+      "method": "tko",
+      "event": "GPFC",
+      "eventSlug": "67999-gpfc",
+      "round": 1,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2019-08-11T00:00:00.000Z",
+      "opponent": "Davrbek Isakov",
+      "opponentSlug": "17783-davrbek-isakov",
+      "result": "loss",
+      "method": "tko",
+      "event": "Ased FC 8",
+      "eventSlug": "61913-ased-fc-8",
+      "round": 1,
+      "timeInRound": "3:20"
+    },
+    {
+      "date": "2019-02-23T00:00:00.000Z",
+      "opponent": "Ramazan Aliev",
+      "opponentSlug": "384124-ramazan-aliev",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cup Of Volgograd 2019",
+      "eventSlug": "94155-cup-of-volgograd-2019",
+      "round": 1,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2016-03-21T00:00:00.000Z",
+      "opponent": "Abylkasim Yakubov",
+      "opponentSlug": "129983-abilkasim-yakubov",
+      "result": "loss",
+      "method": "other",
+      "event": "Ambitions FC",
+      "eventSlug": "65290-ambitions-fc-bounty-hunters",
+      "round": 1,
+      "timeInRound": "0:31"
+    },
+    {
+      "date": "2015-04-03T00:00:00.000Z",
+      "opponent": "Yaroslav Amosov",
+      "opponentSlug": "81129-yaroslav-amosov",
+      "result": "loss",
+      "method": "other",
+      "event": "Tech-KREP FC",
+      "eventSlug": "30655-tech-krep-fc-ermak-prime-challenge",
+      "round": 1,
+      "timeInRound": "1:27"
+    },
+    {
+      "date": "2014-05-31T00:00:00.000Z",
+      "opponent": "Zaur Gagiev",
+      "opponentSlug": "179408-zaur-gagiev",
+      "result": "loss",
+      "method": "other",
+      "event": "Volgograd Fight",
+      "eventSlug": "44352-volgograd-fight-stalingrad-cup-8",
+      "round": 1,
+      "timeInRound": "4:50"
+    },
+    {
+      "date": "2013-11-07T00:00:00.000Z",
+      "opponent": "Ilyas Yakubov",
+      "opponentSlug": "99935-ilyas-yakubov",
+      "result": "loss",
+      "method": "sub",
+      "event": "Legion Fight",
+      "eventSlug": "58722-legion-fight-black-sea-cup-2013-stage-2",
+      "round": 1,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2013-03-30T00:00:00.000Z",
+      "opponent": "Davrbek Isakov",
+      "opponentSlug": "17783-davrbek-isakov",
+      "result": "loss",
+      "method": "sub",
+      "event": "Oplot MMA",
+      "eventSlug": "53665-oplot-mma-dnepropetrovsk-championship",
+      "round": 1,
+      "timeInRound": "3:30"
+    }
+  ],
+  "lastVerified": "2026-04-25T23:04:44.482Z"
+}

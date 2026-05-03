@@ -1,0 +1,48 @@
+{
+  "slug": "151616-peygan-lafont",
+  "name": "Peygan Lafont",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/151616-peygan-lafont",
+  "recentFights": [
+    {
+      "date": "2017-10-21T00:00:00.000Z",
+      "opponent": "Rance Ward",
+      "opponentSlug": "134719-rance-ward",
+      "result": "loss",
+      "method": "other",
+      "event": "Caged Warrior Championship 16",
+      "eventSlug": "48545-caged-warrior-championship-16",
+      "round": 2,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2017-03-11T00:00:00.000Z",
+      "opponent": "John Yannis",
+      "opponentSlug": "151617-john-yannies",
+      "result": "win",
+      "method": "sub",
+      "event": "Caged Warrior Championship 13",
+      "eventSlug": "44604-caged-warrior-championship-13",
+      "round": 2,
+      "timeInRound": "0:56"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:30:57.505Z"
+}

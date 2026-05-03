@@ -1,0 +1,209 @@
+{
+  "slug": "57624-eric-gant",
+  "name": "Eric Grant",
+  "nickname": "Thee Antidote",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 197,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1991-08-14",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/57624-eric-gant",
+  "recentFights": [
+    {
+      "date": "2024-12-06T00:00:00.000Z",
+      "opponent": "Gauge Young",
+      "opponentSlug": "213571-gauge-young",
+      "result": "loss",
+      "method": "other",
+      "event": "FAC 27: Young vs. Grant",
+      "eventSlug": "117813-fac-27",
+      "round": 2,
+      "timeInRound": "0:11"
+    },
+    {
+      "date": "2024-10-05T00:00:00.000Z",
+      "opponent": "CJay Hunter",
+      "opponentSlug": "44992-cj-hunter",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shamrock FC 358",
+      "eventSlug": "113061-shamrock-fc-358",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-22T00:00:00.000Z",
+      "opponent": "Jonathan Wyderko",
+      "opponentSlug": "41566-jonathan-wyderko",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 79: Royval vs. Williams",
+      "eventSlug": "64015-lfa-79-royval-vs-scoggins",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-04T00:00:00.000Z",
+      "opponent": "Caleb Crump",
+      "opponentSlug": "110854-caleb-crump",
+      "result": "win",
+      "method": "sub",
+      "event": "NMEF: Annihilation 66",
+      "eventSlug": "58465-nmef-annihilation-66",
+      "round": 1,
+      "timeInRound": "3:27"
+    },
+    {
+      "date": "2017-11-18T00:00:00.000Z",
+      "opponent": "Gerald Scott",
+      "opponentSlug": "98708-gerald-scott",
+      "result": "loss",
+      "method": "other",
+      "event": "SCL: Combat Sports Spectacular",
+      "eventSlug": "48256-scl-64",
+      "round": 2,
+      "timeInRound": "1:51"
+    },
+    {
+      "date": "2017-07-22T00:00:00.000Z",
+      "opponent": "Manuel Gallardo",
+      "opponentSlug": "8580-manuel-gallardo",
+      "result": "win",
+      "method": "other",
+      "event": "Rocky Mountain Rubicon 5",
+      "eventSlug": "46328-rocky-mountain-rubicon-5",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2017-02-24T00:00:00.000Z",
+      "opponent": "Slobodan Maksimović",
+      "opponentSlug": "58648-slobodan-maksimovic",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 5: Edwards vs. Townsend",
+      "eventSlug": "43695-lfa-5-edwards-vs-townsend",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-29T00:00:00.000Z",
+      "opponent": "Kris Nieto",
+      "opponentSlug": "45473-kristian-nieto",
+      "result": "loss",
+      "method": "sub",
+      "event": "Rocky Mountain Rubicon 3",
+      "eventSlug": "42338-rocky-mountain-rubicon-3",
+      "round": 3,
+      "timeInRound": "3:36"
+    },
+    {
+      "date": "2016-09-09T00:00:00.000Z",
+      "opponent": "Peter Straub",
+      "opponentSlug": "36219-peter-straub",
+      "result": "win",
+      "method": "tko",
+      "event": "RFA 43: Camozzi vs. Barnes",
+      "eventSlug": "40830-rfa-43-camozzi-vs-barnes",
+      "round": 3,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2016-01-15T00:00:00.000Z",
+      "opponent": "Lucas Dias",
+      "opponentSlug": "91072-lucas-dias",
+      "result": "win",
+      "method": "sub",
+      "event": "RFA 34: Velickovic vs. Smith",
+      "eventSlug": "37184-rfa-34-velickovic-vs-smith",
+      "round": 1,
+      "timeInRound": "3:08"
+    },
+    {
+      "date": "2015-03-20T00:00:00.000Z",
+      "opponent": "Chance Thackston",
+      "opponentSlug": "54733-chance-thackston",
+      "result": "loss",
+      "method": "sub",
+      "event": "VFC Fight Night",
+      "eventSlug": "30641-vfc-fight-night-little-apple",
+      "round": 1,
+      "timeInRound": "0:42"
+    },
+    {
+      "date": "2014-05-17T00:00:00.000Z",
+      "opponent": "Kyleb Collins",
+      "opponentSlug": "53165-kyleb-collins",
+      "result": "win",
+      "method": "sub",
+      "event": "Shamrock FC",
+      "eventSlug": "23712-shamrock-fc-high-stakes",
+      "round": 1,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2014-04-05T00:00:00.000Z",
+      "opponent": "Devon Webber",
+      "opponentSlug": "38890-devon-webber",
+      "result": "loss",
+      "method": "sub",
+      "event": "Battle at the Fort 9",
+      "eventSlug": "21940-battle-at-the-fort-9",
+      "round": 1,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2014-02-15T00:00:00.000Z",
+      "opponent": "Ronald Rowe",
+      "opponentSlug": "59375-ronald-rowe",
+      "result": "win",
+      "method": "other",
+      "event": "Hardrock MMA 61",
+      "eventSlug": "21725-hardrock-mma-61",
+      "round": 1,
+      "timeInRound": "1:34"
+    },
+    {
+      "date": "2013-11-02T00:00:00.000Z",
+      "opponent": "Dylan Osterman",
+      "opponentSlug": "57625-dylan-osterman",
+      "result": "loss",
+      "method": "tko",
+      "event": "Hardrock MMA 58",
+      "eventSlug": "20700-hardrock-mma-58",
+      "round": 1,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2012-08-04T00:00:00.000Z",
+      "opponent": "John Ford",
+      "opponentSlug": "23216-johnathan-ford",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-09-10T00:00:00.000Z",
+      "opponent": "Jeremiah Denson",
+      "opponentSlug": "23214-jeremiah-denson",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shark Fights 19",
+      "eventSlug": "9794-shark-fights-19",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:12:02.711Z"
+}

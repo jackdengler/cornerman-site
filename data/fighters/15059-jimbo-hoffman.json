@@ -1,0 +1,132 @@
+{
+  "slug": "15059-jimbo-hoffman",
+  "name": "Jimbo Hoffman",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/15059-jimbo-hoffman",
+  "recentFights": [
+    {
+      "date": "2011-06-17T00:00:00.000Z",
+      "opponent": "Mike Benoit",
+      "opponentSlug": "15060-mike-benoit",
+      "result": "win",
+      "method": "sub",
+      "event": "Ring of Combat 36",
+      "eventSlug": "9778-ring-of-combat-36",
+      "round": 1,
+      "timeInRound": "3:19"
+    },
+    {
+      "date": "2011-02-04T00:00:00.000Z",
+      "opponent": "Yaser Shaukat",
+      "opponentSlug": "15066-yaser-shaukat",
+      "result": "win",
+      "method": "sub",
+      "event": "Ring of Combat 34",
+      "eventSlug": "8532-ring-of-combat-34",
+      "round": 1,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2010-12-04T00:00:00.000Z",
+      "opponent": "Kenny Rivera",
+      "opponentSlug": "28914-kenneth-rivera",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-06-12T00:00:00.000Z",
+      "opponent": "Aaron Hicks",
+      "opponentSlug": "23566-aaron-hicks",
+      "result": "win",
+      "method": "other",
+      "event": "AFL 29",
+      "eventSlug": "22088-afl-29",
+      "round": 1,
+      "timeInRound": "0:25"
+    },
+    {
+      "date": "2010-04-30T00:00:00.000Z",
+      "opponent": "Paul Marinacchio",
+      "opponentSlug": "147895-paul-marinacchio",
+      "result": "win",
+      "method": "other",
+      "event": "New Breed Fighters 29",
+      "eventSlug": "43764-new-breed-fighters-29",
+      "round": 2,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2010-04-17T00:00:00.000Z",
+      "opponent": "Samad Mobley",
+      "opponentSlug": "37623-samad-mobley",
+      "result": "win",
+      "method": "sub",
+      "event": "AFL 28",
+      "eventSlug": "11672-afl-28",
+      "round": 1,
+      "timeInRound": "0:52"
+    },
+    {
+      "date": "2010-02-13T00:00:00.000Z",
+      "opponent": "Pat Sabatini",
+      "opponentSlug": "29210-pat-sabatini",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "New Breed Fighters 27",
+      "eventSlug": "29434-new-breed-fighters-27",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-12-11T00:00:00.000Z",
+      "opponent": "Michael Riley",
+      "opponentSlug": "28596-michael-riley",
+      "result": "win",
+      "method": "sub",
+      "event": "AFL 24",
+      "eventSlug": "43203-afl-24",
+      "round": 3,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2009-10-24T00:00:00.000Z",
+      "opponent": "Ryan Cafaro",
+      "opponentSlug": "16329-ryan-cafaro",
+      "result": "win",
+      "method": "sub",
+      "event": "AFL 20",
+      "eventSlug": "43202-afl-20",
+      "round": 1,
+      "timeInRound": "0:36"
+    },
+    {
+      "date": "2009-10-03T00:00:00.000Z",
+      "opponent": "Moris Marku",
+      "opponentSlug": "147868-moris-marku",
+      "result": "win",
+      "method": "sub",
+      "event": "New Breed Fighters 25",
+      "eventSlug": "35644-new-breed-fighters-25-one-step-closer",
+      "round": 1,
+      "timeInRound": "0:45"
+    }
+  ],
+  "lastVerified": "2026-04-25T23:06:44.491Z"
+}

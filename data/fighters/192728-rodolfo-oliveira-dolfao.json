@@ -1,0 +1,77 @@
+{
+  "slug": "192728-rodolfo-oliveira-dolfao",
+  "name": "Rodolfo Oliveira",
+  "nickname": "Dolfão",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1988-12-28",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/192728-rodolfo-oliveira-dolfao",
+  "recentFights": [
+    {
+      "date": "2021-07-31T00:00:00.000Z",
+      "opponent": "Djorden Santos",
+      "opponentSlug": "67529-diorden-maguila",
+      "result": "loss",
+      "method": "other",
+      "event": "SFFN 4",
+      "eventSlug": "79950-sffn-4",
+      "round": 2,
+      "timeInRound": "1:40"
+    },
+    {
+      "date": "2019-05-05T00:00:00.000Z",
+      "opponent": "Marcos Brigagão",
+      "opponentSlug": "165885-marcos-brigago-mrigado",
+      "result": "loss",
+      "method": "other",
+      "event": "MMA Brutus 2",
+      "eventSlug": "60085-mma-brutus-2",
+      "round": 1,
+      "timeInRound": "3:49"
+    },
+    {
+      "date": "2018-12-08T00:00:00.000Z",
+      "opponent": "Wesley Martins",
+      "opponentSlug": "58613-wesley-martins",
+      "result": "loss",
+      "method": "other",
+      "event": "PFC 2",
+      "eventSlug": "57040-pfc-2",
+      "round": 1,
+      "timeInRound": "2:49"
+    },
+    {
+      "date": "2018-11-24T00:00:00.000Z",
+      "opponent": "Luis Henrique Barbosa",
+      "opponentSlug": "15398-luiz-henrique-kbeltnho",
+      "result": "loss",
+      "method": "sub",
+      "event": "WOCS 53",
+      "eventSlug": "56800-wocs-53",
+      "round": 1,
+      "timeInRound": "1:59"
+    },
+    {
+      "date": "2018-08-11T00:00:00.000Z",
+      "opponent": "Carlos Eduardo Vicente",
+      "opponentSlug": "192727-carlos-eduardo-vicente",
+      "result": "loss",
+      "method": "other",
+      "event": "NCE 29",
+      "eventSlug": "54461-nce-29",
+      "round": 1,
+      "timeInRound": "1:05"
+    }
+  ],
+  "lastVerified": "2026-04-25T23:03:57.869Z"
+}

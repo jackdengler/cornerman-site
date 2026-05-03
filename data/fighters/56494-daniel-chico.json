@@ -1,0 +1,220 @@
+{
+  "slug": "56494-daniel-chico",
+  "name": "Daniel Chicão",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 14,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 190,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Divinopolis, Minas Gerais, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/56494-daniel-chico",
+  "recentFights": [
+    {
+      "date": "2021-08-14T00:00:00.000Z",
+      "opponent": "Djorden Santos",
+      "opponentSlug": "67529-diorden-maguila",
+      "result": "loss",
+      "method": "other",
+      "event": "X1 Kombat 4",
+      "eventSlug": "81516-x1-kombat-4",
+      "round": 2,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2018-12-08T00:00:00.000Z",
+      "opponent": "Tulio Marcos",
+      "opponentSlug": "65792-tulio-marcos",
+      "result": "loss",
+      "method": "other",
+      "event": "Federação Fight 9",
+      "eventSlug": "58702-federacao-fight-9",
+      "round": 2,
+      "timeInRound": "3:38"
+    },
+    {
+      "date": "2018-03-10T00:00:00.000Z",
+      "opponent": "Marcelo Barbosa",
+      "opponentSlug": "66785-marcelo-barbosa-animal",
+      "result": "loss",
+      "method": "tko",
+      "event": "Federação Fight 7",
+      "eventSlug": "51629-federao-fight-7",
+      "round": 2,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2017-09-16T00:00:00.000Z",
+      "opponent": "Valdir Silva",
+      "opponentSlug": "12929-valdir-silva-dil-furacao",
+      "result": "loss",
+      "method": "dec-majority",
+      "event": "Federação Fight 5",
+      "eventSlug": "48010-federao-fight-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-01T00:00:00.000Z",
+      "opponent": "Flávio Correia",
+      "opponentSlug": "86262-flavio-merrao",
+      "result": "loss",
+      "method": "sub",
+      "event": "Federação Fight 4",
+      "eventSlug": "46676-federao-fight-4",
+      "round": 2,
+      "timeInRound": "2:18"
+    },
+    {
+      "date": "2017-04-08T00:00:00.000Z",
+      "opponent": "Fabio Moreira",
+      "opponentSlug": "64356-fabio-cyborg",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "BH Sparta 11",
+      "eventSlug": "44219-bh-sparta-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-13T00:00:00.000Z",
+      "opponent": "Lucas Rosa",
+      "opponentSlug": "59851-lucas-cisco",
+      "result": "win",
+      "method": "other",
+      "event": "X-Fight MMA 13",
+      "eventSlug": "39671-x-fight-mma-13-gp-2015-finais",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-14T00:00:00.000Z",
+      "opponent": "Flavio Magon",
+      "opponentSlug": "63334-flavio-magon",
+      "result": "win",
+      "method": "dec-split",
+      "event": "X-Fight MMA 12",
+      "eventSlug": "36555-x-fight-mma-12-gp-2015-semi-finais",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-21T00:00:00.000Z",
+      "opponent": "Acácio dos Santos",
+      "opponentSlug": "52834-accio-dos-santos-pequeno",
+      "result": "win",
+      "method": "sub",
+      "event": "X-Fight MMA 11",
+      "eventSlug": "34752-x-fight-mma-gp-2015-2-fase",
+      "round": 1,
+      "timeInRound": "4:00"
+    },
+    {
+      "date": "2015-05-16T00:00:00.000Z",
+      "opponent": "Fabio Moreira",
+      "opponentSlug": "64356-fabio-cyborg",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-12-19T00:00:00.000Z",
+      "opponent": "Marcus Vinicius Lopes",
+      "opponentSlug": "35128-marcuz-vinicius-lopes-montanha",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-11-01T00:00:00.000Z",
+      "opponent": "Douglas Rakchal",
+      "opponentSlug": "51131-douglas-rakchal",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-10-11T00:00:00.000Z",
+      "opponent": "Diogo Silveira",
+      "opponentSlug": "42194-diogo-bebezo",
+      "result": "loss",
+      "method": "sub",
+      "event": "Brasil Fight 7",
+      "eventSlug": "21018-brasil-fight-7",
+      "round": 1,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2013-08-10T00:00:00.000Z",
+      "opponent": "Cristiano Lazzarini",
+      "opponentSlug": "12461-cristiano-lazzarini-titi",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-06-15T00:00:00.000Z",
+      "opponent": "Raphael Caixeta",
+      "opponentSlug": "66790-rafael-caixeta",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-06-30T00:00:00.000Z",
+      "opponent": "Ulisses Mendes",
+      "opponentSlug": "30994-ulisses-mendes",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-03-31T00:00:00.000Z",
+      "opponent": "Edvaldo de Oliveira",
+      "opponentSlug": "15468-edvaldo-jose-de-oliveira-gameth",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-10-22T00:00:00.000Z",
+      "opponent": "Edvaldo de Oliveira",
+      "opponentSlug": "15468-edvaldo-jose-de-oliveira-gameth",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:03:55.751Z"
+}

@@ -1,0 +1,242 @@
+{
+  "slug": "51198-moses-murrietta",
+  "name": "Moses Murrietta",
+  "nickname": "Motown",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 187,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1989-02-15",
+  "nationality": "Fontana, California",
+  "url": "https://www.tapology.com/fightcenter/fighters/51198-moses-murrietta",
+  "recentFights": [
+    {
+      "date": "2024-11-02T00:00:00.000Z",
+      "opponent": "Julius Anglickas",
+      "opponentSlug": "119297-julius-anglickas",
+      "result": "loss",
+      "method": "other",
+      "event": "Mecca 23",
+      "eventSlug": "112724-mecca-23",
+      "round": 3,
+      "timeInRound": "2:47"
+    },
+    {
+      "date": "2024-06-15T00:00:00.000Z",
+      "opponent": "Bruno Casillas",
+      "opponentSlug": "47878-bruno-casillas",
+      "result": "win",
+      "method": "tko",
+      "event": "LXF 17: Aaron vs. Bailey",
+      "eventSlug": "113911-lxf17-aaron-vs-bailey",
+      "round": 1,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2022-07-31T00:00:00.000Z",
+      "opponent": "Nick Kohring",
+      "opponentSlug": "41356-nick-kohring",
+      "result": "loss",
+      "method": "other",
+      "event": "Urijah Faber's A1 Combat 4",
+      "eventSlug": "89972-urijah-faber-s-a1-combat-4-stockton",
+      "round": 1,
+      "timeInRound": "0:21"
+    },
+    {
+      "date": "2021-10-30T00:00:00.000Z",
+      "opponent": "Ozzy Diaz",
+      "opponentSlug": "61676-ozzy-diaz",
+      "result": "loss",
+      "method": "tko",
+      "event": "LXF 6",
+      "eventSlug": "82438-lxf-6",
+      "round": 2,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2021-08-07T00:00:00.000Z",
+      "opponent": "Leon Shahbazyan",
+      "opponentSlug": "99683-leon-shahbazyan",
+      "result": "win",
+      "method": "tko",
+      "event": "LXF 5",
+      "eventSlug": "80692-lxf-5",
+      "round": 1,
+      "timeInRound": "3:01"
+    },
+    {
+      "date": "2020-12-17T00:00:00.000Z",
+      "opponent": "Nah-shon Burrell",
+      "opponentSlug": "14859-Nah-Shon-Burrell",
+      "result": "loss",
+      "method": "tko",
+      "event": "CFFC 90: Huckbody vs. Adams",
+      "eventSlug": "74816-cffc-90",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2020-01-25T00:00:00.000Z",
+      "opponent": "Curtis Millender",
+      "opponentSlug": "52092-curtis-millender",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bellator 238",
+      "eventSlug": "63218-bellator-budd-vs-cyborg",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-08-30T00:00:00.000Z",
+      "opponent": "Lucas Rota",
+      "opponentSlug": "7694-lucas-rota",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 74: Vanderaa vs. Ferreira",
+      "eventSlug": "62077-lfa-74-vanderaa-vs-ferreira",
+      "round": 1,
+      "timeInRound": "0:24"
+    },
+    {
+      "date": "2019-02-22T00:00:00.000Z",
+      "opponent": "Brendan Allen",
+      "opponentSlug": "91516-brendan-allen",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 61: Allen vs. Murrietta",
+      "eventSlug": "58382-lfa-61-allen-vs-murrietta",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-16T00:00:00.000Z",
+      "opponent": "Sidiah Parker",
+      "opponentSlug": "19589-sidiah-parker",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 54: Mazo vs. Yariwaki",
+      "eventSlug": "56062-lfa-54-mazo-vs-yariwaki",
+      "round": 2,
+      "timeInRound": "4:33"
+    },
+    {
+      "date": "2018-07-20T00:00:00.000Z",
+      "opponent": "Casey Ryan",
+      "opponentSlug": "casey-ryan",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 45: Silva vs. Barnes",
+      "eventSlug": "53786-lfa-45-silva-vs-barnes",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2018-01-26T00:00:00.000Z",
+      "opponent": "Chris Herrera",
+      "opponentSlug": "51201-chris-herrera-the-crusher",
+      "result": "win",
+      "method": "tko",
+      "event": "Bellator 193",
+      "eventSlug": "49091-bellator-193",
+      "round": 1,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2017-08-05T00:00:00.000Z",
+      "opponent": "Ruslan Shamilov",
+      "opponentSlug": "120991-ruslan-shamilov",
+      "result": "loss",
+      "method": "other",
+      "event": "M-1 Challenge 82",
+      "eventSlug": "45710-m-1-challenge-82",
+      "round": 1,
+      "timeInRound": "3:10"
+    },
+    {
+      "date": "2017-05-19T00:00:00.000Z",
+      "opponent": "Andrey Seledtsov",
+      "opponentSlug": "86646-andrey-seledtsov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "M-1 Challenge 77",
+      "eventSlug": "45105-m-1-challenge-77-nemkov-vs-marques",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-17T00:00:00.000Z",
+      "opponent": "Blake Troop",
+      "opponentSlug": "80884-blake-troop",
+      "result": "win",
+      "method": "sub",
+      "event": "CXF 5: Night of Champions",
+      "eventSlug": "42156-cxf-5-night-of-champions",
+      "round": 3,
+      "timeInRound": "1:09"
+    },
+    {
+      "date": "2016-04-22T00:00:00.000Z",
+      "opponent": "Matt Spencer",
+      "opponentSlug": "33812-matt-spencer",
+      "result": "win",
+      "method": "other",
+      "event": "CXF 2: Gold Rush",
+      "eventSlug": "39077-california-xtreme-fighting-gold-rush",
+      "round": 1,
+      "timeInRound": "0:51"
+    },
+    {
+      "date": "2016-03-04T00:00:00.000Z",
+      "opponent": "John Gendron",
+      "opponentSlug": "91197-john-gendron",
+      "result": "win",
+      "method": "dec-split",
+      "event": "CXF 1: The Return",
+      "eventSlug": "38258-california-xtreme-fighting-the-comeback",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-09-07T00:00:00.000Z",
+      "opponent": "Howard LaCroix",
+      "opponentSlug": "54392-howard-lacroix",
+      "result": "win",
+      "method": "tko",
+      "event": "BAMMA USA: Pro Series 3",
+      "eventSlug": "20272-bamma-pro-series-3",
+      "round": 1,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2012-11-17T00:00:00.000Z",
+      "opponent": "Brandon Gonzalez",
+      "opponentSlug": "91417-brandon-gonzalez",
+      "result": "win",
+      "method": "other",
+      "event": "XFS: Damage",
+      "eventSlug": "17342-xfs-damage",
+      "round": 2,
+      "timeInRound": "0:27"
+    },
+    {
+      "date": "2011-02-04T00:00:00.000Z",
+      "opponent": "Joey Palemia",
+      "opponentSlug": "16890-joey-palemia",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:02:27.004Z"
+}

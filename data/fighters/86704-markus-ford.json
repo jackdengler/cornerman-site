@@ -1,0 +1,103 @@
+{
+  "slug": "86704-markus-ford",
+  "name": "Markus Ford",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 4,
+    "draws": 0
+  },
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1990-05-29",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/86704-markus-ford",
+  "recentFights": [
+    {
+      "date": "2017-03-31T00:00:00.000Z",
+      "opponent": "David McKinney",
+      "opponentSlug": "86702-david-mckinney",
+      "result": "loss",
+      "method": "sub",
+      "event": "Ascendancy FC 13",
+      "eventSlug": "43668-ascendancy-fc-13",
+      "round": 1,
+      "timeInRound": "0:59"
+    },
+    {
+      "date": "2016-12-23T00:00:00.000Z",
+      "opponent": "Jon Paulson",
+      "opponentSlug": "135311-jon-paulson",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Ascendancy FC 12",
+      "eventSlug": "42943-ascendancy-fc-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-04T00:00:00.000Z",
+      "opponent": "Jeff Jepsen",
+      "opponentSlug": "90161-jeff-jepsen",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Pinnacle Combat 24",
+      "eventSlug": "41570-pinnacle-combat-24",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-22T00:00:00.000Z",
+      "opponent": "Santana Acosta",
+      "opponentSlug": "85224-santana-acosta",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MCC 62",
+      "eventSlug": "41568-mcc-62-huskic-vs-deeds",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-24T00:00:00.000Z",
+      "opponent": "Jacob Walker",
+      "opponentSlug": "123849-jacob-waler",
+      "result": "win",
+      "method": "tko",
+      "event": "Ascendancy FC 11",
+      "eventSlug": "41344-ascendancy-fc-11",
+      "round": 1,
+      "timeInRound": "2:19"
+    },
+    {
+      "date": "2015-11-25T00:00:00.000Z",
+      "opponent": "Dillion Cox",
+      "opponentSlug": "112493-dillion-cox",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "MCC 61: Thanksgiving Throwdown 10",
+      "eventSlug": "36393-mcc-61-mcbride-vs-loffer",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-26T00:00:00.000Z",
+      "opponent": "Josh Thele",
+      "opponentSlug": "61827-josh-thele",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MCC 56: Thanksgiving Throwdown 9",
+      "eventSlug": "27716-mcc-56-thanksgiving-throwdown",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T09:06:23.596Z"
+}

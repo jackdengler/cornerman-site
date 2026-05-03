@@ -1,0 +1,231 @@
+{
+  "slug": "46690-jafel-cavalcante-filho",
+  "name": "Jafel Filho",
+  "nickname": "Pastor",
+  "aliases": [],
+  "recordPro": {
+    "wins": 17,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 174,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1993-05-05",
+  "nationality": "Juazeiro, Bahia, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/46690-jafel-cavalcante-filho",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Lucas Rocha",
+      "opponentSlug": "192343-lucas-rocha-fenomeno",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "140114-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-11T00:00:00.000Z",
+      "opponent": "Clayton Carpenter",
+      "opponentSlug": "92011-clayton-carpenter",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "130995-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "4:42"
+    },
+    {
+      "date": "2025-05-31T00:00:00.000Z",
+      "opponent": "Allan Nascimento",
+      "opponentSlug": "30534-alan-nascimento",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "123251-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-16T00:00:00.000Z",
+      "opponent": "Ode Osbourne",
+      "opponentSlug": "50154-ode-osbourne",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "108288-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "4:27"
+    },
+    {
+      "date": "2023-07-22T00:00:00.000Z",
+      "opponent": "Daniel Barez",
+      "opponentSlug": "67170-daniel-barez",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "99813-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "3:26"
+    },
+    {
+      "date": "2023-03-18T00:00:00.000Z",
+      "opponent": "Muhammad Mokaev",
+      "opponentSlug": "120417-muhammad-mokaev",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "eventSlug": "95408-ufc-286",
+      "round": 3,
+      "timeInRound": "4:32"
+    },
+    {
+      "date": "2022-09-20T00:00:00.000Z",
+      "opponent": "Roybert Echeverria",
+      "opponentSlug": "178232-royberth-echeverria",
+      "result": "win",
+      "method": "other",
+      "event": "Contender Series 2022",
+      "eventSlug": "89502-contender-series-2022-week-9",
+      "round": 3,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2021-12-18T00:00:00.000Z",
+      "opponent": "Dayvison Silva",
+      "opponentSlug": "156652-dayvison-silva-tanque",
+      "result": "win",
+      "method": "sub",
+      "event": "Shooto Brasil 110",
+      "eventSlug": "84731-shooto-brasil-110",
+      "round": 1,
+      "timeInRound": "3:09"
+    },
+    {
+      "date": "2019-05-25T00:00:00.000Z",
+      "opponent": "Vinicius Salvador",
+      "opponentSlug": "95618-vinicius-de-almeida-salvador",
+      "result": "win",
+      "method": "other",
+      "event": "Shooto Brasil 92",
+      "eventSlug": "60598-shooto-brasil-92",
+      "round": 2,
+      "timeInRound": "4:45"
+    },
+    {
+      "date": "2018-05-11T00:00:00.000Z",
+      "opponent": "Weder Aparecido",
+      "opponentSlug": "87602-weder-aparecido-jon-jones",
+      "result": "win",
+      "method": "sub",
+      "event": "Shooto Brasil 83",
+      "eventSlug": "53099-shooto-brasil-83",
+      "round": 1,
+      "timeInRound": "4:15"
+    },
+    {
+      "date": "2018-03-03T00:00:00.000Z",
+      "opponent": "Arys Carvalho",
+      "opponentSlug": "255298-arys-carvalho",
+      "result": "win",
+      "method": "other",
+      "event": "P2 Fight: Muay Thai, MMA e Jiu Jitsu",
+      "eventSlug": "67401-p2-fight-muay-thai-mma-e-jiu-jitsu",
+      "round": 1,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2017-08-27T00:00:00.000Z",
+      "opponent": "Luan Matheus",
+      "opponentSlug": "114733-luan-matheus",
+      "result": "loss",
+      "method": "sub",
+      "event": "Shooto Brasil 74",
+      "eventSlug": "47633-shooto-brasil-74",
+      "round": 3,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2016-12-18T00:00:00.000Z",
+      "opponent": "Eric dos Santos",
+      "opponentSlug": "54596-eric-dos-santos-panterinha",
+      "result": "win",
+      "method": "sub",
+      "event": "Shooto Brasil 68",
+      "eventSlug": "43253-shooto-brasil-68",
+      "round": 2,
+      "timeInRound": "4:30"
+    },
+    {
+      "date": "2015-11-13T00:00:00.000Z",
+      "opponent": "Erikson Faria",
+      "opponentSlug": "72843-erikson-costa",
+      "result": "win",
+      "method": "other",
+      "event": "Shooto Brasil 59",
+      "eventSlug": "36308-shooto-brasil-59",
+      "round": 1,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2015-08-21T00:00:00.000Z",
+      "opponent": "Ricardo Dias",
+      "opponentSlug": "36777-ricardo-dias",
+      "result": "win",
+      "method": "sub",
+      "event": "Shooto Brasil 56",
+      "eventSlug": "34676-shooto-brasil-56",
+      "round": 1,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2014-08-24T00:00:00.000Z",
+      "opponent": "Bruno Korea",
+      "opponentSlug": "55402-bruno-korea",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shooto Brasil 49",
+      "eventSlug": "25470-shooto-brazil-fight-for-bope-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-05-17T00:00:00.000Z",
+      "opponent": "Gleison Matias",
+      "opponentSlug": "67727-gleison-matias-cojack",
+      "result": "win",
+      "method": "sub",
+      "event": "São Francisco Fight 4",
+      "eventSlug": "27921-sao-francisco-fight-4",
+      "round": 1,
+      "timeInRound": "2:43"
+    },
+    {
+      "date": "2014-01-24T00:00:00.000Z",
+      "opponent": "Daniel Rodrigues",
+      "opponentSlug": "62017-daniel-filho",
+      "result": "win",
+      "method": "sub",
+      "event": "Shooto Brasil 46",
+      "eventSlug": "21975-shooto-brazil-46",
+      "round": 3,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2012-12-15T00:00:00.000Z",
+      "opponent": "Ramon Conrado",
+      "opponentSlug": "46689-ramon-conrado",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:53:41.899Z"
+}

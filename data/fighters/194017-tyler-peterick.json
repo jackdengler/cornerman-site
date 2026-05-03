@@ -1,0 +1,220 @@
+{
+  "slug": "194017-tyler-peterick",
+  "name": "Tyler Peterick",
+  "nickname": "The Technician",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1997-11-01",
+  "nationality": "Little Falls, MN",
+  "url": "https://www.tapology.com/fightcenter/fighters/194017-tyler-peterick",
+  "recentFights": [
+    {
+      "date": "2026-04-18T00:00:00.000Z",
+      "opponent": "Jeremy Landowski",
+      "opponentSlug": "291631-jeremy-landowski",
+      "result": null,
+      "method": "other",
+      "event": "3 River Throwdown 26",
+      "eventSlug": "136761-3-river-throwdown-26",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-14T00:00:00.000Z",
+      "opponent": "Melvin Jovel",
+      "opponentSlug": "351346-melvin-jovel",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 222: Pires vs Belakh",
+      "eventSlug": "133539-lfa-222",
+      "round": 1,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2025-09-06T00:00:00.000Z",
+      "opponent": "Gary Konkol",
+      "opponentSlug": "92127-gary-konkol-wildboy",
+      "result": "win",
+      "method": "sub",
+      "event": "NAFC: Summer Slam",
+      "eventSlug": "128060-nafc-summer-slam",
+      "round": 1,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2025-08-16T00:00:00.000Z",
+      "opponent": "Clay Uddley",
+      "opponentSlug": "32978-clay-uddley",
+      "result": "win",
+      "method": "sub",
+      "event": "Ignite Fights 109",
+      "eventSlug": "127306-ignite-fights-109",
+      "round": 1,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2025-04-05T00:00:00.000Z",
+      "opponent": "Travis Karppinen",
+      "opponentSlug": "96609-travis-karppinen",
+      "result": "win",
+      "method": "other",
+      "event": "3 River Throwdown 24",
+      "eventSlug": "119960-3-river-throwdown-24",
+      "round": 1,
+      "timeInRound": "0:20"
+    },
+    {
+      "date": "2025-02-15T00:00:00.000Z",
+      "opponent": "Jeremiah Humphrey",
+      "opponentSlug": "309041-jeremiah-humphrey",
+      "result": "loss",
+      "method": "sub",
+      "event": "Mecca 24",
+      "eventSlug": "118840-mecca-24",
+      "round": 2,
+      "timeInRound": "3:53"
+    },
+    {
+      "date": "2023-10-07T00:00:00.000Z",
+      "opponent": "Sal Schiro",
+      "opponentSlug": "235931-salvatore-schiro",
+      "result": "loss",
+      "method": "sub",
+      "event": "Chosen Few FC 23",
+      "eventSlug": "103308-chosen-few-fc-23",
+      "round": 2,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2023-09-09T00:00:00.000Z",
+      "opponent": "Jonny Mack",
+      "opponentSlug": "146009-jonny-mack",
+      "result": "win",
+      "method": "sub",
+      "event": "3 River Throwdown 21",
+      "eventSlug": "100964-3-river-throwdown-21",
+      "round": 1,
+      "timeInRound": "4:06"
+    },
+    {
+      "date": "2023-04-22T00:00:00.000Z",
+      "opponent": "Coty Milhausen",
+      "opponentSlug": "145994-coty-milhausen",
+      "result": "loss",
+      "method": "sub",
+      "event": "3 River Throwdown 20",
+      "eventSlug": "96602-3-river-throwdown-20",
+      "round": 1,
+      "timeInRound": "4:05"
+    },
+    {
+      "date": "2023-01-28T00:00:00.000Z",
+      "opponent": "Jeremiah Huff",
+      "opponentSlug": "311857-jeremiah-huff",
+      "result": "loss",
+      "method": "sub",
+      "event": "Chosen Few FC 22",
+      "eventSlug": "95001-chosen-few-fc-22",
+      "round": 1,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2022-09-10T00:00:00.000Z",
+      "opponent": "Freddy Rivera",
+      "opponentSlug": "351188-freddy-rivera",
+      "result": "win",
+      "method": "sub",
+      "event": "3 River Throwdown 19",
+      "eventSlug": "89279-3-river-throwdown-19",
+      "round": 3,
+      "timeInRound": "1:56"
+    },
+    {
+      "date": "2022-06-04T00:00:00.000Z",
+      "opponent": "Sal Schiro",
+      "opponentSlug": "235931-salvatore-schiro",
+      "result": "loss",
+      "method": "sub",
+      "event": "NAFC: Summer Slam",
+      "eventSlug": "88933-nafc-summer-slam",
+      "round": 1,
+      "timeInRound": "1:55"
+    },
+    {
+      "date": "2022-04-23T00:00:00.000Z",
+      "opponent": "Thor Crapp",
+      "opponentSlug": "187957-thor-crapp",
+      "result": "win",
+      "method": "sub",
+      "event": "3 River Throwdown 18",
+      "eventSlug": "85492-3-river-throwdown-18",
+      "round": 1,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2022-01-29T00:00:00.000Z",
+      "opponent": "Ky Kalscheur",
+      "opponentSlug": "237458-ky-kalscheur-jelly",
+      "result": "loss",
+      "method": "other",
+      "event": "Chosen Few FC 20",
+      "eventSlug": "84308-chosen-few-fc-20",
+      "round": 2,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2021-10-23T00:00:00.000Z",
+      "opponent": "Beyamin Copeland",
+      "opponentSlug": "216735-beyamin-copeland",
+      "result": "win",
+      "method": "other",
+      "event": "Pure FC 20",
+      "eventSlug": "80231-pure-fc-20",
+      "round": 2,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2021-09-11T00:00:00.000Z",
+      "opponent": "Mike Lunde",
+      "opponentSlug": "237459-mike-lunde",
+      "result": "win",
+      "method": "other",
+      "event": "3 River Throwdown 17",
+      "eventSlug": "78879-3-river-throwdown-17",
+      "round": 1,
+      "timeInRound": "0:07"
+    },
+    {
+      "date": "2019-12-07T00:00:00.000Z",
+      "opponent": "Brian Sullivan",
+      "opponentSlug": "244954-brian-sullivan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Pure FC 16",
+      "eventSlug": "62834-pure-fc-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-15T00:00:00.000Z",
+      "opponent": "Jordan Clark",
+      "opponentSlug": "197639-jordan-clark",
+      "result": "loss",
+      "method": "sub",
+      "event": "Pure FC 14",
+      "eventSlug": "59204-pure-fc-14",
+      "round": 1,
+      "timeInRound": "2:31"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:45:11.386Z"
+}

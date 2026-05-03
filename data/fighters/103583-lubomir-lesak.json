@@ -1,0 +1,77 @@
+{
+  "slug": "103583-lubomir-lesak",
+  "name": "Luboš Lesák",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": 188,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1986-09-01",
+  "nationality": "Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/103583-lubomir-lesak",
+  "recentFights": [
+    {
+      "date": "2022-04-23T00:00:00.000Z",
+      "opponent": "Wojciech Kazieczko",
+      "opponentSlug": "126160-wojciech-kazieczko",
+      "result": "loss",
+      "method": "other",
+      "event": "KSW 69: Przybysz vs. Martins",
+      "eventSlug": "87779-ksw-69",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2021-09-25T00:00:00.000Z",
+      "opponent": "Vladimír Lengál",
+      "opponentSlug": "305714-vladimir-lengal-vlado",
+      "result": "win",
+      "method": "dec-split",
+      "event": "OKTAGON 28",
+      "eventSlug": "81784-oktagon-28",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-07T00:00:00.000Z",
+      "opponent": "Vitaly Baryshnikov",
+      "opponentSlug": "26294-vitaly-baryshnikov",
+      "result": "win",
+      "method": "other",
+      "event": "MMAsters League vol. 3",
+      "eventSlug": "78528-mmasters",
+      "round": 1,
+      "timeInRound": "4:00"
+    },
+    {
+      "date": "2020-05-30T00:00:00.000Z",
+      "opponent": "Jan Pajtaš",
+      "opponentSlug": "261507-jan-pajtas",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Oktagon Underground 3",
+      "eventSlug": "69845-oktagon-underground-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-05-16T00:00:00.000Z",
+      "opponent": "Petr Tesař",
+      "opponentSlug": "221250-petr-tesar",
+      "result": "win",
+      "method": "other",
+      "event": "Oktagon Underground 1",
+      "eventSlug": "69530-oktagon-undergound",
+      "round": 2,
+      "timeInRound": "2:34"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:06:37.772Z"
+}

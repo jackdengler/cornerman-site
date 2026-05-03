@@ -1,0 +1,154 @@
+{
+  "slug": "mamed-khalidov-cannibal",
+  "name": "Mamed Khalidov",
+  "nickname": "Cannibal",
+  "aliases": [],
+  "recordPro": {
+    "wins": 38,
+    "losses": 8,
+    "draws": 2
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 194,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1980-07-17",
+  "nationality": "Grozny, Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/mamed-khalidov-cannibal",
+  "recentFights": [
+    {
+      "date": "2026-04-18T00:00:00.000Z",
+      "opponent": "Paweł Pawlak",
+      "opponentSlug": "58531-pawel-pawlak",
+      "result": null,
+      "method": "other",
+      "event": "KSW 117: Pawlak vs. Khalidov",
+      "eventSlug": "140146-ksw-117-de-fries-vs-wojcik",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-16T00:00:00.000Z",
+      "opponent": "Adrian Bartosiński",
+      "opponentSlug": "170800-adrian-bartosiski",
+      "result": "win",
+      "method": "sub",
+      "event": "KSW 100: Khalidov vs. Bartosiński",
+      "eventSlug": "116517-ksw-100",
+      "round": 2,
+      "timeInRound": "2:48"
+    },
+    {
+      "date": "2023-06-03T00:00:00.000Z",
+      "opponent": "Scott Askham",
+      "opponentSlug": "13953-scott-askham",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 83: Colosseum 2",
+      "eventSlug": "98636-ksw-83-colosseum-2",
+      "round": 3,
+      "timeInRound": "1:03"
+    },
+    {
+      "date": "2022-12-17T00:00:00.000Z",
+      "opponent": "Mariusz Pudzianowski",
+      "opponentSlug": "mariusz-pudzianowski-dominator",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 77: Mamed vs. Pudzian",
+      "eventSlug": "92899-ksw-77",
+      "round": 1,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2021-12-18T00:00:00.000Z",
+      "opponent": "Roberto Soldić",
+      "opponentSlug": "90283-roberto-soldic",
+      "result": "loss",
+      "method": "other",
+      "event": "KSW 65: Khalidov vs. Soldić",
+      "eventSlug": "83664-ksw-65-khalidov-vs-soldic",
+      "round": 2,
+      "timeInRound": "3:40"
+    },
+    {
+      "date": "2020-10-10T00:00:00.000Z",
+      "opponent": "Scott Askham",
+      "opponentSlug": "13953-scott-askham",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 55: Askham vs. Khalidov 2",
+      "eventSlug": "72134-ksw-55",
+      "round": 1,
+      "timeInRound": "0:36"
+    },
+    {
+      "date": "2019-12-07T00:00:00.000Z",
+      "opponent": "Scott Askham",
+      "opponentSlug": "13953-scott-askham",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "KSW 52: Askham vs. Khalidov",
+      "eventSlug": "62927-ksw-52-askhan-vs-mamedov",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-01T00:00:00.000Z",
+      "opponent": "Tomasz Narkun",
+      "opponentSlug": "18008-tomasz-narkun-giraffe",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "KSW 46: Narkun vs. Khalidov 2",
+      "eventSlug": "55779-ksw-46",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-03T00:00:00.000Z",
+      "opponent": "Tomasz Narkun",
+      "opponentSlug": "18008-tomasz-narkun-giraffe",
+      "result": "loss",
+      "method": "sub",
+      "event": "KSW 42: Narkun vs. Khalidov",
+      "eventSlug": "49817-ksw-42",
+      "round": 3,
+      "timeInRound": "1:18"
+    },
+    {
+      "date": "2017-05-27T00:00:00.000Z",
+      "opponent": "Borys Mańkowski",
+      "opponentSlug": "12726-borys-mankowski",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KSW 39: Colosseum",
+      "eventSlug": "43373-ksw-39",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-11T00:00:00.000Z",
+      "opponent": "Luke Barnatt",
+      "opponentSlug": "21203-luke-barnatt-the-bigslow",
+      "result": "win",
+      "method": "other",
+      "event": "ACB 54: Supersonic",
+      "eventSlug": "42959-absolute-championship-berkut-supersonic",
+      "round": 1,
+      "timeInRound": "0:21"
+    },
+    {
+      "date": "2016-05-27T00:00:00.000Z",
+      "opponent": "Aziz Karaoglu",
+      "opponentSlug": "4679-aziz-karaoglu",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "KSW 35: Khalidov vs. Karaoglu",
+      "eventSlug": "37137-ksw-35",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:02:58.501Z"
+}

@@ -1,0 +1,582 @@
+{
+  "slug": "141525-throne-mma-22",
+  "name": "Throne MMA 22: Simons vs. Hummel",
+  "promotion": "Throne MMA",
+  "startTimeUtc": "2026-04-19T00:00:00.000Z",
+  "venueTimezone": null,
+  "venue": "Northern Lights Casino",
+  "location": "Walker, Minnesota, United States",
+  "url": "https://www.tapology.com/fightcenter/events/141525-throne-mma-22",
+  "status": "live",
+  "forumThreadId": "96291",
+  "fights": [
+    {
+      "id": "141525-throne-mma-22#1",
+      "eventSlug": "141525-throne-mma-22",
+      "order": 1,
+      "cardSection": "main",
+      "weightClass": "170 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "31168-gilbert-burns-durinho",
+        "name": "Gilbert Burns",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "22740-mike-malott",
+        "name": "Mike Malott",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "live",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T23:51:27.660Z"
+    },
+    {
+      "id": "141525-throne-mma-22#2",
+      "eventSlug": "141525-throne-mma-22",
+      "order": 2,
+      "cardSection": "main",
+      "weightClass": "135 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "93501-kyler-phillips",
+        "name": "Kyler Phillips",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "36724-charles-jourdain",
+        "name": "Charles Jourdain",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "live",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T23:51:27.660Z"
+    },
+    {
+      "id": "141525-throne-mma-22#3",
+      "eventSlug": "141525-throne-mma-22",
+      "order": 3,
+      "cardSection": "main",
+      "weightClass": "155 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "24751-mandell-nallo",
+        "name": "Mandel Nallo",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "70002-jai-herbert",
+        "name": "Jai Herbert",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "live",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T23:51:27.660Z"
+    },
+    {
+      "id": "141525-throne-mma-22#4",
+      "eventSlug": "141525-throne-mma-22",
+      "order": 4,
+      "cardSection": "main",
+      "weightClass": "125 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "171056-jasmine-jasdavicious",
+        "name": "Jasmine Jasudavicius",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "69225-karine-silva-killer",
+        "name": "Karine Silva",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "live",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T23:51:27.660Z"
+    },
+    {
+      "id": "141525-throne-mma-22#5",
+      "eventSlug": "141525-throne-mma-22",
+      "order": 5,
+      "cardSection": "main",
+      "weightClass": "155 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "49744-thiago-moiss",
+        "name": "Thiago Moisés",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "213571-gauge-young",
+        "name": "Gauge Young",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "live",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T23:51:27.660Z"
+    },
+    {
+      "id": "141525-throne-mma-22#6",
+      "eventSlug": "141525-throne-mma-22",
+      "order": 6,
+      "cardSection": "main",
+      "weightClass": "145 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "126539-marcio-ticot",
+        "name": "Márcio Barbosa",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "131561-dennis-buzukia",
+        "name": "Dennis Buzukja",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T23:51:27.660Z"
+    },
+    {
+      "id": "141525-throne-mma-22#7",
+      "eventSlug": "141525-throne-mma-22",
+      "order": 7,
+      "cardSection": "main",
+      "weightClass": "185 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "136498-robert-valentin",
+        "name": "Robert Valentin",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "24714-julien-leblanc",
+        "name": "Julien Leblanc",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T23:51:27.660Z"
+    },
+    {
+      "id": "141525-throne-mma-22#8",
+      "eventSlug": "141525-throne-mma-22",
+      "order": 8,
+      "cardSection": "main",
+      "weightClass": "265 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "203358-gokhan-saricam",
+        "name": "Gokhan Saricam",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "35149-tanner-boser",
+        "name": "Tanner Boser",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T23:51:27.660Z"
+    },
+    {
+      "id": "141525-throne-mma-22#9",
+      "eventSlug": "141525-throne-mma-22",
+      "order": 9,
+      "cardSection": "main",
+      "weightClass": "135 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "140510-melissa-croden",
+        "name": "Melissa Croden",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "229363-dariya-zheleznyakova",
+        "name": "Darya Zheleznyakova",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T23:51:27.660Z"
+    },
+    {
+      "id": "141525-throne-mma-22#10",
+      "eventSlug": "141525-throne-mma-22",
+      "order": 10,
+      "cardSection": "main",
+      "weightClass": "125 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "28420-jj-aldrich",
+        "name": "JJ Aldrich",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "148703-jamey-lyn-horth",
+        "name": "Jamey-Lyn Horth",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T23:51:27.660Z"
+    },
+    {
+      "id": "141525-throne-mma-22#11",
+      "eventSlug": "141525-throne-mma-22",
+      "order": 11,
+      "cardSection": "main",
+      "weightClass": "139 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "20125-john-castaneda",
+        "name": "John Castañeda",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "202598-mark-vologdin",
+        "name": "Mark Vologdin",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T23:51:27.660Z"
+    },
+    {
+      "id": "141525-throne-mma-22#12",
+      "eventSlug": "141525-throne-mma-22",
+      "order": 12,
+      "cardSection": "main",
+      "weightClass": "135 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "151617-john-yannies",
+        "name": "John Yannis",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "35361-jamie-siraj-the-gremlin",
+        "name": "Jamie Siraj",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T23:51:27.660Z"
+    },
+    {
+      "id": "141525-throne-mma-22#13",
+      "eventSlug": "141525-throne-mma-22",
+      "order": 13,
+      "cardSection": "main",
+      "weightClass": "165 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "102032-ben-simons",
+        "name": "Ben Simons",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "26502-marc-hummel",
+        "name": "Marc Hummel",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T23:51:27.660Z"
+    },
+    {
+      "id": "141525-throne-mma-22#14",
+      "eventSlug": "141525-throne-mma-22",
+      "order": 14,
+      "cardSection": "main",
+      "weightClass": "155 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "210238-koel-seifert",
+        "name": "Koel Seifert",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "308614-brenden-daves",
+        "name": "Brenden Daves",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T23:51:27.660Z"
+    },
+    {
+      "id": "141525-throne-mma-22#15",
+      "eventSlug": "141525-throne-mma-22",
+      "order": 15,
+      "cardSection": "main",
+      "weightClass": "145 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "298536-alexis-flores",
+        "name": "Alexis Flores",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "257011-anteze-howard",
+        "name": "Anteze Howard",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T23:51:27.660Z"
+    },
+    {
+      "id": "141525-throne-mma-22#16",
+      "eventSlug": "141525-throne-mma-22",
+      "order": 16,
+      "cardSection": "main",
+      "weightClass": "155 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "548296-daunte-curry",
+        "name": "Daunte Curry",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "557165-logan-schultz",
+        "name": "Logan Schultz",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T23:51:27.660Z"
+    },
+    {
+      "id": "141525-throne-mma-22#17",
+      "eventSlug": "141525-throne-mma-22",
+      "order": 17,
+      "cardSection": "main",
+      "weightClass": "135 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "448404-anthony-munoz-lequire",
+        "name": "Anthony Lequire",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "448414-jimmy-hilgedick",
+        "name": "Jimmy Hilgedick",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T23:51:27.660Z"
+    },
+    {
+      "id": "141525-throne-mma-22#18",
+      "eventSlug": "141525-throne-mma-22",
+      "order": 18,
+      "cardSection": "main",
+      "weightClass": "195 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "557168-tayden-savage",
+        "name": "Tayden Savage",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "557170-owen-giancola",
+        "name": "Owen Giancola",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T23:51:27.660Z"
+    },
+    {
+      "id": "141525-throne-mma-22#19",
+      "eventSlug": "141525-throne-mma-22",
+      "order": 19,
+      "cardSection": "main",
+      "weightClass": "185 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "557176-will-thompson",
+        "name": "Will Thompson",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "530799-michael-woestehoff",
+        "name": "Michael Woestehoff",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T23:51:27.660Z"
+    },
+    {
+      "id": "141525-throne-mma-22#20",
+      "eventSlug": "141525-throne-mma-22",
+      "order": 20,
+      "cardSection": "main",
+      "weightClass": "145 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "390608-tyler-halleland",
+        "name": "Tyler Halleland",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "456770-jordan-lanzellotti",
+        "name": "Jordan Lanzellotti",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T23:51:27.660Z"
+    },
+    {
+      "id": "141525-throne-mma-22#21",
+      "eventSlug": "141525-throne-mma-22",
+      "order": 21,
+      "cardSection": "main",
+      "weightClass": "145 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "557179-christian-schmidt",
+        "name": "Christian Schmidt",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "550919-dacota-cauthon",
+        "name": "Dacota Cauthon",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-18T23:51:27.660Z"
+    }
+  ],
+  "lastVerified": "2026-04-18T23:51:27.660Z"
+}

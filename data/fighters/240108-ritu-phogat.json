@@ -1,0 +1,154 @@
+{
+  "slug": "240108-ritu-phogat",
+  "name": "Ritu Phogat",
+  "nickname": "The Indian Tigress",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 156,
+  "reachCm": 157,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": "1994-05-02",
+  "nationality": "Balali, India",
+  "url": "https://www.tapology.com/fightcenter/fighters/240108-ritu-phogat",
+  "recentFights": [
+    {
+      "date": "2026-04-29T00:00:00.000Z",
+      "opponent": "Itsuki Hirata",
+      "opponentSlug": "205347-itsuki-hirata",
+      "result": null,
+      "method": "other",
+      "event": "ONE Samurai 1",
+      "eventSlug": "137460-one-175",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-02-20T00:00:00.000Z",
+      "opponent": "Ayaka Miura",
+      "opponentSlug": "68336-miura-ayaka",
+      "result": "loss",
+      "method": "other",
+      "event": "ONE 171: Qatar",
+      "eventSlug": "121167-one-171-haggerty-vs-wei",
+      "round": 1,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2022-09-29T00:00:00.000Z",
+      "opponent": "Tiffany Teo",
+      "opponentSlug": "125681-tiffany-teo",
+      "result": "loss",
+      "method": "sub",
+      "event": "ONE Championship 161",
+      "eventSlug": "92068-one-championship-161-bhullar-vs-malykhin",
+      "round": 1,
+      "timeInRound": "4:52"
+    },
+    {
+      "date": "2021-12-03T00:00:00.000Z",
+      "opponent": "Stamp Fairtex",
+      "opponentSlug": "210910-stamp",
+      "result": "loss",
+      "method": "sub",
+      "event": "ONE Championship",
+      "eventSlug": "82369-one-championship-winter-warriors",
+      "round": 2,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2021-10-29T00:00:00.000Z",
+      "opponent": "Jenelyn Olsim",
+      "opponentSlug": "123764-jennifer-olsim",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE Championship",
+      "eventSlug": "82105-one-championship-nextgen",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-03T00:00:00.000Z",
+      "opponent": "Bo Meng",
+      "opponentSlug": "120312-bo-meng",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE Championship",
+      "eventSlug": "81072-one-championship-10-year-anniversary",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-30T00:00:00.000Z",
+      "opponent": "Heqin Lin",
+      "opponentSlug": "123154-heqin-lin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE Championship",
+      "eventSlug": "81069-one-championship-battleground",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-15T00:00:00.000Z",
+      "opponent": "Bi Nguyen",
+      "opponentSlug": "65715-bi-nguyen-killher-bee",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "ONE Championship",
+      "eventSlug": "78930-one-championship-dangal",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-12-04T00:00:00.000Z",
+      "opponent": "Jomary Torres",
+      "opponentSlug": "138482-jomary-torres",
+      "result": "win",
+      "method": "other",
+      "event": "ONE Championship",
+      "eventSlug": "73344-one-championship-winds-of-change",
+      "round": 1,
+      "timeInRound": "4:55"
+    },
+    {
+      "date": "2020-10-30T00:00:00.000Z",
+      "opponent": "Nou Srey Pov",
+      "opponentSlug": "209729-nou-srey-pov",
+      "result": "win",
+      "method": "other",
+      "event": "ONE Championship",
+      "eventSlug": "73088-one-championship-inside-the-matrix",
+      "round": 2,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2020-02-28T00:00:00.000Z",
+      "opponent": "Chiao Chen Wu",
+      "opponentSlug": "176590-chiao-chen-wu",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE Championship",
+      "eventSlug": "65026-one-championship-king-of-the-jungle",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-16T00:00:00.000Z",
+      "opponent": "Nam Hee Kim",
+      "opponentSlug": "234478-nam-hee-kim",
+      "result": "win",
+      "method": "tko",
+      "event": "ONE Championship",
+      "eventSlug": "63708-one-championship-age-of-dragons",
+      "round": 1,
+      "timeInRound": "3:37"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:07:19.718Z"
+}

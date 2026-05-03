@@ -1,0 +1,90 @@
+{
+  "slug": "453418-saynarvat-srisawat",
+  "name": "Saynarvat Srisawat",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "New Zealand",
+  "url": "https://www.tapology.com/fightcenter/fighters/453418-saynarvat-srisawat",
+  "recentFights": [
+    {
+      "date": "2025-03-08T00:00:00.000Z",
+      "opponent": "Ollie Schmid",
+      "opponentSlug": "237487-oliver-schmid",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shuriken Fight Series 20",
+      "eventSlug": "123099-shuriken-fight-series-20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-07T00:00:00.000Z",
+      "opponent": "Artemios Trepca",
+      "opponentSlug": "362314-artemios-trepca-arte",
+      "result": "loss",
+      "method": "sub",
+      "event": "HEX Fight Series 32",
+      "eventSlug": "115236-hex-fight-series-32",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-07-27T00:00:00.000Z",
+      "opponent": "Roy Armistead",
+      "opponentSlug": "254924-roy-armistead",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shuriken Fight Series 18",
+      "eventSlug": "110330-shuriken-fight-series-18",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "allFights": [
+    {
+      "date": "2025-03-08T00:00:00.000Z",
+      "opponent": "Ollie Schmid",
+      "opponentSlug": "237487-oliver-schmid",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shuriken Fight Series 20",
+      "eventSlug": "123099-shuriken-fight-series-20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-07T00:00:00.000Z",
+      "opponent": "Artemios Trepca",
+      "opponentSlug": "362314-artemios-trepca-arte",
+      "result": "loss",
+      "method": "sub",
+      "event": "HEX Fight Series 32",
+      "eventSlug": "115236-hex-fight-series-32",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-07-27T00:00:00.000Z",
+      "opponent": "Roy Armistead",
+      "opponentSlug": "254924-roy-armistead",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shuriken Fight Series 18",
+      "eventSlug": "110330-shuriken-fight-series-18",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-05-03T08:57:46.741Z"
+}

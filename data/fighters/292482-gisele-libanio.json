@@ -1,0 +1,110 @@
+{
+  "slug": "292482-gisele-libanio",
+  "name": "Gisele Libânio",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 166,
+  "reachCm": 172,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/292482-gisele-libanio",
+  "recentFights": [
+    {
+      "date": "2025-10-11T00:00:00.000Z",
+      "opponent": "Angela Rosa",
+      "opponentSlug": "256001-angela-rosa",
+      "result": "win",
+      "method": "sub",
+      "event": "Gladiator's Fight 7",
+      "eventSlug": "134368-gladiator-s-fight-7",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-12-13T00:00:00.000Z",
+      "opponent": "Leidiane Fernandes",
+      "opponentSlug": "271498-leidiane-fernandes",
+      "result": "loss",
+      "method": "other",
+      "event": "Shooto Brasil 127",
+      "eventSlug": "120774-shooto-brasil-127",
+      "round": 1,
+      "timeInRound": "3:47"
+    },
+    {
+      "date": "2024-05-25T00:00:00.000Z",
+      "opponent": "Kennedy Freeman",
+      "opponentSlug": "121637-kennedy-freeman",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 172",
+      "eventSlug": "108296-cage-warriors-172",
+      "round": 3,
+      "timeInRound": "3:08"
+    },
+    {
+      "date": "2024-03-09T00:00:00.000Z",
+      "opponent": "Thayana Barboza",
+      "opponentSlug": "286181-thayana-barboza",
+      "result": "win",
+      "method": "other",
+      "event": "Arena Global 29",
+      "eventSlug": "109481-arena-global-29",
+      "round": 1,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2023-10-07T00:00:00.000Z",
+      "opponent": "Monica Silva",
+      "opponentSlug": "267535-monica-silva",
+      "result": "win",
+      "method": "sub",
+      "event": "Arena Global 27",
+      "eventSlug": "105415-arena-global-27",
+      "round": 1,
+      "timeInRound": "3:50"
+    },
+    {
+      "date": "2023-06-17T00:00:00.000Z",
+      "opponent": "Nágila Bruna",
+      "opponentSlug": "298280-nagila-bruno-goku",
+      "result": "loss",
+      "method": "tko",
+      "event": "SFT 41: Vargas vs França",
+      "eventSlug": "102072-sft-41-vargas-vs-ursa",
+      "round": 1,
+      "timeInRound": "2:43"
+    },
+    {
+      "date": "2022-10-29T00:00:00.000Z",
+      "opponent": "Luana Diniz",
+      "opponentSlug": "320224-luana-diniz",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "SFT Outubro Rosa 5",
+      "eventSlug": "94153-sft-outubro-rosa-5-rainhas-do-combate",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-18T00:00:00.000Z",
+      "opponent": "Brenda Kauany",
+      "opponentSlug": "354365-brenda-kauany",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Club MMA Amador 20",
+      "eventSlug": "91813-fight-club-mma-amador-20",
+      "round": 1,
+      "timeInRound": "0:32"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:02:55.499Z"
+}

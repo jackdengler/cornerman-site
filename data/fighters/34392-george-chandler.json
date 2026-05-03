@@ -1,0 +1,114 @@
+{
+  "slug": "34392-george-chandler",
+  "name": "George Chandler",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 4,
+    "losses": 4,
+    "draws": 0
+  },
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1990-06-29",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/34392-george-chandler",
+  "recentFights": [
+    {
+      "date": "2015-10-23T00:00:00.000Z",
+      "opponent": "Ivey Nixon",
+      "opponentSlug": "88439-ivey-nixon",
+      "result": "loss",
+      "method": "tko",
+      "event": "VFC Fight Night 6",
+      "eventSlug": "35817-vfc-fight-night-6",
+      "round": 1,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2015-09-12T00:00:00.000Z",
+      "opponent": "Nicholas Grado",
+      "opponentSlug": "111816-nicholas-grado",
+      "result": "win",
+      "method": "other",
+      "event": "NMEF: Annihilation 55",
+      "eventSlug": "34966-nmef-annihilation-55",
+      "round": 1,
+      "timeInRound": "0:13"
+    },
+    {
+      "date": "2015-03-21T00:00:00.000Z",
+      "opponent": "Andrew Hathaway",
+      "opponentSlug": "42310-andrew-hathaway",
+      "result": "loss",
+      "method": "dec-majority",
+      "event": "NMEF Annihilation 54",
+      "eventSlug": "30822-nmef-annihilation-54",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-01-17T00:00:00.000Z",
+      "opponent": "Donnie Bonini",
+      "opponentSlug": "52870-donny-bonini",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "NMEF Annihilation 53",
+      "eventSlug": "28831-nmef-annihilation-53",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-09-13T00:00:00.000Z",
+      "opponent": "Joaquin Buckley",
+      "opponentSlug": "55022-joaquin-buckley",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UBCB: Battle for the Belts 2",
+      "eventSlug": "20155-ultimate-blue-corner-battles-battle-for-the-belts-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-08-24T00:00:00.000Z",
+      "opponent": "Cody Sherwood",
+      "opponentSlug": "cody-sherwood-tha-truth",
+      "result": "win",
+      "method": "dec-split",
+      "event": "VFC Fight Night 4",
+      "eventSlug": "19812-vfc-fight-night-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-02-09T00:00:00.000Z",
+      "opponent": "John Griekspoor",
+      "opponentSlug": "30854-john-griekspoor-big-john",
+      "result": "win",
+      "method": "tko",
+      "event": "VFC: Fight Night 3",
+      "eventSlug": "17484-victory-fc-fight-night-3",
+      "round": 1,
+      "timeInRound": "0:19"
+    },
+    {
+      "date": "2012-09-08T00:00:00.000Z",
+      "opponent": "Derek Holly",
+      "opponentSlug": "32075-derek-holly",
+      "result": "loss",
+      "method": "sub",
+      "event": "Battle at the Fort 7",
+      "eventSlug": "15107-battle-at-the-fort-7",
+      "round": 1,
+      "timeInRound": "2:16"
+    }
+  ],
+  "lastVerified": "2026-04-25T23:00:33.212Z"
+}

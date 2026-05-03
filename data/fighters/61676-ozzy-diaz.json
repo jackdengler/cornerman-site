@@ -1,0 +1,253 @@
+{
+  "slug": "61676-ozzy-diaz",
+  "name": "Ozzy Diaz",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 193,
+  "reachCm": 201,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1990-11-22",
+  "nationality": "Los Angeles, California, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/61676-ozzy-diaz",
+  "recentFights": [
+    {
+      "date": "2026-05-09T00:00:00.000Z",
+      "opponent": "Ateba Gautier",
+      "opponentSlug": "283766-ateba-abega-gautier",
+      "result": null,
+      "method": "other",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "eventSlug": "140614-ufc-328",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-08T00:00:00.000Z",
+      "opponent": "Djorden Santos",
+      "opponentSlug": "67529-diorden-maguila",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 313: Pereira vs. Ankalaev",
+      "eventSlug": "120488-ufc-313",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-23T00:00:00.000Z",
+      "opponent": "Mingyang Zhang",
+      "opponentSlug": "102827-mingyang-zhang",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "116899-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2024-05-17T00:00:00.000Z",
+      "opponent": "Bevon Lewis",
+      "opponentSlug": "49806-bevon-lewis",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 184: Diaz vs. Lewis",
+      "eventSlug": "111877-lfa-184",
+      "round": 2,
+      "timeInRound": "3:24"
+    },
+    {
+      "date": "2024-03-08T00:00:00.000Z",
+      "opponent": "Chuck Campbell",
+      "opponentSlug": "193701-chuck-campbell",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 178: Satybaldiev vs. Assis",
+      "eventSlug": "109363-legacy-fighting-alliance-178-lfa-178",
+      "round": 1,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2022-07-26T00:00:00.000Z",
+      "opponent": "Joe Pyfer",
+      "opponentSlug": "144942-joseph-pyfer",
+      "result": "loss",
+      "method": "other",
+      "event": "Contender Series 2022",
+      "eventSlug": "89493-contender-series-2022-week-1",
+      "round": 2,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2022-03-25T00:00:00.000Z",
+      "opponent": "Bruno Assis",
+      "opponentSlug": "99877-bruno-assis",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 127: Diaz vs. Assis",
+      "eventSlug": "87442-lfa-127-diaz-vs-assis",
+      "round": 1,
+      "timeInRound": "4:53"
+    },
+    {
+      "date": "2021-10-30T00:00:00.000Z",
+      "opponent": "Moses Murrietta",
+      "opponentSlug": "51198-moses-murrietta",
+      "result": "win",
+      "method": "tko",
+      "event": "LXF 6",
+      "eventSlug": "82438-lxf-6",
+      "round": 2,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2020-10-30T00:00:00.000Z",
+      "opponent": "Logan Woods",
+      "opponentSlug": "86478-logan-woods",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 94: Demopoulos vs. Godinez",
+      "eventSlug": "73377-lfa-94-demopoulos-vs-godinez",
+      "round": 1,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2019-09-28T00:00:00.000Z",
+      "opponent": "Andre Walker",
+      "opponentSlug": "36198-andre-walker",
+      "result": "win",
+      "method": "sub",
+      "event": "Bellator 228",
+      "eventSlug": "61700-bellator-228-pitbull-vs-archuleta",
+      "round": 1,
+      "timeInRound": "3:05"
+    },
+    {
+      "date": "2019-01-26T00:00:00.000Z",
+      "opponent": "Christopher Reyes",
+      "opponentSlug": "208295-christopher-reyes",
+      "result": "win",
+      "method": "tko",
+      "event": "Bellator 214",
+      "eventSlug": "55750-bellator",
+      "round": 1,
+      "timeInRound": "4:15"
+    },
+    {
+      "date": "2018-02-15T00:00:00.000Z",
+      "opponent": "Santiago Diaz",
+      "opponentSlug": "76417-santiago-diaz",
+      "result": "loss",
+      "method": "tko",
+      "event": "Fight Club OC",
+      "eventSlug": "51130-fcoc-50",
+      "round": 1,
+      "timeInRound": "0:15"
+    },
+    {
+      "date": "2017-12-07T00:00:00.000Z",
+      "opponent": "Saad Ul-Hasan",
+      "opponentSlug": "48933-saad-ul-hassan",
+      "result": "win",
+      "method": "tko",
+      "event": "Fight Club OC",
+      "eventSlug": "117471-fight-club-oc-thursday-night-fights-42",
+      "round": 2,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2015-06-14T00:00:00.000Z",
+      "opponent": "Leon Klee",
+      "opponentSlug": "49766-leon-klee",
+      "result": "win",
+      "method": "sub",
+      "event": "KOTC: Sanctioned",
+      "eventSlug": "33098-kotc-sanctioned",
+      "round": 1,
+      "timeInRound": "2:31"
+    },
+    {
+      "date": "2014-12-12T00:00:00.000Z",
+      "opponent": "Oscar Castro",
+      "opponentSlug": "66858-oscar-castro",
+      "result": "win",
+      "method": "sub",
+      "event": "559 Fights 31",
+      "eventSlug": "28651-559-fights-camo-state-finals",
+      "round": 3,
+      "timeInRound": "0:36"
+    },
+    {
+      "date": "2014-09-13T00:00:00.000Z",
+      "opponent": "Bruno Casillas",
+      "opponentSlug": "47878-bruno-casillas",
+      "result": "win",
+      "method": "sub",
+      "event": "Get Down Fights 14",
+      "eventSlug": "26434-get-down-fights-14-camo-2014-southern-california-state-championships",
+      "round": 2,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2014-06-01T00:00:00.000Z",
+      "opponent": "Dominick Reyes",
+      "opponentSlug": "61438-dominick-reyes",
+      "result": "loss",
+      "method": "sub",
+      "event": "University of MMA",
+      "eventSlug": "24142-university-of-mma-fight-night-7",
+      "round": 1,
+      "timeInRound": "0:27"
+    },
+    {
+      "date": "2014-03-30T00:00:00.000Z",
+      "opponent": "Jerell Cephas",
+      "opponentSlug": "47880-jerell-cephas",
+      "result": "win",
+      "method": "tko",
+      "event": "University of MMA",
+      "eventSlug": "22378-university-of-mma-fight-night-6",
+      "round": 1,
+      "timeInRound": "0:18"
+    },
+    {
+      "date": "2014-02-09T00:00:00.000Z",
+      "opponent": "Samuelray Barrera",
+      "opponentSlug": "61675-samuelray-barrera",
+      "result": "win",
+      "method": "other",
+      "event": "University of MMA",
+      "eventSlug": "22181-university-of-mma-fight-night-5",
+      "round": 2,
+      "timeInRound": "2:05"
+    },
+    {
+      "date": "2013-12-08T00:00:00.000Z",
+      "opponent": "Joshua Neal",
+      "opponentSlug": "47877-joshua-neal",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-08-25T00:00:00.000Z",
+      "opponent": "Jens Grau",
+      "opponentSlug": "47879-jens-grau",
+      "result": "loss",
+      "method": "tko",
+      "event": "University of MMA",
+      "eventSlug": "25010-university-of-mma-fight-night-3",
+      "round": 2,
+      "timeInRound": "1:23"
+    }
+  ],
+  "lastVerified": "2026-04-25T21:53:47.512Z"
+}

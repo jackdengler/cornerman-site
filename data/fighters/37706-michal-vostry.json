@@ -1,0 +1,209 @@
+{
+  "slug": "37706-michal-vostry",
+  "name": "Michal Vostry",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 11,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/37706-michal-vostry",
+  "recentFights": [
+    {
+      "date": "2022-06-17T00:00:00.000Z",
+      "opponent": "František Bočáň",
+      "opponentSlug": "167170-frantisek-bocan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "I Am Fighter 5",
+      "eventSlug": "91129-i-am-fighter-5-the-king-of-pilsen",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-01-27T00:00:00.000Z",
+      "opponent": "Pavel Šusta",
+      "opponentSlug": "83156-pavel-usta",
+      "result": "loss",
+      "method": "sub",
+      "event": "GCF 47: Cage Fight Nymburk 3",
+      "eventSlug": "58109-gcf-47-cage-fight-nymburk",
+      "round": 1,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2018-02-23T00:00:00.000Z",
+      "opponent": "Jiří Holeček",
+      "opponentSlug": "111229-ji-holeek",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XFN 7: Back in the Fight",
+      "eventSlug": "48503-xfn-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-27T00:00:00.000Z",
+      "opponent": "David Kozma",
+      "opponentSlug": "18860-david-kozma-nestling",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-01-22T00:00:00.000Z",
+      "opponent": "Patrick Manicad",
+      "opponentSlug": "20759-patrick-manicad",
+      "result": "win",
+      "method": "other",
+      "event": "UGB MMA Championship 13",
+      "eventSlug": "37732-ugb-mma-championship-13-foreign-invasion",
+      "round": 1,
+      "timeInRound": "0:41"
+    },
+    {
+      "date": "2016-01-10T00:00:00.000Z",
+      "opponent": "Will Chope",
+      "opponentSlug": "16337-will-chope-the-kill",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Full Metal Dojo 8",
+      "eventSlug": "37614-full-metal-dojo-8-return-of-the-mack",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-22T00:00:00.000Z",
+      "opponent": "Baz Mohammad",
+      "opponentSlug": "38927-baz-muhammad-mubarez",
+      "result": "loss",
+      "method": "sub",
+      "event": "Road To Abu Dhabi Warriors",
+      "eventSlug": "34726-elite-fight-night-2015-grand-opening",
+      "round": 2,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2015-03-19T00:00:00.000Z",
+      "opponent": "Artem Kortov",
+      "opponentSlug": "34781-artem-kortov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bitva Roku 2015",
+      "eventSlug": "31168-bitva-roku-2015",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-10-18T00:00:00.000Z",
+      "opponent": "Alexey Gannenko",
+      "opponentSlug": "57706-alexey-gannenko",
+      "result": "loss",
+      "method": "sub",
+      "event": "Scythian Gold 2014",
+      "eventSlug": "27907-scythian-gold",
+      "round": 2,
+      "timeInRound": "3:34"
+    },
+    {
+      "date": "2014-03-21T00:00:00.000Z",
+      "opponent": "Ivan Ivanka Jr.",
+      "opponentSlug": "82412-ivan-ivanka-jr",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-12-10T00:00:00.000Z",
+      "opponent": "Aleš Ježíšek",
+      "opponentSlug": "32864-ales-jezisek",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-10-06T00:00:00.000Z",
+      "opponent": "Jan Malach",
+      "opponentSlug": "64719-jan-malach",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-06-01T00:00:00.000Z",
+      "opponent": "Milan Ďatelinka",
+      "opponentSlug": "84831-milan-datelinka",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-05-16T00:00:00.000Z",
+      "opponent": "Akram Benali",
+      "opponentSlug": "47999-akram-benali",
+      "result": "win",
+      "method": "other",
+      "event": "Noc Valecniku 6",
+      "eventSlug": "124515-warriors-night-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-02-15T00:00:00.000Z",
+      "opponent": "Ladislav Erdelyi Jr.",
+      "opponentSlug": "36761-ladislav-erdelyi",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-05-20T00:00:00.000Z",
+      "opponent": "David Ziopulos",
+      "opponentSlug": "37698-david-ziopulos",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-09-16T00:00:00.000Z",
+      "opponent": "David Ziopulos",
+      "opponentSlug": "37698-david-ziopulos",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:08:27.599Z"
+}

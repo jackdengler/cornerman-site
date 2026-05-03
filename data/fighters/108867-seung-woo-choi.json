@@ -1,0 +1,242 @@
+{
+  "slug": "108867-seung-woo-choi",
+  "name": "Seung Woo Choi",
+  "nickname": "Sting",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 189,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1992-11-03",
+  "nationality": "South Korea",
+  "url": "https://www.tapology.com/fightcenter/fighters/108867-seung-woo-choi",
+  "recentFights": [
+    {
+      "date": "2025-03-15T00:00:00.000Z",
+      "opponent": "Kevin Vallejos",
+      "opponentSlug": "227542-kevin-vallejos",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "120489-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "3:09"
+    },
+    {
+      "date": "2024-07-20T00:00:00.000Z",
+      "opponent": "Steve Garcia",
+      "opponentSlug": "41407-steve-garcia-jr",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "112783-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2023-08-26T00:00:00.000Z",
+      "opponent": "Jarno Errens",
+      "opponentSlug": "112766-jarno-errens",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "101389-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-12T00:00:00.000Z",
+      "opponent": "Michael Trizano",
+      "opponentSlug": "64126-michael-trizano",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 281: Adesanya vs. Pereira",
+      "eventSlug": "91828-ufc-281",
+      "round": 1,
+      "timeInRound": "4:51"
+    },
+    {
+      "date": "2022-06-11T00:00:00.000Z",
+      "opponent": "Josh Culibao",
+      "opponentSlug": "101823-joshua-culibao",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC 275: Teixeira vs. Procházka",
+      "eventSlug": "87286-ufc-275-teixeira-vs-prochazka",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-23T00:00:00.000Z",
+      "opponent": "Alex Caceres",
+      "opponentSlug": "alex-caceres-bruce-leroy",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "81267-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "3:31"
+    },
+    {
+      "date": "2021-06-19T00:00:00.000Z",
+      "opponent": "Julian Erosa",
+      "opponentSlug": "18497-julian-erosa",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "77656-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2021-02-06T00:00:00.000Z",
+      "opponent": "Youssef Zalal",
+      "opponentSlug": "110826-youssef-zalaal",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "73411-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-21T00:00:00.000Z",
+      "opponent": "Suman Mokhtarian",
+      "opponentSlug": "60742-suman-mokhtarian",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC on ESPN+ 23",
+      "eventSlug": "60327-ufc-on-espn-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-27T00:00:00.000Z",
+      "opponent": "Gavin Tucker",
+      "opponentSlug": "20605-gavin-tucker",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC 240: Holloway vs. Edgar",
+      "eventSlug": "59521-ufc-240",
+      "round": 3,
+      "timeInRound": "3:17"
+    },
+    {
+      "date": "2019-04-20T00:00:00.000Z",
+      "opponent": "Movsar Evloev",
+      "opponentSlug": "85897-movsar-evloev",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC on ESPN+ 7",
+      "eventSlug": "57505-ufc-on-espn-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-09T00:00:00.000Z",
+      "opponent": "Jae Woong Kim",
+      "opponentSlug": "50347-jae-ung-kim",
+      "result": "win",
+      "method": "other",
+      "event": "TFC 16",
+      "eventSlug": "48970-tfc-16",
+      "round": 2,
+      "timeInRound": "2:47"
+    },
+    {
+      "date": "2017-07-22T00:00:00.000Z",
+      "opponent": "Young Bok Kil",
+      "opponentSlug": "14796-young-bok-gil",
+      "result": "win",
+      "method": "other",
+      "event": "TFC 15",
+      "eventSlug": "45779-tfc-15",
+      "round": 1,
+      "timeInRound": "1:33"
+    },
+    {
+      "date": "2017-03-18T00:00:00.000Z",
+      "opponent": "Jae Woong Kim",
+      "opponentSlug": "50347-jae-ung-kim",
+      "result": "loss",
+      "method": "other",
+      "event": "TFC 14: Woo vs Woong",
+      "eventSlug": "43958-tfc-14",
+      "round": 1,
+      "timeInRound": "0:36"
+    },
+    {
+      "date": "2016-09-11T00:00:00.000Z",
+      "opponent": "Min Gu Lee",
+      "opponentSlug": "50348-min-goo-i",
+      "result": "win",
+      "method": "other",
+      "event": "TFC 12: Min Gu vs Seung Woo",
+      "eventSlug": "41086-top-fc-12",
+      "round": 4,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2016-04-30T00:00:00.000Z",
+      "opponent": "Rocky Lee",
+      "opponentSlug": "27661-rocky-lee",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Art of War 17",
+      "eventSlug": "39036-art-of-war-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-03-19T00:00:00.000Z",
+      "opponent": "Tae Seok Oh",
+      "opponentSlug": "111897-tae-seok-oh",
+      "result": "win",
+      "method": "other",
+      "event": "Top FC 10",
+      "eventSlug": "37996-top-fc-10",
+      "round": 1,
+      "timeInRound": "1:55"
+    },
+    {
+      "date": "2015-10-04T00:00:00.000Z",
+      "opponent": "Nurzhan Tutkaev",
+      "opponentSlug": "94756-nurjan-tutkoev",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Kunlun Fight",
+      "eventSlug": "35830-kunlun-fight-cage-fight-series-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-15T00:00:00.000Z",
+      "opponent": "Tae Seung Yoon",
+      "opponentSlug": "81234-tae-seung-yoon",
+      "result": "win",
+      "method": "other",
+      "event": "Top FC 8: Heart of a Champion",
+      "eventSlug": "33810-top-fc-8",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2015-06-27T00:00:00.000Z",
+      "opponent": "Dong Kwon Choi",
+      "opponentSlug": "88557-dong-kwon-choi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Top FC Khan Amateur League 10",
+      "eventSlug": "34901-top-fc-khan-amateur-league-10",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:32:29.680Z"
+}

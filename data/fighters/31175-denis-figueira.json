@@ -1,0 +1,99 @@
+{
+  "slug": "31175-denis-figueira",
+  "name": "Dennis Figueira",
+  "nickname": "Pe Roxo",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/31175-denis-figueira",
+  "recentFights": [
+    {
+      "date": "2012-10-20T00:00:00.000Z",
+      "opponent": "Rodrigo Bahiana",
+      "opponentSlug": "65898-rodrigo-bomba",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-10-06T00:00:00.000Z",
+      "opponent": "Gabriel Fonseca",
+      "opponentSlug": "110927-gabriel-fonseca",
+      "result": "nc",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-09-22T00:00:00.000Z",
+      "opponent": "Thiago Moisés",
+      "opponentSlug": "49744-thiago-moiss",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-07-27T00:00:00.000Z",
+      "opponent": "Thiago Santos",
+      "opponentSlug": "31174-thiago-santos-marreta",
+      "result": "loss",
+      "method": "other",
+      "event": "WOCS 20",
+      "eventSlug": "14838-wocs-20",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-04-21T00:00:00.000Z",
+      "opponent": "Silvio da Silva",
+      "opponentSlug": "64338-silvio-jose-da-silva",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-01-21T00:00:00.000Z",
+      "opponent": "Javier Torres",
+      "opponentSlug": "17065-javier-torres",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-06-11T00:00:00.000Z",
+      "opponent": "Bruno Lobato",
+      "opponentSlug": "16290-bruno-lobato-cro-cop",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:11:53.577Z"
+}

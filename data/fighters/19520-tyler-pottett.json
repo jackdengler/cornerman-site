@@ -1,0 +1,33 @@
+{
+  "slug": "19520-tyler-pottett",
+  "name": "Tyler Pottett",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/19520-tyler-pottett",
+  "recentFights": [
+    {
+      "date": "2008-03-22T00:00:00.000Z",
+      "opponent": "Sean Strickland",
+      "opponentSlug": "6055-sean-strickland-tarzan",
+      "result": "loss",
+      "method": "sub",
+      "event": "KOTC Underground 20",
+      "eventSlug": "8796-kotc-protege",
+      "round": 2,
+      "timeInRound": "1:53"
+    }
+  ],
+  "lastVerified": "2026-04-25T22:58:52.347Z"
+}

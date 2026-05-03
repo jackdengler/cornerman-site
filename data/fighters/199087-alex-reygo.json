@@ -1,0 +1,253 @@
+{
+  "slug": "199087-alex-reygo",
+  "name": "Alex Rego",
+  "nickname": "The Puerto Rican Demon",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1997-02-02",
+  "nationality": "Chicago, Illinois",
+  "url": "https://www.tapology.com/fightcenter/fighters/199087-alex-reygo",
+  "recentFights": [
+    {
+      "date": "2026-05-22T00:00:00.000Z",
+      "opponent": "Aaron Ward",
+      "opponentSlug": "325005-aaron-ward",
+      "result": null,
+      "method": "other",
+      "event": "Motor City Cagefights 24",
+      "eventSlug": "141956-motor-city-cagefights-24",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-12-20T00:00:00.000Z",
+      "opponent": "Mario Suazo",
+      "opponentSlug": "47809-mario-suazo",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Colorado Combat Club 27",
+      "eventSlug": "135853-colorado-combat-club-27",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-08-15T00:00:00.000Z",
+      "opponent": "Micah Haas",
+      "opponentSlug": "250782-micah-haas",
+      "result": "loss",
+      "method": "tko",
+      "event": "Colorado Combat Club 25",
+      "eventSlug": "130017-colorado-combat-club-25",
+      "round": 1,
+      "timeInRound": "0:13"
+    },
+    {
+      "date": "2025-03-01T00:00:00.000Z",
+      "opponent": "Juan Rosales",
+      "opponentSlug": "310126-juan-rosales",
+      "result": "win",
+      "method": "sub",
+      "event": "Colorado Combat Club 23",
+      "eventSlug": "120954-colorado-combat-club-23",
+      "round": 2,
+      "timeInRound": "3:09"
+    },
+    {
+      "date": "2024-10-05T00:00:00.000Z",
+      "opponent": "Moziah Clark",
+      "opponentSlug": "309785-moziah-clark",
+      "result": "win",
+      "method": "other",
+      "event": "Chosen Few FC 25",
+      "eventSlug": "116231-chosen-few-fc-25",
+      "round": 1,
+      "timeInRound": "1:11"
+    },
+    {
+      "date": "2024-08-03T00:00:00.000Z",
+      "opponent": "Austin Soileau",
+      "opponentSlug": "233194-austin-soileau",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Peak Fighting 38",
+      "eventSlug": "112683-peak-fighting-38",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-15T00:00:00.000Z",
+      "opponent": "Juan Rosales",
+      "opponentSlug": "310126-juan-rosales",
+      "result": "loss",
+      "method": "other",
+      "event": "Colorado Combat Club 21",
+      "eventSlug": "107105-colorado-combat-club-21",
+      "round": 3,
+      "timeInRound": "0:14"
+    },
+    {
+      "date": "2023-10-13T00:00:00.000Z",
+      "opponent": "Jay Ponder",
+      "opponentSlug": "179907-jay-ponder",
+      "result": "win",
+      "method": "other",
+      "event": "Colorado Combat Club 20",
+      "eventSlug": "105068-colorado-combat-club-20",
+      "round": 2,
+      "timeInRound": "3:18"
+    },
+    {
+      "date": "2023-04-16T00:00:00.000Z",
+      "opponent": "Micah Haas",
+      "opponentSlug": "250782-micah-haas",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Fury FC 77: Gamble vs. Cunningham",
+      "eventSlug": "96725-fury-fc-77",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-17T00:00:00.000Z",
+      "opponent": "Diara Culpepper",
+      "opponentSlug": "185828-diara-culpepper",
+      "result": "loss",
+      "method": "other",
+      "event": "Fury FC 75: Cutts vs. Hafez",
+      "eventSlug": "96723-fury-fc-75",
+      "round": 1,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2022-10-23T00:00:00.000Z",
+      "opponent": "Hayden Briers",
+      "opponentSlug": "295636-hayden-briers",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fury Challenger Series 1",
+      "eventSlug": "91560-fury-challenger-series-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-19T00:00:00.000Z",
+      "opponent": "Aeneas Renfrow",
+      "opponentSlug": "215542-aeneas-renfrow",
+      "result": "win",
+      "method": "sub",
+      "event": "MCF 22: St. Paddy's Beatdown 10",
+      "eventSlug": "86134-mcf-22-st-paddy-s-beatdown",
+      "round": 1,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2021-10-29T00:00:00.000Z",
+      "opponent": "Joseph Her",
+      "opponentSlug": "275801-joseph-her",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Mile High MMAyhem",
+      "eventSlug": "83553-mile-high-mmayhem",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-05T00:00:00.000Z",
+      "opponent": "Gabriel Arroyo",
+      "opponentSlug": "55985-gabriel-arroyo",
+      "result": "win",
+      "method": "dec-split",
+      "event": "EAFL: Steel City Showdown",
+      "eventSlug": "78080-eafl-steel-city-showdown",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-10T00:00:00.000Z",
+      "opponent": "Jesse Martinelli",
+      "opponentSlug": "191249-jesse-martinelli",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Colosseum Combat 53",
+      "eventSlug": "76244-colosseum-combat-53",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-07T00:00:00.000Z",
+      "opponent": "Jordan Santiago",
+      "opponentSlug": "202329-jordan-santiago",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "HFC 42",
+      "eventSlug": "65325-hfc-42",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-15T00:00:00.000Z",
+      "opponent": "Lavontae Muriente",
+      "opponentSlug": "164390-lavontae-muriente",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Card Entertainment",
+      "eventSlug": "62848-fight-card-entertainment-takeover",
+      "round": 1,
+      "timeInRound": "1:26"
+    },
+    {
+      "date": "2019-06-22T00:00:00.000Z",
+      "opponent": "Brandan Olivas",
+      "opponentSlug": "123404-brandan-olivas",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "EAFL: Season 3 National Championship",
+      "eventSlug": "60886-eafl-arizona-vs-illinois",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-06T00:00:00.000Z",
+      "opponent": "Oscar Jurado Sánchez",
+      "opponentSlug": "178522-oscar-alejandro-jurado-snchez",
+      "result": "win",
+      "method": "other",
+      "event": "XFO: Night of Champions",
+      "eventSlug": "58216-xfo-night-of-champions",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2019-03-09T00:00:00.000Z",
+      "opponent": "Jared Alexander",
+      "opponentSlug": "92125-jared-alexander",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Chosen Few FC 16",
+      "eventSlug": "55981-chosen-few-fc-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-30T00:00:00.000Z",
+      "opponent": "Tomas Bolonas",
+      "opponentSlug": "165902-tomas-bolonas",
+      "result": "win",
+      "method": "other",
+      "event": "Total Fight Challenge",
+      "eventSlug": "54908-total-fight-challenge",
+      "round": 3,
+      "timeInRound": "1:45"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:43:21.668Z"
+}

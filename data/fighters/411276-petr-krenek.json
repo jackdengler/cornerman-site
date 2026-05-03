@@ -1,0 +1,48 @@
+{
+  "slug": "411276-petr-krenek",
+  "name": "Petr Krenek",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/411276-petr-krenek",
+  "recentFights": [
+    {
+      "date": "2024-11-30T00:00:00.000Z",
+      "opponent": "Alex Hutyra",
+      "opponentSlug": "347893-alex-hutyra",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Svarog Fight Night 2024",
+      "eventSlug": "120789-svarog-fight-nights",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-03T00:00:00.000Z",
+      "opponent": "Ondřej Walach",
+      "opponentSlug": "374462-ondrej-walach",
+      "result": "win",
+      "method": "other",
+      "event": "Garage Fight Night",
+      "eventSlug": "105281-garage-fight-night",
+      "round": 1,
+      "timeInRound": "0:51"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:11:31.693Z"
+}

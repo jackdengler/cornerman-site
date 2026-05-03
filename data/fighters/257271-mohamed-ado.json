@@ -1,0 +1,110 @@
+{
+  "slug": "257271-mohamed-ado",
+  "name": "Mohamed Ado",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": 194,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "2000-05-03",
+  "nationality": "Niamey, Niger",
+  "url": "https://www.tapology.com/fightcenter/fighters/257271-mohamed-ado",
+  "recentFights": [
+    {
+      "date": "2025-05-30T00:00:00.000Z",
+      "opponent": "Bobby Poulter",
+      "opponentSlug": "140918-bobby-poulter",
+      "result": "loss",
+      "method": "other",
+      "event": "Unified MMA 62",
+      "eventSlug": "126254-unified-mma-62",
+      "round": 3,
+      "timeInRound": "3:18"
+    },
+    {
+      "date": "2025-01-24T00:00:00.000Z",
+      "opponent": "Zackery Powell",
+      "opponentSlug": "89974-zackery-powell",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Unified MMA 60",
+      "eventSlug": "119513-unified-mma-60",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-10-15T00:00:00.000Z",
+      "opponent": "Jonathan Micallef",
+      "opponentSlug": "238862-jonathan-micallef",
+      "result": "loss",
+      "method": "sub",
+      "event": "Contender Series 2024",
+      "eventSlug": "112927-contender-series-2024-week-10",
+      "round": 1,
+      "timeInRound": "3:01"
+    },
+    {
+      "date": "2024-06-14T00:00:00.000Z",
+      "opponent": "Abdul Sami Wali Fayzi",
+      "opponentSlug": "200217-abdul-sami-fayzi",
+      "result": "win",
+      "method": "sub",
+      "event": "Unified MMA 58",
+      "eventSlug": "112603-unified-mma-58",
+      "round": 1,
+      "timeInRound": "4:44"
+    },
+    {
+      "date": "2024-01-19T00:00:00.000Z",
+      "opponent": "Chris Chapman",
+      "opponentSlug": "19057-chris-chapman",
+      "result": "win",
+      "method": "sub",
+      "event": "Unified MMA 55",
+      "eventSlug": "107887-unified-mma-55",
+      "round": 3,
+      "timeInRound": "1:34"
+    },
+    {
+      "date": "2023-10-28T00:00:00.000Z",
+      "opponent": "Román Córdova",
+      "opponentSlug": "208602-roman-cordoba",
+      "result": "win",
+      "method": "sub",
+      "event": "Unified MMA 53",
+      "eventSlug": "104368-unified-mma-53",
+      "round": 2,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2023-06-23T00:00:00.000Z",
+      "opponent": "Taylor Cahill",
+      "opponentSlug": "292574-taylor-cahill",
+      "result": "win",
+      "method": "sub",
+      "event": "Unified MMA 51",
+      "eventSlug": "100486-unified-mma-51",
+      "round": 1,
+      "timeInRound": "4:44"
+    },
+    {
+      "date": "2022-12-16T00:00:00.000Z",
+      "opponent": "Matt Speciale",
+      "opponentSlug": "127562-matt-special",
+      "result": "win",
+      "method": "tko",
+      "event": "Unified MMA 48",
+      "eventSlug": "93980-unified-mma-48",
+      "round": 3,
+      "timeInRound": "1:58"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:53:58.985Z"
+}

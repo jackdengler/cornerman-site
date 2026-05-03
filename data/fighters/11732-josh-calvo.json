@@ -1,0 +1,209 @@
+{
+  "slug": "11732-josh-calvo",
+  "name": "Josh Calvo",
+  "nickname": "Killa",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 181,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1988-12-26",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/11732-josh-calvo",
+  "recentFights": [
+    {
+      "date": "2016-06-24T00:00:00.000Z",
+      "opponent": "Nick Patterson",
+      "opponentSlug": "28307-nick-patterson",
+      "result": "win",
+      "method": "other",
+      "event": "Hex Fight Series 6",
+      "eventSlug": "39433-hex-fight-series-6-ebersole-vs-kennedy",
+      "round": 1,
+      "timeInRound": "3:10"
+    },
+    {
+      "date": "2014-06-27T00:00:00.000Z",
+      "opponent": "Zebaztian Kadestam",
+      "opponentSlug": "19640-zebaztian-kadestam",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "PXC 44: Calvo vs Kadestam",
+      "eventSlug": "23937-pxc-44",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-08-09T00:00:00.000Z",
+      "opponent": "Anthony Torres",
+      "opponentSlug": "anthony-torres-the-crush",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "PXC 38",
+      "eventSlug": "19209-pxc-38",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-03-08T00:00:00.000Z",
+      "opponent": "Johnavan Vistante",
+      "opponentSlug": "20298-johnavan-vistante-the-immortal-warrior",
+      "result": "win",
+      "method": "sub",
+      "event": "PXC 36",
+      "eventSlug": "17871-pxc-36",
+      "round": 1,
+      "timeInRound": "3:44"
+    },
+    {
+      "date": "2012-11-03T00:00:00.000Z",
+      "opponent": "Jerome Jones",
+      "opponentSlug": "18495-jerome-jones",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "COGA Combat Games 28",
+      "eventSlug": "16357-rumble-on-the-ridge-26",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-02-18T00:00:00.000Z",
+      "opponent": "Frank Ramsey",
+      "opponentSlug": "29194-frank-ramsey",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Rumble on the Ridge 22",
+      "eventSlug": "14254-rumble-on-the-ridge-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-10-15T00:00:00.000Z",
+      "opponent": "Joel Pettit",
+      "opponentSlug": "33423-joel-pettit-the-weasel",
+      "result": "win",
+      "method": "sub",
+      "event": "Rumble on the Ridge 20",
+      "eventSlug": "12136-rumble-on-the-ridge-20",
+      "round": 1,
+      "timeInRound": "4:18"
+    },
+    {
+      "date": "2011-08-27T00:00:00.000Z",
+      "opponent": "Justin Larsson",
+      "opponentSlug": "8977-justin-larsson",
+      "result": "win",
+      "method": "sub",
+      "event": "Rumble on the Ridge 19",
+      "eventSlug": "10798-rumble-on-the-ridge-19",
+      "round": 1,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2010-10-30T00:00:00.000Z",
+      "opponent": "Lyle Beerbohm",
+      "opponentSlug": "lyle-beerbohm-fancy-pants",
+      "result": "loss",
+      "method": "sub",
+      "event": "Rumble on the Ridge 14",
+      "eventSlug": "8025-rumble-on-the-ridge-14-defiance",
+      "round": 2,
+      "timeInRound": "0:20"
+    },
+    {
+      "date": "2010-08-21T00:00:00.000Z",
+      "opponent": "Casey Barnum",
+      "opponentSlug": "17407-casey-barnum",
+      "result": "win",
+      "method": "sub",
+      "event": "Rumble on the Ridge 12",
+      "eventSlug": "7500-rumble-on-the-ridge-12",
+      "round": 1,
+      "timeInRound": "0:38"
+    },
+    {
+      "date": "2010-07-10T00:00:00.000Z",
+      "opponent": "Taylor Roberts",
+      "opponentSlug": "8978-taylor-roberts",
+      "result": "win",
+      "method": "sub",
+      "event": "Rumble on the Ridge 11",
+      "eventSlug": "7760-rumble-on-the-ridge-11",
+      "round": 1,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2010-02-13T00:00:00.000Z",
+      "opponent": "John Heath",
+      "opponentSlug": "14740-john-heath",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Rumble on the Ridge 8",
+      "eventSlug": "22942-rumble-on-the-ridge-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-08-22T00:00:00.000Z",
+      "opponent": "Isidero Reyes",
+      "opponentSlug": "323931-isidero-reyes",
+      "result": "win",
+      "method": "sub",
+      "event": "Alliance Fights 2",
+      "eventSlug": "5257-alliance-fights-2-counterstrike",
+      "round": 2,
+      "timeInRound": "1:56"
+    },
+    {
+      "date": "2009-04-04T00:00:00.000Z",
+      "opponent": "Taurean Washington",
+      "opponentSlug": "taurean-washington-black",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Rumble on the Ridge 2",
+      "eventSlug": "103257-rumble-on-the-ridge-2-strike-or-submit",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-03-21T00:00:00.000Z",
+      "opponent": "Sasha Alic",
+      "opponentSlug": "402466-sasha-alic",
+      "result": "win",
+      "method": "other",
+      "event": "Xtreme Cage Warrior Combat 1",
+      "eventSlug": "104960-cage-warrior-combat",
+      "round": 1,
+      "timeInRound": "0:17"
+    },
+    {
+      "date": "2008-11-22T00:00:00.000Z",
+      "opponent": "Calvin Horton",
+      "opponentSlug": "18517-calvin-horton",
+      "result": "win",
+      "method": "sub",
+      "event": "Northwest Invitational",
+      "eventSlug": "6802-northwest-invitational-carnage-at-the-creek-4",
+      "round": 1,
+      "timeInRound": "0:58"
+    },
+    {
+      "date": "2008-05-31T00:00:00.000Z",
+      "opponent": "Pano Dreves",
+      "opponentSlug": "198009-pano-dreves",
+      "result": "win",
+      "method": "other",
+      "event": "Washington State Cage Fighting Championship 1",
+      "eventSlug": "87419-washington-state-cage-fighting-championship-1",
+      "round": 1,
+      "timeInRound": "2:53"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:04:26.306Z"
+}

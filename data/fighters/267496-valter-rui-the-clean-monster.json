@@ -1,0 +1,198 @@
+{
+  "slug": "267496-valter-rui-the-clean-monster",
+  "name": "Valter Walker",
+  "nickname": "The Clean Monster",
+  "aliases": [],
+  "recordPro": {
+    "wins": 15,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 199,
+  "reachCm": 199,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1997-12-14",
+  "nationality": "Rio das Ostras, Rio de Janeiro, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/267496-valter-rui-the-clean-monster",
+  "recentFights": [
+    {
+      "date": "2025-10-25T00:00:00.000Z",
+      "opponent": "Louie Sutherland",
+      "opponentSlug": "245967-louie-sutherland",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC 321: Aspinall vs. Gane",
+      "eventSlug": "130325-ufc-321",
+      "round": 1,
+      "timeInRound": "1:24"
+    },
+    {
+      "date": "2025-07-12T00:00:00.000Z",
+      "opponent": "Kennedy Nzechukwu",
+      "opponentSlug": "119288-kennedy-nzechukwu",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "126523-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "0:54"
+    },
+    {
+      "date": "2025-02-15T00:00:00.000Z",
+      "opponent": "Don'Tale Mayes",
+      "opponentSlug": "46499-dontale-mayes",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "120487-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "1:17"
+    },
+    {
+      "date": "2024-08-17T00:00:00.000Z",
+      "opponent": "Junior Tafa",
+      "opponentSlug": "242095-junior-tafa",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC 305: Du Plessis vs. Adesanya",
+      "eventSlug": "111885-ufc-305",
+      "round": 1,
+      "timeInRound": "4:56"
+    },
+    {
+      "date": "2024-04-06T00:00:00.000Z",
+      "opponent": "Łukasz Brzeski",
+      "opponentSlug": "90654-ukasz-brzeski",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "108721-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-02T00:00:00.000Z",
+      "opponent": "Alex Nicholson",
+      "opponentSlug": "38702-alex-nicholson",
+      "result": "win",
+      "method": "other",
+      "event": "Titan FC 82",
+      "eventSlug": "100791-sbc-47",
+      "round": 4,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2023-05-03T00:00:00.000Z",
+      "opponent": "Cássio de Oliveira",
+      "opponentSlug": "24408-cassio-jacare",
+      "result": "win",
+      "method": "other",
+      "event": "MMA Series 67",
+      "eventSlug": "100432-mma-series-67-all-stars",
+      "round": 2,
+      "timeInRound": "2:49"
+    },
+    {
+      "date": "2023-03-18T00:00:00.000Z",
+      "opponent": "Ramadan Mohammed",
+      "opponentSlug": "46131-ramdan-mohamed-farmer",
+      "result": "win",
+      "method": "tko",
+      "event": "MMA Series 64",
+      "eventSlug": "99157-dyakonov-solorzano-mfc-19",
+      "round": 1,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2022-12-17T00:00:00.000Z",
+      "opponent": "Bunyod Akulov",
+      "opponentSlug": "366267-bunyod-akulov",
+      "result": "win",
+      "method": "other",
+      "event": "MMA Series 60",
+      "eventSlug": "95744-mma-series-60-varvarskiy-wanderley-2",
+      "round": 2,
+      "timeInRound": "2:52"
+    },
+    {
+      "date": "2022-10-02T00:00:00.000Z",
+      "opponent": "Ruslan Medzhidov",
+      "opponentSlug": "167648-ruslan-madzhidov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMA Series 57",
+      "eventSlug": "93339-mma-series-57-moscow-calling",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-30T00:00:00.000Z",
+      "opponent": "Andrey Zhukovsky",
+      "opponentSlug": "153893-andrey-zhukovsky",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMA Series 54",
+      "eventSlug": "91063-mma-series-54-triumph",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-19T00:00:00.000Z",
+      "opponent": "Wagner Maia",
+      "opponentSlug": "80506-wagner-maia-pezinho",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Arena Global 16",
+      "eventSlug": "85760-arena-global-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-01-29T00:00:00.000Z",
+      "opponent": "Aybek Kobenov",
+      "opponentSlug": "307584-aybek-kobenov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMA Series 47",
+      "eventSlug": "85251-mma-series-47",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-05T00:00:00.000Z",
+      "opponent": "Denis Kazakov",
+      "opponentSlug": "325332-denis-kazakov",
+      "result": "win",
+      "method": "other",
+      "event": "GOR MMA",
+      "eventSlug": "86628-gor-mma",
+      "round": 1,
+      "timeInRound": "4:50"
+    },
+    {
+      "date": "2020-12-12T00:00:00.000Z",
+      "opponent": "Curtis Saha Touyem",
+      "opponentSlug": "280213-curtis-saha-touyem",
+      "result": "win",
+      "method": "sub",
+      "event": "FFC: Selection 5",
+      "eventSlug": "73611-ffc-selection-5",
+      "round": 1,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2020-10-04T00:00:00.000Z",
+      "opponent": "Dmitriy Plyukhov",
+      "opponentSlug": "270858-dmitriy-plyukhov",
+      "result": "win",
+      "method": "other",
+      "event": "Studsport: St. George Cup 5",
+      "eventSlug": "70964-st-george-cup",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:16:34.655Z"
+}

@@ -1,0 +1,114 @@
+{
+  "slug": "152576-gary-conlon",
+  "name": "Gary Conlon",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 6,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "England",
+  "url": "https://www.tapology.com/fightcenter/fighters/152576-gary-conlon",
+  "recentFights": [
+    {
+      "date": "2018-04-15T00:00:00.000Z",
+      "opponent": "Kiru Sahota",
+      "opponentSlug": "78769-kiru-singh",
+      "result": "loss",
+      "method": "tko",
+      "event": "Rise and Conquer 5",
+      "eventSlug": "51112-rise-and-conquer-5",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-10-08T00:00:00.000Z",
+      "opponent": "Macauley Gascoigne",
+      "opponentSlug": "165161-macauley-gascoigne",
+      "result": "win",
+      "method": "sub",
+      "event": "Rise and Conquer 4",
+      "eventSlug": "46895-rise-and-conquer-4",
+      "round": 1,
+      "timeInRound": "0:27"
+    },
+    {
+      "date": "2017-06-10T00:00:00.000Z",
+      "opponent": "Chris Knox",
+      "opponentSlug": "152583-chris-knox",
+      "result": "win",
+      "method": "sub",
+      "event": "Machine MMA 19",
+      "eventSlug": "45895-machine-mma-19",
+      "round": 1,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2017-03-25T00:00:00.000Z",
+      "opponent": "Zac Ebanks",
+      "opponentSlug": "128727-zac-ebanks",
+      "result": "win",
+      "method": "sub",
+      "event": "Machine MMA 18",
+      "eventSlug": "44828-machine-mma-18",
+      "round": 1,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2009-09-05T00:00:00.000Z",
+      "opponent": "Lewis Fawcett",
+      "opponentSlug": "30179-lewis-fawcett",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "1:59"
+    },
+    {
+      "date": "2008-11-29T00:00:00.000Z",
+      "opponent": "Davey Grant",
+      "opponentSlug": "18815-david-grant",
+      "result": "loss",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2008-09-20T00:00:00.000Z",
+      "opponent": "Rhys McAlester",
+      "opponentSlug": "181350-rhys-mcalester",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2008-05-31T00:00:00.000Z",
+      "opponent": "Philip Hinton",
+      "opponentSlug": "181351-philip-hinton",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "2:37"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:36:39.389Z"
+}

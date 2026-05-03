@@ -1,0 +1,242 @@
+{
+  "slug": "42863-bartosz-fabinski",
+  "name": "Bartosz Fabiński",
+  "nickname": "The Butcher",
+  "aliases": [],
+  "recordPro": {
+    "wins": 16,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": 190,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1986-04-26",
+  "nationality": "Poland",
+  "url": "https://www.tapology.com/fightcenter/fighters/42863-bartosz-fabinski",
+  "recentFights": [
+    {
+      "date": "2024-01-20T00:00:00.000Z",
+      "opponent": "Laïd Zerhouni",
+      "opponentSlug": "116884-lad-zerhouni",
+      "result": "loss",
+      "method": "other",
+      "event": "KSW 90: Wrzosek vs. Vitasović",
+      "eventSlug": "106205-ksw-90",
+      "round": 1,
+      "timeInRound": "0:12"
+    },
+    {
+      "date": "2023-10-07T00:00:00.000Z",
+      "opponent": "Kacper Karski",
+      "opponentSlug": "56237-kacper-karski",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Strife 4",
+      "eventSlug": "103086-strife-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-17T00:00:00.000Z",
+      "opponent": "Gerald Meerschaert",
+      "opponentSlug": "6018-gerald-meerschaert-the-machine",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "76103-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2020-09-05T00:00:00.000Z",
+      "opponent": "André Muniz",
+      "opponentSlug": "38116-andr-muniz-sergipano",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "70907-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "2:42"
+    },
+    {
+      "date": "2020-03-20T00:00:00.000Z",
+      "opponent": "Darren Stewart",
+      "opponentSlug": "44180-darren-stewart",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 113",
+      "eventSlug": "65887-cage-warriors-113",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-17T00:00:00.000Z",
+      "opponent": "Michel Prazeres",
+      "opponentSlug": "24379-michel-richard-dos-prazeres",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night 140",
+      "eventSlug": "54134-ufc-fight-night-140",
+      "round": 1,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2018-07-22T00:00:00.000Z",
+      "opponent": "Emil Weber Meek",
+      "opponentSlug": "43028-emil-weber-meek",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night 134",
+      "eventSlug": "52081-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-21T00:00:00.000Z",
+      "opponent": "Hector Urbina",
+      "opponentSlug": "hector-urbina-el-toro",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night 78",
+      "eventSlug": "34434-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-04-11T00:00:00.000Z",
+      "opponent": "Garreth McLellan",
+      "opponentSlug": "16904-garreth-mclellan-soldier-boy",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night 64",
+      "eventSlug": "28239-ufc-fight-night-65",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-10-18T00:00:00.000Z",
+      "opponent": "Alik Tseiko",
+      "opponentSlug": "34025-alik-tseiko",
+      "result": "win",
+      "method": "dec-split",
+      "event": "MMA Raju 14",
+      "eventSlug": "25790-mma-raju-14",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-06-08T00:00:00.000Z",
+      "opponent": "Alexey Repalov",
+      "opponentSlug": "43735-alexey-repalov",
+      "result": "win",
+      "method": "other",
+      "event": "Fighters Arena 9",
+      "eventSlug": "23403-fighters-arena-9",
+      "round": 1,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2014-05-09T00:00:00.000Z",
+      "opponent": "Gregor Herb",
+      "opponentSlug": "11261-gregor-herb",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Arena MMA 1",
+      "eventSlug": "23880-arena-mma-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-15T00:00:00.000Z",
+      "opponent": "Michał Szuliński",
+      "opponentSlug": "33017-michal-szulinski",
+      "result": "win",
+      "method": "other",
+      "event": "PLMMA 29: Extra - Legionowo",
+      "eventSlug": "22273-plmma-29-extra",
+      "round": 1,
+      "timeInRound": "4:10"
+    },
+    {
+      "date": "2014-03-01T00:00:00.000Z",
+      "opponent": "Wendres da Silva",
+      "opponentSlug": "11063-wendres-carlos-da-silva-godzilla",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Pro MMA Challenge 1",
+      "eventSlug": "22325-pro-mma-challenge-1-narodziny",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-12-28T00:00:00.000Z",
+      "opponent": "Antoni Chmielewski",
+      "opponentSlug": "7150-antoni-chmielewski-antonio",
+      "result": "win",
+      "method": "other",
+      "event": "PLMMA 26: Extra - Legionowo",
+      "eventSlug": "22109-plmma-26-extra-legionowo",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2013-12-08T00:00:00.000Z",
+      "opponent": "Dominik Chmiel",
+      "opponentSlug": "60127-dominik-chmiel",
+      "result": "win",
+      "method": "other",
+      "event": "GWF",
+      "eventSlug": "21743-gwf",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-10-05T00:00:00.000Z",
+      "opponent": "Adam Kowalski",
+      "opponentSlug": "56307-adam-kowalski",
+      "result": "win",
+      "method": "other",
+      "event": "Battle of Champions",
+      "eventSlug": "20956-battle-of-champions-gala-mma",
+      "round": 1,
+      "timeInRound": "4:21"
+    },
+    {
+      "date": "2012-11-24T00:00:00.000Z",
+      "opponent": "Marcin Bandel",
+      "opponentSlug": "42857-marcin-bandel-bomba",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fighters Arena 4",
+      "eventSlug": "17772-fighters-arena-4-atak",
+      "round": 1,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2012-05-19T00:00:00.000Z",
+      "opponent": "Marcin Kurylczyk",
+      "opponentSlug": "46898-mateusz-kurylczyk",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMA Fight Night 1",
+      "eventSlug": "15791-sft-mma-fight-night-diva-spa",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-11-18T00:00:00.000Z",
+      "opponent": "Robert Białoszewski",
+      "opponentSlug": "56343-robert-bialoszewski",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:15:03.937Z"
+}

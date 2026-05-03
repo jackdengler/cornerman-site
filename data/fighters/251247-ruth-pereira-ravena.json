@@ -1,0 +1,121 @@
+{
+  "slug": "251247-ruth-pereira-ravena",
+  "name": "Ruth Pereira",
+  "nickname": "Ravena",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 167,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1995-09-13",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/251247-ruth-pereira-ravena",
+  "recentFights": [
+    {
+      "date": "2025-10-25T00:00:00.000Z",
+      "opponent": "Thay Xavier",
+      "opponentSlug": "234562-thay-xavier-avatar",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "SFT Outubro Rosa 8",
+      "eventSlug": "133818-sft-58-outubro-rosa-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-02-07T00:00:00.000Z",
+      "opponent": "Leidiane Fernandes",
+      "opponentSlug": "271498-leidiane-fernandes",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 201: Conceição vs. Silva",
+      "eventSlug": "121294-lfa-201",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-08-30T00:00:00.000Z",
+      "opponent": "Amanda Vargas",
+      "opponentSlug": "296175-talia-amanda",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 191: Prado vs. Lopes",
+      "eventSlug": "114937-lfa-191",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-02T00:00:00.000Z",
+      "opponent": "Yasmin Castanho",
+      "opponentSlug": "199857-yasmin-castanho-smile",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 166: Neto vs. Conrado",
+      "eventSlug": "103491-lfa-166-neto-vs-conrado",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-06T00:00:00.000Z",
+      "opponent": "Karla Yasnara",
+      "opponentSlug": "278576-karla-pires",
+      "result": "win",
+      "method": "tko",
+      "event": "SFT 40: Kong vs Brigagão",
+      "eventSlug": "97521-sft-40-henrique-vs-balotelli",
+      "round": 1,
+      "timeInRound": "2:03"
+    },
+    {
+      "date": "2022-07-24T00:00:00.000Z",
+      "opponent": "Yasmin Guimarães",
+      "opponentSlug": "286554-yasmin-guimaraes",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Favela Kombat 38",
+      "eventSlug": "90502-favela-kombat-38",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-24T00:00:00.000Z",
+      "opponent": "Thayla Martinelli",
+      "opponentSlug": "296176-tayla-martinelli",
+      "result": "win",
+      "method": "tko",
+      "event": "Shooto Brasil 108",
+      "eventSlug": "80838-shooto-brazil-107",
+      "round": 3,
+      "timeInRound": "4:36"
+    },
+    {
+      "date": "2021-03-27T00:00:00.000Z",
+      "opponent": "Elaine Lopes",
+      "opponentSlug": "242365-elaine-cristina-lopez-pinheiro",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Rio MMA Fight Night 1",
+      "eventSlug": "77834-rio-mma-fight-night-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-11-14T00:00:00.000Z",
+      "opponent": "Nawira Ferreira",
+      "opponentSlug": "291082-nawira-ferreira",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Copa Thunder Fight 6",
+      "eventSlug": "78216-copa-thunder-fight-6-mma-amador",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:02:53.462Z"
+}

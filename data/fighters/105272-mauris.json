@@ -1,0 +1,55 @@
+{
+  "slug": "105272-mauris",
+  "name": "Mauris Marcano Gonzales",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1984-03-08",
+  "nationality": "Venezuela",
+  "url": "https://www.tapology.com/fightcenter/fighters/105272-mauris",
+  "recentFights": [
+    {
+      "date": "2016-10-14T00:00:00.000Z",
+      "opponent": "Joselyne Edwards",
+      "opponentSlug": "98366-yoselin-edwards",
+      "result": "loss",
+      "method": "sub",
+      "event": "UCC 31",
+      "eventSlug": "42205-ucc-31",
+      "round": 1,
+      "timeInRound": "2:28"
+    },
+    {
+      "date": "2015-09-11T00:00:00.000Z",
+      "opponent": "Joselyne Edwards",
+      "opponentSlug": "98366-yoselin-edwards",
+      "result": "win",
+      "method": "sub",
+      "event": "UCC 25",
+      "eventSlug": "33953-ucc-25",
+      "round": 2,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2015-05-02T00:00:00.000Z",
+      "opponent": "Valeria Mejia",
+      "opponentSlug": "77557-valeria-mejia-galactika",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:34:10.367Z"
+}

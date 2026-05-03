@@ -1,0 +1,55 @@
+{
+  "slug": "230100-nerivan-silva-babyssauro",
+  "name": "Nerivan Silva",
+  "nickname": "Babyssauro",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/230100-nerivan-silva-babyssauro",
+  "recentFights": [
+    {
+      "date": "2022-12-15T00:00:00.000Z",
+      "opponent": "Ramon Costa",
+      "opponentSlug": "145275-ramon-costa",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Mr. Cage 46",
+      "eventSlug": "94729-mr-cage-46",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-11T00:00:00.000Z",
+      "opponent": "Nailson Gomes",
+      "opponentSlug": "230099-nailson-gomes",
+      "result": "win",
+      "method": "other",
+      "event": "Rei da Selva Combat 13",
+      "eventSlug": "61681-rei-da-selva-combat-13",
+      "round": 1,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2017-02-25T00:00:00.000Z",
+      "opponent": "Kevin Christian",
+      "opponentSlug": "124745-kevin-christian",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:17:01.654Z"
+}

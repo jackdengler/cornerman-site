@@ -1,0 +1,198 @@
+{
+  "slug": "106418-ebraim-hosseinpur",
+  "name": "Ebrahim Hosseinpour",
+  "nickname": "The Gilman",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1983-08-02",
+  "nationality": "Germany",
+  "url": "https://www.tapology.com/fightcenter/fighters/106418-ebraim-hosseinpur",
+  "recentFights": [
+    {
+      "date": "2024-03-02T00:00:00.000Z",
+      "opponent": "Miloš Janičić",
+      "opponentSlug": "108550-milo-janii",
+      "result": "loss",
+      "method": "other",
+      "event": "OKTAGON 54: Kincl vs. Wawrzyniak",
+      "eventSlug": "108298-oktagon-54-tipsport-gamechanger-2",
+      "round": 2,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2023-12-09T00:00:00.000Z",
+      "opponent": "Matěj Kuzník",
+      "opponentSlug": "36762-matej-kuznik",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 50: Keita vs. Samsonidse",
+      "eventSlug": "98887-oktagon",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-04-15T00:00:00.000Z",
+      "opponent": "Jan Malach",
+      "opponentSlug": "64719-jan-malach",
+      "result": "loss",
+      "method": "other",
+      "event": "OKTAGON 41: Mågård vs. Lopez",
+      "eventSlug": "95854-oktagon-41",
+      "round": 1,
+      "timeInRound": "2:03"
+    },
+    {
+      "date": "2022-10-15T00:00:00.000Z",
+      "opponent": "Marek Bartl",
+      "opponentSlug": "64759-marek-bartl",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 36: Eckerlin vs. Neves 2",
+      "eventSlug": "91181-oktagon-36",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-26T00:00:00.000Z",
+      "opponent": "Karol Ryšavý",
+      "opponentSlug": "127463-karol-rysavy",
+      "result": "loss",
+      "method": "other",
+      "event": "OKTAGON Prime 5",
+      "eventSlug": "85466-oktagon-prime-5",
+      "round": 3,
+      "timeInRound": "3:05"
+    },
+    {
+      "date": "2020-10-17T00:00:00.000Z",
+      "opponent": "Daniel Vogel",
+      "opponentSlug": "215913-daniel-vogel",
+      "result": "win",
+      "method": "tko",
+      "event": "Super League MMA 1",
+      "eventSlug": "72650-super-league-mma",
+      "round": 2,
+      "timeInRound": "4:20"
+    },
+    {
+      "date": "2019-12-21T00:00:00.000Z",
+      "opponent": "Robert Hałota",
+      "opponentSlug": "171336-robert-haota",
+      "result": "win",
+      "method": "other",
+      "event": "Star MMA",
+      "eventSlug": "66881-star-mma",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-01T00:00:00.000Z",
+      "opponent": "Ndonda Kumbu",
+      "opponentSlug": "40741-ndonda-kumbu",
+      "result": "win",
+      "method": "other",
+      "event": "MMA Live 5",
+      "eventSlug": "61141-mma-live-5",
+      "round": 1,
+      "timeInRound": "0:29"
+    },
+    {
+      "date": "2018-12-08T00:00:00.000Z",
+      "opponent": "Christian Jungwirth",
+      "opponentSlug": "136496-christian-jungwirth",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "We Love MMA 44",
+      "eventSlug": "51012-we-love-mma-45",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-16T00:00:00.000Z",
+      "opponent": "Tomasz Sobczak",
+      "opponentSlug": "143538-tomasz-sobczak",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "We Love MMA 36",
+      "eventSlug": "45987-we-love-mma-36",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-09T00:00:00.000Z",
+      "opponent": "Rowan Martin",
+      "opponentSlug": "166374-lose-rowan-martin-rioja",
+      "result": "win",
+      "method": "other",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2016-09-24T00:00:00.000Z",
+      "opponent": "Patryk Wołodkiewicz",
+      "opponentSlug": "69448-patryk-woodkiewicz",
+      "result": "loss",
+      "method": "other",
+      "event": "IFO2 Europe",
+      "eventSlug": "40520-ifo2-europe-germany-vs-poland",
+      "round": 1,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2016-06-16T00:00:00.000Z",
+      "opponent": "Georg Schierz",
+      "opponentSlug": "101572-georg-schierz",
+      "result": "win",
+      "method": "other",
+      "event": "Bernauer Fight Night 8",
+      "eventSlug": "40482-bernauer-fight-night-8",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-28T00:00:00.000Z",
+      "opponent": "Anatolij Baal",
+      "opponentSlug": "66398-anatoli-baar",
+      "result": "loss",
+      "method": "tko",
+      "event": "We Love MMA 17",
+      "eventSlug": "35253-we-love-mma-17",
+      "round": 1,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2015-10-31T00:00:00.000Z",
+      "opponent": "Christoph Steinmann",
+      "opponentSlug": "56876-christoph-steinmann",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Sprawl & Brawl MMA 2",
+      "eventSlug": "35260-sprawl-brawl-mma-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-07-04T00:00:00.000Z",
+      "opponent": "Rainer Benjatschek",
+      "opponentSlug": "37063-rainer-benjatschek",
+      "result": "loss",
+      "method": "dq",
+      "event": "We Love MMA 15",
+      "eventSlug": "33726-we-love-mma-15",
+      "round": 2,
+      "timeInRound": "1:47"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:07:33.388Z"
+}

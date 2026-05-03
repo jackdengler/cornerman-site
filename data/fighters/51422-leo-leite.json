@@ -1,0 +1,165 @@
+{
+  "slug": "51422-leo-leite",
+  "name": "Leo Leite",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 191,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1978-03-25",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/51422-leo-leite",
+  "recentFights": [
+    {
+      "date": "2022-05-13T00:00:00.000Z",
+      "opponent": "Patrick Quadros",
+      "opponentSlug": "47554-patrick-quadros",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 132: Gomes vs. Costa",
+      "eventSlug": "88790-lfa-132-lidio-vs-gomes",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-13T00:00:00.000Z",
+      "opponent": "Chris Honeycutt",
+      "opponentSlug": "47602-chris-honeycutt",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bellator 202",
+      "eventSlug": "52726-bellator-202-budd-vs-nogueira",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-03T00:00:00.000Z",
+      "opponent": "Phil Davis",
+      "opponentSlug": "phil-davis-mr-wonderful",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bellator 186",
+      "eventSlug": "47631-bellator-186-bader-vs-vassell",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-04T00:00:00.000Z",
+      "opponent": "Moise Rimbon",
+      "opponentSlug": "moise-rimbon-swamp",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Fight2Night 1",
+      "eventSlug": "42240-fight2night-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-03T00:00:00.000Z",
+      "opponent": "Julio Juarez",
+      "opponentSlug": "110262-julio-juarez-morangao",
+      "result": "win",
+      "method": "sub",
+      "event": "Iron FC 10: POP",
+      "eventSlug": "41253-iron-fc-10-pop",
+      "round": 1,
+      "timeInRound": "2:33"
+    },
+    {
+      "date": "2016-06-10T00:00:00.000Z",
+      "opponent": "Matt Masterson",
+      "opponentSlug": "6132-matt-masterson",
+      "result": "win",
+      "method": "other",
+      "event": "Final Fight Championship 25",
+      "eventSlug": "39621-final-fight-championship-25-staring-vs-stosic",
+      "round": 3,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2015-11-13T00:00:00.000Z",
+      "opponent": "Ryan Spann",
+      "opponentSlug": "20908-ryan-spann",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Legacy FC 48",
+      "eventSlug": "35535-legacy-fc-48-leite-vs-spann",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-02-27T00:00:00.000Z",
+      "opponent": "Larry Crowe",
+      "opponentSlug": "16168-larry-crowe",
+      "result": "win",
+      "method": "other",
+      "event": "Legacy FC 39",
+      "eventSlug": "28884-legacy-fc-39-leite-vs-crowe",
+      "round": 2,
+      "timeInRound": "2:19"
+    },
+    {
+      "date": "2014-09-26T00:00:00.000Z",
+      "opponent": "Myron Dennis",
+      "opponentSlug": "myron-dennis",
+      "result": "win",
+      "method": "other",
+      "event": "Legacy FC 35",
+      "eventSlug": "25440-legacy-fc-35-dennis-vs-leite",
+      "round": 4,
+      "timeInRound": "4:50"
+    },
+    {
+      "date": "2014-06-07T00:00:00.000Z",
+      "opponent": "Elias Mendonça",
+      "opponentSlug": "72848-elias-mendona",
+      "result": "win",
+      "method": "sub",
+      "event": "Bitetti Combat 20",
+      "eventSlug": "24856-bitetti-combat-20",
+      "round": 1,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2013-11-01T00:00:00.000Z",
+      "opponent": "Fábio Marongiu",
+      "opponentSlug": "42654-fbio-cesar-marongiu",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WOCS 31",
+      "eventSlug": "21262-wocs-31",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-09-06T00:00:00.000Z",
+      "opponent": "Diosman de Jesus",
+      "opponentSlug": "51419-diosman-de-jesus-jacar",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bitetti Combat 17",
+      "eventSlug": "20377-bitetti-combat-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-06-23T00:00:00.000Z",
+      "opponent": "Alessandro Macedo",
+      "opponentSlug": "51420-alessandro-macedo",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:51:00.453Z"
+}

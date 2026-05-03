@@ -1,0 +1,44 @@
+{
+  "slug": "153966-anelika-petkeviit",
+  "name": "Anželika Petkevičiūtė",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Lithuania",
+  "url": "https://www.tapology.com/fightcenter/fighters/153966-anelika-petkeviit",
+  "recentFights": [
+    {
+      "date": "2020-11-21T00:00:00.000Z",
+      "opponent": "Lucia Szabová",
+      "opponentSlug": "187305-lucia-szabova-queen-bee",
+      "result": "loss",
+      "method": "sub",
+      "event": "Oktagon 18",
+      "eventSlug": "73565-oktagon-18",
+      "round": 1,
+      "timeInRound": "0:43"
+    },
+    {
+      "date": "2017-04-08T00:00:00.000Z",
+      "opponent": "Katarzyna Biegajło",
+      "opponentSlug": "130211-katarzyna-biegajo",
+      "result": "loss",
+      "method": "other",
+      "event": "Ladies Fight Night 5",
+      "eventSlug": "44786-ladies-fight-night-5-five-points",
+      "round": 1,
+      "timeInRound": "1:49"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:02:37.147Z"
+}

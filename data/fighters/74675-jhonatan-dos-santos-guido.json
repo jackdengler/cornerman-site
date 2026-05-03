@@ -1,0 +1,253 @@
+{
+  "slug": "74675-jhonatan-dos-santos-guido",
+  "name": "Guido Santos",
+  "nickname": "O Prodígio",
+  "aliases": [],
+  "recordPro": {
+    "wins": 17,
+    "losses": 4,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1993-09-08",
+  "nationality": "Macapa, Amapa, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/74675-jhonatan-dos-santos-guido",
+  "recentFights": [
+    {
+      "date": "2025-10-22T00:00:00.000Z",
+      "opponent": "Sundet Aytkul",
+      "opponentSlug": "247408-sundet-aytul",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UAE Warriors 64",
+      "eventSlug": "133266-uae-warriors-64",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-08T00:00:00.000Z",
+      "opponent": "Alan Silverio",
+      "opponentSlug": "114236-alan-silverio",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "SFT 48: Sousa vs. Soldado",
+      "eventSlug": "113695-sft-48-sousa-vs-soldado",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-02T00:00:00.000Z",
+      "opponent": "Fabricio Martins",
+      "opponentSlug": "61888-fabricio-jonas-nego",
+      "result": "draw",
+      "method": "dec-split",
+      "event": "SFT 45: Black Diamond vs. Aparecido",
+      "eventSlug": "110225-sft-45-barbosa-vs-sucuri",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-26T00:00:00.000Z",
+      "opponent": "Hilário Gomes",
+      "opponentSlug": "192225-jadielson-silva-espartano",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fight Music Show 3",
+      "eventSlug": "104069-fight-music-show-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-11T00:00:00.000Z",
+      "opponent": "Luis Fernando",
+      "opponentSlug": "69844-luis-fernando",
+      "result": "win",
+      "method": "sub",
+      "event": "SFT",
+      "eventSlug": "94421-sft-pfl-international-qualifier-series-brazil",
+      "round": 1,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2022-09-03T00:00:00.000Z",
+      "opponent": "Paulo Henrique Laia",
+      "opponentSlug": "176744-paulo-henrique",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "SFT 37: Prates vs. Oliveira",
+      "eventSlug": "92277-sft-37-prates-vs-oliveira",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-24T00:00:00.000Z",
+      "opponent": "Junior Melo",
+      "opponentSlug": "121289-jose-cleiton-de-melo-junior-melo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Future MMA 13",
+      "eventSlug": "81694-future-mma-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-18T00:00:00.000Z",
+      "opponent": "Otacilio de Oliveira",
+      "opponentSlug": "94755-otacilio-cena",
+      "result": "win",
+      "method": "sub",
+      "event": "Road to Future 2",
+      "eventSlug": "79877-road-to-future-2",
+      "round": 1,
+      "timeInRound": "4:19"
+    },
+    {
+      "date": "2019-05-18T00:00:00.000Z",
+      "opponent": "Renan Silva",
+      "opponentSlug": "38739-renan-silva-pitbull",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-06T00:00:00.000Z",
+      "opponent": "Fabricio Rodriguez",
+      "opponentSlug": "95260-fabricio-rodriguez",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-21T00:00:00.000Z",
+      "opponent": "Naife Junior",
+      "opponentSlug": "96666-naife-junior-fuzio",
+      "result": "win",
+      "method": "sub",
+      "event": "WCombat 22: Special Edition",
+      "eventSlug": "52840-wcombat-22-special-edition",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-04T00:00:00.000Z",
+      "opponent": "Andre Pinheiro",
+      "opponentSlug": "40875-andre-pinheiro-motoca",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Thunder Fight 11",
+      "eventSlug": "46954-thunder-fight-11-special-edition",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-17T00:00:00.000Z",
+      "opponent": "Iliarde Santos",
+      "opponentSlug": "14065-iliarde-sabino",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Thunder Fight 10",
+      "eventSlug": "43255-thunder-fight-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-06-25T00:00:00.000Z",
+      "opponent": "Brendo Bispo",
+      "opponentSlug": "52200-brendo-sousa-bispo",
+      "result": "win",
+      "method": "other",
+      "event": "Thunder Fight 7",
+      "eventSlug": "40460-thunder-fight-7",
+      "round": 2,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2015-09-19T00:00:00.000Z",
+      "opponent": "Bruno Camargo",
+      "opponentSlug": "63397-bruno-camargo",
+      "result": "win",
+      "method": "tko",
+      "event": "Thunder Fight 5",
+      "eventSlug": "35523-thunder-fight-5",
+      "round": 1,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2015-06-20T00:00:00.000Z",
+      "opponent": "Alisson Lira",
+      "opponentSlug": "59798-alisson-lira-forrest",
+      "result": "win",
+      "method": "sub",
+      "event": "Thunder Fight 4",
+      "eventSlug": "32256-thunder-fight-4",
+      "round": 1,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2014-08-02T00:00:00.000Z",
+      "opponent": "Israel Silva Lima",
+      "opponentSlug": "31378-israel-silva-lima-falkinho",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "NEC 15",
+      "eventSlug": "25351-nec-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-12-07T00:00:00.000Z",
+      "opponent": "Erivelton Machado",
+      "opponentSlug": "47493-erivelton-machado-nogueira-tibucha",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-07-20T00:00:00.000Z",
+      "opponent": "Danielson Damascena",
+      "opponentSlug": "44399-danielson-damascena-dani-metralha",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-06-15T00:00:00.000Z",
+      "opponent": "Luan Lacerda",
+      "opponentSlug": "74979-luan-luiz-lacerda",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-03-03T00:00:00.000Z",
+      "opponent": "Lisrael Figueiredo",
+      "opponentSlug": "30978-lisrael-pereira-figueiredo-miojo",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:38:09.915Z"
+}

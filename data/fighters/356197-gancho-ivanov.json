@@ -1,0 +1,48 @@
+{
+  "slug": "356197-gancho-ivanov",
+  "name": "Gancho Ivanov",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Bulgaria",
+  "url": "https://www.tapology.com/fightcenter/fighters/356197-gancho-ivanov",
+  "recentFights": [
+    {
+      "date": "2023-11-20T00:00:00.000Z",
+      "opponent": "Liam Pitts",
+      "opponentSlug": "323029-liam-pitts",
+      "result": "loss",
+      "method": "tko",
+      "event": "IMMAF",
+      "eventSlug": "134700-immaf-world-championships-2023-juniors-opening-round",
+      "round": 2,
+      "timeInRound": "2:05"
+    },
+    {
+      "date": "2022-09-27T00:00:00.000Z",
+      "opponent": "Nessim Akhdim",
+      "opponentSlug": "311229-nessim-akhdim",
+      "result": "loss",
+      "method": "sub",
+      "event": "IMMAF",
+      "eventSlug": "92751-2022-immaf-european-championships-day-1",
+      "round": 1,
+      "timeInRound": "2:08"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:10:51.675Z"
+}

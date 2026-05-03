@@ -1,0 +1,110 @@
+{
+  "slug": "55437-helvecio-bessa-jr-junior-negao",
+  "name": "Helvécio Bessa Jr.",
+  "nickname": "Mamba",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/55437-helvecio-bessa-jr-junior-negao",
+  "recentFights": [
+    {
+      "date": "2018-08-11T00:00:00.000Z",
+      "opponent": "Marco Tulio",
+      "opponentSlug": "165750-marco-tulio-silva",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-19T00:00:00.000Z",
+      "opponent": "Cesar Siqueira",
+      "opponentSlug": "197599-cesar-siqueira",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-26T00:00:00.000Z",
+      "opponent": "Wildemar Santos",
+      "opponentSlug": "130374-wildemar-matheus-souza",
+      "result": "loss",
+      "method": "sub",
+      "event": "IFC MMA Combate 8",
+      "eventSlug": "47704-ifc-mma-combate-8",
+      "round": 1,
+      "timeInRound": "1:17"
+    },
+    {
+      "date": "2016-12-18T00:00:00.000Z",
+      "opponent": "Adercino de Jesus",
+      "opponentSlug": "48200-adecino-de-jesus-marmita",
+      "result": "loss",
+      "method": "other",
+      "event": "Shooto Brasil 68",
+      "eventSlug": "43253-shooto-brasil-68",
+      "round": 1,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2015-10-11T00:00:00.000Z",
+      "opponent": "Guilherme Soares",
+      "opponentSlug": "47521-guilherme-soares",
+      "result": "loss",
+      "method": "other",
+      "event": "Fight K Águia 1",
+      "eventSlug": "36036-fight-k-guia-1",
+      "round": 1,
+      "timeInRound": "4:54"
+    },
+    {
+      "date": "2014-11-22T00:00:00.000Z",
+      "opponent": "Solimar Naiva",
+      "opponentSlug": "86049-solimar-naiva-ponta",
+      "result": "loss",
+      "method": "other",
+      "event": "Stone MMA 1",
+      "eventSlug": "28212-stone-mma",
+      "round": 3,
+      "timeInRound": "3:15"
+    },
+    {
+      "date": "2014-03-22T00:00:00.000Z",
+      "opponent": "Pedro Paulo de Aguiar",
+      "opponentSlug": "66628-pedro-paulo-de-aguiar",
+      "result": "win",
+      "method": "tko",
+      "event": "The Warriors Combat 1",
+      "eventSlug": "23373-the-warriors-combat-1",
+      "round": 2,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2010-08-07T00:00:00.000Z",
+      "opponent": "Paulo Henrique",
+      "opponentSlug": "124991-paulo-henrique",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:03:39.630Z"
+}

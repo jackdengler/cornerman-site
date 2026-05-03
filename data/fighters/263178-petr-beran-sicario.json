@@ -1,0 +1,132 @@
+{
+  "slug": "263178-petr-beran-sicario",
+  "name": "Petr Beran",
+  "nickname": "Sicario",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1992-03-25",
+  "nationality": "Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/263178-petr-beran-sicario",
+  "recentFights": [
+    {
+      "date": "2020-03-06T00:00:00.000Z",
+      "opponent": "Adam Herajn",
+      "opponentSlug": "217632-adam-herajn",
+      "result": "loss",
+      "method": "other",
+      "event": "IAF 2",
+      "eventSlug": "66663-iaf-2",
+      "round": 1,
+      "timeInRound": "4:03"
+    },
+    {
+      "date": "2023-06-09T00:00:00.000Z",
+      "opponent": "Radek Gašník",
+      "opponentSlug": "197442-radek-gasnik",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "IAF 8",
+      "eventSlug": "100057-iaf-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-06T00:00:00.000Z",
+      "opponent": "Alex Hutyra",
+      "opponentSlug": "347893-alex-hutyra",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IAF 7",
+      "eventSlug": "98992-iaf-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-16T00:00:00.000Z",
+      "opponent": "David Zoula",
+      "opponentSlug": "197449-david-zoula",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "I Am Fighter 4",
+      "eventSlug": "88931-i-am-fighter-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-16T00:00:00.000Z",
+      "opponent": "Jan Čábelka",
+      "opponentSlug": "199819-jan-cabelka",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IAF Fight Night 1",
+      "eventSlug": "80784-i-am-fighter-fight-night-vol-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-01-30T00:00:00.000Z",
+      "opponent": "Jakub Lukačovič",
+      "opponentSlug": "223854-jakub-lukacovic",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-04T00:00:00.000Z",
+      "opponent": "Tomáš Němeček",
+      "opponentSlug": "266711-tomas-nemecek",
+      "result": "win",
+      "method": "other",
+      "event": "IAF: Streetfighter 8",
+      "eventSlug": "72209-iaf-streetfighter-8",
+      "round": 2,
+      "timeInRound": "1:42"
+    },
+    {
+      "date": "2020-08-14T00:00:00.000Z",
+      "opponent": "Jan David",
+      "opponentSlug": "14493-jan-david-fantastic",
+      "result": "win",
+      "method": "sub",
+      "event": "IAF: Streetfighter 5",
+      "eventSlug": "71781-iaf-streetfighter-5",
+      "round": 1,
+      "timeInRound": "1:53"
+    },
+    {
+      "date": "2020-07-24T00:00:00.000Z",
+      "opponent": "Dominik Toporcer",
+      "opponentSlug": "266710-dominik-toporcner",
+      "result": "win",
+      "method": "sub",
+      "event": "IAF: Streetfighter 2",
+      "eventSlug": "71199-iaf-streetfighter-3",
+      "round": 1,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2020-02-24T00:00:00.000Z",
+      "opponent": "Jan Svoboda",
+      "opponentSlug": "159083-jan-svoboda",
+      "result": "win",
+      "method": "other",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:11:43.546Z"
+}

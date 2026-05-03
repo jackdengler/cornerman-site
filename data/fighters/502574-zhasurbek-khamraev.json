@@ -1,0 +1,33 @@
+{
+  "slug": "502574-zhasurbek-khamraev",
+  "name": "Zhasurbek Khamraev",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 163,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Kazakhstan",
+  "url": "https://www.tapology.com/fightcenter/fighters/502574-zhasurbek-khamraev",
+  "recentFights": [
+    {
+      "date": "2025-05-30T00:00:00.000Z",
+      "opponent": "Yermakhan Oryntaev",
+      "opponentSlug": "361593-yermakhan-oryntaev",
+      "result": "loss",
+      "method": "sub",
+      "event": "Naiza FC 73",
+      "eventSlug": "128139-naiza-fc-73",
+      "round": 1,
+      "timeInRound": "2:39"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:43:39.606Z"
+}

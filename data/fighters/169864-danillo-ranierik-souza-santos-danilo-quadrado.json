@@ -1,0 +1,154 @@
+{
+  "slug": "169864-danillo-ranierik-souza-santos-danilo-quadrado",
+  "name": "Danillo Santos",
+  "nickname": "Quadrada",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 181,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1994-06-15",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/169864-danillo-ranierik-souza-santos-danilo-quadrado",
+  "recentFights": [
+    {
+      "date": "2025-01-18T00:00:00.000Z",
+      "opponent": "Yazid Chouchane",
+      "opponentSlug": "94118-yazid-chouchane",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Ares FC 28: Sola vs. Caio",
+      "eventSlug": "120840-ares-28",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-07T00:00:00.000Z",
+      "opponent": "Junior Melo",
+      "opponentSlug": "121289-jose-cleiton-de-melo-junior-melo",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Victorious MMA 5",
+      "eventSlug": "107666-victorious-mma-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-04-21T00:00:00.000Z",
+      "opponent": "Max Souza",
+      "opponentSlug": "225408-max-souza-predador",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "The Champion MMA 2",
+      "eventSlug": "101834-the-champion-mma-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-18T00:00:00.000Z",
+      "opponent": "David Rodrigues",
+      "opponentSlug": "282419-david-rodrigues",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Number 1 Fight Series 5",
+      "eventSlug": "89921-number-1-fight-series",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-06T00:00:00.000Z",
+      "opponent": "Erique Carvalho",
+      "opponentSlug": "167073-erique-carvalho",
+      "result": "win",
+      "method": "sub",
+      "event": "Number 1 MMA 2",
+      "eventSlug": "82289-number-1-mma-2",
+      "round": 1,
+      "timeInRound": "4:34"
+    },
+    {
+      "date": "2021-08-14T00:00:00.000Z",
+      "opponent": "Walisson Dias",
+      "opponentSlug": "241635-walisson-caveira",
+      "result": "win",
+      "method": "sub",
+      "event": "Number 1 MMA 1",
+      "eventSlug": "79751-number-1-mma",
+      "round": 2,
+      "timeInRound": "3:25"
+    },
+    {
+      "date": "2020-03-14T00:00:00.000Z",
+      "opponent": "Bojan Veličković",
+      "opponentSlug": "16418-bojan-velickovic-veli",
+      "result": "loss",
+      "method": "sub",
+      "event": "Serbian Battle Championship 27",
+      "eventSlug": "67616-serbian-battle-championship-27-revenge",
+      "round": 2,
+      "timeInRound": "0:59"
+    },
+    {
+      "date": "2019-11-08T00:00:00.000Z",
+      "opponent": "Anderson Santos",
+      "opponentSlug": "241641-anderson-santos",
+      "result": "win",
+      "method": "sub",
+      "event": "AFL 21: Brazil",
+      "eventSlug": "64193-afl-21-brasil",
+      "round": 1,
+      "timeInRound": "3:01"
+    },
+    {
+      "date": "2019-01-24T00:00:00.000Z",
+      "opponent": "Adalmir Nunes",
+      "opponentSlug": "174327-adalmir-nunes",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "A Batalha FC 6",
+      "eventSlug": "58024-a-batalha-fc-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-10T00:00:00.000Z",
+      "opponent": "Marcelo Conceição",
+      "opponentSlug": "148985-marcelo-luiz-da-conceio-lenhador",
+      "result": "win",
+      "method": "other",
+      "event": "Action Fight 8",
+      "eventSlug": "51552-action-fight-8-champions-selection",
+      "round": 2,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2017-04-28T00:00:00.000Z",
+      "opponent": "Talisson Quaresma",
+      "opponentSlug": "156539-talisson-quaresma",
+      "result": "win",
+      "method": "sub",
+      "event": "GFC 52",
+      "eventSlug": "46964-gfc-52",
+      "round": 1,
+      "timeInRound": "4:26"
+    },
+    {
+      "date": "2016-12-16T00:00:00.000Z",
+      "opponent": "João Lucas dos Santos",
+      "opponentSlug": "173154-joao-lucas-dos-santos",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:37:58.350Z"
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "196040-kevin-fregoso",
+  "name": "Kevin Fregoso",
+  "nickname": "Chucky",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 163,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": "1999-10-25",
+  "nationality": "Mexico",
+  "url": "https://www.tapology.com/fightcenter/fighters/196040-kevin-fregoso",
+  "recentFights": [
+    {
+      "date": "2022-07-15T00:00:00.000Z",
+      "opponent": "César Vázquez",
+      "opponentSlug": "249311-cesar-vazquez-demoledor-jr",
+      "result": "loss",
+      "method": "sub",
+      "event": "Lux Fight League 24",
+      "eventSlug": "91206-lux-fight-league-24",
+      "round": 1,
+      "timeInRound": "3:29"
+    },
+    {
+      "date": "2019-09-12T00:00:00.000Z",
+      "opponent": "Angel Torres",
+      "opponentSlug": "106292-angel-hernandez-toques",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-22T00:00:00.000Z",
+      "opponent": "Oscar Salazar",
+      "opponentSlug": "259033-oscar-salazar",
+      "result": "win",
+      "method": "other",
+      "event": "AZTK FC 9",
+      "eventSlug": "68613-aztk-fc-9",
+      "round": 1,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2019-03-09T00:00:00.000Z",
+      "opponent": "Janz Fuentes",
+      "opponentSlug": "216702-janz-fuentes-bad-boy",
+      "result": "loss",
+      "method": "sub",
+      "event": "AZTK FC 8",
+      "eventSlug": "62001-aztk-fc-8",
+      "round": 1,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2018-08-25T00:00:00.000Z",
+      "opponent": "Fabian Salazar",
+      "opponentSlug": "196658-fabian-salazar",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-02-16T00:00:00.000Z",
+      "opponent": "Ernesto Ibarra",
+      "opponentSlug": "109896-ernesto-ibarra",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:36:51.620Z"
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "126570-abdulaev-khasanbek",
+  "name": "Khasanbek Abdulaev",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1991-11-28",
+  "nationality": "Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/126570-abdulaev-khasanbek",
+  "recentFights": [
+    {
+      "date": "2016-07-07T00:00:00.000Z",
+      "opponent": "Artem Gruzdov",
+      "opponentSlug": "136076-artem-gruzdov",
+      "result": "loss",
+      "method": "other",
+      "event": "Tech-Krep FC",
+      "eventSlug": "40699-tech-krep-fc-prime-selection-2016-stage-2",
+      "round": 2,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2016-05-10T00:00:00.000Z",
+      "opponent": "Omar Abdulaev",
+      "opponentSlug": "83319-omar-abdulaev",
+      "result": "win",
+      "method": "sub",
+      "event": "Absolute Championship Berkut 36",
+      "eventSlug": "39790-absolute-championship-berkut-36-young-eagles-8",
+      "round": 1,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2016-03-03T00:00:00.000Z",
+      "opponent": "Yaroslav Amosov",
+      "opponentSlug": "81129-yaroslav-amosov",
+      "result": "loss",
+      "method": "other",
+      "event": "Tech-Krep FC",
+      "eventSlug": "37994-tech-krep-fc-southern-front-3",
+      "round": 2,
+      "timeInRound": "2:47"
+    }
+  ],
+  "lastVerified": "2026-04-25T23:04:35.715Z"
+}

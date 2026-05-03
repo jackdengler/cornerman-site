@@ -1,0 +1,44 @@
+{
+  "slug": "37048-alexander-schwarz",
+  "name": "Alexander Schwarz",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Germany",
+  "url": "https://www.tapology.com/fightcenter/fighters/37048-alexander-schwarz",
+  "recentFights": [
+    {
+      "date": "2016-04-09T00:00:00.000Z",
+      "opponent": "Ozan Aslaner",
+      "opponentSlug": "107207-ozan-aslaner",
+      "result": "loss",
+      "method": "other",
+      "event": "Respect FC 16",
+      "eventSlug": "37416-respect-fc-16",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2015-04-11T00:00:00.000Z",
+      "opponent": "Selvin Ramcilovic",
+      "opponentSlug": "84538-selvin-ramcilovic",
+      "result": "win",
+      "method": "sub",
+      "event": "Respect FC 12",
+      "eventSlug": "31777-respect-fc-12",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:07:09.204Z"
+}

@@ -1,0 +1,310 @@
+{
+  "slug": "56568-craig-callahan",
+  "name": "Craig Callaghan",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/56568-craig-callahan",
+  "recentFights": [
+    {
+      "date": "2022-10-20T00:00:00.000Z",
+      "opponent": "Stu Dare",
+      "opponentSlug": "30893-stuart-dare",
+      "result": "win",
+      "method": "sub",
+      "event": "XFC 60",
+      "eventSlug": "94483-xfc-60",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-18T00:00:00.000Z",
+      "opponent": "David Francis",
+      "opponentSlug": "95768-david-francis",
+      "result": "win",
+      "method": "tko",
+      "event": "XFC 57",
+      "eventSlug": "90392-xfc-57",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-12-12T00:00:00.000Z",
+      "opponent": "Sebastian Temesi",
+      "opponentSlug": "141896-sebastian-temesi",
+      "result": "win",
+      "method": "tko",
+      "event": "XFC 46: State Of Origin",
+      "eventSlug": "73764-xfc-46",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-02T00:00:00.000Z",
+      "opponent": "Andrew Mills",
+      "opponentSlug": "60603-andrew-mills",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "XFC 37: Small vs. Bradney",
+      "eventSlug": "53413-xfc-37",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-28T00:00:00.000Z",
+      "opponent": "Dimps Gillies",
+      "opponentSlug": "140176-dimps-gillies",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XFC 36: Joiner vs Tafa",
+      "eventSlug": "52919-xfc-36",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-25T00:00:00.000Z",
+      "opponent": "Joel Kendrick",
+      "opponentSlug": "108876-joel-kendricks",
+      "result": "loss",
+      "method": "sub",
+      "event": "XFC 32: State of Origin",
+      "eventSlug": "48365-xfc-32-state-of-origin",
+      "round": 2,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2017-08-19T00:00:00.000Z",
+      "opponent": "Glen Pettigrew",
+      "opponentSlug": "102565-glen-pettigrew",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "XFC 31",
+      "eventSlug": "46513-xfc-31",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-20T00:00:00.000Z",
+      "opponent": "Michael McDaniel",
+      "opponentSlug": "67818-michael-mcdaniel",
+      "result": "win",
+      "method": "other",
+      "event": "XFC 30: Conflict of Interest",
+      "eventSlug": "44908-xfc-30-conflict-of-interest",
+      "round": 1,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2017-02-18T00:00:00.000Z",
+      "opponent": "Joel Fahey",
+      "opponentSlug": "83171-joel-fahey",
+      "result": "win",
+      "method": "sub",
+      "event": "XFC 29",
+      "eventSlug": "42980-xfc-29",
+      "round": 2,
+      "timeInRound": "4:23"
+    },
+    {
+      "date": "2016-11-19T00:00:00.000Z",
+      "opponent": "Josh Robson",
+      "opponentSlug": "136409-josh-robson",
+      "result": "win",
+      "method": "tko",
+      "event": "XFC 28: Road to Pancrase",
+      "eventSlug": "41985-xfc-28-road-to-pancrase",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-10-26T00:00:00.000Z",
+      "opponent": "Ben Games",
+      "opponentSlug": "56569-ben-games",
+      "result": "loss",
+      "method": "other",
+      "event": "BRACE 23",
+      "eventSlug": "20034-bfw-22",
+      "round": 2,
+      "timeInRound": "4:02"
+    },
+    {
+      "date": "2011-11-19T00:00:00.000Z",
+      "opponent": "Sean Kolders",
+      "opponentSlug": "56574-sean-kolders",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-08-14T00:00:00.000Z",
+      "opponent": "Ben Bruin",
+      "opponentSlug": "56575-ben-bruin",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "allFights": [
+    {
+      "date": "2022-10-20T00:00:00.000Z",
+      "opponent": "Stu Dare",
+      "opponentSlug": "30893-stuart-dare",
+      "result": "win",
+      "method": "sub",
+      "event": "XFC 60",
+      "eventSlug": "94483-xfc-60",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-18T00:00:00.000Z",
+      "opponent": "David Francis",
+      "opponentSlug": "95768-david-francis",
+      "result": "win",
+      "method": "tko",
+      "event": "XFC 57",
+      "eventSlug": "90392-xfc-57",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-12-12T00:00:00.000Z",
+      "opponent": "Sebastian Temesi",
+      "opponentSlug": "141896-sebastian-temesi",
+      "result": "win",
+      "method": "tko",
+      "event": "XFC 46: State Of Origin",
+      "eventSlug": "73764-xfc-46",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-02T00:00:00.000Z",
+      "opponent": "Andrew Mills",
+      "opponentSlug": "60603-andrew-mills",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "XFC 37: Small vs. Bradney",
+      "eventSlug": "53413-xfc-37",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-28T00:00:00.000Z",
+      "opponent": "Dimps Gillies",
+      "opponentSlug": "140176-dimps-gillies",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XFC 36: Joiner vs Tafa",
+      "eventSlug": "52919-xfc-36",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-25T00:00:00.000Z",
+      "opponent": "Joel Kendrick",
+      "opponentSlug": "108876-joel-kendricks",
+      "result": "loss",
+      "method": "sub",
+      "event": "XFC 32: State of Origin",
+      "eventSlug": "48365-xfc-32-state-of-origin",
+      "round": 2,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2017-08-19T00:00:00.000Z",
+      "opponent": "Glen Pettigrew",
+      "opponentSlug": "102565-glen-pettigrew",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "XFC 31",
+      "eventSlug": "46513-xfc-31",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-20T00:00:00.000Z",
+      "opponent": "Michael McDaniel",
+      "opponentSlug": "67818-michael-mcdaniel",
+      "result": "win",
+      "method": "other",
+      "event": "XFC 30: Conflict of Interest",
+      "eventSlug": "44908-xfc-30-conflict-of-interest",
+      "round": 1,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2017-02-18T00:00:00.000Z",
+      "opponent": "Joel Fahey",
+      "opponentSlug": "83171-joel-fahey",
+      "result": "win",
+      "method": "sub",
+      "event": "XFC 29",
+      "eventSlug": "42980-xfc-29",
+      "round": 2,
+      "timeInRound": "4:23"
+    },
+    {
+      "date": "2016-11-19T00:00:00.000Z",
+      "opponent": "Josh Robson",
+      "opponentSlug": "136409-josh-robson",
+      "result": "win",
+      "method": "tko",
+      "event": "XFC 28: Road to Pancrase",
+      "eventSlug": "41985-xfc-28-road-to-pancrase",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-10-26T00:00:00.000Z",
+      "opponent": "Ben Games",
+      "opponentSlug": "56569-ben-games",
+      "result": "loss",
+      "method": "other",
+      "event": "BRACE 23",
+      "eventSlug": "20034-bfw-22",
+      "round": 2,
+      "timeInRound": "4:02"
+    },
+    {
+      "date": "2011-11-19T00:00:00.000Z",
+      "opponent": "Sean Kolders",
+      "opponentSlug": "56574-sean-kolders",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-08-14T00:00:00.000Z",
+      "opponent": "Ben Bruin",
+      "opponentSlug": "56575-ben-bruin",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-05-03T10:17:28.979Z"
+}

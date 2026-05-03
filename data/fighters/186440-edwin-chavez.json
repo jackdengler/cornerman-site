@@ -1,0 +1,220 @@
+{
+  "slug": "186440-edwin-chavez",
+  "name": "Edwin Chavez",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": 180,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/186440-edwin-chavez",
+  "recentFights": [
+    {
+      "date": "2025-10-10T00:00:00.000Z",
+      "opponent": "Justin Gonzales",
+      "opponentSlug": "45007-justin-gonzales",
+      "result": "win",
+      "method": "other",
+      "event": "Colorado Combat Club 26",
+      "eventSlug": "133023-colorado-combat-club-26",
+      "round": 3,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2023-06-16T00:00:00.000Z",
+      "opponent": "Cody Law",
+      "opponentSlug": "191893-cody-law",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bellator 297",
+      "eventSlug": "99770-bellator-297-nemkov-vs-romero",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-17T00:00:00.000Z",
+      "opponent": "Josh Marsh",
+      "opponentSlug": "96053-josh-marsh",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Colorado Combat Club 16",
+      "eventSlug": "95499-colorado-combat-club-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-18T00:00:00.000Z",
+      "opponent": "Youssef Zalal",
+      "opponentSlug": "110826-youssef-zalaal",
+      "result": "loss",
+      "method": "other",
+      "event": "Sparta 93",
+      "eventSlug": "94028-sparta-93",
+      "round": 1,
+      "timeInRound": "3:44"
+    },
+    {
+      "date": "2022-06-17T00:00:00.000Z",
+      "opponent": "Collin Anglin",
+      "opponentSlug": "119395-collin-anglin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Colorado Combat Club 12",
+      "eventSlug": "88243-colorado-combat-club-12-petrosyan-vs-janzemini",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-14T00:00:00.000Z",
+      "opponent": "Andrés Quintana",
+      "opponentSlug": "13132-andres-quintanavia",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fury FC 53: Lookin' For a Fight",
+      "eventSlug": "83020-fury-fc-53-lookin-for-a-fight",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-20T00:00:00.000Z",
+      "opponent": "Gabriel Macário",
+      "opponentSlug": "57633-gabriel-macario",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fury FC 47",
+      "eventSlug": "79461-fury-fc-47",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-30T00:00:00.000Z",
+      "opponent": "Cheyden Leialoha",
+      "opponentSlug": "75308-cheyden-leialoha",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 106: Silveira vs. Viana",
+      "eventSlug": "78882-lfa-106-silveira-vs-viana",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-10-30T00:00:00.000Z",
+      "opponent": "Jordan Downey",
+      "opponentSlug": "28242-jordan-downey",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MCF 19: The Beatdown",
+      "eventSlug": "72820-mcf-19-the-beatdown",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-11T00:00:00.000Z",
+      "opponent": "Keilen Fantroy",
+      "opponentSlug": "133780-keilen-fantroy",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 91: Njokuani vs. Torres",
+      "eventSlug": "72275-lfa-91-njokuani-vs-torres",
+      "round": 1,
+      "timeInRound": "4:00"
+    },
+    {
+      "date": "2019-11-22T00:00:00.000Z",
+      "opponent": "Michael Santos",
+      "opponentSlug": "49251-michael-santos",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 79: Royval vs. Williams",
+      "eventSlug": "64015-lfa-79-royval-vs-scoggins",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-28T00:00:00.000Z",
+      "opponent": "Kyle Broadwater",
+      "opponentSlug": "151014-kyle-broadwater",
+      "result": "win",
+      "method": "tko",
+      "event": "Fury FC 37",
+      "eventSlug": "62275-fury-fc-37",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-02-23T00:00:00.000Z",
+      "opponent": "Dean Cotton",
+      "opponentSlug": "162255-dean-cotton",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "SCL 72",
+      "eventSlug": "58344-scl-72",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-01-19T00:00:00.000Z",
+      "opponent": "Darien Robinson",
+      "opponentSlug": "174678-darien-robinson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "NMEF: Annihilation 65",
+      "eventSlug": "57288-nmef-annihilation-65",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-01T00:00:00.000Z",
+      "opponent": "Joey Garcia",
+      "opponentSlug": "62748-joey-garcia",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "SCL 70: Queen of Sparta Flyweight",
+      "eventSlug": "56087-scl",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-12T00:00:00.000Z",
+      "opponent": "Jota Ninomiya",
+      "opponentSlug": "202997-jota-ninomiya",
+      "result": "win",
+      "method": "other",
+      "event": "Mile High MMAyhem",
+      "eventSlug": "56821-mile-high-mmayhem",
+      "round": 3,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2018-09-15T00:00:00.000Z",
+      "opponent": "Michael Jackson",
+      "opponentSlug": "174676-michael-jackson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "NMEF: Annihilation 64",
+      "eventSlug": "53856-nmef-annihilation-64",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-11T00:00:00.000Z",
+      "opponent": "Pete Rothans",
+      "opponentSlug": "186439-pete-rothans",
+      "result": "win",
+      "method": "sub",
+      "event": "NMEF: Annihilation 63",
+      "eventSlug": "52936-nmef-annhilation-63",
+      "round": 2,
+      "timeInRound": "2:46"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:32:25.424Z"
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "162004-demarcus-kemp",
+  "name": "Demarcus Kemp",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1996-08-30",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/162004-demarcus-kemp",
+  "recentFights": [
+    {
+      "date": "2026-03-28T00:00:00.000Z",
+      "opponent": "Jon Orso",
+      "opponentSlug": "484309-jon-orso",
+      "result": "loss",
+      "method": "tko",
+      "event": "Island Fights 95",
+      "eventSlug": "138659-island-fights-95",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-18T00:00:00.000Z",
+      "opponent": "Sedriques Dumas",
+      "opponentSlug": "188574-sedriques-dumas",
+      "result": "loss",
+      "method": "other",
+      "event": "Gamebred Fighting Championship 1",
+      "eventSlug": "79546-gamebred-fighting-championship-1",
+      "round": 2,
+      "timeInRound": "1:18"
+    },
+    {
+      "date": "2017-11-18T00:00:00.000Z",
+      "opponent": "Ben Doomes",
+      "opponentSlug": "104728-ben-doomes",
+      "result": "loss",
+      "method": "other",
+      "event": "Battle at the Beach 3",
+      "eventSlug": "49779-battle-at-the-beach-3",
+      "round": 1,
+      "timeInRound": "3:34"
+    },
+    {
+      "date": "2017-08-18T00:00:00.000Z",
+      "opponent": "Uroš Jurišić",
+      "opponentSlug": "78728-uros-jurisic",
+      "result": "loss",
+      "method": "other",
+      "event": "Titan FC 45",
+      "eventSlug": "47023-titan-fc-45-araujo-vs-capitulino",
+      "round": 1,
+      "timeInRound": "2:10"
+    },
+    {
+      "date": "2017-07-22T00:00:00.000Z",
+      "opponent": "Devin Adams",
+      "opponentSlug": "49803-devin-adams",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Island Fights 41",
+      "eventSlug": "45946-island-fights-41",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-14T00:00:00.000Z",
+      "opponent": "Leonard Williams",
+      "opponentSlug": "106665-leonard-williams",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Island Fights 40",
+      "eventSlug": "45166-island-fights-40",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-09T00:00:00.000Z",
+      "opponent": "Billy Goode",
+      "opponentSlug": "98211-billy-goode",
+      "result": "win",
+      "method": "sub",
+      "event": "Caged Combat 7",
+      "eventSlug": "35995-caged-combat-7",
+      "round": 2,
+      "timeInRound": "2:31"
+    },
+    {
+      "date": "2015-09-18T00:00:00.000Z",
+      "opponent": "Jonathan Miller",
+      "opponentSlug": "56805-jonathan-miller",
+      "result": "win",
+      "method": "other",
+      "event": "Island Fights 35",
+      "eventSlug": "34727-island-fights-35",
+      "round": 3,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:53:18.453Z"
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "195212-tamerlan-dulatov",
+  "name": "Tamerlan Dulatov",
+  "nickname": "Most Wanted",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 191,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "2000-05-19",
+  "nationality": "Urus Martan, Chechnya",
+  "url": "https://www.tapology.com/fightcenter/fighters/195212-tamerlan-dulatov",
+  "recentFights": [
+    {
+      "date": "2026-01-17T00:00:00.000Z",
+      "opponent": "Stefan Končar",
+      "opponentSlug": "481316-stefan-koncar-the-terror",
+      "result": "win",
+      "method": "sub",
+      "event": "OKTAGON 82: Engizek vs. Jotko",
+      "eventSlug": "134065-oktagon-82",
+      "round": 1,
+      "timeInRound": "4:46"
+    },
+    {
+      "date": "2025-10-18T00:00:00.000Z",
+      "opponent": "Henrique Melo",
+      "opponentSlug": "392640-henrique-manauara",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 78: Eckerlin vs. Trušček",
+      "eventSlug": "118937-oktagon",
+      "round": 1,
+      "timeInRound": "0:52"
+    },
+    {
+      "date": "2025-02-01T00:00:00.000Z",
+      "opponent": "Ghith Ighzawi",
+      "opponentSlug": "478206-ghith-ighzawi",
+      "result": "win",
+      "method": "sub",
+      "event": "OKTAGON 66: Engizek vs. Oniszczuk",
+      "eventSlug": "118928-oktagon",
+      "round": 1,
+      "timeInRound": "0:16"
+    },
+    {
+      "date": "2023-10-07T00:00:00.000Z",
+      "opponent": "Dimitrij Ninić",
+      "opponentSlug": "402984-dimitrij-ninic-ninja",
+      "result": "win",
+      "method": "other",
+      "event": "Sparta Championship Fighting 3",
+      "eventSlug": "104925-sparta-championship-fighting-3",
+      "round": 1,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2018-09-01T00:00:00.000Z",
+      "opponent": "Jan Roth",
+      "opponentSlug": "195213-jan-roth",
+      "result": "win",
+      "method": "sub",
+      "event": "Integra FC 10",
+      "eventSlug": "53559-integra-fc-10",
+      "round": 2,
+      "timeInRound": "4:34"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:08:32.003Z"
+}

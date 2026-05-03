@@ -1,0 +1,114 @@
+{
+  "slug": "197432-matej-jez",
+  "name": "Matěj Jež",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 4,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1999-10-13",
+  "nationality": "Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/197432-matej-jez",
+  "recentFights": [
+    {
+      "date": "2025-09-05T00:00:00.000Z",
+      "opponent": "Marek Budinsky",
+      "opponentSlug": "383971-marek-budinsky",
+      "result": null,
+      "method": "other",
+      "event": "CL MMA 2",
+      "eventSlug": "132640-cl-mma-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-15T00:00:00.000Z",
+      "opponent": "Volodomyr Aleksieienko",
+      "opponentSlug": "363160-volodomyr-aleksieienko",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "MMAA Arena Cup 89",
+      "eventSlug": "117739-mmaa-arena-cup-89",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-09T00:00:00.000Z",
+      "opponent": "Mikolaj Ivanchuk",
+      "opponentSlug": "413770-mikolaj-ivanchuk",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MMAA Arena Cup 83",
+      "eventSlug": "108297-mmaa-arena-cup-83",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-16T00:00:00.000Z",
+      "opponent": "Daniel Obracaj",
+      "opponentSlug": "147148-daniel-obracaj",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMAA Arena Cup 80",
+      "eventSlug": "103940-mmaa-arena-cup-80",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-28T00:00:00.000Z",
+      "opponent": "Filip Buřič",
+      "opponentSlug": "209238-filip-buric",
+      "result": "win",
+      "method": "tko",
+      "event": "RP Security MMAA Arena Cup 54",
+      "eventSlug": "63215-rp-security-mmaa-arena-cup-54",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-01-27T00:00:00.000Z",
+      "opponent": "Václav Štěpán",
+      "opponentSlug": "197384-vaclav-stepan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "RP Security MMAA Aréna Cup 48",
+      "eventSlug": "58110-rp-security-mmaa-arena-cup-48",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-27T00:00:00.000Z",
+      "opponent": "Jan Čábelka",
+      "opponentSlug": "199819-jan-cabelka",
+      "result": "win",
+      "method": "dec-split",
+      "event": "MMAA Aréna Cup 45",
+      "eventSlug": "55768-mmaa-arena-cup-45",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-29T00:00:00.000Z",
+      "opponent": "Rastislav Matucha",
+      "opponentSlug": "197433-rastislav-matucha",
+      "result": "win",
+      "method": "tko",
+      "event": "MMAA Arena Cup 44",
+      "eventSlug": "55666-mmaa-arena-cup-44",
+      "round": 2,
+      "timeInRound": "1:31"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:09:46.490Z"
+}

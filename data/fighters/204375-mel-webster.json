@@ -1,0 +1,125 @@
+{
+  "slug": "204375-mel-webster",
+  "name": "Mel Webster",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 5,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1985-06-04",
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/204375-mel-webster",
+  "recentFights": [
+    {
+      "date": "2022-07-09T00:00:00.000Z",
+      "opponent": "Kelsey Schroder",
+      "opponentSlug": "257250-kelsey-schroder",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "IMMAF",
+      "eventSlug": "91524-immafa-south-pacific-championships-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-01-27T00:00:00.000Z",
+      "opponent": "Aizhan Abdykadyr",
+      "opponentSlug": "201405-aizhan-abdykadyr",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "IMMAF",
+      "eventSlug": "86217-immaf-2021-world-senior-championships-day-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-18T00:00:00.000Z",
+      "opponent": "Natasha Tuuta",
+      "opponentSlug": "319733-natasha-tuuta",
+      "result": null,
+      "method": "other",
+      "event": "XFC 54",
+      "eventSlug": "84518-xfc-54",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-03-07T00:00:00.000Z",
+      "opponent": "Jenni Kivioja",
+      "opponentSlug": "190264-jenni-kivioja",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "67964-immaf-wmmaa-oceania-open-cup-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-16T00:00:00.000Z",
+      "opponent": "Michelle Montague",
+      "opponentSlug": "237486-michell-montague",
+      "result": "loss",
+      "method": "sub",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64429-immaf-wmmaa-amateur-world-championships-2019-day-5",
+      "round": 1,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2019-11-14T00:00:00.000Z",
+      "opponent": "Saida Khassenova",
+      "opponentSlug": "242755-saida-khassenova",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64428-immaf-wmmaa-amateur-world-championships-2019-day-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-13T00:00:00.000Z",
+      "opponent": "Kaycee Blake",
+      "opponentSlug": "169551-kaycee-blake",
+      "result": "win",
+      "method": "tko",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64319-immaf-wmmaa-amateur-world-championships-2019",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2019-04-14T00:00:00.000Z",
+      "opponent": "Michelle Montague",
+      "opponentSlug": "237486-michell-montague",
+      "result": "loss",
+      "method": "other",
+      "event": "2019 IMMAF-WMMAA Oceania Open Championships: Finals",
+      "eventSlug": "59865-2019-immaf-wmmaa-oceania-open-championships-day-1-oceania-open-championships-finals",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2018-12-07T00:00:00.000Z",
+      "opponent": "Leanne Scorgie",
+      "opponentSlug": "204374-leanne-scorgie",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XFC 38: Anderson vs. Afoa",
+      "eventSlug": "56355-xfc-38-anderson-vs-afoa",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:55:05.455Z"
+}

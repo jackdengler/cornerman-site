@@ -1,0 +1,88 @@
+{
+  "slug": "36547-renato-da-silva-jr-rasta",
+  "name": "Renato da Silva Jr.",
+  "nickname": "Rasta",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1983-06-26",
+  "nationality": "Curitiba, Parana, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/36547-renato-da-silva-jr-rasta",
+  "recentFights": [
+    {
+      "date": "2018-07-20T00:00:00.000Z",
+      "opponent": "Sérgio de Fátima",
+      "opponentSlug": "50589-srgio-de-ftima",
+      "result": "win",
+      "method": "other",
+      "event": "Sicario MMA 1",
+      "eventSlug": "54295-sicario-mma-1",
+      "round": 1,
+      "timeInRound": "0:19"
+    },
+    {
+      "date": "2015-09-05T00:00:00.000Z",
+      "opponent": "Hugo Matheus",
+      "opponentSlug": "88877-hugo-matheus",
+      "result": "loss",
+      "method": "sub",
+      "event": "Copa Striker's House 53",
+      "eventSlug": "34952-copa-strikers-house-53",
+      "round": 1,
+      "timeInRound": "2:52"
+    },
+    {
+      "date": "2013-12-07T00:00:00.000Z",
+      "opponent": "Rodrigo Gomes",
+      "opponentSlug": "59432-rodrigo-gomes",
+      "result": "win",
+      "method": "other",
+      "event": "SMASH Fight 3",
+      "eventSlug": "21261-smash-fight-3-rising-stars",
+      "round": 1,
+      "timeInRound": "2:28"
+    },
+    {
+      "date": "2013-07-13T00:00:00.000Z",
+      "opponent": "André Ricardo",
+      "opponentSlug": "50791-andr-ricardo-ded",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "SMASH Fight 2",
+      "eventSlug": "19316-smash-fight-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-10-20T00:00:00.000Z",
+      "opponent": "Gabriel Miranda",
+      "opponentSlug": "36548-gabriel-miranda-fly",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Empire FC 1",
+      "eventSlug": "16197-empire-fc-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-03-24T00:00:00.000Z",
+      "opponent": "Carlos Prates",
+      "opponentSlug": "36554-carlos-prates-carlao",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:11:08.933Z"
+}

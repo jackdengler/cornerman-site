@@ -1,0 +1,165 @@
+{
+  "slug": "261644-ingrid-silva",
+  "name": "Ingrid Silva",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 160,
+  "reachCm": null,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": "2000-03-23",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/261644-ingrid-silva",
+  "recentFights": [
+    {
+      "date": "2026-02-07T00:00:00.000Z",
+      "opponent": "Sabrina Santiago",
+      "opponentSlug": "359107-sabrina-santiago",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Mamute Fight Champion 10",
+      "eventSlug": "140288-mamute-fight-champion-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-12-06T00:00:00.000Z",
+      "opponent": "Maristela Alves",
+      "opponentSlug": "227184-maristela-alves",
+      "result": "loss",
+      "method": "other",
+      "event": "RXF 11",
+      "eventSlug": "138190-rxf-11",
+      "round": 3,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2025-09-13T00:00:00.000Z",
+      "opponent": "Delphine Benouaich",
+      "opponentSlug": "328062-delphine-benouaich",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Ares FC 34: Begai vs Diakhaté",
+      "eventSlug": "129606-ares-fc-34",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-16T00:00:00.000Z",
+      "opponent": "Fernanda Sevalho",
+      "opponentSlug": "216219-fernanda-mendes",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Jungle Fight 132",
+      "eventSlug": "120058-jungle-fight-132",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-10-19T00:00:00.000Z",
+      "opponent": "Mayara Thays",
+      "opponentSlug": "164647-mayara-thays-cangaceira",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "GVT 5",
+      "eventSlug": "120362-gvt-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-12T00:00:00.000Z",
+      "opponent": "Mileide Simplicio",
+      "opponentSlug": "266639-mileide-simplicio",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Paraíba Fight 3",
+      "eventSlug": "103512-paraiba-fight-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-10T00:00:00.000Z",
+      "opponent": "Rafaela Bernardo",
+      "opponentSlug": "274602-rafaela-das-chagas-golden-girl",
+      "result": "win",
+      "method": "sub",
+      "event": "KFC 5",
+      "eventSlug": "103131-kfc-5",
+      "round": 2,
+      "timeInRound": "4:12"
+    },
+    {
+      "date": "2022-09-30T00:00:00.000Z",
+      "opponent": "Natalia Alves",
+      "opponentSlug": "274599-natalia-alves",
+      "result": "loss",
+      "method": "tko",
+      "event": "LFA 143: Lopes vs. Paiva",
+      "eventSlug": "92701-lfa-143-lopes-vs-paiva",
+      "round": 2,
+      "timeInRound": "3:06"
+    },
+    {
+      "date": "2022-09-10T00:00:00.000Z",
+      "opponent": "Rafaela Bernardo",
+      "opponentSlug": "274602-rafaela-das-chagas-golden-girl",
+      "result": "win",
+      "method": "other",
+      "event": "Paraíba Fight 2",
+      "eventSlug": "92057-paraiba-fight-2",
+      "round": 1,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2021-08-21T00:00:00.000Z",
+      "opponent": "Bruna Brasil",
+      "opponentSlug": "117583-bruna-brasil",
+      "result": "loss",
+      "method": "other",
+      "event": "Brazilian Fighting Series 2",
+      "eventSlug": "80837-brazilian-fighting-series-2",
+      "round": 1,
+      "timeInRound": "0:26"
+    },
+    {
+      "date": "2020-11-06T00:00:00.000Z",
+      "opponent": "Jessica Felix",
+      "opponentSlug": "279427-jessica-felix-pitbull",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Best Combat MMA 1",
+      "eventSlug": "74602-best-combat-mma-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-14T00:00:00.000Z",
+      "opponent": "Diná da Silva",
+      "opponentSlug": "261643-dina-da-silva",
+      "result": "loss",
+      "method": "sub",
+      "event": "Paraíba Fight 1",
+      "eventSlug": "69606-paraiba-fight",
+      "round": 3,
+      "timeInRound": "4:12"
+    },
+    {
+      "date": "2018-10-25T00:00:00.000Z",
+      "opponent": "Ana Verena",
+      "opponentSlug": "261642-ana-verena",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "GFC 63",
+      "eventSlug": "58211-gfc-63",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:10:34.170Z"
+}

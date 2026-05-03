@@ -1,0 +1,231 @@
+{
+  "slug": "86544-kalunda-gunther",
+  "name": "Gunther Kalunda Ngunza",
+  "nickname": "The Beest",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1992-07-07",
+  "nationality": "Kinsasha, Democratic Republic Of The Congo",
+  "url": "https://www.tapology.com/fightcenter/fighters/86544-kalunda-gunther",
+  "recentFights": [
+    {
+      "date": "2025-06-12T00:00:00.000Z",
+      "opponent": "Omran Chaaban",
+      "opponentSlug": "130312-omran-chabaan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UAE Warriors 59",
+      "eventSlug": "128647-uae-warriors-59-arabia-vs-africa",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-15T00:00:00.000Z",
+      "opponent": "Nathaniel Inwood",
+      "opponentSlug": "301431-gravedigger",
+      "result": "win",
+      "method": "other",
+      "event": "KROSS×OVER-CAGE.3-",
+      "eventSlug": "114866-krossxover-cage-3",
+      "round": 1,
+      "timeInRound": "3:26"
+    },
+    {
+      "date": "2022-07-30T00:00:00.000Z",
+      "opponent": "Arata Fujimoto",
+      "opponentSlug": "8410-arata-fujimoto",
+      "result": "win",
+      "method": "other",
+      "event": "KROSS×OVER 18",
+      "eventSlug": "91257-krossxover-18",
+      "round": 1,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2022-04-24T00:00:00.000Z",
+      "opponent": "Yuji Ephoeviga",
+      "opponentSlug": "301022-yuji-yannick-ephoeviga",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Pound Storm",
+      "eventSlug": "88654-pound-storm",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-20T00:00:00.000Z",
+      "opponent": "Kimihiro Eto",
+      "opponentSlug": "50965-kimihiro-eto",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shooto 2021 Vol.6",
+      "eventSlug": "81367-shooto-2021-vol-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-01-30T00:00:00.000Z",
+      "opponent": "Sotaro Yamada",
+      "opponentSlug": "sotaro-yamada",
+      "result": "loss",
+      "method": "sub",
+      "event": "Shooto 2021",
+      "eventSlug": "75387-shooto-2021",
+      "round": 1,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2020-09-10T00:00:00.000Z",
+      "opponent": "Hiroyuki Tetsuka",
+      "opponentSlug": "39909-hiroyuki-tetsuka-last-samurai",
+      "result": "loss",
+      "method": "other",
+      "event": "Road to ONE",
+      "eventSlug": "72199-road-to-one-3rd-tokyo-fight-night",
+      "round": 1,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2019-06-20T00:00:00.000Z",
+      "opponent": "Mehdi Bagheri",
+      "opponentSlug": "103813-mehdi-bagheri",
+      "result": "win",
+      "method": "other",
+      "event": "ONE Warrior Series 6",
+      "eventSlug": "60567-one-warrior-series-6",
+      "round": 2,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2019-04-25T00:00:00.000Z",
+      "opponent": "Carlos Prates",
+      "opponentSlug": "36554-carlos-prates-carlao",
+      "result": "loss",
+      "method": "other",
+      "event": "ONE Warrior Series 5",
+      "eventSlug": "59726-one-warrior-series-5",
+      "round": 2,
+      "timeInRound": "4:45"
+    },
+    {
+      "date": "2018-09-07T00:00:00.000Z",
+      "opponent": "José da Rocha Junior",
+      "opponentSlug": "71725-maurcio-da-rocha-jr-dedinho",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "EFC Worldwide 73",
+      "eventSlug": "55036-efc-worldwide-73",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-10T00:00:00.000Z",
+      "opponent": "Pietie Coxen",
+      "opponentSlug": "54992-pietie-coxen-thunder",
+      "result": "win",
+      "method": "sub",
+      "event": "EFC Worldwide 67",
+      "eventSlug": "50520-efc-worldwide-67",
+      "round": 1,
+      "timeInRound": "4:42"
+    },
+    {
+      "date": "2017-12-16T00:00:00.000Z",
+      "opponent": "Conrad Seabi",
+      "opponentSlug": "83133-conrad-seabi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "EFC Worldwide 66",
+      "eventSlug": "47262-the-fighter-1-finals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-09T00:00:00.000Z",
+      "opponent": "Armand Scheepers",
+      "opponentSlug": "83315-armand-scheepers",
+      "result": "win",
+      "method": "tko",
+      "event": "EFC Worldwide 63",
+      "eventSlug": "43884-efc-worldwide-63",
+      "round": 1,
+      "timeInRound": "1:51"
+    },
+    {
+      "date": "2017-07-08T00:00:00.000Z",
+      "opponent": "Francois Cundari",
+      "opponentSlug": "83062-francois-dasanto-strydom",
+      "result": "win",
+      "method": "other",
+      "event": "EFC Worldwide 61",
+      "eventSlug": "43882-efc-worldwide-61",
+      "round": 2,
+      "timeInRound": "3:15"
+    },
+    {
+      "date": "2016-05-07T00:00:00.000Z",
+      "opponent": "Fanie Prinsloo",
+      "opponentSlug": "94811-fanie-prinsloo-viper",
+      "result": "win",
+      "method": "other",
+      "event": "Fightstar FC 18",
+      "eventSlug": "29732-fightstar-fc-18",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2015-05-02T00:00:00.000Z",
+      "opponent": "Lance Pina",
+      "opponentSlug": "99570-lance-pina",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fightstar FC 12",
+      "eventSlug": "29727-fightstar-fc-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-02-28T00:00:00.000Z",
+      "opponent": "Ndidi Alonu",
+      "opponentSlug": "87444-horatius-alonu-rage",
+      "result": "draw",
+      "method": "dec-split",
+      "event": "Fightstar FC 11",
+      "eventSlug": "28829-fightstar-fc-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-12-06T00:00:00.000Z",
+      "opponent": "Matala Ambamba",
+      "opponentSlug": "82862-robbo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fightstar FC 10",
+      "eventSlug": "27877-fightstar-fc-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-22T00:00:00.000Z",
+      "opponent": "Jimmy James",
+      "opponentSlug": "86545-jimmy-james",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Wars Evolution 4",
+      "eventSlug": "27444-cage-wars-evolution-4-retribution",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:10:44.397Z"
+}

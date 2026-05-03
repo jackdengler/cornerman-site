@@ -1,0 +1,121 @@
+{
+  "slug": "114579-wanderley-freitas",
+  "name": "Wanderley Freitas",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 163,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1989-05-26",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/114579-wanderley-freitas",
+  "recentFights": [
+    {
+      "date": "2018-12-08T00:00:00.000Z",
+      "opponent": "Luan Marinho",
+      "opponentSlug": "184030-luan-pedra",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-03T00:00:00.000Z",
+      "opponent": "Zairo Garcia",
+      "opponentSlug": "39271-zairo-garcia",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MFC 2",
+      "eventSlug": "56202-mfc-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-06-11T00:00:00.000Z",
+      "opponent": "Thiago Oliveira",
+      "opponentSlug": "36127-thiago-freitas",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-09T00:00:00.000Z",
+      "opponent": "Eudes Tavares",
+      "opponentSlug": "39596-eudes-tavares-cachorrao",
+      "result": "loss",
+      "method": "sub",
+      "event": "NFC 10",
+      "eventSlug": "38655-natal-fc-10",
+      "round": 1,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2015-09-24T00:00:00.000Z",
+      "opponent": "Jordan Rocha",
+      "opponentSlug": "70911-jordan-rocha-kratos",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-19T00:00:00.000Z",
+      "opponent": "Jeferson Reis",
+      "opponentSlug": "62444-jefferson-pedra-maluquinho",
+      "result": "win",
+      "method": "sub",
+      "event": "Norte Leste Fight 4",
+      "eventSlug": "35480-norte-leste-fight-4",
+      "round": 1,
+      "timeInRound": "1:27"
+    },
+    {
+      "date": "2015-03-07T00:00:00.000Z",
+      "opponent": "Andrey Gomes",
+      "opponentSlug": "234376-andrey-gomes",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-01-17T00:00:00.000Z",
+      "opponent": "Fidel Oliveira",
+      "opponentSlug": "114618-fidel-oliveira-castro",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-09-29T00:00:00.000Z",
+      "opponent": "Kevin Christian",
+      "opponentSlug": "124745-kevin-christian",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:17:13.510Z"
+}

@@ -1,0 +1,187 @@
+{
+  "slug": "294527-michal-hawro",
+  "name": "Michał Hawro",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 169,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "2001-04-15",
+  "nationality": "Poland",
+  "url": "https://www.tapology.com/fightcenter/fighters/294527-michal-hawro",
+  "recentFights": [
+    {
+      "date": "2026-04-11T00:00:00.000Z",
+      "opponent": "Lukáš Chotěnovský",
+      "opponentSlug": "179980-luk-chotnovsk",
+      "result": "loss",
+      "method": "sub",
+      "event": "OKTAGON 86: Materla vs. Jungwirth",
+      "eventSlug": "135520-oktagon-86",
+      "round": 3,
+      "timeInRound": "4:14"
+    },
+    {
+      "date": "2025-12-12T00:00:00.000Z",
+      "opponent": "Ruslan Mammadov",
+      "opponentSlug": "170780-ruslan-mammadov",
+      "result": "loss",
+      "method": "other",
+      "event": "Hybrid MMA 10",
+      "eventSlug": "136928-hybrid-mma-10",
+      "round": 1,
+      "timeInRound": "0:31"
+    },
+    {
+      "date": "2025-09-13T00:00:00.000Z",
+      "opponent": "Muhammed Ali Ismayliv",
+      "opponentSlug": "482740-muhammed-ali-ismayliv",
+      "result": "win",
+      "method": "other",
+      "event": "Hybrid MMA 9",
+      "eventSlug": "130588-hybrid-mma-9-nowe-rozdanie",
+      "round": 1,
+      "timeInRound": "3:58"
+    },
+    {
+      "date": "2025-05-09T00:00:00.000Z",
+      "opponent": "Patryk Likus",
+      "opponentSlug": "199206-patryk-likus",
+      "result": "win",
+      "method": "other",
+      "event": "Hybrid MMA 8",
+      "eventSlug": "127819-hybrid-mma-8",
+      "round": 2,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2025-03-07T00:00:00.000Z",
+      "opponent": "Kacper Matyszewski",
+      "opponentSlug": "229084-kacper-matyszewski",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hybrid MMA 7",
+      "eventSlug": "123327-hybrid-mma-7-lucky-seven",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-12-14T00:00:00.000Z",
+      "opponent": "Vitaliy Kozak",
+      "opponentSlug": "189202-vitaliy-kozak",
+      "result": "win",
+      "method": "other",
+      "event": "Hybrid MMA 6",
+      "eventSlug": "123001-hybrid-mma-6-talents",
+      "round": 1,
+      "timeInRound": "0:53"
+    },
+    {
+      "date": "2024-08-23T00:00:00.000Z",
+      "opponent": "Maciej Łapka",
+      "opponentSlug": "225128-maciej-lapka",
+      "result": "win",
+      "method": "other",
+      "event": "Hybrid MMA 5",
+      "eventSlug": "117502-hybrid-mma-5-summer-edition",
+      "round": 1,
+      "timeInRound": "4:12"
+    },
+    {
+      "date": "2024-03-01T00:00:00.000Z",
+      "opponent": "Przemysław Górny",
+      "opponentSlug": "79146-przemysaw-grny",
+      "result": "loss",
+      "method": "other",
+      "event": "CAVEMMA 4: Blood Circle",
+      "eventSlug": "110049-cavemma-4-blood-circle",
+      "round": 3,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2023-09-23T00:00:00.000Z",
+      "opponent": "Cyprian Wieczorek",
+      "opponentSlug": "189022-cyprian-wieczorek",
+      "result": "win",
+      "method": "other",
+      "event": "Silesian MMA 11",
+      "eventSlug": "102423-silesian-mma-11",
+      "round": 1,
+      "timeInRound": "3:21"
+    },
+    {
+      "date": "2022-06-11T00:00:00.000Z",
+      "opponent": "Marcin Maleszewski",
+      "opponentSlug": "155405-marcin-maleszewski",
+      "result": "win",
+      "method": "other",
+      "event": "Silesian MMA 6",
+      "eventSlug": "87355-silesian-mma-6",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2022-02-12T00:00:00.000Z",
+      "opponent": "Szymon Czempiel",
+      "opponentSlug": "325236-szymon-czempiel",
+      "result": "win",
+      "method": "other",
+      "event": "Silesian MMA 5",
+      "eventSlug": "86527-silesian-mma-5",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-13T00:00:00.000Z",
+      "opponent": "Adam Jankowski",
+      "opponentSlug": "219392-adam-jankowski",
+      "result": "win",
+      "method": "tko",
+      "event": "Silesian MMA 4",
+      "eventSlug": "84499-silesian-mma-4",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-29T00:00:00.000Z",
+      "opponent": "Klaudiusz Sławiczek",
+      "opponentSlug": "206948-klaudiusz-slawiczek",
+      "result": "win",
+      "method": "other",
+      "event": "ALMMA 181",
+      "eventSlug": "79239-almma-181-puchar-polski-mma-2020-dedykowany-pamieci-zolnierzy-wykletych",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-29T00:00:00.000Z",
+      "opponent": "Roger Irlik",
+      "opponentSlug": "156404-roger-irlik",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ALMMA 181",
+      "eventSlug": "79239-almma-181-puchar-polski-mma-2020-dedykowany-pamieci-zolnierzy-wykletych",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-29T00:00:00.000Z",
+      "opponent": "Filip Przyborowski",
+      "opponentSlug": "172974-filip-przyborowski",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ALMMA 181",
+      "eventSlug": "79239-almma-181-puchar-polski-mma-2020-dedykowany-pamieci-zolnierzy-wykletych",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:11:02.893Z"
+}

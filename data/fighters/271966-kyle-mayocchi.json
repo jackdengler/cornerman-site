@@ -1,0 +1,156 @@
+{
+  "slug": "271966-kyle-mayocchi",
+  "name": "Kyle Mayocchi",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/271966-kyle-mayocchi",
+  "recentFights": [
+    {
+      "date": "2026-03-30T00:00:00.000Z",
+      "opponent": "Akitaka Uto",
+      "opponentSlug": "334351-shoki-uto",
+      "result": "win",
+      "method": "sub",
+      "event": "Lemino Shooto.4",
+      "eventSlug": "140133-lemino-shooto-4",
+      "round": 1,
+      "timeInRound": "2:04"
+    },
+    {
+      "date": "2025-09-14T00:00:00.000Z",
+      "opponent": "Hayato Ishii",
+      "opponentSlug": "65012-hayato-ishii",
+      "result": "win",
+      "method": "other",
+      "event": "TTF Challenge 11",
+      "eventSlug": "132823-ttf-challenge-11",
+      "round": 1,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2025-06-07T00:00:00.000Z",
+      "opponent": "Dane Edge",
+      "opponentSlug": "318384-dane-edge",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shuriken Fight Series 21",
+      "eventSlug": "127555-shuriken-fight-series-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-12-07T00:00:00.000Z",
+      "opponent": "Dane Edge",
+      "opponentSlug": "318384-dane-edge",
+      "result": "win",
+      "method": "sub",
+      "event": "Shuriken Fight Series 19",
+      "eventSlug": "116334-shuriken-fight-series-19",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-11T00:00:00.000Z",
+      "opponent": "Brendo Santos",
+      "opponentSlug": "114790-brendo-santos",
+      "result": "win",
+      "method": "sub",
+      "event": "Beatdown Promotions 7",
+      "eventSlug": "112020-beatdown-promotions-7-battle-in-the-north",
+      "round": 1,
+      "timeInRound": "4:24"
+    },
+    {
+      "date": "2024-04-20T00:00:00.000Z",
+      "opponent": "Brad Ramsey",
+      "opponentSlug": "160181-brad-ramsey",
+      "result": "win",
+      "method": "tko",
+      "event": "Shuriken Fight Series 17",
+      "eventSlug": "110329-shuriken-fight-series-17",
+      "round": 2,
+      "timeInRound": "4:25"
+    }
+  ],
+  "allFights": [
+    {
+      "date": "2026-03-30T00:00:00.000Z",
+      "opponent": "Akitaka Uto",
+      "opponentSlug": "334351-shoki-uto",
+      "result": "win",
+      "method": "sub",
+      "event": "Lemino Shooto.4",
+      "eventSlug": "140133-lemino-shooto-4",
+      "round": 1,
+      "timeInRound": "2:04"
+    },
+    {
+      "date": "2025-09-14T00:00:00.000Z",
+      "opponent": "Hayato Ishii",
+      "opponentSlug": "65012-hayato-ishii",
+      "result": "win",
+      "method": "other",
+      "event": "TTF Challenge 11",
+      "eventSlug": "132823-ttf-challenge-11",
+      "round": 1,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2025-06-07T00:00:00.000Z",
+      "opponent": "Dane Edge",
+      "opponentSlug": "318384-dane-edge",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shuriken Fight Series 21",
+      "eventSlug": "127555-shuriken-fight-series-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-12-07T00:00:00.000Z",
+      "opponent": "Dane Edge",
+      "opponentSlug": "318384-dane-edge",
+      "result": "win",
+      "method": "sub",
+      "event": "Shuriken Fight Series 19",
+      "eventSlug": "116334-shuriken-fight-series-19",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-11T00:00:00.000Z",
+      "opponent": "Brendo Santos",
+      "opponentSlug": "114790-brendo-santos",
+      "result": "win",
+      "method": "sub",
+      "event": "Beatdown Promotions 7",
+      "eventSlug": "112020-beatdown-promotions-7-battle-in-the-north",
+      "round": 1,
+      "timeInRound": "4:24"
+    },
+    {
+      "date": "2024-04-20T00:00:00.000Z",
+      "opponent": "Brad Ramsey",
+      "opponentSlug": "160181-brad-ramsey",
+      "result": "win",
+      "method": "tko",
+      "event": "Shuriken Fight Series 17",
+      "eventSlug": "110329-shuriken-fight-series-17",
+      "round": 2,
+      "timeInRound": "4:25"
+    }
+  ],
+  "lastVerified": "2026-05-03T10:17:35.487Z"
+}

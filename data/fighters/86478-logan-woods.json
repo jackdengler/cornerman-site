@@ -1,0 +1,176 @@
+{
+  "slug": "86478-logan-woods",
+  "name": "Logan Woods",
+  "nickname": "One Hit",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 196,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1994-05-30",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/86478-logan-woods",
+  "recentFights": [
+    {
+      "date": "2024-07-12T00:00:00.000Z",
+      "opponent": "Zack Borrego",
+      "opponentSlug": "280338-zachary-borrego",
+      "result": "win",
+      "method": "other",
+      "event": "Fury FC 93: Esteves vs. Walker",
+      "eventSlug": "111775-fury-fc-92",
+      "round": 1,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2022-02-11T00:00:00.000Z",
+      "opponent": "Adam Vigil",
+      "opponentSlug": "54479-adam-vigil",
+      "result": "win",
+      "method": "other",
+      "event": "Anthony Pettis FC 1",
+      "eventSlug": "86065-showtime-fc-1",
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2020-10-30T00:00:00.000Z",
+      "opponent": "Ozzy Diaz",
+      "opponentSlug": "61676-ozzy-diaz",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 94: Demopoulos vs. Godinez",
+      "eventSlug": "73377-lfa-94-demopoulos-vs-godinez",
+      "round": 1,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2019-11-02T00:00:00.000Z",
+      "opponent": "Ben Parrish",
+      "opponentSlug": "55777-ben-parish",
+      "result": "win",
+      "method": "other",
+      "event": "Summit FC 33",
+      "eventSlug": "62835-summit-fc-33",
+      "round": 1,
+      "timeInRound": "1:59"
+    },
+    {
+      "date": "2019-02-07T00:00:00.000Z",
+      "opponent": "Kory Moegenburg",
+      "opponentSlug": "49671-korey-moegenburg",
+      "result": "win",
+      "method": "tko",
+      "event": "Island Fights 52",
+      "eventSlug": "58400-island-fights-52",
+      "round": 1,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2018-06-02T00:00:00.000Z",
+      "opponent": "Leonard Williams",
+      "opponentSlug": "106665-leonard-williams",
+      "result": "win",
+      "method": "other",
+      "event": "Island Fights 48",
+      "eventSlug": "53464-island-fights-48",
+      "round": 2,
+      "timeInRound": "0:58"
+    },
+    {
+      "date": "2016-10-01T00:00:00.000Z",
+      "opponent": "Kenny Mims",
+      "opponentSlug": "137193-kenny-mims",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 2,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2016-07-30T00:00:00.000Z",
+      "opponent": "Brian Gurley",
+      "opponentSlug": "105028-brian-gurley",
+      "result": "win",
+      "method": "tko",
+      "event": "Summit FC: Woods vs. Gurley",
+      "eventSlug": "41032-summit-fc-woods-vs-gurley",
+      "round": 1,
+      "timeInRound": "2:49"
+    },
+    {
+      "date": "2016-03-05T00:00:00.000Z",
+      "opponent": "Raheem Kinney",
+      "opponentSlug": "59675-raheem-kenny",
+      "result": "win",
+      "method": "other",
+      "event": "Summit FC 15",
+      "eventSlug": "38637-summit-fc-15",
+      "round": 1,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2014-11-22T00:00:00.000Z",
+      "opponent": "Nkemdirim Oti",
+      "opponentSlug": "49184-kim-oti",
+      "result": "win",
+      "method": "dec-split",
+      "event": "V3 Fights: Neal vs. Johnson",
+      "eventSlug": "27715-v3-fights-neal-vs-johnson",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-09-20T00:00:00.000Z",
+      "opponent": "Senclair Brown",
+      "opponentSlug": "115123-senclair-brown",
+      "result": "win",
+      "method": "other",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-07-12T00:00:00.000Z",
+      "opponent": "Mike Cunningham",
+      "opponentSlug": "115069-mike-cunningham",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-06-28T00:00:00.000Z",
+      "opponent": "Clayton Morgan",
+      "opponentSlug": "87514-clayton-morgan",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-09-28T00:00:00.000Z",
+      "opponent": "Michael Simmons",
+      "opponentSlug": "115070-michael-simmons",
+      "result": "win",
+      "method": "other",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:02:29.553Z"
+}

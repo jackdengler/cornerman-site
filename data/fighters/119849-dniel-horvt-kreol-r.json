@@ -1,0 +1,55 @@
+{
+  "slug": "119849-dniel-horvt-kreol-r",
+  "name": "Dániel Horvát",
+  "nickname": "Kreol Úr",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Hungary",
+  "url": "https://www.tapology.com/fightcenter/fighters/119849-dniel-horvt-kreol-r",
+  "recentFights": [
+    {
+      "date": "2016-11-05T00:00:00.000Z",
+      "opponent": "Vojtech Garba",
+      "opponentSlug": "145826-vojtech-garba",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Fighting Komárno 1",
+      "eventSlug": "43132-cage-fighting-komrno-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-12-12T00:00:00.000Z",
+      "opponent": "Marc Reifberger",
+      "opponentSlug": "119847-marc-reifberger",
+      "result": "loss",
+      "method": "sub",
+      "event": "HFC 12",
+      "eventSlug": "33347-hfc-12",
+      "round": 1,
+      "timeInRound": "0:49"
+    },
+    {
+      "date": "2015-10-03T00:00:00.000Z",
+      "opponent": "Felix Scherübel",
+      "opponentSlug": "63850-felix-scheruebel",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:09:15.053Z"
+}

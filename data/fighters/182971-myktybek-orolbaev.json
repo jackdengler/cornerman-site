@@ -1,0 +1,231 @@
+{
+  "slug": "182971-myktybek-orolbaev",
+  "name": "Myktybek Orolbai",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 16,
+    "losses": 2,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": 188,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1998-02-10",
+  "nationality": "Osh, Kyrgyzstan",
+  "url": "https://www.tapology.com/fightcenter/fighters/182971-myktybek-orolbaev",
+  "recentFights": [
+    {
+      "date": "2026-03-14T00:00:00.000Z",
+      "opponent": "Chris Curtis",
+      "opponentSlug": "14863-christopher-curtis-the-action-man",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "136874-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-22T00:00:00.000Z",
+      "opponent": "Jack Hermansson",
+      "opponentSlug": "13893-Jack-Hermansson",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "130635-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "2:46"
+    },
+    {
+      "date": "2025-06-21T00:00:00.000Z",
+      "opponent": "Tofiq Musayev",
+      "opponentSlug": "60338-tofik-musaev",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "125838-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "4:35"
+    },
+    {
+      "date": "2024-10-26T00:00:00.000Z",
+      "opponent": "Mateusz Rębecki",
+      "opponentSlug": "65128-mateusz-rbecki-chiczyk",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC 308: Topuria vs. Holloway",
+      "eventSlug": "112501-ufc-308",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-04T00:00:00.000Z",
+      "opponent": "Elves Brener",
+      "opponentSlug": "131388-elvis-brenner",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 301: Pantoja vs. Erceg",
+      "eventSlug": "109604-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-18T00:00:00.000Z",
+      "opponent": "Uros Medic",
+      "opponentSlug": "175629-uros-medic",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "101867-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "4:12"
+    },
+    {
+      "date": "2023-10-27T00:00:00.000Z",
+      "opponent": "Hayward Charles",
+      "opponentSlug": "18771-hayward-charles",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 170: Talundžić vs. Frunza",
+      "eventSlug": "105394-lfa-170-talundzic-vs-frunza",
+      "round": 2,
+      "timeInRound": "0:41"
+    },
+    {
+      "date": "2023-08-04T00:00:00.000Z",
+      "opponent": "Gláucio Eliziário",
+      "opponentSlug": "58516-glucio-elizirio-salva-mar",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 164: Mazo vs. Lavado",
+      "eventSlug": "102680-lfa-164-mazo-vs-lavado",
+      "round": 2,
+      "timeInRound": "1:33"
+    },
+    {
+      "date": "2022-05-06T00:00:00.000Z",
+      "opponent": "Jalin Fuller",
+      "opponentSlug": "144968-jalin-fuller",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 131: Argueta vs. Silva",
+      "eventSlug": "88713-lfa-131-argueta-vs-silva",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-26T00:00:00.000Z",
+      "opponent": "Mashrapjon Sabirov",
+      "opponentSlug": "343801-mashrapjon-sabirov",
+      "result": "win",
+      "method": "other",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2021-11-26T00:00:00.000Z",
+      "opponent": "Adis Taalaybek uulu",
+      "opponentSlug": "204136-adis-uulu-taalaibek",
+      "result": "win",
+      "method": "other",
+      "event": null,
+      "eventSlug": null,
+      "round": 4,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2021-08-14T00:00:00.000Z",
+      "opponent": "Peyman Haciev",
+      "opponentSlug": "214240-peyman-haciev",
+      "result": "win",
+      "method": "other",
+      "event": "Open Fighting Championship 8",
+      "eventSlug": "79987-open-fc-8",
+      "round": 1,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2020-12-19T00:00:00.000Z",
+      "opponent": "Khalid Satuev",
+      "opponentSlug": "163744-khalid-satuev",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ACA Young Eagles 15",
+      "eventSlug": "74462-aca-young-eagles-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-22T00:00:00.000Z",
+      "opponent": "Shamil Mutalimov",
+      "opponentSlug": "175036-shamil-mutalimov",
+      "result": "win",
+      "method": "other",
+      "event": "RFCH 6",
+      "eventSlug": "61012-rfch-6",
+      "round": 1,
+      "timeInRound": "3:37"
+    },
+    {
+      "date": "2019-03-10T00:00:00.000Z",
+      "opponent": "Farukh Kodirov",
+      "opponentSlug": "215706-farukh-kodirov",
+      "result": "win",
+      "method": "other",
+      "event": "WEF Selection 22",
+      "eventSlug": "58807-wef-selection-22",
+      "round": 1,
+      "timeInRound": "1:06"
+    },
+    {
+      "date": "2019-01-20T00:00:00.000Z",
+      "opponent": "Akhliddin Mirzodavlatov",
+      "opponentSlug": "134351-ahliddin-mirzodavlatov",
+      "result": "draw",
+      "method": "dec-majority",
+      "event": "WEF Selection 20",
+      "eventSlug": "58795-wef-selection-20-battle-in-kara-suu-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-20T00:00:00.000Z",
+      "opponent": "Shakhzod Kholmatov",
+      "opponentSlug": "266690-shakhzod-kholmatov",
+      "result": "win",
+      "method": "sub",
+      "event": "WEF ProfFight 27",
+      "eventSlug": "55881-wef-proffight-27-battle-in-kara-kulzha",
+      "round": 1,
+      "timeInRound": "3:10"
+    },
+    {
+      "date": "2018-08-11T00:00:00.000Z",
+      "opponent": "Eldiyar Toobaev",
+      "opponentSlug": "227233-eldiyar-toobaev",
+      "result": "win",
+      "method": "sub",
+      "event": "WEF ProfFight 25",
+      "eventSlug": "54112-wef-proffight-24-battle-in-kara-suu-2",
+      "round": 1,
+      "timeInRound": "3:41"
+    },
+    {
+      "date": "2018-03-25T00:00:00.000Z",
+      "opponent": "Ilya Kygach",
+      "opponentSlug": "182972-ilya-kygach",
+      "result": "win",
+      "method": "other",
+      "event": "World Cup Of Juniors 2018",
+      "eventSlug": "52107-world-cup-of-juniors-2018",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:05:09.214Z"
+}

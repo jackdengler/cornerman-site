@@ -1,0 +1,134 @@
+{
+  "slug": "318384-dane-edge",
+  "name": "Dane Edge",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1992-02-08",
+  "nationality": "New Zealand",
+  "url": "https://www.tapology.com/fightcenter/fighters/318384-dane-edge",
+  "recentFights": [
+    {
+      "date": "2025-08-30T00:00:00.000Z",
+      "opponent": "Mitch Kelly",
+      "opponentSlug": "237172-mitch-kelly",
+      "result": "loss",
+      "method": "tko",
+      "event": "SFL 3",
+      "eventSlug": "127175-sfl-3",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-06-07T00:00:00.000Z",
+      "opponent": "Kyle Mayocchi",
+      "opponentSlug": "271966-kyle-mayocchi",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shuriken Fight Series 21",
+      "eventSlug": "127555-shuriken-fight-series-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-01T00:00:00.000Z",
+      "opponent": "Jett Fisher",
+      "opponentSlug": "367343-jett-fisher",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "HEX Fight Series 34",
+      "eventSlug": "120777-hex-fight-series-34",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-12-07T00:00:00.000Z",
+      "opponent": "Kyle Mayocchi",
+      "opponentSlug": "271966-kyle-mayocchi",
+      "result": "loss",
+      "method": "sub",
+      "event": "Shuriken Fight Series 19",
+      "eventSlug": "116334-shuriken-fight-series-19",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-04T00:00:00.000Z",
+      "opponent": "Ollie Schmid",
+      "opponentSlug": "237487-oliver-schmid",
+      "result": "loss",
+      "method": "other",
+      "event": "HEX Fight Series 30",
+      "eventSlug": "107574-hex-fight-series-30-hex-goes-global",
+      "round": 1,
+      "timeInRound": "1:15"
+    }
+  ],
+  "allFights": [
+    {
+      "date": "2025-08-30T00:00:00.000Z",
+      "opponent": "Mitch Kelly",
+      "opponentSlug": "237172-mitch-kelly",
+      "result": "loss",
+      "method": "tko",
+      "event": "SFL 3",
+      "eventSlug": "127175-sfl-3",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-06-07T00:00:00.000Z",
+      "opponent": "Kyle Mayocchi",
+      "opponentSlug": "271966-kyle-mayocchi",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shuriken Fight Series 21",
+      "eventSlug": "127555-shuriken-fight-series-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-01T00:00:00.000Z",
+      "opponent": "Jett Fisher",
+      "opponentSlug": "367343-jett-fisher",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "HEX Fight Series 34",
+      "eventSlug": "120777-hex-fight-series-34",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-12-07T00:00:00.000Z",
+      "opponent": "Kyle Mayocchi",
+      "opponentSlug": "271966-kyle-mayocchi",
+      "result": "loss",
+      "method": "sub",
+      "event": "Shuriken Fight Series 19",
+      "eventSlug": "116334-shuriken-fight-series-19",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-04T00:00:00.000Z",
+      "opponent": "Ollie Schmid",
+      "opponentSlug": "237487-oliver-schmid",
+      "result": "loss",
+      "method": "other",
+      "event": "HEX Fight Series 30",
+      "eventSlug": "107574-hex-fight-series-30-hex-goes-global",
+      "round": 1,
+      "timeInRound": "1:15"
+    }
+  ],
+  "lastVerified": "2026-05-03T08:57:50.849Z"
+}

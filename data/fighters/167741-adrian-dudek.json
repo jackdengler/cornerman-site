@@ -1,0 +1,198 @@
+{
+  "slug": "167741-adrian-dudek",
+  "name": "Adrian Dudek",
+  "nickname": "Banan",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": 176,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1991-10-12",
+  "nationality": "Poland",
+  "url": "https://www.tapology.com/fightcenter/fighters/167741-adrian-dudek",
+  "recentFights": [
+    {
+      "date": "2025-11-28T00:00:00.000Z",
+      "opponent": "Adam Lazar",
+      "opponentSlug": "293797-adam-lazar-psycho",
+      "result": "win",
+      "method": "sub",
+      "event": "MMA Attack 6",
+      "eventSlug": "135098-mma-attack-6",
+      "round": 1,
+      "timeInRound": "3:11"
+    },
+    {
+      "date": "2025-10-18T00:00:00.000Z",
+      "opponent": "Bartosz Kurek",
+      "opponentSlug": "219095-bartosz-kurek",
+      "result": "loss",
+      "method": "other",
+      "event": "KSW 111: De Fries vs. Vojčák",
+      "eventSlug": "124802-xtb-ksw-111",
+      "round": 2,
+      "timeInRound": "4:28"
+    },
+    {
+      "date": "2024-05-25T00:00:00.000Z",
+      "opponent": "Łukasz Dziudzia",
+      "opponentSlug": "94466-ukasz-dziudzia",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "RFA x ZHS",
+      "eventSlug": "111533-rfa-x-zhs",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-02-17T00:00:00.000Z",
+      "opponent": "Dominik Humburger",
+      "opponentSlug": "169531-dominik-humburger",
+      "result": "loss",
+      "method": "other",
+      "event": "KSW 91: Mircea vs. Brichta",
+      "eventSlug": "106206-ksw-91",
+      "round": 2,
+      "timeInRound": "2:28"
+    },
+    {
+      "date": "2023-10-14T00:00:00.000Z",
+      "opponent": "Lukáš Dvořák",
+      "opponentSlug": "130018-luk-dvok",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KSW 87: Martínek vs. Stošić",
+      "eventSlug": "104170-ksw-87-stosic-vs-martinek",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-10T00:00:00.000Z",
+      "opponent": "Jussi Halonen",
+      "opponentSlug": "38488-jussi-halonen",
+      "result": "win",
+      "method": "other",
+      "event": "Silesian MMA 10",
+      "eventSlug": "99835-silesian-mma-10-gold-edition",
+      "round": 2,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2021-04-24T00:00:00.000Z",
+      "opponent": "Aleksandar Ilić",
+      "opponentSlug": "94899-alexandar-ilic",
+      "result": "loss",
+      "method": "other",
+      "event": "KSW 60: Narkun vs. De Fries 2",
+      "eventSlug": "78046-ksw-60",
+      "round": 1,
+      "timeInRound": "3:44"
+    },
+    {
+      "date": "2021-02-20T00:00:00.000Z",
+      "opponent": "Dawid Drobina",
+      "opponentSlug": "26287-dawid-drobina",
+      "result": "win",
+      "method": "tko",
+      "event": "Octagon No Mercy 10",
+      "eventSlug": "77418-octagon-no-mercy-10-gold-edition",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-12-12T00:00:00.000Z",
+      "opponent": "Daniel Brunclík",
+      "opponentSlug": "159178-daniel-brunclk",
+      "result": "win",
+      "method": "other",
+      "event": "MMAsters League vol. 2",
+      "eventSlug": "75017-mmasters-league-vol-2-galavecer-bojovych-sportu",
+      "round": 1,
+      "timeInRound": "0:07"
+    },
+    {
+      "date": "2019-11-23T00:00:00.000Z",
+      "opponent": "Wawrzyniec Bartnik",
+      "opponentSlug": "162300-bartnik-wawrzyniec",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Zagłębiowski Horror Show 3",
+      "eventSlug": "63472-zaglebiowski-horror-show-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-29T00:00:00.000Z",
+      "opponent": "Mikołaj Dziąbor",
+      "opponentSlug": "78296-mikolaj-dziabor",
+      "result": "win",
+      "method": "sub",
+      "event": "Celtic Gladiator 24",
+      "eventSlug": "61451-celtic-gladiator-24",
+      "round": 2,
+      "timeInRound": "4:35"
+    },
+    {
+      "date": "2019-01-27T00:00:00.000Z",
+      "opponent": "Marek Zardzewiały",
+      "opponentSlug": "188462-marek-zardzewialy",
+      "result": "win",
+      "method": "other",
+      "event": "Zagłębiowski Horror Show 2",
+      "eventSlug": "57967-zaglebiowski-horror-show-2",
+      "round": 1,
+      "timeInRound": "3:25"
+    },
+    {
+      "date": "2018-04-28T00:00:00.000Z",
+      "opponent": "Deivydas Kaklauskas",
+      "opponentSlug": "103546-deivydas-kaklauskas",
+      "result": "win",
+      "method": "tko",
+      "event": "Zagłębiowski Horror Show 1",
+      "eventSlug": "52224-zaglebiowski-horror-show-sportowe-zaglebie-vs-reszta-swiata",
+      "round": 1,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2017-09-30T00:00:00.000Z",
+      "opponent": "Piotr Kowalski",
+      "opponentSlug": "167735-piotr-kowalski",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ALMMA 136: Mistrzostwa Śląska",
+      "eventSlug": "46868-almma-136",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-30T00:00:00.000Z",
+      "opponent": "Patryk Grzemski",
+      "opponentSlug": "150095-patryk-grzemski",
+      "result": "win",
+      "method": "sub",
+      "event": "ALMMA 136: Mistrzostwa Śląska",
+      "eventSlug": "46868-almma-136",
+      "round": 1,
+      "timeInRound": "3:24"
+    },
+    {
+      "date": "2017-09-30T00:00:00.000Z",
+      "opponent": "Mateusz Przystasz",
+      "opponentSlug": "167742-mateusz-przystasz",
+      "result": "win",
+      "method": "other",
+      "event": "ALMMA 136: Mistrzostwa Śląska",
+      "eventSlug": "46868-almma-136",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:03:16.297Z"
+}

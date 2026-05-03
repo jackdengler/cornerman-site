@@ -1,0 +1,132 @@
+{
+  "slug": "217437-talita-alencar",
+  "name": "Talita Alencar",
+  "nickname": "Problem Child",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 1,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 155,
+  "reachCm": 149,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": "1990-10-17",
+  "nationality": "Carutapera, Maranhão, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/217437-talita-alencar",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Julia Polastri",
+      "opponentSlug": "168315-julia-polastri",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "140114-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-01T00:00:00.000Z",
+      "opponent": "Ariane Carnelossi",
+      "opponentSlug": "46708-ariane-cristina-sorriso",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "132058-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "4:36"
+    },
+    {
+      "date": "2025-04-05T00:00:00.000Z",
+      "opponent": "Vanessa Demopoulos",
+      "opponentSlug": "35907-vanessa-demopoulos",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "122672-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-08-10T00:00:00.000Z",
+      "opponent": "Stephanie Luciano",
+      "opponentSlug": "180757-stephanie-luciano-rondinha",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "112784-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-09T00:00:00.000Z",
+      "opponent": "Rayanne dos Santos",
+      "opponentSlug": "188018-rayanne-amanda",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "105194-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-19T00:00:00.000Z",
+      "opponent": "Stephanie Luciano",
+      "opponentSlug": "180757-stephanie-luciano-rondinha",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "Contender Series 2023",
+      "eventSlug": "100997-contender-series-2023-week-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-04-14T00:00:00.000Z",
+      "opponent": "Kelsey Arnesen",
+      "opponentSlug": "241413-kelsey-arneson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 156: Fuller vs. Waters",
+      "eventSlug": "98557-lfa-156-fuller-vs-waters",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-29T00:00:00.000Z",
+      "opponent": "Karen Quintero",
+      "opponentSlug": "229259-karen-quintero",
+      "result": "win",
+      "method": "sub",
+      "event": "Titan FC 78",
+      "eventSlug": "91486-titan-fc-78",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2022-04-10T00:00:00.000Z",
+      "opponent": "Laura Milena Contreras",
+      "opponentSlug": "165644-laura-contreras",
+      "result": "win",
+      "method": "sub",
+      "event": "Titan FC 75",
+      "eventSlug": "87656-titan-fc-75",
+      "round": 3,
+      "timeInRound": "3:39"
+    },
+    {
+      "date": "2021-07-02T00:00:00.000Z",
+      "opponent": "Staci Vega",
+      "opponentSlug": "28413-stacey-vega",
+      "result": "win",
+      "method": "sub",
+      "event": "Titan FC 70",
+      "eventSlug": "79652-titan-fc-70",
+      "round": 1,
+      "timeInRound": "4:14"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:53:50.566Z"
+}

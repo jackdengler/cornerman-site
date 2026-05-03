@@ -1,0 +1,209 @@
+{
+  "slug": "165168-george-tokkos",
+  "name": "Tuco Tokkos",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 193,
+  "reachCm": 193,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1990-06-30",
+  "nationality": "London, England",
+  "url": "https://www.tapology.com/fightcenter/fighters/165168-george-tokkos",
+  "recentFights": [
+    {
+      "date": "2026-05-16T00:00:00.000Z",
+      "opponent": "Ivan Erslan",
+      "opponentSlug": "42328-ivan-erslan",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "140458-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-07-12T00:00:00.000Z",
+      "opponent": "Junior Tafa",
+      "opponentSlug": "242095-junior-tafa",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "126523-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "4:52"
+    },
+    {
+      "date": "2024-12-14T00:00:00.000Z",
+      "opponent": "Navajo Stirling",
+      "opponentSlug": "259609-navajo-sterling",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "116905-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-18T00:00:00.000Z",
+      "opponent": "Oumar Sy",
+      "opponentSlug": "184677-oumar-sy",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "110359-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "3:43"
+    },
+    {
+      "date": "2024-02-23T00:00:00.000Z",
+      "opponent": "Myron Dennis",
+      "opponentSlug": "myron-dennis",
+      "result": "win",
+      "method": "other",
+      "event": "Fury FC 86: Holmes vs. Phillips",
+      "eventSlug": "107713-fury-fc-86",
+      "round": 1,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2023-08-19T00:00:00.000Z",
+      "opponent": "Brian Jackson",
+      "opponentSlug": "109948-brian-jackson",
+      "result": "win",
+      "method": "other",
+      "event": "All In Combat 3",
+      "eventSlug": "104205-all-in-combat-3",
+      "round": 1,
+      "timeInRound": "0:40"
+    },
+    {
+      "date": "2023-03-17T00:00:00.000Z",
+      "opponent": "Gabriel Thimoteo",
+      "opponentSlug": "44417-gabriel-thimoteo-gb",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shooto Brasil 116",
+      "eventSlug": "97887-shooto-brasil-116",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-09T00:00:00.000Z",
+      "opponent": "Mingyang Zhang",
+      "opponentSlug": "102827-mingyang-zhang",
+      "result": "loss",
+      "method": "other",
+      "event": "Road to UFC",
+      "eventSlug": "88729-road-to-ufc-singapore-day-1",
+      "round": 1,
+      "timeInRound": "3:57"
+    },
+    {
+      "date": "2022-03-27T00:00:00.000Z",
+      "opponent": "Ty Flores",
+      "opponentSlug": "80553-tyler-flores",
+      "result": "win",
+      "method": "other",
+      "event": "Fury FC 59",
+      "eventSlug": "86562-fury-fc-59",
+      "round": 1,
+      "timeInRound": "4:39"
+    },
+    {
+      "date": "2021-11-14T00:00:00.000Z",
+      "opponent": "Clayton York",
+      "opponentSlug": "77860-clayton-york",
+      "result": "win",
+      "method": "other",
+      "event": "Fury FC 53: Lookin' For a Fight",
+      "eventSlug": "83020-fury-fc-53-lookin-for-a-fight",
+      "round": 1,
+      "timeInRound": "3:53"
+    },
+    {
+      "date": "2021-09-18T00:00:00.000Z",
+      "opponent": "Yu Ji",
+      "opponentSlug": "167446-yu-ji",
+      "result": "win",
+      "method": "sub",
+      "event": "Premier FC 31",
+      "eventSlug": "80232-premier-fc-31",
+      "round": 4,
+      "timeInRound": "3:31"
+    },
+    {
+      "date": "2020-09-12T00:00:00.000Z",
+      "opponent": "Ty Gwerder",
+      "opponentSlug": "163665-jered-gwerder-ty",
+      "result": "loss",
+      "method": "other",
+      "event": "Bellator 246",
+      "eventSlug": "71913-bellator-246-archuleta-vs-mix",
+      "round": 3,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2019-11-23T00:00:00.000Z",
+      "opponent": "Kevin Fryer",
+      "opponentSlug": "94803-kevin-fryer",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bellator London",
+      "eventSlug": "63152-bellator-235-edwards-vs-shipman",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-29T00:00:00.000Z",
+      "opponent": "Feng Shun",
+      "opponentSlug": "158685-feng-shun",
+      "result": "win",
+      "method": "tko",
+      "event": "The Big Fight UK",
+      "eventSlug": "53267-ktmma-the-big-fight-uk-england-vs-china",
+      "round": 2,
+      "timeInRound": "2:33"
+    },
+    {
+      "date": "2018-02-10T00:00:00.000Z",
+      "opponent": "Mike Garrett",
+      "opponentSlug": "100450-mike-garrett",
+      "result": "win",
+      "method": "other",
+      "event": "UCMMA 54",
+      "eventSlug": "48759-ucmma-54",
+      "round": 1,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2017-11-11T00:00:00.000Z",
+      "opponent": "Aaron Jones",
+      "opponentSlug": "167022-aaron-jones",
+      "result": "win",
+      "method": "other",
+      "event": "UCMMA 53",
+      "eventSlug": "43570-ucmma-53",
+      "round": 1,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2017-09-09T00:00:00.000Z",
+      "opponent": "Beniamin Veverita",
+      "opponentSlug": "135109-beniamin-veverita",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UCMMA 52",
+      "eventSlug": "43569-ucmma-52",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:16:32.606Z"
+}

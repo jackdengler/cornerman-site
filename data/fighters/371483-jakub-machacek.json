@@ -1,0 +1,59 @@
+{
+  "slug": "371483-jakub-machacek",
+  "name": "Jakub Macháček",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/371483-jakub-machacek",
+  "recentFights": [
+    {
+      "date": "2025-05-30T00:00:00.000Z",
+      "opponent": "Tobiáš Barták",
+      "opponentSlug": "408483-tobias-bartak",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "RFA 23",
+      "eventSlug": "122031-rfa",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-10-01T00:00:00.000Z",
+      "opponent": "Štěpán Nevřela",
+      "opponentSlug": "378522-stepan-nevrela",
+      "result": null,
+      "method": "other",
+      "event": "GCF 67",
+      "eventSlug": "105130-gcf-37",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-01-28T00:00:00.000Z",
+      "opponent": "Alex Hutyra",
+      "opponentSlug": "347893-alex-hutyra",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Way of Warrior 10",
+      "eventSlug": "96539-way-of-warrior-10",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:57:31.650Z"
+}

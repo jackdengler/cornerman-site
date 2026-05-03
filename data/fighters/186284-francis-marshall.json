@@ -1,0 +1,209 @@
+{
+  "slug": "186284-francis-marshall",
+  "name": "Francis Marshall",
+  "nickname": "Fire",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 183,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1999-03-09",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/186284-francis-marshall",
+  "recentFights": [
+    {
+      "date": "2026-02-28T00:00:00.000Z",
+      "opponent": "Erik Silva",
+      "opponentSlug": "126790-erik-silva",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "136702-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2025-03-08T00:00:00.000Z",
+      "opponent": "Mairon Santos",
+      "opponentSlug": "194524-mairon-santos",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC 313: Pereira vs. Ankalaev",
+      "eventSlug": "120488-ufc-313",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-08-24T00:00:00.000Z",
+      "opponent": "Dennis Buzukja",
+      "opponentSlug": "131561-dennis-buzukia",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "114902-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-12T00:00:00.000Z",
+      "opponent": "Isaac Dulgarian",
+      "opponentSlug": "245772-isaac-dulgarian",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "101163-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "4:48"
+    },
+    {
+      "date": "2023-04-22T00:00:00.000Z",
+      "opponent": "William Gomis",
+      "opponentSlug": "125696-william-gomis",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "97433-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-03T00:00:00.000Z",
+      "opponent": "Marcelo Rojo",
+      "opponentSlug": "24632-marcelo-rojo",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "91801-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2022-08-02T00:00:00.000Z",
+      "opponent": "Connor Matthews",
+      "opponentSlug": "14969-connor-matthews",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Contender Series 2022",
+      "eventSlug": "89494-contender-series-2022",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-18T00:00:00.000Z",
+      "opponent": "Michael Lawrence",
+      "opponentSlug": "64794-mike-lawrence",
+      "result": "win",
+      "method": "sub",
+      "event": "Ring of Combat 75",
+      "eventSlug": "84322-ring-of-combat-75",
+      "round": 3,
+      "timeInRound": "3:26"
+    },
+    {
+      "date": "2021-08-14T00:00:00.000Z",
+      "opponent": "Rey Trujillo",
+      "opponentSlug": "reynaldo-trujillo-the-truth",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Gulf Coast MMA 11",
+      "eventSlug": "78929-gulf-coast-mma-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-15T00:00:00.000Z",
+      "opponent": "Mike Taylor",
+      "opponentSlug": "113160-mike-taylor",
+      "result": "win",
+      "method": "sub",
+      "event": "Gulf Coast MMA 10",
+      "eventSlug": "78928-gulf-coast-mma-10",
+      "round": 1,
+      "timeInRound": "3:10"
+    },
+    {
+      "date": "2021-03-20T00:00:00.000Z",
+      "opponent": "Chris Cantu",
+      "opponentSlug": "293069-chris-cantu",
+      "result": "win",
+      "method": "sub",
+      "event": "Gulf Coast MMA 9",
+      "eventSlug": "77637-gulf-coast-mma-9",
+      "round": 1,
+      "timeInRound": "3:38"
+    },
+    {
+      "date": "2019-11-09T00:00:00.000Z",
+      "opponent": "Keith Forant",
+      "opponentSlug": "47931-keith-forant",
+      "result": "win",
+      "method": "sub",
+      "event": "Maverick MMA 15",
+      "eventSlug": "63517-maverick-mma-15",
+      "round": 3,
+      "timeInRound": "4:57"
+    },
+    {
+      "date": "2019-08-24T00:00:00.000Z",
+      "opponent": "Damon Vincent",
+      "opponentSlug": "91560-damon-vincent",
+      "result": "win",
+      "method": "other",
+      "event": "Bayou FC 40",
+      "eventSlug": "62150-bayou-fc-40",
+      "round": 1,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2019-06-15T00:00:00.000Z",
+      "opponent": "Nakia Brown",
+      "opponentSlug": "204508-nakia-brown",
+      "result": "win",
+      "method": "sub",
+      "event": "Bayou FC 38",
+      "eventSlug": "61002-bfc-38",
+      "round": 2,
+      "timeInRound": "2:33"
+    },
+    {
+      "date": "2019-03-09T00:00:00.000Z",
+      "opponent": "Chauncey Randolph",
+      "opponentSlug": "215403-chauncey-rudolph",
+      "result": "win",
+      "method": "other",
+      "event": "Primal Fight Promotions",
+      "eventSlug": "57516-primal-fight-promotions-mma-fight-night-3",
+      "round": 1,
+      "timeInRound": "2:52"
+    },
+    {
+      "date": "2018-06-30T00:00:00.000Z",
+      "opponent": "Bryant Pabon",
+      "opponentSlug": "162960-bryant-pabon",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Dead Serious 30",
+      "eventSlug": "53262-dead-serious-30",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-05T00:00:00.000Z",
+      "opponent": "Chris Gholi",
+      "opponentSlug": "186285-chris-gholi",
+      "result": "win",
+      "method": "other",
+      "event": "Dead Serious 29",
+      "eventSlug": "52848-dead-serious-29",
+      "round": 3,
+      "timeInRound": "0:34"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:12:45.362Z"
+}

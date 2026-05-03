@@ -1,0 +1,154 @@
+{
+  "slug": "138678-warllem-lobo",
+  "name": "Warllem Silva",
+  "nickname": "Lobo",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1993-09-03",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/138678-warllem-lobo",
+  "recentFights": [
+    {
+      "date": "2023-07-30T00:00:00.000Z",
+      "opponent": "Thomas Assis",
+      "opponentSlug": "199810-thomas-assis",
+      "result": "loss",
+      "method": "other",
+      "event": "Coari Champions 5",
+      "eventSlug": "103170-coari-champions-5",
+      "round": 1,
+      "timeInRound": "4:18"
+    },
+    {
+      "date": "2023-07-21T00:00:00.000Z",
+      "opponent": "Anderson Soares",
+      "opponentSlug": "187713-anderson-souza-soares",
+      "result": "loss",
+      "method": "other",
+      "event": "Mr. Cage 47",
+      "eventSlug": "102923-mr-cage-47",
+      "round": 1,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2022-08-02T00:00:00.000Z",
+      "opponent": "Janderson Barreto",
+      "opponentSlug": "246142-janderson-barreto-jandao",
+      "result": "loss",
+      "method": "tko",
+      "event": "Coari Champions 4",
+      "eventSlug": "91588-coari-champions-4",
+      "round": 1,
+      "timeInRound": "3:02"
+    },
+    {
+      "date": "2018-10-30T00:00:00.000Z",
+      "opponent": "Henrique Soares",
+      "opponentSlug": "189780-henrique-soares-da-silva-goncalves",
+      "result": "win",
+      "method": "sub",
+      "event": "Santa Isabel do RN Combat 1",
+      "eventSlug": "56278-santa-izabel-do-rio-negro-combat-1",
+      "round": 1,
+      "timeInRound": "0:20"
+    },
+    {
+      "date": "2018-07-28T00:00:00.000Z",
+      "opponent": "Manoel Rodrigues",
+      "opponentSlug": "105969-manoel-rodrigues-junior",
+      "result": "loss",
+      "method": "sub",
+      "event": "Mr. Cage 35",
+      "eventSlug": "52835-mr-cage-35",
+      "round": 2,
+      "timeInRound": "2:08"
+    },
+    {
+      "date": "2018-06-09T00:00:00.000Z",
+      "opponent": "Elinelson Gonçalves",
+      "opponentSlug": "186054-elinelson-goncalves-mao-de-pedra",
+      "result": "win",
+      "method": null,
+      "event": "Anamã Warriors Combat 1",
+      "eventSlug": "53671-anama-warriors-combat-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-31T00:00:00.000Z",
+      "opponent": "Alan Bruno",
+      "opponentSlug": "147054-alan-bruno",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Coari Champions 1",
+      "eventSlug": "54209-coari-champions-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-29T00:00:00.000Z",
+      "opponent": "Henrique Soares",
+      "opponentSlug": "189780-henrique-soares-da-silva-goncalves",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-01T00:00:00.000Z",
+      "opponent": "Lucas Rocha",
+      "opponentSlug": "192343-lucas-rocha-fenomeno",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-06T00:00:00.000Z",
+      "opponent": "Emanuel Nery",
+      "opponentSlug": "206196-emanuel-nery-esquentadinho",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-08-27T00:00:00.000Z",
+      "opponent": "Paulo Henrique",
+      "opponentSlug": "139275-paulo-henrique-poney",
+      "result": "win",
+      "method": "other",
+      "event": "Mr. Cage 23",
+      "eventSlug": "41413-mr-cage-23-edio-ouro",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-02-07T00:00:00.000Z",
+      "opponent": "Francisco Rocha",
+      "opponentSlug": "139405-francisco-rocha",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:56:30.629Z"
+}

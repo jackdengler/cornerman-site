@@ -1,0 +1,176 @@
+{
+  "slug": "59837-diego-bautista",
+  "name": "Deego Bautista",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 163,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1994-12-29",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/59837-diego-bautista",
+  "recentFights": [
+    {
+      "date": "2019-05-18T00:00:00.000Z",
+      "opponent": "Dre Miley",
+      "opponentSlug": "136490-dre-miley",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Valor Fighting Challenge 59",
+      "eventSlug": "60347-valor-fighting-challenge-59",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-08-11T00:00:00.000Z",
+      "opponent": "Jose Medrano, Jr.",
+      "opponentSlug": "41030-jose-medrano",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "NFC 110",
+      "eventSlug": "54642-nfc-110",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-12T00:00:00.000Z",
+      "opponent": "Jacob Sandlin",
+      "opponentSlug": "136735-jacob-handlin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Attitude MMA Fights 12",
+      "eventSlug": "52916-attitude-mma-fights-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-24T00:00:00.000Z",
+      "opponent": "Joshua Oxendine",
+      "opponentSlug": "110362-joshua-oxendine",
+      "result": "loss",
+      "method": "other",
+      "event": "864 Fighting Championship",
+      "eventSlug": "51895-864-fighting-championship-fight-3",
+      "round": 1,
+      "timeInRound": "2:49"
+    },
+    {
+      "date": "2018-02-24T00:00:00.000Z",
+      "opponent": "Darrius Foster",
+      "opponentSlug": "128126-darius-foster",
+      "result": "win",
+      "method": "other",
+      "event": "Attitude MMA Fights 11",
+      "eventSlug": "51195-attitude-mma-fights-11",
+      "round": 3,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2018-01-27T00:00:00.000Z",
+      "opponent": "Kaeon Minor",
+      "opponentSlug": "129694-kaeon-minor",
+      "result": "win",
+      "method": "other",
+      "event": "Spartyka Fight League 32",
+      "eventSlug": "49304-spartyka-fight-league-32",
+      "round": 3,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2017-10-13T00:00:00.000Z",
+      "opponent": "Josh Koser",
+      "opponentSlug": "47285-josh-koser",
+      "result": "win",
+      "method": "dec-split",
+      "event": "NFC 100",
+      "eventSlug": "48424-nfc-100",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-08T00:00:00.000Z",
+      "opponent": "Hunter Thomas",
+      "opponentSlug": "121836-hunter-thomas",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Fights at The Cowboy",
+      "eventSlug": "47822-cage-fights-at-the-cowboy",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-30T00:00:00.000Z",
+      "opponent": "Jakob Clemons",
+      "opponentSlug": "41481-jakob-clemons",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fight Night at the Shed",
+      "eventSlug": "46698-fight-night-at-the-shed",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-12T00:00:00.000Z",
+      "opponent": "Sean Gallagher",
+      "opponentSlug": "109247-sean-gallagher",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "NFC 95",
+      "eventSlug": "45719-nfc-95",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-22T00:00:00.000Z",
+      "opponent": "Filipe Valentim",
+      "opponentSlug": "155503-felipe-valentim",
+      "result": "loss",
+      "method": "sub",
+      "event": "XFN 14",
+      "eventSlug": "45337-xfn-14",
+      "round": 1,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2016-09-30T00:00:00.000Z",
+      "opponent": "Menelik Milner",
+      "opponentSlug": "140575-menelik-miller",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "NFC 87",
+      "eventSlug": "41903-nfc-87",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-22T00:00:00.000Z",
+      "opponent": "Mike Wilson",
+      "opponentSlug": "136722-mike-wilson",
+      "result": "win",
+      "method": "dec-split",
+      "event": "NFC 85: Walton vs. Smith",
+      "eventSlug": "40890-nfc-85",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-05-17T00:00:00.000Z",
+      "opponent": "Cody Durden",
+      "opponentSlug": "68337-cody-durden",
+      "result": "loss",
+      "method": "sub",
+      "event": "NFC 65: Wild Bill's Fight Night 64",
+      "eventSlug": "24076-nfc-65",
+      "round": 1,
+      "timeInRound": "2:06"
+    }
+  ],
+  "lastVerified": "2026-04-19T19:10:42.848Z"
+}

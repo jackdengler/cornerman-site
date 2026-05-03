@@ -1,0 +1,37 @@
+{
+  "slug": "361311-rafael-castro",
+  "name": "Rafael Castro",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/361311-rafael-castro",
+  "recentFights": [
+    {
+      "date": "2014-10-04T00:00:00.000Z",
+      "opponent": "Djorden Santos",
+      "opponentSlug": "67529-diorden-maguila",
+      "result": "loss",
+      "method": "other",
+      "event": "BH Fight Open MMA Amador",
+      "eventSlug": "95117-bh-fight-open-mma-amador",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:04:11.836Z"
+}

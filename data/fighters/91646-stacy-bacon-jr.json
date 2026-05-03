@@ -1,0 +1,88 @@
+{
+  "slug": "91646-stacy-bacon-jr",
+  "name": "Stacy Bacon Jr.",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1992-04-26",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/91646-stacy-bacon-jr",
+  "recentFights": [
+    {
+      "date": "2017-12-01T00:00:00.000Z",
+      "opponent": "Scott Futrell",
+      "opponentSlug": "59953-scott-futrell-the-general",
+      "result": "loss",
+      "method": "other",
+      "event": "Ultimate Blue Corner Battles",
+      "eventSlug": "49535-ultimate-blue-corner-battles",
+      "round": 2,
+      "timeInRound": "0:28"
+    },
+    {
+      "date": "2015-07-25T00:00:00.000Z",
+      "opponent": "Joaquin Buckley",
+      "opponentSlug": "55022-joaquin-buckley",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shamrock FC",
+      "eventSlug": "32801-shamrock-fc",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-04-18T00:00:00.000Z",
+      "opponent": "Aaron Highfill",
+      "opponentSlug": "53046-aaron-highfill",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shamrock FC",
+      "eventSlug": "29232-shamrock-fc-velocity",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-02-27T00:00:00.000Z",
+      "opponent": "Kevin Brown Jr.",
+      "opponentSlug": "112792-kevin-brown-jr",
+      "result": "win",
+      "method": "sub",
+      "event": "Combate Xtreme MMA",
+      "eventSlug": "36670-combat-xtreme-mma-annihilation",
+      "round": 2,
+      "timeInRound": "2:42"
+    },
+    {
+      "date": "2015-01-31T00:00:00.000Z",
+      "opponent": "Jordan Dowdy",
+      "opponentSlug": "60189-jordan-dowdy",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shamrock FC",
+      "eventSlug": "29225-shamrock-fc-force",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-05-18T00:00:00.000Z",
+      "opponent": "Jeremiah Curtright",
+      "opponentSlug": "137394-jeremiah-curtright",
+      "result": "draw",
+      "method": "dec-majority",
+      "event": "XCC 50: Raw",
+      "eventSlug": "45232-xcc-50-raw",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:00:19.519Z"
+}

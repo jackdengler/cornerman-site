@@ -1,0 +1,209 @@
+{
+  "slug": "86653-manny-akpan",
+  "name": "Manny Akpan",
+  "nickname": "Black Death",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "England",
+  "url": "https://www.tapology.com/fightcenter/fighters/86653-manny-akpan",
+  "recentFights": [
+    {
+      "date": "2022-11-12T00:00:00.000Z",
+      "opponent": "Samuel Bark",
+      "opponentSlug": "229953-samuel-bark-sammon-decker",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 146",
+      "eventSlug": "92600-cage-warriors-146",
+      "round": 2,
+      "timeInRound": "2:53"
+    },
+    {
+      "date": "2022-04-02T00:00:00.000Z",
+      "opponent": "Connor Hitchens",
+      "opponentSlug": "76901-connor-hitchens",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 136",
+      "eventSlug": "86255-cage-warriors-136",
+      "round": 2,
+      "timeInRound": "4:36"
+    },
+    {
+      "date": "2021-06-24T00:00:00.000Z",
+      "opponent": "Keir Harvie",
+      "opponentSlug": "87308-keir-harvie",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage Warriors 123",
+      "eventSlug": "78048-cage-warriors-123",
+      "round": 1,
+      "timeInRound": "4:30"
+    },
+    {
+      "date": "2021-03-18T00:00:00.000Z",
+      "opponent": "Ben Ellis",
+      "opponentSlug": "150815-ben-ellis",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 120",
+      "eventSlug": "74958-cage-warriors-120",
+      "round": 1,
+      "timeInRound": "4:22"
+    },
+    {
+      "date": "2020-02-29T00:00:00.000Z",
+      "opponent": "Liam Molloy",
+      "opponentSlug": "154587-liam-molloy",
+      "result": "win",
+      "method": "sub",
+      "event": "Full Contact Contender 25",
+      "eventSlug": "63249-full-contact-contender-25",
+      "round": 1,
+      "timeInRound": "3:22"
+    },
+    {
+      "date": "2019-11-09T00:00:00.000Z",
+      "opponent": "Jack Maguire",
+      "opponentSlug": "116773-jack-maguire",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 110",
+      "eventSlug": "62599-cage-warriors-110",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-15T00:00:00.000Z",
+      "opponent": "Ash Walters",
+      "opponentSlug": "98737-ash-walters",
+      "result": "win",
+      "method": "sub",
+      "event": "Golden Ticket Fight Promotions",
+      "eventSlug": "53539-golden-ticket-fight-promotions-fight-night-10",
+      "round": 1,
+      "timeInRound": "1:56"
+    },
+    {
+      "date": "2018-07-07T00:00:00.000Z",
+      "opponent": "Adam Walsh",
+      "opponentSlug": "112867-adam-walsh",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ICE FC: Fight Festival",
+      "eventSlug": "53557-ice-fc-fight-festival",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-04T00:00:00.000Z",
+      "opponent": "Corey Fry",
+      "opponentSlug": "97867-corey-fry",
+      "result": "win",
+      "method": "sub",
+      "event": "UK Fighting Championships 3",
+      "eventSlug": "43582-uk-fighting-championships-3",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-26T00:00:00.000Z",
+      "opponent": "Aidan James",
+      "opponentSlug": "80249-aidan-james",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "M4TC 22: Warriors",
+      "eventSlug": "41635-m4tc-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-14T00:00:00.000Z",
+      "opponent": "Scott Butters",
+      "opponentSlug": "80795-scott-butters-snodderz",
+      "result": "win",
+      "method": "sub",
+      "event": "UKMMAF National Amateur Tournament",
+      "eventSlug": "39779-bamma-ukmmaf-national-amateur-tournament-day-1",
+      "round": 3,
+      "timeInRound": "2:41"
+    },
+    {
+      "date": "2016-04-30T00:00:00.000Z",
+      "opponent": "Jordan Barton",
+      "opponentSlug": "59776-jordan-barton",
+      "result": "loss",
+      "method": "tko",
+      "event": "Shinobi War 7",
+      "eventSlug": "37455-shinobi-war-6",
+      "round": 4,
+      "timeInRound": "1:53"
+    },
+    {
+      "date": "2015-09-05T00:00:00.000Z",
+      "opponent": "Ben Royle",
+      "opponentSlug": "79197-ben-royle",
+      "result": "win",
+      "method": "tko",
+      "event": "Shinobi War 5",
+      "eventSlug": "32321-shinobi-war-5",
+      "round": 1,
+      "timeInRound": "0:41"
+    },
+    {
+      "date": "2015-03-07T00:00:00.000Z",
+      "opponent": "Chris Pieroni",
+      "opponentSlug": "59751-chris-pieroni",
+      "result": "win",
+      "method": "tko",
+      "event": "Shinobi War 4",
+      "eventSlug": "30017-shinobi-war-4-this-is-war",
+      "round": 1,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2014-11-08T00:00:00.000Z",
+      "opponent": "Geoff Ogendo",
+      "opponentSlug": "69179-geoff-ogendo",
+      "result": "win",
+      "method": "tko",
+      "event": "ICE FC 4",
+      "eventSlug": "27823-ice-fc-4",
+      "round": 2,
+      "timeInRound": "2:13"
+    },
+    {
+      "date": "2013-11-02T00:00:00.000Z",
+      "opponent": "John Spencer",
+      "opponentSlug": "50993-john-spencer",
+      "result": "win",
+      "method": "tko",
+      "event": "Full Contact Contender 8",
+      "eventSlug": "22935-full-contact-contender-8-minogue-vs-chadwick",
+      "round": 1,
+      "timeInRound": "0:17"
+    },
+    {
+      "date": "2013-09-07T00:00:00.000Z",
+      "opponent": "Jacob Kinsella",
+      "opponentSlug": "515358-jacob-kinsella",
+      "result": "win",
+      "method": "tko",
+      "event": "Full Contact Contender 7",
+      "eventSlug": "22669-full-contact-contender-7",
+      "round": 3,
+      "timeInRound": "0:42"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:05:14.833Z"
+}

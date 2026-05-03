@@ -1,0 +1,176 @@
+{
+  "slug": "24109-michael-cyr",
+  "name": "Michael Cyr",
+  "nickname": "The Ultimate",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1989-04-24",
+  "nationality": "Drummondville, Quebec, Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/24109-michael-cyr",
+  "recentFights": [
+    {
+      "date": "2017-01-13T00:00:00.000Z",
+      "opponent": "Charles Jourdain",
+      "opponentSlug": "36724-charles-jourdain",
+      "result": "loss",
+      "method": "sub",
+      "event": "TKO 37: Rivals",
+      "eventSlug": "42932-tko-37-rivals",
+      "round": 2,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2016-05-21T00:00:00.000Z",
+      "opponent": "Joe Elliott",
+      "opponentSlug": "22452-joe-elliot",
+      "result": "win",
+      "method": "other",
+      "event": "LAMMQ 5",
+      "eventSlug": "38473-lammq-5",
+      "round": 2,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2015-10-17T00:00:00.000Z",
+      "opponent": "Thomas Godin",
+      "opponentSlug": "57983-thomas-godin",
+      "result": "loss",
+      "method": "sub",
+      "event": "Hybrid Pro Series 4",
+      "eventSlug": "34277-hybrid-pro-series-4",
+      "round": 1,
+      "timeInRound": "4:00"
+    },
+    {
+      "date": "2014-05-17T00:00:00.000Z",
+      "opponent": "Robert Nelson",
+      "opponentSlug": "41027-robert-nelson",
+      "result": "win",
+      "method": "other",
+      "event": "Empire MMA 1",
+      "eventSlug": "23346-empire-mma-1",
+      "round": 1,
+      "timeInRound": "3:06"
+    },
+    {
+      "date": "2013-03-02T00:00:00.000Z",
+      "opponent": "Jean-Philippe Cantin Gagnon",
+      "opponentSlug": "27483-jean-philippe-cantin",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Ultimaction 8",
+      "eventSlug": "17396-ultimaction-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-09-08T00:00:00.000Z",
+      "opponent": "David Hubert Therrien",
+      "opponentSlug": "26725-david-hubert-therrien",
+      "result": "win",
+      "method": "sub",
+      "event": "Ultimaction 6",
+      "eventSlug": "14685-ultimaction-6",
+      "round": 1,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2012-04-28T00:00:00.000Z",
+      "opponent": "Sebastien Leger",
+      "opponentSlug": "24936-sebastien-leger",
+      "result": "loss",
+      "method": "sub",
+      "event": "Ultimate Boss Fight Night 2",
+      "eventSlug": "13696-ultimate-boss-fight-night-2",
+      "round": 3,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2011-11-05T00:00:00.000Z",
+      "opponent": "Jordan Turcotte",
+      "opponentSlug": "24110-jordan-turcotte",
+      "result": "win",
+      "method": "sub",
+      "event": "Ultimaction 3",
+      "eventSlug": "13164-ultimaction-3",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-09-10T00:00:00.000Z",
+      "opponent": "Jordan Turcotte",
+      "opponentSlug": "24110-jordan-turcotte",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "Gladiateur MMA 2",
+      "eventSlug": "13085-gladiateur-mma-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-09-03T00:00:00.000Z",
+      "opponent": "Ali Crezad",
+      "opponentSlug": "24234-ali-crezad",
+      "result": "win",
+      "method": "sub",
+      "event": "EFL 2: Reloaded",
+      "eventSlug": "13097-efl-2",
+      "round": 1,
+      "timeInRound": "0:55"
+    },
+    {
+      "date": "2011-08-27T00:00:00.000Z",
+      "opponent": "Mathieu Benjamin",
+      "opponentSlug": "27991-mathieu-benjamin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Summum MMA 5",
+      "eventSlug": "14024-summum-mma-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-03-12T00:00:00.000Z",
+      "opponent": "Zander McComber",
+      "opponentSlug": "25013-zander-mccomber",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Summum MMA 3",
+      "eventSlug": "14019-summum-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-02-26T00:00:00.000Z",
+      "opponent": "Jeremie Capony",
+      "opponentSlug": "24212-jeremie-capony",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Ultimaction 1",
+      "eventSlug": "13163-ultimaction-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-08-14T00:00:00.000Z",
+      "opponent": "Jonathan Rios Desjardins",
+      "opponentSlug": "25313-jonathan-desjardins",
+      "result": "win",
+      "method": "other",
+      "event": "KEF 1",
+      "eventSlug": "16597-kef-1",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:07:10.335Z"
+}

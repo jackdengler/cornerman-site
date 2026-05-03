@@ -1,0 +1,88 @@
+{
+  "slug": "142361-lvaro-tabosa",
+  "name": "Álvaro Tabosa",
+  "nickname": "Country Boy",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1991-10-13",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/142361-lvaro-tabosa",
+  "recentFights": [
+    {
+      "date": "2019-09-28T00:00:00.000Z",
+      "opponent": "Kevin Christian",
+      "opponentSlug": "124745-kevin-christian",
+      "result": "loss",
+      "method": "other",
+      "event": "Rei da Selva Combat 15",
+      "eventSlug": "63167-rei-da-selva-combat-15",
+      "round": 1,
+      "timeInRound": "3:45"
+    },
+    {
+      "date": "2018-10-13T00:00:00.000Z",
+      "opponent": "Thiago Hayne",
+      "opponentSlug": "113716-thiago-silva-tico",
+      "result": "win",
+      "method": "other",
+      "event": "Mr. Cage 36",
+      "eventSlug": "56139-mr-cage-36",
+      "round": 2,
+      "timeInRound": "4:48"
+    },
+    {
+      "date": "2018-03-16T00:00:00.000Z",
+      "opponent": "Raimundo Buda",
+      "opponentSlug": "17328-raimundo-buda",
+      "result": "win",
+      "method": "tko",
+      "event": "Jaguar Combat 1",
+      "eventSlug": "51817-jaguar-combat-1",
+      "round": 1,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2017-09-30T00:00:00.000Z",
+      "opponent": "Caio Cesar",
+      "opponentSlug": "134487-caio-cesar",
+      "result": "loss",
+      "method": "other",
+      "event": "Borba FC 1",
+      "eventSlug": "57330-borba-fc-1",
+      "round": 1,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2017-07-01T00:00:00.000Z",
+      "opponent": "Cláudio Feitoza",
+      "opponentSlug": "63401-claudio-supa",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-22T00:00:00.000Z",
+      "opponent": "Maciel Cavalcante",
+      "opponentSlug": "136399-maciel-cavalcante",
+      "result": "loss",
+      "method": "other",
+      "event": "Big Way Fight 10",
+      "eventSlug": "42323-big-way-fight-10",
+      "round": 2,
+      "timeInRound": "2:50"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:16:57.174Z"
+}

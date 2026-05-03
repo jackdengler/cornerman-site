@@ -1,0 +1,242 @@
+{
+  "slug": "63983-saul-marroquin-el-negro",
+  "name": "Levy Saúl Marroquín",
+  "nickname": "El Negro",
+  "aliases": [],
+  "recordPro": {
+    "wins": 16,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 172,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1995-08-25",
+  "nationality": "Monterrey, Nueva Leon, Mexico",
+  "url": "https://www.tapology.com/fightcenter/fighters/63983-saul-marroquin-el-negro",
+  "recentFights": [
+    {
+      "date": "2025-04-26T00:00:00.000Z",
+      "opponent": "Nicolas Varela",
+      "opponentSlug": "99920-nicolas-varela",
+      "result": "win",
+      "method": "other",
+      "event": "MMA Mexico 4",
+      "eventSlug": "124814-mma-mexico-4",
+      "round": 1,
+      "timeInRound": "1:09"
+    },
+    {
+      "date": "2021-07-16T00:00:00.000Z",
+      "opponent": "Carlos Calvo Calvo",
+      "opponentSlug": "95166-carlos-calvo-calvo-changuito",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Combate Global",
+      "eventSlug": "80826-combate-global",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-19T00:00:00.000Z",
+      "opponent": "Juan Pablo Mendoza",
+      "opponentSlug": "87055-juan-pablo-mendoza",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Naciones MMA 1",
+      "eventSlug": "76639-naciones-mma-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-07T00:00:00.000Z",
+      "opponent": "Enrique Gonzalez",
+      "opponentSlug": "119365-kike-gonzalez",
+      "result": "win",
+      "method": "sub",
+      "event": "Combate 51: Tito vs. Alberto",
+      "eventSlug": "63543-combate-hidalgo",
+      "round": 1,
+      "timeInRound": "4:53"
+    },
+    {
+      "date": "2019-04-12T00:00:00.000Z",
+      "opponent": "Alejandro Flores",
+      "opponentSlug": "81683-alejandro-flores",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combate 35: Combate Estrellas 3",
+      "eventSlug": "58976-combate-35",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-17T00:00:00.000Z",
+      "opponent": "Jose Estrada",
+      "opponentSlug": "97131-jose-estrada-froggy",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combate 28: Monterrey",
+      "eventSlug": "56572-combate-26",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-11T00:00:00.000Z",
+      "opponent": "John Castañeda",
+      "opponentSlug": "20125-john-castaneda",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combate 18: Copa Combate",
+      "eventSlug": "49054-combate-18-copa-combate",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-11T00:00:00.000Z",
+      "opponent": "Marcelo Rojo",
+      "opponentSlug": "24632-marcelo-rojo",
+      "result": "win",
+      "method": "sub",
+      "event": "Combate 18: Copa Combate",
+      "eventSlug": "49054-combate-18-copa-combate",
+      "round": 3,
+      "timeInRound": "1:56"
+    },
+    {
+      "date": "2017-11-11T00:00:00.000Z",
+      "opponent": "Carlos Rivera",
+      "opponentSlug": "89832-carlos-rivera-lobo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combate 18: Copa Combate",
+      "eventSlug": "49054-combate-18-copa-combate",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-30T00:00:00.000Z",
+      "opponent": "Andrés Quintana",
+      "opponentSlug": "13132-andres-quintanavia",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combate 15",
+      "eventSlug": "46700-combate-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-30T00:00:00.000Z",
+      "opponent": "Pablo Sabori",
+      "opponentSlug": "46211-pablo-sabori",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Combate 12",
+      "eventSlug": "44921-combate-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-03T00:00:00.000Z",
+      "opponent": "Allan Zuñiga",
+      "opponentSlug": "83007-allan-zuniga",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Calvo Promotions 11",
+      "eventSlug": "40968-calvo-promotions-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-30T00:00:00.000Z",
+      "opponent": "Jose Luis Verdugo",
+      "opponentSlug": "81868-jose-verdugo",
+      "result": "win",
+      "method": "other",
+      "event": "WFC Mexico 16",
+      "eventSlug": "40165-wfc-mexico-16",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2016-06-18T00:00:00.000Z",
+      "opponent": "Fernando Padilla",
+      "opponentSlug": "98371-fernando-padilla",
+      "result": null,
+      "method": "other",
+      "event": "FMP 35",
+      "eventSlug": "105539-fmp-35",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-12-11T00:00:00.000Z",
+      "opponent": "Arturo Loya",
+      "opponentSlug": "64943-arturo-loya-el-pimpon",
+      "result": "win",
+      "method": "sub",
+      "event": "Combate Extremo",
+      "eventSlug": "36622-combate-extremo-gran-final-de-temporada-2015",
+      "round": 1,
+      "timeInRound": "4:58"
+    },
+    {
+      "date": "2015-10-02T00:00:00.000Z",
+      "opponent": "Diego Baltazar",
+      "opponentSlug": "86502-diego-baltazar-gato",
+      "result": "win",
+      "method": "sub",
+      "event": "TSC 6: New Era",
+      "eventSlug": "35037-tsc-6",
+      "round": 1,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2015-04-18T00:00:00.000Z",
+      "opponent": "David Corpus",
+      "opponentSlug": "192057-david-corpus",
+      "result": "win",
+      "method": "sub",
+      "event": "FMP 26",
+      "eventSlug": "31464-fmp-26",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-12-12T00:00:00.000Z",
+      "opponent": "Yasser de la Cruz",
+      "opponentSlug": "84288-yasser-de-la-cruz",
+      "result": null,
+      "method": "other",
+      "event": "Combate Extremo",
+      "eventSlug": "28287-combate-extremo-loco-vs-azteca-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-02-21T00:00:00.000Z",
+      "opponent": "Alejandro Velasquez",
+      "opponentSlug": "63984-alejandro-velasquez-el-matador",
+      "result": "win",
+      "method": "other",
+      "event": "RDC 2",
+      "eventSlug": "22872-rdc-2",
+      "round": 1,
+      "timeInRound": "2:08"
+    },
+    {
+      "date": "2013-06-29T00:00:00.000Z",
+      "opponent": "Ricardo Gonzalez",
+      "opponentSlug": "63990-ricardo-gonzalez-el-moroco",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:02:50.139Z"
+}

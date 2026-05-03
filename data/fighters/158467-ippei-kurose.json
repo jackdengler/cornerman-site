@@ -1,0 +1,81 @@
+{
+  "slug": "158467-ippei-kurose",
+  "name": "Ippei Kurose",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 4,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/158467-ippei-kurose",
+  "recentFights": [
+    {
+      "date": "2018-10-13T00:00:00.000Z",
+      "opponent": "Yoshinao Touma",
+      "opponentSlug": "135288-yosinao-tohma",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "The 25th All Japan Amateur Shooto Championship",
+      "eventSlug": "56420-the-25th-all-japan-amateur-shooto-championship",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-27T00:00:00.000Z",
+      "opponent": "Gaiya Uchida",
+      "opponentSlug": "131336-gaiya-uchida",
+      "result": "loss",
+      "method": "sub",
+      "event": "11th Chugoku Amateur Shooto Championship",
+      "eventSlug": "54566-11th-chugoku-amateur-shooto-championship",
+      "round": 2,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2018-07-27T00:00:00.000Z",
+      "opponent": "Kohei Kurose",
+      "opponentSlug": "151725-kohei-kurose",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "11th Chugoku Amateur Shooto Championship",
+      "eventSlug": "54566-11th-chugoku-amateur-shooto-championship",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-17T00:00:00.000Z",
+      "opponent": "Tatsuro Taira",
+      "opponentSlug": "145595-tatsuro-taira",
+      "result": "loss",
+      "method": "other",
+      "event": "11th Kyushu Amateur Shooto Championship Tournament",
+      "eventSlug": "46199-11th-kyushu-amateur-shooto-championship-tournament",
+      "round": 1,
+      "timeInRound": "3:23"
+    },
+    {
+      "date": "2017-06-03T00:00:00.000Z",
+      "opponent": "Yamato Takagi",
+      "opponentSlug": "158468-daisho-takagi",
+      "result": "loss",
+      "method": "other",
+      "event": "10th Chugoku Amateur Shooto Championship Tournament",
+      "eventSlug": "46021-10th-chugoku-amateur-shooto-championship-tournament",
+      "round": 1,
+      "timeInRound": "2:14"
+    }
+  ],
+  "lastVerified": "2026-04-25T22:59:38.194Z"
+}

@@ -1,0 +1,165 @@
+{
+  "slug": "80016-alan-varela",
+  "name": "Alan Varela",
+  "nickname": "El Malilla",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Mexico",
+  "url": "https://www.tapology.com/fightcenter/fighters/80016-alan-varela",
+  "recentFights": [
+    {
+      "date": "2023-09-30T00:00:00.000Z",
+      "opponent": "Daniel Luna",
+      "opponentSlug": "79067-daniel-luna",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Gladiators",
+      "eventSlug": "107410-campeones-regresan-a-casa",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-02T00:00:00.000Z",
+      "opponent": "Gustavo Torres",
+      "opponentSlug": "346302-gustavo-torres",
+      "result": "win",
+      "method": "other",
+      "event": "Fights Factory",
+      "eventSlug": "88612-fights-factory-unstoppable",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-20T00:00:00.000Z",
+      "opponent": "Carlos Apodaca",
+      "opponentSlug": "80029-carlos-apodaca",
+      "result": "loss",
+      "method": "tko",
+      "event": "Bodqip",
+      "eventSlug": "86849-bodqip",
+      "round": 3,
+      "timeInRound": "4:52"
+    },
+    {
+      "date": "2020-07-03T00:00:00.000Z",
+      "opponent": "Abraham Nava",
+      "opponentSlug": "47705-abraham-nava",
+      "result": "loss",
+      "method": "tko",
+      "event": "UWC 22: Total War",
+      "eventSlug": "70824-uwc-22-total-war",
+      "round": 1,
+      "timeInRound": "3:48"
+    },
+    {
+      "date": "2019-09-28T00:00:00.000Z",
+      "opponent": "David Bento",
+      "opponentSlug": "180755-david-bento-bento",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-02-03T00:00:00.000Z",
+      "opponent": "Ernesto Ibarra",
+      "opponentSlug": "109896-ernesto-ibarra",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "EXF 7",
+      "eventSlug": "44253-exf-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-30T00:00:00.000Z",
+      "opponent": "Carlos Apodaca",
+      "opponentSlug": "80029-carlos-apodaca",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "Fights Factory",
+      "eventSlug": "40889-the-one",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-21T00:00:00.000Z",
+      "opponent": "Santiago Monreal",
+      "opponentSlug": "83920-raul-monreal",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fights Factory",
+      "eventSlug": "33009-fights-factory-the-championship-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-07T00:00:00.000Z",
+      "opponent": "Ernesto Ibarra",
+      "opponentSlug": "109896-ernesto-ibarra",
+      "result": "loss",
+      "method": "sub",
+      "event": "EXF 3",
+      "eventSlug": "33319-exf-3",
+      "round": 2,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2015-05-16T00:00:00.000Z",
+      "opponent": "Abraham Cota",
+      "opponentSlug": "83919-abraham-cota",
+      "result": "win",
+      "method": "other",
+      "event": "Fights Factory",
+      "eventSlug": "30896-fights-factory-back-to-the-cage",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-10-18T00:00:00.000Z",
+      "opponent": "Abraham Cota",
+      "opponentSlug": "83919-abraham-cota",
+      "result": "win",
+      "method": "other",
+      "event": "Fights Factory",
+      "eventSlug": "26958-fights-factory-mma-exhibition",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-09-20T00:00:00.000Z",
+      "opponent": "Gabriel Valdez",
+      "opponentSlug": "80015-gabriel-valdez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fights Factory",
+      "eventSlug": "26689-fights-factory-the-big-one",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-07-26T00:00:00.000Z",
+      "opponent": "Santiago Monreal",
+      "opponentSlug": "83920-raul-monreal",
+      "result": "loss",
+      "method": null,
+      "event": "Fights Factory",
+      "eventSlug": "26692-fights-factory-next",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:36:53.874Z"
+}

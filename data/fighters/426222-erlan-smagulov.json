@@ -1,0 +1,44 @@
+{
+  "slug": "426222-erlan-smagulov",
+  "name": "Erlan Smagulov",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Kazakhstan",
+  "url": "https://www.tapology.com/fightcenter/fighters/426222-erlan-smagulov",
+  "recentFights": [
+    {
+      "date": "2025-12-20T00:00:00.000Z",
+      "opponent": "Dmitriy Khodyrev",
+      "opponentSlug": "541631-dmitriy-khodyrev",
+      "result": "loss",
+      "method": "sub",
+      "event": "Naiza FC 79",
+      "eventSlug": "137692-naiza-fc-79-tulegenov-vs-gusarov",
+      "round": 2,
+      "timeInRound": "4:07"
+    },
+    {
+      "date": "2024-03-15T00:00:00.000Z",
+      "opponent": "Yermakhan Oryntaev",
+      "opponentSlug": "361593-yermakhan-oryntaev",
+      "result": "loss",
+      "method": "other",
+      "event": "Naiza FC 58",
+      "eventSlug": "111290-naiza-fc-58",
+      "round": 1,
+      "timeInRound": "3:49"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:43:46.454Z"
+}

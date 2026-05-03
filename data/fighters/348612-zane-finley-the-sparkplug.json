@@ -1,0 +1,125 @@
+{
+  "slug": "348612-zane-finley-the-sparkplug",
+  "name": "Zane Finley",
+  "nickname": "The Sparkplug",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 5,
+    "losses": 4,
+    "draws": 0
+  },
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "2003-01-30",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/348612-zane-finley-the-sparkplug",
+  "recentFights": [
+    {
+      "date": "2025-09-27T00:00:00.000Z",
+      "opponent": "Joe Corrigan",
+      "opponentSlug": "308187-joseph-corrigan",
+      "result": "loss",
+      "method": "sub",
+      "event": "Arena Wars Fighting Series",
+      "eventSlug": "128545-arena-wars-fighting-series",
+      "round": 2,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2025-04-25T00:00:00.000Z",
+      "opponent": "Michael Burke",
+      "opponentSlug": "375687-michael-burke",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Tuff-N-Uff 143",
+      "eventSlug": "123087-tuff-n-uff-143",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-02T00:00:00.000Z",
+      "opponent": "Artis Lyles",
+      "opponentSlug": "292619-artis-lyles",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Tuff-N-Uff: Operation Knockout 13",
+      "eventSlug": "119518-tuff-n-uff-operation-knockout-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-27T00:00:00.000Z",
+      "opponent": "Tommy Lozano",
+      "opponentSlug": "350983-thomas-lozano",
+      "result": "loss",
+      "method": "sub",
+      "event": "SCL: Army vs. Marines 15",
+      "eventSlug": "110178-scl-army-vs-marines-15-battle-of-the-branches",
+      "round": 1,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2023-11-11T00:00:00.000Z",
+      "opponent": "Quintin Richards",
+      "opponentSlug": "292164-quintin-richards",
+      "result": "loss",
+      "method": "other",
+      "event": "BCM Fight Night 15",
+      "eventSlug": "105316-bcm-promotions-fight-night-15",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2023-05-13T00:00:00.000Z",
+      "opponent": "Mark Acosta",
+      "opponentSlug": "193279-mark-acosta",
+      "result": "win",
+      "method": "other",
+      "event": "BCM Fight Night 13",
+      "eventSlug": "98345-bcm-promotions-fight-night-13",
+      "round": 2,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2023-02-04T00:00:00.000Z",
+      "opponent": "Sam McGuigan",
+      "opponentSlug": "314595-samuel-mcguigan",
+      "result": "win",
+      "method": "sub",
+      "event": "BCM Fight Night 12",
+      "eventSlug": "95342-bcm-promotion-fight-night-11",
+      "round": 1,
+      "timeInRound": "2:35"
+    },
+    {
+      "date": "2022-11-12T00:00:00.000Z",
+      "opponent": "Nate Doss",
+      "opponentSlug": "360604-nathan-doss",
+      "result": "loss",
+      "method": "sub",
+      "event": "BCM Fight Night 11",
+      "eventSlug": "92779-bcm-fight-night-11",
+      "round": 3,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2022-08-20T00:00:00.000Z",
+      "opponent": "Zakamaren Bennett",
+      "opponentSlug": "348613-zakamaren-bennett",
+      "result": "win",
+      "method": "sub",
+      "event": "BCM Fight Night 10",
+      "eventSlug": "89593-bcm-promotions-fight-night-10",
+      "round": 1,
+      "timeInRound": "0:47"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:41:23.637Z"
+}

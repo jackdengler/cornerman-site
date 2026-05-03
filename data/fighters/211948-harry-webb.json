@@ -1,0 +1,134 @@
+{
+  "slug": "211948-harry-webb",
+  "name": "Harry Webb",
+  "nickname": "The Human Highlight Reel",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1999-11-13",
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/211948-harry-webb",
+  "recentFights": [
+    {
+      "date": "2024-08-17T00:00:00.000Z",
+      "opponent": "Kevin Kophamel",
+      "opponentSlug": "246100-kevin-kophamel",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Eternal MMA 87",
+      "eventSlug": "112018-eternal-mma-87",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-02T00:00:00.000Z",
+      "opponent": "Abdalla Biayda",
+      "opponentSlug": "202073-abdullah-eltigani",
+      "result": "win",
+      "method": "tko",
+      "event": "HEX Fight Series 29",
+      "eventSlug": "107573-hex-fight-series-29",
+      "round": 1,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2023-11-18T00:00:00.000Z",
+      "opponent": "Niam Stephen",
+      "opponentSlug": "195966-niam-stephen",
+      "result": "win",
+      "method": "other",
+      "event": "Hex Fight Series 28",
+      "eventSlug": "104226-hex-fight-series-28",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-18T00:00:00.000Z",
+      "opponent": "Kaan Husmek",
+      "opponentSlug": "254823-kaan-husmak",
+      "result": "win",
+      "method": "other",
+      "event": "Hex Fight Series 27",
+      "eventSlug": "101993-hex-fight-series-27",
+      "round": 1,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2023-05-06T00:00:00.000Z",
+      "opponent": "Ollie Schmid",
+      "opponentSlug": "237487-oliver-schmid",
+      "result": "win",
+      "method": "sub",
+      "event": "Eternal MMA 75",
+      "eventSlug": "99483-eternal-mma-75",
+      "round": 3,
+      "timeInRound": "3:33"
+    }
+  ],
+  "allFights": [
+    {
+      "date": "2024-08-17T00:00:00.000Z",
+      "opponent": "Kevin Kophamel",
+      "opponentSlug": "246100-kevin-kophamel",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Eternal MMA 87",
+      "eventSlug": "112018-eternal-mma-87",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-02T00:00:00.000Z",
+      "opponent": "Abdalla Biayda",
+      "opponentSlug": "202073-abdullah-eltigani",
+      "result": "win",
+      "method": "tko",
+      "event": "HEX Fight Series 29",
+      "eventSlug": "107573-hex-fight-series-29",
+      "round": 1,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2023-11-18T00:00:00.000Z",
+      "opponent": "Niam Stephen",
+      "opponentSlug": "195966-niam-stephen",
+      "result": "win",
+      "method": "other",
+      "event": "Hex Fight Series 28",
+      "eventSlug": "104226-hex-fight-series-28",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-18T00:00:00.000Z",
+      "opponent": "Kaan Husmek",
+      "opponentSlug": "254823-kaan-husmak",
+      "result": "win",
+      "method": "other",
+      "event": "Hex Fight Series 27",
+      "eventSlug": "101993-hex-fight-series-27",
+      "round": 1,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2023-05-06T00:00:00.000Z",
+      "opponent": "Ollie Schmid",
+      "opponentSlug": "237487-oliver-schmid",
+      "result": "win",
+      "method": "sub",
+      "event": "Eternal MMA 75",
+      "eventSlug": "99483-eternal-mma-75",
+      "round": 3,
+      "timeInRound": "3:33"
+    }
+  ],
+  "lastVerified": "2026-05-03T08:57:53.258Z"
+}

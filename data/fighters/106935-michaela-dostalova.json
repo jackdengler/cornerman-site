@@ -1,0 +1,99 @@
+{
+  "slug": "106935-michaela-dostalova",
+  "name": "Michaela Dostalova",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/106935-michaela-dostalova",
+  "recentFights": [
+    {
+      "date": "2020-02-15T00:00:00.000Z",
+      "opponent": "Lucia Krajčovič",
+      "opponentSlug": "104019-lucia-krajovi",
+      "result": "win",
+      "method": "sub",
+      "event": "Oktagon Prime 3",
+      "eventSlug": "64151-oktagon-prime-3-strbak-vs-rysavy",
+      "round": 1,
+      "timeInRound": "3:42"
+    },
+    {
+      "date": "2019-09-01T00:00:00.000Z",
+      "opponent": "Lucia Szabová",
+      "opponentSlug": "187305-lucia-szabova-queen-bee",
+      "result": "loss",
+      "method": "other",
+      "event": "Oktagon 4 Challenge Qualification",
+      "eventSlug": "81839-oktagon-4-challenge-qualification-semifinal-2",
+      "round": 1,
+      "timeInRound": "4:28"
+    },
+    {
+      "date": "2019-08-11T00:00:00.000Z",
+      "opponent": "Nikoleta Domoráková",
+      "opponentSlug": "197478-nikoleta-domorakova",
+      "result": "win",
+      "method": "other",
+      "event": "Oktagon 4 Challenge Qualification",
+      "eventSlug": "81835-oktagon-4-challenge-qualification-quarterfinals-2",
+      "round": 1,
+      "timeInRound": "4:16"
+    },
+    {
+      "date": "2016-07-07T00:00:00.000Z",
+      "opponent": "Kelsey Gollihar",
+      "opponentSlug": "107089-kelsey-gollihar",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "2016 IMMAF World Championships",
+      "eventSlug": "40644-2016-immaf-world-championships-day-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-21T00:00:00.000Z",
+      "opponent": "Sunna Davíðsdóttir",
+      "opponentSlug": "100799-sunna-davidsdottir-tsunami",
+      "result": "loss",
+      "method": "other",
+      "event": "2015 IMMAF European Open Championships",
+      "eventSlug": "35766-2015-immaf-european-open-championships-day-3",
+      "round": 1,
+      "timeInRound": "2:48"
+    },
+    {
+      "date": "2015-11-20T00:00:00.000Z",
+      "opponent": "Anette Österberg",
+      "opponentSlug": "120028-anette-sterberg",
+      "result": "win",
+      "method": "dec-split",
+      "event": "2015 IMMAF European Open Championships",
+      "eventSlug": "36850-2015-immaf-european-open-championships-day-2-ring-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-07-09T00:00:00.000Z",
+      "opponent": "Micol di Segni",
+      "opponentSlug": "74638-micol-di-segni",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "IMMAF 2015 World Championships",
+      "eventSlug": "34012-immaf-2015-world-championships-day-4-cage-b",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:02:44.213Z"
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "50826-vitor-riso-soldado",
+  "name": "Vitor Riso",
+  "nickname": "Soldado",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1988-05-13",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/50826-vitor-riso-soldado",
+  "recentFights": [
+    {
+      "date": "2015-11-28T00:00:00.000Z",
+      "opponent": "Paulo Motta",
+      "opponentSlug": "116791-paulo-jibia",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "NCE 3",
+      "eventSlug": "36836-nce-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-29T00:00:00.000Z",
+      "opponent": "Maicon Almeida",
+      "opponentSlug": "71347-maicon-almeida",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-03-10T00:00:00.000Z",
+      "opponent": "Raoni Barcelos",
+      "opponentSlug": "30448-raoni-barcellos",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-12-03T00:00:00.000Z",
+      "opponent": "Erivaldo Santos",
+      "opponentSlug": "13654-erivaldo-santos-val",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-02-06T00:00:00.000Z",
+      "opponent": "Gleison Maumau",
+      "opponentSlug": "34387-gleison-maumau",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:38:59.933Z"
+}

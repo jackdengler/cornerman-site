@@ -1,0 +1,55 @@
+{
+  "slug": "93468-avtandil-gachechiladze",
+  "name": "Avtandil Gachechiladze",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Georgia",
+  "url": "https://www.tapology.com/fightcenter/fighters/93468-avtandil-gachechiladze",
+  "recentFights": [
+    {
+      "date": "2015-06-05T00:00:00.000Z",
+      "opponent": "Yuriy Yatzik",
+      "opponentSlug": "103656-yuriy-yatzik",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ProFC Ukraine",
+      "eventSlug": "32914-profc-ukraine-reflection-cup-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-05T00:00:00.000Z",
+      "opponent": "Yaroslav Amosov",
+      "opponentSlug": "81129-yaroslav-amosov",
+      "result": "loss",
+      "method": "sub",
+      "event": "ProFC Ukraine",
+      "eventSlug": "30062-profc-ukraine-steel-warriors",
+      "round": 2,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2019-10-05T00:00:00.000Z",
+      "opponent": "Francesco Bocca",
+      "opponentSlug": "145459-francesco-bocca",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Integra FC 13",
+      "eventSlug": "60941-integra-fc-13",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:04:46.702Z"
+}

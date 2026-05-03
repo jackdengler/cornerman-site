@@ -1,0 +1,143 @@
+{
+  "slug": "166484-rene-matejov",
+  "name": "René Matejov",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1987-04-20",
+  "nationality": "Slovakia",
+  "url": "https://www.tapology.com/fightcenter/fighters/166484-rene-matejov",
+  "recentFights": [
+    {
+      "date": "2022-07-16T00:00:00.000Z",
+      "opponent": "Andrija Stojiljković",
+      "opponentSlug": "301166-andrija-stojiljkovic",
+      "result": "win",
+      "method": "tko",
+      "event": "Serbian Battle Championship 42",
+      "eventSlug": "91057-serbian-battle-championship-42-revenge",
+      "round": 1,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2020-01-26T00:00:00.000Z",
+      "opponent": "Miroslav Vacek",
+      "opponentSlug": "18972-miroslav-vacek",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "GCF 61: Cage Fight Nymburk 4",
+      "eventSlug": "66465-gcf-61",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-14T00:00:00.000Z",
+      "opponent": "Bartosz Strzała",
+      "opponentSlug": "121478-bartosz-strzaa",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Double Red XFN",
+      "eventSlug": "65171-double-red-xfn-kristofic-vs-kares",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-11T00:00:00.000Z",
+      "opponent": "Vojtech Garba",
+      "opponentSlug": "145826-vojtech-garba",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fight Night West 5",
+      "eventSlug": "63631-fight-night-west-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-25T00:00:00.000Z",
+      "opponent": "Václav Holota",
+      "opponentSlug": "152867-vaclav-holota",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Noc Valecniku 16",
+      "eventSlug": "126280-warriors-night-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-25T00:00:00.000Z",
+      "opponent": "Václav Holota",
+      "opponentSlug": "152867-vaclav-holota",
+      "result": "nc",
+      "method": "other",
+      "event": "RP Security MMAA Arena Cup 52",
+      "eventSlug": "60689-rp-security-mmaa-arena-cup-52-kladno",
+      "round": 3,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2018-12-27T00:00:00.000Z",
+      "opponent": "Michal Glos",
+      "opponentSlug": "93402-michal-glos",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XFN 15: Marpo vs Rytmus",
+      "eventSlug": "56960-xfn-15-marpo-vs-rytmus",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-18T00:00:00.000Z",
+      "opponent": "Lukáš Garlic",
+      "opponentSlug": "200139-lukas-garlic",
+      "result": "win",
+      "method": "sub",
+      "event": "XFN 14",
+      "eventSlug": "55594-xfn-14",
+      "round": 2,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2018-06-30T00:00:00.000Z",
+      "opponent": "Zdeněk Holub",
+      "opponentSlug": "149564-zdenek-holub",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMAA Arena Cup 43",
+      "eventSlug": "53712-mmaa-arena-cup-43-finale-mcr-mmaa-arena-cup-2017-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-19T00:00:00.000Z",
+      "opponent": "Lukas Rytir",
+      "opponentSlug": "93435-lukas-rytir",
+      "result": "win",
+      "method": "other",
+      "event": "Slovenska Liga Amateruv 15",
+      "eventSlug": "49203-slovenska-liga-amateruv-15",
+      "round": 2,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2017-09-23T00:00:00.000Z",
+      "opponent": "Marek Vrabec",
+      "opponentSlug": "166491-marek-vrabec",
+      "result": "win",
+      "method": "other",
+      "event": "Slovenska Liga Amateruv MMA 14",
+      "eventSlug": "47238-slovenska-liga-amateruv-mma-14",
+      "round": 1,
+      "timeInRound": "4:59"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:08:58.960Z"
+}

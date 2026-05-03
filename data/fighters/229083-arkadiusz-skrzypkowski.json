@@ -1,0 +1,44 @@
+{
+  "slug": "229083-arkadiusz-skrzypkowski",
+  "name": "Arkadiusz Skrzypkowski",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Poland",
+  "url": "https://www.tapology.com/fightcenter/fighters/229083-arkadiusz-skrzypkowski",
+  "recentFights": [
+    {
+      "date": "2022-03-19T00:00:00.000Z",
+      "opponent": "Miłosz Melchert",
+      "opponentSlug": "183548-milosz-melchert",
+      "result": "loss",
+      "method": "other",
+      "event": "Amber Fight MMA 1",
+      "eventSlug": "87996-amber-fight-mma-1",
+      "round": 2,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2019-06-29T00:00:00.000Z",
+      "opponent": "Kacper Matyszewski",
+      "opponentSlug": "229084-kacper-matyszewski",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Time of Masters 4",
+      "eventSlug": "60959-time-of-masters-powrot-krolow",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:11:22.703Z"
+}

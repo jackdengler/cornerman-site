@@ -1,0 +1,88 @@
+{
+  "slug": "47522-eduardo-silva",
+  "name": "Eduardo Silva",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/47522-eduardo-silva",
+  "recentFights": [
+    {
+      "date": "2021-12-11T00:00:00.000Z",
+      "opponent": "Vitor Rafael Alves",
+      "opponentSlug": "47537-vitor-rafael",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Centro Oeste Fight 14",
+      "eventSlug": "81934-centro-oeste-fight-14",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-19T00:00:00.000Z",
+      "opponent": "Alan Pereira",
+      "opponentSlug": "105643-alan-pereira",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-26T00:00:00.000Z",
+      "opponent": "Jean Maia",
+      "opponentSlug": "164490-jean-maia",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-08T00:00:00.000Z",
+      "opponent": "Djorden Santos",
+      "opponentSlug": "67529-diorden-maguila",
+      "result": "loss",
+      "method": "sub",
+      "event": "Aspera FC 45",
+      "eventSlug": "39046-aspera-fc-45",
+      "round": 2,
+      "timeInRound": "2:31"
+    },
+    {
+      "date": "2015-11-07T00:00:00.000Z",
+      "opponent": "Stanlley Souza",
+      "opponentSlug": "47524-stanlley-souza-50-cent",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-12-20T00:00:00.000Z",
+      "opponent": "Wanderley Camilo",
+      "opponentSlug": "36278-wanderley-camilo-ferreira",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:04:09.442Z"
+}

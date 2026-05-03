@@ -1,0 +1,176 @@
+{
+  "slug": "10009-isamu-himura-20",
+  "name": "Isamu Himura",
+  "nickname": "2.0",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 9,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 176,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/10009-isamu-himura-20",
+  "recentFights": [
+    {
+      "date": "2018-05-12T00:00:00.000Z",
+      "opponent": "Masko Franklin Maun",
+      "opponentSlug": "101799-masko-franklin-maun",
+      "result": "win",
+      "method": "tko",
+      "event": "Ultimate Beatdown 28",
+      "eventSlug": "52364-ultimate-beatdown-28-borneo",
+      "round": 1,
+      "timeInRound": "1:51"
+    },
+    {
+      "date": "2013-06-29T00:00:00.000Z",
+      "opponent": "Lipeng Zhang",
+      "opponentSlug": "12014-li-peng-zhang",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-09-29T00:00:00.000Z",
+      "opponent": "Zebaztian Kadestam",
+      "opponentSlug": "19640-zebaztian-kadestam",
+      "result": "loss",
+      "method": null,
+      "event": "DARE 3/12",
+      "eventSlug": "16815-dare-312-the-most-dangerous-gameshow",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-07-29T00:00:00.000Z",
+      "opponent": "Seok Mo Kim",
+      "opponentSlug": "16893-seok-mo-kim",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-07-06T00:00:00.000Z",
+      "opponent": "Luc Rousseau",
+      "opponentSlug": "70616-luc-rousseau-doberman",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-03-24T00:00:00.000Z",
+      "opponent": "Kah Wei Teh",
+      "opponentSlug": "30482-teh-kah-wei-the-predator",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-12-18T00:00:00.000Z",
+      "opponent": "Will Chope",
+      "opponentSlug": "16337-will-chope-the-kill",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-10-30T00:00:00.000Z",
+      "opponent": "Haidong Zhang",
+      "opponentSlug": "103286-hai-dong-zhang",
+      "result": "win",
+      "method": "sub",
+      "event": "Xi'an Sports University",
+      "eventSlug": "38074-xian-sports-university-ultimate-wrestle",
+      "round": 1,
+      "timeInRound": "4:52"
+    },
+    {
+      "date": "2010-09-16T00:00:00.000Z",
+      "opponent": "Xavier MaCay",
+      "opponentSlug": "29538-xavier-macay",
+      "result": "draw",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-06-17T00:00:00.000Z",
+      "opponent": "Brian Choi",
+      "opponentSlug": "20233-brian-choi-polar-bear",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-11-17T00:00:00.000Z",
+      "opponent": "Binghui Wang",
+      "opponentSlug": "103287-binghui-wang",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2006-05-12T00:00:00.000Z",
+      "opponent": "Jonathan Romero",
+      "opponentSlug": "3376-jonathan-romero",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2005-09-17T00:00:00.000Z",
+      "opponent": "Kaleo Padilla",
+      "opponentSlug": "3124-kaleo-padilla-the-pervert",
+      "result": "loss",
+      "method": "sub",
+      "event": "Rumble On The Rock",
+      "eventSlug": "1687-rumble-on-the-rock-qualifiers-2",
+      "round": 1,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2005-09-17T00:00:00.000Z",
+      "opponent": "Ross Ebanez",
+      "opponentSlug": "ross-ebanez-the-boss",
+      "result": "loss",
+      "method": "other",
+      "event": "Rumble On The Rock",
+      "eventSlug": "1687-rumble-on-the-rock-qualifiers-2",
+      "round": 1,
+      "timeInRound": "4:32"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:04:37.793Z"
+}

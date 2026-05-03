@@ -1,0 +1,209 @@
+{
+  "slug": "98157-yanis-ghemmouri",
+  "name": "Yanis Ghemmouri",
+  "nickname": "The Desert Warrior",
+  "aliases": [],
+  "recordPro": {
+    "wins": 13,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 175,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1995-01-24",
+  "nationality": "France",
+  "url": "https://www.tapology.com/fightcenter/fighters/98157-yanis-ghemmouri",
+  "recentFights": [
+    {
+      "date": "2025-12-05T00:00:00.000Z",
+      "opponent": "Islam Reda",
+      "opponentSlug": "88533-islam-reda-the-egyptian-zombie",
+      "result": "loss",
+      "method": "other",
+      "event": "PFL MENA 4: 2025 Finals",
+      "eventSlug": "127761-pfl-mena-4",
+      "round": 2,
+      "timeInRound": "4:46"
+    },
+    {
+      "date": "2025-09-27T00:00:00.000Z",
+      "opponent": "Izzeddine Al Derbani",
+      "opponentSlug": "77388-eizzeldine-derbanee",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "PFL MENA 3: 2025 Semifinals",
+      "eventSlug": "127760-pfl-mena-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-29T00:00:00.000Z",
+      "opponent": "Payton Talbott",
+      "opponentSlug": "181513-payton-talbout",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 303: Pereira vs. Procházka 2",
+      "eventSlug": "109011-ufc",
+      "round": 1,
+      "timeInRound": "0:19"
+    },
+    {
+      "date": "2023-09-02T00:00:00.000Z",
+      "opponent": "William Gomis",
+      "opponentSlug": "125696-william-gomis",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "102007-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2023-06-23T00:00:00.000Z",
+      "opponent": "Mehmosh Raza",
+      "opponentSlug": "128027-mehmosh-raza",
+      "result": "win",
+      "method": "other",
+      "event": "BRAVE CF 72",
+      "eventSlug": "101278-brave-cf-72",
+      "round": 2,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2022-12-12T00:00:00.000Z",
+      "opponent": "Bair Shtepin",
+      "opponentSlug": "98426-bair-shtepin",
+      "result": "win",
+      "method": "other",
+      "event": "BRAVE CF 67",
+      "eventSlug": "95459-brave-cf-67",
+      "round": 2,
+      "timeInRound": "4:43"
+    },
+    {
+      "date": "2021-06-04T00:00:00.000Z",
+      "opponent": "Vladislav Novitskiy",
+      "opponentSlug": "122442-vladislav-novitskiy",
+      "result": "win",
+      "method": "dec-split",
+      "event": "BRAVE CF 51",
+      "eventSlug": "78536-brave-cf-51",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-01-22T00:00:00.000Z",
+      "opponent": "Rachid Haz",
+      "opponentSlug": "191501-rachid-haz",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UAE Warriors Arabia",
+      "eventSlug": "76392-uae-warriors-arabia",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-01-25T00:00:00.000Z",
+      "opponent": "Davide Bufalino",
+      "opponentSlug": "268583-davide-bufalino",
+      "result": "win",
+      "method": "sub",
+      "event": "Lyon Fighting Championship 12",
+      "eventSlug": "71854-lyon-fighting-championship-12",
+      "round": 1,
+      "timeInRound": "3:07"
+    },
+    {
+      "date": "2018-10-06T00:00:00.000Z",
+      "opponent": "Daniel Hortegas",
+      "opponentSlug": "48177-daniel-ortegas",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Sparta Fight Series 2",
+      "eventSlug": "55778-sparta-fight-series-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-27T00:00:00.000Z",
+      "opponent": "Umarali Akmatov",
+      "opponentSlug": "127334-umarali-akmatov",
+      "result": "win",
+      "method": "sub",
+      "event": "WWFC 8",
+      "eventSlug": "47574-wwfc-cage-encounter-8",
+      "round": 1,
+      "timeInRound": "4:12"
+    },
+    {
+      "date": "2017-02-18T00:00:00.000Z",
+      "opponent": "Willy Zancanaro",
+      "opponentSlug": "71109-willy-zancanaro",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "APASH Tournament 1",
+      "eventSlug": "44307-apash-tournament-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-19T00:00:00.000Z",
+      "opponent": "Federico Iannello",
+      "opponentSlug": "144128-federico-iannello",
+      "result": "win",
+      "method": "sub",
+      "event": "Lyon Fighting Championship 7",
+      "eventSlug": "42736-lyon-fighting-championship-7",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-05-09T00:00:00.000Z",
+      "opponent": "Steve Polifonte",
+      "opponentSlug": "39223-steve-polifonte",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-12-20T00:00:00.000Z",
+      "opponent": "Amin Ayoub",
+      "opponentSlug": "92734-amin-ayoub",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-22T00:00:00.000Z",
+      "opponent": "Jonathan Kouame",
+      "opponentSlug": "76466-jonathan-kouame",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-10-31T00:00:00.000Z",
+      "opponent": "Jordan Carriere",
+      "opponentSlug": "95230-jordan-carriere",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:07:02.343Z"
+}

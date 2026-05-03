@@ -1,0 +1,48 @@
+{
+  "slug": "158460-megumi-iruma",
+  "name": "Kei Iraha",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/158460-megumi-iruma",
+  "recentFights": [
+    {
+      "date": "2018-06-02T00:00:00.000Z",
+      "opponent": "Ryuya Hatakeyama",
+      "opponentSlug": "145599-takashisho-hatakeyama",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "1st Okinawa Amateur Shooto Championship",
+      "eventSlug": "53623-1st-okinawa-amateur-shooto-championship",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-21T00:00:00.000Z",
+      "opponent": "Tatsuro Taira",
+      "opponentSlug": "145595-tatsuro-taira",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Ryukyu Free Fight Vol. 10",
+      "eventSlug": "46020-ryukyu-free-fight-vol-10",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T22:59:43.093Z"
+}

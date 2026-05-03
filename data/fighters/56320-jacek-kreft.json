@@ -1,0 +1,132 @@
+{
+  "slug": "56320-jacek-kreft",
+  "name": "Jacek Kreft",
+  "nickname": "Łamator",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 182,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1990-12-07",
+  "nationality": "Poland",
+  "url": "https://www.tapology.com/fightcenter/fighters/56320-jacek-kreft",
+  "recentFights": [
+    {
+      "date": "2016-08-13T00:00:00.000Z",
+      "opponent": "Marian Ziółkowski",
+      "opponentSlug": "44823-marian-ziolkowski",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fight Exclusive Night 13",
+      "eventSlug": "36992-fight-exclusive-night-13",
+      "round": 1,
+      "timeInRound": "2:53"
+    },
+    {
+      "date": "2016-01-09T00:00:00.000Z",
+      "opponent": "Adam Golonkiewicz",
+      "opponentSlug": "18931-adam-golonkiewicz-rodrigo",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Exclusive Night 10",
+      "eventSlug": "36634-fight-exclusive-night-10",
+      "round": 1,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2015-07-31T00:00:00.000Z",
+      "opponent": "Mateusz Rębecki",
+      "opponentSlug": "65128-mateusz-rbecki-chiczyk",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fight Exclusive Night 8",
+      "eventSlug": "32383-fight-exclusive-night-8",
+      "round": 1,
+      "timeInRound": "4:12"
+    },
+    {
+      "date": "2015-01-17T00:00:00.000Z",
+      "opponent": "Roman Szymański",
+      "opponentSlug": "32157-roman-szymanski",
+      "result": "loss",
+      "method": "sub",
+      "event": "Time of Masters 1",
+      "eventSlug": "27297-time-of-masters",
+      "round": 3,
+      "timeInRound": "0:46"
+    },
+    {
+      "date": "2014-08-16T00:00:00.000Z",
+      "opponent": "Patryk Rogóż",
+      "opponentSlug": "56467-patryk-rogoz",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Exclusive Night 4",
+      "eventSlug": "24094-fight-exclusive-night-4",
+      "round": 1,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2014-01-18T00:00:00.000Z",
+      "opponent": "Marian Ziółkowski",
+      "opponentSlug": "44823-marian-ziolkowski",
+      "result": "loss",
+      "method": "sub",
+      "event": "PLMMA 27: Kreft vs. Ziółkowski 2",
+      "eventSlug": "22107-plmma-27",
+      "round": 2,
+      "timeInRound": "3:23"
+    },
+    {
+      "date": "2013-12-14T00:00:00.000Z",
+      "opponent": "Dmitriy Shestakov",
+      "opponentSlug": "70860-dmitry-shestakov",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-09-14T00:00:00.000Z",
+      "opponent": "Marian Ziółkowski",
+      "opponentSlug": "44823-marian-ziolkowski",
+      "result": "win",
+      "method": "sub",
+      "event": "PLMMA 20: Extra - Pruszków",
+      "eventSlug": "21001-plmma-20-extra-pruszkw",
+      "round": 2,
+      "timeInRound": "2:13"
+    },
+    {
+      "date": "2013-05-11T00:00:00.000Z",
+      "opponent": "Patryk Grudniewski",
+      "opponentSlug": "56302-patryk-grudniewski",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "PLMMA 16: Koszalin",
+      "eventSlug": "20961-plmma-16-koszalin",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-05-26T00:00:00.000Z",
+      "opponent": "Kamil Łebkowski",
+      "opponentSlug": "56430-kamil-lebkowski",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:05:43.593Z"
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "20124-marcel-anderson",
+  "name": "Marcel Anderson",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/20124-marcel-anderson",
+  "recentFights": [
+    {
+      "date": "2013-08-17T00:00:00.000Z",
+      "opponent": "Ben Pierre-Saint",
+      "opponentSlug": "67285-benjamn-st-pierre",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-01-26T00:00:00.000Z",
+      "opponent": "Bryan Mortensen",
+      "opponentSlug": "32924-bryan-mortensen",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-09-22T00:00:00.000Z",
+      "opponent": "Dalton Albrent",
+      "opponentSlug": "34994-dalton-albrent",
+      "result": "win",
+      "method": "sub",
+      "event": "Caged Chaos at Canterbury Park 1",
+      "eventSlug": "15927-caged-chaos-at-canterbury-park",
+      "round": 2,
+      "timeInRound": "0:54"
+    },
+    {
+      "date": "2012-05-18T00:00:00.000Z",
+      "opponent": "Nick Schmidtke",
+      "opponentSlug": "95275-nick-schmidtke",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-01-06T00:00:00.000Z",
+      "opponent": "John Castañeda",
+      "opponentSlug": "20125-john-castaneda",
+      "result": "loss",
+      "method": "other",
+      "event": "Downtown Showdown 2",
+      "eventSlug": "11849-downtown-showdown-2",
+      "round": 3,
+      "timeInRound": "1:42"
+    },
+    {
+      "date": "2010-12-10T00:00:00.000Z",
+      "opponent": "Kazim Khan",
+      "opponentSlug": "95274-kazim-khan",
+      "result": "loss",
+      "method": "dec-split",
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:03:37.788Z"
+}

@@ -1,0 +1,154 @@
+{
+  "slug": "212961-deniz-ilbay",
+  "name": "Deniz Ilbay",
+  "nickname": "El Pistolero",
+  "aliases": [],
+  "recordPro": {
+    "wins": 22,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 167,
+  "reachCm": 178,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1995-01-22",
+  "nationality": "Cologne, Nordrhein-Westfalen, Germany",
+  "url": "https://www.tapology.com/fightcenter/fighters/212961-deniz-ilbay",
+  "recentFights": [
+    {
+      "date": "2026-03-07T00:00:00.000Z",
+      "opponent": "Adrian Hamerski",
+      "opponentSlug": "183537-adrian-hamerski",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 85: Severino vs. Kakhorov",
+      "eventSlug": "135740-oktagon-85",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-01-17T00:00:00.000Z",
+      "opponent": "Karol Ryšavý",
+      "opponentSlug": "127463-karol-rysavy",
+      "result": "loss",
+      "method": "sub",
+      "event": "OKTAGON 82: Engizek vs. Jotko",
+      "eventSlug": "134065-oktagon-82",
+      "round": 1,
+      "timeInRound": "3:49"
+    },
+    {
+      "date": "2025-04-05T00:00:00.000Z",
+      "opponent": "Max Holzer",
+      "opponentSlug": "255458-max-holzer",
+      "result": "loss",
+      "method": "sub",
+      "event": "OKTAGON 69: Holzer vs. Ilbay",
+      "eventSlug": "118931-oktagon",
+      "round": 4,
+      "timeInRound": "4:14"
+    },
+    {
+      "date": "2025-02-01T00:00:00.000Z",
+      "opponent": "Vladimír Lengál",
+      "opponentSlug": "305714-vladimir-lengal-vlado",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 66: Engizek vs. Oniszczuk",
+      "eventSlug": "118928-oktagon",
+      "round": 2,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2024-10-12T00:00:00.000Z",
+      "opponent": "Michael Deiga-Scheck",
+      "opponentSlug": "120423-michael-deiga-scheck",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 62: Bigger Than Ever",
+      "eventSlug": "111712-oktagon-62-bigger-than-ever",
+      "round": 1,
+      "timeInRound": "3:19"
+    },
+    {
+      "date": "2024-06-08T00:00:00.000Z",
+      "opponent": "Denis Tripšanský",
+      "opponentSlug": "123273-denis-tripsansky",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 58: Vémola vs Végh 2",
+      "eventSlug": "108636-oktagon",
+      "round": 2,
+      "timeInRound": "2:16"
+    },
+    {
+      "date": "2023-11-18T00:00:00.000Z",
+      "opponent": "Corey Fry",
+      "opponentSlug": "97867-corey-fry",
+      "result": "loss",
+      "method": "sub",
+      "event": "OKTAGON 49: Moeil vs Todev",
+      "eventSlug": "102329-oktagon-49",
+      "round": 1,
+      "timeInRound": "3:35"
+    },
+    {
+      "date": "2023-09-16T00:00:00.000Z",
+      "opponent": "Marco Novák",
+      "opponentSlug": "248857-marco-novak",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 46: Dalisda vs. Austin",
+      "eventSlug": "102327-oktagon-46",
+      "round": 3,
+      "timeInRound": "4:21"
+    },
+    {
+      "date": "2023-02-18T00:00:00.000Z",
+      "opponent": "Cagri Ucar",
+      "opponentSlug": "180282-cagri-ucar",
+      "result": "win",
+      "method": "other",
+      "event": "NFC 12",
+      "eventSlug": "94571-nfc-12",
+      "round": 2,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2022-09-24T00:00:00.000Z",
+      "opponent": "Denis Gondžala",
+      "opponentSlug": "230938-denis-gondzala",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "EMC 10",
+      "eventSlug": "91476-emc-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-16T00:00:00.000Z",
+      "opponent": "Miso Vranjes",
+      "opponentSlug": "334213-miso-vranjes",
+      "result": "win",
+      "method": "other",
+      "event": "EMC 9",
+      "eventSlug": "87883-emc-9",
+      "round": 1,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2021-12-04T00:00:00.000Z",
+      "opponent": "Adnan Zilic",
+      "opponentSlug": "184659-adnan-zilic",
+      "result": "win",
+      "method": "other",
+      "event": "EMC 8",
+      "eventSlug": "84230-emc-8",
+      "round": 1,
+      "timeInRound": "1:56"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:06:20.119Z"
+}

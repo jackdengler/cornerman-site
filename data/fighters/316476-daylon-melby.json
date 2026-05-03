@@ -1,0 +1,70 @@
+{
+  "slug": "316476-daylon-melby",
+  "name": "Daylon Melby",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1996-08-02",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/316476-daylon-melby",
+  "recentFights": [
+    {
+      "date": "2022-05-20T00:00:00.000Z",
+      "opponent": "Vicente Flores Jr.",
+      "opponentSlug": "226337-vicente-flores-jr",
+      "result": "loss",
+      "method": "tko",
+      "event": "FAC 14",
+      "eventSlug": "88127-fac-14",
+      "round": 1,
+      "timeInRound": "0:36"
+    },
+    {
+      "date": "2022-05-06T00:00:00.000Z",
+      "opponent": "Taner Trembley",
+      "opponentSlug": "336743-taner-trembley",
+      "result": "loss",
+      "method": "tko",
+      "event": "CES 68: Greene vs. Williams",
+      "eventSlug": "87778-ces-68",
+      "round": 1,
+      "timeInRound": "2:17"
+    },
+    {
+      "date": "2022-03-12T00:00:00.000Z",
+      "opponent": "Cody Beier",
+      "opponentSlug": "323414-cody-beier",
+      "result": "win",
+      "method": "other",
+      "event": "Throne MMA 2",
+      "eventSlug": "85327-throne-mma-2",
+      "round": 1,
+      "timeInRound": "0:41"
+    },
+    {
+      "date": "2021-11-19T00:00:00.000Z",
+      "opponent": "Wikus Rust",
+      "opponentSlug": "196550-wikus-rust",
+      "result": "win",
+      "method": "other",
+      "event": "Captain's Fight Club 1",
+      "eventSlug": "83893-cfc-1",
+      "round": 2,
+      "timeInRound": "0:41"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:37:44.934Z"
+}

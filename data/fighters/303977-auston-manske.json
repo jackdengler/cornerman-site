@@ -1,0 +1,81 @@
+{
+  "slug": "303977-auston-manske",
+  "name": "Auston Manske",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/303977-auston-manske",
+  "recentFights": [
+    {
+      "date": "2024-01-27T00:00:00.000Z",
+      "opponent": "James Black",
+      "opponentSlug": "399088-james-black",
+      "result": "win",
+      "method": "other",
+      "event": "SteelFist Fight Night",
+      "eventSlug": "108362-steelfist-fight-night-new-breed",
+      "round": 1,
+      "timeInRound": "2:39"
+    },
+    {
+      "date": "2023-10-14T00:00:00.000Z",
+      "opponent": "David Than",
+      "opponentSlug": "365651-david-than",
+      "result": "loss",
+      "method": "sub",
+      "event": "SteelFist Fight Night",
+      "eventSlug": "102970-steelfist-fight-night",
+      "round": 1,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2021-12-17T00:00:00.000Z",
+      "opponent": "Cole Faust",
+      "opponentSlug": "232186-cole-faust",
+      "result": "loss",
+      "method": "sub",
+      "event": "SteelFist Fight Night",
+      "eventSlug": "85133-steelfist-fight-night-deck-the-halls",
+      "round": 2,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2021-10-23T00:00:00.000Z",
+      "opponent": "Andrew Lundin",
+      "opponentSlug": "267075-andrew-lundin",
+      "result": "win",
+      "method": "sub",
+      "event": "SteelFist Fight Night 80",
+      "eventSlug": "83501-steelfist-fight-night-80-hostility",
+      "round": 1,
+      "timeInRound": "0:26"
+    },
+    {
+      "date": "2021-07-31T00:00:00.000Z",
+      "opponent": "Devin Koja",
+      "opponentSlug": "303978-devin-koja",
+      "result": "win",
+      "method": "sub",
+      "event": "SteelFist Fight Night 78",
+      "eventSlug": "81412-steelfist-fight-night-78-triumph",
+      "round": 1,
+      "timeInRound": "0:35"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:39:24.070Z"
+}

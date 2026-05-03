@@ -1,0 +1,154 @@
+{
+  "slug": "126727-tom-ackerly",
+  "name": "Tom Ackerly",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/126727-tom-ackerly",
+  "recentFights": [
+    {
+      "date": "2024-03-02T00:00:00.000Z",
+      "opponent": "Jacob Lepage",
+      "opponentSlug": "289751-jacob-lepage",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Demolition Fight Series 13",
+      "eventSlug": "108851-demolition-fight-series-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-04T00:00:00.000Z",
+      "opponent": "Max Kelly",
+      "opponentSlug": "297382-max-kelly",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Beatdown Promotions 3",
+      "eventSlug": "94613-beatdown-promotions-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-10-29T00:00:00.000Z",
+      "opponent": "Laurence Whitesmith",
+      "opponentSlug": "277633-laurence-whitesmith",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Eternal MMA 71",
+      "eventSlug": "93815-eternal-mma-71",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-03T00:00:00.000Z",
+      "opponent": "Declan Wolfinden",
+      "opponentSlug": "276112-declan-wolfinden",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XFC 58",
+      "eventSlug": "91478-xfc-58",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-01-28T00:00:00.000Z",
+      "opponent": "Jonathan Micallef",
+      "opponentSlug": "238862-jonathan-micallef",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Path To Hex 15",
+      "eventSlug": "77410-path-to-hex-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-05T00:00:00.000Z",
+      "opponent": "Lachlan Stitt",
+      "opponentSlug": "197185-lachlan-stitt",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Beast Championship 7",
+      "eventSlug": "72142-beast-championship-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-02-20T00:00:00.000Z",
+      "opponent": "Taylor Bednarz",
+      "opponentSlug": "253584-taylor-bednarz",
+      "result": "win",
+      "method": "sub",
+      "event": "Diamondback FC 11",
+      "eventSlug": "72688-diamondback-fc-11",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-03-14T00:00:00.000Z",
+      "opponent": "Kaan Husmek",
+      "opponentSlug": "254823-kaan-husmak",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "Path to Hex 11",
+      "eventSlug": "65833-path-to-hex-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-14T00:00:00.000Z",
+      "opponent": "Justin Bikoff",
+      "opponentSlug": "236547-justin-bikoff",
+      "result": "win",
+      "method": "other",
+      "event": "All Style Grappling",
+      "eventSlug": "63109-all-style-grappling-mma-fight-night-3",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-08-24T00:00:00.000Z",
+      "opponent": "Darcy Lake",
+      "opponentSlug": "170190-darcy-lake",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Tasmanian Fighting Championships 2",
+      "eventSlug": "61329-tasmanian-fighting-championships-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-15T00:00:00.000Z",
+      "opponent": "Jayden Bohdal",
+      "opponentSlug": "92631-jayden-bohdal",
+      "result": "win",
+      "method": "sub",
+      "event": "All Styles Grappling Fight Night 1",
+      "eventSlug": "47160-all-styles-grappling-fight-night-1",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-02-27T00:00:00.000Z",
+      "opponent": "Jesse Brooks",
+      "opponentSlug": "126728-jesse-brooks",
+      "result": "loss",
+      "method": "dec-majority",
+      "event": "Valor Fight 13",
+      "eventSlug": "37938-valor-fight-13",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:54:17.896Z"
+}

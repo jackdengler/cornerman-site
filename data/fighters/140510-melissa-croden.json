@@ -1,0 +1,198 @@
+{
+  "slug": "140510-melissa-croden",
+  "name": "Melissa Croden",
+  "nickname": "Scare",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 174,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1991-04-12",
+  "nationality": "Toronto, Ontario, Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/140510-melissa-croden",
+  "recentFights": [
+    {
+      "date": "2026-04-18T00:00:00.000Z",
+      "opponent": "Darya Zheleznyakova",
+      "opponentSlug": "229363-dariya-zheleznyakova",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "139670-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-12-13T00:00:00.000Z",
+      "opponent": "Luana Santos",
+      "opponentSlug": "223129-luana-santos",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "132921-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-18T00:00:00.000Z",
+      "opponent": "Tainara Lisboa",
+      "opponentSlug": "139270-tainara-lisboa",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "129312-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "4:32"
+    },
+    {
+      "date": "2024-10-25T00:00:00.000Z",
+      "opponent": "Ashley Deen",
+      "opponentSlug": "78343-ashley-deen",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 195: Wetzell vs. Usmonov",
+      "eventSlug": "117127-lfa-195",
+      "round": 2,
+      "timeInRound": "0:22"
+    },
+    {
+      "date": "2023-10-06T00:00:00.000Z",
+      "opponent": "Katharina Lehner",
+      "opponentSlug": "80828-katharina-lehner",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 169: Ward vs. Walker",
+      "eventSlug": "105294-lfa-169-ward-vs-walker",
+      "round": 3,
+      "timeInRound": "3:20"
+    },
+    {
+      "date": "2023-04-21T00:00:00.000Z",
+      "opponent": "Jacqueline Cavalcanti",
+      "opponentSlug": "196666-jaqueline-cavalcanti",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 157: Croden vs. Cavalcanti",
+      "eventSlug": "98777-lfa-157-croden-vs-cavalcanti",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-27T00:00:00.000Z",
+      "opponent": "Cornelia Holm",
+      "opponentSlug": "101419-cornelia-holm",
+      "result": "win",
+      "method": "other",
+      "event": "PAWFC 2",
+      "eventSlug": "90636-pawfc-2",
+      "round": 3,
+      "timeInRound": "3:22"
+    },
+    {
+      "date": "2022-01-15T00:00:00.000Z",
+      "opponent": "Jackie MacLean",
+      "opponentSlug": "231482-jackie-mclean",
+      "result": "win",
+      "method": "sub",
+      "event": "PAWFC 1",
+      "eventSlug": "85040-pawfc-1",
+      "round": 1,
+      "timeInRound": "3:59"
+    },
+    {
+      "date": "2021-02-12T00:00:00.000Z",
+      "opponent": "Evelyn Martins",
+      "opponentSlug": "271371-evelyn-martins",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Titan FC 67",
+      "eventSlug": "76386-titan-fc-67",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-01-25T00:00:00.000Z",
+      "opponent": "Elizabeth Schroder",
+      "opponentSlug": "148262-elizabeth-schroder",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Night 12",
+      "eventSlug": "63373-fight-night-12",
+      "round": 2,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2019-09-28T00:00:00.000Z",
+      "opponent": "Jo Maisonneuve",
+      "opponentSlug": "233036-jo-maisonneuve",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Night 11",
+      "eventSlug": "61474-fight-night-11",
+      "round": 3,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2019-04-12T00:00:00.000Z",
+      "opponent": "Amanda Rogers",
+      "opponentSlug": "140708-amanda-rogers",
+      "result": "win",
+      "method": "other",
+      "event": "Rumble in the Cage 61",
+      "eventSlug": "57700-rumble-in-the-cage-61",
+      "round": 3,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2018-07-07T00:00:00.000Z",
+      "opponent": "Alyssa Pallen",
+      "opponentSlug": "181576-alyssa-pallen",
+      "result": "win",
+      "method": "tko",
+      "event": "209 Beatdown 5",
+      "eventSlug": "54096-209-beatdown-5",
+      "round": 3,
+      "timeInRound": "1:09"
+    },
+    {
+      "date": "2018-02-17T00:00:00.000Z",
+      "opponent": "Sierra Dinwoodie",
+      "opponentSlug": "110811-sierra-dinwoodie",
+      "result": "win",
+      "method": "other",
+      "event": "Rumble in the Cage 57",
+      "eventSlug": "50094-rumble-in-the-cage-57",
+      "round": 1,
+      "timeInRound": "0:20"
+    },
+    {
+      "date": "2016-12-09T00:00:00.000Z",
+      "opponent": "Brittany Paterson",
+      "opponentSlug": "145474-brittany-paterson",
+      "result": "win",
+      "method": "other",
+      "event": "Hard Knocks 52",
+      "eventSlug": "42931-hard-knocks-52",
+      "round": 1,
+      "timeInRound": "0:52"
+    },
+    {
+      "date": "2016-09-17T00:00:00.000Z",
+      "opponent": "Liz Jackson",
+      "opponentSlug": "140511-liz-jackson",
+      "result": "win",
+      "method": "other",
+      "event": "BFL 45: Ascension",
+      "eventSlug": "41391-bfl-45",
+      "round": 3,
+      "timeInRound": "2:04"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:52:42.532Z"
+}

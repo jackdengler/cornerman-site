@@ -1,0 +1,209 @@
+{
+  "slug": "160837-al-marro",
+  "name": "Alex Marro",
+  "nickname": "The Postmaster",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 183,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1997-08-08",
+  "nationality": "Utica New York",
+  "url": "https://www.tapology.com/fightcenter/fighters/160837-al-marro",
+  "recentFights": [
+    {
+      "date": "2025-11-21T00:00:00.000Z",
+      "opponent": "RJ Harris",
+      "opponentSlug": "382864-rj-harris",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 223: Francischinelli vs. Piersma",
+      "eventSlug": "133540-lfa-223",
+      "round": 1,
+      "timeInRound": "2:17"
+    },
+    {
+      "date": "2024-08-02T00:00:00.000Z",
+      "opponent": "Matt Adams",
+      "opponentSlug": "143093-matthew-adams",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 189: Kuziutina vs. Ellen",
+      "eventSlug": "114935-lfa-189",
+      "round": 1,
+      "timeInRound": "0:42"
+    },
+    {
+      "date": "2024-02-23T00:00:00.000Z",
+      "opponent": "Hassan Graham",
+      "opponentSlug": "309286-hassan-graham",
+      "result": "win",
+      "method": "other",
+      "event": "CES 76: Balletto Jr. vs. Casey",
+      "eventSlug": "107475-ces-76",
+      "round": 1,
+      "timeInRound": "2:16"
+    },
+    {
+      "date": "2023-01-07T00:00:00.000Z",
+      "opponent": "Max Lombardo",
+      "opponentSlug": "256122-max-lombardo",
+      "result": "win",
+      "method": "tko",
+      "event": "Reality Fighting",
+      "eventSlug": "95632-reality-fighting",
+      "round": 3,
+      "timeInRound": "2:53"
+    },
+    {
+      "date": "2022-09-09T00:00:00.000Z",
+      "opponent": "Joshua Depace",
+      "opponentSlug": "310402-joshua-depace",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Wars 53",
+      "eventSlug": "88464-cage-wars-53",
+      "round": 2,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2022-07-23T00:00:00.000Z",
+      "opponent": "Max Lombardo",
+      "opponentSlug": "256122-max-lombardo",
+      "result": "win",
+      "method": "tko",
+      "event": "Cage Wars",
+      "eventSlug": "88463-cage-wars-53-mike-tyson-fight-night",
+      "round": 1,
+      "timeInRound": "2:19"
+    },
+    {
+      "date": "2022-03-11T00:00:00.000Z",
+      "opponent": "Luke Visingard",
+      "opponentSlug": "43525-luke-visingard",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Wars 51",
+      "eventSlug": "86138-cage-wars-51",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-01-21T00:00:00.000Z",
+      "opponent": "Matt Boyce",
+      "opponentSlug": "44665-matthew-boyce",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Wars 50",
+      "eventSlug": "84495-cage-wars-50",
+      "round": 2,
+      "timeInRound": "0:55"
+    },
+    {
+      "date": "2021-11-20T00:00:00.000Z",
+      "opponent": "Corey Norman",
+      "opponentSlug": "199686-corey-norman",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Wars 49",
+      "eventSlug": "81415-cage-wars-49",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-11T00:00:00.000Z",
+      "opponent": "Carlos Pereira",
+      "opponentSlug": "186516-carlos-perreira",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Wars 48",
+      "eventSlug": "81414-cage-wars-48",
+      "round": 3,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2019-11-16T00:00:00.000Z",
+      "opponent": "Billy Brennan",
+      "opponentSlug": "190093-billy-brennan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Gladius Fights 38",
+      "eventSlug": "62709-gladius-fights-38",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-02-09T00:00:00.000Z",
+      "opponent": "Corey Norman",
+      "opponentSlug": "199686-corey-norman",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Wars 40",
+      "eventSlug": "57582-cage-wars-40",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-08T00:00:00.000Z",
+      "opponent": "Yuri Panferov",
+      "opponentSlug": "145317-yuri-panferov",
+      "result": "loss",
+      "method": "sub",
+      "event": "Gladius Fights 33",
+      "eventSlug": "54162-gladius-fights-33",
+      "round": 2,
+      "timeInRound": "1:22"
+    },
+    {
+      "date": "2018-06-23T00:00:00.000Z",
+      "opponent": "Drew Torrance",
+      "opponentSlug": "176859-drew-torrance",
+      "result": "win",
+      "method": "tko",
+      "event": "Gladius Fights 32",
+      "eventSlug": "52904-gladius-32",
+      "round": 2,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2018-04-07T00:00:00.000Z",
+      "opponent": "Marc Worthington",
+      "opponentSlug": "93483-marc-worthington",
+      "result": "win",
+      "method": "tko",
+      "event": "Cage Wars 36",
+      "eventSlug": "50695-cage-wars-37",
+      "round": 2,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2018-01-27T00:00:00.000Z",
+      "opponent": "Tim Cronk",
+      "opponentSlug": "171053-tim-cronk",
+      "result": "loss",
+      "method": "tko",
+      "event": "Cage Wars 35",
+      "eventSlug": "48824-cage-wars-35",
+      "round": 2,
+      "timeInRound": "0:24"
+    },
+    {
+      "date": "2017-07-29T00:00:00.000Z",
+      "opponent": "Andrew Nay",
+      "opponentSlug": "145983-andrew-nay",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Wars 33",
+      "eventSlug": "45770-cage-wars-33",
+      "round": 2,
+      "timeInRound": "0:56"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:40:00.347Z"
+}

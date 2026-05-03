@@ -1,0 +1,290 @@
+{
+  "slug": "209231-tomas-holecek",
+  "name": "Tomáš Holeček",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 12,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 8,
+    "losses": 12,
+    "draws": 0
+  },
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "2004-12-04",
+  "nationality": "Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/209231-tomas-holecek",
+  "recentFights": [
+    {
+      "date": "2026-02-20T00:00:00.000Z",
+      "opponent": "Vasyl Perstenyak",
+      "opponentSlug": "352574-vasyl-perstenyak",
+      "result": "win",
+      "method": "sub",
+      "event": "RFA 27",
+      "eventSlug": "136923-rfa-27",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-04-04T00:00:00.000Z",
+      "opponent": "Tobiáš Barták",
+      "opponentSlug": "408483-tobias-bartak",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "KO Warriors 1",
+      "eventSlug": "126631-ko-warriors-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-12-13T00:00:00.000Z",
+      "opponent": "Viktor Mangs",
+      "opponentSlug": "387005-viktor-mangs",
+      "result": "loss",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "123283-gamma-world-championships-2024-preliminaries-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-20T00:00:00.000Z",
+      "opponent": "Aria Azarnoosh",
+      "opponentSlug": "361472-aria-azarnoosh",
+      "result": "loss",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "110648-gamma-european-championship-2024",
+      "round": 2,
+      "timeInRound": "2:21"
+    },
+    {
+      "date": "2024-05-19T00:00:00.000Z",
+      "opponent": "Bilol Abdurasulov",
+      "opponentSlug": "206866-bilol-abdurasulov",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "115209-gamma-world-championships-2024-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-18T00:00:00.000Z",
+      "opponent": "Onder Yilmaz",
+      "opponentSlug": "273499-yilmaz-onder",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "110647-gamma-european-championship-2024",
+      "round": 1,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2024-03-22T00:00:00.000Z",
+      "opponent": "Alex Hutyra",
+      "opponentSlug": "347893-alex-hutyra",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "IAF 11: Noc válečníků",
+      "eventSlug": "109454-iaf-11-noc-valecniku",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-08T00:00:00.000Z",
+      "opponent": "Akarys Zhumabekov",
+      "opponentSlug": "370976-akarys-zhumabekov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "GAMMA",
+      "eventSlug": "108384-gamma-world-mma-championship-2023-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-06T00:00:00.000Z",
+      "opponent": "Jiří Barnet",
+      "opponentSlug": "386641-jiri-barnet",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IAF 7",
+      "eventSlug": "98992-iaf-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-25T00:00:00.000Z",
+      "opponent": "Lukáš Zubčák",
+      "opponentSlug": "367064-lukas-zubcak",
+      "result": "loss",
+      "method": "sub",
+      "event": "MMAA Arena Cup 76",
+      "eventSlug": "99245-mmaa-arena-cup-76",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-05T00:00:00.000Z",
+      "opponent": "Matěj Val",
+      "opponentSlug": "217634-matej-val",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IAF 6",
+      "eventSlug": "93765-iaf-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-17T00:00:00.000Z",
+      "opponent": "Martin Lukáč",
+      "opponentSlug": "343713-martin-lukac",
+      "result": "win",
+      "method": "tko",
+      "event": "I Am Fighter 5",
+      "eventSlug": "91129-i-am-fighter-5-the-king-of-pilsen",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-16T00:00:00.000Z",
+      "opponent": "Matěj Val",
+      "opponentSlug": "217634-matej-val",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "I Am Fighter 4",
+      "eventSlug": "88931-i-am-fighter-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-13T00:00:00.000Z",
+      "opponent": "Simon Krajnik",
+      "opponentSlug": "293837-simon-krajnik",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "I Am Fighter 3",
+      "eventSlug": "83233-i-am-fighter-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-25T00:00:00.000Z",
+      "opponent": "David Zoula",
+      "opponentSlug": "197449-david-zoula",
+      "result": "loss",
+      "method": "other",
+      "event": "IAF: Streetfighter Final",
+      "eventSlug": "72770-iaf-streetfighter-final",
+      "round": 2,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2020-08-21T00:00:00.000Z",
+      "opponent": "Mário Brezovský",
+      "opponentSlug": "222517-mario-brezovsky",
+      "result": "loss",
+      "method": "sub",
+      "event": "IAF: Streetfighter 6",
+      "eventSlug": "71968-iaf-streetfighter-6",
+      "round": 2,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2020-07-24T00:00:00.000Z",
+      "opponent": "Jakub Struska",
+      "opponentSlug": "217638-jakub-struska",
+      "result": "win",
+      "method": "other",
+      "event": "IAF: Streetfighter 2",
+      "eventSlug": "71199-iaf-streetfighter-3",
+      "round": 1,
+      "timeInRound": "1:53"
+    },
+    {
+      "date": "2020-02-08T00:00:00.000Z",
+      "opponent": "Adam Król",
+      "opponentSlug": "208315-adam-krol",
+      "result": null,
+      "method": "other",
+      "event": "RP Security MMAA Arena Cup 57",
+      "eventSlug": "66899-rp-security-mmaa-arena-cup-57-rise-of-a-champion",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-26T00:00:00.000Z",
+      "opponent": "Daniel Pazourek",
+      "opponentSlug": "241374-daniel-pazourek",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "RP Security MMAA Arena Cup 55",
+      "eventSlug": "63956-rp-security-mmaa-arena-cup-55",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-26T00:00:00.000Z",
+      "opponent": "Konstantyn Metryuk",
+      "opponentSlug": "236937-konstantyn-metryuk",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "RP Security MMAA Arena Cup 55",
+      "eventSlug": "63956-rp-security-mmaa-arena-cup-55",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-28T00:00:00.000Z",
+      "opponent": "Filip Kusý",
+      "opponentSlug": "236938-filip-kusy",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "RP Security MMAA Arena Cup 54",
+      "eventSlug": "63215-rp-security-mmaa-arena-cup-54",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-25T00:00:00.000Z",
+      "opponent": "Petr Stříž",
+      "opponentSlug": "208330-petr-striz",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "RP Security MMAA Arena Cup 52",
+      "eventSlug": "60689-rp-security-mmaa-arena-cup-52-kladno",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-27T00:00:00.000Z",
+      "opponent": "Jakub Konkot",
+      "opponentSlug": "221269-jakub-konkot",
+      "result": "loss",
+      "method": "dec-majority",
+      "event": "RP Security MMAA Arena Cup 51",
+      "eventSlug": "59907-rp-security-mmaa-arena-cup-51",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-01-27T00:00:00.000Z",
+      "opponent": "Filip Moskal",
+      "opponentSlug": "209230-filip-moskal",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "RP Security MMAA Aréna Cup 48",
+      "eventSlug": "58110-rp-security-mmaa-arena-cup-48",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:11:36.461Z"
+}

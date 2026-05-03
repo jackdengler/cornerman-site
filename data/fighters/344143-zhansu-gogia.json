@@ -1,0 +1,110 @@
+{
+  "slug": "344143-zhansu-gogia",
+  "name": "Jansu Gogia",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Republic of Georgia",
+  "url": "https://www.tapology.com/fightcenter/fighters/344143-zhansu-gogia",
+  "recentFights": [
+    {
+      "date": "2025-11-29T00:00:00.000Z",
+      "opponent": "Jaloliddin Yuldashev",
+      "opponentSlug": "248405-jaloliddin-yuldashev",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Rkena FC 1: Sharikadze vs. Kontny",
+      "eventSlug": "136292-rkena-fc-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-08-30T00:00:00.000Z",
+      "opponent": "Fagan Rzaiev",
+      "opponentSlug": "239471-fagan-rzaiev",
+      "result": "win",
+      "method": "other",
+      "event": "Gama MMA 1",
+      "eventSlug": "132616-gama-mma-1",
+      "round": 3,
+      "timeInRound": "4:00"
+    },
+    {
+      "date": "2024-12-07T00:00:00.000Z",
+      "opponent": "Amirshokh Akhrorzoda",
+      "opponentSlug": "417515-amirshokh-akhrorzoda",
+      "result": "win",
+      "method": "sub",
+      "event": "Integra FC 20",
+      "eventSlug": "120835-integra-fc-20",
+      "round": 1,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2024-05-03T00:00:00.000Z",
+      "opponent": "Václav Štěpán",
+      "opponentSlug": "197384-vaclav-stepan",
+      "result": "loss",
+      "method": "other",
+      "event": "Fusion 27",
+      "eventSlug": "113208-fusion-28",
+      "round": 2,
+      "timeInRound": "3:23"
+    },
+    {
+      "date": "2023-09-02T00:00:00.000Z",
+      "opponent": "Ivan Klevets",
+      "opponentSlug": "360600-ivan-klevets",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FABRIQ MMA 3",
+      "eventSlug": "101904-fabriq-mma-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-25T00:00:00.000Z",
+      "opponent": "Kristian Nguyen",
+      "opponentSlug": "244671-kristian-nguyen",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Local MMA Legends",
+      "eventSlug": "99242-local-mma-legends",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-30T00:00:00.000Z",
+      "opponent": "Erik Đặng",
+      "opponentSlug": "283360-erik-dang",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight of Gladiators 10",
+      "eventSlug": "95679-fight-of-gladiators-10",
+      "round": 2,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2022-10-22T00:00:00.000Z",
+      "opponent": "Richard Dobrotka",
+      "opponentSlug": "296979-richard-dobrotka",
+      "result": "win",
+      "method": "other",
+      "event": "DFN 8: Battle for the Throne",
+      "eventSlug": "91999-dfn-8",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:09:28.308Z"
+}

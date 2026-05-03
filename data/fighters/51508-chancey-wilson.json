@@ -1,0 +1,176 @@
+{
+  "slug": "51508-chancey-wilson",
+  "name": "Chance Wilson",
+  "nickname": "Superfly",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 157,
+  "reachCm": 163,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1991-07-06",
+  "nationality": "Oklahoma City, Oklahoma",
+  "url": "https://www.tapology.com/fightcenter/fighters/51508-chancey-wilson",
+  "recentFights": [
+    {
+      "date": "2021-08-14T00:00:00.000Z",
+      "opponent": "Oscar Jurado Sánchez",
+      "opponentSlug": "178522-oscar-alejandro-jurado-snchez",
+      "result": "loss",
+      "method": "other",
+      "event": "EAFL: Elite Fight Night 1",
+      "eventSlug": "79881-eafl-elite-fight-night",
+      "round": 2,
+      "timeInRound": "0:01"
+    },
+    {
+      "date": "2021-06-18T00:00:00.000Z",
+      "opponent": "Nick Piccininni",
+      "opponentSlug": "298568-nick-piccininni",
+      "result": "loss",
+      "method": "sub",
+      "event": "Xtreme Fight Night 371",
+      "eventSlug": "79724-xtreme-fight-night-371",
+      "round": 1,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2021-02-12T00:00:00.000Z",
+      "opponent": "Manuel Medina",
+      "opponentSlug": "243057-manuel-medina",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 99: Dennis vs. Cherant",
+      "eventSlug": "76628-lfa-99-dennis-vs-cherant",
+      "round": 1,
+      "timeInRound": "1:09"
+    },
+    {
+      "date": "2020-02-07T00:00:00.000Z",
+      "opponent": "Payton Brezinski",
+      "opponentSlug": "146023-payton-brezinski",
+      "result": "loss",
+      "method": "sub",
+      "event": "HFC 42",
+      "eventSlug": "65325-hfc-42",
+      "round": 1,
+      "timeInRound": "2:03"
+    },
+    {
+      "date": "2019-11-23T00:00:00.000Z",
+      "opponent": "Carlos Hernandez",
+      "opponentSlug": "60838-carlos-hernandez",
+      "result": "loss",
+      "method": "sub",
+      "event": "HFC 41",
+      "eventSlug": "64468-hfc-41",
+      "round": 1,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2019-09-13T00:00:00.000Z",
+      "opponent": "Jeff Molina",
+      "opponentSlug": "117845-jeffrey-molina",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 76: Ogden vs. Browne",
+      "eventSlug": "62330-lfa-76-ogden-vs-browne",
+      "round": 1,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2019-08-10T00:00:00.000Z",
+      "opponent": "Myles Malone",
+      "opponentSlug": "49531-myles-malone-soldier",
+      "result": "win",
+      "method": "sub",
+      "event": "Pyramid Fights 13",
+      "eventSlug": "61442-pyramid-fights-13",
+      "round": 1,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2017-08-05T00:00:00.000Z",
+      "opponent": "Santo Curatolo",
+      "opponentSlug": "140934-santos-curatolo",
+      "result": "loss",
+      "method": "tko",
+      "event": "CFFC 66",
+      "eventSlug": "46535-cffc-66",
+      "round": 1,
+      "timeInRound": "2:52"
+    },
+    {
+      "date": "2017-04-01T00:00:00.000Z",
+      "opponent": "Tristen James",
+      "opponentSlug": "120337-tristen-james",
+      "result": "win",
+      "method": "sub",
+      "event": "MaxxFC 31",
+      "eventSlug": "44565-maxx-fc-31",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-04-03T00:00:00.000Z",
+      "opponent": "Lantz Nave",
+      "opponentSlug": "98687-lantz-nave",
+      "result": "win",
+      "method": "sub",
+      "event": "Ultimate Blue Corner Battles",
+      "eventSlug": "31956-ultimate-blue-corner-battles",
+      "round": 2,
+      "timeInRound": "2:13"
+    },
+    {
+      "date": "2014-12-05T00:00:00.000Z",
+      "opponent": "Billy Benz",
+      "opponentSlug": "65268-billy-benz",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-02-16T00:00:00.000Z",
+      "opponent": "Nathan Lindsay",
+      "opponentSlug": "38202-nathan-lindsay-psycho-killa",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-11-10T00:00:00.000Z",
+      "opponent": "Ray Allard",
+      "opponentSlug": "35114-ray-allard",
+      "result": "nc",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-09-01T00:00:00.000Z",
+      "opponent": "Shawn Valentin",
+      "opponentSlug": "57990-shawn-valentin-sandman",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Phlavan Promotion 15th",
+      "eventSlug": "34824-phlavan-promotion-15th",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:43:09.702Z"
+}

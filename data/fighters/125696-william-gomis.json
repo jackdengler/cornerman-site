@@ -1,0 +1,231 @@
+{
+  "slug": "125696-william-gomis",
+  "name": "William Gomis",
+  "nickname": "Jaguar",
+  "aliases": [],
+  "recordPro": {
+    "wins": 15,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 185,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1997-06-13",
+  "nationality": "France",
+  "url": "https://www.tapology.com/fightcenter/fighters/125696-william-gomis",
+  "recentFights": [
+    {
+      "date": "2026-05-09T00:00:00.000Z",
+      "opponent": "Pat Sabatini",
+      "opponentSlug": "29210-pat-sabatini",
+      "result": null,
+      "method": "other",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "eventSlug": "140614-ufc-328",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-06T00:00:00.000Z",
+      "opponent": "Robert Ruchała",
+      "opponentSlug": "162119-robert-ruchaa",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "129146-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-01T00:00:00.000Z",
+      "opponent": "Hyder Amil",
+      "opponentSlug": "114216-hyder-amil",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "120055-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-28T00:00:00.000Z",
+      "opponent": "Joanderson Brito",
+      "opponentSlug": "98539-joanderson-brito-tubarao",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "111674-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-02T00:00:00.000Z",
+      "opponent": "Yanis Ghemmouri",
+      "opponentSlug": "98157-yanis-ghemmouri",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "102007-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2023-04-22T00:00:00.000Z",
+      "opponent": "Francis Marshall",
+      "opponentSlug": "186284-francis-marshall",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "97433-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-03T00:00:00.000Z",
+      "opponent": "Jarno Errens",
+      "opponentSlug": "112766-jarno-errens",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "UFC Fight Night",
+      "eventSlug": "88967-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-25T00:00:00.000Z",
+      "opponent": "José Marcos",
+      "opponentSlug": "19873-jos-marcos",
+      "result": "win",
+      "method": "other",
+      "event": "Ares FC 7: Abdoul vs. Amoussou",
+      "eventSlug": "87594-ares-fc-7",
+      "round": 3,
+      "timeInRound": "3:29"
+    },
+    {
+      "date": "2022-03-26T00:00:00.000Z",
+      "opponent": "Arip Yakubov",
+      "opponentSlug": "86641-arip-yakubov",
+      "result": "win",
+      "method": "other",
+      "event": "UAE Warriors 28",
+      "eventSlug": "87433-uae-warriors-28",
+      "round": 1,
+      "timeInRound": "4:56"
+    },
+    {
+      "date": "2021-10-30T00:00:00.000Z",
+      "opponent": "Baba Boundjou Nadjombe",
+      "opponentSlug": "196512-boundjou-baba-nadjombe-zeus",
+      "result": "win",
+      "method": "sub",
+      "event": "Hexagone MMA 2",
+      "eventSlug": "82434-hexagone-mma-2",
+      "round": 1,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2021-06-26T00:00:00.000Z",
+      "opponent": "Tobias Harila",
+      "opponentSlug": "116293-tobias-harila",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 125",
+      "eventSlug": "78050-cage-warriors-125",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-20T00:00:00.000Z",
+      "opponent": "Hyram Rodriguez",
+      "opponentSlug": "16982-hyram-rodriguez",
+      "result": "win",
+      "method": "tko",
+      "event": "Le ROI DU FIGHT 2019",
+      "eventSlug": "59963-le-roi-du-fight-2019",
+      "round": 2,
+      "timeInRound": "0:32"
+    },
+    {
+      "date": "2019-03-09T00:00:00.000Z",
+      "opponent": "Carlos Eduardo de Azevedo",
+      "opponentSlug": "84709-eduardo-azevedo-teto",
+      "result": "win",
+      "method": "tko",
+      "event": "100% Fight 38",
+      "eventSlug": "57629-100-fight-40",
+      "round": 2,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2018-01-18T00:00:00.000Z",
+      "opponent": "Cosmin Tutu",
+      "opponentSlug": "104720-cosmin-tutu",
+      "result": "win",
+      "method": "dec-split",
+      "event": "100% Fight 33",
+      "eventSlug": "50294-100-fight-33",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-01-18T00:00:00.000Z",
+      "opponent": "Guilherme Cadena",
+      "opponentSlug": "46385-guilherme-cadena",
+      "result": "win",
+      "method": "tko",
+      "event": "100% Fight 33",
+      "eventSlug": "50294-100-fight-33",
+      "round": 2,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2016-11-26T00:00:00.000Z",
+      "opponent": "Morgan Charrière",
+      "opponentSlug": "93065-morgan-charriere",
+      "result": "loss",
+      "method": "sub",
+      "event": "100% Fight: Contenders 33",
+      "eventSlug": "42737-100-fight-contenders-33",
+      "round": 2,
+      "timeInRound": "1:06"
+    },
+    {
+      "date": "2016-11-26T00:00:00.000Z",
+      "opponent": "Sofian Bougamoun",
+      "opponentSlug": "66464-soufian-bougamoun",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "100% Fight: Contenders 33",
+      "eventSlug": "42737-100-fight-contenders-33",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-12T00:00:00.000Z",
+      "opponent": "Arouna Kanoute",
+      "opponentSlug": "116770-arouna-kanoute-the-spider",
+      "result": "win",
+      "method": "other",
+      "event": "Octagon Fighting Club 16",
+      "eventSlug": "42771-octagon-fighting-club-16",
+      "round": 2,
+      "timeInRound": "4:25"
+    },
+    {
+      "date": "2016-02-04T00:00:00.000Z",
+      "opponent": "Salahdine Parnasse",
+      "opponentSlug": "118604-salahdine-parnasse",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "100% Fight 27",
+      "eventSlug": "37740-100-fight-27",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T21:54:03.210Z"
+}

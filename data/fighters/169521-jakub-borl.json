@@ -1,0 +1,70 @@
+{
+  "slug": "169521-jakub-borl",
+  "name": "Jakub Borl",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "2001-01-05",
+  "nationality": "Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/169521-jakub-borl",
+  "recentFights": [
+    {
+      "date": "2019-04-27T00:00:00.000Z",
+      "opponent": "Dávid Kestefran",
+      "opponentSlug": "221261-david-kestefran",
+      "result": "win",
+      "method": "sub",
+      "event": "RP Security MMAA Arena Cup 51",
+      "eventSlug": "59907-rp-security-mmaa-arena-cup-51",
+      "round": 1,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2018-11-10T00:00:00.000Z",
+      "opponent": "Václav Štěpán",
+      "opponentSlug": "197384-vaclav-stepan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "XFN 13",
+      "eventSlug": "56171-xfn-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-21T00:00:00.000Z",
+      "opponent": "Erik Horňák",
+      "opponentSlug": "185195-erik-hornak",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMAA Arena Cup 41",
+      "eventSlug": "52216-mmaa-arena-cup-41-chomutov",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-10-29T00:00:00.000Z",
+      "opponent": "Petr Rákoš",
+      "opponentSlug": "169522-petr-rakos",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MMAA Arena Cup 36",
+      "eventSlug": "48839-mmaa-arena-cup-36",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:09:50.985Z"
+}

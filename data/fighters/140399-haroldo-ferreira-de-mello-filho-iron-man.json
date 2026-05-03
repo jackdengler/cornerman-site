@@ -1,0 +1,154 @@
+{
+  "slug": "140399-haroldo-ferreira-de-mello-filho-iron-man",
+  "name": "Haroldo Ferreira",
+  "nickname": "Iron Man",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1986-11-03",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/140399-haroldo-ferreira-de-mello-filho-iron-man",
+  "recentFights": [
+    {
+      "date": "2023-03-11T00:00:00.000Z",
+      "opponent": "Arthur Barros",
+      "opponentSlug": "235830-arthur-de-barros-bebe-monstro",
+      "result": "win",
+      "method": "other",
+      "event": "X1 Kombat 9",
+      "eventSlug": "98850-x1-kombat-9",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2022-07-16T00:00:00.000Z",
+      "opponent": "Rafael Silva",
+      "opponentSlug": "144853-rafael-marquezani-cabea",
+      "result": "loss",
+      "method": "tko",
+      "event": "X1 Kombat 7",
+      "eventSlug": "91141-x1-kombat-7-warzone",
+      "round": 1,
+      "timeInRound": "3:15"
+    },
+    {
+      "date": "2022-03-12T00:00:00.000Z",
+      "opponent": "Jackson Silva",
+      "opponentSlug": "329491-jackson-silva",
+      "result": "win",
+      "method": "sub",
+      "event": "X1 Kombat 6",
+      "eventSlug": "87602-x1-kombat-6",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2021-11-20T00:00:00.000Z",
+      "opponent": "Max Gandra",
+      "opponentSlug": "66781-max-gandra-judoka",
+      "result": "win",
+      "method": "other",
+      "event": "X1 Kombat 5",
+      "eventSlug": "83236-x1-kombat-5",
+      "round": 2,
+      "timeInRound": "4:57"
+    },
+    {
+      "date": "2019-11-23T00:00:00.000Z",
+      "opponent": "Luiz Fabiano",
+      "opponentSlug": "144854-luiz-fabiano",
+      "result": "loss",
+      "method": "sub",
+      "event": "Jungle Fight 98",
+      "eventSlug": "64172-jungle-fight-98",
+      "round": 1,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2017-11-04T00:00:00.000Z",
+      "opponent": "Italo Mazzi",
+      "opponentSlug": "97556-italo-mazzi",
+      "result": "loss",
+      "method": "sub",
+      "event": "Aspera FC 58",
+      "eventSlug": "47759-aspera-fc-58",
+      "round": 2,
+      "timeInRound": "3:56"
+    },
+    {
+      "date": "2017-10-07T00:00:00.000Z",
+      "opponent": "Alan Viana dos Reis",
+      "opponentSlug": "144871-alan-viana-dos-reis",
+      "result": "win",
+      "method": "other",
+      "event": "Champions Fight 7",
+      "eventSlug": "49047-champions-fight-7",
+      "round": 3,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2017-02-11T00:00:00.000Z",
+      "opponent": "Alan Viana dos Reis",
+      "opponentSlug": "144871-alan-viana-dos-reis",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-19T00:00:00.000Z",
+      "opponent": "Dênis Ricardo",
+      "opponentSlug": "154182-dnis-ricardo-black-ops",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-29T00:00:00.000Z",
+      "opponent": "Brenner Alberth",
+      "opponentSlug": "99896-brenner-alberth",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-12-12T00:00:00.000Z",
+      "opponent": "Vinicius Rodrigues de Souza",
+      "opponentSlug": "103227-vinicius-rodrigues-de-souza",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-09-27T00:00:00.000Z",
+      "opponent": "Djorden Santos",
+      "opponentSlug": "67529-diorden-maguila",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Full House Battle Home 9",
+      "eventSlug": "28213-full-house-battle-home-8",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:04:14.053Z"
+}

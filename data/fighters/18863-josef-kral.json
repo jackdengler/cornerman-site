@@ -1,0 +1,198 @@
+{
+  "slug": "18863-josef-kral",
+  "name": "Josef Král",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/18863-josef-kral",
+  "recentFights": [
+    {
+      "date": "2023-12-02T00:00:00.000Z",
+      "opponent": "Artur Zamorkov",
+      "opponentSlug": "431348-artur-zamorkov",
+      "result": "win",
+      "method": "other",
+      "event": "Heroes Gate 28",
+      "eventSlug": "106831-heroes-gate-28",
+      "round": 1,
+      "timeInRound": "0:24"
+    },
+    {
+      "date": "2017-10-12T00:00:00.000Z",
+      "opponent": "László Soltész",
+      "opponentSlug": "18976-laszlo-soltesz",
+      "result": "loss",
+      "method": "other",
+      "event": "GCF 41: Night of the Legends",
+      "eventSlug": "46650-gcf-41-night-of-legends",
+      "round": 1,
+      "timeInRound": "0:42"
+    },
+    {
+      "date": "2016-10-27T00:00:00.000Z",
+      "opponent": "Michal Mokrý",
+      "opponentSlug": "62491-michal-mokry-money-man",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-06-12T00:00:00.000Z",
+      "opponent": "Jan Malach",
+      "opponentSlug": "64719-jan-malach",
+      "result": "win",
+      "method": "dec-split",
+      "event": "XFN 1",
+      "eventSlug": "41311-x-fight-nights-at-praha",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-23T00:00:00.000Z",
+      "opponent": "Lovro Vrkič",
+      "opponentSlug": "60539-lovro-vrki",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-04-27T00:00:00.000Z",
+      "opponent": "Matúš Laincz",
+      "opponentSlug": "11263-matus-laincz",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-03-30T00:00:00.000Z",
+      "opponent": "Jaroslav Poborský",
+      "opponentSlug": "13581-jaroslav-poborsky",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-12-08T00:00:00.000Z",
+      "opponent": "Peter Stacho",
+      "opponentSlug": "60849-peter-stacho",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-12-02T00:00:00.000Z",
+      "opponent": "David Kozma",
+      "opponentSlug": "18860-david-kozma-nestling",
+      "result": "win",
+      "method": "sub",
+      "event": "GCF 18: Destiny",
+      "eventSlug": "16551-gcf-18-destiny",
+      "round": 1,
+      "timeInRound": "1:40"
+    },
+    {
+      "date": "2012-05-20T00:00:00.000Z",
+      "opponent": "Petr Novák",
+      "opponentSlug": "33020-petr-novak",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-12-03T00:00:00.000Z",
+      "opponent": "Viktor Halmi",
+      "opponentSlug": "18864-viktor-halmi",
+      "result": "loss",
+      "method": "other",
+      "event": "GCF 7: Redemption",
+      "eventSlug": "11506-gcf-7-redemption",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-06-23T00:00:00.000Z",
+      "opponent": "Jarkko Latomaki",
+      "opponentSlug": "4641-jarkko-latomaki",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-03-31T00:00:00.000Z",
+      "opponent": "Gasanali Gasanaliev",
+      "opponentSlug": "18934-gasanali-gasanaliev",
+      "result": "loss",
+      "method": "other",
+      "event": "M-1: European Selection 2011",
+      "eventSlug": "9247-m-1-european-selection-2011",
+      "round": 1,
+      "timeInRound": "1:33"
+    },
+    {
+      "date": "2011-02-20T00:00:00.000Z",
+      "opponent": "Robert Pukač",
+      "opponentSlug": "18935-robert-pukac",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-04-17T00:00:00.000Z",
+      "opponent": "Mikkel Parlo",
+      "opponentSlug": "13946-mikkel-parlo",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-01-24T00:00:00.000Z",
+      "opponent": "Adam Šindelář",
+      "opponentSlug": "18938-adam-sindelar",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:08:07.970Z"
+}

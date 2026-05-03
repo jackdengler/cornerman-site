@@ -1,0 +1,81 @@
+{
+  "slug": "34656-b-c",
+  "name": "B. C.",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 4,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/34656-b-c",
+  "recentFights": [
+    {
+      "date": "2018-11-10T00:00:00.000Z",
+      "opponent": "Korey Taylor",
+      "opponentSlug": "193806-korey-taylor",
+      "result": "loss",
+      "method": "sub",
+      "event": "Combat Night Pro 9",
+      "eventSlug": "56482-combat-night-pro-9-duval",
+      "round": 2,
+      "timeInRound": "0:41"
+    },
+    {
+      "date": "2012-10-20T00:00:00.000Z",
+      "opponent": "Eric Calderon",
+      "opponentSlug": "30678-eric-calderon",
+      "result": "loss",
+      "method": "sub",
+      "event": "King of Jacksonville 5",
+      "eventSlug": "15843-king-of-jacksonville-5",
+      "round": 1,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2012-02-11T00:00:00.000Z",
+      "opponent": "Terry Ayers",
+      "opponentSlug": "37005-terry-ayers-bubba",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-10-15T00:00:00.000Z",
+      "opponent": "Anthony Wojak",
+      "opponentSlug": "37006-anthony-wojak",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-04-02T00:00:00.000Z",
+      "opponent": "Joseph Bayer",
+      "opponentSlug": "75080-joseph-bayer",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:37:22.920Z"
+}

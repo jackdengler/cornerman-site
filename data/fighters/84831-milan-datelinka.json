@@ -1,0 +1,231 @@
+{
+  "slug": "84831-milan-datelinka",
+  "name": "Milan Ďatelinka",
+  "nickname": "Mr. Comeback",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Slovakia",
+  "url": "https://www.tapology.com/fightcenter/fighters/84831-milan-datelinka",
+  "recentFights": [
+    {
+      "date": "2025-02-22T00:00:00.000Z",
+      "opponent": "Jaime Cordero",
+      "opponentSlug": "320088-jamie-cordero",
+      "result": "loss",
+      "method": "sub",
+      "event": "OKTAGON 67: Creasey vs. Adamia",
+      "eventSlug": "118929-oktagon",
+      "round": 1,
+      "timeInRound": "4:10"
+    },
+    {
+      "date": "2024-09-07T00:00:00.000Z",
+      "opponent": "Jaime Cordero",
+      "opponentSlug": "320088-jamie-cordero",
+      "result": "nc",
+      "method": "other",
+      "event": "OKTAGON 60: Buchinger vs. Eskiev",
+      "eventSlug": "114644-oktagon-60",
+      "round": 1,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2024-07-20T00:00:00.000Z",
+      "opponent": "Ondřej Raška",
+      "opponentSlug": "86314-ondej-raka",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 59: Summer Party",
+      "eventSlug": "111005-oktagon-59-summer-party",
+      "round": 1,
+      "timeInRound": "0:14"
+    },
+    {
+      "date": "2023-09-09T00:00:00.000Z",
+      "opponent": "Cristian Corujo",
+      "opponentSlug": "203943-cristian-corujo",
+      "result": "win",
+      "method": "other",
+      "event": "RFA 12",
+      "eventSlug": "102747-rfa-12",
+      "round": 1,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2022-11-12T00:00:00.000Z",
+      "opponent": "Dominik Humburger",
+      "opponentSlug": "169531-dominik-humburger",
+      "result": "loss",
+      "method": "other",
+      "event": "RFA 6",
+      "eventSlug": "92599-rfa-6",
+      "round": 2,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2022-05-14T00:00:00.000Z",
+      "opponent": "Nenad Avramović",
+      "opponentSlug": "64228-nenad-avramovich",
+      "result": "loss",
+      "method": "sub",
+      "event": "RFA: Grand Opening",
+      "eventSlug": "89571-rfa-grand-opening",
+      "round": 1,
+      "timeInRound": "2:28"
+    },
+    {
+      "date": "2021-03-27T00:00:00.000Z",
+      "opponent": "Karlos Vémola",
+      "opponentSlug": "karlos-vemola-the-terminator",
+      "result": "loss",
+      "method": "sub",
+      "event": "OKTAGON 22",
+      "eventSlug": "76911-oktagon-22",
+      "round": 1,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2020-12-30T00:00:00.000Z",
+      "opponent": "David Hošek",
+      "opponentSlug": "185791-david-hosek",
+      "result": "win",
+      "method": "sub",
+      "event": "Oktagon 20",
+      "eventSlug": "74337-oktagon-20",
+      "round": 1,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2019-07-27T00:00:00.000Z",
+      "opponent": "Václav Mikulášek",
+      "opponentSlug": "116980-vaclav-mikulasek",
+      "result": "win",
+      "method": "sub",
+      "event": "Oktagon 13",
+      "eventSlug": "61001-oktagon-13",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2019-03-16T00:00:00.000Z",
+      "opponent": "Miroslav Brož",
+      "opponentSlug": "123391-miroslav-broz",
+      "result": "win",
+      "method": "other",
+      "event": "Oktagon 11",
+      "eventSlug": "56959-oktagon-11",
+      "round": 1,
+      "timeInRound": "3:20"
+    },
+    {
+      "date": "2018-09-15T00:00:00.000Z",
+      "opponent": "Pavel Salčák",
+      "opponentSlug": "136015-pavel-salcak",
+      "result": "win",
+      "method": "other",
+      "event": "Oktagon 9",
+      "eventSlug": "54459-oktagon-9",
+      "round": 1,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2017-11-12T00:00:00.000Z",
+      "opponent": "Marko Kisič",
+      "opponentSlug": "78820-marko-kisic",
+      "result": "loss",
+      "method": "other",
+      "event": "Oktagon 4: Oktagon Výzva II Finále",
+      "eventSlug": "48837-oktagon-4",
+      "round": 1,
+      "timeInRound": "0:58"
+    },
+    {
+      "date": "2017-04-07T00:00:00.000Z",
+      "opponent": "Tomáš Lejsek",
+      "opponentSlug": "46462-tomas-lejsek",
+      "result": "win",
+      "method": "other",
+      "event": "Oktagon 2",
+      "eventSlug": "45228-oktagon-2",
+      "round": 2,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2016-12-10T00:00:00.000Z",
+      "opponent": "Radek Šopov",
+      "opponentSlug": "36772-radek-opov",
+      "result": "win",
+      "method": "other",
+      "event": "Oktagon 1: Boráros vs. Běle",
+      "eventSlug": "43981-oktagon-1-challenge-qualification-finals",
+      "round": 1,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2016-08-04T00:00:00.000Z",
+      "opponent": "Jakub Běle",
+      "opponentSlug": "86315-jakub-ble",
+      "result": "win",
+      "method": "sub",
+      "event": "Oktagon 1 Challenge Qualification",
+      "eventSlug": "44193-oktagon-1-challenge-qualification",
+      "round": 2,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2016-08-04T00:00:00.000Z",
+      "opponent": "Marek Bartl",
+      "opponentSlug": "64759-marek-bartl",
+      "result": "loss",
+      "method": "other",
+      "event": "Oktagon 1 Challenge Qualification",
+      "eventSlug": "44193-oktagon-1-challenge-qualification",
+      "round": 1,
+      "timeInRound": "4:55"
+    },
+    {
+      "date": "2015-10-10T00:00:00.000Z",
+      "opponent": "František Fodor",
+      "opponentSlug": "94897-frantisek-fodor",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-04-26T00:00:00.000Z",
+      "opponent": "Marián Jakubík",
+      "opponentSlug": "86815-marian-jakubik",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-06-01T00:00:00.000Z",
+      "opponent": "Michal Vostry",
+      "opponentSlug": "37706-michal-vostry",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:03:23.180Z"
+}

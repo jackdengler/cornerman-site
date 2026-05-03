@@ -1,0 +1,81 @@
+{
+  "slug": "367059-marek-caniga",
+  "name": "Marek Čaniga",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/367059-marek-caniga",
+  "recentFights": [
+    {
+      "date": "2024-04-13T00:00:00.000Z",
+      "opponent": "Radomír Chovan",
+      "opponentSlug": "299230-rado-chovan",
+      "result": "win",
+      "method": "dec-split",
+      "event": "DFN 10",
+      "eventSlug": "130518-dfn-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-15T00:00:00.000Z",
+      "opponent": "Angkush Kumar",
+      "opponentSlug": "433805-angkush-kumar",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "SOMMA: European Championship 2024",
+      "eventSlug": "110724-european-championship-2024",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-15T00:00:00.000Z",
+      "opponent": "Róbert Guth",
+      "opponentSlug": "367058-robert-guth",
+      "result": "win",
+      "method": "dec-split",
+      "event": "SOMMA: European Championship 2024",
+      "eventSlug": "110724-european-championship-2024",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-18T00:00:00.000Z",
+      "opponent": "Alex Hutyra",
+      "opponentSlug": "347893-alex-hutyra",
+      "result": null,
+      "method": "other",
+      "event": "Svarog Fight Night 2023",
+      "eventSlug": "106491-svarog-cup-bitva-o-frydlant",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-30T00:00:00.000Z",
+      "opponent": "Róbert Guth",
+      "opponentSlug": "367058-robert-guth",
+      "result": "loss",
+      "method": "other",
+      "event": "Fight of Gladiators 10",
+      "eventSlug": "95679-fight-of-gladiators-10",
+      "round": 2,
+      "timeInRound": "2:40"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:11:38.757Z"
+}

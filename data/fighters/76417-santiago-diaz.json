@@ -1,0 +1,220 @@
+{
+  "slug": "76417-santiago-diaz",
+  "name": "Santiago Diaz",
+  "nickname": "The Cuban Hitman",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 188,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1983-08-31",
+  "nationality": "Cuba",
+  "url": "https://www.tapology.com/fightcenter/fighters/76417-santiago-diaz",
+  "recentFights": [
+    {
+      "date": "2018-06-07T00:00:00.000Z",
+      "opponent": "Andre Walker",
+      "opponentSlug": "36198-andre-walker",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fight Club OC",
+      "eventSlug": "53336-fcoc-52",
+      "round": 1,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2018-04-21T00:00:00.000Z",
+      "opponent": "Jon Loftin",
+      "opponentSlug": "56973-jon-loftin",
+      "result": "loss",
+      "method": "other",
+      "event": "Gladiator Challenge",
+      "eventSlug": "53167-gladiator-challenge",
+      "round": 3,
+      "timeInRound": "1:18"
+    },
+    {
+      "date": "2018-02-15T00:00:00.000Z",
+      "opponent": "Ozzy Diaz",
+      "opponentSlug": "61676-ozzy-diaz",
+      "result": "win",
+      "method": "tko",
+      "event": "Fight Club OC",
+      "eventSlug": "51130-fcoc-50",
+      "round": 1,
+      "timeInRound": "0:15"
+    },
+    {
+      "date": "2017-12-16T00:00:00.000Z",
+      "opponent": "Melvin Jenkins",
+      "opponentSlug": "163818-melvin-jenkins",
+      "result": "win",
+      "method": "other",
+      "event": "Gladiator Challenge",
+      "eventSlug": "50270-gladiator-challenge-season-s-beatings",
+      "round": 1,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2017-09-15T00:00:00.000Z",
+      "opponent": "Alex Thompson",
+      "opponentSlug": "105533-alex-thompson",
+      "result": "loss",
+      "method": "other",
+      "event": "Combate 17: El Grito En La Jaula",
+      "eventSlug": "48029-combate-17-el-grito-en-la-jaula",
+      "round": 1,
+      "timeInRound": "4:42"
+    },
+    {
+      "date": "2017-08-05T00:00:00.000Z",
+      "opponent": "Chris Gates",
+      "opponentSlug": "37183-chris-gates",
+      "result": "loss",
+      "method": null,
+      "event": "Gladiator Challenge",
+      "eventSlug": "46762-gladiator-challenge-absolute-beatdown",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-10T00:00:00.000Z",
+      "opponent": "Ramon Dawson",
+      "opponentSlug": "105491-ramon-dawson",
+      "result": "win",
+      "method": "sub",
+      "event": "Gladiator Challenge",
+      "eventSlug": "46531-gladiator-challenge-summer-feud",
+      "round": 1,
+      "timeInRound": "0:23"
+    },
+    {
+      "date": "2017-03-25T00:00:00.000Z",
+      "opponent": "Allwyn Kelly II",
+      "opponentSlug": "149034-allwyn-kelly-ii",
+      "result": "win",
+      "method": "other",
+      "event": "Gladiator Challenge",
+      "eventSlug": "45279-gladiator-challenge",
+      "round": 1,
+      "timeInRound": "0:38"
+    },
+    {
+      "date": "2017-02-18T00:00:00.000Z",
+      "opponent": "Jesse Doyle",
+      "opponentSlug": "152417-jesse-doyle",
+      "result": "win",
+      "method": "other",
+      "event": "Gladiator Challenge",
+      "eventSlug": "44526-gladiator-challenge-battle-cage",
+      "round": 1,
+      "timeInRound": "1:57"
+    },
+    {
+      "date": "2016-12-17T00:00:00.000Z",
+      "opponent": "Grayson Janis",
+      "opponentSlug": "152472-grayson-janis",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "Gladiator Challenge",
+      "eventSlug": "43464-gladiator-challenge-seasons-beatings",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-22T00:00:00.000Z",
+      "opponent": "David Johnson",
+      "opponentSlug": "152463-david-johnson-suge",
+      "result": "win",
+      "method": "other",
+      "event": "Gladiator Challenge",
+      "eventSlug": "43204-gladiator-challenge-rampage",
+      "round": 2,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2016-06-25T00:00:00.000Z",
+      "opponent": "Edwin Caraballo",
+      "opponentSlug": "152732-edwin-caraballo",
+      "result": "win",
+      "method": "other",
+      "event": "Gladiator Challenge",
+      "eventSlug": "43205-gladiator-challenge-unfinished-business",
+      "round": 1,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2015-10-03T00:00:00.000Z",
+      "opponent": "Sergio Marroquin",
+      "opponentSlug": "66835-sergio-marroquin",
+      "result": "loss",
+      "method": "sub",
+      "event": "Spar Star MMA",
+      "eventSlug": "35698-spar-star-fight-night",
+      "round": 2,
+      "timeInRound": "2:28"
+    },
+    {
+      "date": "2015-05-30T00:00:00.000Z",
+      "opponent": "Jose Lopez",
+      "opponentSlug": "64611-jose-lopez",
+      "result": "loss",
+      "method": "tko",
+      "event": "Spar Star MMA",
+      "eventSlug": "32997-spar-star-promotions-saturday-night-fights",
+      "round": 2,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2015-03-28T00:00:00.000Z",
+      "opponent": "Carlos Ojeda",
+      "opponentSlug": "96793-carlos-ojeda",
+      "result": "win",
+      "method": "other",
+      "event": "Spar Star MMA",
+      "eventSlug": "31389-spar-star-promotions-saturday-night-fights",
+      "round": 2,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2015-01-17T00:00:00.000Z",
+      "opponent": "Sergio Marroquin",
+      "opponentSlug": "66835-sergio-marroquin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Spar Star MMA",
+      "eventSlug": "29288-spar-star-promotions-saturday-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-10-11T00:00:00.000Z",
+      "opponent": "Anthony Briggs",
+      "opponentSlug": "64921-anthony-briggs",
+      "result": "win",
+      "method": "tko",
+      "event": "Spar Star MMA",
+      "eventSlug": "26530-spar-star-promotions-fright-night",
+      "round": 1,
+      "timeInRound": "1:33"
+    },
+    {
+      "date": "2014-08-09T00:00:00.000Z",
+      "opponent": "Jose Lopez",
+      "opponentSlug": "64611-jose-lopez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Spar Star MMA",
+      "eventSlug": "25450-spar-star",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:02:33.892Z"
+}

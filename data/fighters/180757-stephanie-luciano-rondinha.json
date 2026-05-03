@@ -1,0 +1,165 @@
+{
+  "slug": "180757-stephanie-luciano-rondinha",
+  "name": "Stephanie Luciano",
+  "nickname": "Rondinha",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 2,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": 166,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": "1999-12-16",
+  "nationality": "Belo Horizonte, Minas Gerais, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/180757-stephanie-luciano-rondinha",
+  "recentFights": [
+    {
+      "date": "2025-10-18T00:00:00.000Z",
+      "opponent": "Ravena Oliveira",
+      "opponentSlug": "160741-ravena-oliveira-kenoudy",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "129312-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2025-03-15T00:00:00.000Z",
+      "opponent": "Sam Hughes",
+      "opponentSlug": "140901-sam-hughes",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "120489-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-08-10T00:00:00.000Z",
+      "opponent": "Talita Alencar",
+      "opponentSlug": "217437-talita-alencar",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "112784-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-19T00:00:00.000Z",
+      "opponent": "Talita Alencar",
+      "opponentSlug": "217437-talita-alencar",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "Contender Series 2023",
+      "eventSlug": "100997-contender-series-2023-week-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-13T00:00:00.000Z",
+      "opponent": "Karina Aryadne",
+      "opponentSlug": "199755-karina-aryadne",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Jungle Fight 112",
+      "eventSlug": "93126-jungle-fight-112",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-18T00:00:00.000Z",
+      "opponent": "Aline Oliveira",
+      "opponentSlug": "123602-aline-oliveira-pit-bull",
+      "result": "win",
+      "method": "other",
+      "event": "Jungle Fight 111",
+      "eventSlug": "92509-jungle-fight-111",
+      "round": 2,
+      "timeInRound": "1:17"
+    },
+    {
+      "date": "2022-01-30T00:00:00.000Z",
+      "opponent": "Andressa Romero",
+      "opponentSlug": "148814-andressa-romero",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fight Music Show 1",
+      "eventSlug": "86334-fight-music-show-1-whindersson-vs-popo",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-16T00:00:00.000Z",
+      "opponent": "Michele Oliveira",
+      "opponentSlug": "158565-michele-oliveira",
+      "result": "win",
+      "method": "dec-split",
+      "event": "LFA 111: De Sa vs. Bonfim",
+      "eventSlug": "80470-lfa-111-de-sa-vs-bonfim",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-24T00:00:00.000Z",
+      "opponent": "Tainara Santos",
+      "opponentSlug": "292686-tainara-santos",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Woman's Fight 1",
+      "eventSlug": "78842-women-s-fight-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-15T00:00:00.000Z",
+      "opponent": "Viviane Adne",
+      "opponentSlug": "205392-viviane-adne",
+      "result": "win",
+      "method": "other",
+      "event": "Federação Fight 10",
+      "eventSlug": "61596-federacao-fight-10",
+      "round": 2,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2018-07-07T00:00:00.000Z",
+      "opponent": "Andréia Manoel",
+      "opponentSlug": "190761-andreia-manuel",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Federação Fight 8",
+      "eventSlug": "54057-federacao-fight-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-10T00:00:00.000Z",
+      "opponent": "Ana Carolina Almeida",
+      "opponentSlug": "180758-ana-carolina",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Federação Fight 7",
+      "eventSlug": "51629-federao-fight-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-16T00:00:00.000Z",
+      "opponent": "Elisandra Ferreira",
+      "opponentSlug": "167423-elisandra-ferreira-lili",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Federação Fight 5",
+      "eventSlug": "48010-federao-fight-5",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:58:30.362Z"
+}

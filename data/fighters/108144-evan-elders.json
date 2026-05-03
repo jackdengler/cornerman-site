@@ -1,0 +1,231 @@
+{
+  "slug": "108144-evan-elders",
+  "name": "Evan Elder",
+  "nickname": "The Phenom",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": 180,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1997-04-11",
+  "nationality": "Hilsboro, Missouri",
+  "url": "https://www.tapology.com/fightcenter/fighters/108144-evan-elders",
+  "recentFights": [
+    {
+      "date": "2025-04-26T00:00:00.000Z",
+      "opponent": "Gauge Young",
+      "opponentSlug": "213571-gauge-young",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "123603-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-07-13T00:00:00.000Z",
+      "opponent": "Darrius Flowers",
+      "opponentSlug": "91236-darrius-flowers",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "111798-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "1:46"
+    },
+    {
+      "date": "2023-07-15T00:00:00.000Z",
+      "opponent": "Genaro Valdéz",
+      "opponentSlug": "214582-genaro-valdez-el-rayadito",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "100553-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-18T00:00:00.000Z",
+      "opponent": "Nazim Sadykhov",
+      "opponentSlug": "135516-nazim-sadykhov",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "94589-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "0:38"
+    },
+    {
+      "date": "2022-04-23T00:00:00.000Z",
+      "opponent": "Preston Parsons",
+      "opponentSlug": "74671-preston-parsons",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "86013-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-10T00:00:00.000Z",
+      "opponent": "Marcus Andrusia",
+      "opponentSlug": "marcus-andrusia",
+      "result": "win",
+      "method": "other",
+      "event": "FAC 11",
+      "eventSlug": "83992-fac-11",
+      "round": 3,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2021-09-25T00:00:00.000Z",
+      "opponent": "Paris Padilla",
+      "opponentSlug": "69766-paris-padilla",
+      "result": "win",
+      "method": "other",
+      "event": "Shamrock FC 331",
+      "eventSlug": "80529-shamrock-fc-331",
+      "round": 1,
+      "timeInRound": "0:20"
+    },
+    {
+      "date": "2021-06-25T00:00:00.000Z",
+      "opponent": "CJay Hunter",
+      "opponentSlug": "44992-cj-hunter",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shamrock FC 330",
+      "eventSlug": "79971-shamrock-fc-330",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-08-21T00:00:00.000Z",
+      "opponent": "Kegan Gennrich",
+      "opponentSlug": "60255-kegan-gennrich",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 88: Willis vs. De Jesus",
+      "eventSlug": "71699-lfa-88-willis-vs-de-jesus",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-01-11T00:00:00.000Z",
+      "opponent": "Orell Fisher",
+      "opponentSlug": "59720-orell-fisher",
+      "result": "win",
+      "method": "other",
+      "event": "Shamrock FC 327",
+      "eventSlug": "64514-shamrock-fc-327",
+      "round": 1,
+      "timeInRound": "3:25"
+    },
+    {
+      "date": "2019-03-15T00:00:00.000Z",
+      "opponent": "Tremiere Hollie",
+      "opponentSlug": "99604-tremiere-hollis",
+      "result": "win",
+      "method": "sub",
+      "event": "Shamrock FC 316",
+      "eventSlug": "56758-shamrock-fc-316",
+      "round": 1,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2018-09-07T00:00:00.000Z",
+      "opponent": "Antonio Atkins",
+      "opponentSlug": "106401-antonio-atkins",
+      "result": "win",
+      "method": "other",
+      "event": "Shamrock FC 309",
+      "eventSlug": "53818-shamrock-fc-309",
+      "round": 1,
+      "timeInRound": "4:43"
+    },
+    {
+      "date": "2018-07-14T00:00:00.000Z",
+      "opponent": "Brad Ragan",
+      "opponentSlug": "130140-brad-ragan",
+      "result": "win",
+      "method": "sub",
+      "event": "Shamrock FC 307",
+      "eventSlug": "52438-shamrock-fc-307",
+      "round": 1,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2018-03-09T00:00:00.000Z",
+      "opponent": "Colin Parr",
+      "opponentSlug": "106145-colin-parr",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shamrock FC 303",
+      "eventSlug": "49569-shamrock-fc-303",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-01-20T00:00:00.000Z",
+      "opponent": "Luis Felipe",
+      "opponentSlug": "120731-luis-felipe",
+      "result": "win",
+      "method": "sub",
+      "event": "Shamrock FC 301",
+      "eventSlug": "49567-shamrock-fc-301",
+      "round": 1,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2017-11-18T00:00:00.000Z",
+      "opponent": "Benjamin Lewis",
+      "opponentSlug": "171065-benjamin-lewis",
+      "result": "win",
+      "method": "tko",
+      "event": "CFC 1: King of the Mountain",
+      "eventSlug": "49189-cfc-1-king-of-the-mountain",
+      "round": 2,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2016-04-16T00:00:00.000Z",
+      "opponent": "Luis Pena",
+      "opponentSlug": "76885-luis-pena",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shamrock FC",
+      "eventSlug": "38948-shamrock-fc-no-mercy",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-12-18T00:00:00.000Z",
+      "opponent": "Nathan Stearns",
+      "opponentSlug": "111769-nathan-stearns",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fight Hard MMA",
+      "eventSlug": "36936-fight-hard-mma",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-07-25T00:00:00.000Z",
+      "opponent": "Jamese Taylor III",
+      "opponentSlug": "90329-jamese-taylor",
+      "result": "win",
+      "method": "other",
+      "event": "Shamrock FC",
+      "eventSlug": "32801-shamrock-fc",
+      "round": 3,
+      "timeInRound": "1:07"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:12:00.370Z"
+}

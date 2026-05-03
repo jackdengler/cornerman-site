@@ -1,0 +1,231 @@
+{
+  "slug": "120423-michael-deiga-scheck",
+  "name": "Michael Deiga-Scheck",
+  "nickname": "Vivo",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1985-12-13",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/120423-michael-deiga-scheck",
+  "recentFights": [
+    {
+      "date": "2025-11-22T00:00:00.000Z",
+      "opponent": "Teo Saldana Smith",
+      "opponentSlug": "187648-teo-saldana-smith",
+      "result": "loss",
+      "method": "other",
+      "event": "OKTAGON 80: Legierski vs. Korkmaz",
+      "eventSlug": "118939-oktagon",
+      "round": 1,
+      "timeInRound": "4:35"
+    },
+    {
+      "date": "2024-12-07T00:00:00.000Z",
+      "opponent": "Jakub Dohnal",
+      "opponentSlug": "116834-jakub-dohnal",
+      "result": "loss",
+      "method": "sub",
+      "event": "OKTAGON 64: Brito vs. Surdu",
+      "eventSlug": "117613-oktagon-64",
+      "round": 3,
+      "timeInRound": "2:43"
+    },
+    {
+      "date": "2024-10-12T00:00:00.000Z",
+      "opponent": "Deniz Ilbay",
+      "opponentSlug": "212961-deniz-ilbay",
+      "result": "loss",
+      "method": "other",
+      "event": "OKTAGON 62: Bigger Than Ever",
+      "eventSlug": "111712-oktagon-62-bigger-than-ever",
+      "round": 1,
+      "timeInRound": "3:19"
+    },
+    {
+      "date": "2024-03-23T00:00:00.000Z",
+      "opponent": "Nikolaos Serbezis",
+      "opponentSlug": "95405-nico-serbezian",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 55: Jungwirth vs. Pukač",
+      "eventSlug": "107451-oktagon-55",
+      "round": 1,
+      "timeInRound": "0:53"
+    },
+    {
+      "date": "2023-10-14T00:00:00.000Z",
+      "opponent": "Ivan Sakić",
+      "opponentSlug": "136203-ivan-saki",
+      "result": "win",
+      "method": "other",
+      "event": "Musa Askan Yamak The Trophy 2023",
+      "eventSlug": "106246-musa-askan-yamak-the-trophy-2023",
+      "round": 1,
+      "timeInRound": "0:27"
+    },
+    {
+      "date": "2023-07-28T00:00:00.000Z",
+      "opponent": "Vladimír Lengál",
+      "opponentSlug": "305714-vladimir-lengal-vlado",
+      "result": "loss",
+      "method": "other",
+      "event": "OKTAGON 45: Mågård vs Lima",
+      "eventSlug": "101739-oktagon-stvanice-special",
+      "round": 1,
+      "timeInRound": "2:49"
+    },
+    {
+      "date": "2022-10-15T00:00:00.000Z",
+      "opponent": "Reza Abasi",
+      "opponentSlug": "317252-reza-abasi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fairtex Fight Promotion",
+      "eventSlug": "94432-fairtex-fight-promotion",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-04T00:00:00.000Z",
+      "opponent": "Cory Tait",
+      "opponentSlug": "15625-cory-tait",
+      "result": "win",
+      "method": "dec-split",
+      "event": "OKTAGON 33",
+      "eventSlug": "89655-oktagon-33",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-08-01T00:00:00.000Z",
+      "opponent": "Fernando Flores",
+      "opponentSlug": "89356-fernando-flores",
+      "result": "loss",
+      "method": "other",
+      "event": "Brave CF 37",
+      "eventSlug": "70957-brave-cf-37",
+      "round": 1,
+      "timeInRound": "4:51"
+    },
+    {
+      "date": "2018-10-20T00:00:00.000Z",
+      "opponent": "Anderson de Jesus",
+      "opponentSlug": "73231-anderson-de-jesus-formiga",
+      "result": "win",
+      "method": "sub",
+      "event": "NCE 31",
+      "eventSlug": "55714-nce-31",
+      "round": 1,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2018-06-09T00:00:00.000Z",
+      "opponent": "Jorge Garcia",
+      "opponentSlug": "98208-jorge-garcia-juninho",
+      "result": "win",
+      "method": "other",
+      "event": "X-Force MMA 7",
+      "eventSlug": "53990-x-force-mma-7",
+      "round": 1,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2017-11-17T00:00:00.000Z",
+      "opponent": "Frans Mlambo",
+      "opponentSlug": "64461-frans-mlambo",
+      "result": "loss",
+      "method": "tko",
+      "event": "Brave CF 9: The Kingdom of Champions",
+      "eventSlug": "47711-brave-cf",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-03T00:00:00.000Z",
+      "opponent": "Nikesh Agarwal",
+      "opponentSlug": "158603-nikesh-agarwal",
+      "result": "win",
+      "method": "other",
+      "event": "Young Blood Night Vol. 9",
+      "eventSlug": "43603-young-blood-night-vol-9-the-art-of-war",
+      "round": 1,
+      "timeInRound": "3:35"
+    },
+    {
+      "date": "2017-03-31T00:00:00.000Z",
+      "opponent": "Abdul-Kareem Al-Selwady",
+      "opponentSlug": "77145-abdul-kareem-al-selwady",
+      "result": "loss",
+      "method": "other",
+      "event": "Brave CF 4",
+      "eventSlug": "44225-brave-cf-4",
+      "round": 2,
+      "timeInRound": "3:55"
+    },
+    {
+      "date": "2017-02-18T00:00:00.000Z",
+      "opponent": "Ali Sarwari",
+      "opponentSlug": "125584-ali-sarwari",
+      "result": "win",
+      "method": "other",
+      "event": "We Love MMA 29",
+      "eventSlug": "41600-we-love-mma-29",
+      "round": 1,
+      "timeInRound": "0:19"
+    },
+    {
+      "date": "2016-10-22T00:00:00.000Z",
+      "opponent": "Muhammed Sahin",
+      "opponentSlug": "142234-muhammed-sahin",
+      "result": "win",
+      "method": "sub",
+      "event": "Young Blood Night Vol. 8",
+      "eventSlug": "40519-young-blood-night-vol-8",
+      "round": 1,
+      "timeInRound": "0:40"
+    },
+    {
+      "date": "2016-03-12T00:00:00.000Z",
+      "opponent": "Farbod Iran Nezhad",
+      "opponentSlug": "39306-farbod-irannejad",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "We Love MMA 20",
+      "eventSlug": "37424-we-love-mma-20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-28T00:00:00.000Z",
+      "opponent": "Vasil Ntina",
+      "opponentSlug": "120424-vasil-ntina",
+      "result": "win",
+      "method": "other",
+      "event": "We Love MMA 17",
+      "eventSlug": "35253-we-love-mma-17",
+      "round": 2,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2015-04-12T00:00:00.000Z",
+      "opponent": "Halil Ibrahim Keskin",
+      "opponentSlug": "66396-halil-ibrahim-keskin",
+      "result": "win",
+      "method": "sub",
+      "event": "Aggrelin 7: Backstage Brawl",
+      "eventSlug": "31778-aggrelin-7-backstage-brawl",
+      "round": 2,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:06:24.544Z"
+}

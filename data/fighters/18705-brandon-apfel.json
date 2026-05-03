@@ -1,0 +1,222 @@
+{
+  "slug": "18705-brandon-apfel",
+  "name": "Brandon Apfel",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Wausau, Wisconsin, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/18705-brandon-apfel",
+  "recentFights": [
+    {
+      "date": "2021-12-11T00:00:00.000Z",
+      "opponent": "Jeffrey Mesa",
+      "opponentSlug": "71953-jeff-mesa",
+      "result": "loss",
+      "method": "sub",
+      "event": "Warrior Games 11",
+      "eventSlug": "83416-ogitchidaa-fight-promotions-warrior-games-11",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2021-11-06T00:00:00.000Z",
+      "opponent": "Scottie Stockman",
+      "opponentSlug": "186100-scottie-stockman",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "NAFC: The Return",
+      "eventSlug": "82335-nafc-the-return",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-18T00:00:00.000Z",
+      "opponent": "Casey Goulet",
+      "opponentSlug": "142552-casey-goulet",
+      "result": "win",
+      "method": "other",
+      "event": "Warrior Games 9",
+      "eventSlug": "81710-warrior-games-9",
+      "round": 1,
+      "timeInRound": "4:54"
+    },
+    {
+      "date": "2018-06-16T00:00:00.000Z",
+      "opponent": "Bryan Mortensen",
+      "opponentSlug": "32924-bryan-mortensen",
+      "result": "loss",
+      "method": "sub",
+      "event": "Inner Strength MMA 14",
+      "eventSlug": "53480-inner-strength-mma-14",
+      "round": 1,
+      "timeInRound": "3:28"
+    },
+    {
+      "date": "2018-03-24T00:00:00.000Z",
+      "opponent": "Tye Knuckles",
+      "opponentSlug": "17048-ty-knuckles",
+      "result": "win",
+      "method": "other",
+      "event": "Inner Strength MMA 13",
+      "eventSlug": "49963-inner-strength-mma-13",
+      "round": 3,
+      "timeInRound": "3:30"
+    },
+    {
+      "date": "2017-10-07T00:00:00.000Z",
+      "opponent": "Alex Gilpin",
+      "opponentSlug": "50151-alex-gilpin",
+      "result": "loss",
+      "method": "other",
+      "event": "Chosen Few FC 12",
+      "eventSlug": "47085-chosen-few-fc-12",
+      "round": 1,
+      "timeInRound": "1:24"
+    },
+    {
+      "date": "2017-08-26T00:00:00.000Z",
+      "opponent": "Jimmy Zidek",
+      "opponentSlug": "11052-jimmy-zidek",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "3 River Throwdown 12",
+      "eventSlug": "45925-3-river-throwdown-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-03T00:00:00.000Z",
+      "opponent": "Jesse Rogge",
+      "opponentSlug": "50014-jesse-rogge",
+      "result": "win",
+      "method": "other",
+      "event": "KOTC: Violent Confrontation",
+      "eventSlug": "43661-kotc",
+      "round": 1,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2016-09-10T00:00:00.000Z",
+      "opponent": "Elijah Phillips",
+      "opponentSlug": "37781-elijah-phillips",
+      "result": "win",
+      "method": "tko",
+      "event": "3 River Throwdown 10",
+      "eventSlug": "40375-3-river-throwdown-10",
+      "round": 3,
+      "timeInRound": "2:30"
+    }
+  ],
+  "allFights": [
+    {
+      "date": "2021-12-11T00:00:00.000Z",
+      "opponent": "Jeffrey Mesa",
+      "opponentSlug": "71953-jeff-mesa",
+      "result": "loss",
+      "method": "sub",
+      "event": "Warrior Games 11",
+      "eventSlug": "83416-ogitchidaa-fight-promotions-warrior-games-11",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2021-11-06T00:00:00.000Z",
+      "opponent": "Scottie Stockman",
+      "opponentSlug": "186100-scottie-stockman",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "NAFC: The Return",
+      "eventSlug": "82335-nafc-the-return",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-18T00:00:00.000Z",
+      "opponent": "Casey Goulet",
+      "opponentSlug": "142552-casey-goulet",
+      "result": "win",
+      "method": "other",
+      "event": "Warrior Games 9",
+      "eventSlug": "81710-warrior-games-9",
+      "round": 1,
+      "timeInRound": "4:54"
+    },
+    {
+      "date": "2018-06-16T00:00:00.000Z",
+      "opponent": "Bryan Mortensen",
+      "opponentSlug": "32924-bryan-mortensen",
+      "result": "loss",
+      "method": "sub",
+      "event": "Inner Strength MMA 14",
+      "eventSlug": "53480-inner-strength-mma-14",
+      "round": 1,
+      "timeInRound": "3:28"
+    },
+    {
+      "date": "2018-03-24T00:00:00.000Z",
+      "opponent": "Tye Knuckles",
+      "opponentSlug": "17048-ty-knuckles",
+      "result": "win",
+      "method": "other",
+      "event": "Inner Strength MMA 13",
+      "eventSlug": "49963-inner-strength-mma-13",
+      "round": 3,
+      "timeInRound": "3:30"
+    },
+    {
+      "date": "2017-10-07T00:00:00.000Z",
+      "opponent": "Alex Gilpin",
+      "opponentSlug": "50151-alex-gilpin",
+      "result": "loss",
+      "method": "other",
+      "event": "Chosen Few FC 12",
+      "eventSlug": "47085-chosen-few-fc-12",
+      "round": 1,
+      "timeInRound": "1:24"
+    },
+    {
+      "date": "2017-08-26T00:00:00.000Z",
+      "opponent": "Jimmy Zidek",
+      "opponentSlug": "11052-jimmy-zidek",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "3 River Throwdown 12",
+      "eventSlug": "45925-3-river-throwdown-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-03T00:00:00.000Z",
+      "opponent": "Jesse Rogge",
+      "opponentSlug": "50014-jesse-rogge",
+      "result": "win",
+      "method": "other",
+      "event": "KOTC: Violent Confrontation",
+      "eventSlug": "43661-kotc",
+      "round": 1,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2016-09-10T00:00:00.000Z",
+      "opponent": "Elijah Phillips",
+      "opponentSlug": "37781-elijah-phillips",
+      "result": "win",
+      "method": "tko",
+      "event": "3 River Throwdown 10",
+      "eventSlug": "40375-3-river-throwdown-10",
+      "round": 3,
+      "timeInRound": "2:30"
+    }
+  ],
+  "lastVerified": "2026-05-03T10:16:53.095Z"
+}

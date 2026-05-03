@@ -1,0 +1,165 @@
+{
+  "slug": "91219-nich-rodrigues",
+  "name": "Nick Rodrigues",
+  "nickname": "Scrappy",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 178,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1993-02-12",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/91219-nich-rodrigues",
+  "recentFights": [
+    {
+      "date": "2025-06-13T00:00:00.000Z",
+      "opponent": "Chris Guariglia",
+      "opponentSlug": "98005-chris-guariglia",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Ring of Combat 86",
+      "eventSlug": "124673-ring-of-combat-87",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-20T00:00:00.000Z",
+      "opponent": "Cedric Gunnison",
+      "opponentSlug": "126830-cedric-gunnison",
+      "result": "loss",
+      "method": "tko",
+      "event": "Ring of Combat 76",
+      "eventSlug": "87796-ring-of-combat-76",
+      "round": 3,
+      "timeInRound": "2:23"
+    },
+    {
+      "date": "2021-07-17T00:00:00.000Z",
+      "opponent": "Cristian Lopez",
+      "opponentSlug": "162871-cristhian-lopez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ring Of Combat 73",
+      "eventSlug": "79661-ring-of-combat-73",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-31T00:00:00.000Z",
+      "opponent": "Jerome Mickle",
+      "opponentSlug": "62814-jerome-mickle",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ring of Combat 68",
+      "eventSlug": "59296-ring-of-combat-68",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-16T00:00:00.000Z",
+      "opponent": "Dennis Buzukja",
+      "opponentSlug": "131561-dennis-buzukia",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ring of Combat 66",
+      "eventSlug": "55790-ring-of-combat-66",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-22T00:00:00.000Z",
+      "opponent": "Lawrence Dennis Jr.",
+      "opponentSlug": "23205-lawrence-dennis-jr",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Lab 59",
+      "eventSlug": "53886-fight-lab-59",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2018-03-02T00:00:00.000Z",
+      "opponent": "Nick Fiore",
+      "opponentSlug": "74123-nick-fiore",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ring of Combat 62",
+      "eventSlug": "50404-ring-of-combat-62",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-21T00:00:00.000Z",
+      "opponent": "Ryan Jett",
+      "opponentSlug": "60412-ryan-jett",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "LFA 17: Moisés vs. Watley",
+      "eventSlug": "46771-lfa-17-moiss-vs-watley",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-12T00:00:00.000Z",
+      "opponent": "John Ramirez",
+      "opponentSlug": "20483-john-ramirez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fight Lab 53",
+      "eventSlug": "42545-fight-lab-53",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-06-11T00:00:00.000Z",
+      "opponent": "Robert Hale",
+      "opponentSlug": "106004-robert-hale",
+      "result": "win",
+      "method": "dec-split",
+      "event": "NFC 84",
+      "eventSlug": "40283-nfc-84",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-19T00:00:00.000Z",
+      "opponent": "Pedro Jimenez",
+      "opponentSlug": "75543-pedro-jimenez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Settle the Scores 2",
+      "eventSlug": "34481-settle-the-scores",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-05-09T00:00:00.000Z",
+      "opponent": "Roger Pratcher",
+      "opponentSlug": "73050-roger-pratcher",
+      "result": "win",
+      "method": "tko",
+      "event": "Settle the Scores 1",
+      "eventSlug": "30056-settle-the-scores",
+      "round": 1,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2015-01-24T00:00:00.000Z",
+      "opponent": "Emmanuel Osho",
+      "opponentSlug": "76143-emmanuel-osho",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "NFC 72: Wild Bill's Fight Night 71",
+      "eventSlug": "29490-nfc-72",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:13:12.098Z"
+}

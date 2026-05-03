@@ -1,0 +1,37 @@
+{
+  "slug": "267973-daniel-bures",
+  "name": "Daniel Bureš",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/267973-daniel-bures",
+  "recentFights": [
+    {
+      "date": "2020-08-07T00:00:00.000Z",
+      "opponent": "Josef Hála",
+      "opponentSlug": "267974-josef-hala",
+      "result": "loss",
+      "method": "sub",
+      "event": "IAF: Streetfighter 4",
+      "eventSlug": "71678-iaf-streetfighter-4",
+      "round": 2,
+      "timeInRound": "2:44"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:06:11.254Z"
+}

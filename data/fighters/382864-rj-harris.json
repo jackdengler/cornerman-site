@@ -1,0 +1,143 @@
+{
+  "slug": "382864-rj-harris",
+  "name": "RJ Harris",
+  "nickname": "The Hammer",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 198,
+  "reachCm": 203,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1998-10-01",
+  "nationality": "Zanesville, Ohio",
+  "url": "https://www.tapology.com/fightcenter/fighters/382864-rj-harris",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Phillip Latu",
+      "opponentSlug": "303053-phillip-latu",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 231: Lozej vs. Ibarra",
+      "eventSlug": "140675-lfa-231-trembley-vs-johns",
+      "round": 2,
+      "timeInRound": "4:01"
+    },
+    {
+      "date": "2025-11-21T00:00:00.000Z",
+      "opponent": "Alex Marro",
+      "opponentSlug": "160837-al-marro",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 223: Francischinelli vs. Piersma",
+      "eventSlug": "133540-lfa-223",
+      "round": 1,
+      "timeInRound": "2:17"
+    },
+    {
+      "date": "2025-09-13T00:00:00.000Z",
+      "opponent": "Austin Green",
+      "opponentSlug": "200279-austin-green",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Caged Thunder 34",
+      "eventSlug": "130291-caged-thunder-34",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-06-07T00:00:00.000Z",
+      "opponent": "Charlie Cleveland",
+      "opponentSlug": "418176-charlie-cleveland",
+      "result": "win",
+      "method": "other",
+      "event": "Caged Thunder 32",
+      "eventSlug": "124821-caged-thunder-32",
+      "round": 2,
+      "timeInRound": "3:07"
+    },
+    {
+      "date": "2025-03-01T00:00:00.000Z",
+      "opponent": "Quentin Campbell",
+      "opponentSlug": "244150-quentin-campbell",
+      "result": "win",
+      "method": "other",
+      "event": "Ohio Combat League 36",
+      "eventSlug": "121675-ohio-combat-league-36-the-arnold-classic",
+      "round": 1,
+      "timeInRound": "3:24"
+    },
+    {
+      "date": "2024-11-09T00:00:00.000Z",
+      "opponent": "Maurice Yarbrough",
+      "opponentSlug": "206400-maurice-yarbough",
+      "result": "win",
+      "method": "sub",
+      "event": "Ohio Combat League 32",
+      "eventSlug": "117383-ohio-combat-league-32",
+      "round": 1,
+      "timeInRound": "1:57"
+    },
+    {
+      "date": "2024-07-27T00:00:00.000Z",
+      "opponent": "Ben Wunder",
+      "opponentSlug": "341828-benjamin-wunder",
+      "result": "loss",
+      "method": "other",
+      "event": "MFL 54",
+      "eventSlug": "114442-mfl-54",
+      "round": 2,
+      "timeInRound": "0:28"
+    },
+    {
+      "date": "2024-06-01T00:00:00.000Z",
+      "opponent": "Jeremy Riley",
+      "opponentSlug": "307893-jeremy-riley",
+      "result": "win",
+      "method": "sub",
+      "event": "Caged Thunder 27",
+      "eventSlug": "111275-caged-thunder-27",
+      "round": 3,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2024-03-23T00:00:00.000Z",
+      "opponent": "Luis German",
+      "opponentSlug": "388726-luis-german",
+      "result": "win",
+      "method": "other",
+      "event": "Live MMA at NEO 2",
+      "eventSlug": "108498-live-mma-at-neo-2",
+      "round": 1,
+      "timeInRound": "1:46"
+    },
+    {
+      "date": "2023-08-12T00:00:00.000Z",
+      "opponent": "James Dennis",
+      "opponentSlug": "352813-james-dennis",
+      "result": "win",
+      "method": "other",
+      "event": "Caged Thunder 22",
+      "eventSlug": "101550-caged-thunder-22",
+      "round": 1,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2023-05-20T00:00:00.000Z",
+      "opponent": "Dillon Burke",
+      "opponentSlug": "382865-dillon-burke",
+      "result": "win",
+      "method": "other",
+      "event": "Caged Thunder 21",
+      "eventSlug": "98598-caged-thunder-21",
+      "round": 1,
+      "timeInRound": "0:09"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:59:39.971Z"
+}

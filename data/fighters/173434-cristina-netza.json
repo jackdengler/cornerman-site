@@ -1,0 +1,110 @@
+{
+  "slug": "173434-cristina-netza",
+  "name": "Christina Netza",
+  "nickname": "Ninja",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1999-01-16",
+  "nationality": "Greece",
+  "url": "https://www.tapology.com/fightcenter/fighters/173434-cristina-netza",
+  "recentFights": [
+    {
+      "date": "2021-03-27T00:00:00.000Z",
+      "opponent": "Lucia Szabová",
+      "opponentSlug": "187305-lucia-szabova-queen-bee",
+      "result": "loss",
+      "method": "other",
+      "event": "OKTAGON 22",
+      "eventSlug": "76911-oktagon-22",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2020-02-22T00:00:00.000Z",
+      "opponent": "Nadia Bertini",
+      "opponentSlug": "120453-nadia-bertini",
+      "result": "win",
+      "method": "other",
+      "event": "MMA Challenge Pro 10",
+      "eventSlug": "66149-mma-challenge-pro-10-greece-vs-turkey",
+      "round": 2,
+      "timeInRound": "3:56"
+    },
+    {
+      "date": "2019-02-02T00:00:00.000Z",
+      "opponent": "Christina Kamenitsa",
+      "opponentSlug": "123996-christina-kamenitsa",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMA Challenge Pro 9",
+      "eventSlug": "58165-mma-challenge-pro-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-05T00:00:00.000Z",
+      "opponent": "Eleni Mytilinaki",
+      "opponentSlug": "166521-eleni-mytilinaki",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMA Challenge Pro 8",
+      "eventSlug": "52920-mma-challenge-pro-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-18T00:00:00.000Z",
+      "opponent": "Diana Belbiţă",
+      "opponentSlug": "76509-diana-belbita",
+      "result": "loss",
+      "method": "other",
+      "event": "RXF 29: MMA Allstars 4",
+      "eventSlug": "49247-rxf-29-mma-allstars-4",
+      "round": 3,
+      "timeInRound": "0:49"
+    },
+    {
+      "date": "2023-12-10T00:00:00.000Z",
+      "opponent": "Zoe Nowicki",
+      "opponentSlug": "351395-zoe-nowicki",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "GAMMA",
+      "eventSlug": "108670-gamma-world-mma-championship-2023-finals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-09T00:00:00.000Z",
+      "opponent": "Bazz Rana",
+      "opponentSlug": "418790-bazz-rana",
+      "result": "win",
+      "method": "sub",
+      "event": "GAMMA",
+      "eventSlug": "108613-gamma-world-mma-championship-2023-day-2",
+      "round": 2,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2023-12-08T00:00:00.000Z",
+      "opponent": "Miao Ding",
+      "opponentSlug": "150939-miao-ding",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "108384-gamma-world-mma-championship-2023-day-1",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:02:32.250Z"
+}

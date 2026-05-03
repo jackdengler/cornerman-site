@@ -1,0 +1,77 @@
+{
+  "slug": "52201-bruno-pereira-anel",
+  "name": "Bruno Pereira",
+  "nickname": "Anel",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1991-03-21",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/52201-bruno-pereira-anel",
+  "recentFights": [
+    {
+      "date": "2014-06-14T00:00:00.000Z",
+      "opponent": "Carlos Prates",
+      "opponentSlug": "36554-carlos-prates-carlao",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-11-23T00:00:00.000Z",
+      "opponent": "Esteban Bonaveri",
+      "opponentSlug": "28033-esteban-bonaveri-houdini",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "X-Fight MMA 7",
+      "eventSlug": "21468-x-fight-mma-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-04-27T00:00:00.000Z",
+      "opponent": "Luis Fernando Messa",
+      "opponentSlug": "59075-luis-fernando-messa",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-10-13T00:00:00.000Z",
+      "opponent": "Lucas Zanato",
+      "opponentSlug": "52190-lucas-zanato",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-05-19T00:00:00.000Z",
+      "opponent": "João Português",
+      "opponentSlug": "52192-joo-portugus",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:10:59.561Z"
+}

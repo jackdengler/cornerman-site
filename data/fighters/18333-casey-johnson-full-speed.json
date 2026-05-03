@@ -1,0 +1,198 @@
+{
+  "slug": "18333-casey-johnson-full-speed",
+  "name": "Casey Johnson",
+  "nickname": "Full Speed",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1988-06-08",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/18333-casey-johnson-full-speed",
+  "recentFights": [
+    {
+      "date": "2012-11-15T00:00:00.000Z",
+      "opponent": "Nathan Davis",
+      "opponentSlug": "17210-james-nathan-davis",
+      "result": "loss",
+      "method": "tko",
+      "event": "Fight Lab 29",
+      "eventSlug": "15696-fight-lab-29",
+      "round": 1,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2012-09-28T00:00:00.000Z",
+      "opponent": "Will Martinez Jr.",
+      "opponentSlug": "15111-will-martinez-jr",
+      "result": "loss",
+      "method": "sub",
+      "event": "Bellator 74",
+      "eventSlug": "14733-bellator-74",
+      "round": 1,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2012-04-21T00:00:00.000Z",
+      "opponent": "Sidemar Honorio",
+      "opponentSlug": "13318-sidemar-honorio",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "XCC: Relentless",
+      "eventSlug": "13342-xcc-relentless",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-04-14T00:00:00.000Z",
+      "opponent": "Aljamain Sterling",
+      "opponentSlug": "aljamain-sterling",
+      "result": "loss",
+      "method": "sub",
+      "event": "CFFC 14",
+      "eventSlug": "12836-cffc-14",
+      "round": 3,
+      "timeInRound": "2:11"
+    },
+    {
+      "date": "2011-11-11T00:00:00.000Z",
+      "opponent": "Terrell Hobbs",
+      "opponentSlug": "15823-terrel-hobbs-the-hollywood-hobbit",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-09-24T00:00:00.000Z",
+      "opponent": "Casey Watson",
+      "opponentSlug": "44874-casey-watson",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-06-24T00:00:00.000Z",
+      "opponent": "Scott Heckman",
+      "opponentSlug": "16507-scott-heckman-the-animal",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-04-14T00:00:00.000Z",
+      "opponent": "Demetrius Turner",
+      "opponentSlug": "23179-demetrice-turner",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-03-26T00:00:00.000Z",
+      "opponent": "Chris Brady",
+      "opponentSlug": "16743-chris-brady",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-03-20T00:00:00.000Z",
+      "opponent": "Michael Hess",
+      "opponentSlug": "24437-brent-hess",
+      "result": "loss",
+      "method": "sub",
+      "event": "Operation Octagon 10",
+      "eventSlug": "25479-operation-octagon-10",
+      "round": 1,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2009-11-07T00:00:00.000Z",
+      "opponent": "Patrick Parker",
+      "opponentSlug": "107678-patrick-parker",
+      "result": "win",
+      "method": "sub",
+      "event": "Operation Octagon 9",
+      "eventSlug": "8876-operation-octagon-9",
+      "round": 1,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2009-10-10T00:00:00.000Z",
+      "opponent": "Elijah Muhammad",
+      "opponentSlug": "66708-elijah-muhammad",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-07-18T00:00:00.000Z",
+      "opponent": "Omar Santiago",
+      "opponentSlug": "18824-omar-santiago",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-06-06T00:00:00.000Z",
+      "opponent": "Jake Johnson",
+      "opponentSlug": "20477-jacob-johnson",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-04-18T00:00:00.000Z",
+      "opponent": "Mike Hamman",
+      "opponentSlug": "62359-mike-hamman-the-hammer",
+      "result": "win",
+      "method": "other",
+      "event": "Amateur Fight League",
+      "eventSlug": "37800-fight-to-the-finish-5",
+      "round": 1,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2009-03-28T00:00:00.000Z",
+      "opponent": "Jason Ramos",
+      "opponentSlug": "124118-jason-ramos",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:31:49.271Z"
+}

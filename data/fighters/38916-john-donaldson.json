@@ -1,0 +1,220 @@
+{
+  "slug": "38916-john-donaldson",
+  "name": "JT Donaldson",
+  "nickname": "Grandma's Boy",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 7,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 169,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1992-07-09",
+  "nationality": "Livermoore, California",
+  "url": "https://www.tapology.com/fightcenter/fighters/38916-john-donaldson",
+  "recentFights": [
+    {
+      "date": "2024-11-23T00:00:00.000Z",
+      "opponent": "Anthony Parham Jr.",
+      "opponentSlug": "111708-anthony-parham-jr",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "VFS 17",
+      "eventSlug": "120452-vfs-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-02-24T00:00:00.000Z",
+      "opponent": "Art Becerra",
+      "opponentSlug": "13315-art-becerra-mighty-mouse",
+      "result": "win",
+      "method": "tko",
+      "event": "VFS 14",
+      "eventSlug": "109854-vfs-14",
+      "round": 2,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2023-03-30T00:00:00.000Z",
+      "opponent": "Josh Kwiatkowski",
+      "opponentSlug": "118291-josh-kwiatkowski",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "BFL 76: Canada vs. USA",
+      "eventSlug": "96802-bfl-76",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-22T00:00:00.000Z",
+      "opponent": "Ty Costa",
+      "opponentSlug": "29241-ty-costa",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Motown Throwdown 1",
+      "eventSlug": "92233-modesto-throwdown-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-15T00:00:00.000Z",
+      "opponent": "Laird Anderson",
+      "opponentSlug": "142318-laird-anderson",
+      "result": "loss",
+      "method": "sub",
+      "event": "Bellator 277",
+      "eventSlug": "86986-bellator-277-mckee-vs-pitbull-2",
+      "round": 1,
+      "timeInRound": "2:44"
+    },
+    {
+      "date": "2021-08-28T00:00:00.000Z",
+      "opponent": "Syed Ahsan Jafri",
+      "opponentSlug": "132745-syed-ahsan-jafri",
+      "result": "win",
+      "method": "tko",
+      "event": "NWFA 1: Retribution",
+      "eventSlug": "81628-nwfa-1-arkansas",
+      "round": 1,
+      "timeInRound": "3:31"
+    },
+    {
+      "date": "2021-05-29T00:00:00.000Z",
+      "opponent": "Michael Walker",
+      "opponentSlug": "117719-michael-walker",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "J Street Fights 1",
+      "eventSlug": "80284-j-street-fights-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-08-10T00:00:00.000Z",
+      "opponent": "John Cardenas",
+      "opponentSlug": "134278-juan-cardenas",
+      "result": "loss",
+      "method": "other",
+      "event": "URCC: Rumble By The Bay",
+      "eventSlug": "62371-urcc-rumble-by-the-bay",
+      "round": 1,
+      "timeInRound": "0:43"
+    },
+    {
+      "date": "2018-01-13T00:00:00.000Z",
+      "opponent": "Jamie Siraj",
+      "opponentSlug": "35361-jamie-siraj-the-gremlin",
+      "result": "loss",
+      "method": "other",
+      "event": "BFL 53",
+      "eventSlug": "49636-bfl-53",
+      "round": 3,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2017-06-24T00:00:00.000Z",
+      "opponent": "Matt Wagy",
+      "opponentSlug": "33748-matt-wagy",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Conquer FC 4",
+      "eventSlug": "45735-conquer-fc-4-cfc-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-30T00:00:00.000Z",
+      "opponent": "Drey Mitchell",
+      "opponentSlug": "55925-drey-mitchell",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Conquer FC 2",
+      "eventSlug": "37778-cfc-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-12-04T00:00:00.000Z",
+      "opponent": "AJ McKee Jr.",
+      "opponentSlug": "69323-antonio-mckee-jr",
+      "result": "loss",
+      "method": "other",
+      "event": "Bellator 147",
+      "eventSlug": "35281-bellator-147",
+      "round": 1,
+      "timeInRound": "3:19"
+    },
+    {
+      "date": "2015-08-22T00:00:00.000Z",
+      "opponent": "Brandon Faumui",
+      "opponentSlug": "51407-brandon-faumui",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Dragon House 21",
+      "eventSlug": "34344-dragon-house-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-05-09T00:00:00.000Z",
+      "opponent": "Anthony Dariano",
+      "opponentSlug": "62305-anthony-dariano",
+      "result": "loss",
+      "method": "sub",
+      "event": "Arise FC 3",
+      "eventSlug": "33688-arise-fc-3",
+      "round": 2,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2014-06-27T00:00:00.000Z",
+      "opponent": "Kevin Burrage",
+      "opponentSlug": "56270-kevin-burrage",
+      "result": "win",
+      "method": "sub",
+      "event": "West Coast FC 10",
+      "eventSlug": "24415-west-coast-fc-10-diagne-vs-ricetti",
+      "round": 1,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2014-01-17T00:00:00.000Z",
+      "opponent": "Chris Cocores",
+      "opponentSlug": "38029-chris-cocores",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WFC 16",
+      "eventSlug": "22058-wfc-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-06-01T00:00:00.000Z",
+      "opponent": "Tyler Diamond",
+      "opponentSlug": "48867-tyler-diamond",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Ultimate Reno Combat 41",
+      "eventSlug": "18698-ultimate-reno-combat-41",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-11-11T00:00:00.000Z",
+      "opponent": "Steve Lara",
+      "opponentSlug": "26881-steve-lara",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Dragon House 12",
+      "eventSlug": "15695-dragon-house-12",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:04:45.192Z"
+}

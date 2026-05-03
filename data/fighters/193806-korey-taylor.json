@@ -1,0 +1,187 @@
+{
+  "slug": "193806-korey-taylor",
+  "name": "Korey Taylor",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1994-08-13",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/193806-korey-taylor",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Taner Trembley",
+      "opponentSlug": "336743-taner-trembley",
+      "result": "loss",
+      "method": "tko",
+      "event": "LFA 231: Lozej vs. Ibarra",
+      "eventSlug": "140675-lfa-231-trembley-vs-johns",
+      "round": 2,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2026-02-14T00:00:00.000Z",
+      "opponent": "Ronald Girones Sago",
+      "opponentSlug": "113559-ronald-girones-sago",
+      "result": "win",
+      "method": "tko",
+      "event": "Combat Night Tallahassee",
+      "eventSlug": "139575-combat-night-tallahassee",
+      "round": 2,
+      "timeInRound": "1:24"
+    },
+    {
+      "date": "2025-11-08T00:00:00.000Z",
+      "opponent": "Tyler Keating",
+      "opponentSlug": "148627-tyler-keating-the-killer-turtle",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combat Night Jacksonville",
+      "eventSlug": "135407-combat-night-jacksonville",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-17T00:00:00.000Z",
+      "opponent": "Theoren Thorn",
+      "opponentSlug": "223342-theoren-thorn",
+      "result": "loss",
+      "method": "tko",
+      "event": "Combat Night Duval",
+      "eventSlug": "124757-combat-night-duval",
+      "round": 1,
+      "timeInRound": "0:22"
+    },
+    {
+      "date": "2024-05-04T00:00:00.000Z",
+      "opponent": "Quintin Bray",
+      "opponentSlug": "97979-quintin-brey",
+      "result": "win",
+      "method": "tko",
+      "event": "Combat Night Pro Duval",
+      "eventSlug": "113481-combat-night-pro-duval",
+      "round": 1,
+      "timeInRound": "4:46"
+    },
+    {
+      "date": "2023-11-04T00:00:00.000Z",
+      "opponent": "Corey Barreiro",
+      "opponentSlug": "38908-corey-barreiro",
+      "result": "win",
+      "method": "tko",
+      "event": "Combat Night 166",
+      "eventSlug": "106803-combat-night-166-duval",
+      "round": 1,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2023-08-19T00:00:00.000Z",
+      "opponent": "Shane Mason",
+      "opponentSlug": "359600-shane-mason",
+      "result": "win",
+      "method": "tko",
+      "event": "Combat Night",
+      "eventSlug": "102287-combat-night-tally",
+      "round": 1,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2023-05-06T00:00:00.000Z",
+      "opponent": "Dowen Pugh",
+      "opponentSlug": "277094-dowen-pugh-dangerous",
+      "result": "win",
+      "method": "sub",
+      "event": "Combat Night Pro",
+      "eventSlug": "99524-combat-night-pro-jacksonville",
+      "round": 1,
+      "timeInRound": "1:19"
+    },
+    {
+      "date": "2022-08-20T00:00:00.000Z",
+      "opponent": "Kevin Harrison",
+      "opponentSlug": "108735-kevin-harrison",
+      "result": "win",
+      "method": "other",
+      "event": "Combat Night Pro",
+      "eventSlug": "92166-combat-night-pro-tallahassee",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2022-04-30T00:00:00.000Z",
+      "opponent": "Kevin Hendrix",
+      "opponentSlug": "297148-kevin-hendricks",
+      "result": "win",
+      "method": "tko",
+      "event": "Combat Night Pro",
+      "eventSlug": "88764-combat-night-duval",
+      "round": 1,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2020-12-19T00:00:00.000Z",
+      "opponent": "Mikey Conlon",
+      "opponentSlug": "97821-mikey-conlon",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combat Night 122",
+      "eventSlug": "75066-combat-night-122-duval",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-09T00:00:00.000Z",
+      "opponent": "Christopher Lavant",
+      "opponentSlug": "117823-chris-lavant",
+      "result": "win",
+      "method": "sub",
+      "event": "Combat Night Pro 15",
+      "eventSlug": "64210-combat-night-pro-15-duval",
+      "round": 1,
+      "timeInRound": "0:57"
+    },
+    {
+      "date": "2019-06-15T00:00:00.000Z",
+      "opponent": "Charlie Herrera",
+      "opponentSlug": "216970-charlie-herrera",
+      "result": "win",
+      "method": "sub",
+      "event": "Combat Night 107",
+      "eventSlug": "61096-combat-night-107",
+      "round": 1,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2018-11-10T00:00:00.000Z",
+      "opponent": "B. C.",
+      "opponentSlug": "34656-b-c",
+      "result": "win",
+      "method": "sub",
+      "event": "Combat Night Pro 9",
+      "eventSlug": "56482-combat-night-pro-9-duval",
+      "round": 2,
+      "timeInRound": "0:41"
+    },
+    {
+      "date": "2018-08-04T00:00:00.000Z",
+      "opponent": "Daniel Kirby",
+      "opponentSlug": "177637-daniel-kirby",
+      "result": "win",
+      "method": "other",
+      "event": "Combat Night 95",
+      "eventSlug": "54810-combat-night-95",
+      "round": 3,
+      "timeInRound": "2:34"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:59:26.259Z"
+}

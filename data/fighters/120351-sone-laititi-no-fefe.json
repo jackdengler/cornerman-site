@@ -1,0 +1,66 @@
+{
+  "slug": "120351-sone-laititi-no-fefe",
+  "name": "Sone Laititi",
+  "nickname": "No Fefe",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/120351-sone-laititi-no-fefe",
+  "recentFights": [
+    {
+      "date": "2016-11-12T00:00:00.000Z",
+      "opponent": "Marcus Galloway",
+      "opponentSlug": "82633-marcus-galloway",
+      "result": "loss",
+      "method": "sub",
+      "event": "Reign Fighting 2",
+      "eventSlug": "42140-reign-fighting-2",
+      "round": 1,
+      "timeInRound": "1:26"
+    },
+    {
+      "date": "2016-08-27T00:00:00.000Z",
+      "opponent": "Cam Rowston",
+      "opponentSlug": "69262-cam-rowston",
+      "result": "loss",
+      "method": "other",
+      "event": "Urban Fight Night 8",
+      "eventSlug": "40413-urban-fight-night-8",
+      "round": 2,
+      "timeInRound": "2:06"
+    },
+    {
+      "date": "2016-03-12T00:00:00.000Z",
+      "opponent": "Keegan Richmond",
+      "opponentSlug": "108107-keegan-richmond",
+      "result": "win",
+      "method": "other",
+      "event": "Urban Fight Night 6",
+      "eventSlug": "37946-urban-fight-night-6",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-12-12T00:00:00.000Z",
+      "opponent": "Christopher Virgilii",
+      "opponentSlug": "120352-christopher-virgilii",
+      "result": "win",
+      "method": "other",
+      "event": "Urban Fight Night 5",
+      "eventSlug": "36913-urban-fight-night-5",
+      "round": 1,
+      "timeInRound": "0:13"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:17:42.558Z"
+}

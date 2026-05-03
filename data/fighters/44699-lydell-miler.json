@@ -1,0 +1,77 @@
+{
+  "slug": "44699-lydell-miler",
+  "name": "Lydell Miller",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/44699-lydell-miler",
+  "recentFights": [
+    {
+      "date": "2016-09-09T00:00:00.000Z",
+      "opponent": "John Melina",
+      "opponentSlug": "20128-john-melina",
+      "result": "win",
+      "method": "tko",
+      "event": "Fight Night At The Island",
+      "eventSlug": "41223-fight-night-at-the-island",
+      "round": 2,
+      "timeInRound": "4:52"
+    },
+    {
+      "date": "2013-03-23T00:00:00.000Z",
+      "opponent": "Tanner Walsh",
+      "opponentSlug": "39215-tanner-walsh",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Havoc at the High-Five",
+      "eventSlug": "17897-havoc-at-the-high-five",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-09-20T00:00:00.000Z",
+      "opponent": "Cameron Gilliam",
+      "opponentSlug": "21992-cameron-gilliam",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-10-28T00:00:00.000Z",
+      "opponent": "Peter Riojas",
+      "opponentSlug": "21993-peter-riojas",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-06-03T00:00:00.000Z",
+      "opponent": "John Castañeda",
+      "opponentSlug": "20125-john-castaneda",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:03:42.015Z"
+}

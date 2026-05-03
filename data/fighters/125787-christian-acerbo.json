@@ -1,0 +1,132 @@
+{
+  "slug": "125787-christian-acerbo",
+  "name": "Christian Acerbo",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/125787-christian-acerbo",
+  "recentFights": [
+    {
+      "date": "2023-04-22T00:00:00.000Z",
+      "opponent": "Adam Livingston",
+      "opponentSlug": "251326-adam-livingston",
+      "result": "loss",
+      "method": "tko",
+      "event": "Flex Fights",
+      "eventSlug": "99123-flex-fights-smack-to-the-future-vol-22",
+      "round": 1,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2022-07-16T00:00:00.000Z",
+      "opponent": "Stanley Senatus",
+      "opponentSlug": "319226-stanley-senatus",
+      "result": "loss",
+      "method": "tko",
+      "event": "Flex Fights",
+      "eventSlug": "91056-flex-fights-fight-festival",
+      "round": 1,
+      "timeInRound": "0:07"
+    },
+    {
+      "date": "2021-07-10T00:00:00.000Z",
+      "opponent": "Jonathan Bianco",
+      "opponentSlug": "121645-jonathan-bianco",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Flex Fights",
+      "eventSlug": "79984-flex-fights-combat-carnivale",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-08T00:00:00.000Z",
+      "opponent": "Damion Nelson",
+      "opponentSlug": "208044-damion-nelson",
+      "result": "loss",
+      "method": "tko",
+      "event": "Triton Fights 17",
+      "eventSlug": "65751-triton-fights-17",
+      "round": 2,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2019-08-02T00:00:00.000Z",
+      "opponent": "Tom Picciano",
+      "opponentSlug": "146942-thomas-picciano",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Triton Fights 14",
+      "eventSlug": "61118-triton-fights-14",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-14T00:00:00.000Z",
+      "opponent": "Ashiek Ajim",
+      "opponentSlug": "130569-ashiek-aiim",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Triton Fights 9",
+      "eventSlug": "54491-triton-fights-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-02T00:00:00.000Z",
+      "opponent": "Dennis Buzukja",
+      "opponentSlug": "131561-dennis-buzukia",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Triton Fights 5",
+      "eventSlug": "43328-triton-fights-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-19T00:00:00.000Z",
+      "opponent": "Beriz Grullon",
+      "opponentSlug": "140427-beriz-grullon",
+      "result": "win",
+      "method": "tko",
+      "event": "NYFE 12: Severe TrauMMA",
+      "eventSlug": "41874-nyfe-12-severe-traumma",
+      "round": 1,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2016-09-09T00:00:00.000Z",
+      "opponent": "Tyler Portelli",
+      "opponentSlug": "139649-tyler-portelli",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KTFO 15",
+      "eventSlug": "40575-ktfo-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-02-19T00:00:00.000Z",
+      "opponent": "Roan Allen",
+      "opponentSlug": "118971-roan-allen",
+      "result": "loss",
+      "method": "sub",
+      "event": "MMA Platinum Gloves 12",
+      "eventSlug": "37407-mma-platinum-gloves-12",
+      "round": 2,
+      "timeInRound": "2:27"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:56:25.769Z"
+}

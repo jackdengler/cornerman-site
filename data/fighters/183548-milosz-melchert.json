@@ -1,0 +1,176 @@
+{
+  "slug": "183548-milosz-melchert",
+  "name": "Miłosz Melchert",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 177,
+  "reachCm": 180,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1999-11-06",
+  "nationality": "Słupsk, Poland",
+  "url": "https://www.tapology.com/fightcenter/fighters/183548-milosz-melchert",
+  "recentFights": [
+    {
+      "date": "2024-03-10T00:00:00.000Z",
+      "opponent": "Marcelo Morelli",
+      "opponentSlug": "312492-marcelo-morrelli",
+      "result": "loss",
+      "method": "other",
+      "event": "Słupsk Fight Night",
+      "eventSlug": "111824-slupsk-fight-night",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-15T00:00:00.000Z",
+      "opponent": "Patryk Chrobak",
+      "opponentSlug": "162056-patryk-chrobak",
+      "result": "nc",
+      "method": "other",
+      "event": "KSW 84: De Fries vs. Bajor",
+      "eventSlug": "101937-ksw-84",
+      "round": 1,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2022-08-20T00:00:00.000Z",
+      "opponent": "Carl McNally",
+      "opponentSlug": "23351-carl-mcnally",
+      "result": "loss",
+      "method": "other",
+      "event": "KSW 73: Wrzosek vs. Sarara",
+      "eventSlug": "90418-ksw-73",
+      "round": 1,
+      "timeInRound": "4:19"
+    },
+    {
+      "date": "2022-06-10T00:00:00.000Z",
+      "opponent": "Grzegorz Rutkowski",
+      "opponentSlug": "246243-grzegorz-rutkowski",
+      "result": "win",
+      "method": "other",
+      "event": "Babilon MMA 29",
+      "eventSlug": "88943-babilon-mma-29-kacprzak-vs-zorczykowski",
+      "round": 3,
+      "timeInRound": "1:18"
+    },
+    {
+      "date": "2022-03-19T00:00:00.000Z",
+      "opponent": "Arkadiusz Skrzypkowski",
+      "opponentSlug": "229083-arkadiusz-skrzypkowski",
+      "result": "win",
+      "method": "other",
+      "event": "Amber Fight MMA 1",
+      "eventSlug": "87996-amber-fight-mma-1",
+      "round": 2,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2021-06-19T00:00:00.000Z",
+      "opponent": "Grzegorz Stabach",
+      "opponentSlug": "173658-grzegorz-stabach",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Runda 10: DWM Fight Night",
+      "eventSlug": "78350-runda-x-dwm-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-02-20T00:00:00.000Z",
+      "opponent": "Kamil Szkaradek",
+      "opponentSlug": "206916-kamil-szkaradek",
+      "result": "loss",
+      "method": "sub",
+      "event": "Octagon No Mercy 10",
+      "eventSlug": "77418-octagon-no-mercy-10-gold-edition",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-11-07T00:00:00.000Z",
+      "opponent": "Kacper Michałowski",
+      "opponentSlug": "208569-kacper-michalowski",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Exclusive Fight Night",
+      "eventSlug": "74101-exclusive-fight-night-sky-tattoo",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-08T00:00:00.000Z",
+      "opponent": "Kacper Matyszewski",
+      "opponentSlug": "229084-kacper-matyszewski",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Time of Masters 5",
+      "eventSlug": "66301-time-of-masters-5-gra-o-tron",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-08T00:00:00.000Z",
+      "opponent": "Kacper Tonga",
+      "opponentSlug": "369082-kacper-tonga",
+      "result": "win",
+      "method": "sub",
+      "event": "ALMMA 179",
+      "eventSlug": "92495-almma-179-mistrzostwa-europy-mma-2019",
+      "round": 1,
+      "timeInRound": "1:18"
+    },
+    {
+      "date": "2019-12-08T00:00:00.000Z",
+      "opponent": "Kamil Winiarczyk",
+      "opponentSlug": "241556-kamil-winiarczyk",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ALMMA 179",
+      "eventSlug": "92495-almma-179-mistrzostwa-europy-mma-2019",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-08T00:00:00.000Z",
+      "opponent": "Maciej Pietryka",
+      "opponentSlug": "162095-maciej-pietryka",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Carpathian Warriors 6",
+      "eventSlug": "60688-carpathian-warriors-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-17T00:00:00.000Z",
+      "opponent": "Oskar Radlak",
+      "opponentSlug": "183549-oskar-radlak",
+      "result": "win",
+      "method": "other",
+      "event": "ALMMA 145: Puchar Wielkopolski 2018",
+      "eventSlug": "51631-almma-145-puchar-wielkopolski-2018",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-17T00:00:00.000Z",
+      "opponent": "Kacper Leszczyński",
+      "opponentSlug": "172460-kacper-leszczyski",
+      "result": "win",
+      "method": "tko",
+      "event": "ALMMA 145: Puchar Wielkopolski 2018",
+      "eventSlug": "51631-almma-145-puchar-wielkopolski-2018",
+      "round": 1,
+      "timeInRound": "3:30"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:11:18.302Z"
+}

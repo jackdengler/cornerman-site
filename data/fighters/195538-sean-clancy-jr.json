@@ -1,0 +1,154 @@
+{
+  "slug": "195538-sean-clancy-jr",
+  "name": "Sean Clancy Jr.",
+  "nickname": "The One",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Scotland",
+  "url": "https://www.tapology.com/fightcenter/fighters/195538-sean-clancy-jr",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Justin Burlinson",
+      "opponentSlug": "72469-justin-burlinson",
+      "result": null,
+      "method": "other",
+      "event": "Cage Warriors 205",
+      "eventSlug": "138938-cage-warriors-205",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-12-06T00:00:00.000Z",
+      "opponent": "Melvin van Suijdam",
+      "opponentSlug": "34487-melvin-van-suijdam",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 199",
+      "eventSlug": "134063-cage-warriors-199",
+      "round": 2,
+      "timeInRound": "0:29"
+    },
+    {
+      "date": "2025-04-19T00:00:00.000Z",
+      "opponent": "Italo Gomes",
+      "opponentSlug": "141586-italo-gomes",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Warriors 187",
+      "eventSlug": "120832-cage-warriors-187",
+      "round": 2,
+      "timeInRound": "0:58"
+    },
+    {
+      "date": "2024-11-23T00:00:00.000Z",
+      "opponent": "Andrey Augusto",
+      "opponentSlug": "165096-andrey-augusto-mineiro",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 181",
+      "eventSlug": "114649-cage-warriors-181",
+      "round": 3,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2024-09-07T00:00:00.000Z",
+      "opponent": "Rafael Aronov",
+      "opponentSlug": "174309-rafi-aronov",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Warriors 176",
+      "eventSlug": "112909-cage-warriors",
+      "round": 1,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2024-04-20T00:00:00.000Z",
+      "opponent": "Lucas Rodrigues",
+      "opponentSlug": "113339-lucas-rodrigues-perizinho",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 171",
+      "eventSlug": "108293-cage-warriors-170",
+      "round": 2,
+      "timeInRound": "4:04"
+    },
+    {
+      "date": "2023-10-14T00:00:00.000Z",
+      "opponent": "Milton Afonso Cabral",
+      "opponentSlug": "287910-milton-afonso-cabral",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Warriors 161",
+      "eventSlug": "99935-cage-warriors-dublin",
+      "round": 1,
+      "timeInRound": "3:08"
+    },
+    {
+      "date": "2023-08-05T00:00:00.000Z",
+      "opponent": "Jack Comby",
+      "opponentSlug": "144890-jack-comby",
+      "result": "win",
+      "method": "other",
+      "event": "Unity Fighting Championship 4",
+      "eventSlug": "103326-unity-fighting-championship",
+      "round": 1,
+      "timeInRound": "3:19"
+    },
+    {
+      "date": "2023-04-29T00:00:00.000Z",
+      "opponent": "Ben Disson",
+      "opponentSlug": "385781-ben-disson",
+      "result": "win",
+      "method": "other",
+      "event": "Budo Fighting Championship 57",
+      "eventSlug": "100743-budo-fighting-championship-57",
+      "round": 1,
+      "timeInRound": "0:26"
+    },
+    {
+      "date": "2022-07-03T00:00:00.000Z",
+      "opponent": "Joe Ambler",
+      "opponentSlug": "229604-joe-ambler",
+      "result": "win",
+      "method": "sub",
+      "event": "Four Nations Championships",
+      "eventSlug": "90432-four-nations-championships-finals",
+      "round": 1,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2022-07-01T00:00:00.000Z",
+      "opponent": "Roan Crocker",
+      "opponentSlug": "190278-roan-crocker",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Four Nations Championships",
+      "eventSlug": "90430-emmaa-four-nations-championships-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-19T00:00:00.000Z",
+      "opponent": "Jamie Hayes",
+      "opponentSlug": "189723-jamie-hayes",
+      "result": "win",
+      "method": "sub",
+      "event": "Battle Arena Birmingham",
+      "eventSlug": "84123-battle-arena-birmingham",
+      "round": 1,
+      "timeInRound": "1:09"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:05:22.725Z"
+}

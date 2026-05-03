@@ -1,0 +1,88 @@
+{
+  "slug": "72011-fagner-rakchal",
+  "name": "Fagner Rakchal",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/72011-fagner-rakchal",
+  "recentFights": [
+    {
+      "date": "2017-08-27T00:00:00.000Z",
+      "opponent": "Rodolfo Vieira",
+      "opponentSlug": "148791-rodolfo-vieira-srour-the-black-belt-hunter",
+      "result": "loss",
+      "method": "sub",
+      "event": "Shooto Brasil 74",
+      "eventSlug": "47633-shooto-brasil-74",
+      "round": 3,
+      "timeInRound": "4:47"
+    },
+    {
+      "date": "2017-04-01T00:00:00.000Z",
+      "opponent": "Jailton Almeida",
+      "opponentSlug": "151690-jailton-junior-malhadinho",
+      "result": "loss",
+      "method": "other",
+      "event": "Fight On 4",
+      "eventSlug": "44465-fight-on-4",
+      "round": 2,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2014-12-19T00:00:00.000Z",
+      "opponent": "Marcelo Barbosa",
+      "opponentSlug": "66785-marcelo-barbosa-animal",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-06-06T00:00:00.000Z",
+      "opponent": "Raphael Caixeta",
+      "opponentSlug": "66790-rafael-caixeta",
+      "result": "win",
+      "method": "tko",
+      "event": "Brasil Fight 8",
+      "eventSlug": "24778-brasil-fight-8-360",
+      "round": 1,
+      "timeInRound": "0:48"
+    },
+    {
+      "date": "2013-12-19T00:00:00.000Z",
+      "opponent": "Will Pontes",
+      "opponentSlug": "72012-wilson-pontes",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-12-09T00:00:00.000Z",
+      "opponent": "Valdir Silva",
+      "opponentSlug": "12929-valdir-silva-dil-furacao",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:52:01.157Z"
+}

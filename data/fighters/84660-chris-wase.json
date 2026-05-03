@@ -1,0 +1,266 @@
+{
+  "slug": "84660-chris-wase",
+  "name": "Chris Wase",
+  "nickname": "The Warrior",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 5,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/84660-chris-wase",
+  "recentFights": [
+    {
+      "date": "2021-04-09T00:00:00.000Z",
+      "opponent": "Abdalla Biayda",
+      "opponentSlug": "202073-abdullah-eltigani",
+      "result": "loss",
+      "method": "other",
+      "event": "Hex Fight Series 21",
+      "eventSlug": "75164-hex-fight-series-21",
+      "round": 1,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2020-02-15T00:00:00.000Z",
+      "opponent": "Shaun Etchell",
+      "opponentSlug": "39474-shaun-etchell",
+      "result": "loss",
+      "method": "sub",
+      "event": "Legion 11",
+      "eventSlug": "68277-legion-11",
+      "round": 4,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-04T00:00:00.000Z",
+      "opponent": "Danial Williams",
+      "opponentSlug": "188495-danial-williams",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 48",
+      "eventSlug": "62409-eternal-mma-48",
+      "round": 2,
+      "timeInRound": "3:43"
+    },
+    {
+      "date": "2019-03-29T00:00:00.000Z",
+      "opponent": "Jeffrey Mesa",
+      "opponentSlug": "71953-jeff-mesa",
+      "result": "draw",
+      "method": "dec-majority",
+      "event": "Hex Fight Series 18",
+      "eventSlug": "58679-hex-fight-series-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-26T00:00:00.000Z",
+      "opponent": "Chakying Li",
+      "opponentSlug": "200080-chakying-li",
+      "result": "win",
+      "method": "other",
+      "event": "Hex Fight Series 17",
+      "eventSlug": "55464-hex-fight-series-17",
+      "round": 2,
+      "timeInRound": "2:05"
+    },
+    {
+      "date": "2017-04-14T00:00:00.000Z",
+      "opponent": "Long Xiao",
+      "opponentSlug": "130852-long-xiao",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Australian FC 18",
+      "eventSlug": "45041-australian-fc-18-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-15T00:00:00.000Z",
+      "opponent": "Shane Parker",
+      "opponentSlug": "83673-shane-parker",
+      "result": "win",
+      "method": "sub",
+      "event": "Australian FC 17",
+      "eventSlug": "41094-australian-fc-17",
+      "round": 2,
+      "timeInRound": "3:50"
+    },
+    {
+      "date": "2016-03-19T00:00:00.000Z",
+      "opponent": "Ivo Dos Santos",
+      "opponentSlug": "39437-ivo-dos-santos",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Australian FC 15",
+      "eventSlug": "37948-australian-fc-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-12T00:00:00.000Z",
+      "opponent": "Nikos Trepca",
+      "opponentSlug": "76782-nikos-trepca",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Australian FC 14",
+      "eventSlug": "34480-australian-fc-14",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-21T00:00:00.000Z",
+      "opponent": "DIllon Wolf",
+      "opponentSlug": "84654-dylan-wolf",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Australian FC 12",
+      "eventSlug": "29230-australian-fc-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-22T00:00:00.000Z",
+      "opponent": "Tim Zosh",
+      "opponentSlug": "42884-tim-zosh",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Australian FC 11",
+      "eventSlug": "26640-australian-fc-11",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "allFights": [
+    {
+      "date": "2021-04-09T00:00:00.000Z",
+      "opponent": "Abdalla Biayda",
+      "opponentSlug": "202073-abdullah-eltigani",
+      "result": "loss",
+      "method": "other",
+      "event": "Hex Fight Series 21",
+      "eventSlug": "75164-hex-fight-series-21",
+      "round": 1,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2020-02-15T00:00:00.000Z",
+      "opponent": "Shaun Etchell",
+      "opponentSlug": "39474-shaun-etchell",
+      "result": "loss",
+      "method": "sub",
+      "event": "Legion 11",
+      "eventSlug": "68277-legion-11",
+      "round": 4,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-04T00:00:00.000Z",
+      "opponent": "Danial Williams",
+      "opponentSlug": "188495-danial-williams",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 48",
+      "eventSlug": "62409-eternal-mma-48",
+      "round": 2,
+      "timeInRound": "3:43"
+    },
+    {
+      "date": "2019-03-29T00:00:00.000Z",
+      "opponent": "Jeffrey Mesa",
+      "opponentSlug": "71953-jeff-mesa",
+      "result": "draw",
+      "method": "dec-majority",
+      "event": "Hex Fight Series 18",
+      "eventSlug": "58679-hex-fight-series-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-26T00:00:00.000Z",
+      "opponent": "Chakying Li",
+      "opponentSlug": "200080-chakying-li",
+      "result": "win",
+      "method": "other",
+      "event": "Hex Fight Series 17",
+      "eventSlug": "55464-hex-fight-series-17",
+      "round": 2,
+      "timeInRound": "2:05"
+    },
+    {
+      "date": "2017-04-14T00:00:00.000Z",
+      "opponent": "Long Xiao",
+      "opponentSlug": "130852-long-xiao",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Australian FC 18",
+      "eventSlug": "45041-australian-fc-18-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-15T00:00:00.000Z",
+      "opponent": "Shane Parker",
+      "opponentSlug": "83673-shane-parker",
+      "result": "win",
+      "method": "sub",
+      "event": "Australian FC 17",
+      "eventSlug": "41094-australian-fc-17",
+      "round": 2,
+      "timeInRound": "3:50"
+    },
+    {
+      "date": "2016-03-19T00:00:00.000Z",
+      "opponent": "Ivo Dos Santos",
+      "opponentSlug": "39437-ivo-dos-santos",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Australian FC 15",
+      "eventSlug": "37948-australian-fc-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-12T00:00:00.000Z",
+      "opponent": "Nikos Trepca",
+      "opponentSlug": "76782-nikos-trepca",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Australian FC 14",
+      "eventSlug": "34480-australian-fc-14",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-21T00:00:00.000Z",
+      "opponent": "DIllon Wolf",
+      "opponentSlug": "84654-dylan-wolf",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Australian FC 12",
+      "eventSlug": "29230-australian-fc-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-22T00:00:00.000Z",
+      "opponent": "Tim Zosh",
+      "opponentSlug": "42884-tim-zosh",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Australian FC 11",
+      "eventSlug": "26640-australian-fc-11",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-05-03T10:16:57.236Z"
+}

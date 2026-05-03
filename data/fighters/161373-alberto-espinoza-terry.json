@@ -1,0 +1,55 @@
+{
+  "slug": "161373-alberto-espinoza-terry",
+  "name": "Alberto Espinoza",
+  "nickname": "Terry",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Mexico",
+  "url": "https://www.tapology.com/fightcenter/fighters/161373-alberto-espinoza-terry",
+  "recentFights": [
+    {
+      "date": "2018-08-25T00:00:00.000Z",
+      "opponent": "Alfrego Ruelas",
+      "opponentSlug": "195274-alfrego-ruelas-tarzan",
+      "result": "loss",
+      "method": "other",
+      "event": "Coliseo Gladiadores",
+      "eventSlug": "55170-coliseo-gladiadores-black-samuari",
+      "round": 1,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2018-07-13T00:00:00.000Z",
+      "opponent": "Junior Melo",
+      "opponentSlug": "121289-jose-cleiton-de-melo-junior-melo",
+      "result": "loss",
+      "method": "sub",
+      "event": "Roca Fighting League 1",
+      "eventSlug": "54205-roca-fighting-league-1",
+      "round": 1,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2017-07-08T00:00:00.000Z",
+      "opponent": "Joel Cruz",
+      "opponentSlug": "161374-joel-cruz-pelon",
+      "result": "win",
+      "method": "sub",
+      "event": "Cloroformo Total 3",
+      "eventSlug": "46797-cloroformo-total-3",
+      "round": 2,
+      "timeInRound": "4:50"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:38:18.815Z"
+}

@@ -1,0 +1,165 @@
+{
+  "slug": "345357-kallum-parker",
+  "name": "Kallum Parker",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "2000-04-07",
+  "nationality": "United Kingdom",
+  "url": "https://www.tapology.com/fightcenter/fighters/345357-kallum-parker",
+  "recentFights": [
+    {
+      "date": "2026-05-01T00:00:00.000Z",
+      "opponent": "Emre Han Hekimoglu",
+      "opponentSlug": "260240-emre-han-hekimoglu",
+      "result": null,
+      "method": "other",
+      "event": "Eternal MMA 105",
+      "eventSlug": "140911-eternal-mma-105",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-02-21T00:00:00.000Z",
+      "opponent": "Artemios Trepca",
+      "opponentSlug": "362314-artemios-trepca-arte",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 103",
+      "eventSlug": "138397-eternal-mma-103",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-11T00:00:00.000Z",
+      "opponent": "Emmanuel Ritti",
+      "opponentSlug": "283708-emmanuel-ritti",
+      "result": "win",
+      "method": "tko",
+      "event": "Eternal MMA 99",
+      "eventSlug": "132090-eternal-mma-99",
+      "round": 1,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2024-09-07T00:00:00.000Z",
+      "opponent": "Damon Donald",
+      "opponentSlug": "132978-damon-donald",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 176",
+      "eventSlug": "112909-cage-warriors",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-07-25T00:00:00.000Z",
+      "opponent": "Jack Claffey",
+      "opponentSlug": "122374-jack-claffey",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 175",
+      "eventSlug": "114645-cage-warriors",
+      "round": 1,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2024-04-06T00:00:00.000Z",
+      "opponent": "Ryan Shelley",
+      "opponentSlug": "218431-ryan-shelley",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 170",
+      "eventSlug": "108294-cage-warriors-170",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-29T00:00:00.000Z",
+      "opponent": "Radek Roušal",
+      "opponentSlug": "279961-radek-rousal-ruchy",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 51",
+      "eventSlug": "105224-oktagon-51",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-02T00:00:00.000Z",
+      "opponent": "Tsvetomir Todorov",
+      "opponentSlug": "229250-tsvetomir-todorov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Urijah Faber's A1 Combat 14",
+      "eventSlug": "101792-urijah-faber-s-a1-combat-14",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-04-15T00:00:00.000Z",
+      "opponent": "Luke Riley",
+      "opponentSlug": "243621-luke-riley",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 152",
+      "eventSlug": "97498-cage-warriors-152-manchester",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-10-22T00:00:00.000Z",
+      "opponent": "Matt Hampton",
+      "opponentSlug": "174818-matt-hampton",
+      "result": "nc",
+      "method": "other",
+      "event": "Urijah Faber's A1 Combat 6",
+      "eventSlug": "91506-urijah-faber-s-a1-combat-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-05T00:00:00.000Z",
+      "opponent": "Ashton Kirby",
+      "opponentSlug": "163334-ashton-kirby",
+      "result": "win",
+      "method": "dec-split",
+      "event": "LFA 138: Farias vs. Tanaka",
+      "eventSlug": "90629-lfa-138-farias-vs-tanaka",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-27T00:00:00.000Z",
+      "opponent": "Eduardo Cardiel",
+      "opponentSlug": "213560-eduardo-cardiel",
+      "result": "win",
+      "method": "other",
+      "event": "UWC 34",
+      "eventSlug": "89603-uwc-34",
+      "round": 1,
+      "timeInRound": "0:27"
+    },
+    {
+      "date": "2018-11-17T00:00:00.000Z",
+      "opponent": "Giorgio Fusco",
+      "opponentSlug": "201647-giorgio-fusco",
+      "result": "win",
+      "method": "sub",
+      "event": "Battle Arena 52",
+      "eventSlug": "54745-battle-arena-52",
+      "round": 1,
+      "timeInRound": "1:32"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:04:55.280Z"
+}

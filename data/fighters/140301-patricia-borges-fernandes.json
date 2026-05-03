@@ -1,0 +1,143 @@
+{
+  "slug": "140301-patricia-borges-fernandes",
+  "name": "Patricia Borges",
+  "nickname": "Paty",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 162,
+  "reachCm": 165,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1983-03-27",
+  "nationality": "Sertaozinho, Sao Paulo, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/140301-patricia-borges-fernandes",
+  "recentFights": [
+    {
+      "date": "2022-06-04T00:00:00.000Z",
+      "opponent": "Waleska Sousa",
+      "opponentSlug": "210042-waleska-karolaine",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "SFT 35: Marajó vs. Manchinha",
+      "eventSlug": "87390-sft-35",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-27T00:00:00.000Z",
+      "opponent": "Dakota Ditcheva",
+      "opponentSlug": "216494-dakota-ditcheva",
+      "result": "loss",
+      "method": "tko",
+      "event": "UK Fighting Championships 17",
+      "eventSlug": "81624-uk-fighting-championships-16",
+      "round": 1,
+      "timeInRound": "3:38"
+    },
+    {
+      "date": "2021-07-15T00:00:00.000Z",
+      "opponent": "Mayra Cantuária",
+      "opponentSlug": "106369-mayra-rodrigues",
+      "result": "loss",
+      "method": "tko",
+      "event": "SFT 27: Bispo vs. Sousa",
+      "eventSlug": "79491-sft-27",
+      "round": 1,
+      "timeInRound": "3:27"
+    },
+    {
+      "date": "2019-11-30T00:00:00.000Z",
+      "opponent": "Andreina Reis",
+      "opponentSlug": "127966-andreia-repolho-china-muay-thai",
+      "result": "win",
+      "method": "sub",
+      "event": "SFT 18",
+      "eventSlug": "64040-sft-18",
+      "round": 1,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2019-04-27T00:00:00.000Z",
+      "opponent": "Beatriz Santos",
+      "opponentSlug": "199370-beatriz-santos-bia-arlequina",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "SFT 11",
+      "eventSlug": "60216-sft-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-01-19T00:00:00.000Z",
+      "opponent": "Fernanda Barbosa",
+      "opponentSlug": "158853-fernanda-barbosa",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "SFT 9",
+      "eventSlug": "57907-sft-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-24T00:00:00.000Z",
+      "opponent": "Cláudia Leite",
+      "opponentSlug": "202287-claudia-leite",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "SFT 7",
+      "eventSlug": "56713-sft-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-30T00:00:00.000Z",
+      "opponent": "Thalyta Silva",
+      "opponentSlug": "358773-thalyta-silva",
+      "result": "loss",
+      "method": "sub",
+      "event": "Jungle Fight 92",
+      "eventSlug": "47988-jungle-fight-92",
+      "round": 1,
+      "timeInRound": "2:46"
+    },
+    {
+      "date": "2017-07-15T00:00:00.000Z",
+      "opponent": "Norma Dumont",
+      "opponentSlug": "139271-norma-dumont-viana",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Jungle Fight 91",
+      "eventSlug": "46740-jungle-fight-91",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-02T00:00:00.000Z",
+      "opponent": "Erica Leidyanni",
+      "opponentSlug": "140302-erica-leidyanni",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Pocos Fight 5",
+      "eventSlug": "41841-pocos-fight-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-12-05T00:00:00.000Z",
+      "opponent": "Suellen Ferreira",
+      "opponentSlug": "58438-suellen-ferreira",
+      "result": "win",
+      "method": "sub",
+      "event": "Pocos Fight 4",
+      "eventSlug": "41843-pocos-fight-4",
+      "round": 1,
+      "timeInRound": "1:12"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:33:38.747Z"
+}

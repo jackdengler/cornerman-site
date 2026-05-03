@@ -1,0 +1,154 @@
+{
+  "slug": "162087-tobiasz-le",
+  "name": "Tobiasz Le",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 177,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1994-09-14",
+  "nationality": "Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/162087-tobiasz-le",
+  "recentFights": [
+    {
+      "date": "2026-04-18T00:00:00.000Z",
+      "opponent": "Sebastian Decowski",
+      "opponentSlug": "170921-sebastian-decowski",
+      "result": null,
+      "method": "other",
+      "event": "KSW 117: Pawlak vs. Khalidov",
+      "eventSlug": "140146-ksw-117-de-fries-vs-wojcik",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-18T00:00:00.000Z",
+      "opponent": "Alfan Rocher-Labes",
+      "opponentSlug": "171526-alfan-rocher-labes",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KSW 111: De Fries vs. Vojčák",
+      "eventSlug": "124802-xtb-ksw-111",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-10-19T00:00:00.000Z",
+      "opponent": "Matěj Val",
+      "opponentSlug": "217634-matej-val",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 99: Martínek vs. Vojčák",
+      "eventSlug": "116516-ksw-99",
+      "round": 1,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2024-02-17T00:00:00.000Z",
+      "opponent": "Mariusz Joniak",
+      "opponentSlug": "143123-mariusz-joniak",
+      "result": "loss",
+      "method": "other",
+      "event": "KSW 91: Mircea vs. Brichta",
+      "eventSlug": "106206-ksw-91",
+      "round": 1,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2023-10-14T00:00:00.000Z",
+      "opponent": "Carl McNally",
+      "opponentSlug": "23351-carl-mcnally",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 87: Martínek vs. Stošić",
+      "eventSlug": "104170-ksw-87-stosic-vs-martinek",
+      "round": 3,
+      "timeInRound": "2:52"
+    },
+    {
+      "date": "2023-05-13T00:00:00.000Z",
+      "opponent": "Daniel Ljaško",
+      "opponentSlug": "163223-daniel-ljasko",
+      "result": "win",
+      "method": "other",
+      "event": "RFA 10",
+      "eventSlug": "99135-rfa-10",
+      "round": 1,
+      "timeInRound": "1:19"
+    },
+    {
+      "date": "2023-02-04T00:00:00.000Z",
+      "opponent": "Marko Bakhit",
+      "opponentSlug": "372188-marko-bakhit",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "RFA 8",
+      "eventSlug": "96646-rfa-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-12T00:00:00.000Z",
+      "opponent": "Eldor Kurbonboev",
+      "opponentSlug": "358835-eldor-kurbonboev",
+      "result": "win",
+      "method": "other",
+      "event": "RFA 6",
+      "eventSlug": "92599-rfa-6",
+      "round": 3,
+      "timeInRound": "1:55"
+    },
+    {
+      "date": "2022-06-03T00:00:00.000Z",
+      "opponent": "Bartosz Stawinoga",
+      "opponentSlug": "298958-bartosz-stawinoga",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Babilon MMA 28",
+      "eventSlug": "88684-babilon-mma-28",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-01-25T00:00:00.000Z",
+      "opponent": "Vladislav Dubkov",
+      "opponentSlug": "141465-vladislav-dubkov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "IMMAF",
+      "eventSlug": "86213-immaf-2021-world-senior-championships-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-01-24T00:00:00.000Z",
+      "opponent": "Alexander Lew",
+      "opponentSlug": "136582-alexander-lew",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMMAF",
+      "eventSlug": "86211-immaf-2021-world-senior-championships-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-17T00:00:00.000Z",
+      "opponent": "Amirhamza Islamov",
+      "opponentSlug": "306280-amirhamza-islamov",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "IMMAF",
+      "eventSlug": "75099-immaf-european-open-senior-and-junior-championships-day",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:03:27.356Z"
+}

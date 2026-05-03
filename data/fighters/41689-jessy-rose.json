@@ -1,0 +1,253 @@
+{
+  "slug": "41689-jessy-rose",
+  "name": "Jessica-Rose Clark",
+  "nickname": "Jessy Jess",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 9,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": 170,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1987-11-28",
+  "nationality": "Innisfail, Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/41689-jessy-rose",
+  "recentFights": [
+    {
+      "date": "2023-05-13T00:00:00.000Z",
+      "opponent": "Tainara Lisboa",
+      "opponentSlug": "139270-tainara-lisboa",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC on ABC 4",
+      "eventSlug": "98223-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "4:20"
+    },
+    {
+      "date": "2022-07-02T00:00:00.000Z",
+      "opponent": "Julija Stoliarenko",
+      "opponentSlug": "54390-julia-stoliarenko",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC 276: Adesanya vs. Cannonier",
+      "eventSlug": "87604-ufc-276",
+      "round": 1,
+      "timeInRound": "0:42"
+    },
+    {
+      "date": "2022-02-19T00:00:00.000Z",
+      "opponent": "Stephanie Egger",
+      "opponentSlug": "114098-stephanie-egger",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "83406-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "3:44"
+    },
+    {
+      "date": "2021-10-23T00:00:00.000Z",
+      "opponent": "Joselyne Edwards",
+      "opponentSlug": "98366-yoselin-edwards",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "81267-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-19T00:00:00.000Z",
+      "opponent": "Sarah Simmons",
+      "opponentSlug": "19950-sarah-alpar-too-sweet",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "70810-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "4:21"
+    },
+    {
+      "date": "2019-11-09T00:00:00.000Z",
+      "opponent": "Pannie Kianzad",
+      "opponentSlug": "36969-pannie-kianzad",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC on ESPN+ 21",
+      "eventSlug": "61626-ufc-on-espn-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-23T00:00:00.000Z",
+      "opponent": "Jessica Eye",
+      "opponentSlug": "14208-jessica-eye",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night 132",
+      "eventSlug": "51323-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-01-14T00:00:00.000Z",
+      "opponent": "Paige VanZant",
+      "opponentSlug": "29691-paige-vanzant",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night 124",
+      "eventSlug": "48676-ufc",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-18T00:00:00.000Z",
+      "opponent": "Bec Rawlings",
+      "opponentSlug": "25143-bec-hyatt-rowdy",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night 121",
+      "eventSlug": "46847-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-18T00:00:00.000Z",
+      "opponent": "Carina Damm",
+      "opponentSlug": "carina-damm-beauty-but-the-beast",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Titan FC 45",
+      "eventSlug": "47023-titan-fc-45-araujo-vs-capitulino",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-18T00:00:00.000Z",
+      "opponent": "Sarah Kaufman",
+      "opponentSlug": "sarah-kaufman",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Battlefield Fighting Championships",
+      "eventSlug": "44277-battlefield-fighting-championships",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-18T00:00:00.000Z",
+      "opponent": "Pam Sorenson",
+      "opponentSlug": "60007-pam-sorenson-bam",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Invicta FC 20",
+      "eventSlug": "42159-invicta-fc-20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-30T00:00:00.000Z",
+      "opponent": "Janay Harding",
+      "opponentSlug": "67815-janay-harding",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 19",
+      "eventSlug": "40287-eternal-mma-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-23T00:00:00.000Z",
+      "opponent": "Raika Emiko",
+      "opponentSlug": "78985-raika-emiko-fujin",
+      "result": "nc",
+      "method": "other",
+      "event": "TTF CHALLENGE 05",
+      "eventSlug": "35597-ttf-challenge-05",
+      "round": 3,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2015-07-09T00:00:00.000Z",
+      "opponent": "Pannie Kianzad",
+      "opponentSlug": "36969-pannie-kianzad",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 13",
+      "eventSlug": "30742-invicta-fc-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-07-26T00:00:00.000Z",
+      "opponent": "Rhiannon Thompson",
+      "opponentSlug": "25233-rhiannon-thompson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Roshambo MMA 3",
+      "eventSlug": "23956-roshambo-mma-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-06-14T00:00:00.000Z",
+      "opponent": "Kate Da Silva",
+      "opponentSlug": "52899-kate-da-silva-jiu-jitseira",
+      "result": "win",
+      "method": "tko",
+      "event": "XFC Australia 21",
+      "eventSlug": "23592-xfc-australia-21",
+      "round": 2,
+      "timeInRound": "4:07"
+    },
+    {
+      "date": "2014-02-08T00:00:00.000Z",
+      "opponent": "Zoie Shreiweis",
+      "opponentSlug": "58668-zoie-shreiweis",
+      "result": "win",
+      "method": "sub",
+      "event": "UCU 2",
+      "eventSlug": "23591-ucu-2",
+      "round": 1,
+      "timeInRound": "3:33"
+    },
+    {
+      "date": "2013-11-16T00:00:00.000Z",
+      "opponent": "Kyra Purcell",
+      "opponentSlug": "31716-kyra-purcell",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fightworld Cup 16",
+      "eventSlug": "21027-fightworld-cup-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-07-13T00:00:00.000Z",
+      "opponent": "Arlene Blencowe",
+      "opponentSlug": "46970-arlene-blencowe-angerfist",
+      "result": "win",
+      "method": "sub",
+      "event": "Nitro MMA 9",
+      "eventSlug": "18774-nitro-mma-9",
+      "round": 2,
+      "timeInRound": "3:38"
+    },
+    {
+      "date": "2012-12-21T00:00:00.000Z",
+      "opponent": "Mae-Lin Leow",
+      "opponentSlug": "31699-mae-lin-leow",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:33:51.960Z"
+}

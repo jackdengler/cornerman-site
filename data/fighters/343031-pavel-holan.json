@@ -1,0 +1,114 @@
+{
+  "slug": "343031-pavel-holan",
+  "name": "Pavel Holáň",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 5,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "2003-03-20",
+  "nationality": "Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/343031-pavel-holan",
+  "recentFights": [
+    {
+      "date": "2024-04-06T00:00:00.000Z",
+      "opponent": "Mário Brezovský",
+      "opponentSlug": "222517-mario-brezovsky",
+      "result": "loss",
+      "method": "other",
+      "event": "Way of Warrior 12",
+      "eventSlug": "110735-way-of-warrior-12",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-15T00:00:00.000Z",
+      "opponent": "Vladimír Lacko",
+      "opponentSlug": "364998-vlado-lacko",
+      "result": "win",
+      "method": "dec-split",
+      "event": "SOMMA: European Championship 2024",
+      "eventSlug": "110724-european-championship-2024",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-15T00:00:00.000Z",
+      "opponent": "Ondřej Kuncl",
+      "opponentSlug": "149622-ondrej-kuncl",
+      "result": "loss",
+      "method": "other",
+      "event": "SOMMA: European Championship 2024",
+      "eventSlug": "110724-european-championship-2024",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-15T00:00:00.000Z",
+      "opponent": "Matus Harant",
+      "opponentSlug": "351386-matus-harant",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "SOMMA: European Championship 2024",
+      "eventSlug": "110724-european-championship-2024",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-26T00:00:00.000Z",
+      "opponent": "Milan Bachor",
+      "opponentSlug": "362734-milan-bachor",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bitva o Frydlant X",
+      "eventSlug": "95255-bitva-o-frydlant-x-galavecer-bojovych-sportu",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-07T00:00:00.000Z",
+      "opponent": "Filip Janík",
+      "opponentSlug": "343032-filip-janik",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Way of Warrior 8",
+      "eventSlug": "90134-way-of-warrior-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-18T00:00:00.000Z",
+      "opponent": "Alex Hutyra",
+      "opponentSlug": "347893-alex-hutyra",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-13T00:00:00.000Z",
+      "opponent": "Filip Řehák",
+      "opponentSlug": "347350-filip-rehak",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Way of Warrior 7",
+      "eventSlug": "92042-way-of-warrior-7",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:57:37.931Z"
+}

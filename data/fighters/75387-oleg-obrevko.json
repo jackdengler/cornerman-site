@@ -1,0 +1,88 @@
+{
+  "slug": "75387-oleg-obrevko",
+  "name": "Oleg Obrevko",
+  "nickname": "Monte Christo",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1990-01-12",
+  "nationality": "Ukraine",
+  "url": "https://www.tapology.com/fightcenter/fighters/75387-oleg-obrevko",
+  "recentFights": [
+    {
+      "date": "2018-08-04T00:00:00.000Z",
+      "opponent": "Nurzhigit Karaev",
+      "opponentSlug": "182047-nurzhigit-karaev",
+      "result": "win",
+      "method": "sub",
+      "event": "MMA Pro Ukraine 18",
+      "eventSlug": "54585-mma-pro-ukraine-18-the-way-of-the-unconquered-4",
+      "round": 1,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2015-10-31T00:00:00.000Z",
+      "opponent": "László Soltész",
+      "opponentSlug": "18976-laszlo-soltesz",
+      "result": "win",
+      "method": "other",
+      "event": "HFC 11",
+      "eventSlug": "33346-hfc-11",
+      "round": 1,
+      "timeInRound": "1:24"
+    },
+    {
+      "date": "2014-08-09T00:00:00.000Z",
+      "opponent": "Mateusz Rębecki",
+      "opponentSlug": "65128-mateusz-rbecki-chiczyk",
+      "result": "loss",
+      "method": "sub",
+      "event": "MGSWM 3: Polska vs. Ukraina",
+      "eventSlug": "25574-mgswm-3",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2013-06-29T00:00:00.000Z",
+      "opponent": "Taras Pikhunyk",
+      "opponentSlug": "38091-taras-pihynuk",
+      "result": "loss",
+      "method": "sub",
+      "event": "Oplot Challenge 71",
+      "eventSlug": "23206-oplot-challenge-71-cup-of-ukraine-2013-stage-7",
+      "round": 2,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2013-05-11T00:00:00.000Z",
+      "opponent": "Georgiy Nikiforets",
+      "opponentSlug": "11476-georgiy-nikiforets-gryts",
+      "result": "win",
+      "method": "other",
+      "event": "Oplot Challenge 57",
+      "eventSlug": "23663-oplot-challenge-57-cup-of-ukraine-2013-stage-4",
+      "round": 1,
+      "timeInRound": "4:50"
+    },
+    {
+      "date": "2013-04-13T00:00:00.000Z",
+      "opponent": "Dmitriy Netkachev",
+      "opponentSlug": "75648-dmitriy-netkachev-the-texas-ranger",
+      "result": "win",
+      "method": "sub",
+      "event": "Oplot Challenge 51",
+      "eventSlug": "24019-oplot-challenge-51-cup-of-ukraine-2013-stage-2",
+      "round": 1,
+      "timeInRound": "1:12"
+    }
+  ],
+  "lastVerified": "2026-04-25T23:05:48.419Z"
+}

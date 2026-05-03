@@ -1,0 +1,209 @@
+{
+  "slug": "180974-alex-oliveira-malandrinho",
+  "name": "Alex Oliveira",
+  "nickname": "Malandrinho",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1994-07-05",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/180974-alex-oliveira-malandrinho",
+  "recentFights": [
+    {
+      "date": "2025-10-04T00:00:00.000Z",
+      "opponent": "Ramazan Gairbekov",
+      "opponentSlug": "256936-ramazan-gairbekov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "NWPA 10",
+      "eventSlug": "135013-nwpa-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-29T00:00:00.000Z",
+      "opponent": "Diego Araújo",
+      "opponentSlug": "138677-diego-thai",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Autazes Fight Fest 3",
+      "eventSlug": "126597-autazes-fight-fest-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-07-06T00:00:00.000Z",
+      "opponent": "Antônio César",
+      "opponentSlug": "317376-antonio-cesar-the-flash",
+      "result": "loss",
+      "method": "other",
+      "event": "Mr. Cage 50",
+      "eventSlug": "114364-mr-cage-50",
+      "round": 1,
+      "timeInRound": "3:08"
+    },
+    {
+      "date": "2023-03-26T00:00:00.000Z",
+      "opponent": "Aldrio Kenpes",
+      "opponentSlug": "92783-aldrio-albert",
+      "result": "win",
+      "method": "other",
+      "event": "Jungle Fight 114",
+      "eventSlug": "99214-jungle-fight-114",
+      "round": 1,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2022-08-27T00:00:00.000Z",
+      "opponent": "Matheus Kaique",
+      "opponentSlug": "350312-matheus-kaique",
+      "result": "win",
+      "method": "tko",
+      "event": "Nak Su Combat 17",
+      "eventSlug": "92723-nak-su-combat-17",
+      "round": 1,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2022-07-02T00:00:00.000Z",
+      "opponent": "Celso Moreira",
+      "opponentSlug": "319236-celso-moreira-thor",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Leonardo Almeida 13",
+      "eventSlug": "91923-leonardo-almeida-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-29T00:00:00.000Z",
+      "opponent": "Emanuel Nery",
+      "opponentSlug": "206196-emanuel-nery-esquentadinho",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Mega Fight Champions 5",
+      "eventSlug": "83050-mega-fight-champions-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-04T00:00:00.000Z",
+      "opponent": "Railson Paixão",
+      "opponentSlug": "180662-railson-paixo",
+      "result": "loss",
+      "method": "sub",
+      "event": "Mr. Cage 42",
+      "eventSlug": "72381-mr-cage-42",
+      "round": 1,
+      "timeInRound": "3:53"
+    },
+    {
+      "date": "2019-06-08T00:00:00.000Z",
+      "opponent": "Mateus da Silva",
+      "opponentSlug": "199396-mateus-da-silva",
+      "result": "win",
+      "method": "sub",
+      "event": "Nak Su Combat 8",
+      "eventSlug": "60973-nak-su-combat-8",
+      "round": 1,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2019-04-20T00:00:00.000Z",
+      "opponent": "Raimundo Teixeira",
+      "opponentSlug": "186056-raimundo-teixeira-cara-metade",
+      "result": "win",
+      "method": "other",
+      "event": "Santos Warrior Combat 1",
+      "eventSlug": "60109-santos-warrior-combat-1",
+      "round": 1,
+      "timeInRound": "4:25"
+    },
+    {
+      "date": "2019-04-13T00:00:00.000Z",
+      "opponent": "Lucas Rocha",
+      "opponentSlug": "192343-lucas-rocha-fenomeno",
+      "result": "loss",
+      "method": "tko",
+      "event": "Coari Champions 2",
+      "eventSlug": "59334-coari-champions-2",
+      "round": 1,
+      "timeInRound": "3:29"
+    },
+    {
+      "date": "2019-01-26T00:00:00.000Z",
+      "opponent": "Otaniran Matos",
+      "opponentSlug": "167564-otaniran-matos",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-01T00:00:00.000Z",
+      "opponent": "Felipe Mendes",
+      "opponentSlug": "223123-felipe-mendes-pitbull",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-31T00:00:00.000Z",
+      "opponent": "Fabio Lima",
+      "opponentSlug": "184020-fabio-lima",
+      "result": "win",
+      "method": "sub",
+      "event": "MFC 1",
+      "eventSlug": "52096-mfc-1",
+      "round": 2,
+      "timeInRound": "3:53"
+    },
+    {
+      "date": "2018-03-17T00:00:00.000Z",
+      "opponent": "Thiago de Souza",
+      "opponentSlug": "182908-thiago-de-souza-amazonas",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-06T00:00:00.000Z",
+      "opponent": "Diego Araújo",
+      "opponentSlug": "138677-diego-thai",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-12-20T00:00:00.000Z",
+      "opponent": "Josiney Oliveira",
+      "opponentSlug": "405896-josiney-oliveira",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:56:17.478Z"
+}

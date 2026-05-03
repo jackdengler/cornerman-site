@@ -1,0 +1,121 @@
+{
+  "slug": "20759-patrick-manicad",
+  "name": "Patrick Manicad",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 186,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Philippines",
+  "url": "https://www.tapology.com/fightcenter/fighters/20759-patrick-manicad",
+  "recentFights": [
+    {
+      "date": "2022-12-27T00:00:00.000Z",
+      "opponent": "Benjie Tabaranza",
+      "opponentSlug": "134749-benjie-tabaranza",
+      "result": "loss",
+      "method": "other",
+      "event": "SAFC 62: Labdos Championship",
+      "eventSlug": "102731-safc-62",
+      "round": 2,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2017-10-28T00:00:00.000Z",
+      "opponent": "German Beryozkin",
+      "opponentSlug": "103674-herman-beryozkin",
+      "result": "loss",
+      "method": "other",
+      "event": "MFP 211: Pacific Frontier",
+      "eventSlug": "48497-mfp-211-pacific-frontier",
+      "round": 1,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2017-01-28T00:00:00.000Z",
+      "opponent": "Reydon Romero",
+      "opponentSlug": "20225-reydon-romero-the-filipino-bolo-punch",
+      "result": "loss",
+      "method": "sub",
+      "event": "URCC Bets 1",
+      "eventSlug": "43426-urcc",
+      "round": 2,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2016-01-22T00:00:00.000Z",
+      "opponent": "Michal Vostry",
+      "opponentSlug": "37706-michal-vostry",
+      "result": "loss",
+      "method": "other",
+      "event": "UGB MMA Championship 13",
+      "eventSlug": "37732-ugb-mma-championship-13-foreign-invasion",
+      "round": 1,
+      "timeInRound": "0:41"
+    },
+    {
+      "date": "2015-09-25T00:00:00.000Z",
+      "opponent": "Will Chope",
+      "opponentSlug": "16337-will-chope-the-kill",
+      "result": "loss",
+      "method": "sub",
+      "event": "URCC: Dutdutan 15",
+      "eventSlug": "35725-urcc-dutdutan-xv",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-23T00:00:00.000Z",
+      "opponent": "Kier Biron",
+      "opponentSlug": "121946-kier-biron",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-11-17T00:00:00.000Z",
+      "opponent": "Zebaztian Kadestam",
+      "opponentSlug": "19640-zebaztian-kadestam",
+      "result": "loss",
+      "method": "sub",
+      "event": "PXC 34",
+      "eventSlug": "16327-pxc-34",
+      "round": 1,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2011-11-05T00:00:00.000Z",
+      "opponent": "Honorio Banario",
+      "opponentSlug": "20758-honorio-banario-the-rock",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-08-30T00:00:00.000Z",
+      "opponent": "Jaypee Espinosa",
+      "opponentSlug": "79047-jaypee-espinosa",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "PXC Laban MMA",
+      "eventSlug": "26056-pxc-laban-mma",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:04:35.361Z"
+}

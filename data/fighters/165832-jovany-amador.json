@@ -1,0 +1,44 @@
+{
+  "slug": "165832-jovany-amador",
+  "name": "Jovany Amador",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Mexico",
+  "url": "https://www.tapology.com/fightcenter/fighters/165832-jovany-amador",
+  "recentFights": [
+    {
+      "date": "2016-12-03T00:00:00.000Z",
+      "opponent": "Rafa García",
+      "opponentSlug": "105452-rafael-garcia-gifted",
+      "result": "loss",
+      "method": "sub",
+      "event": "WCF 8",
+      "eventSlug": "44925-wcf-8",
+      "round": 1,
+      "timeInRound": "3:21"
+    },
+    {
+      "date": "2013-03-16T00:00:00.000Z",
+      "opponent": "Cristian Amaya",
+      "opponentSlug": "80041-cristian-amaya",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:34:57.718Z"
+}

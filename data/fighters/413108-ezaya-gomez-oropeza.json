@@ -1,0 +1,110 @@
+{
+  "slug": "413108-ezaya-gomez-oropeza",
+  "name": "Ezayah Gomez",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "2001-03-26",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/413108-ezaya-gomez-oropeza",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Lorenzo Figueroa",
+      "opponentSlug": "316599-lorenzo-figueroa",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 231: Lozej vs. Ibarra",
+      "eventSlug": "140675-lfa-231-trembley-vs-johns",
+      "round": 1,
+      "timeInRound": "1:46"
+    },
+    {
+      "date": "2026-01-16T00:00:00.000Z",
+      "opponent": "Braden Peterson",
+      "opponentSlug": "460570-braden-peterson",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 224: Adams vs Bilalov",
+      "eventSlug": "137873-legacy-fighting-alliance-224-lfa-224",
+      "round": 1,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2025-09-12T00:00:00.000Z",
+      "opponent": "Adam Poulin",
+      "opponentSlug": "342208-adam-poulin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 217: McKee vs. Nobre",
+      "eventSlug": "130821-lfa-217",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-04-11T00:00:00.000Z",
+      "opponent": "Christian Porter",
+      "opponentSlug": "226482-christian-porter",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 206: Gennrich vs. Lebosnoyani",
+      "eventSlug": "124520-lfa-206",
+      "round": 2,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2024-11-30T00:00:00.000Z",
+      "opponent": "DeShai Finzen",
+      "opponentSlug": "207316-deshai-finzen",
+      "result": "win",
+      "method": "other",
+      "event": "North Iowa Fights 20",
+      "eventSlug": "117150-north-iowa-fights-20",
+      "round": 1,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2024-09-20T00:00:00.000Z",
+      "opponent": "Conor Hoy",
+      "opponentSlug": "328436-conor-hoy",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 193: Bowers vs. Borisova",
+      "eventSlug": "115812-lfa-193",
+      "round": 1,
+      "timeInRound": "2:05"
+    },
+    {
+      "date": "2024-01-12T00:00:00.000Z",
+      "opponent": "Jesse Midas",
+      "opponentSlug": "385263-jesse-midas",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 174: Jones vs. Gennrich",
+      "eventSlug": "108251-lfa-174-jones-vs-gennrich",
+      "round": 1,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2023-11-11T00:00:00.000Z",
+      "opponent": "Joseph Ndubuisi",
+      "opponentSlug": "311829-joseph-ndubuasi",
+      "result": "win",
+      "method": "other",
+      "event": "Mecca 20",
+      "eventSlug": "103306-mecca-20",
+      "round": 2,
+      "timeInRound": "1:56"
+    }
+  ],
+  "lastVerified": "2026-04-18T06:00:01.770Z"
+}

@@ -1,0 +1,176 @@
+{
+  "slug": "155740-kris-ustijanovski",
+  "name": "Kris Ustijanovski",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/155740-kris-ustijanovski",
+  "recentFights": [
+    {
+      "date": "2026-03-20T00:00:00.000Z",
+      "opponent": "Jake Piper",
+      "opponentSlug": "207025-jake-piper",
+      "result": "win",
+      "method": "other",
+      "event": "Beatdown Promotions 13",
+      "eventSlug": "138546-beatdown-promotions-13",
+      "round": 1,
+      "timeInRound": "2:48"
+    },
+    {
+      "date": "2025-11-22T00:00:00.000Z",
+      "opponent": "Kasib Murdoch",
+      "opponentSlug": "315259-kasib-murdoch",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "HEX Fight Series 37",
+      "eventSlug": "120780-hex-fight-series-37",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-02-08T00:00:00.000Z",
+      "opponent": "Korey Sutcliffe",
+      "opponentSlug": "229005-korey-sutcliffe",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 92",
+      "eventSlug": "119504-eternal-mma-92",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-30T00:00:00.000Z",
+      "opponent": "Connor Birch",
+      "opponentSlug": "100522-connor-birch",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 91",
+      "eventSlug": "118583-eternal-mma-91",
+      "round": 1,
+      "timeInRound": "0:52"
+    },
+    {
+      "date": "2024-06-22T00:00:00.000Z",
+      "opponent": "Jawad Rajabi",
+      "opponentSlug": "328879-jawad-rajabi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 86",
+      "eventSlug": "112017-eternal-mma-86",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-18T00:00:00.000Z",
+      "opponent": "James Sargison",
+      "opponentSlug": "164218-james-sargison",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 74",
+      "eventSlug": "95619-eternal-mma-74",
+      "round": 2,
+      "timeInRound": "4:51"
+    },
+    {
+      "date": "2023-02-03T00:00:00.000Z",
+      "opponent": "Liam Gusti",
+      "opponentSlug": "203231-liam-gusti",
+      "result": "win",
+      "method": "tko",
+      "event": "Path to Hex 19",
+      "eventSlug": "94481-path-to-hex-19",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-05T00:00:00.000Z",
+      "opponent": "Val Sharipov",
+      "opponentSlug": "235032-val-sharipov",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Rogue MMA 1",
+      "eventSlug": "84372-rogue-mma-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-18T00:00:00.000Z",
+      "opponent": "David Khu",
+      "opponentSlug": "278818-david-khu",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Superfight MMA 17",
+      "eventSlug": "79721-superfight-mma-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-15T00:00:00.000Z",
+      "opponent": "Colby Thicknesse",
+      "opponentSlug": "166902-colby-thicknesse",
+      "result": "loss",
+      "method": "sub",
+      "event": "Superfight MMA 14",
+      "eventSlug": "64076-superfight-mma-14",
+      "round": 3,
+      "timeInRound": "0:54"
+    },
+    {
+      "date": "2019-05-03T00:00:00.000Z",
+      "opponent": "Daniel Mitchell",
+      "opponentSlug": "291057-daniel-mitchell",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Superfight MMA 11",
+      "eventSlug": "59873-superfight-mma-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-01T00:00:00.000Z",
+      "opponent": "Nathan Reid",
+      "opponentSlug": "148998-nathan-reid",
+      "result": "win",
+      "method": "sub",
+      "event": "Superfight MMA 10",
+      "eventSlug": "57791-superfight-mma-10",
+      "round": 1,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2018-09-07T00:00:00.000Z",
+      "opponent": "Colby Thicknesse",
+      "opponentSlug": "166902-colby-thicknesse",
+      "result": "loss",
+      "method": "sub",
+      "event": "Superfight MMA 8",
+      "eventSlug": "55071-superfight-mma-8",
+      "round": 1,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2017-04-28T00:00:00.000Z",
+      "opponent": "Brayden Frogson",
+      "opponentSlug": "155741-brayden-frogson",
+      "result": "win",
+      "method": "tko",
+      "event": "Superfight MMA 4",
+      "eventSlug": "44826-superfight-mma-4",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:56:42.603Z"
+}

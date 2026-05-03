@@ -1,0 +1,209 @@
+{
+  "slug": "248857-marco-novak",
+  "name": "Marco Novák",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Slovakia",
+  "url": "https://www.tapology.com/fightcenter/fighters/248857-marco-novak",
+  "recentFights": [
+    {
+      "date": "2026-06-06T00:00:00.000Z",
+      "opponent": "Ayton De Paepe",
+      "opponentSlug": "130846-ayton-de-paepe",
+      "result": null,
+      "method": "other",
+      "event": "OKTAGON 89: Severino vs. Zhumagulov",
+      "eventSlug": "137644-oktagon-89",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-04T00:00:00.000Z",
+      "opponent": "Daniel Solaja",
+      "opponentSlug": "186404-daniel-solaja",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 77: Engizek vs. Humburger",
+      "eventSlug": "118936-oktagon",
+      "round": 3,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2025-04-05T00:00:00.000Z",
+      "opponent": "Gjoni Palokaj",
+      "opponentSlug": "125750-gjoni-palokaj",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 69: Holzer vs. Ilbay",
+      "eventSlug": "118931-oktagon",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-12-29T00:00:00.000Z",
+      "opponent": "Eemil Kurhela",
+      "opponentSlug": "113052-eemil-kurhela",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 65: Paradeiser vs. Keita 2",
+      "eventSlug": "116291-oktagon-65",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-07-20T00:00:00.000Z",
+      "opponent": "Radek Roušal",
+      "opponentSlug": "279961-radek-rousal-ruchy",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 59: Summer Party",
+      "eventSlug": "111005-oktagon-59-summer-party",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-27T00:00:00.000Z",
+      "opponent": "Matěj Val",
+      "opponentSlug": "217634-matej-val",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hanuman Cup 47",
+      "eventSlug": "113027-hanuman-cup-47",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-09T00:00:00.000Z",
+      "opponent": "Michal Konrád",
+      "opponentSlug": "144016-michal-konrd",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 50: Keita vs. Samsonidse",
+      "eventSlug": "98887-oktagon",
+      "round": 2,
+      "timeInRound": "4:07"
+    },
+    {
+      "date": "2023-09-16T00:00:00.000Z",
+      "opponent": "Deniz Ilbay",
+      "opponentSlug": "212961-deniz-ilbay",
+      "result": "loss",
+      "method": "other",
+      "event": "OKTAGON 46: Dalisda vs. Austin",
+      "eventSlug": "102327-oktagon-46",
+      "round": 3,
+      "timeInRound": "4:21"
+    },
+    {
+      "date": "2023-02-11T00:00:00.000Z",
+      "opponent": "Petru Morari",
+      "opponentSlug": "173739-petru-morari",
+      "result": "win",
+      "method": "sub",
+      "event": "Hanuman Cup 45",
+      "eventSlug": "96710-mammal-36-hanuman-cup",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-07-04T00:00:00.000Z",
+      "opponent": "Tadeáš Růžička",
+      "opponentSlug": "240412-tadeas-ruzicka",
+      "result": "loss",
+      "method": "tko",
+      "event": "Oktagon: Underground 7 Super Final",
+      "eventSlug": "70349-oktagon-underground-7-super-final",
+      "round": 1,
+      "timeInRound": "1:55"
+    },
+    {
+      "date": "2020-06-20T00:00:00.000Z",
+      "opponent": "Denis Tripšanský",
+      "opponentSlug": "123273-denis-tripsansky",
+      "result": "win",
+      "method": "tko",
+      "event": "Oktagon: Underground 6",
+      "eventSlug": "70219-oktagon-underground-6",
+      "round": 3,
+      "timeInRound": "0:20"
+    },
+    {
+      "date": "2020-06-06T00:00:00.000Z",
+      "opponent": "Nikolas Krivak",
+      "opponentSlug": "262397-nikolas-krivak",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Oktagon: Underground 4",
+      "eventSlug": "69964-oktagon-underground-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-05-23T00:00:00.000Z",
+      "opponent": "Roman Paulus",
+      "opponentSlug": "127470-roman-paulus",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Oktagon Underground 2",
+      "eventSlug": "69564-oktagon-undergound-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-06T00:00:00.000Z",
+      "opponent": "Vadym Knyshevich",
+      "opponentSlug": "387469-vadym-knyshevich",
+      "result": "win",
+      "method": "sub",
+      "event": "Hanuman Cup 42",
+      "eventSlug": "64456-hanuman-cup-42",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-24T00:00:00.000Z",
+      "opponent": "Matěj Val",
+      "opponentSlug": "217634-matej-val",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "Titan Fight Night 9",
+      "eventSlug": "91703-titan-fight-night-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-19T00:00:00.000Z",
+      "opponent": "Michal Buršak",
+      "opponentSlug": "200865-michal-bursal",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "War Zone 001",
+      "eventSlug": "92157-war-zone-001",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-10T00:00:00.000Z",
+      "opponent": "Petr Stříž",
+      "opponentSlug": "208330-petr-striz",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MAMMAL: Round 20",
+      "eventSlug": "76242-mammal-round-20",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:04:53.252Z"
+}

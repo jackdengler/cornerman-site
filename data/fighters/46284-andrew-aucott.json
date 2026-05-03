@@ -1,0 +1,92 @@
+{
+  "slug": "46284-andrew-aucott",
+  "name": "Andrew Aucott",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/46284-andrew-aucott",
+  "recentFights": [
+    {
+      "date": "2015-04-11T00:00:00.000Z",
+      "opponent": "William Elliott",
+      "opponentSlug": "88019-william-elliott",
+      "result": "loss",
+      "method": "sub",
+      "event": "AFL 48",
+      "eventSlug": "30408-afl-48",
+      "round": 1,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2015-02-14T00:00:00.000Z",
+      "opponent": "Ryan Thorne",
+      "opponentSlug": "91080-ryan-thorne",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "AFL 47",
+      "eventSlug": "29043-afl-47",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-10-03T00:00:00.000Z",
+      "opponent": "Sergio da Silva",
+      "opponentSlug": "15151-sergio-da-silva-the-savage",
+      "result": "loss",
+      "method": "sub",
+      "event": "New Breed Fighters 25",
+      "eventSlug": "35644-new-breed-fighters-25-one-step-closer",
+      "round": 1,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2009-07-11T00:00:00.000Z",
+      "opponent": "Pat Sabatini",
+      "opponentSlug": "29210-pat-sabatini",
+      "result": "loss",
+      "method": "sub",
+      "event": "New Breed Fighters 23",
+      "eventSlug": "32754-new-breed-fighters-23-one-step-closer",
+      "round": 3,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2009-04-11T00:00:00.000Z",
+      "opponent": "Mark Hassmiller",
+      "opponentSlug": "147768-mark-hassmiller",
+      "result": "win",
+      "method": "sub",
+      "event": "New Breed Fighters 21",
+      "eventSlug": "32755-new-breed-fighters-one-step-closer",
+      "round": 2,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2008-09-13T00:00:00.000Z",
+      "opponent": "Julian Przybylski",
+      "opponentSlug": "114581-julian-przybylski",
+      "result": "win",
+      "method": "other",
+      "event": "New Breed Fighters 17",
+      "eventSlug": "29440-new-breed-fighters-17",
+      "round": 3,
+      "timeInRound": "0:53"
+    }
+  ],
+  "lastVerified": "2026-04-25T23:06:49.119Z"
+}

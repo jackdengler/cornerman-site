@@ -1,0 +1,242 @@
+{
+  "slug": "187499-gerardo-graniel-terrier",
+  "name": "Gerardo Graniel",
+  "nickname": "Terrier",
+  "aliases": [],
+  "recordPro": {
+    "wins": 14,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1994-01-11",
+  "nationality": "Mexico",
+  "url": "https://www.tapology.com/fightcenter/fighters/187499-gerardo-graniel-terrier",
+  "recentFights": [
+    {
+      "date": "2025-11-28T00:00:00.000Z",
+      "opponent": "Osvaldo Gonzaléz",
+      "opponentSlug": "109297-osvaldo-gonzalez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Budo Sento Championship 32",
+      "eventSlug": "134672-budo-sento-championship-32",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-27T00:00:00.000Z",
+      "opponent": "Braian González",
+      "opponentSlug": "165243-braian-gonzalez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Budo Sento Championship 28",
+      "eventSlug": "125256-budo-sento-championship-28",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-12T00:00:00.000Z",
+      "opponent": "Marcos Covarrubias",
+      "opponentSlug": "252180-marco-covarubias-renegado",
+      "result": "win",
+      "method": "sub",
+      "event": "Budo Sento Championship 21",
+      "eventSlug": "112218-budo-sento-championship-21",
+      "round": 1,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2023-10-22T00:00:00.000Z",
+      "opponent": "Luis Gurule",
+      "opponentSlug": "301015-luis-gurule",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fury Challenger Series 8",
+      "eventSlug": "104835-fury-challenger-series-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-04-15T00:00:00.000Z",
+      "opponent": "Kyle Estrada",
+      "opponentSlug": "76182-kyle-estrada",
+      "result": "win",
+      "method": "tko",
+      "event": "Combate Global",
+      "eventSlug": "100337-combate-global-bojorquez-vs-medina",
+      "round": 2,
+      "timeInRound": "4:25"
+    },
+    {
+      "date": "2022-11-18T00:00:00.000Z",
+      "opponent": "Adrian Garcia",
+      "opponentSlug": "135458-adrian-garcia",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Combate Global Exclusivo",
+      "eventSlug": "97270-combate-global-exclusivo-episode-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-26T00:00:00.000Z",
+      "opponent": "Santiago Monreal",
+      "opponentSlug": "83920-raul-monreal",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combate Global",
+      "eventSlug": "92471-combate-global",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-22T00:00:00.000Z",
+      "opponent": "Chris Ocon",
+      "opponentSlug": "93172-chris-ocon",
+      "result": "loss",
+      "method": "tko",
+      "event": "Combate Global",
+      "eventSlug": "88614-combate-global",
+      "round": 3,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2021-11-19T00:00:00.000Z",
+      "opponent": "Ernesto Ibarra",
+      "opponentSlug": "109896-ernesto-ibarra",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combate Global",
+      "eventSlug": "84362-combate-global",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-03T00:00:00.000Z",
+      "opponent": "Roger Blanque",
+      "opponentSlug": "159851-roger-blanque",
+      "result": "win",
+      "method": "other",
+      "event": "Combate Global",
+      "eventSlug": "82108-combate-global",
+      "round": 2,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2020-11-20T00:00:00.000Z",
+      "opponent": "Jorge Calvo",
+      "opponentSlug": "89605-jorge-calvo",
+      "result": "loss",
+      "method": "sub",
+      "event": "Lux Fight League 11",
+      "eventSlug": "73988-lux-fight-league-11",
+      "round": 2,
+      "timeInRound": "4:01"
+    },
+    {
+      "date": "2019-12-14T00:00:00.000Z",
+      "opponent": "Jesús Ramos",
+      "opponentSlug": "164990-jess-ramos-tornado",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "XFM Vol. 12",
+      "eventSlug": "64707-xfm-vol-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-01T00:00:00.000Z",
+      "opponent": "Jose Juan Lopez",
+      "opponentSlug": "131029-jose-juan-lopez",
+      "result": "win",
+      "method": "other",
+      "event": "Crixus MMA 3",
+      "eventSlug": "64724-crixus-mma-3",
+      "round": 2,
+      "timeInRound": "3:05"
+    },
+    {
+      "date": "2019-10-11T00:00:00.000Z",
+      "opponent": "Eduardo Morales",
+      "opponentSlug": "141209-eduardo-morales-the-punisher",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Mayan Fight Night",
+      "eventSlug": "112283-mayan-fight-night-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-01T00:00:00.000Z",
+      "opponent": "Caleb Moctezuma",
+      "opponentSlug": "186558-caleb-moctezuma-bandido",
+      "result": "win",
+      "method": "dec-split",
+      "event": "XFM 12 GP",
+      "eventSlug": "60151-xfm-12-gp",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-01T00:00:00.000Z",
+      "opponent": "Aarón Valero",
+      "opponentSlug": "172878-aaron-valero",
+      "result": "win",
+      "method": "dec-split",
+      "event": "XFM 12 GP",
+      "eventSlug": "60151-xfm-12-gp",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-01T00:00:00.000Z",
+      "opponent": "Daniel Quevedo Angeles",
+      "opponentSlug": "89834-daniel-quevedo-tukano",
+      "result": "win",
+      "method": "dec-split",
+      "event": "XFM 12 GP",
+      "eventSlug": "60151-xfm-12-gp",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-10T00:00:00.000Z",
+      "opponent": "Giliarde da Silva",
+      "opponentSlug": "49164-gilliard-da-silva-wolverine",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-04T00:00:00.000Z",
+      "opponent": "Carlos Lira",
+      "opponentSlug": "122550-carlos-lira",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XFM Vol. 8",
+      "eventSlug": "52222-xfm-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-21T00:00:00.000Z",
+      "opponent": "Cristian Olvera",
+      "opponentSlug": "164501-cristian-olvera",
+      "result": "win",
+      "method": "other",
+      "event": "Coatza Fight Night 8",
+      "eventSlug": "66331-coatza-fight-night-8",
+      "round": 1,
+      "timeInRound": "4:52"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:36:40.782Z"
+}

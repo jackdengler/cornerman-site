@@ -1,0 +1,242 @@
+{
+  "slug": "39925-artiom-cula",
+  "name": "Artiom Cula",
+  "nickname": "Akula",
+  "aliases": [],
+  "recordPro": {
+    "wins": 14,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 182,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1991-07-05",
+  "nationality": "Chisinau, Moldova",
+  "url": "https://www.tapology.com/fightcenter/fighters/39925-artiom-cula",
+  "recentFights": [
+    {
+      "date": "2026-02-28T00:00:00.000Z",
+      "opponent": "EL J Portée",
+      "opponentSlug": "171619-lj-smith-portee",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "COGA 91",
+      "eventSlug": "138347-coga-91",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-01-31T00:00:00.000Z",
+      "opponent": "Kerry Lattimer",
+      "opponentSlug": "26567-kerry-lattimer",
+      "result": "win",
+      "method": "tko",
+      "event": "COGA 90: Supreme Showdown 11",
+      "eventSlug": "135187-coga-89-supreme-showdown-11",
+      "round": 1,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2025-11-22T00:00:00.000Z",
+      "opponent": "Charon Spain",
+      "opponentSlug": "15247-charon-spain",
+      "result": "win",
+      "method": "tko",
+      "event": "COGA 89",
+      "eventSlug": "134812-coga-89",
+      "round": 1,
+      "timeInRound": "0:25"
+    },
+    {
+      "date": "2025-04-25T00:00:00.000Z",
+      "opponent": "John Moore",
+      "opponentSlug": "184787-john-moore",
+      "result": "loss",
+      "method": "other",
+      "event": "Tuff-N-Uff 143",
+      "eventSlug": "123087-tuff-n-uff-143",
+      "round": 1,
+      "timeInRound": "3:41"
+    },
+    {
+      "date": "2024-12-04T00:00:00.000Z",
+      "opponent": "Michael Irizarry",
+      "opponentSlug": "85957-michael-irizarri",
+      "result": "win",
+      "method": "tko",
+      "event": "Tuff-N-Uff 140",
+      "eventSlug": "119961-tuff-n-uff-140",
+      "round": 2,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2024-07-27T00:00:00.000Z",
+      "opponent": "Jessy Ebrecht",
+      "opponentSlug": "73602-jesse-ebrecht",
+      "result": "win",
+      "method": "other",
+      "event": "North Iowa Fights 19",
+      "eventSlug": "113691-north-iowa-fights-19",
+      "round": 1,
+      "timeInRound": "0:29"
+    },
+    {
+      "date": "2024-04-20T00:00:00.000Z",
+      "opponent": "Nelly Thompson",
+      "opponentSlug": "127634-nelly-thompson",
+      "result": "win",
+      "method": "other",
+      "event": "North Iowa Fights 18",
+      "eventSlug": "111077-north-iowa-fights-18",
+      "round": 1,
+      "timeInRound": "0:15"
+    },
+    {
+      "date": "2023-07-15T00:00:00.000Z",
+      "opponent": "Pete Keepers",
+      "opponentSlug": "142137-pete-keepers",
+      "result": "win",
+      "method": "other",
+      "event": "North Iowa Fights 16",
+      "eventSlug": "99848-north-iowa-fights-16",
+      "round": 2,
+      "timeInRound": "4:43"
+    },
+    {
+      "date": "2022-11-19T00:00:00.000Z",
+      "opponent": "Jon Kennedy",
+      "opponentSlug": "18584-jon-kennedy",
+      "result": "win",
+      "method": "sub",
+      "event": "North Iowa Fights 15",
+      "eventSlug": "94190-north-iowa-fights",
+      "round": 1,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2022-07-30T00:00:00.000Z",
+      "opponent": "Eddie Larrea",
+      "opponentSlug": "eddie-larrea",
+      "result": "win",
+      "method": "sub",
+      "event": "North Iowa Fights",
+      "eventSlug": "85335-north-iowa-fights",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-29T00:00:00.000Z",
+      "opponent": "Constantin Zveaghintev",
+      "opponentSlug": "298383-constantin-zveaghintev",
+      "result": "win",
+      "method": "sub",
+      "event": "Road to WWFC",
+      "eventSlug": "82177-road-to-wwfc-alexeevskie-cup",
+      "round": 1,
+      "timeInRound": "3:02"
+    },
+    {
+      "date": "2021-04-10T00:00:00.000Z",
+      "opponent": "Viktor Senko",
+      "opponentSlug": "290795-viktor-senko",
+      "result": "win",
+      "method": "other",
+      "event": "Road to WWFC",
+      "eventSlug": "77743-road-to-wwfc-minerfin-cup-2021",
+      "round": 1,
+      "timeInRound": "1:09"
+    },
+    {
+      "date": "2018-05-26T00:00:00.000Z",
+      "opponent": "Ion Surdu",
+      "opponentSlug": "139534-ion-surdu",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Eagles Fighting Championship 9",
+      "eventSlug": "52688-eagles-fighting-championship-9-sirbu-vs-barbu",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-18T00:00:00.000Z",
+      "opponent": "Nick Coughran",
+      "opponentSlug": "47001-nick-coughrin",
+      "result": "win",
+      "method": "sub",
+      "event": "COGA Combat Games 54",
+      "eventSlug": "45703-rumble-on-the-ridge-37",
+      "round": 2,
+      "timeInRound": "2:16"
+    },
+    {
+      "date": "2016-11-19T00:00:00.000Z",
+      "opponent": "Arslan Eslemesov",
+      "opponentSlug": "94275-arslan-eslemesov",
+      "result": "loss",
+      "method": "sub",
+      "event": "Eagles Fighting Championship 3",
+      "eventSlug": "42784-eagles-fighting-championship-3",
+      "round": 1,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2015-12-12T00:00:00.000Z",
+      "opponent": "Dylan Potter",
+      "opponentSlug": "91161-dylan-potter",
+      "result": "loss",
+      "method": "tko",
+      "event": "CageSport 38",
+      "eventSlug": "37183-super-fight-league-45",
+      "round": 1,
+      "timeInRound": "2:41"
+    },
+    {
+      "date": "2015-04-25T00:00:00.000Z",
+      "opponent": "Corey Watson",
+      "opponentSlug": "31993-corey-watson",
+      "result": "loss",
+      "method": "sub",
+      "event": "CageSport 35",
+      "eventSlug": "28967-super-fight-league-america-4-presented-by-cagesport",
+      "round": 3,
+      "timeInRound": "2:53"
+    },
+    {
+      "date": "2013-03-24T00:00:00.000Z",
+      "opponent": "Yaroslav Amosov",
+      "opponentSlug": "81129-yaroslav-amosov",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-12-14T00:00:00.000Z",
+      "opponent": "Anton Kaloshin",
+      "opponentSlug": "39926-anton-kaloshin",
+      "result": "win",
+      "method": "other",
+      "event": "ECSF: Adrenaline",
+      "eventSlug": "17059-ecsf-adrenaline",
+      "round": 1,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2012-04-06T00:00:00.000Z",
+      "opponent": "Ramili Zakirov",
+      "opponentSlug": "39931-ramili-zakirov",
+      "result": "win",
+      "method": "other",
+      "event": "CIS Cup 2012",
+      "eventSlug": "17004-cis-cup-2012",
+      "round": 2,
+      "timeInRound": "5:00"
+    }
+  ],
+  "lastVerified": "2026-04-25T23:05:04.879Z"
+}

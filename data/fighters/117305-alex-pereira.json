@@ -1,0 +1,209 @@
+{
+  "slug": "117305-alex-pereira",
+  "name": "Alex Pereira",
+  "nickname": "Poatan",
+  "aliases": [],
+  "recordPro": {
+    "wins": 13,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 194,
+  "reachCm": 201,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1987-07-07",
+  "nationality": "São Bernardo do Campo, São Paulo, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/117305-alex-pereira",
+  "recentFights": [
+    {
+      "date": "2026-06-14T00:00:00.000Z",
+      "opponent": "Ciryl Gane",
+      "opponentSlug": "187819-cyril-gane-real-c",
+      "result": null,
+      "method": "other",
+      "event": "UFC Freedom Fights 250",
+      "eventSlug": "137848-ufc-white-house",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-04T00:00:00.000Z",
+      "opponent": "Magomed Ankalaev",
+      "opponentSlug": "83405-magomed-ankalaev",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 320: Ankalaev vs. Pereira 2",
+      "eventSlug": "129311-ufc-320",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2025-03-08T00:00:00.000Z",
+      "opponent": "Magomed Ankalaev",
+      "opponentSlug": "83405-magomed-ankalaev",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 313: Pereira vs. Ankalaev",
+      "eventSlug": "120488-ufc-313",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-10-05T00:00:00.000Z",
+      "opponent": "Khalil Rountree Jr.",
+      "opponentSlug": "47284-khalil-rountree-the-war-horse",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 307: Pereira vs. Rountree",
+      "eventSlug": "116146-ufc-307",
+      "round": 4,
+      "timeInRound": "4:32"
+    },
+    {
+      "date": "2024-06-29T00:00:00.000Z",
+      "opponent": "Jiří Procházka",
+      "opponentSlug": "34779-jiri-prochazka",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 303: Pereira vs. Procházka 2",
+      "eventSlug": "109011-ufc",
+      "round": 2,
+      "timeInRound": "0:13"
+    },
+    {
+      "date": "2024-04-13T00:00:00.000Z",
+      "opponent": "Jamahal Hill",
+      "opponentSlug": "120815-jamahal-hill",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 300: Pereira vs. Hill",
+      "eventSlug": "108579-ufc-300",
+      "round": 1,
+      "timeInRound": "3:14"
+    },
+    {
+      "date": "2023-11-11T00:00:00.000Z",
+      "opponent": "Jiří Procházka",
+      "opponentSlug": "34779-jiri-prochazka",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 295: Procházka vs. Pereira",
+      "eventSlug": "102959-ufc-295-jones-vs-miocic",
+      "round": 2,
+      "timeInRound": "4:08"
+    },
+    {
+      "date": "2023-07-29T00:00:00.000Z",
+      "opponent": "Jan Błachowicz",
+      "opponentSlug": "jan-blachowicz",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC 291: Poirier vs. Gaethje 2",
+      "eventSlug": "101214-ufc-291",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-04-08T00:00:00.000Z",
+      "opponent": "Israel Adesanya",
+      "opponentSlug": "79163-israel-adesanya",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 287: Pereira vs Adesanya 2",
+      "eventSlug": "96871-ufc-287",
+      "round": 2,
+      "timeInRound": "4:21"
+    },
+    {
+      "date": "2022-11-12T00:00:00.000Z",
+      "opponent": "Israel Adesanya",
+      "opponentSlug": "79163-israel-adesanya",
+      "result": "win",
+      "method": "tko",
+      "event": "UFC 281: Adesanya vs. Pereira",
+      "eventSlug": "91828-ufc-281",
+      "round": 5,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2022-07-02T00:00:00.000Z",
+      "opponent": "Sean Strickland",
+      "opponentSlug": "6055-sean-strickland-tarzan",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 276: Adesanya vs. Cannonier",
+      "eventSlug": "87604-ufc-276",
+      "round": 1,
+      "timeInRound": "2:36"
+    },
+    {
+      "date": "2022-03-12T00:00:00.000Z",
+      "opponent": "Bruno Silva",
+      "opponentSlug": "59819-bruno-silva-blindado",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "84364-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-06T00:00:00.000Z",
+      "opponent": "Andreas Michailidis",
+      "opponentSlug": "72348-andreas-mihalidis",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 268: Usman vs. Covington 2",
+      "eventSlug": "81402-ufc-268-usman-vs-covington-2",
+      "round": 2,
+      "timeInRound": "0:18"
+    },
+    {
+      "date": "2020-11-20T00:00:00.000Z",
+      "opponent": "Thomas Powell",
+      "opponentSlug": "119566-thomas-powell",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 95: Pereira vs. Powell",
+      "eventSlug": "73846-lfa-95-browne-vs-estrazulas",
+      "round": 1,
+      "timeInRound": "4:04"
+    },
+    {
+      "date": "2016-05-21T00:00:00.000Z",
+      "opponent": "Marcus Vinicius",
+      "opponentSlug": "76728-marcus-vinicius-tatu",
+      "result": "win",
+      "method": "other",
+      "event": "Jungle Fight 87",
+      "eventSlug": "39783-jungle-fight-87",
+      "round": 2,
+      "timeInRound": "4:28"
+    },
+    {
+      "date": "2016-01-23T00:00:00.000Z",
+      "opponent": "Marcelo Cruz",
+      "opponentSlug": "39088-marcelo-cruz",
+      "result": "win",
+      "method": "tko",
+      "event": "Jungle Fight 85",
+      "eventSlug": "37251-jungle-fight-85",
+      "round": 1,
+      "timeInRound": "4:07"
+    },
+    {
+      "date": "2015-10-24T00:00:00.000Z",
+      "opponent": "Quemuel Ottoni",
+      "opponentSlug": "76814-quemuel-ottoni",
+      "result": "loss",
+      "method": "sub",
+      "event": "Jungle Fight 82",
+      "eventSlug": "35379-jungle-fight-82",
+      "round": 3,
+      "timeInRound": "2:52"
+    }
+  ],
+  "lastVerified": "2026-04-25T22:58:03.011Z"
+}

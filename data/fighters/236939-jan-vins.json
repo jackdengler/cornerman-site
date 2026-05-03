@@ -1,0 +1,132 @@
+{
+  "slug": "236939-jan-vins",
+  "name": "Jan Vinš",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1998-07-20",
+  "nationality": "Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/236939-jan-vins",
+  "recentFights": [
+    {
+      "date": "2022-05-07T00:00:00.000Z",
+      "opponent": "Tomáš Mudroch",
+      "opponentSlug": "266708-tomasz-mudroch",
+      "result": "loss",
+      "method": "sub",
+      "event": "Way of Warrior 8",
+      "eventSlug": "90134-way-of-warrior-8",
+      "round": 1,
+      "timeInRound": "3:41"
+    },
+    {
+      "date": "2023-05-20T00:00:00.000Z",
+      "opponent": "Miroslav Krybus",
+      "opponentSlug": "198715-miroslav-krybus",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MMAA Arena Cup 78",
+      "eventSlug": "101233-mmaa-arena-cup-78",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-05T00:00:00.000Z",
+      "opponent": "Jan Čábelka",
+      "opponentSlug": "199819-jan-cabelka",
+      "result": "loss",
+      "method": "tko",
+      "event": "IAF 6",
+      "eventSlug": "93765-iaf-6",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-26T00:00:00.000Z",
+      "opponent": "Matěj Val",
+      "opponentSlug": "217634-matej-val",
+      "result": "loss",
+      "method": "other",
+      "event": "IAF: Streetfighter 2022 I",
+      "eventSlug": "92141-iaf-streetfighter-2022-i",
+      "round": 3,
+      "timeInRound": "0:07"
+    },
+    {
+      "date": "2022-06-18T00:00:00.000Z",
+      "opponent": "Daniel Bohm",
+      "opponentSlug": "253522-daniel-bohm",
+      "result": "win",
+      "method": "sub",
+      "event": "Den Bojovníků",
+      "eventSlug": "98278-den-bojovniku-fight-night",
+      "round": 1,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2020-08-14T00:00:00.000Z",
+      "opponent": "Jakub Krtil",
+      "opponentSlug": "266682-jakub-krtil",
+      "result": "win",
+      "method": "other",
+      "event": "IAF: Streetfighter 5",
+      "eventSlug": "71781-iaf-streetfighter-5",
+      "round": 4,
+      "timeInRound": "2:46"
+    },
+    {
+      "date": "2020-07-17T00:00:00.000Z",
+      "opponent": "Jan Křížek",
+      "opponentSlug": "236945-jan-krizek",
+      "result": "win",
+      "method": "other",
+      "event": "IAF: Streetfighter 1",
+      "eventSlug": "71192-iaf-streetfighter-1",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2020-02-08T00:00:00.000Z",
+      "opponent": "Denis Almeida",
+      "opponentSlug": "253519-denis-almeida",
+      "result": null,
+      "method": "other",
+      "event": "RP Security MMAA Arena Cup 57",
+      "eventSlug": "66899-rp-security-mmaa-arena-cup-57-rise-of-a-champion",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-26T00:00:00.000Z",
+      "opponent": "Roman Klein",
+      "opponentSlug": "240419-roman-klein",
+      "result": "win",
+      "method": "tko",
+      "event": "RP Security MMAA Arena Cup 55",
+      "eventSlug": "63956-rp-security-mmaa-arena-cup-55",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-28T00:00:00.000Z",
+      "opponent": "Petr Stříž",
+      "opponentSlug": "208330-petr-striz",
+      "result": "loss",
+      "method": "sub",
+      "event": "RP Security MMAA Arena Cup 54",
+      "eventSlug": "63215-rp-security-mmaa-arena-cup-54",
+      "round": 2,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:05:48.915Z"
+}

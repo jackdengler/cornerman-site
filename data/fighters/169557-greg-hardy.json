@@ -1,0 +1,231 @@
+{
+  "slug": "169557-greg-hardy",
+  "name": "Greg Hardy",
+  "nickname": "The Prince of War",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 196,
+  "reachCm": 204,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1988-07-28",
+  "nationality": "Millington, TN",
+  "url": "https://www.tapology.com/fightcenter/fighters/169557-greg-hardy",
+  "recentFights": [
+    {
+      "date": "2026-07-18T00:00:00.000Z",
+      "opponent": "Joseph Holmes",
+      "opponentSlug": "159250-joseph-holmes",
+      "result": null,
+      "method": "other",
+      "event": "Peak Fighting 53",
+      "eventSlug": "140586-peak-fighting-53",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-05-30T00:00:00.000Z",
+      "opponent": "Darko Stošić",
+      "opponentSlug": "86260-darko-stosic",
+      "result": null,
+      "method": "other",
+      "event": "FNC 31",
+      "eventSlug": "141365-fnc",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-01-30T00:00:00.000Z",
+      "opponent": "Phillip Latu",
+      "opponentSlug": "303053-phillip-latu",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Peak Fighting 50",
+      "eventSlug": "133952-peak-fighting-50",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-05T00:00:00.000Z",
+      "opponent": "Serghei Spivac",
+      "opponentSlug": "90068-sergey-spivak",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 272: Covington vs. Masvidal",
+      "eventSlug": "84662-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "2:16"
+    },
+    {
+      "date": "2021-07-10T00:00:00.000Z",
+      "opponent": "Tai Tuivasa",
+      "opponentSlug": "120884-tai-tuivasa-bam-bam",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 264: Poirier vs. McGregor 3",
+      "eventSlug": "78106-ufc-264",
+      "round": 1,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2020-12-19T00:00:00.000Z",
+      "opponent": "Marcin Tybura",
+      "opponentSlug": "34449-marcin-tybura-tybur",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "72974-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "4:31"
+    },
+    {
+      "date": "2020-10-31T00:00:00.000Z",
+      "opponent": "Maurice Greene",
+      "opponentSlug": "31086-maurice-greene-the-pirate",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "71817-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2020-05-09T00:00:00.000Z",
+      "opponent": "Yorgan De Castro",
+      "opponentSlug": "67789-yorgan-decastro",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 249: Ferguson vs. Gaethje",
+      "eventSlug": "66312-ufc-250",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-09T00:00:00.000Z",
+      "opponent": "Alexander Volkov",
+      "opponentSlug": "alexander-volkov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC on ESPN+ 21",
+      "eventSlug": "61626-ufc-on-espn-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-18T00:00:00.000Z",
+      "opponent": "Ben Sosoli",
+      "opponentSlug": "52911-benjamin-sosoli",
+      "result": "nc",
+      "method": "other",
+      "event": "UFC on ESPN 6",
+      "eventSlug": "60320-ufc-on-espn-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-20T00:00:00.000Z",
+      "opponent": "Juan Adams",
+      "opponentSlug": "139094-juan-adams",
+      "result": "win",
+      "method": "other",
+      "event": "UFC on ESPN 4",
+      "eventSlug": "60311-ufc-on-espn-4",
+      "round": 1,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2019-04-27T00:00:00.000Z",
+      "opponent": "Dmitry Smolyakov",
+      "opponentSlug": "77156-dmitry-smolyakov",
+      "result": "win",
+      "method": "other",
+      "event": "UFC on ESPN+ 8",
+      "eventSlug": "57506-ufc-on-espn-3",
+      "round": 1,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2019-01-19T00:00:00.000Z",
+      "opponent": "Allen Crowder",
+      "opponentSlug": "34648-allen-crowder",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC on ESPN+ 1",
+      "eventSlug": "55048-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "2:28"
+    },
+    {
+      "date": "2018-09-29T00:00:00.000Z",
+      "opponent": "Rasheem Jones",
+      "opponentSlug": "150959-rashemm-jones",
+      "result": "win",
+      "method": "other",
+      "event": "Xtreme Fight Night 352",
+      "eventSlug": "55406-xtreme-fight-night-352",
+      "round": 1,
+      "timeInRound": "0:53"
+    },
+    {
+      "date": "2018-08-07T00:00:00.000Z",
+      "opponent": "Tebaris Gordon",
+      "opponentSlug": "56126-tebaris-gordon",
+      "result": "win",
+      "method": "other",
+      "event": "DW's Contender Series 2018",
+      "eventSlug": "53973-dw-s-contender-series-2018-week-8",
+      "round": 1,
+      "timeInRound": "0:17"
+    },
+    {
+      "date": "2018-06-12T00:00:00.000Z",
+      "opponent": "Austen Lane",
+      "opponentSlug": "131141-austen-lane",
+      "result": "win",
+      "method": "other",
+      "event": "DW's Contender Series 2018",
+      "eventSlug": "52729-dw-s-contender-series-2018-week-1",
+      "round": 1,
+      "timeInRound": "0:57"
+    },
+    {
+      "date": "2018-02-16T00:00:00.000Z",
+      "opponent": "Ryan Chester",
+      "opponentSlug": "144964-ryan-chester",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 33: Willis vs. Stewart",
+      "eventSlug": "50420-lfa-33-willis-vs-stewart",
+      "round": 1,
+      "timeInRound": "0:14"
+    },
+    {
+      "date": "2017-12-01T00:00:00.000Z",
+      "opponent": "Kenneth Woods",
+      "opponentSlug": "172427-kenneth-woods",
+      "result": "win",
+      "method": "other",
+      "event": "Rite of Passage 2",
+      "eventSlug": "48198-rite-of-passage-2",
+      "round": 1,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2017-11-04T00:00:00.000Z",
+      "opponent": "Joe Hawkins",
+      "opponentSlug": "169556-joe-hawkins",
+      "result": "win",
+      "method": "tko",
+      "event": "Rise of a Warrior 21",
+      "eventSlug": "48892-rise-of-a-warrior-21",
+      "round": 1,
+      "timeInRound": "0:32"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:40:22.876Z"
+}

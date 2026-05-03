@@ -1,0 +1,253 @@
+{
+  "slug": "60009-alejandro-martinez",
+  "name": "Alejandro Martinez",
+  "nickname": "El Pato",
+  "aliases": [],
+  "recordPro": {
+    "wins": 13,
+    "losses": 6,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1991-03-04",
+  "nationality": "Mexico",
+  "url": "https://www.tapology.com/fightcenter/fighters/60009-alejandro-martinez",
+  "recentFights": [
+    {
+      "date": "2024-04-21T00:00:00.000Z",
+      "opponent": "Kody Steele",
+      "opponentSlug": "228289-kody-steele",
+      "result": "loss",
+      "method": "tko",
+      "event": "Fury FC 89: Richardson vs. Aswell",
+      "eventSlug": "110448-fury-fc-89",
+      "round": 3,
+      "timeInRound": "2:09"
+    },
+    {
+      "date": "2022-10-21T00:00:00.000Z",
+      "opponent": "Shaheen Santana",
+      "opponentSlug": "107707-shaheen-santana",
+      "result": "loss",
+      "method": "sub",
+      "event": "Combate Global",
+      "eventSlug": "94213-combate",
+      "round": 3,
+      "timeInRound": "4:47"
+    },
+    {
+      "date": "2021-12-10T00:00:00.000Z",
+      "opponent": "Edgar Delgado",
+      "opponentSlug": "81159-edgar-delgado-jimenez",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Lux Fight League 19",
+      "eventSlug": "84130-lux-fight-league-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-17T00:00:00.000Z",
+      "opponent": "Geanfranco Cortez",
+      "opponentSlug": "149541-gian-franco-cortez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Lux Fight League 16",
+      "eventSlug": "82313-lux-fight-league-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-11-20T00:00:00.000Z",
+      "opponent": "Daniel Vega",
+      "opponentSlug": "155177-daniel-vega-danger",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "iKon Fighting Federation 3",
+      "eventSlug": "73843-ikon-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-28T00:00:00.000Z",
+      "opponent": "Adrian Guzman",
+      "opponentSlug": "131975-adrian-guzman",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Combate 56: Fresno",
+      "eventSlug": "66007-combate-fresno",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-28T00:00:00.000Z",
+      "opponent": "Mario Harris Jr.",
+      "opponentSlug": "272191-mario-harris-jr",
+      "result": "win",
+      "method": "sub",
+      "event": "AMMX",
+      "eventSlug": "72754-ammx",
+      "round": 2,
+      "timeInRound": "4:23"
+    },
+    {
+      "date": "2019-06-21T00:00:00.000Z",
+      "opponent": "Enrique Gonzalez",
+      "opponentSlug": "119365-kike-gonzalez",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Combate 40: Palacios vs. Gibson",
+      "eventSlug": "58981-combate-40",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-08T00:00:00.000Z",
+      "opponent": "Erick Gonzalez",
+      "opponentSlug": "67619-erick-gonzalez",
+      "result": "loss",
+      "method": "other",
+      "event": "Combate 32: Mexico vs. Spain",
+      "eventSlug": "58875-combate-32-mexico-vs-spain",
+      "round": 1,
+      "timeInRound": "3:45"
+    },
+    {
+      "date": "2018-10-26T00:00:00.000Z",
+      "opponent": "Jordan Beltrán",
+      "opponentSlug": "94257-jordan-beltran",
+      "result": "win",
+      "method": "sub",
+      "event": "Combate 27: La Batalla de Guadalajara",
+      "eventSlug": "56142-combate-25-la-batalla-de-guadalajara",
+      "round": 2,
+      "timeInRound": "1:09"
+    },
+    {
+      "date": "2018-08-18T00:00:00.000Z",
+      "opponent": "Djamil Chan",
+      "opponentSlug": "34395-djamil-chan",
+      "result": "loss",
+      "method": "other",
+      "event": "Brave CF 14",
+      "eventSlug": "54087-brave-cf-14",
+      "round": 1,
+      "timeInRound": "0:29"
+    },
+    {
+      "date": "2017-11-17T00:00:00.000Z",
+      "opponent": "Ottman Azaitar",
+      "opponentSlug": "60986-ottman-azaitar-bulldozer",
+      "result": "loss",
+      "method": "other",
+      "event": "Brave CF 9: The Kingdom of Champions",
+      "eventSlug": "47711-brave-cf",
+      "round": 3,
+      "timeInRound": "1:16"
+    },
+    {
+      "date": "2017-07-29T00:00:00.000Z",
+      "opponent": "Fabian Quintanar",
+      "opponentSlug": "12781-fabian-quintanar-aniquilador",
+      "result": "win",
+      "method": "sub",
+      "event": "Brave CF 7: Untamed",
+      "eventSlug": "47027-brave-cf-7-untamed",
+      "round": 2,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2017-04-23T00:00:00.000Z",
+      "opponent": "Paulo Bananada",
+      "opponentSlug": "14443-paulo-goncalves-silva-bananada",
+      "result": "win",
+      "method": "other",
+      "event": "Brave CF 5",
+      "eventSlug": "44815-brave-cf-5",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-28T00:00:00.000Z",
+      "opponent": "Fabian Quintanar",
+      "opponentSlug": "12781-fabian-quintanar-aniquilador",
+      "result": "win",
+      "method": "dec-split",
+      "event": "The Ultimate Fighter Latin America Season 3",
+      "eventSlug": "91322-the-ultimate-fighter-latin-america-season-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-12-05T00:00:00.000Z",
+      "opponent": "Ismael Vasquez Segura",
+      "opponentSlug": "33367-ismael-vasquez",
+      "result": "win",
+      "method": "tko",
+      "event": null,
+      "eventSlug": null,
+      "round": 2,
+      "timeInRound": "2:10"
+    },
+    {
+      "date": "2015-11-08T00:00:00.000Z",
+      "opponent": "Jonathan Simental",
+      "opponentSlug": "272176-jonathan-simental-hammer",
+      "result": "win",
+      "method": "tko",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "4:32"
+    },
+    {
+      "date": "2015-10-29T00:00:00.000Z",
+      "opponent": "Manuel Torres",
+      "opponentSlug": "108621-manuel-torres",
+      "result": "win",
+      "method": "tko",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2015-05-30T00:00:00.000Z",
+      "opponent": "Jorge Diaz",
+      "opponentSlug": "114414-jorge-diaz-the-killer",
+      "result": "win",
+      "method": "sub",
+      "event": "Xtreme Kombat 30",
+      "eventSlug": "31123-xtreme-kombat-30",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-01T00:00:00.000Z",
+      "opponent": "Gabriel Hernandez",
+      "opponentSlug": "79922-gabriel-hernandez-ojos",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-05-29T00:00:00.000Z",
+      "opponent": "Jorge Martinez",
+      "opponentSlug": "29216-jorge-martinez",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:18:47.360Z"
+}

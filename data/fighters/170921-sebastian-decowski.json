@@ -1,0 +1,154 @@
+{
+  "slug": "170921-sebastian-decowski",
+  "name": "Sebastian Decowski",
+  "nickname": "Joker",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 174,
+  "reachCm": 169,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Wydrze, Poland",
+  "url": "https://www.tapology.com/fightcenter/fighters/170921-sebastian-decowski",
+  "recentFights": [
+    {
+      "date": "2026-04-18T00:00:00.000Z",
+      "opponent": "Tobiasz Le",
+      "opponentSlug": "162087-tobiasz-le",
+      "result": null,
+      "method": "other",
+      "event": "KSW 117: Pawlak vs. Khalidov",
+      "eventSlug": "140146-ksw-117-de-fries-vs-wojcik",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-20T00:00:00.000Z",
+      "opponent": "Przemysław Górny",
+      "opponentSlug": "79146-przemysaw-grny",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 110: Grzebyk vs. Tulshaev",
+      "eventSlug": "129565-ksw-110",
+      "round": 1,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2025-04-05T00:00:00.000Z",
+      "opponent": "Krzysztof Braciszewski",
+      "opponentSlug": "83570-krzysztof-braciszewski",
+      "result": "win",
+      "method": "sub",
+      "event": "SSW Fight Night 3",
+      "eventSlug": "123515-sww-fight-night-3",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-12-14T00:00:00.000Z",
+      "opponent": "Zoltan Segedi",
+      "opponentSlug": "385778-zolika-segedi",
+      "result": "win",
+      "method": "tko",
+      "event": "Strife 11",
+      "eventSlug": "121445-strife-11",
+      "round": 1,
+      "timeInRound": "0:38"
+    },
+    {
+      "date": "2024-06-15T00:00:00.000Z",
+      "opponent": "Sardor Ochilov",
+      "opponentSlug": "384075-sardor-ochirov",
+      "result": "win",
+      "method": "other",
+      "event": "FEN 55: Abdurzakov vs. Pietrzak",
+      "eventSlug": "113817-fen-55",
+      "round": 1,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2022-10-08T00:00:00.000Z",
+      "opponent": "Hama Dara",
+      "opponentSlug": "239124-mohammad-ali",
+      "result": "win",
+      "method": "tko",
+      "event": "FSC 5: Hardcorowe Kaszëbë",
+      "eventSlug": "92060-fsc-5-hardcorowe-kaszebe",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-07T00:00:00.000Z",
+      "opponent": "Wiktor Adamski",
+      "opponentSlug": "307549-wiktor-adamski",
+      "result": "win",
+      "method": "other",
+      "event": "SSW Fight Night 1",
+      "eventSlug": "89362-ssw-fight-night",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-08T00:00:00.000Z",
+      "opponent": "Dominik Dymiński",
+      "opponentSlug": "241564-dominik-dyminski",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Armia Fight Night Special Edition",
+      "eventSlug": "78163-arma-fight-night-special-edition",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-01-22T00:00:00.000Z",
+      "opponent": "Shamad Erzanukaev",
+      "opponentSlug": "131808-shamad-erzanukaev",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Armia Fight Night 9",
+      "eventSlug": "74881-armia-fight-night-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-10-02T00:00:00.000Z",
+      "opponent": "Konrad Król",
+      "opponentSlug": "272811-konrad-krol",
+      "result": "win",
+      "method": "other",
+      "event": "Wieczór Walk 7",
+      "eventSlug": "72835-wieczor-walk-7",
+      "round": 1,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2020-06-20T00:00:00.000Z",
+      "opponent": "Jakub Drozdowski",
+      "opponentSlug": "172986-jakub-drozdowski",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Krwawy Sport 1",
+      "eventSlug": "69848-krwawy-sport-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-15T00:00:00.000Z",
+      "opponent": "Abdallah Bellaoui",
+      "opponentSlug": "190015-abdallah-bellaoui",
+      "result": "win",
+      "method": "tko",
+      "event": "Carpathian Warriors 8",
+      "eventSlug": "66945-carpathian-warriors-8-polska-vs-francja",
+      "round": 1,
+      "timeInRound": "1:51"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:03:29.456Z"
+}

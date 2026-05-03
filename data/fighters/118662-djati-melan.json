@@ -1,0 +1,110 @@
+{
+  "slug": "118662-djati-melan",
+  "name": "Djati Mélan",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Cote D'Ivoire",
+  "url": "https://www.tapology.com/fightcenter/fighters/118662-djati-melan",
+  "recentFights": [
+    {
+      "date": "2022-04-02T00:00:00.000Z",
+      "opponent": "Christian Leroy Duncan",
+      "opponentSlug": "116334-christian-duncan",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 136",
+      "eventSlug": "86255-cage-warriors-136",
+      "round": 3,
+      "timeInRound": "0:40"
+    },
+    {
+      "date": "2021-12-10T00:00:00.000Z",
+      "opponent": "Matthew Bonner",
+      "opponentSlug": "93532-matthew-bonner",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 131",
+      "eventSlug": "83198-cage-warriors-131",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-14T00:00:00.000Z",
+      "opponent": "Eslam Abdul Baset",
+      "opponentSlug": "88569-islam-abdul-baset",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Ares FC 1",
+      "eventSlug": "63668-ares-fighting-championship-ares-fc-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-02-16T00:00:00.000Z",
+      "opponent": "Robert Valentin",
+      "opponentSlug": "136498-robert-valentin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Lions FC 8",
+      "eventSlug": "57627-lions-fc-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-02-18T00:00:00.000Z",
+      "opponent": "Arvydas Juska",
+      "opponentSlug": "54695-arvydas-juska",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 80",
+      "eventSlug": "43058-cage-warriors",
+      "round": 1,
+      "timeInRound": "4:51"
+    },
+    {
+      "date": "2016-11-12T00:00:00.000Z",
+      "opponent": "Timour Mousayev",
+      "opponentSlug": "116895-timour-mousayev",
+      "result": "win",
+      "method": "other",
+      "event": "Octagon Fighting Club 16",
+      "eventSlug": "42771-octagon-fighting-club-16",
+      "round": 1,
+      "timeInRound": "3:20"
+    },
+    {
+      "date": "2015-12-13T00:00:00.000Z",
+      "opponent": "Michael Haupert",
+      "opponentSlug": "78809-michael-haupert",
+      "result": "win",
+      "method": "other",
+      "event": "Aggrelin 9",
+      "eventSlug": "37282-aggrelin-9",
+      "round": 2,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2015-07-04T00:00:00.000Z",
+      "opponent": "Jean Phael Promeneur",
+      "opponentSlug": "47248-jean-phael-promeneur",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:57:39.544Z"
+}

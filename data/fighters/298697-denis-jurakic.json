@@ -1,0 +1,99 @@
+{
+  "slug": "298697-denis-jurakic",
+  "name": "Denis Jurakić",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Serbia",
+  "url": "https://www.tapology.com/fightcenter/fighters/298697-denis-jurakic",
+  "recentFights": [
+    {
+      "date": "2023-10-21T00:00:00.000Z",
+      "opponent": "Teo Saldana Smith",
+      "opponentSlug": "187648-teo-saldana-smith",
+      "result": "loss",
+      "method": "other",
+      "event": "ARMMADA 6",
+      "eventSlug": "105670-armmada-6",
+      "round": 2,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2022-09-03T00:00:00.000Z",
+      "opponent": "Nejc Preložnik",
+      "opponentSlug": "151466-nejc-preloznik",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "FNC 7: Vitasović vs Gerônimo",
+      "eventSlug": "91583-fnc-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-26T00:00:00.000Z",
+      "opponent": "Simone D'Anna",
+      "opponentSlug": "131207-simone-danna",
+      "result": "win",
+      "method": "tko",
+      "event": "FNC 5",
+      "eventSlug": "87828-fight-nations-championship-5",
+      "round": 1,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2022-02-26T00:00:00.000Z",
+      "opponent": "Samuel Bark",
+      "opponentSlug": "229953-samuel-bark-sammon-decker",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fight Club Rush 11",
+      "eventSlug": "85841-fight-club-rush-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-04T00:00:00.000Z",
+      "opponent": "Mateo Bolfan",
+      "opponentSlug": "229569-mateo-bolfan",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Armagedon 2 Finals",
+      "eventSlug": "83880-armagedon-2-finals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-11T00:00:00.000Z",
+      "opponent": "Vittorio Amodeo",
+      "opponentSlug": "308758-vittorio-amodeo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FNC Armagedon Semifinals",
+      "eventSlug": "82035-armagedon-quarterfinals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-10T00:00:00.000Z",
+      "opponent": "Mateo Bolfan",
+      "opponentSlug": "229569-mateo-bolfan",
+      "result": "win",
+      "method": "sub",
+      "event": "FNC Armagedon 2 Quarterfinals",
+      "eventSlug": "79787-fnc-armageddon-2",
+      "round": 1,
+      "timeInRound": "3:50"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:05:24.429Z"
+}

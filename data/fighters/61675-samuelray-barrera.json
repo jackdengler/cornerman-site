@@ -1,0 +1,66 @@
+{
+  "slug": "61675-samuelray-barrera",
+  "name": "Samuelray Barrera",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 191,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "California",
+  "url": "https://www.tapology.com/fightcenter/fighters/61675-samuelray-barrera",
+  "recentFights": [
+    {
+      "date": "2018-12-06T00:00:00.000Z",
+      "opponent": "Dejon Daniels",
+      "opponentSlug": "47888-dejon-daniels",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Club OC",
+      "eventSlug": "57027-fcoc-54",
+      "round": 3,
+      "timeInRound": "1:52"
+    },
+    {
+      "date": "2017-09-02T00:00:00.000Z",
+      "opponent": "Michael Siala",
+      "opponentSlug": "159640-michael-siala-mighty-mo-jr",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "KOTC: Never Quit",
+      "eventSlug": "47779-kotc-never-quit",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-25T00:00:00.000Z",
+      "opponent": "Raamses Casarez",
+      "opponentSlug": "125074-raamses-casarez",
+      "result": "win",
+      "method": "tko",
+      "event": "Knockout MMA",
+      "eventSlug": "44998-knockout-mma-barrera-vs-casarez",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2014-02-09T00:00:00.000Z",
+      "opponent": "Ozzy Diaz",
+      "opponentSlug": "61676-ozzy-diaz",
+      "result": "loss",
+      "method": "other",
+      "event": "University of MMA",
+      "eventSlug": "22181-university-of-mma-fight-night-5",
+      "round": 2,
+      "timeInRound": "2:05"
+    }
+  ],
+  "lastVerified": "2026-04-25T23:02:45.115Z"
+}

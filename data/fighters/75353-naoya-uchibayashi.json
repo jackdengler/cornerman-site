@@ -1,0 +1,198 @@
+{
+  "slug": "75353-naoya-uchibayashi",
+  "name": "Naoya Uchibayashi",
+  "nickname": "Agodeman",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 9,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 169,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Hyogo, Japan",
+  "url": "https://www.tapology.com/fightcenter/fighters/75353-naoya-uchibayashi",
+  "recentFights": [
+    {
+      "date": "2020-02-23T00:00:00.000Z",
+      "opponent": "Yuki Ueda",
+      "opponentSlug": "146664-yuki-ueda",
+      "result": "loss",
+      "method": "sub",
+      "event": "GLADIATOR 012",
+      "eventSlug": "67331-gladiator-012",
+      "round": 1,
+      "timeInRound": "3:27"
+    },
+    {
+      "date": "2020-01-26T00:00:00.000Z",
+      "opponent": "Koichi Akiyama",
+      "opponentSlug": "227768-koichi-akiyama",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WARDOG Cage Fight 24 x GRACHAN 43",
+      "eventSlug": "66053-wardog-cage-fight-24-x-grachan-43",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-24T00:00:00.000Z",
+      "opponent": "Takamasa Nogi",
+      "opponentSlug": "246203-takamasa-nogi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "DEEP Nagoya Impact 2019",
+      "eventSlug": "65117-deep-nagoya-impact-2019-kobudo-fight",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-06T00:00:00.000Z",
+      "opponent": "Jack Jenkins",
+      "opponentSlug": "134851-jack-jenkins",
+      "result": "loss",
+      "method": "sub",
+      "event": "Hex Fight Series 19",
+      "eventSlug": "61244-hex-fight-series-19",
+      "round": 1,
+      "timeInRound": "3:36"
+    },
+    {
+      "date": "2019-08-13T00:00:00.000Z",
+      "opponent": "Naoki Ueda",
+      "opponentSlug": "62222-naoki-ueda",
+      "result": "loss",
+      "method": "sub",
+      "event": "SWAT! 170",
+      "eventSlug": "61918-swat-170",
+      "round": 1,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2019-07-14T00:00:00.000Z",
+      "opponent": "Yuto Aragaki",
+      "opponentSlug": "136922-yuto-aragaki",
+      "result": "loss",
+      "method": "sub",
+      "event": "Wardog Cage Fight 22",
+      "eventSlug": "61225-wardog-cage-fight-22-triple-title-match",
+      "round": 2,
+      "timeInRound": "1:17"
+    },
+    {
+      "date": "2019-05-26T00:00:00.000Z",
+      "opponent": "Haruki Yamaguchi",
+      "opponentSlug": "161515-haruki-yamaguchi",
+      "result": "win",
+      "method": "tko",
+      "event": "DEEP Nagoya Impact",
+      "eventSlug": "60794-deep-nagoya-impact-kobudo-fight",
+      "round": 1,
+      "timeInRound": "4:51"
+    },
+    {
+      "date": "2018-04-29T00:00:00.000Z",
+      "opponent": "Tsubasa Kamino",
+      "opponentSlug": "102590-tsubasa-kamino",
+      "result": "loss",
+      "method": "sub",
+      "event": "Wardog Cage Fight 17",
+      "eventSlug": "51666-wardog-cage-fight-17",
+      "round": 1,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2018-01-28T00:00:00.000Z",
+      "opponent": "Joy Wakamatsu",
+      "opponentSlug": "170254-joy-wakamatsu",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Wardog Cage Fight 16 x GRACHAN 33",
+      "eventSlug": "49886-wardog-cage-fight-16-x-grachan-33",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-01-29T00:00:00.000Z",
+      "opponent": "Tomoya Kobayashi",
+      "opponentSlug": "162513-tomoya",
+      "result": "draw",
+      "method": "dec-majority",
+      "event": "Wardog Cage Fight 12 x GRACHAN 27",
+      "eventSlug": "42878-wardog-cage-fight-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-23T00:00:00.000Z",
+      "opponent": "David Neal",
+      "opponentSlug": "221245-david-neal",
+      "result": "win",
+      "method": "other",
+      "event": "ACCEL 35: End of the Year 2016",
+      "eventSlug": "59905-accel-35-end-of-the-year-2016",
+      "round": 1,
+      "timeInRound": "0:14"
+    },
+    {
+      "date": "2016-11-20T00:00:00.000Z",
+      "opponent": "Raiki Endo",
+      "opponentSlug": "125851-kisugi-endo",
+      "result": "loss",
+      "method": "sub",
+      "event": "D-Spiral 17 x GRACHAN 25.5",
+      "eventSlug": "42523-d-spiral-17-x-grachan-255-road-to-world",
+      "round": 2,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2016-08-11T00:00:00.000Z",
+      "opponent": "Taiga Urabe",
+      "opponentSlug": "111455-taiga-urabe-octopus",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "ACCEL 34: Midsummer Martial Arts War",
+      "eventSlug": "42400-accel-34-the-main-event",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-29T00:00:00.000Z",
+      "opponent": "Yutaka Imamura",
+      "opponentSlug": "92297-yutaka-imamura",
+      "result": "loss",
+      "method": "other",
+      "event": "Wardog Cage Fight 9",
+      "eventSlug": "38378-wardog-cage-fight-9",
+      "round": 1,
+      "timeInRound": "4:06"
+    },
+    {
+      "date": "2015-12-27T00:00:00.000Z",
+      "opponent": "Masato Nakao",
+      "opponentSlug": "142795-masato-nakao",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ACCEL 32: End of the Year 2015",
+      "eventSlug": "42401-accel-32-end-of-the-year",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-09-07T00:00:00.000Z",
+      "opponent": "Yoshihiro Kasai",
+      "opponentSlug": "75354-yoshihiro-kasai",
+      "result": "win",
+      "method": "tko",
+      "event": "The Outsider 32",
+      "eventSlug": "25287-the-outsider-32",
+      "round": 1,
+      "timeInRound": "0:23"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:58:12.074Z"
+}

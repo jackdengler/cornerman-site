@@ -1,0 +1,231 @@
+{
+  "slug": "13318-sidemar-honorio",
+  "name": "Sidemar Honorio",
+  "nickname": "Sideco",
+  "aliases": [],
+  "recordPro": {
+    "wins": 13,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": 175,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1980-05-05",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/13318-sidemar-honorio",
+  "recentFights": [
+    {
+      "date": "2022-03-04T00:00:00.000Z",
+      "opponent": "Joseph Morales",
+      "opponentSlug": "72613-joseph-morales",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Cage Warriors 133",
+      "eventSlug": "85629-cage-warriors-133",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-08-08T00:00:00.000Z",
+      "opponent": "Umar Nurmagomedov",
+      "opponentSlug": "134206-omar-nurmagomedov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "PFL 2019 #6",
+      "eventSlug": "58911-pfl-2019-6-regular-season",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-15T00:00:00.000Z",
+      "opponent": "Liudvik Sholinian",
+      "opponentSlug": "188137-ludwig-sholinyan",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bellator 209",
+      "eventSlug": "54870-bellator-pitbull-vs-sanchez",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-01T00:00:00.000Z",
+      "opponent": "Jesus Urbina",
+      "opponentSlug": "42839-jesus-urbina",
+      "result": "win",
+      "method": "dec-split",
+      "event": "KOTC: Regulator",
+      "eventSlug": "46678-kotc-regulator",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-03-19T00:00:00.000Z",
+      "opponent": "Louis Gaudinot",
+      "opponentSlug": "11290-louis-gaudinot",
+      "result": "loss",
+      "method": "other",
+      "event": "CFFC 57: Honorio vs. Gaudinot",
+      "eventSlug": "38306-cffc-57",
+      "round": 1,
+      "timeInRound": "0:59"
+    },
+    {
+      "date": "2015-06-06T00:00:00.000Z",
+      "opponent": "Lincon de Sá",
+      "opponentSlug": "16040-lincoln-de-sa",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CFFC 49: Honorio vs. de Sa",
+      "eventSlug": "31217-cffc-49",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-12-13T00:00:00.000Z",
+      "opponent": "Darren Mima",
+      "opponentSlug": "16331-darren-mima",
+      "result": "win",
+      "method": "other",
+      "event": "CFFC 44: Bezerra vs Makashvili",
+      "eventSlug": "27878-xfe-47-cffc-44",
+      "round": 1,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2014-09-13T00:00:00.000Z",
+      "opponent": "Matt Lozano",
+      "opponentSlug": "32235-matt-lozano",
+      "result": "win",
+      "method": "other",
+      "event": "WSOF 13: Moraes vs. Bollinger",
+      "eventSlug": "25740-wsof-13-moraes-vs-hill",
+      "round": 3,
+      "timeInRound": "0:28"
+    },
+    {
+      "date": "2014-01-18T00:00:00.000Z",
+      "opponent": "Alexis Vila",
+      "opponentSlug": "alexis-vila",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "WSOF 8: Gaethje vs. Patishnock",
+      "eventSlug": "21575-wsof-8-johnson-vs-kyle",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-09-14T00:00:00.000Z",
+      "opponent": "Jimmie Rivera",
+      "opponentSlug": "jimmie-rivera-el-terror",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "WSOF 5: Arlovski vs. Kyle",
+      "eventSlug": "19388-wsof-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-08-24T00:00:00.000Z",
+      "opponent": "Aljamain Sterling",
+      "opponentSlug": "aljamain-sterling",
+      "result": "loss",
+      "method": "sub",
+      "event": "CFFC 16",
+      "eventSlug": "13985-cffc-16",
+      "round": 2,
+      "timeInRound": "4:05"
+    },
+    {
+      "date": "2012-04-21T00:00:00.000Z",
+      "opponent": "Casey Johnson",
+      "opponentSlug": "18333-casey-johnson-full-speed",
+      "result": "win",
+      "method": "dec-split",
+      "event": "XCC: Relentless",
+      "eventSlug": "13342-xcc-relentless",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-04-21T00:00:00.000Z",
+      "opponent": "Sean Santella",
+      "opponentSlug": "sean-santella-shorty-rock",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-10-02T00:00:00.000Z",
+      "opponent": "Jim Carey",
+      "opponentSlug": "17095-james-carey-jim",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-08-22T00:00:00.000Z",
+      "opponent": "Tommy Vargas",
+      "opponentSlug": "tommy-vargas",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-02-14T00:00:00.000Z",
+      "opponent": "Martin Bautista",
+      "opponentSlug": "2618-martin-bautista",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-01-23T00:00:00.000Z",
+      "opponent": "Mike Powell",
+      "opponentSlug": "mike-powell",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-08-30T00:00:00.000Z",
+      "opponent": "Dwayne Shelton",
+      "opponentSlug": "2230-dwayne-shelton",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-08-15T00:00:00.000Z",
+      "opponent": "Cody Bell",
+      "opponentSlug": "3904-cody-bell",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:31:47.408Z"
+}

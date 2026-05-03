@@ -1,0 +1,132 @@
+{
+  "slug": "36748-michal-nepras",
+  "name": "Michal Nepraš",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1993-11-02",
+  "nationality": "Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/36748-michal-nepras",
+  "recentFights": [
+    {
+      "date": "2022-02-26T00:00:00.000Z",
+      "opponent": "Vladimír Lengál",
+      "opponentSlug": "305714-vladimir-lengal-vlado",
+      "result": "loss",
+      "method": "tko",
+      "event": "OKTAGON 31",
+      "eventSlug": "85465-oktagon-31",
+      "round": 3,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2021-07-16T00:00:00.000Z",
+      "opponent": "Radek Gašník",
+      "opponentSlug": "197442-radek-gasnik",
+      "result": "win",
+      "method": "sub",
+      "event": "IAF Fight Night 1",
+      "eventSlug": "80784-i-am-fighter-fight-night-vol-1",
+      "round": 2,
+      "timeInRound": "2:57"
+    },
+    {
+      "date": "2017-12-16T00:00:00.000Z",
+      "opponent": "Tanas Skevopulos",
+      "opponentSlug": "130239-tanas-skevopulos",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Victory FC League 7",
+      "eventSlug": "49739-victory-fighting-championship-league-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-07T00:00:00.000Z",
+      "opponent": "Vojto Barborík",
+      "opponentSlug": "36766-vojto-barborik",
+      "result": "loss",
+      "method": "sub",
+      "event": "Oktagon 2",
+      "eventSlug": "45228-oktagon-2",
+      "round": 2,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2016-12-18T00:00:00.000Z",
+      "opponent": "Sebastian Ulitzka",
+      "opponentSlug": "63752-sebastian-ulitzka",
+      "result": "win",
+      "method": "other",
+      "event": "Aggrelin 15",
+      "eventSlug": "42770-aggrelin-15",
+      "round": 1,
+      "timeInRound": "3:45"
+    },
+    {
+      "date": "2016-09-11T00:00:00.000Z",
+      "opponent": "Vojtěch Hrabčík",
+      "opponentSlug": "113315-vojtch-hrabk",
+      "result": "win",
+      "method": "other",
+      "event": "GCF 35: Cage Fight Olomouc 4",
+      "eventSlug": "39811-gcf-35-cage-fight-olomouc-4",
+      "round": 1,
+      "timeInRound": "0:18"
+    },
+    {
+      "date": "2016-03-04T00:00:00.000Z",
+      "opponent": "Tomáš Zajac",
+      "opponentSlug": "116855-tomas-zajac",
+      "result": "win",
+      "method": "sub",
+      "event": "Fusion FN 4",
+      "eventSlug": "38274-fusion-fight-night-series-4-cage-fight-7",
+      "round": 3,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2015-03-28T00:00:00.000Z",
+      "opponent": "Benedikt Wehner",
+      "opponentSlug": "83637-benedikt-wehner",
+      "result": "loss",
+      "method": "other",
+      "event": "Young Blood Night Vol. 4",
+      "eventSlug": "30015-young-blood-night-vol-4-prima-victoria",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2013-02-15T00:00:00.000Z",
+      "opponent": "Petr Vacek",
+      "opponentSlug": "36727-petr-vacek",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-08-24T00:00:00.000Z",
+      "opponent": "Petr Vacek",
+      "opponentSlug": "36727-petr-vacek",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:06:33.446Z"
+}

@@ -1,0 +1,154 @@
+{
+  "slug": "108357-borys-borkowski",
+  "name": "Borys Borkowski",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 191,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1997-07-17",
+  "nationality": "Poland",
+  "url": "https://www.tapology.com/fightcenter/fighters/108357-borys-borkowski",
+  "recentFights": [
+    {
+      "date": "2024-09-14T00:00:00.000Z",
+      "opponent": "Steven Krt",
+      "opponentSlug": "159342-steven-krt",
+      "result": "loss",
+      "method": "other",
+      "event": "KSW 98: Paczuski vs. Zerhouni",
+      "eventSlug": "116155-ksw-98",
+      "round": 2,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2023-03-17T00:00:00.000Z",
+      "opponent": "Kacper Koziorzębski",
+      "opponentSlug": "113789-kacper-koziorzbski",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "KSW 80: Ruchała vs. Eskijev",
+      "eventSlug": "97604-ksw-80",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-20T00:00:00.000Z",
+      "opponent": "Dominik Humburger",
+      "opponentSlug": "169531-dominik-humburger",
+      "result": "loss",
+      "method": "other",
+      "event": "KSW 73: Wrzosek vs. Sarara",
+      "eventSlug": "90418-ksw-73",
+      "round": 2,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2022-02-26T00:00:00.000Z",
+      "opponent": "Arkadiusz Kaszuba",
+      "opponentSlug": "276216-arkadiusz-kaszuba",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 67: De Fries vs. Stošić",
+      "eventSlug": "86030-ksw-67",
+      "round": 1,
+      "timeInRound": "3:55"
+    },
+    {
+      "date": "2021-07-17T00:00:00.000Z",
+      "opponent": "Marcin Krakowiak",
+      "opponentSlug": "109202-marcin-krakowiak",
+      "result": "loss",
+      "method": "other",
+      "event": "KSW 62: Kołecki vs. Szostak",
+      "eventSlug": "79667-ksw-62",
+      "round": 1,
+      "timeInRound": "1:03"
+    },
+    {
+      "date": "2021-06-26T00:00:00.000Z",
+      "opponent": "Radosław Tarnawa",
+      "opponentSlug": "60103-radoslaw-tarnawa",
+      "result": "win",
+      "method": "other",
+      "event": "Celtic Gladiator 29",
+      "eventSlug": "48236-spartan-fight-vs-carpathian-warriors",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2019-10-26T00:00:00.000Z",
+      "opponent": "Marcin Rębecki",
+      "opponentSlug": "80729-marcin-rbecki",
+      "result": "win",
+      "method": "tko",
+      "event": "Gladiator Arena 13",
+      "eventSlug": "61837-gladiator-arena-13",
+      "round": 1,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2018-10-06T00:00:00.000Z",
+      "opponent": "Samuel Vogt",
+      "opponentSlug": "129200-samuel-vogt",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Gladiator Arena 12",
+      "eventSlug": "55740-gladiator-arena-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-10-14T00:00:00.000Z",
+      "opponent": "Krzysztof Nowak",
+      "opponentSlug": "168555-krzysztof-nowak",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Gala Sportów Walki w Międzychodzie 8",
+      "eventSlug": "45199-gala-sportw-w-midzychodzie-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-03T00:00:00.000Z",
+      "opponent": "Kamil Kozak",
+      "opponentSlug": "139419-kamil-kozak",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Gladiator Arena 11",
+      "eventSlug": "41229-gladiator-arena-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-12-12T00:00:00.000Z",
+      "opponent": "Dawid Łada",
+      "opponentSlug": "48588-dawid-ada",
+      "result": "win",
+      "method": "sub",
+      "event": "Gladiator Arena 9",
+      "eventSlug": "32070-gladiator-arena-9",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-29T00:00:00.000Z",
+      "opponent": "Kamil Betlewicz",
+      "opponentSlug": "108355-kamil-betlewicz",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Gladiator Arena 8",
+      "eventSlug": "32069-gladiator-arena-8",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:03:25.528Z"
+}

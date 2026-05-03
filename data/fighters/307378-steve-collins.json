@@ -1,0 +1,165 @@
+{
+  "slug": "307378-steve-collins",
+  "name": "Steve Collins",
+  "nickname": "Scuba",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "2001-03-03",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/307378-steve-collins",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Cole Faust",
+      "opponentSlug": "232186-cole-faust",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 231: Lozej vs. Ibarra",
+      "eventSlug": "140675-lfa-231-trembley-vs-johns",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-21T00:00:00.000Z",
+      "opponent": "Kyle Pufahl",
+      "opponentSlug": "287724-kyle-pufahl",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 223: Francischinelli vs. Piersma",
+      "eventSlug": "133540-lfa-223",
+      "round": 1,
+      "timeInRound": "4:01"
+    },
+    {
+      "date": "2025-06-13T00:00:00.000Z",
+      "opponent": "Gaberial Brown",
+      "opponentSlug": "192302-gaberial-brown-crazy-eye",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 210: Lawrence vs. Reyes",
+      "eventSlug": "126691-lfa-210",
+      "round": 1,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2025-01-25T00:00:00.000Z",
+      "opponent": "Kelton Sneve",
+      "opponentSlug": "213615-kelton-sneve",
+      "result": "win",
+      "method": "dec-split",
+      "event": "LFA 200: Johns vs. Douglas",
+      "eventSlug": "120838-lfa-200",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-20T00:00:00.000Z",
+      "opponent": "Richard Daffron",
+      "opponentSlug": "211798-richard-daffron",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 193: Bowers vs. Borisova",
+      "eventSlug": "115812-lfa-193",
+      "round": 1,
+      "timeInRound": "3:33"
+    },
+    {
+      "date": "2023-11-03T00:00:00.000Z",
+      "opponent": "Brennan McKisick",
+      "opponentSlug": "128870-brennan-mckisick",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CFFC 127: Kline vs. Cova",
+      "eventSlug": "106215-cffc-127",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-12T00:00:00.000Z",
+      "opponent": "Raja Jackson",
+      "opponentSlug": "315159-raja-jackson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "United Fight League 3",
+      "eventSlug": "101984-united-fight-league-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-04-23T00:00:00.000Z",
+      "opponent": "Jermaine Anthony",
+      "opponentSlug": "235944-jermaine-anthony",
+      "result": "win",
+      "method": "other",
+      "event": "Anthony Pettis FC 4",
+      "eventSlug": "98572-anthony-pettis-fc-4-night-of-champions",
+      "round": 2,
+      "timeInRound": "2:21"
+    },
+    {
+      "date": "2022-11-19T00:00:00.000Z",
+      "opponent": "Trevon Lawson",
+      "opponentSlug": "201336-trey-lawson",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Brawl @ Bourbon Street 5",
+      "eventSlug": "85331-ignite-fights-brawl-at-bourbon-street-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-23T00:00:00.000Z",
+      "opponent": "Miljan Djukanovic",
+      "opponentSlug": "272784-miljan-djukanovic",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Compass Fight Series 1",
+      "eventSlug": "88513-compass-fight-series-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-29T00:00:00.000Z",
+      "opponent": "Scottie Sopko",
+      "opponentSlug": "291498-scottie-sopko",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "FCE 73: Victory 2022",
+      "eventSlug": "88327-fce-73",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-27T00:00:00.000Z",
+      "opponent": "Isaiah Flores",
+      "opponentSlug": "312414-isaiah-flores",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FCE 71: Cross the Line 2022",
+      "eventSlug": "85997-fight-card-entertainment-cross-the-line",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-27T00:00:00.000Z",
+      "opponent": "Dillon Gattie",
+      "opponentSlug": "307379-dillon-gattie",
+      "result": "win",
+      "method": "tko",
+      "event": "Brawl @ Bourbon Street",
+      "eventSlug": "80854-ignite-fights-brawl-bourbon-street",
+      "round": 2,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:59:37.738Z"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "499517-taryn-swartz",
+  "name": "Taryn Swartz",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1999-05-31",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/499517-taryn-swartz",
+  "recentFights": [
+    {
+      "date": "2025-05-31T00:00:00.000Z",
+      "opponent": "Kayara Hartfield",
+      "opponentSlug": "499516-kayara-hartfield",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Ascendancy FC 67",
+      "eventSlug": "128546-ascendancy-fc-67",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T09:06:50.270Z"
+}

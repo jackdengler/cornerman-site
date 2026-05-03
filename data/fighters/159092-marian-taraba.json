@@ -1,0 +1,99 @@
+{
+  "slug": "159092-marian-taraba",
+  "name": "Marián Taraba",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/159092-marian-taraba",
+  "recentFights": [
+    {
+      "date": "2019-04-27T00:00:00.000Z",
+      "opponent": "Petr Bartoněk",
+      "opponentSlug": "86333-petr-bartonk",
+      "result": "loss",
+      "method": "sub",
+      "event": "GCF 48: Big Cage 6",
+      "eventSlug": "59909-gcf-48-big-cage-6",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-10T00:00:00.000Z",
+      "opponent": "Jan Meixner",
+      "opponentSlug": "165387-jan-meixner",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "GCF 40: Cage Fight Olomouc 5",
+      "eventSlug": "44617-gcf-40-cage-fight-olomouc-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-26T00:00:00.000Z",
+      "opponent": "David Tiep",
+      "opponentSlug": "173968-tiep-cai-xuan",
+      "result": "loss",
+      "method": "other",
+      "event": "MMAA Arena Cup 42",
+      "eventSlug": "52832-mmaa-arena-cup-42-2017-18-mcr-final",
+      "round": 2,
+      "timeInRound": "0:54"
+    },
+    {
+      "date": "2018-01-28T00:00:00.000Z",
+      "opponent": "Dominik Humburger",
+      "opponentSlug": "169531-dominik-humburger",
+      "result": "loss",
+      "method": "tko",
+      "event": "GCF 42: Cage Fight Nymburk 2",
+      "eventSlug": "50198-gcf-42-cage-fight-nymburk-2",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-16T00:00:00.000Z",
+      "opponent": "Lukáš Piffko",
+      "opponentSlug": "173800-luk-piffko",
+      "result": "loss",
+      "method": "other",
+      "event": "MMAA Arena Cup 38",
+      "eventSlug": "49422-mmaa-arena-cup-38",
+      "round": 2,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2017-11-25T00:00:00.000Z",
+      "opponent": "Vlado Horváth",
+      "opponentSlug": "172017-vlado-horvth",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "MMAA Arena Cup 37",
+      "eventSlug": "49151-mmaa-arena-cup-37-tet-kolo-mistrovstv-r-v-mma",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-27T00:00:00.000Z",
+      "opponent": "Victor Espinoza",
+      "opponentSlug": "159091-victor-espinoza",
+      "result": "win",
+      "method": "other",
+      "event": "MMAA Arena Cup 33",
+      "eventSlug": "46183-mmaa-arena-cup-33",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:03:48.025Z"
+}

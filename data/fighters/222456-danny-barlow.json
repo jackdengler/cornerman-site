@@ -1,0 +1,220 @@
+{
+  "slug": "222456-danny-barlow",
+  "name": "Danny Barlow",
+  "nickname": "LeftHand2God",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": 201,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1995-08-02",
+  "nationality": "Memphis, Tennessee, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/222456-danny-barlow",
+  "recentFights": [
+    {
+      "date": "2025-10-18T00:00:00.000Z",
+      "opponent": "Djorden Santos",
+      "opponentSlug": "67529-diorden-maguila",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "129312-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-01T00:00:00.000Z",
+      "opponent": "Sam Patterson",
+      "opponentSlug": "52607-sam-patterson",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "120055-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "3:10"
+    },
+    {
+      "date": "2024-08-10T00:00:00.000Z",
+      "opponent": "Nikolay Veretennikov",
+      "opponentSlug": "74381-nikolai-veretenikov",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "112784-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-02-17T00:00:00.000Z",
+      "opponent": "Josh Quinlan",
+      "opponentSlug": "114123-josh-quinlan",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 298: Volkanovski vs. Topuria",
+      "eventSlug": "107060-ufc-298",
+      "round": 3,
+      "timeInRound": "1:18"
+    },
+    {
+      "date": "2023-09-26T00:00:00.000Z",
+      "opponent": "Raheam Forest",
+      "opponentSlug": "141733-raheam-forest-rambo",
+      "result": "win",
+      "method": "other",
+      "event": "Contender Series 2023",
+      "eventSlug": "100998-contender-series-2023-week-8",
+      "round": 1,
+      "timeInRound": "1:19"
+    },
+    {
+      "date": "2023-07-14T00:00:00.000Z",
+      "opponent": "Jarious Gill",
+      "opponentSlug": "288001-jarious-gill",
+      "result": "win",
+      "method": "other",
+      "event": "CFFC 121: Perez vs. Vasil",
+      "eventSlug": "102124-cffc-121-perez-vs-vasil",
+      "round": 1,
+      "timeInRound": "3:57"
+    },
+    {
+      "date": "2023-03-18T00:00:00.000Z",
+      "opponent": "Trevor Ollison",
+      "opponentSlug": "75587-trevor-ollison",
+      "result": "win",
+      "method": "tko",
+      "event": "Attitude MMA Fights 26",
+      "eventSlug": "97744-attitude-mma-fights-26",
+      "round": 1,
+      "timeInRound": "4:13"
+    },
+    {
+      "date": "2022-11-18T00:00:00.000Z",
+      "opponent": "Dustin Dipuma",
+      "opponentSlug": "90349-dustin-dipuma",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CFFC 115: Forest vs. Lubberts",
+      "eventSlug": "93910-cffc-115",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-23T00:00:00.000Z",
+      "opponent": "Jordan Fowler",
+      "opponentSlug": "91872-jordan-fowler",
+      "result": "win",
+      "method": "tko",
+      "event": "Attitude MMA Fights 23",
+      "eventSlug": "87714-attitude-mma-fights-23",
+      "round": 1,
+      "timeInRound": "3:13"
+    },
+    {
+      "date": "2022-03-19T00:00:00.000Z",
+      "opponent": "Lazaro Perez",
+      "opponentSlug": "60828-lazaro-perez-navajita",
+      "result": "win",
+      "method": "sub",
+      "event": "Freedom Fight Night",
+      "eventSlug": "87528-freedom-fight-night",
+      "round": 1,
+      "timeInRound": "3:16"
+    },
+    {
+      "date": "2021-10-29T00:00:00.000Z",
+      "opponent": "Cris Mims",
+      "opponentSlug": "268365-chris-mims",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "AKA 18",
+      "eventSlug": "83851-aka-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-24T00:00:00.000Z",
+      "opponent": "Dontail Henson",
+      "opponentSlug": "117625-dontall-henson",
+      "result": "win",
+      "method": "tko",
+      "event": "Attitude MMA Fights 21",
+      "eventSlug": "81265-attitude-mma-fights-21",
+      "round": 3,
+      "timeInRound": "2:10"
+    },
+    {
+      "date": "2021-05-01T00:00:00.000Z",
+      "opponent": "Phillip Hazelwood",
+      "opponentSlug": "296972-phillip-hazelwood",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hub City MMA",
+      "eventSlug": "78759-hub-city-mma-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-11-07T00:00:00.000Z",
+      "opponent": "Keith Dowell",
+      "opponentSlug": "192557-keith-dowell",
+      "result": "loss",
+      "method": "sub",
+      "event": "Summit FC 36",
+      "eventSlug": "73958-summit-fc-36",
+      "round": 2,
+      "timeInRound": "2:35"
+    },
+    {
+      "date": "2020-02-29T00:00:00.000Z",
+      "opponent": "Quadarrius McGinnis",
+      "opponentSlug": "201676-quadarrius-mcginnis",
+      "result": "win",
+      "method": "tko",
+      "event": "V3 Fights 78",
+      "eventSlug": "67649-v3-fights-78",
+      "round": 2,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2019-09-28T00:00:00.000Z",
+      "opponent": "TJ Welch",
+      "opponentSlug": "169096-terry-welch",
+      "result": "win",
+      "method": "sub",
+      "event": "Attitude MMA Fights 19",
+      "eventSlug": "62107-attitude-mma-fights-19",
+      "round": 3,
+      "timeInRound": "2:17"
+    },
+    {
+      "date": "2019-07-20T00:00:00.000Z",
+      "opponent": "Hildred West",
+      "opponentSlug": "187885-hildred-west",
+      "result": "win",
+      "method": "other",
+      "event": "Attitude MMA Fights 18",
+      "eventSlug": "61698-attitude-mma-fights-18",
+      "round": 2,
+      "timeInRound": "1:18"
+    },
+    {
+      "date": "2019-04-27T00:00:00.000Z",
+      "opponent": "Corbit Wallace",
+      "opponentSlug": "187893-corbit-wallace",
+      "result": "win",
+      "method": "tko",
+      "event": "Attitude MMA Fights 17",
+      "eventSlug": "59850-attitude-mma-fights-17",
+      "round": 1,
+      "timeInRound": "0:39"
+    }
+  ],
+  "lastVerified": "2026-04-25T23:03:46.332Z"
+}

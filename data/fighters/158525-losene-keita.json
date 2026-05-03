@@ -1,0 +1,253 @@
+{
+  "slug": "158525-losene-keita",
+  "name": "Losene Keita",
+  "nickname": "Black Panther",
+  "aliases": [],
+  "recordPro": {
+    "wins": 16,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 183,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1997-12-30",
+  "nationality": "Konakry, Conakry, Guinea",
+  "url": "https://www.tapology.com/fightcenter/fighters/158525-losene-keita",
+  "recentFights": [
+    {
+      "date": "2026-03-21T00:00:00.000Z",
+      "opponent": "Nathaniel Wood",
+      "opponentSlug": "27454-nathaniel-wood",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "136856-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-12-29T00:00:00.000Z",
+      "opponent": "Ronald Paradeiser",
+      "opponentSlug": "93432-ronald-paradeiser",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 65: Paradeiser vs. Keita 2",
+      "eventSlug": "116291-oktagon-65",
+      "round": 2,
+      "timeInRound": "4:02"
+    },
+    {
+      "date": "2024-09-21T00:00:00.000Z",
+      "opponent": "Mateusz Legierski",
+      "opponentSlug": "67799-mateusz-legierski",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 61: Paradeiser vs. Duque",
+      "eventSlug": "113352-oktagon-60",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-07-20T00:00:00.000Z",
+      "opponent": "Predrag Bogdanović",
+      "opponentSlug": "211528-predrag-bogdanovic",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 59: Summer Party",
+      "eventSlug": "111005-oktagon-59-summer-party",
+      "round": 2,
+      "timeInRound": "4:50"
+    },
+    {
+      "date": "2024-05-04T00:00:00.000Z",
+      "opponent": "Agy Sardari",
+      "opponentSlug": "128978-agy-sardary-the-wolverine",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 57: Eckerlin vs. Brož",
+      "eventSlug": "110513-oktagon-57",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-09T00:00:00.000Z",
+      "opponent": "Niko Samsonidse",
+      "opponentSlug": "89056-niko-samsonidse",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 50: Keita vs. Samsonidse",
+      "eventSlug": "98887-oktagon",
+      "round": 2,
+      "timeInRound": "0:23"
+    },
+    {
+      "date": "2023-07-29T00:00:00.000Z",
+      "opponent": "Mate Sanikidze",
+      "opponentSlug": "161763-mate-sanikidze",
+      "result": "loss",
+      "method": "other",
+      "event": "OKTAGON 45: Sanikidze vs Keita",
+      "eventSlug": "101388-oktagon-45",
+      "round": 1,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2023-04-29T00:00:00.000Z",
+      "opponent": "Jakub Tichota",
+      "opponentSlug": "159770-jakub-tichota",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 42: Keita vs. Tichota",
+      "eventSlug": "93085-oktagon-v-bratislave",
+      "round": 4,
+      "timeInRound": "3:53"
+    },
+    {
+      "date": "2023-02-11T00:00:00.000Z",
+      "opponent": "Samuel Bark",
+      "opponentSlug": "229953-samuel-bark-sammon-decker",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 39: Jungwirth vs. Neves",
+      "eventSlug": "94070-oktagon-39",
+      "round": 3,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2022-06-04T00:00:00.000Z",
+      "opponent": "Ivan Buchinger",
+      "opponentSlug": "4084-ivan-buchinger-buki",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 33",
+      "eventSlug": "89655-oktagon-33",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2022-02-26T00:00:00.000Z",
+      "opponent": "Ronald Paradeiser",
+      "opponentSlug": "93432-ronald-paradeiser",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 31",
+      "eventSlug": "85465-oktagon-31",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-04T00:00:00.000Z",
+      "opponent": "Karol Ryšavý",
+      "opponentSlug": "127463-karol-rysavy",
+      "result": "win",
+      "method": "tko",
+      "event": "OKTAGON 29",
+      "eventSlug": "84142-oktagon-29",
+      "round": 1,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2021-08-15T00:00:00.000Z",
+      "opponent": "Bartosz Gorczyca",
+      "opponentSlug": "306231-bartosz-gorczyca",
+      "result": "win",
+      "method": "tko",
+      "event": "WFL MMA 6: Keita vs. Gorczyca",
+      "eventSlug": "81047-wfl-mma-6",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-30T00:00:00.000Z",
+      "opponent": "Raymond Jarman",
+      "opponentSlug": "4869-raymond-jarman",
+      "result": "win",
+      "method": "other",
+      "event": "WFL MMA 5: The Ultimate Clash",
+      "eventSlug": "79085-wfl-mma-the-ultimate-clash",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-16T00:00:00.000Z",
+      "opponent": "Tayron Chavarro",
+      "opponentSlug": "188558-tayron-agtereek",
+      "result": "win",
+      "method": "other",
+      "event": "World Fighting League MMA 4",
+      "eventSlug": "66723-world-fighting-league-mma-4",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-07T00:00:00.000Z",
+      "opponent": "Soufiene Oudina",
+      "opponentSlug": "108627-sofiane-oudina",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ultimate Contest",
+      "eventSlug": "67748-ultimate-contest",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-02T00:00:00.000Z",
+      "opponent": "Karol Michalak",
+      "opponentSlug": "123508-karol-michalak",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ATLAS MMA 6",
+      "eventSlug": "64164-atlas-mma-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-05T00:00:00.000Z",
+      "opponent": "Gracjan Golebiowski",
+      "opponentSlug": "183506-gracian-golebiowski",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Strength & Honour Championship 15",
+      "eventSlug": "63351-strength-honour-championship-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-30T00:00:00.000Z",
+      "opponent": "Rudi Machleidt",
+      "opponentSlug": "190024-rudi-machleidt",
+      "result": "win",
+      "method": "other",
+      "event": "Vote MMA 7",
+      "eventSlug": "53569-vote-mma-7",
+      "round": 1,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2018-05-21T00:00:00.000Z",
+      "opponent": "Michel Giljam",
+      "opponentSlug": "188556-michel-giljam",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fight Club Den Haag",
+      "eventSlug": "53161-fight-club-den-haag",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-28T00:00:00.000Z",
+      "opponent": "Idriss Nguimeto",
+      "opponentSlug": "382376-idriss-tioguim-nguimeto",
+      "result": "win",
+      "method": "other",
+      "event": "360 Selection #1",
+      "eventSlug": "45997-360-selection-1",
+      "round": 1,
+      "timeInRound": "2:15"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:05:08.549Z"
+}

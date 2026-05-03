@@ -1,0 +1,37 @@
+{
+  "slug": "131562-andrew-noia",
+  "name": "Andrew Noia",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/131562-andrew-noia",
+  "recentFights": [
+    {
+      "date": "2016-04-30T00:00:00.000Z",
+      "opponent": "Dennis Buzukja",
+      "opponentSlug": "131561-dennis-buzukia",
+      "result": "loss",
+      "method": "tko",
+      "event": "KTFO 13",
+      "eventSlug": "38988-ktfo-13",
+      "round": 2,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:56:30.266Z"
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "121272-alex-de-paula-lekao",
+  "name": "Alex de Paula",
+  "nickname": "Lekão",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/121272-alex-de-paula-lekao",
+  "recentFights": [
+    {
+      "date": "2021-09-12T00:00:00.000Z",
+      "opponent": "Nursulton Ruziboev",
+      "opponentSlug": "89891-nursultan-ruziboev-black",
+      "result": "loss",
+      "method": "other",
+      "event": "Open Fighting Championship 10",
+      "eventSlug": "78323-open-fighting-championship",
+      "round": 1,
+      "timeInRound": "3:40"
+    },
+    {
+      "date": "2019-05-11T00:00:00.000Z",
+      "opponent": "Vitor Cesar Messias",
+      "opponentSlug": "234106-vitor-cesar-messias-vitinho",
+      "result": "win",
+      "method": null,
+      "event": "Champions Fight 10",
+      "eventSlug": "62336-champions-fight-10-prince-vs-tiger",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-28T00:00:00.000Z",
+      "opponent": "Riciely Romanelle",
+      "opponentSlug": "234108-riciely-romanelle-braga",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-02T00:00:00.000Z",
+      "opponent": "Marco Tulio",
+      "opponentSlug": "165750-marco-tulio-silva",
+      "result": "loss",
+      "method": "tko",
+      "event": "Federação Fight 6",
+      "eventSlug": "49477-federao-fight-6",
+      "round": 2,
+      "timeInRound": "4:36"
+    },
+    {
+      "date": "2017-08-19T00:00:00.000Z",
+      "opponent": "Gamzat Khiramagomedov",
+      "opponentSlug": "116752-gamzat-hiramagomedov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ACB 67: Berkhamov vs Cooper",
+      "eventSlug": "46528-acb-67-berkhamov-vs-cooper",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-22T00:00:00.000Z",
+      "opponent": "Eliseu Matsuura",
+      "opponentSlug": "51133-eliseu-matsuura-japa",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-15T00:00:00.000Z",
+      "opponent": "Tulio Marcos",
+      "opponentSlug": "65792-tulio-marcos",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-07-25T00:00:00.000Z",
+      "opponent": "Bruno Assis",
+      "opponentSlug": "99877-bruno-assis",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:03:42.088Z"
+}

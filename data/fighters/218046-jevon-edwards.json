@@ -1,0 +1,92 @@
+{
+  "slug": "218046-jevon-edwards",
+  "name": "Jevon Edwards",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1992-10-21",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/218046-jevon-edwards",
+  "recentFights": [
+    {
+      "date": "2023-10-07T00:00:00.000Z",
+      "opponent": "Jeremiah Huff",
+      "opponentSlug": "311857-jeremiah-huff",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Chosen Few FC 23",
+      "eventSlug": "103308-chosen-few-fc-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-11T00:00:00.000Z",
+      "opponent": "Ryan Hawkins",
+      "opponentSlug": "105990-ryan-hawkins",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WXCF 9",
+      "eventSlug": "95043-wxcf-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-03-07T00:00:00.000Z",
+      "opponent": "Andy Kiecker",
+      "opponentSlug": "238230-andy-kiecker",
+      "result": "loss",
+      "method": "sub",
+      "event": "A-Town Throwdown 16",
+      "eventSlug": "65315-a-town-throwdown-16",
+      "round": 3,
+      "timeInRound": "2:10"
+    },
+    {
+      "date": "2019-11-02T00:00:00.000Z",
+      "opponent": "Peter Kulibert",
+      "opponentSlug": "174277-peter-kulibert",
+      "result": "win",
+      "method": "other",
+      "event": "Pure FC 15",
+      "eventSlug": "62828-pure-fc-15",
+      "round": 1,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2019-05-24T00:00:00.000Z",
+      "opponent": "Divonte Grant",
+      "opponentSlug": "182137-divonte-grant",
+      "result": "loss",
+      "method": "other",
+      "event": "United Combat League",
+      "eventSlug": "59213-united-combat-league",
+      "round": 1,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2019-03-23T00:00:00.000Z",
+      "opponent": "Bruce Martineau",
+      "opponentSlug": "197037-bruce-martineau",
+      "result": "win",
+      "method": "other",
+      "event": "Inner Strength MMA 16",
+      "eventSlug": "56759-inner-strength-mma-16-sevenwinds-throwdown",
+      "round": 2,
+      "timeInRound": "1:51"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:45:08.937Z"
+}

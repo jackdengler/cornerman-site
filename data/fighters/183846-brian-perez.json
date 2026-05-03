@@ -1,0 +1,59 @@
+{
+  "slug": "183846-brian-perez",
+  "name": "Brian Perez",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/183846-brian-perez",
+  "recentFights": [
+    {
+      "date": "2017-06-17T00:00:00.000Z",
+      "opponent": "John Yannis",
+      "opponentSlug": "151617-john-yannies",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Force of One MMA",
+      "eventSlug": "46595-force-of-one-mma",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-22T00:00:00.000Z",
+      "opponent": "Ceasar Castaneda",
+      "opponentSlug": "163185-ceasar-castaneda",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-19T00:00:00.000Z",
+      "opponent": "Chris Cortez",
+      "opponentSlug": "151612-chris-cortez",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:30:52.726Z"
+}

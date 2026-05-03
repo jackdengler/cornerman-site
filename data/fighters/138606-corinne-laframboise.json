@@ -1,0 +1,165 @@
+{
+  "slug": "138606-corinne-laframboise",
+  "name": "Corinne Laframboise",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": 163,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1989-05-25",
+  "nationality": "Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/138606-corinne-laframboise",
+  "recentFights": [
+    {
+      "date": "2024-09-10T00:00:00.000Z",
+      "opponent": "Nicolle Caliari",
+      "opponentSlug": "107869-nicolle-caliari",
+      "result": "loss",
+      "method": "sub",
+      "event": "Contender Series 2024",
+      "eventSlug": "112922-contender-series-2024-week-5",
+      "round": 1,
+      "timeInRound": "4:45"
+    },
+    {
+      "date": "2022-03-26T00:00:00.000Z",
+      "opponent": "Carolina Jiménez",
+      "opponentSlug": "89693-carolina-jimenez",
+      "result": "win",
+      "method": "sub",
+      "event": "UAE Warriors 28",
+      "eventSlug": "87433-uae-warriors-28",
+      "round": 1,
+      "timeInRound": "4:13"
+    },
+    {
+      "date": "2021-09-04T00:00:00.000Z",
+      "opponent": "Elin Öberg",
+      "opponentSlug": "190358-elin-oberg",
+      "result": "win",
+      "method": "tko",
+      "event": "UAE Warriors 22",
+      "eventSlug": "82003-uae-warriors-22",
+      "round": 1,
+      "timeInRound": "4:06"
+    },
+    {
+      "date": "2021-03-20T00:00:00.000Z",
+      "opponent": "Malin Hermansson",
+      "opponentSlug": "150079-malin-hermansson",
+      "result": "win",
+      "method": "sub",
+      "event": "UAE Warriors 18",
+      "eventSlug": "77357-uae-warriors-18",
+      "round": 2,
+      "timeInRound": "3:48"
+    },
+    {
+      "date": "2020-07-31T00:00:00.000Z",
+      "opponent": "Manon Fiorot",
+      "opponentSlug": "136168-manon-fiorot",
+      "result": "loss",
+      "method": "tko",
+      "event": "UAE Warriors 12",
+      "eventSlug": "70859-uae-warriors-12",
+      "round": 3,
+      "timeInRound": "4:50"
+    },
+    {
+      "date": "2020-01-31T00:00:00.000Z",
+      "opponent": "Cornelia Holm",
+      "opponentSlug": "101419-cornelia-holm",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UAE Warriors 10",
+      "eventSlug": "66173-uae-warriors-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-20T00:00:00.000Z",
+      "opponent": "Dee Begley",
+      "opponentSlug": "152494-dee-begley",
+      "result": "win",
+      "method": "tko",
+      "event": "New Era Fighting 1",
+      "eventSlug": "62250-new-era-fighting-1",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-24T00:00:00.000Z",
+      "opponent": "Jamey-Lyn Horth",
+      "opponentSlug": "148703-jamey-lyn-horth",
+      "result": "loss",
+      "method": "sub",
+      "event": "TKO 48: Sousa vs Gane",
+      "eventSlug": "58874-tko-48",
+      "round": 3,
+      "timeInRound": "2:57"
+    },
+    {
+      "date": "2018-12-07T00:00:00.000Z",
+      "opponent": "Morgane Ribout",
+      "opponentSlug": "155346-morgane-ribout",
+      "result": "win",
+      "method": "sub",
+      "event": "TKO 45: Jourdain Vs Morgan",
+      "eventSlug": "56124-tko-45-jourdain-vs-morgan",
+      "round": 2,
+      "timeInRound": "1:17"
+    },
+    {
+      "date": "2018-09-21T00:00:00.000Z",
+      "opponent": "Jade Masson-Wong",
+      "opponentSlug": "121965-jade-wong",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "TKO 44",
+      "eventSlug": "53478-tko-44",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-08T00:00:00.000Z",
+      "opponent": "Griet Eeckhout",
+      "opponentSlug": "116871-griet-eeckhout",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "TKO 41: Champions",
+      "eventSlug": "45574-tko-41",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-16T00:00:00.000Z",
+      "opponent": "Lindsay Garbatt",
+      "opponentSlug": "75721-lindsay-garbutt",
+      "result": "loss",
+      "method": "other",
+      "event": "TKO 39: Ultimatum",
+      "eventSlug": "45571-tko-39-ultimatum",
+      "round": 1,
+      "timeInRound": "1:53"
+    },
+    {
+      "date": "2017-01-28T00:00:00.000Z",
+      "opponent": "Dilara Kocak",
+      "opponentSlug": "125746-dilara-kocak",
+      "result": "win",
+      "method": "sub",
+      "event": "We Love MMA 28",
+      "eventSlug": "41598-we-love-mma-19",
+      "round": 1,
+      "timeInRound": "2:15"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:02:23.719Z"
+}

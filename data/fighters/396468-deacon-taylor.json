@@ -1,0 +1,103 @@
+{
+  "slug": "396468-deacon-taylor",
+  "name": "Deacon Taylor",
+  "nickname": "Slenderman",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 5,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 191,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "2002-11-29",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/396468-deacon-taylor",
+  "recentFights": [
+    {
+      "date": "2025-02-15T00:00:00.000Z",
+      "opponent": "Hunter Allen",
+      "opponentSlug": "481775-hunter-allen",
+      "result": "win",
+      "method": "other",
+      "event": "Fury Fight Series 1",
+      "eventSlug": "122371-fury-fight-series-st-valentine-s-day-massacre",
+      "round": 1,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2024-11-30T00:00:00.000Z",
+      "opponent": "Gage Estus",
+      "opponentSlug": "450318-gage-estus",
+      "result": "loss",
+      "method": "sub",
+      "event": "North Iowa Fights 20",
+      "eventSlug": "117150-north-iowa-fights-20",
+      "round": 5,
+      "timeInRound": "1:16"
+    },
+    {
+      "date": "2024-06-29T00:00:00.000Z",
+      "opponent": "Noah Gasho",
+      "opponentSlug": "348174-noah-gasho",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Mecca 22",
+      "eventSlug": "110075-mecca-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-20T00:00:00.000Z",
+      "opponent": "Draven Lantz",
+      "opponentSlug": "316958-draven-lantz",
+      "result": "win",
+      "method": "sub",
+      "event": "North Iowa Fights 18",
+      "eventSlug": "111077-north-iowa-fights-18",
+      "round": 1,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2023-11-22T00:00:00.000Z",
+      "opponent": "Mike Selle",
+      "opponentSlug": "293420-mike-selle",
+      "result": "win",
+      "method": "sub",
+      "event": "MCC | AFC: Thanksgiving Throwdown",
+      "eventSlug": "106494-mcc-69-thanksgiving-throwdown",
+      "round": 2,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2023-10-21T00:00:00.000Z",
+      "opponent": "Brannon Samuelson",
+      "opponentSlug": "335723-brannon-samuelson",
+      "result": "win",
+      "method": "sub",
+      "event": "Iowa Fight Series 1",
+      "eventSlug": "103305-iowa-fight-series-1",
+      "round": 1,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2023-08-05T00:00:00.000Z",
+      "opponent": "Kyler Dunn",
+      "opponentSlug": "372433-kyler-dunn",
+      "result": "win",
+      "method": "sub",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "103028-brutaal-genesis-fight-night-fort-frenzy-20",
+      "round": 3,
+      "timeInRound": "1:45"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:42:33.243Z"
+}

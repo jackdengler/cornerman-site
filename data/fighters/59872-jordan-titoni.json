@@ -1,0 +1,220 @@
+{
+  "slug": "59872-jordan-titoni",
+  "name": "Jordan Titoni",
+  "nickname": "Bubba",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1987-09-25",
+  "nationality": "Denver, Colorado",
+  "url": "https://www.tapology.com/fightcenter/fighters/59872-jordan-titoni",
+  "recentFights": [
+    {
+      "date": "2020-09-17T00:00:00.000Z",
+      "opponent": "Pat Sabatini",
+      "opponentSlug": "29210-pat-sabatini",
+      "result": "loss",
+      "method": "other",
+      "event": "CFFC 84",
+      "eventSlug": "72013-cffc-84",
+      "round": 1,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2019-09-28T00:00:00.000Z",
+      "opponent": "Gabriel Macário",
+      "opponentSlug": "57633-gabriel-macario",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fury FC 37",
+      "eventSlug": "62275-fury-fc-37",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-17T00:00:00.000Z",
+      "opponent": "Sergio DeBari",
+      "opponentSlug": "45188-sergio-debari",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "CFFC 74",
+      "eventSlug": "59170-cffc-74",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-27T00:00:00.000Z",
+      "opponent": "Jess Martinez",
+      "opponentSlug": "78918-jess-martinez",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Jackson's MMA Series 26",
+      "eventSlug": "55994-jackson-s-mma-series-26",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-22T00:00:00.000Z",
+      "opponent": "Cameron Graves",
+      "opponentSlug": "29841-cameron-graves",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 43: Allen vs. Crowe",
+      "eventSlug": "53401-lfa-43-allen-vs-crowe",
+      "round": 3,
+      "timeInRound": "3:38"
+    },
+    {
+      "date": "2018-05-05T00:00:00.000Z",
+      "opponent": "Flavian Pilgrim",
+      "opponentSlug": "57033-flavian-pilgrim",
+      "result": "win",
+      "method": "sub",
+      "event": "Renegade Fight Night",
+      "eventSlug": "52880-renegade-fight-night-chapter-1",
+      "round": 1,
+      "timeInRound": "4:29"
+    },
+    {
+      "date": "2018-03-16T00:00:00.000Z",
+      "opponent": "Trevor Massey",
+      "opponentSlug": "47814-trevor-massey",
+      "result": "win",
+      "method": "other",
+      "event": "Paramount MMA",
+      "eventSlug": "50401-paramount-mma-contenders",
+      "round": 1,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2017-11-18T00:00:00.000Z",
+      "opponent": "Sean Tobin",
+      "opponentSlug": "59533-sean-tobin",
+      "result": "win",
+      "method": "sub",
+      "event": "SCL: Combat Sports Spectacular",
+      "eventSlug": "48256-scl-64",
+      "round": 1,
+      "timeInRound": "3:20"
+    },
+    {
+      "date": "2017-07-22T00:00:00.000Z",
+      "opponent": "Jake Mendez",
+      "opponentSlug": "56529-jake-mendez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Rocky Mountain Rubicon 5",
+      "eventSlug": "46328-rocky-mountain-rubicon-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-21T00:00:00.000Z",
+      "opponent": "Joel Whitney",
+      "opponentSlug": "63673-joel-whitney",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 10: Heinisch vs. Rota",
+      "eventSlug": "44724-lfa-10-heinisch-vs-rota",
+      "round": 3,
+      "timeInRound": "4:17"
+    },
+    {
+      "date": "2017-02-04T00:00:00.000Z",
+      "opponent": "Andrew Tenneson",
+      "opponentSlug": "28417-andrew-tennison",
+      "result": "loss",
+      "method": "other",
+      "event": "Rocky Mountain Rubicon 4",
+      "eventSlug": "43754-rocky-mountain-rubicon-4",
+      "round": 2,
+      "timeInRound": "4:11"
+    },
+    {
+      "date": "2016-07-16T00:00:00.000Z",
+      "opponent": "Justin Gonzales",
+      "opponentSlug": "45007-justin-gonzales",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "SCL 50",
+      "eventSlug": "40472-scl-50",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-28T00:00:00.000Z",
+      "opponent": "Andrei Jones",
+      "opponentSlug": "54736-andrei-jones",
+      "result": "win",
+      "method": "sub",
+      "event": "Rocky Mountain Rubicon 1",
+      "eventSlug": "34999-rocky-mountain-rubicon",
+      "round": 1,
+      "timeInRound": "3:04"
+    },
+    {
+      "date": "2015-04-25T00:00:00.000Z",
+      "opponent": "Allen Washington",
+      "opponentSlug": "29363-allen-washington",
+      "result": "win",
+      "method": "sub",
+      "event": "SCL: Fight for the Troops",
+      "eventSlug": "32196-scl-fight-for-the-troops",
+      "round": 3,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2014-11-15T00:00:00.000Z",
+      "opponent": "Jake Mendez",
+      "opponentSlug": "56529-jake-mendez",
+      "result": "win",
+      "method": "sub",
+      "event": "SCL: When Champions Collide",
+      "eventSlug": "28097-scl-when-champions-collide",
+      "round": 1,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2014-04-19T00:00:00.000Z",
+      "opponent": "Marco Ambriz",
+      "opponentSlug": "40920-marco-ambriz",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFA 15",
+      "eventSlug": "23890-ufa-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-02-22T00:00:00.000Z",
+      "opponent": "Mike Vandemark",
+      "opponentSlug": "62073-mike-vandemark",
+      "result": "win",
+      "method": "sub",
+      "event": "SCL: Redemption",
+      "eventSlug": "22509-scl-redemption",
+      "round": 1,
+      "timeInRound": "0:22"
+    },
+    {
+      "date": "2013-12-06T00:00:00.000Z",
+      "opponent": "Josh Sudmeier",
+      "opponentSlug": "59871-jordan-sudmeier",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight to Win",
+      "eventSlug": "21688-fight-to-win-natural-born-killers",
+      "round": 1,
+      "timeInRound": "1:29"
+    }
+  ],
+  "lastVerified": "2026-04-25T23:06:13.663Z"
+}

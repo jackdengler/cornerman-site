@@ -1,0 +1,222 @@
+{
+  "slug": "195966-niam-stephen",
+  "name": "Niam Stephen",
+  "nickname": "El Chapo",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/195966-niam-stephen",
+  "recentFights": [
+    {
+      "date": "2026-02-14T00:00:00.000Z",
+      "opponent": "Sam Dobb",
+      "opponentSlug": "181606-sam-dobb",
+      "result": "loss",
+      "method": "sub",
+      "event": "Dynasty of Combat 2",
+      "eventSlug": "133976-dynasty-of-combat-2",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-14T00:00:00.000Z",
+      "opponent": "Matt Fordham",
+      "opponentSlug": "269360-matt-fordham",
+      "result": "loss",
+      "method": "sub",
+      "event": "Eternal MMA 100",
+      "eventSlug": "132091-eternal-mma-100",
+      "round": 1,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2023-11-18T00:00:00.000Z",
+      "opponent": "Harry Webb",
+      "opponentSlug": "211948-harry-webb",
+      "result": "loss",
+      "method": "other",
+      "event": "Hex Fight Series 28",
+      "eventSlug": "104226-hex-fight-series-28",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-06T00:00:00.000Z",
+      "opponent": "Coby Porter",
+      "opponentSlug": "222516-coby-porter",
+      "result": "loss",
+      "method": "sub",
+      "event": "Eternal MMA 75",
+      "eventSlug": "99483-eternal-mma-75",
+      "round": 3,
+      "timeInRound": "3:35"
+    },
+    {
+      "date": "2023-02-11T00:00:00.000Z",
+      "opponent": "Quillan Salkilld",
+      "opponentSlug": "195051-quilland-salkid",
+      "result": "loss",
+      "method": "tko",
+      "event": "Eternal MMA 73",
+      "eventSlug": "95618-eternal-mma-73",
+      "round": 1,
+      "timeInRound": "4:01"
+    },
+    {
+      "date": "2022-09-16T00:00:00.000Z",
+      "opponent": "James O'Brien",
+      "opponentSlug": "84657-james-obrian",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 69",
+      "eventSlug": "91665-eternal-mma-69",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-16T00:00:00.000Z",
+      "opponent": "Tom Nolan",
+      "opponentSlug": "145210-tom-nolan",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 67",
+      "eventSlug": "89588-eternal-mma-67",
+      "round": 1,
+      "timeInRound": "3:54"
+    },
+    {
+      "date": "2022-05-07T00:00:00.000Z",
+      "opponent": "Trevor Sinclair",
+      "opponentSlug": "198292-trevor-sinclair",
+      "result": "win",
+      "method": "sub",
+      "event": "Eternal MMA 65",
+      "eventSlug": "88808-eternal-mma-65",
+      "round": 1,
+      "timeInRound": "3:20"
+    },
+    {
+      "date": "2022-03-13T00:00:00.000Z",
+      "opponent": "Petaia Samosoni",
+      "opponentSlug": "311432-petaia-samosoni",
+      "result": "win",
+      "method": "sub",
+      "event": "Bushido Fight Night 2",
+      "eventSlug": "87021-bushido-fight-night-2",
+      "round": 1,
+      "timeInRound": "3:24"
+    }
+  ],
+  "allFights": [
+    {
+      "date": "2026-02-14T00:00:00.000Z",
+      "opponent": "Sam Dobb",
+      "opponentSlug": "181606-sam-dobb",
+      "result": "loss",
+      "method": "sub",
+      "event": "Dynasty of Combat 2",
+      "eventSlug": "133976-dynasty-of-combat-2",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-14T00:00:00.000Z",
+      "opponent": "Matt Fordham",
+      "opponentSlug": "269360-matt-fordham",
+      "result": "loss",
+      "method": "sub",
+      "event": "Eternal MMA 100",
+      "eventSlug": "132091-eternal-mma-100",
+      "round": 1,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2023-11-18T00:00:00.000Z",
+      "opponent": "Harry Webb",
+      "opponentSlug": "211948-harry-webb",
+      "result": "loss",
+      "method": "other",
+      "event": "Hex Fight Series 28",
+      "eventSlug": "104226-hex-fight-series-28",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-06T00:00:00.000Z",
+      "opponent": "Coby Porter",
+      "opponentSlug": "222516-coby-porter",
+      "result": "loss",
+      "method": "sub",
+      "event": "Eternal MMA 75",
+      "eventSlug": "99483-eternal-mma-75",
+      "round": 3,
+      "timeInRound": "3:35"
+    },
+    {
+      "date": "2023-02-11T00:00:00.000Z",
+      "opponent": "Quillan Salkilld",
+      "opponentSlug": "195051-quilland-salkid",
+      "result": "loss",
+      "method": "tko",
+      "event": "Eternal MMA 73",
+      "eventSlug": "95618-eternal-mma-73",
+      "round": 1,
+      "timeInRound": "4:01"
+    },
+    {
+      "date": "2022-09-16T00:00:00.000Z",
+      "opponent": "James O'Brien",
+      "opponentSlug": "84657-james-obrian",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 69",
+      "eventSlug": "91665-eternal-mma-69",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-16T00:00:00.000Z",
+      "opponent": "Tom Nolan",
+      "opponentSlug": "145210-tom-nolan",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 67",
+      "eventSlug": "89588-eternal-mma-67",
+      "round": 1,
+      "timeInRound": "3:54"
+    },
+    {
+      "date": "2022-05-07T00:00:00.000Z",
+      "opponent": "Trevor Sinclair",
+      "opponentSlug": "198292-trevor-sinclair",
+      "result": "win",
+      "method": "sub",
+      "event": "Eternal MMA 65",
+      "eventSlug": "88808-eternal-mma-65",
+      "round": 1,
+      "timeInRound": "3:20"
+    },
+    {
+      "date": "2022-03-13T00:00:00.000Z",
+      "opponent": "Petaia Samosoni",
+      "opponentSlug": "311432-petaia-samosoni",
+      "result": "win",
+      "method": "sub",
+      "event": "Bushido Fight Night 2",
+      "eventSlug": "87021-bushido-fight-night-2",
+      "round": 1,
+      "timeInRound": "3:24"
+    }
+  ],
+  "lastVerified": "2026-05-03T10:17:44.222Z"
+}

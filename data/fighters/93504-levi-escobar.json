@@ -1,0 +1,132 @@
+{
+  "slug": "93504-levi-escobar",
+  "name": "Levi Escobar",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1996-03-07",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/93504-levi-escobar",
+  "recentFights": [
+    {
+      "date": "2021-10-29T00:00:00.000Z",
+      "opponent": "Daniel Sánchez",
+      "opponentSlug": "328379-daniel-sanchez-vazquez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combate Global",
+      "eventSlug": "83854-combate-global",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-06T00:00:00.000Z",
+      "opponent": "Mario Lopez",
+      "opponentSlug": "61434-mario-lopez",
+      "result": "win",
+      "method": "sub",
+      "event": "Combate Global",
+      "eventSlug": "81597-combate-global",
+      "round": 1,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2018-10-13T00:00:00.000Z",
+      "opponent": "Joshua Valentin",
+      "opponentSlug": "95654-joshua-valentin",
+      "result": "win",
+      "method": "sub",
+      "event": "Combate 26: Mexico vs. USA",
+      "eventSlug": "55861-combate-americas-24-mexico-vs-usa",
+      "round": 2,
+      "timeInRound": "2:49"
+    },
+    {
+      "date": "2017-04-20T00:00:00.000Z",
+      "opponent": "Cedric Katambwa",
+      "opponentSlug": "151861-cedric-katambwa",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combate 13",
+      "eventSlug": "45087-combate-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-01T00:00:00.000Z",
+      "opponent": "Bret Cooper",
+      "opponentSlug": "71318-bret-cooper-12-step",
+      "result": "loss",
+      "method": "dq",
+      "event": "WFF 31",
+      "eventSlug": "41307-wff-31",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2016-07-23T00:00:00.000Z",
+      "opponent": "Kyle Sullenberger",
+      "opponentSlug": "136821-kyle-sullenberger",
+      "result": "win",
+      "method": "sub",
+      "event": "WFF 29",
+      "eventSlug": "40581-wff-29",
+      "round": 1,
+      "timeInRound": "0:43"
+    },
+    {
+      "date": "2015-10-03T00:00:00.000Z",
+      "opponent": "Anthony Martinez",
+      "opponentSlug": "99898-anthony-martinez",
+      "result": "loss",
+      "method": "sub",
+      "event": "WFF 24: Casino Del Sol Resort Fights",
+      "eventSlug": "35663-wff-24-casino-del-sol-resort-fights",
+      "round": 3,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2015-07-25T00:00:00.000Z",
+      "opponent": "Antonio Garcia",
+      "opponentSlug": "93505-antonio-garcia",
+      "result": "win",
+      "method": "tko",
+      "event": "WFF 22",
+      "eventSlug": "33986-wff-22",
+      "round": 1,
+      "timeInRound": "0:26"
+    },
+    {
+      "date": "2015-06-20T00:00:00.000Z",
+      "opponent": "E. L.",
+      "opponentSlug": "94702-e-l",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-04-25T00:00:00.000Z",
+      "opponent": "Corey Kimbrell",
+      "opponentSlug": "82594-corey-kimbrell",
+      "result": "win",
+      "method": "sub",
+      "event": "RITC 177",
+      "eventSlug": "32198-ritc-177",
+      "round": 3,
+      "timeInRound": "1:05"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:42:22.083Z"
+}

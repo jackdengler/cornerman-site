@@ -1,0 +1,187 @@
+{
+  "slug": "166556-hailey-cowan",
+  "name": "Hailey Cowan",
+  "nickname": "All Hail",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 176,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1992-02-12",
+  "nationality": "Waco, Texas, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/166556-hailey-cowan",
+  "recentFights": [
+    {
+      "date": "2026-04-04T00:00:00.000Z",
+      "opponent": "Alice Pereira",
+      "opponentSlug": "400890-maria-alice-lima",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "138212-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "4:24"
+    },
+    {
+      "date": "2025-04-12T00:00:00.000Z",
+      "opponent": "Nora Cornolle",
+      "opponentSlug": "297105-nora-cornolle",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC 314: Volkanovski vs. Lopes",
+      "eventSlug": "122989-ufc-314",
+      "round": 2,
+      "timeInRound": "1:52"
+    },
+    {
+      "date": "2023-04-29T00:00:00.000Z",
+      "opponent": "Jamey-Lyn Horth",
+      "opponentSlug": "148703-jamey-lyn-horth",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "97740-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-16T00:00:00.000Z",
+      "opponent": "Cláudia Leite",
+      "opponentSlug": "202287-claudia-leite",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Contender Series 2022",
+      "eventSlug": "89496-contender-series-2022-week-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-01-12T00:00:00.000Z",
+      "opponent": "Monica Franco",
+      "opponentSlug": "15601-monica-franco",
+      "result": "win",
+      "method": "sub",
+      "event": "Invicta FC 45",
+      "eventSlug": "85242-invicta-fc-45-zappitella-vs-delboni-2",
+      "round": 2,
+      "timeInRound": "3:17"
+    },
+    {
+      "date": "2020-09-11T00:00:00.000Z",
+      "opponent": "Kelly Clayton",
+      "opponentSlug": "82908-kelly-clayton",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 91: Njokuani vs. Torres",
+      "eventSlug": "72275-lfa-91-njokuani-vs-torres",
+      "round": 2,
+      "timeInRound": "0:46"
+    },
+    {
+      "date": "2020-03-06T00:00:00.000Z",
+      "opponent": "Brittney Cloudy",
+      "opponentSlug": "129727-brittney-cloudy",
+      "result": "win",
+      "method": "dec-split",
+      "event": "LFA 83: Jackson vs. Chaulet",
+      "eventSlug": "66606-lfa-83-jackson-vs-chaulet",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-08-02T00:00:00.000Z",
+      "opponent": "Jessica Middleton",
+      "opponentSlug": "75095-jessica-middleton",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 73: Lingo vs. Hatley Jr.",
+      "eventSlug": "61360-lfa-73-mowles-vs-yanez-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-29T00:00:00.000Z",
+      "opponent": "Sarah Click",
+      "opponentSlug": "64638-sarah-click",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 63: Krantz vs. Patterson",
+      "eventSlug": "58594-lfa-63-krantz-vs-patterson",
+      "round": 2,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2018-11-30T00:00:00.000Z",
+      "opponent": "Jessica Sotack",
+      "opponentSlug": "117715-jessica-sotack",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 55: Johns vs. Yanez",
+      "eventSlug": "56314-lfa-55-johns-vs-yanez",
+      "round": 2,
+      "timeInRound": "4:35"
+    },
+    {
+      "date": "2018-10-19T00:00:00.000Z",
+      "opponent": "Sha Whittington",
+      "opponentSlug": "94108-sha-whittington",
+      "result": "win",
+      "method": "tko",
+      "event": "LFA 52: Rodriguez vs. Gutierrez",
+      "eventSlug": "55947-lfa-52-rodriguez-vs-gutierrez",
+      "round": 1,
+      "timeInRound": "1:09"
+    },
+    {
+      "date": "2018-05-25T00:00:00.000Z",
+      "opponent": "Victoria Leonardo",
+      "opponentSlug": "102107-victoria-leonardo",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 40: Aguilar vs. Le",
+      "eventSlug": "52491-lfa-40-aguilar-vs-le",
+      "round": 1,
+      "timeInRound": "4:27"
+    },
+    {
+      "date": "2018-02-16T00:00:00.000Z",
+      "opponent": "Jeniece Gamez",
+      "opponentSlug": "169679-jeniece-gamez",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 33: Willis vs. Stewart",
+      "eventSlug": "50420-lfa-33-willis-vs-stewart",
+      "round": 2,
+      "timeInRound": "0:10"
+    },
+    {
+      "date": "2017-12-01T00:00:00.000Z",
+      "opponent": "Christina Adcock",
+      "opponentSlug": "139538-christina-ricker",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Rite of Passage 2",
+      "eventSlug": "48198-rite-of-passage-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-18T00:00:00.000Z",
+      "opponent": "Anel Cantu",
+      "opponentSlug": "166555-anel-cantu",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Rite of Passage 1",
+      "eventSlug": "47699-rite-of-passage-1",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:02:16.615Z"
+}

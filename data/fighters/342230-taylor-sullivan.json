@@ -1,0 +1,121 @@
+{
+  "slug": "342230-taylor-sullivan",
+  "name": "Taylor Sullivan",
+  "nickname": "Nasty",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1998-02-24",
+  "nationality": "England",
+  "url": "https://www.tapology.com/fightcenter/fighters/342230-taylor-sullivan",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Jamie McGowan",
+      "opponentSlug": "512177-jamie-mcgowan",
+      "result": null,
+      "method": "other",
+      "event": "Cage Warriors 205",
+      "eventSlug": "138938-cage-warriors-205",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-02-21T00:00:00.000Z",
+      "opponent": "Alex Keogh",
+      "opponentSlug": "405450-alex-keogh",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage Warriors 200",
+      "eventSlug": "135610-cage-warriors-200",
+      "round": 1,
+      "timeInRound": "0:24"
+    },
+    {
+      "date": "2025-06-14T00:00:00.000Z",
+      "opponent": "Marewan Ali",
+      "opponentSlug": "284423-marewan-ali",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XFC 8",
+      "eventSlug": "129547-xfc-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-29T00:00:00.000Z",
+      "opponent": "Aiden Marsh",
+      "opponentSlug": "317127-aiden-marsh",
+      "result": "win",
+      "method": "sub",
+      "event": "Golden Ticket Fight Promotions 28",
+      "eventSlug": "122292-golden-ticket-fight-promotions-28",
+      "round": 1,
+      "timeInRound": "2:19"
+    },
+    {
+      "date": "2024-05-18T00:00:00.000Z",
+      "opponent": "Benjamin Edozie",
+      "opponentSlug": "446104-benjamin-edozie",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Almighty Fighting Championship 36",
+      "eventSlug": "113103-almighty-fighting-championship-36",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-30T00:00:00.000Z",
+      "opponent": "Mikey Deveraux",
+      "opponentSlug": "384672-mikey-deveraux",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Adrenalin Fight Night",
+      "eventSlug": "111293-adrenalin-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-10T00:00:00.000Z",
+      "opponent": "Jarad Khan",
+      "opponentSlug": "255423-jarad-khan",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage Warriors Academy Wales 10",
+      "eventSlug": "100937-cage-warriors-academy-wales",
+      "round": 2,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2023-03-25T00:00:00.000Z",
+      "opponent": "Danny Hand",
+      "opponentSlug": "318187-danny-hand",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors Academy Wales 9",
+      "eventSlug": "99139-cage-warriors-academy-wales",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-26T00:00:00.000Z",
+      "opponent": "Callum Davies",
+      "opponentSlug": "145415-callum-davies",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors Academy Wales 7",
+      "eventSlug": "90677-cage-warriors-academy-wales-7",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:05:53.981Z"
+}

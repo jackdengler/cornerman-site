@@ -1,0 +1,220 @@
+{
+  "slug": "19457-craig-shintani",
+  "name": "Craig Shintani",
+  "nickname": "The King of the North",
+  "aliases": [],
+  "recordPro": {
+    "wins": 13,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1991-07-18",
+  "nationality": "Sherwood Park, Alberta, Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/19457-craig-shintani",
+  "recentFights": [
+    {
+      "date": "2025-12-12T00:00:00.000Z",
+      "opponent": "Tim Tamaki",
+      "opponentSlug": "8005-tim-tamaki-the-chin",
+      "result": "win",
+      "method": "other",
+      "event": "Unified MMA 65",
+      "eventSlug": "134969-unified-mma-65",
+      "round": 1,
+      "timeInRound": "2:31"
+    },
+    {
+      "date": "2025-10-03T00:00:00.000Z",
+      "opponent": "Antonio Ramirez",
+      "opponentSlug": "52793-antonio-ramirez-dragon",
+      "result": "win",
+      "method": "sub",
+      "event": "Unified MMA 64",
+      "eventSlug": "129280-unified-mma-64",
+      "round": 3,
+      "timeInRound": "3:49"
+    },
+    {
+      "date": "2023-12-15T00:00:00.000Z",
+      "opponent": "Tom O’Connor",
+      "opponentSlug": "47071-tom-oconnor",
+      "result": "loss",
+      "method": "other",
+      "event": "Unified MMA 54",
+      "eventSlug": "106643-unified-mma-54",
+      "round": 3,
+      "timeInRound": "0:41"
+    },
+    {
+      "date": "2022-12-02T00:00:00.000Z",
+      "opponent": "Christian Tremayne",
+      "opponentSlug": "22425-christian-tremayne",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Havoc FC 15",
+      "eventSlug": "95550-havoc-fc-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-06T00:00:00.000Z",
+      "opponent": "Maxime Poulin",
+      "opponentSlug": "45623-maxime-poulin",
+      "result": "win",
+      "method": "sub",
+      "event": "Samourai MMA 2",
+      "eventSlug": "86981-samourai-mma-2",
+      "round": 1,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2021-03-19T00:00:00.000Z",
+      "opponent": "Dario Sinagoga",
+      "opponentSlug": "117351-dario-sinagoga",
+      "result": "loss",
+      "method": "other",
+      "event": "BFL 66",
+      "eventSlug": "74988-bfl-66",
+      "round": 1,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2019-11-22T00:00:00.000Z",
+      "opponent": "Corey Gower",
+      "opponentSlug": "14331-Corey-Gower",
+      "result": "win",
+      "method": "sub",
+      "event": "Havoc FC 14",
+      "eventSlug": "61238-havoc-fc-14",
+      "round": 1,
+      "timeInRound": "1:52"
+    },
+    {
+      "date": "2019-05-24T00:00:00.000Z",
+      "opponent": "Neal Anderson",
+      "opponentSlug": "19626-neal-anderson",
+      "result": "loss",
+      "method": "other",
+      "event": "Unified MMA 37",
+      "eventSlug": "58306-unified-mma-37",
+      "round": 1,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2019-03-15T00:00:00.000Z",
+      "opponent": "Chris Day",
+      "opponentSlug": "29329-chris-day",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XFFC 21: Locked and Loaded",
+      "eventSlug": "57793-xffc-21-locked-and-loaded",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-09T00:00:00.000Z",
+      "opponent": "Garret Nybakken",
+      "opponentSlug": "garret-nybakken",
+      "result": "win",
+      "method": "sub",
+      "event": "Unified MMA 31",
+      "eventSlug": "45620-unified-mma-31",
+      "round": 1,
+      "timeInRound": "0:16"
+    },
+    {
+      "date": "2017-02-03T00:00:00.000Z",
+      "opponent": "Mike Malott",
+      "opponentSlug": "22740-mike-malott",
+      "result": "loss",
+      "method": "other",
+      "event": "XFFC 13: Future Stars",
+      "eventSlug": "43908-xffc-13-future-stars",
+      "round": 1,
+      "timeInRound": "0:36"
+    },
+    {
+      "date": "2016-09-17T00:00:00.000Z",
+      "opponent": "Scott Hudson",
+      "opponentSlug": "36312-scott-hudson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Xcessive Force FC 11",
+      "eventSlug": "41394-xcessive-force-fc-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-25T00:00:00.000Z",
+      "opponent": "Wolfgang Janssen",
+      "opponentSlug": "19547-wolfgang-jenssen",
+      "result": "win",
+      "method": "tko",
+      "event": "Hard Knocks 45",
+      "eventSlug": "34049-hard-knocks-45",
+      "round": 1,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2014-10-03T00:00:00.000Z",
+      "opponent": "Mike O'Neill",
+      "opponentSlug": "17826-mike-oneill",
+      "result": "win",
+      "method": "other",
+      "event": "Hard Knocks 38",
+      "eventSlug": "25194-hard-knocks-38",
+      "round": 1,
+      "timeInRound": "3:34"
+    },
+    {
+      "date": "2014-03-28T00:00:00.000Z",
+      "opponent": "Anthony Lightning",
+      "opponentSlug": "21110-anthony-lightning",
+      "result": "win",
+      "method": "sub",
+      "event": "Unified MMA 18",
+      "eventSlug": "21319-unified-mma-18",
+      "round": 1,
+      "timeInRound": "0:43"
+    },
+    {
+      "date": "2013-04-26T00:00:00.000Z",
+      "opponent": "Terry Nichol",
+      "opponentSlug": "22484-terry-nichol",
+      "result": "win",
+      "method": "sub",
+      "event": "Hard Knocks 32",
+      "eventSlug": "17362-hard-knocks-32",
+      "round": 2,
+      "timeInRound": "3:59"
+    },
+    {
+      "date": "2012-09-07T00:00:00.000Z",
+      "opponent": "Brandon Hrycyshyn",
+      "opponentSlug": "20383-brandon-hrycyshyn",
+      "result": "win",
+      "method": "other",
+      "event": "Hard Knocks 27",
+      "eventSlug": "14628-hard-knock-27",
+      "round": 1,
+      "timeInRound": "4:52"
+    },
+    {
+      "date": "2011-05-06T00:00:00.000Z",
+      "opponent": "Neil Doty",
+      "opponentSlug": "19413-neil-doty",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:05:23.985Z"
+}

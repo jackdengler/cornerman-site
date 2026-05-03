@@ -1,0 +1,209 @@
+{
+  "slug": "25886-andrew-salas",
+  "name": "Andrew Salas",
+  "nickname": "Ice Cold",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 175,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1987-08-09",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/25886-andrew-salas",
+  "recentFights": [
+    {
+      "date": "2021-05-28T00:00:00.000Z",
+      "opponent": "Kris Moutinho",
+      "opponentSlug": "40607-kris-moutino",
+      "result": "loss",
+      "method": "sub",
+      "event": "CFFC 96: Jones vs. Cleveland",
+      "eventSlug": "78963-cffc-96",
+      "round": 3,
+      "timeInRound": "3:26"
+    },
+    {
+      "date": "2020-11-12T00:00:00.000Z",
+      "opponent": "Lucas Brennan",
+      "opponentSlug": "162427-lucas-brennan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bellator 252",
+      "eventSlug": "72762-bellator-251-pitbull-vs-carvalho",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-21T00:00:00.000Z",
+      "opponent": "Mike Gonzalez",
+      "opponentSlug": "98504-mike-gonzalez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Ring of Combat 71",
+      "eventSlug": "65235-ring-of-combat-71",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-13T00:00:00.000Z",
+      "opponent": "Anthony Facchini",
+      "opponentSlug": "15067-anthony-facchini",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ring of Combat 69",
+      "eventSlug": "61122-ring-of-combat-69",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-02-22T00:00:00.000Z",
+      "opponent": "Giorgi Kudukhashvili",
+      "opponentSlug": "70424-giorgi-kudukhashvili",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Ring of Combat 67",
+      "eventSlug": "57514-ring-of-combat-67",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-14T00:00:00.000Z",
+      "opponent": "Ahmet Kayretli",
+      "opponentSlug": "63149-ahmet-kayretli",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 49: Brady vs. Urbina",
+      "eventSlug": "54852-lfa-49-brady-vs-urbina",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-02T00:00:00.000Z",
+      "opponent": "Chris Johnson",
+      "opponentSlug": "56542-chris-johnson",
+      "result": "win",
+      "method": "tko",
+      "event": "Ring of Combat 62",
+      "eventSlug": "50404-ring-of-combat-62",
+      "round": 3,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2017-11-03T00:00:00.000Z",
+      "opponent": "Ethan Goss",
+      "opponentSlug": "22394-ethan-goss",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Bellator 186",
+      "eventSlug": "47631-bellator-186-bader-vs-vassell",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-02T00:00:00.000Z",
+      "opponent": "Dominick Biondo",
+      "opponentSlug": "39870-dominick-biondo",
+      "result": "win",
+      "method": "sub",
+      "event": "Ring of Combat 59",
+      "eventSlug": "44626-ring-of-combat-59",
+      "round": 2,
+      "timeInRound": "3:57"
+    },
+    {
+      "date": "2017-05-13T00:00:00.000Z",
+      "opponent": "Daniel Carbonel",
+      "opponentSlug": "23520-daniel-carbonel",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Dead Serious Pro 1",
+      "eventSlug": "44768-dead-serious-pro-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-01-09T00:00:00.000Z",
+      "opponent": "Eric Mendiola",
+      "opponentSlug": "24580-eric-mendiola",
+      "result": "loss",
+      "method": "other",
+      "event": "CFFC 55: Chookagian vs. Varela",
+      "eventSlug": "36499-cffc-55",
+      "round": 1,
+      "timeInRound": "0:52"
+    },
+    {
+      "date": "2015-08-15T00:00:00.000Z",
+      "opponent": "Justin Lesko",
+      "opponentSlug": "38788-justin-lesko",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XCC 21",
+      "eventSlug": "32993-xcc-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-20T00:00:00.000Z",
+      "opponent": "Zak Kelly",
+      "opponentSlug": "39454-zak-kelly",
+      "result": "win",
+      "method": "dec-split",
+      "event": "WCC 13",
+      "eventSlug": "28937-wcc-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-02-28T00:00:00.000Z",
+      "opponent": "William Bidwell",
+      "opponentSlug": "31872-william-bidwell",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "PA Cage Fight 20",
+      "eventSlug": "26645-pa-cage-fight-20-twas-the-fight-before-christmas",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-06-08T00:00:00.000Z",
+      "opponent": "Alexey Khakimov",
+      "opponentSlug": "45186-aleksey-khahimor",
+      "result": "win",
+      "method": "other",
+      "event": "Dead Serious 7",
+      "eventSlug": "18148-dead-serious-7",
+      "round": 1,
+      "timeInRound": "0:18"
+    },
+    {
+      "date": "2013-02-23T00:00:00.000Z",
+      "opponent": "Chris Landry",
+      "opponentSlug": "34136-chris-landry",
+      "result": "win",
+      "method": "tko",
+      "event": "Ring of Combat AM 15",
+      "eventSlug": "17519-ring-of-combat-am-15",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2012-06-01T00:00:00.000Z",
+      "opponent": "Nicholas Willey",
+      "opponentSlug": "25887-nicholas-willey",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "XFE 15",
+      "eventSlug": "13479-cage-wars-15",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-21T06:14:28.789Z"
+}

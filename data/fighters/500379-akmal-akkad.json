@@ -1,0 +1,44 @@
+{
+  "slug": "500379-akmal-akkad",
+  "name": "Akmal Akkad",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Germany",
+  "url": "https://www.tapology.com/fightcenter/fighters/500379-akmal-akkad",
+  "recentFights": [
+    {
+      "date": "2025-10-11T00:00:00.000Z",
+      "opponent": "Umut Birdal",
+      "opponentSlug": "368664-umut-birdal",
+      "result": "loss",
+      "method": "sub",
+      "event": "Prize 8",
+      "eventSlug": "132641-prize-8",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-03T00:00:00.000Z",
+      "opponent": "Alim Golgiyaz",
+      "opponentSlug": "376007-alim-golgiyaz",
+      "result": "loss",
+      "method": "sub",
+      "event": "BFC 4",
+      "eventSlug": "126651-bfc-4",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:57:39.991Z"
+}

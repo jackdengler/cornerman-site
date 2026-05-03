@@ -1,0 +1,209 @@
+{
+  "slug": "32477-abdulsupyan-alikhanov",
+  "name": "Abusupyan Alikhanov",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 14,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 177,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1989-03-01",
+  "nationality": "Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/32477-abdulsupyan-alikhanov",
+  "recentFights": [
+    {
+      "date": "2022-10-22T00:00:00.000Z",
+      "opponent": "Mzwandile Hlongwa",
+      "opponentSlug": "89260-mzwandile-hlongwa",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "BRAVE CF 64",
+      "eventSlug": "93031-brave-cf-64-african-all-stars",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-06T00:00:00.000Z",
+      "opponent": "Rustam Chsiev",
+      "opponentSlug": "137587-rustam-chsiev",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "BRAVE CF 55",
+      "eventSlug": "82997-brave-cf-55",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-01-11T00:00:00.000Z",
+      "opponent": "Leonardos Sinis",
+      "opponentSlug": "116641-leonardo-sinis",
+      "result": "win",
+      "method": "tko",
+      "event": "Rebel FC 10",
+      "eventSlug": "64246-rebel-fc-10",
+      "round": 1,
+      "timeInRound": "2:43"
+    },
+    {
+      "date": "2019-10-25T00:00:00.000Z",
+      "opponent": "Mehdi Rahmani",
+      "opponentSlug": "95056-mehdi-rahmani",
+      "result": "win",
+      "method": "sub",
+      "event": "FCA 3",
+      "eventSlug": "63689-fca-3",
+      "round": 1,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2019-03-21T00:00:00.000Z",
+      "opponent": "Mohammed Shavali",
+      "opponentSlug": "216871-mohammed-shavali",
+      "result": "win",
+      "method": "sub",
+      "event": "WTKF: Universal Soldier",
+      "eventSlug": "58379-wtkf",
+      "round": 2,
+      "timeInRound": "0:40"
+    },
+    {
+      "date": "2018-03-30T00:00:00.000Z",
+      "opponent": "Roman Kopylov",
+      "opponentSlug": "138424-roman-kopylov",
+      "result": "loss",
+      "method": "other",
+      "event": "Fight Nights Global 85",
+      "eventSlug": "50304-fight-nights-global-85",
+      "round": 4,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2017-05-21T00:00:00.000Z",
+      "opponent": "Khalid Murtazaliev",
+      "opponentSlug": "98431-khalid-murtazaliev",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Nights Global 66",
+      "eventSlug": "45284-fight-nights-global-66",
+      "round": 4,
+      "timeInRound": "0:53"
+    },
+    {
+      "date": "2017-01-28T00:00:00.000Z",
+      "opponent": "Pavel Doroftei",
+      "opponentSlug": "15717-pavel-doroftei",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Nights Global 58",
+      "eventSlug": "43824-fight-nights-global-58",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2016-12-16T00:00:00.000Z",
+      "opponent": "Rustam Abdurapov",
+      "opponentSlug": "47787-rustam-abdurapov",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Nights Global 57",
+      "eventSlug": "42783-fight-nights-global-57",
+      "round": 1,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2016-09-25T00:00:00.000Z",
+      "opponent": "Dmitriy Samoilov",
+      "opponentSlug": "dmitry-samoilov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fight Nights Global 51",
+      "eventSlug": "41160-fight-nights-global-51-dagestan",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-06-17T00:00:00.000Z",
+      "opponent": "Artem Shokalo",
+      "opponentSlug": "41797-artem-shokalo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fight Nights Global 50",
+      "eventSlug": "39439-fight-nights-global-50",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-23T00:00:00.000Z",
+      "opponent": "Vasiliy Zubkov",
+      "opponentSlug": "62145-vasiliy-zubkov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fight Nights Global 42",
+      "eventSlug": "35672-fight-nights-petersburg",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-25T00:00:00.000Z",
+      "opponent": "Adam Salamov",
+      "opponentSlug": "81654-adam-salamov",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Nights Global 41",
+      "eventSlug": "34785-fight-nights-dagestan",
+      "round": 1,
+      "timeInRound": "0:31"
+    },
+    {
+      "date": "2015-06-11T00:00:00.000Z",
+      "opponent": "Khalid Murtazaliev",
+      "opponentSlug": "98431-khalid-murtazaliev",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Fight Nights Global 38",
+      "eventSlug": "32490-fight-nights-battle-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-06-28T00:00:00.000Z",
+      "opponent": "Murad Magomedov",
+      "opponentSlug": "33859-murad-magomedov",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Dictator Fighting Championship 1",
+      "eventSlug": "17003-dictator-fighting-championship-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-10-22T00:00:00.000Z",
+      "opponent": "Mikhail Tsarev",
+      "opponentSlug": "31295-michail-tsarev-the-lonely-wolf",
+      "result": "loss",
+      "method": "other",
+      "event": "ProFC 36: Battle In The Caucasus",
+      "eventSlug": "11390-profc-battle-in-the-caucasus",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-10-24T00:00:00.000Z",
+      "opponent": "Ruslan Khaskhanov",
+      "opponentSlug": "4620-ruslan-haskhanov",
+      "result": "loss",
+      "method": "sub",
+      "event": "M-1",
+      "eventSlug": "15230-m-1-ukrainian-selection-2010-stage-5",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:03:02.704Z"
+}

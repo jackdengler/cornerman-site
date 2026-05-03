@@ -1,0 +1,220 @@
+{
+  "slug": "36516-hakon-foss",
+  "name": "Håkon Foss",
+  "nickname": "Death",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 9,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1986-07-05",
+  "nationality": "Norway",
+  "url": "https://www.tapology.com/fightcenter/fighters/36516-hakon-foss",
+  "recentFights": [
+    {
+      "date": "2022-06-11T00:00:00.000Z",
+      "opponent": "Robin Roos",
+      "opponentSlug": "140194-robin-roos",
+      "result": "loss",
+      "method": "tko",
+      "event": "Superior Challenge 24",
+      "eventSlug": "86715-superior-challenge-24",
+      "round": 1,
+      "timeInRound": "4:45"
+    },
+    {
+      "date": "2021-05-29T00:00:00.000Z",
+      "opponent": "Tom Crosby",
+      "opponentSlug": "54426-tom-crosby",
+      "result": "win",
+      "method": "ko",
+      "event": "Superior Challenge 22",
+      "eventSlug": "78577-superior-challenge-22",
+      "round": 1,
+      "timeInRound": "2:17"
+    },
+    {
+      "date": "2019-11-09T00:00:00.000Z",
+      "opponent": "Rhys McKee",
+      "opponentSlug": "54321-rhys-mckee",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 110",
+      "eventSlug": "62599-cage-warriors-110",
+      "round": 1,
+      "timeInRound": "1:03"
+    },
+    {
+      "date": "2019-06-29T00:00:00.000Z",
+      "opponent": "Jason Radcliffe",
+      "opponentSlug": "17649-jason-radcliffe",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 106",
+      "eventSlug": "59937-cage-warriors-106-night-of-champions",
+      "round": 1,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2018-12-08T00:00:00.000Z",
+      "opponent": "Aaron Khalid",
+      "opponentSlug": "57960-aaron-khalid",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 100",
+      "eventSlug": "55430-cage-warriors-100",
+      "round": 2,
+      "timeInRound": "2:18"
+    },
+    {
+      "date": "2018-04-28T00:00:00.000Z",
+      "opponent": "Jack Mason",
+      "opponentSlug": "jack-mason",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 93",
+      "eventSlug": "50943-cage-warriors-93",
+      "round": 1,
+      "timeInRound": "1:56"
+    },
+    {
+      "date": "2017-09-16T00:00:00.000Z",
+      "opponent": "Jamie Richardson",
+      "opponentSlug": "52702-jamie-richardson",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 86",
+      "eventSlug": "46149-cage-warriors-86",
+      "round": 2,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2017-06-02T00:00:00.000Z",
+      "opponent": "Craig White",
+      "opponentSlug": "13906-Craig-White",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage Warriors 84",
+      "eventSlug": "44317-cage-warriors",
+      "round": 1,
+      "timeInRound": "1:18"
+    },
+    {
+      "date": "2017-03-04T00:00:00.000Z",
+      "opponent": "Martyn Harris",
+      "opponentSlug": "78744-martyn-harris",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Warriors 81",
+      "eventSlug": "43056-cage-warriors",
+      "round": 1,
+      "timeInRound": "3:38"
+    },
+    {
+      "date": "2016-08-27T00:00:00.000Z",
+      "opponent": "Jonny Kruschinske",
+      "opponentSlug": "30205-jonny-kruschinske-son-goku",
+      "result": "win",
+      "method": "other",
+      "event": "Imperium Fighting Championship 5",
+      "eventSlug": "39920-imperium-fighting-championship-5",
+      "round": 1,
+      "timeInRound": "0:40"
+    },
+    {
+      "date": "2016-05-28T00:00:00.000Z",
+      "opponent": "Graham Armstrong",
+      "opponentSlug": "14620-graham-armstrong",
+      "result": "win",
+      "method": "tko",
+      "event": "ICE FC 15",
+      "eventSlug": "38931-ice-fc-15",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-02-13T00:00:00.000Z",
+      "opponent": "Jussi Halonen",
+      "opponentSlug": "38488-jussi-halonen",
+      "result": "win",
+      "method": "other",
+      "event": "Cage 34",
+      "eventSlug": "37411-cage-34",
+      "round": 1,
+      "timeInRound": "1:17"
+    },
+    {
+      "date": "2015-12-12T00:00:00.000Z",
+      "opponent": "Karl Amoussou",
+      "opponentSlug": "karl-amoussou-psycho",
+      "result": "loss",
+      "method": "sub",
+      "event": "Venator FC 2",
+      "eventSlug": "34396-venator-fc",
+      "round": 1,
+      "timeInRound": "0:52"
+    },
+    {
+      "date": "2015-09-26T00:00:00.000Z",
+      "opponent": "Zebaztian Kadestam",
+      "opponentSlug": "19640-zebaztian-kadestam",
+      "result": "win",
+      "method": "dec-split",
+      "event": "IRFA 9",
+      "eventSlug": "33723-irfa-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-22T00:00:00.000Z",
+      "opponent": "Per Franklin",
+      "opponentSlug": "38566-per-franklin",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Warriors 66",
+      "eventSlug": "22555-cage-warriors-66",
+      "round": 1,
+      "timeInRound": "3:26"
+    },
+    {
+      "date": "2013-07-13T00:00:00.000Z",
+      "opponent": "Ion Pascu",
+      "opponentSlug": "14456-ion-pascu",
+      "result": "loss",
+      "method": "other",
+      "event": "UWC 23",
+      "eventSlug": "19664-uwc-23",
+      "round": 2,
+      "timeInRound": "3:08"
+    },
+    {
+      "date": "2013-03-02T00:00:00.000Z",
+      "opponent": "Charlie Leary",
+      "opponentSlug": "17535-charlie-leary",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-12-01T00:00:00.000Z",
+      "opponent": "Niclas Danielsson",
+      "opponentSlug": "32863-niclas-danielsson",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "VFC 5",
+      "eventSlug": "16293-vfc-5",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:04:21.584Z"
+}

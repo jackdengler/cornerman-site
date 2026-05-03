@@ -1,0 +1,29 @@
+{
+  "slug": "160275-stefan-meszaros",
+  "name": "Štefan Mészáros",
+  "nickname": "Meso",
+  "aliases": [],
+  "recordPro": null,
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Slovakia",
+  "url": "https://www.tapology.com/fightcenter/fighters/160275-stefan-meszaros",
+  "recentFights": [
+    {
+      "date": "2020-07-04T00:00:00.000Z",
+      "opponent": "Jan Malach",
+      "opponentSlug": "64719-jan-malach",
+      "result": "loss",
+      "method": "tko",
+      "event": "Oktagon: Underground 7 Super Final",
+      "eventSlug": "70349-oktagon-underground-7-super-final",
+      "round": 2,
+      "timeInRound": "2:43"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:07:46.566Z"
+}

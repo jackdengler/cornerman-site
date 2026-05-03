@@ -1,0 +1,220 @@
+{
+  "slug": "247190-taisei-sekino",
+  "name": "Taisei Sekino",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "2000-06-02",
+  "nationality": "Japan",
+  "url": "https://www.tapology.com/fightcenter/fighters/247190-taisei-sekino",
+  "recentFights": [
+    {
+      "date": "2026-03-15T00:00:00.000Z",
+      "opponent": "Tae In Kim",
+      "opponentSlug": "143287-tae-in-kim",
+      "result": "loss",
+      "method": "other",
+      "event": "Road FC 76",
+      "eventSlug": "139801-road-fc-76",
+      "round": 2,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2025-12-07T00:00:00.000Z",
+      "opponent": "Dong Hyun Bae",
+      "opponentSlug": "174783-dong-hyun-bae",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Road FC 75",
+      "eventSlug": "136618-road-fc-75",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-08-17T00:00:00.000Z",
+      "opponent": "Ryo Sakai",
+      "opponentSlug": "28669-ryo-sakai",
+      "result": "win",
+      "method": "tko",
+      "event": "DEEP 126 Impact",
+      "eventSlug": "130929-deep-126-impact",
+      "round": 3,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2025-03-16T00:00:00.000Z",
+      "opponent": "A Sol Kwon",
+      "opponentSlug": "a-sol-kwan",
+      "result": "win",
+      "method": "other",
+      "event": "Road FC 72",
+      "eventSlug": "124932-road-fc-72",
+      "round": 2,
+      "timeInRound": "1:56"
+    },
+    {
+      "date": "2024-12-29T00:00:00.000Z",
+      "opponent": "Gun Oh Shim",
+      "opponentSlug": "82734-kun-oh-shim",
+      "result": "win",
+      "method": "other",
+      "event": "Road FC 71",
+      "eventSlug": "117501-road-fc-71",
+      "round": 2,
+      "timeInRound": "0:24"
+    },
+    {
+      "date": "2024-09-16T00:00:00.000Z",
+      "opponent": "Tatsuya Mizuno",
+      "opponentSlug": "tatsuya-mizuno",
+      "result": "win",
+      "method": "tko",
+      "event": "DEEP 121 Impact",
+      "eventSlug": "117634-deep-121-impact",
+      "round": 1,
+      "timeInRound": "3:13"
+    },
+    {
+      "date": "2024-04-13T00:00:00.000Z",
+      "opponent": "Tae In Kim",
+      "opponentSlug": "143287-tae-in-kim",
+      "result": "loss",
+      "method": "other",
+      "event": "Road FC 68",
+      "eventSlug": "112336-road-fc-68",
+      "round": 1,
+      "timeInRound": "3:55"
+    },
+    {
+      "date": "2023-12-16T00:00:00.000Z",
+      "opponent": "Jae Hyuk Heo",
+      "opponentSlug": "176746-jae-hyuk-heo",
+      "result": "win",
+      "method": "other",
+      "event": "Road FC 67",
+      "eventSlug": "107437-road-fc-67",
+      "round": 1,
+      "timeInRound": "0:58"
+    },
+    {
+      "date": "2023-08-26T00:00:00.000Z",
+      "opponent": "Il Hak Oh",
+      "opponentSlug": "199302-il-hak-oh",
+      "result": "win",
+      "method": "other",
+      "event": "Road FC 65",
+      "eventSlug": "104204-road-fc-65",
+      "round": 2,
+      "timeInRound": "2:35"
+    },
+    {
+      "date": "2023-02-25T00:00:00.000Z",
+      "opponent": "Dong Hyun Bae",
+      "opponentSlug": "174783-dong-hyun-bae",
+      "result": "win",
+      "method": "other",
+      "event": "Road FC 63",
+      "eventSlug": "98261-road-fc-63",
+      "round": 1,
+      "timeInRound": "4:11"
+    },
+    {
+      "date": "2022-07-09T00:00:00.000Z",
+      "opponent": "Junior Tafa",
+      "opponentSlug": "242095-junior-tafa",
+      "result": "loss",
+      "method": "other",
+      "event": "Beatdown Promotions 1",
+      "eventSlug": "88927-beatdown-promotions-1",
+      "round": 1,
+      "timeInRound": "1:06"
+    },
+    {
+      "date": "2022-03-13T00:00:00.000Z",
+      "opponent": "Ryo Sakai",
+      "opponentSlug": "28669-ryo-sakai",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "DEEP Tokyo Impact 2022 ~2nd Round~",
+      "eventSlug": "87468-deep-tokyo-impact-2022-2nd-round",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-12T00:00:00.000Z",
+      "opponent": "Yukinori Akazawa",
+      "opponentSlug": "36693-yukinori-akazawa",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "DEEP 105 Impact",
+      "eventSlug": "84449-deep-105-impact",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-18T00:00:00.000Z",
+      "opponent": "Keisuke Nakamura",
+      "opponentSlug": "293100-kenny-nakamura",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "DEEP Tokyo Impact 2021 ~1st Round~",
+      "eventSlug": "78878-deep-tokyo-impact-2021-1st-round",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-13T00:00:00.000Z",
+      "opponent": "Garry",
+      "opponentSlug": "285888-garry",
+      "result": "win",
+      "method": "other",
+      "event": "DEEP Tokyo Impact 2021",
+      "eventSlug": "76900-deep-tokyo-impact-2021",
+      "round": 1,
+      "timeInRound": "3:50"
+    },
+    {
+      "date": "2020-06-27T00:00:00.000Z",
+      "opponent": "Taito Abe",
+      "opponentSlug": "63659-taito",
+      "result": "loss",
+      "method": "other",
+      "event": "TTF CHALLENGE 08",
+      "eventSlug": "70818-ttf-challenge-08",
+      "round": 2,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2020-02-23T00:00:00.000Z",
+      "opponent": "Ryo Sasaki",
+      "opponentSlug": "134670-akira-sasaki",
+      "result": "win",
+      "method": "tko",
+      "event": "Fighting NEXUS vol.19",
+      "eventSlug": "67727-fighting-nexus-vol-19-first-featherweight-championship-tournament-opening",
+      "round": 1,
+      "timeInRound": "4:08"
+    },
+    {
+      "date": "2019-12-22T00:00:00.000Z",
+      "opponent": "Daiki Nagata",
+      "opponentSlug": "45605-zulu",
+      "result": "win",
+      "method": "tko",
+      "event": "PFC Yarennoka! 2019",
+      "eventSlug": "65276-pfc-yarennoka-2019",
+      "round": 2,
+      "timeInRound": "1:24"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:16:50.684Z"
+}

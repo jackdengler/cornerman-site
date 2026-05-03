@@ -1,0 +1,33 @@
+{
+  "slug": "485659-firooz-yarmohammadi",
+  "name": "Firooz Yarmohammadi",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/485659-firooz-yarmohammadi",
+  "recentFights": [
+    {
+      "date": "2025-03-01T00:00:00.000Z",
+      "opponent": "Firas Daud",
+      "opponentSlug": "365273-firas-daud",
+      "result": "loss",
+      "method": "other",
+      "event": "GMC 41",
+      "eventSlug": "121991-gmc-41",
+      "round": 2,
+      "timeInRound": "2:11"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:10:02.970Z"
+}

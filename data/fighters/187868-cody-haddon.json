@@ -1,0 +1,187 @@
+{
+  "slug": "187868-cody-haddon",
+  "name": "Cody Haddon",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 175,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1998-09-08",
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/187868-cody-haddon",
+  "recentFights": [
+    {
+      "date": "2026-05-30T00:00:00.000Z",
+      "opponent": "Aoriqileng",
+      "opponentSlug": "119560-aoriqileng",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "139238-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-10-12T00:00:00.000Z",
+      "opponent": "Dan Argueta",
+      "opponentSlug": "162202-daniel-argueta-the-determined",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "115961-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-08-20T00:00:00.000Z",
+      "opponent": "Billy Brand",
+      "opponentSlug": "48708-billy-brand",
+      "result": "win",
+      "method": "sub",
+      "event": "Contender Series 2024",
+      "eventSlug": "112919-contender-series-2024-week-2",
+      "round": 1,
+      "timeInRound": "3:09"
+    },
+    {
+      "date": "2024-03-02T00:00:00.000Z",
+      "opponent": "Paul Loga",
+      "opponentSlug": "86707-paul-loga",
+      "result": "win",
+      "method": "sub",
+      "event": "HEX Fight Series 29",
+      "eventSlug": "107573-hex-fight-series-29",
+      "round": 2,
+      "timeInRound": "3:22"
+    },
+    {
+      "date": "2023-08-18T00:00:00.000Z",
+      "opponent": "Raja Shippen",
+      "opponentSlug": "12032-raja-shippen",
+      "result": "win",
+      "method": "other",
+      "event": "Hex Fight Series 27",
+      "eventSlug": "101993-hex-fight-series-27",
+      "round": 1,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2022-09-30T00:00:00.000Z",
+      "opponent": "Dong Il Kim",
+      "opponentSlug": "68929-dong-il-kim",
+      "result": "win",
+      "method": "other",
+      "event": "Rogue MMA 4",
+      "eventSlug": "93070-rogue-mma-4",
+      "round": 1,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2022-05-29T00:00:00.000Z",
+      "opponent": "Jarrett Wilbraham",
+      "opponentSlug": "128643-jarrett-wilbraham",
+      "result": "win",
+      "method": "tko",
+      "event": "Eternal MMA 66",
+      "eventSlug": "88996-eternal-mma-66",
+      "round": 3,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2021-06-05T00:00:00.000Z",
+      "opponent": "Steve Erceg",
+      "opponentSlug": "132326-stephen-erceg",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 60",
+      "eventSlug": "79273-eternal-mma-60",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-02-13T00:00:00.000Z",
+      "opponent": "Mark Familari",
+      "opponentSlug": "108123-mark-familiari",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 56",
+      "eventSlug": "74898-eternal-mma-58",
+      "round": 2,
+      "timeInRound": "1:27"
+    },
+    {
+      "date": "2020-10-10T00:00:00.000Z",
+      "opponent": "Shantaram Maharaj",
+      "opponentSlug": "29528-shantaram-maharaj-gods-gift",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 53",
+      "eventSlug": "71553-eternal-mma-53",
+      "round": 1,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2019-09-07T00:00:00.000Z",
+      "opponent": "John Calderon",
+      "opponentSlug": "234057-john-calderon",
+      "result": "win",
+      "method": "tko",
+      "event": "Eternal MMA 47",
+      "eventSlug": "62222-eternal-mma-47",
+      "round": 2,
+      "timeInRound": "1:46"
+    },
+    {
+      "date": "2019-03-02T00:00:00.000Z",
+      "opponent": "Nav Hassanzada",
+      "opponentSlug": "129502-nav-hassanzadz",
+      "result": "win",
+      "method": "sub",
+      "event": "Eternal MMA 41",
+      "eventSlug": "57696-eternal-mma-41",
+      "round": 3,
+      "timeInRound": "1:53"
+    },
+    {
+      "date": "2018-12-08T00:00:00.000Z",
+      "opponent": "Jake Newton",
+      "opponentSlug": "108124-jake-newton",
+      "result": "win",
+      "method": "sub",
+      "event": "Eternal MMA 40",
+      "eventSlug": "56405-eternal-mma-40",
+      "round": 1,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2018-09-22T00:00:00.000Z",
+      "opponent": "Connor Small",
+      "opponentSlug": "195033-connor-small",
+      "result": "win",
+      "method": "sub",
+      "event": "Eternal MMA 37",
+      "eventSlug": "55119-eternal-mma-37",
+      "round": 1,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2018-05-26T00:00:00.000Z",
+      "opponent": "Danial Williams",
+      "opponentSlug": "188495-danial-williams",
+      "result": "win",
+      "method": "sub",
+      "event": "Eternal MMA 34",
+      "eventSlug": "53311-eternal-mma-34",
+      "round": 1,
+      "timeInRound": "0:44"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:13:53.544Z"
+}

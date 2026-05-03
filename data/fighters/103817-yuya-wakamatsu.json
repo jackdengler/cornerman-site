@@ -1,0 +1,154 @@
+{
+  "slug": "103817-yuya-wakamatsu",
+  "name": "Yuya Wakamatsu",
+  "nickname": "Little Piranha",
+  "aliases": [],
+  "recordPro": {
+    "wins": 20,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 167,
+  "reachCm": 173,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1995-02-09",
+  "nationality": "Satsumasendai, Kagoshima, Japan",
+  "url": "https://www.tapology.com/fightcenter/fighters/103817-yuya-wakamatsu",
+  "recentFights": [
+    {
+      "date": "2026-04-29T00:00:00.000Z",
+      "opponent": "Avazbek Kholmirzaev",
+      "opponentSlug": "364160-avazbek-kholmurzoev",
+      "result": null,
+      "method": "other",
+      "event": "ONE Samurai 1",
+      "eventSlug": "137460-one-175",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-15T00:00:00.000Z",
+      "opponent": "Joshua Pacio",
+      "opponentSlug": "94002-joshua-pacio",
+      "result": "win",
+      "method": "other",
+      "event": "ONE 173: Superbon vs. Noiri",
+      "eventSlug": "130445-one-173-superbon-vs-noiri",
+      "round": 2,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2025-03-23T00:00:00.000Z",
+      "opponent": "Adriano Moraes",
+      "opponentSlug": "35131-adriano-moraes-mikinho",
+      "result": "win",
+      "method": "other",
+      "event": "ONE 172: Takeru vs. Rodtang",
+      "eventSlug": "121396-one-172-takeru-vs-rodtang",
+      "round": 1,
+      "timeInRound": "3:39"
+    },
+    {
+      "date": "2024-12-06T00:00:00.000Z",
+      "opponent": "Gilbert Nakatani",
+      "opponentSlug": "71680-gilbert-nakatani",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE Fight Night 26",
+      "eventSlug": "109352-one-fight-night-29",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-01-28T00:00:00.000Z",
+      "opponent": "Danny Kingad",
+      "opponentSlug": "94011-danny-kingad",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE 165: Superlek vs. Takeru",
+      "eventSlug": "107951-one-165-rodtang-vs-takeru",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-14T00:00:00.000Z",
+      "opponent": "Wei Xie",
+      "opponentSlug": "153595-wei-xie",
+      "result": "win",
+      "method": "tko",
+      "event": "ONE Fight Night 12",
+      "eventSlug": "100718-one-fight-night-12-kai-vs-le-2",
+      "round": 1,
+      "timeInRound": "2:03"
+    },
+    {
+      "date": "2022-11-19T00:00:00.000Z",
+      "opponent": "Sung Hoon Woo",
+      "opponentSlug": "130859-sung-hoon-woo",
+      "result": "loss",
+      "method": "other",
+      "event": "ONE Championship 163",
+      "eventSlug": "91287-one-championship-163",
+      "round": 1,
+      "timeInRound": "2:46"
+    },
+    {
+      "date": "2022-03-26T00:00:00.000Z",
+      "opponent": "Adriano Moraes",
+      "opponentSlug": "35131-adriano-moraes-mikinho",
+      "result": "loss",
+      "method": "sub",
+      "event": "ONE Championship",
+      "eventSlug": "85971-one-championship",
+      "round": 3,
+      "timeInRound": "3:58"
+    },
+    {
+      "date": "2021-12-03T00:00:00.000Z",
+      "opponent": "Yong Hu",
+      "opponentSlug": "142975-yong-hu",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE Championship",
+      "eventSlug": "82369-one-championship-winter-warriors",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-21T00:00:00.000Z",
+      "opponent": "Reece McLaren",
+      "opponentSlug": "25416-reece-mclaren",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE on TNT 3",
+      "eventSlug": "76643-one-championship",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-11-06T00:00:00.000Z",
+      "opponent": "Kyu Sung Kim",
+      "opponentSlug": "68987-kyu-sung-kim",
+      "result": "win",
+      "method": "other",
+      "event": "ONE Championship",
+      "eventSlug": "73732-one-championship-inside-the-matrix-2",
+      "round": 1,
+      "timeInRound": "1:46"
+    },
+    {
+      "date": "2019-10-12T00:00:00.000Z",
+      "opponent": "Dae Hwan Kim",
+      "opponentSlug": "34483-dae-hwan-kim",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE Championship",
+      "eventSlug": "61497-one-championship-century",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:07:00.145Z"
+}

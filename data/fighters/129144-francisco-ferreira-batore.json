@@ -1,0 +1,176 @@
+{
+  "slug": "129144-francisco-ferreira-batore",
+  "name": "Francisco Ferreira",
+  "nickname": "Batoré",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 5,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1990-05-30",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/129144-francisco-ferreira-batore",
+  "recentFights": [
+    {
+      "date": "2024-11-03T00:00:00.000Z",
+      "opponent": "Marçal Pauliqueves",
+      "opponentSlug": "373412-marcal-pauliqueves-ganso",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Futhar MMA 4",
+      "eventSlug": "119798-futhar-mma-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-22T00:00:00.000Z",
+      "opponent": "Pablo Herman",
+      "opponentSlug": "158887-pablo-herman",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "CAMMADA 3",
+      "eventSlug": "113297-cammada-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-25T00:00:00.000Z",
+      "opponent": "Gustavo Chagas",
+      "opponentSlug": "94524-gustavo-augusto",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Inside Fighters' League 4",
+      "eventSlug": "80841-inside-fighters-league-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-04T00:00:00.000Z",
+      "opponent": "Nonato Junior",
+      "opponentSlug": "107318-nonato-junior-shaolin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "NFC 19",
+      "eventSlug": "78890-nfc-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-01-15T00:00:00.000Z",
+      "opponent": "Charlucio Brasil",
+      "opponentSlug": "69771-charlucio-brasil-buda",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "NFC 18",
+      "eventSlug": "73439-natal-fc-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-30T00:00:00.000Z",
+      "opponent": "Arthur Lima",
+      "opponentSlug": "129962-arthur-baiano",
+      "result": "loss",
+      "method": "sub",
+      "event": "NFC 17",
+      "eventSlug": "65842-natal-fc-17",
+      "round": 1,
+      "timeInRound": "1:19"
+    },
+    {
+      "date": "2019-09-06T00:00:00.000Z",
+      "opponent": "Rivanio Aranha",
+      "opponentSlug": "2430-rivanio-aranha",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-10T00:00:00.000Z",
+      "opponent": "Italo Ribeiro",
+      "opponentSlug": "58465-italo-ribeiro",
+      "result": "draw",
+      "method": "dec-majority",
+      "event": "NFC 16: New Talents",
+      "eventSlug": "60795-natal-fc-16-new-talents",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-15T00:00:00.000Z",
+      "opponent": "Bruno Barbosa",
+      "opponentSlug": "195831-bruno-barbosa-fera",
+      "result": "win",
+      "method": "other",
+      "event": "Vila FC 2",
+      "eventSlug": "55308-vfc-2",
+      "round": 1,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2018-04-07T00:00:00.000Z",
+      "opponent": "Junior Melo",
+      "opponentSlug": "121289-jose-cleiton-de-melo-junior-melo",
+      "result": "win",
+      "method": "dec-split",
+      "event": "GFC 8",
+      "eventSlug": "52857-gfc-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-01-28T00:00:00.000Z",
+      "opponent": "Iago Alves",
+      "opponentSlug": "98565-iago-alves-jason",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-30T00:00:00.000Z",
+      "opponent": "Luiz Paulo Assis",
+      "opponentSlug": "171851-luiz-paulo-assis-luizinho",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-01-23T00:00:00.000Z",
+      "opponent": "Ismael Laurentino",
+      "opponentSlug": "114727-ismael-laurentino",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-06-07T00:00:00.000Z",
+      "opponent": "Hugo Nogueira",
+      "opponentSlug": "59657-hugo-nogueira-tartaruga",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:38:21.024Z"
+}

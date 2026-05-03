@@ -1,0 +1,220 @@
+{
+  "slug": "115056-ryo-oyakawa",
+  "name": "Ryo Oyakawa",
+  "nickname": "Lyo'o",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 163,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1995-05-24",
+  "nationality": "Japan",
+  "url": "https://www.tapology.com/fightcenter/fighters/115056-ryo-oyakawa",
+  "recentFights": [
+    {
+      "date": "2025-07-13T00:00:00.000Z",
+      "opponent": "Daichi Mizuta",
+      "opponentSlug": "162727-daichi-mizuta",
+      "result": "loss",
+      "method": "other",
+      "event": "Shooto Torao 36",
+      "eventSlug": "128337-shooto-torao-36",
+      "round": 1,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2024-10-20T00:00:00.000Z",
+      "opponent": "Shuto Aki",
+      "opponentSlug": "154308-shuto-aki",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shooto GIG TOKYO Vol.37",
+      "eventSlug": "118883-shooto-gig-tokyo-vol-37",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-21T00:00:00.000Z",
+      "opponent": "Shoji Saito",
+      "opponentSlug": "218977-shoji-saito",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shooto 2022 Vol.2",
+      "eventSlug": "87470-shooto",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-18T00:00:00.000Z",
+      "opponent": "Takahiro Kuniyoshi",
+      "opponentSlug": "192957-takahiro-kuniyoshi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "The Shooto Okinawa Vol.4",
+      "eventSlug": "77689-the-shooto-okinawa-vol-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-12-12T00:00:00.000Z",
+      "opponent": "Hiroki Takaoka",
+      "opponentSlug": "120315-hiroshiki-takaoka",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shooto Torao x Force",
+      "eventSlug": "74790-shooto-torao-x-force",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-03T00:00:00.000Z",
+      "opponent": "Yuya Kaneuchi",
+      "opponentSlug": "24094-yuya-kaneuchi-cider",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "The Shooto Okinawa vol. 2",
+      "eventSlug": "64273-the-shooto-okinawa-vol-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-16T00:00:00.000Z",
+      "opponent": "Shun Okamoto",
+      "opponentSlug": "136311-shun-okamoto",
+      "result": "loss",
+      "method": "other",
+      "event": "Shooto Torao 24",
+      "eventSlug": "59612-shooto-torao-24",
+      "round": 2,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2019-04-14T00:00:00.000Z",
+      "opponent": "Masashi Michibata",
+      "opponentSlug": "136929-masashi-michibata",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "GLADIATOR 009",
+      "eventSlug": "59312-gladiator-009-in-osaka",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-25T00:00:00.000Z",
+      "opponent": "Tatsuro Taira",
+      "opponentSlug": "145595-tatsuro-taira",
+      "result": "loss",
+      "method": "other",
+      "event": "THE SHOOTO OKINAWA vol.1",
+      "eventSlug": "57398-he-shooto-okinawa-vol-1",
+      "round": 1,
+      "timeInRound": "3:24"
+    },
+    {
+      "date": "2018-09-30T00:00:00.000Z",
+      "opponent": "Daisuke Hirose",
+      "opponentSlug": "153030-daisuke-hirose",
+      "result": "win",
+      "method": "sub",
+      "event": "Shooto BORDER",
+      "eventSlug": "57191-shooto-border-season-10-the-2nd",
+      "round": 2,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2015-03-01T00:00:00.000Z",
+      "opponent": "Ryunosuke",
+      "opponentSlug": "91290-ryunosuke",
+      "result": "win",
+      "method": "sub",
+      "event": "Tenkaichi 75",
+      "eventSlug": "29424-tenkaichi-75",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-07-06T00:00:00.000Z",
+      "opponent": "Yoshihiro Kinjo",
+      "opponentSlug": "73909-yoshihiro-kinjo",
+      "result": "win",
+      "method": "other",
+      "event": "Tenkaichi 72",
+      "eventSlug": "25044-tenkaichi-72",
+      "round": 2,
+      "timeInRound": "0:41"
+    },
+    {
+      "date": "2017-09-22T00:00:00.000Z",
+      "opponent": "Tatsuro Taira",
+      "opponentSlug": "145595-tatsuro-taira",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "24th All Japan Amateur Shooto Championships",
+      "eventSlug": "47318-24th-all-japan-amateur-shooto-championships",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-22T00:00:00.000Z",
+      "opponent": "Hayato Sasaki",
+      "opponentSlug": "153031-shun-sasaki",
+      "result": "win",
+      "method": "other",
+      "event": "24th All Japan Amateur Shooto Championships",
+      "eventSlug": "47318-24th-all-japan-amateur-shooto-championships",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-17T00:00:00.000Z",
+      "opponent": "Tatsuro Taira",
+      "opponentSlug": "145595-tatsuro-taira",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "11th Kyushu Amateur Shooto Championship Tournament",
+      "eventSlug": "46199-11th-kyushu-amateur-shooto-championship-tournament",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-17T00:00:00.000Z",
+      "opponent": "Gaiya Uchida",
+      "opponentSlug": "131336-gaiya-uchida",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "11th Kyushu Amateur Shooto Championship Tournament",
+      "eventSlug": "46199-11th-kyushu-amateur-shooto-championship-tournament",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-17T00:00:00.000Z",
+      "opponent": "Yuki Adachi",
+      "opponentSlug": "159843-yuki-adachi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "11th Kyushu Amateur Shooto Championship Tournament",
+      "eventSlug": "46199-11th-kyushu-amateur-shooto-championship-tournament",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-03T00:00:00.000Z",
+      "opponent": "Natuki Izumi",
+      "opponentSlug": "108625-natsuki-izumi",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Ryukyu Free Fight 7",
+      "eventSlug": "35800-ryukyu-free-fight-vol-7",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T22:59:29.223Z"
+}

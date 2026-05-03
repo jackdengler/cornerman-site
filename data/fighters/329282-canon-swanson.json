@@ -1,0 +1,165 @@
+{
+  "slug": "329282-canon-swanson",
+  "name": "Canon Swanson",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 1,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 187,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "2001-11-08",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/329282-canon-swanson",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Quintin Richards",
+      "opponentSlug": "292164-quintin-richards",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 231: Lozej vs. Ibarra",
+      "eventSlug": "140675-lfa-231-trembley-vs-johns",
+      "round": 1,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2026-01-16T00:00:00.000Z",
+      "opponent": "Jimmy Washington",
+      "opponentSlug": "324406-jimmy-washington-big-time",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 224: Adams vs Bilalov",
+      "eventSlug": "137873-legacy-fighting-alliance-224-lfa-224",
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2025-11-01T00:00:00.000Z",
+      "opponent": "Nico O'Dor",
+      "opponentSlug": "337270-nico-o-dor-the-flow",
+      "result": "draw",
+      "method": "dec-split",
+      "event": "Ignite Fights 110",
+      "eventSlug": "132193-ignite-fights-110",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-06-13T00:00:00.000Z",
+      "opponent": "Amirkhan Buchaev",
+      "opponentSlug": "219354-amirkhan-buchaev",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 210: Lawrence vs. Reyes",
+      "eventSlug": "126691-lfa-210",
+      "round": 1,
+      "timeInRound": "3:52"
+    },
+    {
+      "date": "2025-01-25T00:00:00.000Z",
+      "opponent": "Jake Bower",
+      "opponentSlug": "292139-jake-bower",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 200: Johns vs. Douglas",
+      "eventSlug": "120838-lfa-200",
+      "round": 1,
+      "timeInRound": "3:17"
+    },
+    {
+      "date": "2024-11-02T00:00:00.000Z",
+      "opponent": "David McKinney",
+      "opponentSlug": "86702-david-mckinney",
+      "result": "win",
+      "method": "other",
+      "event": "Mecca 23",
+      "eventSlug": "112724-mecca-23",
+      "round": 1,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2024-04-05T00:00:00.000Z",
+      "opponent": "Kurtis Ellis",
+      "opponentSlug": "131732-kurtis-ellis",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 181: Siqueira vs. Hernandez",
+      "eventSlug": "110760-lfa-181",
+      "round": 1,
+      "timeInRound": "0:24"
+    },
+    {
+      "date": "2023-12-16T00:00:00.000Z",
+      "opponent": "Trey Zupancic",
+      "opponentSlug": "221769-trey-zupancic",
+      "result": "win",
+      "method": "sub",
+      "event": "Battle MMA Championships 11",
+      "eventSlug": "100375-battle-mma-championships-11",
+      "round": 1,
+      "timeInRound": "1:42"
+    },
+    {
+      "date": "2023-05-20T00:00:00.000Z",
+      "opponent": "Thad Becker",
+      "opponentSlug": "329283-thad-becker",
+      "result": "win",
+      "method": "other",
+      "event": "No Mercy 11",
+      "eventSlug": "98004-no-mercy-11",
+      "round": 2,
+      "timeInRound": "1:21"
+    },
+    {
+      "date": "2023-01-21T00:00:00.000Z",
+      "opponent": "Gunner Charbonneau",
+      "opponentSlug": "309826-gunner-charbonneau",
+      "result": "win",
+      "method": "sub",
+      "event": "Captain's Fight Club 2",
+      "eventSlug": "96210-captain-s-fight-club-2",
+      "round": 2,
+      "timeInRound": "0:46"
+    },
+    {
+      "date": "2022-11-19T00:00:00.000Z",
+      "opponent": "Nick Fishback",
+      "opponentSlug": "352252-nick-fishback",
+      "result": "win",
+      "method": "other",
+      "event": "Brawl @ Bourbon Street 5",
+      "eventSlug": "85331-ignite-fights-brawl-at-bourbon-street-5",
+      "round": 1,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2022-07-16T00:00:00.000Z",
+      "opponent": "Taner Trembley",
+      "opponentSlug": "336743-taner-trembley",
+      "result": "loss",
+      "method": "sub",
+      "event": "Bud Brawl 2",
+      "eventSlug": "90103-bud-brawl-2",
+      "round": 2,
+      "timeInRound": "2:05"
+    },
+    {
+      "date": "2022-03-12T00:00:00.000Z",
+      "opponent": "Damian Mares",
+      "opponentSlug": "321927-damian-mares",
+      "result": "win",
+      "method": "sub",
+      "event": "Evolution 1",
+      "eventSlug": "85333-evolution-1",
+      "round": 1,
+      "timeInRound": "1:11"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:59:44.525Z"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "81130-aidyn-aikhan",
+  "name": "Aydin Aikhan",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Turkey",
+  "url": "https://www.tapology.com/fightcenter/fighters/81130-aidyn-aikhan",
+  "recentFights": [
+    {
+      "date": "2014-09-18T00:00:00.000Z",
+      "opponent": "Yaroslav Amosov",
+      "opponentSlug": "81129-yaroslav-amosov",
+      "result": "loss",
+      "method": "other",
+      "event": "ECSF: Ukraine vs. Turkey",
+      "eventSlug": "26947-ukraine-vs-turkey",
+      "round": 1,
+      "timeInRound": "1:40"
+    }
+  ],
+  "lastVerified": "2026-04-25T23:04:53.407Z"
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "87740-khristhian-aranha-silva",
+  "name": "Khristhian Aranha",
+  "nickname": "Silva",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": "1979-05-17",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/87740-khristhian-aranha-silva",
+  "recentFights": [
+    {
+      "date": "2018-09-07T00:00:00.000Z",
+      "opponent": "Djorden Santos",
+      "opponentSlug": "67529-diorden-maguila",
+      "result": "loss",
+      "method": "other",
+      "event": "Samurai Fight 1",
+      "eventSlug": "55524-samuray-fight-1",
+      "round": 3,
+      "timeInRound": "1:52"
+    },
+    {
+      "date": "2018-08-11T00:00:00.000Z",
+      "opponent": "Edvaldo de Oliveira",
+      "opponentSlug": "15468-edvaldo-jose-de-oliveira-gameth",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-30T00:00:00.000Z",
+      "opponent": "Ednaldo Oliveira",
+      "opponentSlug": "6617-edinaldo-oliveira-lula",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-03-19T00:00:00.000Z",
+      "opponent": "Diogo Rodrigues",
+      "opponentSlug": "138860-diogo-rodrigues-ogro",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-07-06T00:00:00.000Z",
+      "opponent": "Alexandre Sabara",
+      "opponentSlug": "36397-alexandre-sabara",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-09-23T00:00:00.000Z",
+      "opponent": "Vitor Passos",
+      "opponentSlug": "46785-vitor-passos-libra",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:04:02.850Z"
+}

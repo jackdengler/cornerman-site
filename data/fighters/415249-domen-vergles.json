@@ -1,0 +1,81 @@
+{
+  "slug": "415249-domen-vergles",
+  "name": "Domen Vergles",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/415249-domen-vergles",
+  "recentFights": [
+    {
+      "date": "2024-04-06T00:00:00.000Z",
+      "opponent": "Mikkel Iversen",
+      "opponentSlug": "158591-mikkel-iversen",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMMAF",
+      "eventSlug": "110784-2024-immaf-european-championships",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-02T00:00:00.000Z",
+      "opponent": "Nikola Ivanov",
+      "opponentSlug": "306264-nikola-ivanov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMMAF",
+      "eventSlug": "110781-2024-immaf-european-championships",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-21T00:00:00.000Z",
+      "opponent": "Gadzhi Gadzhiev",
+      "opponentSlug": "306265-gadzhi-gadzhiev",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "IMMAF",
+      "eventSlug": "105804-2023-immaf-world-championships-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-07T00:00:00.000Z",
+      "opponent": "Vojtech Garba",
+      "opponentSlug": "145826-vojtech-garba",
+      "result": "loss",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "115208-gamma-european-championships-2021-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-06T00:00:00.000Z",
+      "opponent": "Kacper Szalast",
+      "opponentSlug": "241443-kacper-szalast",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "115207-gamma-european-championships-2021-day-1",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:09:21.709Z"
+}

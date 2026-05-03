@@ -1,0 +1,198 @@
+{
+  "slug": "donavin-hawkey-bam-bamz",
+  "name": "Donavin Hawkey",
+  "nickname": "Bam Bamz",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1982-08-05",
+  "nationality": "South Africa",
+  "url": "https://www.tapology.com/fightcenter/fighters/donavin-hawkey-bam-bamz",
+  "recentFights": [
+    {
+      "date": "2014-08-30T00:00:00.000Z",
+      "opponent": "Bernardo Mikixi",
+      "opponentSlug": "17974-bernardo-mikixi-the-black-panther",
+      "result": "win",
+      "method": "other",
+      "event": "EFC Africa 33",
+      "eventSlug": "25032-efca-33-mclellan-vs-du-plessis",
+      "round": 3,
+      "timeInRound": "2:13"
+    },
+    {
+      "date": "2014-07-03T00:00:00.000Z",
+      "opponent": "Ian Visser",
+      "opponentSlug": "36165-ian-visser",
+      "result": "loss",
+      "method": "sub",
+      "event": "EFC Africa 31",
+      "eventSlug": "25019-efca-31-zulu-vs-pena",
+      "round": 1,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2014-02-27T00:00:00.000Z",
+      "opponent": "Dricus Du Plessis",
+      "opponentSlug": "51267-dricus-du-plessis-stilknocks",
+      "result": "loss",
+      "method": "other",
+      "event": "EFC Africa 27",
+      "eventSlug": "21733-efca-27",
+      "round": 1,
+      "timeInRound": "4:50"
+    },
+    {
+      "date": "2013-06-27T00:00:00.000Z",
+      "opponent": "Raymond Ahana",
+      "opponentSlug": "17975-raymond-ahana",
+      "result": "win",
+      "method": "other",
+      "event": "EFC Africa 20",
+      "eventSlug": "18711-efca-20",
+      "round": 3,
+      "timeInRound": "3:38"
+    },
+    {
+      "date": "2013-03-01T00:00:00.000Z",
+      "opponent": "JP Kruger",
+      "opponentSlug": "21937-jp-kruger",
+      "result": "loss",
+      "method": "sub",
+      "event": "EFC Africa 18",
+      "eventSlug": "17197-efca-18",
+      "round": 1,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2012-11-23T00:00:00.000Z",
+      "opponent": "Liam Cleland",
+      "opponentSlug": "17971",
+      "result": "loss",
+      "method": "other",
+      "event": "EFC Africa 17",
+      "eventSlug": "16490-efca-17",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-07-27T00:00:00.000Z",
+      "opponent": "Chett Meyer",
+      "opponentSlug": "17907-chett-meyer-the-threat",
+      "result": "win",
+      "method": "sub",
+      "event": "EFC Africa 15",
+      "eventSlug": "14476-efca-15",
+      "round": 1,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2012-03-02T00:00:00.000Z",
+      "opponent": "Danie van Heerden",
+      "opponentSlug": "18002-danie-van-heerden",
+      "result": "loss",
+      "method": "other",
+      "event": "EFC Africa 12",
+      "eventSlug": "12453-efca-12",
+      "round": 1,
+      "timeInRound": "3:01"
+    },
+    {
+      "date": "2011-11-10T00:00:00.000Z",
+      "opponent": "Yehia Akram Deghidy",
+      "opponentSlug": "18324-yehia-akram-deghidy",
+      "result": "win",
+      "method": "other",
+      "event": "EFC Africa 11",
+      "eventSlug": "11105-efca-11",
+      "round": 1,
+      "timeInRound": "4:19"
+    },
+    {
+      "date": "2011-04-30T00:00:00.000Z",
+      "opponent": "Cole Davids",
+      "opponentSlug": "17939-cole-davids",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-11-25T00:00:00.000Z",
+      "opponent": "Sean Strickland",
+      "opponentSlug": "6055-sean-strickland-tarzan",
+      "result": "loss",
+      "method": "sub",
+      "event": "KOTC: Platinum",
+      "eventSlug": "8349-kotc-platinum",
+      "round": 1,
+      "timeInRound": "1:21"
+    },
+    {
+      "date": "2010-07-15T00:00:00.000Z",
+      "opponent": "Michiel Opperman",
+      "opponentSlug": "17909-michiel-opperman",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-04-15T00:00:00.000Z",
+      "opponent": "Wade Henderson",
+      "opponentSlug": "wade-henderson",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-02-11T00:00:00.000Z",
+      "opponent": "J.P. Joubert",
+      "opponentSlug": "17940-jp-joubert-the-bull",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-07-26T00:00:00.000Z",
+      "opponent": "Brian Thomas",
+      "opponentSlug": "17915-brian-thomas",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-12-05T00:00:00.000Z",
+      "opponent": "Chris Davis",
+      "opponentSlug": "chris-davis-the-professional",
+      "result": "loss",
+      "method": "sub",
+      "event": "XFC 6: Clash of the Continents",
+      "eventSlug": "5559-xfc-6-clash-of-the-continents",
+      "round": 1,
+      "timeInRound": "3:58"
+    }
+  ],
+  "lastVerified": "2026-04-25T22:58:41.503Z"
+}

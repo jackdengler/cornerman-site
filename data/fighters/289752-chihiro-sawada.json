@@ -1,0 +1,154 @@
+{
+  "slug": "289752-chihiro-sawada",
+  "name": "Chihiro Sawada",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 1,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 150,
+  "reachCm": 152,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": "1997-11-23",
+  "nationality": "Tokyo, Japan",
+  "url": "https://www.tapology.com/fightcenter/fighters/289752-chihiro-sawada",
+  "recentFights": [
+    {
+      "date": "2026-04-29T00:00:00.000Z",
+      "opponent": "Ayaka Miura",
+      "opponentSlug": "68336-miura-ayaka",
+      "result": null,
+      "method": "other",
+      "event": "ONE Samurai 1",
+      "eventSlug": "137460-one-175",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-01-23T00:00:00.000Z",
+      "opponent": "Natalie Salcedo",
+      "opponentSlug": "150415-natalie-salcedo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE Fight Night 39",
+      "eventSlug": "136786-one-fight-night-39",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-15T00:00:00.000Z",
+      "opponent": "Itsuki Hirata",
+      "opponentSlug": "205347-itsuki-hirata",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE 173: Superbon vs. Noiri",
+      "eventSlug": "130445-one-173-superbon-vs-noiri",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-07-11T00:00:00.000Z",
+      "opponent": "Macarena Aragon",
+      "opponentSlug": "316615-macarena-aragon",
+      "result": "win",
+      "method": "sub",
+      "event": "ONE Fight Night 33",
+      "eventSlug": "124934-one-fight-night-33",
+      "round": 1,
+      "timeInRound": "3:52"
+    },
+    {
+      "date": "2025-01-10T00:00:00.000Z",
+      "opponent": "Bo Meng",
+      "opponentSlug": "120312-bo-meng",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ONE Fight Night 27",
+      "eventSlug": "119285-one-fight-night-27",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-03T00:00:00.000Z",
+      "opponent": "Noelle Grandjean",
+      "opponentSlug": "309531-noelle-grandjean",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE Fight Night 22",
+      "eventSlug": "109345-one-fight-night-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-08T00:00:00.000Z",
+      "opponent": "Jihin Radzuan",
+      "opponentSlug": "95683-hayatun-najihin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE Fight Night 20",
+      "eventSlug": "107591-one-friday-fights-20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-01T00:00:00.000Z",
+      "opponent": "Miku Nakamura",
+      "opponentSlug": "203893-mirai-nakamura",
+      "result": "win",
+      "method": "sub",
+      "event": "Shooto Colors vol.2",
+      "eventSlug": "107894-shooto-colors-vol-2",
+      "round": 1,
+      "timeInRound": "4:57"
+    },
+    {
+      "date": "2023-05-13T00:00:00.000Z",
+      "opponent": "Ana Palacios",
+      "opponentSlug": "162885-ana-palacios",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combate Global",
+      "eventSlug": "101111-combate-global-mexico-vs-japan",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-17T00:00:00.000Z",
+      "opponent": "Sanaz Fayazmanesh",
+      "opponentSlug": "208084-sanaz-fayazmanesh",
+      "result": "win",
+      "method": "other",
+      "event": "One Friday Fights 5",
+      "eventSlug": "98210-one-friday-fights-5",
+      "round": 2,
+      "timeInRound": "0:53"
+    },
+    {
+      "date": "2022-11-27T00:00:00.000Z",
+      "opponent": "Yuki Ono",
+      "opponentSlug": "242055-yuki-shonama",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shooto 2022 Vol.7",
+      "eventSlug": "95193-shooto-2022-vol-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-22T00:00:00.000Z",
+      "opponent": "Hisae Watanabe",
+      "opponentSlug": "18556-hisae-watanabe",
+      "result": "win",
+      "method": "sub",
+      "event": "Shooto 2022 Vol.3",
+      "eventSlug": "89468-shooto-2022-vol-3",
+      "round": 2,
+      "timeInRound": "0:59"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:07:10.871Z"
+}

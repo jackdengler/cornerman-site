@@ -1,0 +1,253 @@
+{
+  "slug": "192343-lucas-rocha-fenomeno",
+  "name": "Lucas Rocha",
+  "nickname": "Fenômeno",
+  "aliases": [],
+  "recordPro": {
+    "wins": 18,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 160,
+  "reachCm": 163,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "2000-08-12",
+  "nationality": "Coari, Amazonas, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/192343-lucas-rocha-fenomeno",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Jafel Filho",
+      "opponentSlug": "46690-jafel-cavalcante-filho",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "140114-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-11T00:00:00.000Z",
+      "opponent": "Stewart Nicoll",
+      "opponentSlug": "189829-stewart-nicoll",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "130995-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-10-12T00:00:00.000Z",
+      "opponent": "Clayton Carpenter",
+      "opponentSlug": "92011-clayton-carpenter",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "115961-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2023-10-10T00:00:00.000Z",
+      "opponent": "Davi Bittencourt",
+      "opponentSlug": "240544-davi-costa-black",
+      "result": "win",
+      "method": "other",
+      "event": "Contender Series 2023",
+      "eventSlug": "101000-contender-series-2023-week-10",
+      "round": 2,
+      "timeInRound": "0:18"
+    },
+    {
+      "date": "2023-05-27T00:00:00.000Z",
+      "opponent": "Matheus Severino",
+      "opponentSlug": "107492-matheus-da-silva-calabresa",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 159: Bellato vs. Dos Santos",
+      "eventSlug": "100420-lfa-159-polastri-vs-conceicao",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-02T00:00:00.000Z",
+      "opponent": "Eduardo Castro",
+      "opponentSlug": "302828-eduardo-castro-jacarezinho",
+      "result": "win",
+      "method": "tko",
+      "event": "Coari Champions 4",
+      "eventSlug": "91588-coari-champions-4",
+      "round": 2,
+      "timeInRound": "0:40"
+    },
+    {
+      "date": "2022-01-23T00:00:00.000Z",
+      "opponent": "Adriano Ramos",
+      "opponentSlug": "105890-adriano-ramos",
+      "result": "win",
+      "method": "other",
+      "event": "Big Shot MMA 2",
+      "eventSlug": "86248-big-shot-mma-1",
+      "round": 1,
+      "timeInRound": "3:08"
+    },
+    {
+      "date": "2021-12-11T00:00:00.000Z",
+      "opponent": "Maciel Santos",
+      "opponentSlug": "66061-maciel-santos",
+      "result": "win",
+      "method": "sub",
+      "event": "Titans Jungle Combat",
+      "eventSlug": "88558-titans-jungle-combat",
+      "round": 3,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2020-10-03T00:00:00.000Z",
+      "opponent": "Rodrigo de Moura",
+      "opponentSlug": "229445-rodrigo-sobrinho-de-moura-muralha",
+      "result": "win",
+      "method": "other",
+      "event": "Coari Combat 4",
+      "eventSlug": "73807-coari-combat-4",
+      "round": 1,
+      "timeInRound": "3:22"
+    },
+    {
+      "date": "2019-10-19T00:00:00.000Z",
+      "opponent": "Alan Gabriel",
+      "opponentSlug": "176747-alan-gabriel",
+      "result": "loss",
+      "method": "other",
+      "event": "Future FC 9",
+      "eventSlug": "61777-future-fc-9",
+      "round": 1,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2019-08-03T00:00:00.000Z",
+      "opponent": "Rodrigo Sarafian",
+      "opponentSlug": "106503-rodrigo-dos-santos-sarafian",
+      "result": "win",
+      "method": "sub",
+      "event": "Coari Champions 3",
+      "eventSlug": "62012-coari-champions-3",
+      "round": 3,
+      "timeInRound": "3:03"
+    },
+    {
+      "date": "2019-04-13T00:00:00.000Z",
+      "opponent": "Alex Oliveira",
+      "opponentSlug": "180974-alex-oliveira-malandrinho",
+      "result": "win",
+      "method": "tko",
+      "event": "Coari Champions 2",
+      "eventSlug": "59334-coari-champions-2",
+      "round": 1,
+      "timeInRound": "3:29"
+    },
+    {
+      "date": "2018-07-28T00:00:00.000Z",
+      "opponent": "Michel Costa",
+      "opponentSlug": "126538-michel-costa",
+      "result": "win",
+      "method": "other",
+      "event": "Mr. Cage 35",
+      "eventSlug": "52835-mr-cage-35",
+      "round": 5,
+      "timeInRound": "4:45"
+    },
+    {
+      "date": "2018-06-30T00:00:00.000Z",
+      "opponent": "Wallafy Fernandes",
+      "opponentSlug": "103587-wallaf-mull",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-31T00:00:00.000Z",
+      "opponent": "Alex Chagas da Costa",
+      "opponentSlug": "192349-alex-chagas-da-costa",
+      "result": "win",
+      "method": "other",
+      "event": "Coari Champions 1",
+      "eventSlug": "54209-coari-champions-1",
+      "round": 1,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2017-11-04T00:00:00.000Z",
+      "opponent": "Antonio Santos da Silva",
+      "opponentSlug": "192350-antonio-santos-da-silva-bigfoot",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-30T00:00:00.000Z",
+      "opponent": "Jhon Wilhames",
+      "opponentSlug": "156635-jhon-wilhames",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-01T00:00:00.000Z",
+      "opponent": "Warllem Silva",
+      "opponentSlug": "138678-warllem-lobo",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-27T00:00:00.000Z",
+      "opponent": "Jhonata Peres",
+      "opponentSlug": "180482-jhonata-de-souza-showtime",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-04T00:00:00.000Z",
+      "opponent": "Alan Bruno",
+      "opponentSlug": "147054-alan-bruno",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-10T00:00:00.000Z",
+      "opponent": "Elijones Pereira",
+      "opponentSlug": "192351-elijones-pereira-lorinho",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:53:43.628Z"
+}

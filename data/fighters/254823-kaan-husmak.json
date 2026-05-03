@@ -1,0 +1,112 @@
+{
+  "slug": "254823-kaan-husmak",
+  "name": "Kaan Husmek",
+  "nickname": "Killer",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "2000-07-11",
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/254823-kaan-husmak",
+  "recentFights": [
+    {
+      "date": "2026-02-21T00:00:00.000Z",
+      "opponent": "Laurence Whitesmith",
+      "opponentSlug": "277633-laurence-whitesmith",
+      "result": "loss",
+      "method": "tko",
+      "event": "Eternal MMA 103",
+      "eventSlug": "138397-eternal-mma-103",
+      "round": 1,
+      "timeInRound": "4:54"
+    },
+    {
+      "date": "2024-10-11T00:00:00.000Z",
+      "opponent": "Jesse Medina",
+      "opponentSlug": "54818-jesse-medina",
+      "result": "win",
+      "method": "sub",
+      "event": "Rogue Championship 7",
+      "eventSlug": "118794-rouge-mma-7",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-20T00:00:00.000Z",
+      "opponent": "Zack Bennet",
+      "opponentSlug": "291469-zack-bennet",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shuriken Fight Series 17",
+      "eventSlug": "110329-shuriken-fight-series-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-18T00:00:00.000Z",
+      "opponent": "Harry Webb",
+      "opponentSlug": "211948-harry-webb",
+      "result": "loss",
+      "method": "other",
+      "event": "Hex Fight Series 27",
+      "eventSlug": "101993-hex-fight-series-27",
+      "round": 1,
+      "timeInRound": "1:47"
+    }
+  ],
+  "allFights": [
+    {
+      "date": "2026-02-21T00:00:00.000Z",
+      "opponent": "Laurence Whitesmith",
+      "opponentSlug": "277633-laurence-whitesmith",
+      "result": "loss",
+      "method": "tko",
+      "event": "Eternal MMA 103",
+      "eventSlug": "138397-eternal-mma-103",
+      "round": 1,
+      "timeInRound": "4:54"
+    },
+    {
+      "date": "2024-10-11T00:00:00.000Z",
+      "opponent": "Jesse Medina",
+      "opponentSlug": "54818-jesse-medina",
+      "result": "win",
+      "method": "sub",
+      "event": "Rogue Championship 7",
+      "eventSlug": "118794-rouge-mma-7",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-20T00:00:00.000Z",
+      "opponent": "Zack Bennet",
+      "opponentSlug": "291469-zack-bennet",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shuriken Fight Series 17",
+      "eventSlug": "110329-shuriken-fight-series-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-18T00:00:00.000Z",
+      "opponent": "Harry Webb",
+      "opponentSlug": "211948-harry-webb",
+      "result": "loss",
+      "method": "other",
+      "event": "Hex Fight Series 27",
+      "eventSlug": "101993-hex-fight-series-27",
+      "round": 1,
+      "timeInRound": "1:47"
+    }
+  ],
+  "lastVerified": "2026-05-03T10:17:46.329Z"
+}

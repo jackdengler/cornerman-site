@@ -1,0 +1,242 @@
+{
+  "slug": "116773-jack-maguire",
+  "name": "Jack Maguire",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 172,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Ireland",
+  "url": "https://www.tapology.com/fightcenter/fighters/116773-jack-maguire",
+  "recentFights": [
+    {
+      "date": "2025-05-10T00:00:00.000Z",
+      "opponent": "Philippe Salmon",
+      "opponentSlug": "335894-philippe-salmon",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Night St Chamas",
+      "eventSlug": "128015-fight-night-st-chamas",
+      "round": 1,
+      "timeInRound": "2:33"
+    },
+    {
+      "date": "2024-11-09T00:00:00.000Z",
+      "opponent": "Radek Roušal",
+      "opponentSlug": "279961-radek-rousal-ruchy",
+      "result": "win",
+      "method": "sub",
+      "event": "OKTAGON 63: Buchinger vs. Nafuka",
+      "eventSlug": "116290-oktagon-63",
+      "round": 2,
+      "timeInRound": "2:44"
+    },
+    {
+      "date": "2024-03-16T00:00:00.000Z",
+      "opponent": "Javier Mendoza",
+      "opponentSlug": "358566-javier-mendoza",
+      "result": "win",
+      "method": "tko",
+      "event": "Fight 2 One",
+      "eventSlug": "109568-fight-2-one-5",
+      "round": 3,
+      "timeInRound": "3:20"
+    },
+    {
+      "date": "2020-09-24T00:00:00.000Z",
+      "opponent": "Ciaran Mulholland",
+      "opponentSlug": "124415-ciaran-mulholland",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 114",
+      "eventSlug": "70540-cage-warriors",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-09T00:00:00.000Z",
+      "opponent": "Manny Akpan",
+      "opponentSlug": "86653-manny-akpan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 110",
+      "eventSlug": "62599-cage-warriors-110",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-20T00:00:00.000Z",
+      "opponent": "Ciaran Breslin",
+      "opponentSlug": "95396-ciaran-breslin",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "2018 IMMAF European Championships",
+      "eventSlug": "53930-2018-immaf-european-championships-day-3-querter-finals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-02-09T00:00:00.000Z",
+      "opponent": "Alexander O'Sullivan",
+      "opponentSlug": "84854-alexander-osullivan",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Legacy 6",
+      "eventSlug": "50882-cage-legacy-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-14T00:00:00.000Z",
+      "opponent": "Jakub Tichota",
+      "opponentSlug": "159770-jakub-tichota",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "2017 IMMAF World Championships",
+      "eventSlug": "49156-2017-immaf-world-championships-day-2-cage-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-13T00:00:00.000Z",
+      "opponent": "Piotr Hugues",
+      "opponentSlug": "69864-piotr-hugues",
+      "result": "win",
+      "method": "tko",
+      "event": "2017 IMMAF World Championships",
+      "eventSlug": "43731-2017-immaf-world-championships-day-1-cage-1",
+      "round": 2,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2017-07-22T00:00:00.000Z",
+      "opponent": "Leon Hill",
+      "opponentSlug": "149133-leon-hill",
+      "result": "win",
+      "method": "tko",
+      "event": "Cage Legacy Fighting Championship 3",
+      "eventSlug": "43580-cage-legacy-fight-night-cork",
+      "round": 2,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2017-06-10T00:00:00.000Z",
+      "opponent": "Connor Hitchens",
+      "opponentSlug": "76901-connor-hitchens",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UK Fighting Championships 4",
+      "eventSlug": "45816-uk-fighting-championships-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-23T00:00:00.000Z",
+      "opponent": "Daire Toman",
+      "opponentSlug": "100645-daire-toman",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Akuma Fighting Championship 10",
+      "eventSlug": "45223-akuma-fighting-championship-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-31T00:00:00.000Z",
+      "opponent": "Delyan Georgiev",
+      "opponentSlug": "152847-delyan-georgiev",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "2017 IMMAF European Open Championships",
+      "eventSlug": "44591-2017-immaf-european-open-championships-day-3-cage-a",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-30T00:00:00.000Z",
+      "opponent": "Davide Baggieri Martini",
+      "opponentSlug": "152942-davide-baggieri-martini",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "2017 IMMAF European Open Championships",
+      "eventSlug": "44589-2017-immaf-european-open-championships-day-2-cage-a",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-02-11T00:00:00.000Z",
+      "opponent": "Nathan Kelly",
+      "opponentSlug": "78170-nathan-kelly",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Legacy Fight Night",
+      "eventSlug": "41657-cage-legacy-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-03T00:00:00.000Z",
+      "opponent": "Stephen O'Driscoll",
+      "opponentSlug": "109728-stephen-odriscoll",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Battle Zone FC 16",
+      "eventSlug": "41516-battle-zone-fc-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-03T00:00:00.000Z",
+      "opponent": "Ciaran Clarke",
+      "opponentSlug": "55691-ciaran-clarke",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Battle Zone FC 16",
+      "eventSlug": "41516-battle-zone-fc-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-23T00:00:00.000Z",
+      "opponent": "Alex Kravstov",
+      "opponentSlug": "31823-alex-kravstov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-02T00:00:00.000Z",
+      "opponent": "Darryl Byrne",
+      "opponentSlug": "119985-darryl-byrne",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Battle Zone FC 15",
+      "eventSlug": "37453-battle-zone-fc-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-17T00:00:00.000Z",
+      "opponent": "Paudie Cosgrave",
+      "opponentSlug": "116774-paudie-cosgrave",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Kings 3",
+      "eventSlug": "36188-cage-kings-3",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:04:48.488Z"
+}

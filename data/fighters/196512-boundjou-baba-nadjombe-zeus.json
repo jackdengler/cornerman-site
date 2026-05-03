@@ -1,0 +1,187 @@
+{
+  "slug": "196512-boundjou-baba-nadjombe-zeus",
+  "name": "Baba Boundjou Nadjombe",
+  "nickname": "Zeus",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 185,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1991-05-05",
+  "nationality": "Lome, Togo",
+  "url": "https://www.tapology.com/fightcenter/fighters/196512-boundjou-baba-nadjombe-zeus",
+  "recentFights": [
+    {
+      "date": "2026-04-03T00:00:00.000Z",
+      "opponent": "Phruethukorn Chaichongcharden",
+      "opponentSlug": "228957-chai-title",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Ares FC 39: Jbalia vs. Diatta",
+      "eventSlug": "139725-ares-fc-39",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-15T00:00:00.000Z",
+      "opponent": "Yassine Belhadj",
+      "opponentSlug": "117680-yassine-belhadj",
+      "result": "loss",
+      "method": "other",
+      "event": "KOF 9",
+      "eventSlug": "112781-kof-9",
+      "round": 2,
+      "timeInRound": "0:16"
+    },
+    {
+      "date": "2023-09-30T00:00:00.000Z",
+      "opponent": "Laureano Staropoli",
+      "opponentSlug": "87204-laureano-staropoli-pepi",
+      "result": "loss",
+      "method": "other",
+      "event": "PFL Europe 3",
+      "eventSlug": "97298-pfl-europe-2023-playoffs",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2023-07-01T00:00:00.000Z",
+      "opponent": "Anthony Argerich",
+      "opponentSlug": "223486-anthony-argerich",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Kongs FC 1",
+      "eventSlug": "102313-kongs-fc-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-30T00:00:00.000Z",
+      "opponent": "William Gomis",
+      "opponentSlug": "125696-william-gomis",
+      "result": "loss",
+      "method": "sub",
+      "event": "Hexagone MMA 2",
+      "eventSlug": "82434-hexagone-mma-2",
+      "round": 1,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2021-07-09T00:00:00.000Z",
+      "opponent": "Alex Morgan",
+      "opponentSlug": "23939-alex-morgan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Hexagone MMA 1",
+      "eventSlug": "79558-hexagone-mma-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-14T00:00:00.000Z",
+      "opponent": "Mairon Santos",
+      "opponentSlug": "194524-mairon-santos",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Ares FC 1",
+      "eventSlug": "63668-ares-fighting-championship-ares-fc-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-01T00:00:00.000Z",
+      "opponent": "Esoe Franklin",
+      "opponentSlug": "169953-esoe-franklin",
+      "result": "win",
+      "method": "tko",
+      "event": "WSC 4",
+      "eventSlug": "60755-wsc-4-nigeria-vs-benin-republic",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-24T00:00:00.000Z",
+      "opponent": "Sargis Vardanyan",
+      "opponentSlug": "161832-sargis-vardanyan",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ultimax FC 5",
+      "eventSlug": "60053-ultimax-fc-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-20T00:00:00.000Z",
+      "opponent": "Jaan Agha Noori",
+      "opponentSlug": "78334-jan-nooradin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ultimax FC 4",
+      "eventSlug": "59291-ultimax-fc-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-23T00:00:00.000Z",
+      "opponent": "Achille Bokononhoui",
+      "opponentSlug": "205826-achille-bokononhui-ruskov",
+      "result": "win",
+      "method": "other",
+      "event": "Benin FC 4",
+      "eventSlug": "57392-bfc-4",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-23T00:00:00.000Z",
+      "opponent": "Chresus Mokima",
+      "opponentSlug": "52611-chresus-mokima",
+      "result": "loss",
+      "method": "sub",
+      "event": "Lome Fight Night 4",
+      "eventSlug": "56675-lome-fight-night-4-in",
+      "round": 1,
+      "timeInRound": "0:40"
+    },
+    {
+      "date": "2018-07-20T00:00:00.000Z",
+      "opponent": "Mick Adomako",
+      "opponentSlug": "196522-mick-adomako-tagor",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WSC 3",
+      "eventSlug": "55492-wsc-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-28T00:00:00.000Z",
+      "opponent": "Tairou Rachidi",
+      "opponentSlug": "205274-tairou-rachidi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Lome Fight Night 3",
+      "eventSlug": "57322-lome-fight-night-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-16T00:00:00.000Z",
+      "opponent": "Tairou Rachidi",
+      "opponentSlug": "205274-tairou-rachidi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Benin FC 3: Revolution",
+      "eventSlug": "57393-bfc-3",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:07:09.625Z"
+}

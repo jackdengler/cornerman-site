@@ -1,0 +1,231 @@
+{
+  "slug": "43275-kailin-curran",
+  "name": "Kailin Curran",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 163,
+  "reachCm": 165,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": "1991-04-11",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/43275-kailin-curran",
+  "recentFights": [
+    {
+      "date": "2019-05-03T00:00:00.000Z",
+      "opponent": "Brianna Fortino",
+      "opponentSlug": "36437-brianna-vanburen",
+      "result": "loss",
+      "method": "sub",
+      "event": "Invicta FC: Phoenix Series 1",
+      "eventSlug": "58846-invicta-fc-35-phoenix-rising",
+      "round": 2,
+      "timeInRound": "3:49"
+    },
+    {
+      "date": "2019-05-03T00:00:00.000Z",
+      "opponent": "Sharon Jacobson",
+      "opponentSlug": "41413-sharon-jacobsen",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Invicta FC: Phoenix Series 1",
+      "eventSlug": "58846-invicta-fc-35-phoenix-rising",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-03T00:00:00.000Z",
+      "opponent": "Sunna Davíðsdóttir",
+      "opponentSlug": "100799-sunna-davidsdottir-tsunami",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Invicta FC: Phoenix Series 1",
+      "eventSlug": "58846-invicta-fc-35-phoenix-rising",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-25T00:00:00.000Z",
+      "opponent": "Xiaonan Yan",
+      "opponentSlug": "12602-xiao-nan-yang-fury",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night 122",
+      "eventSlug": "47252-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-29T00:00:00.000Z",
+      "opponent": "Aleksandra Albu",
+      "opponentSlug": "55154-alexandra-albu-stitch",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 214: Cormier vs. Jones 2",
+      "eventSlug": "44395-ufc-214",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-03T00:00:00.000Z",
+      "opponent": "Jamie Moyle",
+      "opponentSlug": "50039-jamie-moyle",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "The Ultimate Fighter 24 Finale",
+      "eventSlug": "41342-the-ultimate-fighter-24-finale",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-23T00:00:00.000Z",
+      "opponent": "Felice Herrig",
+      "opponentSlug": "felice-herrig-lil-bulldog",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC on FOX 20",
+      "eventSlug": "39076-ufc-on-fox-20",
+      "round": 1,
+      "timeInRound": "1:59"
+    },
+    {
+      "date": "2015-12-10T00:00:00.000Z",
+      "opponent": "Emily Kagan",
+      "opponentSlug": "15647-emily-kagen",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night 80",
+      "eventSlug": "35219-ufc-fight-night-80",
+      "round": 2,
+      "timeInRound": "4:13"
+    },
+    {
+      "date": "2015-05-09T00:00:00.000Z",
+      "opponent": "Alex Chambers",
+      "opponentSlug": "31692-alex-chambers",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night 65",
+      "eventSlug": "30291-ufc-fight-night-65-hunt-vs-miocic",
+      "round": 3,
+      "timeInRound": "3:15"
+    },
+    {
+      "date": "2014-11-22T00:00:00.000Z",
+      "opponent": "Paige VanZant",
+      "opponentSlug": "29691-paige-vanzant",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night 57",
+      "eventSlug": "23135-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2014-02-28T00:00:00.000Z",
+      "opponent": "Yoo Jin Jung",
+      "opponentSlug": "63904-yoojin-jung",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "PXC 42: Kim vs. Misech",
+      "eventSlug": "22092-pxc-42",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-08-09T00:00:00.000Z",
+      "opponent": "Emi Tomimatsu",
+      "opponentSlug": "19822-emi-tomimatsu",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "PXC 38",
+      "eventSlug": "19209-pxc-38",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-03-08T00:00:00.000Z",
+      "opponent": "Kaiyana Rain",
+      "opponentSlug": "32611-kaiyana-rain",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "PXC 36",
+      "eventSlug": "17871-pxc-36",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-06-16T00:00:00.000Z",
+      "opponent": "JJ Aldrich",
+      "opponentSlug": "28420-jj-aldrich",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-03-09T00:00:00.000Z",
+      "opponent": "Lauren Barefoot",
+      "opponentSlug": "30682-lauren-barefoot",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-07-22T00:00:00.000Z",
+      "opponent": "Summer Alo",
+      "opponentSlug": "101771-summer-alo",
+      "result": "win",
+      "method": "tko",
+      "event": "808 Battleground",
+      "eventSlug": "11202-808-battleground-domination",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-02-25T00:00:00.000Z",
+      "opponent": "Vicky Vickers",
+      "opponentSlug": "222431-vicky-vickers-vee",
+      "result": "win",
+      "method": "other",
+      "event": "808 Battleground",
+      "eventSlug": "11782-808-battleground-war-of-warriors-1",
+      "round": 3,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2010-03-27T00:00:00.000Z",
+      "opponent": "Ka'ano Kulukilualani",
+      "opponentSlug": "222429-ka-ano-kulukilualani",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-03-06T00:00:00.000Z",
+      "opponent": "Lisa Ha",
+      "opponentSlug": "222432-lisa-ha",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:01:56.277Z"
+}

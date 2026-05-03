@@ -1,0 +1,70 @@
+{
+  "slug": "111163-vincent-morales",
+  "name": "Vincent Morales",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": 163,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/111163-vincent-morales",
+  "recentFights": [
+    {
+      "date": "2024-11-16T00:00:00.000Z",
+      "opponent": "Khallil Stokes",
+      "opponentSlug": "469144-khallil-stokes",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "SSP 63",
+      "eventSlug": "122490-ssp-63",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-08-22T00:00:00.000Z",
+      "opponent": "Richard Zhang",
+      "opponentSlug": "richard-zhang",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-05-23T00:00:00.000Z",
+      "opponent": "Aljamain Sterling",
+      "opponentSlug": "aljamain-sterling",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-11-01T00:00:00.000Z",
+      "opponent": "Nate Mango",
+      "opponentSlug": "41957-nate-mango",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:32:08.990Z"
+}

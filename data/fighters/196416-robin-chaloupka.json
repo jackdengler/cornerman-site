@@ -1,0 +1,70 @@
+{
+  "slug": "196416-robin-chaloupka",
+  "name": "Robin Chaloupka",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 4,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/196416-robin-chaloupka",
+  "recentFights": [
+    {
+      "date": "2024-04-06T00:00:00.000Z",
+      "opponent": "Patrik Šebek",
+      "opponentSlug": "312691-patrik-sebek",
+      "result": "loss",
+      "method": "sub",
+      "event": "Way of Warrior 12",
+      "eventSlug": "110735-way-of-warrior-12",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-26T00:00:00.000Z",
+      "opponent": "Alex Hutyra",
+      "opponentSlug": "347893-alex-hutyra",
+      "result": "loss",
+      "method": "sub",
+      "event": "Bitva o Frydlant X",
+      "eventSlug": "95255-bitva-o-frydlant-x-galavecer-bojovych-sportu",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-09T00:00:00.000Z",
+      "opponent": "Lukáš Muladi",
+      "opponentSlug": "202515-lukas-muladi",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Český Svaz MMA - Amatérská Liga 2022",
+      "eventSlug": "113069-cesky-svaz-mma-amaterska-liga-2022-2-kolo",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-16T00:00:00.000Z",
+      "opponent": "Maxim Křepelka",
+      "opponentSlug": "182535-maxim-krepelka",
+      "result": "loss",
+      "method": "other",
+      "event": "GCF 45: Cage Fight Olomouc 6",
+      "eventSlug": "52215-gcf-45-czech-mma-championship",
+      "round": 3,
+      "timeInRound": "0:28"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:57:35.851Z"
+}

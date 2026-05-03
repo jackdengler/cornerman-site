@@ -1,0 +1,242 @@
+{
+  "slug": "83000-eduardo-alvarado",
+  "name": "Eduardo Alvarado",
+  "nickname": "Torero",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 10,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": 170,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1992-10-07",
+  "nationality": "Tijuana, Baja California, Mexico",
+  "url": "https://www.tapology.com/fightcenter/fighters/83000-eduardo-alvarado",
+  "recentFights": [
+    {
+      "date": "2026-03-22T00:00:00.000Z",
+      "opponent": "Alejandro Quero",
+      "opponentSlug": "303085-alejandro-quero-lopez",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UWC 57: Barzilay vs. Elpidio",
+      "eventSlug": "139985-uwc-57",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-12-06T00:00:00.000Z",
+      "opponent": "Shane Torres",
+      "opponentSlug": "171638-shane-torres",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LXF 29",
+      "eventSlug": "133984-lxf-29",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-15T00:00:00.000Z",
+      "opponent": "Luis Rey Gallegos",
+      "opponentSlug": "189533-luis-gallegos-flores",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Lux Fight League 41",
+      "eventSlug": "110183-lux-fight-league-41",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-10-22T00:00:00.000Z",
+      "opponent": "John Yannis",
+      "opponentSlug": "151617-john-yannies",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Fury Challenger Series 8",
+      "eventSlug": "104835-fury-challenger-series-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-05T00:00:00.000Z",
+      "opponent": "Leonardo Vega",
+      "opponentSlug": "225422-leonardo-vega",
+      "result": "win",
+      "method": "other",
+      "event": "Supreme Fight Night 4",
+      "eventSlug": "103490-supreme-fight-night-4",
+      "round": 1,
+      "timeInRound": "4:18"
+    },
+    {
+      "date": "2021-05-29T00:00:00.000Z",
+      "opponent": "Rodrigo Garcia",
+      "opponentSlug": "182287-rodrigo-garcia",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combate Global",
+      "eventSlug": "79378-combate-global",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-16T00:00:00.000Z",
+      "opponent": "Raymond Ramos",
+      "opponentSlug": "61334-raymond-ramos",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Combate Global",
+      "eventSlug": "78615-combate-global-sabori-vs-becerra",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-08T00:00:00.000Z",
+      "opponent": "André Barquero",
+      "opponentSlug": "106722-andre-barquero-morera",
+      "result": "loss",
+      "method": "sub",
+      "event": "Combate 49: San Antonio",
+      "eventSlug": "63615-combate-san-antonio",
+      "round": 3,
+      "timeInRound": "4:38"
+    },
+    {
+      "date": "2019-06-07T00:00:00.000Z",
+      "opponent": "Jose Luis Calvo",
+      "opponentSlug": "89416-jose-calvo-pupi",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Combate 39: Unbreakable",
+      "eventSlug": "58980-combate-39",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-29T00:00:00.000Z",
+      "opponent": "Andy Perez",
+      "opponentSlug": "14849-andrew-perez-golden-boy",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combate 33: Alday vs. Lopez 2",
+      "eventSlug": "58975-combate-33-alday-vs-lopez-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-17T00:00:00.000Z",
+      "opponent": "Alan Cantú",
+      "opponentSlug": "64543-alan-garcia",
+      "result": "loss",
+      "method": "other",
+      "event": "Combate 28: Monterrey",
+      "eventSlug": "56572-combate-26",
+      "round": 1,
+      "timeInRound": "0:26"
+    },
+    {
+      "date": "2018-09-14T00:00:00.000Z",
+      "opponent": "Roman Salazar",
+      "opponentSlug": "24347-roman-salazar",
+      "result": "win",
+      "method": "other",
+      "event": "Combate 24: Alday vs. Lopez",
+      "eventSlug": "55053-combate-22-marroquin-vs-alday",
+      "round": 1,
+      "timeInRound": "4:14"
+    },
+    {
+      "date": "2017-10-07T00:00:00.000Z",
+      "opponent": "Carlos Lopez",
+      "opponentSlug": "7924-carlos-lopez",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-29T00:00:00.000Z",
+      "opponent": "Daniel Rincon",
+      "opponentSlug": "65179-daniel-rincon-lobo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Brave CF 7: Untamed",
+      "eventSlug": "47027-brave-cf-7-untamed",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-10T00:00:00.000Z",
+      "opponent": "Uriel Cossio",
+      "opponentSlug": "96407-uriel-cossio",
+      "result": "loss",
+      "method": "other",
+      "event": "ARFC 2",
+      "eventSlug": "43440-arfc-2",
+      "round": 1,
+      "timeInRound": "4:45"
+    },
+    {
+      "date": "2016-08-27T00:00:00.000Z",
+      "opponent": "Armando Espejel",
+      "opponentSlug": "82996-armando-espejel",
+      "result": "loss",
+      "method": "tko",
+      "event": "Glory Fight 2",
+      "eventSlug": "41447-glory-fight-2",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-02T00:00:00.000Z",
+      "opponent": "Erik Radleim",
+      "opponentSlug": "136598-erik-radleim",
+      "result": "win",
+      "method": "other",
+      "event": "Glory Fight 1",
+      "eventSlug": "40840-glory-fights-1",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-04-17T00:00:00.000Z",
+      "opponent": "Adrian Lozano",
+      "opponentSlug": "47223-adrian-lozano",
+      "result": "loss",
+      "method": "tko",
+      "event": "EXF 2",
+      "eventSlug": "30898-eef",
+      "round": 1,
+      "timeInRound": "0:06"
+    },
+    {
+      "date": "2014-10-18T00:00:00.000Z",
+      "opponent": "Arnoldo Castillo",
+      "opponentSlug": "83537-arnoldo-castillo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UWC & EVT: Sanchez vs. Castillo",
+      "eventSlug": "27398-uwcevt-sanchez-vs-castillo",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-05-17T00:00:00.000Z",
+      "opponent": "Daniel Rincon",
+      "opponentSlug": "65179-daniel-rincon-lobo",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UWC & EVT: Duarte vs. Beristaín",
+      "eventSlug": "24815-uwc-evt-duarte-vs-beristain",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:05:24.650Z"
+}

@@ -1,0 +1,143 @@
+{
+  "slug": "114748-emil-jerries",
+  "name": "Emil Jeries",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1997-01-16",
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/114748-emil-jerries",
+  "recentFights": [
+    {
+      "date": "2025-02-08T00:00:00.000Z",
+      "opponent": "Christian Lapham",
+      "opponentSlug": "194995-christian-lapham",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Eternal MMA 92",
+      "eventSlug": "119504-eternal-mma-92",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-13T00:00:00.000Z",
+      "opponent": "Zac Hogan",
+      "opponentSlug": "142707-isaac-hogan",
+      "result": "win",
+      "method": "sub",
+      "event": "Showdown 20",
+      "eventSlug": "116593-showdown-20",
+      "round": 2,
+      "timeInRound": "1:57"
+    },
+    {
+      "date": "2023-07-01T00:00:00.000Z",
+      "opponent": "Ben Johnston",
+      "opponentSlug": "345042-ben-johnston",
+      "result": "loss",
+      "method": "sub",
+      "event": "Eternal MMA 77",
+      "eventSlug": "100977-eternal-mma-77",
+      "round": 1,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2022-09-30T00:00:00.000Z",
+      "opponent": "Sarmad Jahanara",
+      "opponentSlug": "196551-sarmad-jahanara",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Rogue MMA 4",
+      "eventSlug": "93070-rogue-mma-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-17T00:00:00.000Z",
+      "opponent": "Alfred Stoddart",
+      "opponentSlug": "240998-alfred-stoddart",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Urban Fight Night 27",
+      "eventSlug": "84850-urban-fight-night-27",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-10T00:00:00.000Z",
+      "opponent": "Liam Cooney",
+      "opponentSlug": "131496-liam-cooney",
+      "result": "loss",
+      "method": "sub",
+      "event": "Urban Fight Night 25",
+      "eventSlug": "78517-urban-fight-night-25",
+      "round": 3,
+      "timeInRound": "1:40"
+    },
+    {
+      "date": "2021-02-27T00:00:00.000Z",
+      "opponent": "Pete Dawson",
+      "opponentSlug": "135710-pete-dawson",
+      "result": "win",
+      "method": "other",
+      "event": "Urban Fight Night 24",
+      "eventSlug": "76101-urban-fight-night-24",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-15T00:00:00.000Z",
+      "opponent": "Jordan Gamble",
+      "opponentSlug": "165965-jordan-gamble",
+      "result": "win",
+      "method": "tko",
+      "event": "Superfight MMA 14",
+      "eventSlug": "64076-superfight-mma-14",
+      "round": 1,
+      "timeInRound": "1:51"
+    },
+    {
+      "date": "2016-10-22T00:00:00.000Z",
+      "opponent": "Joel Noonan",
+      "opponentSlug": "137029-joel-noonan",
+      "result": "win",
+      "method": "tko",
+      "event": "West Region Fight Night 2",
+      "eventSlug": "42027-west-region-fight-night-2",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-03-12T00:00:00.000Z",
+      "opponent": "Louay Ishak",
+      "opponentSlug": "124910-louay-ishak",
+      "result": "win",
+      "method": "other",
+      "event": "Urban Fight Night 6",
+      "eventSlug": "37946-urban-fight-night-6",
+      "round": 1,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2015-11-08T00:00:00.000Z",
+      "opponent": "Cash Douglas",
+      "opponentSlug": "114749-cash-phila",
+      "result": "loss",
+      "method": "sub",
+      "event": "Urban Fight Night 4",
+      "eventSlug": "35676-urban-fight-night-4",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:57:47.197Z"
+}

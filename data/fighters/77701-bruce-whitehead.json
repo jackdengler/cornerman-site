@@ -1,0 +1,165 @@
+{
+  "slug": "77701-bruce-whitehead",
+  "name": "Bruce Whitehead",
+  "nickname": "The Goose",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1996-12-14",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/77701-bruce-whitehead",
+  "recentFights": [
+    {
+      "date": "2025-11-09T00:00:00.000Z",
+      "opponent": "Jared McLoughlin",
+      "opponentSlug": "167269-jared-mcloughlin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fury FC 111",
+      "eventSlug": "133410-fury-fc-111",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-06-22T00:00:00.000Z",
+      "opponent": "Victor Valenzuela",
+      "opponentSlug": "67389-victor-valenzuela-sicosis",
+      "result": "loss",
+      "method": "other",
+      "event": "Fury FC 105",
+      "eventSlug": "127522-fury-fc-105",
+      "round": 1,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2025-03-23T00:00:00.000Z",
+      "opponent": "Kenan Jackson",
+      "opponentSlug": "132334-keenan-jackson",
+      "result": "win",
+      "method": "sub",
+      "event": "Fury FC 103",
+      "eventSlug": "123956-fury-fc-103",
+      "round": 1,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2024-06-16T00:00:00.000Z",
+      "opponent": "Rusty Turley",
+      "opponentSlug": "173630-rusty-turley",
+      "result": "win",
+      "method": "tko",
+      "event": "Fury FC 92: Pa-ac vs. Piccininni",
+      "eventSlug": "112058-fury-fc-91",
+      "round": 1,
+      "timeInRound": "0:32"
+    },
+    {
+      "date": "2024-02-04T00:00:00.000Z",
+      "opponent": "Devon Dixon",
+      "opponentSlug": "170851-devon-dixon",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fury Challenger Series 11",
+      "eventSlug": "107711-fury-challenger-series-11",
+      "round": 2,
+      "timeInRound": "2:51"
+    },
+    {
+      "date": "2023-12-03T00:00:00.000Z",
+      "opponent": "Darien Robinson",
+      "opponentSlug": "174678-darien-robinson",
+      "result": "win",
+      "method": "sub",
+      "event": "Fury FC 84: Young vs. Richardson",
+      "eventSlug": "105246-fury-fc-84",
+      "round": 1,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2023-08-27T00:00:00.000Z",
+      "opponent": "Raymond Cardenas",
+      "opponentSlug": "295639-raymond-cardenas",
+      "result": "win",
+      "method": "sub",
+      "event": "Fury FC 82: Moran vs. Trujillo",
+      "eventSlug": "102559-fury-fc-82",
+      "round": 1,
+      "timeInRound": "0:29"
+    },
+    {
+      "date": "2023-05-07T00:00:00.000Z",
+      "opponent": "Tater McSpadden",
+      "opponentSlug": "225065-tater-mcspadden",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Fury FC 79: Rodrigues vs. Holmes",
+      "eventSlug": "99972-fury-fc-79",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-01-15T00:00:00.000Z",
+      "opponent": "Treyvon Kentrell Coker",
+      "opponentSlug": "192695-treyvon-coker",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fury Challenger Series 2",
+      "eventSlug": "95375-fury-challenger-series-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-17T00:00:00.000Z",
+      "opponent": "Hunter Scott-Gregg",
+      "opponentSlug": "119280-hunter-scott-gregg",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Combat 27",
+      "eventSlug": "43139-cage-combat-27",
+      "round": 1,
+      "timeInRound": "0:55"
+    },
+    {
+      "date": "2016-08-06T00:00:00.000Z",
+      "opponent": "Anthony Cruz Veimau",
+      "opponentSlug": "52139-anthony-cruz",
+      "result": "loss",
+      "method": "tko",
+      "event": "Cage Combat 25",
+      "eventSlug": "40896-cage-combat-25",
+      "round": 1,
+      "timeInRound": "1:53"
+    },
+    {
+      "date": "2016-05-14T00:00:00.000Z",
+      "opponent": "David Olvera",
+      "opponentSlug": "131534-david-olvera",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Combat 24",
+      "eventSlug": "39535-cage-combat-24",
+      "round": 1,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2014-08-23T00:00:00.000Z",
+      "opponent": "Nicholas Webb",
+      "opponentSlug": "33480-nicholas-webb",
+      "result": "win",
+      "method": "tko",
+      "event": "Premier Fight Night 9",
+      "eventSlug": "25621-premier-fight-night-9",
+      "round": 1,
+      "timeInRound": "2:09"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:57:53.871Z"
+}

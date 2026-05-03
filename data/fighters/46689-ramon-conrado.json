@@ -1,0 +1,88 @@
+{
+  "slug": "46689-ramon-conrado",
+  "name": "Ramon Conrado",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1988-12-22",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/46689-ramon-conrado",
+  "recentFights": [
+    {
+      "date": "2017-10-07T00:00:00.000Z",
+      "opponent": "Gerson Pereira",
+      "opponentSlug": "44272-gerson-pereira-de-jesus-bila-boy",
+      "result": "loss",
+      "method": "tko",
+      "event": "Fight On 5",
+      "eventSlug": "48161-fight-on-5",
+      "round": 3,
+      "timeInRound": "0:19"
+    },
+    {
+      "date": "2015-08-29T00:00:00.000Z",
+      "opponent": "Helio Costa",
+      "opponentSlug": "72317-helio-costa",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-07-19T00:00:00.000Z",
+      "opponent": "Greco Navamorales Zuleta",
+      "opponentSlug": "52338-greco-zuleta",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-10-26T00:00:00.000Z",
+      "opponent": "Juliano Barbosa",
+      "opponentSlug": "42477-juliano-barbosa-de-souza-lima-pitbull",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-04-27T00:00:00.000Z",
+      "opponent": "Adson Paixão",
+      "opponentSlug": "30914-adson-aloisio-paixao-homem-fera",
+      "result": "win",
+      "method": "sub",
+      "event": "Imperium MMA Pro 3",
+      "eventSlug": "18643-imperium-mma-pro-3",
+      "round": 2,
+      "timeInRound": "1:22"
+    },
+    {
+      "date": "2012-12-15T00:00:00.000Z",
+      "opponent": "Jafel Filho",
+      "opponentSlug": "46690-jafel-cavalcante-filho",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:55:55.189Z"
+}

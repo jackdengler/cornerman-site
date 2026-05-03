@@ -1,0 +1,154 @@
+{
+  "slug": "89057-ataev-abdurashid",
+  "name": "Abdurashid Ataev",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/89057-ataev-abdurashid",
+  "recentFights": [
+    {
+      "date": "2017-09-23T00:00:00.000Z",
+      "opponent": "Ozan Aslaner",
+      "opponentSlug": "107207-ozan-aslaner",
+      "result": "loss",
+      "method": "other",
+      "event": "GMC 12",
+      "eventSlug": "45995-gmc-12",
+      "round": 3,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2017-04-01T00:00:00.000Z",
+      "opponent": "Kamil Makowski",
+      "opponentSlug": "83716-kamil-makowski",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-01-07T00:00:00.000Z",
+      "opponent": "Johannes Michalik",
+      "opponentSlug": "84128-johannes-michalik",
+      "result": "win",
+      "method": "sub",
+      "event": "GMC 10",
+      "eventSlug": "41602-gmc-10",
+      "round": 2,
+      "timeInRound": "3:11"
+    },
+    {
+      "date": "2016-12-10T00:00:00.000Z",
+      "opponent": "Eugen Weber",
+      "opponentSlug": "56880-eugen-weber",
+      "result": "win",
+      "method": "other",
+      "event": "We Love MMA 27",
+      "eventSlug": "37431-we-love-mma-27",
+      "round": 1,
+      "timeInRound": "3:24"
+    },
+    {
+      "date": "2016-01-23T00:00:00.000Z",
+      "opponent": "Yasin Kalyoncu",
+      "opponentSlug": "124574-yasin-kalyoncu",
+      "result": "win",
+      "method": "sub",
+      "event": "We Love MMA 18",
+      "eventSlug": "35254-we-love-mma-18",
+      "round": 1,
+      "timeInRound": "1:27"
+    },
+    {
+      "date": "2014-12-20T00:00:00.000Z",
+      "opponent": "Marc Thiele",
+      "opponentSlug": "60040-marc-thiele",
+      "result": "win",
+      "method": "sub",
+      "event": "We Love MMA 11",
+      "eventSlug": "28458-we-love-mma-11",
+      "round": 1,
+      "timeInRound": "3:19"
+    },
+    {
+      "date": "2019-04-13T00:00:00.000Z",
+      "opponent": "Djibril Dulatov",
+      "opponentSlug": "129193-djabrail-dulatov",
+      "result": "win",
+      "method": "sub",
+      "event": "Integra FC 12",
+      "eventSlug": "57628-integra-fc-12",
+      "round": 1,
+      "timeInRound": "3:26"
+    },
+    {
+      "date": "2017-12-09T00:00:00.000Z",
+      "opponent": "Kamal Magomedov",
+      "opponentSlug": "118128-kamal-magomedov",
+      "result": "loss",
+      "method": "sub",
+      "event": "WMMAA 2017 European Championships",
+      "eventSlug": "49990-wmmaa-2017-european-championships-day-1",
+      "round": 1,
+      "timeInRound": "1:24"
+    },
+    {
+      "date": "2017-12-08T00:00:00.000Z",
+      "opponent": "Vakhtang Chumburidze",
+      "opponentSlug": "236450-vakhtang-chumburidze",
+      "result": "win",
+      "method": "other",
+      "event": "WMMAA 2017 European Championships",
+      "eventSlug": "49989-wmmaa-2017-european-championships-day-2-finals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-08T00:00:00.000Z",
+      "opponent": "Maurice Abévi",
+      "opponentSlug": "160500-maurice-abvi",
+      "result": "win",
+      "method": "other",
+      "event": "WMMAA 2017 European Championships",
+      "eventSlug": "49989-wmmaa-2017-european-championships-day-2-finals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-23T00:00:00.000Z",
+      "opponent": "Mateusz Wojtkowiak",
+      "opponentSlug": "131216-mateusz-wojtkowiak",
+      "result": "win",
+      "method": "other",
+      "event": "Sprawl & Brawl MMA 3",
+      "eventSlug": "37434-sprawl-brawl-mma-3",
+      "round": 2,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2015-10-31T00:00:00.000Z",
+      "opponent": "Philipp Danker",
+      "opponentSlug": "117669-philipp-danker",
+      "result": "win",
+      "method": "other",
+      "event": "Sprawl & Brawl MMA 2",
+      "eventSlug": "35260-sprawl-brawl-mma-2",
+      "round": 1,
+      "timeInRound": "1:05"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:07:02.435Z"
+}

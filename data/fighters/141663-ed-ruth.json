@@ -1,0 +1,143 @@
+{
+  "slug": "141663-ed-ruth",
+  "name": "Ed Ruth",
+  "nickname": "EZ",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": 201,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1990-10-21",
+  "nationality": "Susquehanna Township, Pennsylvania, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/141663-ed-ruth",
+  "recentFights": [
+    {
+      "date": "2020-09-11T00:00:00.000Z",
+      "opponent": "Taylor Johnson",
+      "opponentSlug": "123465-taylor-johnson",
+      "result": "loss",
+      "method": "sub",
+      "event": "Bellator 245",
+      "eventSlug": "70975-bellator-mma",
+      "round": 1,
+      "timeInRound": "0:59"
+    },
+    {
+      "date": "2020-02-21T00:00:00.000Z",
+      "opponent": "Yaroslav Amosov",
+      "opponentSlug": "81129-yaroslav-amosov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bellator 239",
+      "eventSlug": "64840-bellator-239-ruth-vs-amasov",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-25T00:00:00.000Z",
+      "opponent": "Jason Jackson",
+      "opponentSlug": "26347-jason-jackson",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Bellator 231",
+      "eventSlug": "62502-bellator-231",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-12T00:00:00.000Z",
+      "opponent": "Kiichi Kunimoto",
+      "opponentSlug": "10711-kiichi-kunimoto-strasser",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 224",
+      "eventSlug": "59237-bellator-budd-vs-rubin",
+      "round": 2,
+      "timeInRound": "3:49"
+    },
+    {
+      "date": "2018-12-15T00:00:00.000Z",
+      "opponent": "Neiman Gracie",
+      "opponentSlug": "53803-neiman-gracie",
+      "result": "loss",
+      "method": "sub",
+      "event": "Bellator 213",
+      "eventSlug": "55349-bellator-macfalane-vs-letourneau",
+      "round": 4,
+      "timeInRound": "2:17"
+    },
+    {
+      "date": "2018-06-29T00:00:00.000Z",
+      "opponent": "Andy Murad",
+      "opponentSlug": "51349-andy-murad",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 201",
+      "eventSlug": "52258-bellator-201",
+      "round": 2,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2018-04-06T00:00:00.000Z",
+      "opponent": "Ion Pascu",
+      "opponentSlug": "14456-ion-pascu",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bellator 196",
+      "eventSlug": "50877-bellator-196-gallagher-vs-borics",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-03T00:00:00.000Z",
+      "opponent": "Chris Dempsey",
+      "opponentSlug": "20257-chris-dempsey",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 186",
+      "eventSlug": "47631-bellator-186-bader-vs-vassell",
+      "round": 2,
+      "timeInRound": "0:27"
+    },
+    {
+      "date": "2017-04-21T00:00:00.000Z",
+      "opponent": "David Mundell",
+      "opponentSlug": "63645-david-mundell",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 178",
+      "eventSlug": "44019-bellator",
+      "round": 2,
+      "timeInRound": "3:13"
+    },
+    {
+      "date": "2016-12-10T00:00:00.000Z",
+      "opponent": "Emanuele Palombi",
+      "opponentSlug": "103915-emanuele-palombi",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 168",
+      "eventSlug": "41889-bellator-167-sakara-vs-beltran",
+      "round": 1,
+      "timeInRound": "1:33"
+    },
+    {
+      "date": "2016-11-04T00:00:00.000Z",
+      "opponent": "Dustin Collins-Miles",
+      "opponentSlug": "94083-dustin-collins",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 163",
+      "eventSlug": "41806-bellator-163",
+      "round": 1,
+      "timeInRound": "3:19"
+    }
+  ],
+  "lastVerified": "2026-04-25T23:04:24.786Z"
+}

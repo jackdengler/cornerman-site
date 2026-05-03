@@ -1,0 +1,143 @@
+{
+  "slug": "107208-andris-galaida",
+  "name": "Andris Galaida",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Germany",
+  "url": "https://www.tapology.com/fightcenter/fighters/107208-andris-galaida",
+  "recentFights": [
+    {
+      "date": "2022-09-17T00:00:00.000Z",
+      "opponent": "Leon Naumann",
+      "opponentSlug": "319443-leon-naumann",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "We Love MMA 59",
+      "eventSlug": "91153-we-love-mma-59",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-21T00:00:00.000Z",
+      "opponent": "Kevin Hangs",
+      "opponentSlug": "136011-kevin-hangs",
+      "result": "loss",
+      "method": "other",
+      "event": "We Love MMA 58",
+      "eventSlug": "88648-we-love-mma-58",
+      "round": 1,
+      "timeInRound": "0:41"
+    },
+    {
+      "date": "2019-08-24T00:00:00.000Z",
+      "opponent": "Danijel Aranđelovic",
+      "opponentSlug": "140103-danijel-arangelovic",
+      "result": "win",
+      "method": "sub",
+      "event": "Octagon FC 3",
+      "eventSlug": "63075-octagon-fc-3",
+      "round": 1,
+      "timeInRound": "2:08"
+    },
+    {
+      "date": "2018-06-30T00:00:00.000Z",
+      "opponent": "Selim Agaev",
+      "opponentSlug": "63816-selim-agaev",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-30T00:00:00.000Z",
+      "opponent": "Daniel Zuerker",
+      "opponentSlug": "84125-daniel-zuerker",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-03T00:00:00.000Z",
+      "opponent": "Wiktor Kupka",
+      "opponentSlug": "216408-wiktor-kupka",
+      "result": "win",
+      "method": "tko",
+      "event": "Octagon FC 1",
+      "eventSlug": "46601-octagon-fc-1",
+      "round": 2,
+      "timeInRound": "3:45"
+    },
+    {
+      "date": "2016-07-09T00:00:00.000Z",
+      "opponent": "Denis Rothermel",
+      "opponentSlug": "135933-denis-rothermel",
+      "result": "win",
+      "method": "sub",
+      "event": "Respect: Fight Night 01",
+      "eventSlug": "39919-respect-fc-17",
+      "round": 1,
+      "timeInRound": "2:48"
+    },
+    {
+      "date": "2015-07-18T00:00:00.000Z",
+      "opponent": "Ozan Aslaner",
+      "opponentSlug": "107207-ozan-aslaner",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Respect FC 13",
+      "eventSlug": "33724-respect-fc-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-05-30T00:00:00.000Z",
+      "opponent": "Ken Antwi Adjei",
+      "opponentSlug": "102976-ken-antwi-adjei",
+      "result": "loss",
+      "method": "tko",
+      "event": "Vote MMA 3",
+      "eventSlug": "32553-vote-mma-3",
+      "round": 2,
+      "timeInRound": "3:06"
+    },
+    {
+      "date": "2016-10-02T00:00:00.000Z",
+      "opponent": "Mahmud Jaja",
+      "opponentSlug": "141797-mahmud-b",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "GNX Fight Series",
+      "eventSlug": "41976-gn-xtreme-series",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-02T00:00:00.000Z",
+      "opponent": "Mario Wolf",
+      "opponentSlug": "141799-mario-wolf",
+      "result": "win",
+      "method": "other",
+      "event": "GNX Fight Series",
+      "eventSlug": "41976-gn-xtreme-series",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:07:13.927Z"
+}

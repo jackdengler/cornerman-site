@@ -1,0 +1,220 @@
+{
+  "slug": "114491-jiang-tao",
+  "name": "Jiang Tao",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 11,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "China",
+  "url": "https://www.tapology.com/fightcenter/fighters/114491-jiang-tao",
+  "recentFights": [
+    {
+      "date": "2018-01-21T00:00:00.000Z",
+      "opponent": "Qi Wang",
+      "opponentSlug": "74953-qi-wang",
+      "result": "loss",
+      "method": "other",
+      "event": "Chin Woo Men",
+      "eventSlug": "79708-chin-woo-men",
+      "round": 3,
+      "timeInRound": "2:41"
+    },
+    {
+      "date": "2017-12-09T00:00:00.000Z",
+      "opponent": "Faridun Odilov",
+      "opponentSlug": "134542-faridun-odilov",
+      "result": "loss",
+      "method": "other",
+      "event": "Chin Woo Men",
+      "eventSlug": "60362-chin-woo-men-2017-2018-season-stage-1",
+      "round": 2,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2017-05-13T00:00:00.000Z",
+      "opponent": "Bo Gao",
+      "opponentSlug": "131300-bo-gao",
+      "result": "loss",
+      "method": "sub",
+      "event": "Chin Woo Men",
+      "eventSlug": "48032-chin-woo-men",
+      "round": 3,
+      "timeInRound": "1:56"
+    },
+    {
+      "date": "2017-04-07T00:00:00.000Z",
+      "opponent": "Carlos Prates",
+      "opponentSlug": "36554-carlos-prates-carlao",
+      "result": "loss",
+      "method": "other",
+      "event": "Chin Woo Men",
+      "eventSlug": "45059-chin-woo-men",
+      "round": 2,
+      "timeInRound": "3:35"
+    },
+    {
+      "date": "2017-01-08T00:00:00.000Z",
+      "opponent": "Peng Yang",
+      "opponentSlug": "146117-peng-yang",
+      "result": "win",
+      "method": "sub",
+      "event": "Chin Woo Men",
+      "eventSlug": "48033-chin-woo-men-2016-2017-season",
+      "round": 1,
+      "timeInRound": "4:06"
+    },
+    {
+      "date": "2016-11-06T00:00:00.000Z",
+      "opponent": "Wenlong Pang",
+      "opponentSlug": "142205-wenlong-pang",
+      "result": "win",
+      "method": "other",
+      "event": "Chin Woo Men",
+      "eventSlug": "48034-chin-woo-men-2016-2017-season",
+      "round": 1,
+      "timeInRound": "3:38"
+    },
+    {
+      "date": "2016-10-12T00:00:00.000Z",
+      "opponent": "Haolan Jietebusibai",
+      "opponentSlug": "80581-jiete-busibai",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Chinese MMA Super League",
+      "eventSlug": "87666-chinese-mma-super-league-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-11T00:00:00.000Z",
+      "opponent": "Shenglong Qian",
+      "opponentSlug": "130466-shenglong-qian",
+      "result": "win",
+      "method": "other",
+      "event": "Chinese MMA Super League",
+      "eventSlug": "87665-chinese-mma-super-league-day-1",
+      "round": 1,
+      "timeInRound": "1:24"
+    },
+    {
+      "date": "2016-06-05T00:00:00.000Z",
+      "opponent": "Tofiq Musayev",
+      "opponentSlug": "60338-tofik-musaev",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-15T00:00:00.000Z",
+      "opponent": "Nikita Basun",
+      "opponentSlug": "103673-nikita-basun",
+      "result": "loss",
+      "method": "other",
+      "event": "MFP: Amur Challenge 9",
+      "eventSlug": "39286-mfp-the-call-of-amur-9",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-03-12T00:00:00.000Z",
+      "opponent": "Artur Aslanyan",
+      "opponentSlug": "66632-arthur-aslanyan",
+      "result": "loss",
+      "method": "sub",
+      "event": "WLF E.P.I.C. 2",
+      "eventSlug": "38867-wlf-mma-312",
+      "round": 2,
+      "timeInRound": "2:11"
+    },
+    {
+      "date": "2015-09-28T00:00:00.000Z",
+      "opponent": "Liam McGowan",
+      "opponentSlug": "21713-liam-mcgowan",
+      "result": "loss",
+      "method": "dec-majority",
+      "event": "Kunlun Fight 31",
+      "eventSlug": "35616-kunlun-fight-31-bangkok-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-17T00:00:00.000Z",
+      "opponent": "Qi Wang",
+      "opponentSlug": "74953-qi-wang",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Chinese MMA Super League",
+      "eventSlug": "40857-dacheng-wuyi-season-2-finals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-16T00:00:00.000Z",
+      "opponent": "Xiangxu Qi",
+      "opponentSlug": "125568-xiangxu-qi",
+      "result": "win",
+      "method": "sub",
+      "event": "Chinese MMA Super League",
+      "eventSlug": "40856-dacheng-wuyi-season-2-day-5",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-15T00:00:00.000Z",
+      "opponent": "Ayibayi Amantu",
+      "opponentSlug": "136632-ayibayi-amantu",
+      "result": "win",
+      "method": "tko",
+      "event": "Chinese MMA Super League",
+      "eventSlug": "40502-dacheng-wuyi-season-2-day-4",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-02T00:00:00.000Z",
+      "opponent": "Kuerbanjiang Tuluosibake",
+      "opponentSlug": "67906-kurban-jiang-khazak-warrior",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Chinese MMA Super League",
+      "eventSlug": "39333-dacheng-wuyi-82-",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-27T00:00:00.000Z",
+      "opponent": "Daniyar Abdibaev",
+      "opponentSlug": "122867-daniyar-abdibaev",
+      "result": "loss",
+      "method": "other",
+      "event": "WMMAA",
+      "eventSlug": "37067-wmmaa-2015-world-championships-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-26T00:00:00.000Z",
+      "opponent": "Miroslav Brož",
+      "opponentSlug": "123391-miroslav-broz",
+      "result": "win",
+      "method": "other",
+      "event": "WMMAA",
+      "eventSlug": "37066-wmmaa-2015-world-championships-day-1",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:10:48.662Z"
+}

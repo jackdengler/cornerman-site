@@ -1,0 +1,44 @@
+{
+  "slug": "262382-murad-adyrbaev",
+  "name": "Murad Adyrbaev",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Tajikistan",
+  "url": "https://www.tapology.com/fightcenter/fighters/262382-murad-adyrbaev",
+  "recentFights": [
+    {
+      "date": "2021-07-29T00:00:00.000Z",
+      "opponent": "Shamil Gaziev",
+      "opponentSlug": "201352-shamil-gaziev",
+      "result": "loss",
+      "method": "sub",
+      "event": "BFC: Contender Series 7",
+      "eventSlug": "81441-bfc-contender-series-7",
+      "round": 1,
+      "timeInRound": "0:59"
+    },
+    {
+      "date": "2019-08-18T00:00:00.000Z",
+      "opponent": "Akhmed Bakhramov",
+      "opponentSlug": "242127-akhmed-bakhramov",
+      "result": "win",
+      "method": "tko",
+      "event": "Fitness Fight Global",
+      "eventSlug": "69210-fitness-fight-global-governor-s-cup",
+      "round": 2,
+      "timeInRound": "0:23"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:55:29.816Z"
+}

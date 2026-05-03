@@ -1,0 +1,198 @@
+{
+  "slug": "180960-valmir-da-silva-junior",
+  "name": "Valmir da Silva",
+  "nickname": "Junior",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 183,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1996-03-01",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/180960-valmir-da-silva-junior",
+  "recentFights": [
+    {
+      "date": "2025-09-10T00:00:00.000Z",
+      "opponent": "Muhammad Said",
+      "opponentSlug": "182873-magomed-saidov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UAE Warriors 63",
+      "eventSlug": "132220-uae-warriors-63",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-08-02T00:00:00.000Z",
+      "opponent": "Hugo Silva",
+      "opponentSlug": "28109-hugo-urubu",
+      "result": "win",
+      "method": "other",
+      "event": "Muiraquitã Forest Combat 1",
+      "eventSlug": "132032-muiraquita-forest-combat-1",
+      "round": 3,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2025-05-24T00:00:00.000Z",
+      "opponent": "Lucas Prestes",
+      "opponentSlug": "224750-lucas-prestes-malucao",
+      "result": "win",
+      "method": "other",
+      "event": "Mr. Cage 52",
+      "eventSlug": "129479-mr-cage-52",
+      "round": 1,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2024-04-05T00:00:00.000Z",
+      "opponent": "Hiroyuki Tetsuka",
+      "opponentSlug": "39909-hiroyuki-tetsuka-last-samurai",
+      "result": "loss",
+      "method": "other",
+      "event": "ONE Fight Night 21",
+      "eventSlug": "109344-one-fight-night-21",
+      "round": 2,
+      "timeInRound": "3:34"
+    },
+    {
+      "date": "2023-04-21T00:00:00.000Z",
+      "opponent": "Isi Fitikefu",
+      "opponentSlug": "61092-isi-fitikefu",
+      "result": "loss",
+      "method": "sub",
+      "event": "ONE Fight Night 9",
+      "eventSlug": "96959-one-on-prime-video-9",
+      "round": 1,
+      "timeInRound": "4:15"
+    },
+    {
+      "date": "2022-07-22T00:00:00.000Z",
+      "opponent": "Tae Ho Jin",
+      "opponentSlug": "19046-tae-ho-jin",
+      "result": "win",
+      "method": "sub",
+      "event": "ONE Championship 159",
+      "eventSlug": "89781-one-championship-159",
+      "round": 2,
+      "timeInRound": "4:55"
+    },
+    {
+      "date": "2022-02-25T00:00:00.000Z",
+      "opponent": "Zebaztian Kadestam",
+      "opponentSlug": "19640-zebaztian-kadestam",
+      "result": "loss",
+      "method": "other",
+      "event": "ONE Championship",
+      "eventSlug": "85969-one-championship",
+      "round": 1,
+      "timeInRound": "1:26"
+    },
+    {
+      "date": "2021-08-01T00:00:00.000Z",
+      "opponent": "Bruno Dantas",
+      "opponentSlug": "134963-bruno-dantas-general",
+      "result": "win",
+      "method": "tko",
+      "event": "Road to Future 3",
+      "eventSlug": "80370-road-to-future-3",
+      "round": 2,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2019-09-27T00:00:00.000Z",
+      "opponent": "Antônio Junior",
+      "opponentSlug": "236027-antonio-junior",
+      "result": "win",
+      "method": "tko",
+      "event": "Shooto Brasil 96",
+      "eventSlug": "62888-shooto-brasil-96",
+      "round": 2,
+      "timeInRound": "3:37"
+    },
+    {
+      "date": "2019-03-16T00:00:00.000Z",
+      "opponent": "Patrick Oliveira",
+      "opponentSlug": "150679-patrick-oliveira-brabao",
+      "result": "win",
+      "method": "other",
+      "event": "Mr. Cage vs. Rei da Selva Combat 1",
+      "eventSlug": "58966-mr-cage-vs-rei-da-selva-combat-1",
+      "round": 3,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2018-06-16T00:00:00.000Z",
+      "opponent": "Salenco Coutinho",
+      "opponentSlug": "145291-salenco-coutinho-steel-do-bronx",
+      "result": "win",
+      "method": "other",
+      "event": "Amazon Talent 9",
+      "eventSlug": "53776-amazon-talent-9",
+      "round": 3,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2017-12-21T00:00:00.000Z",
+      "opponent": "Wellington Lopes",
+      "opponentSlug": "134485-weligton-lopes",
+      "result": "loss",
+      "method": "sub",
+      "event": "Back Fish MMA 2",
+      "eventSlug": "51603-back-fish-mma-2",
+      "round": 1,
+      "timeInRound": "4:34"
+    },
+    {
+      "date": "2017-12-06T00:00:00.000Z",
+      "opponent": "Alessandro Oliveira",
+      "opponentSlug": "180961-alessandro-oliveira",
+      "result": "win",
+      "method": "other",
+      "event": "Mr. Cage 31",
+      "eventSlug": "49424-mr-cage-31",
+      "round": 1,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2017-11-11T00:00:00.000Z",
+      "opponent": "Caio Cesar",
+      "opponentSlug": "134487-caio-cesar",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-17T00:00:00.000Z",
+      "opponent": "Ariclenes Oliveira",
+      "opponentSlug": "215385-ariclenes-oliveira",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-04T00:00:00.000Z",
+      "opponent": "Kleydison Wagner",
+      "opponentSlug": "180989-kleydison-wagner-monstro",
+      "result": "win",
+      "method": "other",
+      "event": "Amazon Talent 7",
+      "eventSlug": "51627-amazon-talent-7",
+      "round": 2,
+      "timeInRound": "3:12"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:03:59.503Z"
+}

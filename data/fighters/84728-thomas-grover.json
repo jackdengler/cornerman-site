@@ -1,0 +1,48 @@
+{
+  "slug": "84728-thomas-grover",
+  "name": "Thomas Grover",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/84728-thomas-grover",
+  "recentFights": [
+    {
+      "date": "2017-09-29T00:00:00.000Z",
+      "opponent": "Colby Thicknesse",
+      "opponentSlug": "166902-colby-thicknesse",
+      "result": "loss",
+      "method": "tko",
+      "event": "Wollongong Wars 6",
+      "eventSlug": "47801-wollongong-wars-6",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-01T00:00:00.000Z",
+      "opponent": "James Najim",
+      "opponentSlug": "84649-james-najim",
+      "result": "loss",
+      "method": "sub",
+      "event": "Wollongong Wars 2",
+      "eventSlug": "27589-wollongong-wars-2",
+      "round": 1,
+      "timeInRound": "1:24"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:56:49.554Z"
+}

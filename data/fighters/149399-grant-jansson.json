@@ -1,0 +1,37 @@
+{
+  "slug": "149399-grant-jansson",
+  "name": "Grant Jansson",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1995-09-04",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/149399-grant-jansson",
+  "recentFights": [
+    {
+      "date": "2017-03-25T00:00:00.000Z",
+      "opponent": "John Yannis",
+      "opponentSlug": "151617-john-yannies",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Conquest Promotions",
+      "eventSlug": "45098-conquest-promotions-clash-on-the-high-planes-2",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:30:54.994Z"
+}

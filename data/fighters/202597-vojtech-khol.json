@@ -1,0 +1,187 @@
+{
+  "slug": "202597-vojtech-khol",
+  "name": "Vojtěch Khol",
+  "nickname": "Vichr Z Hor",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/202597-vojtech-khol",
+  "recentFights": [
+    {
+      "date": "2025-12-28T00:00:00.000Z",
+      "opponent": "Hugo Vach",
+      "opponentSlug": "302041-hugo-vach",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 81: Fleury vs. Buday",
+      "eventSlug": "118940-oktagon",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-08-09T00:00:00.000Z",
+      "opponent": "Raphael Federico",
+      "opponentSlug": "242321-rafael-federico",
+      "result": "win",
+      "method": "sub",
+      "event": "OKTAGON 74: Bolander vs. Szabová",
+      "eventSlug": "129607-oktagon-74",
+      "round": 3,
+      "timeInRound": "1:11"
+    },
+    {
+      "date": "2023-12-02T00:00:00.000Z",
+      "opponent": "Artiom Orlovschi",
+      "opponentSlug": "286448-artiom-orlovschi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Heroes Gate 28",
+      "eventSlug": "106831-heroes-gate-28",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-24T00:00:00.000Z",
+      "opponent": "Jan Kočka",
+      "opponentSlug": "343709-jan-kocka",
+      "result": "win",
+      "method": "tko",
+      "event": "Red Face 1: Reloaded",
+      "eventSlug": "102511-red-face-reloaded",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-28T00:00:00.000Z",
+      "opponent": "Ronan Deegan",
+      "opponentSlug": "280405-ronan-deegan",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "IMMAF",
+      "eventSlug": "92752-2022-immaf-european-championships-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-03T00:00:00.000Z",
+      "opponent": "Marcel Máša",
+      "opponentSlug": "236940-marcel-masa",
+      "result": "win",
+      "method": "sub",
+      "event": "GCF 65: Back in The Cage",
+      "eventSlug": "92048-gcf-65-back-in-the-cage",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-01-25T00:00:00.000Z",
+      "opponent": "Salamat Isbulaev",
+      "opponentSlug": "178290-salamat-isbulaev",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "IMMAF",
+      "eventSlug": "86213-immaf-2021-world-senior-championships-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-01-24T00:00:00.000Z",
+      "opponent": "Anouar Dehilis",
+      "opponentSlug": "289333-dehlis-anouar",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMMAF",
+      "eventSlug": "86211-immaf-2021-world-senior-championships-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-10T00:00:00.000Z",
+      "opponent": "Marcel Kříž",
+      "opponentSlug": "172019-marcel-k",
+      "result": "win",
+      "method": "sub",
+      "event": "GCF 64: Cage Fight Nymburk 5",
+      "eventSlug": "83897-gcf-64",
+      "round": 2,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2021-09-09T00:00:00.000Z",
+      "opponent": "Ivan Kurelaru",
+      "opponentSlug": "182375-ivan-kurelaru",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Senior & Junior World Cup",
+      "eventSlug": "84310-senior-junior-world-cup-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-08T00:00:00.000Z",
+      "opponent": "Robert Nilsson",
+      "opponentSlug": "230528-robert-nilsson",
+      "result": "win",
+      "method": "sub",
+      "event": "Senior & Junior World Cup",
+      "eventSlug": "83528-senior-junior-world-cup-day-1",
+      "round": 1,
+      "timeInRound": "2:46"
+    },
+    {
+      "date": "2021-06-27T00:00:00.000Z",
+      "opponent": "Matěj Val",
+      "opponentSlug": "217634-matej-val",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Český Svaz MMA",
+      "eventSlug": "98585-cesky-svaz-mma-international-mma",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-27T00:00:00.000Z",
+      "opponent": "Tomáš Mudroch",
+      "opponentSlug": "266708-tomasz-mudroch",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Český Svaz MMA",
+      "eventSlug": "98585-cesky-svaz-mma-international-mma",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-27T00:00:00.000Z",
+      "opponent": "David Zoula",
+      "opponentSlug": "197449-david-zoula",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Český Svaz MMA",
+      "eventSlug": "98585-cesky-svaz-mma-international-mma",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-13T00:00:00.000Z",
+      "opponent": "Magomed Alibulatov",
+      "opponentSlug": "176544-magomed-alibulatov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "2018 IMMAF Junior World Championships",
+      "eventSlug": "56608-2018-immaf-junior-world-championships",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:05:57.431Z"
+}

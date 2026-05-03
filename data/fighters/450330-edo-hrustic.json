@@ -1,0 +1,66 @@
+{
+  "slug": "450330-edo-hrustic",
+  "name": "Edo Hrustić",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Bosnia and Herzegovina",
+  "url": "https://www.tapology.com/fightcenter/fighters/450330-edo-hrustic",
+  "recentFights": [
+    {
+      "date": "2025-12-06T00:00:00.000Z",
+      "opponent": "Aleksandar Rakas",
+      "opponentSlug": "33119-aleksandar-rakas",
+      "result": "loss",
+      "method": "sub",
+      "event": "Noc Gladijatora",
+      "eventSlug": "138093-noc-gladijatora",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-06-07T00:00:00.000Z",
+      "opponent": "Stefan Končar",
+      "opponentSlug": "481316-stefan-koncar-the-terror",
+      "result": "loss",
+      "method": "other",
+      "event": "BFN 7: Uprising",
+      "eventSlug": "129299-bfn-7-uprising",
+      "round": 1,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2024-11-09T00:00:00.000Z",
+      "opponent": "Adnan Zilic",
+      "opponentSlug": "184659-adnan-zilic",
+      "result": "loss",
+      "method": "sub",
+      "event": "GMC Fight Night 17",
+      "eventSlug": "120165-gmc-fight-night-17",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-07-13T00:00:00.000Z",
+      "opponent": "Zoran Đođ",
+      "opponentSlug": "60549-zoran-dod",
+      "result": "loss",
+      "method": "sub",
+      "event": "ACF 3",
+      "eventSlug": "115496-acf-3",
+      "round": 2,
+      "timeInRound": "0:17"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:08:36.151Z"
+}

@@ -1,0 +1,187 @@
+{
+  "slug": "142587-brigid-chase",
+  "name": "Brigid Chase",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1997-10-18",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/142587-brigid-chase",
+  "recentFights": [
+    {
+      "date": "2025-03-15T00:00:00.000Z",
+      "opponent": "Miranda Barber",
+      "opponentSlug": "116516-miranda-kay-barber",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "247 FC: Brawl in the Burgh 27",
+      "eventSlug": "121954-247-fc-brawl-in-the-burgh-27",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-22T00:00:00.000Z",
+      "opponent": "Forrest Molinari",
+      "opponentSlug": "469193-forrest-molinari",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "BORROKA 1",
+      "eventSlug": "119099-borroka-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-29T00:00:00.000Z",
+      "opponent": "Gabrielle Holloway",
+      "opponentSlug": "33007-gabrielle-holloway",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "247 FC: Brawl in the Burgh 22",
+      "eventSlug": "110654-247-fc-brawl-in-the-burgh-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-24T00:00:00.000Z",
+      "opponent": "Fernanda Araujo",
+      "opponentSlug": "20840-fernanda-araujo",
+      "result": "win",
+      "method": "sub",
+      "event": "Combat Zone 80",
+      "eventSlug": "101557-combat-zone-80",
+      "round": 2,
+      "timeInRound": "2:52"
+    },
+    {
+      "date": "2022-11-16T00:00:00.000Z",
+      "opponent": "Claire Guthrie",
+      "opponentSlug": "68779-claire-guthrie",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 50",
+      "eventSlug": "94217-invicta-fc-50-strawweight-title-tournament",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-28T00:00:00.000Z",
+      "opponent": "Griffin Fisk",
+      "opponentSlug": "153663-griffin-fisk",
+      "result": "win",
+      "method": "other",
+      "event": "B2 Fighting Series 133",
+      "eventSlug": "81585-b2-fighting-series-134-alabama-birmingham-night-two-saturday",
+      "round": 4,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2021-03-06T00:00:00.000Z",
+      "opponent": "Danielle Wynn",
+      "opponentSlug": "167690-danielle-wynn",
+      "result": "win",
+      "method": "sub",
+      "event": "SHP 59",
+      "eventSlug": "76380-shp-59",
+      "round": 1,
+      "timeInRound": "4:14"
+    },
+    {
+      "date": "2020-02-08T00:00:00.000Z",
+      "opponent": "Christina Adcock",
+      "opponentSlug": "139538-christina-ricker",
+      "result": "win",
+      "method": "sub",
+      "event": "Valor Fighting Challenge 69",
+      "eventSlug": "66447-valor-fighting-challenge-69-robins-vs-ferhatbegovic",
+      "round": 1,
+      "timeInRound": "3:57"
+    },
+    {
+      "date": "2019-07-13T00:00:00.000Z",
+      "opponent": "Jasmine Jasudavicius",
+      "opponentSlug": "171056-jasmine-jasdavicious",
+      "result": "loss",
+      "method": "sub",
+      "event": "WFC 109",
+      "eventSlug": "60414-wfc-108",
+      "round": 2,
+      "timeInRound": "1:17"
+    },
+    {
+      "date": "2018-03-24T00:00:00.000Z",
+      "opponent": "Larkyn Dasch",
+      "opponentSlug": "122996-larkyn-dasch",
+      "result": "win",
+      "method": "sub",
+      "event": "Pinnacle FC 16",
+      "eventSlug": "50823-pinnacle-fc-16",
+      "round": 3,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2017-12-15T00:00:00.000Z",
+      "opponent": "Amber Blevins",
+      "opponentSlug": "162887-amber-blevins",
+      "result": "win",
+      "method": "other",
+      "event": "IT Fight Series 79",
+      "eventSlug": "49148-it-fight-series-79",
+      "round": 1,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2017-07-29T00:00:00.000Z",
+      "opponent": "Allison Ainley",
+      "opponentSlug": "48810-allison-ainley",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "IT Fight Series 74",
+      "eventSlug": "47072-it-fight-series-74",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-17T00:00:00.000Z",
+      "opponent": "Elizabeth Lewis",
+      "opponentSlug": "110224-liz-lewis",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "IT Fight Series 73",
+      "eventSlug": "45867-it-fight-series-73",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-25T00:00:00.000Z",
+      "opponent": "Stephanie Lehecka",
+      "opponentSlug": "152435-stephanie-lehecka",
+      "result": "win",
+      "method": "sub",
+      "event": "IT Fight Series 72",
+      "eventSlug": "44150-it-fight-series-72",
+      "round": 1,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2016-10-22T00:00:00.000Z",
+      "opponent": "Briana Coubrough",
+      "opponentSlug": "142588-briana-coubrough",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IT Fight Series 47",
+      "eventSlug": "41561-it-fight-series-47",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:09:59.935Z"
+}

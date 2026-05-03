@@ -1,0 +1,37 @@
+{
+  "slug": "64388-brandon-mcmahon",
+  "name": "Brandon McMahon",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1988-08-27",
+  "nationality": "Kansas City, Missouri",
+  "url": "https://www.tapology.com/fightcenter/fighters/64388-brandon-mcmahon",
+  "recentFights": [
+    {
+      "date": "2019-12-07T00:00:00.000Z",
+      "opponent": "Gauge Young",
+      "opponentSlug": "213571-gauge-young",
+      "result": "loss",
+      "method": "other",
+      "event": "KC Fighting Alliance 36",
+      "eventSlug": "64518-kc-fighting-alliance-36",
+      "round": 2,
+      "timeInRound": "1:10"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:12:33.810Z"
+}

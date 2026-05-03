@@ -1,0 +1,253 @@
+{
+  "slug": "197368-igor-lukacovic",
+  "name": "Igor Lukačovič",
+  "nickname": "Ragnar",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 177,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Slovakia",
+  "url": "https://www.tapology.com/fightcenter/fighters/197368-igor-lukacovic",
+  "recentFights": [
+    {
+      "date": "2023-11-25T00:00:00.000Z",
+      "opponent": "Radoslav Lachký",
+      "opponentSlug": "358504-rado-lachky",
+      "result": "loss",
+      "method": "other",
+      "event": "LCC Fight Night",
+      "eventSlug": "106671-lcc-fight-night",
+      "round": 1,
+      "timeInRound": "1:27"
+    },
+    {
+      "date": "2023-09-02T00:00:00.000Z",
+      "opponent": "Stevan Nikolic",
+      "opponentSlug": "174845-stevan-nikolic",
+      "result": "loss",
+      "method": "sub",
+      "event": "FABRIQ MMA 3",
+      "eventSlug": "101904-fabriq-mma-3",
+      "round": 1,
+      "timeInRound": "3:25"
+    },
+    {
+      "date": "2023-04-29T00:00:00.000Z",
+      "opponent": "Patrik Jánoš",
+      "opponentSlug": "145838-patrik-janos",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LCC Fight Night",
+      "eventSlug": "97595-lcc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-01-28T00:00:00.000Z",
+      "opponent": "Mateusz Balko",
+      "opponentSlug": "185473-urszula-stanczuk",
+      "result": "loss",
+      "method": "other",
+      "event": "Way of Warrior 10",
+      "eventSlug": "96539-way-of-warrior-10",
+      "round": 2,
+      "timeInRound": "4:04"
+    },
+    {
+      "date": "2022-01-15T00:00:00.000Z",
+      "opponent": "Vladimír Lengál",
+      "opponentSlug": "305714-vladimir-lengal-vlado",
+      "result": "loss",
+      "method": "other",
+      "event": "Gladork Arena 10",
+      "eventSlug": "90706-gladork-arena-10",
+      "round": 3,
+      "timeInRound": "4:49"
+    },
+    {
+      "date": "2021-11-13T00:00:00.000Z",
+      "opponent": "Lukáš Závičák",
+      "opponentSlug": "88154-lukas-zavicak",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Way of Warrior 7",
+      "eventSlug": "92042-way-of-warrior-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-04T00:00:00.000Z",
+      "opponent": "Krystian Gajdka",
+      "opponentSlug": "253734-krystian-gajdka",
+      "result": "win",
+      "method": "other",
+      "event": "Way of Warrior",
+      "eventSlug": "81615-way-of-warrior-new-blood",
+      "round": 2,
+      "timeInRound": "4:05"
+    },
+    {
+      "date": "2021-01-30T00:00:00.000Z",
+      "opponent": "Michal Konrád",
+      "opponentSlug": "144016-michal-konrd",
+      "result": "loss",
+      "method": "sub",
+      "event": "OKTAGON 21",
+      "eventSlug": "75449-oktagon-21",
+      "round": 1,
+      "timeInRound": "4:06"
+    },
+    {
+      "date": "2020-11-21T00:00:00.000Z",
+      "opponent": "Pavel Hvězda",
+      "opponentSlug": "145875-pavel-hvzda",
+      "result": "loss",
+      "method": "tko",
+      "event": "Oktagon 18",
+      "eventSlug": "73565-oktagon-18",
+      "round": 2,
+      "timeInRound": "3:59"
+    },
+    {
+      "date": "2020-09-08T00:00:00.000Z",
+      "opponent": "Michal Krčmář",
+      "opponentSlug": "82350-michal-krm",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Oktagon 5 Challenge Qualification",
+      "eventSlug": "81840-oktagon-5-challenge-qualification-quarterfinals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-07-11T00:00:00.000Z",
+      "opponent": "Marek Medovarski",
+      "opponentSlug": "185207-marek-medovarski",
+      "result": "win",
+      "method": "tko",
+      "event": "MAMMAL: Round 15",
+      "eventSlug": "72848-mammal-round-15",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-01-25T00:00:00.000Z",
+      "opponent": "Ladislav Matúš",
+      "opponentSlug": "304886-ladislav-matus",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MAMMAL: Round 13",
+      "eventSlug": "76395-mammal-round-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-23T00:00:00.000Z",
+      "opponent": "Marek Medovarski",
+      "opponentSlug": "185207-marek-medovarski",
+      "result": "loss",
+      "method": "sub",
+      "event": "LCC Fight Night",
+      "eventSlug": "64593-lcc-fight-night",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-15T00:00:00.000Z",
+      "opponent": "Roman Sekereš",
+      "opponentSlug": "160043-roman-sekere",
+      "result": "loss",
+      "method": "other",
+      "event": "MAMMAL: Round 8",
+      "eventSlug": "61871-mammal-round-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-27T00:00:00.000Z",
+      "opponent": "Denis Krátký",
+      "opponentSlug": "221281-denis-kratky",
+      "result": "win",
+      "method": "sub",
+      "event": "GCF 48: Big Cage 6",
+      "eventSlug": "59909-gcf-48-big-cage-6",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2019-04-06T00:00:00.000Z",
+      "opponent": "Marek Havrila",
+      "opponentSlug": "221982-marek-havrila",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MAMMAL: Round 7",
+      "eventSlug": "58716-mammal-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-01-26T00:00:00.000Z",
+      "opponent": "Jakub Nozdrovický",
+      "opponentSlug": "197460-jakub-nozdrovicky",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MAMMAL: Round 6",
+      "eventSlug": "58070-mammal-round-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-08T00:00:00.000Z",
+      "opponent": "Jan Sustiak",
+      "opponentSlug": "166492-jan-sustiak",
+      "result": "loss",
+      "method": "sub",
+      "event": "MAMMAL Round 5",
+      "eventSlug": "56710-mammal-5-round",
+      "round": 1,
+      "timeInRound": "0:26"
+    },
+    {
+      "date": "2018-11-24T00:00:00.000Z",
+      "opponent": "Lukáš Soroka",
+      "opponentSlug": "199725-lukas-soroka",
+      "result": "win",
+      "method": "sub",
+      "event": "LCC Fight Night",
+      "eventSlug": "55844-lcc-fight-night",
+      "round": 2,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2018-09-29T00:00:00.000Z",
+      "opponent": "Patrik Hrubizna",
+      "opponentSlug": "197369-patrik-hrubizna",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "MAMMAL Round 3",
+      "eventSlug": "55596-mammal",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-11T00:00:00.000Z",
+      "opponent": "Arnold Nagy",
+      "opponentSlug": "200870-arnold-nagy",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage Fighting Komarno 4",
+      "eventSlug": "58826-cage-fighting-komarno-4",
+      "round": 2,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:06:35.975Z"
+}

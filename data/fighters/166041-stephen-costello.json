@@ -1,0 +1,209 @@
+{
+  "slug": "166041-stephen-costello",
+  "name": "Stephen Costello",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1993-01-01",
+  "nationality": "Ireland",
+  "url": "https://www.tapology.com/fightcenter/fighters/166041-stephen-costello",
+  "recentFights": [
+    {
+      "date": "2025-09-27T00:00:00.000Z",
+      "opponent": "Manuel Del Valle",
+      "opponentSlug": "204893-manuel-del-valle",
+      "result": "loss",
+      "method": "tko",
+      "event": "Cage Warriors 194",
+      "eventSlug": "129014-cage-warriors-194",
+      "round": 2,
+      "timeInRound": "4:23"
+    },
+    {
+      "date": "2025-02-08T00:00:00.000Z",
+      "opponent": "David Martinez",
+      "opponentSlug": "61637-david-russell",
+      "result": "loss",
+      "method": "sub",
+      "event": "Eternal MMA 92",
+      "eventSlug": "119504-eternal-mma-92",
+      "round": 3,
+      "timeInRound": "3:45"
+    },
+    {
+      "date": "2024-06-01T00:00:00.000Z",
+      "opponent": "Alexander Mikael",
+      "opponentSlug": "188953-alexander-mikael",
+      "result": "win",
+      "method": "other",
+      "event": "Fight 2 One",
+      "eventSlug": "112658-fight-2-one-06",
+      "round": 2,
+      "timeInRound": "3:46"
+    },
+    {
+      "date": "2023-12-17T00:00:00.000Z",
+      "opponent": "Ovidio Bojorquez",
+      "opponentSlug": "199973-ovidio-bojorquez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combate Global",
+      "eventSlug": "108514-combate-global-ireland-vs-mexico",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-13T00:00:00.000Z",
+      "opponent": "Ashley Reece",
+      "opponentSlug": "65808-ashley-reece",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "United Fight League 2",
+      "eventSlug": "99178-united-fight-league-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-16T00:00:00.000Z",
+      "opponent": "Joliver Allan Mougang",
+      "opponentSlug": "337455-oliver-allancomba",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Centurion FC",
+      "eventSlug": "92911-centurion-fight-championship-ad-maiora",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-24T00:00:00.000Z",
+      "opponent": "Rade Novaković",
+      "opponentSlug": "245576-rade-novakovic",
+      "result": "win",
+      "method": "sub",
+      "event": "Centurion Fight Championship",
+      "eventSlug": "91367-centurion-fight-championship-rudit-leo",
+      "round": 1,
+      "timeInRound": "3:07"
+    },
+    {
+      "date": "2022-07-02T00:00:00.000Z",
+      "opponent": "Martin Antevski",
+      "opponentSlug": "337458-martin-antevski",
+      "result": "win",
+      "method": "other",
+      "event": "Centurion Fight Championship",
+      "eventSlug": "89497-centurion-fight-championship-8",
+      "round": 1,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2021-11-05T00:00:00.000Z",
+      "opponent": "Yusuf Nazokatov",
+      "opponentSlug": "307164-yusuf-nazokatov",
+      "result": "loss",
+      "method": "sub",
+      "event": "Bellator 270",
+      "eventSlug": "81270-bellator-mma",
+      "round": 2,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2021-09-09T00:00:00.000Z",
+      "opponent": "Hazem Kayyali",
+      "opponentSlug": "242524-hazem-kayyali",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Senior & Junior World Cup",
+      "eventSlug": "84310-senior-junior-world-cup-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-13T00:00:00.000Z",
+      "opponent": "Gadzhimurad Magomedov",
+      "opponentSlug": "175697-gadzhimurad-magomedov",
+      "result": "loss",
+      "method": "sub",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64319-immaf-wmmaa-amateur-world-championships-2019",
+      "round": 3,
+      "timeInRound": "2:43"
+    },
+    {
+      "date": "2019-11-12T00:00:00.000Z",
+      "opponent": "Dominik Humburger",
+      "opponentSlug": "169531-dominik-humburger",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64318-immaf-wmmaa-amateur-world-championships-2019-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-11T00:00:00.000Z",
+      "opponent": "Aleksandr Val",
+      "opponentSlug": "228488-aleksandr-val",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64317-immaf-wmmaa-amateur-world-championships-2019",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-02T00:00:00.000Z",
+      "opponent": "Andrejs Laksa",
+      "opponentSlug": "120433-andrejs-laksa",
+      "result": "win",
+      "method": "tko",
+      "event": "Clan Wars 34",
+      "eventSlug": "57661-clan-wars-34",
+      "round": 1,
+      "timeInRound": "2:09"
+    },
+    {
+      "date": "2018-12-01T00:00:00.000Z",
+      "opponent": "Ervins Linmeiers",
+      "opponentSlug": "138748-ervins-linmeiers",
+      "result": "win",
+      "method": "tko",
+      "event": "Cage Legacy 10",
+      "eventSlug": "53538-cage-legacy-10",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-08-19T00:00:00.000Z",
+      "opponent": "Ian Machado Garry",
+      "opponentSlug": "171377-ian-garry",
+      "result": "loss",
+      "method": "tko",
+      "event": "Cage Legacy 9",
+      "eventSlug": "53537-cage-legacy-9",
+      "round": 3,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2017-09-17T00:00:00.000Z",
+      "opponent": "Fionn Healy-Magwa",
+      "opponentSlug": "112214-fionn-healy-magwa",
+      "result": "loss",
+      "method": "tko",
+      "event": "Cage Ring Championship 6",
+      "eventSlug": "45884-cage-ring-championship-6-grand-prix",
+      "round": 3,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:03:34.408Z"
+}

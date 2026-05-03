@@ -1,0 +1,81 @@
+{
+  "slug": "81668-kane-lewis",
+  "name": "Kane Lewis",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1994-08-17",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/81668-kane-lewis",
+  "recentFights": [
+    {
+      "date": "2022-05-07T00:00:00.000Z",
+      "opponent": "Joao Gabriel Matos",
+      "opponentSlug": "244628-joao-gabriel-matos",
+      "result": "loss",
+      "method": "sub",
+      "event": "Texas Clash Bash 18",
+      "eventSlug": "88017-texas-clash-bash-18",
+      "round": 1,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2021-08-29T00:00:00.000Z",
+      "opponent": "Kody Steele",
+      "opponentSlug": "228289-kody-steele",
+      "result": "loss",
+      "method": "other",
+      "event": "Fury FC 49",
+      "eventSlug": "81320-fury-fc-49",
+      "round": 3,
+      "timeInRound": "1:33"
+    },
+    {
+      "date": "2015-03-21T00:00:00.000Z",
+      "opponent": "Kyle Wempe",
+      "opponentSlug": "54033-kyle-wempe",
+      "result": "loss",
+      "method": "sub",
+      "event": "EAC 9",
+      "eventSlug": "29522-eac-9",
+      "round": 2,
+      "timeInRound": "1:56"
+    },
+    {
+      "date": "2014-12-21T00:00:00.000Z",
+      "opponent": "Josh Huitt",
+      "opponentSlug": "80763-josh-huitt",
+      "result": "win",
+      "method": "tko",
+      "event": "Cage Combat 18",
+      "eventSlug": "28510-cage-combat-18",
+      "round": 2,
+      "timeInRound": "0:10"
+    },
+    {
+      "date": "2014-11-01T00:00:00.000Z",
+      "opponent": "Tony Biesrnesser",
+      "opponentSlug": "81669-tony-biesrnesser",
+      "result": "win",
+      "method": "sub",
+      "event": "EAC 8",
+      "eventSlug": "27073-eac-8",
+      "round": 1,
+      "timeInRound": "1:19"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:19:03.236Z"
+}

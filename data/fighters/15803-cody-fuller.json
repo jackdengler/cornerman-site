@@ -1,0 +1,220 @@
+{
+  "slug": "15803-cody-fuller",
+  "name": "Cody Fuller",
+  "nickname": "FULLTIME",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 10,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 182,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1988-05-19",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/15803-cody-fuller",
+  "recentFights": [
+    {
+      "date": "2014-09-26T00:00:00.000Z",
+      "opponent": "Micah Stockton",
+      "opponentSlug": "16506-micah-stockton-the-gremlin",
+      "result": "loss",
+      "method": "sub",
+      "event": "Legacy FC 35",
+      "eventSlug": "25440-legacy-fc-35-dennis-vs-leite",
+      "round": 1,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2014-03-21T00:00:00.000Z",
+      "opponent": "Jonathan Brookins",
+      "opponentSlug": "jonathan-brookins",
+      "result": "loss",
+      "method": "sub",
+      "event": "Legacy FC 29",
+      "eventSlug": "22291-legacy-fc-29",
+      "round": 2,
+      "timeInRound": "3:02"
+    },
+    {
+      "date": "2013-10-11T00:00:00.000Z",
+      "opponent": "Ryan Benoit",
+      "opponentSlug": "ryan-benoit-baby-face",
+      "result": "loss",
+      "method": "other",
+      "event": "Legacy FC 24",
+      "eventSlug": "20033-legacy-fc-24",
+      "round": 1,
+      "timeInRound": "4:53"
+    },
+    {
+      "date": "2013-09-06T00:00:00.000Z",
+      "opponent": "Micah Stockton",
+      "opponentSlug": "16506-micah-stockton-the-gremlin",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-05-31T00:00:00.000Z",
+      "opponent": "Cy Landry",
+      "opponentSlug": "41935-cy-landry",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "RMMA 27",
+      "eventSlug": "27990-rmma-27",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-12-01T00:00:00.000Z",
+      "opponent": "Randy Villarreal",
+      "opponentSlug": "14670-randy-villareal",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-11-17T00:00:00.000Z",
+      "opponent": "Jacob Ritchie",
+      "opponentSlug": "11812-jacob-ritchie",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-11-02T00:00:00.000Z",
+      "opponent": "Homero Garcia",
+      "opponentSlug": "18776-homero-garcia",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-10-15T00:00:00.000Z",
+      "opponent": "Daniel Hauenstein",
+      "opponentSlug": "6082-daniel-hauenstein",
+      "result": "loss",
+      "method": "sub",
+      "event": "Oklahoma KO",
+      "eventSlug": "12579-nightmare-in-the-jungle-5",
+      "round": 1,
+      "timeInRound": "0:14"
+    },
+    {
+      "date": "2010-06-25T00:00:00.000Z",
+      "opponent": "Tim Elliott",
+      "opponentSlug": "13664-timothy-elliot",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-05-15T00:00:00.000Z",
+      "opponent": "Lewis McKenzie",
+      "opponentSlug": "10762-lewis-mckenzie-hoodini",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-11-27T00:00:00.000Z",
+      "opponent": "Teddy Potts",
+      "opponentSlug": "16323-teddy-potts",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-10-10T00:00:00.000Z",
+      "opponent": "Carl Klocke",
+      "opponentSlug": "22269-carl-klocke",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-10-03T00:00:00.000Z",
+      "opponent": "Jacob Ritchie",
+      "opponentSlug": "11812-jacob-ritchie",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-06-12T00:00:00.000Z",
+      "opponent": "Lewis McKenzie",
+      "opponentSlug": "10762-lewis-mckenzie-hoodini",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-05-30T00:00:00.000Z",
+      "opponent": "Jeremy Stetz",
+      "opponentSlug": "15759-jeremy-stetz",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-12-12T00:00:00.000Z",
+      "opponent": "Kody Powell",
+      "opponentSlug": "7348-kody-powell",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-10-11T00:00:00.000Z",
+      "opponent": "Cody Castillo",
+      "opponentSlug": "13828-cody-castillo",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:13:22.700Z"
+}

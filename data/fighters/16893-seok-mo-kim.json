@@ -1,0 +1,209 @@
+{
+  "slug": "16893-seok-mo-kim",
+  "name": "Seok Mo Kim",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 9,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 181,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1986-03-10",
+  "nationality": "South Korea",
+  "url": "https://www.tapology.com/fightcenter/fighters/16893-seok-mo-kim",
+  "recentFights": [
+    {
+      "date": "2016-06-19T00:00:00.000Z",
+      "opponent": "Koji Kuroda",
+      "opponentSlug": "60051-yuki-kuroda",
+      "result": "win",
+      "method": "tko",
+      "event": "GLADIATOR 1 in Wakayama",
+      "eventSlug": "40345-gladiator-1",
+      "round": 1,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2015-08-22T00:00:00.000Z",
+      "opponent": "Onur Teker",
+      "opponentSlug": "69838-onur-thacker",
+      "result": "win",
+      "method": "other",
+      "event": "Road FC 25",
+      "eventSlug": "34217-road-fc-25",
+      "round": 1,
+      "timeInRound": "1:55"
+    },
+    {
+      "date": "2015-05-02T00:00:00.000Z",
+      "opponent": "Yutaro Kawaguchi",
+      "opponentSlug": "26419-yutaro-kawaguchi",
+      "result": "win",
+      "method": "tko",
+      "event": "Road FC 23",
+      "eventSlug": "31087-road-fc-23",
+      "round": 1,
+      "timeInRound": "4:26"
+    },
+    {
+      "date": "2015-03-21T00:00:00.000Z",
+      "opponent": "Kiyoshi Kuwabara",
+      "opponentSlug": "77463-kiyoshi-kuwabara",
+      "result": "loss",
+      "method": "other",
+      "event": "Road FC 22",
+      "eventSlug": "29833-road-fc-22",
+      "round": 1,
+      "timeInRound": "0:17"
+    },
+    {
+      "date": "2014-08-30T00:00:00.000Z",
+      "opponent": "Chang Hyun Kim",
+      "opponentSlug": "chang-hyun-kim-armbar",
+      "result": "loss",
+      "method": "sub",
+      "event": "Road FC 18",
+      "eventSlug": "25934-road-fc-18",
+      "round": 1,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2013-08-04T00:00:00.000Z",
+      "opponent": "Gokhan Turkyilmaz",
+      "opponentSlug": "15241-gokhan-turkyilmaz-pitbull",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "PRO Fighting 8",
+      "eventSlug": "19924-pro-fighting-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-09-15T00:00:00.000Z",
+      "opponent": "Vuyisile Colossa",
+      "opponentSlug": "vuyisile-colossa-the-cheetah",
+      "result": "loss",
+      "method": "other",
+      "event": "Road FC 9: Beatdown",
+      "eventSlug": "15259-road-fc-9",
+      "round": 1,
+      "timeInRound": "4:31"
+    },
+    {
+      "date": "2012-07-29T00:00:00.000Z",
+      "opponent": "Isamu Himura",
+      "opponentSlug": "10009-isamu-himura-20",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-06-16T00:00:00.000Z",
+      "opponent": "Jun Hee Moon",
+      "opponentSlug": "11636-jun-hee-moon",
+      "result": "loss",
+      "method": "other",
+      "event": "Road FC 8: Bitter Rivals",
+      "eventSlug": "15437-road-fc-8-bitter-rivals",
+      "round": 1,
+      "timeInRound": "4:57"
+    },
+    {
+      "date": "2012-03-24T00:00:00.000Z",
+      "opponent": "Hyung Ryul Kim",
+      "opponentSlug": "26377-hyeong-ryeol-kim",
+      "result": "win",
+      "method": "other",
+      "event": "Road FC 7: Recharged",
+      "eventSlug": "13960-road-fc-7-recharged",
+      "round": 1,
+      "timeInRound": "0:38"
+    },
+    {
+      "date": "2012-02-05T00:00:00.000Z",
+      "opponent": "Jung Min Kang",
+      "opponentSlug": "19990-jung-min-kang",
+      "result": "win",
+      "method": "other",
+      "event": "Road FC 6: The Final Four",
+      "eventSlug": "12888-road-fc-6-the-final-four",
+      "round": 2,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2011-09-24T00:00:00.000Z",
+      "opponent": "Adam Kayoom",
+      "opponentSlug": "adam-kayoom",
+      "result": "loss",
+      "method": "sub",
+      "event": "DARE 2/11",
+      "eventSlug": "10659-dare-211",
+      "round": 1,
+      "timeInRound": "3:35"
+    },
+    {
+      "date": "2011-09-03T00:00:00.000Z",
+      "opponent": "Gregor Gracie",
+      "opponentSlug": "gregor-gracie",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ONE FC 1: Champion vs Champion",
+      "eventSlug": "10284-one-fc-champion-vs-champion",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-07-17T00:00:00.000Z",
+      "opponent": "Zebaztian Kadestam",
+      "opponentSlug": "19640-zebaztian-kadestam",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-04-15T00:00:00.000Z",
+      "opponent": "Hwi Kyu Kim",
+      "opponentSlug": "16896-hwi-kyu-kim",
+      "result": "win",
+      "method": "sub",
+      "event": "Road FC 2: Alive",
+      "eventSlug": "9106-road-fc-2-alive",
+      "round": 2,
+      "timeInRound": "2:36"
+    },
+    {
+      "date": "2010-08-01T00:00:00.000Z",
+      "opponent": "Will Chope",
+      "opponentSlug": "16337-will-chope-the-kill",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-07-04T00:00:00.000Z",
+      "opponent": "Keitaro Maeda",
+      "opponentSlug": "3437-keitaro-maeda",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:04:39.936Z"
+}

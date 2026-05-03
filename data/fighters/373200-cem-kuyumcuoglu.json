@@ -1,0 +1,33 @@
+{
+  "slug": "373200-cem-kuyumcuoglu",
+  "name": "Cem Kuyumcuoglu",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 174,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1997-06-10",
+  "nationality": "Turkey",
+  "url": "https://www.tapology.com/fightcenter/fighters/373200-cem-kuyumcuoglu",
+  "recentFights": [
+    {
+      "date": "2023-02-11T00:00:00.000Z",
+      "opponent": "Vladimír Lengál",
+      "opponentSlug": "305714-vladimir-lengal-vlado",
+      "result": "loss",
+      "method": "other",
+      "event": "OKTAGON 39: Jungwirth vs. Neves",
+      "eventSlug": "94070-oktagon-39",
+      "round": 2,
+      "timeInRound": "4:12"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:06:26.684Z"
+}

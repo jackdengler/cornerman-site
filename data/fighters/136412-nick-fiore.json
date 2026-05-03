@@ -1,0 +1,242 @@
+{
+  "slug": "136412-nick-fiore",
+  "name": "Nick Fiore",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": 183,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1997-12-10",
+  "nationality": "Massachusetts",
+  "url": "https://www.tapology.com/fightcenter/fighters/136412-nick-fiore",
+  "recentFights": [
+    {
+      "date": "2026-05-22T00:00:00.000Z",
+      "opponent": "Estabili Amato",
+      "opponentSlug": "197618-estabili-amato",
+      "result": null,
+      "method": "other",
+      "event": "WOW 30: Lisboa",
+      "eventSlug": "142571-wow-30-lisboa",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-03-27T00:00:00.000Z",
+      "opponent": "Richie Lewis",
+      "opponentSlug": "289702-richie-lewis-savage",
+      "result": "win",
+      "method": "sub",
+      "event": "CFFC 152: Galanti vs. Clayton",
+      "eventSlug": "139539-cffc-152-galanti-vs-clayton",
+      "round": 1,
+      "timeInRound": "4:27"
+    },
+    {
+      "date": "2025-02-08T00:00:00.000Z",
+      "opponent": "Olivier Murad",
+      "opponentSlug": "100668-oliver-murad",
+      "result": "win",
+      "method": "sub",
+      "event": "Combat Zone 87",
+      "eventSlug": "120887-combat-zone-87",
+      "round": 1,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2024-08-17T00:00:00.000Z",
+      "opponent": "Saul Almeida",
+      "opponentSlug": "saul-almeida-the-spider",
+      "result": "win",
+      "method": "tko",
+      "event": "Combat Zone 85",
+      "eventSlug": "115197-combat-zone-85",
+      "round": 2,
+      "timeInRound": "1:46"
+    },
+    {
+      "date": "2024-05-24T00:00:00.000Z",
+      "opponent": "Gustavo Franca",
+      "opponentSlug": "7966-gustavo-franca-coelho",
+      "result": "win",
+      "method": "other",
+      "event": "Combat FC 7",
+      "eventSlug": "110381-combat-fc-7",
+      "round": 1,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2024-02-24T00:00:00.000Z",
+      "opponent": "Carson Frei",
+      "opponentSlug": "64303-carson-frei",
+      "result": "win",
+      "method": "sub",
+      "event": "Combat Zone 83",
+      "eventSlug": "108379-combat-zone-83",
+      "round": 3,
+      "timeInRound": "2:04"
+    },
+    {
+      "date": "2023-05-20T00:00:00.000Z",
+      "opponent": "Chase Hooper",
+      "opponentSlug": "158947-chase-hooper",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "98571-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-01-14T00:00:00.000Z",
+      "opponent": "Mateusz Rębecki",
+      "opponentSlug": "65128-mateusz-rbecki-chiczyk",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "93279-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-19T00:00:00.000Z",
+      "opponent": "Stephen Stengel",
+      "opponentSlug": "stephen-stengel",
+      "result": "win",
+      "method": "other",
+      "event": "Combat Zone 78",
+      "eventSlug": "94141-combat-zone-78",
+      "round": 1,
+      "timeInRound": "1:27"
+    },
+    {
+      "date": "2022-08-05T00:00:00.000Z",
+      "opponent": "George Sheppard",
+      "opponentSlug": "george-sheppard-lights-out",
+      "result": "win",
+      "method": "sub",
+      "event": "Combat Zone 77",
+      "eventSlug": "91069-combat-zone-77",
+      "round": 1,
+      "timeInRound": "3:56"
+    },
+    {
+      "date": "2022-03-17T00:00:00.000Z",
+      "opponent": "André Borges",
+      "opponentSlug": "14756-andre-borges",
+      "result": "win",
+      "method": "sub",
+      "event": "Combat Zone 75",
+      "eventSlug": "86389-combat-zone-75",
+      "round": 1,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2021-10-29T00:00:00.000Z",
+      "opponent": "Jerome Mickle",
+      "opponentSlug": "62814-jerome-mickle",
+      "result": "win",
+      "method": "sub",
+      "event": "Combat Zone 74",
+      "eventSlug": "82155-combat-zone-74-now-or-never",
+      "round": 1,
+      "timeInRound": "3:19"
+    },
+    {
+      "date": "2021-08-06T00:00:00.000Z",
+      "opponent": "Jay Ellis",
+      "opponentSlug": "2586-jay-ellis",
+      "result": "win",
+      "method": "tko",
+      "event": "CES 63: Howard vs. Alvarez",
+      "eventSlug": "80482-ces-63-back-2-back",
+      "round": 1,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2020-01-17T00:00:00.000Z",
+      "opponent": "Jay Ellis",
+      "opponentSlug": "2586-jay-ellis",
+      "result": "win",
+      "method": "sub",
+      "event": "Combat Zone 73",
+      "eventSlug": "65234-combat-zone-73-resolution",
+      "round": 1,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2018-06-29T00:00:00.000Z",
+      "opponent": "Nathan Ghareeb",
+      "opponentSlug": "130252-nathan-ghareeb",
+      "result": "win",
+      "method": "sub",
+      "event": "Combat Zone 66",
+      "eventSlug": "53648-combat-zone-66",
+      "round": 2,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2017-11-18T00:00:00.000Z",
+      "opponent": "Ali Zebian",
+      "opponentSlug": "56001-ali-zebian",
+      "result": "win",
+      "method": "sub",
+      "event": "Combat Zone 64",
+      "eventSlug": "48672-combat-zone-64",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-30T00:00:00.000Z",
+      "opponent": "Carl Langston",
+      "opponentSlug": "57147-carl-langston",
+      "result": "win",
+      "method": "tko",
+      "event": "Combat Zone 62",
+      "eventSlug": "45682-combat-zone-62",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2017-03-11T00:00:00.000Z",
+      "opponent": "Charles Louis Bonar",
+      "opponentSlug": "93926-charles-louis-bonar",
+      "result": "win",
+      "method": "sub",
+      "event": "Premier FC 22",
+      "eventSlug": "43477-premier-fc-22",
+      "round": 1,
+      "timeInRound": "2:49"
+    },
+    {
+      "date": "2016-11-19T00:00:00.000Z",
+      "opponent": "Taylor Costantino",
+      "opponentSlug": "87555-taylor-costatino",
+      "result": "loss",
+      "method": "other",
+      "event": "Combat Zone 60",
+      "eventSlug": "42422-combat-zone-60",
+      "round": 2,
+      "timeInRound": "0:22"
+    },
+    {
+      "date": "2016-08-05T00:00:00.000Z",
+      "opponent": "Jack Greene",
+      "opponentSlug": "14269-jack-greene-the-shadow",
+      "result": "win",
+      "method": "sub",
+      "event": "Combat Zone 59",
+      "eventSlug": "39872-combat-zone-59",
+      "round": 2,
+      "timeInRound": "0:37"
+    }
+  ],
+  "lastVerified": "2026-04-25T23:05:15.999Z"
+}
