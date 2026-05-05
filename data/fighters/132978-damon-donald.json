@@ -1,0 +1,154 @@
+{
+  "slug": "132978-damon-donald",
+  "name": "Damon Donald",
+  "nickname": "Jamal",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Scotland",
+  "url": "https://www.tapology.com/fightcenter/fighters/132978-damon-donald",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Leon Armes",
+      "opponentSlug": "304696-leon-armes",
+      "result": null,
+      "method": "other",
+      "event": "Cage Warriors 205",
+      "eventSlug": "138938-cage-warriors-205",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-27T00:00:00.000Z",
+      "opponent": "Kenny Mokhonoana",
+      "opponentSlug": "109727-kenny-mokhonoana",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Cage Warriors 194",
+      "eventSlug": "129014-cage-warriors-194",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-06-28T00:00:00.000Z",
+      "opponent": "Christian Soda",
+      "opponentSlug": "362948-christian-soda",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 191",
+      "eventSlug": "126925-cage-warriors-191",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-07T00:00:00.000Z",
+      "opponent": "Kallum Parker",
+      "opponentSlug": "345357-kallum-parker",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 176",
+      "eventSlug": "112909-cage-warriors",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-07-25T00:00:00.000Z",
+      "opponent": "Matteo Martignoni",
+      "opponentSlug": "205748-matteo-martignoni",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 175",
+      "eventSlug": "114645-cage-warriors",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2023-09-09T00:00:00.000Z",
+      "opponent": "Imran Chelhani",
+      "opponentSlug": "343657-imran-chelhani",
+      "result": "win",
+      "method": "other",
+      "event": "Budo Fighting Championship 62",
+      "eventSlug": "105131-budo-fighting-championship-62",
+      "round": 3,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2022-07-03T00:00:00.000Z",
+      "opponent": "Tom Power",
+      "opponentSlug": "107607-tom-power",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Four Nations Championships",
+      "eventSlug": "90432-four-nations-championships-finals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-02T00:00:00.000Z",
+      "opponent": "Solomon Simon",
+      "opponentSlug": "180334-soloman-simon",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Four Nations Championships",
+      "eventSlug": "90431-four-nations-championships-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-14T00:00:00.000Z",
+      "opponent": "Tony Dodds",
+      "opponentSlug": "187798-tony-dodds",
+      "result": "win",
+      "method": "sub",
+      "event": "Unity Fighting Championship",
+      "eventSlug": "89316-unity-fighting-championship",
+      "round": 4,
+      "timeInRound": "2:21"
+    },
+    {
+      "date": "2022-04-02T00:00:00.000Z",
+      "opponent": "Michael Evans",
+      "opponentSlug": "54698-michael-evans",
+      "result": "loss",
+      "method": "sub",
+      "event": "Almighty Fighting Championship 24",
+      "eventSlug": "85448-almighty-fighting-championship-24",
+      "round": 1,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2022-02-19T00:00:00.000Z",
+      "opponent": "Musa Christian",
+      "opponentSlug": "203319-musa-christian",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Almighty Fighting Championship 23",
+      "eventSlug": "85425-almighty-fighting-championship-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-18T00:00:00.000Z",
+      "opponent": "Teddy Stringer",
+      "opponentSlug": "198201-teddy-stringer",
+      "result": "loss",
+      "method": "sub",
+      "event": "Almighty Fighting Championship 19",
+      "eventSlug": "79743-almighty-fighting-championship-18",
+      "round": 1,
+      "timeInRound": "2:51"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:05:47.362Z"
+}

@@ -1,0 +1,176 @@
+{
+  "slug": "53023-carrington-banks",
+  "name": "Carrington Banks",
+  "nickname": "Jetsetter",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": 182,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1989-02-17",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/53023-carrington-banks",
+  "recentFights": [
+    {
+      "date": "2021-03-20T00:00:00.000Z",
+      "opponent": "Marcio Andrade",
+      "opponentSlug": "30999-marcio-andrade-velaminho",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UAE Warriors 18",
+      "eventSlug": "77357-uae-warriors-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-01-17T00:00:00.000Z",
+      "opponent": "Chris Brown",
+      "opponentSlug": "46910-chris-brown",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 80: Garcia vs. Mariscal",
+      "eventSlug": "65070-lfa-80-garcia-vs-mariscal",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-06T00:00:00.000Z",
+      "opponent": "David Valente",
+      "opponentSlug": "50585-david-valente",
+      "result": "win",
+      "method": "other",
+      "event": "Island Fights 53",
+      "eventSlug": "58847-island-fights-53",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2018-10-12T00:00:00.000Z",
+      "opponent": "Mandel Nallo",
+      "opponentSlug": "24751-mandell-nallo",
+      "result": "loss",
+      "method": "other",
+      "event": "Bellator 207",
+      "eventSlug": "54165-bellator-207-mitrione-vs-bader",
+      "round": 2,
+      "timeInRound": "0:57"
+    },
+    {
+      "date": "2018-05-12T00:00:00.000Z",
+      "opponent": "Adam Piccolotti",
+      "opponentSlug": "55904-adam-piccolotto",
+      "result": "loss",
+      "method": "sub",
+      "event": "Bellator 199",
+      "eventSlug": "50795-bellator-198-bader-vs-king-mo",
+      "round": 3,
+      "timeInRound": "4:41"
+    },
+    {
+      "date": "2017-10-06T00:00:00.000Z",
+      "opponent": "Steve Kozola",
+      "opponentSlug": "66671-steve-kozola",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bellator 184",
+      "eventSlug": "46977-bellator-184-dantas-vs-caldwell",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-19T00:00:00.000Z",
+      "opponent": "Jake Roberts",
+      "opponentSlug": "56135-jake-roberts",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bellator 165",
+      "eventSlug": "41466-bellator-163",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-06-17T00:00:00.000Z",
+      "opponent": "CJ Keith",
+      "opponentSlug": "20278-cj-keith",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bellator 156",
+      "eventSlug": "38889-bellator-156-galvo-vs-dantas-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-28T00:00:00.000Z",
+      "opponent": "Justin Reiswerg",
+      "opponentSlug": "justin-relswerg",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Legacy FC 44",
+      "eventSlug": "34072-legacy-fc-44",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-02-06T00:00:00.000Z",
+      "opponent": "Sabah Homasi",
+      "opponentSlug": "sabah-homasi-the-punisher",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "The Ultimate Fighter Season 21",
+      "eventSlug": "36511-the-ultimate-fighter-21-american-top-team-vs-blackzilians",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-03-09T00:00:00.000Z",
+      "opponent": "Gino DiGiulio",
+      "opponentSlug": "26540-gino-digiulio",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-11-17T00:00:00.000Z",
+      "opponent": "Mike Sanchez",
+      "opponentSlug": "28532-michael-sanchez",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-08-18T00:00:00.000Z",
+      "opponent": "Evian Rodriguez",
+      "opponentSlug": "16406-evian-rodriguez",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-05-11T00:00:00.000Z",
+      "opponent": "Sloan Gray",
+      "opponentSlug": "95489-sloan-gray",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:08:04.142Z"
+}

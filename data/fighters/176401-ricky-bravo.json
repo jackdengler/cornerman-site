@@ -1,0 +1,59 @@
+{
+  "slug": "176401-ricky-bravo",
+  "name": "Ricky Bravo",
+  "nickname": "Emo Assassin",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1993-03-24",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/176401-ricky-bravo",
+  "recentFights": [
+    {
+      "date": "2024-03-09T00:00:00.000Z",
+      "opponent": "Jake Fitzgerald",
+      "opponentSlug": "430757-jake-fitzgerald",
+      "result": "win",
+      "method": "other",
+      "event": "Elite Fight Night 22",
+      "eventSlug": "108374-elite-fight-night-22",
+      "round": 1,
+      "timeInRound": "0:10"
+    },
+    {
+      "date": "2018-03-11T00:00:00.000Z",
+      "opponent": "Oscar Jurado Sánchez",
+      "opponentSlug": "178522-oscar-alejandro-jurado-snchez",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fight Card Entertainment",
+      "eventSlug": "49972-fight-card-entertainment-ruthless",
+      "round": 2,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2018-01-27T00:00:00.000Z",
+      "opponent": "Jacob Igartua",
+      "opponentSlug": "150528-jacob-igartua",
+      "result": "loss",
+      "method": "other",
+      "event": "More MMA Classic 14",
+      "eventSlug": "49576-more-mma-classic-14",
+      "round": 2,
+      "timeInRound": "2:25"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:43:35.271Z"
+}

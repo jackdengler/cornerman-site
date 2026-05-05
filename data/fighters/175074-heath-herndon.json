@@ -1,0 +1,169 @@
+{
+  "slug": "175074-heath-herndon",
+  "name": "Heath Herndon",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 9,
+    "losses": 4,
+    "draws": 0
+  },
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1998-07-22",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/175074-heath-herndon",
+  "recentFights": [
+    {
+      "date": "2022-08-19T00:00:00.000Z",
+      "opponent": "Emanuel Harris",
+      "opponentSlug": "227470-emanuel-harris",
+      "result": "win",
+      "method": "sub",
+      "event": "B2 Fighting Series 173",
+      "eventSlug": "91417-b2-fighting-series-173-alabama",
+      "round": 2,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2021-12-04T00:00:00.000Z",
+      "opponent": "Cameron Bennett",
+      "opponentSlug": "233301-cam-bennett",
+      "result": "win",
+      "method": "sub",
+      "event": "Southeastern Elite Combat",
+      "eventSlug": "84736-southeastern-elite-combat",
+      "round": 3,
+      "timeInRound": "2:04"
+    },
+    {
+      "date": "2021-02-13T00:00:00.000Z",
+      "opponent": "Juston Welch",
+      "opponentSlug": "253787-justin-welch",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Island Fights 66",
+      "eventSlug": "76579-island-fights-66",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-12-05T00:00:00.000Z",
+      "opponent": "Jose Gallegos",
+      "opponentSlug": "198511-jose-gallegos",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Island Fights 65",
+      "eventSlug": "74499-island-fights-65",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-28T00:00:00.000Z",
+      "opponent": "Sedriques Dumas",
+      "opponentSlug": "188574-sedriques-dumas",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Island Fights 59",
+      "eventSlug": "63166-island-fights-59",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-28T00:00:00.000Z",
+      "opponent": "Isaiah Sellers",
+      "opponentSlug": "252014-isaiah-sellers",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Southeastern Elite Combat",
+      "eventSlug": "66501-cage-wars",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-09T00:00:00.000Z",
+      "opponent": "Riley Saia",
+      "opponentSlug": "191019-riley-saia",
+      "result": "win",
+      "method": "other",
+      "event": "Island Fights 56",
+      "eventSlug": "60197-island-fights-56",
+      "round": 1,
+      "timeInRound": "0:25"
+    },
+    {
+      "date": "2019-04-12T00:00:00.000Z",
+      "opponent": "Adam Ramos",
+      "opponentSlug": "251806-adam-ramos",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Island Fights 55",
+      "eventSlug": "59609-island-fights-55",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-30T00:00:00.000Z",
+      "opponent": "Ethan Hughes",
+      "opponentSlug": "206566-ethan-hughes",
+      "result": "loss",
+      "method": "sub",
+      "event": "Empire FC 1",
+      "eventSlug": "58335-empire-fighting-championship-1",
+      "round": 2,
+      "timeInRound": "1:27"
+    },
+    {
+      "date": "2019-03-08T00:00:00.000Z",
+      "opponent": "Tywon Thompson",
+      "opponentSlug": "114292-tywon-thompson",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Wars",
+      "eventSlug": "59607-cage-wars",
+      "round": 1,
+      "timeInRound": "1:53"
+    },
+    {
+      "date": "2018-03-24T00:00:00.000Z",
+      "opponent": "Jamal Peyton",
+      "opponentSlug": "137966-jamal-payton",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Atlas Fights 32",
+      "eventSlug": "51882-atlas-fights-32",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-01-13T00:00:00.000Z",
+      "opponent": "Tre'ston Vines",
+      "opponentSlug": "101085-treston-vines",
+      "result": "loss",
+      "method": "other",
+      "event": "SHP 48",
+      "eventSlug": "49572-shp-48",
+      "round": 1,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2017-10-28T00:00:00.000Z",
+      "opponent": "Matthew DeMouy",
+      "opponentSlug": "175550-matthew-demouy",
+      "result": "win",
+      "method": "tko",
+      "event": "Island Fights 43",
+      "eventSlug": "50192-island-fights-43",
+      "round": 1,
+      "timeInRound": "0:32"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:53:27.477Z"
+}

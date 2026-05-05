@@ -1,0 +1,48 @@
+{
+  "slug": "169530-marek-stanisz",
+  "name": "Marek Stanisz",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/169530-marek-stanisz",
+  "recentFights": [
+    {
+      "date": "2017-11-25T00:00:00.000Z",
+      "opponent": "Roman Kubát",
+      "opponentSlug": "159093-roman-kubat",
+      "result": "loss",
+      "method": "tko",
+      "event": "MMAA Arena Cup 37",
+      "eventSlug": "49151-mmaa-arena-cup-37-tet-kolo-mistrovstv-r-v-mma",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2017-10-29T00:00:00.000Z",
+      "opponent": "Dominik Humburger",
+      "opponentSlug": "169531-dominik-humburger",
+      "result": "loss",
+      "method": "tko",
+      "event": "MMAA Arena Cup 36",
+      "eventSlug": "48839-mmaa-arena-cup-36",
+      "round": 1,
+      "timeInRound": "3:36"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:03:50.133Z"
+}

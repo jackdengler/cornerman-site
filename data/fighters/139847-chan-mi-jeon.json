@@ -1,0 +1,88 @@
+{
+  "slug": "139847-chan-mi-jeon",
+  "name": "Chan Mi Jeon",
+  "nickname": "Ottogi Girl",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": 170,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1997-08-28",
+  "nationality": "Seoul, South Korea",
+  "url": "https://www.tapology.com/fightcenter/fighters/139847-chan-mi-jeon",
+  "recentFights": [
+    {
+      "date": "2019-03-30T00:00:00.000Z",
+      "opponent": "Shizuka Sugiyama",
+      "opponentSlug": "11954-shizuka-sugiyama",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Double G FC 2",
+      "eventSlug": "58896-double-g-fc-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-22T00:00:00.000Z",
+      "opponent": "Syuri Kondo",
+      "opponentSlug": "128154-syuri-kondo",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC Fight Night 117",
+      "eventSlug": "45800-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-10T00:00:00.000Z",
+      "opponent": "JJ Aldrich",
+      "opponentSlug": "28420-jj-aldrich",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night 110",
+      "eventSlug": "44562-ufc-fight-night-110",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-10T00:00:00.000Z",
+      "opponent": "Megumi Yabushita",
+      "opponentSlug": "megumi-yabushita",
+      "result": "win",
+      "method": "tko",
+      "event": "ALL FC 5",
+      "eventSlug": "42013-all-fc-5",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2016-07-17T00:00:00.000Z",
+      "opponent": "Na Young Song",
+      "opponentSlug": "139848-na-young-song",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ALL FC 1",
+      "eventSlug": "41589-all-fc-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-17T00:00:00.000Z",
+      "opponent": "So Min Ji",
+      "opponentSlug": "139852-so-min-ji",
+      "result": "win",
+      "method": "other",
+      "event": "ALL FC 1",
+      "eventSlug": "41589-all-fc-1",
+      "round": 1,
+      "timeInRound": "0:47"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:01:26.789Z"
+}

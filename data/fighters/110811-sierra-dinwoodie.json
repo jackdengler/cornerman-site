@@ -1,0 +1,121 @@
+{
+  "slug": "110811-sierra-dinwoodie",
+  "name": "Sierra Dinwoodie",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": 179,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1995-07-13",
+  "nationality": "Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/110811-sierra-dinwoodie",
+  "recentFights": [
+    {
+      "date": "2025-06-20T00:00:00.000Z",
+      "opponent": "Bia Mesquita",
+      "opponentSlug": "210835-beatriz-mesquita",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 211: Mesquita vs. Dinwoodie",
+      "eventSlug": "126693-lfa-211",
+      "round": 2,
+      "timeInRound": "3:05"
+    },
+    {
+      "date": "2025-02-21T00:00:00.000Z",
+      "opponent": "Nikol Aguirre",
+      "opponentSlug": "119158-nikol-aguirre",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 202: Nkuta vs. Garcia",
+      "eventSlug": "121295-lfa-202",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-02-23T00:00:00.000Z",
+      "opponent": "Hope Chase",
+      "opponentSlug": "152437-hope-chase",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 177: Smyth vs. Magomedov",
+      "eventSlug": "109369-legacy-fighting-alliance-177-lfa-177-lfa-177",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-04-23T00:00:00.000Z",
+      "opponent": "Max Turcotte-Novosedlik",
+      "opponentSlug": "233176-maxime-turcotte-novosedlik",
+      "result": "win",
+      "method": "sub",
+      "event": "PFC 16: Mein vs Chavez",
+      "eventSlug": "99213-pfc-16",
+      "round": 1,
+      "timeInRound": "3:40"
+    },
+    {
+      "date": "2023-03-05T00:00:00.000Z",
+      "opponent": "Andrea Watson",
+      "opponentSlug": "144878-andrea-watson",
+      "result": "win",
+      "method": "other",
+      "event": "PFC 15",
+      "eventSlug": "98129-prospect-fighting-championships-15",
+      "round": 1,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2018-02-17T00:00:00.000Z",
+      "opponent": "Melissa Croden",
+      "opponentSlug": "140510-melissa-croden",
+      "result": "loss",
+      "method": "other",
+      "event": "Rumble in the Cage 57",
+      "eventSlug": "50094-rumble-in-the-cage-57",
+      "round": 1,
+      "timeInRound": "0:20"
+    },
+    {
+      "date": "2017-11-25T00:00:00.000Z",
+      "opponent": "Kate MacDonald",
+      "opponentSlug": "130931-kate-macdonald",
+      "result": "win",
+      "method": "other",
+      "event": "Rumble in the Cage 56",
+      "eventSlug": "48700-rumble-in-the-cage-56",
+      "round": 1,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2017-03-10T00:00:00.000Z",
+      "opponent": "Liz Jackson",
+      "opponentSlug": "140511-liz-jackson",
+      "result": "win",
+      "method": "sub",
+      "event": "AMA 27",
+      "eventSlug": "48248-ama-27",
+      "round": 1,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2015-10-02T00:00:00.000Z",
+      "opponent": "Jenn Wolstenhome",
+      "opponentSlug": "104005-jenn-wolstenholme",
+      "result": "win",
+      "method": "tko",
+      "event": "Rumble in the Cage 51",
+      "eventSlug": "34042-rumble-in-the-cage-51",
+      "round": 1,
+      "timeInRound": "0:08"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:00:28.913Z"
+}

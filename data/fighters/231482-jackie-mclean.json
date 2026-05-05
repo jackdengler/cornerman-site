@@ -1,0 +1,110 @@
+{
+  "slug": "231482-jackie-mclean",
+  "name": "Jackie MacLean",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/231482-jackie-mclean",
+  "recentFights": [
+    {
+      "date": "2023-03-30T00:00:00.000Z",
+      "opponent": "Alana Cook",
+      "opponentSlug": "166712-alana-cook",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "BFL 76: Canada vs. USA",
+      "eventSlug": "96802-bfl-76",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-10-01T00:00:00.000Z",
+      "opponent": "Shannon Clark",
+      "opponentSlug": "236557-shannon-clark",
+      "result": "loss",
+      "method": "other",
+      "event": "Rumble in the Cage 63",
+      "eventSlug": "91669-rumble-in-the-cage-63",
+      "round": 3,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2022-08-27T00:00:00.000Z",
+      "opponent": "Weronika Eszer",
+      "opponentSlug": "183395-weronika-eszer",
+      "result": "win",
+      "method": "other",
+      "event": "PAWFC 2",
+      "eventSlug": "90636-pawfc-2",
+      "round": 2,
+      "timeInRound": "4:41"
+    },
+    {
+      "date": "2022-05-27T00:00:00.000Z",
+      "opponent": "Blanca Medina",
+      "opponentSlug": "301387-blanca-medina",
+      "result": "win",
+      "method": "tko",
+      "event": "Combate Global",
+      "eventSlug": "89706-combate-global",
+      "round": 2,
+      "timeInRound": "3:53"
+    },
+    {
+      "date": "2022-01-15T00:00:00.000Z",
+      "opponent": "Melissa Croden",
+      "opponentSlug": "140510-melissa-croden",
+      "result": "loss",
+      "method": "sub",
+      "event": "PAWFC 1",
+      "eventSlug": "85040-pawfc-1",
+      "round": 1,
+      "timeInRound": "3:59"
+    },
+    {
+      "date": "2021-06-04T00:00:00.000Z",
+      "opponent": "Maria Demers",
+      "opponentSlug": "121512-maria-demers",
+      "result": "win",
+      "method": "sub",
+      "event": "BFL 67",
+      "eventSlug": "78432-bfl-67",
+      "round": 1,
+      "timeInRound": "3:18"
+    },
+    {
+      "date": "2019-11-16T00:00:00.000Z",
+      "opponent": "Maria Demers",
+      "opponentSlug": "121512-maria-demers",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "BFL 64",
+      "eventSlug": "62416-bfl-64",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-08-24T00:00:00.000Z",
+      "opponent": "Amanda Rogers",
+      "opponentSlug": "140708-amanda-rogers",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Extreme FC 11",
+      "eventSlug": "61239-extreme-fighting-challenge-unbanned",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:00:17.493Z"
+}

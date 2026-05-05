@@ -1,0 +1,154 @@
+{
+  "slug": "100510-andreas-grzywa",
+  "name": "Andreas Grzywa",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 11,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Germany",
+  "url": "https://www.tapology.com/fightcenter/fighters/100510-andreas-grzywa",
+  "recentFights": [
+    {
+      "date": "2018-05-05T00:00:00.000Z",
+      "opponent": "Gokhan Saricam",
+      "opponentSlug": "203358-gokhan-saricam",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-01-27T00:00:00.000Z",
+      "opponent": "Szymon Kosman",
+      "opponentSlug": "118998-szymon-kosman",
+      "result": "loss",
+      "method": "sub",
+      "event": "We Love MMA 37",
+      "eventSlug": "45993-we-love-mma-37",
+      "round": 1,
+      "timeInRound": "0:15"
+    },
+    {
+      "date": "2017-12-09T00:00:00.000Z",
+      "opponent": "Niko Lohmann",
+      "opponentSlug": "14469-niko-lohmann-karl-stahl",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-10-28T00:00:00.000Z",
+      "opponent": "Mike Lehmann",
+      "opponentSlug": "60374-mike-lehmann",
+      "result": "loss",
+      "method": "other",
+      "event": "We Love MMA 33",
+      "eventSlug": "45984-we-love-mma-33",
+      "round": 1,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2017-01-28T00:00:00.000Z",
+      "opponent": "Erfan Khorasani",
+      "opponentSlug": "125759-erfan-khorasani-erwin",
+      "result": "loss",
+      "method": "other",
+      "event": "We Love MMA 28",
+      "eventSlug": "41598-we-love-mma-19",
+      "round": 1,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2016-11-12T00:00:00.000Z",
+      "opponent": "Alexander Murawski",
+      "opponentSlug": "26265-alexander-murawski",
+      "result": "loss",
+      "method": "tko",
+      "event": "Sprawl & Brawl MMA 4",
+      "eventSlug": "41606-sprawl-brawl-mma-4",
+      "round": 1,
+      "timeInRound": "1:26"
+    },
+    {
+      "date": "2016-10-15T00:00:00.000Z",
+      "opponent": "Ivo Cuk",
+      "opponentSlug": "33056-ivo-cuk-the-scorpion",
+      "result": "loss",
+      "method": "other",
+      "event": "IFO3 Europe",
+      "eventSlug": "40521-ifo3-europe",
+      "round": 1,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2016-08-27T00:00:00.000Z",
+      "opponent": "Christian Lo Re",
+      "opponentSlug": "56816-christian-lo-re",
+      "result": "loss",
+      "method": "other",
+      "event": "Imperium Fighting Championship 5",
+      "eventSlug": "39920-imperium-fighting-championship-5",
+      "round": 1,
+      "timeInRound": "0:21"
+    },
+    {
+      "date": "2016-03-26T00:00:00.000Z",
+      "opponent": "Jeremy Dechaumel",
+      "opponentSlug": "115765-jeremy-dechaumel",
+      "result": "loss",
+      "method": "other",
+      "event": "Imperium Fighting Championship 4",
+      "eventSlug": "38631-imperium-fighting-championship-4",
+      "round": 1,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2015-12-13T00:00:00.000Z",
+      "opponent": "Francisco de Souza",
+      "opponentSlug": "112218-francisco-de-souza",
+      "result": "loss",
+      "method": "other",
+      "event": "Aggrelin 9",
+      "eventSlug": "37282-aggrelin-9",
+      "round": 1,
+      "timeInRound": "1:16"
+    },
+    {
+      "date": "2015-05-02T00:00:00.000Z",
+      "opponent": "Rene Hoppe",
+      "opponentSlug": "100509-rene-hoppe",
+      "result": "loss",
+      "method": "other",
+      "event": "Sprawl & Brawl MMA",
+      "eventSlug": "32308-sprawl-brawl-mma",
+      "round": 1,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2015-10-31T00:00:00.000Z",
+      "opponent": "Philipp Lau",
+      "opponentSlug": "100492-philipp-lau",
+      "result": "loss",
+      "method": "other",
+      "event": "Sprawl & Brawl MMA 2",
+      "eventSlug": "35260-sprawl-brawl-mma-2",
+      "round": 1,
+      "timeInRound": "0:58"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:00:01.733Z"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "536110-josue-airase",
+  "name": "Josue Airase",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": null,
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/536110-josue-airase",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Bryan Céspedes",
+      "opponentSlug": "557381-bryan-cespedes",
+      "result": null,
+      "method": "other",
+      "event": "Noche de Campeones 10",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-12-06T00:00:00.000Z",
+      "opponent": "Uziel Suarez",
+      "opponentSlug": "536109-uziel-suarez",
+      "result": "win",
+      "method": "other",
+      "event": "TFL 1",
+      "eventSlug": "136276-tfl-1",
+      "round": 1,
+      "timeInRound": "0:37"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:02:16.072Z"
+}

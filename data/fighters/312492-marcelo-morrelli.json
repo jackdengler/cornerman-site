@@ -1,0 +1,154 @@
+{
+  "slug": "312492-marcelo-morrelli",
+  "name": "Marcelo Morelli",
+  "nickname": "El Diablo",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1997-11-29",
+  "nationality": "Mexico",
+  "url": "https://www.tapology.com/fightcenter/fighters/312492-marcelo-morrelli",
+  "recentFights": [
+    {
+      "date": "2026-04-18T00:00:00.000Z",
+      "opponent": "Werlleson Martins",
+      "opponentSlug": "101204-werlleson-martins-galinho",
+      "result": null,
+      "method": "other",
+      "event": "KSW 117: Pawlak vs. Khalidov",
+      "eventSlug": "140146-ksw-117-de-fries-vs-wojcik",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-12-20T00:00:00.000Z",
+      "opponent": "Patryk Surdyn",
+      "opponentSlug": "129168-patryk-surdyn",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 113: Bartosiński vs. Tulshaev",
+      "eventSlug": "132943-ksw-113",
+      "round": 1,
+      "timeInRound": "4:56"
+    },
+    {
+      "date": "2025-06-14T00:00:00.000Z",
+      "opponent": "Sebastian Przybysz",
+      "opponentSlug": "121479-sebastian-przybysz",
+      "result": "loss",
+      "method": "sub",
+      "event": "KSW 107: De Fries vs. Wrzosek",
+      "eventSlug": "127398-ksw-107-de-fries-vs-wrzosek",
+      "round": 3,
+      "timeInRound": "4:30"
+    },
+    {
+      "date": "2025-05-17T00:00:00.000Z",
+      "opponent": "Michał Musiał",
+      "opponentSlug": "167754-micha-musia",
+      "result": "win",
+      "method": "other",
+      "event": "Uniq Fight Night",
+      "eventSlug": "127835-uniq-fight-night",
+      "round": 2,
+      "timeInRound": "0:26"
+    },
+    {
+      "date": "2024-12-14T00:00:00.000Z",
+      "opponent": "Kamil Korzeniowski",
+      "opponentSlug": "162088-kamil-korzeniowski",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Strife 11",
+      "eventSlug": "121445-strife-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-22T00:00:00.000Z",
+      "opponent": "Jakub Drozdowski",
+      "opponentSlug": "172986-jakub-drozdowski",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Strife 9",
+      "eventSlug": "113209-strife-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-15T00:00:00.000Z",
+      "opponent": "Sylwester Miller",
+      "opponentSlug": "90041-sylwester-miller",
+      "result": "win",
+      "method": "sub",
+      "event": "Strife Tube 4",
+      "eventSlug": "110207-strife-tube-4",
+      "round": 1,
+      "timeInRound": "4:44"
+    },
+    {
+      "date": "2024-03-10T00:00:00.000Z",
+      "opponent": "Miłosz Melchert",
+      "opponentSlug": "183548-milosz-melchert",
+      "result": "win",
+      "method": "other",
+      "event": "Słupsk Fight Night",
+      "eventSlug": "111824-slupsk-fight-night",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-10-07T00:00:00.000Z",
+      "opponent": "Kamil Hadała",
+      "opponentSlug": "266522-kamil-hadala",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Strife 4",
+      "eventSlug": "103086-strife-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-17T00:00:00.000Z",
+      "opponent": "Jonathan Esquivel",
+      "opponentSlug": "195271-jonathan-esquivel",
+      "result": "win",
+      "method": "other",
+      "event": "Lux Fight League 23",
+      "eventSlug": "90086-lux-fight-league-23",
+      "round": 3,
+      "timeInRound": "3:36"
+    },
+    {
+      "date": "2021-12-10T00:00:00.000Z",
+      "opponent": "José Roura",
+      "opponentSlug": "106700-jose-nieto",
+      "result": "loss",
+      "method": "sub",
+      "event": "Lux Fight League 19",
+      "eventSlug": "84130-lux-fight-league-19",
+      "round": 2,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2021-10-15T00:00:00.000Z",
+      "opponent": "Fabián López",
+      "opponentSlug": "312491-fabian-lopez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Lux Fight League 17",
+      "eventSlug": "83024-lux-fight-league-17",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:03:13.945Z"
+}

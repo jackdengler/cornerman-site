@@ -1,0 +1,143 @@
+{
+  "slug": "342208-adam-poulin",
+  "name": "Adam Poulin",
+  "nickname": "Mountain Man",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 196,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1998-10-20",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/342208-adam-poulin",
+  "recentFights": [
+    {
+      "date": "2026-03-27T00:00:00.000Z",
+      "opponent": "Kyven Gadson",
+      "opponentSlug": "270029-kyven-gadsen",
+      "result": "loss",
+      "method": "sub",
+      "event": "Caged Aggression 41",
+      "eventSlug": "137272-caged-aggression-41-march-to-glory-night-1",
+      "round": 3,
+      "timeInRound": "2:05"
+    },
+    {
+      "date": "2025-10-18T00:00:00.000Z",
+      "opponent": "Trevor Tomoson",
+      "opponentSlug": "315194-trevor-tomoson",
+      "result": "win",
+      "method": "other",
+      "event": "Caged Aggression 40",
+      "eventSlug": "127056-caged-aggression-40-the-big-show-night-2",
+      "round": 3,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2025-09-12T00:00:00.000Z",
+      "opponent": "Ezayah Gomez",
+      "opponentSlug": "413108-ezaya-gomez-oropeza",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 217: McKee vs. Nobre",
+      "eventSlug": "130821-lfa-217",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-22T00:00:00.000Z",
+      "opponent": "Anthony Kromvig",
+      "opponentSlug": "178471-anthony-kromvig",
+      "result": "win",
+      "method": "sub",
+      "event": "Caged Aggression 39",
+      "eventSlug": "121273-caged-aggression-39-the-triad-night-3-ascendance",
+      "round": 2,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2024-10-11T00:00:00.000Z",
+      "opponent": "Tynan Cain",
+      "opponentSlug": "346550-tynan-cain",
+      "result": "win",
+      "method": "other",
+      "event": "Caged Aggression 38",
+      "eventSlug": "116509-caged-aggression-38-retaliation-night-1",
+      "round": 1,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2024-03-22T00:00:00.000Z",
+      "opponent": "Cody Baker",
+      "opponentSlug": "303959-cody-baker",
+      "result": "win",
+      "method": "other",
+      "event": "Caged Aggression 37",
+      "eventSlug": "109341-caged-aggression-37-path-to-glory-night-1",
+      "round": 1,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2023-10-14T00:00:00.000Z",
+      "opponent": "Donte Johnson",
+      "opponentSlug": "342862-donte-johnson",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Caged Aggression 36",
+      "eventSlug": "103396-caged-aggression-36-bad-blood-night-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-08T00:00:00.000Z",
+      "opponent": "Steven Asplund",
+      "opponentSlug": "338034-steven-asplund",
+      "result": "loss",
+      "method": "sub",
+      "event": "Mecca 19",
+      "eventSlug": "99892-mecca-19",
+      "round": 3,
+      "timeInRound": "0:23"
+    },
+    {
+      "date": "2023-03-25T00:00:00.000Z",
+      "opponent": "Antoine Smith",
+      "opponentSlug": "336868-antoine-smith",
+      "result": "win",
+      "method": "other",
+      "event": "Caged Aggression 35",
+      "eventSlug": "92882-caged-aggression-35-the-trilogy-night-3",
+      "round": 2,
+      "timeInRound": "2:36"
+    },
+    {
+      "date": "2022-10-15T00:00:00.000Z",
+      "opponent": "Reece Westphal",
+      "opponentSlug": "347333-reece-westphal",
+      "result": "win",
+      "method": "other",
+      "event": "Caged Aggression 34",
+      "eventSlug": "91653-caged-aggression-34-domination-night-2",
+      "round": 1,
+      "timeInRound": "2:03"
+    },
+    {
+      "date": "2022-07-23T00:00:00.000Z",
+      "opponent": "Christian Reynolds",
+      "opponentSlug": "342209-christian-reynolds",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Compass Fight Series 1",
+      "eventSlug": "88513-compass-fight-series-1",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:44:11.270Z"
+}

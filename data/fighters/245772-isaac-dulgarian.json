@@ -1,0 +1,165 @@
+{
+  "slug": "245772-isaac-dulgarian",
+  "name": "Isaac Dulgarian",
+  "nickname": "The Midwest Choppa",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 180,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1996-07-04",
+  "nationality": "Fort Scott, Kansas, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/245772-isaac-dulgarian",
+  "recentFights": [
+    {
+      "date": "2025-11-01T00:00:00.000Z",
+      "opponent": "Yadier del Valle",
+      "opponentSlug": "137817-yadier-delvalle",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "132058-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "3:41"
+    },
+    {
+      "date": "2024-09-07T00:00:00.000Z",
+      "opponent": "Brendon Marotte",
+      "opponentSlug": "117074-brendan-marotte",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "114678-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "4:19"
+    },
+    {
+      "date": "2024-03-16T00:00:00.000Z",
+      "opponent": "Christian Rodriguez",
+      "opponentSlug": "121190-christian-rodriguez",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "108288-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-12T00:00:00.000Z",
+      "opponent": "Francis Marshall",
+      "opponentSlug": "186284-francis-marshall",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "101163-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "4:48"
+    },
+    {
+      "date": "2022-02-06T00:00:00.000Z",
+      "opponent": "TeeJay Britton",
+      "opponentSlug": "32407-teejay-britton",
+      "result": "win",
+      "method": "other",
+      "event": "FAC 12: Lookin' For a Fight",
+      "eventSlug": "85292-fac-12",
+      "round": 1,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2021-12-10T00:00:00.000Z",
+      "opponent": "Ray Ostrander",
+      "opponentSlug": "111807-ray-ostrander",
+      "result": "win",
+      "method": "sub",
+      "event": "FAC 11",
+      "eventSlug": "83992-fac-11",
+      "round": 1,
+      "timeInRound": "2:49"
+    },
+    {
+      "date": "2021-07-30T00:00:00.000Z",
+      "opponent": "Jessy Ebrecht",
+      "opponentSlug": "73602-jesse-ebrecht",
+      "result": "win",
+      "method": "other",
+      "event": "FAC 9",
+      "eventSlug": "79725-fac-9",
+      "round": 1,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2021-05-07T00:00:00.000Z",
+      "opponent": "Marquise Moody",
+      "opponentSlug": "107814-maruise-moody",
+      "result": "win",
+      "method": "sub",
+      "event": "FAC 8",
+      "eventSlug": "77762-fac-8",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2021-03-05T00:00:00.000Z",
+      "opponent": "Sam Hernandez",
+      "opponentSlug": "72562-sam-hernandez",
+      "result": "win",
+      "method": "other",
+      "event": "FAC 7",
+      "eventSlug": "77131-fac-7",
+      "round": 1,
+      "timeInRound": "2:18"
+    },
+    {
+      "date": "2020-12-12T00:00:00.000Z",
+      "opponent": "Ralph Hernandez III",
+      "opponentSlug": "190165-ralph-hernandez",
+      "result": "win",
+      "method": "sub",
+      "event": "FAC 6",
+      "eventSlug": "74679-fac-6",
+      "round": 1,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2020-10-09T00:00:00.000Z",
+      "opponent": "Hunter Vaughn",
+      "opponentSlug": "232205-hunter-vaughn",
+      "result": "win",
+      "method": "other",
+      "event": "FAC 4",
+      "eventSlug": "73143-fac-4",
+      "round": 1,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2020-08-14T00:00:00.000Z",
+      "opponent": "Hector Combest",
+      "opponentSlug": "88958-hector-combest",
+      "result": "win",
+      "method": "other",
+      "event": "FAC 3",
+      "eventSlug": "71076-fac-3",
+      "round": 1,
+      "timeInRound": "1:55"
+    },
+    {
+      "date": "2019-12-07T00:00:00.000Z",
+      "opponent": "Justin Little",
+      "opponentSlug": "245773-justin-little",
+      "result": "win",
+      "method": "sub",
+      "event": "KC Fighting Alliance 36",
+      "eventSlug": "64518-kc-fighting-alliance-36",
+      "round": 1,
+      "timeInRound": "3:10"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:44:55.999Z"
+}

@@ -1,0 +1,253 @@
+{
+  "slug": "19433-mark-dickman",
+  "name": "Mark Dickman",
+  "nickname": "Tricky",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 192,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1984-07-19",
+  "nationality": "San Diego CA",
+  "url": "https://www.tapology.com/fightcenter/fighters/19433-mark-dickman",
+  "recentFights": [
+    {
+      "date": "2020-10-30T00:00:00.000Z",
+      "opponent": "Paulo Sergio Santos",
+      "opponentSlug": "107883-paulo-sergio-santos-macedo",
+      "result": "loss",
+      "method": "other",
+      "event": "Taura MMA 11",
+      "eventSlug": "71331-taura-mma-11",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2017-12-03T00:00:00.000Z",
+      "opponent": "Juan Archuleta",
+      "opponentSlug": "52666-juan-archuleta",
+      "result": "loss",
+      "method": "other",
+      "event": "KOTC: Conquistadores",
+      "eventSlug": "49633-kotc-conquistadores",
+      "round": 4,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2016-09-16T00:00:00.000Z",
+      "opponent": "Daniel Pineda",
+      "opponentSlug": "daniel-pineda",
+      "result": "loss",
+      "method": "sub",
+      "event": "Bellator 161",
+      "eventSlug": "40941-bellator-161-kongo-vs-johnson",
+      "round": 3,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2016-05-14T00:00:00.000Z",
+      "opponent": "Thomas Diagne",
+      "opponentSlug": "ousmane-thomas-diagne",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 154",
+      "eventSlug": "38458-bellator-154",
+      "round": 3,
+      "timeInRound": "3:05"
+    },
+    {
+      "date": "2015-01-09T00:00:00.000Z",
+      "opponent": "Donald Sanchez",
+      "opponentSlug": "donald-sanchez",
+      "result": "win",
+      "method": "sub",
+      "event": "RFA 22: Smith vs. Njokuani",
+      "eventSlug": "28740-rfa-22-smith-vs-njokuani",
+      "round": 1,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2014-08-22T00:00:00.000Z",
+      "opponent": "Justin Lawrence",
+      "opponentSlug": "justin-lawrence",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "RFA 17: Cochrane vs. Giagos",
+      "eventSlug": "25764-rfa-17-cochrane-vs-giagos",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-04-11T00:00:00.000Z",
+      "opponent": "Raoni Barcelos",
+      "opponentSlug": "30448-raoni-barcellos",
+      "result": "win",
+      "method": "sub",
+      "event": "RFA 14: Manzanares vs. Maranhão",
+      "eventSlug": "23273-rfa-14-manzanares-vs-higo",
+      "round": 2,
+      "timeInRound": "2:06"
+    },
+    {
+      "date": "2013-10-26T00:00:00.000Z",
+      "opponent": "Josh Arocho",
+      "opponentSlug": "josh-arocho",
+      "result": "win",
+      "method": "other",
+      "event": "Warriors for Heroes",
+      "eventSlug": "22179-warriors-for-heroes-mma-vs-ptsd",
+      "round": 1,
+      "timeInRound": "4:06"
+    },
+    {
+      "date": "2013-08-16T00:00:00.000Z",
+      "opponent": "Erick Urbina Mendez",
+      "opponentSlug": "54317-erick-urbina-turbine",
+      "result": "win",
+      "method": "other",
+      "event": "ShinZo Fight Sport 1",
+      "eventSlug": "20208-shinzo-fight-sport-1",
+      "round": 1,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2013-01-18T00:00:00.000Z",
+      "opponent": "Aaron Derrow",
+      "opponentSlug": "aaron-derrow-daddy-long-legs",
+      "result": "win",
+      "method": "other",
+      "event": "RFA 6: Krause vs. Imada 2",
+      "eventSlug": "17389-rfa-6-krause-vs-imada-2",
+      "round": 2,
+      "timeInRound": "4:35"
+    },
+    {
+      "date": "2012-06-30T00:00:00.000Z",
+      "opponent": "Jordan Rinaldi",
+      "opponentSlug": "19195-jordan-rinaldi",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "RFA 3: Stevenson vs. Cochrane",
+      "eventSlug": "13855-rfa-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-12-16T00:00:00.000Z",
+      "opponent": "Ted Worthington",
+      "opponentSlug": "2195-ted-worthington-red",
+      "result": "win",
+      "method": "other",
+      "event": "RFA 1",
+      "eventSlug": "11728-rfa-1",
+      "round": 2,
+      "timeInRound": "4:12"
+    },
+    {
+      "date": "2011-02-04T00:00:00.000Z",
+      "opponent": "Marcus Penland",
+      "opponentSlug": "19455-marcus-penland",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-12-03T00:00:00.000Z",
+      "opponent": "William Joplin",
+      "opponentSlug": "11097-william-joplin",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-11-19T00:00:00.000Z",
+      "opponent": "Caleb Paffrath",
+      "opponentSlug": "19456-caleb-paffrath",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-09-25T00:00:00.000Z",
+      "opponent": "Damien Jones",
+      "opponentSlug": "5091-damien-jones",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-07-17T00:00:00.000Z",
+      "opponent": "Greg Caldwell",
+      "opponentSlug": "112425-greg-caldwell",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-04-24T00:00:00.000Z",
+      "opponent": "Adam Flowers",
+      "opponentSlug": "140129-adam-flowers",
+      "result": "win",
+      "method": "tko",
+      "event": "ShoFIGHT 1: Branson Beatdown 1",
+      "eventSlug": "27522-shofight-mma-1-branson-beatdown-1",
+      "round": 1,
+      "timeInRound": "1:21"
+    },
+    {
+      "date": "2010-04-10T00:00:00.000Z",
+      "opponent": "Dakota Cochran",
+      "opponentSlug": "44987-dakota-cochran",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-11-14T00:00:00.000Z",
+      "opponent": "Justin Grant",
+      "opponentSlug": "98994-justin-grant",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-08-15T00:00:00.000Z",
+      "opponent": "Chris Impson",
+      "opponentSlug": "49404-chris-impson",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:38:44.311Z"
+}

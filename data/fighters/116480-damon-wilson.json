@@ -1,0 +1,187 @@
+{
+  "slug": "116480-damon-wilson",
+  "name": "Damon Wilson",
+  "nickname": "The Nomad",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 175,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1993-04-29",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/116480-damon-wilson",
+  "recentFights": [
+    {
+      "date": "2025-11-21T00:00:00.000Z",
+      "opponent": "Aiden Lee",
+      "opponentSlug": "68589-aiden-lee",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage Warriors 197",
+      "eventSlug": "134061-cage-warriors-197-unplugged",
+      "round": 3,
+      "timeInRound": "3:27"
+    },
+    {
+      "date": "2025-08-26T00:00:00.000Z",
+      "opponent": "Márcio Barbosa",
+      "opponentSlug": "126539-marcio-ticot",
+      "result": "loss",
+      "method": "other",
+      "event": "Contender Series 2025",
+      "eventSlug": "128460-contender-series-2025-week-3",
+      "round": 1,
+      "timeInRound": "4:14"
+    },
+    {
+      "date": "2025-03-14T00:00:00.000Z",
+      "opponent": "Leandro Camargo",
+      "opponentSlug": "190763-leandro-da-mata",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 184",
+      "eventSlug": "120829-cage-warriors-184",
+      "round": 1,
+      "timeInRound": "4:03"
+    },
+    {
+      "date": "2024-12-13T00:00:00.000Z",
+      "opponent": "Ryan Lilley",
+      "opponentSlug": "48775-ryan-lilley",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 182",
+      "eventSlug": "114648-cage-warriors-182",
+      "round": 1,
+      "timeInRound": "3:35"
+    },
+    {
+      "date": "2024-06-07T00:00:00.000Z",
+      "opponent": "Brandon Carrillo",
+      "opponentSlug": "337211-brandon-carrillo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 173",
+      "eventSlug": "111770-cage-warriors-173",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-02T00:00:00.000Z",
+      "opponent": "John De Jesus",
+      "opponentSlug": "25947-john-de-jesus",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 155",
+      "eventSlug": "99626-cage-warriors-155-san-diego",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-03T00:00:00.000Z",
+      "opponent": "Shawn Johnson",
+      "opponentSlug": "104269-shawn-johnson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 149",
+      "eventSlug": "97401-cage-warriors-149-san-diego",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-31T00:00:00.000Z",
+      "opponent": "Tobias Harila",
+      "opponentSlug": "116293-tobias-harila",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 148",
+      "eventSlug": "94496-cage-warriors-148",
+      "round": 2,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2022-09-23T00:00:00.000Z",
+      "opponent": "James Settle",
+      "opponentSlug": "97294-james-settle",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 143",
+      "eventSlug": "92041-cage-warriors-143",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2022-03-04T00:00:00.000Z",
+      "opponent": "Ryan Fillingame",
+      "opponentSlug": "43171-ryan-fillingame",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 133",
+      "eventSlug": "85629-cage-warriors-133",
+      "round": 1,
+      "timeInRound": "4:37"
+    },
+    {
+      "date": "2021-10-17T00:00:00.000Z",
+      "opponent": "Theodore Macuka",
+      "opponentSlug": "218755-theodore-macuka-theheadtaker",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 130",
+      "eventSlug": "81718-cage-warriors-130",
+      "round": 1,
+      "timeInRound": "0:11"
+    },
+    {
+      "date": "2021-08-01T00:00:00.000Z",
+      "opponent": "John Buttner",
+      "opponentSlug": "72371-john-buttner",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 126",
+      "eventSlug": "79178-cage-warriors-126",
+      "round": 2,
+      "timeInRound": "0:18"
+    },
+    {
+      "date": "2018-02-17T00:00:00.000Z",
+      "opponent": "Pancho Theuer",
+      "opponentSlug": "101447-pancho-theur",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WXC 71: Night Of Champions 10",
+      "eventSlug": "49251-wxc-71-night-of-champions-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-15T00:00:00.000Z",
+      "opponent": "Cody Whitney",
+      "opponentSlug": "125478-cody-whitney",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "RFA 37: Viana vs. Clark",
+      "eventSlug": "38624-rfa-37-viana-vs-clark",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-16T00:00:00.000Z",
+      "opponent": "Austin Hickey",
+      "opponentSlug": "116481-austin-hickey",
+      "result": "win",
+      "method": "tko",
+      "event": "DCS 20: Columbus Fight Night",
+      "eventSlug": "35503-dcs-20-columbus-fight-night",
+      "round": 1,
+      "timeInRound": "1:08"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:56:32.366Z"
+}

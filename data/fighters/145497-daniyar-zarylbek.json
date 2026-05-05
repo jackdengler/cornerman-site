@@ -1,0 +1,110 @@
+{
+  "slug": "145497-daniyar-zarylbek",
+  "name": "Daniyar Zarylbekov",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Kyrgyzstan",
+  "url": "https://www.tapology.com/fightcenter/fighters/145497-daniyar-zarylbek",
+  "recentFights": [
+    {
+      "date": "2019-02-09T00:00:00.000Z",
+      "opponent": "Aleksandyr Tsonev",
+      "opponentSlug": "210170-aleksandyr-stanev",
+      "result": "loss",
+      "method": "tko",
+      "event": "Spartacus Fighting Championship 7",
+      "eventSlug": "58236-spartacus-fighting-championship-7-avatars",
+      "round": 1,
+      "timeInRound": "4:40"
+    },
+    {
+      "date": "2018-09-20T00:00:00.000Z",
+      "opponent": "Azamat Ismagulov",
+      "opponentSlug": "182166-azamat-ismagulov",
+      "result": "win",
+      "method": "other",
+      "event": "WEF ProfFight 27",
+      "eventSlug": "55881-wef-proffight-27-battle-in-kara-kulzha",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-02T00:00:00.000Z",
+      "opponent": "Atangas Vincent Rodrigues",
+      "opponentSlug": "162880-atangas-vincent-rodrigues",
+      "result": "win",
+      "method": "sub",
+      "event": "WEF Selection 11",
+      "eventSlug": "47263-wef-35-selection-11",
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2017-05-01T00:00:00.000Z",
+      "opponent": "Brandon Dee",
+      "opponentSlug": "156019-brandon-dee",
+      "result": null,
+      "method": "other",
+      "event": "Emir FC: Battle of Continents",
+      "eventSlug": "45243-emir-fighting-championship",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-02-11T00:00:00.000Z",
+      "opponent": "Rodolfo Vieira",
+      "opponentSlug": "148791-rodolfo-vieira-srour-the-black-belt-hunter",
+      "result": "loss",
+      "method": "sub",
+      "event": "Arzalet Fighting 1",
+      "eventSlug": "43359-real-6",
+      "round": 1,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2016-11-18T00:00:00.000Z",
+      "opponent": "Mikhail Rogozin",
+      "opponentSlug": "89816-mikhail-rogozin",
+      "result": "loss",
+      "method": "other",
+      "event": "RCC Boxing: Chuprakov vs. Nakathila",
+      "eventSlug": "42534-german-titov-boxing-fight-night",
+      "round": 2,
+      "timeInRound": "1:17"
+    },
+    {
+      "date": "2016-01-31T00:00:00.000Z",
+      "opponent": "Talgat Turduev",
+      "opponentSlug": "118789-talgat-turduev",
+      "result": "win",
+      "method": "sub",
+      "event": "WEF ProfFight 3",
+      "eventSlug": "38289-wef-proffight-3",
+      "round": 2,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2016-05-02T00:00:00.000Z",
+      "opponent": "Sheraly Tamadaliev",
+      "opponentSlug": "203085-mustafa-rakhmatulla",
+      "result": "win",
+      "method": "other",
+      "event": "Kyrgyz MMA Championship 2016",
+      "eventSlug": "47901-kyrgyz-mma-championship-2015",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:52:03.293Z"
+}

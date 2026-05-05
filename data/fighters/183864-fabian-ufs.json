@@ -1,0 +1,220 @@
+{
+  "slug": "183864-fabian-ufs",
+  "name": "Fabian Ufs",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "2002-02-19",
+  "nationality": "Oslo, Norway",
+  "url": "https://www.tapology.com/fightcenter/fighters/183864-fabian-ufs",
+  "recentFights": [
+    {
+      "date": "2026-05-02T00:00:00.000Z",
+      "opponent": "Kacper Matyszewski",
+      "opponentSlug": "229084-kacper-matyszewski",
+      "result": null,
+      "method": "other",
+      "event": "FCR 29",
+      "eventSlug": "140748-fcr-29",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-02-07T00:00:00.000Z",
+      "opponent": "Jonny Touma",
+      "opponentSlug": "178021-jonny-touma",
+      "result": "win",
+      "method": "sub",
+      "event": "FCR 27",
+      "eventSlug": "136925-fcr-27",
+      "round": 1,
+      "timeInRound": "2:53"
+    },
+    {
+      "date": "2025-05-17T00:00:00.000Z",
+      "opponent": "Luciano Jara",
+      "opponentSlug": "113694-luciano-jara-el-gladiador",
+      "result": "win",
+      "method": "sub",
+      "event": "CAGE 66",
+      "eventSlug": "121034-cage-66",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-21T00:00:00.000Z",
+      "opponent": "Jack Humphries",
+      "opponentSlug": "342872-jack-humphries",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 178",
+      "eventSlug": "114650-cage-warriors-178",
+      "round": 1,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2024-05-25T00:00:00.000Z",
+      "opponent": "Konstantinos Leonidou",
+      "opponentSlug": "313373-konstantinos-leonidou",
+      "result": "win",
+      "method": "sub",
+      "event": "MCP 13",
+      "eventSlug": "110535-mcp-13",
+      "round": 1,
+      "timeInRound": "4:28"
+    },
+    {
+      "date": "2023-09-30T00:00:00.000Z",
+      "opponent": "Hamed Tawana",
+      "opponentSlug": "272349-hamed-tawana",
+      "result": "loss",
+      "method": "tko",
+      "event": "AFN 3",
+      "eventSlug": "102885-afn-3",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-01T00:00:00.000Z",
+      "opponent": "Sheriff Rahimi",
+      "opponentSlug": "394176-sheriff-rahimi-the-snow-leopard",
+      "result": "win",
+      "method": "sub",
+      "event": "AFN 1",
+      "eventSlug": "102883-afn-1",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-04-01T00:00:00.000Z",
+      "opponent": "David Lesi",
+      "opponentSlug": "333046-david-lesi",
+      "result": "win",
+      "method": "other",
+      "event": "MCP 12",
+      "eventSlug": "97719-mcp-12",
+      "round": 1,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2022-09-27T00:00:00.000Z",
+      "opponent": "Marco Galli",
+      "opponentSlug": "294399-galli-marco",
+      "result": "loss",
+      "method": "other",
+      "event": "IMMAF",
+      "eventSlug": "92751-2022-immaf-european-championships-day-1",
+      "round": 1,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2022-07-16T00:00:00.000Z",
+      "opponent": "Alaa Cheaaibi",
+      "opponentSlug": "253262-alaa-cheaaibi",
+      "result": "nc",
+      "method": "other",
+      "event": "Cage Warriors Academy South East 28",
+      "eventSlug": "87709-cage-warriors-academy-south-east-28",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-12T00:00:00.000Z",
+      "opponent": "Jake Stark",
+      "opponentSlug": "161898-jake-stark",
+      "result": "win",
+      "method": "tko",
+      "event": "Cage Warriors Academy South East 27",
+      "eventSlug": "87375-cage-warriors-academy-south-east-27",
+      "round": 2,
+      "timeInRound": "0:14"
+    },
+    {
+      "date": "2021-10-23T00:00:00.000Z",
+      "opponent": "Ivan Di Mauro",
+      "opponentSlug": "315153-ivan-di-mauro",
+      "result": "win",
+      "method": "sub",
+      "event": "Xtreme Fighter Champion",
+      "eventSlug": "84018-xtreme-fighter-champion",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2021-10-23T00:00:00.000Z",
+      "opponent": "Roman Hudec",
+      "opponentSlug": "197211-roman-hudec",
+      "result": "win",
+      "method": "sub",
+      "event": "Xtreme Fighter Champion",
+      "eventSlug": "84018-xtreme-fighter-champion",
+      "round": 1,
+      "timeInRound": "0:55"
+    },
+    {
+      "date": "2021-10-09T00:00:00.000Z",
+      "opponent": "Jimmy Quinn",
+      "opponentSlug": "231311-jimmy-quinn",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage Warriors Academy South East 26",
+      "eventSlug": "75104-cage-warriors-academy-south-east-26",
+      "round": 2,
+      "timeInRound": "0:39"
+    },
+    {
+      "date": "2021-09-09T00:00:00.000Z",
+      "opponent": "Jindřich Ungr",
+      "opponentSlug": "185193-jindrich-ungr",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Senior & Junior World Cup",
+      "eventSlug": "84310-senior-junior-world-cup-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-08T00:00:00.000Z",
+      "opponent": "Aron Franz Kristjansson",
+      "opponentSlug": "307668-aron-franz-kristjansson",
+      "result": "win",
+      "method": "sub",
+      "event": "Senior & Junior World Cup",
+      "eventSlug": "83528-senior-junior-world-cup-day-1",
+      "round": 1,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2020-03-07T00:00:00.000Z",
+      "opponent": "Vadimas Gaizutis",
+      "opponentSlug": "213896-vadimas-gaizutis",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Warriors Academy South East 25",
+      "eventSlug": "66851-cage-warriors-academy-south-east-25",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-07T00:00:00.000Z",
+      "opponent": "James Taylor",
+      "opponentSlug": "159335-james-taylor",
+      "result": "win",
+      "method": "tko",
+      "event": "British Challenge MMA 21",
+      "eventSlug": "51086-british-challenge-mma-21-cage-warriors-academy-south-east",
+      "round": 1,
+      "timeInRound": "0:59"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:11:00.557Z"
+}

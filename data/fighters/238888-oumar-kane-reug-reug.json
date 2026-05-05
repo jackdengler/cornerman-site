@@ -1,0 +1,110 @@
+{
+  "slug": "238888-oumar-kane-reug-reug",
+  "name": "Oumar Kane",
+  "nickname": "Reug Reug",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 198,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1992-03-14",
+  "nationality": "Senegal",
+  "url": "https://www.tapology.com/fightcenter/fighters/238888-oumar-kane-reug-reug",
+  "recentFights": [
+    {
+      "date": "2024-11-08T00:00:00.000Z",
+      "opponent": "Anatoly Malykhin",
+      "opponentSlug": "166677-anatoliy-malykhin",
+      "result": "win",
+      "method": "dec-split",
+      "event": "ONE 169: Malykhin vs. Kane",
+      "eventSlug": "109351-one-fight-night-28",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-04T00:00:00.000Z",
+      "opponent": "Marcus Buchecha",
+      "opponentSlug": "237072-marcius-almedia-buchecha",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE Fight Night 13",
+      "eventSlug": "101963-one-fight-night-13-allazov-vs-grigorian",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-02T00:00:00.000Z",
+      "opponent": "Zhasur Mirzamukhamedov",
+      "opponentSlug": "200691-zhasur-mirzamukhamedov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE Fight Night 5",
+      "eventSlug": "91426-one-on-prime-video-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-29T00:00:00.000Z",
+      "opponent": "Batradz Gazzaev",
+      "opponentSlug": "307166-batradz-gazzaev",
+      "result": "win",
+      "method": "other",
+      "event": "ONE Championship 161",
+      "eventSlug": "92068-one-championship-161-bhullar-vs-malykhin",
+      "round": 2,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2021-04-28T00:00:00.000Z",
+      "opponent": "Kirill Grishenko",
+      "opponentSlug": "275111-kirill-grishenko",
+      "result": "loss",
+      "method": "other",
+      "event": "ONE on TNT 4",
+      "eventSlug": "76801-one-on-tnt-4",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2021-04-07T00:00:00.000Z",
+      "opponent": "Patrick Schmid",
+      "opponentSlug": "216079-patrick-schmid-big-swiss",
+      "result": "win",
+      "method": "other",
+      "event": "ONE on TNT 1",
+      "eventSlug": "74688-one-championship",
+      "round": 1,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2021-01-29T00:00:00.000Z",
+      "opponent": "Alain Ngalani",
+      "opponentSlug": "52574-alain-ngalani",
+      "result": "win",
+      "method": "other",
+      "event": "ONE Championship",
+      "eventSlug": "75327-one-championship-unbreakable-2",
+      "round": 1,
+      "timeInRound": "4:32"
+    },
+    {
+      "date": "2019-12-14T00:00:00.000Z",
+      "opponent": "Sofiane Boukichou",
+      "opponentSlug": "127140-sofiane-boukichou",
+      "result": "win",
+      "method": "other",
+      "event": "Ares FC 1",
+      "eventSlug": "63668-ares-fighting-championship-ares-fc-1",
+      "round": 2,
+      "timeInRound": "1:20"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:39:08.889Z"
+}

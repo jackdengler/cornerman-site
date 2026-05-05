@@ -1,0 +1,66 @@
+{
+  "slug": "231187-kyyalbek-akylbek-uulu",
+  "name": "Kyyalbek Akylbek Uulu",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Kyrgyzstan",
+  "url": "https://www.tapology.com/fightcenter/fighters/231187-kyyalbek-akylbek-uulu",
+  "recentFights": [
+    {
+      "date": "2021-11-04T00:00:00.000Z",
+      "opponent": "Mark Vologdin",
+      "opponentSlug": "202598-mark-vologdin",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Open Fighting Championship 11",
+      "eventSlug": "83709-open-fighting-championship-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-13T00:00:00.000Z",
+      "opponent": "Dmitriy Kovarskiy",
+      "opponentSlug": "153422-dmitriy-kovarskiy",
+      "result": "win",
+      "method": "sub",
+      "event": "WCC: Natural Selection",
+      "eventSlug": "78967-wcc-natural-selection",
+      "round": 3,
+      "timeInRound": "3:42"
+    },
+    {
+      "date": "2020-12-13T00:00:00.000Z",
+      "opponent": "Arzymat Kamashov",
+      "opponentSlug": "245495-arzymat-kamashov",
+      "result": "win",
+      "method": "sub",
+      "event": "FFC: Road Fighter 17",
+      "eventSlug": "74464-ffc-road-fighter-17",
+      "round": 1,
+      "timeInRound": "2:42"
+    },
+    {
+      "date": "2019-07-20T00:00:00.000Z",
+      "opponent": "Uson Orozbaev",
+      "opponentSlug": "231186-uson-orozbaev",
+      "result": "win",
+      "method": "sub",
+      "event": "WEF ProfFight 35",
+      "eventSlug": "61128-wef-83-proffight-35",
+      "round": 2,
+      "timeInRound": "2:19"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:04:00.132Z"
+}

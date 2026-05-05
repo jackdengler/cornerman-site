@@ -1,0 +1,143 @@
+{
+  "slug": "277374-sam-marles",
+  "name": "Sam Marles",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/277374-sam-marles",
+  "recentFights": [
+    {
+      "date": "2025-05-03T00:00:00.000Z",
+      "opponent": "Nate Law",
+      "opponentSlug": "337909-nate-law",
+      "result": "win",
+      "method": "tko",
+      "event": "Eternal MMA 95",
+      "eventSlug": "125812-eternal-mma-95",
+      "round": 3,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2024-07-13T00:00:00.000Z",
+      "opponent": "Max Kelly",
+      "opponentSlug": "297382-max-kelly",
+      "result": "loss",
+      "method": "sub",
+      "event": "Beatdown Promotions 8",
+      "eventSlug": "115765-beatdown-promotions-8",
+      "round": 1,
+      "timeInRound": "4:17"
+    },
+    {
+      "date": "2024-02-24T00:00:00.000Z",
+      "opponent": "Sam Dobb",
+      "opponentSlug": "181606-sam-dobb",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XFC 71",
+      "eventSlug": "110444-xfc-71",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-26T00:00:00.000Z",
+      "opponent": "Michael Tepou",
+      "opponentSlug": "153662-michael-tepou",
+      "result": "win",
+      "method": "sub",
+      "event": "Hex Fight Series 26",
+      "eventSlug": "98677-hex-fight-series-26",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-11T00:00:00.000Z",
+      "opponent": "Sean Olsen",
+      "opponentSlug": "138631-sean-olsen",
+      "result": "win",
+      "method": "sub",
+      "event": "XFC 63",
+      "eventSlug": "97855-xfc-63",
+      "round": 1,
+      "timeInRound": "2:05"
+    },
+    {
+      "date": "2022-10-29T00:00:00.000Z",
+      "opponent": "Adam Lawrence",
+      "opponentSlug": "158433-adam-lawrence",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 71",
+      "eventSlug": "93815-eternal-mma-71",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-15T00:00:00.000Z",
+      "opponent": "Ben Smith",
+      "opponentSlug": "343448-ben-smith",
+      "result": "win",
+      "method": "tko",
+      "event": "Wollongong Wars 8",
+      "eventSlug": "90609-wollongong-wars-8",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-01T00:00:00.000Z",
+      "opponent": "Jahviah Croft",
+      "opponentSlug": "286294-jahviah-croft",
+      "result": "win",
+      "method": "sub",
+      "event": "Rogue MMA 3",
+      "eventSlug": "89872-rogue-mma-3",
+      "round": 1,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2021-05-22T00:00:00.000Z",
+      "opponent": "Jonathan Micallef",
+      "opponentSlug": "238862-jonathan-micallef",
+      "result": "loss",
+      "method": "tko",
+      "event": "Demolition Fight Series 3",
+      "eventSlug": "77541-demolition-fight-series-3",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-19T00:00:00.000Z",
+      "opponent": "Blake Wilson",
+      "opponentSlug": "201483-blake-wilson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 57",
+      "eventSlug": "76409-eternal-mma-57",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-11-27T00:00:00.000Z",
+      "opponent": "Sione Veikoso",
+      "opponentSlug": "242428-sione-veikoso",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Urban Fight Night 23",
+      "eventSlug": "73885-urban-fight-night-23",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:54:21.918Z"
+}

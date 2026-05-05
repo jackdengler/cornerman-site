@@ -1,0 +1,66 @@
+{
+  "slug": "27940-dell-knebush",
+  "name": "Dell Knebush",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Edmonton, Alberta, Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/27940-dell-knebush",
+  "recentFights": [
+    {
+      "date": "2015-03-27T00:00:00.000Z",
+      "opponent": "Aaron Bosiak",
+      "opponentSlug": "42818-aaron-bosiak",
+      "result": "loss",
+      "method": "sub",
+      "event": "Unified MMA 22",
+      "eventSlug": "28883-unified-mma-22",
+      "round": 1,
+      "timeInRound": "0:39"
+    },
+    {
+      "date": "2014-03-28T00:00:00.000Z",
+      "opponent": "Duane Mombourquette",
+      "opponentSlug": "30718-duane-mombourquette",
+      "result": "loss",
+      "method": "sub",
+      "event": "Unified MMA 18",
+      "eventSlug": "21319-unified-mma-18",
+      "round": 1,
+      "timeInRound": "0:48"
+    },
+    {
+      "date": "2013-06-21T00:00:00.000Z",
+      "opponent": "Tanner Boser",
+      "opponentSlug": "35149-tanner-boser",
+      "result": "loss",
+      "method": "sub",
+      "event": "Unified MMA 16",
+      "eventSlug": "18155-unified-mma-16",
+      "round": 1,
+      "timeInRound": "3:03"
+    },
+    {
+      "date": "2012-07-06T00:00:00.000Z",
+      "opponent": "Justin Jabbs",
+      "opponentSlug": "29634-justin-jabbs",
+      "result": "loss",
+      "method": "sub",
+      "event": "Unified MMA 12",
+      "eventSlug": "13208-unified-mma-12",
+      "round": 1,
+      "timeInRound": "1:25"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:59:32.348Z"
+}

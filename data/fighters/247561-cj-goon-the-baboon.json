@@ -1,0 +1,136 @@
+{
+  "slug": "247561-cj-goon-the-baboon",
+  "name": "CJ Goon",
+  "nickname": "The Baboon",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 5,
+    "losses": 5,
+    "draws": 0
+  },
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1998-06-01",
+  "nationality": "Baltimore, Maryland, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/247561-cj-goon-the-baboon",
+  "recentFights": [
+    {
+      "date": "2025-10-18T00:00:00.000Z",
+      "opponent": "David Alan Banta",
+      "opponentSlug": "418750-david-alan-banta",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Brawlers Ball 3",
+      "eventSlug": "133064-brawlers-ball-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-04-26T00:00:00.000Z",
+      "opponent": "Wilson Melgar",
+      "opponentSlug": "424143-wilson-melgar-the-mayan-warrior",
+      "result": "loss",
+      "method": "other",
+      "event": "Cagezilla FC 84",
+      "eventSlug": "119578-cagezilla-fc-84",
+      "round": 1,
+      "timeInRound": "3:52"
+    },
+    {
+      "date": "2025-02-22T00:00:00.000Z",
+      "opponent": "Khaldon Roukie",
+      "opponentSlug": "350116-khaldon-roukie",
+      "result": "win",
+      "method": "tko",
+      "event": "Cagezilla FC 83",
+      "eventSlug": "119577-cagezilla-fc-83",
+      "round": 2,
+      "timeInRound": "2:19"
+    },
+    {
+      "date": "2023-04-15T00:00:00.000Z",
+      "opponent": "Taner Trembley",
+      "opponentSlug": "336743-taner-trembley",
+      "result": "loss",
+      "method": "sub",
+      "event": "Inner Strength MMA 23",
+      "eventSlug": "93168-inner-strength-mma-22",
+      "round": 3,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2022-10-01T00:00:00.000Z",
+      "opponent": "Mitchell Abramczyk",
+      "opponentSlug": "302093-mitchell-ambramcyzk",
+      "result": "win",
+      "method": "other",
+      "event": "Chosen Few FC 21",
+      "eventSlug": "91549-chosen-few-fc-21",
+      "round": 2,
+      "timeInRound": "1:17"
+    },
+    {
+      "date": "2022-07-02T00:00:00.000Z",
+      "opponent": "Ronnie Gibbs",
+      "opponentSlug": "108480-ronnie-gibbs",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Stateline Rumble 1",
+      "eventSlug": "88486-stateline-rumble-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-09T00:00:00.000Z",
+      "opponent": "Nate Henze",
+      "opponentSlug": "327417-nate-henze",
+      "result": "win",
+      "method": "other",
+      "event": "Warrior Games 12",
+      "eventSlug": "86353-warrior-games-12",
+      "round": 3,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2019-12-21T00:00:00.000Z",
+      "opponent": "Alex McKinney",
+      "opponentSlug": "127915-alex-mckinney",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LeLeo Code MMA 3",
+      "eventSlug": "65400-leleo-code-mma-3-winter-fight-fest",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-09T00:00:00.000Z",
+      "opponent": "Kenyon Crawford",
+      "opponentSlug": "248762-kenyon-crawford",
+      "result": "win",
+      "method": "tko",
+      "event": "Combat Night Pro 15",
+      "eventSlug": "64210-combat-night-pro-15-duval",
+      "round": 2,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2019-08-24T00:00:00.000Z",
+      "opponent": "Corey Self",
+      "opponentSlug": "206478-corey-self",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combat Night 110",
+      "eventSlug": "62541-combat-night-110",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:37:42.870Z"
+}

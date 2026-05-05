@@ -1,0 +1,176 @@
+{
+  "slug": "70911-jordan-rocha-kratos",
+  "name": "Jordan Rocha",
+  "nickname": "Kratos",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 7,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1990-05-25",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/70911-jordan-rocha-kratos",
+  "recentFights": [
+    {
+      "date": "2024-03-30T00:00:00.000Z",
+      "opponent": "Alexandre Ribeiro",
+      "opponentSlug": "98530-alexandre-ribeiro-lelek",
+      "result": "loss",
+      "method": "other",
+      "event": "Open Extreme Manaus",
+      "eventSlug": "111498-open-extreme-manaus",
+      "round": 2,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2023-12-22T00:00:00.000Z",
+      "opponent": "Robson Lima",
+      "opponentSlug": "167562-robson-lima-jab",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Arena Strikers Combat 4",
+      "eventSlug": "110852-arena-strikers-combat-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-23T00:00:00.000Z",
+      "opponent": "Lucas Ananias",
+      "opponentSlug": "134477-lucas-ananias",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "SFC Brasil 3",
+      "eventSlug": "60612-sfc-brasil-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-10T00:00:00.000Z",
+      "opponent": "Marcelino Cavalcante",
+      "opponentSlug": "64704-marcelino-cavalcante",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Mr. Cage 34",
+      "eventSlug": "51602-mr-cage-34",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-29T00:00:00.000Z",
+      "opponent": "Abraercio Ferreira",
+      "opponentSlug": "148989-abraercio-ferreira-ali",
+      "result": "win",
+      "method": "sub",
+      "event": "Aspera FC 46",
+      "eventSlug": "39047-aspera-fc-46",
+      "round": 1,
+      "timeInRound": "4:17"
+    },
+    {
+      "date": "2016-08-27T00:00:00.000Z",
+      "opponent": "Alexandre Ribeiro",
+      "opponentSlug": "98530-alexandre-ribeiro-lelek",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Mr. Cage 23",
+      "eventSlug": "41413-mr-cage-23-edio-ouro",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-06-11T00:00:00.000Z",
+      "opponent": "Bartolomeu Pereira",
+      "opponentSlug": "135015-bartolomeu-pereira-bartolo",
+      "result": "win",
+      "method": "other",
+      "event": "It's Time Combat 6",
+      "eventSlug": "40268-its-time-combat-6",
+      "round": 2,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2016-05-01T00:00:00.000Z",
+      "opponent": "Alan Ferreira",
+      "opponentSlug": "36090-alan-ferreira",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "Mr. Cage 22",
+      "eventSlug": "39492-mr-cage-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-02-27T00:00:00.000Z",
+      "opponent": "Kevin Christian",
+      "opponentSlug": "124745-kevin-christian",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-03T00:00:00.000Z",
+      "opponent": "Herbert Batista",
+      "opponentSlug": "62443-herbert-batista",
+      "result": "loss",
+      "method": "sub",
+      "event": "DGT Fight",
+      "eventSlug": "51676-dgt-fight",
+      "round": 1,
+      "timeInRound": "3:48"
+    },
+    {
+      "date": "2015-09-24T00:00:00.000Z",
+      "opponent": "Wanderley Freitas",
+      "opponentSlug": "114579-wanderley-freitas",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-15T00:00:00.000Z",
+      "opponent": "Jeferson Santos",
+      "opponentSlug": "36111-jeferson-santos",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-01T00:00:00.000Z",
+      "opponent": "Marcos Rodrigues",
+      "opponentSlug": "70899-marcos-rodrigues-maraj",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-09-01T00:00:00.000Z",
+      "opponent": "Milson Castro",
+      "opponentSlug": "131385-milson-araujo",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:17:08.690Z"
+}

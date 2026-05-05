@@ -1,0 +1,242 @@
+{
+  "slug": "85897-movsar-evloev",
+  "name": "Movsar Evloev",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 20,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 184,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1994-02-11",
+  "nationality": "Russia, Sunzha",
+  "url": "https://www.tapology.com/fightcenter/fighters/85897-movsar-evloev",
+  "recentFights": [
+    {
+      "date": "2026-03-21T00:00:00.000Z",
+      "opponent": "Lerone Murphy",
+      "opponentSlug": "84753-lerone-murphy",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "UFC Fight Night",
+      "eventSlug": "136856-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-12-07T00:00:00.000Z",
+      "opponent": "Aljamain Sterling",
+      "opponentSlug": "aljamain-sterling",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 310: Pantoja vs. Asakura",
+      "eventSlug": "116766-ufc-310",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-01-20T00:00:00.000Z",
+      "opponent": "Arnold Allen",
+      "opponentSlug": "23359-arnold-allen",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 297: Strickland vs. Du Plessis",
+      "eventSlug": "105840-ufc-297",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-06T00:00:00.000Z",
+      "opponent": "Diego Lopes",
+      "opponentSlug": "85643-diego-lopes",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 288: Sterling vs. Cejudo",
+      "eventSlug": "97782-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-04T00:00:00.000Z",
+      "opponent": "Dan Ige",
+      "opponentSlug": "21178-dan-ige",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "86746-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-12T00:00:00.000Z",
+      "opponent": "Hakeem Dawodu",
+      "opponentSlug": "62664-hakeem-dawodu",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 263: Adesanya vs. Vettori 2",
+      "eventSlug": "77570-ufc-263",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-01-23T00:00:00.000Z",
+      "opponent": "Nik Lentz",
+      "opponentSlug": "nik-lentz-the-carnie",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC 257: Poirier vs. McGregor 2",
+      "eventSlug": "73413-ufc-257",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-07-25T00:00:00.000Z",
+      "opponent": "Mike Grundy",
+      "opponentSlug": "23283-michael-grundy",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "69764-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-26T00:00:00.000Z",
+      "opponent": "Enrique Barzola",
+      "opponentSlug": "50277-enrike-barzola-el-fuerte",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC on ESPN+ 20",
+      "eventSlug": "60321-ufc-on-espn-20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-20T00:00:00.000Z",
+      "opponent": "Seung Woo Choi",
+      "opponentSlug": "108867-seung-woo-choi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC on ESPN+ 7",
+      "eventSlug": "57505-ufc-on-espn-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-21T00:00:00.000Z",
+      "opponent": "Rafael Dias",
+      "opponentSlug": "44629-rafael-dias",
+      "result": "win",
+      "method": "other",
+      "event": "M-1 Challenge 95",
+      "eventSlug": "53608-m-1-challenge-95-battle-in-the-mountains-7",
+      "round": 5,
+      "timeInRound": "0:21"
+    },
+    {
+      "date": "2018-02-22T00:00:00.000Z",
+      "opponent": "Sergey Morozov",
+      "opponentSlug": "85896-sergey-morozov",
+      "result": "win",
+      "method": "sub",
+      "event": "M-1 Challenge 88",
+      "eventSlug": "50266-m-1-challenge-88",
+      "round": 3,
+      "timeInRound": "3:47"
+    },
+    {
+      "date": "2017-07-22T00:00:00.000Z",
+      "opponent": "Pavel Vitruk",
+      "opponentSlug": "29403-pavel-vitrul",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "M-1 Challenge 81",
+      "eventSlug": "46454-m-1-challenge-81-battle-in-the-mountains-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-22T00:00:00.000Z",
+      "opponent": "Alexei Nevzorov",
+      "opponentSlug": "36532-alexey-nevzorov",
+      "result": "win",
+      "method": "other",
+      "event": "M-1 Challenge 76",
+      "eventSlug": "44955-m-1-challenge-76-evloev-vs-nevzorov",
+      "round": 2,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2016-12-09T00:00:00.000Z",
+      "opponent": "Lee Morrison",
+      "opponentSlug": "16546-lee-morrison-american-bulldog",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "M-1 Challenge 73",
+      "eventSlug": "42173-m-1-challenge-73-battle-of-narts",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-27T00:00:00.000Z",
+      "opponent": "Alexander Krupenkin",
+      "opponentSlug": "84781-alexander-krupenkin",
+      "result": "win",
+      "method": "other",
+      "event": "M-1 Challenge 66",
+      "eventSlug": "29005-m-1-challenge-66",
+      "round": 1,
+      "timeInRound": "4:09"
+    },
+    {
+      "date": "2016-05-07T00:00:00.000Z",
+      "opponent": "Dulustan Akimov",
+      "opponentSlug": "132462-dulustan-akimov",
+      "result": "win",
+      "method": "sub",
+      "event": "Road To M-1",
+      "eventSlug": "39743-road-to-m-1-battle-in-nazran-3",
+      "round": 2,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2015-12-12T00:00:00.000Z",
+      "opponent": "Andrey Syrovatkin",
+      "opponentSlug": "108490-andrey-syrovatkin",
+      "result": "win",
+      "method": "sub",
+      "event": "Road To M-1",
+      "eventSlug": "37177-road-to-m-1-battle-in-nazran",
+      "round": 1,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2015-06-06T00:00:00.000Z",
+      "opponent": "Zhenhong Lu",
+      "opponentSlug": "34330-zhenhong-lu",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "M-1 Challenge 58",
+      "eventSlug": "29007-m-1-challenge-58",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-25T00:00:00.000Z",
+      "opponent": "Jianwei He",
+      "opponentSlug": "70081-jianwei-he",
+      "result": "win",
+      "method": "sub",
+      "event": "M-1 Challenge 53",
+      "eventSlug": "23732-m-1-challenge",
+      "round": 2,
+      "timeInRound": "2:56"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:31:02.325Z"
+}

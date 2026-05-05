@@ -1,0 +1,220 @@
+{
+  "slug": "21226-nick-campbell",
+  "name": "Nick Campbell",
+  "nickname": "The Boss",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1983-06-18",
+  "nationality": "Saskatoon, Saskatchewan, Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/21226-nick-campbell",
+  "recentFights": [
+    {
+      "date": "2017-06-09T00:00:00.000Z",
+      "opponent": "Teddy Ash",
+      "opponentSlug": "24500-teddy-ash",
+      "result": "loss",
+      "method": "other",
+      "event": "Unified MMA 31",
+      "eventSlug": "45620-unified-mma-31",
+      "round": 3,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2016-09-30T00:00:00.000Z",
+      "opponent": "Anton Tokarchuk",
+      "opponentSlug": "41340-anton-torchuk",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Unified MMA 28",
+      "eventSlug": "41932-unified-mma-28",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-28T00:00:00.000Z",
+      "opponent": "Devon Smith",
+      "opponentSlug": "21078-devon-smith",
+      "result": "win",
+      "method": "other",
+      "event": "Saturday Night Fights 11",
+      "eventSlug": "39992-saturday-night-fights-11",
+      "round": 2,
+      "timeInRound": "1:26"
+    },
+    {
+      "date": "2016-03-12T00:00:00.000Z",
+      "opponent": "Dan Amyotte",
+      "opponentSlug": "36408-dan-amyotte",
+      "result": "win",
+      "method": "tko",
+      "event": "Prestige FC 2",
+      "eventSlug": "37110-prestige-fc-2-queen-city-coronation",
+      "round": 1,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2015-09-25T00:00:00.000Z",
+      "opponent": "Mike Kent",
+      "opponentSlug": "20606-mike-kent",
+      "result": "loss",
+      "method": "sub",
+      "event": "Unified MMA 24",
+      "eventSlug": "34045-unified-mma-24",
+      "round": 1,
+      "timeInRound": "4:13"
+    },
+    {
+      "date": "2015-03-27T00:00:00.000Z",
+      "opponent": "Jarid Bussemakers",
+      "opponentSlug": "4020-jarid-bussemakers-da-tappa",
+      "result": "loss",
+      "method": "sub",
+      "event": "Unified MMA 22",
+      "eventSlug": "28883-unified-mma-22",
+      "round": 2,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2014-11-14T00:00:00.000Z",
+      "opponent": "Jared Henderson",
+      "opponentSlug": "39022-jared-henderson",
+      "result": "win",
+      "method": "other",
+      "event": "KOTC: Mach 2",
+      "eventSlug": "26307-kotc",
+      "round": 1,
+      "timeInRound": "4:00"
+    },
+    {
+      "date": "2014-09-05T00:00:00.000Z",
+      "opponent": "Devon Neis",
+      "opponentSlug": "11255-devon-neis",
+      "result": "win",
+      "method": "other",
+      "event": "Havoc FC 6",
+      "eventSlug": "24604-havoc-fc-6",
+      "round": 1,
+      "timeInRound": "2:03"
+    },
+    {
+      "date": "2014-03-28T00:00:00.000Z",
+      "opponent": "Tanner Boser",
+      "opponentSlug": "35149-tanner-boser",
+      "result": "loss",
+      "method": "sub",
+      "event": "Unified MMA 18",
+      "eventSlug": "21319-unified-mma-18",
+      "round": 2,
+      "timeInRound": "4:53"
+    },
+    {
+      "date": "2013-10-04T00:00:00.000Z",
+      "opponent": "Cody Krahn",
+      "opponentSlug": "cody-krahn",
+      "result": "loss",
+      "method": "sub",
+      "event": "MFC 38: Behind Enemy Lines",
+      "eventSlug": "17163-mfc-38-behind-enemy-lines",
+      "round": 1,
+      "timeInRound": "2:18"
+    },
+    {
+      "date": "2013-05-10T00:00:00.000Z",
+      "opponent": "Jonathan Dubois",
+      "opponentSlug": "29368-jonathan-dubois",
+      "result": "win",
+      "method": "other",
+      "event": "Fivestar FL 6",
+      "eventSlug": "18099-fivestar-fight-league-6-hierarchy",
+      "round": 2,
+      "timeInRound": "4:50"
+    },
+    {
+      "date": "2013-02-22T00:00:00.000Z",
+      "opponent": "Tyler O'Brien",
+      "opponentSlug": "21710-tyler-obrien",
+      "result": "win",
+      "method": "other",
+      "event": "Fivestar FL 4",
+      "eventSlug": "17146-fivestar-fight-league-4-resurgence",
+      "round": 1,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2012-10-19T00:00:00.000Z",
+      "opponent": "Marcus Hicks",
+      "opponentSlug": "2143-marcus-hicks-the-loudmouth-assassin",
+      "result": "loss",
+      "method": "other",
+      "event": "Fivestar FL 2",
+      "eventSlug": "15444-fivestar-fight-league-2-origins",
+      "round": 3,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2012-09-15T00:00:00.000Z",
+      "opponent": "Taylor Bull",
+      "opponentSlug": "13846-taylor-bull",
+      "result": "win",
+      "method": "other",
+      "event": "Fivestar FL 1",
+      "eventSlug": "14707-fivestar-fight-league-northern-lights-out",
+      "round": 1,
+      "timeInRound": "4:39"
+    },
+    {
+      "date": "2012-03-30T00:00:00.000Z",
+      "opponent": "Josh Dugas",
+      "opponentSlug": "19409-josh-dugas",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Unified MMA 11",
+      "eventSlug": "12293-unified-mma-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-09-17T00:00:00.000Z",
+      "opponent": "Adam MacDonald",
+      "opponentSlug": "23846-adam-macdonald",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-07-16T00:00:00.000Z",
+      "opponent": "Chris Lauzon",
+      "opponentSlug": "18493-chris-lauzon",
+      "result": "win",
+      "method": "other",
+      "event": "KOTC: Brawl in the Mall 5",
+      "eventSlug": "11732-kotc-brawl-in-the-mall-5",
+      "round": 1,
+      "timeInRound": "2:32"
+    },
+    {
+      "date": "2011-04-28T00:00:00.000Z",
+      "opponent": "Gary Peck",
+      "opponentSlug": "23847-gary-peck",
+      "result": "win",
+      "method": "sub",
+      "event": "KOTC: Mile Zero",
+      "eventSlug": "9411-kotc-mile-zero",
+      "round": 1,
+      "timeInRound": "4:55"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:59:25.949Z"
+}

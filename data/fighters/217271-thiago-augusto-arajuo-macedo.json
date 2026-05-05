@@ -1,0 +1,44 @@
+{
+  "slug": "217271-thiago-augusto-arajuo-macedo",
+  "name": "Thiago Macedo",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1994-11-27",
+  "nationality": "Manaus, Amazonas, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/217271-thiago-augusto-arajuo-macedo",
+  "recentFights": [
+    {
+      "date": "2023-01-29T00:00:00.000Z",
+      "opponent": "John Yannis",
+      "opponentSlug": "151617-john-yannies",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fury FC 73: Fraire vs. Walker",
+      "eventSlug": "96316-fury-fc-73",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-21T00:00:00.000Z",
+      "opponent": "Raymond Cardenas",
+      "opponentSlug": "295639-raymond-cardenas",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fury FC 68: Bauman vs. Ivy",
+      "eventSlug": "89285-fury-fc-68",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:05:30.490Z"
+}

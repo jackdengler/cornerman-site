@@ -1,0 +1,132 @@
+{
+  "slug": "283838-meruert-ibraeva",
+  "name": "Meruert Ibraeva",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Kazakhstan",
+  "url": "https://www.tapology.com/fightcenter/fighters/283838-meruert-ibraeva",
+  "recentFights": [
+    {
+      "date": "2021-12-19T00:00:00.000Z",
+      "opponent": "Darya Zheleznyakova",
+      "opponentSlug": "229363-dariya-zheleznyakova",
+      "result": "loss",
+      "method": "other",
+      "event": "Open Fighting Championship 15",
+      "eventSlug": "84913-open-fighting-championship-15",
+      "round": 2,
+      "timeInRound": "1:17"
+    },
+    {
+      "date": "2021-10-23T00:00:00.000Z",
+      "opponent": "Saya Auelbekova",
+      "opponentSlug": "312997-saya-auelbekova",
+      "result": "win",
+      "method": "sub",
+      "event": "Octagon 24",
+      "eventSlug": "83601-octagon",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2021-02-24T00:00:00.000Z",
+      "opponent": "Aruzhan Bakirova",
+      "opponentSlug": "286129-aruzhan-ibraeva",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Octagon 16",
+      "eventSlug": "76903-octagon-selection-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-01-27T00:00:00.000Z",
+      "opponent": "Sevinch Ismailova",
+      "opponentSlug": "283840-sevinch-ismailova",
+      "result": "win",
+      "method": "other",
+      "event": "Octagon 15",
+      "eventSlug": "75895-octagon-selection-15",
+      "round": 1,
+      "timeInRound": "0:28"
+    },
+    {
+      "date": "2024-12-15T00:00:00.000Z",
+      "opponent": "Małgorzata Tkocz",
+      "opponentSlug": "343926-malgorzata-tkocz",
+      "result": "loss",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "116248-gamma-world-championships-2024-finals",
+      "round": 1,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2024-12-14T00:00:00.000Z",
+      "opponent": "Katerina Lisova",
+      "opponentSlug": "317685-katerina-lisova",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "116247-gamma-world-championships-2024-semi-finals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-12T00:00:00.000Z",
+      "opponent": "Sandra Succar",
+      "opponentSlug": "253959-sandra-succar",
+      "result": "loss",
+      "method": "sub",
+      "event": "GAMMA",
+      "eventSlug": "95190-gamma-asian-pacific-mma-championships-2022-day-3",
+      "round": 1,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2022-11-12T00:00:00.000Z",
+      "opponent": "Indiyana B",
+      "opponentSlug": "361591-indiyana-b",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "95190-gamma-asian-pacific-mma-championships-2022-day-3",
+      "round": 3,
+      "timeInRound": "2:13"
+    },
+    {
+      "date": "2022-03-27T00:00:00.000Z",
+      "opponent": "Danielle Curtis",
+      "opponentSlug": "158716-danielle-curtis",
+      "result": "loss",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "88080-gamma-world-championships-day-3",
+      "round": 3,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2021-08-27T00:00:00.000Z",
+      "opponent": "Meruyert Nurmakhanova",
+      "opponentSlug": "447834-meruyert-nurmakhanova",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "115203-gamma-asian-championships-2021-day-3",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:00:46.784Z"
+}

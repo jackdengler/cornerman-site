@@ -1,0 +1,165 @@
+{
+  "slug": "342862-donte-johnson",
+  "name": "Donte Johnson",
+  "nickname": "Lock Jaw",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 188,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1999-01-25",
+  "nationality": "Fond du Lac, Wisconsin, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/342862-donte-johnson",
+  "recentFights": [
+    {
+      "date": "2026-03-07T00:00:00.000Z",
+      "opponent": "Cody Brundage",
+      "opponentSlug": "169818-cody-brundage",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC 326: Holloway vs. Oliveira 2",
+      "eventSlug": "136871-ufc-326-holloway-vs-oliveira-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-01T00:00:00.000Z",
+      "opponent": "Sedriques Dumas",
+      "opponentSlug": "188574-sedriques-dumas",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "132058-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2025-08-26T00:00:00.000Z",
+      "opponent": "Darion Abbey",
+      "opponentSlug": "155924-darion-abbey",
+      "result": "win",
+      "method": "other",
+      "event": "Contender Series 2025",
+      "eventSlug": "128460-contender-series-2025-week-3",
+      "round": 1,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2025-07-27T00:00:00.000Z",
+      "opponent": "James Ford",
+      "opponentSlug": "291452-james-owens",
+      "result": "win",
+      "method": "tko",
+      "event": "Fury Challenger Series 14",
+      "eventSlug": "128562-fury-challenger-series-14",
+      "round": 1,
+      "timeInRound": "3:37"
+    },
+    {
+      "date": "2025-06-14T00:00:00.000Z",
+      "opponent": "Ryan Parker",
+      "opponentSlug": "100154-ryan-parker",
+      "result": "win",
+      "method": "other",
+      "event": "North Iowa Fights 21",
+      "eventSlug": "126843-north-iowa-fights-21",
+      "round": 1,
+      "timeInRound": "4:27"
+    },
+    {
+      "date": "2025-04-19T00:00:00.000Z",
+      "opponent": "Jordan Seufzer",
+      "opponentSlug": "18712-jordan-seufzer",
+      "result": "win",
+      "method": "other",
+      "event": "NAFC: Super Brawl",
+      "eventSlug": "123117-nafc-super-brawl",
+      "round": 1,
+      "timeInRound": "1:24"
+    },
+    {
+      "date": "2025-03-23T00:00:00.000Z",
+      "opponent": "Deontre Butts",
+      "opponentSlug": "110447-deontre-butts",
+      "result": "win",
+      "method": "other",
+      "event": "Anthony Pettis FC 16",
+      "eventSlug": "122516-anthony-pettis-fc-16-milwaukee-fight-night",
+      "round": 1,
+      "timeInRound": "1:09"
+    },
+    {
+      "date": "2024-08-17T00:00:00.000Z",
+      "opponent": "Gabriel Sayeg",
+      "opponentSlug": "56147-gabriel-sayeg",
+      "result": "win",
+      "method": "other",
+      "event": "APFC: Waukesha RMBL",
+      "eventSlug": "115536-apfc-waukesha-rmbl",
+      "round": 1,
+      "timeInRound": "0:33"
+    },
+    {
+      "date": "2023-10-14T00:00:00.000Z",
+      "opponent": "Adam Poulin",
+      "opponentSlug": "342208-adam-poulin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Caged Aggression 36",
+      "eventSlug": "103396-caged-aggression-36-bad-blood-night-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-11T00:00:00.000Z",
+      "opponent": "Deonte Moses Jr.",
+      "opponentSlug": "378289-deonte-moses-jr",
+      "result": "loss",
+      "method": "other",
+      "event": "Anthony Pettis FC 5",
+      "eventSlug": "100453-anthony-pettis-fc-5-milwaukee-fight-night-ii",
+      "round": 1,
+      "timeInRound": "2:39"
+    },
+    {
+      "date": "2023-03-24T00:00:00.000Z",
+      "opponent": "Cody Baker",
+      "opponentSlug": "303959-cody-baker",
+      "result": "nc",
+      "method": "other",
+      "event": "Caged Aggression 35",
+      "eventSlug": "92881-caged-aggression-35-the-trilogy-night-2",
+      "round": 2,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2022-10-14T00:00:00.000Z",
+      "opponent": "Jordan Trowers",
+      "opponentSlug": "278426-jordan-trowers",
+      "result": "win",
+      "method": "other",
+      "event": "Caged Aggression 34",
+      "eventSlug": "91652-caged-aggression-34-domination-night-1",
+      "round": 1,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2022-07-23T00:00:00.000Z",
+      "opponent": "Keshawn Carter",
+      "opponentSlug": "336726-keeshawn-carter",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WFC 1: Homecoming",
+      "eventSlug": "86950-wfc-1-homecoming",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:52:53.465Z"
+}

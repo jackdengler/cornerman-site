@@ -1,0 +1,48 @@
+{
+  "slug": "195100-garry-smith",
+  "name": "Garry Smith",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/195100-garry-smith",
+  "recentFights": [
+    {
+      "date": "2019-02-24T00:00:00.000Z",
+      "opponent": "Faruk Medjedovic",
+      "opponentSlug": "39476-faruk-medjedovic",
+      "result": "loss",
+      "method": "tko",
+      "event": "Diamondback FC 8",
+      "eventSlug": "56898-diamondback-fc-8",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-08-17T00:00:00.000Z",
+      "opponent": "Brando Peričić",
+      "opponentSlug": "195101-brando-pericic",
+      "result": "loss",
+      "method": "other",
+      "event": "Diamondback FC 6",
+      "eventSlug": "55134-diamondback-fc-6",
+      "round": 1,
+      "timeInRound": "3:00"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:56:13.186Z"
+}

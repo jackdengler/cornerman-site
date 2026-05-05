@@ -1,0 +1,33 @@
+{
+  "slug": "69226-cintia-nunes",
+  "name": "Cintia Nunes",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/69226-cintia-nunes",
+  "recentFights": [
+    {
+      "date": "2014-05-03T00:00:00.000Z",
+      "opponent": "Karine Silva",
+      "opponentSlug": "69225-karine-silva-killer",
+      "result": "loss",
+      "method": "other",
+      "event": "Aspera FC 6",
+      "eventSlug": "24107-aspera-fc-6",
+      "round": 1,
+      "timeInRound": "0:32"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:10:51.850Z"
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "362638-enes-celik",
+  "name": "Enes Celik",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 4,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/362638-enes-celik",
+  "recentFights": [
+    {
+      "date": "2024-09-21T00:00:00.000Z",
+      "opponent": "Deni Jandarbaev",
+      "opponentSlug": "472723-deni-jandarbaev",
+      "result": "loss",
+      "method": "other",
+      "event": "Taha Fight Night",
+      "eventSlug": "129912-taha-fight-night",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-16T00:00:00.000Z",
+      "opponent": "Firas Daud",
+      "opponentSlug": "365273-firas-daud",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "NFC Contenders",
+      "eventSlug": "95643-nfc-contenders",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-25T00:00:00.000Z",
+      "opponent": "Petr Stříž",
+      "opponentSlug": "208330-petr-striz",
+      "result": "loss",
+      "method": "sub",
+      "event": "GAMMA",
+      "eventSlug": "94680-gamma-european-championships-day-1",
+      "round": 1,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2022-03-25T00:00:00.000Z",
+      "opponent": "Khamzat Zimaev",
+      "opponentSlug": "187645-khamzat-zimaev",
+      "result": "loss",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "88078-gamma-world-championships-day-1",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:10:18.813Z"
+}

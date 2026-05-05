@@ -1,0 +1,88 @@
+{
+  "slug": "72843-erikson-costa",
+  "name": "Erikson Faria",
+  "nickname": "Lekin",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1991-06-29",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/72843-erikson-costa",
+  "recentFights": [
+    {
+      "date": "2019-05-11T00:00:00.000Z",
+      "opponent": "Romário Silva",
+      "opponentSlug": "178173-romario-silva-dos-santos",
+      "result": "loss",
+      "method": null,
+      "event": "Champions Fight 10",
+      "eventSlug": "62336-champions-fight-10-prince-vs-tiger",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-30T00:00:00.000Z",
+      "opponent": "João Pedro Saldanha",
+      "opponentSlug": "116070-joo-pedro-saldanha",
+      "result": "loss",
+      "method": "other",
+      "event": "Jungle Fight 92",
+      "eventSlug": "47988-jungle-fight-92",
+      "round": 1,
+      "timeInRound": "0:53"
+    },
+    {
+      "date": "2017-08-12T00:00:00.000Z",
+      "opponent": "Pablo Picaso",
+      "opponentSlug": "105021-pablo-picasso-de-andrade-gomes-tubarao",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-13T00:00:00.000Z",
+      "opponent": "Jafel Filho",
+      "opponentSlug": "46690-jafel-cavalcante-filho",
+      "result": "loss",
+      "method": "other",
+      "event": "Shooto Brasil 59",
+      "eventSlug": "36308-shooto-brasil-59",
+      "round": 1,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2015-07-25T00:00:00.000Z",
+      "opponent": "Lucas de Jesus",
+      "opponentSlug": "117443-lucas-de-jesus",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-06-06T00:00:00.000Z",
+      "opponent": "Edipo Lima",
+      "opponentSlug": "72509-edipo-herbert-lima-pow",
+      "result": "win",
+      "method": "tko",
+      "event": "Brasil Fight 8",
+      "eventSlug": "24778-brasil-fight-8-360",
+      "round": 1,
+      "timeInRound": "4:21"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:55:44.042Z"
+}

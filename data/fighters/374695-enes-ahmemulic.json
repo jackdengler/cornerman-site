@@ -1,0 +1,103 @@
+{
+  "slug": "374695-enes-ahmemulic",
+  "name": "Enes Ahmemulic",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 4,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/374695-enes-ahmemulic",
+  "recentFights": [
+    {
+      "date": "2025-06-19T00:00:00.000Z",
+      "opponent": "Chris Reyes",
+      "opponentSlug": "121182-christopher-reyes",
+      "result": "loss",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "128421-gamma-world-championships-2025-preliminaries",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-12-13T00:00:00.000Z",
+      "opponent": "Jon Saragih",
+      "opponentSlug": "349327-jon-saragih",
+      "result": "loss",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "123283-gamma-world-championships-2024-preliminaries-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-08-30T00:00:00.000Z",
+      "opponent": "Yasin Hajizadeh",
+      "opponentSlug": "422279-yasin-hajizadeh",
+      "result": "win",
+      "method": "sub",
+      "event": "MMA Galla",
+      "eventSlug": "126431-nordic-champion-24-preliminary-rounds",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-06T00:00:00.000Z",
+      "opponent": "Andriy Protasyuk",
+      "opponentSlug": "299350-andriy-protasyuk",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMMAF",
+      "eventSlug": "110784-2024-immaf-european-championships",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-04T00:00:00.000Z",
+      "opponent": "Iúri Rodrigues",
+      "opponentSlug": "306730-yuri-rodrigues",
+      "result": "win",
+      "method": "tko",
+      "event": "IMMAF",
+      "eventSlug": "116284-immaf-european-championships-2024-seniors-semi-finals",
+      "round": 2,
+      "timeInRound": "2:11"
+    },
+    {
+      "date": "2024-04-02T00:00:00.000Z",
+      "opponent": "Alexis Ciurleo",
+      "opponentSlug": "377617-alexis-ciurleo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMMAF",
+      "eventSlug": "110781-2024-immaf-european-championships",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-03T00:00:00.000Z",
+      "opponent": "Liam Pitts",
+      "opponentSlug": "323029-liam-pitts",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "FCR 16",
+      "eventSlug": "99269-fcr-16",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:10:56.087Z"
+}

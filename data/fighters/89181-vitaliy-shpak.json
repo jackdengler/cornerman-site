@@ -1,0 +1,121 @@
+{
+  "slug": "89181-vitaliy-shpak",
+  "name": "Valeri Shpak",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 184,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Belarus",
+  "url": "https://www.tapology.com/fightcenter/fighters/89181-vitaliy-shpak",
+  "recentFights": [
+    {
+      "date": "2014-12-20T00:00:00.000Z",
+      "opponent": "Adam Yandiev",
+      "opponentSlug": "89121-adam-yandiev",
+      "result": "loss",
+      "method": "other",
+      "event": "Fight Nights Global 29",
+      "eventSlug": "27630-fight-nights-battle-18",
+      "round": 1,
+      "timeInRound": "2:19"
+    },
+    {
+      "date": "2013-12-08T00:00:00.000Z",
+      "opponent": "Yaroslav Amosov",
+      "opponentSlug": "81129-yaroslav-amosov",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-09-11T00:00:00.000Z",
+      "opponent": "Andrey Bezverkhniy",
+      "opponentSlug": "82508-andrey-bezverkhniy",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Vosimiugolnik Cup 2013",
+      "eventSlug": "24199-vosimiugolnik-cup-2013",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-06-12T00:00:00.000Z",
+      "opponent": "Bogdan Kotlovyanov",
+      "opponentSlug": "81724-bogdan-kotlovyanov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "BFC 28: Belarus vs. Poland",
+      "eventSlug": "21000-belarus-fc-28",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-06-05T00:00:00.000Z",
+      "opponent": "Shamil Abdulkhalikov",
+      "opponentSlug": "32478-shamil-abdulkhalikov",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-06-01T00:00:00.000Z",
+      "opponent": "Andrey Makarenko",
+      "opponentSlug": "50894-andrey-makarenko",
+      "result": "loss",
+      "method": "sub",
+      "event": "BFC 27: Neman Challenge 2",
+      "eventSlug": "24469-belarus-fc-27-neman-challenge-2",
+      "round": 1,
+      "timeInRound": "2:43"
+    },
+    {
+      "date": "2012-08-03T00:00:00.000Z",
+      "opponent": "Alexey Repalov",
+      "opponentSlug": "43735-alexey-repalov",
+      "result": "loss",
+      "method": "other",
+      "event": "BFC 21: Morozov vs. Danilov",
+      "eventSlug": "17008-belarus-fc-21-morozov-vs-danilov",
+      "round": 1,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2012-07-15T00:00:00.000Z",
+      "opponent": "Alexander Uminskiy",
+      "opponentSlug": "44014-alexander-uminskiy",
+      "result": "win",
+      "method": "sub",
+      "event": "BFC 20: Double Impact (Day 1)",
+      "eventSlug": "54899-belarus-fc-20-double-impact-day-1",
+      "round": 1,
+      "timeInRound": "4:17"
+    },
+    {
+      "date": "2012-04-28T00:00:00.000Z",
+      "opponent": "Aleksander Surnich",
+      "opponentSlug": "90267-aleksander-surnich",
+      "result": "win",
+      "method": "sub",
+      "event": "BFC 18: Busurmatorov vs. Gromov",
+      "eventSlug": "20560-belarus-fc-18",
+      "round": 3,
+      "timeInRound": "3:16"
+    }
+  ],
+  "lastVerified": "2026-04-25T23:05:00.661Z"
+}

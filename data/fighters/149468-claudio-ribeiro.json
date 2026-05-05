@@ -1,0 +1,231 @@
+{
+  "slug": "149468-claudio-ribeiro",
+  "name": "Claudio Ribeiro",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 13,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 196,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1992-07-17",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/149468-claudio-ribeiro",
+  "recentFights": [
+    {
+      "date": "2025-07-11T00:00:00.000Z",
+      "opponent": "Diego Dias",
+      "opponentSlug": "60169-diego-dias",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 212: Degli vs. Severino",
+      "eventSlug": "128256-lfa-212",
+      "round": 1,
+      "timeInRound": "4:32"
+    },
+    {
+      "date": "2025-05-07T00:00:00.000Z",
+      "opponent": "Sergey Romanov",
+      "opponentSlug": "55841-sergey-romanov",
+      "result": "loss",
+      "method": "other",
+      "event": "NWPA: World Peace",
+      "eventSlug": "128007-nwpa-world-peace",
+      "round": 1,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2024-11-16T00:00:00.000Z",
+      "opponent": "Cássio de Oliveira",
+      "opponentSlug": "24408-cassio-jacare",
+      "result": "win",
+      "method": "other",
+      "event": "Jungle Fight 132",
+      "eventSlug": "120058-jungle-fight-132",
+      "round": 1,
+      "timeInRound": "0:10"
+    },
+    {
+      "date": "2024-03-02T00:00:00.000Z",
+      "opponent": "Christian Leroy Duncan",
+      "opponentSlug": "116334-christian-duncan",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "106064-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "1:57"
+    },
+    {
+      "date": "2023-07-29T00:00:00.000Z",
+      "opponent": "Roman Kopylov",
+      "opponentSlug": "138424-roman-kopylov",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 291: Poirier vs. Gaethje 2",
+      "eventSlug": "101214-ufc-291",
+      "round": 2,
+      "timeInRound": "0:33"
+    },
+    {
+      "date": "2023-05-06T00:00:00.000Z",
+      "opponent": "Joseph Holmes",
+      "opponentSlug": "159250-joseph-holmes",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 288: Sterling vs. Cejudo",
+      "eventSlug": "97782-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "3:21"
+    },
+    {
+      "date": "2023-01-14T00:00:00.000Z",
+      "opponent": "Abdul Razak Alhassan",
+      "opponentSlug": "59306-abdul-razak-alhassan",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "93279-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "0:28"
+    },
+    {
+      "date": "2022-08-16T00:00:00.000Z",
+      "opponent": "Iván Valenzuela",
+      "opponentSlug": "198169-ivan-valenzuela",
+      "result": "win",
+      "method": "other",
+      "event": "Contender Series 2022",
+      "eventSlug": "89496-contender-series-2022-week-4",
+      "round": 1,
+      "timeInRound": "0:25"
+    },
+    {
+      "date": "2021-09-24T00:00:00.000Z",
+      "opponent": "Kelles Albuquerque",
+      "opponentSlug": "26336-kelles-albuquerque-kell",
+      "result": "win",
+      "method": "other",
+      "event": "Future MMA 13",
+      "eventSlug": "81694-future-mma-13",
+      "round": 5,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2020-10-11T00:00:00.000Z",
+      "opponent": "Marcus Vinicius",
+      "opponentSlug": "99876-marcus-vinicius-carrasco-jones",
+      "result": "win",
+      "method": "other",
+      "event": "Thunder Fight 23",
+      "eventSlug": "73269-thunder-fight-23-o-retorno",
+      "round": 1,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2019-12-20T00:00:00.000Z",
+      "opponent": "Jhony Gregory",
+      "opponentSlug": "135753-johnny-gregory",
+      "result": "win",
+      "method": "other",
+      "event": "Thunder Fight 22",
+      "eventSlug": "62876-thunder-fight-22",
+      "round": 1,
+      "timeInRound": "4:50"
+    },
+    {
+      "date": "2019-10-12T00:00:00.000Z",
+      "opponent": "Moacir Rocha",
+      "opponentSlug": "152249-moacir-cordeiro",
+      "result": "win",
+      "method": "tko",
+      "event": "Thunder Fight 19",
+      "eventSlug": "62715-thunder-fight-19",
+      "round": 1,
+      "timeInRound": "1:59"
+    },
+    {
+      "date": "2019-04-13T00:00:00.000Z",
+      "opponent": "Thiago Lopes",
+      "opponentSlug": "16053-thiago-fernandes",
+      "result": "win",
+      "method": "other",
+      "event": "Batalha MMA 16",
+      "eventSlug": "59561-batalha-mma-16",
+      "round": 1,
+      "timeInRound": "4:07"
+    },
+    {
+      "date": "2018-10-27T00:00:00.000Z",
+      "opponent": "Kevem Felipe",
+      "opponentSlug": "116458-kevem-felipe-mexicano",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "SFT 6",
+      "eventSlug": "56038-sft-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-21T00:00:00.000Z",
+      "opponent": "Davyson Machado",
+      "opponentSlug": "195974-davyson-machado-tubarao",
+      "result": "win",
+      "method": "other",
+      "event": "Dog Tower Fight 1",
+      "eventSlug": "56585-dog-tower-fight-1",
+      "round": 1,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2018-03-17T00:00:00.000Z",
+      "opponent": "Thales Adriel",
+      "opponentSlug": "141473-thales-adriel",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-10-06T00:00:00.000Z",
+      "opponent": "Diego Rodrigues",
+      "opponentSlug": "137958-diego-rodrigues",
+      "result": "win",
+      "method": "tko",
+      "event": "EFN 7",
+      "eventSlug": "48353-efn-70",
+      "round": 1,
+      "timeInRound": "1:33"
+    },
+    {
+      "date": "2017-04-15T00:00:00.000Z",
+      "opponent": "Yuri Paixão",
+      "opponentSlug": "149471-iuri-paixo",
+      "result": "win",
+      "method": "tko",
+      "event": "EFN 5",
+      "eventSlug": "44750-efn-5",
+      "round": 2,
+      "timeInRound": "1:52"
+    },
+    {
+      "date": "2017-02-10T00:00:00.000Z",
+      "opponent": "Guilherme Miranda",
+      "opponentSlug": "31091-guilherme-miranda-carcaca",
+      "result": "loss",
+      "method": "sub",
+      "event": "EFN 4",
+      "eventSlug": "43828-efn-4",
+      "round": 1,
+      "timeInRound": "1:12"
+    }
+  ],
+  "lastVerified": "2026-04-25T23:02:55.959Z"
+}

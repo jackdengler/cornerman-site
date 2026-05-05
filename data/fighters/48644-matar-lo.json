@@ -1,0 +1,176 @@
+{
+  "slug": "48644-matar-lo",
+  "name": "Matar Lo",
+  "nickname": "The Mantis",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": 193,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Dakar, Senegal",
+  "url": "https://www.tapology.com/fightcenter/fighters/48644-matar-lo",
+  "recentFights": [
+    {
+      "date": "2020-12-17T00:00:00.000Z",
+      "opponent": "Joseph Marino",
+      "opponentSlug": "103135-joseph-marino",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "CFFC 90: Huckbody vs. Adams",
+      "eventSlug": "74816-cffc-90",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-16T00:00:00.000Z",
+      "opponent": "Charles Jourdain",
+      "opponentSlug": "36724-charles-jourdain",
+      "result": "loss",
+      "method": "other",
+      "event": "TKO 42: Nogueira vs. Laramie",
+      "eventSlug": "49527-tko-42",
+      "round": 1,
+      "timeInRound": "2:19"
+    },
+    {
+      "date": "2017-12-08T00:00:00.000Z",
+      "opponent": "Charles Hupperetz",
+      "opponentSlug": "33515-charles-hupperetz",
+      "result": "win",
+      "method": "other",
+      "event": "TKO 41: Champions",
+      "eventSlug": "45574-tko-41",
+      "round": 1,
+      "timeInRound": "3:44"
+    },
+    {
+      "date": "2017-09-08T00:00:00.000Z",
+      "opponent": "Maxime Soucy",
+      "opponentSlug": "37846-maxime-soucy",
+      "result": "win",
+      "method": "other",
+      "event": "TKO 40: Dénouement",
+      "eventSlug": "45575-tko-40",
+      "round": 1,
+      "timeInRound": "4:08"
+    },
+    {
+      "date": "2017-06-16T00:00:00.000Z",
+      "opponent": "Olivier Nadeau",
+      "opponentSlug": "127198-olivier-nadeau",
+      "result": "win",
+      "method": "other",
+      "event": "TKO 39: Ultimatum",
+      "eventSlug": "45571-tko-39-ultimatum",
+      "round": 3,
+      "timeInRound": "1:19"
+    },
+    {
+      "date": "2017-01-13T00:00:00.000Z",
+      "opponent": "Kevin Généreux",
+      "opponentSlug": "20753-kevin-genereux",
+      "result": "loss",
+      "method": "other",
+      "event": "TKO 37: Rivals",
+      "eventSlug": "42932-tko-37-rivals",
+      "round": 1,
+      "timeInRound": "3:16"
+    },
+    {
+      "date": "2016-08-18T00:00:00.000Z",
+      "opponent": "Charles Jourdain",
+      "opponentSlug": "36724-charles-jourdain",
+      "result": null,
+      "method": "other",
+      "event": "Wreck MMA",
+      "eventSlug": "41385-wreck-mma",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-21T00:00:00.000Z",
+      "opponent": "Richard Lepage",
+      "opponentSlug": "24482-richard-lepage",
+      "result": null,
+      "method": "other",
+      "event": "Heroes Combat League 4",
+      "eventSlug": "27287-heroes-combat-league-4-united",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-07-01T00:00:00.000Z",
+      "opponent": "Lloyd Manning",
+      "opponentSlug": "76004-lloyd-manning",
+      "result": "loss",
+      "method": "other",
+      "event": "IMMAF 2014 World Championships",
+      "eventSlug": "25398-immaf-2014-world-championships-day-2-cage-b",
+      "round": 1,
+      "timeInRound": "1:06"
+    },
+    {
+      "date": "2014-04-19T00:00:00.000Z",
+      "opponent": "Adrian Brown",
+      "opponentSlug": "58499-adrian-brown",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "AMMACS 4: Canada National Tryouts",
+      "eventSlug": "25234-ammacs-4-canada-national-tryouts",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-04-19T00:00:00.000Z",
+      "opponent": "Spencer Efford",
+      "opponentSlug": "60767-spencer-efford",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "AMMACS 4: Canada National Tryouts",
+      "eventSlug": "25234-ammacs-4-canada-national-tryouts",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-04-04T00:00:00.000Z",
+      "opponent": "Adam De Freitas",
+      "opponentSlug": "47148-adam-defreitas",
+      "result": "loss",
+      "method": "sub",
+      "event": "Heroes Combat League 1",
+      "eventSlug": "22162-heroes-combat-league-1",
+      "round": 1,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2013-11-29T00:00:00.000Z",
+      "opponent": "Zen Diab",
+      "opponentSlug": "53851-zen-diab",
+      "result": "win",
+      "method": "tko",
+      "event": "Victory MMA 11",
+      "eventSlug": "20059-victory-mma-11",
+      "round": 1,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2013-06-01T00:00:00.000Z",
+      "opponent": "Dene Lepine",
+      "opponentSlug": "41058-dene-lepine",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hybrid 17",
+      "eventSlug": "17913-hybrid-17",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:07:00.847Z"
+}

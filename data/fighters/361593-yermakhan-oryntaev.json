@@ -1,0 +1,187 @@
+{
+  "slug": "361593-yermakhan-oryntaev",
+  "name": "Yermakhan Oryntaev",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Kazakhstan",
+  "url": "https://www.tapology.com/fightcenter/fighters/361593-yermakhan-oryntaev",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Oscar Jurado Sánchez",
+      "opponentSlug": "178522-oscar-alejandro-jurado-snchez",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 231: Lozej vs. Ibarra",
+      "eventSlug": "140675-lfa-231-trembley-vs-johns",
+      "round": 1,
+      "timeInRound": "0:15"
+    },
+    {
+      "date": "2025-11-14T00:00:00.000Z",
+      "opponent": "Adrian Garcia",
+      "opponentSlug": "135458-adrian-garcia",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 222: Pires vs Belakh",
+      "eventSlug": "133539-lfa-222",
+      "round": 1,
+      "timeInRound": "0:36"
+    },
+    {
+      "date": "2025-05-30T00:00:00.000Z",
+      "opponent": "Zhasurbek Khamraev",
+      "opponentSlug": "502574-zhasurbek-khamraev",
+      "result": "win",
+      "method": "sub",
+      "event": "Naiza FC 73",
+      "eventSlug": "128139-naiza-fc-73",
+      "round": 1,
+      "timeInRound": "2:39"
+    },
+    {
+      "date": "2024-12-21T00:00:00.000Z",
+      "opponent": "Erzat Sakabanov",
+      "opponentSlug": "275250-erzat-sakabanov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Naiza FC 70",
+      "eventSlug": "120784-naiza-fc-70",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-08-10T00:00:00.000Z",
+      "opponent": "Yedeli Muheiyati",
+      "opponentSlug": "453186-yedeli-muheiyati",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shui Combat 1",
+      "eventSlug": "116416-shui-combat",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-15T00:00:00.000Z",
+      "opponent": "Erlan Smagulov",
+      "opponentSlug": "426222-erlan-smagulov",
+      "result": "win",
+      "method": "other",
+      "event": "Naiza FC 58",
+      "eventSlug": "111290-naiza-fc-58",
+      "round": 1,
+      "timeInRound": "3:49"
+    },
+    {
+      "date": "2023-09-15T00:00:00.000Z",
+      "opponent": "Didar Zhandosay",
+      "opponentSlug": "403981-didar-zhandosay",
+      "result": "win",
+      "method": "other",
+      "event": "Octagon Selection 27",
+      "eventSlug": "105332-octagon-selection-27",
+      "round": 1,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2023-12-10T00:00:00.000Z",
+      "opponent": "Yernaz Mussabek",
+      "opponentSlug": "159786-yernaz-mussabek",
+      "result": "loss",
+      "method": "sub",
+      "event": "GAMMA",
+      "eventSlug": "108670-gamma-world-mma-championship-2023-finals",
+      "round": 1,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2023-12-08T00:00:00.000Z",
+      "opponent": "Tristan Bui Huu",
+      "opponentSlug": "419339-tristan-bui-huu",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "108384-gamma-world-mma-championship-2023-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-12T00:00:00.000Z",
+      "opponent": "Aibek Seitmurat",
+      "opponentSlug": "361226-aibek-seitmurat",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "GAMMA",
+      "eventSlug": "95190-gamma-asian-pacific-mma-championships-2022-day-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-27T00:00:00.000Z",
+      "opponent": "Giorgi Natobaidze",
+      "opponentSlug": "318026-giorgi-natobaidze",
+      "result": "loss",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "88080-gamma-world-championships-day-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-26T00:00:00.000Z",
+      "opponent": "Thole Veinii",
+      "opponentSlug": "448429-thole-veinii",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "88079-gamma-world-mma-championships-2021-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-27T00:00:00.000Z",
+      "opponent": "Dinesh Naorem",
+      "opponentSlug": "242354-dinesh-naorem",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "115203-gamma-asian-championships-2021-day-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-26T00:00:00.000Z",
+      "opponent": "Sairan Sagyndykov",
+      "opponentSlug": "361234-sairan-sagyndykov",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "115202-gamma-asian-championships-2021-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-25T00:00:00.000Z",
+      "opponent": "Iskhak Duishonaliev",
+      "opponentSlug": "447730-iskhak-duishonaliev",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "115213-gamma-asian-championships-2021-day-1",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:59:59.768Z"
+}

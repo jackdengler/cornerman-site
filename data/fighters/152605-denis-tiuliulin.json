@@ -1,0 +1,242 @@
+{
+  "slug": "152605-denis-tiuliulin",
+  "name": "Denis Tiuliulin",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 10,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 196,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1988-05-17",
+  "nationality": "Moscow, Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/152605-denis-tiuliulin",
+  "recentFights": [
+    {
+      "date": "2024-08-03T00:00:00.000Z",
+      "opponent": "Sedriques Dumas",
+      "opponentSlug": "188574-sedriques-dumas",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "111167-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-18T00:00:00.000Z",
+      "opponent": "Christian Leroy Duncan",
+      "opponentSlug": "116334-christian-duncan",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "101867-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "4:24"
+    },
+    {
+      "date": "2023-08-19T00:00:00.000Z",
+      "opponent": "Gregory Rodrigues",
+      "opponentSlug": "78681-gregory-rodrigues-robocop",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 292: Sterling vs. O'Malley",
+      "eventSlug": "101022-ufc-292",
+      "round": 1,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2023-02-04T00:00:00.000Z",
+      "opponent": "Jun Yong Park",
+      "opponentSlug": "64589-yoon-yong-park",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "93977-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "4:05"
+    },
+    {
+      "date": "2022-09-10T00:00:00.000Z",
+      "opponent": "Jamie Pickett",
+      "opponentSlug": "38304-jamie-pickett",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 279: Diaz vs. Ferguson",
+      "eventSlug": "89492-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "4:52"
+    },
+    {
+      "date": "2022-03-26T00:00:00.000Z",
+      "opponent": "Aliaskhab Khizriev",
+      "opponentSlug": "74383-aliaskhab-khizriev",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "84285-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2021-03-20T00:00:00.000Z",
+      "opponent": "Juscelino Ferreira",
+      "opponentSlug": "66551-juscelino-ferreira-par",
+      "result": "win",
+      "method": "tko",
+      "event": "UAE Warriors 18",
+      "eventSlug": "77357-uae-warriors-18",
+      "round": 1,
+      "timeInRound": "3:51"
+    },
+    {
+      "date": "2020-09-17T00:00:00.000Z",
+      "opponent": "Ikram Aliskerov",
+      "opponentSlug": "108253-ikram-aliskerov",
+      "result": "loss",
+      "method": "sub",
+      "event": "Brave CF 41",
+      "eventSlug": "72021-brave-cf-41",
+      "round": 3,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2020-05-30T00:00:00.000Z",
+      "opponent": "Aleksey Novikov",
+      "opponentSlug": "191650-aleksey-novikov",
+      "result": "win",
+      "method": "other",
+      "event": "Leon Warriors",
+      "eventSlug": "69251-lion-warriors",
+      "round": 1,
+      "timeInRound": "2:05"
+    },
+    {
+      "date": "2019-12-02T00:00:00.000Z",
+      "opponent": "Denis Zaytsev",
+      "opponentSlug": "244631-denis-zaytsev",
+      "result": "win",
+      "method": "tko",
+      "event": "King of Warriors & Strike FC",
+      "eventSlug": "63035-strike-fc-4",
+      "round": 1,
+      "timeInRound": "1:18"
+    },
+    {
+      "date": "2019-08-24T00:00:00.000Z",
+      "opponent": "Olivier Dounda",
+      "opponentSlug": "150867-oliver-de-unda",
+      "result": "win",
+      "method": "other",
+      "event": "FITS",
+      "eventSlug": "62766-fits",
+      "round": 2,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2019-03-30T00:00:00.000Z",
+      "opponent": "Jean Patrick",
+      "opponentSlug": "68927-jean-patrick-panqueca",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "M-1 Challenge 101",
+      "eventSlug": "58625-m-1-challenge-101",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-28T00:00:00.000Z",
+      "opponent": "Nikita Shamov",
+      "opponentSlug": "196701-nikita-shamov",
+      "result": "win",
+      "method": "other",
+      "event": "M-1 Challenge 97",
+      "eventSlug": "55083-m-1-challenge-97-tatfight-7",
+      "round": 1,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2018-05-24T00:00:00.000Z",
+      "opponent": "Ruslan Shamilov",
+      "opponentSlug": "120991-ruslan-shamilov",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "M-1 Challenge 92",
+      "eventSlug": "52471-m-1-challenge-92-kharitonov-vs-vyazigin",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-24T00:00:00.000Z",
+      "opponent": "Eduard Malkov",
+      "opponentSlug": "174174-eduard-malkov",
+      "result": "win",
+      "method": "other",
+      "event": "ProFC 64: Tibilov vs Shvets",
+      "eventSlug": "48921-profc-64-tibilov-vs-shvets",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-24T00:00:00.000Z",
+      "opponent": "Mubaraksho Mubarakshoev",
+      "opponentSlug": "121827-mubaraksho-mubarakhsoev",
+      "result": "loss",
+      "method": "sub",
+      "event": "ACB 55: Dushanbe",
+      "eventSlug": "44361-acb-55",
+      "round": 2,
+      "timeInRound": "2:36"
+    },
+    {
+      "date": "2016-10-29T00:00:00.000Z",
+      "opponent": "Gennady Karnaukhov",
+      "opponentSlug": "32492-gennady-karnaukhov",
+      "result": "win",
+      "method": "other",
+      "event": "Industrials MMA",
+      "eventSlug": "43317-industrials-mma-siberian-division-2",
+      "round": 1,
+      "timeInRound": "4:35"
+    },
+    {
+      "date": "2013-11-23T00:00:00.000Z",
+      "opponent": "Artur Fatakhov",
+      "opponentSlug": "90141-artur-fatakhov",
+      "result": "loss",
+      "method": "other",
+      "event": "Parma Fights 4",
+      "eventSlug": "28791-parma-fights-4-ragnarok",
+      "round": 1,
+      "timeInRound": "3:55"
+    },
+    {
+      "date": "2013-09-07T00:00:00.000Z",
+      "opponent": "Dmitriy Bukharev",
+      "opponentSlug": "224147-dmitriy-bukharev",
+      "result": "win",
+      "method": "other",
+      "event": "Autumn Draft Cup 2013",
+      "eventSlug": "50020-autumn-draft-cup-2013",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2013-04-24T00:00:00.000Z",
+      "opponent": "Dzhangir Nasibov",
+      "opponentSlug": "158959-dzhangir-nabirov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Pride MMA: Baikal Fight Night 2",
+      "eventSlug": "48919-pride-mma-baikal-fight-night-2",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:53:00.500Z"
+}

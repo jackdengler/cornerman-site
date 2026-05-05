@@ -1,0 +1,198 @@
+{
+  "slug": "140333-mitch-ramirez",
+  "name": "Mitch Ramirez",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": 180,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1992-11-03",
+  "nationality": "Utah, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/140333-mitch-ramirez",
+  "recentFights": [
+    {
+      "date": "2025-07-12T00:00:00.000Z",
+      "opponent": "Mike Davis",
+      "opponentSlug": "51604-mike-davis",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "126523-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "4:08"
+    },
+    {
+      "date": "2024-03-16T00:00:00.000Z",
+      "opponent": "Thiago Moisés",
+      "opponentSlug": "49744-thiago-moiss",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "108288-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "0:15"
+    },
+    {
+      "date": "2023-12-15T00:00:00.000Z",
+      "opponent": "Aireon Tavarres",
+      "opponentSlug": "163489-aireon-tavarres",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 173: Fernando vs. Bekoev",
+      "eventSlug": "107094-legacy-fighting-alliance-173-lfa-173",
+      "round": 1,
+      "timeInRound": "2:19"
+    },
+    {
+      "date": "2023-08-29T00:00:00.000Z",
+      "opponent": "Carlos Prates",
+      "opponentSlug": "36554-carlos-prates-carlao",
+      "result": "loss",
+      "method": "other",
+      "event": "Contender Series 2023",
+      "eventSlug": "100994-contender-series-2023-week-4",
+      "round": 2,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2023-05-03T00:00:00.000Z",
+      "opponent": "Jeremie Holloway",
+      "opponentSlug": "43312-jeremie-holloway",
+      "result": "win",
+      "method": "other",
+      "event": "XMMA 6: Bash at the Beach",
+      "eventSlug": "99256-xmma-6-bash-at-the-beach",
+      "round": 3,
+      "timeInRound": "0:59"
+    },
+    {
+      "date": "2022-08-12T00:00:00.000Z",
+      "opponent": "Ayadi Majdeddine",
+      "opponentSlug": "79936-ayadi-majdeddine",
+      "result": "win",
+      "method": "other",
+      "event": "Tuff-N-Uff 129",
+      "eventSlug": "90947-tuff-n-uff-129",
+      "round": 1,
+      "timeInRound": "0:40"
+    },
+    {
+      "date": "2021-10-29T00:00:00.000Z",
+      "opponent": "Kani Correa",
+      "opponentSlug": "38424-kani-correa",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fierce FC 17",
+      "eventSlug": "83731-fierce-fc-17-wahlin-vs-hiley",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-17T00:00:00.000Z",
+      "opponent": "Chris Sherley-Rios",
+      "opponentSlug": "43472-chris-sherley",
+      "result": "win",
+      "method": "sub",
+      "event": "Fierce Challenger Series",
+      "eventSlug": "79899-fierce-challenger-series",
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2021-02-27T00:00:00.000Z",
+      "opponent": "Trever Bradshaw",
+      "opponentSlug": "43686-trever-bradshaw",
+      "result": "win",
+      "method": "sub",
+      "event": "Fierce FC: Will Power",
+      "eventSlug": "76666-fierce-fc-will-power",
+      "round": 1,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2019-09-06T00:00:00.000Z",
+      "opponent": "Michael Garcia",
+      "opponentSlug": "89992-michael-garcia",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 75: Neal vs. Cruz",
+      "eventSlug": "62078-lfa-75-collard-vs-estrazulas",
+      "round": 1,
+      "timeInRound": "0:40"
+    },
+    {
+      "date": "2019-03-22T00:00:00.000Z",
+      "opponent": "Ryder Newman",
+      "opponentSlug": "149509-ryder-newman",
+      "result": "win",
+      "method": "other",
+      "event": "SteelFist Fight Night",
+      "eventSlug": "59113-steelfist-fight-night-march-madness",
+      "round": 1,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2018-08-03T00:00:00.000Z",
+      "opponent": "Tyler Trantham",
+      "opponentSlug": "84148-tyler-trantham",
+      "result": "win",
+      "method": "other",
+      "event": "SteelFist Fight Night 60",
+      "eventSlug": "54294-steelfist-fight-night-60-battlefield",
+      "round": 1,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2018-06-29T00:00:00.000Z",
+      "opponent": "Dominico Salas",
+      "opponentSlug": "156777-dominico-salas",
+      "result": "win",
+      "method": "sub",
+      "event": "SteelFist Fight Night 59",
+      "eventSlug": "53459-steelfist-fight-night-cage-kaos",
+      "round": 3,
+      "timeInRound": "1:41"
+    },
+    {
+      "date": "2017-06-03T00:00:00.000Z",
+      "opponent": "Julian Ruiz",
+      "opponentSlug": "87598-julian-ruiz-aztec-warrior",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Fierce FC 5",
+      "eventSlug": "45617-fierce-fc-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-01-21T00:00:00.000Z",
+      "opponent": "Alonzo Salas",
+      "opponentSlug": "111829-alonzo-salas",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fierce FC 4",
+      "eventSlug": "43039-fierce-fc-4-reverence",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-08T00:00:00.000Z",
+      "opponent": "Jordan McFarland",
+      "opponentSlug": "141415-jordan-mcfarland",
+      "result": "win",
+      "method": "tko",
+      "event": "South Valley Slam",
+      "eventSlug": "41669-south-valley-slam",
+      "round": 1,
+      "timeInRound": "0:47"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:11:05.907Z"
+}

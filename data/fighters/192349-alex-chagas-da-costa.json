@@ -1,0 +1,44 @@
+{
+  "slug": "192349-alex-chagas-da-costa",
+  "name": "Alex Chagas da Costa",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": "1987-03-04",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/192349-alex-chagas-da-costa",
+  "recentFights": [
+    {
+      "date": "2018-03-31T00:00:00.000Z",
+      "opponent": "Lucas Rocha",
+      "opponentSlug": "192343-lucas-rocha-fenomeno",
+      "result": "loss",
+      "method": "other",
+      "event": "Coari Champions 1",
+      "eventSlug": "54209-coari-champions-1",
+      "round": 1,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2017-05-06T00:00:00.000Z",
+      "opponent": "Jander Gomes",
+      "opponentSlug": "237044-jander-gomes-mini-thor",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:56:24.354Z"
+}

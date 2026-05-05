@@ -1,0 +1,198 @@
+{
+  "slug": "32009-jeremie-montgomery",
+  "name": "Jeremie Montgomery",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1984-01-15",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/32009-jeremie-montgomery",
+  "recentFights": [
+    {
+      "date": "2016-07-23T00:00:00.000Z",
+      "opponent": "Nathan Stolen",
+      "opponentSlug": "67893-nathan-stolen",
+      "result": "loss",
+      "method": "other",
+      "event": "CageSport 41",
+      "eventSlug": "40891-super-fight-league-50-seattle-vs-los-angeles",
+      "round": 1,
+      "timeInRound": "1:34"
+    },
+    {
+      "date": "2016-05-28T00:00:00.000Z",
+      "opponent": "James Martin",
+      "opponentSlug": "41861-james-martin",
+      "result": "win",
+      "method": "other",
+      "event": "COGA Combat Games 48",
+      "eventSlug": "40096-rumble-on-the-ridge-34",
+      "round": 2,
+      "timeInRound": "2:04"
+    },
+    {
+      "date": "2016-02-20T00:00:00.000Z",
+      "opponent": "Armando Best",
+      "opponentSlug": "83607-armando-best",
+      "result": "win",
+      "method": "other",
+      "event": "CageSport 39",
+      "eventSlug": "38205-super-fight-league-46",
+      "round": 2,
+      "timeInRound": "3:49"
+    },
+    {
+      "date": "2015-09-26T00:00:00.000Z",
+      "opponent": "Jadon Johnson",
+      "opponentSlug": "48097-jadon-johnson",
+      "result": "win",
+      "method": "tko",
+      "event": "CageSport 37",
+      "eventSlug": "28969-super-fight-league-america-6-presented-by-cagesport",
+      "round": 1,
+      "timeInRound": "1:26"
+    },
+    {
+      "date": "2015-07-11T00:00:00.000Z",
+      "opponent": "Vince Morales",
+      "opponentSlug": "91401-vince-morales",
+      "result": "loss",
+      "method": "tko",
+      "event": "CageSport 36",
+      "eventSlug": "28968-super-fight-league-america-5-presented-by-cagesport",
+      "round": 1,
+      "timeInRound": "2:28"
+    },
+    {
+      "date": "2014-12-20T00:00:00.000Z",
+      "opponent": "Cody Henderson",
+      "opponentSlug": "32419-cody-henderson",
+      "result": "win",
+      "method": "other",
+      "event": "Ax Fighting 46",
+      "eventSlug": "26785-ax-fighting-46",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-22T00:00:00.000Z",
+      "opponent": "Talon Hammons",
+      "opponentSlug": "87719-talon-hammons",
+      "result": "win",
+      "method": "tko",
+      "event": "Ax Fighting",
+      "eventSlug": "27027-ax-fighting-bellingham-fight-night-1",
+      "round": 4,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2014-02-01T00:00:00.000Z",
+      "opponent": "Daniel Elliot",
+      "opponentSlug": "56697-daniel-elliot",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ax Fighting 43",
+      "eventSlug": "29792-ax-fighting-43",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-10-12T00:00:00.000Z",
+      "opponent": "Gagan Gill",
+      "opponentSlug": "30368-gagan-gill",
+      "result": "loss",
+      "method": "sub",
+      "event": "COGA Combat Games 32",
+      "eventSlug": "21727-coga-combat-games-32-battle-at-the-bay-5",
+      "round": 2,
+      "timeInRound": "2:05"
+    },
+    {
+      "date": "2013-05-04T00:00:00.000Z",
+      "opponent": "Brett Malone",
+      "opponentSlug": "32189-brett-malone",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Ax Fighting",
+      "eventSlug": "29794-ax-fighting-a-town-throwdown-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-03-02T00:00:00.000Z",
+      "opponent": "Victor Barajas",
+      "opponentSlug": "57054-victor-barajas",
+      "result": "win",
+      "method": "other",
+      "event": "Ax Fighting 41",
+      "eventSlug": "29795-ax-fighting-41-spring-break-4",
+      "round": 2,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2012-10-13T00:00:00.000Z",
+      "opponent": "Carlos Rolon",
+      "opponentSlug": "36319-carlos-rolon",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "COGA Combat Games 27",
+      "eventSlug": "16114-battle-at-the-bay-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-08-11T00:00:00.000Z",
+      "opponent": "James Pollard",
+      "opponentSlug": "32010-james-pollard",
+      "result": "win",
+      "method": "tko",
+      "event": "Ax Fighting 39",
+      "eventSlug": "15080-ax-fighting-39",
+      "round": 2,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2011-11-05T00:00:00.000Z",
+      "opponent": "Chris Teaque",
+      "opponentSlug": "32007-chris-teaque",
+      "result": "win",
+      "method": "tko",
+      "event": "Ax Fighting 35",
+      "eventSlug": "25961-ax-fighting-35",
+      "round": 2,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2011-01-29T00:00:00.000Z",
+      "opponent": "Manny Galvez",
+      "opponentSlug": "406686-manny-galvez",
+      "result": "win",
+      "method": "sub",
+      "event": "Ax Fighting 32",
+      "eventSlug": "25965-ax-fighting-32-brokenshire-vs-bradford",
+      "round": 1,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2010-10-16T00:00:00.000Z",
+      "opponent": "Nick Griffen",
+      "opponentSlug": "411023-nick-griffen",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Ax Fighting 31",
+      "eventSlug": "29649-ax-fighting-31-knopp-vs-lindstrom",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:57:33.601Z"
+}

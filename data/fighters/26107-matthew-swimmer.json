@@ -1,0 +1,66 @@
+{
+  "slug": "26107-matthew-swimmer",
+  "name": "Matthew Swimmer",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/26107-matthew-swimmer",
+  "recentFights": [
+    {
+      "date": "2013-10-25T00:00:00.000Z",
+      "opponent": "Tanner Boser",
+      "opponentSlug": "35149-tanner-boser",
+      "result": "loss",
+      "method": "other",
+      "event": "KOTC: Anger Therapy",
+      "eventSlug": "20849-kotc",
+      "round": 1,
+      "timeInRound": "2:32"
+    },
+    {
+      "date": "2013-09-27T00:00:00.000Z",
+      "opponent": "Kris Dyck",
+      "opponentSlug": "51941-kris-dyck",
+      "result": "win",
+      "method": "sub",
+      "event": "KOTC: A New Dawn",
+      "eventSlug": "19823-kotc-a-new-dawn",
+      "round": 1,
+      "timeInRound": "4:17"
+    },
+    {
+      "date": "2012-06-08T00:00:00.000Z",
+      "opponent": "Nick Dragich",
+      "opponentSlug": "28155-nick-dragich",
+      "result": "loss",
+      "method": "other",
+      "event": "AFC 9: Inception",
+      "eventSlug": "13207-aggression-mma-10",
+      "round": 1,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2012-04-28T00:00:00.000Z",
+      "opponent": "Kyle Francotti",
+      "opponentSlug": "26106-kyle-francotti",
+      "result": "loss",
+      "method": "sub",
+      "event": "KOTC: Unified",
+      "eventSlug": "12621-unified-mma-supershow",
+      "round": 1,
+      "timeInRound": "1:37"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:59:30.119Z"
+}

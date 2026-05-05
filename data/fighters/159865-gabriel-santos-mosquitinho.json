@@ -1,0 +1,165 @@
+{
+  "slug": "159865-gabriel-santos-mosquitinho",
+  "name": "Gabriel Santos",
+  "nickname": "Mosquitinho",
+  "aliases": [],
+  "recordPro": {
+    "wins": 12,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 178,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1996-11-28",
+  "nationality": "Beberibe, Ceara, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/159865-gabriel-santos-mosquitinho",
+  "recentFights": [
+    {
+      "date": "2025-02-08T00:00:00.000Z",
+      "opponent": "Jack Jenkins",
+      "opponentSlug": "134851-jack-jenkins",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC 312: Du Plessis vs. Strickland 2",
+      "eventSlug": "119136-ufc-312",
+      "round": 3,
+      "timeInRound": "2:06"
+    },
+    {
+      "date": "2024-09-07T00:00:00.000Z",
+      "opponent": "Yizha",
+      "opponentSlug": "130355-zha-yi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "114678-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-24T00:00:00.000Z",
+      "opponent": "David Onama",
+      "opponentSlug": "104455-david-onama",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC on ABC 5",
+      "eventSlug": "99780-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "4:13"
+    },
+    {
+      "date": "2023-03-18T00:00:00.000Z",
+      "opponent": "Lerone Murphy",
+      "opponentSlug": "84753-lerone-murphy",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "eventSlug": "95408-ufc-286",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-01-28T00:00:00.000Z",
+      "opponent": "José Delano",
+      "opponentSlug": "167070-jose-delano",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 151: Delano vs. Santos",
+      "eventSlug": "96398-lfa-151-delano-vs-santos",
+      "round": 3,
+      "timeInRound": "0:51"
+    },
+    {
+      "date": "2022-11-04T00:00:00.000Z",
+      "opponent": "Márcio Barbosa",
+      "opponentSlug": "126539-marcio-ticot",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 146: Barbosa vs. Santos",
+      "eventSlug": "94392-lfa-146-barbosa-vs-santos",
+      "round": 2,
+      "timeInRound": "0:09"
+    },
+    {
+      "date": "2021-09-24T00:00:00.000Z",
+      "opponent": "Elvis Silva",
+      "opponentSlug": "72271-elvis-batista",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Future MMA 13",
+      "eventSlug": "81694-future-mma-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-10-16T00:00:00.000Z",
+      "opponent": "Elves Brener",
+      "opponentSlug": "131388-elvis-brenner",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Future MMA 12",
+      "eventSlug": "70891-future-fc-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-07T00:00:00.000Z",
+      "opponent": "Lucas Padilha",
+      "opponentSlug": "99187-tato-padilha",
+      "result": "win",
+      "method": "sub",
+      "event": "Rock And Fight MMA Show 1",
+      "eventSlug": "62680-rock-and-fight-mma-show-1",
+      "round": 1,
+      "timeInRound": "2:39"
+    },
+    {
+      "date": "2018-09-22T00:00:00.000Z",
+      "opponent": "Jorge Nuñez",
+      "opponentSlug": "157125-jorge-nuez",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-02T00:00:00.000Z",
+      "opponent": "Thiago Barbosa",
+      "opponentSlug": "160550-thiago-bod",
+      "result": "win",
+      "method": "sub",
+      "event": "Coronel Combate 9",
+      "eventSlug": "48160-coronel-combate-9",
+      "round": 1,
+      "timeInRound": "2:04"
+    },
+    {
+      "date": "2017-06-10T00:00:00.000Z",
+      "opponent": "Jeovanny de Oliveira",
+      "opponentSlug": "137312-jeovanny-de-oliveira",
+      "result": "win",
+      "method": "sub",
+      "event": "Aspera FC 53",
+      "eventSlug": "45118-aspera-fc-53",
+      "round": 1,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2016-05-28T00:00:00.000Z",
+      "opponent": "Thiago Carvalho",
+      "opponentSlug": "113353-thiago-oliveira",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Sao Francisco Fight 6",
+      "eventSlug": "46655-sao-francisco-fight-6",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:56:41.531Z"
+}

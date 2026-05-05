@@ -1,0 +1,121 @@
+{
+  "slug": "51662-pane-haraki-the-punisher",
+  "name": "Pane Haraki",
+  "nickname": "The Punisher",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1973-05-26",
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/51662-pane-haraki-the-punisher",
+  "recentFights": [
+    {
+      "date": "2022-09-23T00:00:00.000Z",
+      "opponent": "Cam Rowston",
+      "opponentSlug": "69262-cam-rowston",
+      "result": "loss",
+      "method": "sub",
+      "event": "Shuriken Fight Series 12",
+      "eventSlug": "89928-shuriken-fight-series-12",
+      "round": 3,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2021-10-30T00:00:00.000Z",
+      "opponent": "Brogan Anderson",
+      "opponentSlug": "64631-brogan-anderson",
+      "result": "loss",
+      "method": "sub",
+      "event": "XFC 52",
+      "eventSlug": "81691-xfc-52",
+      "round": 2,
+      "timeInRound": "4:58"
+    },
+    {
+      "date": "2016-06-17T00:00:00.000Z",
+      "opponent": "Steven Warby",
+      "opponentSlug": "51704-steven-warby-warzone",
+      "result": "loss",
+      "method": "other",
+      "event": "BRACE 41: New Zealand",
+      "eventSlug": "40119-brace-41-new-zealand",
+      "round": 1,
+      "timeInRound": "1:56"
+    },
+    {
+      "date": "2015-09-12T00:00:00.000Z",
+      "opponent": "Boubacar Baldé",
+      "opponentSlug": "35629-boubacar-balde",
+      "result": "loss",
+      "method": "tko",
+      "event": "Lions FC 6: The Return",
+      "eventSlug": "34460-lions-fc-6-the-return",
+      "round": 3,
+      "timeInRound": "2:43"
+    },
+    {
+      "date": "2013-08-31T00:00:00.000Z",
+      "opponent": "Brogan Anderson",
+      "opponentSlug": "64631-brogan-anderson",
+      "result": "loss",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-10-13T00:00:00.000Z",
+      "opponent": "Simon Scott",
+      "opponentSlug": "32784-simon-scott",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shuriken MMA",
+      "eventSlug": "16949-shuriken-mma-clash-of-the-continents",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-05-26T00:00:00.000Z",
+      "opponent": "Nick Daly",
+      "opponentSlug": "51702-nick-daly-damage",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-03-24T00:00:00.000Z",
+      "opponent": "Kevin Bentley",
+      "opponentSlug": "51703-kevin-bentley",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-03-03T00:00:00.000Z",
+      "opponent": "Steven Warby",
+      "opponentSlug": "51704-steven-warby-warzone",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:17:24.645Z"
+}

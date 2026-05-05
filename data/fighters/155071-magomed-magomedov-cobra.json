@@ -1,0 +1,231 @@
+{
+  "slug": "155071-magomed-magomedov-cobra",
+  "name": "Magomed Magomedov",
+  "nickname": "Cobra",
+  "aliases": [],
+  "recordPro": {
+    "wins": 13,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1990-11-06",
+  "nationality": "Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/155071-magomed-magomedov-cobra",
+  "recentFights": [
+    {
+      "date": "2025-12-12T00:00:00.000Z",
+      "opponent": "Manas Imarov",
+      "opponentSlug": "164689-magas-imarov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "RCC 24",
+      "eventSlug": "136114-rcc-24",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-12T00:00:00.000Z",
+      "opponent": "Sergei Bryutov",
+      "opponentSlug": "328480-sergei-briutov",
+      "result": "win",
+      "method": "other",
+      "event": "RCC 23",
+      "eventSlug": "132226-rcc-23",
+      "round": 1,
+      "timeInRound": "1:57"
+    },
+    {
+      "date": "2021-10-17T00:00:00.000Z",
+      "opponent": "Diyar Nurgozhay",
+      "opponentSlug": "181154-diyar-nurkozhay",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Eagle FC 42",
+      "eventSlug": "83309-efc-42",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-01-18T00:00:00.000Z",
+      "opponent": "Mateusz Rębecki",
+      "opponentSlug": "65128-mateusz-rbecki-chiczyk",
+      "result": "loss",
+      "method": "other",
+      "event": "Fight Exclusive Night 27",
+      "eventSlug": "63892-fight-exclusive-night-27",
+      "round": 2,
+      "timeInRound": "4:29"
+    },
+    {
+      "date": "2018-11-02T00:00:00.000Z",
+      "opponent": "Arnaud Kherfallah",
+      "opponentSlug": "116892-arnaud-kherfallah",
+      "result": "win",
+      "method": "other",
+      "event": "M-1 Challenge 98",
+      "eventSlug": "55747-m-1-challenge-98-frolov-vs-silva",
+      "round": 1,
+      "timeInRound": "0:28"
+    },
+    {
+      "date": "2018-10-12T00:00:00.000Z",
+      "opponent": "Vladimir Byalobzhitsky",
+      "opponentSlug": "72718-vladimir-byalobzitsky",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WCSA Combat Ring 27",
+      "eventSlug": "51585-wcsa-steel-heart-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-01T00:00:00.000Z",
+      "opponent": "Artur Lemos",
+      "opponentSlug": "76655-artur-lemos",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Road to M-1",
+      "eventSlug": "54315-road-to-m-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-01T00:00:00.000Z",
+      "opponent": "Nikita Podkovalnikov",
+      "opponentSlug": "151117-nikita-podkovalnikov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "M-1 Challenge 93",
+      "eventSlug": "52634-m-1-challenge-93",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-17T00:00:00.000Z",
+      "opponent": "Alexander Zykov",
+      "opponentSlug": "168950-aleksandr-zykov",
+      "result": "win",
+      "method": "sub",
+      "event": "WCSA Combat Ring 23",
+      "eventSlug": "48665-fight-show-combat-ring-xxxii-steel-heart",
+      "round": 1,
+      "timeInRound": "2:13"
+    },
+    {
+      "date": "2017-11-11T00:00:00.000Z",
+      "opponent": "Artur Karavaev",
+      "opponentSlug": "98161-artur-karavaev",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "RCC Boxing: Fighting in the Cage 1",
+      "eventSlug": "48314-rcc-1-fighting-in-the-cage-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-26T00:00:00.000Z",
+      "opponent": "Evgeny Gritsenko",
+      "opponentSlug": "165815-evgeny-gritsenko",
+      "result": "win",
+      "method": null,
+      "event": "U-Fight: Battle Of The Highlanders 4",
+      "eventSlug": "47577-u-fight-battle-of-the-highlanders-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-18T00:00:00.000Z",
+      "opponent": "Olivier Dounda",
+      "opponentSlug": "150867-oliver-de-unda",
+      "result": "win",
+      "method": "sub",
+      "event": "WCSA Combat Ring 20",
+      "eventSlug": "43153-wcsa-combat-ring-20-steel-heart",
+      "round": 2,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2016-05-28T00:00:00.000Z",
+      "opponent": "Kuerbanjiang Tuluosibake",
+      "opponentSlug": "67906-kurban-jiang-khazak-warrior",
+      "result": "loss",
+      "method": "sub",
+      "event": "WLF E.P.I.C. 4",
+      "eventSlug": "40151-wlf-epic-4",
+      "round": 2,
+      "timeInRound": "0:31"
+    },
+    {
+      "date": "2015-04-10T00:00:00.000Z",
+      "opponent": "Albert Shangaraev",
+      "opponentSlug": "187691-albert-shangaraev",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WCSA Combat Ring 13",
+      "eventSlug": "43119-wcsa-combat-ring-13-steel-heart-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-15T00:00:00.000Z",
+      "opponent": "Timur Gilimzyanov",
+      "opponentSlug": "134218-timur-gilimzyanov",
+      "result": "win",
+      "method": "sub",
+      "event": "WCSA Combat Ring 11",
+      "eventSlug": "43121-wcsa-combat-ring-11-steel-heart-4",
+      "round": 2,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2013-10-05T00:00:00.000Z",
+      "opponent": "Zaurbek Tedeev",
+      "opponentSlug": "165816-zaurbek-tedeev",
+      "result": "win",
+      "method": "sub",
+      "event": "Oplot Challenge 82",
+      "eventSlug": "25522-oplot-challenge-82-ussr-championship-stage-8",
+      "round": 1,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2013-06-29T00:00:00.000Z",
+      "opponent": "Sergey Bondarenko",
+      "opponentSlug": "164115-sergey-bondarenko",
+      "result": "win",
+      "method": "sub",
+      "event": "Scythian Gold 2013",
+      "eventSlug": "44263-scythian-gold-2013",
+      "round": 1,
+      "timeInRound": "4:00"
+    },
+    {
+      "date": "2011-11-15T00:00:00.000Z",
+      "opponent": "Marat Ilaev",
+      "opponentSlug": "4220-marat-ilaev",
+      "result": "win",
+      "method": "sub",
+      "event": "CMTF: Adrenaline 2",
+      "eventSlug": "48024-adrenaline-muay-thai-cup-2",
+      "round": 1,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2016-05-21T00:00:00.000Z",
+      "opponent": "Arman Tsarukyan",
+      "opponentSlug": "115752-arman-tsarukyan",
+      "result": "loss",
+      "method": "other",
+      "event": "Alexander Serdyukov Memorial 2016",
+      "eventSlug": "50239-alexander-serdyukov-memorial-2016",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:05:29.601Z"
+}

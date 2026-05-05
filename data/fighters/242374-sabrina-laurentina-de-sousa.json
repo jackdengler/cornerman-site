@@ -1,0 +1,253 @@
+{
+  "slug": "242374-sabrina-laurentina-de-sousa",
+  "name": "Sabrinna de Sousa",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 160,
+  "reachCm": 157,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "2000-11-02",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/242374-sabrina-laurentina-de-sousa",
+  "recentFights": [
+    {
+      "date": "2026-05-02T00:00:00.000Z",
+      "opponent": "Cheyanne Bowers",
+      "opponentSlug": "284655-cheyanne-bowers",
+      "result": null,
+      "method": "other",
+      "event": "PFL Sioux Falls",
+      "eventSlug": "140389-pfl-sioux-falls",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-12-13T00:00:00.000Z",
+      "opponent": "Paulina Wiśniewska",
+      "opponentSlug": "215096-paulina-wisniewska",
+      "result": "win",
+      "method": "dec-split",
+      "event": "PFL Europe 4",
+      "eventSlug": "130455-pfl-europe-4-lyon-2025",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-08-15T00:00:00.000Z",
+      "opponent": "Saray Orozco",
+      "opponentSlug": "115520-saray-orozco",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "PFL World Tournament 9",
+      "eventSlug": "122873-pfl-2025-world-tournament-championships-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-02T00:00:00.000Z",
+      "opponent": "Sara dos Santos",
+      "opponentSlug": "488588-sara-dos-santos",
+      "result": "win",
+      "method": "other",
+      "event": "Shooto Brasil 129",
+      "eventSlug": "126892-shooto-brazil-129",
+      "round": 2,
+      "timeInRound": "0:32"
+    },
+    {
+      "date": "2024-12-13T00:00:00.000Z",
+      "opponent": "Mariane Mariano",
+      "opponentSlug": "351018-mariane-mariano",
+      "result": "win",
+      "method": "sub",
+      "event": "BRAVE CF 91",
+      "eventSlug": "120273-brave-cf-91",
+      "round": 3,
+      "timeInRound": "4:47"
+    },
+    {
+      "date": "2023-12-15T00:00:00.000Z",
+      "opponent": "Monika Kiran Ghag",
+      "opponentSlug": "239842-monika-kiran-ghag",
+      "result": "win",
+      "method": "tko",
+      "event": "BRAVE CF 80",
+      "eventSlug": "106212-brave-cf-80",
+      "round": 1,
+      "timeInRound": "0:29"
+    },
+    {
+      "date": "2023-02-17T00:00:00.000Z",
+      "opponent": "Katerina Lisova",
+      "opponentSlug": "317685-katerina-lisova",
+      "result": "win",
+      "method": "sub",
+      "event": "2022 IMMAF World Championships",
+      "eventSlug": "97170-2022-immaf-world-championships-senior-finals",
+      "round": 2,
+      "timeInRound": "1:09"
+    },
+    {
+      "date": "2023-02-15T00:00:00.000Z",
+      "opponent": "Emma Schiöler",
+      "opponentSlug": "375575-emma-schioler",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "2022 IMMAF World Championships",
+      "eventSlug": "97168-2022-immaf-world-championships-day-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-10-30T00:00:00.000Z",
+      "opponent": "Moldir Ashirbekova",
+      "opponentSlug": "325096-moldir-ashirbekova",
+      "result": "win",
+      "method": "tko",
+      "event": "IMMAF",
+      "eventSlug": "94285-2022-immaf-asian-championships-senior-finals",
+      "round": 1,
+      "timeInRound": "0:28"
+    },
+    {
+      "date": "2022-03-12T00:00:00.000Z",
+      "opponent": "Kerry Ann Vernon",
+      "opponentSlug": "304841-kerry-vernan",
+      "result": "win",
+      "method": "sub",
+      "event": "MMA SuperCup",
+      "eventSlug": "87494-mma-supercup-final",
+      "round": 1,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2022-03-10T00:00:00.000Z",
+      "opponent": "Antonina Kotlyarevskaya",
+      "opponentSlug": "228650-antonina-kotlyarevskaya",
+      "result": "win",
+      "method": "sub",
+      "event": "MMA SuperCup",
+      "eventSlug": "87492-mma-supercup-semi-finals",
+      "round": 1,
+      "timeInRound": "0:54"
+    },
+    {
+      "date": "2022-01-29T00:00:00.000Z",
+      "opponent": "Cecilie Bolander",
+      "opponentSlug": "311815-cecile-bolander",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMMAF",
+      "eventSlug": "86221-immaf-2021-senior-world-championships-finals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-01-27T00:00:00.000Z",
+      "opponent": "Michelle Montague",
+      "opponentSlug": "237486-michell-montague",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMMAF",
+      "eventSlug": "86217-immaf-2021-world-senior-championships-day-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-01-26T00:00:00.000Z",
+      "opponent": "Andrea Guzman",
+      "opponentSlug": "325204-andrea-guzman",
+      "result": "win",
+      "method": "sub",
+      "event": "IMMAF",
+      "eventSlug": "86215-immaf-2021-world-senior-championships-day-3",
+      "round": 1,
+      "timeInRound": "1:11"
+    },
+    {
+      "date": "2021-08-20T00:00:00.000Z",
+      "opponent": "Sara Jóźwiak",
+      "opponentSlug": "245158-sara-jozwiak",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMMAF",
+      "eventSlug": "82076-immaf-european-open-senior-and-junior-championships-finals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-19T00:00:00.000Z",
+      "opponent": "Michelle Montague",
+      "opponentSlug": "237486-michell-montague",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMMAF",
+      "eventSlug": "82048-immaf-european-open-senior-and-junior-championships-day-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-18T00:00:00.000Z",
+      "opponent": "Nina Kharinova",
+      "opponentSlug": "306840-nina-kharinovs",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMMAF",
+      "eventSlug": "82031-immaf-european-open-senior-and-junior-championships-day-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-16T00:00:00.000Z",
+      "opponent": "Jasmine Favero",
+      "opponentSlug": "227994-christina-papasotiriou",
+      "result": "win",
+      "method": "sub",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64429-immaf-wmmaa-amateur-world-championships-2019-day-5",
+      "round": 1,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2019-11-14T00:00:00.000Z",
+      "opponent": "Jenni Kivioja",
+      "opponentSlug": "190264-jenni-kivioja",
+      "result": "win",
+      "method": "sub",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64428-immaf-wmmaa-amateur-world-championships-2019-day-4",
+      "round": 1,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2019-11-13T00:00:00.000Z",
+      "opponent": "Klaudia Syguła",
+      "opponentSlug": "172890-klaudia-sygua",
+      "result": "win",
+      "method": "sub",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64319-immaf-wmmaa-amateur-world-championships-2019",
+      "round": 2,
+      "timeInRound": "2:52"
+    },
+    {
+      "date": "2019-11-12T00:00:00.000Z",
+      "opponent": "Sofia Hedqvist",
+      "opponentSlug": "228230-valentina-semal",
+      "result": "win",
+      "method": "other",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64318-immaf-wmmaa-amateur-world-championships-2019-day-2",
+      "round": 1,
+      "timeInRound": "1:36"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:54:52.484Z"
+}

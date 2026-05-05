@@ -1,0 +1,220 @@
+{
+  "slug": "129278-ilia-topuria",
+  "name": "Ilia Topuria",
+  "nickname": "El Matador",
+  "aliases": [],
+  "recordPro": {
+    "wins": 17,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 175,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1997-01-21",
+  "nationality": "Halle Westfalen, Germany",
+  "url": "https://www.tapology.com/fightcenter/fighters/129278-ilia-topuria",
+  "recentFights": [
+    {
+      "date": "2026-06-14T00:00:00.000Z",
+      "opponent": "Justin Gaethje",
+      "opponentSlug": "16421-justin-gaethje",
+      "result": null,
+      "method": "other",
+      "event": "UFC Freedom Fights 250",
+      "eventSlug": "137848-ufc-white-house",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-06-28T00:00:00.000Z",
+      "opponent": "Charles Oliveira",
+      "opponentSlug": "charles-oliveira-do-bronx",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 317: Topuria vs. Oliveira",
+      "eventSlug": "124086-ufc-317",
+      "round": 1,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2024-10-26T00:00:00.000Z",
+      "opponent": "Max Holloway",
+      "opponentSlug": "12723-max-holloway-lil-evil",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 308: Topuria vs. Holloway",
+      "eventSlug": "112501-ufc-308",
+      "round": 3,
+      "timeInRound": "1:34"
+    },
+    {
+      "date": "2024-02-17T00:00:00.000Z",
+      "opponent": "Alexander Volkanovski",
+      "opponentSlug": "41705-alex-volkanski",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 298: Volkanovski vs. Topuria",
+      "eventSlug": "107060-ufc-298",
+      "round": 2,
+      "timeInRound": "3:32"
+    },
+    {
+      "date": "2023-06-24T00:00:00.000Z",
+      "opponent": "Josh Emmett",
+      "opponentSlug": "51295-josh-emmett",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC on ABC 5",
+      "eventSlug": "99780-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-10T00:00:00.000Z",
+      "opponent": "Bryce Mitchell",
+      "opponentSlug": "59676-bryce-mitchell",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC 282: Błachowicz vs. Ankalaev",
+      "eventSlug": "92214-ufc-282",
+      "round": 2,
+      "timeInRound": "3:10"
+    },
+    {
+      "date": "2022-03-19T00:00:00.000Z",
+      "opponent": "Jai Herbert",
+      "opponentSlug": "70002-jai-herbert",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "83999-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2021-07-10T00:00:00.000Z",
+      "opponent": "Ryan Hall",
+      "opponentSlug": "37328-ryan-hall",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 264: Poirier vs. McGregor 3",
+      "eventSlug": "78106-ufc-264",
+      "round": 1,
+      "timeInRound": "4:47"
+    },
+    {
+      "date": "2020-12-05T00:00:00.000Z",
+      "opponent": "Damon Jackson",
+      "opponentSlug": "39377-damon-jackson",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "71961-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2020-10-10T00:00:00.000Z",
+      "opponent": "Youssef Zalal",
+      "opponentSlug": "110826-youssef-zalaal",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "71622-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-15T00:00:00.000Z",
+      "opponent": "Steven Goncalves",
+      "opponentSlug": "83720-stephen-goncalves",
+      "result": "win",
+      "method": "other",
+      "event": "Brave CF 29",
+      "eventSlug": "63308-brave-cf-29",
+      "round": 1,
+      "timeInRound": "3:42"
+    },
+    {
+      "date": "2019-09-07T00:00:00.000Z",
+      "opponent": "Luis Gomez",
+      "opponentSlug": "234505-luis-gomez",
+      "result": "win",
+      "method": "sub",
+      "event": "Brave CF 26",
+      "eventSlug": "62666-brave-cf-26",
+      "round": 1,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2018-06-16T00:00:00.000Z",
+      "opponent": "Brian Bouland",
+      "opponentSlug": "119850-brian-bouland",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 94",
+      "eventSlug": "51416-cage-warriors-94",
+      "round": 1,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2018-04-28T00:00:00.000Z",
+      "opponent": "Mika Hamalainen",
+      "opponentSlug": "33137-mika-hamalainen",
+      "result": "win",
+      "method": "sub",
+      "event": "CAGE 43",
+      "eventSlug": "52174-cage-43",
+      "round": 1,
+      "timeInRound": "3:35"
+    },
+    {
+      "date": "2016-11-05T00:00:00.000Z",
+      "opponent": "Jhon Guarin",
+      "opponentSlug": "115569-jhon-guarin",
+      "result": "win",
+      "method": "sub",
+      "event": "Mix Fight Events",
+      "eventSlug": "41476-mix-fight-events",
+      "round": 2,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2016-05-07T00:00:00.000Z",
+      "opponent": "Daniel Vasquez",
+      "opponentSlug": "116241-daniel-vasquez",
+      "result": "win",
+      "method": "sub",
+      "event": "Mix Fight Events",
+      "eventSlug": "38799-mix-fight-events",
+      "round": 1,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2015-05-09T00:00:00.000Z",
+      "opponent": "Kalil El Chantibi",
+      "opponentSlug": "129282-kalil-el-chantibi",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "1:03"
+    },
+    {
+      "date": "2015-04-04T00:00:00.000Z",
+      "opponent": "Francisco Asprilla",
+      "opponentSlug": "80409-javier-asprilla",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "3:30"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:08:42.513Z"
+}

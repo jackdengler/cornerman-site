@@ -1,0 +1,176 @@
+{
+  "slug": "80697-felipe-colares-caboco",
+  "name": "Felipe Colares",
+  "nickname": "Cabocão",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 177,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1994-03-31T00:00:00.000Z",
+  "nationality": "Macapa, Amapa, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/80697-felipe-colares-caboco",
+  "recentFights": [
+    {
+      "date": "2023-02-17T00:00:00.000Z",
+      "opponent": "Alioune Nahaye",
+      "opponentSlug": "72095-alioune-nahaye",
+      "result": "win",
+      "method": "sub",
+      "event": "Ares FC 12: Pena vs. Boudegzdame",
+      "eventSlug": "96197-ares-fc-12",
+      "round": 1,
+      "timeInRound": "2:46"
+    },
+    {
+      "date": "2022-05-21T00:00:00.000Z",
+      "opponent": "Chase Hooper",
+      "opponentSlug": "158947-chase-hooper",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "86509-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2021-10-09T00:00:00.000Z",
+      "opponent": "Chris Gutierrez",
+      "opponentSlug": "34369-chris-gutierrez",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "80131-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-01T00:00:00.000Z",
+      "opponent": "Luke Sanders",
+      "opponentSlug": "luke-sanders",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "76888-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-01-25T00:00:00.000Z",
+      "opponent": "Montel Jackson",
+      "opponentSlug": "89335-montel-jackson",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC on ESPN+ 24",
+      "eventSlug": "64361-ufc-on-espn-24",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-20T00:00:00.000Z",
+      "opponent": "Domingo Pilarte",
+      "opponentSlug": "37541-domingo-pilarte-el-nino",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC on ESPN 4",
+      "eventSlug": "60311-ufc-on-espn-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-02-02T00:00:00.000Z",
+      "opponent": "Geraldo de Freitas",
+      "opponentSlug": "30876-geraldo-de-freitas",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC on ESPN+ 2",
+      "eventSlug": "56348-ufc-fight-night-144",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-30T00:00:00.000Z",
+      "opponent": "Caio Gregorio",
+      "opponentSlug": "111135-caio-gregorio",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Jungle Fight 92",
+      "eventSlug": "47988-jungle-fight-92",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-30T00:00:00.000Z",
+      "opponent": "Jordano Abdon",
+      "opponentSlug": "73625-jordano-abdon-maraj",
+      "result": "win",
+      "method": "sub",
+      "event": "Jungle Fight 86",
+      "eventSlug": "38724-jungle-fight-86",
+      "round": 3,
+      "timeInRound": "3:25"
+    },
+    {
+      "date": "2015-11-28T00:00:00.000Z",
+      "opponent": "Thiago Silva",
+      "opponentSlug": "50647-thiago-manchinha",
+      "result": "win",
+      "method": "other",
+      "event": "Jungle Fight 83",
+      "eventSlug": "36731-jungle-fight-83",
+      "round": 1,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2015-07-04T00:00:00.000Z",
+      "opponent": "Clesio Silva",
+      "opponentSlug": "97404-clesio-caveirinha",
+      "result": "win",
+      "method": "sub",
+      "event": "Max Fight 15",
+      "eventSlug": "33603-max-fight-15",
+      "round": 2,
+      "timeInRound": "4:52"
+    },
+    {
+      "date": "2014-09-20T00:00:00.000Z",
+      "opponent": "Eduardo Hanke",
+      "opponentSlug": "80698-eduardo-hanke",
+      "result": "win",
+      "method": "sub",
+      "event": "Circuito Talent de MMA 12",
+      "eventSlug": "25840-circuito-talent-de-mma-12",
+      "round": 1,
+      "timeInRound": "4:14"
+    },
+    {
+      "date": "2013-11-30T00:00:00.000Z",
+      "opponent": "Eder Costa",
+      "opponentSlug": "78868-eder-costa-caveira",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-07-20T00:00:00.000Z",
+      "opponent": "Evandro Souza Balieiro",
+      "opponentSlug": "80702-evandro-souza-balieiro-arrasta",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:37:38.202Z"
+}

@@ -1,0 +1,143 @@
+{
+  "slug": "123439-michael-berkenbosch",
+  "name": "Joey Berkenbosch",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1982-11-08",
+  "nationality": "Netherlands",
+  "url": "https://www.tapology.com/fightcenter/fighters/123439-michael-berkenbosch",
+  "recentFights": [
+    {
+      "date": "2023-03-12T00:00:00.000Z",
+      "opponent": "Jason Wilnis",
+      "opponentSlug": "238320-jason-wilnis",
+      "result": "win",
+      "method": "other",
+      "event": "Levels Fight League 8",
+      "eventSlug": "97962-levels-fight-league-8",
+      "round": 2,
+      "timeInRound": "3:38"
+    },
+    {
+      "date": "2021-05-30T00:00:00.000Z",
+      "opponent": "Robert Valentin",
+      "opponentSlug": "136498-robert-valentin",
+      "result": "loss",
+      "method": "sub",
+      "event": "Levels Fight League 1",
+      "eventSlug": "78552-levels-fight-league-1",
+      "round": 1,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2019-06-10T00:00:00.000Z",
+      "opponent": "Grzegorz Białas",
+      "opponentSlug": "58558-grzegorz-bialas",
+      "result": "win",
+      "method": "tko",
+      "event": "Fight Club Den Haag",
+      "eventSlug": "60946-fight-club-den-haag",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-08-18T00:00:00.000Z",
+      "opponent": "Ikram Aliskerov",
+      "opponentSlug": "108253-ikram-aliskerov",
+      "result": "loss",
+      "method": "other",
+      "event": "Brave CF 14",
+      "eventSlug": "54087-brave-cf-14",
+      "round": 1,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2018-05-21T00:00:00.000Z",
+      "opponent": "Gennaro Asseione",
+      "opponentSlug": "187968-gennaro-asseione",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Club Den Haag",
+      "eventSlug": "53161-fight-club-den-haag",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-24T00:00:00.000Z",
+      "opponent": "Yared Fissaha-Tsion",
+      "opponentSlug": "158583-yared-fissaha-tsion",
+      "result": "win",
+      "method": "other",
+      "event": "World Fighting League MMA 2",
+      "eventSlug": "51041-world-fighting-league-mma-2",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-28T00:00:00.000Z",
+      "opponent": "Boeda Zaalman",
+      "opponentSlug": "161116-boeda-zaalman",
+      "result": "win",
+      "method": "sub",
+      "event": "SLAMM Almere's Finest",
+      "eventSlug": "46737-slamm-almeres-finest",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-27T00:00:00.000Z",
+      "opponent": "Danny Hogeling",
+      "opponentSlug": "157702-danny-hogeling",
+      "result": "win",
+      "method": "other",
+      "event": "SLAMM Almere's Finest",
+      "eventSlug": "46736-slamm-almeres-finest",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-16T00:00:00.000Z",
+      "opponent": "Wesley Fokker",
+      "opponentSlug": "161115-wesley-fokker",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Club Den Haag",
+      "eventSlug": "39955-fight-club-den-haag",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-27T00:00:00.000Z",
+      "opponent": "Yulian Borisov",
+      "opponentSlug": "62883-julian-borisov",
+      "result": "loss",
+      "method": "other",
+      "event": "WMMAA",
+      "eventSlug": "37067-wmmaa-2015-world-championships-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-26T00:00:00.000Z",
+      "opponent": "Vjekoslav Jajcinovic",
+      "opponentSlug": "123440-vjekoslav-jajcinovic",
+      "result": "win",
+      "method": "other",
+      "event": "WMMAA",
+      "eventSlug": "37066-wmmaa-2015-world-championships-day-1",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:57:36.966Z"
+}

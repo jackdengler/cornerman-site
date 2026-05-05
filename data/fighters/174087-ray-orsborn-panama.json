@@ -1,0 +1,110 @@
+{
+  "slug": "174087-ray-orsborn-panama",
+  "name": "Ray Orsborn",
+  "nickname": "Panama",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1987-12-03",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/174087-ray-orsborn-panama",
+  "recentFights": [
+    {
+      "date": "2021-12-03T00:00:00.000Z",
+      "opponent": "Cedric Katambwa",
+      "opponentSlug": "151861-cedric-katambwa",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 119: Silveira vs. Revel",
+      "eventSlug": "84173-lfa-119-silveira-vs-revel",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-27T00:00:00.000Z",
+      "opponent": "Kaharyree Davis",
+      "opponentSlug": "195560-kaharyree-davis",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WFF 40: Night of Champions",
+      "eventSlug": "55397-wff-40-night-of-champions",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-13T00:00:00.000Z",
+      "opponent": "Santos Sillas",
+      "opponentSlug": "187677-santos-sillas",
+      "result": "win",
+      "method": "tko",
+      "event": "CFL 1: The Beginning",
+      "eventSlug": "56122-cfl-1-the-beginning",
+      "round": 1,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2018-08-24T00:00:00.000Z",
+      "opponent": "Kenneth Stone",
+      "opponentSlug": "196042-kenneth-stone",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Epic Fighting 39",
+      "eventSlug": "55347-epic-fighting-39",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-01-26T00:00:00.000Z",
+      "opponent": "Ryder Newman",
+      "opponentSlug": "149509-ryder-newman",
+      "result": "loss",
+      "method": "sub",
+      "event": "Real MMA 16",
+      "eventSlug": "51745-real-mma-16",
+      "round": 3,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2017-12-15T00:00:00.000Z",
+      "opponent": "Anastacio Barrientos",
+      "opponentSlug": "135218-anastacio-barrientos",
+      "result": "win",
+      "method": "other",
+      "event": "Tuff-N-Uff: Live From California",
+      "eventSlug": "49781-tuff-n-uff-live-from-california",
+      "round": 1,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2017-07-21T00:00:00.000Z",
+      "opponent": "Yobanny Sanchez",
+      "opponentSlug": "119842-yobanny-sanchez",
+      "result": "win",
+      "method": "other",
+      "event": "Real MMA 15",
+      "eventSlug": "47010-real-mma-15",
+      "round": 1,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2017-01-27T00:00:00.000Z",
+      "opponent": "Jose Garcia",
+      "opponentSlug": "88218-jose-garcia",
+      "result": "win",
+      "method": "tko",
+      "event": "Real MMA 13",
+      "eventSlug": "43687-real-mma-13",
+      "round": 2,
+      "timeInRound": "0:20"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:42:10.405Z"
+}

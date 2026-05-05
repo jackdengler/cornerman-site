@@ -1,0 +1,154 @@
+{
+  "slug": "148010-elijah-johns",
+  "name": "Elijah Johns",
+  "nickname": "Baby",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 180,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1996-03-20",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/148010-elijah-johns",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Taner Trembley",
+      "opponentSlug": "336743-taner-trembley",
+      "result": null,
+      "method": "other",
+      "event": "LFA 231: Trembley vs. Johns",
+      "eventSlug": "140675-lfa-231-trembley-vs-johns",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-01-25T00:00:00.000Z",
+      "opponent": "Lerryan Douglas",
+      "opponentSlug": "53579-lerryan-douglas",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 200: Johns vs. Douglas",
+      "eventSlug": "120838-lfa-200",
+      "round": 2,
+      "timeInRound": "2:35"
+    },
+    {
+      "date": "2024-02-09T00:00:00.000Z",
+      "opponent": "Alfred Walker",
+      "opponentSlug": "30193-alfred-walker",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 176: Johns vs. Walker",
+      "eventSlug": "109154-lfa-176-garcia-vs-johns-2-legacy-fighting-alliance-176",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-21T00:00:00.000Z",
+      "opponent": "Javier Garcia",
+      "opponentSlug": "62579-javier-garcia-hurricane-javi",
+      "result": "nc",
+      "method": "sub",
+      "event": "LFA 163: Johns vs. Garcia",
+      "eventSlug": "102001-lfa-163-johns-vs-garcia",
+      "round": 2,
+      "timeInRound": "4:39"
+    },
+    {
+      "date": "2022-08-05T00:00:00.000Z",
+      "opponent": "Masuto Kawana",
+      "opponentSlug": "295069-masuto-kawana",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 138: Farias vs. Tanaka",
+      "eventSlug": "90629-lfa-138-farias-vs-tanaka",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-01-14T00:00:00.000Z",
+      "opponent": "Brandon Phillips",
+      "opponentSlug": "27798-brandon-phillips",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 121: Brown vs. Jones",
+      "eventSlug": "85523-lfa-121-mckenzie-vs-jones",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-19T00:00:00.000Z",
+      "opponent": "Bruno Souza",
+      "opponentSlug": "136658-bruno-assis-karate",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "LFA 102: Souza vs. Johns",
+      "eventSlug": "77854-lfa-102-souza-vs-johns",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-10-16T00:00:00.000Z",
+      "opponent": "Luke Faultersack",
+      "opponentSlug": "48529-luke-faultersack",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 93: Petroski vs. Jeffery",
+      "eventSlug": "73180-lfa-93-petroski-vs-jeffery",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-03-06T00:00:00.000Z",
+      "opponent": "Zac Kelley",
+      "opponentSlug": "18647-zac-kelley-the-punisher",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 83: Jackson vs. Chaulet",
+      "eventSlug": "66606-lfa-83-jackson-vs-chaulet",
+      "round": 1,
+      "timeInRound": "2:05"
+    },
+    {
+      "date": "2019-11-15T00:00:00.000Z",
+      "opponent": "Michael Murphy",
+      "opponentSlug": "84227-mike-murphy",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 78: Yanez vs. Estrada",
+      "eventSlug": "64014-lfa-78-yanez-vs-estrada",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-08-02T00:00:00.000Z",
+      "opponent": "Aaron Webb",
+      "opponentSlug": "74303-aaron-webb",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 73: Lingo vs. Hatley Jr.",
+      "eventSlug": "61360-lfa-73-mowles-vs-yanez-2",
+      "round": 1,
+      "timeInRound": "0:26"
+    },
+    {
+      "date": "2019-03-22T00:00:00.000Z",
+      "opponent": "Michael Martinez",
+      "opponentSlug": "94167-michael-martinez",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 62: Kenney vs. Cachero",
+      "eventSlug": "58531-lfa-62-johns-vs-cachero",
+      "round": 1,
+      "timeInRound": "1:12"
+    }
+  ],
+  "lastVerified": "2026-04-17T03:45:57.254Z"
+}

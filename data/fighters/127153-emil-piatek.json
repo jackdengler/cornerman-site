@@ -1,0 +1,202 @@
+{
+  "slug": "127153-emil-piatek",
+  "name": "Emil Piatek",
+  "nickname": "Savage",
+  "aliases": [],
+  "recordPro": {
+    "wins": 14,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 14,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1999-01-06T00:00:00.000Z",
+  "nationality": "Kłodzko, Poland",
+  "url": "https://www.tapology.com/fightcenter/fighters/127153-emil-piatek",
+  "recentFights": [
+    {
+      "date": "2019-11-14T00:00:00.000Z",
+      "opponent": "Nikita Kulshin",
+      "opponentSlug": "178301-nikita-kulshin",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64428-immaf-wmmaa-amateur-world-championships-2019-day-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-13T00:00:00.000Z",
+      "opponent": "Antonio Marti",
+      "opponentSlug": "159958-antonio-marti",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64319-immaf-wmmaa-amateur-world-championships-2019",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-12T00:00:00.000Z",
+      "opponent": "Ryan Keogh",
+      "opponentSlug": "242330-ryan-kio",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64318-immaf-wmmaa-amateur-world-championships-2019-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-11T00:00:00.000Z",
+      "opponent": "Cameron Coulson",
+      "opponentSlug": "234492-cameron-coulson",
+      "result": "win",
+      "method": "sub",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64317-immaf-wmmaa-amateur-world-championships-2019",
+      "round": 2,
+      "timeInRound": "0:24"
+    },
+    {
+      "date": "2019-06-20T00:00:00.000Z",
+      "opponent": "Patrick Lehane",
+      "opponentSlug": "162104-patrick-lehane",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "2019 IMMAF-WMMAA European Senior & Junior Open Championships",
+      "eventSlug": "61280-2019-immaf-wmmaa-european-senior-junior-open-championships-day-2-cage-a",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-19T00:00:00.000Z",
+      "opponent": "Adam Caldwell",
+      "opponentSlug": "108495-adam-caldwell",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "2019 IMMAF-WMMAA European Senior & Junior Open Championships",
+      "eventSlug": "61529-2019-immaf-wmmaa-european-senior-junior-open-championships-day-1-cage-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-18T00:00:00.000Z",
+      "opponent": "Patrick Lehane",
+      "opponentSlug": "162104-patrick-lehane",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Legacy 12",
+      "eventSlug": "56387-cage-legacy-12",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-23T00:00:00.000Z",
+      "opponent": "Solomon Simon",
+      "opponentSlug": "180334-soloman-simon",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Legacy 11",
+      "eventSlug": "54758-cage-legacy-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-03T00:00:00.000Z",
+      "opponent": "Ben Ellis",
+      "opponentSlug": "150815-ben-ellis",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Budo Fighting Championships 34",
+      "eventSlug": "51061-budo-fighting-championships",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-08T00:00:00.000Z",
+      "opponent": "Aaron Devlin",
+      "opponentSlug": "76104-aaron-devlin",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors Academy Ireland 1",
+      "eventSlug": "54739-cage-warriors-academy-ireland",
+      "round": 3,
+      "timeInRound": "2:32"
+    },
+    {
+      "date": "2018-02-09T00:00:00.000Z",
+      "opponent": "Arron Daniels",
+      "opponentSlug": "129049-arron-daniels",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Legacy 6",
+      "eventSlug": "50882-cage-legacy-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-25T00:00:00.000Z",
+      "opponent": "Leon Hill",
+      "opponentSlug": "149133-leon-hill",
+      "result": "win",
+      "method": "tko",
+      "event": "Celtic Gladiator 16",
+      "eventSlug": "48765-celtic-gladiator-16",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-19T00:00:00.000Z",
+      "opponent": "Patrick Lehane",
+      "opponentSlug": "162104-patrick-lehane",
+      "result": "win",
+      "method": "other",
+      "event": "Battle Zone FC 17",
+      "eventSlug": "43588-battle-zone-fc-17",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-22T00:00:00.000Z",
+      "opponent": "Wahab Zadeh",
+      "opponentSlug": "162093-wahab-zadeh",
+      "result": "win",
+      "method": "tko",
+      "event": "Cage Legacy Fighting Championship 3",
+      "eventSlug": "43580-cage-legacy-fight-night-cork",
+      "round": 3,
+      "timeInRound": "0:14"
+    },
+    {
+      "date": "2016-03-05T00:00:00.000Z",
+      "opponent": "Jacoub Kassouri",
+      "opponentSlug": "118166-jacoub-kassouri",
+      "result": "win",
+      "method": "sub",
+      "event": "Ryoshin FC 9",
+      "eventSlug": "36735-ryoshin-fc-9",
+      "round": 2,
+      "timeInRound": "0:29"
+    },
+    {
+      "date": "2015-12-05T00:00:00.000Z",
+      "opponent": "Matthew Devine",
+      "opponentSlug": "122434-matthew-devine",
+      "result": "win",
+      "method": "sub",
+      "event": "Chaos FC 15",
+      "eventSlug": "37123-chaos-fc-15",
+      "round": 2,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:38:52.050Z"
+}

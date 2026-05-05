@@ -1,0 +1,154 @@
+{
+  "slug": "56416-marcin-wojcik",
+  "name": "Marcin Wójcik",
+  "nickname": "The Giant",
+  "aliases": [],
+  "recordPro": {
+    "wins": 22,
+    "losses": 10,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 186,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1989-09-02",
+  "nationality": "Poland",
+  "url": "https://www.tapology.com/fightcenter/fighters/56416-marcin-wojcik",
+  "recentFights": [
+    {
+      "date": "2026-04-18T00:00:00.000Z",
+      "opponent": "Phil De Fries",
+      "opponentSlug": "14084-philip-de-fries",
+      "result": null,
+      "method": "other",
+      "event": "KSW 117: Pawlak vs. Khalidov",
+      "eventSlug": "140146-ksw-117-de-fries-vs-wojcik",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-12-20T00:00:00.000Z",
+      "opponent": "Augusto Sakai",
+      "opponentSlug": "44468-augusto-sakai",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KSW 113: Bartosiński vs. Tulshaev",
+      "eventSlug": "132943-ksw-113",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-07-19T00:00:00.000Z",
+      "opponent": "Ibragim Chuzhigaev",
+      "opponentSlug": "71808-ibragim-chuzhigaev",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 108: Soldaev vs. Brichta",
+      "eventSlug": "128078-ksw-108-kaczmarczyk-vs-brichta",
+      "round": 2,
+      "timeInRound": "4:20"
+    },
+    {
+      "date": "2024-11-16T00:00:00.000Z",
+      "opponent": "Rafał Haratyk",
+      "opponentSlug": "40112-rafal-haratyk-65806-rafal-haratyk-65806",
+      "result": "loss",
+      "method": "other",
+      "event": "KSW 100: Khalidov vs. Bartosiński",
+      "eventSlug": "116517-ksw-100",
+      "round": 2,
+      "timeInRound": "3:22"
+    },
+    {
+      "date": "2024-09-14T00:00:00.000Z",
+      "opponent": "Damian Piwowarczyk",
+      "opponentSlug": "189018-damian-piwowarczyk",
+      "result": "win",
+      "method": "sub",
+      "event": "KSW 98: Paczuski vs. Zerhouni",
+      "eventSlug": "116155-ksw-98",
+      "round": 1,
+      "timeInRound": "2:46"
+    },
+    {
+      "date": "2024-02-24T00:00:00.000Z",
+      "opponent": "Rafał Haratyk",
+      "opponentSlug": "40112-rafal-haratyk-65806-rafal-haratyk-65806",
+      "result": "loss",
+      "method": "other",
+      "event": "KSW Epic: Khalidov vs. Adamek",
+      "eventSlug": "108704-ksw-epic",
+      "round": 1,
+      "timeInRound": "4:07"
+    },
+    {
+      "date": "2023-11-11T00:00:00.000Z",
+      "opponent": "Luis Henrique da Silva",
+      "opponentSlug": "78690-frank-junior",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 88: Bitwa o Radom",
+      "eventSlug": "105211-ksw-88-bitwa-o-radom",
+      "round": 2,
+      "timeInRound": "0:31"
+    },
+    {
+      "date": "2023-08-18T00:00:00.000Z",
+      "opponent": "Adam Wieczorek",
+      "opponentSlug": "53697-adam-wieczorek",
+      "result": "win",
+      "method": "other",
+      "event": "FEN 48: Wójcik vs. Wieczorek",
+      "eventSlug": "102722-fen-48",
+      "round": 2,
+      "timeInRound": "0:22"
+    },
+    {
+      "date": "2023-05-27T00:00:00.000Z",
+      "opponent": "Ednaldo Oliveira",
+      "opponentSlug": "6617-edinaldo-oliveira-lula",
+      "result": "win",
+      "method": "other",
+      "event": "FEN 46: Kuberski vs. Wojciechowski",
+      "eventSlug": "99920-fen-46",
+      "round": 2,
+      "timeInRound": "4:52"
+    },
+    {
+      "date": "2022-08-13T00:00:00.000Z",
+      "opponent": "Mick Stanton",
+      "opponentSlug": "69420-mick-stanton",
+      "result": "win",
+      "method": "sub",
+      "event": "PFL 8: 2022 Playoffs",
+      "eventSlug": "87839-pfl-2022-8-playoffs",
+      "round": 1,
+      "timeInRound": "4:04"
+    },
+    {
+      "date": "2022-03-12T00:00:00.000Z",
+      "opponent": "Paweł Hadaś",
+      "opponentSlug": "56309-pawel-hadas",
+      "result": "win",
+      "method": "other",
+      "event": "FEN 39: LOTOS Fight Night 8",
+      "eventSlug": "86203-fen-39",
+      "round": 2,
+      "timeInRound": "3:08"
+    },
+    {
+      "date": "2021-10-16T00:00:00.000Z",
+      "opponent": "Eder de Souza",
+      "opponentSlug": "44270-eder-de-souza-bambu",
+      "result": "loss",
+      "method": "other",
+      "event": "FEN 36: Fight Night Szczecin",
+      "eventSlug": "81400-fen-36",
+      "round": 2,
+      "timeInRound": "2:20"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:03:03.329Z"
+}

@@ -1,0 +1,209 @@
+{
+  "slug": "4420-erik-montano",
+  "name": "Erick Montaño",
+  "nickname": "Perry",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 180,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1985-11-20",
+  "nationality": "Mexico",
+  "url": "https://www.tapology.com/fightcenter/fighters/4420-erik-montano",
+  "recentFights": [
+    {
+      "date": "2024-05-31T00:00:00.000Z",
+      "opponent": "Ricardo Chavez",
+      "opponentSlug": "170069-ricardo-chavez",
+      "result": "loss",
+      "method": "other",
+      "event": "Budo Sento Championship 22",
+      "eventSlug": "114234-budo-sento-championship-22",
+      "round": 4,
+      "timeInRound": "4:42"
+    },
+    {
+      "date": "2023-04-08T00:00:00.000Z",
+      "opponent": "Ivan Castillo",
+      "opponentSlug": "40451-ivan-castillo-choko",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combate Global",
+      "eventSlug": "100151-combate-global-ibarra-vs-davila",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-22T00:00:00.000Z",
+      "opponent": "Jimmy Sandlin",
+      "opponentSlug": "138073-jimmy-sandlin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combate Global",
+      "eventSlug": "91336-combate",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-29T00:00:00.000Z",
+      "opponent": "Mark Martin",
+      "opponentSlug": "166384-mark-martin",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combate Global",
+      "eventSlug": "83854-combate-global",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-12T00:00:00.000Z",
+      "opponent": "Sydney Machado",
+      "opponentSlug": "9093-sydney-machado",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-17T00:00:00.000Z",
+      "opponent": "Juan Manuel Suarez",
+      "opponentSlug": "13768-Juan-Manuel-Suarez-Juanma",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "AFL 14: Outbreak",
+      "eventSlug": "48739-afl-14-outbreak",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-05T00:00:00.000Z",
+      "opponent": "Max Griffin",
+      "opponentSlug": "25437-max-griffin",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night 98",
+      "eventSlug": "41075-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "0:54"
+    },
+    {
+      "date": "2016-09-17T00:00:00.000Z",
+      "opponent": "Randy Brown",
+      "opponentSlug": "21348-randall-brown-rude-boy",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night 94",
+      "eventSlug": "40816-ufc-fight-night-94",
+      "round": 3,
+      "timeInRound": "0:18"
+    },
+    {
+      "date": "2015-11-21T00:00:00.000Z",
+      "opponent": "Enrique Marín",
+      "opponentSlug": "36474-enrique-marin",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night 78",
+      "eventSlug": "34434-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-04-22T00:00:00.000Z",
+      "opponent": "Vernon Ramos",
+      "opponentSlug": "85356-vernon-ramos",
+      "result": "win",
+      "method": "sub",
+      "event": "The Ultimate Fighter Latin America Season 2",
+      "eventSlug": "40911-the-ultimate-fighter-latin-america-season-2",
+      "round": 1,
+      "timeInRound": "4:44"
+    },
+    {
+      "date": "2015-03-27T00:00:00.000Z",
+      "opponent": "Marco Olano",
+      "opponentSlug": "55235-marco-olano",
+      "result": "win",
+      "method": "other",
+      "event": "The Ultimate Fighter Latin America Season 2",
+      "eventSlug": "40904-the-ultimate-fighter-latin-america-season-2",
+      "round": 1,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2014-10-18T00:00:00.000Z",
+      "opponent": "Sergio Cossio",
+      "opponentSlug": "89392-daniel-cossio",
+      "result": "win",
+      "method": "sub",
+      "event": "Xtreme Kombat 27",
+      "eventSlug": "26913-xtreme-kombat-27",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-08-30T00:00:00.000Z",
+      "opponent": "Polo Reyes",
+      "opponentSlug": "78228-polo-reyes-el-toro",
+      "result": "win",
+      "method": "sub",
+      "event": "Xtreme Kombat 25",
+      "eventSlug": "26208-xtreme-kombat-25",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-15T00:00:00.000Z",
+      "opponent": "Pedro Gostinski Junior",
+      "opponentSlug": "47426-pedro-junior",
+      "result": "loss",
+      "method": "other",
+      "event": "XFC International 2",
+      "eventSlug": "22570-xfci-2",
+      "round": 2,
+      "timeInRound": "4:00"
+    },
+    {
+      "date": "2012-09-21T00:00:00.000Z",
+      "opponent": "Christopher Ortega",
+      "opponentSlug": "16326-christopher-ortega",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-07-11T00:00:00.000Z",
+      "opponent": "War Machine",
+      "opponentSlug": "war-machine",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-11-28T00:00:00.000Z",
+      "opponent": "Alberto Lopez",
+      "opponentSlug": "52807-alberto-lopez",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:57:06.559Z"
+}

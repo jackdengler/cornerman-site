@@ -1,0 +1,121 @@
+{
+  "slug": "51119-tyler-clausen",
+  "name": "Tyler Clausen",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1992-09-30",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/51119-tyler-clausen",
+  "recentFights": [
+    {
+      "date": "2016-06-24T00:00:00.000Z",
+      "opponent": "Brad Jones",
+      "opponentSlug": "5821-brad-jones-sensi",
+      "result": "loss",
+      "method": "other",
+      "event": "Bellator 157",
+      "eventSlug": "39194-bellator-157-dynamite-2",
+      "round": 1,
+      "timeInRound": "0:26"
+    },
+    {
+      "date": "2016-03-12T00:00:00.000Z",
+      "opponent": "Matt Helm",
+      "opponentSlug": "103507-matt-helm",
+      "result": "loss",
+      "method": "other",
+      "event": "Shamrock FC",
+      "eventSlug": "38348-shamrock-fc-mayhem",
+      "round": 1,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2014-10-18T00:00:00.000Z",
+      "opponent": "Willie Rose",
+      "opponentSlug": "34593-willie-rose",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-06-07T00:00:00.000Z",
+      "opponent": "Corey Barreiro",
+      "opponentSlug": "38908-corey-barreiro",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-07T00:00:00.000Z",
+      "opponent": "Corey Hauter",
+      "opponentSlug": "46402-corey-hauter",
+      "result": "loss",
+      "method": "sub",
+      "event": "Shamrock FC",
+      "eventSlug": "22276-shamrock-fc-victory",
+      "round": 2,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2013-12-07T00:00:00.000Z",
+      "opponent": "Fred Moore",
+      "opponentSlug": "103254-fred-moore",
+      "result": "win",
+      "method": "other",
+      "event": "Shamrock FC",
+      "eventSlug": "20750-shamrock-fc-invincible",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-08-10T00:00:00.000Z",
+      "opponent": "Aaron Highfill",
+      "opponentSlug": "53046-aaron-highfill",
+      "result": "loss",
+      "method": "tko",
+      "event": "Shamrock FC",
+      "eventSlug": "20107-shamrock-fc-havoc",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-07-13T00:00:00.000Z",
+      "opponent": "Josh Cummings",
+      "opponentSlug": "51120-josh-cummings",
+      "result": "win",
+      "method": "tko",
+      "event": "CCCW 9: Summer Slam 1",
+      "eventSlug": "19554-cccw-summer-slam",
+      "round": 1,
+      "timeInRound": "4:51"
+    },
+    {
+      "date": "2013-06-15T00:00:00.000Z",
+      "opponent": "Joaquin Buckley",
+      "opponentSlug": "55022-joaquin-buckley",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:00:35.503Z"
+}

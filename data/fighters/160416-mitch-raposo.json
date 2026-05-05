@@ -1,0 +1,142 @@
+{
+  "slug": "160416-mitch-raposo",
+  "name": "Mitch Raposo",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": 164,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1998-10-16",
+  "nationality": "Fall River, Massachusetts",
+  "url": "https://www.tapology.com/fightcenter/fighters/160416-mitch-raposo",
+  "recentFights": [
+    {
+      "date": "2026-04-18T00:00:00.000Z",
+      "opponent": "Allan Nascimento",
+      "opponentSlug": "30534-alan-nascimento",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-25T00:00:00.000Z",
+      "opponent": "Azat Maksum",
+      "opponentSlug": "204759-azat-maksum",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 321: Aspinall vs. Gane",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-04-12T00:00:00.000Z",
+      "opponent": "Sumudaerji",
+      "opponentSlug": "130802-sumidaerji",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC 314: Volkanovski vs. Lopes",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-01T00:00:00.000Z",
+      "opponent": "André Lima",
+      "opponentSlug": "129386-andr-lima-mascote",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC 302: Makhachev vs. Poirier",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-01-27T00:00:00.000Z",
+      "opponent": "Justin Valentin",
+      "opponentSlug": "78159-justin-valentin",
+      "result": "win",
+      "method": "tko",
+      "event": "Cage Titans 63",
+      "round": 4,
+      "timeInRound": "3:03"
+    },
+    {
+      "date": "2023-05-27T00:00:00.000Z",
+      "opponent": "Tyler Smythe",
+      "opponentSlug": "251620-tyler-smythe",
+      "result": "win",
+      "method": "tko",
+      "event": "Cage Titans 59",
+      "round": 1,
+      "timeInRound": "0:49"
+    },
+    {
+      "date": "2022-11-17T00:00:00.000Z",
+      "opponent": "Flávio Carvalho",
+      "opponentSlug": "84689-flavio-carvalho",
+      "result": "win",
+      "method": "other",
+      "event": "CES 71: Raposo vs. Carvalho",
+      "round": 2,
+      "timeInRound": "0:19"
+    },
+    {
+      "date": "2022-03-17T00:00:00.000Z",
+      "opponent": "Jay Viola",
+      "opponentSlug": "13492-jay-viola",
+      "result": "win",
+      "method": "sub",
+      "event": "Combat Zone 75",
+      "round": 3,
+      "timeInRound": "4:13"
+    },
+    {
+      "date": "2021-10-12T00:00:00.000Z",
+      "opponent": "Jake Hadley",
+      "opponentSlug": "87298-jake-hadley",
+      "result": "loss",
+      "method": "sub",
+      "event": "Contender Series 2021",
+      "round": 2,
+      "timeInRound": "3:11"
+    },
+    {
+      "date": "2021-04-29T00:00:00.000Z",
+      "opponent": "Liudvik Sholinian",
+      "opponentSlug": "188137-ludwig-sholinyan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "The Ultimate Fighter Season 29",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-10-14T00:00:00.000Z",
+      "opponent": "Matt Almy",
+      "opponentSlug": "28977-matt-almy",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CES 61: Gotti III vs. Alley",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-01-25T00:00:00.000Z",
+      "opponent": "Ron Leon",
+      "opponentSlug": "128078-ronie-leon",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Titans 47",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-16T19:41:47.405Z"
+}

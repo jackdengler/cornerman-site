@@ -1,0 +1,209 @@
+{
+  "slug": "143438-yohan-lainesse",
+  "name": "Yohan Lainesse",
+  "nickname": "White Lion",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 193,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1992-08-14",
+  "nationality": "Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/143438-yohan-lainesse",
+  "recentFights": [
+    {
+      "date": "2026-02-28T00:00:00.000Z",
+      "opponent": "Jordan Mein",
+      "opponentSlug": "jordan-mein-young-guns",
+      "result": "loss",
+      "method": "sub",
+      "event": "Unified MMA 67",
+      "eventSlug": "135634-unified-mma-67",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2025-03-07T00:00:00.000Z",
+      "opponent": "Keanan Patershuk",
+      "opponentSlug": "322491-keanan-patershuck",
+      "result": "win",
+      "method": "other",
+      "event": "Samourai MMA 13",
+      "eventSlug": "122712-samourai-mma-13",
+      "round": 2,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2024-11-15T00:00:00.000Z",
+      "opponent": "Mac Laursen",
+      "opponentSlug": "73041-mac-laursen",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Samourai MMA 12",
+      "eventSlug": "119553-samourai-mma-12-battle-of-the-north",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-01-20T00:00:00.000Z",
+      "opponent": "Sam Patterson",
+      "opponentSlug": "52607-sam-patterson",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC 297: Strickland vs. Du Plessis",
+      "eventSlug": "105840-ufc-297",
+      "round": 1,
+      "timeInRound": "2:03"
+    },
+    {
+      "date": "2023-02-25T00:00:00.000Z",
+      "opponent": "Mike Malott",
+      "opponentSlug": "22740-mike-malott",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "95023-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "4:15"
+    },
+    {
+      "date": "2022-09-10T00:00:00.000Z",
+      "opponent": "Darian Weeks",
+      "opponentSlug": "125166-darian-weeks",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC 279: Diaz vs. Ferguson",
+      "eventSlug": "89492-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-30T00:00:00.000Z",
+      "opponent": "Gabe Green",
+      "opponentSlug": "86242-gabriel-green",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "86142-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "4:02"
+    },
+    {
+      "date": "2021-11-02T00:00:00.000Z",
+      "opponent": "Justin Burlinson",
+      "opponentSlug": "72469-justin-burlinson",
+      "result": "win",
+      "method": "other",
+      "event": "Contender Series 2021",
+      "eventSlug": "81550-contender-series-2021-week-10",
+      "round": 1,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2021-07-03T00:00:00.000Z",
+      "opponent": "Evan Cutts",
+      "opponentSlug": "15452-evan-cutts",
+      "result": "win",
+      "method": "other",
+      "event": "CFFC 98: Cutts vs. Lainesse",
+      "eventSlug": "79658-cffc-98-cutts-vs-lainesse",
+      "round": 2,
+      "timeInRound": "2:17"
+    },
+    {
+      "date": "2021-03-12T00:00:00.000Z",
+      "opponent": "Troy Green",
+      "opponentSlug": "64128-troy-green",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CFFC 93: Huckbody vs. Jeffery",
+      "eventSlug": "76659-cffc-93",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-10-29T00:00:00.000Z",
+      "opponent": "Lenny Rufati",
+      "opponentSlug": "142303-lirim-rufati",
+      "result": "win",
+      "method": "other",
+      "event": "CFFC 86: Mowles vs. Gonzalez",
+      "eventSlug": "73122-cffc-86",
+      "round": 1,
+      "timeInRound": "0:14"
+    },
+    {
+      "date": "2020-08-12T00:00:00.000Z",
+      "opponent": "Connor Dixon",
+      "opponentSlug": "200099-connor-dixon",
+      "result": "win",
+      "method": "other",
+      "event": "CFFC 82",
+      "eventSlug": "71105-cffc-82",
+      "round": 1,
+      "timeInRound": "4:30"
+    },
+    {
+      "date": "2019-04-11T00:00:00.000Z",
+      "opponent": "Bertin Descloux",
+      "opponentSlug": "173827-bertin-descloux",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "TKO 47: Jourdain vs. Lapilus",
+      "eventSlug": "58873-tko-47",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-07T00:00:00.000Z",
+      "opponent": "Sean Meade",
+      "opponentSlug": "120274-sean-meade",
+      "result": "win",
+      "method": "other",
+      "event": "TKO 45: Jourdain Vs Morgan",
+      "eventSlug": "56124-tko-45-jourdain-vs-morgan",
+      "round": 1,
+      "timeInRound": "3:14"
+    },
+    {
+      "date": "2018-08-02T00:00:00.000Z",
+      "opponent": "Yan Jacolin",
+      "opponentSlug": "118867-yan-jacolin",
+      "result": "win",
+      "method": "tko",
+      "event": "TKO Fight Night 1",
+      "eventSlug": "53307-tko-fight-night-1",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2018-03-31T00:00:00.000Z",
+      "opponent": "James Cardinal Lauzon",
+      "opponentSlug": "130227-james-cardinal-lauzon",
+      "result": "win",
+      "method": "other",
+      "event": "Fightquest 42",
+      "eventSlug": "52266-fightquest-42",
+      "round": 1,
+      "timeInRound": "0:21"
+    },
+    {
+      "date": "2016-10-29T00:00:00.000Z",
+      "opponent": "Pierre Patry",
+      "opponentSlug": "123463-pierre-patry",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fightquest 36",
+      "eventSlug": "41995-fightquest-36-kayolo-vs-antsanen",
+      "round": 2,
+      "timeInRound": "1:00"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:05:15.207Z"
+}

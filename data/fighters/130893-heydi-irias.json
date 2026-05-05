@@ -1,0 +1,33 @@
+{
+  "slug": "130893-heydi-irias",
+  "name": "Heydi Irias",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Honduras",
+  "url": "https://www.tapology.com/fightcenter/fighters/130893-heydi-irias",
+  "recentFights": [
+    {
+      "date": "2016-05-07T00:00:00.000Z",
+      "opponent": "Joselyne Edwards",
+      "opponentSlug": "98366-yoselin-edwards",
+      "result": "loss",
+      "method": "other",
+      "event": "UCC 28",
+      "eventSlug": "39025-ucc-28",
+      "round": 2,
+      "timeInRound": "3:45"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:34:14.955Z"
+}

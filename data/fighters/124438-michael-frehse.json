@@ -1,0 +1,59 @@
+{
+  "slug": "124438-michael-frehse",
+  "name": "Michael Frehse",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/124438-michael-frehse",
+  "recentFights": [
+    {
+      "date": "2019-12-14T00:00:00.000Z",
+      "opponent": "Kelton Sneve",
+      "opponentSlug": "213615-kelton-sneve",
+      "result": "loss",
+      "method": "sub",
+      "event": "Warrior Games 8",
+      "eventSlug": "63912-warrior-games-8-winter-spirit",
+      "round": 1,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2019-11-16T00:00:00.000Z",
+      "opponent": "EJ Rowan",
+      "opponentSlug": "137408-ethan-rowan",
+      "result": "win",
+      "method": "sub",
+      "event": "Inner Strength MMA 18",
+      "eventSlug": "64332-inner-strength-mma-18-legacy-lives-on",
+      "round": 1,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2016-09-10T00:00:00.000Z",
+      "opponent": "Jamey Simmons",
+      "opponentSlug": "140010-james-krause-simmons",
+      "result": "loss",
+      "method": "sub",
+      "event": "3 River Throwdown 10",
+      "eventSlug": "40375-3-river-throwdown-10",
+      "round": 2,
+      "timeInRound": "2:22"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:41:55.054Z"
+}

@@ -1,0 +1,143 @@
+{
+  "slug": "267318-baysangur-makaev",
+  "name": "Baysangur Makaev",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 183,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "2000-04-11",
+  "nationality": "Sweden",
+  "url": "https://www.tapology.com/fightcenter/fighters/267318-baysangur-makaev",
+  "recentFights": [
+    {
+      "date": "2026-01-10T00:00:00.000Z",
+      "opponent": "Artūrs Leisāns",
+      "opponentSlug": "148146-arturs-leisans",
+      "result": "win",
+      "method": "sub",
+      "event": "Bazara 0 Fight Club 3",
+      "eventSlug": "137666-bazara-0-fight-club-3",
+      "round": 2,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2025-09-27T00:00:00.000Z",
+      "opponent": "Jefferson Nascimento",
+      "opponentSlug": "239183-jefferson-todynho",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 218: Nascimento vs. Makaev",
+      "eventSlug": "130822-lfa-218",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-24T00:00:00.000Z",
+      "opponent": "Levan Kirtadze",
+      "opponentSlug": "295816-levan-kirtadze",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FCR 24",
+      "eventSlug": "125819-fcr-x-bob",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-30T00:00:00.000Z",
+      "opponent": "Alessandro Capone",
+      "opponentSlug": "201703-alessandro-capone",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FCR 22",
+      "eventSlug": "113173-fcr-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-01T00:00:00.000Z",
+      "opponent": "Waltteri Hakkinen",
+      "opponentSlug": "170312-waltteri-hkkinen",
+      "result": "win",
+      "method": "sub",
+      "event": "FCR 20: Harila vs. Kirtadze",
+      "eventSlug": "110853-fcr-20-harila-vs-raza",
+      "round": 3,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2024-02-24T00:00:00.000Z",
+      "opponent": "Erik Wahrolen",
+      "opponentSlug": "267312-erik-wahrolen",
+      "result": "win",
+      "method": "other",
+      "event": "FCR 19: Grönvall vs. Sosa",
+      "eventSlug": "107921-fcr-19",
+      "round": 2,
+      "timeInRound": "1:09"
+    },
+    {
+      "date": "2023-09-30T00:00:00.000Z",
+      "opponent": "Moha Jaghdal",
+      "opponentSlug": "183068-mohamed-el-jaghdal",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "AFN 3",
+      "eventSlug": "102885-afn-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-03T00:00:00.000Z",
+      "opponent": "Grzegorz Szozda",
+      "opponentSlug": "78910-grzegorz-szozda",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FCR 16",
+      "eventSlug": "99269-fcr-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-26T00:00:00.000Z",
+      "opponent": "Paweł Szumlas",
+      "opponentSlug": "167820-pawe-szumlas",
+      "result": "win",
+      "method": "other",
+      "event": "FCR 14",
+      "eventSlug": "94992-fcr-14",
+      "round": 1,
+      "timeInRound": "4:02"
+    },
+    {
+      "date": "2021-10-02T00:00:00.000Z",
+      "opponent": "Samuel Bark",
+      "opponentSlug": "229953-samuel-bark-sammon-decker",
+      "result": "loss",
+      "method": "other",
+      "event": "Wolf Fight Promotion 3",
+      "eventSlug": "82501-wolf-fight-promotion-3",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-08-01T00:00:00.000Z",
+      "opponent": "Jakob Valegren",
+      "opponentSlug": "196428-jakob-valegren",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Brave CF 37",
+      "eventSlug": "70957-brave-cf-37",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:05:28.901Z"
+}

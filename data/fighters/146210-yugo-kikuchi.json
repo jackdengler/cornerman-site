@@ -1,0 +1,125 @@
+{
+  "slug": "146210-yugo-kikuchi",
+  "name": "Yugo Kikuchi",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 5,
+    "losses": 4,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Japan",
+  "url": "https://www.tapology.com/fightcenter/fighters/146210-yugo-kikuchi",
+  "recentFights": [
+    {
+      "date": "2019-10-27T00:00:00.000Z",
+      "opponent": "Ryuhei Sakai",
+      "opponentSlug": "58214-ryuhei-sakai",
+      "result": "loss",
+      "method": "tko",
+      "event": "THE OUTSIDER 54",
+      "eventSlug": "62912-the-outsider-54-awakening-kyushu-tournament",
+      "round": 2,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2019-10-27T00:00:00.000Z",
+      "opponent": "Kazuho Ikeda",
+      "opponentSlug": "83449-kazuho",
+      "result": "win",
+      "method": "dec-split",
+      "event": "THE OUTSIDER 54",
+      "eventSlug": "62912-the-outsider-54-awakening-kyushu-tournament",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-02T00:00:00.000Z",
+      "opponent": "Hideyoshi Katayama",
+      "opponentSlug": "143641-hideyoshi-katayama",
+      "result": "loss",
+      "method": "other",
+      "event": "THE OUTSIDER 52",
+      "eventSlug": "60253-the-outsider-52",
+      "round": 1,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2018-02-24T00:00:00.000Z",
+      "opponent": "Ryota Kitamura",
+      "opponentSlug": "142781-ryota-kitamura",
+      "result": "loss",
+      "method": "sub",
+      "event": "THE OUTSIDER 49",
+      "eventSlug": "49836-the-outsider-49",
+      "round": 1,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2017-09-16T00:00:00.000Z",
+      "opponent": "Hiroto Inoue",
+      "opponentSlug": "166079-hiroto-inoue",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Shooto: Kitakyushu Free Fight",
+      "eventSlug": "48095-kitakyushu-free-fight",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-16T00:00:00.000Z",
+      "opponent": "Daiki Tanida",
+      "opponentSlug": "166052-daiki-tanida",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shooto: Kitakyushu Free Fight",
+      "eventSlug": "48095-kitakyushu-free-fight",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-17T00:00:00.000Z",
+      "opponent": "Tatsuro Taira",
+      "opponentSlug": "145595-tatsuro-taira",
+      "result": "loss",
+      "method": "other",
+      "event": "11th Kyushu Amateur Shooto Championship Tournament",
+      "eventSlug": "46199-11th-kyushu-amateur-shooto-championship-tournament",
+      "round": 1,
+      "timeInRound": "3:44"
+    },
+    {
+      "date": "2016-11-20T00:00:00.000Z",
+      "opponent": "Gaiya Uchida",
+      "opponentSlug": "131336-gaiya-uchida",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Kitakyushu Free Fight",
+      "eventSlug": "43240-kitakyushu-free-fight",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-20T00:00:00.000Z",
+      "opponent": "Taiki Ishita",
+      "opponentSlug": "146196-taiki-ishita",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Kitakyushu Free Fight",
+      "eventSlug": "43240-kitakyushu-free-fight",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T22:59:40.636Z"
+}

@@ -1,0 +1,242 @@
+{
+  "slug": "78343-ashley-deen",
+  "name": "Ashley Deen",
+  "nickname": "Cookie",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": 173,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1989-07-18",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/78343-ashley-deen",
+  "recentFights": [
+    {
+      "date": "2026-02-07T00:00:00.000Z",
+      "opponent": "Jenna Williams",
+      "opponentSlug": "235819-jenna-williams",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "RUF 66: MMA At Its Best",
+      "eventSlug": "136020-ruf-66-love-n-combat",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-10-25T00:00:00.000Z",
+      "opponent": "Melissa Croden",
+      "opponentSlug": "140510-melissa-croden",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 195: Wetzell vs. Usmonov",
+      "eventSlug": "117127-lfa-195",
+      "round": 2,
+      "timeInRound": "0:22"
+    },
+    {
+      "date": "2023-10-07T00:00:00.000Z",
+      "opponent": "Calie Cutler",
+      "opponentSlug": "69194-cali-cutler",
+      "result": "win",
+      "method": "sub",
+      "event": "Battle MMA Championships 10",
+      "eventSlug": "100374-battle-mma-championships-10",
+      "round": 1,
+      "timeInRound": "3:51"
+    },
+    {
+      "date": "2023-02-25T00:00:00.000Z",
+      "opponent": "Gloria Grachanin",
+      "opponentSlug": "202472-gloria-grachanin",
+      "result": "win",
+      "method": "tko",
+      "event": "Battle MMA Championships 7",
+      "eventSlug": "94909-battle-mma-championships-7",
+      "round": 3,
+      "timeInRound": "4:54"
+    },
+    {
+      "date": "2022-06-18T00:00:00.000Z",
+      "opponent": "Helen Lucero",
+      "opponentSlug": "120121-helen-lucero",
+      "result": "win",
+      "method": "sub",
+      "event": "Battle MMA Championships 3",
+      "eventSlug": "87879-battle-mma-championships-3",
+      "round": 1,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2021-03-12T00:00:00.000Z",
+      "opponent": "Jasmine Jasudavicius",
+      "opponentSlug": "171056-jasmine-jasdavicious",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "CFFC 93: Huckbody vs. Jeffery",
+      "eventSlug": "76659-cffc-93",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-12T00:00:00.000Z",
+      "opponent": "Taylor Turner",
+      "opponentSlug": "92396-taylor-miller",
+      "result": "win",
+      "method": "sub",
+      "event": "Valor Fighting Challenge 73",
+      "eventSlug": "71541-valor-fighting-challenge-73",
+      "round": 2,
+      "timeInRound": "4:28"
+    },
+    {
+      "date": "2019-01-18T00:00:00.000Z",
+      "opponent": "Salina Rowland",
+      "opponentSlug": "106083-salina-rowland",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 57: Zalal vs. Mariscal",
+      "eventSlug": "57206-lfa-57-zalal-vs-mariscal",
+      "round": 2,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2018-08-25T00:00:00.000Z",
+      "opponent": "Julia Avila",
+      "opponentSlug": "37072-julia-avila",
+      "result": "loss",
+      "method": "other",
+      "event": "HD MMA 13",
+      "eventSlug": "54267-hd-mma-13",
+      "round": 1,
+      "timeInRound": "2:08"
+    },
+    {
+      "date": "2018-01-19T00:00:00.000Z",
+      "opponent": "Sarah Howell",
+      "opponentSlug": "140271-sarah-howell",
+      "result": "loss",
+      "method": "other",
+      "event": "Front Street Fights 15",
+      "eventSlug": "49820-front-street-fights-15",
+      "round": 3,
+      "timeInRound": "4:34"
+    },
+    {
+      "date": "2017-06-17T00:00:00.000Z",
+      "opponent": "Jennah Macallister",
+      "opponentSlug": "69702-jenna-macallister",
+      "result": "win",
+      "method": "sub",
+      "event": "SCL 59: Rampage",
+      "eventSlug": "45935-scl-rampage",
+      "round": 1,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2017-01-28T00:00:00.000Z",
+      "opponent": "Shannon Sinn",
+      "opponentSlug": "16758-shannon-culpepper",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "SCL 57: Dynamite",
+      "eventSlug": "43947-scl-57-dynamite",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-09T00:00:00.000Z",
+      "opponent": "Kaytlin Neil",
+      "opponentSlug": "55797-kaytlin-neil",
+      "result": "win",
+      "method": "tko",
+      "event": "Front Street Fights 10",
+      "eventSlug": "43135-front-street-fights-10",
+      "round": 1,
+      "timeInRound": "4:07"
+    },
+    {
+      "date": "2016-10-15T00:00:00.000Z",
+      "opponent": "Melissa Myers",
+      "opponentSlug": "46444-melissa-myers",
+      "result": "win",
+      "method": "other",
+      "event": "SCL 53",
+      "eventSlug": "42224-scl-53",
+      "round": 2,
+      "timeInRound": "2:44"
+    },
+    {
+      "date": "2016-02-13T00:00:00.000Z",
+      "opponent": "Veta Arteaga",
+      "opponentSlug": "73108-veta-arteaga",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Front Street Fights 8",
+      "eventSlug": "38410-front-street-fights-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-01-17T00:00:00.000Z",
+      "opponent": "Sharon Jacobson",
+      "opponentSlug": "41413-sharon-jacobsen",
+      "result": "loss",
+      "method": "tko",
+      "event": "NMEF Annihilation 53",
+      "eventSlug": "28831-nmef-annihilation-53",
+      "round": 1,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2014-09-13T00:00:00.000Z",
+      "opponent": "Heather Smith",
+      "opponentSlug": "53688-heather-smith",
+      "result": "win",
+      "method": "other",
+      "event": "NMEF Annihilation 52",
+      "eventSlug": "26249-nmef-annihilation-52",
+      "round": 1,
+      "timeInRound": "2:21"
+    },
+    {
+      "date": "2012-08-24T00:00:00.000Z",
+      "opponent": "Vallie Rae Mead",
+      "opponentSlug": "15648-vallie-rae-mead",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-06-30T00:00:00.000Z",
+      "opponent": "Staci Vega",
+      "opponentSlug": "28413-stacey-vega",
+      "result": "win",
+      "method": "sub",
+      "event": "Medieval FP",
+      "eventSlug": "16119-medieval-fp-resurrection",
+      "round": 3,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2012-02-11T00:00:00.000Z",
+      "opponent": "Viviana Terrazas",
+      "opponentSlug": "164524-viviana-terrazas",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:09:48.695Z"
+}

@@ -1,0 +1,176 @@
+{
+  "slug": "66464-soufian-bougamoun",
+  "name": "Sofian Bougamoun",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1987-10-28",
+  "nationality": "France",
+  "url": "https://www.tapology.com/fightcenter/fighters/66464-soufian-bougamoun",
+  "recentFights": [
+    {
+      "date": "2022-08-28T00:00:00.000Z",
+      "opponent": "Abdelghani Saber",
+      "opponentSlug": "244445-abdelghani-saber",
+      "result": "loss",
+      "method": "dec-majority",
+      "event": "Hexagone MMA 4",
+      "eventSlug": "91940-hexagone-mma-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-26T00:00:00.000Z",
+      "opponent": "Brice Picaud",
+      "opponentSlug": "166804-brice-picaud",
+      "result": "win",
+      "method": "other",
+      "event": "Hexagone MMA 3",
+      "eventSlug": "86860-hexagone-mma-3",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2021-10-29T00:00:00.000Z",
+      "opponent": "David Tonatiuh Crol",
+      "opponentSlug": "117505-david-tonatiuh-crol",
+      "result": "win",
+      "method": "dec-split",
+      "event": "100% Fight 44",
+      "eventSlug": "82445-100-fight-44",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-12T00:00:00.000Z",
+      "opponent": "Nicolas Di Franco",
+      "opponentSlug": "90914-nicolas-di-franco",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "European Beatdown 7",
+      "eventSlug": "63283-european-beatdown-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-09T00:00:00.000Z",
+      "opponent": "Brice Picaud",
+      "opponentSlug": "166804-brice-picaud",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "100% Fight 38",
+      "eventSlug": "57629-100-fight-40",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-01-18T00:00:00.000Z",
+      "opponent": "Cosmin Tutu",
+      "opponentSlug": "104720-cosmin-tutu",
+      "result": "loss",
+      "method": "sub",
+      "event": "100% Fight 33",
+      "eventSlug": "50294-100-fight-33",
+      "round": 1,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2017-05-20T00:00:00.000Z",
+      "opponent": "Lasha Jiquiri",
+      "opponentSlug": "115660-lasha-jiquiri",
+      "result": "win",
+      "method": "tko",
+      "event": "100% Fight 31",
+      "eventSlug": "45756-100-fight-31",
+      "round": 2,
+      "timeInRound": "3:22"
+    },
+    {
+      "date": "2017-03-17T00:00:00.000Z",
+      "opponent": "Damien Peltier",
+      "opponentSlug": "95228-damien-peltier",
+      "result": "win",
+      "method": "sub",
+      "event": "100% Fight 29",
+      "eventSlug": "44541-100-fight-29",
+      "round": 1,
+      "timeInRound": "3:47"
+    },
+    {
+      "date": "2016-11-26T00:00:00.000Z",
+      "opponent": "William Gomis",
+      "opponentSlug": "125696-william-gomis",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "100% Fight: Contenders 33",
+      "eventSlug": "42737-100-fight-contenders-33",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-14T00:00:00.000Z",
+      "opponent": "Zackaria Guezzar",
+      "opponentSlug": "116896-zackaria-guezzar",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "100% Fight 28",
+      "eventSlug": "39625-100-fight-28-fight-for-the-belts",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-02-27T00:00:00.000Z",
+      "opponent": "Ludovic Galle",
+      "opponentSlug": "126597-ludovic-galle",
+      "result": "win",
+      "method": "sub",
+      "event": "100% Fight: Contenders 31",
+      "eventSlug": "37741-100-fight-contenders-31",
+      "round": 1,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2014-12-06T00:00:00.000Z",
+      "opponent": "Amir Fnaiech",
+      "opponentSlug": "100833-amir-fnaiech",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-29T00:00:00.000Z",
+      "opponent": "Fabian Tomasini",
+      "opponentSlug": "66463-fabian-tomasini",
+      "result": "win",
+      "method": "dec-split",
+      "event": "MMA Berlin Tournament 37",
+      "eventSlug": "23525-mma-berlin-tournament-37",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-03-23T00:00:00.000Z",
+      "opponent": "Mike Engel",
+      "opponentSlug": "59447-mike-engel",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:55:28.512Z"
+}

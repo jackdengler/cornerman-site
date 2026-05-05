@@ -1,0 +1,187 @@
+{
+  "slug": "193701-chuck-campbell",
+  "name": "Chuck Campbell",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 193,
+  "reachCm": 199,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/193701-chuck-campbell",
+  "recentFights": [
+    {
+      "date": "2026-06-13T00:00:00.000Z",
+      "opponent": "Kyle Clark",
+      "opponentSlug": "340442-kyle-clark",
+      "result": null,
+      "method": "other",
+      "event": "Fight Night 5",
+      "eventSlug": "142557-fight-night-5-san-jose",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-12-13T00:00:00.000Z",
+      "opponent": "Kyle Clark",
+      "opponentSlug": "340442-kyle-clark",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Fight Night 4",
+      "eventSlug": "134770-fight-night-4-san-jose",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-30T00:00:00.000Z",
+      "opponent": "Karl Albrektsson",
+      "opponentSlug": "56069-karl-albrektsson",
+      "result": "win",
+      "method": "other",
+      "event": "Superior Challenge 27",
+      "eventSlug": "119167-superior-academy-2",
+      "round": 2,
+      "timeInRound": "3:13"
+    },
+    {
+      "date": "2024-05-18T00:00:00.000Z",
+      "opponent": "AT McCowin",
+      "opponentSlug": "125865-at-mccowin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fight Night at the Tech 1",
+      "eventSlug": "111531-fight-night-at-the-tech-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-08T00:00:00.000Z",
+      "opponent": "Ozzy Diaz",
+      "opponentSlug": "61676-ozzy-diaz",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 178: Satybaldiev vs. Assis",
+      "eventSlug": "109363-legacy-fighting-alliance-178-lfa-178",
+      "round": 1,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2023-08-26T00:00:00.000Z",
+      "opponent": "Jared Vanderaa",
+      "opponentSlug": "33826-jared-vanderaa",
+      "result": "win",
+      "method": "tko",
+      "event": "LXF 10",
+      "eventSlug": "103738-lxf-10",
+      "round": 3,
+      "timeInRound": "4:34"
+    },
+    {
+      "date": "2023-08-04T00:00:00.000Z",
+      "opponent": "Billy Elekana",
+      "opponentSlug": "152109-billy-elekana",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "PFL 7: 2023 Playoffs",
+      "eventSlug": "101462-pfl-2023-playoffs",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-31T00:00:00.000Z",
+      "opponent": "Modestas Bukauskas",
+      "opponentSlug": "85433-modestas-bukauskas",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 148",
+      "eventSlug": "94496-cage-warriors-148",
+      "round": 4,
+      "timeInRound": "0:22"
+    },
+    {
+      "date": "2022-11-12T00:00:00.000Z",
+      "opponent": "Andy Clamp",
+      "opponentSlug": "43582-andrew-clamp",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 146",
+      "eventSlug": "92600-cage-warriors-146",
+      "round": 1,
+      "timeInRound": "4:34"
+    },
+    {
+      "date": "2022-07-31T00:00:00.000Z",
+      "opponent": "Trey Williams",
+      "opponentSlug": "39559-trey-williams",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Urijah Faber's A1 Combat 4",
+      "eventSlug": "89972-urijah-faber-s-a1-combat-4-stockton",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-01T00:00:00.000Z",
+      "opponent": "Jairo Chavez",
+      "opponentSlug": "161259-jairo-chavez-the-new-breed",
+      "result": "nc",
+      "method": "other",
+      "event": "Urijah Faber's A1 Combat 1",
+      "eventSlug": "87810-urijah-faber-s-a1-combat-1-tofoya-vs-duffy",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-04T00:00:00.000Z",
+      "opponent": "Elijah Harris",
+      "opponentSlug": "69726-elijah-harris",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 133",
+      "eventSlug": "85629-cage-warriors-133",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-08T00:00:00.000Z",
+      "opponent": "Tyree Fortune",
+      "opponentSlug": "40296-tyree-fortune-x-man",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Bellator 233",
+      "eventSlug": "62512-bellator-233-salter-vs-van-steenis",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-27T00:00:00.000Z",
+      "opponent": "Bruno Casillas",
+      "opponentSlug": "47878-bruno-casillas",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 220",
+      "eventSlug": "58028-bellator",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2018-09-29T00:00:00.000Z",
+      "opponent": "Joseph Ramirez",
+      "opponentSlug": "86227-joseph-ramirez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bellator 206",
+      "eventSlug": "53925-bellator-mousasi-vs-macdonald",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:02:22.404Z"
+}

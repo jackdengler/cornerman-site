@@ -1,0 +1,132 @@
+{
+  "slug": "272784-miljan-djukanovic",
+  "name": "Miljan Djukanovic",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1995-05-22",
+  "nationality": "Serbia",
+  "url": "https://www.tapology.com/fightcenter/fighters/272784-miljan-djukanovic",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Noah Gasho",
+      "opponentSlug": "348174-noah-gasho",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 231: Lozej vs. Ibarra",
+      "eventSlug": "140675-lfa-231-trembley-vs-johns",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-25T00:00:00.000Z",
+      "opponent": "Nico Jefferson",
+      "opponentSlug": "54065-nico-jefferson",
+      "result": "win",
+      "method": "sub",
+      "event": "Absolute Combat League 8",
+      "eventSlug": "132143-absolute-combat-league-8",
+      "round": 1,
+      "timeInRound": "4:00"
+    },
+    {
+      "date": "2025-01-04T00:00:00.000Z",
+      "opponent": "Orell Fisher",
+      "opponentSlug": "59720-orell-fisher",
+      "result": "win",
+      "method": "sub",
+      "event": "Absolute Combat League 6",
+      "eventSlug": "120564-absolute-combat-league-6",
+      "round": 2,
+      "timeInRound": "3:48"
+    },
+    {
+      "date": "2023-06-09T00:00:00.000Z",
+      "opponent": "Adan Gabriel",
+      "opponentSlug": "193582-adan-gabriel",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "DCS 86: Summer Kickoff 2023",
+      "eventSlug": "100941-dcs-85-summer-kickoff-2023",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-23T00:00:00.000Z",
+      "opponent": "Steve Collins",
+      "opponentSlug": "307378-steve-collins",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Compass Fight Series 1",
+      "eventSlug": "88513-compass-fight-series-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-01T00:00:00.000Z",
+      "opponent": "Kole Gray",
+      "opponentSlug": "288519-kole-gray",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "DCS 75: The Tribute 2021",
+      "eventSlug": "82604-dcs-75-never-give-up",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-26T00:00:00.000Z",
+      "opponent": "Alan Silva Jr.",
+      "opponentSlug": "277364-alan-silva-jr",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MCC 65: The Return",
+      "eventSlug": "79612-mcc-65-the-return",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-15T00:00:00.000Z",
+      "opponent": "JohnMark Reddick",
+      "opponentSlug": "294674-johnmark-reddick",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "DCS 70: Spring Brawl",
+      "eventSlug": "78258-dcs-70-spring-brawl",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-13T00:00:00.000Z",
+      "opponent": "Eric Belvine",
+      "opponentSlug": "234775-eric-belvine",
+      "result": "win",
+      "method": "other",
+      "event": "DCS 69: St. Patty's Showdown",
+      "eventSlug": "77339-dcs-69-st-patty-s-showdown",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2020-09-11T00:00:00.000Z",
+      "opponent": "Jene Zarbano",
+      "opponentSlug": "226821-jene-zarbano",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Caged Aggression 27",
+      "eventSlug": "71094-caged-aggression-26-return-of-the-champions-day-1",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:59:55.354Z"
+}

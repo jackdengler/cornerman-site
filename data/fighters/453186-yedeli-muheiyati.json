@@ -1,0 +1,121 @@
+{
+  "slug": "453186-yedeli-muheiyati",
+  "name": "Yedeli Muheiyati",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": 177,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "China",
+  "url": "https://www.tapology.com/fightcenter/fighters/453186-yedeli-muheiyati",
+  "recentFights": [
+    {
+      "date": "2026-03-14T00:00:00.000Z",
+      "opponent": "Zhi Yang",
+      "opponentSlug": "276472-zhi-yang",
+      "result": "win",
+      "method": "other",
+      "event": "JCK Fight Night 116",
+      "eventSlug": "139400-jck-fight-night-116",
+      "round": 2,
+      "timeInRound": "4:31"
+    },
+    {
+      "date": "2025-10-11T00:00:00.000Z",
+      "opponent": "Qiumuergu",
+      "opponentSlug": "305578-adi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "JCK Fight Night 107",
+      "eventSlug": "133574-jck-fight-night-107",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-08-09T00:00:00.000Z",
+      "opponent": "Buhuoaga",
+      "opponentSlug": "391387-buhuoaxia",
+      "result": "win",
+      "method": "other",
+      "event": "JCK Fight Night 103",
+      "eventSlug": "131037-jck-fight-night-103",
+      "round": 1,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2025-04-12T00:00:00.000Z",
+      "opponent": "Hongji Li",
+      "opponentSlug": "269380-hongji-li-m416",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "JCK Fight Night 97",
+      "eventSlug": "125134-jck-fight-night-97",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-12-31T00:00:00.000Z",
+      "opponent": "Lianzhayebu",
+      "opponentSlug": "341207-lianzhayebu",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "China King of Combat Gold Belt Competition",
+      "eventSlug": "122384-china-king-of-combat-gold-belt-competition-day-two",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-02T00:00:00.000Z",
+      "opponent": "Tuolie Bahetijiang",
+      "opponentSlug": "366426-tuolie-bahetijiang",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "JCK Fight Night 94",
+      "eventSlug": "119452-jck-fight-night-94",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-02T00:00:00.000Z",
+      "opponent": "Jiankang Yang",
+      "opponentSlug": "465780-jiankang-yang",
+      "result": "win",
+      "method": "other",
+      "event": "JCK Fight Night 94",
+      "eventSlug": "119452-jck-fight-night-94",
+      "round": 1,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2024-08-10T00:00:00.000Z",
+      "opponent": "Yermakhan Oryntaev",
+      "opponentSlug": "361593-yermakhan-oryntaev",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shui Combat 1",
+      "eventSlug": "116416-shui-combat",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-22T00:00:00.000Z",
+      "opponent": "Gexipengchu",
+      "opponentSlug": "297829-pengchu-gexi",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "WLF MMA 70",
+      "eventSlug": "107597-wlf-mma-70",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:43:44.263Z"
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "194795-denis-gvozdev",
+  "name": "Denis Gvozdev",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Barysaw, Belarus",
+  "url": "https://www.tapology.com/fightcenter/fighters/194795-denis-gvozdev",
+  "recentFights": [
+    {
+      "date": "2023-01-20T00:00:00.000Z",
+      "opponent": "Dmitriy Shevorakov",
+      "opponentSlug": "82384-dmitry-shevorakov",
+      "result": "loss",
+      "method": "tko",
+      "event": "AMC Fight Nights 117",
+      "eventSlug": "97500-amc-fight-nights-117",
+      "round": 1,
+      "timeInRound": "0:48"
+    },
+    {
+      "date": "2021-07-29T00:00:00.000Z",
+      "opponent": "Magomed Gadzhiyasulov",
+      "opponentSlug": "163804-magomed-gadzhiyasulov",
+      "result": "loss",
+      "method": "other",
+      "event": "BFC: Contender Series 7",
+      "eventSlug": "81441-bfc-contender-series-7",
+      "round": 1,
+      "timeInRound": "0:32"
+    },
+    {
+      "date": "2020-10-24T00:00:00.000Z",
+      "opponent": "Shamil Gaziev",
+      "opponentSlug": "201352-shamil-gaziev",
+      "result": "loss",
+      "method": "other",
+      "event": "BFC 63",
+      "eventSlug": "73307-bfc-63",
+      "round": 1,
+      "timeInRound": "0:23"
+    },
+    {
+      "date": "2016-12-17T00:00:00.000Z",
+      "opponent": "Ivan Kulakov",
+      "opponentSlug": "95038-ivan-kulakov",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-04T00:00:00.000Z",
+      "opponent": "Rashid Sataev",
+      "opponentSlug": "194794-rashid-sataev",
+      "result": "win",
+      "method": "sub",
+      "event": "Golden Battles 2",
+      "eventSlug": "50984-golden-battles-2",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:55:39.287Z"
+}

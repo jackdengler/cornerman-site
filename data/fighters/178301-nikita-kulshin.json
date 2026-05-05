@@ -1,0 +1,187 @@
+{
+  "slug": "178301-nikita-kulshin",
+  "name": "Nikita Kulshin",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 178,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "2000-03-17",
+  "nationality": "Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/178301-nikita-kulshin",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Junior Melo",
+      "opponentSlug": "121289-jose-cleiton-de-melo-junior-melo",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 231: Lozej vs. Ibarra",
+      "eventSlug": "140675-lfa-231-trembley-vs-johns",
+      "round": 1,
+      "timeInRound": "0:36"
+    },
+    {
+      "date": "2025-09-12T00:00:00.000Z",
+      "opponent": "Bobby Lee",
+      "opponentSlug": "107233-bobby-lee",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 217: McKee vs. Nobre",
+      "eventSlug": "130821-lfa-217",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-04-18T00:00:00.000Z",
+      "opponent": "Rudson Caliocane",
+      "opponentSlug": "44071-rudson-caliocane",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 207: Lewis vs. Miranda",
+      "eventSlug": "124521-lfa-207",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-26T00:00:00.000Z",
+      "opponent": "Cedric Gunnison",
+      "opponentSlug": "126830-cedric-gunnison",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 182: McKee vs. Hernandez",
+      "eventSlug": "110761-lfa-182",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-17T00:00:00.000Z",
+      "opponent": "Juliano Prescendo",
+      "opponentSlug": "100563-juliano-prescendo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 172: Davis vs. Chapolin",
+      "eventSlug": "106248-lfa-172-davis-vs-chapolin",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-04-14T00:00:00.000Z",
+      "opponent": "Geovani Cruz",
+      "opponentSlug": "73227-geovani-cruz",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 156: Fuller vs. Waters",
+      "eventSlug": "98557-lfa-156-fuller-vs-waters",
+      "round": 1,
+      "timeInRound": "0:17"
+    },
+    {
+      "date": "2021-10-11T00:00:00.000Z",
+      "opponent": "Sarkhan Guliev",
+      "opponentSlug": "311745-sarkhan-guliev",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ACA Young Eagles 21",
+      "eventSlug": "83310-aca-young-eagles-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-22T00:00:00.000Z",
+      "opponent": "Azamat Tapaskhanov",
+      "opponentSlug": "294733-azamat-tapaskhanov",
+      "result": "win",
+      "method": "sub",
+      "event": "Open Fighting Championship 4",
+      "eventSlug": "77670-open-fighting-championship-4",
+      "round": 1,
+      "timeInRound": "2:08"
+    },
+    {
+      "date": "2020-11-14T00:00:00.000Z",
+      "opponent": "Abubakar Temirgereev",
+      "opponentSlug": "276926-abubakar-temirgereev",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ACA Young Eagles 14",
+      "eventSlug": "73640-aca-young-eagles-14",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-14T00:00:00.000Z",
+      "opponent": "Emil Piatek",
+      "opponentSlug": "127153-emil-piatek",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64428-immaf-wmmaa-amateur-world-championships-2019-day-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-13T00:00:00.000Z",
+      "opponent": "Doszhan Kenzhebaev",
+      "opponentSlug": "204542-doszhan-kenzhebaev",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64319-immaf-wmmaa-amateur-world-championships-2019",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-12T00:00:00.000Z",
+      "opponent": "Peter Gabal",
+      "opponentSlug": "159072-peter-gabal",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64318-immaf-wmmaa-amateur-world-championships-2019-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-11T00:00:00.000Z",
+      "opponent": "Righard Burger",
+      "opponentSlug": "112521-richard-burger",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64317-immaf-wmmaa-amateur-world-championships-2019",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-14T00:00:00.000Z",
+      "opponent": "Radzhab Shamilov",
+      "opponentSlug": "219690-radzhab-shamilov",
+      "result": "win",
+      "method": "other",
+      "event": "Russian MMA Championship Of Juniors 2019",
+      "eventSlug": "50646-russian-amateur-mma-championship-2016",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-02-10T00:00:00.000Z",
+      "opponent": "Georgy Tskhovrebov",
+      "opponentSlug": "178302-giorgiy-tskhovrebov",
+      "result": "win",
+      "method": "other",
+      "event": "Cup Of Alania 2018",
+      "eventSlug": "50858-cup-of-alania-2018",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:59:33.056Z"
+}

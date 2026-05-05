@@ -1,0 +1,209 @@
+{
+  "slug": "361797-murtazali-magomedov",
+  "name": "Murtazali Magomedov",
+  "nickname": "The Highlight",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 179,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1999-08-08",
+  "nationality": "Bishkek, Kyrgyzstan",
+  "url": "https://www.tapology.com/fightcenter/fighters/361797-murtazali-magomedov",
+  "recentFights": [
+    {
+      "date": "2025-09-23T00:00:00.000Z",
+      "opponent": "Brahyam Zurcher",
+      "opponentSlug": "98826-bryhayn-zurcher",
+      "result": "win",
+      "method": "other",
+      "event": "Contender Series 2025",
+      "eventSlug": "128464-contender-series-2025-week-7",
+      "round": 1,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2024-12-06T00:00:00.000Z",
+      "opponent": "Claudeci Brito",
+      "opponentSlug": "163588-claudeci-brito-clau",
+      "result": "win",
+      "method": "other",
+      "event": "Octagon 67: Magomedov vs. Brito",
+      "eventSlug": "120836-octagon-67",
+      "round": 2,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2024-06-23T00:00:00.000Z",
+      "opponent": "Sardor Khudoyberdiev",
+      "opponentSlug": "204036-sirdor-khudobirdiev",
+      "result": "win",
+      "method": "sub",
+      "event": "Octagon 59",
+      "eventSlug": "114128-octagon-59",
+      "round": 2,
+      "timeInRound": "3:48"
+    },
+    {
+      "date": "2024-02-16T00:00:00.000Z",
+      "opponent": "Beksultan Taalay uulu",
+      "opponentSlug": "257706-beksultan-taalay-uulu",
+      "result": "win",
+      "method": "sub",
+      "event": "Octagon 55",
+      "eventSlug": "109817-octagon-55",
+      "round": 1,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2023-11-18T00:00:00.000Z",
+      "opponent": "Ulan Tamgabaev",
+      "opponentSlug": "198667-ulan-tamgabaev-tamgabaev",
+      "result": "win",
+      "method": "sub",
+      "event": "Octagon 52: Shutova vs. Tursyn",
+      "eventSlug": "107119-octagon-52",
+      "round": 3,
+      "timeInRound": "2:04"
+    },
+    {
+      "date": "2023-08-18T00:00:00.000Z",
+      "opponent": "Elnar Ibragimov",
+      "opponentSlug": "84893-elnar-ibragimov",
+      "result": "win",
+      "method": "other",
+      "event": "Octagon 48: Nabiev vs. Boltaev",
+      "eventSlug": "103494-octagon-48",
+      "round": 1,
+      "timeInRound": "0:33"
+    },
+    {
+      "date": "2022-12-23T00:00:00.000Z",
+      "opponent": "Kubat Kulmatov",
+      "opponentSlug": "176154-kubat-kulmatov",
+      "result": "win",
+      "method": "other",
+      "event": "WEF Selection 43",
+      "eventSlug": "96032-wef-selection-42",
+      "round": 1,
+      "timeInRound": "1:33"
+    },
+    {
+      "date": "2022-11-16T00:00:00.000Z",
+      "opponent": "Azhibay Musabaev",
+      "opponentSlug": "250308-azhibay-musabaev",
+      "result": "win",
+      "method": "other",
+      "event": "WEF Selection 42",
+      "eventSlug": "93574-wef-selection-grand-prix-66kg",
+      "round": 3,
+      "timeInRound": "3:14"
+    },
+    {
+      "date": "2022-11-16T00:00:00.000Z",
+      "opponent": "Zhoomart Maksatbekov",
+      "opponentSlug": "230891-zhoomart-maksatbek-uulu",
+      "result": "win",
+      "method": "sub",
+      "event": "WEF Selection 42",
+      "eventSlug": "93574-wef-selection-grand-prix-66kg",
+      "round": 1,
+      "timeInRound": "3:31"
+    },
+    {
+      "date": "2022-11-16T00:00:00.000Z",
+      "opponent": "Beknazar Emilbek uulu",
+      "opponentSlug": "353247-beknazar-emilbek-uulu",
+      "result": "win",
+      "method": "sub",
+      "event": "WEF Selection 42",
+      "eventSlug": "93574-wef-selection-grand-prix-66kg",
+      "round": 1,
+      "timeInRound": "3:25"
+    },
+    {
+      "date": "2022-03-27T00:00:00.000Z",
+      "opponent": "Kevin Kophamel",
+      "opponentSlug": "246100-kevin-kophamel",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "88080-gamma-world-championships-day-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-26T00:00:00.000Z",
+      "opponent": "Danny Buwalda",
+      "opponentSlug": "183499-danny-buwalda",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "88079-gamma-world-mma-championships-2021-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-25T00:00:00.000Z",
+      "opponent": "Tomáš Mudroch",
+      "opponentSlug": "266708-tomasz-mudroch",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "88078-gamma-world-championships-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-25T00:00:00.000Z",
+      "opponent": "Alberto Dominguez",
+      "opponentSlug": "202815-alberto-dominguez",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "88078-gamma-world-championships-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-27T00:00:00.000Z",
+      "opponent": "Sumit Bhyan",
+      "opponentSlug": "240782-sumit-bhyan",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "115203-gamma-asian-championships-2021-day-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-26T00:00:00.000Z",
+      "opponent": "Mirbek Zhenishbekov",
+      "opponentSlug": "241041-mirbek-zhenishbekov",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "115202-gamma-asian-championships-2021-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-25T00:00:00.000Z",
+      "opponent": "Ibnu Muhibbullah",
+      "opponentSlug": "447741-ibnu-muhibbullah",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "115213-gamma-asian-championships-2021-day-1",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:05:53.198Z"
+}

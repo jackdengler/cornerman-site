@@ -1,0 +1,81 @@
+{
+  "slug": "352813-james-dennis",
+  "name": "James Dennis",
+  "nickname": "The Menace",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 193,
+  "reachCm": null,
+  "weightClass": "Super Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1995-11-01",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/352813-james-dennis",
+  "recentFights": [
+    {
+      "date": "2024-04-06T00:00:00.000Z",
+      "opponent": "Jeremy Riley",
+      "opponentSlug": "307893-jeremy-riley",
+      "result": "loss",
+      "method": "other",
+      "event": "Caged Thunder 26",
+      "eventSlug": "109673-caged-thunder-nexgen-fight-series-2",
+      "round": 1,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2023-08-12T00:00:00.000Z",
+      "opponent": "RJ Harris",
+      "opponentSlug": "382864-rj-harris",
+      "result": "loss",
+      "method": "other",
+      "event": "Caged Thunder 22",
+      "eventSlug": "101550-caged-thunder-22",
+      "round": 1,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2023-05-20T00:00:00.000Z",
+      "opponent": "Dalton Young",
+      "opponentSlug": "357197-dalton-young",
+      "result": "win",
+      "method": "sub",
+      "event": "Caged Thunder 21",
+      "eventSlug": "98598-caged-thunder-21",
+      "round": 1,
+      "timeInRound": "0:31"
+    },
+    {
+      "date": "2022-12-17T00:00:00.000Z",
+      "opponent": "Wayne Spoon",
+      "opponentSlug": "356305-wayne-spoon",
+      "result": "win",
+      "method": "other",
+      "event": "Caged Thunder 18",
+      "eventSlug": "93167-caged-thunder-18",
+      "round": 1,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2022-10-01T00:00:00.000Z",
+      "opponent": "Colton Erckman",
+      "opponentSlug": "352812-colton-erckman",
+      "result": "win",
+      "method": "other",
+      "event": "Caged Thunder 17",
+      "eventSlug": "91993-caged-thunder-17",
+      "round": 1,
+      "timeInRound": "1:41"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:40:18.424Z"
+}

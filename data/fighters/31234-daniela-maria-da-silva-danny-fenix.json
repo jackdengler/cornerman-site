@@ -1,0 +1,154 @@
+{
+  "slug": "31234-daniela-maria-da-silva-danny-fenix",
+  "name": "Daniela da Silva",
+  "nickname": "Dany Fenix",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": "1989-07-07",
+  "nationality": "Natal, Rio Grande do Norte, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/31234-daniela-maria-da-silva-danny-fenix",
+  "recentFights": [
+    {
+      "date": "2023-04-01T00:00:00.000Z",
+      "opponent": "Maria José da Silva",
+      "opponentSlug": "339517-maria-jose-da-silva-paty",
+      "result": "win",
+      "method": "tko",
+      "event": "Intense Fight Championship 4",
+      "eventSlug": "98365-intense-fight-championship-4",
+      "round": 1,
+      "timeInRound": "1:18"
+    },
+    {
+      "date": "2019-12-07T00:00:00.000Z",
+      "opponent": "Nayara Rodrigues",
+      "opponentSlug": "49275-nayara-rodrigues",
+      "result": "loss",
+      "method": "sub",
+      "event": "Arena Global 3",
+      "eventSlug": "65676-arena-global-3",
+      "round": 3,
+      "timeInRound": "3:39"
+    },
+    {
+      "date": "2019-07-26T00:00:00.000Z",
+      "opponent": "Aline Sattelmayer",
+      "opponentSlug": "48681-aline-sattelmayer",
+      "result": "win",
+      "method": "tko",
+      "event": "Shooto Brasil 93",
+      "eventSlug": "61855-shooto-brasil-93",
+      "round": 3,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2019-05-05T00:00:00.000Z",
+      "opponent": "Julia Polastri",
+      "opponentSlug": "168315-julia-polastri",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MMA Brutus 2",
+      "eventSlug": "60085-mma-brutus-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-29T00:00:00.000Z",
+      "opponent": "Maria Ribeiro",
+      "opponentSlug": "165652-maria-ribeiro",
+      "result": "win",
+      "method": "other",
+      "event": "Nação Cyborg 3",
+      "eventSlug": "54962-nacao-cyborg-3",
+      "round": 1,
+      "timeInRound": "3:49"
+    },
+    {
+      "date": "2018-06-08T00:00:00.000Z",
+      "opponent": "Jully Sales",
+      "opponentSlug": "185750-jully-sales",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-08-06T00:00:00.000Z",
+      "opponent": "Anne Karoline",
+      "opponentSlug": "39618-anne-karoline-karol-mutante",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-28T00:00:00.000Z",
+      "opponent": "Hellen Bastos",
+      "opponentSlug": "58492-hellen-bastos",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XFC International 12",
+      "eventSlug": "36227-xfc-international-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-08T00:00:00.000Z",
+      "opponent": "Queren Hapuque",
+      "opponentSlug": "56250-queren-hapuque",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-04-09T00:00:00.000Z",
+      "opponent": "Rayanne Nunes",
+      "opponentSlug": "61261-raiane-nunes",
+      "result": "win",
+      "method": "sub",
+      "event": "NFC 8",
+      "eventSlug": "31837-natal-fc-8",
+      "round": 1,
+      "timeInRound": "4:53"
+    },
+    {
+      "date": "2013-06-06T00:00:00.000Z",
+      "opponent": "Antonia Silvaneide",
+      "opponentSlug": "67384-silvaneide-pereira-marretinha",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-05-31T00:00:00.000Z",
+      "opponent": "Bethe Correia",
+      "opponentSlug": "31164-beth-correia",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:59:06.201Z"
+}

@@ -1,0 +1,143 @@
+{
+  "slug": "38640-ricardas-vaicys",
+  "name": "Ričardas Vaičys",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Lithuania",
+  "url": "https://www.tapology.com/fightcenter/fighters/38640-ricardas-vaicys",
+  "recentFights": [
+    {
+      "date": "2019-05-25T00:00:00.000Z",
+      "opponent": "Piotr Niedzielski",
+      "opponentSlug": "72394-piotr-niedzielski",
+      "result": "loss",
+      "method": "other",
+      "event": "Poznań Fight Show Night",
+      "eventSlug": "60048-poznan-fight-show-night",
+      "round": 1,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2019-04-06T00:00:00.000Z",
+      "opponent": "Jan Malach",
+      "opponentSlug": "64719-jan-malach",
+      "result": "loss",
+      "method": "tko",
+      "event": "Night of Warriors 15",
+      "eventSlug": "58715-night-of-warriors-15",
+      "round": 1,
+      "timeInRound": "3:32"
+    },
+    {
+      "date": "2015-12-26T00:00:00.000Z",
+      "opponent": "Roman Karasev",
+      "opponentSlug": "169299-roman-karasev",
+      "result": "loss",
+      "method": "other",
+      "event": "Amber Fight 2",
+      "eventSlug": "55588-amber-fight-2",
+      "round": 1,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2015-12-19T00:00:00.000Z",
+      "opponent": "Bartosz Chyrek",
+      "opponentSlug": "56328-bartosz-chyrek-hulk",
+      "result": "loss",
+      "method": "sub",
+      "event": "MMA Fight Night 4",
+      "eventSlug": "37189-mma-fight-night-4-marena-spa",
+      "round": 1,
+      "timeInRound": "0:18"
+    },
+    {
+      "date": "2015-03-14T00:00:00.000Z",
+      "opponent": "Kristaps Tiškus",
+      "opponentSlug": "98353-kristaps-tikus",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FREON: JFX Fights 4",
+      "eventSlug": "31885-freon-jfx-fights-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-02-21T00:00:00.000Z",
+      "opponent": "Raimondas Sinica",
+      "opponentSlug": "26786-raimondas-sinica",
+      "result": "win",
+      "method": "other",
+      "event": "Knight of the Cage 5",
+      "eventSlug": "29883-knight-of-the-cage-5",
+      "round": 1,
+      "timeInRound": "4:16"
+    },
+    {
+      "date": "2014-12-13T00:00:00.000Z",
+      "opponent": "Jevgenijs Jasnickis",
+      "opponentSlug": "89159-jevgenijs-jasnickis",
+      "result": "win",
+      "method": "sub",
+      "event": "FREON: Fight Night",
+      "eventSlug": "28872-freon-fight-night",
+      "round": 1,
+      "timeInRound": "0:41"
+    },
+    {
+      "date": "2014-02-22T00:00:00.000Z",
+      "opponent": "Alexander Novakovskiy",
+      "opponentSlug": "151035-alexandr-novakovskiy",
+      "result": "loss",
+      "method": "other",
+      "event": "Baltic Fights",
+      "eventSlug": "38050-baltic-fights-russia-vs-lithuania-2",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2013-04-06T00:00:00.000Z",
+      "opponent": "Janne Rantanen",
+      "opponentSlug": "32889-janne-rantanen",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-10-10T00:00:00.000Z",
+      "opponent": "Shamil Magomedov",
+      "opponentSlug": "65634-shamil-magomedov",
+      "result": "loss",
+      "method": "other",
+      "event": "MFP: Cup Of Vladivostok 2012",
+      "eventSlug": "16857-mfp-cup-of-vladivostok-2012",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2011-03-11T00:00:00.000Z",
+      "opponent": "Arnas Sakocius",
+      "opponentSlug": "38621-arnas-sakocius",
+      "result": "loss",
+      "method": "sub",
+      "event": "Bushido FC: SWAT 20",
+      "eventSlug": "16757-bushido-fc-swat-20",
+      "round": 1,
+      "timeInRound": "0:32"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:07:50.889Z"
+}

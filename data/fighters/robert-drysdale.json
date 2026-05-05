@@ -1,0 +1,110 @@
+{
+  "slug": "robert-drysdale",
+  "name": "Robert Drysdale",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 191,
+  "reachCm": 199,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1981-10-05",
+  "nationality": "Provo, Utah, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/robert-drysdale",
+  "recentFights": [
+    {
+      "date": "2016-07-22T00:00:00.000Z",
+      "opponent": "Ryan Spann",
+      "opponentSlug": "20908-ryan-spann",
+      "result": "win",
+      "method": "sub",
+      "event": "Legacy FC 58",
+      "eventSlug": "39448-legacy-fc-58-spann-vs-drysdale",
+      "round": 2,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2014-07-06T00:00:00.000Z",
+      "opponent": "Keith Berish",
+      "opponentSlug": "14358-keith-berish",
+      "result": "nc",
+      "method": "other",
+      "event": "The Ultimate Fighter 19 Finale",
+      "eventSlug": "23323-the-ultimate-fighter-19-finale",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-04-12T00:00:00.000Z",
+      "opponent": "DJ Linderman",
+      "opponentSlug": "dj-linderman-da-protege",
+      "result": "win",
+      "method": "sub",
+      "event": "Legacy FC 19",
+      "eventSlug": "17426-legacy-fc-19",
+      "round": 1,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2012-11-16T00:00:00.000Z",
+      "opponent": "Chris Reed",
+      "opponentSlug": "10782-charles-reed",
+      "result": "win",
+      "method": "sub",
+      "event": "Legacy FC 15",
+      "eventSlug": "15588-legacy-fc-15",
+      "round": 1,
+      "timeInRound": "1:19"
+    },
+    {
+      "date": "2012-07-13T00:00:00.000Z",
+      "opponent": "Ike Villanueva",
+      "opponentSlug": "isaac-villanueva",
+      "result": "win",
+      "method": "sub",
+      "event": "Legacy FC 12",
+      "eventSlug": "13659-legacy-fc-12",
+      "round": 1,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2011-06-18T00:00:00.000Z",
+      "opponent": "Mike Nickels",
+      "opponentSlug": "mike-nickels-big",
+      "result": "win",
+      "method": "sub",
+      "event": "Armageddon FC 6",
+      "eventSlug": "armageddon-fc-6-conviction",
+      "round": 1,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2010-11-06T00:00:00.000Z",
+      "opponent": "Clay Davidson",
+      "opponentSlug": "10458-clay-davidson",
+      "result": "win",
+      "method": "sub",
+      "event": "Armageddon FC 4",
+      "eventSlug": "afc-4-revelation",
+      "round": 1,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2010-07-17T00:00:00.000Z",
+      "opponent": "Bastien Huveneers",
+      "opponentSlug": "11768-bastien-huveneers",
+      "result": "win",
+      "method": "sub",
+      "event": "Armageddon FC 3",
+      "eventSlug": "afc-3-evolution",
+      "round": 1,
+      "timeInRound": "1:12"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:40:00.852Z"
+}

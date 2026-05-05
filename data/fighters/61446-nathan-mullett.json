@@ -1,0 +1,99 @@
+{
+  "slug": "61446-nathan-mullett",
+  "name": "Nathan Mullett",
+  "nickname": "Bam Bam",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 191,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Clinton, Iowa",
+  "url": "https://www.tapology.com/fightcenter/fighters/61446-nathan-mullett",
+  "recentFights": [
+    {
+      "date": "2024-07-26T00:00:00.000Z",
+      "opponent": "Moses Galu",
+      "opponentSlug": "197799-moses-galu",
+      "result": "loss",
+      "method": "tko",
+      "event": "Tuff-N-Uff 138",
+      "eventSlug": "114550-tuff-n-uff-138",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2023-07-01T00:00:00.000Z",
+      "opponent": "Sean Sharaf",
+      "opponentSlug": "229173-sean-sharaf",
+      "result": "loss",
+      "method": "other",
+      "event": "UNF 9",
+      "eventSlug": "102056-unf-9",
+      "round": 1,
+      "timeInRound": "0:09"
+    },
+    {
+      "date": "2017-08-04T00:00:00.000Z",
+      "opponent": "Raamses Casarez",
+      "opponentSlug": "125074-raamses-casarez",
+      "result": "loss",
+      "method": "tko",
+      "event": "CFL 11",
+      "eventSlug": "47043-cfl-11",
+      "round": 1,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2017-02-04T00:00:00.000Z",
+      "opponent": "Raamses Casarez",
+      "opponentSlug": "125074-raamses-casarez",
+      "result": "loss",
+      "method": "tko",
+      "event": "CFL 10",
+      "eventSlug": "44117-cfl-10",
+      "round": 1,
+      "timeInRound": "0:24"
+    },
+    {
+      "date": "2016-11-13T00:00:00.000Z",
+      "opponent": "David Sands",
+      "opponentSlug": "44677-david-sands",
+      "result": "win",
+      "method": "tko",
+      "event": "University of MMA",
+      "eventSlug": "41429-university-of-mma-fight-night-14",
+      "round": 2,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2015-06-21T00:00:00.000Z",
+      "opponent": "Kelly Heiden",
+      "opponentSlug": "102077-kelly-heiden",
+      "result": "win",
+      "method": "tko",
+      "event": "Fist Series",
+      "eventSlug": "33094-summerfist-6",
+      "round": 2,
+      "timeInRound": "0:28"
+    },
+    {
+      "date": "2014-01-26T00:00:00.000Z",
+      "opponent": "Scott Steele",
+      "opponentSlug": "61445-scott-steele",
+      "result": "loss",
+      "method": "tko",
+      "event": "Bas Rutten's Art of MMA",
+      "eventSlug": "22138-bas-ruttens-art-of-mma",
+      "round": 1,
+      "timeInRound": "0:31"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:12:06.091Z"
+}

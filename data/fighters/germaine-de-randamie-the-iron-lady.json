@@ -1,0 +1,187 @@
+{
+  "slug": "germaine-de-randamie-the-iron-lady",
+  "name": "Germaine de Randamie",
+  "nickname": "The Iron Lady",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 184,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1984-04-24",
+  "nationality": "Utrecht, Netherlands",
+  "url": "https://www.tapology.com/fightcenter/fighters/germaine-de-randamie-the-iron-lady",
+  "recentFights": [
+    {
+      "date": "2024-04-06T00:00:00.000Z",
+      "opponent": "Norma Dumont",
+      "opponentSlug": "139271-norma-dumont-viana",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "108721-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-10-03T00:00:00.000Z",
+      "opponent": "Julianna Peña",
+      "opponentSlug": "julianna-pena-the-venezuelan-vixen",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "71155-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "3:25"
+    },
+    {
+      "date": "2019-12-14T00:00:00.000Z",
+      "opponent": "Amanda Nunes",
+      "opponentSlug": "amanda-nunes-lioness-of-the-ring",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 245: Usman vs. Covington",
+      "eventSlug": "60326-ufc-245",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-13T00:00:00.000Z",
+      "opponent": "Aspen Ladd",
+      "opponentSlug": "45561-aspen-ladd",
+      "result": "win",
+      "method": "other",
+      "event": "UFC on ESPN+ 13",
+      "eventSlug": "59896-ufc-on-espn-13",
+      "round": 1,
+      "timeInRound": "0:16"
+    },
+    {
+      "date": "2018-11-10T00:00:00.000Z",
+      "opponent": "Raquel Pennington",
+      "opponentSlug": "26224-raquel-pennington",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night 139",
+      "eventSlug": "53520-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-02-11T00:00:00.000Z",
+      "opponent": "Holly Holm",
+      "opponentSlug": "18698-holly-holm-hottie",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 208: Holm vs. de Randamie",
+      "eventSlug": "42698-ufc-209",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-08T00:00:00.000Z",
+      "opponent": "Anna Elmose",
+      "opponentSlug": "66455-anna-elmose",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night 87",
+      "eventSlug": "37671-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "3:46"
+    },
+    {
+      "date": "2015-03-14T00:00:00.000Z",
+      "opponent": "Larissa Pacheco",
+      "opponentSlug": "56249-larissa-pacheco",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 185: Pettis vs. Dos Anjos",
+      "eventSlug": "28236-ufc-185",
+      "round": 2,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2013-11-06T00:00:00.000Z",
+      "opponent": "Amanda Nunes",
+      "opponentSlug": "amanda-nunes-lioness-of-the-ring",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night 31",
+      "eventSlug": "19692-ufc-fight-for-the-troops",
+      "round": 1,
+      "timeInRound": "3:56"
+    },
+    {
+      "date": "2013-07-27T00:00:00.000Z",
+      "opponent": "Julie Kedzie",
+      "opponentSlug": "julie-kedzie-fireball",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC on FOX 8",
+      "eventSlug": "16682-ufc-on-fox-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-08-18T00:00:00.000Z",
+      "opponent": "Hiroko Yamanaka",
+      "opponentSlug": "hiroko-yamanaka",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Strikeforce",
+      "eventSlug": "14280-strikeforce-rousey-vs-kaufman",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-06-24T00:00:00.000Z",
+      "opponent": "Julia Budd",
+      "opponentSlug": "julia-budd-the-jewel",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Strikeforce Challengers 16",
+      "eventSlug": "strikeforce-challengers-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-01-29T00:00:00.000Z",
+      "opponent": "Stephanie Webber",
+      "opponentSlug": "stephanie-webber-wonder-woman",
+      "result": "win",
+      "method": "other",
+      "event": "Strikeforce",
+      "eventSlug": "strikeforce-san-jose",
+      "round": 1,
+      "timeInRound": "4:25"
+    },
+    {
+      "date": "2010-09-11T00:00:00.000Z",
+      "opponent": "Nikohl Johnson",
+      "opponentSlug": "12167-nikohl-johnson",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-12-19T00:00:00.000Z",
+      "opponent": "Vanessa Porto",
+      "opponentSlug": "2825-vanessa-porto",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:33:14.333Z"
+}

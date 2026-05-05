@@ -1,0 +1,59 @@
+{
+  "slug": "311829-joseph-ndubuasi",
+  "name": "Joseph Ndubuisi",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1994-12-15",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/311829-joseph-ndubuasi",
+  "recentFights": [
+    {
+      "date": "2023-11-11T00:00:00.000Z",
+      "opponent": "Ezayah Gomez",
+      "opponentSlug": "413108-ezaya-gomez-oropeza",
+      "result": "loss",
+      "method": "other",
+      "event": "Mecca 20",
+      "eventSlug": "103306-mecca-20",
+      "round": 2,
+      "timeInRound": "1:56"
+    },
+    {
+      "date": "2022-05-07T00:00:00.000Z",
+      "opponent": "Steven Asplund",
+      "opponentSlug": "338034-steven-asplund",
+      "result": "loss",
+      "method": "other",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "88324-brutaal-genesis-fight-night-fort-frenzy-18",
+      "round": 1,
+      "timeInRound": "2:28"
+    },
+    {
+      "date": "2021-10-16T00:00:00.000Z",
+      "opponent": "Tim Patterson",
+      "opponentSlug": "311830-tim-patterson",
+      "result": "win",
+      "method": "tko",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "83348-brutaal-genesis-fight-night-fort-frenzy-16",
+      "round": 1,
+      "timeInRound": "0:15"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:44:22.144Z"
+}

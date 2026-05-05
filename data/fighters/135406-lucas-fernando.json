@@ -1,0 +1,209 @@
+{
+  "slug": "135406-lucas-fernando",
+  "name": "Lucas Fernando",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 12,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 191,
+  "reachCm": 207,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1997-01-10",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/135406-lucas-fernando",
+  "recentFights": [
+    {
+      "date": "2026-05-29T00:00:00.000Z",
+      "opponent": "Leon Soares",
+      "opponentSlug": "130755-leon-soares-de-deus",
+      "result": null,
+      "method": "other",
+      "event": "LFA 234: Fernando vs. Soares",
+      "eventSlug": "142026-lfa-234-fernando-vs-soares",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-08-15T00:00:00.000Z",
+      "opponent": "Phillip Latu",
+      "opponentSlug": "303053-phillip-latu",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 214: Fernando vs. Latu",
+      "eventSlug": "129780-lfa-214",
+      "round": 1,
+      "timeInRound": "1:03"
+    },
+    {
+      "date": "2024-08-30T00:00:00.000Z",
+      "opponent": "Pedro Oliveira",
+      "opponentSlug": "278120-pedro-oliveira",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 191: Prado vs. Lopes",
+      "eventSlug": "114937-lfa-191",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-03T00:00:00.000Z",
+      "opponent": "João Paulo Silva",
+      "opponentSlug": "295384-joao-paulo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 183: Cantanhede vs. Guimarães",
+      "eventSlug": "111711-lfa-183",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-15T00:00:00.000Z",
+      "opponent": "Azamat Bekoev",
+      "opponentSlug": "137588-azamat-bekoev",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 173: Fernando vs. Bekoev",
+      "eventSlug": "107094-legacy-fighting-alliance-173-lfa-173",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-08T00:00:00.000Z",
+      "opponent": "César Almeida",
+      "opponentSlug": "126015-csar-almeida",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Contender Series 2023",
+      "eventSlug": "100991-contender-series-2023-week-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-10T00:00:00.000Z",
+      "opponent": "Jansey Silva",
+      "opponentSlug": "55405-jansen-silva",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 154: Fernando vs. Silva",
+      "eventSlug": "97603-lfa-154-fernando-vs-silva",
+      "round": 4,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2022-09-30T00:00:00.000Z",
+      "opponent": "Fabio Aguiar",
+      "opponentSlug": "103527-fabio-aguiar",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 143: Lopes vs. Paiva",
+      "eventSlug": "92701-lfa-143-lopes-vs-paiva",
+      "round": 1,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2022-03-11T00:00:00.000Z",
+      "opponent": "Rodrigo Lima",
+      "opponentSlug": "77779-rodrigo-lima-novais-zoi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 126: Bilharinho vs. Delano",
+      "eventSlug": "87004-lfa-126-bilharinho-vs-barbosa",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-16T00:00:00.000Z",
+      "opponent": "João Vitor Dantas",
+      "opponentSlug": "165450-joo-vitor-dantas",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 111: De Sa vs. Bonfim",
+      "eventSlug": "80470-lfa-111-de-sa-vs-bonfim",
+      "round": 1,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2020-08-23T00:00:00.000Z",
+      "opponent": "Diego Dias",
+      "opponentSlug": "60169-diego-dias",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shooto Brasil 100",
+      "eventSlug": "71502-shooto-brasil-100",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-20T00:00:00.000Z",
+      "opponent": "Wallace Lopes",
+      "opponentSlug": "46719-wallace-lopes-nego",
+      "result": "win",
+      "method": "sub",
+      "event": "Shooto Brasil 99",
+      "eventSlug": "65193-shooto-brasil-99",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-08T00:00:00.000Z",
+      "opponent": "Rafael Silva",
+      "opponentSlug": "144853-rafael-marquezani-cabea",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Federação Fight 9",
+      "eventSlug": "58702-federacao-fight-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-07T00:00:00.000Z",
+      "opponent": "Paulo Henrique Laia",
+      "opponentSlug": "176744-paulo-henrique",
+      "result": "win",
+      "method": "sub",
+      "event": "RBFC 9",
+      "eventSlug": "53518-rbfc-9",
+      "round": 1,
+      "timeInRound": "4:15"
+    },
+    {
+      "date": "2017-11-25T00:00:00.000Z",
+      "opponent": "Daylon Farias",
+      "opponentSlug": "133952-daylon-seid-farias",
+      "result": "win",
+      "method": "other",
+      "event": "Panthers and Fight Night 1",
+      "eventSlug": "49340-panthers-and-fight-night-1",
+      "round": 1,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2017-07-08T00:00:00.000Z",
+      "opponent": "Mateus Silva",
+      "opponentSlug": "54090-mateus-silva",
+      "result": "win",
+      "method": "tko",
+      "event": "RBFC 7",
+      "eventSlug": "46789-rbfc-7",
+      "round": 1,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2016-06-25T00:00:00.000Z",
+      "opponent": "Peterson Pit",
+      "opponentSlug": "135407-peterson-pit",
+      "result": "win",
+      "method": "sub",
+      "event": "WOCS 43",
+      "eventSlug": "40197-wocs-43",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:40:25.229Z"
+}

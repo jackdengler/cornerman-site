@@ -1,0 +1,59 @@
+{
+  "slug": "199801-jan-sazama",
+  "name": "Jan Sazama",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/199801-jan-sazama",
+  "recentFights": [
+    {
+      "date": "2018-12-22T00:00:00.000Z",
+      "opponent": "Václav Štěpán",
+      "opponentSlug": "197384-vaclav-stepan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MMAA Aréna Cup 47",
+      "eventSlug": "57387-mmaa-arena-cup-47-most",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-25T00:00:00.000Z",
+      "opponent": "Jan Krátký",
+      "opponentSlug": "202500-jan-kratky",
+      "result": "win",
+      "method": "sub",
+      "event": "MMAA Aréna Cup 46",
+      "eventSlug": "56711-mmaa-arena-cup-46-prague",
+      "round": 3,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2018-10-27T00:00:00.000Z",
+      "opponent": "Daniel Karnet",
+      "opponentSlug": "199802-daniel-karner",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "MMAA Aréna Cup 45",
+      "eventSlug": "55768-mmaa-arena-cup-45",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:09:48.685Z"
+}

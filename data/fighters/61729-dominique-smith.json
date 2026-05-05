@@ -1,0 +1,187 @@
+{
+  "slug": "61729-dominique-smith",
+  "name": "Dominique Smith",
+  "nickname": "The Domfather",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1989-05-31",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/61729-dominique-smith",
+  "recentFights": [
+    {
+      "date": "2019-01-12T00:00:00.000Z",
+      "opponent": "Dejan Kajić",
+      "opponentSlug": "dajan-kajic",
+      "result": "loss",
+      "method": "other",
+      "event": "BFL 59",
+      "eventSlug": "56701-bfl-59",
+      "round": 3,
+      "timeInRound": "1:03"
+    },
+    {
+      "date": "2018-10-13T00:00:00.000Z",
+      "opponent": "Justin Millani",
+      "opponentSlug": "60788-justin-milani",
+      "result": "win",
+      "method": "other",
+      "event": "CageSport 53",
+      "eventSlug": "55966-cagesport-53",
+      "round": 1,
+      "timeInRound": "0:25"
+    },
+    {
+      "date": "2018-04-28T00:00:00.000Z",
+      "opponent": "Jessee Gengler",
+      "opponentSlug": "98650-jessee-gengler",
+      "result": "loss",
+      "method": "sub",
+      "event": "CageSport 50",
+      "eventSlug": "52000-cagesport-51",
+      "round": 1,
+      "timeInRound": "3:52"
+    },
+    {
+      "date": "2018-02-10T00:00:00.000Z",
+      "opponent": "Eric McConico",
+      "opponentSlug": "112634-eric-mcconico",
+      "result": "loss",
+      "method": "sub",
+      "event": "CageSport 49",
+      "eventSlug": "50350-cagesport-49",
+      "round": 1,
+      "timeInRound": "4:54"
+    },
+    {
+      "date": "2017-10-14T00:00:00.000Z",
+      "opponent": "Steve Vasquez",
+      "opponentSlug": "161944-steve-vasquez",
+      "result": "win",
+      "method": "other",
+      "event": "CageSport 47",
+      "eventSlug": "48532-cagesport",
+      "round": 1,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2017-04-22T00:00:00.000Z",
+      "opponent": "Fay Bursell",
+      "opponentSlug": "91183-fay-bursell",
+      "result": "loss",
+      "method": "tko",
+      "event": "CageSport 45",
+      "eventSlug": "45484-cagesport-45-erosa-vs-harrington-2",
+      "round": 1,
+      "timeInRound": "2:19"
+    },
+    {
+      "date": "2015-09-19T00:00:00.000Z",
+      "opponent": "Joey Pierotti",
+      "opponentSlug": "96956-joey-pierotti",
+      "result": "loss",
+      "method": "tko",
+      "event": "Washington Warrior Cup 2",
+      "eventSlug": "33219-washington-warrior-cup-2",
+      "round": 3,
+      "timeInRound": "1:22"
+    },
+    {
+      "date": "2015-07-31T00:00:00.000Z",
+      "opponent": "Navi Dhaliwal",
+      "opponentSlug": "44058-navi-dahliwal",
+      "result": "loss",
+      "method": "other",
+      "event": "COGA Combat Games 44",
+      "eventSlug": "33041-rumble-on-the-ridge-32",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-10-11T00:00:00.000Z",
+      "opponent": "Fernando Heredia",
+      "opponentSlug": "52438-fernando-heredia",
+      "result": "loss",
+      "method": "sub",
+      "event": "CageQuest 5",
+      "eventSlug": "26770-cagequest-5",
+      "round": 3,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2014-06-28T00:00:00.000Z",
+      "opponent": "Jeff Rodriguez",
+      "opponentSlug": "407616-jeff-rodriguez",
+      "result": "win",
+      "method": "tko",
+      "event": "The Peninsula Throwdown 6",
+      "eventSlug": "23921-the-peninsula-throwdown-6-resurrection",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-29T00:00:00.000Z",
+      "opponent": "AJ Fuentes",
+      "opponentSlug": "34967-aj-fuentes",
+      "result": "win",
+      "method": "tko",
+      "event": "CageQuest 4",
+      "eventSlug": "29566-cagequest-4",
+      "round": 1,
+      "timeInRound": "2:09"
+    },
+    {
+      "date": "2014-01-18T00:00:00.000Z",
+      "opponent": "Jason Anderson",
+      "opponentSlug": "61271-jason-anderson",
+      "result": "win",
+      "method": "tko",
+      "event": "AFL: Renton Rumble",
+      "eventSlug": "22106-afl-renton-rumble",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-10-20T00:00:00.000Z",
+      "opponent": "Geoff Rodriquez",
+      "opponentSlug": "31976-geoff-rodriquez",
+      "result": "win",
+      "method": "other",
+      "event": "Northwest Fight Challenge 15",
+      "eventSlug": "24236-northwest-fight-challenge-15-rocked",
+      "round": 2,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2012-03-03T00:00:00.000Z",
+      "opponent": "Taki Uluilakepa",
+      "opponentSlug": "37669-taki-uluilakepa",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "CageQuest 1",
+      "eventSlug": "24238-cagequest-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-04-15T00:00:00.000Z",
+      "opponent": "Brock Gorang",
+      "opponentSlug": "36324-brock-gorang",
+      "result": "loss",
+      "method": "other",
+      "event": "The Peninsula Throwdown 3",
+      "eventSlug": "37708-the-peninsula-throwdown-3",
+      "round": 1,
+      "timeInRound": "2:46"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:52:35.120Z"
+}

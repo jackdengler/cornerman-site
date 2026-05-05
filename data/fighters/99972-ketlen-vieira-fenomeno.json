@@ -1,0 +1,253 @@
+{
+  "slug": "99972-ketlen-vieira-fenomeno",
+  "name": "Ketlen Vieira",
+  "nickname": "Fenômeno",
+  "aliases": [],
+  "recordPro": {
+    "wins": 15,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 173,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1991-08-26",
+  "nationality": "Manaus, Amazonas, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/99972-ketlen-vieira-fenomeno",
+  "recentFights": [
+    {
+      "date": "2026-05-16T00:00:00.000Z",
+      "opponent": "Jacqueline Cavalcanti",
+      "opponentSlug": "196666-jaqueline-cavalcanti",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "140458-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-01T00:00:00.000Z",
+      "opponent": "Norma Dumont",
+      "opponentSlug": "139271-norma-dumont-viana",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "132058-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-31T00:00:00.000Z",
+      "opponent": "Macy Chiasson",
+      "opponentSlug": "77737-macy-chiasson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "123251-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-10-05T00:00:00.000Z",
+      "opponent": "Kayla Harrison",
+      "opponentSlug": "34265-kayla-harrison",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 307: Pereira vs. Rountree",
+      "eventSlug": "116146-ufc-307",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-22T00:00:00.000Z",
+      "opponent": "Pannie Kianzad",
+      "opponentSlug": "36969-pannie-kianzad",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "99813-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-01-14T00:00:00.000Z",
+      "opponent": "Raquel Pennington",
+      "opponentSlug": "26224-raquel-pennington",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "93279-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-21T00:00:00.000Z",
+      "opponent": "Holly Holm",
+      "opponentSlug": "18698-holly-holm-hottie",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "86509-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-20T00:00:00.000Z",
+      "opponent": "Miesha Tate",
+      "opponentSlug": "miesha-tate-takedown",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "81602-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-02-20T00:00:00.000Z",
+      "opponent": "Yana Santos",
+      "opponentSlug": "19820-yana-kunitskaya-foxy",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "74141-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-26T00:00:00.000Z",
+      "opponent": "Sijara Eubanks",
+      "opponentSlug": "56532-sajara-eubanks",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 253: Adesanya vs. Costa",
+      "eventSlug": "70105-ufc-253",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-14T00:00:00.000Z",
+      "opponent": "Irene Aldana",
+      "opponentSlug": "60294-irene-aldana-robles",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 245: Usman vs. Covington",
+      "eventSlug": "60326-ufc-245",
+      "round": 1,
+      "timeInRound": "4:51"
+    },
+    {
+      "date": "2018-03-03T00:00:00.000Z",
+      "opponent": "Cat Zingano",
+      "opponentSlug": "cat-zingano-alpha",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC 222: Cyborg vs. Kunitskaya",
+      "eventSlug": "48689-ufc-222",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-09T00:00:00.000Z",
+      "opponent": "Sara McMann",
+      "opponentSlug": "15591-sara-mcmann",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC 215: Nunes vs. Shevchenko 2",
+      "eventSlug": "44084-ufc-216",
+      "round": 2,
+      "timeInRound": "4:16"
+    },
+    {
+      "date": "2017-04-15T00:00:00.000Z",
+      "opponent": "Ashlee Evans-Smith",
+      "opponentSlug": "28705-ashlee-evans-smith",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC on FOX 24",
+      "eventSlug": "43966-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-01T00:00:00.000Z",
+      "opponent": "Kelly Faszholz",
+      "opponentSlug": "51885-kelly-faszholz",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night 96",
+      "eventSlug": "40949-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-02-20T00:00:00.000Z",
+      "opponent": "Estefani Almeida",
+      "opponentSlug": "124748-estefani-rodrigues",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-12-17T00:00:00.000Z",
+      "opponent": "Viviane Monstra",
+      "opponentSlug": "122575-viviane-monstra",
+      "result": "win",
+      "method": "other",
+      "event": "Mr. Cage 20",
+      "eventSlug": "37312-mr-cage-20",
+      "round": 1,
+      "timeInRound": "3:20"
+    },
+    {
+      "date": "2015-09-12T00:00:00.000Z",
+      "opponent": "Laet Ferreira",
+      "opponentSlug": "135321-laet-ferreira",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-12T00:00:00.000Z",
+      "opponent": "Monique Bastos",
+      "opponentSlug": "56882-monique-bastos",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-13T00:00:00.000Z",
+      "opponent": "Kenya Miranda",
+      "opponentSlug": "67544-kenya-miranda-kill-bitch",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-10-02T00:00:00.000Z",
+      "opponent": "Juliana Leite",
+      "opponentSlug": "114536-juliana-leite",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:33:09.808Z"
+}

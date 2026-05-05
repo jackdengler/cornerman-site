@@ -1,0 +1,132 @@
+{
+  "slug": "430194-shamara-cavalcante",
+  "name": "Shamara Braga",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 173,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1996-04-21",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/430194-shamara-cavalcante",
+  "recentFights": [
+    {
+      "date": "2025-05-09T00:00:00.000Z",
+      "opponent": "Eman Almudhaf",
+      "opponentSlug": "190915-eman-almudhaf",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "PFL MENA 1: Jeddah 2025",
+      "eventSlug": "125798-pfl-mena-1-2025-regular-season",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-01-18T00:00:00.000Z",
+      "opponent": "Lynne Lessou",
+      "opponentSlug": "366655-lynne-karmann",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ares FC 28: Sola vs. Caio",
+      "eventSlug": "120840-ares-28",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-09T00:00:00.000Z",
+      "opponent": "Izzy McGaughey",
+      "opponentSlug": "277960-izzy-mcgaughey",
+      "result": "win",
+      "method": "dec-split",
+      "event": "FCC 37",
+      "eventSlug": "110793-fcc-37",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-24T00:00:00.000Z",
+      "opponent": "Myllena Messias",
+      "opponentSlug": "329802-myllena-messias-mao-de-pedra",
+      "result": "loss",
+      "method": "other",
+      "event": "Shooto Brasil 120",
+      "eventSlug": "97891-shooto-brasil-120",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2023-05-27T00:00:00.000Z",
+      "opponent": "Débora Oliveira",
+      "opponentSlug": "129380-debora-oliveira",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fortal Combat 2",
+      "eventSlug": "103648-fortal-combat-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-18T00:00:00.000Z",
+      "opponent": "Shara Kevenny",
+      "opponentSlug": "341888-shara-kevenny-moura",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Let's Go Fight 2",
+      "eventSlug": "103654-let-s-go-fight-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-27T00:00:00.000Z",
+      "opponent": "Mileide Simplicio",
+      "opponentSlug": "266639-mileide-simplicio",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Victorious MMA 4",
+      "eventSlug": "78089-victorious-fc-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-10-31T00:00:00.000Z",
+      "opponent": "Gabriella Fernandes",
+      "opponentSlug": "193148-gabriela-fernandes-gaby",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Action Fight 16",
+      "eventSlug": "73401-action-fight-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-13T00:00:00.000Z",
+      "opponent": "Débora Oliveira",
+      "opponentSlug": "129380-debora-oliveira",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Arena Fight Combat 23",
+      "eventSlug": "62804-arena-fight-combat-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-15T00:00:00.000Z",
+      "opponent": "Ariadne Paz",
+      "opponentSlug": "227197-ariadne-paz",
+      "result": "win",
+      "method": "other",
+      "event": "Victorious MMA 2",
+      "eventSlug": "61112-victorious-fc-2",
+      "round": 2,
+      "timeInRound": "1:23"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:10:36.480Z"
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "215782-julian-salvador",
+  "name": "Julian Salvador",
+  "nickname": "El Diamante",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Ecuador",
+  "url": "https://www.tapology.com/fightcenter/fighters/215782-julian-salvador",
+  "recentFights": [
+    {
+      "date": "2026-05-27T00:00:00.000Z",
+      "opponent": "Luis Melchor",
+      "opponentSlug": "161036-luis-melchor",
+      "result": null,
+      "method": "other",
+      "event": "Inka 57",
+      "eventSlug": "139931-inka-57",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-22T00:00:00.000Z",
+      "opponent": "Miguel Barahona",
+      "opponentSlug": "299108-miguel-barahona",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "TFL 8: Resistiré",
+      "eventSlug": "114985-troncal-fight-leage-tfl-8-resistire-barahona-vs-salvador",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-15T00:00:00.000Z",
+      "opponent": "Sebastian Alvarado",
+      "opponentSlug": "275517-sebastian-alvarado",
+      "result": "win",
+      "method": "sub",
+      "event": "FNA 4",
+      "eventSlug": "103150-fna-4",
+      "round": 1,
+      "timeInRound": "2:57"
+    },
+    {
+      "date": "2020-07-17T00:00:00.000Z",
+      "opponent": "Edgar Cuenca",
+      "opponentSlug": "234327-edgar-cuenca",
+      "result": "win",
+      "method": "other",
+      "event": "QFC 8: El Mas Arrecho",
+      "eventSlug": "70846-qfc-8-el-mas-arrecho",
+      "round": 3,
+      "timeInRound": "3:05"
+    },
+    {
+      "date": "2019-07-13T00:00:00.000Z",
+      "opponent": "Adrian Luna Martinetti",
+      "opponentSlug": "139620-juan-adrian-luna",
+      "result": "loss",
+      "method": "sub",
+      "event": "UCC: Hell in the Cell",
+      "eventSlug": "61546-ucc-hell-in-the-cell-the-cage-xtreme",
+      "round": 2,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2019-04-13T00:00:00.000Z",
+      "opponent": "Milton Miranda",
+      "opponentSlug": "215781-milton-miranda-stip",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "SFL 1: Cueva vs. Lascano",
+      "eventSlug": "59030-sfl-1-cueva-vs-lascano",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:37:08.998Z"
+}

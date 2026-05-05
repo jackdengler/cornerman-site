@@ -1,0 +1,125 @@
+{
+  "slug": "329283-thad-becker",
+  "name": "Thad Becker",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 8,
+    "draws": 0
+  },
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "2000-09-22",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/329283-thad-becker",
+  "recentFights": [
+    {
+      "date": "2023-09-22T00:00:00.000Z",
+      "opponent": "Stephen Lesko",
+      "opponentSlug": "202553-stephen-lesko",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 168: McKee vs. McPadden",
+      "eventSlug": "104272-lfa-168-mckee-vs-mcpadden",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-20T00:00:00.000Z",
+      "opponent": "Canon Swanson",
+      "opponentSlug": "329282-canon-swanson",
+      "result": "loss",
+      "method": "other",
+      "event": "No Mercy 11",
+      "eventSlug": "98004-no-mercy-11",
+      "round": 2,
+      "timeInRound": "1:21"
+    },
+    {
+      "date": "2023-03-24T00:00:00.000Z",
+      "opponent": "Ryan Motley",
+      "opponentSlug": "379177-ryan-motley",
+      "result": "loss",
+      "method": "sub",
+      "event": "A-Town Throwdown 20",
+      "eventSlug": "98269-a-town-throwdown-20",
+      "round": 1,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2023-02-24T00:00:00.000Z",
+      "opponent": "Matt Stoffle",
+      "opponentSlug": "53188-matt-stoffle",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Compass Fight Series 2",
+      "eventSlug": "95397-compass-fight-series-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-17T00:00:00.000Z",
+      "opponent": "Dylan Kiskila",
+      "opponentSlug": "316469-dylan-kiskila",
+      "result": "loss",
+      "method": "sub",
+      "event": "A-Town Throwdown 19",
+      "eventSlug": "88580-a-town-throwdown-19",
+      "round": 2,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2022-09-10T00:00:00.000Z",
+      "opponent": "Derek DeSart",
+      "opponentSlug": "204292-derek-desart",
+      "result": "win",
+      "method": "sub",
+      "event": "A-Town Throwdown 18",
+      "eventSlug": "88579-a-town-throwdown-18",
+      "round": 1,
+      "timeInRound": "1:53"
+    },
+    {
+      "date": "2022-07-16T00:00:00.000Z",
+      "opponent": "Nicolas Colunga",
+      "opponentSlug": "343913-nicolas-colunga",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bud Brawl 2",
+      "eventSlug": "90103-bud-brawl-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-20T00:00:00.000Z",
+      "opponent": "Alexis Flores",
+      "opponentSlug": "298536-alexis-flores",
+      "result": "loss",
+      "method": "sub",
+      "event": "FAC 14",
+      "eventSlug": "88127-fac-14",
+      "round": 2,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2022-03-12T00:00:00.000Z",
+      "opponent": "Erik Van Tuyl",
+      "opponentSlug": "249809-erik-van-tuyl",
+      "result": "loss",
+      "method": "other",
+      "event": "Evolution 1",
+      "eventSlug": "85333-evolution-1",
+      "round": 1,
+      "timeInRound": "0:54"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:41:03.182Z"
+}

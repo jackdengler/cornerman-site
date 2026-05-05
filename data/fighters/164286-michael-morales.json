@@ -1,0 +1,253 @@
+{
+  "slug": "164286-michael-morales",
+  "name": "Michael Morales",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 19,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 201,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1999-06-24",
+  "nationality": "Pasaje, El Oro, Ecuador",
+  "url": "https://www.tapology.com/fightcenter/fighters/164286-michael-morales",
+  "recentFights": [
+    {
+      "date": "2025-11-15T00:00:00.000Z",
+      "opponent": "Sean Brady",
+      "opponentSlug": "32242-sean-brady",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 322",
+      "eventSlug": "132653-ufc-322",
+      "round": 1,
+      "timeInRound": "3:27"
+    },
+    {
+      "date": "2025-05-17T00:00:00.000Z",
+      "opponent": "Gilbert Burns",
+      "opponentSlug": "31168-gilbert-burns-durinho",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "124622-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "3:39"
+    },
+    {
+      "date": "2024-08-24T00:00:00.000Z",
+      "opponent": "Neil Magny",
+      "opponentSlug": "16456-aoutneil-magny",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "114902-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "4:39"
+    },
+    {
+      "date": "2023-11-18T00:00:00.000Z",
+      "opponent": "Jake Matthews",
+      "opponentSlug": "45260-jake-matthews",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "101867-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-01T00:00:00.000Z",
+      "opponent": "Max Griffin",
+      "opponentSlug": "25437-max-griffin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "100452-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-30T00:00:00.000Z",
+      "opponent": "Adam Fugitt",
+      "opponentSlug": "112635-adam-fugitt",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 277: Peña vs. Nunes 2",
+      "eventSlug": "87975-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "1:09"
+    },
+    {
+      "date": "2022-01-22T00:00:00.000Z",
+      "opponent": "Trevin Giles",
+      "opponentSlug": "20072-trevin-giles",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 270: N'Gannou vs. Gane",
+      "eventSlug": "82993-ufc-270",
+      "round": 1,
+      "timeInRound": "4:06"
+    },
+    {
+      "date": "2021-09-21T00:00:00.000Z",
+      "opponent": "Nikolay Veretennikov",
+      "opponentSlug": "74381-nikolai-veretenikov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Contender Series 2021",
+      "eventSlug": "78723-contender-series-2021",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-30T00:00:00.000Z",
+      "opponent": "Miguel Arizmendi",
+      "opponentSlug": "78272-miguel-arizmendi",
+      "result": "win",
+      "method": "tko",
+      "event": "UWC 26: There Can Only Be One",
+      "eventSlug": "78853-uwc-mexico-26-there-can-only-be-one",
+      "round": 2,
+      "timeInRound": "4:02"
+    },
+    {
+      "date": "2020-10-03T00:00:00.000Z",
+      "opponent": "Ricardo Centeno",
+      "opponentSlug": "120592-ricardo-centeno",
+      "result": "win",
+      "method": "other",
+      "event": "EMMA 17: Centeno vs. Morales",
+      "eventSlug": "72875-emma-17-centeno-vs-morales",
+      "round": 1,
+      "timeInRound": "4:15"
+    },
+    {
+      "date": "2020-08-01T00:00:00.000Z",
+      "opponent": "Daniel Bastidas",
+      "opponentSlug": "169589-daniel-bastidas",
+      "result": "win",
+      "method": "other",
+      "event": "EMMA 16: Centeno vs. Cisnero",
+      "eventSlug": "70934-emma-16-centeno-vs-cisnero",
+      "round": 1,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2020-02-12T00:00:00.000Z",
+      "opponent": "Mario Navarrete",
+      "opponentSlug": "78107-mario-navarrete",
+      "result": "win",
+      "method": "other",
+      "event": "Barbarian's 5",
+      "eventSlug": "66817-barbarians-5-machala",
+      "round": 2,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2019-12-14T00:00:00.000Z",
+      "opponent": "Gregoris Cisneros",
+      "opponentSlug": "246025-gregoris-cisneros",
+      "result": "win",
+      "method": "sub",
+      "event": "Barbarian's 4",
+      "eventSlug": "65087-barbarian-s-barbarian-s-4-cuenca",
+      "round": 1,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2019-11-09T00:00:00.000Z",
+      "opponent": "Erick Zambrano",
+      "opponentSlug": "196253-erick-zambrano",
+      "result": "win",
+      "method": "other",
+      "event": "Pasaje Combat 1",
+      "eventSlug": "64268-pasaje-combat-1-morales-vs-zambrano",
+      "round": 1,
+      "timeInRound": "1:55"
+    },
+    {
+      "date": "2019-09-06T00:00:00.000Z",
+      "opponent": "Mathias Salazar",
+      "opponentSlug": "234335-mathias-salazar-turbo",
+      "result": "win",
+      "method": "other",
+      "event": "Manaba Top Team 2",
+      "eventSlug": "62605-manaba-top-team-mma",
+      "round": 1,
+      "timeInRound": "1:40"
+    },
+    {
+      "date": "2019-07-17T00:00:00.000Z",
+      "opponent": "Oscar Ravello",
+      "opponentSlug": "108213-oscar-ravello",
+      "result": "win",
+      "method": "other",
+      "event": "FFC 39: Bananada vs. Zarauz 2",
+      "eventSlug": "60966-ffc-39-bananada-vs-zarauz-2",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2018-12-08T00:00:00.000Z",
+      "opponent": "Leonardo Blasco",
+      "opponentSlug": "186795-leonardo-blasco",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Troncal FC 2",
+      "eventSlug": "56753-tfc-2-troncal-fighting-championship",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-24T00:00:00.000Z",
+      "opponent": "Alvaro Vacacela",
+      "opponentSlug": "144180-alvaro-andres-vacacela-guerrero-el-paton",
+      "result": "win",
+      "method": "other",
+      "event": "Oro FC 5",
+      "eventSlug": "51337-oro-fc-5",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2017-08-19T00:00:00.000Z",
+      "opponent": "Alvaro Vacacela",
+      "opponentSlug": "144180-alvaro-andres-vacacela-guerrero-el-paton",
+      "result": "win",
+      "method": "other",
+      "event": "OFC 4",
+      "eventSlug": "47193-ofc-4",
+      "round": 2,
+      "timeInRound": "3:15"
+    },
+    {
+      "date": "2017-07-09T00:00:00.000Z",
+      "opponent": "Ricardo Centeno",
+      "opponentSlug": "120592-ricardo-centeno",
+      "result": "loss",
+      "method": "sub",
+      "event": "Ultima Pelea Season 2",
+      "eventSlug": "138077-ultima-pelea-season-2-quarterfinals",
+      "round": 1,
+      "timeInRound": "0:36"
+    },
+    {
+      "date": "2017-05-20T00:00:00.000Z",
+      "opponent": "Christian Arroyo",
+      "opponentSlug": "540373-christian-arroyo",
+      "result": "win",
+      "method": "other",
+      "event": "Ultima Pelea Season 2",
+      "eventSlug": "138076-ultima-pelea-season-2-elimination-round",
+      "round": 2,
+      "timeInRound": "2:42"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:03:59.955Z"
+}

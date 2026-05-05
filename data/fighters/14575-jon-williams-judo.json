@@ -1,0 +1,132 @@
+{
+  "slug": "14575-jon-williams-judo",
+  "name": "Jon Williams",
+  "nickname": "Judo",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/14575-jon-williams-judo",
+  "recentFights": [
+    {
+      "date": "2013-03-09T00:00:00.000Z",
+      "opponent": "Mike Malott",
+      "opponentSlug": "22740-mike-malott",
+      "result": "loss",
+      "method": "other",
+      "event": "ECC 16: Proving Ground",
+      "eventSlug": "17154-ecc-16",
+      "round": 1,
+      "timeInRound": "0:15"
+    },
+    {
+      "date": "2011-02-19T00:00:00.000Z",
+      "opponent": "Mike Murphy",
+      "opponentSlug": "40573-mike-murphy",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-01-29T00:00:00.000Z",
+      "opponent": "Brad Duguay",
+      "opponentSlug": "14370-brad-duguay-bad",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-09-18T00:00:00.000Z",
+      "opponent": "Lyndon Whitlock",
+      "opponentSlug": "14565-Lyndon-Whitlock",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-08-19T00:00:00.000Z",
+      "opponent": "Stephane Bernadel",
+      "opponentSlug": "16985-stephane-bernadel",
+      "result": "loss",
+      "method": "other",
+      "event": "Wreck MMA 3",
+      "eventSlug": "9360-wreck-mma-3-bad-intentions",
+      "round": 1,
+      "timeInRound": "1:11"
+    },
+    {
+      "date": "2010-07-24T00:00:00.000Z",
+      "opponent": "Justin Bourgeois",
+      "opponentSlug": "14574-justin-bourgeois",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-07-09T00:00:00.000Z",
+      "opponent": "Justin Steele",
+      "opponentSlug": "17727-justin-steele",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-08-14T00:00:00.000Z",
+      "opponent": "Jeff Black",
+      "opponentSlug": "20687-jeff-black",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-05-09T00:00:00.000Z",
+      "opponent": "Chris Kelades",
+      "opponentSlug": "17708-chris-kelades",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-04-11T00:00:00.000Z",
+      "opponent": "Jeff Black",
+      "opponentSlug": "20687-jeff-black",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:05:32.597Z"
+}

@@ -1,0 +1,143 @@
+{
+  "slug": "146517-brandon-polar-uruchurtu",
+  "name": "Brandon Uruchurtu",
+  "nickname": "Polar",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1996-09-09",
+  "nationality": "Mexico",
+  "url": "https://www.tapology.com/fightcenter/fighters/146517-brandon-polar-uruchurtu",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "John Calderon",
+      "opponentSlug": "182443-john-calderon",
+      "result": null,
+      "method": "other",
+      "event": "CFC 6: Proving Grounds",
+      "eventSlug": "139135-cfc-6-proving-grounds",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-01T00:00:00.000Z",
+      "opponent": "Mauricio Partida",
+      "opponentSlug": "194730-mauricio-partida",
+      "result": "loss",
+      "method": "other",
+      "event": "Lux Fight League 47",
+      "eventSlug": "115934-lux-fight-league-47",
+      "round": 1,
+      "timeInRound": "2:21"
+    },
+    {
+      "date": "2023-07-02T00:00:00.000Z",
+      "opponent": "Juan Pablo González",
+      "opponentSlug": "85102-juan-gonzales",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UWC 45: Chávez vs. Gordillo II",
+      "eventSlug": "102305-uwc-45-chavez-vs-gordillo-ii",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-10-28T00:00:00.000Z",
+      "opponent": "Luis Elías",
+      "opponentSlug": "281855-luis-elias",
+      "result": "loss",
+      "method": "tko",
+      "event": "UWC 39: Meraz vs Ramos",
+      "eventSlug": "94370-uwc-39",
+      "round": 1,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2022-07-29T00:00:00.000Z",
+      "opponent": "Fernando Vazquez",
+      "opponentSlug": "317322-oscar-vazquez",
+      "result": "win",
+      "method": "other",
+      "event": "UWC 36",
+      "eventSlug": "91050-uwc-36",
+      "round": 1,
+      "timeInRound": "4:50"
+    },
+    {
+      "date": "2022-02-25T00:00:00.000Z",
+      "opponent": "Adrian Luna Martinetti",
+      "opponentSlug": "139620-juan-adrian-luna",
+      "result": "loss",
+      "method": "other",
+      "event": "UWC 31",
+      "eventSlug": "86161-uwc-31",
+      "round": 2,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2021-08-13T00:00:00.000Z",
+      "opponent": "Braian González",
+      "opponentSlug": "165243-braian-gonzalez",
+      "result": "win",
+      "method": "other",
+      "event": "UWC 28",
+      "eventSlug": "80381-uwc-28",
+      "round": 1,
+      "timeInRound": "4:18"
+    },
+    {
+      "date": "2020-07-03T00:00:00.000Z",
+      "opponent": "Mauricio Nievas",
+      "opponentSlug": "170077-mauricio-nievas",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UWC 22: Total War",
+      "eventSlug": "70824-uwc-22-total-war",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-09T00:00:00.000Z",
+      "opponent": "Alfonso Davila",
+      "opponentSlug": "79918-alfonso-davila",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-10T00:00:00.000Z",
+      "opponent": "Dumar Roa",
+      "opponentSlug": "85381-dumar-roa",
+      "result": "loss",
+      "method": "other",
+      "event": "AKAMMF Pro 1",
+      "eventSlug": "112515-akammf-pro-1-winter-wars",
+      "round": 1,
+      "timeInRound": "4:17"
+    },
+    {
+      "date": "2016-03-19T00:00:00.000Z",
+      "opponent": "Jose Armendariz",
+      "opponentSlug": "271874-jose-armendariz-zurdo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FMP 32",
+      "eventSlug": "105552-fmp-32",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:36:57.375Z"
+}

@@ -1,0 +1,121 @@
+{
+  "slug": "178471-anthony-kromvig",
+  "name": "Anthony Kromvig",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1996-02-04",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/178471-anthony-kromvig",
+  "recentFights": [
+    {
+      "date": "2025-03-22T00:00:00.000Z",
+      "opponent": "Adam Poulin",
+      "opponentSlug": "342208-adam-poulin",
+      "result": "loss",
+      "method": "sub",
+      "event": "Caged Aggression 39",
+      "eventSlug": "121273-caged-aggression-39-the-triad-night-3-ascendance",
+      "round": 2,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2024-08-03T00:00:00.000Z",
+      "opponent": "Mike Oravis",
+      "opponentSlug": "61234-mike-oravis",
+      "result": "win",
+      "method": "other",
+      "event": "Inner Strength MMA 26",
+      "eventSlug": "108991-inner-strength-mma-26",
+      "round": 1,
+      "timeInRound": "1:55"
+    },
+    {
+      "date": "2023-06-02T00:00:00.000Z",
+      "opponent": "Hiram Chavez",
+      "opponentSlug": "376792-hiram-chavez",
+      "result": "loss",
+      "method": "other",
+      "event": "Compass Fight Series 3",
+      "eventSlug": "99578-compass-fight-series-3",
+      "round": 3,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2022-07-23T00:00:00.000Z",
+      "opponent": "Glendal Whitney",
+      "opponentSlug": "222803-glendal-whitney",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Compass Fight Series 1",
+      "eventSlug": "88513-compass-fight-series-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-18T00:00:00.000Z",
+      "opponent": "Christopher Clark",
+      "opponentSlug": "249807-christopher-clark",
+      "result": "win",
+      "method": "other",
+      "event": "Throne MMA 1",
+      "eventSlug": "83034-throne-mma-1",
+      "round": 2,
+      "timeInRound": "2:37"
+    },
+    {
+      "date": "2021-08-14T00:00:00.000Z",
+      "opponent": "Jake Berens",
+      "opponentSlug": "300512-jake-berens",
+      "result": "win",
+      "method": "other",
+      "event": "North Star Combat 16",
+      "eventSlug": "78855-north-star-combat-14-maui-madness",
+      "round": 1,
+      "timeInRound": "2:47"
+    },
+    {
+      "date": "2019-12-21T00:00:00.000Z",
+      "opponent": "Jackson McVey",
+      "opponentSlug": "238221-jackson-mcvey",
+      "result": "loss",
+      "method": "other",
+      "event": "Mecca 16",
+      "eventSlug": "64511-mecca-16",
+      "round": 1,
+      "timeInRound": "0:48"
+    },
+    {
+      "date": "2019-04-27T00:00:00.000Z",
+      "opponent": "John Jones",
+      "opponentSlug": "158187-john-jones",
+      "result": "win",
+      "method": "other",
+      "event": "3 River Throwdown 15",
+      "eventSlug": "57279-3-river-throwdown-15",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-10T00:00:00.000Z",
+      "opponent": "Leon Delgado",
+      "opponentSlug": "139170-leon-delgado",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "A-Town Throwdown 13",
+      "eventSlug": "49553-a-town-throwdown-13",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:54:14.021Z"
+}

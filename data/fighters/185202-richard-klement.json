@@ -1,0 +1,48 @@
+{
+  "slug": "185202-richard-klement",
+  "name": "Richard Klement",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/185202-richard-klement",
+  "recentFights": [
+    {
+      "date": "2018-09-29T00:00:00.000Z",
+      "opponent": "Dominik Humburger",
+      "opponentSlug": "169531-dominik-humburger",
+      "result": "loss",
+      "method": "tko",
+      "event": "MMAA Arena Cup 44",
+      "eventSlug": "55666-mmaa-arena-cup-44",
+      "round": 1,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2018-04-21T00:00:00.000Z",
+      "opponent": "Tomáš Novotný",
+      "opponentSlug": "90181-tom-novotn",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMAA Arena Cup 41",
+      "eventSlug": "52216-mmaa-arena-cup-41-chomutov",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:03:43.667Z"
+}

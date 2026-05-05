@@ -1,0 +1,48 @@
+{
+  "slug": "219690-radzhab-shamilov",
+  "name": "Radzhab Shamilov",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "2000-07-20",
+  "nationality": "Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/219690-radzhab-shamilov",
+  "recentFights": [
+    {
+      "date": "2022-06-10T00:00:00.000Z",
+      "opponent": "Ramazon Chumaev",
+      "opponentSlug": "342725-ramazon-chumaev",
+      "result": "loss",
+      "method": "sub",
+      "event": "Governor's Cup of St. Petersburg 2022",
+      "eventSlug": "90744-cup-of-the-governor-of-st-petersburg-in-mma",
+      "round": 1,
+      "timeInRound": "2:35"
+    },
+    {
+      "date": "2019-04-14T00:00:00.000Z",
+      "opponent": "Nikita Kulshin",
+      "opponentSlug": "178301-nikita-kulshin",
+      "result": "loss",
+      "method": "other",
+      "event": "Russian MMA Championship Of Juniors 2019",
+      "eventSlug": "50646-russian-amateur-mma-championship-2016",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:39:01.234Z"
+}

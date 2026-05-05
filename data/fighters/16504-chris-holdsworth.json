@@ -1,0 +1,176 @@
+{
+  "slug": "16504-chris-holdsworth",
+  "name": "Chris Holdsworth",
+  "nickname": "Hold it Down",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 181,
+  "reachCm": 180,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1987-10-14",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/16504-chris-holdsworth",
+  "recentFights": [
+    {
+      "date": "2014-05-24T00:00:00.000Z",
+      "opponent": "Chico Camus",
+      "opponentSlug": "chico-camus-king",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 173: Barao vs. Dillashaw",
+      "eventSlug": "22469-ufc-173-weidman-vs-belfort",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-11-30T00:00:00.000Z",
+      "opponent": "Davey Grant",
+      "opponentSlug": "18815-david-grant",
+      "result": "win",
+      "method": "sub",
+      "event": "The Ultimate Fighter 18 Finale",
+      "eventSlug": "20173-the-ultimate-fighter-18-finale",
+      "round": 2,
+      "timeInRound": "2:10"
+    },
+    {
+      "date": "2013-07-02T00:00:00.000Z",
+      "opponent": "Mike Wooten",
+      "opponentSlug": "22542-mike-wooten",
+      "result": "win",
+      "method": "sub",
+      "event": "The Ultimate Fighter Season 18",
+      "eventSlug": "33763-the-ultimate-fighter-season-18",
+      "round": 1,
+      "timeInRound": "3:12"
+    },
+    {
+      "date": "2013-06-10T00:00:00.000Z",
+      "opponent": "Chris Beal",
+      "opponentSlug": "19024-chris-beal",
+      "result": "win",
+      "method": "sub",
+      "event": "The Ultimate Fighter Season 18",
+      "eventSlug": "33766-the-ultimate-fighter-season-18",
+      "round": 1,
+      "timeInRound": "4:20"
+    },
+    {
+      "date": "2013-05-29T00:00:00.000Z",
+      "opponent": "Louis Fisette",
+      "opponentSlug": "20363-louis-fisette",
+      "result": "win",
+      "method": "sub",
+      "event": "The Ultimate Fighter Season 18",
+      "eventSlug": "33759-the-ultimate-fighter-season-18",
+      "round": 1,
+      "timeInRound": "4:09"
+    },
+    {
+      "date": "2012-11-02T00:00:00.000Z",
+      "opponent": "Tyler Shinn",
+      "opponentSlug": "22465-tyler-shinn",
+      "result": "win",
+      "method": "sub",
+      "event": "RFA 4: Griffin vs. Escudero",
+      "eventSlug": "15550-rfa-4",
+      "round": 2,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2011-06-30T00:00:00.000Z",
+      "opponent": "Juan Rivas",
+      "opponentSlug": "5010-juan-rivas",
+      "result": "win",
+      "method": "sub",
+      "event": "KOTC: Next Generation",
+      "eventSlug": "9912-kotc-next-generation",
+      "round": 1,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2011-02-20T00:00:00.000Z",
+      "opponent": "Gustavo Limon",
+      "opponentSlug": "33828-gustavo-limon",
+      "result": "win",
+      "method": "sub",
+      "event": "Gladiator Challenge",
+      "eventSlug": "8716-gladiator-challenge-legends-collide-2",
+      "round": 1,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2010-10-09T00:00:00.000Z",
+      "opponent": "Randy Villarreal",
+      "opponentSlug": "14670-randy-villareal",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-08-06T00:00:00.000Z",
+      "opponent": "Anthony Gutierrez",
+      "opponentSlug": "anthony-gutierrez-shark-bait",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-02-26T00:00:00.000Z",
+      "opponent": "Gor Mnatsakanyan",
+      "opponentSlug": "26340-gor-mnatsakanyan",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-09-18T00:00:00.000Z",
+      "opponent": "Cameron Ramirez",
+      "opponentSlug": "64938-cameron-ramirez",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-08-22T00:00:00.000Z",
+      "opponent": "Justin Linn",
+      "opponentSlug": "21931-justin-linn-the-mortal-sinn",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-05-30T00:00:00.000Z",
+      "opponent": "Gabe Gonzales",
+      "opponentSlug": "15659-gabe-gonzales",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:36:12.259Z"
+}

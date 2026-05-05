@@ -1,0 +1,70 @@
+{
+  "slug": "307739-brianna-knightingale",
+  "name": "Brianna Nightingale",
+  "nickname": "Starr",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": 165,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "2000-09-07",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/307739-brianna-knightingale",
+  "recentFights": [
+    {
+      "date": "2025-11-08T00:00:00.000Z",
+      "opponent": "Kayara Hartfield",
+      "opponentSlug": "499516-kayara-hartfield",
+      "result": "loss",
+      "method": "tko",
+      "event": "Flex Fights",
+      "eventSlug": "135349-flex-fights-the-underground-vol-52",
+      "round": 2,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2025-04-26T00:00:00.000Z",
+      "opponent": "Krickett Jones",
+      "opponentSlug": "477243-krickett-jones",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Flex Fights",
+      "eventSlug": "125843-flex-fights",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-13T00:00:00.000Z",
+      "opponent": "Brianna Machado",
+      "opponentSlug": "337295-brianna-machado",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Flex Fights",
+      "eventSlug": "112034-flex-fights-fire-fight-vol-34",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-15T00:00:00.000Z",
+      "opponent": "Amanda-Jo Basturk",
+      "opponentSlug": "365660-amanda-jo-nau",
+      "result": "loss",
+      "method": "sub",
+      "event": "Flex Fights",
+      "eventSlug": "102518-flex-fights-vol-25",
+      "round": 1,
+      "timeInRound": "1:36"
+    }
+  ],
+  "lastVerified": "2026-04-18T09:06:45.757Z"
+}

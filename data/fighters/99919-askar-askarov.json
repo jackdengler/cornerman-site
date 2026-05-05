@@ -1,0 +1,209 @@
+{
+  "slug": "99919-askar-askarov",
+  "name": "Askar Askarov",
+  "nickname": "Bullet",
+  "aliases": [],
+  "recordPro": {
+    "wins": 15,
+    "losses": 1,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 167,
+  "reachCm": 170,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1992-10-09",
+  "nationality": "Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/99919-askar-askarov",
+  "recentFights": [
+    {
+      "date": "2023-11-24T00:00:00.000Z",
+      "opponent": "Alan Gomes",
+      "opponentSlug": "56378-alan-gomes",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ACA 166: Magomedov vs. Dolgov",
+      "eventSlug": "106482-aca-166-magomedov-vs-dolgov",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-26T00:00:00.000Z",
+      "opponent": "Kai Kara-France",
+      "opponentSlug": "24803-kaiwhare-kara-france",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "84285-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-06T00:00:00.000Z",
+      "opponent": "Joseph Benavidez",
+      "opponentSlug": "joseph-benavidez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 259: Błachowicz vs. Adesanya",
+      "eventSlug": "74079-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-07-18T00:00:00.000Z",
+      "opponent": "Alexandre Pantoja",
+      "opponentSlug": "12767-alexandre-pantoja",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "69705-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-01-18T00:00:00.000Z",
+      "opponent": "Tim Elliott",
+      "opponentSlug": "13664-timothy-elliot",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 246: McGregor vs. Cerrone",
+      "eventSlug": "63997-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-21T00:00:00.000Z",
+      "opponent": "Brandon Moreno",
+      "opponentSlug": "27833-brandon-moreno-the-assassin",
+      "result": "draw",
+      "method": "dec-split",
+      "event": "UFC on ESPN+ 17",
+      "eventSlug": "60316-ufc-on-espn-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-05T00:00:00.000Z",
+      "opponent": "Rasul Albaskhanov",
+      "opponentSlug": "66123-rasul-albaskhanov",
+      "result": "win",
+      "method": "sub",
+      "event": "ACB 86: Raisov vs Balaev",
+      "eventSlug": "51158-acb-86",
+      "round": 2,
+      "timeInRound": "1:59"
+    },
+    {
+      "date": "2017-04-22T00:00:00.000Z",
+      "opponent": "Anthony Leone",
+      "opponentSlug": "anthony-leone",
+      "result": "win",
+      "method": "other",
+      "event": "ACB 58: Young Eagles 17",
+      "eventSlug": "44854-acb-58",
+      "round": 3,
+      "timeInRound": "2:49"
+    },
+    {
+      "date": "2016-10-22T00:00:00.000Z",
+      "opponent": "José Maria Tomé",
+      "opponentSlug": "12835-jose-maria-tome-no-chance",
+      "result": "win",
+      "method": "other",
+      "event": "ACB 48: Revenge",
+      "eventSlug": "40973-absolute-championship-berkut-47-the-rematch",
+      "round": 5,
+      "timeInRound": "1:57"
+    },
+    {
+      "date": "2016-05-20T00:00:00.000Z",
+      "opponent": "Ruslan Abiltarov",
+      "opponentSlug": "52113-ruslan-abiltarov-the-predator",
+      "result": "win",
+      "method": "sub",
+      "event": "Absolute Championship Berkut 38",
+      "eventSlug": "39597-absolute-championship-berkut-38-breakthrough",
+      "round": 2,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2016-02-06T00:00:00.000Z",
+      "opponent": "Marcin Lasota",
+      "opponentSlug": "33026-marcin-lasota-bj",
+      "result": "win",
+      "method": "other",
+      "event": "Absolute Championship Berkut 29",
+      "eventSlug": "36597-absolute-championship-berkut-29-poland",
+      "round": 2,
+      "timeInRound": "3:35"
+    },
+    {
+      "date": "2015-09-12T00:00:00.000Z",
+      "opponent": "Kirill Medvedovski",
+      "opponentSlug": "96817-kirill-medvedovski",
+      "result": "win",
+      "method": "sub",
+      "event": "ACB 22: Berkut Cup 2015 - Stage 6",
+      "eventSlug": "34273-absolute-championship-berkut-22-grand-prix-berkut-2015-finals",
+      "round": 3,
+      "timeInRound": "3:54"
+    },
+    {
+      "date": "2015-05-02T00:00:00.000Z",
+      "opponent": "Vyacheslav Gagiev",
+      "opponentSlug": "45327-vyacheslav-gagiev",
+      "result": "win",
+      "method": "other",
+      "event": "ACB 18: Bayer vs. Kasumov",
+      "eventSlug": "32203-absolute-championship-berkut-18",
+      "round": 2,
+      "timeInRound": "3:03"
+    },
+    {
+      "date": "2014-06-21T00:00:00.000Z",
+      "opponent": "Vakha Kadyrov",
+      "opponentSlug": "272119-vakha-kadyrov",
+      "result": "win",
+      "method": "other",
+      "event": "Khasavyurt Fight",
+      "eventSlug": "52436-khasavyurt-fight-dagestan-mma-open-cup-2014",
+      "round": 1,
+      "timeInRound": "3:15"
+    },
+    {
+      "date": "2014-02-15T00:00:00.000Z",
+      "opponent": "Elvin Abbasov",
+      "opponentSlug": "122662-elvin-abbasov",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-12-08T00:00:00.000Z",
+      "opponent": "Kvanzhakov Kantemir",
+      "opponentSlug": "137887-kvanzhakov-kantemir",
+      "result": "win",
+      "method": "other",
+      "event": "Sparta Club Challenge 2013",
+      "eventSlug": "41196-sparta-club-challenge-2013-sosnovy-bor-vs-leningrad",
+      "round": 1,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2013-07-07T00:00:00.000Z",
+      "opponent": "Shamil Amirov",
+      "opponentSlug": "99923-shamil-amirov",
+      "result": "win",
+      "method": "sub",
+      "event": "Kavkaz League",
+      "eventSlug": "23388-kavkaz-league-grand-umakhan-battle",
+      "round": 2,
+      "timeInRound": "2:05"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:12:33.080Z"
+}

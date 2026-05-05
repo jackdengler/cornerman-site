@@ -1,0 +1,143 @@
+{
+  "slug": "109679-joe-taylor",
+  "name": "Joe Taylor",
+  "nickname": "Son Of A Legend",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 194,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1984-03-28",
+  "nationality": "Lockport, New York",
+  "url": "https://www.tapology.com/fightcenter/fighters/109679-joe-taylor",
+  "recentFights": [
+    {
+      "date": "2025-11-21T00:00:00.000Z",
+      "opponent": "Shealor Ladd",
+      "opponentSlug": "288919-shealor-ladd",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 223: Francischinelli vs. Piersma",
+      "eventSlug": "133540-lfa-223",
+      "round": 1,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2025-08-15T00:00:00.000Z",
+      "opponent": "Justin Sumter",
+      "opponentSlug": "35974-justin-sumter",
+      "result": "loss",
+      "method": "sub",
+      "event": "Victory Fighting League",
+      "eventSlug": "131386-victory-fighting-league",
+      "round": 1,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2025-02-21T00:00:00.000Z",
+      "opponent": "Phillip Latu",
+      "opponentSlug": "303053-phillip-latu",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 202: Nkuta vs. Garcia",
+      "eventSlug": "121295-lfa-202",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-02-23T00:00:00.000Z",
+      "opponent": "Gabriel Thimoteo",
+      "opponentSlug": "44417-gabriel-thimoteo-gb",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 177: Smyth vs. Magomedov",
+      "eventSlug": "109369-legacy-fighting-alliance-177-lfa-177-lfa-177",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-24T00:00:00.000Z",
+      "opponent": "Ben Parrish",
+      "opponentSlug": "55777-ben-parish",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 155: Do Nascimento vs. Hodge",
+      "eventSlug": "97950-lfa-155-do-nascimento-vs-hodge",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-09T00:00:00.000Z",
+      "opponent": "George Clynes",
+      "opponentSlug": "39588-george-clynes",
+      "result": "win",
+      "method": "tko",
+      "event": "KOTC: Legendary",
+      "eventSlug": "83150-kotc-legendary",
+      "round": 4,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2018-02-17T00:00:00.000Z",
+      "opponent": "Daniel Rosales",
+      "opponentSlug": "29045-daniel-rosales",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KOTC: Prevail",
+      "eventSlug": "50405-king-of-the-cage-prevail",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-02-25T00:00:00.000Z",
+      "opponent": "Alejandro Santiago",
+      "opponentSlug": "75621-alejandro-santiago",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KOTC: Raw Deal",
+      "eventSlug": "44340-kotc-raw-deal",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-24T00:00:00.000Z",
+      "opponent": "Savalas Williams",
+      "opponentSlug": "53290-savales-williams",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KOTC: National Dispute",
+      "eventSlug": "41723-kotc-national-dispute",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-03-05T00:00:00.000Z",
+      "opponent": "Armus Guyton",
+      "opponentSlug": "81024-armus-guyton",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "TNT Fight Series",
+      "eventSlug": "37260-tnt-fight-series",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-15T00:00:00.000Z",
+      "opponent": "Patrick Schul",
+      "opponentSlug": "109680-patrick-schul",
+      "result": "win",
+      "method": "tko",
+      "event": "TNT Fight Series",
+      "eventSlug": "33961-tnt-fight-series",
+      "round": 1,
+      "timeInRound": "2:25"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:40:27.700Z"
+}

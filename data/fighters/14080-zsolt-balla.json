@@ -1,0 +1,231 @@
+{
+  "slug": "14080-zsolt-balla",
+  "name": "Zsolt Balla",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 12,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": 183,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1987-11-10",
+  "nationality": "Romania",
+  "url": "https://www.tapology.com/fightcenter/fighters/14080-zsolt-balla",
+  "recentFights": [
+    {
+      "date": "2024-04-27T00:00:00.000Z",
+      "opponent": "Agron Smakici",
+      "opponentSlug": "126135-agron-smakici",
+      "result": "loss",
+      "method": "other",
+      "event": "Sparta Championship Fighting 4",
+      "eventSlug": "111996-sparta-championship-fighting-4",
+      "round": 1,
+      "timeInRound": "0:13"
+    },
+    {
+      "date": "2024-02-17T00:00:00.000Z",
+      "opponent": "Salim El Ouassaidi",
+      "opponentSlug": "294051-salim-el-ouassaidi",
+      "result": "loss",
+      "method": "tko",
+      "event": "UC 2",
+      "eventSlug": "109439-uc-2",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-02T00:00:00.000Z",
+      "opponent": "Tarhan Ibragimov",
+      "opponentSlug": "169622-tarhan-ibragimov",
+      "result": "loss",
+      "method": "sub",
+      "event": "Vendetta Fight Nights 36",
+      "eventSlug": "102085-vendetta-fight-nights-36",
+      "round": 1,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2023-09-16T00:00:00.000Z",
+      "opponent": "Quentin Domingos",
+      "opponentSlug": "181123-quentin-domingos-ruskov",
+      "result": "loss",
+      "method": "other",
+      "event": "UC 1",
+      "eventSlug": "104904-uc-1",
+      "round": 1,
+      "timeInRound": "0:25"
+    },
+    {
+      "date": "2023-08-12T00:00:00.000Z",
+      "opponent": "Kamil Gawryjołek",
+      "opponentSlug": "237900-kamil-gawryjolek",
+      "result": "loss",
+      "method": "sub",
+      "event": "Strife Tube 1",
+      "eventSlug": "103085-strife-tube",
+      "round": 1,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2023-05-13T00:00:00.000Z",
+      "opponent": "Vojtech Garba",
+      "opponentSlug": "145826-vojtech-garba",
+      "result": "loss",
+      "method": "other",
+      "event": "RFA 10",
+      "eventSlug": "99135-rfa-10",
+      "round": 1,
+      "timeInRound": "4:11"
+    },
+    {
+      "date": "2022-10-08T00:00:00.000Z",
+      "opponent": "Evgeny Orlov",
+      "opponentSlug": "188847-evgeny-orlov",
+      "result": "loss",
+      "method": "sub",
+      "event": "RFA 4",
+      "eventSlug": "91502-rfa-4",
+      "round": 1,
+      "timeInRound": "3:03"
+    },
+    {
+      "date": "2022-06-24T00:00:00.000Z",
+      "opponent": "Constantin Florin Danila",
+      "opponentSlug": "240571-constantin-florin-danila",
+      "result": "win",
+      "method": "other",
+      "event": "Heroes Fight League 4",
+      "eventSlug": "90001-heroes-fight-league-4-the-great-confrontation",
+      "round": 1,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2018-04-28T00:00:00.000Z",
+      "opponent": "Jay Silva",
+      "opponentSlug": "jay-silva",
+      "result": "loss",
+      "method": "other",
+      "event": "Serbian Battle Championship 17",
+      "eventSlug": "52659-serbian-battle-championship-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-19T00:00:00.000Z",
+      "opponent": "Maciej Sosnowski",
+      "opponentSlug": "116854-maciej-sosnowski-magic",
+      "result": "win",
+      "method": "other",
+      "event": "RXF 20: The Champion is Here",
+      "eventSlug": "35884-rxf-20",
+      "round": 1,
+      "timeInRound": "4:36"
+    },
+    {
+      "date": "2013-11-15T00:00:00.000Z",
+      "opponent": "Luca Valentin",
+      "opponentSlug": "185330-luca-valentin",
+      "result": "draw",
+      "method": "dec-majority",
+      "event": "UFT 2",
+      "eventSlug": "52200-uft-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-09-27T00:00:00.000Z",
+      "opponent": "Kamen Georgiev",
+      "opponentSlug": "3723-kamen-georgiev",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-12-07T00:00:00.000Z",
+      "opponent": "Adrian Stoiti",
+      "opponentSlug": "26060-adrian-stoiti-adi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Local Kombat 39",
+      "eventSlug": "21336-local-kombat-atodiresei-vs-eguzkiza",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-10-29T00:00:00.000Z",
+      "opponent": "Mathias Schuck",
+      "opponentSlug": "16997-mathias-schuck",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-10-08T00:00:00.000Z",
+      "opponent": "Linton Vassell",
+      "opponentSlug": "13890-Linton-Vassell",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-10-01T00:00:00.000Z",
+      "opponent": "Steven Evans",
+      "opponentSlug": "27167-steven-evans-gomer",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-07-02T00:00:00.000Z",
+      "opponent": "Luke Blythe",
+      "opponentSlug": "12221-luke-blythe",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-04-23T00:00:00.000Z",
+      "opponent": "Hans Stringer",
+      "opponentSlug": "14638-hans-stringer",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-04-01T00:00:00.000Z",
+      "opponent": "Darren Towler",
+      "opponentSlug": "14075-Darren-Towler",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:08:49.725Z"
+}

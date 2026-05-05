@@ -1,0 +1,154 @@
+{
+  "slug": "72469-justin-burlinson",
+  "name": "Justin Burlinson",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 188,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1997-05-19",
+  "nationality": "England",
+  "url": "https://www.tapology.com/fightcenter/fighters/72469-justin-burlinson",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Sean Clancy Jr.",
+      "opponentSlug": "195538-sean-clancy-jr",
+      "result": null,
+      "method": "other",
+      "event": "Cage Warriors 205",
+      "eventSlug": "138938-cage-warriors-205",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-04-26T00:00:00.000Z",
+      "opponent": "James Sheehan",
+      "opponentSlug": "55690-james-sheehan",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Warriors 188",
+      "eventSlug": "120833-cage-warriors-188",
+      "round": 4,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2024-11-23T00:00:00.000Z",
+      "opponent": "Theodor Berggren",
+      "opponentSlug": "234290-theodor-berggren",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Warriors 181",
+      "eventSlug": "114649-cage-warriors-181",
+      "round": 3,
+      "timeInRound": "2:44"
+    },
+    {
+      "date": "2023-03-17T00:00:00.000Z",
+      "opponent": "Jamie Richardson",
+      "opponentSlug": "52702-jamie-richardson",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Warriors 150",
+      "eventSlug": "97402-cage-warriors-150-london",
+      "round": 3,
+      "timeInRound": "3:55"
+    },
+    {
+      "date": "2022-06-25T00:00:00.000Z",
+      "opponent": "Rhys McKee",
+      "opponentSlug": "54321-rhys-mckee",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 140",
+      "eventSlug": "87787-cage-warriors-137",
+      "round": 3,
+      "timeInRound": "0:20"
+    },
+    {
+      "date": "2022-04-01T00:00:00.000Z",
+      "opponent": "Daniel Skibiński",
+      "opponentSlug": "50975-daniel-skibinski",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Warriors 135",
+      "eventSlug": "86254-cage-warriors-135",
+      "round": 2,
+      "timeInRound": "4:54"
+    },
+    {
+      "date": "2021-11-02T00:00:00.000Z",
+      "opponent": "Yohan Lainesse",
+      "opponentSlug": "143438-yohan-lainesse",
+      "result": "loss",
+      "method": "other",
+      "event": "Contender Series 2021",
+      "eventSlug": "81550-contender-series-2021-week-10",
+      "round": 1,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2021-06-25T00:00:00.000Z",
+      "opponent": "David Bear",
+      "opponentSlug": "63545-david-bear",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 124",
+      "eventSlug": "78049-cage-warriors-124",
+      "round": 2,
+      "timeInRound": "2:42"
+    },
+    {
+      "date": "2019-06-22T00:00:00.000Z",
+      "opponent": "Wendle Lewis",
+      "opponentSlug": "17702-wendle-lewis",
+      "result": "win",
+      "method": "sub",
+      "event": "Bellator 223",
+      "eventSlug": "59347-bellator-london-mousasi-vs-lovato-jr",
+      "round": 1,
+      "timeInRound": "0:09"
+    },
+    {
+      "date": "2019-02-09T00:00:00.000Z",
+      "opponent": "Maciek Gierszewski",
+      "opponentSlug": "69507-maciek-gierszewski",
+      "result": "win",
+      "method": "sub",
+      "event": "Bellator Newcastle",
+      "eventSlug": "56885-bellator",
+      "round": 1,
+      "timeInRound": "4:04"
+    },
+    {
+      "date": "2018-03-09T00:00:00.000Z",
+      "opponent": "Tommy King",
+      "opponentSlug": "165971-tommy-king",
+      "result": "win",
+      "method": "other",
+      "event": "BAMMA 34: Lohore vs. Brazier",
+      "eventSlug": "49668-bamma-34-lohore-vs-brazier",
+      "round": 1,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2017-12-15T00:00:00.000Z",
+      "opponent": "Josh Plant",
+      "opponentSlug": "68599-josh-plant",
+      "result": "win",
+      "method": "sub",
+      "event": "BAMMA 33: Scope Vs. Lebout",
+      "eventSlug": "48120-bamma-33",
+      "round": 1,
+      "timeInRound": "2:53"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:05:20.769Z"
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "419339-tristan-bui-huu",
+  "name": "Tristan Bui Huu",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 4,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/419339-tristan-bui-huu",
+  "recentFights": [
+    {
+      "date": "2025-06-19T00:00:00.000Z",
+      "opponent": "Rudy Johnson III",
+      "opponentSlug": "243098-rudolph-johnson-iii",
+      "result": "loss",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "128421-gamma-world-championships-2025-preliminaries",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-02-23T00:00:00.000Z",
+      "opponent": "Rahmatullah Khalili",
+      "opponentSlug": "487766-rahmatullah-khalili",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMA League 18 : Day 2",
+      "eventSlug": "124470-mma-league-18-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-01-18T00:00:00.000Z",
+      "opponent": "Reda Hayfa",
+      "opponentSlug": "378933-hayfa-reda",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MMA League 17: Day 1",
+      "eventSlug": "122688-mma-league-17-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-12-13T00:00:00.000Z",
+      "opponent": "Vishnu Warrier",
+      "opponentSlug": "367353-vishnu-warrier",
+      "result": "loss",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "123283-gamma-world-championships-2024-preliminaries-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-08T00:00:00.000Z",
+      "opponent": "Yermakhan Oryntaev",
+      "opponentSlug": "361593-yermakhan-oryntaev",
+      "result": "loss",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "108384-gamma-world-mma-championship-2023-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-08T00:00:00.000Z",
+      "opponent": "Derick Daniel",
+      "opponentSlug": "419337-derick-daniel",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "108384-gamma-world-mma-championship-2023-day-1",
+      "round": 1,
+      "timeInRound": "0:56"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:43:53.367Z"
+}

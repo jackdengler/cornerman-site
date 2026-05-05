@@ -1,0 +1,165 @@
+{
+  "slug": "97821-mikey-conlon",
+  "name": "Mikey Conlon",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1994-04-03",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/97821-mikey-conlon",
+  "recentFights": [
+    {
+      "date": "2025-06-21T00:00:00.000Z",
+      "opponent": "Francisco Segrado",
+      "opponentSlug": "100673-francisco-segrado",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combat Night St. Pete",
+      "eventSlug": "127308-combat-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-10-26T00:00:00.000Z",
+      "opponent": "Daniel Miller",
+      "opponentSlug": "93879-daniel-miller",
+      "result": "win",
+      "method": "sub",
+      "event": "Combat Night Duval",
+      "eventSlug": "118611-combat-night",
+      "round": 1,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2024-06-22T00:00:00.000Z",
+      "opponent": "James Lawson",
+      "opponentSlug": "339965-james-lawson",
+      "result": "win",
+      "method": "other",
+      "event": "Combat Night St Pete",
+      "eventSlug": "113983-combat-night-st-pete",
+      "round": 1,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2024-02-17T00:00:00.000Z",
+      "opponent": "Shane Mason",
+      "opponentSlug": "359600-shane-mason",
+      "result": "win",
+      "method": "tko",
+      "event": "Combat Night",
+      "eventSlug": "108794-combat-night-tally",
+      "round": 1,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2023-05-13T00:00:00.000Z",
+      "opponent": "Walter Zelaya",
+      "opponentSlug": "171181-walter-zelaya",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Combat Night",
+      "eventSlug": "99895-combat-night-orlando",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-05T00:00:00.000Z",
+      "opponent": "Owen Beining",
+      "opponentSlug": "216972-owen-beining",
+      "result": "win",
+      "method": "sub",
+      "event": "Combat Night Pro 22",
+      "eventSlug": "78757-combat-night-pro-22",
+      "round": 3,
+      "timeInRound": "2:37"
+    },
+    {
+      "date": "2020-12-19T00:00:00.000Z",
+      "opponent": "Korey Taylor",
+      "opponentSlug": "193806-korey-taylor",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combat Night 122",
+      "eventSlug": "75066-combat-night-122-duval",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-13T00:00:00.000Z",
+      "opponent": "Parris McLeod",
+      "opponentSlug": "178498-parris-mcleod",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "WCFL 22",
+      "eventSlug": "55907-wcfl-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-02T00:00:00.000Z",
+      "opponent": "Michael Robles",
+      "opponentSlug": "116519-michael-robles-twista",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "WCFL 21",
+      "eventSlug": "53465-wcfl-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-10-13T00:00:00.000Z",
+      "opponent": "Michael Robles",
+      "opponentSlug": "116519-michael-robles-twista",
+      "result": "win",
+      "method": "other",
+      "event": "WCFL 19",
+      "eventSlug": "48602-wcfl-19",
+      "round": 3,
+      "timeInRound": "1:22"
+    },
+    {
+      "date": "2017-05-26T00:00:00.000Z",
+      "opponent": "Fidel Paulino",
+      "opponentSlug": "148633-fidel-paulino",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WCFL 18",
+      "eventSlug": "45858-wcfl-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-04-04T00:00:00.000Z",
+      "opponent": "Eddie Kortright",
+      "opponentSlug": "97810-eddie-kortright",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Gracie Tampa Fight Night",
+      "eventSlug": "31707-gracie-tampa-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-09-20T00:00:00.000Z",
+      "opponent": "Jeremy Hohl",
+      "opponentSlug": "95648-jeremy-hohl",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:37:15.684Z"
+}

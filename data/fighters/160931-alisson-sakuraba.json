@@ -1,0 +1,242 @@
+{
+  "slug": "160931-alisson-sakuraba",
+  "name": "Alisson Marreira",
+  "nickname": "Sakuraba",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 11,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 174,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Fortaleza, Ceara, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/160931-alisson-sakuraba",
+  "recentFights": [
+    {
+      "date": "2025-05-10T00:00:00.000Z",
+      "opponent": "Samuel Blasco",
+      "opponentSlug": "158893-samuel-blasco-yan",
+      "result": "loss",
+      "method": "other",
+      "event": "LBS Promotions",
+      "eventSlug": "128607-lbs-promotions",
+      "round": 1,
+      "timeInRound": "4:16"
+    },
+    {
+      "date": "2025-03-15T00:00:00.000Z",
+      "opponent": "Chris Price",
+      "opponentSlug": "97871-chris-price",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 185",
+      "eventSlug": "120830-cage-warriors-185",
+      "round": 3,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2025-01-25T00:00:00.000Z",
+      "opponent": "Jan Malach",
+      "opponentSlug": "64719-jan-malach",
+      "result": "loss",
+      "method": "other",
+      "event": "PML 13",
+      "eventSlug": "121880-pml-13",
+      "round": 1,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2024-11-15T00:00:00.000Z",
+      "opponent": "Antônio Marcos da Silva",
+      "opponentSlug": "157350-antonio-marcos-souza",
+      "result": "win",
+      "method": "dec-split",
+      "event": "LBS Promotions",
+      "eventSlug": "118484-lbs-promotions",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-21T00:00:00.000Z",
+      "opponent": "Maikel Astur",
+      "opponentSlug": "281613-maikel-astur",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MMA Raju 16",
+      "eventSlug": "118298-mma-raju-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-29T00:00:00.000Z",
+      "opponent": "Geysim Derouiche",
+      "opponentSlug": "150178-zidane-geisym",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "AFC 2",
+      "eventSlug": "115745-afc-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-15T00:00:00.000Z",
+      "opponent": "Daniel Skibiński",
+      "opponentSlug": "50975-daniel-skibinski",
+      "result": "loss",
+      "method": "other",
+      "event": "Hybrid MMA 2",
+      "eventSlug": "108408-hybrid-mma-2-skibinski-vs-rodrigues",
+      "round": 1,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2023-09-06T00:00:00.000Z",
+      "opponent": "Artūrs Leisāns",
+      "opponentSlug": "148146-arturs-leisans",
+      "result": "loss",
+      "method": "tko",
+      "event": "CFC 15: ACTIVM",
+      "eventSlug": "97726-centurion-fc",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-13T00:00:00.000Z",
+      "opponent": "Jose Sanchez",
+      "opponentSlug": "129469-jose-sepulveda-sasi",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "Fight 2 One #2",
+      "eventSlug": "100504-fight-2-one-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-18T00:00:00.000Z",
+      "opponent": "Kevin Cordero",
+      "opponentSlug": "115430-kevin-cordero",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Fight 2 One #1",
+      "eventSlug": "98070-fight-2-one",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-26T00:00:00.000Z",
+      "opponent": "Jose Sanchez",
+      "opponentSlug": "129469-jose-sepulveda-sasi",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "SCC 12",
+      "eventSlug": "93324-scc-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-07T00:00:00.000Z",
+      "opponent": "Guilherme Doin",
+      "opponentSlug": "47080-guilherme-doin",
+      "result": "loss",
+      "method": "other",
+      "event": "USC 5",
+      "eventSlug": "91157-usc-5",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2022-06-11T00:00:00.000Z",
+      "opponent": "Robson Guilherme",
+      "opponentSlug": "266638-robson-guilherme-cassaco",
+      "result": "win",
+      "method": "tko",
+      "event": "Fortal Combat 1",
+      "eventSlug": "91634-fortal-combat-mma",
+      "round": 1,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2021-05-27T00:00:00.000Z",
+      "opponent": "Arlen Ribeiro",
+      "opponentSlug": "51988-arlen-ribeiro-hellboy",
+      "result": "loss",
+      "method": "sub",
+      "event": "Victorious MMA 4",
+      "eventSlug": "78089-victorious-fc-4",
+      "round": 1,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2019-12-14T00:00:00.000Z",
+      "opponent": "Antonio Chirlano",
+      "opponentSlug": "202235-antonio-chirlano-psicopata",
+      "result": "win",
+      "method": "other",
+      "event": "Action Fight 15",
+      "eventSlug": "67646-action-fight-15",
+      "round": 2,
+      "timeInRound": "3:35"
+    },
+    {
+      "date": "2019-09-05T00:00:00.000Z",
+      "opponent": "Carlos Castro",
+      "opponentSlug": "222800-carlos-castro-machida",
+      "result": "win",
+      "method": "other",
+      "event": "Jijoca FC 2",
+      "eventSlug": "68212-jijoca-fc-2",
+      "round": 1,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2017-12-16T00:00:00.000Z",
+      "opponent": "Gabriel Almeida",
+      "opponentSlug": "185761-gabriel-almeida-cabeca",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-10-07T00:00:00.000Z",
+      "opponent": "Marilson Marinho",
+      "opponentSlug": "157355-marilson-marinho-vieira",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-24T00:00:00.000Z",
+      "opponent": "Thiago Barbosa",
+      "opponentSlug": "160550-thiago-bod",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Action Fight 5",
+      "eventSlug": "44741-action-fight-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-25T00:00:00.000Z",
+      "opponent": "Eduardo Ferreira",
+      "opponentSlug": "393289-eduardo-ferreira-lobo",
+      "result": "win",
+      "method": "other",
+      "event": "Maju Fight Combat 5",
+      "eventSlug": "102692-maju-fight-combat-5",
+      "round": 1,
+      "timeInRound": "2:59"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:07:22.165Z"
+}

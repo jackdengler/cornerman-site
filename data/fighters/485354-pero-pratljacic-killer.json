@@ -1,0 +1,66 @@
+{
+  "slug": "485354-pero-pratljacic-killer",
+  "name": "Pero Pratljacic",
+  "nickname": "Killer",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "2003-08-11",
+  "nationality": "Croatia",
+  "url": "https://www.tapology.com/fightcenter/fighters/485354-pero-pratljacic-killer",
+  "recentFights": [
+    {
+      "date": "2025-06-07T00:00:00.000Z",
+      "opponent": "Danijel Špoljarić",
+      "opponentSlug": "171967-danijel-spoljaric",
+      "result": "loss",
+      "method": "sub",
+      "event": "BFN 7: Uprising",
+      "eventSlug": "129299-bfn-7-uprising",
+      "round": 1,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2025-05-10T00:00:00.000Z",
+      "opponent": "Vid Vrdoljak",
+      "opponentSlug": "430574-vid-vrdoljak",
+      "result": "loss",
+      "method": "sub",
+      "event": "Baraber Fight Night",
+      "eventSlug": "127824-baraber-fight-night",
+      "round": 1,
+      "timeInRound": "1:03"
+    },
+    {
+      "date": "2025-04-26T00:00:00.000Z",
+      "opponent": "Stefan Končar",
+      "opponentSlug": "481316-stefan-koncar-the-terror",
+      "result": "loss",
+      "method": "other",
+      "event": "ACF 5 & IMPACT 4",
+      "eventSlug": "126639-acf-5-impact-4",
+      "round": 1,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2025-03-08T00:00:00.000Z",
+      "opponent": "Zoran Đođ",
+      "opponentSlug": "60549-zoran-dod",
+      "result": "loss",
+      "method": "sub",
+      "event": "ACF 4",
+      "eventSlug": "123727-acf-4",
+      "round": 1,
+      "timeInRound": "3:31"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:08:38.242Z"
+}

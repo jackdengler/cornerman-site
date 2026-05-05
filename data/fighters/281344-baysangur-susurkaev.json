@@ -1,0 +1,154 @@
+{
+  "slug": "281344-baysangur-susurkaev",
+  "name": "Baisangur Susurkaev",
+  "nickname": "Hunter",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": 201,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "2001-01-08",
+  "nationality": "Chechnya, Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/281344-baysangur-susurkaev",
+  "recentFights": [
+    {
+      "date": "2026-05-09T00:00:00.000Z",
+      "opponent": "Djorden Santos",
+      "opponentSlug": "67529-diorden-maguila",
+      "result": null,
+      "method": "other",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "eventSlug": "140614-ufc-328",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-15T00:00:00.000Z",
+      "opponent": "Eric McConico",
+      "opponentSlug": "112634-eric-mcconico",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 322",
+      "eventSlug": "132653-ufc-322",
+      "round": 3,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2025-08-16T00:00:00.000Z",
+      "opponent": "Eric Nolan",
+      "opponentSlug": "228963-eric-nolan",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC 319: Du Plessis vs. Chimaev",
+      "eventSlug": "128190-ufc-319-du-plessis-vs-chimaev",
+      "round": 2,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2025-08-12T00:00:00.000Z",
+      "opponent": "Murtaza Talha",
+      "opponentSlug": "170936-murtaza-talha-ali",
+      "result": "win",
+      "method": "other",
+      "event": "Contender Series 2025",
+      "eventSlug": "128458-contender-series-2025-week-1",
+      "round": 1,
+      "timeInRound": "3:04"
+    },
+    {
+      "date": "2025-02-21T00:00:00.000Z",
+      "opponent": "Irakli Kuchukhidze",
+      "opponentSlug": "195120-irakli-kuchukudze",
+      "result": "win",
+      "method": "tko",
+      "event": "Fury FC 102",
+      "eventSlug": "122357-fury-fc-102-yannis-vs-rosas",
+      "round": 2,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2024-11-22T00:00:00.000Z",
+      "opponent": "Shane Sobnosky",
+      "opponentSlug": "62083-shane-sobnosky",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "BORROKA 1",
+      "eventSlug": "119099-borroka-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-31T00:00:00.000Z",
+      "opponent": "Artem Kuzmin",
+      "opponentSlug": "65515-artem-kuzmin",
+      "result": "win",
+      "method": "other",
+      "event": "ACA Young Eagles 26",
+      "eventSlug": "87923-aca-young-eagles-26",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2021-12-25T00:00:00.000Z",
+      "opponent": "Bekhruz Kurbonov",
+      "opponentSlug": "230219-bekhruz-kurbonov",
+      "result": "win",
+      "method": "other",
+      "event": "ACA Young Eagles 23",
+      "eventSlug": "84998-aca-young-eagles-23-grand-prix-finals",
+      "round": 1,
+      "timeInRound": "0:40"
+    },
+    {
+      "date": "2021-08-16T00:00:00.000Z",
+      "opponent": "Islom Sharopov",
+      "opponentSlug": "237225-islom-sharopov",
+      "result": "win",
+      "method": "other",
+      "event": "ACA Young Eagles 20",
+      "eventSlug": "81948-aca-young-eagles-20-grand-prix-semifinals",
+      "round": 1,
+      "timeInRound": "0:59"
+    },
+    {
+      "date": "2021-01-30T00:00:00.000Z",
+      "opponent": "Akmatbek Payzillabek Uulu",
+      "opponentSlug": "269446-akmatbek-paizilabek-uulu",
+      "result": "win",
+      "method": "other",
+      "event": "ACA Young Eagles 16",
+      "eventSlug": "75348-aca-young-eagles-16-fly-weight-grand-prix-2021",
+      "round": 1,
+      "timeInRound": "4:58"
+    },
+    {
+      "date": "2020-12-20T00:00:00.000Z",
+      "opponent": "Gennady Khamzin",
+      "opponentSlug": "281345-gennady-khamzin",
+      "result": "win",
+      "method": "other",
+      "event": "Colosseum MMA",
+      "eventSlug": "74560-colosseum-mma-battle-of-the-champions-17",
+      "round": 1,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2019-12-22T00:00:00.000Z",
+      "opponent": "Bakbergen Anvarov",
+      "opponentSlug": "175378-bakbergen-anvarov",
+      "result": "win",
+      "method": "other",
+      "event": "Akhmat Moscow",
+      "eventSlug": "76955-akhmat-moscow",
+      "round": 1,
+      "timeInRound": "0:36"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:52:05.403Z"
+}

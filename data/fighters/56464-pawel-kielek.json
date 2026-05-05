@@ -1,0 +1,231 @@
+{
+  "slug": "56464-pawel-kielek",
+  "name": "Paweł Kiełek",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 7,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1996-01-12",
+  "nationality": "Poland",
+  "url": "https://www.tapology.com/fightcenter/fighters/56464-pawel-kielek",
+  "recentFights": [
+    {
+      "date": "2020-03-27T00:00:00.000Z",
+      "opponent": "Piotr Walawski",
+      "opponentSlug": "99555-piotr-walawski",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Tylko Jeden",
+      "eventSlug": "68523-tylko-jeden-odcinek-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-03-06T00:00:00.000Z",
+      "opponent": "Marcin Krakowiak",
+      "opponentSlug": "109202-marcin-krakowiak",
+      "result": "loss",
+      "method": "sub",
+      "event": "Tylko Jeden",
+      "eventSlug": "67986-tylko-jeden-odcinek-1",
+      "round": 1,
+      "timeInRound": "1:21"
+    },
+    {
+      "date": "2019-11-04T00:00:00.000Z",
+      "opponent": "Benoit Saint-Denis",
+      "opponentSlug": "212810-benoit-saint-denis",
+      "result": "nc",
+      "method": "other",
+      "event": "Brave CF 28",
+      "eventSlug": "63307-brave-cf-28",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-08T00:00:00.000Z",
+      "opponent": "David Bear",
+      "opponentSlug": "63545-david-bear",
+      "result": "loss",
+      "method": "tko",
+      "event": "Brave CF 19",
+      "eventSlug": "55855-brave-cf-19",
+      "round": 1,
+      "timeInRound": "4:39"
+    },
+    {
+      "date": "2018-05-11T00:00:00.000Z",
+      "opponent": "Mehdi Baghdad",
+      "opponentSlug": "10444-mehdi-baghdad",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Brave CF 12",
+      "eventSlug": "52363-brave-12-khk-legacy",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-02T00:00:00.000Z",
+      "opponent": "Sidney Wheeler",
+      "opponentSlug": "96877-sidney-wheeler",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Brave CF 10",
+      "eventSlug": "49942-brave-x-the-kingdom-rises",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-01T00:00:00.000Z",
+      "opponent": "Ireneusz Szydłowski",
+      "opponentSlug": "69980-ireneusz-szydowski",
+      "result": "win",
+      "method": "other",
+      "event": "ACB 63: Celiński vs Magalhaes",
+      "eventSlug": "46134-acb-63-celiski-vs-magalhaes",
+      "round": 2,
+      "timeInRound": "4:17"
+    },
+    {
+      "date": "2017-02-18T00:00:00.000Z",
+      "opponent": "Bay-Ali Shaipov",
+      "opponentSlug": "118799-bai-ali-shaipov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ACB 53: Young Eagles 15",
+      "eventSlug": "43775-absolute-championship-berkut-53-young-eagles-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-28T00:00:00.000Z",
+      "opponent": "Rim Khaziakhmetov",
+      "opponentSlug": "118816-rim-khaziakhmetov",
+      "result": "win",
+      "method": "sub",
+      "event": "Absolute Championship Berkut 39",
+      "eventSlug": "39788-absolute-championship-berkut-39-young-eagles-10",
+      "round": 3,
+      "timeInRound": "3:30"
+    },
+    {
+      "date": "2016-01-09T00:00:00.000Z",
+      "opponent": "Mindaugas Veržbickas",
+      "opponentSlug": "33125-mindaugas-verzbickas",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fight Exclusive Night 10",
+      "eventSlug": "36634-fight-exclusive-night-10",
+      "round": 1,
+      "timeInRound": "3:42"
+    },
+    {
+      "date": "2015-07-31T00:00:00.000Z",
+      "opponent": "Roman Szymański",
+      "opponentSlug": "32157-roman-szymanski",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fight Exclusive Night 8",
+      "eventSlug": "32383-fight-exclusive-night-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-06T00:00:00.000Z",
+      "opponent": "Guram Kutateladze",
+      "opponentSlug": "44544-guram-katateladze",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Exclusive Night 6",
+      "eventSlug": "29284-fight-exclusive-night-6",
+      "round": 1,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2014-11-22T00:00:00.000Z",
+      "opponent": "Artem Lobov",
+      "opponentSlug": "13910-Artem-Lobov",
+      "result": "draw",
+      "method": "dec-majority",
+      "event": "Fighters Arena 10",
+      "eventSlug": "26822-fighters-arena-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-09-20T00:00:00.000Z",
+      "opponent": "Mateusz Rębecki",
+      "opponentSlug": "65128-mateusz-rbecki-chiczyk",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Night Gryf Arena 2",
+      "eventSlug": "26429-gryf-arena-2",
+      "round": 2,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2014-05-10T00:00:00.000Z",
+      "opponent": "Oliwier Bula",
+      "opponentSlug": "66968-oliwier-bula",
+      "result": "win",
+      "method": "other",
+      "event": "PLMMA 32: Warmia Heroes II",
+      "eventSlug": "22368-plmma-extra-warmia-heroes-ii",
+      "round": 2,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2014-03-15T00:00:00.000Z",
+      "opponent": "Tomasz Jakubiec",
+      "opponentSlug": "58706-tom-jakubiec",
+      "result": "win",
+      "method": "other",
+      "event": "PLMMA 29: Extra - Legionowo",
+      "eventSlug": "22273-plmma-29-extra",
+      "round": 1,
+      "timeInRound": "0:59"
+    },
+    {
+      "date": "2013-11-09T00:00:00.000Z",
+      "opponent": "Krzysztof Żebrowski",
+      "opponentSlug": "56433-krzysztof-zebrowski",
+      "result": "win",
+      "method": "other",
+      "event": "No Contest",
+      "eventSlug": "22442-no-contest",
+      "round": 1,
+      "timeInRound": "3:08"
+    },
+    {
+      "date": "2013-10-05T00:00:00.000Z",
+      "opponent": "Dawid Miklas",
+      "opponentSlug": "56465-dawid-miklas",
+      "result": "win",
+      "method": "other",
+      "event": "Battle of Champions",
+      "eventSlug": "20956-battle-of-champions-gala-mma",
+      "round": 1,
+      "timeInRound": "2:16"
+    },
+    {
+      "date": "2013-05-18T00:00:00.000Z",
+      "opponent": "Bartosz Bonna",
+      "opponentSlug": "66877-bartosz-bonna",
+      "result": "win",
+      "method": "other",
+      "event": "PLMMA 17: Warmia Heroes",
+      "eventSlug": "19528-plmma-17-warmia-heroes",
+      "round": 1,
+      "timeInRound": "1:49"
+    }
+  ],
+  "lastVerified": "2026-04-25T23:05:45.915Z"
+}

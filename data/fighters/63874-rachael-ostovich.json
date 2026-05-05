@@ -1,0 +1,176 @@
+{
+  "slug": "63874-rachael-ostovich",
+  "name": "Rachael Ostovich",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 160,
+  "reachCm": 157,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1991-02-25",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/63874-rachael-ostovich",
+  "recentFights": [
+    {
+      "date": "2020-11-28T00:00:00.000Z",
+      "opponent": "Gina Mazany",
+      "opponentSlug": "53505-gina-mazany-danger",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "71907-ufc-fight-night-blaydes-vs-lewis",
+      "round": 3,
+      "timeInRound": "4:10"
+    },
+    {
+      "date": "2019-01-19T00:00:00.000Z",
+      "opponent": "Paige VanZant",
+      "opponentSlug": "29691-paige-vanzant",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC on ESPN+ 1",
+      "eventSlug": "55048-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2018-07-06T00:00:00.000Z",
+      "opponent": "Montana De La Rosa",
+      "opponentSlug": "62316-montana-stewart",
+      "result": "loss",
+      "method": "sub",
+      "event": "The Ultimate Fighter 27 Finale",
+      "eventSlug": "49920-the-ultimate-fighter-27-finale",
+      "round": 3,
+      "timeInRound": "4:21"
+    },
+    {
+      "date": "2017-12-01T00:00:00.000Z",
+      "opponent": "Karine Gevorgyan",
+      "opponentSlug": "82608-karine-gevorgyan-princess",
+      "result": "win",
+      "method": "sub",
+      "event": "The Ultimate Fighter 26 Finale",
+      "eventSlug": "47254-the-ultimate-fighter-26-finale",
+      "round": 1,
+      "timeInRound": "1:40"
+    },
+    {
+      "date": "2017-08-11T00:00:00.000Z",
+      "opponent": "Barb Honchak",
+      "opponentSlug": "barb-honchak-little-warrior",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "The Ultimate Fighter Season 26",
+      "eventSlug": "49649-the-ultimate-fighter-season-26-a-new-world-champion",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-03T00:00:00.000Z",
+      "opponent": "Melinda Fábián",
+      "opponentSlug": "99460-melinda-fbin",
+      "result": "win",
+      "method": "sub",
+      "event": "The Ultimate Fighter Season 26",
+      "eventSlug": "49647-the-ultimate-fighter-season-26-a-new-world-champion",
+      "round": 1,
+      "timeInRound": "4:22"
+    },
+    {
+      "date": "2017-01-14T00:00:00.000Z",
+      "opponent": "Christine Ferea",
+      "opponentSlug": "30222-christine-ferea",
+      "result": "loss",
+      "method": "other",
+      "event": "Invicta FC 21",
+      "eventSlug": "42836-invicta-fc-21",
+      "round": 3,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2016-05-07T00:00:00.000Z",
+      "opponent": "Ariel Beck",
+      "opponentSlug": "63306-aerial-beck",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Invicta FC 17",
+      "eventSlug": "38806-invicta-fc-17-evinger-vs-schneider",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-12T00:00:00.000Z",
+      "opponent": "Andrea Lee",
+      "opponentSlug": "47916-andrea-lee",
+      "result": "loss",
+      "method": "sub",
+      "event": "Invicta FC 14",
+      "eventSlug": "34029-invicta-fc-14-souza-vs-grasso",
+      "round": 3,
+      "timeInRound": "4:58"
+    },
+    {
+      "date": "2014-12-05T00:00:00.000Z",
+      "opponent": "Evva Johnson",
+      "opponentSlug": "64833-evva-johnson",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Invicta FC 10",
+      "eventSlug": "26871-invicta-fc-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-09-26T00:00:00.000Z",
+      "opponent": "Misha Nassiri",
+      "opponentSlug": "65292-mia-nassiri",
+      "result": "win",
+      "method": "sub",
+      "event": "X-1 World Events 43",
+      "eventSlug": "26521-x-1-jara-vs-vitale",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-01-25T00:00:00.000Z",
+      "opponent": "Jenny Liou",
+      "opponentSlug": "62318-jenny-liou",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-11-16T00:00:00.000Z",
+      "opponent": "JJ Aldrich",
+      "opponentSlug": "28420-jj-aldrich",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-05-28T00:00:00.000Z",
+      "opponent": "Monica Franco",
+      "opponentSlug": "15601-monica-franco",
+      "result": "win",
+      "method": "sub",
+      "event": "808 Battleground",
+      "eventSlug": "12810-808-battleground-war-of-warriors-2",
+      "round": 1,
+      "timeInRound": "2:30"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:01:49.508Z"
+}

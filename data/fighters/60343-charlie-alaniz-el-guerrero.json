@@ -1,0 +1,198 @@
+{
+  "slug": "60343-charlie-alaniz-el-guerrero",
+  "name": "Charlie Alaniz",
+  "nickname": "El Guerrero",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 163,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1985-10-16",
+  "nationality": "Melbourne, Victoria, Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/60343-charlie-alaniz-el-guerrero",
+  "recentFights": [
+    {
+      "date": "2018-06-16T00:00:00.000Z",
+      "opponent": "Shannon Ross",
+      "opponentSlug": "14797-shannon-mcclellan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ACB 88: Brisbane",
+      "eventSlug": "52786-acb-88-silva-vs-camozzi",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-01-12T00:00:00.000Z",
+      "opponent": "Maikel Pérez",
+      "opponentSlug": "138378-maikel-prez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 30: Millender vs. Barnes",
+      "eventSlug": "49699-lfa-30-millender-vs-barnes",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-01T00:00:00.000Z",
+      "opponent": "Hiroki Yamashita",
+      "opponentSlug": "46822-shi-iori",
+      "result": "win",
+      "method": "sub",
+      "event": "Hex Fight Series 11",
+      "eventSlug": "47793-hex-fight-series-11",
+      "round": 3,
+      "timeInRound": "3:44"
+    },
+    {
+      "date": "2017-03-25T00:00:00.000Z",
+      "opponent": "Seigo Yamamoto",
+      "opponentSlug": "65033-seigo-yamamoto",
+      "result": "win",
+      "method": "sub",
+      "event": "PXC 56",
+      "eventSlug": "44430-pxc-56",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-17T00:00:00.000Z",
+      "opponent": "Masanori Kanehara",
+      "opponentSlug": "masanori-kanehara",
+      "result": "loss",
+      "method": "other",
+      "event": "DEEP Cage Impact 2016",
+      "eventSlug": "42375-deep-cage-impact-2016-deep-vs-wsof-gc",
+      "round": 1,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2016-07-19T00:00:00.000Z",
+      "opponent": "Tim Elliott",
+      "opponentSlug": "13664-timothy-elliot",
+      "result": "loss",
+      "method": "other",
+      "event": "The Ultimate Fighter Season 24",
+      "eventSlug": "49511-the-ultimate-fighter-season-24-tournament-of-champions",
+      "round": 1,
+      "timeInRound": "1:51"
+    },
+    {
+      "date": "2015-07-18T00:00:00.000Z",
+      "opponent": "Senzo Ikeda",
+      "opponentSlug": "23607-senzo-ikeda",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hex Fight Series 3",
+      "eventSlug": "32684-hex-fight-series-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-14T00:00:00.000Z",
+      "opponent": "Matt George",
+      "opponentSlug": "28279-matthew-george",
+      "result": "win",
+      "method": "other",
+      "event": "Hex Fight Series 2",
+      "eventSlug": "30014-hex-fight-series-2",
+      "round": 1,
+      "timeInRound": "3:17"
+    },
+    {
+      "date": "2014-12-06T00:00:00.000Z",
+      "opponent": "Shantaram Maharaj",
+      "opponentSlug": "29528-shantaram-maharaj-gods-gift",
+      "result": "win",
+      "method": "sub",
+      "event": "Hex Fight Series 1",
+      "eventSlug": "27275-hex-fight-series-1",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-09-26T00:00:00.000Z",
+      "opponent": "Ian Dela Cuesta",
+      "opponentSlug": "33508-ian-dela-cuesta",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "X-1 World Events 43",
+      "eventSlug": "26521-x-1-jara-vs-vitale",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-06-21T00:00:00.000Z",
+      "opponent": "Keenin Cohen",
+      "opponentSlug": "117837-keenin-cohen-the-man-of-steel",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-12-13T00:00:00.000Z",
+      "opponent": "Giancarlo Embradora",
+      "opponentSlug": "28866-giancarlo-embradora",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Australian FC 7",
+      "eventSlug": "20742-afc-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-06-22T00:00:00.000Z",
+      "opponent": "Trevor Ward",
+      "opponentSlug": "46181-trevor-ward",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-12-08T00:00:00.000Z",
+      "opponent": "Paul Tozer",
+      "opponentSlug": "60366-paul-tozer",
+      "result": "win",
+      "method": "sub",
+      "event": "Kings of Kombat 8",
+      "eventSlug": "68123-kings-of-combat-8-slowinski-vs-lauui",
+      "round": 2,
+      "timeInRound": "2:21"
+    },
+    {
+      "date": "2012-10-26T00:00:00.000Z",
+      "opponent": "Paul Tozer",
+      "opponentSlug": "60366-paul-tozer",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-06-04T00:00:00.000Z",
+      "opponent": "Diego Cuenca",
+      "opponentSlug": "27662-diego-cuenca",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:12:49.063Z"
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "104970-mayana-kellen",
+  "name": "Mayana Souza",
+  "nickname": "Kellen",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 177,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1986-07-07",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/104970-mayana-kellen",
+  "recentFights": [
+    {
+      "date": "2021-06-27T00:00:00.000Z",
+      "opponent": "Fabiulane Melo",
+      "opponentSlug": "88671-fabiulane-mello",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fighter Fest 3",
+      "eventSlug": "80574-fighter-fest-3-fighter-girls-2",
+      "round": 2,
+      "timeInRound": "3:47"
+    },
+    {
+      "date": "2019-12-07T00:00:00.000Z",
+      "opponent": "Ana Cristina Costa",
+      "opponentSlug": "225347-ana-cristina-costa-tormento",
+      "result": "win",
+      "method": "other",
+      "event": "Mr. Cage 40",
+      "eventSlug": "64749-mr-cage-40",
+      "round": 1,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2018-08-10T00:00:00.000Z",
+      "opponent": "Mayra Bueno Silva",
+      "opponentSlug": "140732-mayra-bueno-silva-sheetara",
+      "result": "loss",
+      "method": "other",
+      "event": "DW's Contender Series 2018",
+      "eventSlug": "54661-dw-s-contender-series-2018-brazil-1",
+      "round": 1,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2017-12-30T00:00:00.000Z",
+      "opponent": "Rayla Nascimento",
+      "opponentSlug": "161874-erilene-rayla",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Mr. Cage 32",
+      "eventSlug": "49425-mr-cage-32",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-01T00:00:00.000Z",
+      "opponent": "Giselle Campos",
+      "opponentSlug": "107854-giselle-campos-casca-grossa",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-21T00:00:00.000Z",
+      "opponent": "Fabiana Barrenquevitcz",
+      "opponentSlug": "112895-fabiana-barrenquevitcz",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Rei da Selva Combat 7",
+      "eventSlug": "39874-rei-da-selva-combat-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-06-20T00:00:00.000Z",
+      "opponent": "Juliana Moura",
+      "opponentSlug": "104971-juh-moura",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Rei da Selva Combat 5",
+      "eventSlug": "33393-rei-da-selva-combat-5",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:54:24.809Z"
+}

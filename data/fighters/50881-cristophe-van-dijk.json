@@ -1,0 +1,176 @@
+{
+  "slug": "50881-cristophe-van-dijk",
+  "name": "Christophe Van Dijk",
+  "nickname": "Hulk",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1985-07-05",
+  "nationality": "Brussels, Belgium",
+  "url": "https://www.tapology.com/fightcenter/fighters/50881-cristophe-van-dijk",
+  "recentFights": [
+    {
+      "date": "2022-12-01T00:00:00.000Z",
+      "opponent": "Matt Dwyer",
+      "opponentSlug": "16819-matt-dwyer",
+      "result": "win",
+      "method": "other",
+      "event": "BFL 75",
+      "eventSlug": "95547-bfl-75",
+      "round": 2,
+      "timeInRound": "4:28"
+    },
+    {
+      "date": "2019-11-30T00:00:00.000Z",
+      "opponent": "Daniel Dörrer",
+      "opponentSlug": "78804-daniel-drrer",
+      "result": "win",
+      "method": "other",
+      "event": "Full Metal Dojo 18",
+      "eventSlug": "63365-full-metal-dojo-18",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-12T00:00:00.000Z",
+      "opponent": "Jacob Malkoun",
+      "opponentSlug": "111323-jacob-malkoun",
+      "result": "loss",
+      "method": "tko",
+      "event": "Wollongong Wars 7",
+      "eventSlug": "61763-wollongong-wars-7",
+      "round": 2,
+      "timeInRound": "3:31"
+    },
+    {
+      "date": "2017-12-22T00:00:00.000Z",
+      "opponent": "Mounir Lazzez",
+      "opponentSlug": "26813-mounir-lazzez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Phoenix FC 4",
+      "eventSlug": "48158-phoenix-fc-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-10T00:00:00.000Z",
+      "opponent": "Hui Li",
+      "opponentSlug": "163368-hui-li",
+      "result": "win",
+      "method": "sub",
+      "event": "CKF Macau",
+      "eventSlug": "46710-ckf-macau",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-10T00:00:00.000Z",
+      "opponent": "Pavel Kusch",
+      "opponentSlug": "4617-pavel-kusch",
+      "result": "loss",
+      "method": "tko",
+      "event": "Phoenix FC 1",
+      "eventSlug": "42180-phoenix-fc-1",
+      "round": 1,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2015-11-28T00:00:00.000Z",
+      "opponent": "Emil Weber Meek",
+      "opponentSlug": "43028-emil-weber-meek",
+      "result": "loss",
+      "method": "other",
+      "event": "Battle of Botnia 2015",
+      "eventSlug": "36206-battle-of-botnia-2015",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-07T00:00:00.000Z",
+      "opponent": "Dwayne Hinds",
+      "opponentSlug": "18048-dwayne-hinds-punie",
+      "result": "win",
+      "method": "other",
+      "event": "ONE FC 22: Battle of Lions",
+      "eventSlug": "26580-one-fc-22-battle-of-lions",
+      "round": 1,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2014-10-18T00:00:00.000Z",
+      "opponent": "Yael Tersluijsen",
+      "opponentSlug": "84608-yael-tersluijsen-bushido",
+      "result": "win",
+      "method": "sub",
+      "event": "MTBG Rumble Event 15",
+      "eventSlug": "27884-mtbg-rumble-event-15",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-01T00:00:00.000Z",
+      "opponent": "Giorgio Pietrini",
+      "opponentSlug": "84609-giorgio-pietrini",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-11-23T00:00:00.000Z",
+      "opponent": "Robin De Vries",
+      "opponentSlug": "84610-robin-de-vries",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-10-13T00:00:00.000Z",
+      "opponent": "Andre Ludovic Carton",
+      "opponentSlug": "118293-andre-ludovic",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-07-04T00:00:00.000Z",
+      "opponent": "Mikhail Kolobegov",
+      "opponentSlug": "37713-mikhail-kolobegov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ProFC 49: Resurrection",
+      "eventSlug": "19658-profc-49-ressurection",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-04-24T00:00:00.000Z",
+      "opponent": "Andrey Makarenko",
+      "opponentSlug": "50894-andrey-makarenko",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ProFC 48: East/West",
+      "eventSlug": "19515-profc-48-east-west",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:14:35.034Z"
+}

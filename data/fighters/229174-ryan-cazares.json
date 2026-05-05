@@ -1,0 +1,37 @@
+{
+  "slug": "229174-ryan-cazares",
+  "name": "Ryan Cazares",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/229174-ryan-cazares",
+  "recentFights": [
+    {
+      "date": "2019-06-22T00:00:00.000Z",
+      "opponent": "Sean Sharaf",
+      "opponentSlug": "229173-sean-sharaf",
+      "result": "loss",
+      "method": "tko",
+      "event": "KOTC: Golden Era",
+      "eventSlug": "60553-kotc-golden-era",
+      "round": 2,
+      "timeInRound": "0:15"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:12:12.848Z"
+}

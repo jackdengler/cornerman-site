@@ -1,0 +1,154 @@
+{
+  "slug": "87964-ji-won-kang",
+  "name": "Ji Won Kang",
+  "nickname": "Mighty Warrior",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 190,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1995-10-08",
+  "nationality": "South Korea",
+  "url": "https://www.tapology.com/fightcenter/fighters/87964-ji-won-kang",
+  "recentFights": [
+    {
+      "date": "2025-08-01T00:00:00.000Z",
+      "opponent": "Ryugo Takeuchi",
+      "opponentSlug": "426452-ryugo-takeuchi",
+      "result": "loss",
+      "method": "other",
+      "event": "ONE Fight Night 34",
+      "eventSlug": "124929-one-173-denver",
+      "round": 1,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2024-07-05T00:00:00.000Z",
+      "opponent": "Kirill Grishenko",
+      "opponentSlug": "275111-kirill-grishenko",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ONE Fight Night 23",
+      "eventSlug": "109347-one-fight-night-24",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-01-12T00:00:00.000Z",
+      "opponent": "Mikhail Jamal Abdul-Latif",
+      "opponentSlug": "163367-mikhail-jamal",
+      "result": "win",
+      "method": "other",
+      "event": "ONE Fight Night 18",
+      "eventSlug": "107590-one-fight-night-18-superlek-vs-mahmoudi",
+      "round": 2,
+      "timeInRound": "4:09"
+    },
+    {
+      "date": "2023-11-03T00:00:00.000Z",
+      "opponent": "Ben Tynan",
+      "opponentSlug": "178465-ben-tynan",
+      "result": "loss",
+      "method": "sub",
+      "event": "ONE Fight Night 16",
+      "eventSlug": "105260-one-fight-night-16-haggerty-vs-andrade",
+      "round": 3,
+      "timeInRound": "1:22"
+    },
+    {
+      "date": "2022-03-26T00:00:00.000Z",
+      "opponent": "Paul Elliott",
+      "opponentSlug": "158118-paul-elliott",
+      "result": "win",
+      "method": "other",
+      "event": "ONE Championship",
+      "eventSlug": "85971-one-championship",
+      "round": 1,
+      "timeInRound": "0:58"
+    },
+    {
+      "date": "2021-12-03T00:00:00.000Z",
+      "opponent": "Marcus Buchecha",
+      "opponentSlug": "237072-marcius-almedia-buchecha",
+      "result": "loss",
+      "method": "sub",
+      "event": "ONE Championship",
+      "eventSlug": "82369-one-championship-winter-warriors",
+      "round": 1,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2021-03-05T00:00:00.000Z",
+      "opponent": "Amir Aliakbari",
+      "opponentSlug": "104120-amir-aliakbari",
+      "result": "win",
+      "method": "other",
+      "event": "ONE Championship",
+      "eventSlug": "76890-one-championship-fists-of-fury-2",
+      "round": 1,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2021-02-05T00:00:00.000Z",
+      "opponent": "Mehdi Barghi",
+      "opponentSlug": "145544-mehdi-barghi",
+      "result": "win",
+      "method": "tko",
+      "event": "ONE Championship",
+      "eventSlug": "75328-one-championship-unbreakable-3",
+      "round": 1,
+      "timeInRound": "4:50"
+    },
+    {
+      "date": "2019-07-28T00:00:00.000Z",
+      "opponent": "Adnan Alić",
+      "opponentSlug": "94924-adnan-alic",
+      "result": "win",
+      "method": "other",
+      "event": "HEAT 45",
+      "eventSlug": "61561-heat-45",
+      "round": 1,
+      "timeInRound": "0:53"
+    },
+    {
+      "date": "2019-01-28T00:00:00.000Z",
+      "opponent": "Chul Hyun Jung",
+      "opponentSlug": "38905-chul-hyun-jung",
+      "result": "win",
+      "method": "other",
+      "event": "AFC 10",
+      "eventSlug": "57391-afc-10",
+      "round": 1,
+      "timeInRound": "4:06"
+    },
+    {
+      "date": "2018-10-15T00:00:00.000Z",
+      "opponent": "Myung Hwan Kim",
+      "opponentSlug": "141973-myung-hwan-kim",
+      "result": "win",
+      "method": "other",
+      "event": "Angel's Fighting 8",
+      "eventSlug": "54473-angel-s-fighting-8",
+      "round": 1,
+      "timeInRound": "1:42"
+    },
+    {
+      "date": "2013-07-20T00:00:00.000Z",
+      "opponent": "Kyung Jae Baek",
+      "opponentSlug": "85045-kyung-jae-baek",
+      "result": "loss",
+      "method": "sub",
+      "event": "Road FC Into League 12",
+      "eventSlug": "25712-road-fc-into-league-12",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:39:15.157Z"
+}

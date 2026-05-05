@@ -1,0 +1,88 @@
+{
+  "slug": "174026-remco-van-den-brink",
+  "name": "Remco van den Brink",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Netherlands",
+  "url": "https://www.tapology.com/fightcenter/fighters/174026-remco-van-den-brink",
+  "recentFights": [
+    {
+      "date": "2022-06-26T00:00:00.000Z",
+      "opponent": "Robert Valentin",
+      "opponentSlug": "136498-robert-valentin",
+      "result": "loss",
+      "method": "other",
+      "event": "Levels Fight League 5",
+      "eventSlug": "89595-levels-fight-league-5",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2020-02-16T00:00:00.000Z",
+      "opponent": "Milan Kubin",
+      "opponentSlug": "229627-milan-kubin",
+      "result": "win",
+      "method": "other",
+      "event": "World Fighting League MMA 4",
+      "eventSlug": "66723-world-fighting-league-mma-4",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-23T00:00:00.000Z",
+      "opponent": "Andreas Koch",
+      "opponentSlug": "190964-andreas-koch",
+      "result": "win",
+      "method": "other",
+      "event": "World Fighting League MMA 3",
+      "eventSlug": "51042-world-fighting-league-mma-3",
+      "round": 1,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2018-02-25T00:00:00.000Z",
+      "opponent": "Sebastian Heijblom",
+      "opponentSlug": "179378-sebastian-heijblom",
+      "result": "win",
+      "method": "tko",
+      "event": "Fight Club Den Haag",
+      "eventSlug": "51023-fightclub-den-haag",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-24T00:00:00.000Z",
+      "opponent": "Bram Brown",
+      "opponentSlug": "125349-bram-brown",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Club Den Haag",
+      "eventSlug": "49773-fightclub-den-haag",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2006-10-27T00:00:00.000Z",
+      "opponent": "Sven van Zanten",
+      "opponentSlug": "294094-sven-van-zanten",
+      "result": "win",
+      "method": "other",
+      "event": "IMA: Ede's Best Against The Rest 3",
+      "eventSlug": "9596-ima-ede-s-best-against-the-rest-3",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:57:30.126Z"
+}

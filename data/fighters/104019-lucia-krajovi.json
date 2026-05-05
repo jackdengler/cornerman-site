@@ -1,0 +1,88 @@
+{
+  "slug": "104019-lucia-krajovi",
+  "name": "Lucia Krajčovič",
+  "nickname": "The Pretty Beast",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1987-03-30",
+  "nationality": "Slovakia",
+  "url": "https://www.tapology.com/fightcenter/fighters/104019-lucia-krajovi",
+  "recentFights": [
+    {
+      "date": "2023-07-28T00:00:00.000Z",
+      "opponent": "Róża Gumienna",
+      "opponentSlug": "103159-ra-gumienna",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 45: Mågård vs Lima",
+      "eventSlug": "101739-oktagon-stvanice-special",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-06-20T00:00:00.000Z",
+      "opponent": "Lucia Szabová",
+      "opponentSlug": "187305-lucia-szabova-queen-bee",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Oktagon: Underground 6",
+      "eventSlug": "70219-oktagon-underground-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-06-06T00:00:00.000Z",
+      "opponent": "Alena Condasova",
+      "opponentSlug": "262823-alena-condasova",
+      "result": "win",
+      "method": "tko",
+      "event": "Oktagon: Underground 4",
+      "eventSlug": "69964-oktagon-underground-4",
+      "round": 2,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2020-02-15T00:00:00.000Z",
+      "opponent": "Michaela Dostalova",
+      "opponentSlug": "106935-michaela-dostalova",
+      "result": "loss",
+      "method": "sub",
+      "event": "Oktagon Prime 3",
+      "eventSlug": "64151-oktagon-prime-3-strbak-vs-rysavy",
+      "round": 1,
+      "timeInRound": "3:42"
+    },
+    {
+      "date": "2019-11-09T00:00:00.000Z",
+      "opponent": "Barbora Cypriánová",
+      "opponentSlug": "199818-barbora-cyprianova",
+      "result": "win",
+      "method": "other",
+      "event": "Oktagon 15: Végh vs. Vémola",
+      "eventSlug": "60391-oktagon-15-vegh-vs-vemola",
+      "round": 1,
+      "timeInRound": "3:54"
+    },
+    {
+      "date": "2019-08-06T00:00:00.000Z",
+      "opponent": "Sandra Mašková",
+      "opponentSlug": "173062-sandra-makov-medojed",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Oktagon 4 Challenge Qualification",
+      "eventSlug": "81834-oktagon-4-challenge-qualification-quarterfinals-1",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:02:39.631Z"
+}

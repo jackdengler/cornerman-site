@@ -1,0 +1,59 @@
+{
+  "slug": "55031-lance-umholtz",
+  "name": "Lance Umholtz",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/55031-lance-umholtz",
+  "recentFights": [
+    {
+      "date": "2009-05-09T00:00:00.000Z",
+      "opponent": "Lewis Cassner",
+      "opponentSlug": "lewis-cassner",
+      "result": "loss",
+      "method": "tko",
+      "event": "VFL 18: Fourth Offense",
+      "eventSlug": "37520-valley-fight-league-18-4th-offense",
+      "round": 2,
+      "timeInRound": "1:11"
+    },
+    {
+      "date": "2009-01-10T00:00:00.000Z",
+      "opponent": "Francis Evans",
+      "opponentSlug": "francis-evans",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-05-17T00:00:00.000Z",
+      "opponent": "Pat Sabatini",
+      "opponentSlug": "29210-pat-sabatini",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:06:53.702Z"
+}

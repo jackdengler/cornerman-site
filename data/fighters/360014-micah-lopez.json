@@ -1,0 +1,46 @@
+{
+  "slug": "360014-micah-lopez",
+  "name": "Micah Lopez",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Guam",
+  "url": "https://www.tapology.com/fightcenter/fighters/360014-micah-lopez",
+  "recentFights": [
+    {
+      "date": "2023-10-13T00:00:00.000Z",
+      "opponent": "Jeffrey Mesa",
+      "opponentSlug": "71953-jeff-mesa",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "Brawl 3",
+      "eventSlug": "106230-brawl-3",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "allFights": [
+    {
+      "date": "2023-10-13T00:00:00.000Z",
+      "opponent": "Jeffrey Mesa",
+      "opponentSlug": "71953-jeff-mesa",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "Brawl 3",
+      "eventSlug": "106230-brawl-3",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-05-03T10:16:48.453Z"
+}

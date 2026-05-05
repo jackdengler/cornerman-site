@@ -1,0 +1,143 @@
+{
+  "slug": "98844-dan-moriarty",
+  "name": "Dan Moriarty",
+  "nickname": "Flex",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": 169,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1992-10-05",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/98844-dan-moriarty",
+  "recentFights": [
+    {
+      "date": "2024-05-17T00:00:00.000Z",
+      "opponent": "Jose Leon",
+      "opponentSlug": "121471-jose-leon",
+      "result": "loss",
+      "method": "sub",
+      "event": "Nemesis Fighting Alliance 17",
+      "eventSlug": "110862-nemesis-fighting-alliance-17",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2023-06-11T00:00:00.000Z",
+      "opponent": "Cody Linne",
+      "opponentSlug": "189477-cody-linne",
+      "result": "loss",
+      "method": "other",
+      "event": "Anthony Pettis FC 5",
+      "eventSlug": "100453-anthony-pettis-fc-5-milwaukee-fight-night-ii",
+      "round": 1,
+      "timeInRound": "3:01"
+    },
+    {
+      "date": "2022-09-16T00:00:00.000Z",
+      "opponent": "Oscar Jurado Sánchez",
+      "opponentSlug": "178522-oscar-alejandro-jurado-snchez",
+      "result": "win",
+      "method": "dec-split",
+      "event": "LFA 142: Amorim vs. Nichols",
+      "eventSlug": "92238-lfa-142-amorim-vs-nichols",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-01-21T00:00:00.000Z",
+      "opponent": "Jett Shell",
+      "opponentSlug": "243129-jett-shell",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 122: Johnson vs. Mota",
+      "eventSlug": "85581-lfa-122-johnson-vs-mota",
+      "round": 2,
+      "timeInRound": "0:48"
+    },
+    {
+      "date": "2021-08-27T00:00:00.000Z",
+      "opponent": "Joey Scanlan",
+      "opponentSlug": "74665-joey-scanlan",
+      "result": "win",
+      "method": "tko",
+      "event": "LFA 114: Souza vs. Garcia",
+      "eventSlug": "81399-lfa-114-souza-vs-kawaihae",
+      "round": 1,
+      "timeInRound": "3:20"
+    },
+    {
+      "date": "2020-12-11T00:00:00.000Z",
+      "opponent": "Cameron Cash",
+      "opponentSlug": "205415-cameron-cash",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FAC 5",
+      "eventSlug": "74678-fac-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-08-15T00:00:00.000Z",
+      "opponent": "Shad Walters",
+      "opponentSlug": "236229-shadland-walters",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Nemesis Fighting Alliance 2",
+      "eventSlug": "71085-nemesis-fighting-alliance-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-21T00:00:00.000Z",
+      "opponent": "Jacob Jewell",
+      "opponentSlug": "170661-jacob-jewell",
+      "result": "win",
+      "method": "other",
+      "event": "Nemesis Fighting Alliance",
+      "eventSlug": "49934-nemesis-fighting-alliance",
+      "round": 1,
+      "timeInRound": "0:31"
+    },
+    {
+      "date": "2015-04-18T00:00:00.000Z",
+      "opponent": "Jake Trigleth",
+      "opponentSlug": "60394-jake-trigleth",
+      "result": "win",
+      "method": "sub",
+      "event": "Shamrock FC",
+      "eventSlug": "29232-shamrock-fc-velocity",
+      "round": 3,
+      "timeInRound": "1:06"
+    },
+    {
+      "date": "2014-06-07T00:00:00.000Z",
+      "opponent": "Aaron Harvey",
+      "opponentSlug": "62923-aaron-harvey",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-05-18T00:00:00.000Z",
+      "opponent": "Henry Hofman",
+      "opponentSlug": "46198-henry-hofman",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:43:04.725Z"
+}

@@ -1,0 +1,154 @@
+{
+  "slug": "66061-maciel-santos",
+  "name": "Maciel Santos",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": "1991-10-20",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/66061-maciel-santos",
+  "recentFights": [
+    {
+      "date": "2023-10-28T00:00:00.000Z",
+      "opponent": "Felipe Silva",
+      "opponentSlug": "184018-felipe-silva",
+      "result": "loss",
+      "method": "other",
+      "event": "KFC 5",
+      "eventSlug": "106771-kfc-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-29T00:00:00.000Z",
+      "opponent": "Caio Torres",
+      "opponentSlug": "270838-caio-torres",
+      "result": "win",
+      "method": "sub",
+      "event": "Favela Fight 1",
+      "eventSlug": "105645-favela-fight-1",
+      "round": 2,
+      "timeInRound": "3:18"
+    },
+    {
+      "date": "2021-12-11T00:00:00.000Z",
+      "opponent": "Lucas Rocha",
+      "opponentSlug": "192343-lucas-rocha-fenomeno",
+      "result": "loss",
+      "method": "sub",
+      "event": "Titans Jungle Combat",
+      "eventSlug": "88558-titans-jungle-combat",
+      "round": 3,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2021-12-04T00:00:00.000Z",
+      "opponent": "Adney Araujo",
+      "opponentSlug": "317362-adney-araujo",
+      "result": "win",
+      "method": "sub",
+      "event": "Shark Fight Champions 5",
+      "eventSlug": "84776-shark-fight-championp-5",
+      "round": 1,
+      "timeInRound": "3:45"
+    },
+    {
+      "date": "2019-08-30T00:00:00.000Z",
+      "opponent": "Leo Santos",
+      "opponentSlug": "36526-leo-santos",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-30T00:00:00.000Z",
+      "opponent": "Patrick Ferreira",
+      "opponentSlug": "50481-patrick-pitbull",
+      "result": "win",
+      "method": "other",
+      "event": "Santa Isabel do RN Combat 1",
+      "eventSlug": "56278-santa-izabel-do-rio-negro-combat-1",
+      "round": 2,
+      "timeInRound": "4:13"
+    },
+    {
+      "date": "2018-03-24T00:00:00.000Z",
+      "opponent": "Deigrison Batalha",
+      "opponentSlug": "46695-deigrison-matos-jacarezinho",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-23T00:00:00.000Z",
+      "opponent": "Jean Sobral",
+      "opponentSlug": "134473-jean-sobral",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-24T00:00:00.000Z",
+      "opponent": "Aias Silva",
+      "opponentSlug": "70912-aias-silva",
+      "result": "loss",
+      "method": "other",
+      "event": "Back Fish MMA 1",
+      "eventSlug": "48177-back-fish-mma-1",
+      "round": 3,
+      "timeInRound": "2:35"
+    },
+    {
+      "date": "2016-09-02T00:00:00.000Z",
+      "opponent": "Max Douglas",
+      "opponentSlug": "44632-max-douglas",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-12-06T00:00:00.000Z",
+      "opponent": "Manoel Fernandes Neto",
+      "opponentSlug": "66052-manoel-fernandes-neto-junho",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-08-09T00:00:00.000Z",
+      "opponent": "Manoel Fernandes Neto",
+      "opponentSlug": "66052-manoel-fernandes-neto-junho",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:56:08.480Z"
+}

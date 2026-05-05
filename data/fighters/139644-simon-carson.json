@@ -1,0 +1,66 @@
+{
+  "slug": "139644-simon-carson",
+  "name": "Simon Carson",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 185,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1977-05-01",
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/139644-simon-carson",
+  "recentFights": [
+    {
+      "date": "2022-06-03T00:00:00.000Z",
+      "opponent": "Marcus Buchecha",
+      "opponentSlug": "237072-marcius-almedia-buchecha",
+      "result": "loss",
+      "method": "other",
+      "event": "ONE Championship 158",
+      "eventSlug": "89435-one-championship-pacrio-vs-brooks",
+      "round": 1,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2019-07-27T00:00:00.000Z",
+      "opponent": "Shannon Ritch",
+      "opponentSlug": "shannon-ritch-the-cannon",
+      "result": "win",
+      "method": "other",
+      "event": "Battlefield FC 2",
+      "eventSlug": "60593-battlefield-fc-2",
+      "round": 1,
+      "timeInRound": "3:34"
+    },
+    {
+      "date": "2018-03-23T00:00:00.000Z",
+      "opponent": "Young Woo Yoo",
+      "opponentSlug": "19677-young-woo-yu",
+      "result": "loss",
+      "method": "other",
+      "event": "Hex Fight Series 13",
+      "eventSlug": "51762-hex-fight-series-12",
+      "round": 1,
+      "timeInRound": "4:54"
+    },
+    {
+      "date": "2016-10-08T00:00:00.000Z",
+      "opponent": "Michael McDaniel",
+      "opponentSlug": "67818-michael-mcdaniel",
+      "result": "win",
+      "method": "other",
+      "event": "BRACE 44",
+      "eventSlug": "41377-brace-44",
+      "round": 1,
+      "timeInRound": "2:41"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:39:12.923Z"
+}

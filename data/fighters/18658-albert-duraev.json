@@ -1,0 +1,253 @@
+{
+  "slug": "18658-albert-duraev",
+  "name": "Albert Duraev",
+  "nickname": "Machete",
+  "aliases": [],
+  "recordPro": {
+    "wins": 16,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": 191,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1989-01-05",
+  "nationality": "Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/18658-albert-duraev",
+  "recentFights": [
+    {
+      "date": "2023-07-15T00:00:00.000Z",
+      "opponent": "Jun Yong Park",
+      "opponentSlug": "64589-yoon-yong-park",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "100553-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "4:45"
+    },
+    {
+      "date": "2023-03-25T00:00:00.000Z",
+      "opponent": "Chidi Njokuani",
+      "opponentSlug": "chidi-njokuani",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "96078-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-18T00:00:00.000Z",
+      "opponent": "Joaquin Buckley",
+      "opponentSlug": "55022-joaquin-buckley",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "88108-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2021-10-30T00:00:00.000Z",
+      "opponent": "Roman Kopylov",
+      "opponentSlug": "138424-roman-kopylov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 267: Błachowicz vs. Teixeira",
+      "eventSlug": "80222-ufc-267",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-14T00:00:00.000Z",
+      "opponent": "Caio Bittencourt",
+      "opponentSlug": "28019-caio-bittencourt-leao",
+      "result": "win",
+      "method": "other",
+      "event": "Contender Series 2021",
+      "eventSlug": "78722-contender-series-2021",
+      "round": 1,
+      "timeInRound": "3:29"
+    },
+    {
+      "date": "2018-09-08T00:00:00.000Z",
+      "opponent": "Piotr Strus",
+      "opponentSlug": "26237-piotr-strus",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ACB 89: Krasnodar",
+      "eventSlug": "53028-acb-93-krasnodar",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-23T00:00:00.000Z",
+      "opponent": "Vyacheslav Vasilevskiy",
+      "opponentSlug": "8143-vyacheslav-vasilevsky-slava",
+      "result": "win",
+      "method": "other",
+      "event": "ACB 77: Vasilevsky vs. Duraev",
+      "eventSlug": "48593-acb-77-moscow-vasilevsky-vs-duraev",
+      "round": 1,
+      "timeInRound": "3:47"
+    },
+    {
+      "date": "2017-08-19T00:00:00.000Z",
+      "opponent": "Clifford Starks",
+      "opponentSlug": "14172-clifford-starks",
+      "result": "win",
+      "method": "sub",
+      "event": "ACB 67: Berkhamov vs Cooper",
+      "eventSlug": "46528-acb-67-berkhamov-vs-cooper",
+      "round": 2,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2016-05-06T00:00:00.000Z",
+      "opponent": "Mikhail Tsarev",
+      "opponentSlug": "31295-michail-tsarev-the-lonely-wolf",
+      "result": "win",
+      "method": "other",
+      "event": "Absolute Championship Berkut 35",
+      "eventSlug": "38821-absolute-championship-berkut-33-georgia",
+      "round": 1,
+      "timeInRound": "2:13"
+    },
+    {
+      "date": "2015-09-12T00:00:00.000Z",
+      "opponent": "Ustarmagomed Gadzhidaudov",
+      "opponentSlug": "37282-ustarmagomed-gadjidaudov",
+      "result": "win",
+      "method": "sub",
+      "event": "ACB 22: Berkut Cup 2015 - Stage 6",
+      "eventSlug": "34273-absolute-championship-berkut-22-grand-prix-berkut-2015-finals",
+      "round": 5,
+      "timeInRound": "3:40"
+    },
+    {
+      "date": "2015-06-14T00:00:00.000Z",
+      "opponent": "Sergey Khandozhko",
+      "opponentSlug": "46101-sergey-khandozhko-honda",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ACB 20: Berkut Cup 2015 - Stage 5",
+      "eventSlug": "32356-absolute-championship-berkut-20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-04-17T00:00:00.000Z",
+      "opponent": "Patrik Kincl",
+      "opponentSlug": "7517-patrick-kincl",
+      "result": "win",
+      "method": "sub",
+      "event": "ACB 16: Berkut Cup 2015 - Stage 3",
+      "eventSlug": "31943-absolute-championship-berkut-16-grand-prix-berkut-2015-stage-3",
+      "round": 3,
+      "timeInRound": "4:50"
+    },
+    {
+      "date": "2015-01-31T00:00:00.000Z",
+      "opponent": "Damian Biłas",
+      "opponentSlug": "60846-damian-bias",
+      "result": "win",
+      "method": "other",
+      "event": "ACB 13: Poland vs. Russia",
+      "eventSlug": "25365-absolute-championship-berkut-poland",
+      "round": 1,
+      "timeInRound": "2:37"
+    },
+    {
+      "date": "2014-03-14T00:00:00.000Z",
+      "opponent": "Anatoly Tokov",
+      "opponentSlug": "37714-anatoly-tokov",
+      "result": "loss",
+      "method": "other",
+      "event": "M-1 Challenge 46",
+      "eventSlug": "22875-m-1-challenge-46-tybura-vs-grabowski",
+      "round": 1,
+      "timeInRound": "3:21"
+    },
+    {
+      "date": "2013-06-08T00:00:00.000Z",
+      "opponent": "Melvin van Suijdam",
+      "opponentSlug": "34487-melvin-van-suijdam",
+      "result": "win",
+      "method": "sub",
+      "event": "M-1 Challenge 40",
+      "eventSlug": "19583-m-1-challenge-40-battle-in-the-mountains",
+      "round": 1,
+      "timeInRound": "3:08"
+    },
+    {
+      "date": "2013-02-27T00:00:00.000Z",
+      "opponent": "Julio Cesar Alves",
+      "opponentSlug": "4784-julio-cesar-alves",
+      "result": "win",
+      "method": "other",
+      "event": "M-1 Challenge 37",
+      "eventSlug": "18712-m-1-challenge-37-khamanaev-vs-puhakka",
+      "round": 2,
+      "timeInRound": "3:51"
+    },
+    {
+      "date": "2012-06-21T00:00:00.000Z",
+      "opponent": "Ramazan Emeev",
+      "opponentSlug": "14039-Ramazan-Emeev",
+      "result": "loss",
+      "method": "other",
+      "event": "M-1: Battle Of The Legends 2",
+      "eventSlug": "13623-m-1-global-fedor-vs-rizzo",
+      "round": 1,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2012-03-01T00:00:00.000Z",
+      "opponent": "Evgeny Fomenko",
+      "opponentSlug": "31585-evgeni-fomenko",
+      "result": "loss",
+      "method": "other",
+      "event": "Volgograd Fight",
+      "eventSlug": "15008-unity-martial-arts-festival-2",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-11-20T00:00:00.000Z",
+      "opponent": "Xavier Foupa-Pokam",
+      "opponentSlug": "xavier-foupa-pokam-professor-x",
+      "result": "win",
+      "method": "sub",
+      "event": "M-1 Global: Battle Of The Legends",
+      "eventSlug": "10740-m-1-challenge",
+      "round": 2,
+      "timeInRound": "2:37"
+    },
+    {
+      "date": "2011-10-28T00:00:00.000Z",
+      "opponent": "Ali Akhmedov",
+      "opponentSlug": "18692-ali-akhmedov",
+      "result": "win",
+      "method": "sub",
+      "event": "Volgograd Fight",
+      "eventSlug": "11444-unity-martial-arts-festival-1",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-09-28T00:00:00.000Z",
+      "opponent": "Magomedsalam Kaynurov",
+      "opponentSlug": "42483-magomedsalam-kaynurov",
+      "result": "win",
+      "method": "sub",
+      "event": "RMAU: Musail Allaudinov Cup 2011",
+      "eventSlug": "73887-musail-allaudinov-cup-2011",
+      "round": 1,
+      "timeInRound": "4:49"
+    }
+  ],
+  "lastVerified": "2026-04-25T22:59:52.117Z"
+}

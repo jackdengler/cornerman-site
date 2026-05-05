@@ -1,0 +1,242 @@
+{
+  "slug": "161853-jorge-bueno-jorginho",
+  "name": "Jorge Bueno",
+  "nickname": "Jorginho",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 175,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1989-05-14",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/161853-jorge-bueno-jorginho",
+  "recentFights": [
+    {
+      "date": "2026-03-21T00:00:00.000Z",
+      "opponent": "Uaslen Oliveira",
+      "opponentSlug": "259078-uaslen-silva-baiano",
+      "result": "win",
+      "method": "other",
+      "event": "Jungle Fight 147",
+      "eventSlug": "139446-jungle-fight-147",
+      "round": 1,
+      "timeInRound": "4:55"
+    },
+    {
+      "date": "2025-03-14T00:00:00.000Z",
+      "opponent": "Martin Kozák",
+      "opponentSlug": "349322-martin-kozak",
+      "result": "loss",
+      "method": "other",
+      "event": "RFA 20",
+      "eventSlug": "121882-rfa-20",
+      "round": 2,
+      "timeInRound": "4:53"
+    },
+    {
+      "date": "2024-11-02T00:00:00.000Z",
+      "opponent": "Stefano Paternò",
+      "opponentSlug": "105494-stefano-paterno",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 179",
+      "eventSlug": "118237-cage-warriors-179",
+      "round": 2,
+      "timeInRound": "2:43"
+    },
+    {
+      "date": "2024-08-10T00:00:00.000Z",
+      "opponent": "Emerson de Oliveira",
+      "opponentSlug": "125348-emerson-serra-eltrica",
+      "result": "win",
+      "method": "sub",
+      "event": "Falcon MMA 3",
+      "eventSlug": "117035-falcon-mma-3",
+      "round": 1,
+      "timeInRound": "3:30"
+    },
+    {
+      "date": "2024-03-08T00:00:00.000Z",
+      "opponent": "Junior Melo",
+      "opponentSlug": "121289-jose-cleiton-de-melo-junior-melo",
+      "result": "loss",
+      "method": "tko",
+      "event": "CFC 18",
+      "eventSlug": "110405-cfc-18",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-11T00:00:00.000Z",
+      "opponent": "Albert Odzimkowski",
+      "opponentSlug": "50072-albert-odzimkowski-zloty",
+      "result": "loss",
+      "method": "other",
+      "event": "KSW 88: Bitwa o Radom",
+      "eventSlug": "105211-ksw-88-bitwa-o-radom",
+      "round": 2,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2023-11-04T00:00:00.000Z",
+      "opponent": "Ricardo Souza",
+      "opponentSlug": "30773-ricardo-souza",
+      "result": "win",
+      "method": "other",
+      "event": "Falcon MMA 2",
+      "eventSlug": "105201-falcon-mma-2",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-26T00:00:00.000Z",
+      "opponent": "Maicon Kobayashi",
+      "opponentSlug": "118161-maicon-kobayashi",
+      "result": "win",
+      "method": "sub",
+      "event": "Falcon MMA 1",
+      "eventSlug": "104763-falcon-mma-1",
+      "round": 2,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2023-07-21T00:00:00.000Z",
+      "opponent": "Will Currie",
+      "opponentSlug": "153147-will-currie",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 157",
+      "eventSlug": "99929-cage-warriors-london",
+      "round": 2,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2023-02-25T00:00:00.000Z",
+      "opponent": "Dominik Humburger",
+      "opponentSlug": "169531-dominik-humburger",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "KSW 79: De Fries vs. Duffee 2",
+      "eventSlug": "96391-ksw-79",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-10T00:00:00.000Z",
+      "opponent": "Tamirlan Dadaev",
+      "opponentSlug": "24876-tamirlan-dadaev-gor-ginio",
+      "result": "win",
+      "method": "other",
+      "event": "Superior Challenge 25",
+      "eventSlug": "95173-superior-challenge-25",
+      "round": 1,
+      "timeInRound": "4:07"
+    },
+    {
+      "date": "2022-09-17T00:00:00.000Z",
+      "opponent": "Marek Mazuch",
+      "opponentSlug": "160041-marek-mazuch",
+      "result": "win",
+      "method": "sub",
+      "event": "OKTAGON 35: Kincl vs. Lohore",
+      "eventSlug": "91154-oktagon-35",
+      "round": 1,
+      "timeInRound": "2:49"
+    },
+    {
+      "date": "2022-09-09T00:00:00.000Z",
+      "opponent": "Florian Aberger",
+      "opponentSlug": "125738-florian-aberger",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage FS 11",
+      "eventSlug": "91152-cage-fs-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-21T00:00:00.000Z",
+      "opponent": "Lucas Batista",
+      "opponentSlug": "216405-lucas-batista-dos-santos-jeffete",
+      "result": "nc",
+      "method": "other",
+      "event": "Brazilian Fighting Series 3",
+      "eventSlug": "83632-brazilian-fighting-series-3",
+      "round": 1,
+      "timeInRound": "1:42"
+    },
+    {
+      "date": "2021-10-31T00:00:00.000Z",
+      "opponent": "Anderson Melo",
+      "opponentSlug": "212870-anderson-melo-fofinho",
+      "result": "win",
+      "method": "other",
+      "event": "PFA 6",
+      "eventSlug": "83991-pfa-6",
+      "round": 1,
+      "timeInRound": "0:59"
+    },
+    {
+      "date": "2021-09-26T00:00:00.000Z",
+      "opponent": "Pedro Zulu",
+      "opponentSlug": "314357-pedro-zulu",
+      "result": "win",
+      "method": "other",
+      "event": "PFA 5",
+      "eventSlug": "83965-pfa-5",
+      "round": 1,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2021-06-29T00:00:00.000Z",
+      "opponent": "Paulo Sergio de Oliveira",
+      "opponentSlug": "92987-paulo-de-oliveira-dalsin",
+      "result": "win",
+      "method": "tko",
+      "event": "PFA 1",
+      "eventSlug": "81145-pfa-1",
+      "round": 1,
+      "timeInRound": "4:22"
+    },
+    {
+      "date": "2021-02-12T00:00:00.000Z",
+      "opponent": "Jorge Nascimento",
+      "opponentSlug": "260345-jorge-nascimento-juninho",
+      "result": "win",
+      "method": "other",
+      "event": "Arena Global 10",
+      "eventSlug": "75092-arena-global-10",
+      "round": 2,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2020-07-25T00:00:00.000Z",
+      "opponent": "Lincoln Barbosa",
+      "opponentSlug": "138230-lincoln-barbosa",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Arena Global 6",
+      "eventSlug": "71475-arena-global-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-15T00:00:00.000Z",
+      "opponent": "Onã Santana",
+      "opponentSlug": "161852-on-santana-zulu",
+      "result": "win",
+      "method": "other",
+      "event": "NCE 16: Ladies",
+      "eventSlug": "46958-nce-16-ladies",
+      "round": 1,
+      "timeInRound": "4:31"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:37:56.106Z"
+}

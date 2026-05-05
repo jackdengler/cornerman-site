@@ -1,0 +1,81 @@
+{
+  "slug": "95941-joe-lauricella",
+  "name": "Joe Lauricella",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/95941-joe-lauricella",
+  "recentFights": [
+    {
+      "date": "2021-05-01T00:00:00.000Z",
+      "opponent": "Cole Faust",
+      "opponentSlug": "232186-cole-faust",
+      "result": "loss",
+      "method": "other",
+      "event": "SteelFist Fight Night 76",
+      "eventSlug": "78588-steelfist-fight-night-76-revolution",
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2019-11-16T00:00:00.000Z",
+      "opponent": "Don Murphin",
+      "opponentSlug": "60016-don-murphin",
+      "result": "win",
+      "method": "sub",
+      "event": "KOTC: Future Legends 45",
+      "eventSlug": "62839-kotc",
+      "round": 1,
+      "timeInRound": "1:22"
+    },
+    {
+      "date": "2013-08-29T00:00:00.000Z",
+      "opponent": "Reinaldo Inocencio",
+      "opponentSlug": "100669-reinaldo-inocencio",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-08-10T00:00:00.000Z",
+      "opponent": "Cjay Joseph",
+      "opponentSlug": "57931-cjay-joseph",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-06-29T00:00:00.000Z",
+      "opponent": "Daniel Ponce",
+      "opponentSlug": "138418-daniel-ponce",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:39:28.736Z"
+}

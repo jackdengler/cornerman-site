@@ -1,0 +1,176 @@
+{
+  "slug": "73828-shaquan-moore",
+  "name": "Shaquan Moore",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1994-03-27",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/73828-shaquan-moore",
+  "recentFights": [
+    {
+      "date": "2022-08-06T00:00:00.000Z",
+      "opponent": "Christian Carr",
+      "opponentSlug": "168789-christian-carr",
+      "result": "loss",
+      "method": "sub",
+      "event": "Maverick MMA 20",
+      "eventSlug": "90317-maverick-mma-20",
+      "round": 2,
+      "timeInRound": "3:49"
+    },
+    {
+      "date": "2021-03-27T00:00:00.000Z",
+      "opponent": "Dennis Buzukja",
+      "opponentSlug": "131561-dennis-buzukia",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Triton Fights 18",
+      "eventSlug": "77667-triton-fights-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-01-17T00:00:00.000Z",
+      "opponent": "Lorram Esteves",
+      "opponentSlug": "124040-lorran-esteves",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Combat Zone 73",
+      "eventSlug": "65234-combat-zone-73-resolution",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-08-23T00:00:00.000Z",
+      "opponent": "Jake Pilla",
+      "opponentSlug": "52973-jake-pilla",
+      "result": "nc",
+      "method": "other",
+      "event": "Combat Zone 71",
+      "eventSlug": "61902-combat-zone-71",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-02-22T00:00:00.000Z",
+      "opponent": "Dennis Buzukja",
+      "opponentSlug": "131561-dennis-buzukia",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Ring of Combat 67",
+      "eventSlug": "57514-ring-of-combat-67",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-13T00:00:00.000Z",
+      "opponent": "David Meshkhoradze",
+      "opponentSlug": "198263-david-meshkhoradze",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Bellator 208",
+      "eventSlug": "54298-bellator-208-fedor-vs-sonnen",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-02T00:00:00.000Z",
+      "opponent": "Ryan Burtis",
+      "opponentSlug": "70916-ryan-burtis",
+      "result": "loss",
+      "method": "dec-majority",
+      "event": "NYFE 10: X-Treme Tension",
+      "eventSlug": "38081-nyfe-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-05-30T00:00:00.000Z",
+      "opponent": "Anthony Newton",
+      "opponentSlug": "90816-anthony-newton",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Aggressive Combat 11",
+      "eventSlug": "28524-aggressive-combat-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-04-25T00:00:00.000Z",
+      "opponent": "Daniel Ochart",
+      "opponentSlug": "73832-daniel-ochart",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMA Platinum Gloves 9",
+      "eventSlug": "30608-mma-platinum-gloves-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-02-28T00:00:00.000Z",
+      "opponent": "Mason DiGiacopo",
+      "opponentSlug": "78325-mason-digacopo",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-01T00:00:00.000Z",
+      "opponent": "R. D.",
+      "opponentSlug": "64002-r-d",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "MMA Platinum Gloves 7",
+      "eventSlug": "27310-mma-platinum-gloves-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-10-04T00:00:00.000Z",
+      "opponent": "Andrew Dabkowski",
+      "opponentSlug": "68742-andrew-dabkowski",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ECF 2: Rage in the Cage",
+      "eventSlug": "26015-ecf-2-rage-in-the-cage",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-09-06T00:00:00.000Z",
+      "opponent": "Victor Robinson",
+      "opponentSlug": "73837-victor-robinson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMA Platinum Gloves 6",
+      "eventSlug": "25280-mma-platinum-gloves-season-2-week-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-06-28T00:00:00.000Z",
+      "opponent": "John Gillespie",
+      "opponentSlug": "73829-john-gillespie",
+      "result": "win",
+      "method": "tko",
+      "event": "MMA Platinum Gloves 5",
+      "eventSlug": "25211-mma-platinum-gloves-season-2-week-2",
+      "round": 1,
+      "timeInRound": "2:48"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:13:03.147Z"
+}

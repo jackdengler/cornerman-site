@@ -1,0 +1,88 @@
+{
+  "slug": "193586-vladislav-kozlovskiy",
+  "name": "Vladislav Kozlovskiy",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 181,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Minsk, Belarus",
+  "url": "https://www.tapology.com/fightcenter/fighters/193586-vladislav-kozlovskiy",
+  "recentFights": [
+    {
+      "date": "2021-02-27T00:00:00.000Z",
+      "opponent": "Shamil Gaziev",
+      "opponentSlug": "201352-shamil-gaziev",
+      "result": "loss",
+      "method": "tko",
+      "event": "BFC 66",
+      "eventSlug": "76736-bfc-66",
+      "round": 1,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2014-12-13T00:00:00.000Z",
+      "opponent": "Maxim Kazmin",
+      "opponentSlug": "193588-maxim-kazmin",
+      "result": "loss",
+      "method": "other",
+      "event": "CSFR: St. Petersburg Cup 2014",
+      "eventSlug": "30873-csfr-st-petersburg-cup-2014",
+      "round": 1,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2014-05-04T00:00:00.000Z",
+      "opponent": "Andrey Lashkevich",
+      "opponentSlug": "193589-andrey-lashkevich",
+      "result": "loss",
+      "method": "other",
+      "event": "BFC 29: League Of Fighting Machines 1",
+      "eventSlug": "25335-belarus-fc-39-league-of-fighting-machines-1",
+      "round": 2,
+      "timeInRound": "2:23"
+    },
+    {
+      "date": "2013-02-26T00:00:00.000Z",
+      "opponent": "Stanislav Mikhailov",
+      "opponentSlug": "193590-stanislav-mikhailov",
+      "result": "win",
+      "method": "other",
+      "event": "BFC 26: Neman Challenge 1",
+      "eventSlug": "23521-belarus-fc-26-neman-challenge-1",
+      "round": 1,
+      "timeInRound": "4:17"
+    },
+    {
+      "date": "2012-12-14T00:00:00.000Z",
+      "opponent": "Sergey Sizykh",
+      "opponentSlug": "110324-sergey-sizykh-sniper",
+      "result": "loss",
+      "method": "other",
+      "event": "R.O.D: Shield And Sword 3",
+      "eventSlug": "48512-r-o-d-shield-and-sword-3",
+      "round": 1,
+      "timeInRound": "1:56"
+    },
+    {
+      "date": "2011-12-08T00:00:00.000Z",
+      "opponent": "Robert Egizaryan",
+      "opponentSlug": "105922-robert-egizaryan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "BFC 14: Grodno Cup 2011",
+      "eventSlug": "52389-belarus-fc-14-grodno-cup-2011",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:55:34.601Z"
+}

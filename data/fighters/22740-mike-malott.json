@@ -1,0 +1,209 @@
+{
+  "slug": "22740-mike-malott",
+  "name": "Mike Malott",
+  "nickname": "Proper",
+  "aliases": [],
+  "recordPro": {
+    "wins": 13,
+    "losses": 2,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 185,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1991-11-07",
+  "nationality": "Waterdown, Ontario, Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/22740-mike-malott",
+  "recentFights": [
+    {
+      "date": "2026-04-18T00:00:00.000Z",
+      "opponent": "Gilbert Burns",
+      "opponentSlug": "31168-gilbert-burns-durinho",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "139670-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-18T00:00:00.000Z",
+      "opponent": "Kevin Holland",
+      "opponentSlug": "35757-kevin-holland",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "129312-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-10T00:00:00.000Z",
+      "opponent": "Charles Radtke",
+      "opponentSlug": "29374-charlie-radtke",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 315: Muhammad vs. Della Maddalena",
+      "eventSlug": "123873-ufc-315",
+      "round": 2,
+      "timeInRound": "0:26"
+    },
+    {
+      "date": "2024-11-02T00:00:00.000Z",
+      "opponent": "Trevin Giles",
+      "opponentSlug": "20072-trevin-giles",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "116421-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-01-20T00:00:00.000Z",
+      "opponent": "Neil Magny",
+      "opponentSlug": "16456-aoutneil-magny",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 297: Strickland vs. Du Plessis",
+      "eventSlug": "105840-ufc-297",
+      "round": 3,
+      "timeInRound": "4:45"
+    },
+    {
+      "date": "2023-06-10T00:00:00.000Z",
+      "opponent": "Adam Fugitt",
+      "opponentSlug": "112635-adam-fugitt",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC 289: Nunes vs. Aldana",
+      "eventSlug": "99346-ufc-289",
+      "round": 2,
+      "timeInRound": "1:06"
+    },
+    {
+      "date": "2023-02-25T00:00:00.000Z",
+      "opponent": "Yohan Lainesse",
+      "opponentSlug": "143438-yohan-lainesse",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "95023-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "4:15"
+    },
+    {
+      "date": "2022-04-09T00:00:00.000Z",
+      "opponent": "Mickey Gall",
+      "opponentSlug": "63731-mickey-gall",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 273",
+      "eventSlug": "85306-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "3:41"
+    },
+    {
+      "date": "2021-10-05T00:00:00.000Z",
+      "opponent": "Shimon Smotritsky",
+      "opponentSlug": "164203-simon-smotritsky",
+      "result": "win",
+      "method": "sub",
+      "event": "Contender Series 2021",
+      "eventSlug": "79437-contender-series-2021",
+      "round": 1,
+      "timeInRound": "0:39"
+    },
+    {
+      "date": "2020-12-18T00:00:00.000Z",
+      "opponent": "Solomon Renfro",
+      "opponentSlug": "102505-soloman-renfro",
+      "result": "win",
+      "method": "sub",
+      "event": "CFFC 91: Sabatini vs. Stirn",
+      "eventSlug": "74817-cffc-91",
+      "round": 1,
+      "timeInRound": "1:42"
+    },
+    {
+      "date": "2017-02-03T00:00:00.000Z",
+      "opponent": "Craig Shintani",
+      "opponentSlug": "19457-craig-shintani",
+      "result": "win",
+      "method": "other",
+      "event": "XFFC 13: Future Stars",
+      "eventSlug": "43908-xffc-13-future-stars",
+      "round": 1,
+      "timeInRound": "0:36"
+    },
+    {
+      "date": "2015-09-19T00:00:00.000Z",
+      "opponent": "Thomas Diagne",
+      "opponentSlug": "ousmane-thomas-diagne",
+      "result": "draw",
+      "method": "dec-majority",
+      "event": "Bellator 142",
+      "eventSlug": "33561-bellator-141-dynamite",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-10-11T00:00:00.000Z",
+      "opponent": "Hakeem Dawodu",
+      "opponentSlug": "62664-hakeem-dawodu",
+      "result": "loss",
+      "method": "other",
+      "event": "WSOF 14: Shields vs. Ford",
+      "eventSlug": "25876-wsof-14-shields-vs-ford",
+      "round": 1,
+      "timeInRound": "4:13"
+    },
+    {
+      "date": "2014-05-30T00:00:00.000Z",
+      "opponent": "Allan Wilson",
+      "opponentSlug": "14568-Alan-Wilson",
+      "result": "win",
+      "method": "other",
+      "event": "SCC 2",
+      "eventSlug": "23347-scc-2",
+      "round": 1,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2013-03-09T00:00:00.000Z",
+      "opponent": "Jon Williams",
+      "opponentSlug": "14575-jon-williams-judo",
+      "result": "win",
+      "method": "other",
+      "event": "ECC 16: Proving Ground",
+      "eventSlug": "17154-ecc-16",
+      "round": 1,
+      "timeInRound": "0:15"
+    },
+    {
+      "date": "2011-05-27T00:00:00.000Z",
+      "opponent": "Michael Imperato",
+      "opponentSlug": "22457-michael-imperato",
+      "result": "win",
+      "method": "sub",
+      "event": "East Coast FP",
+      "eventSlug": "11006-east-coast-fp-resurgence",
+      "round": 1,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2011-04-16T00:00:00.000Z",
+      "opponent": "James Saunders",
+      "opponentSlug": "14374-james-saunders",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:52:08.313Z"
+}

@@ -1,0 +1,258 @@
+{
+  "slug": "138562-cage-warriors-academy-italy",
+  "name": "Cage Warriors Academy Italy 22",
+  "promotion": "Cage Warriors Academy Italy",
+  "startTimeUtc": "2026-04-19T16:00:00.000Z",
+  "venueTimezone": null,
+  "venue": "PalaFiom",
+  "location": "Taranto, Italy",
+  "url": "https://www.tapology.com/fightcenter/events/138562-cage-warriors-academy-italy",
+  "status": "scheduled",
+  "forumThreadId": "94517",
+  "fights": [
+    {
+      "id": "138562-cage-warriors-academy-italy#1",
+      "eventSlug": "138562-cage-warriors-academy-italy",
+      "order": 1,
+      "cardSection": "main",
+      "weightClass": "146 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "301008-gianluca-ancora",
+        "name": "Gianluca Ancora",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "557787-stefano-salvia",
+        "name": "Stefano Salvia",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T15:54:25.802Z"
+    },
+    {
+      "id": "138562-cage-warriors-academy-italy#2",
+      "eventSlug": "138562-cage-warriors-academy-italy",
+      "order": 2,
+      "cardSection": "main",
+      "weightClass": "175 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "462724-emanuele-stocchi",
+        "name": "Emanuele Stocchi",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "442904-sohaib-alromisi",
+        "name": "Sohaib Alromisi",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T15:54:25.802Z"
+    },
+    {
+      "id": "138562-cage-warriors-academy-italy#3",
+      "eventSlug": "138562-cage-warriors-academy-italy",
+      "order": 3,
+      "cardSection": "main",
+      "weightClass": "185 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "486924-raffaele-trapani",
+        "name": "Raffaele Trapani",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "547335-cristian-d-ingeo",
+        "name": "Cristian D'Ingeo",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T15:54:25.802Z"
+    },
+    {
+      "id": "138562-cage-warriors-academy-italy#4",
+      "eventSlug": "138562-cage-warriors-academy-italy",
+      "order": 4,
+      "cardSection": "main",
+      "weightClass": "170 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "557789-gianmarco-caccialupi",
+        "name": "Gianmarco Caccialupi",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "557790-nicolas-rubini",
+        "name": "Nicolas Rubini",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T15:54:25.802Z"
+    },
+    {
+      "id": "138562-cage-warriors-academy-italy#5",
+      "eventSlug": "138562-cage-warriors-academy-italy",
+      "order": 5,
+      "cardSection": "main",
+      "weightClass": "154 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "407682-andrea-santarcangelo",
+        "name": "Andrea Santarcangelo",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "536646-alessandro-collosi",
+        "name": "Alessandro Collosi",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T15:54:25.802Z"
+    },
+    {
+      "id": "138562-cage-warriors-academy-italy#6",
+      "eventSlug": "138562-cage-warriors-academy-italy",
+      "order": 6,
+      "cardSection": "main",
+      "weightClass": "170 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "555119-nicola-catucci",
+        "name": "Nicola Catucci",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "555120-marco-fiore",
+        "name": "Marco Fiore",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T15:54:25.802Z"
+    },
+    {
+      "id": "138562-cage-warriors-academy-italy#7",
+      "eventSlug": "138562-cage-warriors-academy-italy",
+      "order": 7,
+      "cardSection": "main",
+      "weightClass": "135 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "491932-gabriele-forte",
+        "name": "Gabriele Forte",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "547313-antonio-papa",
+        "name": "Antonio Papa",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T15:54:25.802Z"
+    },
+    {
+      "id": "138562-cage-warriors-academy-italy#8",
+      "eventSlug": "138562-cage-warriors-academy-italy",
+      "order": 8,
+      "cardSection": "main",
+      "weightClass": "155 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "557788-simone-santarcangelo",
+        "name": "Simone Santarcangelo",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "491937-alessio-ababei",
+        "name": "Alessio Ababei",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T15:54:25.802Z"
+    },
+    {
+      "id": "138562-cage-warriors-academy-italy#9",
+      "eventSlug": "138562-cage-warriors-academy-italy",
+      "order": 9,
+      "cardSection": "main",
+      "weightClass": "145 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "554397-michele-lauriola",
+        "name": "Michele Lauriola",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "491414-cataldo-boccasini",
+        "name": "Cataldo Boccasini",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-19T15:54:25.802Z"
+    }
+  ],
+  "lastVerified": "2026-04-19T15:54:25.802Z"
+}

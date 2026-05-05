@@ -1,0 +1,77 @@
+{
+  "slug": "8544-mike-sandoval",
+  "name": "Mike Sandoval",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/8544-mike-sandoval",
+  "recentFights": [
+    {
+      "date": "2018-06-02T00:00:00.000Z",
+      "opponent": "Erik Radleim",
+      "opponentSlug": "136598-erik-radleim",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-07-18T00:00:00.000Z",
+      "opponent": "Rafa García",
+      "opponentSlug": "105452-rafael-garcia-gifted",
+      "result": "loss",
+      "method": "sub",
+      "event": "WCF 6",
+      "eventSlug": "33320-wcf-6",
+      "round": 1,
+      "timeInRound": "0:14"
+    },
+    {
+      "date": "2013-05-23T00:00:00.000Z",
+      "opponent": "Danny Davis Jr.",
+      "opponentSlug": "danny-davis-jr-d-1",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-11-07T00:00:00.000Z",
+      "opponent": "Alejandro Garcia",
+      "opponentSlug": "alex-garcia",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-09-29T00:00:00.000Z",
+      "opponent": "Juan Miranda",
+      "opponentSlug": "juan-miranda",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:35:02.297Z"
+}

@@ -1,0 +1,220 @@
+{
+  "slug": "64156-rowdy-achers",
+  "name": "Rowdy Akers",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1974-11-09",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/64156-rowdy-achers",
+  "recentFights": [
+    {
+      "date": "2019-10-19T00:00:00.000Z",
+      "opponent": "Gregg McFarland",
+      "opponentSlug": "16519-greg-mcfarland",
+      "result": "win",
+      "method": "other",
+      "event": "Steelfist Fight Night",
+      "eventSlug": "62864-steelfist-fight-night-fightmares",
+      "round": 2,
+      "timeInRound": "0:39"
+    },
+    {
+      "date": "2018-04-28T00:00:00.000Z",
+      "opponent": "Houssam El Kasri",
+      "opponentSlug": "151346-houssam-el-kasri",
+      "result": "loss",
+      "method": "other",
+      "event": "Infamous MMA 2",
+      "eventSlug": "52595-infamous-mma-2",
+      "round": 1,
+      "timeInRound": "3:46"
+    },
+    {
+      "date": "2018-01-27T00:00:00.000Z",
+      "opponent": "Kehlin Roszel",
+      "opponentSlug": "135262-kehlin-roszel",
+      "result": "loss",
+      "method": "sub",
+      "event": "Infamous MMA 1",
+      "eventSlug": "50194-infamous-mma-1",
+      "round": 1,
+      "timeInRound": "4:39"
+    },
+    {
+      "date": "2017-09-16T00:00:00.000Z",
+      "opponent": "John Valentine",
+      "opponentSlug": "53844-john-valentine",
+      "result": "win",
+      "method": "tko",
+      "event": "SteelFist Fight Night 52",
+      "eventSlug": "47648-steelfist-fight-night-52-defend-your-honor",
+      "round": 3,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2017-06-17T00:00:00.000Z",
+      "opponent": "Vince Morales",
+      "opponentSlug": "91401-vince-morales",
+      "result": "loss",
+      "method": "sub",
+      "event": "KOTC: Quick Draw",
+      "eventSlug": "46419-kotc-quick-draw",
+      "round": 1,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2017-04-15T00:00:00.000Z",
+      "opponent": "Angelo Garcia",
+      "opponentSlug": "40037-angelo-garcia",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "SteelFist Fight Night 49",
+      "eventSlug": "44609-steelfist-fight-night-49-battle-at-riverbend",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-01-07T00:00:00.000Z",
+      "opponent": "Kyle Herrera",
+      "opponentSlug": "18419-kyle-herrera",
+      "result": "loss",
+      "method": "sub",
+      "event": "SteelFist Fight Night 47",
+      "eventSlug": "43143-steelfist-fight-night-47",
+      "round": 1,
+      "timeInRound": "2:03"
+    },
+    {
+      "date": "2016-06-24T00:00:00.000Z",
+      "opponent": "Jeff Carson",
+      "opponentSlug": "28376-jeff-carson-the-hitman",
+      "result": "win",
+      "method": "sub",
+      "event": "SteelFist Fight Night 43",
+      "eventSlug": "40182-steelfist-fight-night-43-snapped",
+      "round": 1,
+      "timeInRound": "4:29"
+    },
+    {
+      "date": "2016-05-21T00:00:00.000Z",
+      "opponent": "Karl Grace",
+      "opponentSlug": "53001-karl-grace",
+      "result": "win",
+      "method": "sub",
+      "event": "SteelFist Fight Night 42",
+      "eventSlug": "39537-steelfist-fight-night-42-night-of-champions",
+      "round": 1,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2016-03-11T00:00:00.000Z",
+      "opponent": "Jerry Shapiro",
+      "opponentSlug": "15944-jerry-shapiro",
+      "result": "loss",
+      "method": "sub",
+      "event": "SteelFist Fight Night 40",
+      "eventSlug": "38310-steelfist-fight-night-40-the-return-to-the-complex",
+      "round": 1,
+      "timeInRound": "2:06"
+    },
+    {
+      "date": "2016-01-09T00:00:00.000Z",
+      "opponent": "Anthony Pagliaro",
+      "opponentSlug": "57131-anthony-pagliaro",
+      "result": "win",
+      "method": "sub",
+      "event": "SteelFist Fight Night 39",
+      "eventSlug": "37233-steelfist-fight-night-39-conquer",
+      "round": 1,
+      "timeInRound": "3:26"
+    },
+    {
+      "date": "2015-10-03T00:00:00.000Z",
+      "opponent": "Doug Brannon",
+      "opponentSlug": "34203-doug-brannon",
+      "result": "win",
+      "method": "sub",
+      "event": "SteelFist Fight Night 37",
+      "eventSlug": "35368-steelfist-fight-night-37-stacked",
+      "round": 1,
+      "timeInRound": "4:02"
+    },
+    {
+      "date": "2015-06-20T00:00:00.000Z",
+      "opponent": "Angelo Garcia",
+      "opponentSlug": "40037-angelo-garcia",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "SteelFist Fight Night 35",
+      "eventSlug": "33154-steelfist-fight-night-35-destruction",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-12-12T00:00:00.000Z",
+      "opponent": "Vincent DeWald",
+      "opponentSlug": "61968-vincent-dewald-vicious",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "SteelFist Fight Night 30",
+      "eventSlug": "27720-steelfist-fight-night-30-impact",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-10-04T00:00:00.000Z",
+      "opponent": "Skyler Frazier",
+      "opponentSlug": "25041-skylar-frazier",
+      "result": "loss",
+      "method": "tko",
+      "event": "SteelFist Fight Night 28",
+      "eventSlug": "26536-steelfist-fight-night-28-intensity",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2014-09-05T00:00:00.000Z",
+      "opponent": "Hal Mitchell",
+      "opponentSlug": "55711-hal-mitchell",
+      "result": "win",
+      "method": "sub",
+      "event": "SteelFist Fight Night 27",
+      "eventSlug": "25602-steelfist-fight-night-27-21-event-rise-up",
+      "round": 2,
+      "timeInRound": "0:17"
+    },
+    {
+      "date": "2009-09-04T00:00:00.000Z",
+      "opponent": "Aaron Danes Jr.",
+      "opponentSlug": "469344-aaron-danes-jr",
+      "result": "win",
+      "method": "other",
+      "event": "Championship CF 20",
+      "eventSlug": "106094-championship-cf-20-armageddon",
+      "round": 2,
+      "timeInRound": "2:36"
+    },
+    {
+      "date": "2009-06-19T00:00:00.000Z",
+      "opponent": "Steve Kaps",
+      "opponentSlug": "469629-steve-kaps",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Championship CF 18",
+      "eventSlug": "118741-championship-cf-18-undisputed",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:57:23.147Z"
+}

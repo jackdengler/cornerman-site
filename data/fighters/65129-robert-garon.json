@@ -1,0 +1,37 @@
+{
+  "slug": "65129-robert-garon",
+  "name": "Robert Gawron",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Poland",
+  "url": "https://www.tapology.com/fightcenter/fighters/65129-robert-garon",
+  "recentFights": [
+    {
+      "date": "2013-10-05T00:00:00.000Z",
+      "opponent": "Mateusz Rębecki",
+      "opponentSlug": "65128-mateusz-rbecki-chiczyk",
+      "result": "loss",
+      "method": "sub",
+      "event": "Arena Berserkerów 4",
+      "eventSlug": "21427-ba-4-exped-cup",
+      "round": 3,
+      "timeInRound": "2:59"
+    }
+  ],
+  "lastVerified": "2026-04-25T23:05:55.122Z"
+}

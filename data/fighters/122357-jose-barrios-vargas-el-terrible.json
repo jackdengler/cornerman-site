@@ -1,0 +1,253 @@
+{
+  "slug": "122357-jose-barrios-vargas-el-terrible",
+  "name": "Jose Barrios Vargas",
+  "nickname": "El Terrible",
+  "aliases": [],
+  "recordPro": {
+    "wins": 16,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 179,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1990-03-19",
+  "nationality": "Argentina",
+  "url": "https://www.tapology.com/fightcenter/fighters/122357-jose-barrios-vargas-el-terrible",
+  "recentFights": [
+    {
+      "date": "2025-11-06T00:00:00.000Z",
+      "opponent": "James Llontop",
+      "opponentSlug": "94585-james-llontop",
+      "result": "loss",
+      "method": "other",
+      "event": "FFC 98: Llontop vs. Barrios",
+      "eventSlug": "134845-ffc-98-llontop-vs-barrios",
+      "round": 1,
+      "timeInRound": "4:16"
+    },
+    {
+      "date": "2025-09-06T00:00:00.000Z",
+      "opponent": "Cristian Quiñonez",
+      "opponentSlug": "518627-cristian-quinonez",
+      "result": "win",
+      "method": "sub",
+      "event": "Duelo de Honor 5",
+      "eventSlug": "133286-duelo-de-honor-5",
+      "round": 1,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2025-06-20T00:00:00.000Z",
+      "opponent": "Nikola Joksović",
+      "opponentSlug": "166796-nikola-joksovic",
+      "result": "loss",
+      "method": "other",
+      "event": "Ares FC 32: Uuganbayar vs. Oliveira",
+      "eventSlug": "125361-ares-fc-32",
+      "round": 1,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2025-04-26T00:00:00.000Z",
+      "opponent": "Augusto Lopez",
+      "opponentSlug": "76649-augusto-lopez-coringa",
+      "result": "win",
+      "method": "sub",
+      "event": "Fighters Cage 3",
+      "eventSlug": "125888-fighters-cage-3",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-09T00:00:00.000Z",
+      "opponent": "Elano Andrade",
+      "opponentSlug": "220300-elano-andrade-gomes",
+      "result": "win",
+      "method": "dec-split",
+      "event": "FFC 68: Pezao vs. El Terrible",
+      "eventSlug": "106375-ffc-68-andrade-vs-barrios",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-16T00:00:00.000Z",
+      "opponent": "Francisco Prado",
+      "opponentSlug": "230239-francisco-prado",
+      "result": "loss",
+      "method": "other",
+      "event": "Samurai Fight House 8",
+      "eventSlug": "92326-samurai-fight-house-8",
+      "round": 1,
+      "timeInRound": "1:17"
+    },
+    {
+      "date": "2022-03-04T00:00:00.000Z",
+      "opponent": "Fabian Armoa",
+      "opponentSlug": "52680-fabian-gustavo-armoa",
+      "result": "win",
+      "method": "sub",
+      "event": "EFC 20",
+      "eventSlug": "87108-efc-20",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-27T00:00:00.000Z",
+      "opponent": "Cristian Ibañez",
+      "opponentSlug": "238657-cristian-ibanez",
+      "result": "win",
+      "method": "other",
+      "event": "La Batalla del Puente 7",
+      "eventSlug": "84126-la-batalla-del-puente-7-power-fight-7",
+      "round": 1,
+      "timeInRound": "2:05"
+    },
+    {
+      "date": "2021-06-26T00:00:00.000Z",
+      "opponent": "Kamil Kraska",
+      "opponentSlug": "151214-kamil-kraska",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "FEN 35: LOTOS Fight Night Ostróda",
+      "eventSlug": "79478-fen-35",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-02-20T00:00:00.000Z",
+      "opponent": "Mateusz Rębecki",
+      "opponentSlug": "65128-mateusz-rbecki-chiczyk",
+      "result": "loss",
+      "method": "other",
+      "event": "FEN 32: LOTOS Fight Night 4",
+      "eventSlug": "74467-fen-32",
+      "round": 1,
+      "timeInRound": "0:48"
+    },
+    {
+      "date": "2019-09-07T00:00:00.000Z",
+      "opponent": "Cesar Benitez",
+      "opponentSlug": "114462-cesar-benitez",
+      "result": "win",
+      "method": "tko",
+      "event": "Conflict Warrior Fighting 5",
+      "eventSlug": "63705-warrior-conflict-fighting",
+      "round": 2,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2019-05-15T00:00:00.000Z",
+      "opponent": "Cristiano Estela Rios",
+      "opponentSlug": "55587-cristiano-estela",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "FFC 38: Mora vs. Ottaviano",
+      "eventSlug": "58853-ffc-38-bedoya-vs-estela-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-09T00:00:00.000Z",
+      "opponent": "Andy Garcete",
+      "opponentSlug": "190362-andy-garcete",
+      "result": "win",
+      "method": null,
+      "event": "WKC MMA 77",
+      "eventSlug": "61392-wkc-mma-77-copa-team-force-international-i",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-10T00:00:00.000Z",
+      "opponent": "Alejandro Cruz",
+      "opponentSlug": "160466-alejandro-cruz",
+      "result": "win",
+      "method": "sub",
+      "event": "La Batalla del Puente 4",
+      "eventSlug": "56997-power-fight-la-batalla-del-puente-4",
+      "round": 1,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2018-10-19T00:00:00.000Z",
+      "opponent": "Fabian Armoa",
+      "opponentSlug": "52680-fabian-gustavo-armoa",
+      "result": "win",
+      "method": "other",
+      "event": "Extreme Fight Chaco 14",
+      "eventSlug": "55383-extreme-fight-chaco-14",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2018-06-16T00:00:00.000Z",
+      "opponent": "Marcio Flores",
+      "opponentSlug": "191288-marcio-flores",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bosch Tour 11",
+      "eventSlug": "54169-bosch-tour-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-16T00:00:00.000Z",
+      "opponent": "Martin Torres",
+      "opponentSlug": "65414-martin-torres",
+      "result": "win",
+      "method": "tko",
+      "event": "Bosch Tour 5",
+      "eventSlug": "54166-bosch-tour-5",
+      "round": 1,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2016-07-31T00:00:00.000Z",
+      "opponent": "Nicolas Ruiperez",
+      "opponentSlug": "129079-nicolas-ruiperez",
+      "result": "win",
+      "method": "other",
+      "event": "Bosch Tour 2",
+      "eventSlug": "43055-bosch-tour-2",
+      "round": 2,
+      "timeInRound": "3:05"
+    },
+    {
+      "date": "2016-06-25T00:00:00.000Z",
+      "opponent": "Leandro Eclesia",
+      "opponentSlug": "107765-leandro-eclesia",
+      "result": "win",
+      "method": "other",
+      "event": "Vendetta: Asylum",
+      "eventSlug": "40486-vendetta-asylum",
+      "round": 1,
+      "timeInRound": "0:17"
+    },
+    {
+      "date": "2015-12-11T00:00:00.000Z",
+      "opponent": "Leonardo Michonovich",
+      "opponentSlug": "122358-leonardo-michonovich",
+      "result": "win",
+      "method": "other",
+      "event": "Extreme Fight Chaco 9",
+      "eventSlug": "37273-extreme-fight-chaco",
+      "round": 2,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2015-03-01T00:00:00.000Z",
+      "opponent": "Marcelo Romero",
+      "opponentSlug": "78827-marcelo-romero",
+      "result": "win",
+      "method": "tko",
+      "event": "Explosion MMA 4",
+      "eventSlug": "29835-explosion-mma-5",
+      "round": 1,
+      "timeInRound": "2:59"
+    }
+  ],
+  "lastVerified": "2026-04-25T23:05:25.259Z"
+}

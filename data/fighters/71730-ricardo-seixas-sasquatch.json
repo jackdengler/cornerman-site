@@ -1,0 +1,143 @@
+{
+  "slug": "71730-ricardo-seixas-sasquatch",
+  "name": "Ricardo Seixas",
+  "nickname": "Sasquatch",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 184,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1990-10-06",
+  "nationality": "São Bernardo do Campo, São Paulo, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/71730-ricardo-seixas-sasquatch",
+  "recentFights": [
+    {
+      "date": "2022-10-01T00:00:00.000Z",
+      "opponent": "Keoni Diggs",
+      "opponentSlug": "69075-keoni-diggs",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bellator 286",
+      "eventSlug": "91824-bellator-286-pitbull-vs-borics",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-02T00:00:00.000Z",
+      "opponent": "Mandel Nallo",
+      "opponentSlug": "24751-mandell-nallo",
+      "result": "loss",
+      "method": "other",
+      "event": "Bellator 255",
+      "eventSlug": "77109-bellator-mma",
+      "round": 1,
+      "timeInRound": "3:23"
+    },
+    {
+      "date": "2020-01-25T00:00:00.000Z",
+      "opponent": "Dominic Clark",
+      "opponentSlug": "dominic-clark",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 238",
+      "eventSlug": "63218-bellator-budd-vs-cyborg",
+      "round": 1,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2018-11-16T00:00:00.000Z",
+      "opponent": "Jacob Rosales",
+      "opponentSlug": "57032-jacob-rosales",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 54: Mazo vs. Yariwaki",
+      "eventSlug": "56062-lfa-54-mazo-vs-yariwaki",
+      "round": 1,
+      "timeInRound": "1:56"
+    },
+    {
+      "date": "2018-03-23T00:00:00.000Z",
+      "opponent": "Christian Aguilera",
+      "opponentSlug": "20340-christian-aguilera",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 36: Simon vs. Zani",
+      "eventSlug": "51313-lfa-36-simon-vs-zani",
+      "round": 2,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2017-12-09T00:00:00.000Z",
+      "opponent": "Dalton Goddard",
+      "opponentSlug": "27351-dalton-goddard",
+      "result": "win",
+      "method": "sub",
+      "event": "Primus FC",
+      "eventSlug": "48654-primus-fc",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2016-09-10T00:00:00.000Z",
+      "opponent": "Adriano Sena",
+      "opponentSlug": "76235-adriano-sena-boi-bandido",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-23T00:00:00.000Z",
+      "opponent": "Adriano Sena",
+      "opponentSlug": "76235-adriano-sena-boi-bandido",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2014-05-30T00:00:00.000Z",
+      "opponent": "Felix Ferreira",
+      "opponentSlug": "71729-felix-almeida",
+      "result": "win",
+      "method": "sub",
+      "event": "MMA Super Heroes 4",
+      "eventSlug": "24434-mma-super-heroes-4",
+      "round": 1,
+      "timeInRound": "3:37"
+    },
+    {
+      "date": "2013-11-10T00:00:00.000Z",
+      "opponent": "Pepe",
+      "opponentSlug": "182446-pepe",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 2,
+      "timeInRound": "3:31"
+    },
+    {
+      "date": "2012-10-27T00:00:00.000Z",
+      "opponent": "Jean Carlo",
+      "opponentSlug": "182108-jean-carlo",
+      "result": "win",
+      "method": "other",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "0:24"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:07:57.613Z"
+}

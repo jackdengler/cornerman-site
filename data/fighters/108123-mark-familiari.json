@@ -1,0 +1,165 @@
+{
+  "slug": "108123-mark-familiari",
+  "name": "Mark Familari",
+  "nickname": "The Shark",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/108123-mark-familiari",
+  "recentFights": [
+    {
+      "date": "2021-06-05T00:00:00.000Z",
+      "opponent": "Raf Vilches",
+      "opponentSlug": "194993-rafael-vilches",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 60",
+      "eventSlug": "79273-eternal-mma-60",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-02-13T00:00:00.000Z",
+      "opponent": "Cody Haddon",
+      "opponentSlug": "187868-cody-haddon",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 56",
+      "eventSlug": "74898-eternal-mma-58",
+      "round": 2,
+      "timeInRound": "1:27"
+    },
+    {
+      "date": "2019-03-02T00:00:00.000Z",
+      "opponent": "Steve Erceg",
+      "opponentSlug": "132326-stephen-erceg",
+      "result": "loss",
+      "method": "sub",
+      "event": "Eternal MMA 41",
+      "eventSlug": "57696-eternal-mma-41",
+      "round": 1,
+      "timeInRound": "4:15"
+    },
+    {
+      "date": "2018-12-08T00:00:00.000Z",
+      "opponent": "Dan Jones",
+      "opponentSlug": "160486-dan-jones",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 40",
+      "eventSlug": "56405-eternal-mma-40",
+      "round": 1,
+      "timeInRound": "3:13"
+    },
+    {
+      "date": "2018-09-22T00:00:00.000Z",
+      "opponent": "Danial Williams",
+      "opponentSlug": "188495-danial-williams",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 37",
+      "eventSlug": "55119-eternal-mma-37",
+      "round": 3,
+      "timeInRound": "1:21"
+    },
+    {
+      "date": "2018-05-26T00:00:00.000Z",
+      "opponent": "Hayden Harbutt",
+      "opponentSlug": "108101-hayden-harbutt",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 34",
+      "eventSlug": "53311-eternal-mma-34",
+      "round": 3,
+      "timeInRound": "0:15"
+    },
+    {
+      "date": "2017-09-16T00:00:00.000Z",
+      "opponent": "Anthony Drilich",
+      "opponentSlug": "158431-anthony-drilich",
+      "result": "loss",
+      "method": "sub",
+      "event": "Eternal MMA 28",
+      "eventSlug": "47797-eternal-mma-28",
+      "round": 1,
+      "timeInRound": "0:31"
+    },
+    {
+      "date": "2017-03-04T00:00:00.000Z",
+      "opponent": "Tahiwi Sellars-McGee",
+      "opponentSlug": "62981-tahiwi-sellars-mcgee",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Urban Fight Night 10",
+      "eventSlug": "43841-urban-fight-night-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-08-27T00:00:00.000Z",
+      "opponent": "James Najim",
+      "opponentSlug": "84649-james-najim",
+      "result": "loss",
+      "method": "other",
+      "event": "Urban Fight Night 8",
+      "eventSlug": "40413-urban-fight-night-8",
+      "round": 1,
+      "timeInRound": "2:43"
+    },
+    {
+      "date": "2016-07-09T00:00:00.000Z",
+      "opponent": "Andrew Murray",
+      "opponentSlug": "119836-andrew-murray",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 18",
+      "eventSlug": "39886-eternal-mma-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-03-12T00:00:00.000Z",
+      "opponent": "Eoin Duggan",
+      "opponentSlug": "124585-eoin-duggan",
+      "result": "loss",
+      "method": "sub",
+      "event": "Eternal MMA 15",
+      "eventSlug": "37947-eternal-mma-15",
+      "round": 3,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2015-11-20T00:00:00.000Z",
+      "opponent": "Chris Coyle",
+      "opponentSlug": "119833-chris-coyle",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 13",
+      "eventSlug": "36149-eternal-mma-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-07-25T00:00:00.000Z",
+      "opponent": "Torren Honda",
+      "opponentSlug": "108122-torren-honda",
+      "result": "loss",
+      "method": "dec-majority",
+      "event": "Eternal MMA 11",
+      "eventSlug": "31969-eternal-mma-11",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:13:59.987Z"
+}

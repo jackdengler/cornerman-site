@@ -1,0 +1,213 @@
+{
+  "slug": "143979-josh-kristensen",
+  "name": "Josh Kristensen",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 10,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 7,
+    "losses": 10,
+    "draws": 0
+  },
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1992-06-29",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/143979-josh-kristensen",
+  "recentFights": [
+    {
+      "date": "2022-05-21T00:00:00.000Z",
+      "opponent": "Cameron Cook",
+      "opponentSlug": "299599-cameron-cook",
+      "result": "loss",
+      "method": "other",
+      "event": "True Revelation 46",
+      "eventSlug": "88982-true-revelation-46",
+      "round": 2,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2021-09-25T00:00:00.000Z",
+      "opponent": "Drake McKim",
+      "opponentSlug": "278393-drake-mckim",
+      "result": "loss",
+      "method": "sub",
+      "event": "True Revelation 44",
+      "eventSlug": "82724-true-revelation-44",
+      "round": 2,
+      "timeInRound": "1:16"
+    },
+    {
+      "date": "2021-07-23T00:00:00.000Z",
+      "opponent": "Traevon Kroger",
+      "opponentSlug": "170104-traevon-kroger",
+      "result": "win",
+      "method": "sub",
+      "event": "Ascendancy FC 24",
+      "eventSlug": "80741-ascendancy-fc-24",
+      "round": 1,
+      "timeInRound": "1:19"
+    },
+    {
+      "date": "2018-06-22T00:00:00.000Z",
+      "opponent": "Ethan Pfantz",
+      "opponentSlug": "37112-ethan-pfantz",
+      "result": "loss",
+      "method": "sub",
+      "event": "Ascendancy FC 17",
+      "eventSlug": "53492-ascendancy-fc-17",
+      "round": 2,
+      "timeInRound": "0:42"
+    },
+    {
+      "date": "2018-05-18T00:00:00.000Z",
+      "opponent": "Traevon Kroger",
+      "opponentSlug": "170104-traevon-kroger",
+      "result": "loss",
+      "method": "sub",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "52939-brutaal-genesis-fight-night-back-in-the-barn-11",
+      "round": 2,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2018-02-24T00:00:00.000Z",
+      "opponent": "Joby Steffensmeier",
+      "opponentSlug": "90092-joby-steffensmeier",
+      "result": "loss",
+      "method": "sub",
+      "event": "True Revelation 35",
+      "eventSlug": "49108-true-revelation-mma-35",
+      "round": 2,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2017-12-16T00:00:00.000Z",
+      "opponent": "Cody Sheehy",
+      "opponentSlug": "20573-cody-sheehy",
+      "result": "loss",
+      "method": "sub",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "49326-brutaal-genesis-fight-night-christmas-chaos",
+      "round": 1,
+      "timeInRound": "2:11"
+    },
+    {
+      "date": "2017-11-22T00:00:00.000Z",
+      "opponent": "Kurtis Ellis",
+      "opponentSlug": "131732-kurtis-ellis",
+      "result": "win",
+      "method": "sub",
+      "event": "Victory FC: Fight Night Waterloo 2",
+      "eventSlug": "48666-victory-fc-fight-night-waterloo-2",
+      "round": 2,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2017-10-14T00:00:00.000Z",
+      "opponent": "Dalton Cooley",
+      "opponentSlug": "95501-dalton-cooley",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "True Revelation MMA 34",
+      "eventSlug": "47935-true-revelation-mma-34",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-23T00:00:00.000Z",
+      "opponent": "Shawn Sowder",
+      "opponentSlug": "125095-shawn-sowder",
+      "result": "win",
+      "method": "sub",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "47933-brutaal-genesis-fight-night-back-in-the-barn-9",
+      "round": 1,
+      "timeInRound": "1:18"
+    },
+    {
+      "date": "2017-07-28T00:00:00.000Z",
+      "opponent": "Santana Acosta",
+      "opponentSlug": "85224-santana-acosta",
+      "result": "loss",
+      "method": "other",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "46608-brutaal-genesis-fight-night-fight-night-at-hy-vee-hall",
+      "round": 2,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2017-05-19T00:00:00.000Z",
+      "opponent": "Cody Sheehy",
+      "opponentSlug": "20573-cody-sheehy",
+      "result": "loss",
+      "method": "sub",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "45768-brutaal-genesis-fight-night-back-in-the-barn-8",
+      "round": 1,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2017-04-14T00:00:00.000Z",
+      "opponent": "Izzy Heredia",
+      "opponentSlug": "143970-izzy-heredia",
+      "result": "win",
+      "method": "sub",
+      "event": "MCC 64",
+      "eventSlug": "44739-mcc-64",
+      "round": 2,
+      "timeInRound": "1:11"
+    },
+    {
+      "date": "2017-02-11T00:00:00.000Z",
+      "opponent": "Keilund Steinborn",
+      "opponentSlug": "146344-keilund-steinborn",
+      "result": "win",
+      "method": "other",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "44202-brutaal-genesis-fight-night",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-17T00:00:00.000Z",
+      "opponent": "Brandon Alden",
+      "opponentSlug": "112451-nathan-lint",
+      "result": "win",
+      "method": "sub",
+      "event": "Back In The Barn 6",
+      "eventSlug": "43256-back-in-the-barn-6",
+      "round": 1,
+      "timeInRound": "0:33"
+    },
+    {
+      "date": "2016-11-12T00:00:00.000Z",
+      "opponent": "Shawn Sowder",
+      "opponentSlug": "125095-shawn-sowder",
+      "result": "win",
+      "method": "sub",
+      "event": "Laramar Fight Night 13",
+      "eventSlug": "42471-laramar-fight-night-12",
+      "round": 1,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2016-10-01T00:00:00.000Z",
+      "opponent": "Jose Ramos",
+      "opponentSlug": "143978-jose-ramos",
+      "result": "loss",
+      "method": "sub",
+      "event": "Back In The Barn 5",
+      "eventSlug": "42815-back-in-the-barn-5",
+      "round": 2,
+      "timeInRound": "0:44"
+    }
+  ],
+  "lastVerified": "2026-04-18T09:06:19.047Z"
+}

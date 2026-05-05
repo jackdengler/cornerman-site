@@ -1,0 +1,242 @@
+{
+  "slug": "86703-steven-merrill",
+  "name": "Steven Merrill",
+  "nickname": "The Surgeon",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 9,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 183,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1989-11-17",
+  "nationality": "Everett, Washington, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/86703-steven-merrill",
+  "recentFights": [
+    {
+      "date": "2022-05-21T00:00:00.000Z",
+      "opponent": "Carlos Mota",
+      "opponentSlug": "137041-carlos-motta",
+      "result": "loss",
+      "method": "other",
+      "event": "North Iowa Fights",
+      "eventSlug": "85336-north-iowa-fights",
+      "round": 1,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2021-11-13T00:00:00.000Z",
+      "opponent": "Frank Osborne",
+      "opponentSlug": "51180-william-osborne",
+      "result": "loss",
+      "method": "other",
+      "event": "Ascendancy FC 51",
+      "eventSlug": "84249-ascendancy-fc-51",
+      "round": 1,
+      "timeInRound": "2:48"
+    },
+    {
+      "date": "2021-05-21T00:00:00.000Z",
+      "opponent": "Bryce Meredith",
+      "opponentSlug": "294041-bryce-meredith",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 108: Fremd vs. Rodrigues",
+      "eventSlug": "79065-lfa-108-fremd-vs-rodrigues",
+      "round": 1,
+      "timeInRound": "3:35"
+    },
+    {
+      "date": "2020-09-12T00:00:00.000Z",
+      "opponent": "Jeff Jepsen",
+      "opponentSlug": "90161-jeff-jepsen",
+      "result": "loss",
+      "method": "other",
+      "event": "Caged Aggression 27",
+      "eventSlug": "71095-caged-aggression-27-return-of-the-champions-day-2",
+      "round": 2,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2019-03-23T00:00:00.000Z",
+      "opponent": "Justin Wetzell",
+      "opponentSlug": "90866-justin-wetzell",
+      "result": "loss",
+      "method": "other",
+      "event": "Caged Aggression 24",
+      "eventSlug": "57336-caged-aggression-champions-night-2",
+      "round": 1,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2018-12-07T00:00:00.000Z",
+      "opponent": "Youssef Zalal",
+      "opponentSlug": "110826-youssef-zalaal",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 56: Hubbard vs. Mota",
+      "eventSlug": "56318-lfa-56-hubbard-vs-mota",
+      "round": 1,
+      "timeInRound": "3:22"
+    },
+    {
+      "date": "2018-10-13T00:00:00.000Z",
+      "opponent": "Sam Thao",
+      "opponentSlug": "sam-thao",
+      "result": "loss",
+      "method": "other",
+      "event": "Conviction Fight Promotions",
+      "eventSlug": "55932-conviction-fight-promotions-genesis",
+      "round": 2,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2018-07-27T00:00:00.000Z",
+      "opponent": "Kevin Gray",
+      "opponentSlug": "22467-kevin-gray",
+      "result": "win",
+      "method": "sub",
+      "event": "DCS 44: Ballyard Brawl Night 1",
+      "eventSlug": "54265-dcs-44-ballyard-brawl-night-1",
+      "round": 1,
+      "timeInRound": "1:57"
+    },
+    {
+      "date": "2018-01-20T00:00:00.000Z",
+      "opponent": "Adil Benjilany",
+      "opponentSlug": "61823-adil-benjilany",
+      "result": "nc",
+      "method": "other",
+      "event": "Elite Fight League 1",
+      "eventSlug": "49557-elite-fight-league-1",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2017-10-20T00:00:00.000Z",
+      "opponent": "Dwight Joseph",
+      "opponentSlug": "26561-dwight-joseph",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 25: Cochrane vs. Rodrigues",
+      "eventSlug": "48452-lfa-25-cochrane-vs-rodrigues",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-18T00:00:00.000Z",
+      "opponent": "Emeka Ifekandu",
+      "opponentSlug": "48374-emeka-ifekandu",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 19: Michaud vs. Rodrigues",
+      "eventSlug": "47191-lfa-19-michaud-vs-rodrigues",
+      "round": 3,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2017-06-03T00:00:00.000Z",
+      "opponent": "Jeff Molina",
+      "opponentSlug": "117845-jeffrey-molina",
+      "result": "win",
+      "method": "sub",
+      "event": "Victory FC: Fight Night at Harrahs 5",
+      "eventSlug": "45929-victory-fc-fight-night-at-harrahs-5",
+      "round": 1,
+      "timeInRound": "1:03"
+    },
+    {
+      "date": "2017-04-15T00:00:00.000Z",
+      "opponent": "Eric Kemper",
+      "opponentSlug": "51115-eric-kemper",
+      "result": "win",
+      "method": "sub",
+      "event": "KOTC: Territorial Dispute",
+      "eventSlug": "44806-kotc-territorial-dispute",
+      "round": 1,
+      "timeInRound": "2:53"
+    },
+    {
+      "date": "2017-01-14T00:00:00.000Z",
+      "opponent": "Austin Peterson",
+      "opponentSlug": "15805-austin-peterson",
+      "result": "win",
+      "method": "sub",
+      "event": "KOTC: Most Wanted",
+      "eventSlug": "42948-kotc",
+      "round": 1,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2016-10-22T00:00:00.000Z",
+      "opponent": "Allyn Case",
+      "opponentSlug": "95276-allyn-case",
+      "result": "win",
+      "method": "sub",
+      "event": "MCC 62",
+      "eventSlug": "41568-mcc-62-huskic-vs-deeds",
+      "round": 1,
+      "timeInRound": "3:12"
+    },
+    {
+      "date": "2016-08-06T00:00:00.000Z",
+      "opponent": "Dylan Forkner",
+      "opponentSlug": "110814-dylan-forkner",
+      "result": "loss",
+      "method": "other",
+      "event": "Laramar Fight Night 12",
+      "eventSlug": "42814-laramar-fight-night-12",
+      "round": 1,
+      "timeInRound": "2:57"
+    },
+    {
+      "date": "2016-06-04T00:00:00.000Z",
+      "opponent": "Santana Acosta",
+      "opponentSlug": "85224-santana-acosta",
+      "result": "win",
+      "method": "sub",
+      "event": "Laramar Fight Night 11",
+      "eventSlug": "40106-laramar-fight-night-11",
+      "round": 1,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2014-11-26T00:00:00.000Z",
+      "opponent": "David McKinney",
+      "opponentSlug": "86702-david-mckinney",
+      "result": "loss",
+      "method": "sub",
+      "event": "MCC 56: Thanksgiving Throwdown 9",
+      "eventSlug": "27716-mcc-56-thanksgiving-throwdown",
+      "round": 2,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2014-05-30T00:00:00.000Z",
+      "opponent": "Nate Smith",
+      "opponentSlug": "67804-nate-smith",
+      "result": "loss",
+      "method": "other",
+      "event": null,
+      "eventSlug": null,
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-02-13T00:00:00.000Z",
+      "opponent": "Ryan Stock",
+      "opponentSlug": "11646-ryan-stock",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:32:44.953Z"
+}

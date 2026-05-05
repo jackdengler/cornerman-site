@@ -1,0 +1,187 @@
+{
+  "slug": "47312-vinicius-de-jesus",
+  "name": "Vinicius de Jesus",
+  "nickname": "The Brazilian Bad Boy",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": 191,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1990-01-27",
+  "nationality": "Porto Alegre, Rio Grande do Sul, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/47312-vinicius-de-jesus",
+  "recentFights": [
+    {
+      "date": "2024-06-21T00:00:00.000Z",
+      "opponent": "Magomed Makhamaev",
+      "opponentSlug": "265428-magomed-makhamaev",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Hardcore Reality 2024",
+      "eventSlug": "130846-hardcore-reality-2024-episode-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-03T00:00:00.000Z",
+      "opponent": "Levan Chokheli",
+      "opponentSlug": "198568-levan-chokheli",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bellator 272",
+      "eventSlug": "83245-bellator-mma",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-11-05T00:00:00.000Z",
+      "opponent": "Austin Vanderford",
+      "opponentSlug": "39902-austin-vandeford",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bellator 251",
+      "eventSlug": "73156-bellator-mma",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-08-21T00:00:00.000Z",
+      "opponent": "Jaleel Willis",
+      "opponentSlug": "54327-jaleel-willis",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 88: Willis vs. De Jesus",
+      "eventSlug": "71699-lfa-88-willis-vs-de-jesus",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-07T00:00:00.000Z",
+      "opponent": "Chris Lozano",
+      "opponentSlug": "chris-lozano-the-assassin",
+      "result": "win",
+      "method": "tko",
+      "event": "CES 58: De Jesus vs. Lozano",
+      "eventSlug": "62170-ces-58",
+      "round": 3,
+      "timeInRound": "3:22"
+    },
+    {
+      "date": "2019-03-29T00:00:00.000Z",
+      "opponent": "Jeremiah Wells",
+      "opponentSlug": "15782-jeremiah-wells",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CES 55: Wells vs. de Jesus",
+      "eventSlug": "58799-ces-55",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-02-16T00:00:00.000Z",
+      "opponent": "Rodolfo Barcellos",
+      "opponentSlug": "104091-rodolpho-barcellos",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 216",
+      "eventSlug": "56889-bellator-216",
+      "round": 1,
+      "timeInRound": "3:46"
+    },
+    {
+      "date": "2018-10-12T00:00:00.000Z",
+      "opponent": "Tim Caron",
+      "opponentSlug": "35291-tim-caron",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bellator 207",
+      "eventSlug": "54165-bellator-207-mitrione-vs-bader",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-10-20T00:00:00.000Z",
+      "opponent": "Joaquin Buckley",
+      "opponentSlug": "55022-joaquin-buckley",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Bellator 185",
+      "eventSlug": "46967-bellator-184",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-04T00:00:00.000Z",
+      "opponent": "James Boran",
+      "opponentSlug": "14709-james-boran-the-american-outlaw",
+      "result": "win",
+      "method": "sub",
+      "event": "Bellator 163",
+      "eventSlug": "41806-bellator-163",
+      "round": 2,
+      "timeInRound": "1:55"
+    },
+    {
+      "date": "2016-07-30T00:00:00.000Z",
+      "opponent": "Montoyia Swilling",
+      "opponentSlug": "39568-monty-swilling",
+      "result": "win",
+      "method": "sub",
+      "event": "Premier FC 20",
+      "eventSlug": "39324-premier-fc-20",
+      "round": 1,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2016-02-20T00:00:00.000Z",
+      "opponent": "Evander Russ",
+      "opponentSlug": "23919-evander-russ",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Premier FC 19",
+      "eventSlug": "36767-premier-fc-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-14T00:00:00.000Z",
+      "opponent": "Gill Pinhierro",
+      "opponentSlug": "66966-gill-pinhierro",
+      "result": "win",
+      "method": "tko",
+      "event": "Premier FC 18",
+      "eventSlug": "27785-premier-fc-18",
+      "round": 2,
+      "timeInRound": "4:42"
+    },
+    {
+      "date": "2013-11-23T00:00:00.000Z",
+      "opponent": "Jeferson Negrini",
+      "opponentSlug": "57042-jeferson-negrini-batata",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Mega Fight 8",
+      "eventSlug": "21162-mega-fight-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-05-25T00:00:00.000Z",
+      "opponent": "Anderson Silva",
+      "opponentSlug": "47313-anderson-silva",
+      "result": "win",
+      "method": "other",
+      "event": "Golden Fighters 5",
+      "eventSlug": "18828-gffs-5",
+      "round": 1,
+      "timeInRound": "0:24"
+    }
+  ],
+  "lastVerified": "2026-04-25T23:00:09.940Z"
+}

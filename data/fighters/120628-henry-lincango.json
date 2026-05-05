@@ -1,0 +1,132 @@
+{
+  "slug": "120628-henry-lincango",
+  "name": "Henry Lincango",
+  "nickname": "Pocho",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1986-02-05",
+  "nationality": "Ecuador",
+  "url": "https://www.tapology.com/fightcenter/fighters/120628-henry-lincango",
+  "recentFights": [
+    {
+      "date": "2023-09-28T00:00:00.000Z",
+      "opponent": "Fabriccio Robles",
+      "opponentSlug": "59902-fabricio-robles",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "FFC 66: Mollinedo vs. Pereyra",
+      "eventSlug": "103682-ffc-66-el-regreso-de-gato-loco",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-01T00:00:00.000Z",
+      "opponent": "Adrian Luna Martinetti",
+      "opponentSlug": "139620-juan-adrian-luna",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "FFC 45: Ecuador",
+      "eventSlug": "75219-ffc-45-mora-vs-vinicius-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-12-12T00:00:00.000Z",
+      "opponent": "Franklin Grifo",
+      "opponentSlug": "189547-franklin-grifo",
+      "result": "win",
+      "method": "sub",
+      "event": "YFC 11: Lincango vs. Rada",
+      "eventSlug": "74130-yfc-11",
+      "round": 2,
+      "timeInRound": "0:18"
+    },
+    {
+      "date": "2019-04-06T00:00:00.000Z",
+      "opponent": "Cristian Herrera",
+      "opponentSlug": "142111-cristian-jose-herrera-sarango-pitbull-negro",
+      "result": "win",
+      "method": "sub",
+      "event": "EMMA 14",
+      "eventSlug": "57902-emma-14",
+      "round": 1,
+      "timeInRound": "2:09"
+    },
+    {
+      "date": "2017-04-08T00:00:00.000Z",
+      "opponent": "Brayan Villota",
+      "opponentSlug": "154303-brayan-villota-samurai",
+      "result": "win",
+      "method": "other",
+      "event": "EMMA 10",
+      "eventSlug": "45077-emma-10",
+      "round": 1,
+      "timeInRound": "4:46"
+    },
+    {
+      "date": "2016-10-01T00:00:00.000Z",
+      "opponent": "Miguel Angel Fierro",
+      "opponentSlug": "145076-miguel-angel-fierro",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "YFC 5",
+      "eventSlug": "43804-yfc-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-24T00:00:00.000Z",
+      "opponent": "Alejandro Victor Velarde",
+      "opponentSlug": "120629-alejandro-velarde",
+      "result": "win",
+      "method": "tko",
+      "event": "YFC 3",
+      "eventSlug": "36971-yfc",
+      "round": 1,
+      "timeInRound": "0:41"
+    },
+    {
+      "date": "2015-03-28T00:00:00.000Z",
+      "opponent": "Miguel Angel Fierro",
+      "opponentSlug": "145076-miguel-angel-fierro",
+      "result": "win",
+      "method": "other",
+      "event": "Noche de Guerreros 4",
+      "eventSlug": "73042-noche-de-guerreros-4",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2013-05-31T00:00:00.000Z",
+      "opponent": "Neptaly Velez Moreira",
+      "opponentSlug": "147779-neptaly-velez-moreira",
+      "result": "loss",
+      "method": "sub",
+      "event": "EMMA 8",
+      "eventSlug": "20712-emma-8",
+      "round": 1,
+      "timeInRound": "4:42"
+    },
+    {
+      "date": "2011-09-11T00:00:00.000Z",
+      "opponent": "Brian Mazache",
+      "opponentSlug": "147626-brian-mazache",
+      "result": "win",
+      "method": "other",
+      "event": "EMMA 3: Inferno",
+      "eventSlug": "43711-emma-3-inferno",
+      "round": 1,
+      "timeInRound": "2:20"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:37:02.136Z"
+}

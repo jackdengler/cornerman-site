@@ -1,0 +1,88 @@
+{
+  "slug": "133432-anderson-silva-braddock",
+  "name": "Anderson Silva",
+  "nickname": "Braddock",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 191,
+  "reachCm": 192,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1986-08-29",
+  "nationality": "São Paulo, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/133432-anderson-silva-braddock",
+  "recentFights": [
+    {
+      "date": "2021-09-24T00:00:00.000Z",
+      "opponent": "Marcus Buchecha",
+      "opponentSlug": "237072-marcius-almedia-buchecha",
+      "result": "loss",
+      "method": "other",
+      "event": "ONE Championship",
+      "eventSlug": "81073-one-championship-10-year-anniversary-2",
+      "round": 1,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2018-07-19T00:00:00.000Z",
+      "opponent": "Justin Frazier",
+      "opponentSlug": "17448-justin-frazier",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "The Ultimate Fighter Season 28",
+      "eventSlug": "57995-the-ultimate-fighter-season-28-heavy-hitters",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-19T00:00:00.000Z",
+      "opponent": "Julio Cesar Lima",
+      "opponentSlug": "173696-julio-cesar",
+      "result": "win",
+      "method": "other",
+      "event": "WOCS 50",
+      "eventSlug": "53100-wocs-50",
+      "round": 1,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2017-06-17T00:00:00.000Z",
+      "opponent": "Dritan Barjamaj",
+      "opponentSlug": "30288-dritan-barjamaj-the-furious",
+      "result": "loss",
+      "method": "other",
+      "event": "Shooto Switzerland",
+      "eventSlug": "46009-shooto-switzerland",
+      "round": 2,
+      "timeInRound": "2:06"
+    },
+    {
+      "date": "2016-10-15T00:00:00.000Z",
+      "opponent": "Luke Morton",
+      "opponentSlug": "121228-luke-morton",
+      "result": "win",
+      "method": "other",
+      "event": "HIT Fighting Championship 3",
+      "eventSlug": "40523-hit-fighting-championship-3",
+      "round": 1,
+      "timeInRound": "0:58"
+    },
+    {
+      "date": "2016-05-28T00:00:00.000Z",
+      "opponent": "Ruud Vernooij",
+      "opponentSlug": "84120-ruud-vernooij",
+      "result": "win",
+      "method": "other",
+      "event": "HIT Fighting Championship 2",
+      "eventSlug": "37738-hit-fighting-championship-2",
+      "round": 2,
+      "timeInRound": "2:01"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:39:17.551Z"
+}

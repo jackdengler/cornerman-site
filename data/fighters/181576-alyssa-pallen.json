@@ -1,0 +1,59 @@
+{
+  "slug": "181576-alyssa-pallen",
+  "name": "Alyssa Pallen",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 163,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1994-05-15",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/181576-alyssa-pallen",
+  "recentFights": [
+    {
+      "date": "2018-07-07T00:00:00.000Z",
+      "opponent": "Melissa Croden",
+      "opponentSlug": "140510-melissa-croden",
+      "result": "loss",
+      "method": "tko",
+      "event": "209 Beatdown 5",
+      "eventSlug": "54096-209-beatdown-5",
+      "round": 3,
+      "timeInRound": "1:09"
+    },
+    {
+      "date": "2018-04-14T00:00:00.000Z",
+      "opponent": "Monica Gonzalez",
+      "opponentSlug": "184336-monica-gonzalez",
+      "result": "win",
+      "method": "other",
+      "event": "CFC 2: Champions Will Be Crowned",
+      "eventSlug": "51938-cfc-2-champions-will-be-crowned",
+      "round": 1,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2018-03-17T00:00:00.000Z",
+      "opponent": "Alicia Degmetich",
+      "opponentSlug": "181575-alicia-degmetich",
+      "result": "win",
+      "method": "other",
+      "event": "The Titans Cage 18",
+      "eventSlug": "51806-the-titans-cage-18",
+      "round": 3,
+      "timeInRound": "1:07"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:00:26.482Z"
+}

@@ -1,0 +1,220 @@
+{
+  "slug": "244150-quentin-campbell",
+  "name": "Quentin Campbell",
+  "nickname": "Crazy Eyes",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 206,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1992-07-21",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/244150-quentin-campbell",
+  "recentFights": [
+    {
+      "date": "2026-03-21T00:00:00.000Z",
+      "opponent": "Matt Adams",
+      "opponentSlug": "143093-matthew-adams",
+      "result": "loss",
+      "method": "other",
+      "event": "Ohio Combat League 43",
+      "eventSlug": "139334-ohio-combat-league-44",
+      "round": 1,
+      "timeInRound": "3:13"
+    },
+    {
+      "date": "2025-12-06T00:00:00.000Z",
+      "opponent": "Jeremy Riley",
+      "opponentSlug": "307893-jeremy-riley",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "AFP 104",
+      "eventSlug": "132105-afp-104",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-07-26T00:00:00.000Z",
+      "opponent": "Ben Wunder",
+      "opponentSlug": "341828-benjamin-wunder",
+      "result": "loss",
+      "method": "other",
+      "event": "MFL 57: Summer Slam",
+      "eventSlug": "120226-mfl-57",
+      "round": 2,
+      "timeInRound": "1:34"
+    },
+    {
+      "date": "2025-03-01T00:00:00.000Z",
+      "opponent": "RJ Harris",
+      "opponentSlug": "382864-rj-harris",
+      "result": "loss",
+      "method": "other",
+      "event": "Ohio Combat League 36",
+      "eventSlug": "121675-ohio-combat-league-36-the-arnold-classic",
+      "round": 1,
+      "timeInRound": "3:24"
+    },
+    {
+      "date": "2024-04-21T00:00:00.000Z",
+      "opponent": "Miles Banks",
+      "opponentSlug": "320855-miles-banks",
+      "result": "loss",
+      "method": "tko",
+      "event": "Fury FC 89: Richardson vs. Aswell",
+      "eventSlug": "110448-fury-fc-89",
+      "round": 3,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2023-10-21T00:00:00.000Z",
+      "opponent": "Justin Smith",
+      "opponentSlug": "265031-justin-smith",
+      "result": "loss",
+      "method": "tko",
+      "event": "Action Fight League",
+      "eventSlug": "104937-action-fight-league-unconquered",
+      "round": 1,
+      "timeInRound": "2:08"
+    },
+    {
+      "date": "2023-09-09T00:00:00.000Z",
+      "opponent": "Mataeo Garner",
+      "opponentSlug": "238644-mataeo-garner",
+      "result": "loss",
+      "method": "other",
+      "event": "247 FC: 513 Fight Night",
+      "eventSlug": "103081-247-fc",
+      "round": 3,
+      "timeInRound": "2:43"
+    },
+    {
+      "date": "2023-04-29T00:00:00.000Z",
+      "opponent": "Alvin Abitz",
+      "opponentSlug": "321418-alvin-abitz",
+      "result": "win",
+      "method": "other",
+      "event": "SCL: Army vs. Marines 14",
+      "eventSlug": "96560-scl-army-vs-marines-14",
+      "round": 1,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2022-10-15T00:00:00.000Z",
+      "opponent": "Ryan Richardson",
+      "opponentSlug": "255948-ryan-richardson",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "B2 Fighting Series 176",
+      "eventSlug": "93108-b2-fighting-series-176-kentucky",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-14T00:00:00.000Z",
+      "opponent": "Cody Baker",
+      "opponentSlug": "303959-cody-baker",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "B2 Fighting Series 161",
+      "eventSlug": "87790-b2-fighting-series-161-iowa",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-23T00:00:00.000Z",
+      "opponent": "Dylan Rinck",
+      "opponentSlug": "80468-dylan-rinck",
+      "result": "loss",
+      "method": "other",
+      "event": "B2 Fighting Series 158",
+      "eventSlug": "86533-b2-fighting-series-158-lexington-night-two-saturday",
+      "round": 3,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2022-03-19T00:00:00.000Z",
+      "opponent": "Lane Lightle",
+      "opponentSlug": "303398-lane-lightle",
+      "result": "win",
+      "method": "other",
+      "event": "B2 Fighting Series 152",
+      "eventSlug": "84730-b2-fighting-series-152-west-virginia",
+      "round": 1,
+      "timeInRound": "1:11"
+    },
+    {
+      "date": "2022-01-22T00:00:00.000Z",
+      "opponent": "Tristin Canada",
+      "opponentSlug": "157846-tristan-canada",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "B2 Fighting Series 144",
+      "eventSlug": "83925-b2-fighting-series-144-fort-wayne-indiana",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-04T00:00:00.000Z",
+      "opponent": "Vester Harris",
+      "opponentSlug": "298930-vester-harris",
+      "result": "win",
+      "method": "other",
+      "event": "B2 Fighting Series 142",
+      "eventSlug": "81791-b2-fighting-series-143-kentucky-lexington-night-two-saturday",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2021-05-08T00:00:00.000Z",
+      "opponent": "Malakii Catron",
+      "opponentSlug": "272299-malakii-catron",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "HR MMA 121",
+      "eventSlug": "77209-hrmma-121",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-02-26T00:00:00.000Z",
+      "opponent": "Blair Hoskinson",
+      "opponentSlug": "285587-blair-hoskins",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "HR MMA 118",
+      "eventSlug": "74826-hr-mma-118",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-01-23T00:00:00.000Z",
+      "opponent": "Erik Jackson",
+      "opponentSlug": "125507-erik-jackson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Premier MMA Championship 15",
+      "eventSlug": "68630-premier-mma-championship-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-07T00:00:00.000Z",
+      "opponent": "Maurice Yarbrough",
+      "opponentSlug": "206400-maurice-yarbough",
+      "result": "loss",
+      "method": "other",
+      "event": "HR MMA 113: Agnew vs Schommer",
+      "eventSlug": "63597-hrmma-113",
+      "round": 1,
+      "timeInRound": "1:06"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:40:07.182Z"
+}

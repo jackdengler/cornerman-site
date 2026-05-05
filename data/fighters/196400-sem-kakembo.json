@@ -1,0 +1,220 @@
+{
+  "slug": "196400-sem-kakembo",
+  "name": "Semakadde Kakembo",
+  "nickname": "King Sem",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1997-02-17",
+  "nationality": "Malaysia",
+  "url": "https://www.tapology.com/fightcenter/fighters/196400-sem-kakembo",
+  "recentFights": [
+    {
+      "date": "2025-08-30T00:00:00.000Z",
+      "opponent": "Shunichi Shimizu",
+      "opponentSlug": "shunichi-shimizu",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "HEX Fight Series 36",
+      "eventSlug": "120779-hex-fight-series-36",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-31T00:00:00.000Z",
+      "opponent": "Marwan Rahiki",
+      "opponentSlug": "388487-marwan-rahiki",
+      "result": "loss",
+      "method": "sub",
+      "event": "HEX Fight Series 35",
+      "eventSlug": "120778-hex-fight-series-35",
+      "round": 4,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-01T00:00:00.000Z",
+      "opponent": "Joshua Trambulo",
+      "opponentSlug": "128244-joshua-riley",
+      "result": "win",
+      "method": "sub",
+      "event": "HEX Fight Series 34",
+      "eventSlug": "120777-hex-fight-series-34",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-14T00:00:00.000Z",
+      "opponent": "Jarrett Wilbraham",
+      "opponentSlug": "128643-jarrett-wilbraham",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "HEX Fight Series 31",
+      "eventSlug": "112106-hex-fight-series-31",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-02T00:00:00.000Z",
+      "opponent": "Michael Barber",
+      "opponentSlug": "109283-michael-barber",
+      "result": "win",
+      "method": "dec-split",
+      "event": "HEX Fight Series 29",
+      "eventSlug": "107573-hex-fight-series-29",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-18T00:00:00.000Z",
+      "opponent": "Abdalla Biayda",
+      "opponentSlug": "202073-abdullah-eltigani",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Hex Fight Series 27",
+      "eventSlug": "101993-hex-fight-series-27",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-18T00:00:00.000Z",
+      "opponent": "Ralf Francisco",
+      "opponentSlug": "50848-ralf-francisco",
+      "result": "win",
+      "method": "sub",
+      "event": "Hex Fight Series 24",
+      "eventSlug": "93819-hex-fight-series-24",
+      "round": 1,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2022-09-17T00:00:00.000Z",
+      "opponent": "Colby Thicknesse",
+      "opponentSlug": "166902-colby-thicknesse",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 70",
+      "eventSlug": "91666-eternal-mma-70",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-05T00:00:00.000Z",
+      "opponent": "Hyung Jun Kwon",
+      "opponentSlug": "88365-hyung-jun-kwon",
+      "result": "win",
+      "method": "sub",
+      "event": "Hex Fight Series 23",
+      "eventSlug": "91477-hex-fight-series-23",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-26T00:00:00.000Z",
+      "opponent": "Raf Vilches",
+      "opponentSlug": "194993-rafael-vilches",
+      "result": "win",
+      "method": "sub",
+      "event": "Rogue MMA 2",
+      "eventSlug": "85367-rogue-mma-2",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-18T00:00:00.000Z",
+      "opponent": "Hussein Wasette",
+      "opponentSlug": "101851-haussain-wasette",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hex Fight Series 22",
+      "eventSlug": "85375-hex-fight-series-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-09T00:00:00.000Z",
+      "opponent": "Dan Molineux",
+      "opponentSlug": "232659-daniel-molienux",
+      "result": "win",
+      "method": "sub",
+      "event": "Hex Fight Series 21",
+      "eventSlug": "75164-hex-fight-series-21",
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2021-02-13T00:00:00.000Z",
+      "opponent": "Val Sharipov",
+      "opponentSlug": "235032-val-sharipov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Demolition Fight Series 2",
+      "eventSlug": "76505-demolition-fight-series-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-27T00:00:00.000Z",
+      "opponent": "James Sargison",
+      "opponentSlug": "164218-james-sargison",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 46",
+      "eventSlug": "60268-eternal-mma-46",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-12T00:00:00.000Z",
+      "opponent": "Colby Thicknesse",
+      "opponentSlug": "166902-colby-thicknesse",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Wollongong Wars 7",
+      "eventSlug": "61763-wollongong-wars-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-04T00:00:00.000Z",
+      "opponent": "Pece Naumovski",
+      "opponentSlug": "181620-pece-naumovski",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Path to Hex 9",
+      "eventSlug": "58752-path-to-hex-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-01T00:00:00.000Z",
+      "opponent": "Pece Naumovski",
+      "opponentSlug": "181620-pece-naumovski",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Path to Hex 7",
+      "eventSlug": "55468-path-to-hex-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-22T00:00:00.000Z",
+      "opponent": "Conor Paton",
+      "opponentSlug": "196401-conor-paton",
+      "result": "win",
+      "method": "other",
+      "event": "Path to Hex 6",
+      "eventSlug": "55467-path-to-hex-6",
+      "round": 3,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:56:31.417Z"
+}

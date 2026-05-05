@@ -1,0 +1,165 @@
+{
+  "slug": "90744-aleksa-camur",
+  "name": "Aleksa Camur",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 188,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1995-09-25",
+  "nationality": "Sarajevo, Bosnia and Herzegovina",
+  "url": "https://www.tapology.com/fightcenter/fighters/90744-aleksa-camur",
+  "recentFights": [
+    {
+      "date": "2023-08-05T00:00:00.000Z",
+      "opponent": "Tanner Boser",
+      "opponentSlug": "35149-tanner-boser",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "101342-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-19T00:00:00.000Z",
+      "opponent": "Nicolae Negumereanu",
+      "opponentSlug": "142000-nick-negumereanu",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "77656-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-26T00:00:00.000Z",
+      "opponent": "William Knight",
+      "opponentSlug": "120996-william-knight",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 253: Adesanya vs. Costa",
+      "eventSlug": "70105-ufc-253",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-01-18T00:00:00.000Z",
+      "opponent": "Justin Ledet",
+      "opponentSlug": "16360-justin-ledet",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 246: McGregor vs. Cerrone",
+      "eventSlug": "63997-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-30T00:00:00.000Z",
+      "opponent": "Fabio Cherant",
+      "opponentSlug": "134237-fabio-cherant",
+      "result": "win",
+      "method": "other",
+      "event": "Contender Series 2019",
+      "eventSlug": "59499-dw-s-contender-series-2019-week-7",
+      "round": 2,
+      "timeInRound": "0:48"
+    },
+    {
+      "date": "2018-08-18T00:00:00.000Z",
+      "opponent": "Marvin Skipper",
+      "opponentSlug": "91538-marvin-skipper",
+      "result": "win",
+      "method": "other",
+      "event": "Honor FC 6: Fight Night at Nautica",
+      "eventSlug": "53825-honor-fc-6",
+      "round": 1,
+      "timeInRound": "2:43"
+    },
+    {
+      "date": "2018-03-31T00:00:00.000Z",
+      "opponent": "Allen Bose",
+      "opponentSlug": "40960-al-bose",
+      "result": "win",
+      "method": "other",
+      "event": "Honor FC 3: Operation Shockwave",
+      "eventSlug": "51451-honor-fighting-championship-3",
+      "round": 1,
+      "timeInRound": "2:04"
+    },
+    {
+      "date": "2017-12-09T00:00:00.000Z",
+      "opponent": "David White",
+      "opponentSlug": "140314-david-white",
+      "result": "win",
+      "method": "other",
+      "event": "IT Fight Series 78",
+      "eventSlug": "48984-it-fight-series-78",
+      "round": 2,
+      "timeInRound": "3:59"
+    },
+    {
+      "date": "2017-09-16T00:00:00.000Z",
+      "opponent": "Randy Tran",
+      "opponentSlug": "99609-randy-tran",
+      "result": "win",
+      "method": "other",
+      "event": "IT Fight Series 76",
+      "eventSlug": "47376-it-fight-series-76",
+      "round": 1,
+      "timeInRound": "0:20"
+    },
+    {
+      "date": "2016-06-25T00:00:00.000Z",
+      "opponent": "Lance Phillips",
+      "opponentSlug": "42616-lance-phillips",
+      "result": "win",
+      "method": "other",
+      "event": "Big Guns 19",
+      "eventSlug": "39584-big-guns-19-return-to-the-summit",
+      "round": 2,
+      "timeInRound": "2:06"
+    },
+    {
+      "date": "2015-10-17T00:00:00.000Z",
+      "opponent": "Apineru Vele",
+      "opponentSlug": "72425-apineru-vele",
+      "result": "win",
+      "method": "other",
+      "event": "Big Guns 17",
+      "eventSlug": "35164-big-guns-17",
+      "round": 2,
+      "timeInRound": "0:28"
+    },
+    {
+      "date": "2015-01-31T00:00:00.000Z",
+      "opponent": "Ricky Davis",
+      "opponentSlug": "90746-ricky-davis",
+      "result": "win",
+      "method": "tko",
+      "event": "NAAFS: Caged Fury 21",
+      "eventSlug": "28508-naafs-caged-fury-21",
+      "round": 2,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2014-08-02T00:00:00.000Z",
+      "opponent": "George Howard",
+      "opponentSlug": "76092-ed-howard",
+      "result": "win",
+      "method": "tko",
+      "event": "NAAFS: Midwest Combat Challenge 28",
+      "eventSlug": "25334-naafs-combat-challenge-28",
+      "round": 1,
+      "timeInRound": "0:18"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:58:27.659Z"
+}

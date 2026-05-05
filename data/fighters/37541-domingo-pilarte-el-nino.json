@@ -1,0 +1,154 @@
+{
+  "slug": "37541-domingo-pilarte-el-nino",
+  "name": "Domingo Pilarte",
+  "nickname": "Son Of Fire",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 188,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1990-01-05",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/37541-domingo-pilarte-el-nino",
+  "recentFights": [
+    {
+      "date": "2021-08-21T00:00:00.000Z",
+      "opponent": "Brian Kelleher",
+      "opponentSlug": "13751-Brian-Kelleher",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "79118-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-08T00:00:00.000Z",
+      "opponent": "Journey Newson",
+      "opponentSlug": "41203-journey-newson",
+      "result": "nc",
+      "method": "other",
+      "event": "UFC 247: Jones vs. Reyes",
+      "eventSlug": "64388-ufc-on-espn",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-20T00:00:00.000Z",
+      "opponent": "Felipe Colares",
+      "opponentSlug": "80697-felipe-colares-caboco",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC on ESPN 4",
+      "eventSlug": "60311-ufc-on-espn-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-17T00:00:00.000Z",
+      "opponent": "Vince Morales",
+      "opponentSlug": "91401-vince-morales",
+      "result": "win",
+      "method": "sub",
+      "event": "DW's Contender Series 2018",
+      "eventSlug": "52734-dw-s-contender-series-2018-week-6",
+      "round": 2,
+      "timeInRound": "1:52"
+    },
+    {
+      "date": "2017-03-24T00:00:00.000Z",
+      "opponent": "Adrian Yanez",
+      "opponentSlug": "34063-adrian-yanez",
+      "result": "win",
+      "method": "dec-split",
+      "event": "LFA 7: Sanchez vs. Mai",
+      "eventSlug": "44639-lfa-7-sanchez-vs-mai",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-16T00:00:00.000Z",
+      "opponent": "Chris Pham",
+      "opponentSlug": "35543-chris-pham",
+      "result": "win",
+      "method": "other",
+      "event": "Legacy FC 59",
+      "eventSlug": "40899-legacy-fc-59",
+      "round": 1,
+      "timeInRound": "0:38"
+    },
+    {
+      "date": "2015-10-09T00:00:00.000Z",
+      "opponent": "Javier Obregon",
+      "opponentSlug": "17059-javier-obregon",
+      "result": "win",
+      "method": "sub",
+      "event": "Fury FC 8",
+      "eventSlug": "35499-fury-fc-8",
+      "round": 1,
+      "timeInRound": "2:04"
+    },
+    {
+      "date": "2015-02-13T00:00:00.000Z",
+      "opponent": "Joel Scott",
+      "opponentSlug": "29838-joel-scott",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Fury FC 4",
+      "eventSlug": "29506-fury-fc-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-01-31T00:00:00.000Z",
+      "opponent": "Caio Machado",
+      "opponentSlug": "61724-caio-machado",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Legacy FC 27",
+      "eventSlug": "21286-legacy-fc-27-buentello-vs-villanueva",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-11-16T00:00:00.000Z",
+      "opponent": "Ricardo Delgado",
+      "opponentSlug": "20067-ricardo-delgado",
+      "result": "win",
+      "method": "tko",
+      "event": "Legacy FC 15",
+      "eventSlug": "15588-legacy-fc-15",
+      "round": 1,
+      "timeInRound": "1:51"
+    },
+    {
+      "date": "2010-12-04T00:00:00.000Z",
+      "opponent": "Gerzan Chaw",
+      "opponentSlug": "16369-gerzan-chaw",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-04-05T00:00:00.000Z",
+      "opponent": "Navied Sadeghi",
+      "opponentSlug": "13502-navied-sadeghi",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "0:22"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:57:18.467Z"
+}

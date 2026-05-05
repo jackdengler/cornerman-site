@@ -1,0 +1,231 @@
+{
+  "slug": "19521-brandon-hunt",
+  "name": "Brandon Hunt",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 10,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1973-05-31",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/19521-brandon-hunt",
+  "recentFights": [
+    {
+      "date": "2017-04-29T00:00:00.000Z",
+      "opponent": "Victor Jones",
+      "opponentSlug": "52892-victor-jones",
+      "result": "loss",
+      "method": "other",
+      "event": "KOTC: Supremacy",
+      "eventSlug": "44233-kotc",
+      "round": 1,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2016-03-05T00:00:00.000Z",
+      "opponent": "Eddie Larrea",
+      "opponentSlug": "eddie-larrea",
+      "result": "loss",
+      "method": "sub",
+      "event": "KOTC: Shattered",
+      "eventSlug": "37908-kotc-shattered",
+      "round": 1,
+      "timeInRound": "1:22"
+    },
+    {
+      "date": "2015-11-21T00:00:00.000Z",
+      "opponent": "Andrew Kapel",
+      "opponentSlug": "13145-andrew-kapel",
+      "result": "loss",
+      "method": "tko",
+      "event": "KOTC: Bear Brawl",
+      "eventSlug": "35539-kotc",
+      "round": 1,
+      "timeInRound": "3:55"
+    },
+    {
+      "date": "2015-08-01T00:00:00.000Z",
+      "opponent": "Sidiah Parker",
+      "opponentSlug": "19589-sidiah-parker",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "KOTC: Rumble on the River",
+      "eventSlug": "33838-kotc-rumble-on-the-river",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-10-02T00:00:00.000Z",
+      "opponent": "Daniel Hernandez",
+      "opponentSlug": "8470-daniel-hernandez",
+      "result": "loss",
+      "method": "tko",
+      "event": "KOTC: Battle for the Belt",
+      "eventSlug": "26576-kotc-battle-for-the-belt",
+      "round": 1,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2013-08-29T00:00:00.000Z",
+      "opponent": "Melvin Costa",
+      "opponentSlug": "11852-melvin-costa",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KOTC: Split Decision",
+      "eventSlug": "19939-kotc-split-decision",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-10-25T00:00:00.000Z",
+      "opponent": "Johnny Cisneros",
+      "opponentSlug": "20969-johnny-cisneros",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "KOTC: Gun Show",
+      "eventSlug": "16183-kotc-gun-show",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-04-26T00:00:00.000Z",
+      "opponent": "Sean Strickland",
+      "opponentSlug": "6055-sean-strickland-tarzan",
+      "result": "loss",
+      "method": "other",
+      "event": "KOTC: Hardcore",
+      "eventSlug": "12863-kotc-hardcore",
+      "round": 1,
+      "timeInRound": "3:24"
+    },
+    {
+      "date": "2011-12-17T00:00:00.000Z",
+      "opponent": "Sean Strickland",
+      "opponentSlug": "6055-sean-strickland-tarzan",
+      "result": "loss",
+      "method": "other",
+      "event": "KOTC: Steel Curtain",
+      "eventSlug": "11750-kotc-steel-curtain",
+      "round": 1,
+      "timeInRound": "3:48"
+    },
+    {
+      "date": "2011-09-24T00:00:00.000Z",
+      "opponent": "Angelo Popofski",
+      "opponentSlug": "9798-angelo-popofski",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-04-21T00:00:00.000Z",
+      "opponent": "Kenny McCorkell",
+      "opponentSlug": "3766-kenny-mccorkell-the-krusher",
+      "result": "win",
+      "method": "sub",
+      "event": "KOTC: Moral Victory",
+      "eventSlug": "9846-kotc-moral-victory",
+      "round": 5,
+      "timeInRound": "2:33"
+    },
+    {
+      "date": "2010-09-11T00:00:00.000Z",
+      "opponent": "Angelo Popofski",
+      "opponentSlug": "9798-angelo-popofski",
+      "result": "win",
+      "method": "other",
+      "event": "KOTC: Civil War 2",
+      "eventSlug": "8441-kotc-civil-war-2",
+      "round": 2,
+      "timeInRound": "3:13"
+    },
+    {
+      "date": "2010-04-16T00:00:00.000Z",
+      "opponent": "Brad Burrick",
+      "opponentSlug": "9801-brad-burrick-bad",
+      "result": "win",
+      "method": "other",
+      "event": "KOTC: Bad Boys 2",
+      "eventSlug": "2888-kotc-bad-boys-2",
+      "round": 2,
+      "timeInRound": "0:59"
+    },
+    {
+      "date": "2009-10-01T00:00:00.000Z",
+      "opponent": "Joe Crilly",
+      "opponentSlug": "6931-joe-crilly",
+      "result": "win",
+      "method": "other",
+      "event": "KOTC: Distorted",
+      "eventSlug": "3745-kotc-distorted",
+      "round": 3,
+      "timeInRound": "0:24"
+    },
+    {
+      "date": "2009-06-19T00:00:00.000Z",
+      "opponent": "Brad Burrick",
+      "opponentSlug": "9801-brad-burrick-bad",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "KOTC: Encore",
+      "eventSlug": "6046-kotc-encore",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-11-26T00:00:00.000Z",
+      "opponent": "Brad Burrick",
+      "opponentSlug": "9801-brad-burrick-bad",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KOTC: Anticipation",
+      "eventSlug": "10057-kotc-anticipation",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-07-12T00:00:00.000Z",
+      "opponent": "Reggie Mitchell",
+      "opponentSlug": "19568-reggie-mitchell",
+      "result": "win",
+      "method": "dec-split",
+      "event": "KOTC Underground 23",
+      "eventSlug": "6055-kotc-badlands",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-10-13T00:00:00.000Z",
+      "opponent": "Ronnie Huizar",
+      "opponentSlug": "19569-ronnie-huizar",
+      "result": "win",
+      "method": "other",
+      "event": "KOTC: Hierarchy",
+      "eventSlug": "2424-kotc-underground-50-hierarchy",
+      "round": 2,
+      "timeInRound": "1:26"
+    },
+    {
+      "date": "2007-01-26T00:00:00.000Z",
+      "opponent": "Stephen Jaskulski",
+      "opponentSlug": "19570-stephen-jaskulski",
+      "result": "loss",
+      "method": "other",
+      "event": "KOTC: Mass Destruction",
+      "eventSlug": "5243-kotc-underground-36-mass-destruction",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T22:58:37.078Z"
+}

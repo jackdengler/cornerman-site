@@ -1,0 +1,154 @@
+{
+  "slug": "163187-tre-alvarado",
+  "name": "Tre Alvarado",
+  "nickname": "Too Smooth",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1994-04-06",
+  "nationality": "Santa Barbara, California",
+  "url": "https://www.tapology.com/fightcenter/fighters/163187-tre-alvarado",
+  "recentFights": [
+    {
+      "date": "2024-04-06T00:00:00.000Z",
+      "opponent": "Isaiah Batin-Gonzalez",
+      "opponentSlug": "25494-isaiah-gonzalez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LXF 15",
+      "eventSlug": "112135-lxf-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-01-06T00:00:00.000Z",
+      "opponent": "Sal Bruno",
+      "opponentSlug": "157813-sal-bruno",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LXF 13",
+      "eventSlug": "108742-lxf-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-10-28T00:00:00.000Z",
+      "opponent": "Evian Rodriguez",
+      "opponentSlug": "16406-evian-rodriguez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WFC 161",
+      "eventSlug": "106577-wfc-161",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-02T00:00:00.000Z",
+      "opponent": "Seth Baugher",
+      "opponentSlug": "304504-seth-baugher",
+      "result": "win",
+      "method": "dec-split",
+      "event": "WFC 136",
+      "eventSlug": "90985-wfc-136",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-11T00:00:00.000Z",
+      "opponent": "Mark Felix",
+      "opponentSlug": "107789-mark-felix",
+      "result": "win",
+      "method": "tko",
+      "event": "559 Fights 84",
+      "eventSlug": "85985-559-fights-84",
+      "round": 3,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2021-12-12T00:00:00.000Z",
+      "opponent": "Ralph Hernandez III",
+      "opponentSlug": "190165-ralph-hernandez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combat Quest 16",
+      "eventSlug": "85351-combat-quest-16-season-s-beatings",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-08T00:00:00.000Z",
+      "opponent": "Andrew Balandran",
+      "opponentSlug": "233566-andrew-balandran",
+      "result": "win",
+      "method": "tko",
+      "event": "559 Fights 78",
+      "eventSlug": "65818-559-fights-78",
+      "round": 2,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2019-09-07T00:00:00.000Z",
+      "opponent": "JJ Nelson",
+      "opponentSlug": "79989-jj-nelson",
+      "result": "win",
+      "method": "other",
+      "event": "WFC 111",
+      "eventSlug": "61427-wfc-111",
+      "round": 1,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2019-04-05T00:00:00.000Z",
+      "opponent": "Matt Maxwell",
+      "opponentSlug": "62712-matt-maxwell",
+      "result": "win",
+      "method": "sub",
+      "event": "WFC 102",
+      "eventSlug": "59717-wfc-102",
+      "round": 1,
+      "timeInRound": "2:04"
+    },
+    {
+      "date": "2018-07-21T00:00:00.000Z",
+      "opponent": "Matthew Cordonero",
+      "opponentSlug": "119636-matthew-cordonero",
+      "result": "win",
+      "method": "other",
+      "event": "Force of One MMA",
+      "eventSlug": "54804-force-of-one",
+      "round": 1,
+      "timeInRound": "1:46"
+    },
+    {
+      "date": "2017-08-12T00:00:00.000Z",
+      "opponent": "Armando Quinones",
+      "opponentSlug": "183835-armando-quinones",
+      "result": "win",
+      "method": "sub",
+      "event": "Southwest Brawl 6",
+      "eventSlug": "49167-southwest-brawl-6",
+      "round": 1,
+      "timeInRound": "1:16"
+    },
+    {
+      "date": "2017-06-10T00:00:00.000Z",
+      "opponent": "Jesse Moorhouse",
+      "opponentSlug": "152097-jesse-moorhouse",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Jackson's MMA Series 22",
+      "eventSlug": "47368-jacksons-mma-series-22",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:44:49.458Z"
+}

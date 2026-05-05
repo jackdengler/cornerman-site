@@ -1,0 +1,242 @@
+{
+  "slug": "18931-adam-golonkiewicz-rodrigo",
+  "name": "Adam Golonkiewicz",
+  "nickname": "Rodrigo",
+  "aliases": [],
+  "recordPro": {
+    "wins": 12,
+    "losses": 10,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1990-11-22",
+  "nationality": "Poland",
+  "url": "https://www.tapology.com/fightcenter/fighters/18931-adam-golonkiewicz-rodrigo",
+  "recentFights": [
+    {
+      "date": "2020-11-27T00:00:00.000Z",
+      "opponent": "Rashed Kaddoura",
+      "opponentSlug": "272328-rashed-kaddoura",
+      "result": "win",
+      "method": "sub",
+      "event": "Opolscy Wojownicy 5",
+      "eventSlug": "72908-opolscy-wojownicy-5",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-01-14T00:00:00.000Z",
+      "opponent": "Mateusz Rębecki",
+      "opponentSlug": "65128-mateusz-rbecki-chiczyk",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fight Exclusive Night 15",
+      "eventSlug": "42647-fight-exclusive-night-15-final-strike",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-20T00:00:00.000Z",
+      "opponent": "Elio Caiaffa",
+      "opponentSlug": "129690-elio-caiaffa",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Exclusive Night 12",
+      "eventSlug": "36991-fight-exclusive-night-12",
+      "round": 1,
+      "timeInRound": "4:18"
+    },
+    {
+      "date": "2016-01-09T00:00:00.000Z",
+      "opponent": "Jacek Kreft",
+      "opponentSlug": "56320-jacek-kreft",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fight Exclusive Night 10",
+      "eventSlug": "36634-fight-exclusive-night-10",
+      "round": 1,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2015-11-07T00:00:00.000Z",
+      "opponent": "Roman Szymański",
+      "opponentSlug": "32157-roman-szymanski",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fight Exclusive Night 9",
+      "eventSlug": "34424-fight-exclusive-night-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-02-20T00:00:00.000Z",
+      "opponent": "Bartłomiej Kurczewski",
+      "opponentSlug": "46897-bartlomiej-kurczewski",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "PLMMA 48: Extra - Opole",
+      "eventSlug": "28540-plmma-opole",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-12-28T00:00:00.000Z",
+      "opponent": "Rasul Yakhyaev",
+      "opponentSlug": "61287-rasul-yakhyaev",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "PLMMA 26: Extra - Legionowo",
+      "eventSlug": "22109-plmma-26-extra-legionowo",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-11-15T00:00:00.000Z",
+      "opponent": "Adrian Zieliński",
+      "opponentSlug": "29788-adrian-zielinski",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "PLMMA 24: Extra - Legionowo",
+      "eventSlug": "21069-plmma-24",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-05-17T00:00:00.000Z",
+      "opponent": "Damian Domachowski",
+      "opponentSlug": "29476-damian-domachowski",
+      "result": "win",
+      "method": "other",
+      "event": "XCage 5",
+      "eventSlug": "21071-xcage-5",
+      "round": 2,
+      "timeInRound": "2:16"
+    },
+    {
+      "date": "2012-10-27T00:00:00.000Z",
+      "opponent": "Rafał Błachuta",
+      "opponentSlug": "34432-rafal-blachuta",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-05-19T00:00:00.000Z",
+      "opponent": "Paweł Pawlak",
+      "opponentSlug": "58531-pawel-pawlak",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-04-21T00:00:00.000Z",
+      "opponent": "Cengiz Dana",
+      "opponentSlug": "cengiz-dana-mosquito",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-12-03T00:00:00.000Z",
+      "opponent": "Ireneusz Mila",
+      "opponentSlug": "12728-ireneusz-mila",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-06-11T00:00:00.000Z",
+      "opponent": "Kamil Łebkowski",
+      "opponentSlug": "56430-kamil-lebkowski",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ring XF: Lightweight Elimination",
+      "eventSlug": "21391-ring-xf-lightweight-elimination",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-06-11T00:00:00.000Z",
+      "opponent": "Rafał Nowasielski",
+      "opponentSlug": "39018-rafal-nowasielski-adhd",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Ring XF: Lightweight Elimination",
+      "eventSlug": "21391-ring-xf-lightweight-elimination",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-06-11T00:00:00.000Z",
+      "opponent": "Sebastian Drela",
+      "opponentSlug": "58548-sebastian-drela",
+      "result": "win",
+      "method": "other",
+      "event": "Ring XF: Lightweight Elimination",
+      "eventSlug": "21391-ring-xf-lightweight-elimination",
+      "round": 1,
+      "timeInRound": "2:16"
+    },
+    {
+      "date": "2011-05-08T00:00:00.000Z",
+      "opponent": "Josef Kotyza",
+      "opponentSlug": "58549-josef-kotyza",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-02-13T00:00:00.000Z",
+      "opponent": "David Kozma",
+      "opponentSlug": "18860-david-kozma-nestling",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-05-23T00:00:00.000Z",
+      "opponent": "Ireneusz Mila",
+      "opponentSlug": "12728-ireneusz-mila",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-12-13T00:00:00.000Z",
+      "opponent": "Mariusz Radziszewski",
+      "opponentSlug": "18940-mariusz-radziszewski-radzik",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:05:41.270Z"
+}

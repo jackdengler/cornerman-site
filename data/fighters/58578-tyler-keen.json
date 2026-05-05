@@ -1,0 +1,81 @@
+{
+  "slug": "58578-tyler-keen",
+  "name": "Tyler Keen",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1980-01-27",
+  "nationality": "Texas",
+  "url": "https://www.tapology.com/fightcenter/fighters/58578-tyler-keen",
+  "recentFights": [
+    {
+      "date": "2015-11-14T00:00:00.000Z",
+      "opponent": "Joe Karnavas",
+      "opponentSlug": "59519-joe-karnavas",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cowboys Extreme Cagefighting 23",
+      "eventSlug": "36391-cowboys-extreme-cagefighting-23",
+      "round": 3,
+      "timeInRound": "0:29"
+    },
+    {
+      "date": "2013-11-23T00:00:00.000Z",
+      "opponent": "Jonah Gomez",
+      "opponentSlug": "42780-jonah-gomez",
+      "result": "win",
+      "method": "sub",
+      "event": "Cowboys Extreme Cagefighting",
+      "eventSlug": "21397-cowboys-extreme-cagefighting",
+      "round": 1,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2012-08-04T00:00:00.000Z",
+      "opponent": "Alexander Hernandez",
+      "opponentSlug": "46253-alexander-hernandez",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-08-06T00:00:00.000Z",
+      "opponent": "Taylor Kresta",
+      "opponentSlug": "61703-taylor-kresta",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-06-18T00:00:00.000Z",
+      "opponent": "Josh Lazarte",
+      "opponentSlug": "233005-josh-lazarte",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:35:45.254Z"
+}

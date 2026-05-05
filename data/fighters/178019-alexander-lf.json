@@ -1,0 +1,253 @@
+{
+  "slug": "178019-alexander-lf",
+  "name": "Alexander Lööf",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1998-02-18",
+  "nationality": "Örebro",
+  "url": "https://www.tapology.com/fightcenter/fighters/178019-alexander-lf",
+  "recentFights": [
+    {
+      "date": "2025-09-13T00:00:00.000Z",
+      "opponent": "Stefano Catacoli",
+      "opponentSlug": "128795-stefano-catacoli",
+      "result": "loss",
+      "method": "sub",
+      "event": "FCR 25",
+      "eventSlug": "132707-fcr-25",
+      "round": 1,
+      "timeInRound": "4:10"
+    },
+    {
+      "date": "2025-06-27T00:00:00.000Z",
+      "opponent": "Aiden Lee",
+      "opponentSlug": "68589-aiden-lee",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Cage Warriors 190",
+      "eventSlug": "127518-cage-warriors-190-unplugged",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-15T00:00:00.000Z",
+      "opponent": "Weslley Maia",
+      "opponentSlug": "109165-weslley-maia-pia",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage Warriors 180",
+      "eventSlug": "114647-cage-warriors-180",
+      "round": 1,
+      "timeInRound": "4:19"
+    },
+    {
+      "date": "2024-07-20T00:00:00.000Z",
+      "opponent": "Shirzad Qadrian",
+      "opponentSlug": "332802-shirzad-qadrian",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Cage Warriors 174",
+      "eventSlug": "112984-cage-warriors",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-07-20T00:00:00.000Z",
+      "opponent": "Aidan Stephen",
+      "opponentSlug": "30254-aiden-stephen",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 174",
+      "eventSlug": "112984-cage-warriors",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-01T00:00:00.000Z",
+      "opponent": "Andrey Tyshchenko",
+      "opponentSlug": "201542-andrey-tyshchenko",
+      "result": "win",
+      "method": "dec-split",
+      "event": "FCR 20: Harila vs. Kirtadze",
+      "eventSlug": "110853-fcr-20-harila-vs-raza",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-29T00:00:00.000Z",
+      "opponent": "Luke Riley",
+      "opponentSlug": "243621-luke-riley",
+      "result": "loss",
+      "method": "tko",
+      "event": "Cage Warriors 160",
+      "eventSlug": "99932-cage-warriors-manchester",
+      "round": 3,
+      "timeInRound": "0:58"
+    },
+    {
+      "date": "2023-02-25T00:00:00.000Z",
+      "opponent": "Fernando Flores",
+      "opponentSlug": "89356-fernando-flores",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FCR 15",
+      "eventSlug": "96726-fcr-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-07T00:00:00.000Z",
+      "opponent": "Samuel Bark",
+      "opponentSlug": "229953-samuel-bark-sammon-decker",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Fight Club Rush 12",
+      "eventSlug": "87417-fight-club-rush-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-05T00:00:00.000Z",
+      "opponent": "Rasul Khataev",
+      "opponentSlug": "47997-rasul-khataev",
+      "result": "win",
+      "method": "other",
+      "event": "CAGE MMA 53",
+      "eventSlug": "86716-cage-mma-53",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2021-11-20T00:00:00.000Z",
+      "opponent": "Hamid Sadid",
+      "opponentSlug": "178018-hamid-sadid",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fight Club Rush 10",
+      "eventSlug": "83184-fight-club-rush-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-04T00:00:00.000Z",
+      "opponent": "Amir Malekpour",
+      "opponentSlug": "128701-amir-malekpour",
+      "result": "win",
+      "method": "ko",
+      "event": "Fight Club Rush 9",
+      "eventSlug": "81368-fight-club-rush-9",
+      "round": 3,
+      "timeInRound": "4:44"
+    },
+    {
+      "date": "2020-01-25T00:00:00.000Z",
+      "opponent": "Emil Andersson",
+      "opponentSlug": "254391-emil-andersson",
+      "result": "loss",
+      "method": "other",
+      "event": "Svenska Masterskapet 2019",
+      "eventSlug": "67180-svenska-masterskapet-2019-semifinals",
+      "round": 1,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2019-11-13T00:00:00.000Z",
+      "opponent": "Alexander O'Sullivan",
+      "opponentSlug": "84854-alexander-osullivan",
+      "result": "loss",
+      "method": "sub",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64319-immaf-wmmaa-amateur-world-championships-2019",
+      "round": 2,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2019-11-12T00:00:00.000Z",
+      "opponent": "Eduard Kexel",
+      "opponentSlug": "242381-eduard-kesel",
+      "result": "win",
+      "method": "tko",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64318-immaf-wmmaa-amateur-world-championships-2019-day-2",
+      "round": 1,
+      "timeInRound": "0:26"
+    },
+    {
+      "date": "2019-11-11T00:00:00.000Z",
+      "opponent": "Andrew Caruth",
+      "opponentSlug": "89148-andrew-caruth",
+      "result": "win",
+      "method": "tko",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64317-immaf-wmmaa-amateur-world-championships-2019",
+      "round": 2,
+      "timeInRound": "2:35"
+    },
+    {
+      "date": "2019-08-31T00:00:00.000Z",
+      "opponent": "Ilaz Zabelaj",
+      "opponentSlug": "142038-ilaz-zabeli",
+      "result": "loss",
+      "method": "other",
+      "event": "Fight Club Rush 5",
+      "eventSlug": "60955-fight-club-rush-5",
+      "round": 1,
+      "timeInRound": "1:26"
+    },
+    {
+      "date": "2018-08-18T00:00:00.000Z",
+      "opponent": "Mesut Ismash",
+      "opponentSlug": "188243-mesut-ismash",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Club Rush 3",
+      "eventSlug": "54454-fight-club-rush-fightclub-rush-3",
+      "round": 1,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2018-03-10T00:00:00.000Z",
+      "opponent": "Karl Pegers",
+      "opponentSlug": "236795-karl-pegers",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-02-10T00:00:00.000Z",
+      "opponent": "Jacob Valegren",
+      "opponentSlug": "178020-jacob-valegren",
+      "result": "win",
+      "method": "dec-split",
+      "event": "IRFA 13",
+      "eventSlug": "45010-irfa-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-10T00:00:00.000Z",
+      "opponent": "Christopher Barret",
+      "opponentSlug": "272223-christopher-barret",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Club Rush 1",
+      "eventSlug": "53224-fight-club-rush-1",
+      "round": 2,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:05:22.019Z"
+}

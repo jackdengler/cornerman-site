@@ -1,0 +1,253 @@
+{
+  "slug": "24519-harry-hunsucker",
+  "name": "Harry Hunsucker",
+  "nickname": "The Hurricane",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": 191,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1989-01-03",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/24519-harry-hunsucker",
+  "recentFights": [
+    {
+      "date": "2022-08-20T00:00:00.000Z",
+      "opponent": "Tyson Pedro",
+      "opponentSlug": "55878-tyson-pedro",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 278: Usman vs. Edwards 2",
+      "eventSlug": "89354-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2021-12-18T00:00:00.000Z",
+      "opponent": "Justin Tafa",
+      "opponentSlug": "152336-justin-tafa",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "82070-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2021-03-20T00:00:00.000Z",
+      "opponent": "Tai Tuivasa",
+      "opponentSlug": "120884-tai-tuivasa-bam-bam",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "74572-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "0:49"
+    },
+    {
+      "date": "2021-02-27T00:00:00.000Z",
+      "opponent": "Cory Moon",
+      "opponentSlug": "40197-cory-moon",
+      "result": "win",
+      "method": "tko",
+      "event": "HR MMA 119",
+      "eventSlug": "73566-hr-mma-117",
+      "round": 1,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2020-11-04T00:00:00.000Z",
+      "opponent": "Jared Vanderaa",
+      "opponentSlug": "33826-jared-vanderaa",
+      "result": "loss",
+      "method": "other",
+      "event": "Contender Series 2020",
+      "eventSlug": "70396-contender-series-2020-week-8",
+      "round": 1,
+      "timeInRound": "3:34"
+    },
+    {
+      "date": "2020-10-17T00:00:00.000Z",
+      "opponent": "Jordan Mitchell",
+      "opponentSlug": "40046-jordan-mitchell",
+      "result": "win",
+      "method": "sub",
+      "event": "HR MMA 115",
+      "eventSlug": "69556-b2-fighting-series-hrmma-116",
+      "round": 1,
+      "timeInRound": "1:21"
+    },
+    {
+      "date": "2019-10-12T00:00:00.000Z",
+      "opponent": "Tony Parker",
+      "opponentSlug": "tony-parker",
+      "result": "win",
+      "method": "other",
+      "event": "HR MMA 111: Pender vs Ballou",
+      "eventSlug": "61676-hrmma-111",
+      "round": 1,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2019-01-19T00:00:00.000Z",
+      "opponent": "Billy Swanson",
+      "opponentSlug": "121832-billy-swanson-big",
+      "result": "win",
+      "method": "tko",
+      "event": "Valor Fighting Challenge 54",
+      "eventSlug": "57792-valor-fighting-challenge-54",
+      "round": 1,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2018-03-03T00:00:00.000Z",
+      "opponent": "Tim Dunn",
+      "opponentSlug": "40183-tim-dunn-fatboy",
+      "result": "win",
+      "method": "sub",
+      "event": "Hardrock MMA 97",
+      "eventSlug": "49555-hardrock-mma-97-fritz-vs-mohammed",
+      "round": 1,
+      "timeInRound": "3:56"
+    },
+    {
+      "date": "2017-10-14T00:00:00.000Z",
+      "opponent": "Raleigh Abbott",
+      "opponentSlug": "67644-raleigh-abbot",
+      "result": "win",
+      "method": "other",
+      "event": "Hardrock MMA 93",
+      "eventSlug": "47652-hardrock-mma-93-parker-vs-gallegos",
+      "round": 1,
+      "timeInRound": "1:21"
+    },
+    {
+      "date": "2016-02-06T00:00:00.000Z",
+      "opponent": "Don'Tale Mayes",
+      "opponentSlug": "46499-dontale-mayes",
+      "result": "loss",
+      "method": "other",
+      "event": "Hardrock MMA 77 Pro/Am",
+      "eventSlug": "37650-hardrock-mma-77",
+      "round": 1,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2015-11-21T00:00:00.000Z",
+      "opponent": "Kevin Powers",
+      "opponentSlug": "10519-kevin-powers",
+      "result": "win",
+      "method": "sub",
+      "event": "Warrior FC: November 2 Remember",
+      "eventSlug": "36525-warrior-fc-november-2-remember",
+      "round": 1,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2015-09-26T00:00:00.000Z",
+      "opponent": "William Vincent",
+      "opponentSlug": "65711-william-vincent",
+      "result": "loss",
+      "method": "other",
+      "event": "Gladiator Promotions",
+      "eventSlug": "34655-gladiator-promotions-heat-wave-2",
+      "round": 1,
+      "timeInRound": "2:19"
+    },
+    {
+      "date": "2015-06-13T00:00:00.000Z",
+      "opponent": "Timothy Pinkston",
+      "opponentSlug": "29619-timotht-pinkston",
+      "result": "win",
+      "method": "other",
+      "event": "Hardrock MMA 73",
+      "eventSlug": "32597-hardrock-mma-73-ferguson-vs-dunn",
+      "round": 1,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2014-06-14T00:00:00.000Z",
+      "opponent": "Emilio Vallecillo",
+      "opponentSlug": "21022-emilio-vallecillo",
+      "result": "loss",
+      "method": "sub",
+      "event": "Hardrock MMA 65",
+      "eventSlug": "23936-hardrock-mma-65",
+      "round": 1,
+      "timeInRound": "1:22"
+    },
+    {
+      "date": "2013-02-23T00:00:00.000Z",
+      "opponent": "Jesseray Childrey",
+      "opponentSlug": "28946-jesse-childrey",
+      "result": "loss",
+      "method": "sub",
+      "event": "Hardrock MMA 54",
+      "eventSlug": "17521-hardrock-mma-54",
+      "round": 2,
+      "timeInRound": "2:32"
+    },
+    {
+      "date": "2012-03-24T00:00:00.000Z",
+      "opponent": "Kyle Wieneski",
+      "opponentSlug": "24593-kyle-wieneski",
+      "result": "win",
+      "method": "other",
+      "event": "Hardrock MMA 46",
+      "eventSlug": "12586-hardrock-mma-46",
+      "round": 1,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2012-01-21T00:00:00.000Z",
+      "opponent": "Justin Collett",
+      "opponentSlug": "25975-justin-collett",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-07-30T00:00:00.000Z",
+      "opponent": "Jeremy Durham",
+      "opponentSlug": "81883-jeremy-durham",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-11-19T00:00:00.000Z",
+      "opponent": "Tim Dunn",
+      "opponentSlug": "40183-tim-dunn-fatboy",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-12-12T00:00:00.000Z",
+      "opponent": "Jared Conn",
+      "opponentSlug": "227735-jared-conn",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:11:30.184Z"
+}

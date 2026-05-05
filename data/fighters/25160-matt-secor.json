@@ -1,0 +1,220 @@
+{
+  "slug": "25160-matt-secor",
+  "name": "Matt Secor",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 185,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1986-09-26",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/25160-matt-secor",
+  "recentFights": [
+    {
+      "date": "2018-05-04T00:00:00.000Z",
+      "opponent": "Adam Sepulveda",
+      "opponentSlug": "18175-adam-sepulveda",
+      "result": "win",
+      "method": "other",
+      "event": "CES NY 1",
+      "eventSlug": "52124-ces-50",
+      "round": 1,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2017-11-03T00:00:00.000Z",
+      "opponent": "Logan Storley",
+      "opponentSlug": "109294-logan-storley-storm",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bellator 186",
+      "eventSlug": "47631-bellator-186-bader-vs-vassell",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-25T00:00:00.000Z",
+      "opponent": "TJ Sumler",
+      "opponentSlug": "11258-tj-sumler-the-hyttman",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 182",
+      "eventSlug": "46033-bellator-182",
+      "round": 1,
+      "timeInRound": "4:00"
+    },
+    {
+      "date": "2017-03-18T00:00:00.000Z",
+      "opponent": "Abubakar Nurmagomedov",
+      "opponentSlug": "65871-abubakr-nurmagomedov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "WSOF 35: Ivanov vs. Jordan",
+      "eventSlug": "43526-wsof-35-ivanov-vs-jordan",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-30T00:00:00.000Z",
+      "opponent": "Ricardo Funch",
+      "opponentSlug": "ricardo-funch-golden-boy",
+      "result": "win",
+      "method": "other",
+      "event": "Premier FC 20",
+      "eventSlug": "39324-premier-fc-20",
+      "round": 2,
+      "timeInRound": "3:35"
+    },
+    {
+      "date": "2016-04-22T00:00:00.000Z",
+      "opponent": "Chris Honeycutt",
+      "opponentSlug": "47602-chris-honeycutt",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bellator 153",
+      "eventSlug": "38193-bellator-153-koreshkov-vs-henderson",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-23T00:00:00.000Z",
+      "opponent": "Jeremie Holloway",
+      "opponentSlug": "43312-jeremie-holloway",
+      "result": "win",
+      "method": "sub",
+      "event": "Bellator 144",
+      "eventSlug": "34661-bellator-144",
+      "round": 2,
+      "timeInRound": "4:54"
+    },
+    {
+      "date": "2015-04-10T00:00:00.000Z",
+      "opponent": "Chip Moraza-Pollard",
+      "opponentSlug": "chip-moraza-pollard-the-surgeon",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WSOF 20: Branch vs. McElligott",
+      "eventSlug": "30092-wsof-20-vagalhaes-vs-hamill",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-09-13T00:00:00.000Z",
+      "opponent": "Brett Shoenfelt",
+      "opponentSlug": "24422-brett-shoenfelt",
+      "result": "win",
+      "method": "sub",
+      "event": "WSOF 13: Moraes vs. Bollinger",
+      "eventSlug": "25740-wsof-13-moraes-vs-hill",
+      "round": 2,
+      "timeInRound": "4:31"
+    },
+    {
+      "date": "2014-06-21T00:00:00.000Z",
+      "opponent": "Lyman Good",
+      "opponentSlug": "lyman-good-cyborg",
+      "result": "loss",
+      "method": "other",
+      "event": "CFFC 36: Secor vs. Good",
+      "eventSlug": "24306-cffc-36",
+      "round": 1,
+      "timeInRound": "4:21"
+    },
+    {
+      "date": "2013-09-21T00:00:00.000Z",
+      "opponent": "Joshua Key",
+      "opponentSlug": "7773-joshua-key",
+      "result": "win",
+      "method": "sub",
+      "event": "CFFC 27: Heckman vs. Kelleher",
+      "eventSlug": "18444-cffc-27",
+      "round": 1,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2012-08-23T00:00:00.000Z",
+      "opponent": "Mike Hill",
+      "opponentSlug": "14934-mike-hill",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "The Ultimate Fighter Season 16",
+      "eventSlug": "35071-the-ultimate-fighter-season-16-team-carwin-vs-team-nelson",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-07-31T00:00:00.000Z",
+      "opponent": "Max Griffin",
+      "opponentSlug": "25437-max-griffin",
+      "result": "win",
+      "method": "sub",
+      "event": "The Ultimate Fighter Season 16",
+      "eventSlug": "33259-the-ultimate-fighter-season-16",
+      "round": 3,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2012-04-06T00:00:00.000Z",
+      "opponent": "Nordine Taleb",
+      "opponentSlug": "16241-nordine-taleb",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bellator 64",
+      "eventSlug": "12582-bellator-64",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-07-29T00:00:00.000Z",
+      "opponent": "Matt Dempsey",
+      "opponentSlug": "2356-matt-dempsey",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-05-21T00:00:00.000Z",
+      "opponent": "Joe Howard",
+      "opponentSlug": "49349-joe-howard-jumpin",
+      "result": "win",
+      "method": "sub",
+      "event": "Kaged Kombat FC 3",
+      "eventSlug": "19336-kaged-kombat-fc-3",
+      "round": 1,
+      "timeInRound": "2:44"
+    },
+    {
+      "date": "2009-07-18T00:00:00.000Z",
+      "opponent": "Joe Goyette",
+      "opponentSlug": "48120-joe-goyette",
+      "result": "win",
+      "method": "sub",
+      "event": "Burlington Brawl 5",
+      "eventSlug": "44509-burlington-brawl-5",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2009-05-02T00:00:00.000Z",
+      "opponent": "Justin Lucas",
+      "opponentSlug": "71392-justin-lucas",
+      "result": "win",
+      "method": "sub",
+      "event": "Reality Fighting 23",
+      "eventSlug": "5775-reality-fighting-throwdown",
+      "round": 1,
+      "timeInRound": "2:24"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:57:28.878Z"
+}

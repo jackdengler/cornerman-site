@@ -1,0 +1,176 @@
+{
+  "slug": "17309-ashley-greenway",
+  "name": "Ashley Greenway",
+  "nickname": "DollFace",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 164,
+  "reachCm": null,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": "1984-10-30",
+  "nationality": "Dallas, North Carolina",
+  "url": "https://www.tapology.com/fightcenter/fighters/17309-ashley-greenway",
+  "recentFights": [
+    {
+      "date": "2016-09-23T00:00:00.000Z",
+      "opponent": "Sunna Davíðsdóttir",
+      "opponentSlug": "100799-sunna-davidsdottir-tsunami",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 19",
+      "eventSlug": "41323-invicta-fc-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-03-11T00:00:00.000Z",
+      "opponent": "Sarah Click",
+      "opponentSlug": "64638-sarah-click",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 16",
+      "eventSlug": "37169-invicta-fc-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-14T00:00:00.000Z",
+      "opponent": "Shannon Goughary",
+      "opponentSlug": "72930-shannon-goughary",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "USFFC 25: Defiance",
+      "eventSlug": "35169-usffc-25-defiance",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-22T00:00:00.000Z",
+      "opponent": "Cheyanne Vlismas",
+      "opponentSlug": "59694-cheyanne-vlismas",
+      "result": "win",
+      "method": "sub",
+      "event": "USFFC 24: Aftershock",
+      "eventSlug": "32686-usffc-24-aftershock",
+      "round": 3,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2015-04-25T00:00:00.000Z",
+      "opponent": "Gillian Robertson",
+      "opponentSlug": "73142-gillian-robertson",
+      "result": "loss",
+      "method": "sub",
+      "event": "Rise of a Warrior 15",
+      "eventSlug": "30283-rise-of-a-warrior-15",
+      "round": 1,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2015-01-24T00:00:00.000Z",
+      "opponent": "Jessamine Ali",
+      "opponentSlug": "42722-jessamine-ali",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fight Lab 43",
+      "eventSlug": "27280-fight-lab-43",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-05-31T00:00:00.000Z",
+      "opponent": "JJ Aldrich",
+      "opponentSlug": "28420-jj-aldrich",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-09-19T00:00:00.000Z",
+      "opponent": "Ashley Miller",
+      "opponentSlug": "34581-ashley-miller",
+      "result": "win",
+      "method": "sub",
+      "event": "Victory Combat Sports 3",
+      "eventSlug": "20207-victory-combat-sports-3",
+      "round": 1,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2013-06-22T00:00:00.000Z",
+      "opponent": "Charity Walker",
+      "opponentSlug": "49152-charity-walker",
+      "result": "win",
+      "method": "other",
+      "event": "ECCF 23",
+      "eventSlug": "18681-eccf-23",
+      "round": 3,
+      "timeInRound": "2:06"
+    },
+    {
+      "date": "2012-08-04T00:00:00.000Z",
+      "opponent": "Melissa Timmer",
+      "opponentSlug": "31648-melissa-timmer",
+      "result": "win",
+      "method": "sub",
+      "event": "QFGC 3: Validation",
+      "eventSlug": "14692-qfgc-3-validation",
+      "round": 1,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2012-06-23T00:00:00.000Z",
+      "opponent": "Tecia Pennington",
+      "opponentSlug": "32610-tecia-torres-the-tiny-tornado",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-05-12T00:00:00.000Z",
+      "opponent": "Andy Nguyen",
+      "opponentSlug": "34496-andy-nguyen",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-12-03T00:00:00.000Z",
+      "opponent": "Lindsay Seamans",
+      "opponentSlug": "473003-lindsay-seamans",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-10-01T00:00:00.000Z",
+      "opponent": "Danaea Makemson",
+      "opponentSlug": "17308-danaea-makemson",
+      "result": "win",
+      "method": "sub",
+      "event": "BEP 5: Breast Cancer Beatdown",
+      "eventSlug": "10805-bep-5-breast-cancer-beatdown",
+      "round": 1,
+      "timeInRound": "1:09"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:01:47.100Z"
+}

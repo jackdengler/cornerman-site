@@ -1,0 +1,165 @@
+{
+  "slug": "46225-angel-luis-cruz",
+  "name": "Angel Luis Cruz",
+  "nickname": "Tito",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 180,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1987-10-06",
+  "nationality": "Rio Piedras, Puerto Rico",
+  "url": "https://www.tapology.com/fightcenter/fighters/46225-angel-luis-cruz",
+  "recentFights": [
+    {
+      "date": "2023-03-24T00:00:00.000Z",
+      "opponent": "Marcelo Rojo",
+      "opponentSlug": "24632-marcelo-rojo",
+      "result": "loss",
+      "method": "tko",
+      "event": "Fury FC 76: Chairez vs. Vasquez",
+      "eventSlug": "96724-fury-fc-76",
+      "round": 1,
+      "timeInRound": "3:16"
+    },
+    {
+      "date": "2022-11-06T00:00:00.000Z",
+      "opponent": "Colin Wright",
+      "opponentSlug": "37542-colin-wright",
+      "result": "win",
+      "method": "sub",
+      "event": "Fury FC 71: Richardson vs. Quintana",
+      "eventSlug": "91561-fury-fc-71",
+      "round": 1,
+      "timeInRound": "3:46"
+    },
+    {
+      "date": "2021-10-22T00:00:00.000Z",
+      "opponent": "Randy McCullough",
+      "opponentSlug": "22847-randy-mccullough",
+      "result": "win",
+      "method": "other",
+      "event": "Valor FL 9/WFC 128",
+      "eventSlug": "81629-valor-fl-9-wfc-128",
+      "round": 1,
+      "timeInRound": "3:32"
+    },
+    {
+      "date": "2019-11-01T00:00:00.000Z",
+      "opponent": "Ariel Juarez",
+      "opponentSlug": "39847-ariel-jaurez",
+      "result": "win",
+      "method": "other",
+      "event": "Combate 48: Garland",
+      "eventSlug": "63589-combate-garland",
+      "round": 1,
+      "timeInRound": "0:49"
+    },
+    {
+      "date": "2019-03-22T00:00:00.000Z",
+      "opponent": "Austin Lingo",
+      "opponentSlug": "129509-austin-lingo",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 62: Kenney vs. Cachero",
+      "eventSlug": "58531-lfa-62-johns-vs-cachero",
+      "round": 1,
+      "timeInRound": "0:25"
+    },
+    {
+      "date": "2016-08-11T00:00:00.000Z",
+      "opponent": "John Castañeda",
+      "opponentSlug": "20125-john-castaneda",
+      "result": "loss",
+      "method": "other",
+      "event": "Combate 8",
+      "eventSlug": "40861-combate-americas-combate-ocho",
+      "round": 2,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2016-04-18T00:00:00.000Z",
+      "opponent": "Emilio Chavez",
+      "opponentSlug": "14869-emilio-chavez",
+      "result": "loss",
+      "method": "sub",
+      "event": "Combate 5",
+      "eventSlug": "39212-combate-americas-3-road-to-the-championship",
+      "round": 2,
+      "timeInRound": "4:21"
+    },
+    {
+      "date": "2015-07-11T00:00:00.000Z",
+      "opponent": "Mike Ortiz",
+      "opponentSlug": "128465-mike-ortiz",
+      "result": "win",
+      "method": "sub",
+      "event": "XFS: Heat",
+      "eventSlug": "34323-xfs-heat",
+      "round": 1,
+      "timeInRound": "1:19"
+    },
+    {
+      "date": "2015-05-16T00:00:00.000Z",
+      "opponent": "Dondre Gibbs",
+      "opponentSlug": "56009-dondre-gibbs",
+      "result": "win",
+      "method": "sub",
+      "event": "XFS: Oasis",
+      "eventSlug": "32813-xfs-oasis",
+      "round": 1,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2014-09-20T00:00:00.000Z",
+      "opponent": "Martín Bravo",
+      "opponentSlug": "46205-martin-bravo",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-07-19T00:00:00.000Z",
+      "opponent": "Toby O'Neil",
+      "opponentSlug": "75670-toby-oneil",
+      "result": "win",
+      "method": "other",
+      "event": "XFS: Cerebral",
+      "eventSlug": "25779-xfs-cerebral",
+      "round": 1,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2014-03-22T00:00:00.000Z",
+      "opponent": "Phelan Fleming",
+      "opponentSlug": "70084-phelan-fleming",
+      "result": "win",
+      "method": "other",
+      "event": "XFS: Fire",
+      "eventSlug": "23616-xfs-fire",
+      "round": 1,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2013-02-22T00:00:00.000Z",
+      "opponent": "Andrew Lazo",
+      "opponentSlug": "46201-andrew-lazo",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:03:00.768Z"
+}

@@ -1,0 +1,187 @@
+{
+  "slug": "223342-theoren-thorn",
+  "name": "Theoren Thorn",
+  "nickname": "Thor",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1993-07-08",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/223342-theoren-thorn",
+  "recentFights": [
+    {
+      "date": "2025-11-21T00:00:00.000Z",
+      "opponent": "Antoine Chaput",
+      "opponentSlug": "325802-antoine-chaput",
+      "result": "loss",
+      "method": "other",
+      "event": "Samourai MMA 17",
+      "eventSlug": "134223-samourai-mma-17",
+      "round": 1,
+      "timeInRound": "2:23"
+    },
+    {
+      "date": "2025-08-09T00:00:00.000Z",
+      "opponent": "Sedric Louissaint",
+      "opponentSlug": "71315-sedric-louissaint-haitian-sensation",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combat Night Kissimmee",
+      "eventSlug": "131119-combat-night-kissimmee",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-17T00:00:00.000Z",
+      "opponent": "Korey Taylor",
+      "opponentSlug": "193806-korey-taylor",
+      "result": "win",
+      "method": "tko",
+      "event": "Combat Night Duval",
+      "eventSlug": "124757-combat-night-duval",
+      "round": 1,
+      "timeInRound": "0:22"
+    },
+    {
+      "date": "2025-02-08T00:00:00.000Z",
+      "opponent": "Chamy Delva",
+      "opponentSlug": "124759-sham-delva",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Combat Night Tallahassee",
+      "eventSlug": "123762-combat-night-tallahassee",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-22T00:00:00.000Z",
+      "opponent": "Marcellus Wallace",
+      "opponentSlug": "244891-marcellus-wallace",
+      "result": "win",
+      "method": "sub",
+      "event": "Combat Night St Pete",
+      "eventSlug": "113983-combat-night-st-pete",
+      "round": 3,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2024-03-23T00:00:00.000Z",
+      "opponent": "Gus D'Angelo",
+      "opponentSlug": "71938-augustus-dangelo",
+      "result": "win",
+      "method": "sub",
+      "event": "Combat Night 168",
+      "eventSlug": "111684-combat-night-168-orlando",
+      "round": 1,
+      "timeInRound": "4:14"
+    },
+    {
+      "date": "2023-12-16T00:00:00.000Z",
+      "opponent": "Tommy Laipply",
+      "opponentSlug": "290436-tommy-laipply",
+      "result": "win",
+      "method": "tko",
+      "event": "LeLeo Code MMA",
+      "eventSlug": "108306-leleo-code-mma-winter-fightfest-pro",
+      "round": 2,
+      "timeInRound": "3:40"
+    },
+    {
+      "date": "2023-10-28T00:00:00.000Z",
+      "opponent": "Harold Morisset",
+      "opponentSlug": "300042-harold-morisset",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combat Quest 32",
+      "eventSlug": "107186-combat-quest-32-road-trip-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-04T00:00:00.000Z",
+      "opponent": "Elvin Romero",
+      "opponentSlug": "252847-elvin-romero",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combat Quest 25",
+      "eventSlug": "96732-combat-quest-25-super-brawl-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-14T00:00:00.000Z",
+      "opponent": "Morquez Forest",
+      "opponentSlug": "307917-marquez-forest",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "CFFC 110: Curatolo vs McKinney",
+      "eventSlug": "90221-cffc-110",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-21T00:00:00.000Z",
+      "opponent": "Aiden Rubeck",
+      "opponentSlug": "176866-aiden-rubeck",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Victory Cage Fighting Championships",
+      "eventSlug": "86054-victory-cage-fighting-championships",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-06T00:00:00.000Z",
+      "opponent": "Noah Lopez",
+      "opponentSlug": "288904-noah-lopez",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Combat Quest 17",
+      "eventSlug": "85773-combat-quest-17-super-brawl-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-21T00:00:00.000Z",
+      "opponent": "Jason LaPage",
+      "opponentSlug": "41300-jason-lapage",
+      "result": "win",
+      "method": "tko",
+      "event": "Victory Cage Fighting Championships",
+      "eventSlug": "80233-victory-cage-fighting-championships-escape-from-quarantine",
+      "round": 2,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2019-05-11T00:00:00.000Z",
+      "opponent": "Craig Willingham",
+      "opponentSlug": "186252-craig-willingham",
+      "result": "loss",
+      "method": "tko",
+      "event": "Victory Cage Fighting Championships",
+      "eventSlug": "57739-victory-cage-fighting-championships-hail-to-the-kings",
+      "round": 2,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2019-04-06T00:00:00.000Z",
+      "opponent": "Corey Festa",
+      "opponentSlug": "251274-corey-festa",
+      "result": "win",
+      "method": "sub",
+      "event": "Nova Fight League 9",
+      "eventSlug": "68086-nova-fight-league-9",
+      "round": 3,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:37:00.639Z"
+}

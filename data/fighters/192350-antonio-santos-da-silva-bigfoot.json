@@ -1,0 +1,55 @@
+{
+  "slug": "192350-antonio-santos-da-silva-bigfoot",
+  "name": "Antonio Santos da Silva",
+  "nickname": "Bigfoot",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": "1993-07-04",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/192350-antonio-santos-da-silva-bigfoot",
+  "recentFights": [
+    {
+      "date": "2019-06-01T00:00:00.000Z",
+      "opponent": "Carlos Jean",
+      "opponentSlug": "274414-carlos-jean",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Dantas Fight",
+      "eventSlug": "73402-dantas-fight",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-04T00:00:00.000Z",
+      "opponent": "Lucas Rocha",
+      "opponentSlug": "192343-lucas-rocha-fenomeno",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-19T00:00:00.000Z",
+      "opponent": "Alan Bruno",
+      "opponentSlug": "147054-alan-bruno",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:56:26.403Z"
+}

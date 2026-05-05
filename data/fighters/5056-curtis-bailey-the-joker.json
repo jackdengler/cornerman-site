@@ -1,0 +1,121 @@
+{
+  "slug": "5056-curtis-bailey-the-joker",
+  "name": "Curtis Bailey",
+  "nickname": "The Joker",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 191,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/5056-curtis-bailey-the-joker",
+  "recentFights": [
+    {
+      "date": "2011-09-16T00:00:00.000Z",
+      "opponent": "Scott Sands",
+      "opponentSlug": "4879-scott-sands",
+      "result": "loss",
+      "method": "other",
+      "event": "Cut Throat MMA",
+      "eventSlug": "11187-cut-throat-mma-supremacy-4",
+      "round": 1,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2011-08-13T00:00:00.000Z",
+      "opponent": "Dan Stittgen",
+      "opponentSlug": "dan-stittgen",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-01-02T00:00:00.000Z",
+      "opponent": "Louis Taylor",
+      "opponentSlug": "louis-taylor-handgunz",
+      "result": "loss",
+      "method": "other",
+      "event": "HFC 2: It's On",
+      "eventSlug": "3183-hfc-2-it-s-on",
+      "round": 1,
+      "timeInRound": "0:33"
+    },
+    {
+      "date": "2009-11-20T00:00:00.000Z",
+      "opponent": "Pete Barrera",
+      "opponentSlug": "8157-pete-barrera",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-10-10T00:00:00.000Z",
+      "opponent": "Kevin Nowaczyk",
+      "opponentSlug": "16227-kevin-nowacyzk",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-10-10T00:00:00.000Z",
+      "opponent": "Gerald Meerschaert",
+      "opponentSlug": "6018-gerald-meerschaert-the-machine",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-06-09T00:00:00.000Z",
+      "opponent": "Shaun Antrim",
+      "opponentSlug": "24716-shaun-antrim-the-battery",
+      "result": "loss",
+      "method": "other",
+      "event": "MMA Evolution 2",
+      "eventSlug": "46825-mma-evolution-2",
+      "round": 1,
+      "timeInRound": "1:27"
+    },
+    {
+      "date": "2006-07-15T00:00:00.000Z",
+      "opponent": "Mike O'Malley",
+      "opponentSlug": "10317-mike-omalley",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-05-31T00:00:00.000Z",
+      "opponent": "Brant Rose",
+      "opponentSlug": "9617-brant-rose",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:16:05.540Z"
+}

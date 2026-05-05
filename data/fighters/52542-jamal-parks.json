@@ -1,0 +1,88 @@
+{
+  "slug": "52542-jamal-parks",
+  "name": "Jamal Parks",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1988-08-08",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/52542-jamal-parks",
+  "recentFights": [
+    {
+      "date": "2015-02-06T00:00:00.000Z",
+      "opponent": "Raoni Barcelos",
+      "opponentSlug": "30448-raoni-barcellos",
+      "result": "loss",
+      "method": "other",
+      "event": "RFA 23: Murphy vs. Ware",
+      "eventSlug": "29289-rfa-23-murphy-vs-ware",
+      "round": 1,
+      "timeInRound": "2:31"
+    },
+    {
+      "date": "2015-01-24T00:00:00.000Z",
+      "opponent": "Bernardo Quintana Diaz",
+      "opponentSlug": "91705-bernardo-quintana-diaz",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-10-03T00:00:00.000Z",
+      "opponent": "Ruben Warr",
+      "opponentSlug": "42710-ruben-warr",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "BattleGrounds MMA 5",
+      "eventSlug": "26612-bgmma-5-one",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-08-02T00:00:00.000Z",
+      "opponent": "Javier Obregon",
+      "opponentSlug": "17059-javier-obregon",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "C3 Fights 38",
+      "eventSlug": "20047-c3-fights",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-06-07T00:00:00.000Z",
+      "opponent": "Josh McCracken",
+      "opponentSlug": "52543-josh-mccracken",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-04-27T00:00:00.000Z",
+      "opponent": "Danny Toszon",
+      "opponentSlug": "52544-danny-toszon",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:38:42.133Z"
+}

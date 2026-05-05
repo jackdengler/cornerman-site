@@ -1,0 +1,187 @@
+{
+  "slug": "168244-dylan-schulte-the-villain",
+  "name": "Dylan Schulte",
+  "nickname": "The Villain",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1996-03-11",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/168244-dylan-schulte-the-villain",
+  "recentFights": [
+    {
+      "date": "2023-03-03T00:00:00.000Z",
+      "opponent": "Muhammad Naimov",
+      "opponentSlug": "136098-muhammadjon-naimov",
+      "result": "loss",
+      "method": "other",
+      "event": "Tuff-N-Uff 131",
+      "eventSlug": "98520-tuff-n-uff-131",
+      "round": 1,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2022-07-16T00:00:00.000Z",
+      "opponent": "Vance Elrod",
+      "opponentSlug": "54766-vance-elrod",
+      "result": "win",
+      "method": "other",
+      "event": "Fusion Fight League",
+      "eventSlug": "89298-fusion-fight-league",
+      "round": 1,
+      "timeInRound": "2:49"
+    },
+    {
+      "date": "2021-12-10T00:00:00.000Z",
+      "opponent": "Jose Ferreri",
+      "opponentSlug": "233778-jose-ferreri",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fusion Fight League",
+      "eventSlug": "85009-fusion-fight-league-season-s-beatings-great-falls",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-16T00:00:00.000Z",
+      "opponent": "Kerry Lattimer",
+      "opponentSlug": "26567-kerry-lattimer",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fusion Fight League",
+      "eventSlug": "83335-fusion-fight-league-lattimer-vs-dylan-schulte",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-10T00:00:00.000Z",
+      "opponent": "Mike Ruiz",
+      "opponentSlug": "99153-mike-ruiz",
+      "result": "win",
+      "method": "sub",
+      "event": "Fusion Fight League",
+      "eventSlug": "78468-fusion-fight-league-ruiz-vs-schulte",
+      "round": 1,
+      "timeInRound": "4:02"
+    },
+    {
+      "date": "2019-11-09T00:00:00.000Z",
+      "opponent": "Carlos Lozoya",
+      "opponentSlug": "81474-carlos-lozoya",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fusion Fight League",
+      "eventSlug": "64220-fusion-fight-league-rising-stars-2",
+      "round": 2,
+      "timeInRound": "3:44"
+    },
+    {
+      "date": "2019-04-27T00:00:00.000Z",
+      "opponent": "Cody Durden",
+      "opponentSlug": "68337-cody-durden",
+      "result": "loss",
+      "method": "other",
+      "event": "SCL: Army vs Marines 10",
+      "eventSlug": "57282-scl-army-vs-marines-10",
+      "round": 1,
+      "timeInRound": "0:31"
+    },
+    {
+      "date": "2019-02-23T00:00:00.000Z",
+      "opponent": "Nate Morrow",
+      "opponentSlug": "86966-nate-morrow",
+      "result": "loss",
+      "method": "sub",
+      "event": "Elite Fight League 3",
+      "eventSlug": "57280-elite-fight-league-3",
+      "round": 1,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2018-10-05T00:00:00.000Z",
+      "opponent": "PJ Miranda",
+      "opponentSlug": "113235-pj-miranda",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Tuff-N-Uff: Fight Night Henderson",
+      "eventSlug": "55386-tuff-n-uff-fight-night-henderson",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-27T00:00:00.000Z",
+      "opponent": "Brandon Rios",
+      "opponentSlug": "110992-brandon-rios",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Tuff-N-Uff",
+      "eventSlug": "54236-tuff-n-uff",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-13T00:00:00.000Z",
+      "opponent": "Corey Cook",
+      "opponentSlug": "184571-corey-cook",
+      "result": "win",
+      "method": "tko",
+      "event": "Revolution Cage Combat 3",
+      "eventSlug": "50038-revolution-cage-combat-3",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-10-20T00:00:00.000Z",
+      "opponent": "Johnson Nasona",
+      "opponentSlug": "76531-johnson-nasora",
+      "result": "loss",
+      "method": "other",
+      "event": "Intense Championship Fighting 29",
+      "eventSlug": "48529-fusion-fight-league-washington-vs-montana",
+      "round": 3,
+      "timeInRound": "0:57"
+    },
+    {
+      "date": "2017-08-25T00:00:00.000Z",
+      "opponent": "Dakota Tackett",
+      "opponentSlug": "140059-nathan-lint",
+      "result": "win",
+      "method": "other",
+      "event": "Intense Championship Fighting 28",
+      "eventSlug": "47509-intense-championship-fighting-28",
+      "round": 1,
+      "timeInRound": "2:52"
+    },
+    {
+      "date": "2017-01-07T00:00:00.000Z",
+      "opponent": "Anthony Curtiss",
+      "opponentSlug": "94856-anthony-curtiss",
+      "result": "win",
+      "method": "other",
+      "event": "Fusion Fight League",
+      "eventSlug": "43675-fusion-fight-league",
+      "round": 2,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2016-10-21T00:00:00.000Z",
+      "opponent": "Daniel Gregory",
+      "opponentSlug": "168258-daniel-gregory",
+      "result": "win",
+      "method": "other",
+      "event": "Intense Championship Fighting 26",
+      "eventSlug": "42566-intense-championship-fighting-26-the-perfect-storm",
+      "round": 1,
+      "timeInRound": "2:33"
+    }
+  ],
+  "lastVerified": "2026-04-19T19:10:15.176Z"
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "28120-jared-perez",
+  "name": "Jared Perez",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1988-07-21",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/28120-jared-perez",
+  "recentFights": [
+    {
+      "date": "2014-11-07T00:00:00.000Z",
+      "opponent": "Gilbert Urbina",
+      "opponentSlug": "68420-gilbert-urbina",
+      "result": "loss",
+      "method": "other",
+      "event": "STFC 32: Elizondo vs. Martinez",
+      "eventSlug": "27429-stfc-32",
+      "round": 1,
+      "timeInRound": "2:44"
+    },
+    {
+      "date": "2013-05-31T00:00:00.000Z",
+      "opponent": "David Siller",
+      "opponentSlug": "46154-david-siller",
+      "result": "win",
+      "method": "other",
+      "event": "Legacy FC 20",
+      "eventSlug": "17748-legacy-fc-20-assuncao-vs-pecero",
+      "round": 2,
+      "timeInRound": "0:33"
+    },
+    {
+      "date": "2012-05-25T00:00:00.000Z",
+      "opponent": "Ryan Spann",
+      "opponentSlug": "20908-ryan-spann",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Combat 9",
+      "eventSlug": "13846-cage-combat-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-09-02T00:00:00.000Z",
+      "opponent": "Guilherme Moreira",
+      "opponentSlug": "22842-guilherme-moreira",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-03-19T00:00:00.000Z",
+      "opponent": "John McDonald",
+      "opponentSlug": "34907-john-mcdonald",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:51:22.768Z"
+}

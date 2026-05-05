@@ -1,0 +1,110 @@
+{
+  "slug": "65961-yuya-kashiwagi",
+  "name": "Yuya Kashiwagi",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 169,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Japan",
+  "url": "https://www.tapology.com/fightcenter/fighters/65961-yuya-kashiwagi",
+  "recentFights": [
+    {
+      "date": "2017-03-11T00:00:00.000Z",
+      "opponent": "Wang De",
+      "opponentSlug": "128168-wang-de",
+      "result": "win",
+      "method": "other",
+      "event": "WLF W.A.R.S. 12",
+      "eventSlug": "44671-wlf-wars-12",
+      "round": 2,
+      "timeInRound": "3:46"
+    },
+    {
+      "date": "2014-10-12T00:00:00.000Z",
+      "opponent": "Crazy Masayan",
+      "opponentSlug": "83457-crazy-masayan",
+      "result": "win",
+      "method": "sub",
+      "event": "GLADIATOR 77",
+      "eventSlug": "27555-gladiator-77",
+      "round": 1,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2014-03-29T00:00:00.000Z",
+      "opponent": "Tomokin Man",
+      "opponentSlug": "65960-tomokin-man",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "GLADIATOR 68",
+      "eventSlug": "23392-gladiator-68-bushido",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-17T00:00:00.000Z",
+      "opponent": "Tatsuro Taira",
+      "opponentSlug": "145595-tatsuro-taira",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "11th Kyushu Amateur Shooto Championship Tournament",
+      "eventSlug": "46199-11th-kyushu-amateur-shooto-championship-tournament",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-17T00:00:00.000Z",
+      "opponent": "Takumi Akino",
+      "opponentSlug": "146217-takushi-akino",
+      "result": "win",
+      "method": "other",
+      "event": "11th Kyushu Amateur Shooto Championship Tournament",
+      "eventSlug": "46199-11th-kyushu-amateur-shooto-championship-tournament",
+      "round": 1,
+      "timeInRound": "3:56"
+    },
+    {
+      "date": "2017-02-12T00:00:00.000Z",
+      "opponent": "Yuta Hashimoto",
+      "opponentSlug": "152898-yudai-hashimoto",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "DEEP Future King Tournament 2016",
+      "eventSlug": "43098-deep-future-king-tournament-2016",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-18T00:00:00.000Z",
+      "opponent": "Ryo Araki",
+      "opponentSlug": "131870-ryo-araki",
+      "result": "win",
+      "method": "other",
+      "event": "The Outsider 44",
+      "eventSlug": "41901-the-outsider-44",
+      "round": 2,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2014-07-13T00:00:00.000Z",
+      "opponent": "Takaaki Miyazawa",
+      "opponentSlug": "75481-takaaki-miyazawa",
+      "result": "loss",
+      "method": "other",
+      "event": "JML Kyushu",
+      "eventSlug": "25521-jml-kyushu",
+      "round": 2,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T22:59:35.758Z"
+}

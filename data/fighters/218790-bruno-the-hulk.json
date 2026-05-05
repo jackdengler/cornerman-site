@@ -1,0 +1,231 @@
+{
+  "slug": "218790-bruno-the-hulk",
+  "name": "Brunno Ferreira",
+  "nickname": "The Hulk",
+  "aliases": [],
+  "recordPro": {
+    "wins": 15,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 179,
+  "reachCm": 183,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1992-11-04",
+  "nationality": "Curitiba, Parana, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/218790-bruno-the-hulk",
+  "recentFights": [
+    {
+      "date": "2026-06-27T00:00:00.000Z",
+      "opponent": "Ikram Aliskerov",
+      "opponentSlug": "108253-ikram-aliskerov",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "141299-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-03-07T00:00:00.000Z",
+      "opponent": "Gregory Rodrigues",
+      "opponentSlug": "78681-gregory-rodrigues-robocop",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 326: Holloway vs. Oliveira 2",
+      "eventSlug": "136871-ufc-326-holloway-vs-oliveira-2",
+      "round": 1,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2025-12-06T00:00:00.000Z",
+      "opponent": "Marvin Vettori",
+      "opponentSlug": "50533-marvin-vettori",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 323: Dvalishvili vs. Yan 2",
+      "eventSlug": "133220-ufc-323",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-07-19T00:00:00.000Z",
+      "opponent": "Jackson McVey",
+      "opponentSlug": "238221-jackson-mcvey",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "eventSlug": "127441-ufc-318",
+      "round": 1,
+      "timeInRound": "3:35"
+    },
+    {
+      "date": "2025-03-08T00:00:00.000Z",
+      "opponent": "Armen Petrosyan",
+      "opponentSlug": "198212-armen-petrosyan",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC 313: Pereira vs. Ankalaev",
+      "eventSlug": "120488-ufc-313",
+      "round": 2,
+      "timeInRound": "4:27"
+    },
+    {
+      "date": "2024-10-26T00:00:00.000Z",
+      "opponent": "Abus Magomedov",
+      "opponentSlug": "30204-abusupiyan-magomedov-abus",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC 308: Topuria vs. Holloway",
+      "eventSlug": "112501-ufc-308",
+      "round": 3,
+      "timeInRound": "3:14"
+    },
+    {
+      "date": "2024-06-08T00:00:00.000Z",
+      "opponent": "Dustin Stoltzfus",
+      "opponentSlug": "34864-dustin-stoltzfus",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "111458-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "4:51"
+    },
+    {
+      "date": "2024-01-13T00:00:00.000Z",
+      "opponent": "Phil Hawes",
+      "opponentSlug": "63542-phil-hawes",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "105485-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "4:55"
+    },
+    {
+      "date": "2023-07-01T00:00:00.000Z",
+      "opponent": "Nursulton Ruziboev",
+      "opponentSlug": "89891-nursultan-ruziboev-black",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "100452-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "1:17"
+    },
+    {
+      "date": "2023-01-21T00:00:00.000Z",
+      "opponent": "Gregory Rodrigues",
+      "opponentSlug": "78681-gregory-rodrigues-robocop",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 283: Teixeira vs. Hill",
+      "eventSlug": "92055-ufc-283",
+      "round": 1,
+      "timeInRound": "4:13"
+    },
+    {
+      "date": "2022-09-20T00:00:00.000Z",
+      "opponent": "Leon Aliu",
+      "opponentSlug": "145465-leon-aliu",
+      "result": "win",
+      "method": "other",
+      "event": "Contender Series 2022",
+      "eventSlug": "89502-contender-series-2022-week-9",
+      "round": 1,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2022-06-04T00:00:00.000Z",
+      "opponent": "Adercino de Jesus",
+      "opponentSlug": "48200-adecino-de-jesus-marmita",
+      "result": "win",
+      "method": "other",
+      "event": "Big Shot MMA 3",
+      "eventSlug": "90389-big-shot-mma-3-goias-vs-santa-catarina-a-revanche",
+      "round": 1,
+      "timeInRound": "1:53"
+    },
+    {
+      "date": "2022-04-16T00:00:00.000Z",
+      "opponent": "Well Oliveira",
+      "opponentSlug": "95838-well-ferreira-mutante",
+      "result": "win",
+      "method": "other",
+      "event": "Brazilian Fighting Series 8",
+      "eventSlug": "86058-brazilian-fighting-series-8",
+      "round": 1,
+      "timeInRound": "3:40"
+    },
+    {
+      "date": "2022-01-23T00:00:00.000Z",
+      "opponent": "Sebastião Ferreira",
+      "opponentSlug": "38781-sebastian-ferreira-sebastiao",
+      "result": "win",
+      "method": "tko",
+      "event": "Big Shot MMA 2",
+      "eventSlug": "86248-big-shot-mma-1",
+      "round": 2,
+      "timeInRound": "0:12"
+    },
+    {
+      "date": "2021-08-21T00:00:00.000Z",
+      "opponent": "Ewerton Polaquini",
+      "opponentSlug": "189661-ewerton-polanqui-hulk",
+      "result": "win",
+      "method": "sub",
+      "event": "Maktub Fight Pro 19",
+      "eventSlug": "81668-maktub-fight-pro",
+      "round": 1,
+      "timeInRound": "3:51"
+    },
+    {
+      "date": "2021-08-01T00:00:00.000Z",
+      "opponent": "Allan Silva",
+      "opponentSlug": "112893-allan-da-silva-pena-popo",
+      "result": "win",
+      "method": "sub",
+      "event": "Road to Future 3",
+      "eventSlug": "80370-road-to-future-3",
+      "round": 1,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2019-12-07T00:00:00.000Z",
+      "opponent": "Victor Neves",
+      "opponentSlug": "241924-victor-neves-victor-bjj",
+      "result": "win",
+      "method": "other",
+      "event": "Katana Fight 10",
+      "eventSlug": "64250-katana-fight-10",
+      "round": 2,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2019-10-05T00:00:00.000Z",
+      "opponent": "Carlos Barbiere",
+      "opponentSlug": "164033-carlos-barbieri",
+      "result": "win",
+      "method": "other",
+      "event": "Metanoia FC 4",
+      "eventSlug": "64752-metanoia-fc-4",
+      "round": 1,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2019-04-06T00:00:00.000Z",
+      "opponent": "Robson Eufrasio",
+      "opponentSlug": "218789-robson-poleto",
+      "result": "win",
+      "method": "sub",
+      "event": "Curitiba Fight Pro 7",
+      "eventSlug": "59593-curitiba-fight-pro-7",
+      "round": 1,
+      "timeInRound": "2:00"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:53:45.179Z"
+}

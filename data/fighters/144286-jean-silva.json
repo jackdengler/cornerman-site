@@ -1,0 +1,242 @@
+{
+  "slug": "144286-jean-silva",
+  "name": "Jean Silva",
+  "nickname": "Lord",
+  "aliases": [],
+  "recordPro": {
+    "wins": 17,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 175,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1996-12-13",
+  "nationality": "Florianopolis, Santa Catarina, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/144286-jean-silva",
+  "recentFights": [
+    {
+      "date": "2026-01-24T00:00:00.000Z",
+      "opponent": "Arnold Allen",
+      "opponentSlug": "23359-arnold-allen",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 324: Gaethje vs. Pimblett",
+      "eventSlug": "135755-ufc-324",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-13T00:00:00.000Z",
+      "opponent": "Diego Lopes",
+      "opponentSlug": "85643-diego-lopes",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "126286-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "4:48"
+    },
+    {
+      "date": "2025-04-12T00:00:00.000Z",
+      "opponent": "Bryce Mitchell",
+      "opponentSlug": "59676-bryce-mitchell",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 314: Volkanovski vs. Lopes",
+      "eventSlug": "122989-ufc-314",
+      "round": 2,
+      "timeInRound": "3:52"
+    },
+    {
+      "date": "2025-02-22T00:00:00.000Z",
+      "opponent": "Melsik Baghdasaryan",
+      "opponentSlug": "75671-melsik-bagdasaryan",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "120012-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "4:15"
+    },
+    {
+      "date": "2024-07-13T00:00:00.000Z",
+      "opponent": "Drew Dober",
+      "opponentSlug": "drew-dober",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "111798-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2024-06-29T00:00:00.000Z",
+      "opponent": "Charles Jourdain",
+      "opponentSlug": "36724-charles-jourdain",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 303: Pereira vs. Procházka 2",
+      "eventSlug": "109011-ufc",
+      "round": 2,
+      "timeInRound": "1:22"
+    },
+    {
+      "date": "2024-01-13T00:00:00.000Z",
+      "opponent": "Westin Wilson",
+      "opponentSlug": "41130-westin-wilson",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "105485-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "4:12"
+    },
+    {
+      "date": "2023-09-05T00:00:00.000Z",
+      "opponent": "Kevin Vallejos",
+      "opponentSlug": "227542-kevin-vallejos",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Contender Series 2023",
+      "eventSlug": "100995-contender-series-2023-week-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-25T00:00:00.000Z",
+      "opponent": "Shahin Najafi",
+      "opponentSlug": "139481-shahin-najafi",
+      "result": "win",
+      "method": "other",
+      "event": "Spartacus MMA 34",
+      "eventSlug": "98430-spartacus-mma",
+      "round": 1,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2023-02-04T00:00:00.000Z",
+      "opponent": "Valdemir Cardoso",
+      "opponentSlug": "336273-valdemir-cardoso-mascara",
+      "result": "win",
+      "method": "other",
+      "event": "Spartacus MMA",
+      "eventSlug": "97507-spartacus-mma",
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2021-08-08T00:00:00.000Z",
+      "opponent": "Tiago Souza",
+      "opponentSlug": "164654-tiago-souza",
+      "result": "win",
+      "method": "sub",
+      "event": "RFA Fight 1",
+      "eventSlug": "81583-rfa-fight-1-floripa-x-goiania",
+      "round": 1,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2021-06-27T00:00:00.000Z",
+      "opponent": "Adriano Souza",
+      "opponentSlug": "79865-adriano-souza-smeagol",
+      "result": "win",
+      "method": "other",
+      "event": "Road to Future 1",
+      "eventSlug": "79470-road-to-future-1",
+      "round": 1,
+      "timeInRound": "4:22"
+    },
+    {
+      "date": "2020-03-08T00:00:00.000Z",
+      "opponent": "Tamyray Lacerda",
+      "opponentSlug": "149966-tamyray-lacerda",
+      "result": "win",
+      "method": "other",
+      "event": "Cidade da Luta 5",
+      "eventSlug": "67804-cidade-da-luta-5",
+      "round": 1,
+      "timeInRound": "4:28"
+    },
+    {
+      "date": "2019-04-27T00:00:00.000Z",
+      "opponent": "Henrique Santos",
+      "opponentSlug": "77096-henrique-miranda",
+      "result": "win",
+      "method": "sub",
+      "event": "MTK MMA Brasil 1",
+      "eventSlug": "60097-mtk-mma-brasil-1",
+      "round": 1,
+      "timeInRound": "3:21"
+    },
+    {
+      "date": "2018-11-10T00:00:00.000Z",
+      "opponent": "Muniz Martins",
+      "opponentSlug": "161690-muniz-martins-dos-santos",
+      "result": "win",
+      "method": "other",
+      "event": "MF Fighters 1",
+      "eventSlug": "56469-mf-fighters-1",
+      "round": 1,
+      "timeInRound": "2:10"
+    },
+    {
+      "date": "2018-04-21T00:00:00.000Z",
+      "opponent": "Gabriel Schlupp",
+      "opponentSlug": "63379-gabriel-schuppo",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "São José Super Fight",
+      "eventSlug": "52859-sao-jose-super-fight-qualifying",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-16T00:00:00.000Z",
+      "opponent": "Lucas Razalkiewicz",
+      "opponentSlug": "87666-lucas-razalkiewicz",
+      "result": "win",
+      "method": "other",
+      "event": "Blackout FC 5",
+      "eventSlug": "49624-blackout-fc-5",
+      "round": 2,
+      "timeInRound": "3:43"
+    },
+    {
+      "date": "2017-05-21T00:00:00.000Z",
+      "opponent": "Pedro Henrique",
+      "opponentSlug": "84791-pedro-henrique-psicopata",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Aspera FC 52",
+      "eventSlug": "45115-aspera-fc-52",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-18T00:00:00.000Z",
+      "opponent": "Anderson Renan",
+      "opponentSlug": "71051-anderson-renan",
+      "result": "win",
+      "method": "other",
+      "event": "Aspera FC 50",
+      "eventSlug": "43826-aspera-fc-50",
+      "round": 2,
+      "timeInRound": "3:11"
+    },
+    {
+      "date": "2016-11-19T00:00:00.000Z",
+      "opponent": "Lorenzo Rodrigues",
+      "opponentSlug": "71050-lorenzo-rodrigues",
+      "result": "win",
+      "method": "other",
+      "event": "Aspera FC 48",
+      "eventSlug": "42777-aspera-fc-48",
+      "round": 1,
+      "timeInRound": "0:15"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:06:24.379Z"
+}

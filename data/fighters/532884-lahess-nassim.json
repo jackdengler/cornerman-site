@@ -1,0 +1,33 @@
+{
+  "slug": "532884-lahess-nassim",
+  "name": "Lahess Nassim",
+  "nickname": "Eagle",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "France",
+  "url": "https://www.tapology.com/fightcenter/fighters/532884-lahess-nassim",
+  "recentFights": [
+    {
+      "date": "2025-11-22T00:00:00.000Z",
+      "opponent": "Stefan Končar",
+      "opponentSlug": "481316-stefan-koncar-the-terror",
+      "result": "loss",
+      "method": "sub",
+      "event": "ACF 6",
+      "eventSlug": "134555-acf-6",
+      "round": 1,
+      "timeInRound": "1:45"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:08:34.011Z"
+}

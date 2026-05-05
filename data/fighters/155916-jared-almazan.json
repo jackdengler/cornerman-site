@@ -1,0 +1,77 @@
+{
+  "slug": "155916-jared-almazan",
+  "name": "Jared Almazan",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 164,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1996-07-01",
+  "nationality": "Baguio, Philippines",
+  "url": "https://www.tapology.com/fightcenter/fighters/155916-jared-almazan",
+  "recentFights": [
+    {
+      "date": "2020-01-26T00:00:00.000Z",
+      "opponent": "Tatsuro Taira",
+      "opponentSlug": "145595-tatsuro-taira",
+      "result": "loss",
+      "method": "other",
+      "event": "Shooto 2020 1/26",
+      "eventSlug": "66004-shooto-2020-1-26-in-korakuen-hall",
+      "round": 2,
+      "timeInRound": "0:19"
+    },
+    {
+      "date": "2019-05-06T00:00:00.000Z",
+      "opponent": "Hiroba Minowa",
+      "opponentSlug": "118882-koha-minowa",
+      "result": "loss",
+      "method": "sub",
+      "event": "Shooto 30th Anniversary Tour at Korakuen Hall",
+      "eventSlug": "59322-shooto-30th-anniversary-tour-at-korakuen-hall",
+      "round": 3,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2018-05-05T00:00:00.000Z",
+      "opponent": "Godwin Amos Langbayan",
+      "opponentSlug": "150517-llordgodwin-langbayan",
+      "result": "loss",
+      "method": "other",
+      "event": "Team Lakay Championship 15",
+      "eventSlug": "53512-team-lakay-championship-xv-the-kapangan-mma-invasion-3",
+      "round": 1,
+      "timeInRound": "3:45"
+    },
+    {
+      "date": "2017-10-14T00:00:00.000Z",
+      "opponent": "Jaybee Ban-eg",
+      "opponentSlug": "94007-jaybee-ban-eg",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Team Lakay Championship 14",
+      "eventSlug": "48979-team-lakay-championship-14-battle-for-dominance",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-01T00:00:00.000Z",
+      "opponent": "Taro Barrientos",
+      "opponentSlug": "94017-taro-barrientos",
+      "result": "win",
+      "method": "sub",
+      "event": "Team Lakay Championship 13",
+      "eventSlug": "45450-team-lakay-championship-13-the-kapangan-mma-invasion-2",
+      "round": 1,
+      "timeInRound": "3:35"
+    }
+  ],
+  "lastVerified": "2026-04-25T22:59:20.080Z"
+}

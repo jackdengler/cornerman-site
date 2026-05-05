@@ -1,0 +1,165 @@
+{
+  "slug": "38465-delaney-owens",
+  "name": "Delaney Bailey",
+  "nickname": "Lil Scrappy",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 155,
+  "reachCm": null,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": "1992-11-20",
+  "nationality": "Parts unknown",
+  "url": "https://www.tapology.com/fightcenter/fighters/38465-delaney-owens",
+  "recentFights": [
+    {
+      "date": "2015-04-24T00:00:00.000Z",
+      "opponent": "Sharon Jacobson",
+      "opponentSlug": "41413-sharon-jacobsen",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 12",
+      "eventSlug": "30741-invicta-fc-12-kankaanpaa-vs-souza",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-15T00:00:00.000Z",
+      "opponent": "Amber Stautzenberger",
+      "opponentSlug": "31880-amber-stautszenberger-the-apex-predator",
+      "result": "win",
+      "method": "sub",
+      "event": "Sugar Creek Showdown 23",
+      "eventSlug": "27174-sugar-creek-showdown-23",
+      "round": 4,
+      "timeInRound": "4:05"
+    },
+    {
+      "date": "2014-09-06T00:00:00.000Z",
+      "opponent": "JJ Aldrich",
+      "opponentSlug": "28420-jj-aldrich",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 8",
+      "eventSlug": "25367-invicta-fc-8-waterson-vs-tamada",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-06-07T00:00:00.000Z",
+      "opponent": "Shannon Gunville",
+      "opponentSlug": "60710-shannon-gunville",
+      "result": "win",
+      "method": "sub",
+      "event": "Beatdown 11",
+      "eventSlug": "24430-beatdown-11",
+      "round": 1,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2014-01-25T00:00:00.000Z",
+      "opponent": "Sarah Simmons",
+      "opponentSlug": "19950-sarah-alpar-too-sweet",
+      "result": "win",
+      "method": "sub",
+      "event": "Sugar Creek Showdown 21",
+      "eventSlug": "21710-sugar-creek-showdown-21",
+      "round": 3,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2013-10-12T00:00:00.000Z",
+      "opponent": "Sarah Payant",
+      "opponentSlug": "13413-Sarah-Payant",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 3,
+      "timeInRound": "2:17"
+    },
+    {
+      "date": "2013-08-17T00:00:00.000Z",
+      "opponent": "Miki Rogers",
+      "opponentSlug": "53170-miki-rogers",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Atlas Fights 17",
+      "eventSlug": "19558-atlas-fights-17-mandio-vs-rader",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-06-15T00:00:00.000Z",
+      "opponent": "Megan Geraghty",
+      "opponentSlug": "46735-megan-geraghty",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Atlas Fights 15",
+      "eventSlug": "18772-atlas-fights-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-03-30T00:00:00.000Z",
+      "opponent": "Hannah Cifers",
+      "opponentSlug": "34495-hannah-cifers",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "USFFC 11: Redemption",
+      "eventSlug": "17910-usffc-11-redemption",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-08-17T00:00:00.000Z",
+      "opponent": "Nicole Varone",
+      "opponentSlug": "50038-nicole-varone",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-08-04T00:00:00.000Z",
+      "opponent": "Annaliesha Smith",
+      "opponentSlug": "24021-annaliesha-smith",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-07-22T00:00:00.000Z",
+      "opponent": "Jamie Moyle",
+      "opponentSlug": "50039-jamie-moyle",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-05-07T00:00:00.000Z",
+      "opponent": "Paxton Nettles",
+      "opponentSlug": "50040-paxton-nettles",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:01:44.602Z"
+}

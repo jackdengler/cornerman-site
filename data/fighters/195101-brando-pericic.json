@@ -1,0 +1,132 @@
+{
+  "slug": "195101-brando-pericic",
+  "name": "Brando Peričić",
+  "nickname": "The Balkan Bear",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 196,
+  "reachCm": 202,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1994-08-03",
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/195101-brando-pericic",
+  "recentFights": [
+    {
+      "date": "2026-05-02T00:00:00.000Z",
+      "opponent": "Shamil Gaziev",
+      "opponentSlug": "201352-shamil-gaziev",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "140511-ufc-fight-night-della-maddalena-vs-prates",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-03-21T00:00:00.000Z",
+      "opponent": "Louie Sutherland",
+      "opponentSlug": "245967-louie-sutherland",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "136856-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2025-09-27T00:00:00.000Z",
+      "opponent": "Elisha Ellison",
+      "opponentSlug": "364104-elisha-ellison",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "130754-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "1:55"
+    },
+    {
+      "date": "2024-11-02T00:00:00.000Z",
+      "opponent": "Orion Kenny",
+      "opponentSlug": "474082-orion-kenny",
+      "result": "win",
+      "method": "other",
+      "event": "SFC: Rebirth",
+      "eventSlug": "121593-sfc-ultimate-standup",
+      "round": 1,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2024-10-25T00:00:00.000Z",
+      "opponent": "Tumanako Phillips",
+      "opponentSlug": "466078-tumanaku-phillips",
+      "result": "win",
+      "method": "other",
+      "event": "SFL 1",
+      "eventSlug": "117718-stealth-fighters-league-sfl-001",
+      "round": 1,
+      "timeInRound": "0:17"
+    },
+    {
+      "date": "2024-05-04T00:00:00.000Z",
+      "opponent": "Randall Rayment",
+      "opponentSlug": "30395-randall-rayment",
+      "result": "loss",
+      "method": "sub",
+      "event": "HEX Fight Series 30",
+      "eventSlug": "107574-hex-fight-series-30-hex-goes-global",
+      "round": 2,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2024-04-20T00:00:00.000Z",
+      "opponent": "Kelvin Fitial",
+      "opponentSlug": "11389-kelvin-fitial-the-big-hit",
+      "result": "win",
+      "method": "sub",
+      "event": "Shuriken Fight Series 17",
+      "eventSlug": "110329-shuriken-fight-series-17",
+      "round": 1,
+      "timeInRound": "3:26"
+    },
+    {
+      "date": "2019-11-03T00:00:00.000Z",
+      "opponent": "Ricky Biechun",
+      "opponentSlug": "134846-ricky-beichon",
+      "result": "win",
+      "method": "tko",
+      "event": "Diamondback FC 9",
+      "eventSlug": "62451-diamondback-fc-9",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-10T00:00:00.000Z",
+      "opponent": "Tautala Peau",
+      "opponentSlug": "196487-tautala-peau",
+      "result": "win",
+      "method": "tko",
+      "event": "Diamondback FC 7",
+      "eventSlug": "55136-diamondback-fc-7",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2018-08-17T00:00:00.000Z",
+      "opponent": "Garry Smith",
+      "opponentSlug": "195100-garry-smith",
+      "result": "win",
+      "method": "other",
+      "event": "Diamondback FC 6",
+      "eventSlug": "55134-diamondback-fc-6",
+      "round": 1,
+      "timeInRound": "3:00"
+    }
+  ],
+  "lastVerified": "2026-04-18T17:54:49.823Z"
+}

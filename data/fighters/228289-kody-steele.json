@@ -1,0 +1,143 @@
+{
+  "slug": "228289-kody-steele",
+  "name": "Kody Steele",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 180,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1995-04-21",
+  "nationality": "Port Angeles, Washington, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/228289-kody-steele",
+  "recentFights": [
+    {
+      "date": "2026-05-02T00:00:00.000Z",
+      "opponent": "Dom Mar Fan",
+      "opponentSlug": "196890-dom-mar-fan",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "140511-ufc-fight-night-della-maddalena-vs-prates",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-02-08T00:00:00.000Z",
+      "opponent": "Rongzhu",
+      "opponentSlug": "129248-zhu-rong",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 312: Du Plessis vs. Strickland 2",
+      "eventSlug": "119136-ufc-312",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-10-08T00:00:00.000Z",
+      "opponent": "Chasen Blair",
+      "opponentSlug": "331820-chasen-blair",
+      "result": "win",
+      "method": "other",
+      "event": "Contender Series 2024",
+      "eventSlug": "112926-contender-series-2024-week-9",
+      "round": 2,
+      "timeInRound": "4:07"
+    },
+    {
+      "date": "2024-04-21T00:00:00.000Z",
+      "opponent": "Alejandro Martinez",
+      "opponentSlug": "60009-alejandro-martinez",
+      "result": "win",
+      "method": "tko",
+      "event": "Fury FC 89: Richardson vs. Aswell",
+      "eventSlug": "110448-fury-fc-89",
+      "round": 3,
+      "timeInRound": "2:09"
+    },
+    {
+      "date": "2023-09-24T00:00:00.000Z",
+      "opponent": "Nico Echeverry",
+      "opponentSlug": "22849-nicolas-escheverry",
+      "result": "win",
+      "method": "tko",
+      "event": "Fury Challenger Series 7",
+      "eventSlug": "104369-fury-challenger-series-7",
+      "round": 2,
+      "timeInRound": "3:32"
+    },
+    {
+      "date": "2023-07-16T00:00:00.000Z",
+      "opponent": "Nicholas Whitehead",
+      "opponentSlug": "270823-nick-whitehead",
+      "result": "win",
+      "method": "other",
+      "event": "Fury FC 81: Rojo vs. Linhares",
+      "eventSlug": "101375-fury-fc-81",
+      "round": 1,
+      "timeInRound": "4:35"
+    },
+    {
+      "date": "2023-01-29T00:00:00.000Z",
+      "opponent": "Sam Kilmer",
+      "opponentSlug": "210532-sam-kilmer",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fury FC 73: Fraire vs. Walker",
+      "eventSlug": "96316-fury-fc-73",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-10-23T00:00:00.000Z",
+      "opponent": "Brakenden Freeman",
+      "opponentSlug": "162024-brakenden-freeman",
+      "result": "win",
+      "method": "sub",
+      "event": "Fury Challenger Series 1",
+      "eventSlug": "91560-fury-challenger-series-1",
+      "round": 2,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2022-02-06T00:00:00.000Z",
+      "opponent": "Jessee Gengler",
+      "opponentSlug": "98650-jessee-gengler",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fury FC 56",
+      "eventSlug": "85222-fury-fc-56",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-21T00:00:00.000Z",
+      "opponent": "Keith Ford",
+      "opponentSlug": "295630-keith-ford",
+      "result": "win",
+      "method": "other",
+      "event": "Fury FC 54",
+      "eventSlug": "83611-fury-fc-54",
+      "round": 1,
+      "timeInRound": "0:13"
+    },
+    {
+      "date": "2021-08-29T00:00:00.000Z",
+      "opponent": "Kane Lewis",
+      "opponentSlug": "81668-kane-lewis",
+      "result": "win",
+      "method": "other",
+      "event": "Fury FC 49",
+      "eventSlug": "81320-fury-fc-49",
+      "round": 3,
+      "timeInRound": "1:33"
+    }
+  ],
+  "lastVerified": "2026-04-18T17:54:38.080Z"
+}

@@ -1,0 +1,132 @@
+{
+  "slug": "81545-kerker-silva",
+  "name": "Kerker Silva",
+  "nickname": "Capoeira",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/81545-kerker-silva",
+  "recentFights": [
+    {
+      "date": "2025-03-29T00:00:00.000Z",
+      "opponent": "Vladimír Lengál",
+      "opponentSlug": "305714-vladimir-lengal-vlado",
+      "result": "loss",
+      "method": "other",
+      "event": "PML 14",
+      "eventSlug": "123472-pml-14",
+      "round": 1,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2024-09-14T00:00:00.000Z",
+      "opponent": "Sandro Montegroso",
+      "opponentSlug": "122518-sandro-montegroso-el-gladiador",
+      "result": "win",
+      "method": "tko",
+      "event": "Ragnarok 18",
+      "eventSlug": "116144-ragnarok-18",
+      "round": 1,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2024-03-16T00:00:00.000Z",
+      "opponent": "David Herrera",
+      "opponentSlug": "115594-david-herrera",
+      "result": "win",
+      "method": "other",
+      "event": "Ragnarok 17",
+      "eventSlug": "109978-ragnarok-17",
+      "round": 3,
+      "timeInRound": "0:36"
+    },
+    {
+      "date": "2022-09-03T00:00:00.000Z",
+      "opponent": "Arlen Ribeiro",
+      "opponentSlug": "51988-arlen-ribeiro-hellboy",
+      "result": "loss",
+      "method": "other",
+      "event": "FNC 7: Vitasović vs Gerônimo",
+      "eventSlug": "91583-fnc-7",
+      "round": 1,
+      "timeInRound": "0:46"
+    },
+    {
+      "date": "2022-03-19T00:00:00.000Z",
+      "opponent": "David Herrera",
+      "opponentSlug": "115594-david-herrera",
+      "result": "loss",
+      "method": "other",
+      "event": "Ragnarok 13",
+      "eventSlug": "87514-ragnarok-13",
+      "round": 4,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-15T00:00:00.000Z",
+      "opponent": "Sandro Montegroso",
+      "opponentSlug": "122518-sandro-montegroso-el-gladiador",
+      "result": "win",
+      "method": "other",
+      "event": "Ragnarok 11",
+      "eventSlug": "56927-ragnarok-11",
+      "round": 2,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2018-09-22T00:00:00.000Z",
+      "opponent": "Nicolas Van Der Merwe",
+      "opponentSlug": "195343-nicolas-van-der-merwe",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Ragnarok 10",
+      "eventSlug": "54129-ragnarok-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-08-13T00:00:00.000Z",
+      "opponent": "Luiz Felipe dos Santos",
+      "opponentSlug": "157366-felipe-blindado",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-05-16T00:00:00.000Z",
+      "opponent": "Tiago Amaro",
+      "opponentSlug": "63395-tiago-amaro",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-09-20T00:00:00.000Z",
+      "opponent": "Bruno Murata",
+      "opponentSlug": "54592-bruno-murata",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:06:17.817Z"
+}

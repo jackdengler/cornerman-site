@@ -1,0 +1,242 @@
+{
+  "slug": "172373-borys-dzikowski",
+  "name": "Borys Dzikowski",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 192,
+  "reachCm": 197,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1997-09-06",
+  "nationality": "Poland",
+  "url": "https://www.tapology.com/fightcenter/fighters/172373-borys-dzikowski",
+  "recentFights": [
+    {
+      "date": "2026-02-21T00:00:00.000Z",
+      "opponent": "Kacper Pakeltys",
+      "opponentSlug": "218266-kacper-pakeltys",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "KSW 115: Przybysz vs. Yakymenko",
+      "eventSlug": "137484-ksw-115",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-08-09T00:00:00.000Z",
+      "opponent": "Alain Van De Merckt",
+      "opponentSlug": "143522-alain-vandermercht",
+      "result": "loss",
+      "method": "sub",
+      "event": "KSW 109: Kuberski vs. Paczuski",
+      "eventSlug": "129471-ksw-109",
+      "round": 2,
+      "timeInRound": "3:28"
+    },
+    {
+      "date": "2025-02-21T00:00:00.000Z",
+      "opponent": "Dominik Humburger",
+      "opponentSlug": "169531-dominik-humburger",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "KSW 103: Brichta vs. Charzewski",
+      "eventSlug": "119218-ksw-103",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-07T00:00:00.000Z",
+      "opponent": "Krystian Bielski",
+      "opponentSlug": "68582-krystian-bielski",
+      "result": "win",
+      "method": "dec-split",
+      "event": "KSW 95: Wikłacz vs. Przybysz 5",
+      "eventSlug": "110828-ksw-95",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-15T00:00:00.000Z",
+      "opponent": "Damian Mieczkowski",
+      "opponentSlug": "136226-damian-mieczkowski",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "KSW 84: De Fries vs. Bajor",
+      "eventSlug": "101937-ksw-84",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-01-21T00:00:00.000Z",
+      "opponent": "Andre Langen",
+      "opponentSlug": "280440-andre-langen-angry",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KSW 78: Materla vs. Grove 2",
+      "eventSlug": "94030-ksw-78",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-10T00:00:00.000Z",
+      "opponent": "Arkadiusz Mruk",
+      "opponentSlug": "218217-arkadiusz-mruk",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 74: De Fries vs. Prasel",
+      "eventSlug": "91744-ksw-74",
+      "round": 1,
+      "timeInRound": "0:40"
+    },
+    {
+      "date": "2022-06-25T00:00:00.000Z",
+      "opponent": "Łukasz Nowak",
+      "opponentSlug": "247880-lukasz-nowak",
+      "result": "win",
+      "method": "other",
+      "event": "Strife 2",
+      "eventSlug": "90575-strife-2",
+      "round": 1,
+      "timeInRound": "2:18"
+    },
+    {
+      "date": "2022-02-19T00:00:00.000Z",
+      "opponent": "Dominik Dobrzyński",
+      "opponentSlug": "327107-dominik-dobrzynski",
+      "result": "win",
+      "method": "other",
+      "event": "Contra MMA 1",
+      "eventSlug": "86826-contra-mma-1",
+      "round": 1,
+      "timeInRound": "0:49"
+    },
+    {
+      "date": "2019-12-08T00:00:00.000Z",
+      "opponent": "Mikołaj Krukowski",
+      "opponentSlug": "172378-mikoaj-krukowski",
+      "result": null,
+      "method": "other",
+      "event": "Wieczór Sportów Walki",
+      "eventSlug": "64904-wieczor-sportow-walki-nowy-tomysl",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-10T00:00:00.000Z",
+      "opponent": "Mateusz Baron",
+      "opponentSlug": "174202-mateusz-baron",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ALMMA 160",
+      "eventSlug": "77277-almma-160-mistrzostwa-polski-mma-2018-kadet-junior-poczatkujacy",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-12T00:00:00.000Z",
+      "opponent": "Dawid Kobiera",
+      "opponentSlug": "189197-dawid-kobera",
+      "result": "loss",
+      "method": "sub",
+      "event": "ALMMA 151",
+      "eventSlug": "53611-almma-151-mistrzostwa-europy-amatorskiego-mma",
+      "round": 1,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2018-05-12T00:00:00.000Z",
+      "opponent": "Łukasz Bordewicz",
+      "opponentSlug": "189196-lukasz-bordewicz",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ALMMA 151",
+      "eventSlug": "53611-almma-151-mistrzostwa-europy-amatorskiego-mma",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-09T00:00:00.000Z",
+      "opponent": "Mateusz Baron",
+      "opponentSlug": "174202-mateusz-baron",
+      "result": "loss",
+      "method": "sub",
+      "event": "ALMMA 142: Mistrzostwa Dolnego Śląska",
+      "eventSlug": "49122-almma-142-mistrzostwa-dolnego-lska",
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2017-12-09T00:00:00.000Z",
+      "opponent": "Adrian Ociepka",
+      "opponentSlug": "174203-adrian-ociepka",
+      "result": "win",
+      "method": "other",
+      "event": "ALMMA 142: Mistrzostwa Dolnego Śląska",
+      "eventSlug": "49122-almma-142-mistrzostwa-dolnego-lska",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-19T00:00:00.000Z",
+      "opponent": "Paweł Fidala",
+      "opponentSlug": "172374-pawe-fidala",
+      "result": "loss",
+      "method": "sub",
+      "event": "ALMMA 140",
+      "eventSlug": "49120-almma-140-mistrzostwa-polski-mma-2017",
+      "round": 1,
+      "timeInRound": "1:53"
+    },
+    {
+      "date": "2017-11-19T00:00:00.000Z",
+      "opponent": "Przemysław Gutowski",
+      "opponentSlug": "163471-przemysaw-gutowski",
+      "result": "win",
+      "method": "tko",
+      "event": "ALMMA 140",
+      "eventSlug": "49120-almma-140-mistrzostwa-polski-mma-2017",
+      "round": 1,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2017-11-19T00:00:00.000Z",
+      "opponent": "Mariusz Krzeszowski",
+      "opponentSlug": "172964-mariusz-krzeszowski",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ALMMA 140",
+      "eventSlug": "49120-almma-140-mistrzostwa-polski-mma-2017",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-01T00:00:00.000Z",
+      "opponent": "Szymon Ladyca",
+      "opponentSlug": "172375-szymon-ladyca",
+      "result": "win",
+      "method": "other",
+      "event": "ALMMA 138: Mistrzostwa Wielkopolski",
+      "eventSlug": "49586-almma-138-mistrzostwa-wielkopolski",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-01T00:00:00.000Z",
+      "opponent": "Paweł Całkowski",
+      "opponentSlug": "172372-pawe-cakowski",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ALMMA 138: Mistrzostwa Wielkopolski",
+      "eventSlug": "49586-almma-138-mistrzostwa-wielkopolski",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:03:11.544Z"
+}

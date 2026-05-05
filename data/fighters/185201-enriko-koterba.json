@@ -1,0 +1,198 @@
+{
+  "slug": "185201-enriko-koterba",
+  "name": "Enriko Koterba",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1997-01-22",
+  "nationality": "Slovakia",
+  "url": "https://www.tapology.com/fightcenter/fighters/185201-enriko-koterba",
+  "recentFights": [
+    {
+      "date": "2026-05-08T00:00:00.000Z",
+      "opponent": "Adrian Grzelak",
+      "opponentSlug": "89314-adrian-grzelak",
+      "result": null,
+      "method": "other",
+      "event": "FFG 1",
+      "eventSlug": "142770-ffg-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-15T00:00:00.000Z",
+      "opponent": "Adrian Grzelak",
+      "opponentSlug": "89314-adrian-grzelak",
+      "result": "win",
+      "method": "other",
+      "event": "RFA 26",
+      "eventSlug": "133407-rfa-26",
+      "round": 3,
+      "timeInRound": "1:22"
+    },
+    {
+      "date": "2022-04-16T00:00:00.000Z",
+      "opponent": "Steven Krt",
+      "opponentSlug": "159342-steven-krt",
+      "result": "loss",
+      "method": "sub",
+      "event": "I Am Fighter 4",
+      "eventSlug": "88931-i-am-fighter-4",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-13T00:00:00.000Z",
+      "opponent": "Matěj Daněk",
+      "opponentSlug": "127543-matej-danek",
+      "result": "loss",
+      "method": "sub",
+      "event": "I Am Fighter 3",
+      "eventSlug": "83233-i-am-fighter-3",
+      "round": 2,
+      "timeInRound": "3:48"
+    },
+    {
+      "date": "2023-02-11T00:00:00.000Z",
+      "opponent": "Tóth András",
+      "opponentSlug": "216782-toth-andras",
+      "result": "win",
+      "method": "other",
+      "event": "Hanuman Cup 45",
+      "eventSlug": "96710-mammal-36-hanuman-cup",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-25T00:00:00.000Z",
+      "opponent": "Mehdi Taki",
+      "opponentSlug": "228771-mehdi-taki",
+      "result": "loss",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "88078-gamma-world-championships-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-25T00:00:00.000Z",
+      "opponent": "Ričards Ozols",
+      "opponentSlug": "297753-ricards-ozols",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "88078-gamma-world-championships-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-28T00:00:00.000Z",
+      "opponent": "Tomáš Votava",
+      "opponentSlug": "197469-tomas-votava",
+      "result": "win",
+      "method": "other",
+      "event": "XFN 19",
+      "eventSlug": "81576-xfn-19",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-08-14T00:00:00.000Z",
+      "opponent": "Tomáš Mudroch",
+      "opponentSlug": "266708-tomasz-mudroch",
+      "result": "loss",
+      "method": "other",
+      "event": "IAF: Streetfighter 5",
+      "eventSlug": "71781-iaf-streetfighter-5",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-07-24T00:00:00.000Z",
+      "opponent": "Jiří Olšanský",
+      "opponentSlug": "266709-jiri-olsansky",
+      "result": "win",
+      "method": "other",
+      "event": "IAF: Streetfighter 2",
+      "eventSlug": "71199-iaf-streetfighter-3",
+      "round": 3,
+      "timeInRound": "1:21"
+    },
+    {
+      "date": "2019-12-06T00:00:00.000Z",
+      "opponent": "Roman Mrenka",
+      "opponentSlug": "157894-roman-mrenka",
+      "result": "loss",
+      "method": "other",
+      "event": "Hanuman Cup 42",
+      "eventSlug": "64456-hanuman-cup-42",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-12T00:00:00.000Z",
+      "opponent": "Robert Ceremuga",
+      "opponentSlug": "241656-robert-ceremuga",
+      "result": "win",
+      "method": "other",
+      "event": "Maximus Warriors 9",
+      "eventSlug": "63707-maximus-warriors-9",
+      "round": 2,
+      "timeInRound": "0:40"
+    },
+    {
+      "date": "2019-06-15T00:00:00.000Z",
+      "opponent": "Ľuboš Tiefenbach",
+      "opponentSlug": "222509-lubos-tiefenbach",
+      "result": "win",
+      "method": "other",
+      "event": "MAMMAL: Round 8",
+      "eventSlug": "61871-mammal-round-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-22T00:00:00.000Z",
+      "opponent": "Michal Buršak",
+      "opponentSlug": "200865-michal-bursal",
+      "result": "win",
+      "method": "other",
+      "event": "PCF 19: The Road to be Legendary",
+      "eventSlug": "57382-pcf-19-the-road-to-be-legendary",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2018-12-08T00:00:00.000Z",
+      "opponent": "Lukáš Antal",
+      "opponentSlug": "199437-lukas-antal",
+      "result": "win",
+      "method": "sub",
+      "event": "MAMMAL Round 5",
+      "eventSlug": "56710-mammal-5-round",
+      "round": 1,
+      "timeInRound": "1:03"
+    },
+    {
+      "date": "2018-06-30T00:00:00.000Z",
+      "opponent": "Miroslav Popovič",
+      "opponentSlug": "190645-miroslav-popovic",
+      "result": "loss",
+      "method": "sub",
+      "event": "PCF 18: The Kings of Summer",
+      "eventSlug": "53445-pcf-18",
+      "round": 1,
+      "timeInRound": "2:57"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:06:04.565Z"
+}

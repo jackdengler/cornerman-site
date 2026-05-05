@@ -1,0 +1,66 @@
+{
+  "slug": "61728-wellington-dias-file",
+  "name": "Wellington Dias",
+  "nickname": "File",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": "1988-05-02",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/61728-wellington-dias-file",
+  "recentFights": [
+    {
+      "date": "2012-12-01T00:00:00.000Z",
+      "opponent": "Felipe Rodrigues",
+      "opponentSlug": "44279-felipe-rodrigues-baixote",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-05-19T00:00:00.000Z",
+      "opponent": "Thiago Moisés",
+      "opponentSlug": "49744-thiago-moiss",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-09-14T00:00:00.000Z",
+      "opponent": "Rodrigo Pacheco",
+      "opponentSlug": "132647-rodrigo-pacheco",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-03-30T00:00:00.000Z",
+      "opponent": "Edson Mosca",
+      "opponentSlug": "26808-edson-mosca",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:11:55.745Z"
+}

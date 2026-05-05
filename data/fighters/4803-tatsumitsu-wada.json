@@ -1,0 +1,154 @@
+{
+  "slug": "4803-tatsumitsu-wada",
+  "name": "Tatsumitsu Wada",
+  "nickname": "The Sweeper",
+  "aliases": [],
+  "recordPro": {
+    "wins": 26,
+    "losses": 14,
+    "draws": 2
+  },
+  "recordAmateur": null,
+  "heightCm": 171,
+  "reachCm": 176,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1988-11-16",
+  "nationality": "Minamiarupusu, Yamanashi, Japan",
+  "url": "https://www.tapology.com/fightcenter/fighters/4803-tatsumitsu-wada",
+  "recentFights": [
+    {
+      "date": "2026-04-29T00:00:00.000Z",
+      "opponent": "Seiichiro Ito",
+      "opponentSlug": "45048-seiichiro-ito",
+      "result": null,
+      "method": "other",
+      "event": "ONE Samurai 1",
+      "eventSlug": "137460-one-175",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-07-18T00:00:00.000Z",
+      "opponent": "Avazbek Kholmirzaev",
+      "opponentSlug": "364160-avazbek-kholmurzoev",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ONE Friday Fights 116",
+      "eventSlug": "130835-one-friday-fights-116",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-01-10T00:00:00.000Z",
+      "opponent": "Sanzhar Zakirov",
+      "opponentSlug": "307580-sanjar-zakirov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ONE Fight Night 27",
+      "eventSlug": "119285-one-fight-night-27",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-07-05T00:00:00.000Z",
+      "opponent": "Wei Xie",
+      "opponentSlug": "153595-wei-xie",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE Fight Night 23",
+      "eventSlug": "109347-one-fight-night-24",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-17T00:00:00.000Z",
+      "opponent": "Ernesto Montilla Jr.",
+      "opponentSlug": "38775-ernesto-montilla",
+      "result": "win",
+      "method": "sub",
+      "event": "One Friday Fights 9",
+      "eventSlug": "98462-one-friday-fights-9",
+      "round": 1,
+      "timeInRound": "1:52"
+    },
+    {
+      "date": "2022-06-03T00:00:00.000Z",
+      "opponent": "Kairat Akhmetov",
+      "opponentSlug": "48596-kairat-ahmetov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ONE Championship 158",
+      "eventSlug": "89435-one-championship-pacrio-vs-brooks",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-01-28T00:00:00.000Z",
+      "opponent": "Shuo Wang",
+      "opponentSlug": "103686-wang-shuo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE Championship",
+      "eventSlug": "85284-one-championship-only-the-brave",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-05T00:00:00.000Z",
+      "opponent": "Daichi Takenaka",
+      "opponentSlug": "50751-daichi-takenaka",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Road to ONE: 5th Sexyama Edition",
+      "eventSlug": "82784-road-to-one-5th-sexyama-edition",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-12-18T00:00:00.000Z",
+      "opponent": "Yodkaikaew Fairtex",
+      "opponentSlug": "101746-yodkaikaew",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "ONE Championship",
+      "eventSlug": "73346-one-championship-eye-of-the-storm",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-01-31T00:00:00.000Z",
+      "opponent": "Ivanildo Delfino",
+      "opponentSlug": "141240-ivanildo-delfino-monstrinho",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE Championship",
+      "eventSlug": "65024-one-championship-fire-fury",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-08-02T00:00:00.000Z",
+      "opponent": "Demetrious Johnson",
+      "opponentSlug": "demetrious-johnson-mighty-mouse",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ONE Championship",
+      "eventSlug": "60833-one-championship-dawn-of-heroes",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-12T00:00:00.000Z",
+      "opponent": "Gustavo Balart",
+      "opponentSlug": "107762-gustavo-eddy-balart-martin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE Championship",
+      "eventSlug": "58713-one-championship-roots-of-honor",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:07:44.395Z"
+}

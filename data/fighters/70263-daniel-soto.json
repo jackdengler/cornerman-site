@@ -1,0 +1,176 @@
+{
+  "slug": "70263-daniel-soto",
+  "name": "Daniel Soto",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 7,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": 177,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1993-12-11",
+  "nationality": "Mexico",
+  "url": "https://www.tapology.com/fightcenter/fighters/70263-daniel-soto",
+  "recentFights": [
+    {
+      "date": "2023-04-22T00:00:00.000Z",
+      "opponent": "Bobby Moffett",
+      "opponentSlug": "29376-bobby-moffett",
+      "result": "loss",
+      "method": "sub",
+      "event": "RUF 54: RUF, Puff, & Rumble",
+      "eventSlug": "99488-ruf-54",
+      "round": 1,
+      "timeInRound": "0:22"
+    },
+    {
+      "date": "2023-04-15T00:00:00.000Z",
+      "opponent": "Pedro Peña",
+      "opponentSlug": "270742-pedro-pena",
+      "result": "loss",
+      "method": "sub",
+      "event": "Naciones MMA 13",
+      "eventSlug": "100311-naciones-mma-13",
+      "round": 1,
+      "timeInRound": "4:31"
+    },
+    {
+      "date": "2020-03-14T00:00:00.000Z",
+      "opponent": "Dumar Roa",
+      "opponentSlug": "85381-dumar-roa",
+      "result": "loss",
+      "method": "sub",
+      "event": "El Combate 6",
+      "eventSlug": "70068-el-combate-6-danger-vs-torres",
+      "round": 2,
+      "timeInRound": "2:23"
+    },
+    {
+      "date": "2018-11-17T00:00:00.000Z",
+      "opponent": "Randy Steinke",
+      "opponentSlug": "7378-randy-steinke",
+      "result": "loss",
+      "method": "other",
+      "event": "Iron Boy MMA 13",
+      "eventSlug": "55023-iron-boy-mma-13",
+      "round": 1,
+      "timeInRound": "1:21"
+    },
+    {
+      "date": "2018-08-11T00:00:00.000Z",
+      "opponent": "Ed West",
+      "opponentSlug": "ed-west-wild",
+      "result": "loss",
+      "method": "sub",
+      "event": "RUF MMA 27",
+      "eventSlug": "53829-ruf-mma-27",
+      "round": 1,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2018-05-04T00:00:00.000Z",
+      "opponent": "Youssef Zalal",
+      "opponentSlug": "110826-youssef-zalaal",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 39: Heinisch vs. Checco",
+      "eventSlug": "51993-lfa-39",
+      "round": 2,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2016-10-29T00:00:00.000Z",
+      "opponent": "Jonathan Cruz Santos",
+      "opponentSlug": "79120-jonathan-cruz",
+      "result": "win",
+      "method": "tko",
+      "event": "FMP 39",
+      "eventSlug": "47842-fmp-39",
+      "round": 4,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2016-01-30T00:00:00.000Z",
+      "opponent": "Kevin Velasquez",
+      "opponentSlug": "116208-kevin-velasquez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FMP 31",
+      "eventSlug": "83842-fmp-31",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-27T00:00:00.000Z",
+      "opponent": "Antonio Rodriguez",
+      "opponentSlug": "86503-too-rodriguez",
+      "result": "loss",
+      "method": "dec-majority",
+      "event": "WBG 7",
+      "eventSlug": "30892-wbg-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-01-24T00:00:00.000Z",
+      "opponent": "Donuel Ramos",
+      "opponentSlug": "88582-donuel-ramos",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WBG 6",
+      "eventSlug": "29077-wbg-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-10-11T00:00:00.000Z",
+      "opponent": "Ricardo Betance",
+      "opponentSlug": "79629-ricardo-betance",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WBG 4: Mexico vs. Peru",
+      "eventSlug": "26388-wbg-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-05-24T00:00:00.000Z",
+      "opponent": "Israel Gandara",
+      "opponentSlug": "70264-israel-gandara",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WBG 2",
+      "eventSlug": "23829-wbg-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-29T00:00:00.000Z",
+      "opponent": "Israel Guerrero",
+      "opponentSlug": "79705-israel-guerrero",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WBG 1: 202 Pound Grand Prix",
+      "eventSlug": "23621-wbg-202-lb-mma-grand-prix",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-08-31T00:00:00.000Z",
+      "opponent": "Angel Perez",
+      "opponentSlug": "411803-angel-perez-el-negro",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "FMP 18: We Don't Stop",
+      "eventSlug": "105536-fmp-18-we-don-t-stop",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:32:47.651Z"
+}

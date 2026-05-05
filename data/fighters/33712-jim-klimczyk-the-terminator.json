@@ -1,0 +1,55 @@
+{
+  "slug": "33712-jim-klimczyk-the-terminator",
+  "name": "Jim Klimczyk",
+  "nickname": "The Terminator",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/33712-jim-klimczyk-the-terminator",
+  "recentFights": [
+    {
+      "date": "2013-02-16T00:00:00.000Z",
+      "opponent": "Zak Ottow",
+      "opponentSlug": "24278-zak-ottow",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-08-27T00:00:00.000Z",
+      "opponent": "Jeff Behnke",
+      "opponentSlug": "20085-jeff-behnke",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-04-17T00:00:00.000Z",
+      "opponent": "Gerald Meerschaert",
+      "opponentSlug": "6018-gerald-meerschaert-the-machine",
+      "result": "loss",
+      "method": "other",
+      "event": "Combat USA 29",
+      "eventSlug": "3832-combat-usa-29-2010-championship-round-3",
+      "round": 1,
+      "timeInRound": "2:56"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:15:56.505Z"
+}

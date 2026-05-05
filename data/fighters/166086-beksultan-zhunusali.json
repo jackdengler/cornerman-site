@@ -1,0 +1,44 @@
+{
+  "slug": "166086-beksultan-zhunusali",
+  "name": "Beksultan Zhunusali Uulu",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Kyrgyzstan",
+  "url": "https://www.tapology.com/fightcenter/fighters/166086-beksultan-zhunusali",
+  "recentFights": [
+    {
+      "date": "2020-07-11T00:00:00.000Z",
+      "opponent": "Mark Vologdin",
+      "opponentSlug": "202598-mark-vologdin",
+      "result": "loss",
+      "method": "sub",
+      "event": "MMA Series 9",
+      "eventSlug": "70543-mma-series-9",
+      "round": 1,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2017-07-09T00:00:00.000Z",
+      "opponent": "Sanjarbek Babayev",
+      "opponentSlug": "162305-sanjarbek-babayev",
+      "result": "loss",
+      "method": "other",
+      "event": "L-1: Sergey Shevelev Memorial 2017",
+      "eventSlug": "48100-open-tournament-sergei-yuryevich-shevelev-memorial",
+      "round": 1,
+      "timeInRound": "2:23"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:04:15.633Z"
+}

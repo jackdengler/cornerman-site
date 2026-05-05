@@ -1,0 +1,187 @@
+{
+  "slug": "214217-shikirbaev",
+  "name": "Bakhram Shakirbaev",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 9,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 172,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1999-08-17",
+  "nationality": "Kyrgyzstan",
+  "url": "https://www.tapology.com/fightcenter/fighters/214217-shikirbaev",
+  "recentFights": [
+    {
+      "date": "2024-10-16T00:00:00.000Z",
+      "opponent": "Vitaliy Boev",
+      "opponentSlug": "296806-vitaliy-boev",
+      "result": "loss",
+      "method": "sub",
+      "event": "Ural FC 8: Asbarov v Boardman",
+      "eventSlug": "119197-ural-fc-8-asbarov-v-boardman",
+      "round": 1,
+      "timeInRound": "3:03"
+    },
+    {
+      "date": "2024-01-27T00:00:00.000Z",
+      "opponent": "Ramazan Gairbekov",
+      "opponentSlug": "256936-ramazan-gairbekov",
+      "result": "loss",
+      "method": "other",
+      "event": "Defense of Leningrad",
+      "eventSlug": "110085-defense-of-leningrad",
+      "round": 1,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2022-03-31T00:00:00.000Z",
+      "opponent": "Dzhaddal Alibekov",
+      "opponentSlug": "206885-dzhaddal-alibekov",
+      "result": "loss",
+      "method": "other",
+      "event": "ACA Young Eagles 26",
+      "eventSlug": "87923-aca-young-eagles-26",
+      "round": 1,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2022-02-20T00:00:00.000Z",
+      "opponent": "Mark Vologdin",
+      "opponentSlug": "202598-mark-vologdin",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Velikoross Cup",
+      "eventSlug": "90433-great-koross-cup-time-of-new-heroes-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-24T00:00:00.000Z",
+      "opponent": "Artem Semyonov",
+      "opponentSlug": "178907-artem-semenov",
+      "result": "loss",
+      "method": "sub",
+      "event": "Open Fighting Championship 7",
+      "eventSlug": "81160-open-fighting-championship-7-velikoross-cup",
+      "round": 1,
+      "timeInRound": "3:41"
+    },
+    {
+      "date": "2021-02-27T00:00:00.000Z",
+      "opponent": "Aslan Utegaliev",
+      "opponentSlug": "180516-aslan-utegaliev",
+      "result": "loss",
+      "method": "sub",
+      "event": "Naiza FC 29",
+      "eventSlug": "77266-naiza-fc-29-dar",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-12-26T00:00:00.000Z",
+      "opponent": "Kalybek Arzykul Uulu",
+      "opponentSlug": "270648-kalybek-arzykul-uulu",
+      "result": "loss",
+      "method": "sub",
+      "event": "WEF Selection 31",
+      "eventSlug": "74149-wef-selection-31",
+      "round": 1,
+      "timeInRound": "2:21"
+    },
+    {
+      "date": "2019-11-09T00:00:00.000Z",
+      "opponent": "Maksat Omoshov",
+      "opponentSlug": "233918-maksat-omoshov",
+      "result": "win",
+      "method": "tko",
+      "event": "EFC Global 3",
+      "eventSlug": "65286-efc-global-abdimalik-vs-batyraliev",
+      "round": 2,
+      "timeInRound": "1:33"
+    },
+    {
+      "date": "2019-08-24T00:00:00.000Z",
+      "opponent": "Jahongir Abduvokhidov",
+      "opponentSlug": "164030-abduvakhidov-zhanibek",
+      "result": "win",
+      "method": "sub",
+      "event": "WEF Selection 28",
+      "eventSlug": "62038-wef-selection-28-battle-in-the-mountains-3",
+      "round": 1,
+      "timeInRound": "4:43"
+    },
+    {
+      "date": "2019-07-06T00:00:00.000Z",
+      "opponent": "Omurbek Artykbaev",
+      "opponentSlug": "214216-artykbaev",
+      "result": "loss",
+      "method": "sub",
+      "event": "WEF ProfFight 34",
+      "eventSlug": "60963-wef-proffight-34",
+      "round": 2,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2019-06-15T00:00:00.000Z",
+      "opponent": "Aman Seitbekov",
+      "opponentSlug": "266722-aman-seitbekov",
+      "result": "win",
+      "method": "sub",
+      "event": "WEF Selection 26",
+      "eventSlug": "60962-wef-selection-26",
+      "round": 1,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2019-04-14T00:00:00.000Z",
+      "opponent": "Asadbek Imamov",
+      "opponentSlug": "219966-asadbek-imamov",
+      "result": "win",
+      "method": "other",
+      "event": "WEF Selection 25",
+      "eventSlug": "58810-wef-proffight-33",
+      "round": 3,
+      "timeInRound": "2:35"
+    },
+    {
+      "date": "2019-04-06T00:00:00.000Z",
+      "opponent": "Talgat Akylbekov",
+      "opponentSlug": "237056-talgat-akylbekov",
+      "result": "win",
+      "method": "sub",
+      "event": "WEF Selection 24",
+      "eventSlug": "59707-wef-selection-24",
+      "round": 1,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2019-03-03T00:00:00.000Z",
+      "opponent": "Omurbek Artykbaev",
+      "opponentSlug": "214216-artykbaev",
+      "result": "loss",
+      "method": "other",
+      "event": "WEF Selection 21",
+      "eventSlug": "58792-wef-selection-21-amirbek-vs-khikmatov",
+      "round": 1,
+      "timeInRound": "2:33"
+    },
+    {
+      "date": "2021-01-16T00:00:00.000Z",
+      "opponent": "Argen Imanbekov",
+      "opponentSlug": "284847-argen-imanbekov",
+      "result": "win",
+      "method": "sub",
+      "event": "Emir FC & Jolbors Team",
+      "eventSlug": "75561-jolbors-team-emir-fighting-championship",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:03:58.424Z"
+}

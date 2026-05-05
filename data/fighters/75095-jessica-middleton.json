@@ -1,0 +1,220 @@
+{
+  "slug": "75095-jessica-middleton",
+  "name": "Jessica Middleton",
+  "nickname": "Million Hits",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 177,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1988-05-15",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/75095-jessica-middleton",
+  "recentFights": [
+    {
+      "date": "2023-02-10T00:00:00.000Z",
+      "opponent": "Dione Barbosa",
+      "opponentSlug": "173579-dione-barbosa",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 152: Valente vs. Bekoev",
+      "eventSlug": "97300-lfa-152-valente-vs-bekoev",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-08-02T00:00:00.000Z",
+      "opponent": "Hailey Cowan",
+      "opponentSlug": "166556-hailey-cowan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 73: Lingo vs. Hatley Jr.",
+      "eventSlug": "61360-lfa-73-mowles-vs-yanez-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-13T00:00:00.000Z",
+      "opponent": "Cheri Muraski",
+      "opponentSlug": "58843-cheri-muraski",
+      "result": "loss",
+      "method": "sub",
+      "event": "EFC 11",
+      "eventSlug": "58289-efc-11",
+      "round": 2,
+      "timeInRound": "4:22"
+    },
+    {
+      "date": "2018-10-05T00:00:00.000Z",
+      "opponent": "Calie Cutler",
+      "opponentSlug": "69194-cali-cutler",
+      "result": "win",
+      "method": "sub",
+      "event": "FCF 56",
+      "eventSlug": "55291-fcf-56",
+      "round": 5,
+      "timeInRound": "4:43"
+    },
+    {
+      "date": "2018-07-21T00:00:00.000Z",
+      "opponent": "Julie Murray",
+      "opponentSlug": "83668-julie-murray",
+      "result": "win",
+      "method": "sub",
+      "event": "EFC 9",
+      "eventSlug": "54234-efc-9",
+      "round": 2,
+      "timeInRound": "1:17"
+    },
+    {
+      "date": "2018-05-18T00:00:00.000Z",
+      "opponent": "Joselyne Edwards",
+      "opponentSlug": "98366-yoselin-edwards",
+      "result": "loss",
+      "method": "other",
+      "event": "The Fight Series",
+      "eventSlug": "53298-the-fight-series",
+      "round": 1,
+      "timeInRound": "0:57"
+    },
+    {
+      "date": "2018-02-02T00:00:00.000Z",
+      "opponent": "Jaymee Jones",
+      "opponentSlug": "75039-jaymee-jones",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Xtreme Fight Night 346",
+      "eventSlug": "50017-xtreme-fight-night-346",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-16T00:00:00.000Z",
+      "opponent": "Denise Kielholtz",
+      "opponentSlug": "118674-denise-kielholtz",
+      "result": "loss",
+      "method": "sub",
+      "event": "Bellator 188",
+      "eventSlug": "47710-bellator-188-pitbull-vs-weichel-2",
+      "round": 1,
+      "timeInRound": "1:16"
+    },
+    {
+      "date": "2017-07-14T00:00:00.000Z",
+      "opponent": "Emily Ducote",
+      "opponentSlug": "70991-emily-ducote",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bellator 181",
+      "eventSlug": "45396-bellator-182-pitbull-vs-campos-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-21T00:00:00.000Z",
+      "opponent": "Ilima-Lei Macfarlane",
+      "opponentSlug": "61596-ilima-lei-macfarlane",
+      "result": "loss",
+      "method": "sub",
+      "event": "Bellator 178",
+      "eventSlug": "44019-bellator",
+      "round": 1,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2017-01-27T00:00:00.000Z",
+      "opponent": "Alice Yauger",
+      "opponentSlug": "57507-alice-yauger",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bellator 171",
+      "eventSlug": "42994-bellator-171-rickels-vs-derrow",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-22T00:00:00.000Z",
+      "opponent": "Bruna Ellen",
+      "opponentSlug": "94986-bruna-ellen",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bellator 159",
+      "eventSlug": "39939-bellator-159",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-21T00:00:00.000Z",
+      "opponent": "Julie Murray",
+      "opponentSlug": "83668-julie-murray",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Victory FC 50",
+      "eventSlug": "39569-victory-fc-50",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-12-04T00:00:00.000Z",
+      "opponent": "Julie Murray",
+      "opponentSlug": "83668-julie-murray",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Ultimate Blue Corner Battles",
+      "eventSlug": "36381-the-blue-corner",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-06-13T00:00:00.000Z",
+      "opponent": "Nici Kearney",
+      "opponentSlug": "104898-nici-kearney",
+      "result": "win",
+      "method": "tko",
+      "event": "Organized Chaos 8",
+      "eventSlug": "31012-organized-chaos-8",
+      "round": 1,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2014-11-08T00:00:00.000Z",
+      "opponent": "Holly Torrez",
+      "opponentSlug": "55017-holly-torrez",
+      "result": "win",
+      "method": "other",
+      "event": "BlackOut FC 26",
+      "eventSlug": "28149-blackout-fc-26",
+      "round": 2,
+      "timeInRound": "0:25"
+    },
+    {
+      "date": "2014-08-29T00:00:00.000Z",
+      "opponent": "Autumn Cameron",
+      "opponentSlug": "62470-autumn-lamle",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UBCB",
+      "eventSlug": "41737-ubcb",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-07-26T00:00:00.000Z",
+      "opponent": "Tabby Patterson",
+      "opponentSlug": "49781-tabitha-patterson",
+      "result": "win",
+      "method": "tko",
+      "event": "Organized Chaos 5",
+      "eventSlug": "24151-organized-chaos-5",
+      "round": 1,
+      "timeInRound": "0:18"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:34:03.817Z"
+}

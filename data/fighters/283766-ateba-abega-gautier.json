@@ -1,0 +1,165 @@
+{
+  "slug": "283766-ateba-abega-gautier",
+  "name": "Ateba Gautier",
+  "nickname": "The Storm",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 193,
+  "reachCm": 206,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "2002-04-10",
+  "nationality": "Cameroon",
+  "url": "https://www.tapology.com/fightcenter/fighters/283766-ateba-abega-gautier",
+  "recentFights": [
+    {
+      "date": "2026-05-09T00:00:00.000Z",
+      "opponent": "Ozzy Diaz",
+      "opponentSlug": "61676-ozzy-diaz",
+      "result": null,
+      "method": "other",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "eventSlug": "140614-ufc-328",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-01-24T00:00:00.000Z",
+      "opponent": "Andrey Pulyaev",
+      "opponentSlug": "178035-andrey-pulyaev",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 324: Gaethje vs. Pimblett",
+      "eventSlug": "135755-ufc-324",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-04T00:00:00.000Z",
+      "opponent": "Tre'ston Vines",
+      "opponentSlug": "101085-treston-vines",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 320: Ankalaev vs. Pereira 2",
+      "eventSlug": "129311-ufc-320",
+      "round": 1,
+      "timeInRound": "1:41"
+    },
+    {
+      "date": "2025-07-19T00:00:00.000Z",
+      "opponent": "Robert Valentin",
+      "opponentSlug": "136498-robert-valentin",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 318: Holloway vs. Poirier 3",
+      "eventSlug": "127441-ufc-318",
+      "round": 1,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2025-03-29T00:00:00.000Z",
+      "opponent": "José Medina",
+      "opponentSlug": "155441-jos-daniel-medina-rivero-chicho-medina",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "120490-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "3:32"
+    },
+    {
+      "date": "2024-09-17T00:00:00.000Z",
+      "opponent": "Yura Naito",
+      "opponentSlug": "245100-yura-naito",
+      "result": "win",
+      "method": "other",
+      "event": "Contender Series 2024",
+      "eventSlug": "112923-contender-series-2024-week-6",
+      "round": 2,
+      "timeInRound": "4:00"
+    },
+    {
+      "date": "2023-12-02T00:00:00.000Z",
+      "opponent": "Carlos de Souza",
+      "opponentSlug": "28050-carlos-antonio-de-souza-carlao",
+      "result": "win",
+      "method": "other",
+      "event": "Fight KLB Series 1",
+      "eventSlug": "107131-fight-klb-series-1",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-02T00:00:00.000Z",
+      "opponent": "Vuk Lekić",
+      "opponentSlug": "291907-vuk-lekic",
+      "result": "win",
+      "method": "other",
+      "event": "Titan FC 82",
+      "eventSlug": "100791-sbc-47",
+      "round": 1,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2023-04-22T00:00:00.000Z",
+      "opponent": "Yu-Joe Lewis Lai",
+      "opponentSlug": "141284-yu-joe-lewis-lai",
+      "result": "win",
+      "method": "other",
+      "event": "Full Contact Contender 33",
+      "eventSlug": "99503-full-contact-contender-33",
+      "round": 1,
+      "timeInRound": "2:10"
+    },
+    {
+      "date": "2022-07-30T00:00:00.000Z",
+      "opponent": "Jan Lysak",
+      "opponentSlug": "101098-jan-lysak",
+      "result": "win",
+      "method": "tko",
+      "event": "Vida Fighting Championships 3",
+      "eventSlug": "91701-vida-fighting-championships-3",
+      "round": 1,
+      "timeInRound": "4:38"
+    },
+    {
+      "date": "2022-07-23T00:00:00.000Z",
+      "opponent": "Glenn Williams",
+      "opponentSlug": "169600-glenn-williams",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Budo Fighting Championship 50",
+      "eventSlug": "90637-budo-fighting-championship-50",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-15T00:00:00.000Z",
+      "opponent": "Israel Phinees Mano",
+      "opponentSlug": "292586-israel-mano",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Africa MMA Open Championships",
+      "eventSlug": "78712-nlmmac",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-01-24T00:00:00.000Z",
+      "opponent": "Roméo Tsala Nga",
+      "opponentSlug": "283765-tsala-ngo-romeo",
+      "result": null,
+      "method": "other",
+      "event": "CFC 12: Combats de MMA",
+      "eventSlug": "75424-cfc-12-combats-de-mma",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:57:12.234Z"
+}

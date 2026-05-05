@@ -1,0 +1,99 @@
+{
+  "slug": "51731-zach-bunnell",
+  "name": "Zach Bunnell",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1989-07-19",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/51731-zach-bunnell",
+  "recentFights": [
+    {
+      "date": "2019-02-02T00:00:00.000Z",
+      "opponent": "Eric McConico",
+      "opponentSlug": "112634-eric-mcconico",
+      "result": "loss",
+      "method": "other",
+      "event": "KOTC: Head Hunter",
+      "eventSlug": "57243-kotc-head-hunter",
+      "round": 3,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2016-04-02T00:00:00.000Z",
+      "opponent": "Jeff Roman",
+      "opponentSlug": "32378-jeff-roman-the-bullett",
+      "result": "win",
+      "method": "dec-split",
+      "event": "WSOF 30: Branch vs. Starks",
+      "eventSlug": "36736-wsof-shields-vs-fitch",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-02-07T00:00:00.000Z",
+      "opponent": "Cory Hall",
+      "opponentSlug": "32050-corey-hall",
+      "result": "win",
+      "method": "sub",
+      "event": "WFC 34",
+      "eventSlug": "29227-wfc-34",
+      "round": 1,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2013-07-20T00:00:00.000Z",
+      "opponent": "AJ Sewell",
+      "opponentSlug": "49285-aj-sewell-super-boy",
+      "result": "win",
+      "method": "sub",
+      "event": "Ultimate Reno Combat 42",
+      "eventSlug": "19575-ultimate-reno-combat-42",
+      "round": 1,
+      "timeInRound": "0:38"
+    },
+    {
+      "date": "2010-03-05T00:00:00.000Z",
+      "opponent": "Daniel Glidewell",
+      "opponentSlug": "97706-daniel-glidewell",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-08-22T00:00:00.000Z",
+      "opponent": "Max Griffin",
+      "opponentSlug": "25437-max-griffin",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-06-12T00:00:00.000Z",
+      "opponent": "Andy Hall",
+      "opponentSlug": "408331-andy-hall",
+      "result": "win",
+      "method": "sub",
+      "event": "Brass Knuckle",
+      "eventSlug": "105960-brass-knuckle-annihilation-cage-fights-2",
+      "round": 1,
+      "timeInRound": "2:57"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:52:25.640Z"
+}

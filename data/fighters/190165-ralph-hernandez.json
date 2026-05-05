@@ -1,0 +1,165 @@
+{
+  "slug": "190165-ralph-hernandez",
+  "name": "Ralph Hernandez III",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1999-01-29",
+  "nationality": "Kansas City, Missouri",
+  "url": "https://www.tapology.com/fightcenter/fighters/190165-ralph-hernandez",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Jeremiah Huff",
+      "opponentSlug": "311857-jeremiah-huff",
+      "result": "win",
+      "method": "tko",
+      "event": "LFA 231: Lozej vs. Ibarra",
+      "eventSlug": "140675-lfa-231-trembley-vs-johns",
+      "round": 1,
+      "timeInRound": "4:53"
+    },
+    {
+      "date": "2026-02-21T00:00:00.000Z",
+      "opponent": "Keilen Fantroy",
+      "opponentSlug": "133780-keilen-fantroy",
+      "result": "win",
+      "method": "other",
+      "event": "Shamrock FC 373",
+      "eventSlug": "137204-shamrock-fc",
+      "round": 1,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2025-06-14T00:00:00.000Z",
+      "opponent": "Christian Camp",
+      "opponentSlug": "92016-christian-camp",
+      "result": "win",
+      "method": "other",
+      "event": "Shamrock FC 364",
+      "eventSlug": "122216-shamrock-fc-365",
+      "round": 1,
+      "timeInRound": "0:43"
+    },
+    {
+      "date": "2023-09-23T00:00:00.000Z",
+      "opponent": "David Macias",
+      "opponentSlug": "355333-david-macias",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combat Quest 31",
+      "eventSlug": "104060-combat-quest-31-get-the-strap-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-05T00:00:00.000Z",
+      "opponent": "Sean Atkinson",
+      "opponentSlug": "231734-sean-atkinson",
+      "result": "win",
+      "method": "other",
+      "event": "FAC 19: Cinco de Mayo",
+      "eventSlug": "99118-fac-19-cinco-de-mayo",
+      "round": 1,
+      "timeInRound": "2:57"
+    },
+    {
+      "date": "2022-12-03T00:00:00.000Z",
+      "opponent": "Clayton Whaley",
+      "opponentSlug": "122645-clayton-whaley",
+      "result": "win",
+      "method": "other",
+      "event": "Shamrock FC 342",
+      "eventSlug": "84479-shamrock-fc-342",
+      "round": 2,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2021-12-12T00:00:00.000Z",
+      "opponent": "Tre Alvarado",
+      "opponentSlug": "163187-tre-alvarado",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combat Quest 16",
+      "eventSlug": "85351-combat-quest-16-season-s-beatings",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-09T00:00:00.000Z",
+      "opponent": "Trevor Johnson",
+      "opponentSlug": "91113-trevor-johnson",
+      "result": "win",
+      "method": "tko",
+      "event": "Shamrock FC 332",
+      "eventSlug": "80911-shamrock-332",
+      "round": 2,
+      "timeInRound": "0:52"
+    },
+    {
+      "date": "2021-03-05T00:00:00.000Z",
+      "opponent": "Devante Frencher",
+      "opponentSlug": "179207-deante-francher",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FAC 7",
+      "eventSlug": "77131-fac-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-12-12T00:00:00.000Z",
+      "opponent": "Isaac Dulgarian",
+      "opponentSlug": "245772-isaac-dulgarian",
+      "result": "loss",
+      "method": "sub",
+      "event": "FAC 6",
+      "eventSlug": "74679-fac-6",
+      "round": 1,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2020-02-22T00:00:00.000Z",
+      "opponent": "Dalton Vinsonhaler",
+      "opponentSlug": "245688-dalton-vinsonhaler",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shamrock FC 328",
+      "eventSlug": "64517-shamrock-fc-328",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-08T00:00:00.000Z",
+      "opponent": "Mike Murray",
+      "opponentSlug": "203330-mike-murray",
+      "result": "loss",
+      "method": "sub",
+      "event": "Shamrock FC 319",
+      "eventSlug": "59201-shamrock-fc-319",
+      "round": 1,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2018-06-16T00:00:00.000Z",
+      "opponent": "Michael Hughes",
+      "opponentSlug": "188588-michael-hughes",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shamrock FC 306",
+      "eventSlug": "52437-shamrock-fc-306",
+      "round": 3,
+      "timeInRound": "3:00"
+    }
+  ],
+  "lastVerified": "2026-04-18T06:00:06.252Z"
+}

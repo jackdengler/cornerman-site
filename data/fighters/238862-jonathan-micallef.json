@@ -1,0 +1,209 @@
+{
+  "slug": "238862-jonathan-micallef",
+  "name": "Jonathan Micallef",
+  "nickname": "The Captain",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 196,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1999-03-05",
+  "nationality": "Werribee, Victoria, Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/238862-jonathan-micallef",
+  "recentFights": [
+    {
+      "date": "2026-05-02T00:00:00.000Z",
+      "opponent": "Themba Gorimbo",
+      "opponentSlug": "52251-themba-takura-gorimbo",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "140511-ufc-fight-night-della-maddalena-vs-prates",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-01-31T00:00:00.000Z",
+      "opponent": "Oban Elliott",
+      "opponentSlug": "150814-oban-elliot",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC 325: Volkanovski vs. Lopes 2",
+      "eventSlug": "136549-ufc-325-volkanovski-vs-lopes-2",
+      "round": 2,
+      "timeInRound": "3:31"
+    },
+    {
+      "date": "2025-02-08T00:00:00.000Z",
+      "opponent": "Kevin Jousset",
+      "opponentSlug": "195097-kevin-jousset",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 312: Du Plessis vs. Strickland 2",
+      "eventSlug": "119136-ufc-312",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-10-15T00:00:00.000Z",
+      "opponent": "Mohamed Ado",
+      "opponentSlug": "257271-mohamed-ado",
+      "result": "win",
+      "method": "sub",
+      "event": "Contender Series 2024",
+      "eventSlug": "112927-contender-series-2024-week-10",
+      "round": 1,
+      "timeInRound": "3:01"
+    },
+    {
+      "date": "2024-09-07T00:00:00.000Z",
+      "opponent": "Matt Vaile",
+      "opponentSlug": "118454-matt-vaile",
+      "result": "win",
+      "method": "sub",
+      "event": "HEX Fight Series 32",
+      "eventSlug": "115236-hex-fight-series-32",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-02T00:00:00.000Z",
+      "opponent": "Aldin Bates",
+      "opponentSlug": "63764-aldin-bates",
+      "result": "loss",
+      "method": "tko",
+      "event": "HEX Fight Series 29",
+      "eventSlug": "107573-hex-fight-series-29",
+      "round": 4,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2023-11-18T00:00:00.000Z",
+      "opponent": "Joseph Luciano",
+      "opponentSlug": "136006-joseph-luciano",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hex Fight Series 28",
+      "eventSlug": "104226-hex-fight-series-28",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-18T00:00:00.000Z",
+      "opponent": "Jack James",
+      "opponentSlug": "194896-jack-james",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hex Fight Series 27",
+      "eventSlug": "101993-hex-fight-series-27",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-26T00:00:00.000Z",
+      "opponent": "Daniel Kerr",
+      "opponentSlug": "23393-daniel-kerr-kiwi",
+      "result": "win",
+      "method": "sub",
+      "event": "Hex Fight Series 26",
+      "eventSlug": "98677-hex-fight-series-26",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-18T00:00:00.000Z",
+      "opponent": "Jamie Sporne",
+      "opponentSlug": "147911-jamie-sporne",
+      "result": "win",
+      "method": "tko",
+      "event": "Hex Fight Series 24",
+      "eventSlug": "93819-hex-fight-series-24",
+      "round": 3,
+      "timeInRound": "3:50"
+    },
+    {
+      "date": "2022-08-27T00:00:00.000Z",
+      "opponent": "Joshua Murphy",
+      "opponentSlug": "120349-joshua-murphy",
+      "result": "win",
+      "method": "other",
+      "event": "Demolition Fight Series 7",
+      "eventSlug": "89825-demolition-fight-series-7",
+      "round": 2,
+      "timeInRound": "1:19"
+    },
+    {
+      "date": "2022-02-26T00:00:00.000Z",
+      "opponent": "Max Kadarusman",
+      "opponentSlug": "203223-max-kadarusman",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Demolition Fight Series 5",
+      "eventSlug": "84707-demolition-fight-series-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-01-28T00:00:00.000Z",
+      "opponent": "Tom Ackerly",
+      "opponentSlug": "126727-tom-ackerly",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Path To Hex 15",
+      "eventSlug": "77410-path-to-hex-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-20T00:00:00.000Z",
+      "opponent": "Peter Pirona",
+      "opponentSlug": "287718-peter-pirona",
+      "result": "win",
+      "method": "other",
+      "event": "Demolition Fight Series 4",
+      "eventSlug": "79290-demolition-fight-series-4",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2021-05-22T00:00:00.000Z",
+      "opponent": "Sam Marles",
+      "opponentSlug": "277374-sam-marles",
+      "result": "win",
+      "method": "tko",
+      "event": "Demolition Fight Series 3",
+      "eventSlug": "77541-demolition-fight-series-3",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-02-13T00:00:00.000Z",
+      "opponent": "Jack Stanton",
+      "opponentSlug": "283884-jack-stanton",
+      "result": "win",
+      "method": "tko",
+      "event": "Demolition Fight Series 2",
+      "eventSlug": "76505-demolition-fight-series-2",
+      "round": 3,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2019-10-19T00:00:00.000Z",
+      "opponent": "Matthew Kindred",
+      "opponentSlug": "238864-matthew-kindred",
+      "result": "win",
+      "method": "other",
+      "event": "Demolition Fight Series 1",
+      "eventSlug": "62762-xfc-demolition-1",
+      "round": 1,
+      "timeInRound": "5:00"
+    }
+  ],
+  "lastVerified": "2026-04-18T17:54:42.769Z"
+}

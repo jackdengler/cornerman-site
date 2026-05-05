@@ -1,0 +1,220 @@
+{
+  "slug": "169518-tereza-bieda",
+  "name": "Tereza Bledá",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 180,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "2001-11-30",
+  "nationality": "Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/169518-tereza-bieda",
+  "recentFights": [
+    {
+      "date": "2025-12-13T00:00:00.000Z",
+      "opponent": "Jamey-Lyn Horth",
+      "opponentSlug": "148703-jamey-lyn-horth",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "132921-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "2:05"
+    },
+    {
+      "date": "2023-06-17T00:00:00.000Z",
+      "opponent": "Gabriella Fernandes",
+      "opponentSlug": "193148-gabriela-fernandes-gaby",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "99705-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-19T00:00:00.000Z",
+      "opponent": "Natália Silva",
+      "opponentSlug": "99885-natalia-silva",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "91976-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "1:27"
+    },
+    {
+      "date": "2022-09-06T00:00:00.000Z",
+      "opponent": "Nayara Maia",
+      "opponentSlug": "235466-nayara-maia",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Contender Series 2022",
+      "eventSlug": "89500-contender-series-2022-week-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-30T00:00:00.000Z",
+      "opponent": "Mabelly Lima",
+      "opponentSlug": "90733-mabelly-lima",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 30",
+      "eventSlug": "83044-oktagon-30",
+      "round": 1,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2021-07-24T00:00:00.000Z",
+      "opponent": "Edna Oliveira",
+      "opponentSlug": "134462-edna-trakinas",
+      "result": "win",
+      "method": "sub",
+      "event": "OKTAGON 26",
+      "eventSlug": "79976-oktagon-26",
+      "round": 1,
+      "timeInRound": "4:25"
+    },
+    {
+      "date": "2021-05-01T00:00:00.000Z",
+      "opponent": "Karoline Martins",
+      "opponentSlug": "87623-karoline-martins",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 23",
+      "eventSlug": "78198-oktagon-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-01-30T00:00:00.000Z",
+      "opponent": "Judyta Rymarzak",
+      "opponentSlug": "119642-judyta-niepogoda",
+      "result": "win",
+      "method": "sub",
+      "event": "OKTAGON 21",
+      "eventSlug": "75449-oktagon-21",
+      "round": 1,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2020-09-26T00:00:00.000Z",
+      "opponent": "Marie Loiseau",
+      "opponentSlug": "198237-marie-loiseau",
+      "result": "win",
+      "method": "tko",
+      "event": "Oktagon 16: Ryšavý vs Paradeiser",
+      "eventSlug": "72251-oktagon-16-rysavy-vs-paradeiser",
+      "round": 2,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2020-07-04T00:00:00.000Z",
+      "opponent": "Lucia Szabová",
+      "opponentSlug": "187305-lucia-szabova-queen-bee",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Oktagon: Underground 7 Super Final",
+      "eventSlug": "70349-oktagon-underground-7-super-final",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-06-13T00:00:00.000Z",
+      "opponent": "Magdaléna Šormová",
+      "opponentSlug": "62828-magdalena-smorova",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Oktagon: Underground 5",
+      "eventSlug": "70086-oktagon-underground-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-05-30T00:00:00.000Z",
+      "opponent": "Lucie Pudilová",
+      "opponentSlug": "90345-lucie-pudilova",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Oktagon Underground 3",
+      "eventSlug": "69845-oktagon-underground-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-16T00:00:00.000Z",
+      "opponent": "Karolina Sobek",
+      "opponentSlug": "172319-karolina-sobek",
+      "result": "win",
+      "method": "tko",
+      "event": "XFN 17",
+      "eventSlug": "57556-xfn-17-vemola-vs-solc",
+      "round": 2,
+      "timeInRound": "1:53"
+    },
+    {
+      "date": "2018-06-30T00:00:00.000Z",
+      "opponent": "Natalia Janiuková",
+      "opponentSlug": "190624-natalia-janiukova",
+      "result": "win",
+      "method": "other",
+      "event": "MMAA Arena Cup 43",
+      "eventSlug": "53712-mmaa-arena-cup-43-finale-mcr-mmaa-arena-cup-2017-18",
+      "round": 1,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2018-05-26T00:00:00.000Z",
+      "opponent": "Barbora Poláková",
+      "opponentSlug": "92332-barbora-polakova",
+      "result": "win",
+      "method": "sub",
+      "event": "MMAA Arena Cup 42",
+      "eventSlug": "52832-mmaa-arena-cup-42-2017-18-mcr-final",
+      "round": 1,
+      "timeInRound": "2:41"
+    },
+    {
+      "date": "2018-04-21T00:00:00.000Z",
+      "opponent": "Tereza Kocková",
+      "opponentSlug": "185194-tereza-kockova",
+      "result": "win",
+      "method": "tko",
+      "event": "MMAA Arena Cup 41",
+      "eventSlug": "52216-mmaa-arena-cup-41-chomutov",
+      "round": 1,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2017-11-25T00:00:00.000Z",
+      "opponent": "Alžběta Johana Bartošová",
+      "opponentSlug": "167125-albta-johana-bartolova",
+      "result": "win",
+      "method": "tko",
+      "event": "MMAA Arena Cup 37",
+      "eventSlug": "49151-mmaa-arena-cup-37-tet-kolo-mistrovstv-r-v-mma",
+      "round": 2,
+      "timeInRound": "2:47"
+    },
+    {
+      "date": "2017-10-29T00:00:00.000Z",
+      "opponent": "Adela Mikulandova",
+      "opponentSlug": "169519-adela-mikulandovili",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMAA Arena Cup 36",
+      "eventSlug": "48839-mmaa-arena-cup-36",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:02:12.345Z"
+}

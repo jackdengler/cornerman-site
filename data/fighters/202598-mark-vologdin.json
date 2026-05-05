@@ -1,0 +1,220 @@
+{
+  "slug": "202598-mark-vologdin",
+  "name": "Mark Vologdin",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 12,
+    "losses": 4,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 160,
+  "reachCm": 165,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "2000-04-18",
+  "nationality": "Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/202598-mark-vologdin",
+  "recentFights": [
+    {
+      "date": "2026-04-18T00:00:00.000Z",
+      "opponent": "John Castañeda",
+      "opponentSlug": "20125-john-castaneda",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "139670-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-07T00:00:00.000Z",
+      "opponent": "Adrian Luna Martinetti",
+      "opponentSlug": "139620-juan-adrian-luna",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Contender Series 2025",
+      "eventSlug": "128466-contender-series-2025-week-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-06-14T00:00:00.000Z",
+      "opponent": "Cleiton Monteiro",
+      "opponentSlug": "234555-francisco-cleiton-monteiro-pequeno",
+      "result": "win",
+      "method": "sub",
+      "event": "AFN 10",
+      "eventSlug": "129297-afn-10",
+      "round": 1,
+      "timeInRound": "4:05"
+    },
+    {
+      "date": "2024-10-19T00:00:00.000Z",
+      "opponent": "Renan Baptista",
+      "opponentSlug": "259271-renan-baptista",
+      "result": "win",
+      "method": "other",
+      "event": "AFN 8",
+      "eventSlug": "116850-afn-8",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-09T00:00:00.000Z",
+      "opponent": "Ricardo Monteiro",
+      "opponentSlug": "106109-ricardo-monteiro",
+      "result": "win",
+      "method": "other",
+      "event": "AFN 5",
+      "eventSlug": "109087-afn-5",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-01T00:00:00.000Z",
+      "opponent": "Nodar Khotenashvili",
+      "opponentSlug": "77514-nodar-khotenashvili",
+      "result": "win",
+      "method": "other",
+      "event": "AFN 1",
+      "eventSlug": "102883-afn-1",
+      "round": 1,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2022-07-03T00:00:00.000Z",
+      "opponent": "Bekulan Saipjan Uulu",
+      "opponentSlug": "187991-bekulan-saipzhanov",
+      "result": "win",
+      "method": "other",
+      "event": "Open Fighting Championship 20",
+      "eventSlug": "89687-open-fighting-championship-20",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-20T00:00:00.000Z",
+      "opponent": "Bakhram Shakirbaev",
+      "opponentSlug": "214217-shikirbaev",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Velikoross Cup",
+      "eventSlug": "90433-great-koross-cup-time-of-new-heroes-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-04T00:00:00.000Z",
+      "opponent": "Kyyalbek Akylbek Uulu",
+      "opponentSlug": "231187-kyyalbek-akylbek-uulu",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Open Fighting Championship 11",
+      "eventSlug": "83709-open-fighting-championship-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-26T00:00:00.000Z",
+      "opponent": "Umid Agamirov",
+      "opponentSlug": "250132-umid-aghamurov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MMA Series 35",
+      "eventSlug": "79806-mma-series-35-time-of-new-heroes-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-01T00:00:00.000Z",
+      "opponent": "Kairat Nurbay uulu",
+      "opponentSlug": "205688-nurbay-uulu-kairatbek",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MMA Series 31",
+      "eventSlug": "78703-mma-series-31-time-of-new-heroes-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-06T00:00:00.000Z",
+      "opponent": "Mirlanbek Mamatzhan",
+      "opponentSlug": "186541-mirlanbek-mamatzhan",
+      "result": "win",
+      "method": "sub",
+      "event": "MMA Series 27",
+      "eventSlug": "77628-mma-series-27-time-of-new-heroes-14",
+      "round": 2,
+      "timeInRound": "1:24"
+    },
+    {
+      "date": "2020-12-19T00:00:00.000Z",
+      "opponent": "Samat Fayzuldaev",
+      "opponentSlug": "201980-samat-fayzuldaev",
+      "result": "win",
+      "method": "tko",
+      "event": "MMA Series 23",
+      "eventSlug": "74704-mma-series-23-time-of-new-heroes-13",
+      "round": 1,
+      "timeInRound": "2:48"
+    },
+    {
+      "date": "2020-09-26T00:00:00.000Z",
+      "opponent": "Bektursun Kaipnazar uulu",
+      "opponentSlug": "233848-bektursun-kayypnazar-uulu",
+      "result": "win",
+      "method": "other",
+      "event": "MMA Series 15",
+      "eventSlug": "72307-mma-series-15-time-of-new-heroes-9",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2020-08-15T00:00:00.000Z",
+      "opponent": "Sanjarbek Kurbonov",
+      "opponentSlug": "271574-sanjarbek-kurbonov",
+      "result": "win",
+      "method": "other",
+      "event": "MMA Series 12",
+      "eventSlug": "71106-mma-series-12-time-of-new-heroes-9",
+      "round": 2,
+      "timeInRound": "2:10"
+    },
+    {
+      "date": "2020-07-11T00:00:00.000Z",
+      "opponent": "Beksultan Zhunusali Uulu",
+      "opponentSlug": "166086-beksultan-zhunusali",
+      "result": "win",
+      "method": "sub",
+      "event": "MMA Series 9",
+      "eventSlug": "70543-mma-series-9",
+      "round": 1,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2020-03-01T00:00:00.000Z",
+      "opponent": "Oyatullo Muminov",
+      "opponentSlug": "196454-oyatullo-muminov",
+      "result": "loss",
+      "method": "sub",
+      "event": "GIT Sech Pro",
+      "eventSlug": "67378-git-sech-pro-time-of-new-heroes-4",
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2018-12-01T00:00:00.000Z",
+      "opponent": "Maskat Egreshov",
+      "opponentSlug": "202599-maskat-egreshov",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "L-1 Russia: The New Time",
+      "eventSlug": "56764-l-1-russia-the-new-time",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:52:53.725Z"
+}

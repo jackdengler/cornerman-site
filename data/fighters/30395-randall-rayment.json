@@ -1,0 +1,187 @@
+{
+  "slug": "30395-randall-rayment",
+  "name": "Randall Rayment",
+  "nickname": "The Limb Reaper",
+  "aliases": [],
+  "recordPro": {
+    "wins": 14,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1986-08-31",
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/30395-randall-rayment",
+  "recentFights": [
+    {
+      "date": "2024-05-04T00:00:00.000Z",
+      "opponent": "Brando Peričić",
+      "opponentSlug": "195101-brando-pericic",
+      "result": "win",
+      "method": "sub",
+      "event": "HEX Fight Series 30",
+      "eventSlug": "107574-hex-fight-series-30-hex-goes-global",
+      "round": 2,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2023-08-18T00:00:00.000Z",
+      "opponent": "Ricky Biechun",
+      "opponentSlug": "134846-ricky-beichon",
+      "result": "win",
+      "method": "sub",
+      "event": "Hex Fight Series 27",
+      "eventSlug": "101993-hex-fight-series-27",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-18T00:00:00.000Z",
+      "opponent": "Gregory Hearne",
+      "opponentSlug": "78353-gregory-hearne",
+      "result": "win",
+      "method": "sub",
+      "event": "Hex Fight Series 24",
+      "eventSlug": "93819-hex-fight-series-24",
+      "round": 2,
+      "timeInRound": "3:58"
+    },
+    {
+      "date": "2022-06-25T00:00:00.000Z",
+      "opponent": "Patrick Rongo Inapapa",
+      "opponentSlug": "344474-patrick-rongo-inapapa",
+      "result": "win",
+      "method": "tko",
+      "event": "Urban Fight Night 30",
+      "eventSlug": "89091-urban-fight-night-30",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-02-27T00:00:00.000Z",
+      "opponent": "Dean Maxwell",
+      "opponentSlug": "128638-dean-maxwell",
+      "result": "win",
+      "method": "other",
+      "event": "Urban Fight Night 24",
+      "eventSlug": "76101-urban-fight-night-24",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-29T00:00:00.000Z",
+      "opponent": "Dion Mooney",
+      "opponentSlug": "114759-dion-mooney-big-sexy",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Urban Fight Night 21",
+      "eventSlug": "63143-urban-fight-night-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-06T00:00:00.000Z",
+      "opponent": "Jack Tuave",
+      "opponentSlug": "164878-jack-tuave",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hex Fight Series 19",
+      "eventSlug": "61244-hex-fight-series-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-02-17T00:00:00.000Z",
+      "opponent": "Nathan Reddy",
+      "opponentSlug": "85585-nathan-reddy",
+      "result": "loss",
+      "method": "sub",
+      "event": "Urban Fight Night 14",
+      "eventSlug": "50070-urban-fight-night-14",
+      "round": 4,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-12T00:00:00.000Z",
+      "opponent": "Jamie Abdallah",
+      "opponentSlug": "95778-jamie-abdallah",
+      "result": "loss",
+      "method": "other",
+      "event": "Australian FC 14",
+      "eventSlug": "34480-australian-fc-14",
+      "round": 3,
+      "timeInRound": "2:31"
+    },
+    {
+      "date": "2014-08-23T00:00:00.000Z",
+      "opponent": "Jeff King",
+      "opponentSlug": "8796-jeff-king",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-02-21T00:00:00.000Z",
+      "opponent": "Nathan Luff",
+      "opponentSlug": "30097-nathan-luff",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-02-01T00:00:00.000Z",
+      "opponent": "Jack Johns",
+      "opponentSlug": "30894-jack-johns",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Roshambo MMA 2",
+      "eventSlug": "21653-roshambo-mma-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-09-21T00:00:00.000Z",
+      "opponent": "Ben Wrotniak",
+      "opponentSlug": "55558-ben-wrotniak",
+      "result": "win",
+      "method": "sub",
+      "event": "BRACE 22",
+      "eventSlug": "20035-bfw-22",
+      "round": 1,
+      "timeInRound": "0:48"
+    },
+    {
+      "date": "2013-05-31T00:00:00.000Z",
+      "opponent": "Nick Naccarato",
+      "opponentSlug": "156567-nick-naccarato",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-07-06T00:00:00.000Z",
+      "opponent": "Paul Ranse",
+      "opponentSlug": "30394-paul-ranse",
+      "result": "win",
+      "method": "other",
+      "event": "ECC 2",
+      "eventSlug": "14465-ecc-2",
+      "round": 1,
+      "timeInRound": "3:31"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:56:06.291Z"
+}

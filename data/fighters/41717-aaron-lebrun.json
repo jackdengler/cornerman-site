@@ -1,0 +1,44 @@
+{
+  "slug": "41717-aaron-lebrun",
+  "name": "Aaron Lebrun",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/41717-aaron-lebrun",
+  "recentFights": [
+    {
+      "date": "2013-02-16T00:00:00.000Z",
+      "opponent": "Ryan Spann",
+      "opponentSlug": "20908-ryan-spann",
+      "result": "loss",
+      "method": "sub",
+      "event": "VFA: Round 1",
+      "eventSlug": "17498-vfa-1",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-10-16T00:00:00.000Z",
+      "opponent": "JD Domengeaux",
+      "opponentSlug": "41805-jd-domengeaux",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:51:20.197Z"
+}

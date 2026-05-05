@@ -1,0 +1,310 @@
+{
+  "slug": "128244-joshua-riley",
+  "name": "Joshua Trambulo",
+  "nickname": "Pretty Boy",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 9,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/128244-joshua-riley",
+  "recentFights": [
+    {
+      "date": "2025-08-30T00:00:00.000Z",
+      "opponent": "Joo Hyun Park",
+      "opponentSlug": "383944-joo-hyun-park",
+      "result": "loss",
+      "method": "sub",
+      "event": "HEX Fight Series 36",
+      "eventSlug": "120779-hex-fight-series-36",
+      "round": 1,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2025-03-01T00:00:00.000Z",
+      "opponent": "Semakadde Kakembo",
+      "opponentSlug": "196400-sem-kakembo",
+      "result": "loss",
+      "method": "sub",
+      "event": "HEX Fight Series 34",
+      "eventSlug": "120777-hex-fight-series-34",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-18T00:00:00.000Z",
+      "opponent": "Uelson de Jesus",
+      "opponentSlug": "63809-uelson-de-jesus",
+      "result": "loss",
+      "method": "sub",
+      "event": "Hex Fight Series 28",
+      "eventSlug": "104226-hex-fight-series-28",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-18T00:00:00.000Z",
+      "opponent": "Luke Catubig",
+      "opponentSlug": "21658-luke-mark-catubig",
+      "result": "loss",
+      "method": "tko",
+      "event": "Hex Fight Series 24",
+      "eventSlug": "93819-hex-fight-series-24",
+      "round": 1,
+      "timeInRound": "0:43"
+    },
+    {
+      "date": "2022-08-05T00:00:00.000Z",
+      "opponent": "Jeffrey Mesa",
+      "opponentSlug": "71953-jeff-mesa",
+      "result": "win",
+      "method": "tko",
+      "event": "Hex Fight Series 23",
+      "eventSlug": "91477-hex-fight-series-23",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-18T00:00:00.000Z",
+      "opponent": "Justin Van Heerden",
+      "opponentSlug": "86412-justin-van-heerdan",
+      "result": "loss",
+      "method": "sub",
+      "event": "Hex Fight Series 22",
+      "eventSlug": "85375-hex-fight-series-22",
+      "round": 3,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2019-03-29T00:00:00.000Z",
+      "opponent": "Ethan Thomas",
+      "opponentSlug": "136411-ethan-thomas",
+      "result": "loss",
+      "method": "sub",
+      "event": "Hex Fight Series 18",
+      "eventSlug": "58679-hex-fight-series-18",
+      "round": 1,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2018-11-17T00:00:00.000Z",
+      "opponent": "Aaron Blackie",
+      "opponentSlug": "75736-aaron-blackie",
+      "result": "loss",
+      "method": "other",
+      "event": "Aftershock 31",
+      "eventSlug": "55182-aftershock-31",
+      "round": 1,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2018-09-08T00:00:00.000Z",
+      "opponent": "Robby Lara",
+      "opponentSlug": "111325-robby-lara",
+      "result": "win",
+      "method": "other",
+      "event": "Hex Fight Series 16",
+      "eventSlug": "55073-hex-fight-series",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2018-06-30T00:00:00.000Z",
+      "opponent": "Hussein Wasette",
+      "opponentSlug": "101851-haussain-wasette",
+      "result": "win",
+      "method": "sub",
+      "event": "Hex Fight Series 14",
+      "eventSlug": "53446-hex-fight-series-14",
+      "round": 2,
+      "timeInRound": "2:47"
+    },
+    {
+      "date": "2017-07-28T00:00:00.000Z",
+      "opponent": "Jamie Renouf",
+      "opponentSlug": "114891-jamie-renouf",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Australian FC 20",
+      "eventSlug": "46527-australian-fc-20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-15T00:00:00.000Z",
+      "opponent": "Kairin Moses",
+      "opponentSlug": "75302-kairin-moses",
+      "result": "loss",
+      "method": "other",
+      "event": "Australian FC 17",
+      "eventSlug": "41094-australian-fc-17",
+      "round": 2,
+      "timeInRound": "3:04"
+    },
+    {
+      "date": "2016-03-19T00:00:00.000Z",
+      "opponent": "Jason Petropoulos",
+      "opponentSlug": "84661-jason-petropoulos",
+      "result": "win",
+      "method": "other",
+      "event": "Australian FC 15",
+      "eventSlug": "37948-australian-fc-15",
+      "round": 1,
+      "timeInRound": "1:23"
+    }
+  ],
+  "allFights": [
+    {
+      "date": "2025-08-30T00:00:00.000Z",
+      "opponent": "Joo Hyun Park",
+      "opponentSlug": "383944-joo-hyun-park",
+      "result": "loss",
+      "method": "sub",
+      "event": "HEX Fight Series 36",
+      "eventSlug": "120779-hex-fight-series-36",
+      "round": 1,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2025-03-01T00:00:00.000Z",
+      "opponent": "Semakadde Kakembo",
+      "opponentSlug": "196400-sem-kakembo",
+      "result": "loss",
+      "method": "sub",
+      "event": "HEX Fight Series 34",
+      "eventSlug": "120777-hex-fight-series-34",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-18T00:00:00.000Z",
+      "opponent": "Uelson de Jesus",
+      "opponentSlug": "63809-uelson-de-jesus",
+      "result": "loss",
+      "method": "sub",
+      "event": "Hex Fight Series 28",
+      "eventSlug": "104226-hex-fight-series-28",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-18T00:00:00.000Z",
+      "opponent": "Luke Catubig",
+      "opponentSlug": "21658-luke-mark-catubig",
+      "result": "loss",
+      "method": "tko",
+      "event": "Hex Fight Series 24",
+      "eventSlug": "93819-hex-fight-series-24",
+      "round": 1,
+      "timeInRound": "0:43"
+    },
+    {
+      "date": "2022-08-05T00:00:00.000Z",
+      "opponent": "Jeffrey Mesa",
+      "opponentSlug": "71953-jeff-mesa",
+      "result": "win",
+      "method": "tko",
+      "event": "Hex Fight Series 23",
+      "eventSlug": "91477-hex-fight-series-23",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-18T00:00:00.000Z",
+      "opponent": "Justin Van Heerden",
+      "opponentSlug": "86412-justin-van-heerdan",
+      "result": "loss",
+      "method": "sub",
+      "event": "Hex Fight Series 22",
+      "eventSlug": "85375-hex-fight-series-22",
+      "round": 3,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2019-03-29T00:00:00.000Z",
+      "opponent": "Ethan Thomas",
+      "opponentSlug": "136411-ethan-thomas",
+      "result": "loss",
+      "method": "sub",
+      "event": "Hex Fight Series 18",
+      "eventSlug": "58679-hex-fight-series-18",
+      "round": 1,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2018-11-17T00:00:00.000Z",
+      "opponent": "Aaron Blackie",
+      "opponentSlug": "75736-aaron-blackie",
+      "result": "loss",
+      "method": "other",
+      "event": "Aftershock 31",
+      "eventSlug": "55182-aftershock-31",
+      "round": 1,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2018-09-08T00:00:00.000Z",
+      "opponent": "Robby Lara",
+      "opponentSlug": "111325-robby-lara",
+      "result": "win",
+      "method": "other",
+      "event": "Hex Fight Series 16",
+      "eventSlug": "55073-hex-fight-series",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2018-06-30T00:00:00.000Z",
+      "opponent": "Hussein Wasette",
+      "opponentSlug": "101851-haussain-wasette",
+      "result": "win",
+      "method": "sub",
+      "event": "Hex Fight Series 14",
+      "eventSlug": "53446-hex-fight-series-14",
+      "round": 2,
+      "timeInRound": "2:47"
+    },
+    {
+      "date": "2017-07-28T00:00:00.000Z",
+      "opponent": "Jamie Renouf",
+      "opponentSlug": "114891-jamie-renouf",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Australian FC 20",
+      "eventSlug": "46527-australian-fc-20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-15T00:00:00.000Z",
+      "opponent": "Kairin Moses",
+      "opponentSlug": "75302-kairin-moses",
+      "result": "loss",
+      "method": "other",
+      "event": "Australian FC 17",
+      "eventSlug": "41094-australian-fc-17",
+      "round": 2,
+      "timeInRound": "3:04"
+    },
+    {
+      "date": "2016-03-19T00:00:00.000Z",
+      "opponent": "Jason Petropoulos",
+      "opponentSlug": "84661-jason-petropoulos",
+      "result": "win",
+      "method": "other",
+      "event": "Australian FC 15",
+      "eventSlug": "37948-australian-fc-15",
+      "round": 1,
+      "timeInRound": "1:23"
+    }
+  ],
+  "lastVerified": "2026-05-03T10:16:50.636Z"
+}

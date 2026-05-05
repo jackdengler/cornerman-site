@@ -1,0 +1,154 @@
+{
+  "slug": "25452-eric-steppe",
+  "name": "Eric Steppe",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1975-03-30",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/25452-eric-steppe",
+  "recentFights": [
+    {
+      "date": "2013-04-12T00:00:00.000Z",
+      "opponent": "Eric Albright",
+      "opponentSlug": "27765-eric-albright",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "CFFC 23: Aung La N Sang vs Kyle Baker",
+      "eventSlug": "17929-cffc-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-11-09T00:00:00.000Z",
+      "opponent": "Paul Sweda",
+      "opponentSlug": "22297-paul-sweda",
+      "result": "loss",
+      "method": "sub",
+      "event": "Beatdown in Billtown",
+      "eventSlug": "15343-raging-warrior-promotions-beatdown-in-billtown",
+      "round": 1,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2012-04-28T00:00:00.000Z",
+      "opponent": "Adam Renn",
+      "opponentSlug": "17989-adam-renn",
+      "result": "win",
+      "method": "sub",
+      "event": "Mayhem on the Mountain",
+      "eventSlug": "13387-mayhem-on-the-mountain",
+      "round": 2,
+      "timeInRound": "3:53"
+    },
+    {
+      "date": "2010-11-12T00:00:00.000Z",
+      "opponent": "Eric Albright",
+      "opponentSlug": "27765-eric-albright",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Warrior Challenge 9",
+      "eventSlug": "10151-warrior-challenge-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-09-23T00:00:00.000Z",
+      "opponent": "Aljamain Sterling",
+      "opponentSlug": "aljamain-sterling",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-08-07T00:00:00.000Z",
+      "opponent": "Adam Dull",
+      "opponentSlug": "107661-adam-dull",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-06-24T00:00:00.000Z",
+      "opponent": "Joseph Martin",
+      "opponentSlug": "319777-joseph-martin",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-05-22T00:00:00.000Z",
+      "opponent": "Aljamain Sterling",
+      "opponentSlug": "aljamain-sterling",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-02-19T00:00:00.000Z",
+      "opponent": "Adam Dull",
+      "opponentSlug": "107661-adam-dull",
+      "result": "loss",
+      "method": "sub",
+      "event": "Warrior Challenge 4",
+      "eventSlug": "10155-central-pennsylvania-warrior-challenge-4",
+      "round": 1,
+      "timeInRound": "0:33"
+    },
+    {
+      "date": "2009-05-30T00:00:00.000Z",
+      "opponent": "Nate Hasara",
+      "opponentSlug": "146906-nate-hasara",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-03-14T00:00:00.000Z",
+      "opponent": "Randy Dunn",
+      "opponentSlug": "146041-randy-dunn",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "AFL 12",
+      "eventSlug": "30026-afl-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-10-18T00:00:00.000Z",
+      "opponent": "Jeremy Pullen",
+      "opponentSlug": "147692-jeremy-pullen",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "New Breed Fighters 18",
+      "eventSlug": "29439-new-breed-fighters-18",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:32:02.494Z"
+}

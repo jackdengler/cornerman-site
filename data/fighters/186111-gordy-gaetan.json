@@ -1,0 +1,88 @@
+{
+  "slug": "186111-gordy-gaetan",
+  "name": "Gordy Gaetan",
+  "nickname": "Ten Percent",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Haiti",
+  "url": "https://www.tapology.com/fightcenter/fighters/186111-gordy-gaetan",
+  "recentFights": [
+    {
+      "date": "2019-04-28T00:00:00.000Z",
+      "opponent": "Emmanueli Adzoh",
+      "opponentSlug": "165434-emmanueli-adzoh",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "CCW 12",
+      "eventSlug": "59164-ccw-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-01-20T00:00:00.000Z",
+      "opponent": "Marcus Walston",
+      "opponentSlug": "96273-marcus-walston",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "CCW 10",
+      "eventSlug": "58471-ccw-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-04T00:00:00.000Z",
+      "opponent": "Alex Villa",
+      "opponentSlug": "202272-alex-villa",
+      "result": "win",
+      "method": "sub",
+      "event": "CCW 9",
+      "eventSlug": "56669-ccw-9",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-08T00:00:00.000Z",
+      "opponent": "Eric McConico",
+      "opponentSlug": "112634-eric-mcconico",
+      "result": "loss",
+      "method": "other",
+      "event": "KOTC: Demolition 2",
+      "eventSlug": "53822-kotc",
+      "round": 2,
+      "timeInRound": "0:16"
+    },
+    {
+      "date": "2018-07-29T00:00:00.000Z",
+      "opponent": "C.J. Baines",
+      "opponentSlug": "82411-cj-bains",
+      "result": "win",
+      "method": "other",
+      "event": "CCW 7: Super Show",
+      "eventSlug": "54594-california-cage-wars-super-show",
+      "round": 1,
+      "timeInRound": "0:55"
+    },
+    {
+      "date": "2018-04-22T00:00:00.000Z",
+      "opponent": "Jimmy Scully",
+      "opponentSlug": "62319-jimmy-scully",
+      "result": "nc",
+      "method": "other",
+      "event": "CCW 5",
+      "eventSlug": "52849-ccw-5",
+      "round": 2,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:52:28.061Z"
+}

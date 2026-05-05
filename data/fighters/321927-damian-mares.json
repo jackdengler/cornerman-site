@@ -1,0 +1,48 @@
+{
+  "slug": "321927-damian-mares",
+  "name": "Damian Mares",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "2003-09-04",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/321927-damian-mares",
+  "recentFights": [
+    {
+      "date": "2022-03-12T00:00:00.000Z",
+      "opponent": "Canon Swanson",
+      "opponentSlug": "329282-canon-swanson",
+      "result": "loss",
+      "method": "sub",
+      "event": "Evolution 1",
+      "eventSlug": "85333-evolution-1",
+      "round": 1,
+      "timeInRound": "1:11"
+    },
+    {
+      "date": "2022-01-15T00:00:00.000Z",
+      "opponent": "Dominic St. George",
+      "opponentSlug": "321928-dominic-st-george",
+      "result": "loss",
+      "method": "other",
+      "event": "A-Town Throwdown 17",
+      "eventSlug": "82739-a-town-throwdown-xvii",
+      "round": 2,
+      "timeInRound": "2:27"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:41:09.949Z"
+}

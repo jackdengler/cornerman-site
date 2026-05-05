@@ -1,0 +1,99 @@
+{
+  "slug": "217780-oksana-pavlovskaya",
+  "name": "Oksana Pavlovskaya",
+  "nickname": "Pearl",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "2001-04-12",
+  "nationality": "Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/217780-oksana-pavlovskaya",
+  "recentFights": [
+    {
+      "date": "2023-10-15T00:00:00.000Z",
+      "opponent": "Alexandra Kostromtseva",
+      "opponentSlug": "428347-alexandra-kostromtseva",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Vladimir Khramtsov Memorial 2023",
+      "eventSlug": "110670-russian-armed-forces-cup-16-vladislav-khramtsov-memorial-tournament",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-23T00:00:00.000Z",
+      "opponent": "Lyubov Salnikova",
+      "opponentSlug": "318535-lyubov-salnikova",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "RCC: Intro 23",
+      "eventSlug": "92944-rcc-intro-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-23T00:00:00.000Z",
+      "opponent": "Varvara Zelenina",
+      "opponentSlug": "294393-varvara-zelenina",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "RBM: Russian Cross",
+      "eventSlug": "78788-rbm-russian-cross",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-11T00:00:00.000Z",
+      "opponent": "Samira Badrtdinova",
+      "opponentSlug": "137501-samira-badrtdinova",
+      "result": "win",
+      "method": "tko",
+      "event": "Fighting Network League 1",
+      "eventSlug": "78865-fighting-network-league-1",
+      "round": 2,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2020-01-26T00:00:00.000Z",
+      "opponent": "Angelina Shchekochikhina",
+      "opponentSlug": "254576-angelina-shchekochikhina",
+      "result": "loss",
+      "method": "other",
+      "event": "Way Of The Warrior 9",
+      "eventSlug": "66140-path-warrior-ix",
+      "round": 1,
+      "timeInRound": "1:40"
+    },
+    {
+      "date": "2019-07-06T00:00:00.000Z",
+      "opponent": "Darya Zheleznyakova",
+      "opponentSlug": "229363-dariya-zheleznyakova",
+      "result": "loss",
+      "method": "other",
+      "event": "GIT Sech Pro",
+      "eventSlug": "61355-git-sech-pro-time-of-new-heroes-2",
+      "round": 2,
+      "timeInRound": "0:12"
+    },
+    {
+      "date": "2019-04-13T00:00:00.000Z",
+      "opponent": "Bakyt Ayperi",
+      "opponentSlug": "217781-bakyt-ayperi",
+      "result": "win",
+      "method": "tko",
+      "event": "RBM 2: Power of Siberia",
+      "eventSlug": "56302-rbm-2-power-of-siberia",
+      "round": 1,
+      "timeInRound": "0:25"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:00:58.276Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "70322-michal-janecek",
+  "name": "Michal Janeček",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/70322-michal-janecek",
+  "recentFights": [
+    {
+      "date": "2014-04-05T00:00:00.000Z",
+      "opponent": "Jan Malach",
+      "opponentSlug": "64719-jan-malach",
+      "result": "win",
+      "method": "other",
+      "event": null,
+      "eventSlug": null,
+      "round": 2,
+      "timeInRound": "4:02"
+    },
+    {
+      "date": "2013-11-15T00:00:00.000Z",
+      "opponent": "Josef Kotyza",
+      "opponentSlug": "58549-josef-kotyza",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:08:20.926Z"
+}

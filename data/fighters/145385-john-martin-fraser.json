@@ -1,0 +1,242 @@
+{
+  "slug": "145385-john-martin-fraser",
+  "name": "John Martin Fraser",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 182,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1992-07-04",
+  "nationality": "Wales",
+  "url": "https://www.tapology.com/fightcenter/fighters/145385-john-martin-fraser",
+  "recentFights": [
+    {
+      "date": "2026-05-01T00:00:00.000Z",
+      "opponent": "Aldin Bates",
+      "opponentSlug": "63764-aldin-bates",
+      "result": null,
+      "method": "other",
+      "event": "Eternal MMA 105",
+      "eventSlug": "140911-eternal-mma-105",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-22T00:00:00.000Z",
+      "opponent": "Imamshafi Aliev",
+      "opponentSlug": "184203-imam-shapi-aliev",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UAE Warriors 64",
+      "eventSlug": "133266-uae-warriors-64",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-10T00:00:00.000Z",
+      "opponent": "Abdul Elwahab Saeed",
+      "opponentSlug": "109115-abdulwahab-sayid",
+      "result": "win",
+      "method": "other",
+      "event": "UAE Warriors 63",
+      "eventSlug": "132220-uae-warriors-63",
+      "round": 1,
+      "timeInRound": "2:31"
+    },
+    {
+      "date": "2025-05-03T00:00:00.000Z",
+      "opponent": "Sebastian Temesi",
+      "opponentSlug": "141896-sebastian-temesi",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 95",
+      "eventSlug": "125812-eternal-mma-95",
+      "round": 2,
+      "timeInRound": "4:31"
+    },
+    {
+      "date": "2024-11-30T00:00:00.000Z",
+      "opponent": "Darcy Vendy",
+      "opponentSlug": "48380-darcy-vendy",
+      "result": "loss",
+      "method": "tko",
+      "event": "Eternal MMA 91",
+      "eventSlug": "118583-eternal-mma-91",
+      "round": 3,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2024-09-14T00:00:00.000Z",
+      "opponent": "Alfred Stoddart",
+      "opponentSlug": "240998-alfred-stoddart",
+      "result": "win",
+      "method": "tko",
+      "event": "Eternal MMA 88",
+      "eventSlug": "115708-eternal-mma-88",
+      "round": 1,
+      "timeInRound": "3:21"
+    },
+    {
+      "date": "2024-03-16T00:00:00.000Z",
+      "opponent": "Ben Johnston",
+      "opponentSlug": "345042-ben-johnston",
+      "result": "loss",
+      "method": "sub",
+      "event": "Eternal MMA 83",
+      "eventSlug": "108185-eternal-mma-83",
+      "round": 2,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2023-11-04T00:00:00.000Z",
+      "opponent": "Brogan Anderson",
+      "opponentSlug": "64631-brogan-anderson",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 81",
+      "eventSlug": "102044-eternal-mma-81",
+      "round": 1,
+      "timeInRound": "1:53"
+    },
+    {
+      "date": "2022-12-02T00:00:00.000Z",
+      "opponent": "Mat Myers",
+      "opponentSlug": "179603-mat-myers",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 72",
+      "eventSlug": "93816-eternal-mma-72",
+      "round": 1,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2022-09-16T00:00:00.000Z",
+      "opponent": "Mat Myers",
+      "opponentSlug": "179603-mat-myers",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 69",
+      "eventSlug": "91665-eternal-mma-69",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-20T00:00:00.000Z",
+      "opponent": "Kitt Campbell",
+      "opponentSlug": "59598-kitt-campbell",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 58",
+      "eventSlug": "74899-eternal-mma-58",
+      "round": 4,
+      "timeInRound": "3:51"
+    },
+    {
+      "date": "2020-03-07T00:00:00.000Z",
+      "opponent": "Khan Deatta",
+      "opponentSlug": "243257-khan-deatta",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 52",
+      "eventSlug": "64806-eternal-mma-52",
+      "round": 1,
+      "timeInRound": "0:25"
+    },
+    {
+      "date": "2019-07-27T00:00:00.000Z",
+      "opponent": "Daniel Almeida",
+      "opponentSlug": "15450-daniel-almeida-jacare",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 46",
+      "eventSlug": "60268-eternal-mma-46",
+      "round": 2,
+      "timeInRound": "2:51"
+    },
+    {
+      "date": "2019-03-29T00:00:00.000Z",
+      "opponent": "Nathan Reddy",
+      "opponentSlug": "85585-nathan-reddy",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Hex Fight Series 18",
+      "eventSlug": "58679-hex-fight-series-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-08T00:00:00.000Z",
+      "opponent": "Carlos Ulberg",
+      "opponentSlug": "203365-carlos-ulberg-mr-marvelous",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 40",
+      "eventSlug": "56405-eternal-mma-40",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-02-24T00:00:00.000Z",
+      "opponent": "Keohu Smith",
+      "opponentSlug": "78196-keohu-smith",
+      "result": "win",
+      "method": "other",
+      "event": "Coastal Combat 3",
+      "eventSlug": "50709-coastal-combat-3",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-19T00:00:00.000Z",
+      "opponent": "Justin Danielson",
+      "opponentSlug": "161220-justin-danielson-the-prodigal-son",
+      "result": "win",
+      "method": "tko",
+      "event": "XFC 31",
+      "eventSlug": "46513-xfc-31",
+      "round": 3,
+      "timeInRound": "4:32"
+    },
+    {
+      "date": "2017-05-20T00:00:00.000Z",
+      "opponent": "Marc Lelievre",
+      "opponentSlug": "136067-marc-lelievre",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "XFC 30: Conflict of Interest",
+      "eventSlug": "44908-xfc-30-conflict-of-interest",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-02-18T00:00:00.000Z",
+      "opponent": "Mathew Moore",
+      "opponentSlug": "55040-matthew-moore",
+      "result": "win",
+      "method": "other",
+      "event": "XFC 29",
+      "eventSlug": "42980-xfc-29",
+      "round": 1,
+      "timeInRound": "0:51"
+    },
+    {
+      "date": "2016-12-03T00:00:00.000Z",
+      "opponent": "Paul Dryburgh",
+      "opponentSlug": "145384-paul-dryburgh",
+      "result": "win",
+      "method": "tko",
+      "event": "Adrenalin Fight Night",
+      "eventSlug": "42757-adrenalin-fight-night-force",
+      "round": 1,
+      "timeInRound": "1:23"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:57:42.695Z"
+}

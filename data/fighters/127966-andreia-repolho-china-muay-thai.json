@@ -1,0 +1,143 @@
+{
+  "slug": "127966-andreia-repolho-china-muay-thai",
+  "name": "Andreina Reis",
+  "nickname": "China Muay Thai",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 163,
+  "reachCm": null,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": "1996-01-06",
+  "nationality": "Vitoria do Jari, Amapa, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/127966-andreia-repolho-china-muay-thai",
+  "recentFights": [
+    {
+      "date": "2023-06-22T00:00:00.000Z",
+      "opponent": "Eidy Macías",
+      "opponentSlug": "280745-eidy-macias",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Inka FC 36: Macias vs. Reis",
+      "eventSlug": "102275-inka-fc-36-macias-vs-reis",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-07T00:00:00.000Z",
+      "opponent": "Geísa Veloso",
+      "opponentSlug": "125518-geisa-veloso",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "USC 5",
+      "eventSlug": "91157-usc-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-07T00:00:00.000Z",
+      "opponent": "Josy Fabriely",
+      "opponentSlug": "244969-josy-maldita",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Arena Global 18",
+      "eventSlug": "87719-arena-global-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-06T00:00:00.000Z",
+      "opponent": "Fernanda Caetano",
+      "opponentSlug": "120792-fernanda-caetano",
+      "result": "loss",
+      "method": "tko",
+      "event": "Samurai Fight House 2",
+      "eventSlug": "82356-samurai-fight-house-2",
+      "round": 3,
+      "timeInRound": "4:05"
+    },
+    {
+      "date": "2021-07-24T00:00:00.000Z",
+      "opponent": "Darya Zheleznyakova",
+      "opponentSlug": "229363-dariya-zheleznyakova",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Open Fighting Championship 7",
+      "eventSlug": "81160-open-fighting-championship-7-velikoross-cup",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-07T00:00:00.000Z",
+      "opponent": "Elaine Lopes",
+      "opponentSlug": "242365-elaine-cristina-lopez-pinheiro",
+      "result": "loss",
+      "method": "tko",
+      "event": "Valent's Night 3",
+      "eventSlug": "71513-valent-s-night-3",
+      "round": 1,
+      "timeInRound": "4:42"
+    },
+    {
+      "date": "2019-11-30T00:00:00.000Z",
+      "opponent": "Patricia Borges",
+      "opponentSlug": "140301-patricia-borges-fernandes",
+      "result": "loss",
+      "method": "sub",
+      "event": "SFT 18",
+      "eventSlug": "64040-sft-18",
+      "round": 1,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2019-11-09T00:00:00.000Z",
+      "opponent": "Almerinda Keila",
+      "opponentSlug": "253987-almerinda-keila-meme",
+      "result": "win",
+      "method": "other",
+      "event": "Pantanal FC 23",
+      "eventSlug": "67079-pantanal-fc-23",
+      "round": 2,
+      "timeInRound": "2:47"
+    },
+    {
+      "date": "2019-08-10T00:00:00.000Z",
+      "opponent": "Janaina Barbosa",
+      "opponentSlug": "214957-janaina-barbosa-jani-absoluta",
+      "result": "win",
+      "method": "other",
+      "event": "Pantanal FC 22",
+      "eventSlug": "63457-pantanal-fc-22",
+      "round": 3,
+      "timeInRound": "3:36"
+    },
+    {
+      "date": "2019-03-09T00:00:00.000Z",
+      "opponent": "Eduarda Caloi",
+      "opponentSlug": "199387-eduarda-antonielly-menezes-caloi-duda",
+      "result": "win",
+      "method": "tko",
+      "event": "LIF 8",
+      "eventSlug": "58918-lif-8",
+      "round": 2,
+      "timeInRound": "4:20"
+    },
+    {
+      "date": "2016-03-12T00:00:00.000Z",
+      "opponent": "Carolyne Melônio",
+      "opponentSlug": "123601-carolyne-serra-bad-girl",
+      "result": "win",
+      "method": "sub",
+      "event": "Hombres de Honor 69",
+      "eventSlug": "38719-hombres-de-honor-69-revelation-fc",
+      "round": 2,
+      "timeInRound": "3:10"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:00:48.986Z"
+}

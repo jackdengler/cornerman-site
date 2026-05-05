@@ -1,0 +1,70 @@
+{
+  "slug": "90327-brandon-karcher",
+  "name": "Brandon Karcher",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/90327-brandon-karcher",
+  "recentFights": [
+    {
+      "date": "2016-11-18T00:00:00.000Z",
+      "opponent": "Kevin Roper",
+      "opponentSlug": "125043-kevin-roper",
+      "result": "loss",
+      "method": "other",
+      "event": "Gateway Fighting Series 5",
+      "eventSlug": "41220-gateway-fighting-series-5-warpath",
+      "round": 1,
+      "timeInRound": "0:17"
+    },
+    {
+      "date": "2015-11-07T00:00:00.000Z",
+      "opponent": "Chris Petty",
+      "opponentSlug": "119102-chris-petty",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Championships 53",
+      "eventSlug": "36403-cage-championships-53",
+      "round": 1,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2015-06-13T00:00:00.000Z",
+      "opponent": "Carl Jefferson",
+      "opponentSlug": "51114-carl-jefferson-prez",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Hard MMA",
+      "eventSlug": "36705-fight-hard-mma",
+      "round": 1,
+      "timeInRound": "0:29"
+    },
+    {
+      "date": "2014-02-22T00:00:00.000Z",
+      "opponent": "Joaquin Buckley",
+      "opponentSlug": "55022-joaquin-buckley",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:00:28.705Z"
+}

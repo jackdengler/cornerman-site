@@ -1,0 +1,198 @@
+{
+  "slug": "319864-maurice-morris",
+  "name": "Maurice Morris",
+  "nickname": "Mayhem",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 188,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1991-06-15",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/319864-maurice-morris",
+  "recentFights": [
+    {
+      "date": "2024-07-27T00:00:00.000Z",
+      "opponent": "AJ Chambers",
+      "opponentSlug": "144946-aaron-chambers",
+      "result": "loss",
+      "method": "tko",
+      "event": "Fight For It 21",
+      "eventSlug": "114113-fight-for-it-21",
+      "round": 1,
+      "timeInRound": "2:37"
+    },
+    {
+      "date": "2024-02-23T00:00:00.000Z",
+      "opponent": "Liam Anderson",
+      "opponentSlug": "55947-liam-anderson",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 177: Smyth vs. Magomedov",
+      "eventSlug": "109369-legacy-fighting-alliance-177-lfa-177-lfa-177",
+      "round": 1,
+      "timeInRound": "1:24"
+    },
+    {
+      "date": "2024-01-12T00:00:00.000Z",
+      "opponent": "Wes Schultz",
+      "opponentSlug": "222807-wesley-schultz",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 174: Jones vs. Gennrich",
+      "eventSlug": "108251-lfa-174-jones-vs-gennrich",
+      "round": 1,
+      "timeInRound": "1:52"
+    },
+    {
+      "date": "2023-11-04T00:00:00.000Z",
+      "opponent": "Gregory Smith",
+      "opponentSlug": "67282-gregory-smith",
+      "result": "win",
+      "method": "other",
+      "event": "Fight For It 17",
+      "eventSlug": "106133-fight-for-it-17",
+      "round": 2,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2023-10-28T00:00:00.000Z",
+      "opponent": "Zion Tomlinson Sr.",
+      "opponentSlug": "163110-zion-tomlinson",
+      "result": "win",
+      "method": "sub",
+      "event": "Next Level Fight Club 16",
+      "eventSlug": "104521-next-level-fight-club-16",
+      "round": 1,
+      "timeInRound": "4:11"
+    },
+    {
+      "date": "2023-08-26T00:00:00.000Z",
+      "opponent": "David Gladfelter",
+      "opponentSlug": "102063-david-gladfelter",
+      "result": "win",
+      "method": "other",
+      "event": "Next Level Fight Club 15",
+      "eventSlug": "101169-next-level-fight-club-15",
+      "round": 3,
+      "timeInRound": "3:17"
+    },
+    {
+      "date": "2023-06-24T00:00:00.000Z",
+      "opponent": "Phillip Latu",
+      "opponentSlug": "303053-phillip-latu",
+      "result": "loss",
+      "method": "tko",
+      "event": "ECF 1: Showdown in the Falls",
+      "eventSlug": "100198-ecf-1",
+      "round": 1,
+      "timeInRound": "2:41"
+    },
+    {
+      "date": "2023-04-15T00:00:00.000Z",
+      "opponent": "Chase Gamble",
+      "opponentSlug": "29307-kenneth-gamble",
+      "result": "win",
+      "method": "other",
+      "event": "Next Level Fight Club 14",
+      "eventSlug": "99638-next-level-fight-club-14",
+      "round": 1,
+      "timeInRound": "3:28"
+    },
+    {
+      "date": "2022-12-10T00:00:00.000Z",
+      "opponent": "Ralston Thomas",
+      "opponentSlug": "243427-ralston-thomas",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Global Legion FC 24",
+      "eventSlug": "95767-global-legion-fc-24",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-10-29T00:00:00.000Z",
+      "opponent": "James Neville",
+      "opponentSlug": "31989-james-neville",
+      "result": "win",
+      "method": "tko",
+      "event": "Global Legion FC 23",
+      "eventSlug": "94215-global-legion-fc-23",
+      "round": 1,
+      "timeInRound": "3:35"
+    },
+    {
+      "date": "2022-09-10T00:00:00.000Z",
+      "opponent": "Cub Hawkins",
+      "opponentSlug": "158133-nick-hawkins",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Global Legion FC 22",
+      "eventSlug": "92813-global-legion-fc-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-13T00:00:00.000Z",
+      "opponent": "Cody Beck",
+      "opponentSlug": "142506-cody-beck",
+      "result": "win",
+      "method": "other",
+      "event": "Street Brawls 2",
+      "eventSlug": "92167-street-brawls-2",
+      "round": 1,
+      "timeInRound": "0:15"
+    },
+    {
+      "date": "2022-07-09T00:00:00.000Z",
+      "opponent": "Trevor Tomoson",
+      "opponentSlug": "315194-trevor-tomoson",
+      "result": "win",
+      "method": "other",
+      "event": "B2 Fighting Series 169",
+      "eventSlug": "88670-b2-fighting-series-168-south-dakota",
+      "round": 2,
+      "timeInRound": "0:46"
+    },
+    {
+      "date": "2022-03-19T00:00:00.000Z",
+      "opponent": "Eric Goldman",
+      "opponentSlug": "110760-eric-goldman",
+      "result": "win",
+      "method": "sub",
+      "event": "Upstate Fight Night 1",
+      "eventSlug": "87844-upstate-fight-night",
+      "round": 2,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2022-02-18T00:00:00.000Z",
+      "opponent": "Roland Mizell",
+      "opponentSlug": "252790-roland-mizell",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Next Level Fight Club 13",
+      "eventSlug": "86454-next-level-fight-club-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-10T00:00:00.000Z",
+      "opponent": "Jimmy Hinel",
+      "opponentSlug": "380072-jimmy-hinel",
+      "result": "loss",
+      "method": "sub",
+      "event": "Next Level Fight Club 12",
+      "eventSlug": "81931-next-level-fight-club-12",
+      "round": 1,
+      "timeInRound": "2:43"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:40:36.436Z"
+}

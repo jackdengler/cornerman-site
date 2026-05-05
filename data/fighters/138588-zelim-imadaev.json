@@ -1,0 +1,143 @@
+{
+  "slug": "138588-zelim-imadaev",
+  "name": "Zelim Imadaev",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 193,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1995-01-25",
+  "nationality": "Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/138588-zelim-imadaev",
+  "recentFights": [
+    {
+      "date": "2020-09-05T00:00:00.000Z",
+      "opponent": "Michel Pereira",
+      "opponentSlug": "55575-michel-pereira",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "70907-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "4:39"
+    },
+    {
+      "date": "2019-11-09T00:00:00.000Z",
+      "opponent": "Danny Roberts",
+      "opponentSlug": "15517-danny-roberts",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC on ESPN+ 21",
+      "eventSlug": "61626-ufc-on-espn-21",
+      "round": 2,
+      "timeInRound": "4:54"
+    },
+    {
+      "date": "2019-04-13T00:00:00.000Z",
+      "opponent": "Max Griffin",
+      "opponentSlug": "25437-max-griffin",
+      "result": "loss",
+      "method": "dec-majority",
+      "event": "UFC 236: Holloway vs. Poirier 2",
+      "eventSlug": "57504-ufc-236",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-30T00:00:00.000Z",
+      "opponent": "Ivan Gluhak",
+      "opponentSlug": "21636-ivan-gluhak-braveheart",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Nights Global 85",
+      "eventSlug": "50304-fight-nights-global-85",
+      "round": 1,
+      "timeInRound": "0:13"
+    },
+    {
+      "date": "2017-09-29T00:00:00.000Z",
+      "opponent": "Yuri Izotov",
+      "opponentSlug": "15295-yuri-izotov",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Nights Global 74",
+      "eventSlug": "48077-fight-nights-global-74",
+      "round": 1,
+      "timeInRound": "3:17"
+    },
+    {
+      "date": "2017-05-21T00:00:00.000Z",
+      "opponent": "Kenan Guliev",
+      "opponentSlug": "157986-kenan-guliev",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Nights Global 66",
+      "eventSlug": "45284-fight-nights-global-66",
+      "round": 1,
+      "timeInRound": "1:33"
+    },
+    {
+      "date": "2017-03-04T00:00:00.000Z",
+      "opponent": "Chorshanbe Chorshanbiev",
+      "opponentSlug": "153440-chorshanbe-chorshanbiev",
+      "result": "win",
+      "method": "other",
+      "event": "Octagon Fighting Sensation 11",
+      "eventSlug": "44572-octagon-fighting-sensation-11",
+      "round": 3,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2016-12-10T00:00:00.000Z",
+      "opponent": "Dmitriy Tuzov",
+      "opponentSlug": "147144-dmitriy-tuzov",
+      "result": "win",
+      "method": "other",
+      "event": "Octagon Fighting Sensation 10",
+      "eventSlug": "43155-octagon-fighting-sensation-10",
+      "round": 2,
+      "timeInRound": "0:11"
+    },
+    {
+      "date": "2016-10-06T00:00:00.000Z",
+      "opponent": "Kamardin Akhmadbekov",
+      "opponentSlug": "87437-kamardin-akhmadbekov",
+      "result": "win",
+      "method": "other",
+      "event": "Octagon Fighting Sensation 9",
+      "eventSlug": "42114-octagon-fighting-sensation-9-battle-in-abkhazia",
+      "round": 1,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2016-08-12T00:00:00.000Z",
+      "opponent": "Alexander Kovalenko",
+      "opponentSlug": "135837-aleksandr-kovalenko",
+      "result": "win",
+      "method": "other",
+      "event": "The Hammer of Thor 3",
+      "eventSlug": "41105-the-hammer-of-thor-3",
+      "round": 2,
+      "timeInRound": "3:58"
+    },
+    {
+      "date": "2016-04-02T00:00:00.000Z",
+      "opponent": "Stanislav Pavlenko",
+      "opponentSlug": "115500-stanislav-pavlenko",
+      "result": "win",
+      "method": "other",
+      "event": "Dagestan Cage Fighting Championship 2016",
+      "eventSlug": "42083-gage-fighting-dagestan",
+      "round": 1,
+      "timeInRound": "0:25"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:56:55.432Z"
+}

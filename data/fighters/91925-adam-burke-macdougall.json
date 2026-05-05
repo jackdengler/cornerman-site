@@ -1,0 +1,154 @@
+{
+  "slug": "91925-adam-burke-macdougall",
+  "name": "Adam Burke MacDougall",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1987-01-01",
+  "nationality": "Antigonish, Nova Scotia, Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/91925-adam-burke-macdougall",
+  "recentFights": [
+    {
+      "date": "2020-02-08T00:00:00.000Z",
+      "opponent": "Jesse Arnett",
+      "opponentSlug": "20362-jesse-arnett",
+      "result": "loss",
+      "method": "sub",
+      "event": "FLA 1",
+      "eventSlug": "61643-fla-1",
+      "round": 3,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2019-06-15T00:00:00.000Z",
+      "opponent": "Manny Alfaro",
+      "opponentSlug": "17057-manny-alfaro",
+      "result": "nc",
+      "method": "other",
+      "event": "PFC 10",
+      "eventSlug": "59721-pfc-10",
+      "round": 2,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2018-12-01T00:00:00.000Z",
+      "opponent": "Eric Wilson",
+      "opponentSlug": "14388-eric-wilson",
+      "result": "win",
+      "method": "tko",
+      "event": "Modern FC 2",
+      "eventSlug": "55577-modern-fc-2",
+      "round": 1,
+      "timeInRound": "0:27"
+    },
+    {
+      "date": "2018-04-07T00:00:00.000Z",
+      "opponent": "Kevin Walker",
+      "opponentSlug": "22277-kevin-walker",
+      "result": "win",
+      "method": "sub",
+      "event": "Elite 1 MMA",
+      "eventSlug": "48699-elite-1-mma",
+      "round": 1,
+      "timeInRound": "4:05"
+    },
+    {
+      "date": "2017-11-04T00:00:00.000Z",
+      "opponent": "Morgan Rhynes",
+      "opponentSlug": "20642-morgan-rhynes",
+      "result": "win",
+      "method": "other",
+      "event": "Elite 1 MMA",
+      "eventSlug": "47677-elite-1-mma-cage-warriors",
+      "round": 1,
+      "timeInRound": "2:05"
+    },
+    {
+      "date": "2017-06-10T00:00:00.000Z",
+      "opponent": "Florian Cornette",
+      "opponentSlug": "87283-florian-cornette",
+      "result": "win",
+      "method": "sub",
+      "event": "Elite 1 MMA",
+      "eventSlug": "46234-elite-1-mma",
+      "round": 1,
+      "timeInRound": "0:28"
+    },
+    {
+      "date": "2017-05-06T00:00:00.000Z",
+      "opponent": "Jamie Siraj",
+      "opponentSlug": "35361-jamie-siraj-the-gremlin",
+      "result": "loss",
+      "method": "sub",
+      "event": "Elite 1 MMA",
+      "eventSlug": "45044-elite-1-mma-collision-course",
+      "round": 3,
+      "timeInRound": "3:19"
+    },
+    {
+      "date": "2017-01-14T00:00:00.000Z",
+      "opponent": "Justin Saikley",
+      "opponentSlug": "63488-justin-saikley",
+      "result": "win",
+      "method": "other",
+      "event": "Elite 1 MMA",
+      "eventSlug": "43037-elite-1-mma",
+      "round": 1,
+      "timeInRound": "4:33"
+    },
+    {
+      "date": "2016-01-30T00:00:00.000Z",
+      "opponent": "Jeremy DiChiara",
+      "opponentSlug": "77920-jeremy-dichiara",
+      "result": "loss",
+      "method": "sub",
+      "event": "Elite 1 MMA",
+      "eventSlug": "37182-elite-1-mma-unleashed",
+      "round": 2,
+      "timeInRound": "3:39"
+    },
+    {
+      "date": "2015-10-03T00:00:00.000Z",
+      "opponent": "Matthew Janes",
+      "opponentSlug": "106547-matthiew-janes",
+      "result": "win",
+      "method": "other",
+      "event": "Elite 1 MMA",
+      "eventSlug": "34043-elite-1-mma-fall-brawl",
+      "round": 2,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2015-05-30T00:00:00.000Z",
+      "opponent": "Josh Blanchard",
+      "opponentSlug": "98390-josh-blanchard",
+      "result": "win",
+      "method": "other",
+      "event": "Elite 1 MMA",
+      "eventSlug": "31882-elite-1-mma-annihilation",
+      "round": 2,
+      "timeInRound": "0:16"
+    },
+    {
+      "date": "2015-03-21T00:00:00.000Z",
+      "opponent": "Cody Glode",
+      "opponentSlug": "74867-cody-glode",
+      "result": "win",
+      "method": "sub",
+      "event": "Elite 1 MMA",
+      "eventSlug": "29765-elite-1-mma-the-awakening",
+      "round": 1,
+      "timeInRound": "0:54"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:04:47.281Z"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "24770-bruce-chaplin",
+  "name": "Bruce Chaplin",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/24770-bruce-chaplin",
+  "recentFights": [
+    {
+      "date": "2011-09-16T00:00:00.000Z",
+      "opponent": "Julien Leblanc",
+      "opponentSlug": "24714-julien-leblanc",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Hybrid 10",
+      "eventSlug": "13215-hybrid-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-06-18T00:00:00.000Z",
+      "opponent": "Nick Reynolds",
+      "opponentSlug": "24773-nick-reynolds",
+      "result": "loss",
+      "method": "other",
+      "event": "Hybrid 9",
+      "eventSlug": "13221-hybrid-9",
+      "round": 3,
+      "timeInRound": "1:35"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:58:23.172Z"
+}

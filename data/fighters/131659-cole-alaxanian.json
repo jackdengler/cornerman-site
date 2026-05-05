@@ -1,0 +1,231 @@
+{
+  "slug": "131659-cole-alaxanian",
+  "name": "Cole Alaxanian",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1992-01-01",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/131659-cole-alaxanian",
+  "recentFights": [
+    {
+      "date": "2026-02-20T00:00:00.000Z",
+      "opponent": "Damion Nelson",
+      "opponentSlug": "208044-damion-nelson",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Combat FC 12",
+      "eventSlug": "138244-combat-fc-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-21T00:00:00.000Z",
+      "opponent": "Taner Trembley",
+      "opponentSlug": "336743-taner-trembley",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 223: Francischinelli vs. Piersma",
+      "eventSlug": "133540-lfa-223",
+      "round": 3,
+      "timeInRound": "3:57"
+    },
+    {
+      "date": "2025-05-17T00:00:00.000Z",
+      "opponent": "Isaiah Monroe",
+      "opponentSlug": "54965-isaiah-monroe",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Wars 70",
+      "eventSlug": "125988-cage-wars-70",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-01-04T00:00:00.000Z",
+      "opponent": "Mike Kimbel",
+      "opponentSlug": "115415-michael-kimball",
+      "result": "win",
+      "method": "other",
+      "event": "Reality Fighting",
+      "eventSlug": "120514-reality-fighting",
+      "round": 2,
+      "timeInRound": "1:46"
+    },
+    {
+      "date": "2024-09-20T00:00:00.000Z",
+      "opponent": "John O'Dea",
+      "opponentSlug": "245340-john-o-dea",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ring of Combat 85",
+      "eventSlug": "115706-ring-of-combat-85",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-20T00:00:00.000Z",
+      "opponent": "Mike Antidormi",
+      "opponentSlug": "316437-mike-antidormi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Reality Fighting",
+      "eventSlug": "109650-reality-fighting",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-02T00:00:00.000Z",
+      "opponent": "William Tucker",
+      "opponentSlug": "179079-william-tucker",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Wars 60",
+      "eventSlug": "96970-cage-wars-60",
+      "round": 1,
+      "timeInRound": "4:07"
+    },
+    {
+      "date": "2023-03-04T00:00:00.000Z",
+      "opponent": "Shawn Stefanelli",
+      "opponentSlug": "177725-shawn-stefanelli",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Wars 56",
+      "eventSlug": "96966-cage-wars-56",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-23T00:00:00.000Z",
+      "opponent": "Nick Ross",
+      "opponentSlug": "306039-nick-ross",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Wars",
+      "eventSlug": "88463-cage-wars-53-mike-tyson-fight-night",
+      "round": 1,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2021-09-11T00:00:00.000Z",
+      "opponent": "Shawn Clow",
+      "opponentSlug": "64593-shawn-clow",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Wars 48",
+      "eventSlug": "81414-cage-wars-48",
+      "round": 1,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2021-06-26T00:00:00.000Z",
+      "opponent": "Corey Butts",
+      "opponentSlug": "174256-corey-butts",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Wars 47",
+      "eventSlug": "79392-cage-wars-46",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-01-31T00:00:00.000Z",
+      "opponent": "Braiden Patton",
+      "opponentSlug": "127638-braiden-patton",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage Wars 45",
+      "eventSlug": "64738-cage-wars-45",
+      "round": 1,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2019-09-13T00:00:00.000Z",
+      "opponent": "Stefano Hosko",
+      "opponentSlug": "29639-stefan-hosko",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Wars 43",
+      "eventSlug": "61680-cage-wars-43",
+      "round": 2,
+      "timeInRound": "2:21"
+    },
+    {
+      "date": "2019-06-29T00:00:00.000Z",
+      "opponent": "Tanner Payne",
+      "opponentSlug": "210973-tanner-payne",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Wars 42",
+      "eventSlug": "59872-cage-wars-42",
+      "round": 1,
+      "timeInRound": "0:51"
+    },
+    {
+      "date": "2019-04-06T00:00:00.000Z",
+      "opponent": "David Hawker",
+      "opponentSlug": "138795-david-hawker",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage Wars 41",
+      "eventSlug": "58510-cage-wars-41",
+      "round": 1,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2019-02-09T00:00:00.000Z",
+      "opponent": "Frank Mazepa",
+      "opponentSlug": "128933-frank-mazepa",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Wars 40",
+      "eventSlug": "57582-cage-wars-40",
+      "round": 1,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2018-11-24T00:00:00.000Z",
+      "opponent": "William Brown",
+      "opponentSlug": "199683-william-brown",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Wars 39",
+      "eventSlug": "52908-cage-wars-39",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2018-09-15T00:00:00.000Z",
+      "opponent": "Garrett Volpe",
+      "opponentSlug": "195900-garrett-volpe",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Cage Wars 38",
+      "eventSlug": "52907-cage-wars-38",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-30T00:00:00.000Z",
+      "opponent": "Brandon Olson",
+      "opponentSlug": "131654-brandon-olson",
+      "result": "loss",
+      "method": "sub",
+      "event": "KOTC: Future Legends 32",
+      "eventSlug": "39207-kotc-future-legends-32",
+      "round": 1,
+      "timeInRound": "2:02"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:37:29.500Z"
+}

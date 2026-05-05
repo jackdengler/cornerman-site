@@ -1,0 +1,231 @@
+{
+  "slug": "107492-matheus-da-silva-calabresa",
+  "name": "Matheus Severino",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 15,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1997-07-04",
+  "nationality": "Junco do Maranhao, Maranhao, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/107492-matheus-da-silva-calabresa",
+  "recentFights": [
+    {
+      "date": "2026-03-07T00:00:00.000Z",
+      "opponent": "Shawn Marcos da Silva",
+      "opponentSlug": "169787-shawn-marcos-claudina-da-silva",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 85: Severino vs. Kakhorov",
+      "eventSlug": "135740-oktagon-85",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-07-11T00:00:00.000Z",
+      "opponent": "Marcos Degli",
+      "opponentSlug": "240354-marcos-tailandes",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 212: Degli vs. Severino",
+      "eventSlug": "128256-lfa-212",
+      "round": 3,
+      "timeInRound": "2:44"
+    },
+    {
+      "date": "2025-05-24T00:00:00.000Z",
+      "opponent": "Alan Gabriel",
+      "opponentSlug": "176747-alan-gabriel",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 209: De Lara vs. Henrique",
+      "eventSlug": "125687-lfa-209",
+      "round": 1,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2024-03-16T00:00:00.000Z",
+      "opponent": "Vitor Zmish",
+      "opponentSlug": "332590-vitor-zmish",
+      "result": "win",
+      "method": "sub",
+      "event": "Demolidor Fight 21",
+      "eventSlug": "110413-demolidor-fight-21",
+      "round": 1,
+      "timeInRound": "2:53"
+    },
+    {
+      "date": "2023-08-26T00:00:00.000Z",
+      "opponent": "Renan Baptista",
+      "opponentSlug": "259271-renan-baptista",
+      "result": "win",
+      "method": "other",
+      "event": "Demolidor Fight 20",
+      "eventSlug": "104965-demolidor-fight-20",
+      "round": 1,
+      "timeInRound": "0:25"
+    },
+    {
+      "date": "2023-05-27T00:00:00.000Z",
+      "opponent": "Lucas Rocha",
+      "opponentSlug": "192343-lucas-rocha-fenomeno",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 159: Bellato vs. Dos Santos",
+      "eventSlug": "100420-lfa-159-polastri-vs-conceicao",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-27T00:00:00.000Z",
+      "opponent": "Douglas Batista",
+      "opponentSlug": "272496-douglas-batista-pulguinha",
+      "result": "win",
+      "method": "other",
+      "event": "Jungle Fight 110",
+      "eventSlug": "91786-jungle-fight-110",
+      "round": 1,
+      "timeInRound": "2:11"
+    },
+    {
+      "date": "2022-07-31T00:00:00.000Z",
+      "opponent": "Renan Baptista",
+      "opponentSlug": "259271-renan-baptista",
+      "result": "win",
+      "method": "sub",
+      "event": "Jungle Fight 109",
+      "eventSlug": "90459-jungle-fight-109",
+      "round": 1,
+      "timeInRound": "3:44"
+    },
+    {
+      "date": "2022-05-01T00:00:00.000Z",
+      "opponent": "Dôglas Cunha",
+      "opponentSlug": "144834-douglas-cunha-puro-osso",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Jungle Fight 107",
+      "eventSlug": "88504-jungle-fight-107",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-28T00:00:00.000Z",
+      "opponent": "Luiz Paulo Barbosa",
+      "opponentSlug": "133497-luiz-paulo-barbosa",
+      "result": "loss",
+      "method": "other",
+      "event": "Jungle Fight 104",
+      "eventSlug": "85353-jungle-fight-104",
+      "round": 1,
+      "timeInRound": "3:45"
+    },
+    {
+      "date": "2021-11-28T00:00:00.000Z",
+      "opponent": "Juliano Lubke",
+      "opponentSlug": "166106-juliano-lubke",
+      "result": "win",
+      "method": "sub",
+      "event": "Jungle Fight 103",
+      "eventSlug": "82342-jungle-fight-103",
+      "round": 1,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2019-12-28T00:00:00.000Z",
+      "opponent": "Alexsandro Praia",
+      "opponentSlug": "166430-alexandro-praia",
+      "result": "loss",
+      "method": "other",
+      "event": "Jungle Fight 100",
+      "eventSlug": "65278-jungle-fight-100",
+      "round": 1,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2019-11-30T00:00:00.000Z",
+      "opponent": "Victor Dias",
+      "opponentSlug": "139377-victor-dias",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Jungle Fight 99",
+      "eventSlug": "64830-jungle-fight-99",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-24T00:00:00.000Z",
+      "opponent": "Daniel Lacerda",
+      "opponentSlug": "162924-daniel-lacerda-miojo",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-11T00:00:00.000Z",
+      "opponent": "Luiz Filho",
+      "opponentSlug": "62366-luis-guerreiro",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-15T00:00:00.000Z",
+      "opponent": "Manoel Rodrigues",
+      "opponentSlug": "105969-manoel-rodrigues-junior",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Rei da Selva Combat 9",
+      "eventSlug": "46955-rei-da-selva-combat-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-26T00:00:00.000Z",
+      "opponent": "Rogerio Souza",
+      "opponentSlug": "145280-rogerio-souza",
+      "result": "win",
+      "method": "tko",
+      "event": "Rei da Selva Combat 8",
+      "eventSlug": "43013-rei-da-selva-combat-8",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2015-12-15T00:00:00.000Z",
+      "opponent": "Felipe Souza",
+      "opponentSlug": "97364-felipe-souza",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-07-18T00:00:00.000Z",
+      "opponent": "Klebson Freitas",
+      "opponentSlug": "66021-klebson-freitas-kleber-pedra",
+      "result": "win",
+      "method": "sub",
+      "event": "Alternativa FC 2",
+      "eventSlug": "34091-alternativa-fc-2",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:56:02.050Z"
+}

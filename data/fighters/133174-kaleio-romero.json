@@ -1,0 +1,165 @@
+{
+  "slug": "133174-kaleio-romero",
+  "name": "Kaleio Romero",
+  "nickname": "KO",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": 175,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1996-04-19",
+  "nationality": "Sacramento, California",
+  "url": "https://www.tapology.com/fightcenter/fighters/133174-kaleio-romero",
+  "recentFights": [
+    {
+      "date": "2022-07-26T00:00:00.000Z",
+      "opponent": "Dennis Buzukja",
+      "opponentSlug": "131561-dennis-buzukia",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Contender Series 2022",
+      "eventSlug": "89493-contender-series-2022-week-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-25T00:00:00.000Z",
+      "opponent": "Andy Perez",
+      "opponentSlug": "14849-andrew-perez-golden-boy",
+      "result": "win",
+      "method": "tko",
+      "event": "Combate Global",
+      "eventSlug": "79960-combate-global",
+      "round": 1,
+      "timeInRound": "3:21"
+    },
+    {
+      "date": "2019-11-22T00:00:00.000Z",
+      "opponent": "Israel Delgado",
+      "opponentSlug": "61639-israel-delgado",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combate 50: Fresno",
+      "eventSlug": "63182-combate-48-fresno",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-02-16T00:00:00.000Z",
+      "opponent": "Jonas Flok",
+      "opponentSlug": "42491-jonas-flok",
+      "result": "loss",
+      "method": "other",
+      "event": "Lights Out Championship 2",
+      "eventSlug": "57235-lights-out-championship",
+      "round": 1,
+      "timeInRound": "4:28"
+    },
+    {
+      "date": "2018-08-04T00:00:00.000Z",
+      "opponent": "Bren O’Neal",
+      "opponentSlug": "108805-bren-oneil",
+      "result": "win",
+      "method": "sub",
+      "event": "URCC 34: Destiny",
+      "eventSlug": "53343-urcc-34",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2018-07-06T00:00:00.000Z",
+      "opponent": "Flaco Miranda",
+      "opponentSlug": "83859-flaco-miranda",
+      "result": "win",
+      "method": "tko",
+      "event": "Gladiator Challenge",
+      "eventSlug": "54245-gladiator-challenge-all-american-bash",
+      "round": 1,
+      "timeInRound": "1:09"
+    },
+    {
+      "date": "2018-05-11T00:00:00.000Z",
+      "opponent": "Luis Vargas",
+      "opponentSlug": "61650-luis-vargas",
+      "result": "win",
+      "method": "sub",
+      "event": "Combate 22: Mexico vs. USA",
+      "eventSlug": "53063-combate-20-mexico-vs-usa",
+      "round": 2,
+      "timeInRound": "3:59"
+    },
+    {
+      "date": "2018-03-31T00:00:00.000Z",
+      "opponent": "Trevor Peek",
+      "opponentSlug": "91662-trevor-peek",
+      "result": "win",
+      "method": "sub",
+      "event": "Gladiator Challenge",
+      "eventSlug": "52456-gladiator-challenge-redemption",
+      "round": 1,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2017-11-11T00:00:00.000Z",
+      "opponent": "Justin O'Connor",
+      "opponentSlug": "162166-justin-oconnor",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Epic Fighting 36",
+      "eventSlug": "49165-epic-fighting-36",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-18T00:00:00.000Z",
+      "opponent": "Christian Stolp",
+      "opponentSlug": "150432-christian-stolp",
+      "result": "win",
+      "method": "tko",
+      "event": "Epic Fighting 35",
+      "eventSlug": "47585-epic-fighting-35",
+      "round": 1,
+      "timeInRound": "1:42"
+    },
+    {
+      "date": "2016-11-05T00:00:00.000Z",
+      "opponent": "Brady Wicklund",
+      "opponentSlug": "112268-brady-wicklund-the-ginger-gypsie",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "West Coast FC 18",
+      "eventSlug": "42151-west-coast-fc-18-fight-night-sacramento",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-10T00:00:00.000Z",
+      "opponent": "Philip Hattersley",
+      "opponentSlug": "97778-philip-hattersley",
+      "result": "win",
+      "method": "other",
+      "event": "Nor Cal Fight Series 3",
+      "eventSlug": "41333-nor-cal-fight-series-3",
+      "round": 1,
+      "timeInRound": "1:55"
+    },
+    {
+      "date": "2016-05-21T00:00:00.000Z",
+      "opponent": "Michael Bueno",
+      "opponentSlug": "133175-michael-bueno",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Nor Cal Fight Series 2",
+      "eventSlug": "39768-nor-cal-fight-series-2",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:12:56.551Z"
+}

@@ -1,0 +1,198 @@
+{
+  "slug": "139271-norma-dumont-viana",
+  "name": "Norma Dumont",
+  "nickname": "The Immortal",
+  "aliases": [],
+  "recordPro": {
+    "wins": 13,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 169,
+  "reachCm": 170,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1990-10-01",
+  "nationality": "Belo Horizonte, Minas Gerais, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/139271-norma-dumont-viana",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Joselyne Edwards",
+      "opponentSlug": "98366-yoselin-edwards",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "140114-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-01T00:00:00.000Z",
+      "opponent": "Ketlen Vieira",
+      "opponentSlug": "99972-ketlen-vieira-fenomeno",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "132058-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-14T00:00:00.000Z",
+      "opponent": "Irene Aldana",
+      "opponentSlug": "60294-irene-aldana-robles",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 306: O'Malley vs. Dvalishvili",
+      "eventSlug": "110826-ufc-306",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-06T00:00:00.000Z",
+      "opponent": "Germaine de Randamie",
+      "opponentSlug": "germaine-de-randamie-the-iron-lady",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "108721-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-15T00:00:00.000Z",
+      "opponent": "Chelsea Chandler",
+      "opponentSlug": "134566-chelsea-chandler",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "100553-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-04-22T00:00:00.000Z",
+      "opponent": "Karol Rosa",
+      "opponentSlug": "79637-karolline-rosa-karol",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "97433-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-10T00:00:00.000Z",
+      "opponent": "Danyelle Wolf",
+      "opponentSlug": "193972-danyelle-wolf",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 279: Diaz vs. Ferguson",
+      "eventSlug": "89492-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-07T00:00:00.000Z",
+      "opponent": "Macy Chiasson",
+      "opponentSlug": "77737-macy-chiasson",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC 274: Oliveira vs. Gaethje",
+      "eventSlug": "85253-ufc-274",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-16T00:00:00.000Z",
+      "opponent": "Aspen Ladd",
+      "opponentSlug": "45561-aspen-ladd",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "80539-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-22T00:00:00.000Z",
+      "opponent": "Felicia Spencer",
+      "opponentSlug": "37314-felicia-spencer",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "77264-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-11-28T00:00:00.000Z",
+      "opponent": "Ashlee Evans-Smith",
+      "opponentSlug": "28705-ashlee-evans-smith",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "71907-ufc-fight-night-blaydes-vs-lewis",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-29T00:00:00.000Z",
+      "opponent": "Megan Anderson",
+      "opponentSlug": "58669-megan-anderson",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC on ESPN+ 27",
+      "eventSlug": "65142-ufc-on-espn-27",
+      "round": 1,
+      "timeInRound": "3:31"
+    },
+    {
+      "date": "2018-08-05T00:00:00.000Z",
+      "opponent": "Mariana Morais",
+      "opponentSlug": "68151-mariana-morais",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Shooto Brasil 86",
+      "eventSlug": "54438-shooto-brasil-68",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-16T00:00:00.000Z",
+      "opponent": "Erica Leidiane",
+      "opponentSlug": "167425-erica-leidiane-rush",
+      "result": "win",
+      "method": "sub",
+      "event": "Federação Fight 5",
+      "eventSlug": "48010-federao-fight-5",
+      "round": 1,
+      "timeInRound": "3:30"
+    },
+    {
+      "date": "2017-07-15T00:00:00.000Z",
+      "opponent": "Patricia Borges",
+      "opponentSlug": "140301-patricia-borges-fernandes",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Jungle Fight 91",
+      "eventSlug": "46740-jungle-fight-91",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-03T00:00:00.000Z",
+      "opponent": "Tainara Lisboa",
+      "opponentSlug": "139270-tainara-lisboa",
+      "result": "win",
+      "method": "sub",
+      "event": "Jungle Fight 90",
+      "eventSlug": "41289-jungle-fight-90",
+      "round": 1,
+      "timeInRound": "2:58"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:53:05.018Z"
+}

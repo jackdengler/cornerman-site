@@ -1,0 +1,187 @@
+{
+  "slug": "243961-deven-paulsen",
+  "name": "Deven Paulsen",
+  "nickname": "Simba",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 10,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1999-10-30",
+  "nationality": "Anchorage, Alaska, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/243961-deven-paulsen",
+  "recentFights": [
+    {
+      "date": "2025-07-19T00:00:00.000Z",
+      "opponent": "Mike Boyle",
+      "opponentSlug": "210266-mike-boyle",
+      "result": "loss",
+      "method": "other",
+      "event": "New Line Cagefighting 36",
+      "eventSlug": "128353-new-line-cagefighting-36",
+      "round": 1,
+      "timeInRound": "1:22"
+    },
+    {
+      "date": "2025-02-08T00:00:00.000Z",
+      "opponent": "Tommy Gantt",
+      "opponentSlug": "270027-tommy-gantt",
+      "result": "loss",
+      "method": "tko",
+      "event": "Fight For It 24",
+      "eventSlug": "122968-fight-for-it-24",
+      "round": 1,
+      "timeInRound": "4:44"
+    },
+    {
+      "date": "2023-10-13T00:00:00.000Z",
+      "opponent": "Al Matavao",
+      "opponentSlug": "137937-al-matavo",
+      "result": "loss",
+      "method": "other",
+      "event": "Alaska Combat Entertainment",
+      "eventSlug": "103904-alaska-combat-entertainment-ace",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-25T00:00:00.000Z",
+      "opponent": "Tom Theocharis",
+      "opponentSlug": "117345-tom-theocharis",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Alaska Combat Entertainment",
+      "eventSlug": "98130-alaska-combat-entertainment-ace",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-01-13T00:00:00.000Z",
+      "opponent": "Jackson McVey",
+      "opponentSlug": "238221-jackson-mcvey",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 150: Farias vs. Sweeney",
+      "eventSlug": "96178-lfa-150-farias-vs-sweeney",
+      "round": 1,
+      "timeInRound": "0:52"
+    },
+    {
+      "date": "2022-12-03T00:00:00.000Z",
+      "opponent": "Tom Theocharis",
+      "opponentSlug": "117345-tom-theocharis",
+      "result": "win",
+      "method": "other",
+      "event": "New Line Cagefighting 10",
+      "eventSlug": "93301-new-line-cagefighting-x",
+      "round": 2,
+      "timeInRound": "3:53"
+    },
+    {
+      "date": "2022-05-06T00:00:00.000Z",
+      "opponent": "Indalecio Romero",
+      "opponentSlug": "14347-indalecio-tat-romero-mean-bean",
+      "result": "loss",
+      "method": "sub",
+      "event": "CES 68: Greene vs. Williams",
+      "eventSlug": "87778-ces-68",
+      "round": 1,
+      "timeInRound": "4:49"
+    },
+    {
+      "date": "2021-11-10T00:00:00.000Z",
+      "opponent": "John Martin",
+      "opponentSlug": "325261-john-martin",
+      "result": "loss",
+      "method": "other",
+      "event": "Alaska FC 161",
+      "eventSlug": "84168-alaska-fighting-championship-161-afc-161",
+      "round": 2,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2021-08-18T00:00:00.000Z",
+      "opponent": "Jon Kunneman",
+      "opponentSlug": "220656-jonathan-kunnerman",
+      "result": "loss",
+      "method": "other",
+      "event": "Alaska FC 160",
+      "eventSlug": "82057-alaska-fighting-championship-afc-160",
+      "round": 2,
+      "timeInRound": "3:24"
+    },
+    {
+      "date": "2021-06-23T00:00:00.000Z",
+      "opponent": "Dustin Black",
+      "opponentSlug": "298939-dustin-black",
+      "result": "win",
+      "method": "other",
+      "event": "Alaska FC 159",
+      "eventSlug": "80046-alaska-fighting-championship-afc",
+      "round": 2,
+      "timeInRound": "4:55"
+    },
+    {
+      "date": "2021-04-30T00:00:00.000Z",
+      "opponent": "Drew O'Brien",
+      "opponentSlug": "325337-drew-o-brien",
+      "result": "win",
+      "method": "other",
+      "event": "Alaska Combat Entertainment",
+      "eventSlug": "86630-alaska-combat-entertainment",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-02-20T00:00:00.000Z",
+      "opponent": "Maika Graf",
+      "opponentSlug": "137941-maika-graf-red-mat",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Power Plant",
+      "eventSlug": "76640-countdown-to-lockdown",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-01-22T00:00:00.000Z",
+      "opponent": "Michael Williams",
+      "opponentSlug": "157030-michael-williams",
+      "result": "win",
+      "method": "other",
+      "event": "Alaska FC 156",
+      "eventSlug": "64616-alaska-fc-156",
+      "round": 2,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2019-12-11T00:00:00.000Z",
+      "opponent": "Alex Perue",
+      "opponentSlug": "237819-alex-perue",
+      "result": "win",
+      "method": "other",
+      "event": "Alaska FC 155",
+      "eventSlug": "64615-alaska-fc-155",
+      "round": 1,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2019-11-20T00:00:00.000Z",
+      "opponent": "Garrett Howell",
+      "opponentSlug": "46536-garrett-howell",
+      "result": "loss",
+      "method": "sub",
+      "event": "Alaska FC 154",
+      "eventSlug": "64614-alaska-fc-154-145-lb-tournament",
+      "round": 1,
+      "timeInRound": "0:46"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:53:58.786Z"
+}

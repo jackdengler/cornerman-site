@@ -1,0 +1,121 @@
+{
+  "slug": "125518-geisa-veloso",
+  "name": "Geísa Veloso",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 162,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1992-01-18",
+  "nationality": "Nova Friburgo, Rio de Janeiro, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/125518-geisa-veloso",
+  "recentFights": [
+    {
+      "date": "2024-05-18T00:00:00.000Z",
+      "opponent": "Beatriz Ferreira",
+      "opponentSlug": "189660-beatriz-ferreira-bia",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "CFC 20: VENUS VICTRIX",
+      "eventSlug": "113075-cfc-20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-07T00:00:00.000Z",
+      "opponent": "Andreina Reis",
+      "opponentSlug": "127966-andreia-repolho-china-muay-thai",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "USC 5",
+      "eventSlug": "91157-usc-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-11-13T00:00:00.000Z",
+      "opponent": "Bruna Brasil",
+      "opponentSlug": "117583-bruna-brasil",
+      "result": "loss",
+      "method": "sub",
+      "event": "Shooto Brasil 104",
+      "eventSlug": "71506-shooto-brasil-104",
+      "round": 2,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2019-05-25T00:00:00.000Z",
+      "opponent": "Julia Polastri",
+      "opponentSlug": "168315-julia-polastri",
+      "result": "loss",
+      "method": "other",
+      "event": "Shooto Brasil 92",
+      "eventSlug": "60598-shooto-brasil-92",
+      "round": 2,
+      "timeInRound": "1:57"
+    },
+    {
+      "date": "2018-08-05T00:00:00.000Z",
+      "opponent": "Daiany Mota",
+      "opponentSlug": "146964-daiane",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shooto Brasil 86",
+      "eventSlug": "54438-shooto-brasil-68",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-10T00:00:00.000Z",
+      "opponent": "Jamile Farias",
+      "opponentSlug": "125346-jamile-farias-mile",
+      "result": "win",
+      "method": "sub",
+      "event": "Shooto Brasil 79",
+      "eventSlug": "49588-shooto-brasil-79",
+      "round": 1,
+      "timeInRound": "4:13"
+    },
+    {
+      "date": "2017-04-30T00:00:00.000Z",
+      "opponent": "Elaine Leal",
+      "opponentSlug": "137503-elaine-leal-pantera",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shooto Brasil 71",
+      "eventSlug": "45469-shooto-brasil-71",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-16T00:00:00.000Z",
+      "opponent": "Maria Oliveira",
+      "opponentSlug": "114735-maria-oliveira",
+      "result": "loss",
+      "method": "tko",
+      "event": "FLC 4",
+      "eventSlug": "43396-flc-4",
+      "round": 2,
+      "timeInRound": "3:42"
+    },
+    {
+      "date": "2016-02-13T00:00:00.000Z",
+      "opponent": "Kakau Costa",
+      "opponentSlug": "106406-kakau-costa-cacau",
+      "result": "win",
+      "method": "sub",
+      "event": "Shooto Brasil 61",
+      "eventSlug": "38082-shooto-brasil-61",
+      "round": 2,
+      "timeInRound": "4:04"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:59:04.230Z"
+}

@@ -1,0 +1,154 @@
+{
+  "slug": "165923-danijel-grbic",
+  "name": "Danijel Grbic",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 186,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Sweden",
+  "url": "https://www.tapology.com/fightcenter/fighters/165923-danijel-grbic",
+  "recentFights": [
+    {
+      "date": "2024-06-29T00:00:00.000Z",
+      "opponent": "Naib Itayev",
+      "opponentSlug": "234288-naib-itayev",
+      "result": "loss",
+      "method": "other",
+      "event": "AFN 7",
+      "eventSlug": "109089-afn-7",
+      "round": 2,
+      "timeInRound": "3:43"
+    },
+    {
+      "date": "2023-09-30T00:00:00.000Z",
+      "opponent": "Enes Kollari",
+      "opponentSlug": "271942-enes-kollari",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WFP 8",
+      "eventSlug": "101745-wfp-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-10-09T00:00:00.000Z",
+      "opponent": "Łukasz Świrydowicz",
+      "opponentSlug": "112745-ukasz-wirydowicz",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Battle Arena Birmingham",
+      "eventSlug": "95502-battle-arena-birmingham",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-28T00:00:00.000Z",
+      "opponent": "William Haycox",
+      "opponentSlug": "189726-william-haycox",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Battle Arena Nottingham",
+      "eventSlug": "90225-battle-arena-nottingham",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-04T00:00:00.000Z",
+      "opponent": "Khaled Laallam",
+      "opponentSlug": "152976-khaled-laallam",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fight Club Rush 9",
+      "eventSlug": "81368-fight-club-rush-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-01-26T00:00:00.000Z",
+      "opponent": "Alexander Lindgren",
+      "opponentSlug": "156568-alexander-lindgren",
+      "result": "win",
+      "method": "sub",
+      "event": "Svenska Masterskapet 2019",
+      "eventSlug": "67181-svenska-masterskapet-2019-finals",
+      "round": 1,
+      "timeInRound": "2:32"
+    },
+    {
+      "date": "2020-01-25T00:00:00.000Z",
+      "opponent": "Axel Karlsson",
+      "opponentSlug": "116291-axel-karlsson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Svenska Masterskapet 2019",
+      "eventSlug": "67180-svenska-masterskapet-2019-semifinals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-11T00:00:00.000Z",
+      "opponent": "Dominik Humburger",
+      "opponentSlug": "169531-dominik-humburger",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64317-immaf-wmmaa-amateur-world-championships-2019",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-21T00:00:00.000Z",
+      "opponent": "Magomedkhabib Umarov",
+      "opponentSlug": "201499-magomedkhabib-umarov",
+      "result": "loss",
+      "method": "tko",
+      "event": "2019 IMMAF-WMMAA European Senior & Junior Open Championships",
+      "eventSlug": "61284-2019-immaf-wmmaa-european-senior-junior-open-championships-day-3-cage-a-quarter-finals",
+      "round": 2,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2019-06-20T00:00:00.000Z",
+      "opponent": "Aleksandr Val",
+      "opponentSlug": "228488-aleksandr-val",
+      "result": "win",
+      "method": "dec-split",
+      "event": "2019 IMMAF-WMMAA European Senior & Junior Open Championships",
+      "eventSlug": "61283-2019-immaf-wmmaa-european-senior-junior-open-championships-day-2-cage-c",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-05T00:00:00.000Z",
+      "opponent": "Patrick Christensen",
+      "opponentSlug": "99851-patrick-christensen",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMA Galla 5",
+      "eventSlug": "51047-mma-galla-05",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-09T00:00:00.000Z",
+      "opponent": "Stefan Kryger Jørgensen",
+      "opponentSlug": "142043-stefan-kryger-jrgensen",
+      "result": "loss",
+      "method": "sub",
+      "event": "MMA Galla 3",
+      "eventSlug": "45013-mma-galla-04",
+      "round": 3,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:03:36.881Z"
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "169345-dumitru-purice",
+  "name": "Dumitru Purice",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Moldova",
+  "url": "https://www.tapology.com/fightcenter/fighters/169345-dumitru-purice",
+  "recentFights": [
+    {
+      "date": "2023-12-02T00:00:00.000Z",
+      "opponent": "Václav Štěpán",
+      "opponentSlug": "197384-vaclav-stepan",
+      "result": "loss",
+      "method": "other",
+      "event": "Heroes Gate 28",
+      "eventSlug": "106831-heroes-gate-28",
+      "round": 1,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2021-03-13T00:00:00.000Z",
+      "opponent": "Artiom Orlovschi",
+      "opponentSlug": "286448-artiom-orlovschi",
+      "result": "win",
+      "method": "sub",
+      "event": "Eagles FC: Reset",
+      "eventSlug": "76905-eagles-fc-reset",
+      "round": 1,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2017-10-28T00:00:00.000Z",
+      "opponent": "Nicu Malai",
+      "opponentSlug": "169344-nicu-malai",
+      "result": "win",
+      "method": "other",
+      "event": "Moldova Heroes 2",
+      "eventSlug": "48862-moldova-heroes-2",
+      "round": 2,
+      "timeInRound": "3:38"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:09:30.744Z"
+}

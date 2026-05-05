@@ -1,0 +1,121 @@
+{
+  "slug": "89368-veronica-grenno-avispa-dorada",
+  "name": "Veronica Grenno",
+  "nickname": "Vero",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 160,
+  "reachCm": null,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Asuncion, Paraguay",
+  "url": "https://www.tapology.com/fightcenter/fighters/89368-veronica-grenno-avispa-dorada",
+  "recentFights": [
+    {
+      "date": "2025-08-10T00:00:00.000Z",
+      "opponent": "Mathilde Aschenbrenner",
+      "opponentSlug": "311078-mathilde-aschenbrenner",
+      "result": "loss",
+      "method": "sub",
+      "event": "Hexagone MMA 32",
+      "eventSlug": "130104-hexagone-mma-32",
+      "round": 2,
+      "timeInRound": "3:32"
+    },
+    {
+      "date": "2025-03-29T00:00:00.000Z",
+      "opponent": "Morgane Dehaye",
+      "opponentSlug": "201218-morgane-dehaye",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Hexagone MMA 25",
+      "eventSlug": "117022-hexagone-mma",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-02-08T00:00:00.000Z",
+      "opponent": "Mileide Simplicio",
+      "opponentSlug": "266639-mileide-simplicio",
+      "result": "loss",
+      "method": "sub",
+      "event": "Dynamite MMA 3",
+      "eventSlug": "118005-dynamite-mma-3",
+      "round": 1,
+      "timeInRound": "3:15"
+    },
+    {
+      "date": "2017-10-07T00:00:00.000Z",
+      "opponent": "Mariana Zaya",
+      "opponentSlug": "168597-mariana-zaya",
+      "result": "win",
+      "method": "sub",
+      "event": "Explosion MMA 7",
+      "eventSlug": "48594-explosion-mma-7",
+      "round": 1,
+      "timeInRound": "3:02"
+    },
+    {
+      "date": "2017-01-02T00:00:00.000Z",
+      "opponent": "Weili Zhang",
+      "opponentSlug": "83443-weili-zhang",
+      "result": "loss",
+      "method": "tko",
+      "event": "Kunlun Fight MMA 8",
+      "eventSlug": "43469-kunlun-fight-mma-8",
+      "round": 1,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2016-06-25T00:00:00.000Z",
+      "opponent": "Camilla Guimarães",
+      "opponentSlug": "123596-camilla-guimares",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Jungle Fight 88",
+      "eventSlug": "40195-jungle-fight-88",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-06T00:00:00.000Z",
+      "opponent": "Beatriz Acosta",
+      "opponentSlug": "126482-beatriz-acosta",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-02-06T00:00:00.000Z",
+      "opponent": "Alicia Andino",
+      "opponentSlug": "126487-alicia-andino-la-nia",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Kuña Fight Paraguay",
+      "eventSlug": "38447-kua-fight-paraguay",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-12-13T00:00:00.000Z",
+      "opponent": "Haleri Meana",
+      "opponentSlug": "89369-haleri-meana",
+      "result": "win",
+      "method": "tko",
+      "event": "Extreme Fighter 6",
+      "eventSlug": "28933-extreme-fighter-6",
+      "round": 2,
+      "timeInRound": "1:55"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:10:25.588Z"
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "332553-josef-lacina",
+  "name": "Josef Lacina",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 20,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 172,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brno, Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/332553-josef-lacina",
+  "recentFights": [
+    {
+      "date": "2023-09-30T00:00:00.000Z",
+      "opponent": "Dalibor Hromják",
+      "opponentSlug": "293839-dalibor-hromjak",
+      "result": null,
+      "method": "other",
+      "event": "Colosseum Fight Night 2",
+      "eventSlug": "105663-colosseum-fight-night-young-blood",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-17T00:00:00.000Z",
+      "opponent": "Alex Hutyra",
+      "opponentSlug": "347893-alex-hutyra",
+      "result": "loss",
+      "method": "other",
+      "event": "War Zone 004",
+      "eventSlug": "95478-war-zone-004",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-27T00:00:00.000Z",
+      "opponent": "Daniel Teska",
+      "opponentSlug": "363172-daniel-teska",
+      "result": "win",
+      "method": "tko",
+      "event": "MMAA Arena Cup 74",
+      "eventSlug": "95532-mmaa-arena-cup-74",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:57:33.938Z"
+}

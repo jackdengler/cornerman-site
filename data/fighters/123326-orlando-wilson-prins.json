@@ -1,0 +1,165 @@
+{
+  "slug": "123326-orlando-wilson-prins",
+  "name": "Orlando Wilson Prins",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Netherlands",
+  "url": "https://www.tapology.com/fightcenter/fighters/123326-orlando-wilson-prins",
+  "recentFights": [
+    {
+      "date": "2026-03-28T00:00:00.000Z",
+      "opponent": "Javohir Jurabekov",
+      "opponentSlug": "421101-javohir-jurabekov",
+      "result": "win",
+      "method": "other",
+      "event": "Hype FC: Nurlanbek uulu vs. Toktar",
+      "eventSlug": "141739-hype-fc-nurlanbek-uulu-vs-toktar",
+      "round": 1,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2025-09-13T00:00:00.000Z",
+      "opponent": "Andrew Fisher",
+      "opponentSlug": "10681-andrew-fisher",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 193",
+      "eventSlug": "129013-cage-warriors-193",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-08T00:00:00.000Z",
+      "opponent": "Giuseppe Ruggeri",
+      "opponentSlug": "199271-giuseppe-ruggeri",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 183",
+      "eventSlug": "120828-cage-warriors-183",
+      "round": 2,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2024-05-25T00:00:00.000Z",
+      "opponent": "Harry Hardwick",
+      "opponentSlug": "64199-harry-hardwick",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 172",
+      "eventSlug": "108296-cage-warriors-172",
+      "round": 2,
+      "timeInRound": "2:18"
+    },
+    {
+      "date": "2023-11-25T00:00:00.000Z",
+      "opponent": "Bailey Gilbert",
+      "opponentSlug": "113777-bailey-gilbert",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 164",
+      "eventSlug": "102523-cage-warriors-164-newcastle",
+      "round": 1,
+      "timeInRound": "3:48"
+    },
+    {
+      "date": "2023-04-15T00:00:00.000Z",
+      "opponent": "Antonio Sheldon",
+      "opponentSlug": "66315-antonio-sheldon",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Cage Warriors 152",
+      "eventSlug": "97498-cage-warriors-152-manchester",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-31T00:00:00.000Z",
+      "opponent": "Samuel Bark",
+      "opponentSlug": "229953-samuel-bark-sammon-decker",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 148",
+      "eventSlug": "94496-cage-warriors-148",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-28T00:00:00.000Z",
+      "opponent": "Tom Mearns",
+      "opponentSlug": "124892-tom-mearns",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 138",
+      "eventSlug": "89057-cage-warriors-138",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-22T00:00:00.000Z",
+      "opponent": "Ruslan Tokhtarov",
+      "opponentSlug": "368735-lan-tokhtarov",
+      "result": "win",
+      "method": "sub",
+      "event": "NFC Series Preseason 1",
+      "eventSlug": "77053-nfc-series-preseason-1",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-19T00:00:00.000Z",
+      "opponent": "Marcel Shakirov",
+      "opponentSlug": "272096-marcel-shakirow",
+      "result": "win",
+      "method": "sub",
+      "event": "National Fighting Championship 2",
+      "eventSlug": "72721-national-fighting-championship-2",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-26T00:00:00.000Z",
+      "opponent": "Fawad Faghiri",
+      "opponentSlug": "179381-fawad-faghiri",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-26T00:00:00.000Z",
+      "opponent": "Changxin Fu",
+      "opponentSlug": "80564-changxin-fu",
+      "result": "loss",
+      "method": "other",
+      "event": "WMMAA",
+      "eventSlug": "37066-wmmaa-2015-world-championships-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-26T00:00:00.000Z",
+      "opponent": "Orkhan Mamedov",
+      "opponentSlug": "81660-orkhan-mamedov",
+      "result": "win",
+      "method": "other",
+      "event": "WMMAA",
+      "eventSlug": "37066-wmmaa-2015-world-championships-day-1",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:05:10.833Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "94901-evelin-caballero",
+  "name": "Evelyn Jessenia Llanes",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1987-05-09",
+  "nationality": "Honduras",
+  "url": "https://www.tapology.com/fightcenter/fighters/94901-evelin-caballero",
+  "recentFights": [
+    {
+      "date": "2015-05-15T00:00:00.000Z",
+      "opponent": "Joselyne Edwards",
+      "opponentSlug": "98366-yoselin-edwards",
+      "result": "loss",
+      "method": "other",
+      "event": "UCC 24: Hell in Cage 2",
+      "eventSlug": "31827-ucc-24-hell-in-cage-2",
+      "round": 1,
+      "timeInRound": "0:10"
+    },
+    {
+      "date": "2015-03-20T00:00:00.000Z",
+      "opponent": "Carolina Muñoz Garcia",
+      "opponentSlug": "92721-carolina-muoz",
+      "result": "loss",
+      "method": "other",
+      "event": "UCC 23",
+      "eventSlug": "30116-ucc-23",
+      "round": 2,
+      "timeInRound": "1:33"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:34:17.200Z"
+}

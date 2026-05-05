@@ -1,0 +1,44 @@
+{
+  "slug": "128582-francelys-rivero",
+  "name": "Francelys Rivero",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 163,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1990-12-25",
+  "nationality": "Venezuela",
+  "url": "https://www.tapology.com/fightcenter/fighters/128582-francelys-rivero",
+  "recentFights": [
+    {
+      "date": "2017-05-20T00:00:00.000Z",
+      "opponent": "Joselyne Edwards",
+      "opponentSlug": "98366-yoselin-edwards",
+      "result": "loss",
+      "method": "other",
+      "event": "UCC Fantastic Fight Night 5",
+      "eventSlug": "46296-fantastic-fight-night-5",
+      "round": 1,
+      "timeInRound": "3:30"
+    },
+    {
+      "date": "2016-03-18T00:00:00.000Z",
+      "opponent": "Deyanira Soarez",
+      "opponentSlug": "128583-deyanira-soarez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Gladiadores de Venezuela 8",
+      "eventSlug": "38884-gladiadores-de-venezuela-8",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:34:08.003Z"
+}

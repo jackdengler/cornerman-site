@@ -1,0 +1,88 @@
+{
+  "slug": "167425-erica-leidiane-rush",
+  "name": "Erica Leidiane",
+  "nickname": "Rush",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 162,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1995-11-18",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/167425-erica-leidiane-rush",
+  "recentFights": [
+    {
+      "date": "2019-06-15T00:00:00.000Z",
+      "opponent": "Tayná Lamounier",
+      "opponentSlug": "191295-tayna-lamounier-barbie",
+      "result": "loss",
+      "method": "sub",
+      "event": "Federação Fight 10",
+      "eventSlug": "61596-federacao-fight-10",
+      "round": 3,
+      "timeInRound": "2:04"
+    },
+    {
+      "date": "2018-05-19T00:00:00.000Z",
+      "opponent": "Helen Antunes Camargos",
+      "opponentSlug": "233290-helen-antunes-camargos-helinha",
+      "result": "win",
+      "method": "other",
+      "event": "Campeonato Mineiro de MMA",
+      "eventSlug": "55518-campeonato-mineiro-de-mma-etapa-santa-luzia",
+      "round": 3,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2017-12-02T00:00:00.000Z",
+      "opponent": "Gabriela Marçal",
+      "opponentSlug": "144841-gabriela-reis-maral-gabi",
+      "result": "loss",
+      "method": "sub",
+      "event": "Federação Fight 6",
+      "eventSlug": "49477-federao-fight-6",
+      "round": 2,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2017-09-16T00:00:00.000Z",
+      "opponent": "Norma Dumont",
+      "opponentSlug": "139271-norma-dumont-viana",
+      "result": "loss",
+      "method": "sub",
+      "event": "Federação Fight 5",
+      "eventSlug": "48010-federao-fight-5",
+      "round": 1,
+      "timeInRound": "3:30"
+    },
+    {
+      "date": "2016-04-15T00:00:00.000Z",
+      "opponent": "Lara Fritzen",
+      "opponentSlug": "67543-lara-procopio",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-12-07T00:00:00.000Z",
+      "opponent": "Kenya Miranda",
+      "opponentSlug": "67544-kenya-miranda-kill-bitch",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:33:36.587Z"
+}

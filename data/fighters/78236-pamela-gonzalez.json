@@ -1,0 +1,176 @@
+{
+  "slug": "78236-pamela-gonzalez",
+  "name": "Pamela Gonzalez",
+  "nickname": "Barum",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 155,
+  "reachCm": null,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": "1988-08-12",
+  "nationality": "Mexico",
+  "url": "https://www.tapology.com/fightcenter/fighters/78236-pamela-gonzalez",
+  "recentFights": [
+    {
+      "date": "2026-02-07T00:00:00.000Z",
+      "opponent": "Iveth del Carmen",
+      "opponentSlug": "192036-iveth-del-carmen",
+      "result": "win",
+      "method": "sub",
+      "event": "JFL 55",
+      "eventSlug": "137554-jfl-55",
+      "round": 3,
+      "timeInRound": "1:06"
+    },
+    {
+      "date": "2025-03-28T00:00:00.000Z",
+      "opponent": "Julieta Martinez",
+      "opponentSlug": "288400-julieta-martinez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Lux Fight League 51",
+      "eventSlug": "124537-lux-fight-league-51",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-16T00:00:00.000Z",
+      "opponent": "Iveth del Carmen",
+      "opponentSlug": "192036-iveth-del-carmen",
+      "result": "win",
+      "method": "dec-split",
+      "event": "JFL 50",
+      "eventSlug": "119298-jfl-50",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-27T00:00:00.000Z",
+      "opponent": "Sara Cova",
+      "opponentSlug": "152871-sara-cova",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "JFL 23",
+      "eventSlug": "77994-jfl-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-07-03T00:00:00.000Z",
+      "opponent": "Joselyne Edwards",
+      "opponentSlug": "98366-yoselin-edwards",
+      "result": "loss",
+      "method": "tko",
+      "event": "UWC 22: Total War",
+      "eventSlug": "70824-uwc-22-total-war",
+      "round": 1,
+      "timeInRound": "0:28"
+    },
+    {
+      "date": "2019-01-26T00:00:00.000Z",
+      "opponent": "Monserrat Hernandez",
+      "opponentSlug": "208588-monserrat-hernandez",
+      "result": "win",
+      "method": "sub",
+      "event": "JFL Fight Night Vol 7",
+      "eventSlug": "57975-jfl-fight-night-vol-7",
+      "round": 1,
+      "timeInRound": "3:41"
+    },
+    {
+      "date": "2018-07-21T00:00:00.000Z",
+      "opponent": "Paola Reyes",
+      "opponentSlug": "155428-paola-reyes-black-candy",
+      "result": "win",
+      "method": "dec-split",
+      "event": "JFL Fight Night Vol 5",
+      "eventSlug": "54261-jfl-fight-night-vol-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-15T00:00:00.000Z",
+      "opponent": "Mariana Alvarez",
+      "opponentSlug": "104067-mariana-alvarez",
+      "result": "loss",
+      "method": "sub",
+      "event": "Jasaji FL 16",
+      "eventSlug": "46244-jasaji-fighting-league-jfl-16",
+      "round": 1,
+      "timeInRound": "0:27"
+    },
+    {
+      "date": "2016-07-02T00:00:00.000Z",
+      "opponent": "Monica Romero",
+      "opponentSlug": "177474-monica-romero",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-12-05T00:00:00.000Z",
+      "opponent": "Montserrat Conejo Ruiz",
+      "opponentSlug": "78224-montserrat-conejo-ruiz-toquinha",
+      "result": "loss",
+      "method": "sub",
+      "event": "MMA Madness 6",
+      "eventSlug": "36440-mma-madness-6",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-07-04T00:00:00.000Z",
+      "opponent": "Yajaira Romo",
+      "opponentSlug": "79106-yajaira-romo",
+      "result": "loss",
+      "method": "tko",
+      "event": "Combate Extremo 15th Anniversary",
+      "eventSlug": "33318-combate-extremo-15th-anniversary-loco-vs-galvan-2",
+      "round": 3,
+      "timeInRound": "1:33"
+    },
+    {
+      "date": "2014-04-15T00:00:00.000Z",
+      "opponent": "Diana Reyes",
+      "opponentSlug": "79068-diana-reyes",
+      "result": "loss",
+      "method": "sub",
+      "event": "MMA Madness 1",
+      "eventSlug": "26467-mma-madness-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-05-30T00:00:00.000Z",
+      "opponent": "Elizabeth de la Palma",
+      "opponentSlug": "99638-elizabeth-de-la-palma",
+      "result": null,
+      "method": "other",
+      "event": "Jasaji FL: Inter Clubes",
+      "eventSlug": "32159-jasaji-fl-inter-clubes",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-08-30T00:00:00.000Z",
+      "opponent": "Mariana Avila",
+      "opponentSlug": "78235-mariana-avila-pea-vera",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MMA Madness 2",
+      "eventSlug": "26212-mma-madness-2",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:33:56.685Z"
+}

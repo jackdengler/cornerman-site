@@ -1,0 +1,222 @@
+{
+  "slug": "63105-blake-donnelly",
+  "name": "Blake Donnelly",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/63105-blake-donnelly",
+  "recentFights": [
+    {
+      "date": "2023-06-10T00:00:00.000Z",
+      "opponent": "Quillan Salkilld",
+      "opponentSlug": "195051-quilland-salkid",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 76",
+      "eventSlug": "99484-eternal-mma-76",
+      "round": 1,
+      "timeInRound": "0:42"
+    },
+    {
+      "date": "2023-03-18T00:00:00.000Z",
+      "opponent": "David Martinez",
+      "opponentSlug": "61637-david-russell",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 74",
+      "eventSlug": "95619-eternal-mma-74",
+      "round": 3,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2022-09-17T00:00:00.000Z",
+      "opponent": "John Brewin",
+      "opponentSlug": "106888-john-brewin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 70",
+      "eventSlug": "91666-eternal-mma-70",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-09T00:00:00.000Z",
+      "opponent": "Roy Armistead",
+      "opponentSlug": "254924-roy-armistead",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hex Fight Series 21",
+      "eventSlug": "75164-hex-fight-series-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-10-31T00:00:00.000Z",
+      "opponent": "Dimps Gillies",
+      "opponentSlug": "140176-dimps-gillies",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 54",
+      "eventSlug": "72850-eternal-mma-54",
+      "round": 1,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2019-12-01T00:00:00.000Z",
+      "opponent": "David Martinez",
+      "opponentSlug": "61637-david-russell",
+      "result": "win",
+      "method": "other",
+      "event": "Australian FC 23",
+      "eventSlug": "64027-australian-fc-23",
+      "round": 3,
+      "timeInRound": "4:36"
+    },
+    {
+      "date": "2019-07-12T00:00:00.000Z",
+      "opponent": "Ethan Thomas",
+      "opponentSlug": "136411-ethan-thomas",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Wollongong Wars 7",
+      "eventSlug": "61763-wollongong-wars-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-08T00:00:00.000Z",
+      "opponent": "Sean Le Gourrierec",
+      "opponentSlug": "130477-sean-le-gourrierec",
+      "result": "win",
+      "method": "other",
+      "event": "Hex Fight Series 16",
+      "eventSlug": "55073-hex-fight-series",
+      "round": 3,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2017-11-11T00:00:00.000Z",
+      "opponent": "Mike Taylor",
+      "opponentSlug": "23902-mike-taylor",
+      "result": "win",
+      "method": "other",
+      "event": "BRACE 52",
+      "eventSlug": "47543-brace-52",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "allFights": [
+    {
+      "date": "2023-06-10T00:00:00.000Z",
+      "opponent": "Quillan Salkilld",
+      "opponentSlug": "195051-quilland-salkid",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 76",
+      "eventSlug": "99484-eternal-mma-76",
+      "round": 1,
+      "timeInRound": "0:42"
+    },
+    {
+      "date": "2023-03-18T00:00:00.000Z",
+      "opponent": "David Martinez",
+      "opponentSlug": "61637-david-russell",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 74",
+      "eventSlug": "95619-eternal-mma-74",
+      "round": 3,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2022-09-17T00:00:00.000Z",
+      "opponent": "John Brewin",
+      "opponentSlug": "106888-john-brewin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 70",
+      "eventSlug": "91666-eternal-mma-70",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-09T00:00:00.000Z",
+      "opponent": "Roy Armistead",
+      "opponentSlug": "254924-roy-armistead",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hex Fight Series 21",
+      "eventSlug": "75164-hex-fight-series-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-10-31T00:00:00.000Z",
+      "opponent": "Dimps Gillies",
+      "opponentSlug": "140176-dimps-gillies",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 54",
+      "eventSlug": "72850-eternal-mma-54",
+      "round": 1,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2019-12-01T00:00:00.000Z",
+      "opponent": "David Martinez",
+      "opponentSlug": "61637-david-russell",
+      "result": "win",
+      "method": "other",
+      "event": "Australian FC 23",
+      "eventSlug": "64027-australian-fc-23",
+      "round": 3,
+      "timeInRound": "4:36"
+    },
+    {
+      "date": "2019-07-12T00:00:00.000Z",
+      "opponent": "Ethan Thomas",
+      "opponentSlug": "136411-ethan-thomas",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Wollongong Wars 7",
+      "eventSlug": "61763-wollongong-wars-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-08T00:00:00.000Z",
+      "opponent": "Sean Le Gourrierec",
+      "opponentSlug": "130477-sean-le-gourrierec",
+      "result": "win",
+      "method": "other",
+      "event": "Hex Fight Series 16",
+      "eventSlug": "55073-hex-fight-series",
+      "round": 3,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2017-11-11T00:00:00.000Z",
+      "opponent": "Mike Taylor",
+      "opponentSlug": "23902-mike-taylor",
+      "result": "win",
+      "method": "other",
+      "event": "BRACE 52",
+      "eventSlug": "47543-brace-52",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-05-03T10:17:18.162Z"
+}

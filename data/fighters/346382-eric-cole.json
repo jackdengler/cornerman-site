@@ -1,0 +1,92 @@
+{
+  "slug": "346382-eric-cole",
+  "name": "Eric Cole",
+  "nickname": "Easy",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 5,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1996-06-17",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/346382-eric-cole",
+  "recentFights": [
+    {
+      "date": "2024-12-07T00:00:00.000Z",
+      "opponent": "Griffin Key",
+      "opponentSlug": "374331-griffin-key",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "New Line Cagefighting 31",
+      "eventSlug": "117594-new-line-cagefighting-31",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-04T00:00:00.000Z",
+      "opponent": "JD McNett",
+      "opponentSlug": "349182-jd-mcnett",
+      "result": "win",
+      "method": "tko",
+      "event": "ECC Cage Fighting",
+      "eventSlug": "113155-ecc-cage-fighting-cage-wars-8",
+      "round": 2,
+      "timeInRound": "1:51"
+    },
+    {
+      "date": "2023-05-20T00:00:00.000Z",
+      "opponent": "Quintin Richards",
+      "opponentSlug": "292164-quintin-richards",
+      "result": "loss",
+      "method": "other",
+      "event": "ECC Cage Fighting",
+      "eventSlug": "99700-ecc-cage-fighting-cage-wars-5",
+      "round": 2,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2023-01-28T00:00:00.000Z",
+      "opponent": "Brandon Slade",
+      "opponentSlug": "160647-brandon-slade",
+      "result": "win",
+      "method": "other",
+      "event": "ECC Cage Fighting",
+      "eventSlug": "96117-ecc-cage-fighting-cage-wars-4",
+      "round": 2,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2022-11-19T00:00:00.000Z",
+      "opponent": "Kenneth Meadows",
+      "opponentSlug": "361704-kenneth-meadows",
+      "result": "win",
+      "method": "other",
+      "event": "ECC Cage Fighting",
+      "eventSlug": "94953-ecc-cage-fighting-cage-wars-3",
+      "round": 2,
+      "timeInRound": "1:26"
+    },
+    {
+      "date": "2022-07-23T00:00:00.000Z",
+      "opponent": "Morrison Dailey",
+      "opponentSlug": "313148-morrison-dailey",
+      "result": "win",
+      "method": "other",
+      "event": "Southside Rumble 8",
+      "eventSlug": "91798-southside-rumble-8",
+      "round": 2,
+      "timeInRound": "0:50"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:41:25.879Z"
+}

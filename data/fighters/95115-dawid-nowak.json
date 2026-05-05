@@ -1,0 +1,44 @@
+{
+  "slug": "95115-dawid-nowak",
+  "name": "Dawid Nowak",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Poland",
+  "url": "https://www.tapology.com/fightcenter/fighters/95115-dawid-nowak",
+  "recentFights": [
+    {
+      "date": "2015-03-06T00:00:00.000Z",
+      "opponent": "Mateusz Dolega",
+      "opponentSlug": "78990-mateusz-dole",
+      "result": "win",
+      "method": "sub",
+      "event": "PLMMA 49: Łobez",
+      "eventSlug": "29060-plmma-obez",
+      "round": 2,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2013-11-30T00:00:00.000Z",
+      "opponent": "Robert Bryczek",
+      "opponentSlug": "26244-robert-bryczek",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:18:29.672Z"
+}

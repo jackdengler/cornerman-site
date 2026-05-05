@@ -1,0 +1,70 @@
+{
+  "slug": "140511-liz-jackson",
+  "name": "Liz Jackson",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 4,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/140511-liz-jackson",
+  "recentFights": [
+    {
+      "date": "2018-05-05T00:00:00.000Z",
+      "opponent": "Alana Cook",
+      "opponentSlug": "166712-alana-cook",
+      "result": "loss",
+      "method": "sub",
+      "event": "AMA 31: Cinco de MMAyo",
+      "eventSlug": "53612-ama-31-cinco-de-mmayo",
+      "round": 1,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2018-04-21T00:00:00.000Z",
+      "opponent": "Ari Rodriguez",
+      "opponentSlug": "185673-ari-rodriguez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "COGA Combat Games 61",
+      "eventSlug": "50180-combat-games-61",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-10T00:00:00.000Z",
+      "opponent": "Sierra Dinwoodie",
+      "opponentSlug": "110811-sierra-dinwoodie",
+      "result": "loss",
+      "method": "sub",
+      "event": "AMA 27",
+      "eventSlug": "48248-ama-27",
+      "round": 1,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2016-09-17T00:00:00.000Z",
+      "opponent": "Melissa Croden",
+      "opponentSlug": "140510-melissa-croden",
+      "result": "loss",
+      "method": "other",
+      "event": "BFL 45: Ascension",
+      "eventSlug": "41391-bfl-45",
+      "round": 3,
+      "timeInRound": "2:04"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:00:33.271Z"
+}

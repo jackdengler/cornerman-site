@@ -1,0 +1,88 @@
+{
+  "slug": "342652-aleksandar-antonov",
+  "name": "Aleksandar Antonov",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Bulgaria",
+  "url": "https://www.tapology.com/fightcenter/fighters/342652-aleksandar-antonov",
+  "recentFights": [
+    {
+      "date": "2025-08-30T00:00:00.000Z",
+      "opponent": "Asad Temor",
+      "opponentSlug": "357647-asad-temor",
+      "result": "loss",
+      "method": "sub",
+      "event": "Airtox Dominance Academy 1",
+      "eventSlug": "130725-airtox-dominance-academy-1-ad-academy-1",
+      "round": 1,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2025-06-14T00:00:00.000Z",
+      "opponent": "Liam Pitts",
+      "opponentSlug": "323029-liam-pitts",
+      "result": "loss",
+      "method": "other",
+      "event": "AFN 10",
+      "eventSlug": "129297-afn-10",
+      "round": 1,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2023-06-03T00:00:00.000Z",
+      "opponent": "Emil Shahriari",
+      "opponentSlug": "377975-emil-shahriari",
+      "result": "win",
+      "method": "sub",
+      "event": "MMA Galla Vol. 13",
+      "eventSlug": "99808-mma-galla-vol-13",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-04-15T00:00:00.000Z",
+      "opponent": "Steffen Boyle",
+      "opponentSlug": "376003-steffen-boyle",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MMA Galla Vol. 12",
+      "eventSlug": "98068-mma-galla-vol-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-11T00:00:00.000Z",
+      "opponent": "Clech Guimbi",
+      "opponentSlug": "357650-clech-guimbi",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MMA GALLA Vol. 11",
+      "eventSlug": "95856-mma-galla-vol-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-28T00:00:00.000Z",
+      "opponent": "Jakub Pyzara",
+      "opponentSlug": "342653-jakub-pyzara",
+      "result": "win",
+      "method": "sub",
+      "event": "MMA Fight Night Denmark",
+      "eventSlug": "90190-mma-fight-night-denmark",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:10:42.717Z"
+}

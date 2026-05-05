@@ -1,0 +1,92 @@
+{
+  "slug": "80374-danbin-hanson",
+  "name": "Danbin Hanson",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1991-09-12",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/80374-danbin-hanson",
+  "recentFights": [
+    {
+      "date": "2017-08-05T00:00:00.000Z",
+      "opponent": "Eddie Grap",
+      "opponentSlug": "172124-eddie-grap",
+      "result": "win",
+      "method": "other",
+      "event": "Gladiator Challenge",
+      "eventSlug": "46762-gladiator-challenge-absolute-beatdown",
+      "round": 2,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2017-02-18T00:00:00.000Z",
+      "opponent": "Dan Travieso",
+      "opponentSlug": "152407-dan-travieso",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Gladiator Challenge",
+      "eventSlug": "44526-gladiator-challenge-battle-cage",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-11T00:00:00.000Z",
+      "opponent": "Aiden Ramos",
+      "opponentSlug": "152488-aiden-ramos",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Gladiator Challenge",
+      "eventSlug": "43468-gladiator-challenge-holiday-beatings",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-05-30T00:00:00.000Z",
+      "opponent": "Kyler Phillips",
+      "opponentSlug": "93501-kyler-phillips",
+      "result": "loss",
+      "method": "sub",
+      "event": "WFF 21",
+      "eventSlug": "32087-wff-21",
+      "round": 1,
+      "timeInRound": "2:11"
+    },
+    {
+      "date": "2015-02-21T00:00:00.000Z",
+      "opponent": "Rodrigo Rangel",
+      "opponentSlug": "92307-rodrigo-rangel",
+      "result": "win",
+      "method": "tko",
+      "event": "WFF 19: Casino Del Sol Resort Fights",
+      "eventSlug": "29671-wff-19-casino-del-sol-resort-fights",
+      "round": 1,
+      "timeInRound": "2:18"
+    },
+    {
+      "date": "2014-10-04T00:00:00.000Z",
+      "opponent": "Steven Reynolds",
+      "opponentSlug": "80373-steven-reynolds",
+      "result": "win",
+      "method": "tko",
+      "event": "Cage Wars 19",
+      "eventSlug": "26755-cage-wars-19",
+      "round": 3,
+      "timeInRound": "1:10"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:06:19.676Z"
+}

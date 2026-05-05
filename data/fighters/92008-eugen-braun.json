@@ -1,0 +1,121 @@
+{
+  "slug": "92008-eugen-braun",
+  "name": "Eugen Braun",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Germany",
+  "url": "https://www.tapology.com/fightcenter/fighters/92008-eugen-braun",
+  "recentFights": [
+    {
+      "date": "2021-03-20T00:00:00.000Z",
+      "opponent": "Muhammed Celebi",
+      "opponentSlug": "59446-muhammed-celebi",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "GMC Fight Night 6",
+      "eventSlug": "77643-gmc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-22T00:00:00.000Z",
+      "opponent": "Chao Xie",
+      "opponentSlug": "153975-chao-xie",
+      "result": "loss",
+      "method": "tko",
+      "event": "WLF W.A.R.S. 13",
+      "eventSlug": "45353-wlf-wars-13",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-24T00:00:00.000Z",
+      "opponent": "Halil Ibrahim Keskin",
+      "opponentSlug": "66396-halil-ibrahim-keskin",
+      "result": "win",
+      "method": "sub",
+      "event": "Aggrelin 11",
+      "eventSlug": "39457-aggrelin-11",
+      "round": 2,
+      "timeInRound": "2:11"
+    },
+    {
+      "date": "2015-12-19T00:00:00.000Z",
+      "opponent": "Ozan Aslaner",
+      "opponentSlug": "107207-ozan-aslaner",
+      "result": "loss",
+      "method": "other",
+      "event": "Respect FC: Caged 2",
+      "eventSlug": "37082-respect-fc-caged-2",
+      "round": 1,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2015-12-13T00:00:00.000Z",
+      "opponent": "Ruslan Malsam",
+      "opponentSlug": "83652-ruslan-malsam",
+      "result": "loss",
+      "method": "sub",
+      "event": "Aggrelin 9",
+      "eventSlug": "37282-aggrelin-9",
+      "round": 1,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2015-10-25T00:00:00.000Z",
+      "opponent": "Patric De Sousa Carneiro",
+      "opponentSlug": "97065-patric-de-sousa-carneiro",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Age of Cage 6",
+      "eventSlug": "33044-age-of-cage-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-04T00:00:00.000Z",
+      "opponent": "Jan David",
+      "opponentSlug": "167165-jan-david",
+      "result": "win",
+      "method": "sub",
+      "event": "Aggrelin 21",
+      "eventSlug": "48716-aggrelin-21",
+      "round": 1,
+      "timeInRound": "1:42"
+    },
+    {
+      "date": "2015-05-29T00:00:00.000Z",
+      "opponent": "Sascha Geider",
+      "opponentSlug": "102951-sascha-geider",
+      "result": "win",
+      "method": "sub",
+      "event": "Age of Cage 5",
+      "eventSlug": "32313-age-of-cage-5",
+      "round": 1,
+      "timeInRound": "0:27"
+    },
+    {
+      "date": "2015-01-30T00:00:00.000Z",
+      "opponent": "Raphael Seidl",
+      "opponentSlug": "91544-raphael-seidl",
+      "result": "win",
+      "method": "sub",
+      "event": "Age of Cage 4",
+      "eventSlug": "29502-age-of-cage-4",
+      "round": 2,
+      "timeInRound": "2:30"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:07:11.390Z"
+}

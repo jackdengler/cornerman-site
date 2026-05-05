@@ -1,0 +1,103 @@
+{
+  "slug": "225082-levi-gonzales",
+  "name": "Levi Gonzales",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 4,
+    "draws": 0
+  },
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/225082-levi-gonzales",
+  "recentFights": [
+    {
+      "date": "2024-10-19T00:00:00.000Z",
+      "opponent": "Max Davidson",
+      "opponentSlug": "399023-max-davidson",
+      "result": "loss",
+      "method": "sub",
+      "event": "Beatdown Promotions 9",
+      "eventSlug": "116919-beatdown-promotions-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-02T00:00:00.000Z",
+      "opponent": "Nikita Laptsevich",
+      "opponentSlug": "329322-nikita-laptsevich",
+      "result": "win",
+      "method": "sub",
+      "event": "XFC 70",
+      "eventSlug": "97862-xfc-70",
+      "round": 1,
+      "timeInRound": "1:19"
+    },
+    {
+      "date": "2023-05-27T00:00:00.000Z",
+      "opponent": "Mayson Nobetsu",
+      "opponentSlug": "332636-mayson-chin",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "XFC 65",
+      "eventSlug": "97857-xfc-65",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-19T00:00:00.000Z",
+      "opponent": "Val Sharipov",
+      "opponentSlug": "235032-val-sharipov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 64",
+      "eventSlug": "85848-eternal-mma-65",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-20T00:00:00.000Z",
+      "opponent": "Matty Iann",
+      "opponentSlug": "195967-matty-ian",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 58",
+      "eventSlug": "74899-eternal-mma-58",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-27T00:00:00.000Z",
+      "opponent": "Rob Pelle",
+      "opponentSlug": "200557-rob-pelle",
+      "result": "win",
+      "method": "tko",
+      "event": "Eternal MMA 46",
+      "eventSlug": "60268-eternal-mma-46",
+      "round": 1,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2019-05-25T00:00:00.000Z",
+      "opponent": "Dom Mar Fan",
+      "opponentSlug": "196890-dom-mar-fan",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 45",
+      "eventSlug": "59594-eternal-mma-45",
+      "round": 1,
+      "timeInRound": "0:10"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:19:35.817Z"
+}

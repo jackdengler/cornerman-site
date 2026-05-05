@@ -1,0 +1,187 @@
+{
+  "slug": "ousmane-thomas-diagne",
+  "name": "Thomas Diagne",
+  "nickname": "No Mas",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 8,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 186,
+  "reachCm": 193,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1983-09-03",
+  "nationality": "Paris, France",
+  "url": "https://www.tapology.com/fightcenter/fighters/ousmane-thomas-diagne",
+  "recentFights": [
+    {
+      "date": "2017-09-30T00:00:00.000Z",
+      "opponent": "Fabrício Guerreiro",
+      "opponentSlug": "28066-fabricio-costa-da-silva-guerreiro",
+      "result": "loss",
+      "method": "tko",
+      "event": "URCC 32: Fury",
+      "eventSlug": "48053-urcc-32-fury",
+      "round": 3,
+      "timeInRound": "2:51"
+    },
+    {
+      "date": "2017-08-03T00:00:00.000Z",
+      "opponent": "Te Edwards",
+      "opponentSlug": "71728-te-edwards",
+      "result": "loss",
+      "method": "other",
+      "event": "Tachi PF 32",
+      "eventSlug": "47265-tachi-pf-32-perez-vs-george",
+      "round": 1,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2017-03-18T00:00:00.000Z",
+      "opponent": "Antonio Roberto",
+      "opponentSlug": "68701-tony-fox",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Conquer FC 3",
+      "eventSlug": "43759-cfc-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-14T00:00:00.000Z",
+      "opponent": "Mark Dickman",
+      "opponentSlug": "19433-mark-dickman",
+      "result": "loss",
+      "method": "other",
+      "event": "Bellator 154",
+      "eventSlug": "38458-bellator-154",
+      "round": 3,
+      "timeInRound": "3:05"
+    },
+    {
+      "date": "2015-12-04T00:00:00.000Z",
+      "opponent": "Erick Sánchez",
+      "opponentSlug": "33445-erick-sanchez",
+      "result": "loss",
+      "method": "other",
+      "event": "Bellator 147",
+      "eventSlug": "35281-bellator-147",
+      "round": 3,
+      "timeInRound": "1:22"
+    },
+    {
+      "date": "2015-09-19T00:00:00.000Z",
+      "opponent": "Mike Malott",
+      "opponentSlug": "22740-mike-malott",
+      "result": "draw",
+      "method": "dec-majority",
+      "event": "Bellator 142",
+      "eventSlug": "33561-bellator-141-dynamite",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-06-27T00:00:00.000Z",
+      "opponent": "Brandon Ricetti",
+      "opponentSlug": "38048-brandon-ricetti",
+      "result": "loss",
+      "method": "sub",
+      "event": "West Coast FC 10",
+      "eventSlug": "24415-west-coast-fc-10-diagne-vs-ricetti",
+      "round": 2,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2014-04-26T00:00:00.000Z",
+      "opponent": "Dominic Clark",
+      "opponentSlug": "dominic-clark",
+      "result": "win",
+      "method": "other",
+      "event": "West Coast FC 9",
+      "eventSlug": "23293-wcfc-9-griffin-vs-mitchell",
+      "round": 1,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2013-06-21T00:00:00.000Z",
+      "opponent": "Brad McDonald",
+      "opponentSlug": "brad-mcdonald",
+      "result": "win",
+      "method": "other",
+      "event": "TWC 17: Conflict",
+      "eventSlug": "19929-twc-17-conflict",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2012-10-27T00:00:00.000Z",
+      "opponent": "David Douglas",
+      "opponentSlug": "david-douglas-tarzan",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-09-15T00:00:00.000Z",
+      "opponent": "Alexander Trevino",
+      "opponentSlug": "alexander-trevino-spider",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-02-18T00:00:00.000Z",
+      "opponent": "Aaron Lanfranco",
+      "opponentSlug": "aaron-lanfranco",
+      "result": "loss",
+      "method": "other",
+      "event": "Strikeforce Challengers 14",
+      "eventSlug": "strikeforce-challengers-14",
+      "round": 1,
+      "timeInRound": "4:22"
+    },
+    {
+      "date": "2010-07-23T00:00:00.000Z",
+      "opponent": "Caros Fodor",
+      "opponentSlug": "caros-fodor-the-future",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Strikeforce Challengers 9",
+      "eventSlug": "strikeforce-challengers-9-rosario-vs-mahe",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-11-06T00:00:00.000Z",
+      "opponent": "Merritt Warren",
+      "opponentSlug": "merritt-warren-man-of-steel",
+      "result": "loss",
+      "method": "sub",
+      "event": "Strikeforce Challengers 4",
+      "eventSlug": "strikeforce-challengers-4-gurgel-vs-evangelista",
+      "round": 1,
+      "timeInRound": "3:49"
+    },
+    {
+      "date": "2009-05-16T00:00:00.000Z",
+      "opponent": "Kaleo Kwan",
+      "opponentSlug": "kaleo-kwan-leo-boy",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Strikeforce Challengers 1",
+      "eventSlug": "strikeforce-challengers-1-aina-vs-evangelista",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:05:25.889Z"
+}

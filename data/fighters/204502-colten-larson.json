@@ -1,0 +1,125 @@
+{
+  "slug": "204502-colten-larson",
+  "name": "Colten Larson",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 5,
+    "losses": 4,
+    "draws": 0
+  },
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/204502-colten-larson",
+  "recentFights": [
+    {
+      "date": "2021-12-10T00:00:00.000Z",
+      "opponent": "Dylan Reischman",
+      "opponentSlug": "303891-dylan-reischman",
+      "result": "loss",
+      "method": "sub",
+      "event": "FAC 11",
+      "eventSlug": "83992-fac-11",
+      "round": 2,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2021-09-25T00:00:00.000Z",
+      "opponent": "Edwin Jimenez",
+      "opponentSlug": "209713-edwin-jimenez",
+      "result": "loss",
+      "method": "sub",
+      "event": "True Revelation 44",
+      "eventSlug": "82724-true-revelation-44",
+      "round": 1,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2021-05-21T00:00:00.000Z",
+      "opponent": "Thomas Vievering",
+      "opponentSlug": "177571-thomas-vievering",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 108: Fremd vs. Rodrigues",
+      "eventSlug": "79065-lfa-108-fremd-vs-rodrigues",
+      "round": 2,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2021-03-06T00:00:00.000Z",
+      "opponent": "Brandon Hoaglin",
+      "opponentSlug": "176810-brandon-hoalgin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "True Revelation 42",
+      "eventSlug": "77685-true-revelation-42-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-26T00:00:00.000Z",
+      "opponent": "Ricky Allen",
+      "opponentSlug": "207256-ricky-allen",
+      "result": "win",
+      "method": "sub",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "72814-brutaal-genesis-fight-night-back-in-the-barn-17",
+      "round": 1,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2019-11-01T00:00:00.000Z",
+      "opponent": "Ricky Allen",
+      "opponentSlug": "207256-ricky-allen",
+      "result": "win",
+      "method": "sub",
+      "event": "OFC 126: No Retreat No Surrender",
+      "eventSlug": "63512-ofc-126-no-retreat-no-surrender",
+      "round": 1,
+      "timeInRound": "2:19"
+    },
+    {
+      "date": "2019-05-18T00:00:00.000Z",
+      "opponent": "Santana Acosta",
+      "opponentSlug": "85224-santana-acosta",
+      "result": "loss",
+      "method": "sub",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "60302-brutaal-genesis-fight-night-fort-frenzy-7",
+      "round": 3,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2019-01-26T00:00:00.000Z",
+      "opponent": "Paul Burgin",
+      "opponentSlug": "56774-paul-burgin",
+      "result": "loss",
+      "method": "sub",
+      "event": "KOTC: Hunting Season",
+      "eventSlug": "57241-kotc-hunting-season",
+      "round": 3,
+      "timeInRound": "2:08"
+    },
+    {
+      "date": "2018-12-15T00:00:00.000Z",
+      "opponent": "Colton Bishop",
+      "opponentSlug": "194540-colton-bishop",
+      "result": "win",
+      "method": "other",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "56749-brutaal-genesis-fight-night-back-in-the-barn-13",
+      "round": 1,
+      "timeInRound": "1:07"
+    }
+  ],
+  "lastVerified": "2026-04-18T09:06:07.982Z"
+}

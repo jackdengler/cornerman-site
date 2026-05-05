@@ -1,0 +1,154 @@
+{
+  "slug": "61092-isi-fitikefu",
+  "name": "Isi Fitikefu",
+  "nickname": "Doxz",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 177,
+  "reachCm": 183,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1992-09-14",
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/61092-isi-fitikefu",
+  "recentFights": [
+    {
+      "date": "2026-01-23T00:00:00.000Z",
+      "opponent": "Chase Mann",
+      "opponentSlug": "314093-chase-mann",
+      "result": "loss",
+      "method": "other",
+      "event": "ONE Fight Night 39",
+      "eventSlug": "136786-one-fight-night-39",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2024-09-06T00:00:00.000Z",
+      "opponent": "Hiroyuki Tetsuka",
+      "opponentSlug": "39909-hiroyuki-tetsuka-last-samurai",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE 168: Haggerty vs. Superlek",
+      "eventSlug": "109349-one-fight-night-26",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-04-21T00:00:00.000Z",
+      "opponent": "Valmir da Silva",
+      "opponentSlug": "180960-valmir-da-silva-junior",
+      "result": "win",
+      "method": "sub",
+      "event": "ONE Fight Night 9",
+      "eventSlug": "96959-one-on-prime-video-9",
+      "round": 1,
+      "timeInRound": "4:15"
+    },
+    {
+      "date": "2022-11-18T00:00:00.000Z",
+      "opponent": "Ruslan Emilbek",
+      "opponentSlug": "99361-emilbek-uulu-ruslan",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "ONE Fight Night 4",
+      "eventSlug": "91425-one-on-prime-video-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-01T00:00:00.000Z",
+      "opponent": "Ryan Mills",
+      "opponentSlug": "95787-ryan-mills",
+      "result": "win",
+      "method": "other",
+      "event": "Rogue MMA 3",
+      "eventSlug": "89872-rogue-mma-3",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2019-10-04T00:00:00.000Z",
+      "opponent": "Kitt Campbell",
+      "opponentSlug": "59598-kitt-campbell",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 48",
+      "eventSlug": "62409-eternal-mma-48",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-07T00:00:00.000Z",
+      "opponent": "Cam Rowston",
+      "opponentSlug": "69262-cam-rowston",
+      "result": "win",
+      "method": "other",
+      "event": "Superfight MMA 8",
+      "eventSlug": "55071-superfight-mma-8",
+      "round": 1,
+      "timeInRound": "3:19"
+    },
+    {
+      "date": "2018-03-10T00:00:00.000Z",
+      "opponent": "Josh Della",
+      "opponentSlug": "134381-josh-della",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 31",
+      "eventSlug": "51578-eternal-mma-31",
+      "round": 2,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2017-08-05T00:00:00.000Z",
+      "opponent": "Darcy Vendy",
+      "opponentSlug": "48380-darcy-vendy",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 27",
+      "eventSlug": "47401-eternal-mma-27",
+      "round": 1,
+      "timeInRound": "4:19"
+    },
+    {
+      "date": "2015-08-21T00:00:00.000Z",
+      "opponent": "Nathan Luff",
+      "opponentSlug": "30097-nathan-luff",
+      "result": "win",
+      "method": "sub",
+      "event": "Superfight MMA 1",
+      "eventSlug": "33990-superfight-mma-1",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2015-05-30T00:00:00.000Z",
+      "opponent": "Michele Evans",
+      "opponentSlug": "94621-michele-evans",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 10",
+      "eventSlug": "30055-eternal-mma-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-02-15T00:00:00.000Z",
+      "opponent": "Andrew Mills",
+      "opponentSlug": "60603-andrew-mills",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Cage Conquest 3",
+      "eventSlug": "22071-cage-conquest-3",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:17:33.687Z"
+}

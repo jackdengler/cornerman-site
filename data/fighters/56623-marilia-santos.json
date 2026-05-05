@@ -1,0 +1,165 @@
+{
+  "slug": "56623-marilia-santos",
+  "name": "Marilia Santos",
+  "nickname": "Chocolate",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 163,
+  "reachCm": 171,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1992-12-10",
+  "nationality": "Sao Felix, Bahia, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/56623-marilia-santos",
+  "recentFights": [
+    {
+      "date": "2019-10-04T00:00:00.000Z",
+      "opponent": "Mariya Agapova",
+      "opponentSlug": "156192-mariya-agapova",
+      "result": "loss",
+      "method": "other",
+      "event": "Invicta FC 37",
+      "eventSlug": "62234-invicta-fc-37",
+      "round": 1,
+      "timeInRound": "4:55"
+    },
+    {
+      "date": "2019-08-06T00:00:00.000Z",
+      "opponent": "Lucrezia Ria",
+      "opponentSlug": "76000-lucrezia-ria",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Contender Series 2019",
+      "eventSlug": "59998-dw-s-contender-series-2019-week-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-10T00:00:00.000Z",
+      "opponent": "Erika Sousa",
+      "opponentSlug": "140731-erika-alcantara-mulher-maravilha",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Super Fight Brazil 1",
+      "eventSlug": "57328-super-fight-brazil-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-22T00:00:00.000Z",
+      "opponent": "Noemi Galarza",
+      "opponentSlug": "183811-noemi-galarza",
+      "result": "win",
+      "method": "sub",
+      "event": "Ragnarok 10",
+      "eventSlug": "54129-ragnarok-10",
+      "round": 2,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2017-08-28T00:00:00.000Z",
+      "opponent": "Weili Zhang",
+      "opponentSlug": "83443-weili-zhang",
+      "result": "loss",
+      "method": "tko",
+      "event": "Kunlun Fight MMA 14",
+      "eventSlug": "47703-kunlun-fight-mma-14",
+      "round": 2,
+      "timeInRound": "3:20"
+    },
+    {
+      "date": "2016-12-15T00:00:00.000Z",
+      "opponent": "Qihui Yan",
+      "opponentSlug": "138393-qihui-yan",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Kunlun Fight MMA 7",
+      "eventSlug": "42953-kunlun-fight-mma-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-14T00:00:00.000Z",
+      "opponent": "Dayanne Espadas",
+      "opponentSlug": "143682-dayanne-espadas-pegasus",
+      "result": "win",
+      "method": "sub",
+      "event": "Xtreme Fighters Latino",
+      "eventSlug": "42625-xtreme-fighters-latino",
+      "round": 1,
+      "timeInRound": "2:03"
+    },
+    {
+      "date": "2016-08-13T00:00:00.000Z",
+      "opponent": "Erika Sousa",
+      "opponentSlug": "140731-erika-alcantara-mulher-maravilha",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-30T00:00:00.000Z",
+      "opponent": "Mayra Bueno Silva",
+      "opponentSlug": "140732-mayra-bueno-silva-sheetara",
+      "result": "loss",
+      "method": "other",
+      "event": "Sidney Sibamba Fight 4",
+      "eventSlug": "40462-sidney-sibamba-fight-4",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2015-09-19T00:00:00.000Z",
+      "opponent": "Kate Da Silva",
+      "opponentSlug": "52899-kate-da-silva-jiu-jitseira",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XFC International 11",
+      "eventSlug": "34801-xfc-international-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-15T00:00:00.000Z",
+      "opponent": "Aline Sattelmayer",
+      "opponentSlug": "48681-aline-sattelmayer",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "MMA Super Heroes 7",
+      "eventSlug": "28116-mma-super-heroes-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-08-09T00:00:00.000Z",
+      "opponent": "Gina Naja",
+      "opponentSlug": "83425-gina-naja",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-05-30T00:00:00.000Z",
+      "opponent": "Chayani Mendes",
+      "opponentSlug": "39646-chayani-mendes",
+      "result": "win",
+      "method": "tko",
+      "event": "Iron FC 7",
+      "eventSlug": "23853-iron-fc-7",
+      "round": 1,
+      "timeInRound": "3:09"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:54:31.643Z"
+}

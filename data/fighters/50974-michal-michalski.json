@@ -1,0 +1,242 @@
+{
+  "slug": "50974-michal-michalski",
+  "name": "Michał Michalski",
+  "nickname": "Cukier",
+  "aliases": [],
+  "recordPro": {
+    "wins": 14,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": 180,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1989-07-17",
+  "nationality": "Złotoryja, Poland",
+  "url": "https://www.tapology.com/fightcenter/fighters/50974-michal-michalski",
+  "recentFights": [
+    {
+      "date": "2026-05-16T00:00:00.000Z",
+      "opponent": "Piotr Kuberski",
+      "opponentSlug": "151902-piotr-kuberki",
+      "result": null,
+      "method": "other",
+      "event": "KSW 118: Kuberski vs. Michalski",
+      "eventSlug": "140228-ksw-118",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-12-20T00:00:00.000Z",
+      "opponent": "Damian Janikowski",
+      "opponentSlug": "148520-damian-janikowski",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 113: Bartosiński vs. Tulshaev",
+      "eventSlug": "132943-ksw-113",
+      "round": 1,
+      "timeInRound": "4:19"
+    },
+    {
+      "date": "2025-08-09T00:00:00.000Z",
+      "opponent": "Andi Vrtačić",
+      "opponentSlug": "257185-andi-vrtacic",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KSW 109: Kuberski vs. Paczuski",
+      "eventSlug": "129471-ksw-109",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-11T00:00:00.000Z",
+      "opponent": "Bartosz Leśko",
+      "opponentSlug": "83714-bartosz-leko",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 94: Bartosiński vs. Michaliszyn",
+      "eventSlug": "108594-ksw-94",
+      "round": 1,
+      "timeInRound": "1:42"
+    },
+    {
+      "date": "2023-09-16T00:00:00.000Z",
+      "opponent": "Dominik Humburger",
+      "opponentSlug": "169531-dominik-humburger",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KSW 86: Wikłacz vs. Przybysz 4",
+      "eventSlug": "103172-ksw-86",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-17T00:00:00.000Z",
+      "opponent": "Erikas Golubovskis",
+      "opponentSlug": "187398-erikas-golubovskis",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 80: Ruchała vs. Eskijev",
+      "eventSlug": "97604-ksw-80",
+      "round": 1,
+      "timeInRound": "2:43"
+    },
+    {
+      "date": "2021-07-17T00:00:00.000Z",
+      "opponent": "Adrian Bartosiński",
+      "opponentSlug": "170800-adrian-bartosiski",
+      "result": "loss",
+      "method": "other",
+      "event": "KSW 62: Kołecki vs. Szostak",
+      "eventSlug": "79667-ksw-62",
+      "round": 1,
+      "timeInRound": "1:53"
+    },
+    {
+      "date": "2021-01-30T00:00:00.000Z",
+      "opponent": "Aleksandar Rakas",
+      "opponentSlug": "33119-aleksandar-rakas",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 58: Parnasse vs. Torres",
+      "eventSlug": "75182-ksw-58",
+      "round": 1,
+      "timeInRound": "4:35"
+    },
+    {
+      "date": "2019-12-07T00:00:00.000Z",
+      "opponent": "Albert Odzimkowski",
+      "opponentSlug": "50072-albert-odzimkowski-zloty",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 52: Askham vs. Khalidov",
+      "eventSlug": "62927-ksw-52-askhan-vs-mamedov",
+      "round": 1,
+      "timeInRound": "4:31"
+    },
+    {
+      "date": "2019-04-27T00:00:00.000Z",
+      "opponent": "Savo Lazić",
+      "opponentSlug": "98440-savo-lazi",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 48: Szymański vs. Parnasse",
+      "eventSlug": "58790-ksw-48",
+      "round": 2,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2018-12-01T00:00:00.000Z",
+      "opponent": "Krystian Kaszubowski",
+      "opponentSlug": "67578-krystian-kaszubowski",
+      "result": "loss",
+      "method": "other",
+      "event": "KSW 46: Narkun vs. Khalidov 2",
+      "eventSlug": "55779-ksw-46",
+      "round": 1,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2018-04-14T00:00:00.000Z",
+      "opponent": "David Zawada",
+      "opponentSlug": "33906-david-zawada",
+      "result": "loss",
+      "method": "sub",
+      "event": "KSW 43: Soldić vs. Du Plessis",
+      "eventSlug": "50932-ksw-43",
+      "round": 3,
+      "timeInRound": "0:48"
+    },
+    {
+      "date": "2017-10-14T00:00:00.000Z",
+      "opponent": "Nassourdine Imavov",
+      "opponentSlug": "125404-nassourdine-imavov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fight Exclusive Night 19",
+      "eventSlug": "47180-fight-exclusive-night-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-20T00:00:00.000Z",
+      "opponent": "Davy Gallon",
+      "opponentSlug": "50962-davy-gallon",
+      "result": "loss",
+      "method": "other",
+      "event": "Fight Exclusive Night 12",
+      "eventSlug": "36991-fight-exclusive-night-12",
+      "round": 4,
+      "timeInRound": "2:39"
+    },
+    {
+      "date": "2015-11-07T00:00:00.000Z",
+      "opponent": "Rafał Błachuta",
+      "opponentSlug": "34432-rafal-blachuta",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fight Exclusive Night 9",
+      "eventSlug": "34424-fight-exclusive-night-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-06T00:00:00.000Z",
+      "opponent": "Mariusz Radziszewski",
+      "opponentSlug": "18940-mariusz-radziszewski-radzik",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Exclusive Night 6",
+      "eventSlug": "29284-fight-exclusive-night-6",
+      "round": 1,
+      "timeInRound": "2:36"
+    },
+    {
+      "date": "2015-01-10T00:00:00.000Z",
+      "opponent": "Adam Niedźwiedź",
+      "opponentSlug": "62174-adam-niedwied",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Exclusive Night 5",
+      "eventSlug": "28115-fight-exclusive-night-5",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2014-03-01T00:00:00.000Z",
+      "opponent": "Paweł Obrzut",
+      "opponentSlug": "62342-pawe-obrzut",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Pro MMA Challenge 1",
+      "eventSlug": "22325-pro-mma-challenge-1-narodziny",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-12-21T00:00:00.000Z",
+      "opponent": "Kamil Szymański",
+      "opponentSlug": "50976-kamil-szymanski",
+      "result": "win",
+      "method": "other",
+      "event": "1st Warriors Fight Night",
+      "eventSlug": "22267-warriors-fight-night-1",
+      "round": 1,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2013-07-06T00:00:00.000Z",
+      "opponent": "Daniel Skibiński",
+      "opponentSlug": "50975-daniel-skibinski",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "GMC 4: Next Level",
+      "eventSlug": "19458-gmc-4-next-level",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:03:18.802Z"
+}

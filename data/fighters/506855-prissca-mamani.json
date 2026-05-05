@@ -1,0 +1,48 @@
+{
+  "slug": "506855-prissca-mamani",
+  "name": "Prissca Mamani",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Bolivia",
+  "url": "https://www.tapology.com/fightcenter/fighters/506855-prissca-mamani",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Ariana Velasquez",
+      "opponentSlug": "557371-ariana-velasquez",
+      "result": null,
+      "method": "other",
+      "event": "Noche de Campeones 10",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-06-27T00:00:00.000Z",
+      "opponent": "Pilar Callejas",
+      "opponentSlug": "506854-pilar-callejas",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Noche de Campeones 6",
+      "eventSlug": "130298-noche-de-campeones-6",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:01:57.758Z"
+}

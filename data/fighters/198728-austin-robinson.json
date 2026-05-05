@@ -1,0 +1,165 @@
+{
+  "slug": "198728-austin-robinson",
+  "name": "Austin Robinson",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1998-02-07",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/198728-austin-robinson",
+  "recentFights": [
+    {
+      "date": "2024-07-27T00:00:00.000Z",
+      "opponent": "Sean Johnson",
+      "opponentSlug": "66414-sean-johnson",
+      "result": "win",
+      "method": "other",
+      "event": "North Iowa Fights 19",
+      "eventSlug": "113691-north-iowa-fights-19",
+      "round": 1,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2023-07-15T00:00:00.000Z",
+      "opponent": "Ruben Garcia",
+      "opponentSlug": "136394-ruben-garcia",
+      "result": "win",
+      "method": "other",
+      "event": "North Iowa Fights 16",
+      "eventSlug": "99848-north-iowa-fights-16",
+      "round": 1,
+      "timeInRound": "0:11"
+    },
+    {
+      "date": "2022-11-19T00:00:00.000Z",
+      "opponent": "Anthony Kellen",
+      "opponentSlug": "19529-anthony-kellen",
+      "result": "loss",
+      "method": "sub",
+      "event": "North Iowa Fights 15",
+      "eventSlug": "94190-north-iowa-fights",
+      "round": 2,
+      "timeInRound": "3:04"
+    },
+    {
+      "date": "2022-05-21T00:00:00.000Z",
+      "opponent": "Eli Mefford",
+      "opponentSlug": "151759-eli-mefford",
+      "result": "win",
+      "method": "other",
+      "event": "North Iowa Fights",
+      "eventSlug": "85336-north-iowa-fights",
+      "round": 1,
+      "timeInRound": "4:34"
+    },
+    {
+      "date": "2022-04-15T00:00:00.000Z",
+      "opponent": "Mike O'Gorman",
+      "opponentSlug": "13089-mike-ogormon",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 129: Petersen vs. Cortes-Acosta",
+      "eventSlug": "87693-lfa-129-petersen-vs-cortes-acosta",
+      "round": 2,
+      "timeInRound": "0:22"
+    },
+    {
+      "date": "2021-12-10T00:00:00.000Z",
+      "opponent": "Quang Le",
+      "opponentSlug": "114976-quang-le",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 120: Cantuária vs. Horth",
+      "eventSlug": "84181-lfa-120-cantuaria-vs-horth",
+      "round": 1,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2021-07-31T00:00:00.000Z",
+      "opponent": "Miguel Sanson",
+      "opponentSlug": "277365-miguel-sanson",
+      "result": "loss",
+      "method": "other",
+      "event": "North Iowa Fights",
+      "eventSlug": "80900-north-iowa-fights",
+      "round": 3,
+      "timeInRound": "2:09"
+    },
+    {
+      "date": "2020-09-12T00:00:00.000Z",
+      "opponent": "Gisaveri Niyibizi",
+      "opponentSlug": "238166-gisaveri-niyibizi",
+      "result": "win",
+      "method": "sub",
+      "event": "Extreme Challenge 239",
+      "eventSlug": "72763-extreme-challenge-239",
+      "round": 2,
+      "timeInRound": "1:06"
+    },
+    {
+      "date": "2019-11-09T00:00:00.000Z",
+      "opponent": "Mikey Sowder",
+      "opponentSlug": "149741-mikey-sowder",
+      "result": "win",
+      "method": "sub",
+      "event": "North Iowa Fights",
+      "eventSlug": "61440-north-iowa-fights",
+      "round": 1,
+      "timeInRound": "1:51"
+    },
+    {
+      "date": "2019-06-29T00:00:00.000Z",
+      "opponent": "Devon Lozej",
+      "opponentSlug": "205775-devon-lozej",
+      "result": "loss",
+      "method": "tko",
+      "event": "Warrior Games 6",
+      "eventSlug": "59520-warrior-games-vi",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-27T00:00:00.000Z",
+      "opponent": "Corey Kasperbauer",
+      "opponentSlug": "197086-corey-kasperbauer",
+      "result": "win",
+      "method": "other",
+      "event": "North Iowa Fights",
+      "eventSlug": "57938-north-iowa-fights",
+      "round": 1,
+      "timeInRound": "2:37"
+    },
+    {
+      "date": "2019-02-23T00:00:00.000Z",
+      "opponent": "Carlos Woolard",
+      "opponentSlug": "53449-carlos-woolard",
+      "result": "loss",
+      "method": "sub",
+      "event": "Elite Fight League 3",
+      "eventSlug": "57280-elite-fight-league-3",
+      "round": 1,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2018-10-20T00:00:00.000Z",
+      "opponent": "Jesse Fee",
+      "opponentSlug": "198729-jesse-fee",
+      "result": "win",
+      "method": "sub",
+      "event": "Extreme Challenge 238",
+      "eventSlug": "55941-extreme-challenge-238",
+      "round": 1,
+      "timeInRound": "0:31"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:36:25.407Z"
+}

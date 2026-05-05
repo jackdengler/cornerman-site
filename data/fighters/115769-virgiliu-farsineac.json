@@ -1,0 +1,154 @@
+{
+  "slug": "115769-virgiliu-farsineac",
+  "name": "Virgiliu Frasineac",
+  "nickname": "The Iceman",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1995-01-02",
+  "nationality": "Moldova",
+  "url": "https://www.tapology.com/fightcenter/fighters/115769-virgiliu-farsineac",
+  "recentFights": [
+    {
+      "date": "2021-08-01T00:00:00.000Z",
+      "opponent": "Ahmad Labban",
+      "opponentSlug": "86681-ahmad-labban-the-shadow",
+      "result": "loss",
+      "method": "other",
+      "event": "BRAVE CF 52",
+      "eventSlug": "79778-brave-cf-italy",
+      "round": 2,
+      "timeInRound": "1:09"
+    },
+    {
+      "date": "2020-10-03T00:00:00.000Z",
+      "opponent": "Robert Bryczek",
+      "opponentSlug": "26244-robert-bryczek",
+      "result": "loss",
+      "method": "other",
+      "event": "FEN 30: LOTOS Fight Night 3",
+      "eventSlug": "71974-fen-30",
+      "round": 5,
+      "timeInRound": "3:28"
+    },
+    {
+      "date": "2018-05-05T00:00:00.000Z",
+      "opponent": "Jean Dutriaux",
+      "opponentSlug": "117654-jean-dutriaux",
+      "result": "win",
+      "method": "tko",
+      "event": "Italian Fighting Championship 3",
+      "eventSlug": "52893-italian-fighting-championship-3",
+      "round": 1,
+      "timeInRound": "3:54"
+    },
+    {
+      "date": "2018-02-18T00:00:00.000Z",
+      "opponent": "Angelo Marchesani di Spalatro",
+      "opponentSlug": "173403-angelo-marchesani-di-splataro",
+      "result": "win",
+      "method": "other",
+      "event": "Italian Fighting Championship 1",
+      "eventSlug": "52927-italian-fighting-championship-1-biclea-vs-nuzzi",
+      "round": 1,
+      "timeInRound": "1:11"
+    },
+    {
+      "date": "2017-12-16T00:00:00.000Z",
+      "opponent": "Marco Saccaro",
+      "opponentSlug": "115452-marco-saccaro",
+      "result": "win",
+      "method": "sub",
+      "event": "Venator FC: Kingdom 2",
+      "eventSlug": "48740-venator-fc-kingdom-2",
+      "round": 2,
+      "timeInRound": "2:35"
+    },
+    {
+      "date": "2017-01-28T00:00:00.000Z",
+      "opponent": "Leonardo D'Auria",
+      "opponentSlug": "28423-leonardo-dauria",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-10T00:00:00.000Z",
+      "opponent": "Rahim Miradjeddin",
+      "opponentSlug": "88979-rahim-miradjeddin",
+      "result": "win",
+      "method": "other",
+      "event": "Nippon FC 5",
+      "eventSlug": "44455-nippon-fc-5",
+      "round": 1,
+      "timeInRound": "3:47"
+    },
+    {
+      "date": "2016-10-29T00:00:00.000Z",
+      "opponent": "Matteo Capaccioli",
+      "opponentSlug": "146098-matteo-capaccioli",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fight or Nothing",
+      "eventSlug": "43216-fight-or-nothing-road-to-bellator-final-countdown",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-06-25T00:00:00.000Z",
+      "opponent": "Marku Elkier",
+      "opponentSlug": "107291-marku-elkier",
+      "result": "win",
+      "method": "other",
+      "event": "Luctor Cage Fight",
+      "eventSlug": "40760-luctor-cage-fight-luctor-genus",
+      "round": 1,
+      "timeInRound": "4:07"
+    },
+    {
+      "date": "2016-04-02T00:00:00.000Z",
+      "opponent": "Carlo Pedersoli",
+      "opponentSlug": "100348-carlo-pedersoli",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fight or Nothing",
+      "eventSlug": "38907-fight-or-nothing-road-to-bellator",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-10T00:00:00.000Z",
+      "opponent": "Julien Bally",
+      "opponentSlug": "115770-julien-bally",
+      "result": "win",
+      "method": "other",
+      "event": "SMMAC 3",
+      "eventSlug": "35283-smmac-3",
+      "round": 1,
+      "timeInRound": "3:30"
+    },
+    {
+      "date": "2015-05-09T00:00:00.000Z",
+      "opponent": "Fabio Carbone",
+      "opponentSlug": "115848-fabio-carbone",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:18:10.138Z"
+}

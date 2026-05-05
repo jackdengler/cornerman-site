@@ -1,0 +1,242 @@
+{
+  "slug": "131911-alfredo-muaiad",
+  "name": "Alfredo Muaiad",
+  "nickname": "Mono con Navaja",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1988-11-29",
+  "nationality": "Chile",
+  "url": "https://www.tapology.com/fightcenter/fighters/131911-alfredo-muaiad",
+  "recentFights": [
+    {
+      "date": "2026-05-07T00:00:00.000Z",
+      "opponent": "Erfan Ahangarian",
+      "opponentSlug": "386524-erfan-ahangarian",
+      "result": null,
+      "method": "other",
+      "event": "BFL 87",
+      "eventSlug": "141895-bfl-87",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-21T00:00:00.000Z",
+      "opponent": "Tommy Morrisson",
+      "opponentSlug": "101292-tommy-morrison",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Samourai MMA 17",
+      "eventSlug": "134223-samourai-mma-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-08-31T00:00:00.000Z",
+      "opponent": "Nicolas Sandoval",
+      "opponentSlug": "203862-nicolas-sandoval",
+      "result": "win",
+      "method": "other",
+      "event": "OFL 14",
+      "eventSlug": "131154-open-fight-latam-14",
+      "round": 2,
+      "timeInRound": "3:39"
+    },
+    {
+      "date": "2025-01-16T00:00:00.000Z",
+      "opponent": "Muhidin Abubakar",
+      "opponentSlug": "165261-muhidin-abubakar",
+      "result": "loss",
+      "method": "other",
+      "event": "UAE Warriors 56",
+      "eventSlug": "122565-uae-warriors-56-arabia-vs-africa",
+      "round": 1,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2024-09-27T00:00:00.000Z",
+      "opponent": "Sithembiso Hadebe",
+      "opponentSlug": "216829-sthembiso-hadebe",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UAE Warriors 53",
+      "eventSlug": "117984-uae-warriors-53-arabia-vs-africa",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-01-21T00:00:00.000Z",
+      "opponent": "Maysara Mohamed",
+      "opponentSlug": "217779-maysara-ahmed",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UAE Warriors 47",
+      "eventSlug": "109077-uae-warriors-47",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-10T00:00:00.000Z",
+      "opponent": "Roque Conceição",
+      "opponentSlug": "145239-roque-junior",
+      "result": "loss",
+      "method": "tko",
+      "event": "Ragnarok Combate 6",
+      "eventSlug": "100558-ragnarok-6",
+      "round": 2,
+      "timeInRound": "4:39"
+    },
+    {
+      "date": "2022-12-10T00:00:00.000Z",
+      "opponent": "Jimmy Martinez Vela",
+      "opponentSlug": "119748-jimmy-martinez-vela",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ragnarok Combate 4",
+      "eventSlug": "95950-ragnarok-combate-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-10-08T00:00:00.000Z",
+      "opponent": "Marcéu Pasin",
+      "opponentSlug": "195962-marceu-pasin",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Open Fight Chile 1",
+      "eventSlug": "90901-thunder-fight-chile",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-30T00:00:00.000Z",
+      "opponent": "Fernando Salto",
+      "opponentSlug": "158061-fernando-salto",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFN 5",
+      "eventSlug": "87107-lfn-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-06T00:00:00.000Z",
+      "opponent": "Tatsuro Taira",
+      "opponentSlug": "145595-tatsuro-taira",
+      "result": "loss",
+      "method": "sub",
+      "event": "VTJ 2021",
+      "eventSlug": "83315-vtj-2021",
+      "round": 1,
+      "timeInRound": "4:12"
+    },
+    {
+      "date": "2021-08-28T00:00:00.000Z",
+      "opponent": "Enrique Pacheco Parra",
+      "opponentSlug": "96485-enrique-pacheco-pesadilla",
+      "result": "win",
+      "method": "other",
+      "event": "Live Fight Night 3",
+      "eventSlug": "81095-live-fight-night-3",
+      "round": 4,
+      "timeInRound": "3:15"
+    },
+    {
+      "date": "2021-05-29T00:00:00.000Z",
+      "opponent": "Francisco Vasquez",
+      "opponentSlug": "195662-francisco-vasquez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Live Fight Night 2",
+      "eventSlug": "77687-live-fight-night-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-11-21T00:00:00.000Z",
+      "opponent": "Enrique Pacheco Parra",
+      "opponentSlug": "96485-enrique-pacheco-pesadilla",
+      "result": "loss",
+      "method": "sub",
+      "event": "Live Fight Night",
+      "eventSlug": "73022-one-live-2",
+      "round": 1,
+      "timeInRound": "1:52"
+    },
+    {
+      "date": "2019-06-15T00:00:00.000Z",
+      "opponent": "John Jairo Quiñones",
+      "opponentSlug": "136937-jon-jairo-quionez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "300 Sparta 32",
+      "eventSlug": "60782-300-sparta-32-tolentino-vs-muaiad",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-06T00:00:00.000Z",
+      "opponent": "Ignacio Rodriguez",
+      "opponentSlug": "216410-ignacio-rodriguez",
+      "result": "win",
+      "method": "tko",
+      "event": "MMA Fighter 3",
+      "eventSlug": "59134-mma-fighter-3",
+      "round": 1,
+      "timeInRound": "2:18"
+    },
+    {
+      "date": "2018-12-01T00:00:00.000Z",
+      "opponent": "Julio Tapia",
+      "opponentSlug": "202974-julio-tapia-el-mudo",
+      "result": "win",
+      "method": "tko",
+      "event": "MMA Fighter 2",
+      "eventSlug": "56819-mma-fighter-2",
+      "round": 1,
+      "timeInRound": "1:33"
+    },
+    {
+      "date": "2018-08-04T00:00:00.000Z",
+      "opponent": "Renzo Serendero Santiesteban",
+      "opponentSlug": "89400-renzo-serendero",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-17T00:00:00.000Z",
+      "opponent": "Enrique Pacheco Parra",
+      "opponentSlug": "96485-enrique-pacheco-pesadilla",
+      "result": "loss",
+      "method": "sub",
+      "event": "MFC 13: End of Conflict",
+      "eventSlug": "43107-mfc-13-end-of-conflict",
+      "round": 2,
+      "timeInRound": "1:34"
+    },
+    {
+      "date": "2016-04-23T00:00:00.000Z",
+      "opponent": "Henry Figueroa",
+      "opponentSlug": "131912-henry-figueroa",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MFC Amateur 9",
+      "eventSlug": "39635-mfc-amateur-9",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T22:59:10.720Z"
+}

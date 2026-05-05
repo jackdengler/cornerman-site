@@ -1,0 +1,66 @@
+{
+  "slug": "165274-alberto-tapia",
+  "name": "Alberto Tapia",
+  "nickname": "La Bestia",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 7,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1986-01-01",
+  "nationality": "Oviedo, Principado de Asturias, Spain",
+  "url": "https://www.tapology.com/fightcenter/fighters/165274-alberto-tapia",
+  "recentFights": [
+    {
+      "date": "2018-11-24T00:00:00.000Z",
+      "opponent": "Paul Marconnie",
+      "opponentSlug": "129106-paul-marconnie",
+      "result": "loss",
+      "method": "other",
+      "event": "AFL 17: Coal and Blood",
+      "eventSlug": "55651-afl-17-coal-and-blood",
+      "round": 1,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2017-10-14T00:00:00.000Z",
+      "opponent": "Ricardo Echarte",
+      "opponentSlug": "160805-ricardo-etxarte",
+      "result": "loss",
+      "method": "sub",
+      "event": "AFL 13",
+      "eventSlug": "46917-afl-13",
+      "round": 2,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2022-03-26T00:00:00.000Z",
+      "opponent": "Patryk Rogóż",
+      "opponentSlug": "56467-patryk-rogoz",
+      "result": "loss",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "88079-gamma-world-mma-championships-2021-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-08T00:00:00.000Z",
+      "opponent": "Vojtech Garba",
+      "opponentSlug": "145826-vojtech-garba",
+      "result": "loss",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "115328-gamma-european-championships-2021-day-3",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:09:19.218Z"
+}

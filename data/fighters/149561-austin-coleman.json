@@ -1,0 +1,253 @@
+{
+  "slug": "149561-austin-coleman",
+  "name": "Austin Coleman",
+  "nickname": "The Assassin",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 175,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1997-05-08",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/149561-austin-coleman",
+  "recentFights": [
+    {
+      "date": "2026-03-20T00:00:00.000Z",
+      "opponent": "Devante Sewell",
+      "opponentSlug": "91224-devante-sewell",
+      "result": "loss",
+      "method": "sub",
+      "event": "NFC 186",
+      "eventSlug": "140545-nfc-186",
+      "round": 1,
+      "timeInRound": "0:58"
+    },
+    {
+      "date": "2025-08-22T00:00:00.000Z",
+      "opponent": "Bimysola Attobra",
+      "opponentSlug": "270320-bimysola-attobra",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "NFC 179",
+      "eventSlug": "130643-nfc-179",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-23T00:00:00.000Z",
+      "opponent": "Lucas Brennan",
+      "opponentSlug": "162427-lucas-brennan",
+      "result": "loss",
+      "method": "sub",
+      "event": "XKO 70",
+      "eventSlug": "126311-xko-70",
+      "round": 1,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2025-03-29T00:00:00.000Z",
+      "opponent": "Chase Boutwell",
+      "opponentSlug": "152008-chase-boutwell",
+      "result": "loss",
+      "method": "tko",
+      "event": "NFC 175",
+      "eventSlug": "126152-nfc-175",
+      "round": 2,
+      "timeInRound": "4:08"
+    },
+    {
+      "date": "2025-01-25T00:00:00.000Z",
+      "opponent": "Zac Cooper",
+      "opponentSlug": "49259-zac-cooper",
+      "result": "win",
+      "method": "other",
+      "event": "NFC 172",
+      "eventSlug": "121178-nfc-172",
+      "round": 1,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2024-10-26T00:00:00.000Z",
+      "opponent": "Josh Koser",
+      "opponentSlug": "47285-josh-koser",
+      "result": "win",
+      "method": "tko",
+      "event": "NFC 169",
+      "eventSlug": "117780-nfc-169",
+      "round": 1,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2024-06-08T00:00:00.000Z",
+      "opponent": "Oscar Garcia Jr.",
+      "opponentSlug": "97746-oscar-garcia",
+      "result": "loss",
+      "method": "other",
+      "event": "Maverick MMA 28",
+      "eventSlug": "111276-maverick-mma-28",
+      "round": 1,
+      "timeInRound": "3:50"
+    },
+    {
+      "date": "2024-03-01T00:00:00.000Z",
+      "opponent": "Bill Markle",
+      "opponentSlug": "114551-bill-markle",
+      "result": "win",
+      "method": "other",
+      "event": "Ring of Combat 83",
+      "eventSlug": "107764-ring-of-combat-83",
+      "round": 1,
+      "timeInRound": "1:06"
+    },
+    {
+      "date": "2023-12-08T00:00:00.000Z",
+      "opponent": "Joel Winters",
+      "opponentSlug": "230002-joel-winters",
+      "result": "loss",
+      "method": "tko",
+      "event": "NFC 160",
+      "eventSlug": "104975-nfc-160",
+      "round": 1,
+      "timeInRound": "4:29"
+    },
+    {
+      "date": "2023-08-04T00:00:00.000Z",
+      "opponent": "Chris Ocon",
+      "opponentSlug": "93172-chris-ocon",
+      "result": "loss",
+      "method": "sub",
+      "event": "Aries Fight Series",
+      "eventSlug": "103668-aries-fight-series-nashville-underground",
+      "round": 1,
+      "timeInRound": "4:26"
+    },
+    {
+      "date": "2023-02-11T00:00:00.000Z",
+      "opponent": "James Ballinger",
+      "opponentSlug": "21748-james-douglas-ballinger",
+      "result": "win",
+      "method": "other",
+      "event": "Ultimate Battle Grounds 13",
+      "eventSlug": "97747-ultimate-battle-grounds-13",
+      "round": 1,
+      "timeInRound": "0:41"
+    },
+    {
+      "date": "2022-09-10T00:00:00.000Z",
+      "opponent": "Luis Marquez",
+      "opponentSlug": "156197-luis-marquez",
+      "result": "win",
+      "method": "tko",
+      "event": "Global Legion FC 22",
+      "eventSlug": "92813-global-legion-fc-22",
+      "round": 1,
+      "timeInRound": "1:22"
+    },
+    {
+      "date": "2022-05-20T00:00:00.000Z",
+      "opponent": "Steve Lee",
+      "opponentSlug": "190689-steve-lee",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Ring of Combat 76",
+      "eventSlug": "87796-ring-of-combat-76",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-19T00:00:00.000Z",
+      "opponent": "Jacob Romano",
+      "opponentSlug": "72881-jacob-romano",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Upstate Fight Night 1",
+      "eventSlug": "87844-upstate-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-29T00:00:00.000Z",
+      "opponent": "Ahmed Khamis",
+      "opponentSlug": "194193-eddie-khamis",
+      "result": "win",
+      "method": "sub",
+      "event": "KOTC: Fists N Fury",
+      "eventSlug": "67499-fists-n-fury",
+      "round": 1,
+      "timeInRound": "1:57"
+    },
+    {
+      "date": "2019-08-17T00:00:00.000Z",
+      "opponent": "Austin Soileau",
+      "opponentSlug": "233194-austin-soileau",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Gulf Coast MMA",
+      "eventSlug": "61424-gulf-coast-mma-championship-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-12T00:00:00.000Z",
+      "opponent": "Darrius Jackson",
+      "opponentSlug": "102954-darrius-jackson",
+      "result": "loss",
+      "method": "other",
+      "event": "Gulf Coast MMA",
+      "eventSlug": "53090-gulf-coast-mma-brawlroom-beatdown",
+      "round": 1,
+      "timeInRound": "0:52"
+    },
+    {
+      "date": "2018-03-10T00:00:00.000Z",
+      "opponent": "Todd Ray",
+      "opponentSlug": "176408-todd-ray",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Warfare MMA 18",
+      "eventSlug": "51571-warfare-mma-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-10-21T00:00:00.000Z",
+      "opponent": "Andrew Sturdivant",
+      "opponentSlug": "168803-andrew-sturdiant",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Valor Fights 45",
+      "eventSlug": "48644-valor-fights-45",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-10-07T00:00:00.000Z",
+      "opponent": "Cecil West",
+      "opponentSlug": "165095-cecil-west",
+      "result": "win",
+      "method": "other",
+      "event": "Rumble on the River",
+      "eventSlug": "48374-rumble-on-the-river",
+      "round": 1,
+      "timeInRound": "0:39"
+    },
+    {
+      "date": "2017-02-11T00:00:00.000Z",
+      "opponent": "Tyler Howard",
+      "opponentSlug": "149562-tyler-howard",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Valor Fights 40",
+      "eventSlug": "44192-valor-40-massey-vs-cooper",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-21T06:14:12.866Z"
+}

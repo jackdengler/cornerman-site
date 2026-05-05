@@ -1,0 +1,154 @@
+{
+  "slug": "14084-philip-de-fries",
+  "name": "Phil De Fries",
+  "nickname": "And Still",
+  "aliases": [],
+  "recordPro": {
+    "wins": 28,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 194,
+  "reachCm": 201,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1986-04-21",
+  "nationality": "Sunderland, England, United Kingdom",
+  "url": "https://www.tapology.com/fightcenter/fighters/14084-philip-de-fries",
+  "recentFights": [
+    {
+      "date": "2026-04-18T00:00:00.000Z",
+      "opponent": "Marcin Wójcik",
+      "opponentSlug": "56416-marcin-wojcik",
+      "result": null,
+      "method": "other",
+      "event": "KSW 117: Pawlak vs. Khalidov",
+      "eventSlug": "140146-ksw-117-de-fries-vs-wojcik",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-18T00:00:00.000Z",
+      "opponent": "Štefan Vojčák",
+      "opponentSlug": "295683-stefan-vojcak",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 111: De Fries vs. Vojčák",
+      "eventSlug": "124802-xtb-ksw-111",
+      "round": 3,
+      "timeInRound": "4:27"
+    },
+    {
+      "date": "2025-06-14T00:00:00.000Z",
+      "opponent": "Arkadiusz Wrzosek",
+      "opponentSlug": "117059-arkadiusz-wrzosek",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 107: De Fries vs. Wrzosek",
+      "eventSlug": "127398-ksw-107-de-fries-vs-wrzosek",
+      "round": 1,
+      "timeInRound": "3:33"
+    },
+    {
+      "date": "2024-11-16T00:00:00.000Z",
+      "opponent": "Darko Stošić",
+      "opponentSlug": "86260-darko-stosic",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 100: Khalidov vs. Bartosiński",
+      "eventSlug": "116517-ksw-100",
+      "round": 1,
+      "timeInRound": "4:11"
+    },
+    {
+      "date": "2024-06-07T00:00:00.000Z",
+      "opponent": "Augusto Sakai",
+      "opponentSlug": "44468-augusto-sakai",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KSW 95: Wikłacz vs. Przybysz 5",
+      "eventSlug": "110828-ksw-95",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-15T00:00:00.000Z",
+      "opponent": "Szymon Bajor",
+      "opponentSlug": "22175-szymon-bajor",
+      "result": "win",
+      "method": "sub",
+      "event": "KSW 84: De Fries vs. Bajor",
+      "eventSlug": "101937-ksw-84",
+      "round": 2,
+      "timeInRound": "4:57"
+    },
+    {
+      "date": "2023-02-25T00:00:00.000Z",
+      "opponent": "Todd Duffee",
+      "opponentSlug": "todd-duffee",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 79: De Fries vs. Duffee 2",
+      "eventSlug": "96391-ksw-79",
+      "round": 1,
+      "timeInRound": "3:46"
+    },
+    {
+      "date": "2022-09-10T00:00:00.000Z",
+      "opponent": "Ricardo Prasel",
+      "opponentSlug": "121276-ricardo-prasel-alemo",
+      "result": "win",
+      "method": "sub",
+      "event": "KSW 74: De Fries vs. Prasel",
+      "eventSlug": "91744-ksw-74",
+      "round": 1,
+      "timeInRound": "4:11"
+    },
+    {
+      "date": "2022-02-26T00:00:00.000Z",
+      "opponent": "Darko Stošić",
+      "opponentSlug": "86260-darko-stosic",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 67: De Fries vs. Stošić",
+      "eventSlug": "86030-ksw-67",
+      "round": 5,
+      "timeInRound": "3:40"
+    },
+    {
+      "date": "2021-04-24T00:00:00.000Z",
+      "opponent": "Tomasz Narkun",
+      "opponentSlug": "18008-tomasz-narkun-giraffe",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 60: Narkun vs. De Fries 2",
+      "eventSlug": "78046-ksw-60",
+      "round": 2,
+      "timeInRound": "3:37"
+    },
+    {
+      "date": "2020-12-19T00:00:00.000Z",
+      "opponent": "Michał Kita",
+      "opponentSlug": "michal-kita-masakra",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 57: De Fries vs. Kita",
+      "eventSlug": "74099-ksw-57",
+      "round": 2,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2019-09-14T00:00:00.000Z",
+      "opponent": "Luis Henrique Barbosa",
+      "opponentSlug": "15398-luiz-henrique-kbeltnho",
+      "result": "win",
+      "method": "dec-split",
+      "event": "KSW 50: London",
+      "eventSlug": "60456-ksw-50",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:03:00.554Z"
+}

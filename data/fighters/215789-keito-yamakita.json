@@ -1,0 +1,154 @@
+{
+  "slug": "215789-keito-yamakita",
+  "name": "Keito Yamakita",
+  "nickname": "Pocket Monk",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 156,
+  "reachCm": 165,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1996-08-04",
+  "nationality": "Mie, Japan",
+  "url": "https://www.tapology.com/fightcenter/fighters/215789-keito-yamakita",
+  "recentFights": [
+    {
+      "date": "2026-04-29T00:00:00.000Z",
+      "opponent": "Ryohei Kurosawa",
+      "opponentSlug": "45276-ken-asuka",
+      "result": null,
+      "method": "other",
+      "event": "ONE Samurai 1",
+      "eventSlug": "137460-one-175",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-02-07T00:00:00.000Z",
+      "opponent": "Lito Adiwang",
+      "opponentSlug": "21502-lito-adiwang",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE Fight Night 28",
+      "eventSlug": "121166-one-fight-night-28",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-08-02T00:00:00.000Z",
+      "opponent": "Yosuke Saruta",
+      "opponentSlug": "23165-yosuke-saruta-flying-monkey-no-2",
+      "result": "win",
+      "method": "dec-split",
+      "event": "ONE Fight Night 24",
+      "eventSlug": "109348-one-fight-night-25",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-01T00:00:00.000Z",
+      "opponent": "Jeremy Miado",
+      "opponentSlug": "143926-jeremy-miado-the-jaguar",
+      "result": "win",
+      "method": "other",
+      "event": "ONE 166: De Ridder vs. Malykhin 2",
+      "eventSlug": "108903-one-166-malykhin-vs-de-ridder",
+      "round": 1,
+      "timeInRound": "4:04"
+    },
+    {
+      "date": "2024-01-28T00:00:00.000Z",
+      "opponent": "Bokang Masunyane",
+      "opponentSlug": "111304-bk",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ONE 165: Superlek vs. Takeru",
+      "eventSlug": "107951-one-165-rodtang-vs-takeru",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-24T00:00:00.000Z",
+      "opponent": "Alex Silva",
+      "opponentSlug": "17363-alex-silva",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE Fight Night 8",
+      "eventSlug": "94525-one-on-prime-video-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-18T00:00:00.000Z",
+      "opponent": "Daichi Kitakata",
+      "opponentSlug": "24643-daichi-kitakata",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Pancrase 328",
+      "eventSlug": "89844-pancrase-328",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-16T00:00:00.000Z",
+      "opponent": "Ryosuke Noda",
+      "opponentSlug": "143792-ryusuke-noda",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Pancrase 324",
+      "eventSlug": "81965-pancrase-324",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-27T00:00:00.000Z",
+      "opponent": "Tatsuki Ozaki",
+      "opponentSlug": "50906-tatsuki-ozaki",
+      "result": "win",
+      "method": "sub",
+      "event": "Pancrase 322",
+      "eventSlug": "79121-pancrase-322",
+      "round": 1,
+      "timeInRound": "4:54"
+    },
+    {
+      "date": "2021-02-22T00:00:00.000Z",
+      "opponent": "Shuto Aki",
+      "opponentSlug": "154308-shuto-aki",
+      "result": "win",
+      "method": "other",
+      "event": "Shooto Road to ONE",
+      "eventSlug": "76847-road-to-one-4th-young-guns",
+      "round": 2,
+      "timeInRound": "2:21"
+    },
+    {
+      "date": "2020-12-13T00:00:00.000Z",
+      "opponent": "Taiga Tanimura",
+      "opponentSlug": "254272-taiga-tanimura",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Pancrase 320",
+      "eventSlug": "74835-pancrase-320",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-10-25T00:00:00.000Z",
+      "opponent": "Tomoki Otsuka",
+      "opponentSlug": "145686-tomoki-otsuka",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Pancrase 319",
+      "eventSlug": "73016-pancrase-319",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:07:13.363Z"
+}

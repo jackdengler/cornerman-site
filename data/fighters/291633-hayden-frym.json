@@ -1,0 +1,81 @@
+{
+  "slug": "291633-hayden-frym",
+  "name": "Hayden Frym",
+  "nickname": "'Bama",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1998-08-16",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/291633-hayden-frym",
+  "recentFights": [
+    {
+      "date": "2023-11-11T00:00:00.000Z",
+      "opponent": "Taner Trembley",
+      "opponentSlug": "336743-taner-trembley",
+      "result": "loss",
+      "method": "other",
+      "event": "Mecca 20",
+      "eventSlug": "103306-mecca-20",
+      "round": 1,
+      "timeInRound": "0:06"
+    },
+    {
+      "date": "2022-12-17T00:00:00.000Z",
+      "opponent": "Vicente Flores Jr.",
+      "opponentSlug": "226337-vicente-flores-jr",
+      "result": "win",
+      "method": "sub",
+      "event": "A-Town Throwdown 19",
+      "eventSlug": "88580-a-town-throwdown-19",
+      "round": 1,
+      "timeInRound": "2:31"
+    },
+    {
+      "date": "2021-12-10T00:00:00.000Z",
+      "opponent": "Mitchell Wilson",
+      "opponentSlug": "302010-mitchell-wilson",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "LFA 120: Cantuária vs. Horth",
+      "eventSlug": "84181-lfa-120-cantuaria-vs-horth",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-23T00:00:00.000Z",
+      "opponent": "Mike Harnisch",
+      "opponentSlug": "308622-mike-harnisch",
+      "result": "win",
+      "method": "other",
+      "event": "Pure FC 20",
+      "eventSlug": "80231-pure-fc-20",
+      "round": 1,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2021-06-27T00:00:00.000Z",
+      "opponent": "Jason Maes",
+      "opponentSlug": "144677-jason-maes",
+      "result": "win",
+      "method": "other",
+      "event": "Pure FC 19",
+      "eventSlug": "78464-pure-fc-18",
+      "round": 2,
+      "timeInRound": "1:31"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:37:40.840Z"
+}

@@ -1,0 +1,176 @@
+{
+  "slug": "232240-davion-trotter",
+  "name": "Davion Trotter",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1996-12-09",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/232240-davion-trotter",
+  "recentFights": [
+    {
+      "date": "2025-08-09T00:00:00.000Z",
+      "opponent": "Ben Halder",
+      "opponentSlug": "22960-ben-halder",
+      "result": "win",
+      "method": "other",
+      "event": "MCC 73: Debut at The Horizon Center",
+      "eventSlug": "130231-mcc-73-debut-at-the-horizon-center",
+      "round": 1,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2024-04-05T00:00:00.000Z",
+      "opponent": "Kelton Sneve",
+      "opponentSlug": "213615-kelton-sneve",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 181: Siqueira vs. Hernandez",
+      "eventSlug": "110760-lfa-181",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-04T00:00:00.000Z",
+      "opponent": "Ryan Santana",
+      "opponentSlug": "162410-ryan-santana",
+      "result": "win",
+      "method": "other",
+      "event": "B2 Fighting Series 178",
+      "eventSlug": "96823-b2-fighting-series-178-kentucky",
+      "round": 1,
+      "timeInRound": "2:04"
+    },
+    {
+      "date": "2022-06-24T00:00:00.000Z",
+      "opponent": "Nick Mondelli",
+      "opponentSlug": "200281-nicholas-mondelli",
+      "result": "win",
+      "method": "sub",
+      "event": "B2 Fighting Series 167",
+      "eventSlug": "89439-b2-fighting-series-167-louisville-ky-friday-night-one",
+      "round": 1,
+      "timeInRound": "2:48"
+    },
+    {
+      "date": "2022-02-12T00:00:00.000Z",
+      "opponent": "Abbas Abasov",
+      "opponentSlug": "247102-abbas-abasov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Nemesis Fighting Alliance 9",
+      "eventSlug": "85850-nemesis-fighting-alliance-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-20T00:00:00.000Z",
+      "opponent": "Trent Ebarb",
+      "opponentSlug": "162012-trent-ebarb",
+      "result": "loss",
+      "method": "sub",
+      "event": "B2 Fighting Series 140",
+      "eventSlug": "81592-b2-fighting-series-141-kentucky",
+      "round": 4,
+      "timeInRound": "1:57"
+    },
+    {
+      "date": "2021-09-25T00:00:00.000Z",
+      "opponent": "Zlatko Skuljan",
+      "opponentSlug": "216331-zlatko-skuljan",
+      "result": "win",
+      "method": "sub",
+      "event": "B2 Fighting Series 134",
+      "eventSlug": "81586-b2-fighting-series-135-kentucky",
+      "round": 2,
+      "timeInRound": "0:38"
+    },
+    {
+      "date": "2021-08-14T00:00:00.000Z",
+      "opponent": "Arshion Wade",
+      "opponentSlug": "190939-arshion-wade",
+      "result": "win",
+      "method": "sub",
+      "event": "B2 Fighting Series 131",
+      "eventSlug": "79790-b2-fighting-series-131-arkansas",
+      "round": 1,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2021-05-01T00:00:00.000Z",
+      "opponent": "Jordan Baxter",
+      "opponentSlug": "202368-jordan-baxter",
+      "result": "win",
+      "method": "other",
+      "event": "Nemesis Fighting Alliance 5",
+      "eventSlug": "77579-nemesis-fighting-alliance-5",
+      "round": 1,
+      "timeInRound": "1:16"
+    },
+    {
+      "date": "2021-02-20T00:00:00.000Z",
+      "opponent": "Mike Murray",
+      "opponentSlug": "203330-mike-murray",
+      "result": "win",
+      "method": "sub",
+      "event": "Nemesis Fighting Alliance 4",
+      "eventSlug": "77514-nemesis-fighting-alliance-4",
+      "round": 1,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2020-02-15T00:00:00.000Z",
+      "opponent": "Daniel Scaggs",
+      "opponentSlug": "61378-daniel-scaggs",
+      "result": "win",
+      "method": "other",
+      "event": "Nemesis Fighting Alliance",
+      "eventSlug": "65337-nemesis-fighting-alliance",
+      "round": 2,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2019-12-07T00:00:00.000Z",
+      "opponent": "Tommy Beal",
+      "opponentSlug": "245774-tommy-beal",
+      "result": "loss",
+      "method": "other",
+      "event": "KC Fighting Alliance 36",
+      "eventSlug": "64518-kc-fighting-alliance-36",
+      "round": 3,
+      "timeInRound": "0:27"
+    },
+    {
+      "date": "2019-10-05T00:00:00.000Z",
+      "opponent": "Nick Meskil",
+      "opponentSlug": "214955-nick-meskil",
+      "result": "win",
+      "method": "other",
+      "event": "Nemesis Fighting Alliance",
+      "eventSlug": "62147-nemesis-fighting-alliance",
+      "round": 1,
+      "timeInRound": "0:28"
+    },
+    {
+      "date": "2019-08-17T00:00:00.000Z",
+      "opponent": "Tanner Gestes",
+      "opponentSlug": "232241-tanner-gestes",
+      "result": "win",
+      "method": "other",
+      "event": "Nemesis Fighting Alliance",
+      "eventSlug": "61337-nemesis-fighting-alliance",
+      "round": 1,
+      "timeInRound": "0:50"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:41:39.501Z"
+}

@@ -1,0 +1,231 @@
+{
+  "slug": "81895-luis-de-la-puente-el-lobo",
+  "name": "Luis De La Puente",
+  "nickname": "El Lobo",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 10,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1985-04-24",
+  "nationality": "Peru",
+  "url": "https://www.tapology.com/fightcenter/fighters/81895-luis-de-la-puente-el-lobo",
+  "recentFights": [
+    {
+      "date": "2026-02-27T00:00:00.000Z",
+      "opponent": "Javier Ccacya",
+      "opponentSlug": "234176-javier-ccacya",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Private Fights 9",
+      "eventSlug": "140175-private-fights-9-de-la-puente-vs-caccya",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-13T00:00:00.000Z",
+      "opponent": "Andres Santillana",
+      "opponentSlug": "96640-andres-santillana",
+      "result": "loss",
+      "method": "other",
+      "event": "FFC 77: Miguel vs. Rollero",
+      "eventSlug": "114375-ffc-77-miguel-vs-rollero",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2022-07-14T00:00:00.000Z",
+      "opponent": "Oscar Miguel",
+      "opponentSlug": "179401-oscar-miguel",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "WCC 06: De La Puente vs. Miguel",
+      "eventSlug": "90837-wcc-06-de-la-puente-vs-miguel",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-18T00:00:00.000Z",
+      "opponent": "Yevgueni Veloz",
+      "opponentSlug": "265773-yevgueni-veloz",
+      "result": "win",
+      "method": "sub",
+      "event": "WCC 04: Bandenay vs. Pantaleon",
+      "eventSlug": "86805-wcc-04-bandenay-vs-pantaleon",
+      "round": 1,
+      "timeInRound": "3:02"
+    },
+    {
+      "date": "2021-08-12T00:00:00.000Z",
+      "opponent": "Daniel Colon",
+      "opponentSlug": "149893-daniel-colon",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WCC 01: Mendez vs. Pereira",
+      "eventSlug": "81278-wcc-01-mendez-vs-pereira",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-08T00:00:00.000Z",
+      "opponent": "Aldair Guzman",
+      "opponentSlug": "166887-aldair-guzman",
+      "result": "loss",
+      "method": "other",
+      "event": "Samurai Fight Contest 2",
+      "eventSlug": "66794-samurai-fight-contest-2-galindo-vs-bazan",
+      "round": 2,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2019-12-18T00:00:00.000Z",
+      "opponent": "Adrian Luna Martinetti",
+      "opponentSlug": "139620-juan-adrian-luna",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "FFC 42: Cubas vs. Martinez",
+      "eventSlug": "64677-ffc-42-cubas-vs-martinez",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-07T00:00:00.000Z",
+      "opponent": "Zury Valenzuela",
+      "opponentSlug": "55249-yury-alexander-valenzuela-zury",
+      "result": "loss",
+      "method": "sub",
+      "event": "FFC 35: Tubarao vs. Zarauz",
+      "eventSlug": "55617-ffc-35-tubarao-vs-zarauz",
+      "round": 1,
+      "timeInRound": "3:40"
+    },
+    {
+      "date": "2018-02-21T00:00:00.000Z",
+      "opponent": "Andres Luna Martinetti",
+      "opponentSlug": "157021-juan-andres-luna",
+      "result": "loss",
+      "method": "sub",
+      "event": "FFC 31: Gonzales vs. Cordoba",
+      "eventSlug": "49893-ffc-31-gonzales-vs-iwasaki",
+      "round": 2,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2017-04-05T00:00:00.000Z",
+      "opponent": "Victor Arata",
+      "opponentSlug": "55256-victor-arata",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Fusion FC 26",
+      "eventSlug": "44560-fusion-fc-26",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-21T00:00:00.000Z",
+      "opponent": "Julio Davila",
+      "opponentSlug": "146681-julio-vidal",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Fusion FC 24",
+      "eventSlug": "37859-fusion-fc-24",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-23T00:00:00.000Z",
+      "opponent": "Alejandro Berrocal",
+      "opponentSlug": "55606-alejandro-berrocal",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Fusion FC 23",
+      "eventSlug": "37858-fusion-fc-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-14T00:00:00.000Z",
+      "opponent": "Sebastian Noriega",
+      "opponentSlug": "58610-sebastian-noriega",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fusion FC 22",
+      "eventSlug": "37857-fusion-fc-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-30T00:00:00.000Z",
+      "opponent": "Luis Chang Guibert",
+      "opponentSlug": "55222-luis-chang-guibert",
+      "result": "win",
+      "method": "sub",
+      "event": "La Punta Fight Fest",
+      "eventSlug": "39391-la-punta-fight-fest",
+      "round": 1,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2016-02-24T00:00:00.000Z",
+      "opponent": "Hanan Goes",
+      "opponentSlug": "105485-hanan-goes",
+      "result": "loss",
+      "method": "other",
+      "event": "Fusion FC 19",
+      "eventSlug": "37523-fusion-fc-19",
+      "round": 1,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2015-10-16T00:00:00.000Z",
+      "opponent": "Luis Chang Guibert",
+      "opponentSlug": "55222-luis-chang-guibert",
+      "result": "loss",
+      "method": "tko",
+      "event": "El Desafio 2",
+      "eventSlug": "35867-el-desafio-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-30T00:00:00.000Z",
+      "opponent": "Hector Huamani",
+      "opponentSlug": "56405-hector-huamani",
+      "result": "win",
+      "method": "sub",
+      "event": "Fusion FC 16",
+      "eventSlug": "35131-fusion-fc-16",
+      "round": 1,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2015-02-28T00:00:00.000Z",
+      "opponent": "Miguel Morales",
+      "opponentSlug": "55573-miguel-morales",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Chankas FC 1",
+      "eventSlug": "29916-chankas-fc",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-10-25T00:00:00.000Z",
+      "opponent": "Jeremy Acosta",
+      "opponentSlug": "81896-jeremy-acosta",
+      "result": "loss",
+      "method": "tko",
+      "event": "Inka FC: Warriors 2",
+      "eventSlug": "26874-inka-fc-warriors-ii",
+      "round": 2,
+      "timeInRound": "5:00"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:37:06.590Z"
+}

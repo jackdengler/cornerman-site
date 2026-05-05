@@ -1,0 +1,110 @@
+{
+  "slug": "176446-demarkus-griffin",
+  "name": "Demarkus Griffin",
+  "nickname": "Big Business",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1994-09-21",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/176446-demarkus-griffin",
+  "recentFights": [
+    {
+      "date": "2023-08-19T00:00:00.000Z",
+      "opponent": "Anthony Cain",
+      "opponentSlug": "146600-anthony-cain",
+      "result": "win",
+      "method": "other",
+      "event": "Stateline Rumble 2",
+      "eventSlug": "101549-stateline-rumble-2",
+      "round": 2,
+      "timeInRound": "3:42"
+    },
+    {
+      "date": "2022-04-08T00:00:00.000Z",
+      "opponent": "Jackson McVey",
+      "opponentSlug": "238221-jackson-mcvey",
+      "result": "loss",
+      "method": "sub",
+      "event": "Brawl @ Bourbon Street 3",
+      "eventSlug": "85330-ignite-fights-brawl-bourbon-street-3",
+      "round": 2,
+      "timeInRound": "1:56"
+    },
+    {
+      "date": "2021-11-20T00:00:00.000Z",
+      "opponent": "Damien Douglas",
+      "opponentSlug": "253427-damien-douglas",
+      "result": "win",
+      "method": "other",
+      "event": "AFL 4: Sand Mountain",
+      "eventSlug": "83108-afl-4-sand-mountain",
+      "round": 2,
+      "timeInRound": "2:39"
+    },
+    {
+      "date": "2021-07-31T00:00:00.000Z",
+      "opponent": "Prince Miles",
+      "opponentSlug": "135302-prince-miles",
+      "result": "win",
+      "method": "sub",
+      "event": "North Iowa Fights",
+      "eventSlug": "80900-north-iowa-fights",
+      "round": 2,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2019-06-29T00:00:00.000Z",
+      "opponent": "Michael Montano",
+      "opponentSlug": "195887-michael-montano-the-machine",
+      "result": "win",
+      "method": "tko",
+      "event": "Warrior Games 6",
+      "eventSlug": "59520-warrior-games-vi",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-28T00:00:00.000Z",
+      "opponent": "Colton Hill",
+      "opponentSlug": "167991-colton-hill",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Walkout FC 11",
+      "eventSlug": "53300-walkout-fc-11-showdown",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-30T00:00:00.000Z",
+      "opponent": "Daniel Fortin",
+      "opponentSlug": "190183-daniel-fortin-michigan-mawler",
+      "result": "win",
+      "method": "other",
+      "event": "Warrior Games 2",
+      "eventSlug": "53509-warrior-games",
+      "round": 1,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2018-05-05T00:00:00.000Z",
+      "opponent": "Jarren Reinhart",
+      "opponentSlug": "117947-jarren-reinhart",
+      "result": "win",
+      "method": "sub",
+      "event": "Walkout FC 10",
+      "eventSlug": "50712-walkout-fc-10-the-tournament",
+      "round": 1,
+      "timeInRound": "1:51"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:54:00.692Z"
+}

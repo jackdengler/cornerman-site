@@ -1,0 +1,70 @@
+{
+  "slug": "336513-alejandro-vasquez",
+  "name": "Alejandro Vasquez",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/336513-alejandro-vasquez",
+  "recentFights": [
+    {
+      "date": "2025-10-18T00:00:00.000Z",
+      "opponent": "Nathaniel Olivas",
+      "opponentSlug": "524581-nathaniel-olivas",
+      "result": "loss",
+      "method": "tko",
+      "event": "Central Coast Championships",
+      "eventSlug": "131043-central-coast-championships",
+      "round": 2,
+      "timeInRound": "0:01"
+    },
+    {
+      "date": "2023-02-18T00:00:00.000Z",
+      "opponent": "Kyle Clark",
+      "opponentSlug": "340442-kyle-clark",
+      "result": "loss",
+      "method": "tko",
+      "event": "SFC Xtreme 10",
+      "eventSlug": "97903-sfc-xtreme-10-bad-intentions",
+      "round": 1,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2022-08-06T00:00:00.000Z",
+      "opponent": "Lorenzo Figueroa",
+      "opponentSlug": "316599-lorenzo-figueroa",
+      "result": "loss",
+      "method": "tko",
+      "event": "CCFC 1",
+      "eventSlug": "91686-ccfc-1",
+      "round": 1,
+      "timeInRound": "1:51"
+    },
+    {
+      "date": "2022-05-07T00:00:00.000Z",
+      "opponent": "John Pierre Betaudier",
+      "opponentSlug": "336514-john-pierre-betaudier",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "BAC 7",
+      "eventSlug": "89027-bay-area-combat",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:44:33.268Z"
+}

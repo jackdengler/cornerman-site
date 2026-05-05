@@ -1,0 +1,81 @@
+{
+  "slug": "283884-jack-stanton",
+  "name": "Jack Stanton",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/283884-jack-stanton",
+  "recentFights": [
+    {
+      "date": "2025-06-21T00:00:00.000Z",
+      "opponent": "Liam Hoelscher",
+      "opponentSlug": "500842-liam-hoelscher",
+      "result": "win",
+      "method": "tko",
+      "event": "Eternal MMA 96",
+      "eventSlug": "125814-eternal-mma-96",
+      "round": 1,
+      "timeInRound": "1:26"
+    },
+    {
+      "date": "2024-06-14T00:00:00.000Z",
+      "opponent": "Zane Breich",
+      "opponentSlug": "427436-zane-breich",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "HEX Fight Series 31",
+      "eventSlug": "112106-hex-fight-series-31",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-19T00:00:00.000Z",
+      "opponent": "Jimmy Bucks",
+      "opponentSlug": "359016-jimmy-bucks",
+      "result": "win",
+      "method": "tko",
+      "event": "Salt Fight Series 1",
+      "eventSlug": "94612-salt-fight-series-1",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-27T00:00:00.000Z",
+      "opponent": "Tom Andrews",
+      "opponentSlug": "316376-tom-andrews",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bushido Fight Night 1",
+      "eventSlug": "84370-bushido-fight-night-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-02-13T00:00:00.000Z",
+      "opponent": "Jonathan Micallef",
+      "opponentSlug": "238862-jonathan-micallef",
+      "result": "loss",
+      "method": "tko",
+      "event": "Demolition Fight Series 2",
+      "eventSlug": "76505-demolition-fight-series-2",
+      "round": 3,
+      "timeInRound": "2:50"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:54:24.382Z"
+}

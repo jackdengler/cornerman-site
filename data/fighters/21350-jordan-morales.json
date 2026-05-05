@@ -1,0 +1,231 @@
+{
+  "slug": "21350-jordan-morales",
+  "name": "Jordan Morales",
+  "nickname": "F4J",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1989-09-25",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/21350-jordan-morales",
+  "recentFights": [
+    {
+      "date": "2019-11-16T00:00:00.000Z",
+      "opponent": "Kenny Richmond",
+      "opponentSlug": "17888-kenneth-richmond",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "CFFC 79: Sabatini vs. Chaulet",
+      "eventSlug": "63538-cffc-79",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-13T00:00:00.000Z",
+      "opponent": "Peter Petties",
+      "opponentSlug": "62070-peter-petties",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "KOTC: New Frontier",
+      "eventSlug": "55736-king-of-the-cage-new-frontier",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-22T00:00:00.000Z",
+      "opponent": "Tony Gravely",
+      "opponentSlug": "80780-tony-gravely-lamar",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "PA Cage Fight 29",
+      "eventSlug": "47285-pa-cage-fight-29",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-15T00:00:00.000Z",
+      "opponent": "Christopher Piriz",
+      "opponentSlug": "56946-chris-piriz",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "PA Cage Fight 28",
+      "eventSlug": "44696-pa-cage-fight-28",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-08-13T00:00:00.000Z",
+      "opponent": "Ethan Goss",
+      "opponentSlug": "22394-ethan-goss",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WCC 17",
+      "eventSlug": "40583-wcc-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-21T00:00:00.000Z",
+      "opponent": "Ricky Bandejas",
+      "opponentSlug": "37466-ricky-bandejas",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "CFFC 58",
+      "eventSlug": "38891-cffc-58",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-01-09T00:00:00.000Z",
+      "opponent": "Claudio Ledesma",
+      "opponentSlug": "claudio-ledesma",
+      "result": "win",
+      "method": "dec-split",
+      "event": "CFFC 55: Chookagian vs. Varela",
+      "eventSlug": "36499-cffc-55",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-05-30T00:00:00.000Z",
+      "opponent": "Richard Dey",
+      "opponentSlug": "64154-richard-dey",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "PA Cage Fight 21",
+      "eventSlug": "31010-pa-cage-fight-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-02-28T00:00:00.000Z",
+      "opponent": "Jordan Espinosa",
+      "opponentSlug": "40011-jordan-espinosa",
+      "result": "loss",
+      "method": "other",
+      "event": "PA Cage Fight 20",
+      "eventSlug": "26645-pa-cage-fight-20-twas-the-fight-before-christmas",
+      "round": 1,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2014-08-16T00:00:00.000Z",
+      "opponent": "Chaz Holloway",
+      "opponentSlug": "52623-chaz-holloway",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CFFC 39: Heckman vs. Gerhart",
+      "eventSlug": "25636-cffc-39",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-04-12T00:00:00.000Z",
+      "opponent": "Philip Ferraro",
+      "opponentSlug": "43391-philip-ferraro",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XFE 39",
+      "eventSlug": "23804-xfe-39",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-07-27T00:00:00.000Z",
+      "opponent": "Jacque Valentin",
+      "opponentSlug": "36592-jacque-valentin",
+      "result": "win",
+      "method": "sub",
+      "event": "WCC 7",
+      "eventSlug": "19139-wcc-7",
+      "round": 2,
+      "timeInRound": "3:21"
+    },
+    {
+      "date": "2012-09-08T00:00:00.000Z",
+      "opponent": "Pat Sabatini",
+      "opponentSlug": "29210-pat-sabatini",
+      "result": "loss",
+      "method": "sub",
+      "event": "New Breed Fighters 38",
+      "eventSlug": "14327-new-breed-fighters-38",
+      "round": 1,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2012-04-28T00:00:00.000Z",
+      "opponent": "Darlington Peralta",
+      "opponentSlug": "22287-darlington-peralta",
+      "result": "win",
+      "method": "sub",
+      "event": "Mayhem on the Mountain",
+      "eventSlug": "13387-mayhem-on-the-mountain",
+      "round": 1,
+      "timeInRound": "1:27"
+    },
+    {
+      "date": "2012-02-10T00:00:00.000Z",
+      "opponent": "Darren Mima",
+      "opponentSlug": "16331-darren-mima",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "PA Cage Fight 10",
+      "eventSlug": "12306-pa-cage-fight-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-09-17T00:00:00.000Z",
+      "opponent": "Rodolfo Santiago",
+      "opponentSlug": "36616-rodolfo-santiago",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-06-03T00:00:00.000Z",
+      "opponent": "Rome Dingle",
+      "opponentSlug": "25093-rome-dingle",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-04-14T00:00:00.000Z",
+      "opponent": "Spencer Richard",
+      "opponentSlug": "97561-spencer-richard",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Warrior Challenge 11",
+      "eventSlug": "9351-warrior-challenge-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-02-19T00:00:00.000Z",
+      "opponent": "Kellyezer Rivera",
+      "opponentSlug": "34859-kellyezer-rivera",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:06:33.436Z"
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "128784-derek-rottenberg",
+  "name": "Derek Rottenberg",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 4,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/128784-derek-rottenberg",
+  "recentFights": [
+    {
+      "date": "2018-02-17T00:00:00.000Z",
+      "opponent": "Johnny Jackson",
+      "opponentSlug": "152022-johnny-jackson",
+      "result": "win",
+      "method": "tko",
+      "event": "Arena Wars",
+      "eventSlug": "50081-arena-wars",
+      "round": 1,
+      "timeInRound": "2:23"
+    },
+    {
+      "date": "2017-07-08T00:00:00.000Z",
+      "opponent": "Brandon Miller",
+      "opponentSlug": "135195-brandon-miller",
+      "result": "win",
+      "method": "other",
+      "event": "Arena Wars: Total Kombat",
+      "eventSlug": "46523-arena-wars-total-kombat",
+      "round": 1,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2016-12-10T00:00:00.000Z",
+      "opponent": "Michael Collazo",
+      "opponentSlug": "85742-michael-collazo",
+      "result": "loss",
+      "method": "sub",
+      "event": "Rumble at the Roseland 89",
+      "eventSlug": "42349-rumble-at-the-roseland-89",
+      "round": 3,
+      "timeInRound": "0:26"
+    },
+    {
+      "date": "2016-07-16T00:00:00.000Z",
+      "opponent": "Johnny James Jr.",
+      "opponentSlug": "112639-johnny-james",
+      "result": "win",
+      "method": "tko",
+      "event": "Rumble at the Roseland 88",
+      "eventSlug": "40285-rumble-at-the-roseland-88",
+      "round": 2,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2016-04-09T00:00:00.000Z",
+      "opponent": "Eric McConico",
+      "opponentSlug": "112634-eric-mcconico",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Arena Wars: Redemption",
+      "eventSlug": "38914-arena-wars-redemption",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:52:49.085Z"
+}

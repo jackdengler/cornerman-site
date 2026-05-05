@@ -1,0 +1,110 @@
+{
+  "slug": "93465-moises-costa",
+  "name": "Moisés Costa",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 0,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/93465-moises-costa",
+  "recentFights": [
+    {
+      "date": "2018-10-13T00:00:00.000Z",
+      "opponent": "Everton Vasconcelos",
+      "opponentSlug": "92784-ewerton-vasconcelos-tom",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "Mr. Cage 36",
+      "eventSlug": "56139-mr-cage-36",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-16T00:00:00.000Z",
+      "opponent": "Wilson Costa",
+      "opponentSlug": "129934-wilson-cirilo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Amazon Talent 9",
+      "eventSlug": "53776-amazon-talent-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-11T00:00:00.000Z",
+      "opponent": "Elias Xavier",
+      "opponentSlug": "189783-elias-xavier-striker",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-15T00:00:00.000Z",
+      "opponent": "Selson Bezerra",
+      "opponentSlug": "135205-selson-bezerra",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Rei da Selva Combat 9",
+      "eventSlug": "46955-rei-da-selva-combat-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-26T00:00:00.000Z",
+      "opponent": "Anderson King",
+      "opponentSlug": "97355-anderson-king",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Rei da Selva Combat 8",
+      "eventSlug": "43013-rei-da-selva-combat-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-27T00:00:00.000Z",
+      "opponent": "Kevin Christian",
+      "opponentSlug": "124745-kevin-christian",
+      "result": "win",
+      "method": "other",
+      "event": "Amazon Talent 6",
+      "eventSlug": "46959-amazon-talent-6",
+      "round": 2,
+      "timeInRound": "4:38"
+    },
+    {
+      "date": "2015-08-27T00:00:00.000Z",
+      "opponent": "Carlos Belém",
+      "opponentSlug": "161865-carlos-belem",
+      "result": "win",
+      "method": "other",
+      "event": "Amazon Talent 2",
+      "eventSlug": "35484-amazon-talent-2",
+      "round": 1,
+      "timeInRound": "0:25"
+    },
+    {
+      "date": "2015-02-21T00:00:00.000Z",
+      "opponent": "Evandro Rodrigues",
+      "opponentSlug": "93464-evandro-rodrigues",
+      "result": "win",
+      "method": "tko",
+      "event": "Amazon Talent 1",
+      "eventSlug": "30138-amazon-talent-1",
+      "round": 1,
+      "timeInRound": "4:36"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:17:03.727Z"
+}

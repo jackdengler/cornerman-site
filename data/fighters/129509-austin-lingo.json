@@ -1,0 +1,209 @@
+{
+  "slug": "129509-austin-lingo",
+  "name": "Austin Lingo",
+  "nickname": "Lights Out",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": 178,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1994-07-10",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/129509-austin-lingo",
+  "recentFights": [
+    {
+      "date": "2024-08-02T00:00:00.000Z",
+      "opponent": "Cam Teague",
+      "opponentSlug": "218949-cameron-teague",
+      "result": "loss",
+      "method": "other",
+      "event": "Fury FC 95: Lingo vs. Teague",
+      "eventSlug": "115294-fury-fc-95-lingo-vs-teague",
+      "round": 2,
+      "timeInRound": "4:57"
+    },
+    {
+      "date": "2023-07-15T00:00:00.000Z",
+      "opponent": "Melquizael Costa",
+      "opponentSlug": "101043-melquizael-costa-melkcalty",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "100553-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-25T00:00:00.000Z",
+      "opponent": "Nate Landwehr",
+      "opponentSlug": "26263-nate-landwehr",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "96078-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "4:11"
+    },
+    {
+      "date": "2021-08-21T00:00:00.000Z",
+      "opponent": "Luis Saldaña",
+      "opponentSlug": "20577-luis-saldana",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "79118-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-01-16T00:00:00.000Z",
+      "opponent": "Jacob Kilburn",
+      "opponentSlug": "64066-jacob-kilburn",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC on ABC 1",
+      "eventSlug": "73220-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-08T00:00:00.000Z",
+      "opponent": "Youssef Zalal",
+      "opponentSlug": "110826-youssef-zalaal",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 247: Jones vs. Reyes",
+      "eventSlug": "64388-ufc-on-espn",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-08-02T00:00:00.000Z",
+      "opponent": "Solo Hatley Jr.",
+      "opponentSlug": "107214-chris-hatley",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 73: Lingo vs. Hatley Jr.",
+      "eventSlug": "61360-lfa-73-mowles-vs-yanez-2",
+      "round": 1,
+      "timeInRound": "0:25"
+    },
+    {
+      "date": "2019-03-22T00:00:00.000Z",
+      "opponent": "Angel Luis Cruz",
+      "opponentSlug": "46225-angel-luis-cruz",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 62: Kenney vs. Cachero",
+      "eventSlug": "58531-lfa-62-johns-vs-cachero",
+      "round": 1,
+      "timeInRound": "0:25"
+    },
+    {
+      "date": "2018-11-30T00:00:00.000Z",
+      "opponent": "Aaron Webb",
+      "opponentSlug": "74303-aaron-webb",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 55: Johns vs. Yanez",
+      "eventSlug": "56314-lfa-55-johns-vs-yanez",
+      "round": 1,
+      "timeInRound": "0:13"
+    },
+    {
+      "date": "2018-05-25T00:00:00.000Z",
+      "opponent": "Phil Gonzalez",
+      "opponentSlug": "56531-phil-gonzalez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 40: Aguilar vs. Le",
+      "eventSlug": "52491-lfa-40-aguilar-vs-le",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-02-16T00:00:00.000Z",
+      "opponent": "Omar Benjar",
+      "opponentSlug": "35557-omar-benjar",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 33: Willis vs. Stewart",
+      "eventSlug": "50420-lfa-33-willis-vs-stewart",
+      "round": 1,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2018-01-06T00:00:00.000Z",
+      "opponent": "Josh Foster",
+      "opponentSlug": "46917-josh-foster",
+      "result": "win",
+      "method": "sub",
+      "event": "XKO 39",
+      "eventSlug": "49078-xko-39",
+      "round": 1,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2017-07-14T00:00:00.000Z",
+      "opponent": "Charles Williams",
+      "opponentSlug": "90371-charles-williams",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 16: Bedford vs. Flick",
+      "eventSlug": "46693-lfa-16-lee-vs-maciel",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-01-13T00:00:00.000Z",
+      "opponent": "Charles Williams",
+      "opponentSlug": "90371-charles-williams",
+      "result": "loss",
+      "method": "tko",
+      "event": "LFA 1: Peterson vs. Higo",
+      "eventSlug": "43006-lfa-1-peterson-vs-higo",
+      "round": 1,
+      "timeInRound": "0:18"
+    },
+    {
+      "date": "2016-12-03T00:00:00.000Z",
+      "opponent": "Francisco Delos Cobos",
+      "opponentSlug": "51248-francisco-delos-cobos",
+      "result": "win",
+      "method": "tko",
+      "event": "XKO Amateur Series 3",
+      "eventSlug": "42927-xko-amateur-series-3",
+      "round": 1,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2016-10-14T00:00:00.000Z",
+      "opponent": "Austin Wilson",
+      "opponentSlug": "113467-austin-wilson",
+      "result": "win",
+      "method": "tko",
+      "event": "Legacy FC 61",
+      "eventSlug": "41417-legacy-fc-61-peterson-vs-de-la-rosa",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-02T00:00:00.000Z",
+      "opponent": "Edgar Monarrez",
+      "opponentSlug": "129510-edgar-monarrez",
+      "result": "win",
+      "method": "tko",
+      "event": "XKO Amateur Series 2",
+      "eventSlug": "38743-xko-amateur-series-2",
+      "round": 2,
+      "timeInRound": "2:39"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:32:36.145Z"
+}

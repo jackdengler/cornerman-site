@@ -1,0 +1,92 @@
+{
+  "slug": "66858-oscar-castro",
+  "name": "Oscar Castro",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": 201,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/66858-oscar-castro",
+  "recentFights": [
+    {
+      "date": "2021-10-23T00:00:00.000Z",
+      "opponent": "Shealor Ladd",
+      "opponentSlug": "288919-shealor-ladd",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "FirePower MMA",
+      "eventSlug": "82078-no-shelter",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-12-12T00:00:00.000Z",
+      "opponent": "Ozzy Diaz",
+      "opponentSlug": "61676-ozzy-diaz",
+      "result": "loss",
+      "method": "sub",
+      "event": "559 Fights 31",
+      "eventSlug": "28651-559-fights-camo-state-finals",
+      "round": 3,
+      "timeInRound": "0:36"
+    },
+    {
+      "date": "2014-04-12T00:00:00.000Z",
+      "opponent": "Cameron Quigel",
+      "opponentSlug": "68075-cameron-quigel",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "The Titans Cage 7",
+      "eventSlug": "23574-the-titans-cage-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-06-01T00:00:00.000Z",
+      "opponent": "Vincent Bordi",
+      "opponentSlug": "65618-vincent-bordi",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-04-27T00:00:00.000Z",
+      "opponent": "John Mathison",
+      "opponentSlug": "59920-john-mathison",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-02-18T00:00:00.000Z",
+      "opponent": "Idrees Wasi",
+      "opponentSlug": "65184-idris-wasi",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:02:40.419Z"
+}

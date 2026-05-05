@@ -1,0 +1,143 @@
+{
+  "slug": "270823-nick-whitehead",
+  "name": "Nicholas Whitehead",
+  "nickname": "Nasty Nick",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1996-05-01",
+  "nationality": "Libertyville, Illinois",
+  "url": "https://www.tapology.com/fightcenter/fighters/270823-nick-whitehead",
+  "recentFights": [
+    {
+      "date": "2024-11-03T00:00:00.000Z",
+      "opponent": "Lester Batres Jr.",
+      "opponentSlug": "295644-lester-batres-jr",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fury FC 98: Khera vs. Dixon",
+      "eventSlug": "117773-fury-fc-98-khera-vs-dixon",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-05T00:00:00.000Z",
+      "opponent": "Darren Whitney",
+      "opponentSlug": "175113-darren-whitney",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fury Challenger Series 9",
+      "eventSlug": "105247-fury-challenger-series-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-16T00:00:00.000Z",
+      "opponent": "Kody Steele",
+      "opponentSlug": "228289-kody-steele",
+      "result": "loss",
+      "method": "other",
+      "event": "Fury FC 81: Rojo vs. Linhares",
+      "eventSlug": "101375-fury-fc-81",
+      "round": 1,
+      "timeInRound": "4:35"
+    },
+    {
+      "date": "2023-03-24T00:00:00.000Z",
+      "opponent": "Ricky Romo",
+      "opponentSlug": "172191-ricky-romo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fury FC 76: Chairez vs. Vasquez",
+      "eventSlug": "96724-fury-fc-76",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-01-29T00:00:00.000Z",
+      "opponent": "Kevin Rosas",
+      "opponentSlug": "345467-kevin-rosas",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fury FC 73: Fraire vs. Walker",
+      "eventSlug": "96316-fury-fc-73",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-04T00:00:00.000Z",
+      "opponent": "Tracy Reeder",
+      "opponentSlug": "254161-tracy-reeder",
+      "result": "loss",
+      "method": "sub",
+      "event": "Xtreme Fight Night 378",
+      "eventSlug": "86678-xtreme-fight-night-378",
+      "round": 3,
+      "timeInRound": "4:44"
+    },
+    {
+      "date": "2021-11-07T00:00:00.000Z",
+      "opponent": "Daniel Morrison",
+      "opponentSlug": "189682-daniel-morrison",
+      "result": "loss",
+      "method": "tko",
+      "event": "XFN 39",
+      "eventSlug": "84063-xfn-39",
+      "round": 1,
+      "timeInRound": "0:09"
+    },
+    {
+      "date": "2021-03-06T00:00:00.000Z",
+      "opponent": "Quinten Davidson",
+      "opponentSlug": "133139-quinten-davidson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Midwest Fight League",
+      "eventSlug": "78931-midwest-fight-league",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-01-16T00:00:00.000Z",
+      "opponent": "Alexis Garcia",
+      "opponentSlug": "165412-alexis-garcia",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Midwest Fight League",
+      "eventSlug": "78452-midwest-fight-league",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-10-10T00:00:00.000Z",
+      "opponent": "William Schotte",
+      "opponentSlug": "275120-william-schotte",
+      "result": "win",
+      "method": "tko",
+      "event": "Midwest Fight League",
+      "eventSlug": "72933-midwest-fight-league-battle-at-fairgrounds-sedalia",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2020-08-29T00:00:00.000Z",
+      "opponent": "Matt Lacour",
+      "opponentSlug": "192547-matt-lacour",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Midwest Fight League",
+      "eventSlug": "71091-midwest-fight-league-battle-at-the-brewery",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:18:52.087Z"
+}

@@ -1,0 +1,176 @@
+{
+  "slug": "238644-mataeo-garner",
+  "name": "Mataeo Garner",
+  "nickname": "Top Ape",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 178,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1997-02-03",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/238644-mataeo-garner",
+  "recentFights": [
+    {
+      "date": "2025-06-13T00:00:00.000Z",
+      "opponent": "Jackson McVey",
+      "opponentSlug": "238221-jackson-mcvey",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 210: Lawrence vs. Reyes",
+      "eventSlug": "126691-lfa-210",
+      "round": 1,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2025-02-01T00:00:00.000Z",
+      "opponent": "Avron Williams",
+      "opponentSlug": "102051-avron-williams-alphadog",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ECC Cage Wars 11",
+      "eventSlug": "123416-ecc-cage-wars-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-02-24T00:00:00.000Z",
+      "opponent": "Branko Busick",
+      "opponentSlug": "48117-branko-busick",
+      "result": "loss",
+      "method": "other",
+      "event": "247 FC: Brawl in the Burgh 20",
+      "eventSlug": "107759-247-fc-brawl-in-the-burgh-20",
+      "round": 1,
+      "timeInRound": "3:15"
+    },
+    {
+      "date": "2023-10-21T00:00:00.000Z",
+      "opponent": "Frankie Festa",
+      "opponentSlug": "39686-frankie-festa",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "247 FC: Brawl in the Burgh 18",
+      "eventSlug": "102945-247-fc-brawl-in-the-burgh-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-09T00:00:00.000Z",
+      "opponent": "Quentin Campbell",
+      "opponentSlug": "244150-quentin-campbell",
+      "result": "win",
+      "method": "other",
+      "event": "247 FC: 513 Fight Night",
+      "eventSlug": "103081-247-fc",
+      "round": 3,
+      "timeInRound": "2:43"
+    },
+    {
+      "date": "2023-06-16T00:00:00.000Z",
+      "opponent": "Trent Nott",
+      "opponentSlug": "178178-trent-nott",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 160: Sweeney vs. Begosso",
+      "eventSlug": "100762-lfa-160-sweeney-vs-begosso",
+      "round": 2,
+      "timeInRound": "0:48"
+    },
+    {
+      "date": "2023-01-28T00:00:00.000Z",
+      "opponent": "David Richardson",
+      "opponentSlug": "271061-david-richardson",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "ECC Cage Fighting",
+      "eventSlug": "96117-ecc-cage-fighting-cage-wars-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-23T00:00:00.000Z",
+      "opponent": "Logan Thompson",
+      "opponentSlug": "166261-logan-thompson",
+      "result": "win",
+      "method": "other",
+      "event": "Bayfront Brawl 12",
+      "eventSlug": "92780-bayfront-brawl-12",
+      "round": 1,
+      "timeInRound": "0:22"
+    },
+    {
+      "date": "2022-10-08T00:00:00.000Z",
+      "opponent": "Dom Johns",
+      "opponentSlug": "131180-dominique-johns",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Ohio Combat League 22",
+      "eventSlug": "92305-ohio-combat-league-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-01-29T00:00:00.000Z",
+      "opponent": "Darryl Booker",
+      "opponentSlug": "43353-darryl-booker",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ohio Combat League 17",
+      "eventSlug": "84532-ohio-combat-league-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-24T00:00:00.000Z",
+      "opponent": "Blair Phillips",
+      "opponentSlug": "282913-blair-phillips-mr-no-gimmick",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bayfront Brawl 11",
+      "eventSlug": "82173-bayfront-brawl-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-09T00:00:00.000Z",
+      "opponent": "Terell Brittingham",
+      "opponentSlug": "159210-terrell-brittingham",
+      "result": "win",
+      "method": "sub",
+      "event": "Rivers Rumble 11",
+      "eventSlug": "81847-rivers-rumble-xi",
+      "round": 1,
+      "timeInRound": "1:46"
+    },
+    {
+      "date": "2021-07-24T00:00:00.000Z",
+      "opponent": "James Ritchie",
+      "opponentSlug": "292198-james-richie",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Ohio Combat League 14",
+      "eventSlug": "79439-ohio-combat-league-14",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-27T00:00:00.000Z",
+      "opponent": "Tyrek Dantzler",
+      "opponentSlug": "238643-tyrek-dantzler",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bayfront Brawl 9",
+      "eventSlug": "62832-bayfront-brawl-9",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:53:47.625Z"
+}

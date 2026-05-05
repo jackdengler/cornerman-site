@@ -1,0 +1,143 @@
+{
+  "slug": "112206-jordan-stronge",
+  "name": "Jordan Stronge",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Scotland",
+  "url": "https://www.tapology.com/fightcenter/fighters/112206-jordan-stronge",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Marc-Philippe Ngatchou",
+      "opponentSlug": "312376-marc-philippe-ngatchou",
+      "result": null,
+      "method": "other",
+      "event": "Cage Warriors 205",
+      "eventSlug": "138938-cage-warriors-205",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-04-19T00:00:00.000Z",
+      "opponent": "Chris Hayes",
+      "opponentSlug": "81577-chris-hayes",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 187",
+      "eventSlug": "120832-cage-warriors-187",
+      "round": 1,
+      "timeInRound": "4:57"
+    },
+    {
+      "date": "2024-09-07T00:00:00.000Z",
+      "opponent": "Wesley Machado",
+      "opponentSlug": "47953-wesley-machado",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 176",
+      "eventSlug": "112909-cage-warriors",
+      "round": 1,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2024-04-20T00:00:00.000Z",
+      "opponent": "Jordan Little",
+      "opponentSlug": "217375-jordan-little",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Cage Warriors 171",
+      "eventSlug": "108293-cage-warriors-170",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-21T00:00:00.000Z",
+      "opponent": "Mihail Nikolov",
+      "opponentSlug": "81997-mihail-nikolov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Rise and Conquer 10",
+      "eventSlug": "90195-rise-and-conquer-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-28T00:00:00.000Z",
+      "opponent": "Michael Stuart",
+      "opponentSlug": "109741-michael-stuart",
+      "result": "win",
+      "method": "sub",
+      "event": "Holytown Havoc 1",
+      "eventSlug": "82344-holytown-havoc-bungard-vs-garmendia",
+      "round": 1,
+      "timeInRound": "4:30"
+    },
+    {
+      "date": "2019-10-12T00:00:00.000Z",
+      "opponent": "Gary Ellison",
+      "opponentSlug": "200850-gary-nelson",
+      "result": "win",
+      "method": "sub",
+      "event": "Shogun MMA 3",
+      "eventSlug": "63259-shogun-mma-3",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-02T00:00:00.000Z",
+      "opponent": "Dayle McCrae",
+      "opponentSlug": "32033-dayle-mccrae",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors Academy Wales 3",
+      "eventSlug": "57683-cage-warriors-academy-wales-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-10T00:00:00.000Z",
+      "opponent": "Phil McLeod",
+      "opponentSlug": "95848-phil-mcleod",
+      "result": "win",
+      "method": "tko",
+      "event": "On Top: March Mayhem",
+      "eventSlug": "51054-on-top-march-mayhem",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-25T00:00:00.000Z",
+      "opponent": "Danny Lythgoe",
+      "opponentSlug": "152587-danny-lythgoe",
+      "result": "win",
+      "method": "sub",
+      "event": "Machine MMA 18",
+      "eventSlug": "44828-machine-mma-18",
+      "round": 1,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2016-05-01T00:00:00.000Z",
+      "opponent": "Armando Parente",
+      "opponentSlug": "132131-armando-parente",
+      "result": "win",
+      "method": "other",
+      "event": "Forza Fighting Championship 4",
+      "eventSlug": "39680-forza-fighting-championship-4",
+      "round": 3,
+      "timeInRound": "3:00"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:05:24.983Z"
+}

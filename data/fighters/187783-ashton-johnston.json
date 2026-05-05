@@ -1,0 +1,59 @@
+{
+  "slug": "187783-ashton-johnston",
+  "name": "Ashton Johnston",
+  "nickname": "Red Roo",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/187783-ashton-johnston",
+  "recentFights": [
+    {
+      "date": "2023-05-27T00:00:00.000Z",
+      "opponent": "Marwan Rahiki",
+      "opponentSlug": "388487-marwan-rahiki",
+      "result": "loss",
+      "method": "sub",
+      "event": "XFC 65",
+      "eventSlug": "97857-xfc-65",
+      "round": 2,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2023-03-18T00:00:00.000Z",
+      "opponent": "Jesse Murray",
+      "opponentSlug": "285718-jessy-murray",
+      "result": "win",
+      "method": "sub",
+      "event": "Eternal MMA 74",
+      "eventSlug": "95619-eternal-mma-74",
+      "round": 1,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2018-05-19T00:00:00.000Z",
+      "opponent": "Nicholas Kren",
+      "opponentSlug": "187784-nicholas-kren",
+      "result": "win",
+      "method": "sub",
+      "event": "Aftershock 29",
+      "eventSlug": "53301-aftershock-29",
+      "round": 1,
+      "timeInRound": "1:18"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:58:45.925Z"
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "93237-luke-dixon",
+  "name": "Luke Dixon",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United Kingdom",
+  "url": "https://www.tapology.com/fightcenter/fighters/93237-luke-dixon",
+  "recentFights": [
+    {
+      "date": "2017-11-25T00:00:00.000Z",
+      "opponent": "George Hardwick",
+      "opponentSlug": "64203-george-hardwick",
+      "result": "loss",
+      "method": "sub",
+      "event": "M4TC 26: Fight Night",
+      "eventSlug": "48727-m4tc-26-fight-night",
+      "round": 1,
+      "timeInRound": "0:33"
+    },
+    {
+      "date": "2017-05-27T00:00:00.000Z",
+      "opponent": "Nathan Thompson",
+      "opponentSlug": "14112-nathan-thompson-chicken",
+      "result": "loss",
+      "method": "sub",
+      "event": "M4TC 24: Throwdown",
+      "eventSlug": "45263-m4tc-24-throwdown",
+      "round": 1,
+      "timeInRound": "4:10"
+    },
+    {
+      "date": "2012-10-06T00:00:00.000Z",
+      "opponent": "Nathan Thompson",
+      "opponentSlug": "14112-nathan-thompson-chicken",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-11-19T00:00:00.000Z",
+      "opponent": "Davey Grant",
+      "opponentSlug": "18815-david-grant",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-11-13T00:00:00.000Z",
+      "opponent": "Wayne Coxon",
+      "opponentSlug": "27165-wayne-coxon",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-07-10T00:00:00.000Z",
+      "opponent": "Carl Purvis",
+      "opponentSlug": "89694-carl-purvis",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:36:34.605Z"
+}

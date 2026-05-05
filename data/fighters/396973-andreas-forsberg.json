@@ -1,0 +1,92 @@
+{
+  "slug": "396973-andreas-forsberg",
+  "name": "Andreas Forsberg",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "2003-08-07",
+  "nationality": "Sweden",
+  "url": "https://www.tapology.com/fightcenter/fighters/396973-andreas-forsberg",
+  "recentFights": [
+    {
+      "date": "2025-10-11T00:00:00.000Z",
+      "opponent": "AJ Hall",
+      "opponentSlug": "374661-aj-hall",
+      "result": "loss",
+      "method": "other",
+      "event": "BMF 14",
+      "eventSlug": "134375-bmf-14",
+      "round": 3,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2025-03-29T00:00:00.000Z",
+      "opponent": "Jake Wills",
+      "opponentSlug": "406144-jake-wills",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Golden Ticket Fight Promotions 28",
+      "eventSlug": "122292-golden-ticket-fight-promotions-28",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-01T00:00:00.000Z",
+      "opponent": "Ciaran Pullar",
+      "opponentSlug": "430567-ciaran-pullar",
+      "result": "win",
+      "method": "other",
+      "event": "BMF 11",
+      "eventSlug": "122479-bmf-11",
+      "round": 2,
+      "timeInRound": "1:40"
+    },
+    {
+      "date": "2024-11-30T00:00:00.000Z",
+      "opponent": "Mustafa Aliesmaiel",
+      "opponentSlug": "466447-mustafa-aliesmaiel",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Superior Challenge 27",
+      "eventSlug": "119167-superior-academy-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-14T00:00:00.000Z",
+      "opponent": "Freddy Castro Gonzalez",
+      "opponentSlug": "340017-freddy-castro-gonzalez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Superior Academy 1",
+      "eventSlug": "116242-superior-academy",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-26T00:00:00.000Z",
+      "opponent": "Liam Pitts",
+      "opponentSlug": "323029-liam-pitts",
+      "result": "loss",
+      "method": "sub",
+      "event": "AFN 2",
+      "eventSlug": "102884-afn-2",
+      "round": 2,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:10:54.009Z"
+}

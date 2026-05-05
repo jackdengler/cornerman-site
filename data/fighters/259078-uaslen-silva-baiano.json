@@ -1,0 +1,143 @@
+{
+  "slug": "259078-uaslen-silva-baiano",
+  "name": "Uaslen Oliveira",
+  "nickname": "Baiano",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 182,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1986-06-06",
+  "nationality": "Bahia, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/259078-uaslen-silva-baiano",
+  "recentFights": [
+    {
+      "date": "2026-03-21T00:00:00.000Z",
+      "opponent": "Jorge Bueno",
+      "opponentSlug": "161853-jorge-bueno-jorginho",
+      "result": "loss",
+      "method": "other",
+      "event": "Jungle Fight 147",
+      "eventSlug": "139446-jungle-fight-147",
+      "round": 1,
+      "timeInRound": "4:55"
+    },
+    {
+      "date": "2025-10-24T00:00:00.000Z",
+      "opponent": "Taffarel Brasil",
+      "opponentSlug": "134178-taffarel-ndio",
+      "result": "win",
+      "method": "dec-split",
+      "event": "MAC 16: Vuvuzela x Alisson",
+      "eventSlug": "133862-mac-16-gigante-x-alisson",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-23T00:00:00.000Z",
+      "opponent": "Thiago Hayne",
+      "opponentSlug": "113716-thiago-silva-tico",
+      "result": "loss",
+      "method": "tko",
+      "event": "MAC 11",
+      "eventSlug": "120730-mac-11",
+      "round": 1,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2024-05-25T00:00:00.000Z",
+      "opponent": "Aldo Pereira",
+      "opponentSlug": "109633-aldo-pereira",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "WOCS 62",
+      "eventSlug": "113912-wocs-62",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-02T00:00:00.000Z",
+      "opponent": "Emmanuel Travassos",
+      "opponentSlug": "302478-emmanuel-felipe-travassos",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MAC 5",
+      "eventSlug": "103906-mac-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-19T00:00:00.000Z",
+      "opponent": "Vinicius Ricardo",
+      "opponentSlug": "398204-vinicius-ricardo-juruna",
+      "result": "win",
+      "method": "sub",
+      "event": "MAC 3",
+      "eventSlug": "94728-mac-3",
+      "round": 2,
+      "timeInRound": "3:48"
+    },
+    {
+      "date": "2022-07-02T00:00:00.000Z",
+      "opponent": "Leonardo Agra",
+      "opponentSlug": "218724-leonardo-brito-canelao",
+      "result": "win",
+      "method": "other",
+      "event": "Arena Global 19",
+      "eventSlug": "90117-arena-global-19",
+      "round": 1,
+      "timeInRound": "4:28"
+    },
+    {
+      "date": "2021-07-10T00:00:00.000Z",
+      "opponent": "Marco Tulio",
+      "opponentSlug": "165750-marco-tulio-silva",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Império Fight 6",
+      "eventSlug": "79663-imperio-fight-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-12-06T00:00:00.000Z",
+      "opponent": "Anderson Melo",
+      "opponentSlug": "212870-anderson-melo-fofinho",
+      "result": "win",
+      "method": "other",
+      "event": "Arena Global 9",
+      "eventSlug": "73907-arena-global-9",
+      "round": 1,
+      "timeInRound": "4:39"
+    },
+    {
+      "date": "2020-03-14T00:00:00.000Z",
+      "opponent": "Pedro Leal",
+      "opponentSlug": "259076-pedro-leal",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Arena Global 4",
+      "eventSlug": "68604-arena-global-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-27T00:00:00.000Z",
+      "opponent": "Italo Castro Blanco",
+      "opponentSlug": "200410-italo-castro-blanco",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Qualify Combat 7",
+      "eventSlug": "56205-qualify-combat-7",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:03:35.546Z"
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "536575-jhairo-cuellar",
+  "name": "Jhairo Cuellar",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/536575-jhairo-cuellar",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Luis Justiniano",
+      "opponentSlug": "514323-luis-justiniano",
+      "result": null,
+      "method": "other",
+      "event": "Noche de Campeones 10",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-03-06T00:00:00.000Z",
+      "opponent": "Johan Apaza",
+      "opponentSlug": "518845-johan-apaza",
+      "result": "win",
+      "method": "sub",
+      "event": "Noche de Campeones 9",
+      "eventSlug": "140571-noche-de-campeones-10",
+      "round": 1,
+      "timeInRound": "2:04"
+    },
+    {
+      "date": "2026-01-23T00:00:00.000Z",
+      "opponent": "Eduardo Toro",
+      "opponentSlug": "534242-eduardo-toro",
+      "result": "loss",
+      "method": "other",
+      "event": "Noche de Campeones 8",
+      "eventSlug": "138730-noche-de-campeones-8",
+      "round": 1,
+      "timeInRound": "1:03"
+    },
+    {
+      "date": "2025-12-13T00:00:00.000Z",
+      "opponent": "Leonardo Vega",
+      "opponentSlug": "536574-leonardo-vega",
+      "result": "loss",
+      "method": "other",
+      "event": "Copa Violencia 2",
+      "eventSlug": "137122-copa-violencia-2",
+      "round": 1,
+      "timeInRound": "2:06"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:02:06.556Z"
+}

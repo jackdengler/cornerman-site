@@ -1,0 +1,33 @@
+{
+  "slug": "145201-george-millaras",
+  "name": "George Millaras",
+  "nickname": "The Spartan",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/145201-george-millaras",
+  "recentFights": [
+    {
+      "date": "2016-12-02T00:00:00.000Z",
+      "opponent": "Jack Jenkins",
+      "opponentSlug": "134851-jack-jenkins",
+      "result": "loss",
+      "method": "other",
+      "event": "Hex Fight Series 7",
+      "eventSlug": "42141-hex-fight-series-7",
+      "round": 1,
+      "timeInRound": "1:32"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:58:20.695Z"
+}

@@ -1,0 +1,198 @@
+{
+  "slug": "110989-calvin-parrington",
+  "name": "Calvin Parrington",
+  "nickname": "Get Some",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1991-01-13",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/110989-calvin-parrington",
+  "recentFights": [
+    {
+      "date": "2022-11-20T00:00:00.000Z",
+      "opponent": "Arthur Dufloo",
+      "opponentSlug": "234785-arthur-dufloo",
+      "result": "loss",
+      "method": "other",
+      "event": "Tuff-N-Uff 130",
+      "eventSlug": "92702-tuff-n-uff-130",
+      "round": 1,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2022-06-25T00:00:00.000Z",
+      "opponent": "Lehi Dominguez",
+      "opponentSlug": "23232-lehi-dominguez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fierce FC 20",
+      "eventSlug": "90365-fierce-fighting-championship-20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-17T00:00:00.000Z",
+      "opponent": "Gadiel Genao",
+      "opponentSlug": "100566-gadiel-genoa-nino",
+      "result": "loss",
+      "method": "other",
+      "event": "SteelFist Fight Night",
+      "eventSlug": "85133-steelfist-fight-night-deck-the-halls",
+      "round": 2,
+      "timeInRound": "3:34"
+    },
+    {
+      "date": "2021-09-18T00:00:00.000Z",
+      "opponent": "Cole Faust",
+      "opponentSlug": "232186-cole-faust",
+      "result": "loss",
+      "method": "sub",
+      "event": "SteelFist FIght Night 79",
+      "eventSlug": "82470-steelfist-fight-night-79-rumble-of-the-rangers",
+      "round": 2,
+      "timeInRound": "2:18"
+    },
+    {
+      "date": "2017-11-11T00:00:00.000Z",
+      "opponent": "Leandro Arias",
+      "opponentSlug": "108916-leandro-arias",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Tuff-N-Uff: Operation Knockout",
+      "eventSlug": "49056-tuff-n-uff-operation-knockout",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-05T00:00:00.000Z",
+      "opponent": "Drew Oetgen",
+      "opponentSlug": "34975-drew-oetgen",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Tuff-N-Uff",
+      "eventSlug": "47281-tuff-n-uff",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-17T00:00:00.000Z",
+      "opponent": "Devon Webber",
+      "opponentSlug": "38890-devon-webber",
+      "result": "loss",
+      "method": "tko",
+      "event": "Tuff-N-Uff: Pack the Mack",
+      "eventSlug": "46422-tuff-n-uff-pack-the-mack",
+      "round": 1,
+      "timeInRound": "1:17"
+    },
+    {
+      "date": "2017-04-07T00:00:00.000Z",
+      "opponent": "Donald Bryan",
+      "opponentSlug": "140946-donald-bryan",
+      "result": "win",
+      "method": "sub",
+      "event": "Tuff-N-Uff: Downtown Showdown",
+      "eventSlug": "45025-tuff-n-uff-downtown-showdown",
+      "round": 2,
+      "timeInRound": "0:36"
+    },
+    {
+      "date": "2016-12-03T00:00:00.000Z",
+      "opponent": "Abraham Nava",
+      "opponentSlug": "47705-abraham-nava",
+      "result": "loss",
+      "method": "tko",
+      "event": "Tuff-N-Uff: Mayhem in Mesquite 10",
+      "eventSlug": "43032-tuff-n-uff-mayhem-in-mesquite-10",
+      "round": 2,
+      "timeInRound": "2:52"
+    },
+    {
+      "date": "2016-10-29T00:00:00.000Z",
+      "opponent": "Damian Jackson",
+      "opponentSlug": "98825-damian-jackson",
+      "result": "win",
+      "method": "sub",
+      "event": "WFC 61",
+      "eventSlug": "42337-wfc-61",
+      "round": 2,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2016-04-29T00:00:00.000Z",
+      "opponent": "Rocky Cantu",
+      "opponentSlug": "78215-rocky-cantu",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Tuff-N-Uff",
+      "eventSlug": "39531-tuff-n-uff",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-01-22T00:00:00.000Z",
+      "opponent": "Andre Hafer",
+      "opponentSlug": "95542-andre-hafer",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Real MMA 9",
+      "eventSlug": "37631-real-mma-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-20T00:00:00.000Z",
+      "opponent": "Shaun Paythress",
+      "opponentSlug": "46862-shaun-paythress",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Real MMA 8",
+      "eventSlug": "36397-real-mma-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-17T00:00:00.000Z",
+      "opponent": "Shane Shapiro",
+      "opponentSlug": "40948-shane-shapiro",
+      "result": "loss",
+      "method": "sub",
+      "event": "Tuff-N-Uff: Round 6",
+      "eventSlug": "36134-tuff-n-uff-round-6",
+      "round": 1,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2015-09-25T00:00:00.000Z",
+      "opponent": "Ian Radford",
+      "opponentSlug": "114124-ian-radford",
+      "result": "win",
+      "method": "sub",
+      "event": "Tuff-N-Uff",
+      "eventSlug": "35490-tuff-n-uff",
+      "round": 3,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2015-08-22T00:00:00.000Z",
+      "opponent": "Brahyam Zurcher",
+      "opponentSlug": "98826-bryhayn-zurcher",
+      "result": "win",
+      "method": "tko",
+      "event": "Tuff-N-Uff: Mayhem in Mesquite 7",
+      "eventSlug": "34792-tuff-n-uff-mayhem-in-mesquite-7",
+      "round": 2,
+      "timeInRound": "0:23"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:39:26.673Z"
+}

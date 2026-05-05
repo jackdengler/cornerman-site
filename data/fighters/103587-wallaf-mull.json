@@ -1,0 +1,220 @@
+{
+  "slug": "103587-wallaf-mull",
+  "name": "Wallafy Fernandes",
+  "nickname": "Muuh",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 10,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1993-10-04",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/103587-wallaf-mull",
+  "recentFights": [
+    {
+      "date": "2025-08-21T00:00:00.000Z",
+      "opponent": "Nilson Rojas",
+      "opponentSlug": "135500-nilson-rojas",
+      "result": "loss",
+      "method": "other",
+      "event": "FFC 94: Llontop vs. Brasil",
+      "eventSlug": "131662-ffc-94-munoz-vs-zenidim",
+      "round": 1,
+      "timeInRound": "4:30"
+    },
+    {
+      "date": "2025-07-26T00:00:00.000Z",
+      "opponent": "Rafael Matos",
+      "opponentSlug": "213587-rafael-matos-da-costa-guerreiro",
+      "result": "win",
+      "method": "tko",
+      "event": "Ultimate Fonte Boa 9",
+      "eventSlug": "132053-ultimate-fonte-boa-9",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2024-08-31T00:00:00.000Z",
+      "opponent": "Carlos Hugo Mozambite",
+      "opponentSlug": "215379-carlos-hugo-mozambite-pramuk",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMA Fight Night Santo Antônio do Içá 4",
+      "eventSlug": "117236-mma-fight-night-santo-antonio-do-ica-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-02-22T00:00:00.000Z",
+      "opponent": "Inor Valladares",
+      "opponentSlug": "160992-inor-valladares-pettis",
+      "result": "loss",
+      "method": "other",
+      "event": "FFC 72",
+      "eventSlug": "110018-ffc-72",
+      "round": 2,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2023-07-08T00:00:00.000Z",
+      "opponent": "Tião Calixto",
+      "opponentSlug": "180741-tio-calixto-tiozinho",
+      "result": "loss",
+      "method": "other",
+      "event": "Benjamin Constant Champions 1",
+      "eventSlug": "102902-benjamin-constant-champions-1",
+      "round": 1,
+      "timeInRound": "4:00"
+    },
+    {
+      "date": "2023-04-29T00:00:00.000Z",
+      "opponent": "Josesley Sales",
+      "opponentSlug": "238802-josesley-asipali-sales",
+      "result": "win",
+      "method": "sub",
+      "event": "Gladiador Jungle Champions",
+      "eventSlug": "101390-gladiador-jungle-champions",
+      "round": 1,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2022-08-27T00:00:00.000Z",
+      "opponent": "Willian Soares",
+      "opponentSlug": "173566-willian-soares-bad-boy",
+      "result": "nc",
+      "method": "other",
+      "event": "Nak Su Combat 17",
+      "eventSlug": "92723-nak-su-combat-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-30T00:00:00.000Z",
+      "opponent": "Joeferson Carvalho",
+      "opponentSlug": "226485-joeferson-carvalho-dragao",
+      "result": "win",
+      "method": "other",
+      "event": "MMA Fight Night Santo Antônio do Içá 3",
+      "eventSlug": "91987-mma-fight-night-santo-antonio-do-ica-3",
+      "round": 3,
+      "timeInRound": "2:17"
+    },
+    {
+      "date": "2022-03-05T00:00:00.000Z",
+      "opponent": "David Ruan",
+      "opponentSlug": "274413-david-ruan-nick",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Gama Fight Champions 1",
+      "eventSlug": "87381-gama-fight-champions-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-05T00:00:00.000Z",
+      "opponent": "Jailson Soares",
+      "opponentSlug": "313719-jailson-soares-terremoto",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Gama Fight Champions 1",
+      "eventSlug": "87381-gama-fight-champions-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-23T00:00:00.000Z",
+      "opponent": "Mauricio Veiga",
+      "opponentSlug": "237351-mauricio-veiga-shogum",
+      "result": "loss",
+      "method": "sub",
+      "event": "Lions Fights MMA 2",
+      "eventSlug": "83789-lions-fight-arena-2",
+      "round": 1,
+      "timeInRound": "3:04"
+    },
+    {
+      "date": "2020-11-27T00:00:00.000Z",
+      "opponent": "Delmar Guimarães",
+      "opponentSlug": "169020-delmar-guimaraes",
+      "result": "win",
+      "method": "other",
+      "event": "Mega Fight Champions 2",
+      "eventSlug": "74133-mega-fight-champions-2",
+      "round": 1,
+      "timeInRound": "2:35"
+    },
+    {
+      "date": "2019-04-27T00:00:00.000Z",
+      "opponent": "Jadson Moraes",
+      "opponentSlug": "124747-jadson-moraes-163cm",
+      "result": "loss",
+      "method": "sub",
+      "event": "Extremo Fight Champions",
+      "eventSlug": "59856-extremo-fight-champions",
+      "round": 2,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2018-06-30T00:00:00.000Z",
+      "opponent": "Lucas Rocha",
+      "opponentSlug": "192343-lucas-rocha-fenomeno",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-04T00:00:00.000Z",
+      "opponent": "Alan Bruno",
+      "opponentSlug": "147054-alan-bruno",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-30T00:00:00.000Z",
+      "opponent": "Henrique Silva",
+      "opponentSlug": "263193-henrique-silva",
+      "result": "win",
+      "method": "other",
+      "event": "Borba FC 1",
+      "eventSlug": "57330-borba-fc-1",
+      "round": 1,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2015-03-28T00:00:00.000Z",
+      "opponent": "Matheus Ortiz",
+      "opponentSlug": "36128-mateus-ortiz",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-02-15T00:00:00.000Z",
+      "opponent": "Raymison Bruno",
+      "opponentSlug": "97362-raymison-bruno-formiga",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:56:22.613Z"
+}

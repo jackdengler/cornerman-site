@@ -1,0 +1,59 @@
+{
+  "slug": "365733-sam-bailey",
+  "name": "Sam Bailey",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 0,
+    "draws": 0
+  },
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "2001-09-09",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/365733-sam-bailey",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Santana Acosta",
+      "opponentSlug": "85224-santana-acosta",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 231: Lozej vs. Ibarra",
+      "eventSlug": "140675-lfa-231-trembley-vs-johns",
+      "round": 3,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2025-08-16T00:00:00.000Z",
+      "opponent": "Ricky Rodriguez",
+      "opponentSlug": "394606-ricky-rodriguez",
+      "result": "win",
+      "method": "other",
+      "event": "Ignite Fights 109",
+      "eventSlug": "127306-ignite-fights-109",
+      "round": 3,
+      "timeInRound": "0:22"
+    },
+    {
+      "date": "2023-01-28T00:00:00.000Z",
+      "opponent": "Kenneth Ruiz",
+      "opponentSlug": "368048-kenneth-ruiz",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MCFC 1",
+      "eventSlug": "93591-mcfc-1",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T06:00:10.377Z"
+}

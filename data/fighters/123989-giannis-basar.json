@@ -1,0 +1,176 @@
+{
+  "slug": "123989-giannis-basar",
+  "name": "Giannis Bachar",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 185,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1990-06-05",
+  "nationality": "Tunisia",
+  "url": "https://www.tapology.com/fightcenter/fighters/123989-giannis-basar",
+  "recentFights": [
+    {
+      "date": "2026-04-16T00:00:00.000Z",
+      "opponent": "David Martinez",
+      "opponentSlug": "61637-david-russell",
+      "result": "loss",
+      "method": "sub",
+      "event": "PFL Belfast",
+      "eventSlug": "138222-pfl-boston",
+      "round": 2,
+      "timeInRound": "0:53"
+    },
+    {
+      "date": "2025-04-03T00:00:00.000Z",
+      "opponent": "Masayuki Kikuiri",
+      "opponentSlug": "152955-masayuki-kikuiri",
+      "result": "loss",
+      "method": "other",
+      "event": "PFL World Tournament 1",
+      "eventSlug": "122865-pfl-2025-world-tournament-first-round-1",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2024-03-20T00:00:00.000Z",
+      "opponent": "Robert Valentin",
+      "opponentSlug": "136498-robert-valentin",
+      "result": "loss",
+      "method": "other",
+      "event": "The Ultimate Fighter 32",
+      "eventSlug": "117194-the-ultimate-fighter-32-grasso-vs-shevchenko",
+      "round": 1,
+      "timeInRound": "0:20"
+    },
+    {
+      "date": "2023-11-11T00:00:00.000Z",
+      "opponent": "Omiel Brown",
+      "opponentSlug": "112250-omeil-brown",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 163",
+      "eventSlug": "99934-cage-warriors",
+      "round": 1,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2023-05-06T00:00:00.000Z",
+      "opponent": "Carlo Pedersoli",
+      "opponentSlug": "100348-carlo-pedersoli",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 154",
+      "eventSlug": "98570-cage-warriors-154-rome",
+      "round": 3,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2021-09-25T00:00:00.000Z",
+      "opponent": "Corey Davis",
+      "opponentSlug": "47720-corey-davis",
+      "result": "win",
+      "method": "tko",
+      "event": "Global Legion FC 19",
+      "eventSlug": "81927-global-legion-fc-19-civil-war",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-08-15T00:00:00.000Z",
+      "opponent": "Tahar Hadbi",
+      "opponentSlug": "21400-tahar-hadbi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Brave CF 39",
+      "eventSlug": "70959-brave-cf-39",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-01T00:00:00.000Z",
+      "opponent": "Igor Kolisnichenko",
+      "opponentSlug": "75260-igor-kolisnichenko",
+      "result": "win",
+      "method": "tko",
+      "event": "European Fight League",
+      "eventSlug": "60789-efl-fight-night-1",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-15T00:00:00.000Z",
+      "opponent": "Gregg Ellis",
+      "opponentSlug": "116528-gregg-ellis",
+      "result": "win",
+      "method": "other",
+      "event": "Titan FC 53",
+      "eventSlug": "58402-titan-fc-53-puerta-vs-balart-2",
+      "round": 1,
+      "timeInRound": "3:52"
+    },
+    {
+      "date": "2017-03-11T00:00:00.000Z",
+      "opponent": "Konstatinos Nastoulis",
+      "opponentSlug": "105711-konstatinos-nastoulis",
+      "result": "win",
+      "method": null,
+      "event": "Final Fight Championship 28",
+      "eventSlug": "44496-final-fight-championship-28-greece-vs-rest-of-the-world",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-22T00:00:00.000Z",
+      "opponent": "David Jacobsson",
+      "opponentSlug": "142218-david-jacobsson",
+      "result": "win",
+      "method": "other",
+      "event": "On Top: Weekender",
+      "eventSlug": "41616-on-top-weekender",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-06-11T00:00:00.000Z",
+      "opponent": "Claudio Vecani",
+      "opponentSlug": "119574-claudio-vecani",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage Survivor 5",
+      "eventSlug": "39645-cage-survivor-5-cs5",
+      "round": 2,
+      "timeInRound": "1:59"
+    },
+    {
+      "date": "2016-04-23T00:00:00.000Z",
+      "opponent": "Giannis Anagnostopoulos",
+      "opponentSlug": "90440-giannis-anagnostopoulos",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-01-17T00:00:00.000Z",
+      "opponent": "Giorgos Koulalis",
+      "opponentSlug": "123988-giorgos-koulalis",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Survivor Fight Night",
+      "eventSlug": "37516-cage-survivor-fight-night-new-blood-2",
+      "round": 3,
+      "timeInRound": "2:07"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:57:21.121Z"
+}

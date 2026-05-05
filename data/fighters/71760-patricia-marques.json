@@ -1,0 +1,33 @@
+{
+  "slug": "71760-patricia-marques",
+  "name": "Patricia Marques",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/71760-patricia-marques",
+  "recentFights": [
+    {
+      "date": "2014-05-25T00:00:00.000Z",
+      "opponent": "Karine Silva",
+      "opponentSlug": "69225-karine-silva-killer",
+      "result": "loss",
+      "method": "other",
+      "event": "Aspera FC 7",
+      "eventSlug": "24343-aspera-fc-7",
+      "round": 1,
+      "timeInRound": "1:33"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:10:49.432Z"
+}

@@ -1,0 +1,187 @@
+{
+  "slug": "165017-giovanni-ramirez",
+  "name": "Ricardo Ramirez",
+  "nickname": "La Amenaza",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 9,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1993-07-09",
+  "nationality": "Mexico",
+  "url": "https://www.tapology.com/fightcenter/fighters/165017-giovanni-ramirez",
+  "recentFights": [
+    {
+      "date": "2025-07-25T00:00:00.000Z",
+      "opponent": "Luis Gonzalez",
+      "opponentSlug": "399861-luis-gonzalez",
+      "result": "loss",
+      "method": "sub",
+      "event": "Lux Fight League 53",
+      "eventSlug": "128983-lux-fight-league-53",
+      "round": 2,
+      "timeInRound": "4:20"
+    },
+    {
+      "date": "2025-04-06T00:00:00.000Z",
+      "opponent": "Juan Pablo González",
+      "opponentSlug": "85102-juan-gonzales",
+      "result": "loss",
+      "method": "other",
+      "event": "UWC 56",
+      "eventSlug": "125257-uwc-56",
+      "round": 3,
+      "timeInRound": "4:43"
+    },
+    {
+      "date": "2024-04-12T00:00:00.000Z",
+      "opponent": "David Bento",
+      "opponentSlug": "180755-david-bento-bento",
+      "result": "loss",
+      "method": "sub",
+      "event": "Budo Sento Championship 21",
+      "eventSlug": "112218-budo-sento-championship-21",
+      "round": 1,
+      "timeInRound": "1:56"
+    },
+    {
+      "date": "2023-11-10T00:00:00.000Z",
+      "opponent": "Maximiliano González",
+      "opponentSlug": "185276-maximiliano-gonzalez-steel",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Budo Sento Championship 18",
+      "eventSlug": "107036-budo-sento-championship-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-03T00:00:00.000Z",
+      "opponent": "Roberto Guerrero",
+      "opponentSlug": "82750-roberto-guerrero",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "JFL 41",
+      "eventSlug": "104430-jfl-41",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-03T00:00:00.000Z",
+      "opponent": "Edson Marin",
+      "opponentSlug": "252175-edson-marin-suicida",
+      "result": "win",
+      "method": "other",
+      "event": "JFL 39",
+      "eventSlug": "101818-jfl-39",
+      "round": 3,
+      "timeInRound": "4:09"
+    },
+    {
+      "date": "2022-11-25T00:00:00.000Z",
+      "opponent": "Adrian Luna Martinetti",
+      "opponentSlug": "139620-juan-adrian-luna",
+      "result": "loss",
+      "method": "sub",
+      "event": "UWC 40: Sabori vs Sánchez",
+      "eventSlug": "95189-uwc-40",
+      "round": 1,
+      "timeInRound": "3:47"
+    },
+    {
+      "date": "2022-05-21T00:00:00.000Z",
+      "opponent": "Francisco Benitez",
+      "opponentSlug": "65149-francisco-benitez-el-escorpion",
+      "result": "win",
+      "method": "tko",
+      "event": "JFL 31",
+      "eventSlug": "89268-jfl-31",
+      "round": 3,
+      "timeInRound": "4:20"
+    },
+    {
+      "date": "2022-03-25T00:00:00.000Z",
+      "opponent": "Guillermo Torres",
+      "opponentSlug": "199418-guillermo-torres-memo",
+      "result": "loss",
+      "method": "other",
+      "event": "UWC 32: Sanchez vs. Valencia",
+      "eventSlug": "87697-uwc-32",
+      "round": 3,
+      "timeInRound": "0:15"
+    },
+    {
+      "date": "2022-01-29T00:00:00.000Z",
+      "opponent": "Erick Villaluz",
+      "opponentSlug": "138370-erick-villaluz",
+      "result": "win",
+      "method": "sub",
+      "event": "JFL 29",
+      "eventSlug": "85262-jfl-29",
+      "round": 1,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2019-07-27T00:00:00.000Z",
+      "opponent": "Angel Marin",
+      "opponentSlug": "252179-angel-marin",
+      "result": "win",
+      "method": "other",
+      "event": "FRL 7",
+      "eventSlug": "106025-frl-7",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-06T00:00:00.000Z",
+      "opponent": "Alfredo Larios",
+      "opponentSlug": "330185-alfredo-larios",
+      "result": "loss",
+      "method": "sub",
+      "event": "Coliseo Gladiadores 20",
+      "eventSlug": "64862-coliseo-gladiadores-20",
+      "round": 1,
+      "timeInRound": "0:25"
+    },
+    {
+      "date": "2019-03-23T00:00:00.000Z",
+      "opponent": "Luis Balderas",
+      "opponentSlug": "181850-luis-balderas",
+      "result": "loss",
+      "method": "sub",
+      "event": "JFL Grand Prix",
+      "eventSlug": "59319-jfl-grand-prix",
+      "round": 1,
+      "timeInRound": "1:18"
+    },
+    {
+      "date": "2017-09-23T00:00:00.000Z",
+      "opponent": "Sergio Cortez",
+      "opponentSlug": "117344-sergio-cortez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Jasaji FL 17",
+      "eventSlug": "47844-jasaji-fighting-league-jfl-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-01-26T00:00:00.000Z",
+      "opponent": "Gustavo Medina",
+      "opponentSlug": "187509-gustavo-medina-loco",
+      "result": "win",
+      "method": "dec-split",
+      "event": "JFL Fight Night Vol 7",
+      "eventSlug": "57975-jfl-fight-night-vol-7",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:36:53.228Z"
+}

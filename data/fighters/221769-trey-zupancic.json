@@ -1,0 +1,88 @@
+{
+  "slug": "221769-trey-zupancic",
+  "name": "Trey Zupancic",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1997-09-02",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/221769-trey-zupancic",
+  "recentFights": [
+    {
+      "date": "2024-10-05T00:00:00.000Z",
+      "opponent": "Conner Leonard",
+      "opponentSlug": "314561-conner-leonard",
+      "result": "loss",
+      "method": "sub",
+      "event": "Battle MMA Championships 14",
+      "eventSlug": "106117-battle-mma-championships-14",
+      "round": 2,
+      "timeInRound": "3:46"
+    },
+    {
+      "date": "2023-12-16T00:00:00.000Z",
+      "opponent": "Canon Swanson",
+      "opponentSlug": "329282-canon-swanson",
+      "result": "loss",
+      "method": "sub",
+      "event": "Battle MMA Championships 11",
+      "eventSlug": "100375-battle-mma-championships-11",
+      "round": 1,
+      "timeInRound": "1:42"
+    },
+    {
+      "date": "2023-04-21T00:00:00.000Z",
+      "opponent": "Tyler Rowlett",
+      "opponentSlug": "328979-tyler-rowlett",
+      "result": "win",
+      "method": "other",
+      "event": "Colorado Combat Club 17",
+      "eventSlug": "98033-colorado-combat-club-xvii",
+      "round": 1,
+      "timeInRound": "1:03"
+    },
+    {
+      "date": "2022-12-09T00:00:00.000Z",
+      "opponent": "Darius Murchison",
+      "opponentSlug": "292040-darius-murchison",
+      "result": "win",
+      "method": "other",
+      "event": "Colorado Combat Club 15",
+      "eventSlug": "92683-colorado-combat-club-15",
+      "round": 3,
+      "timeInRound": "0:11"
+    },
+    {
+      "date": "2019-10-26T00:00:00.000Z",
+      "opponent": "Kenny Mendez",
+      "opponentSlug": "239012-kenny-mendez",
+      "result": "loss",
+      "method": "other",
+      "event": "Colorado Combat Club 3",
+      "eventSlug": "61653-colorado-combat-club-iii",
+      "round": 1,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2019-05-04T00:00:00.000Z",
+      "opponent": "Trent Turban",
+      "opponentSlug": "186441-trent-turban",
+      "result": "win",
+      "method": "other",
+      "event": "NMEF: Annihilation 66",
+      "eventSlug": "58465-nmef-annihilation-66",
+      "round": 1,
+      "timeInRound": "1:15"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:41:00.945Z"
+}

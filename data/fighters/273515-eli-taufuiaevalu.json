@@ -1,0 +1,33 @@
+{
+  "slug": "273515-eli-taufuiaevalu",
+  "name": "Eli Taufuiaevalu",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "New Zealand",
+  "url": "https://www.tapology.com/fightcenter/fighters/273515-eli-taufuiaevalu",
+  "recentFights": [
+    {
+      "date": "2020-10-03T00:00:00.000Z",
+      "opponent": "Cam Rowston",
+      "opponentSlug": "69262-cam-rowston",
+      "result": "loss",
+      "method": "tko",
+      "event": "Shuriken Fight Series 8",
+      "eventSlug": "73144-shuriken-fight-series-8",
+      "round": 2,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:17:26.849Z"
+}

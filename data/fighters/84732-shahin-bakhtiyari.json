@@ -1,0 +1,92 @@
+{
+  "slug": "84732-shahin-bakhtiyari",
+  "name": "Shahin Bakhtiyari",
+  "nickname": "The Slayer",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 5,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1989-09-21",
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/84732-shahin-bakhtiyari",
+  "recentFights": [
+    {
+      "date": "2016-12-03T00:00:00.000Z",
+      "opponent": "George Chamoun",
+      "opponentSlug": "142700-george-chamoun",
+      "result": "win",
+      "method": "other",
+      "event": "Urban Fight Night 9",
+      "eventSlug": "42142-urban-fight-night-9",
+      "round": 1,
+      "timeInRound": "1:42"
+    },
+    {
+      "date": "2016-03-12T00:00:00.000Z",
+      "opponent": "Saipele Esera",
+      "opponentSlug": "127225-saipele-esera",
+      "result": "win",
+      "method": "tko",
+      "event": "Urban Fight Night 6",
+      "eventSlug": "37946-urban-fight-night-6",
+      "round": 2,
+      "timeInRound": "0:10"
+    },
+    {
+      "date": "2015-11-08T00:00:00.000Z",
+      "opponent": "Cam Rowston",
+      "opponentSlug": "69262-cam-rowston",
+      "result": "loss",
+      "method": "sub",
+      "event": "Urban Fight Night 4",
+      "eventSlug": "35676-urban-fight-night-4",
+      "round": 2,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2015-07-26T00:00:00.000Z",
+      "opponent": "Rhys Savage",
+      "opponentSlug": "69263-rhys-savage",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Urban Fight Night 3",
+      "eventSlug": "34220-urban-fight-night-3-revenge",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-04-19T00:00:00.000Z",
+      "opponent": "Jordan Falanitama",
+      "opponentSlug": "101825-jordan-falanitama",
+      "result": "win",
+      "method": "tko",
+      "event": "Urban Fight Night 2",
+      "eventSlug": "32270-urban-fight-night-2",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-01T00:00:00.000Z",
+      "opponent": "Luke Moon",
+      "opponentSlug": "84733-luke-moon",
+      "result": "win",
+      "method": "tko",
+      "event": "Wollongong Wars 2",
+      "eventSlug": "27589-wollongong-wars-2",
+      "round": 2,
+      "timeInRound": "1:59"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:17:46.982Z"
+}

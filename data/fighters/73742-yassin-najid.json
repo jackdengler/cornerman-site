@@ -1,0 +1,187 @@
+{
+  "slug": "73742-yassin-najid",
+  "name": "Yassin Najid",
+  "nickname": "The Scientist",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1985-07-26",
+  "nationality": "Casablanca, Morocco",
+  "url": "https://www.tapology.com/fightcenter/fighters/73742-yassin-najid",
+  "recentFights": [
+    {
+      "date": "2026-03-20T00:00:00.000Z",
+      "opponent": "Franco Tenaglia",
+      "opponentSlug": "146184-franco-tenaglia",
+      "result": "loss",
+      "method": "other",
+      "event": "PFL Madrid: Van Steenis vs. Edwards 2",
+      "eventSlug": "137127-pfl-madrid-van-steenis-vs-edwards",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2024-03-07T00:00:00.000Z",
+      "opponent": "Daniele Miceli",
+      "opponentSlug": "122063-daniele-micelli",
+      "result": "loss",
+      "method": "other",
+      "event": "PFL Europe 1",
+      "eventSlug": "109693-pfl-europe-1-2024-regular-season",
+      "round": 1,
+      "timeInRound": "0:27"
+    },
+    {
+      "date": "2022-11-03T00:00:00.000Z",
+      "opponent": "Ibrahima Mané",
+      "opponentSlug": "127116-ibrahim-man",
+      "result": "loss",
+      "method": "sub",
+      "event": "Ares FC 9: Lapilus vs. Ayoub 2",
+      "eventSlug": "88260-ares-fc-9",
+      "round": 1,
+      "timeInRound": "2:19"
+    },
+    {
+      "date": "2022-03-27T00:00:00.000Z",
+      "opponent": "Abdulla Al Bousheiri",
+      "opponentSlug": "125792-abdulla-bushehri",
+      "result": "nc",
+      "method": "other",
+      "event": "UAE Warriors 29",
+      "eventSlug": "87616-uae-warriors-29-africa",
+      "round": 2,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2021-10-28T00:00:00.000Z",
+      "opponent": "Yousef Wehbe",
+      "opponentSlug": "83801-yousef-wehbe",
+      "result": "win",
+      "method": "sub",
+      "event": "UAE Warriors 23",
+      "eventSlug": "83259-uae-warriors-23-arabia-5",
+      "round": 1,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2021-03-19T00:00:00.000Z",
+      "opponent": "Omar Hussein",
+      "opponentSlug": "82291-omar-hussein-fantastic",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UAE Warriors 17",
+      "eventSlug": "77795-uae-warriors-17-arabia-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-13T00:00:00.000Z",
+      "opponent": "Eric Rivière",
+      "opponentSlug": "214189-eric-riviere",
+      "result": "win",
+      "method": "other",
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-09T00:00:00.000Z",
+      "opponent": "Artur Karavaev",
+      "opponentSlug": "98161-artur-karavaev",
+      "result": "loss",
+      "method": "sub",
+      "event": "RCC MMA: Intro 3",
+      "eventSlug": "58509-rcc-intro-3",
+      "round": 1,
+      "timeInRound": "2:37"
+    },
+    {
+      "date": "2018-11-10T00:00:00.000Z",
+      "opponent": "Jan Malach",
+      "opponentSlug": "64719-jan-malach",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Night of Warriors 14",
+      "eventSlug": "56493-night-of-warriors-14",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-10T00:00:00.000Z",
+      "opponent": "Said Ali-hamid",
+      "opponentSlug": "143329-said-ali-hamid",
+      "result": "win",
+      "method": "sub",
+      "event": "100% Fight 34",
+      "eventSlug": "51014-100-fight-34",
+      "round": 1,
+      "timeInRound": "0:36"
+    },
+    {
+      "date": "2018-02-03T00:00:00.000Z",
+      "opponent": "Alix JeanGuillaume",
+      "opponentSlug": "142718-alix-jean-guillaume",
+      "result": "win",
+      "method": "sub",
+      "event": "Arène des Sacres 1",
+      "eventSlug": "52066-l-arene-des-sacres",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2017-10-28T00:00:00.000Z",
+      "opponent": "Chris Gomis",
+      "opponentSlug": "170233-chris-gomis-denzel",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "NXT LVL 2",
+      "eventSlug": "49000-nxt-lvl-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-06-04T00:00:00.000Z",
+      "opponent": "Mohamed Akim Belalia",
+      "opponentSlug": "116883-mohamed-akim-belalia",
+      "result": "win",
+      "method": "sub",
+      "event": "Octagon Fighting Club 15",
+      "eventSlug": "39983-octagon-fighting-club-15",
+      "round": 1,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2014-05-31T00:00:00.000Z",
+      "opponent": "Tomasz Jakubiec",
+      "opponentSlug": "58706-tom-jakubiec",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-10-31T00:00:00.000Z",
+      "opponent": "Issa Isakov",
+      "opponentSlug": "152843-issa-isakov",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:07:54.968Z"
+}

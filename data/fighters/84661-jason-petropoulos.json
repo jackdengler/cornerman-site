@@ -1,0 +1,132 @@
+{
+  "slug": "84661-jason-petropoulos",
+  "name": "Jason Petropoulos",
+  "nickname": "Argonaut",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1993-10-28",
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/84661-jason-petropoulos",
+  "recentFights": [
+    {
+      "date": "2024-10-19T00:00:00.000Z",
+      "opponent": "Michael McDaniel",
+      "opponentSlug": "67818-michael-mcdaniel",
+      "result": "win",
+      "method": "tko",
+      "event": "Grow Strong 10",
+      "eventSlug": "116043-grow-strong-10",
+      "round": 1,
+      "timeInRound": "0:43"
+    },
+    {
+      "date": "2021-12-05T00:00:00.000Z",
+      "opponent": "Jack Jenkins",
+      "opponentSlug": "134851-jack-jenkins",
+      "result": "loss",
+      "method": "other",
+      "event": "Rogue MMA 1",
+      "eventSlug": "84372-rogue-mma-1",
+      "round": 2,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2019-12-13T00:00:00.000Z",
+      "opponent": "Michael Mannu",
+      "opponentSlug": "120836-michael-mannue",
+      "result": "loss",
+      "method": "other",
+      "event": "Hex Fight Series 20",
+      "eventSlug": "63850-hex-fight-series-20",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2018-10-27T00:00:00.000Z",
+      "opponent": "Mitch Martin",
+      "opponentSlug": "107722-mitch-martin",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 38",
+      "eventSlug": "55129-eternal-mma-38",
+      "round": 3,
+      "timeInRound": "3:13"
+    },
+    {
+      "date": "2017-03-31T00:00:00.000Z",
+      "opponent": "Hayden Wright",
+      "opponentSlug": "110082-hayden-wright",
+      "result": "win",
+      "method": "sub",
+      "event": "Hex Fight Series 8",
+      "eventSlug": "43840-hex-fight-series-8",
+      "round": 1,
+      "timeInRound": "1:26"
+    },
+    {
+      "date": "2017-01-28T00:00:00.000Z",
+      "opponent": "Ramen Habib",
+      "opponentSlug": "62737-ramen-habib",
+      "result": "win",
+      "method": "sub",
+      "event": "Legend MMA 1",
+      "eventSlug": "43694-legend-mma-1",
+      "round": 1,
+      "timeInRound": "0:31"
+    },
+    {
+      "date": "2016-03-19T00:00:00.000Z",
+      "opponent": "Joshua Trambulo",
+      "opponentSlug": "128244-joshua-riley",
+      "result": "loss",
+      "method": "other",
+      "event": "Australian FC 15",
+      "eventSlug": "37948-australian-fc-15",
+      "round": 1,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2015-06-14T00:00:00.000Z",
+      "opponent": "Muhammad Abdou",
+      "opponentSlug": "95783-muhammad-abdou",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Australian FC 13",
+      "eventSlug": "32389-australian-fc-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-21T00:00:00.000Z",
+      "opponent": "Justin Barbuto",
+      "opponentSlug": "109284-justin-barbuto-noodles",
+      "result": "win",
+      "method": "sub",
+      "event": "Australian FC 12",
+      "eventSlug": "29230-australian-fc-12",
+      "round": 1,
+      "timeInRound": "0:51"
+    },
+    {
+      "date": "2014-06-07T00:00:00.000Z",
+      "opponent": "Junior Fabian Fa'atui",
+      "opponentSlug": "84674-junior-fabian-faatui",
+      "result": "win",
+      "method": null,
+      "event": "Fighters Xpress",
+      "eventSlug": "25127-fighters-xpress-moment-of-truth",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:58:05.290Z"
+}

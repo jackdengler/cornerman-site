@@ -1,0 +1,136 @@
+{
+  "slug": "164584-dylan-thompson",
+  "name": "Dylan Thompson",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 6,
+    "losses": 4,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1995-12-09",
+  "nationality": "England",
+  "url": "https://www.tapology.com/fightcenter/fighters/164584-dylan-thompson",
+  "recentFights": [
+    {
+      "date": "2020-03-08T00:00:00.000Z",
+      "opponent": "Colby Thicknesse",
+      "opponentSlug": "166902-colby-thicknesse",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "67973-immaf-wmmaa-oceania-open-championship-finals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-03-07T00:00:00.000Z",
+      "opponent": "Denzil Brokken",
+      "opponentSlug": "257245-denzil-brokken",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "67964-immaf-wmmaa-oceania-open-cup-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-03-06T00:00:00.000Z",
+      "opponent": "Taj Fewquandie",
+      "opponentSlug": "143315-taj-fewquandie",
+      "result": "win",
+      "method": "sub",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "67963-immaf-wmmaa-oceania-open-championship-day-1",
+      "round": 2,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2019-09-07T00:00:00.000Z",
+      "opponent": "Stafford Swainston",
+      "opponentSlug": "181659-stafford-swainston",
+      "result": "loss",
+      "method": "sub",
+      "event": "MTK MMA: Probellum",
+      "eventSlug": "62651-mtk-mma-probellum",
+      "round": 2,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2019-08-03T00:00:00.000Z",
+      "opponent": "Daniel Andrade",
+      "opponentSlug": "220508-daniel-andrade",
+      "result": "win",
+      "method": "sub",
+      "event": "Masda FN",
+      "eventSlug": "62547-masda-fn",
+      "round": 1,
+      "timeInRound": "2:36"
+    },
+    {
+      "date": "2019-06-29T00:00:00.000Z",
+      "opponent": "Dave Jones",
+      "opponentSlug": "84752-dave-jones",
+      "result": "win",
+      "method": "sub",
+      "event": "UK Fighting Championships 10",
+      "eventSlug": "60774-uk-fighting-championships-10",
+      "round": 1,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2018-12-01T00:00:00.000Z",
+      "opponent": "Dave Jones",
+      "opponentSlug": "84752-dave-jones",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Warriors Academy North West 4",
+      "eventSlug": "54756-cage-warriors-academy-north-west-4",
+      "round": 1,
+      "timeInRound": "1:06"
+    },
+    {
+      "date": "2018-10-27T00:00:00.000Z",
+      "opponent": "Sam Kelly",
+      "opponentSlug": "171086-sam-kelly",
+      "result": "loss",
+      "method": "sub",
+      "event": "ICE FC 20",
+      "eventSlug": "55834-ice-fc-20",
+      "round": 2,
+      "timeInRound": "0:41"
+    },
+    {
+      "date": "2017-12-16T00:00:00.000Z",
+      "opponent": "Zack Thomas",
+      "opponentSlug": "121647-zack-jones",
+      "result": "win",
+      "method": "sub",
+      "event": "Budo Fighting Championships 26",
+      "eventSlug": "45883-budo-fighting-championships",
+      "round": 1,
+      "timeInRound": "1:42"
+    },
+    {
+      "date": "2017-08-27T00:00:00.000Z",
+      "opponent": "Sam Gittins",
+      "opponentSlug": "164583-sam-gittins",
+      "result": "loss",
+      "method": "sub",
+      "event": "Budo Fighting Championships 23",
+      "eventSlug": "45882-budo-fighting-championships-23",
+      "round": 1,
+      "timeInRound": "2:52"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:56:35.894Z"
+}

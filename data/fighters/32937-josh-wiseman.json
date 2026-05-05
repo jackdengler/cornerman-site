@@ -1,0 +1,154 @@
+{
+  "slug": "32937-josh-wiseman",
+  "name": "Josh Wiseman",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 9,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1990-04-08",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/32937-josh-wiseman",
+  "recentFights": [
+    {
+      "date": "2025-09-20T00:00:00.000Z",
+      "opponent": "Kyles Vang",
+      "opponentSlug": "133767-kyles-vang",
+      "result": "loss",
+      "method": "sub",
+      "event": "WFC 179",
+      "eventSlug": "131591-wfc-179",
+      "round": 1,
+      "timeInRound": "3:56"
+    },
+    {
+      "date": "2019-12-07T00:00:00.000Z",
+      "opponent": "Gary Konkol",
+      "opponentSlug": "92127-gary-konkol-wildboy",
+      "result": "loss",
+      "method": "sub",
+      "event": "Pure FC 16",
+      "eventSlug": "62834-pure-fc-16",
+      "round": 1,
+      "timeInRound": "3:10"
+    },
+    {
+      "date": "2019-10-18T00:00:00.000Z",
+      "opponent": "Nate Morrow",
+      "opponentSlug": "86966-nate-morrow",
+      "result": "loss",
+      "method": "other",
+      "event": "Elite Fight League 7",
+      "eventSlug": "62850-elite-fight-league-7",
+      "round": 1,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2019-09-14T00:00:00.000Z",
+      "opponent": "Felipe Martinez",
+      "opponentSlug": "128941-felipe-martinez-donis",
+      "result": "loss",
+      "method": "sub",
+      "event": "3 River Throwdown 16",
+      "eventSlug": "60509-3-river-throwdown-16",
+      "round": 1,
+      "timeInRound": "3:06"
+    },
+    {
+      "date": "2017-06-24T00:00:00.000Z",
+      "opponent": "Montel Jackson",
+      "opponentSlug": "89335-montel-jackson",
+      "result": "loss",
+      "method": "other",
+      "event": "Pure FC 7: Lemminger vs. Schuman",
+      "eventSlug": "44154-pure-fc-7",
+      "round": 1,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2017-01-21T00:00:00.000Z",
+      "opponent": "Richard Dey",
+      "opponentSlug": "64154-richard-dey",
+      "result": "loss",
+      "method": "sub",
+      "event": "Inner Strength MMA 9",
+      "eventSlug": "43676-inner-strength-mma-9-there-can-only-be-one",
+      "round": 2,
+      "timeInRound": "2:16"
+    },
+    {
+      "date": "2013-10-26T00:00:00.000Z",
+      "opponent": "Shelby Graham",
+      "opponentSlug": "39379-shelby-graham",
+      "result": "loss",
+      "method": "other",
+      "event": "Warriors for Heroes",
+      "eventSlug": "22179-warriors-for-heroes-mma-vs-ptsd",
+      "round": 1,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2013-07-06T00:00:00.000Z",
+      "opponent": "Brent Puffe",
+      "opponentSlug": "32971-brent-puffe",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-03-23T00:00:00.000Z",
+      "opponent": "Donald Williams",
+      "opponentSlug": "18208-donald-williams",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Havoc at the High-Five",
+      "eventSlug": "17897-havoc-at-the-high-five",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-02-16T00:00:00.000Z",
+      "opponent": "Carl Deaton III",
+      "opponentSlug": "32970-carl-deaton-iii",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-09-22T00:00:00.000Z",
+      "opponent": "Ehsan Karam",
+      "opponentSlug": "34987-ehsan-karam",
+      "result": "loss",
+      "method": "sub",
+      "event": "Caged Chaos at Canterbury Park 1",
+      "eventSlug": "15927-caged-chaos-at-canterbury-park",
+      "round": 3,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2012-08-11T00:00:00.000Z",
+      "opponent": "Mike Wilke",
+      "opponentSlug": "32938-mike-wilke",
+      "result": "win",
+      "method": "other",
+      "event": "CFX 37: Myth",
+      "eventSlug": "14727-cfx-36-myth",
+      "round": 1,
+      "timeInRound": "1:37"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:37:57.291Z"
+}

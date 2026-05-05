@@ -1,0 +1,187 @@
+{
+  "slug": "46942-thomas-lopez",
+  "name": "Thomas Lopez",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1987-08-13",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/46942-thomas-lopez",
+  "recentFights": [
+    {
+      "date": "2019-07-12T00:00:00.000Z",
+      "opponent": "Lucas Brennan",
+      "opponentSlug": "162427-lucas-brennan",
+      "result": "loss",
+      "method": "sub",
+      "event": "Bellator 224",
+      "eventSlug": "59237-bellator-budd-vs-rubin",
+      "round": 1,
+      "timeInRound": "3:02"
+    },
+    {
+      "date": "2018-03-02T00:00:00.000Z",
+      "opponent": "Aaron Webb",
+      "opponentSlug": "74303-aaron-webb",
+      "result": "loss",
+      "method": "other",
+      "event": "Bellator 195",
+      "eventSlug": "49796-bellator-caldwell-vs-higo",
+      "round": 1,
+      "timeInRound": "3:11"
+    },
+    {
+      "date": "2017-12-01T00:00:00.000Z",
+      "opponent": "Cris Lencioni",
+      "opponentSlug": "110359-cris-williams",
+      "result": "loss",
+      "method": "sub",
+      "event": "Bellator 189",
+      "eventSlug": "48466-bellator-189-budd-vs-blencowe",
+      "round": 1,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2017-08-04T00:00:00.000Z",
+      "opponent": "Daniel Carey",
+      "opponentSlug": "44775-dan-carey",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 18: Aguilar vs. Rader",
+      "eventSlug": "47037-lfa-18-aguilar-vs-rader",
+      "round": 3,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2017-06-10T00:00:00.000Z",
+      "opponent": "Elijah Johns",
+      "opponentSlug": "148010-elijah-johns",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "XKO 36",
+      "eventSlug": "45455-xko-36",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-17T00:00:00.000Z",
+      "opponent": "George Palmer",
+      "opponentSlug": "22892-george-palmer",
+      "result": "win",
+      "method": "tko",
+      "event": "Xtreme Fight Night 335",
+      "eventSlug": "41496-xtreme-fight-night-335",
+      "round": 1,
+      "timeInRound": "0:28"
+    },
+    {
+      "date": "2016-07-01T00:00:00.000Z",
+      "opponent": "Brant Moore",
+      "opponentSlug": "54909-brant-moore",
+      "result": "loss",
+      "method": "other",
+      "event": "Legacy FC 57",
+      "eventSlug": "39447-legacy-fc-57",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-09T00:00:00.000Z",
+      "opponent": "Erick Montejano",
+      "opponentSlug": "103641-erick-montejano",
+      "result": "loss",
+      "method": "tko",
+      "event": "Xtreme Fight Club 35",
+      "eventSlug": "38915-xtreme-fight-club-35",
+      "round": 1,
+      "timeInRound": "1:56"
+    },
+    {
+      "date": "2015-11-20T00:00:00.000Z",
+      "opponent": "Erick Montejano",
+      "opponentSlug": "103641-erick-montejano",
+      "result": "win",
+      "method": "tko",
+      "event": "Belts of Honorious 12",
+      "eventSlug": "36522-belts-of-honorious-12",
+      "round": 3,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2015-05-16T00:00:00.000Z",
+      "opponent": "Joe Gorman",
+      "opponentSlug": "101411-joe-gorman",
+      "result": "loss",
+      "method": "sub",
+      "event": "Xtreme Fight Club 12",
+      "eventSlug": "32638-xtreme-fight-club-12",
+      "round": 1,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2015-02-28T00:00:00.000Z",
+      "opponent": "Wes Lynch",
+      "opponentSlug": "93989-wes-lynch",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Xtreme Fight Club 11",
+      "eventSlug": "29857-xtreme-fight-club-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-10-04T00:00:00.000Z",
+      "opponent": "Jose Zavala",
+      "opponentSlug": "68772-jose-zavala",
+      "result": "win",
+      "method": "tko",
+      "event": "Xtreme Fight Club 10",
+      "eventSlug": "26794-xtreme-fight-club-10",
+      "round": 1,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2014-04-25T00:00:00.000Z",
+      "opponent": "Ulyses Aguila",
+      "opponentSlug": "53216-ulyses-aguila",
+      "result": "loss",
+      "method": "sub",
+      "event": "Xtreme Fight Club 8",
+      "eventSlug": "23658-xtreme-fight-club-8",
+      "round": 2,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2014-02-15T00:00:00.000Z",
+      "opponent": "Jim Marsh",
+      "opponentSlug": "61987-jim-marsh",
+      "result": "win",
+      "method": "other",
+      "event": "Xtreme Fight Club 7",
+      "eventSlug": "22256-xtreme-fight-club-7",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-07-20T00:00:00.000Z",
+      "opponent": "Mitchell Dutko",
+      "opponentSlug": "51255-mitchell-dutke",
+      "result": "loss",
+      "method": "sub",
+      "event": "Xtreme Fight Club 6",
+      "eventSlug": "19747-xtreme-fight-club-6",
+      "round": 2,
+      "timeInRound": "2:58"
+    }
+  ],
+  "lastVerified": "2026-04-21T06:14:35.205Z"
+}

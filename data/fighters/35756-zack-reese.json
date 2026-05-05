@@ -1,0 +1,220 @@
+{
+  "slug": "35756-zack-reese",
+  "name": "Zach Reese",
+  "nickname": "Savage",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 193,
+  "reachCm": 196,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1994-03-24",
+  "nationality": "Houston, Texas, USA",
+  "url": "https://www.tapology.com/fightcenter/fighters/35756-zack-reese",
+  "recentFights": [
+    {
+      "date": "2026-02-21T00:00:00.000Z",
+      "opponent": "Michel Pereira",
+      "opponentSlug": "55575-michel-pereira",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "136872-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-08T00:00:00.000Z",
+      "opponent": "Jackson McVey",
+      "opponentSlug": "238221-jackson-mcvey",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "132761-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2025-09-13T00:00:00.000Z",
+      "opponent": "Sedriques Dumas",
+      "opponentSlug": "188574-sedriques-dumas",
+      "result": "nc",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "126286-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "0:51"
+    },
+    {
+      "date": "2025-05-31T00:00:00.000Z",
+      "opponent": "Duško Todorović",
+      "opponentSlug": "114625-duko-todorovi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "123251-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-01-18T00:00:00.000Z",
+      "opponent": "Azamat Bekoev",
+      "opponentSlug": "137588-azamat-bekoev",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 311: Makhachev vs. Moicano",
+      "eventSlug": "118600-ufc-311",
+      "round": 1,
+      "timeInRound": "3:04"
+    },
+    {
+      "date": "2024-08-24T00:00:00.000Z",
+      "opponent": "José Medina",
+      "opponentSlug": "155441-jos-daniel-medina-rivero-chicho-medina",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "114902-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-08T00:00:00.000Z",
+      "opponent": "Julian Marquez",
+      "opponentSlug": "29696-julian-marquez",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "111458-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "0:20"
+    },
+    {
+      "date": "2023-12-02T00:00:00.000Z",
+      "opponent": "Cody Brundage",
+      "opponentSlug": "169818-cody-brundage",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "104486-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2023-08-22T00:00:00.000Z",
+      "opponent": "Eli Aronov",
+      "opponentSlug": "191984-eli-aronov",
+      "result": "win",
+      "method": "sub",
+      "event": "Contender Series 2023",
+      "eventSlug": "100993-contender-series-2023-week-3",
+      "round": 1,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2023-03-24T00:00:00.000Z",
+      "opponent": "Tommie Britton",
+      "opponentSlug": "50317-tommie-britton",
+      "result": "win",
+      "method": "tko",
+      "event": "Fury FC 76: Chairez vs. Vasquez",
+      "eventSlug": "96724-fury-fc-76",
+      "round": 1,
+      "timeInRound": "0:52"
+    },
+    {
+      "date": "2023-02-05T00:00:00.000Z",
+      "opponent": "Aaron Phillips",
+      "opponentSlug": "196116-aaron-phillips",
+      "result": "win",
+      "method": "sub",
+      "event": "Fury FC 74: Smotherman vs. Caballero",
+      "eventSlug": "96722-fury-fc-7",
+      "round": 1,
+      "timeInRound": "0:33"
+    },
+    {
+      "date": "2022-11-06T00:00:00.000Z",
+      "opponent": "Shahriar Zolfaghari",
+      "opponentSlug": "228445-shahriar-zolfaghari",
+      "result": "win",
+      "method": "other",
+      "event": "Fury FC 71: Richardson vs. Quintana",
+      "eventSlug": "91561-fury-fc-71",
+      "round": 1,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2021-08-21T00:00:00.000Z",
+      "opponent": "Malik Tambe",
+      "opponentSlug": "182737-malik-tambe-the-lion",
+      "result": "win",
+      "method": "tko",
+      "event": "Peak Fighting 15",
+      "eventSlug": "79653-peak-fighting-15-lewis-vs-williams",
+      "round": 1,
+      "timeInRound": "4:13"
+    },
+    {
+      "date": "2021-04-10T00:00:00.000Z",
+      "opponent": "Fred Zamora",
+      "opponentSlug": "114193-fred-zamora",
+      "result": "win",
+      "method": "tko",
+      "event": "Peak Fighting 10",
+      "eventSlug": "78321-pf-10-pf-10",
+      "round": 1,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2021-02-27T00:00:00.000Z",
+      "opponent": "Parker Didier",
+      "opponentSlug": "243131-parker-didier",
+      "result": "win",
+      "method": "sub",
+      "event": "Peak Fighting 8",
+      "eventSlug": "76713-peak-fighting-8-winter-storm",
+      "round": 2,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2020-09-26T00:00:00.000Z",
+      "opponent": "Coby Bradford",
+      "opponentSlug": "242722-coby-bradford",
+      "result": "win",
+      "method": "sub",
+      "event": "Peak Fighting 5",
+      "eventSlug": "72485-pf5-the-gauntlet",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2017-11-18T00:00:00.000Z",
+      "opponent": "John Wageman",
+      "opponentSlug": "127919-john-wageman",
+      "result": "win",
+      "method": "sub",
+      "event": "Texas Clash Bash 9",
+      "eventSlug": "48434-texas-clash-bash-9",
+      "round": 1,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2012-10-06T00:00:00.000Z",
+      "opponent": "Kevin Holland",
+      "opponentSlug": "35757-kevin-holland",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cowboys Extreme Cagefighting",
+      "eventSlug": "16109-cowboys-extreme-cagefighting",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:52:55.972Z"
+}

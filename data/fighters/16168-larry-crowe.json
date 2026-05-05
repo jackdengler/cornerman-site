@@ -1,0 +1,220 @@
+{
+  "slug": "16168-larry-crowe",
+  "name": "Larry Crowe",
+  "nickname": "Tae Kwon",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 181,
+  "reachCm": 193,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1984-05-09",
+  "nationality": "Houston, Texas",
+  "url": "https://www.tapology.com/fightcenter/fighters/16168-larry-crowe",
+  "recentFights": [
+    {
+      "date": "2021-05-16T00:00:00.000Z",
+      "opponent": "Ty Flores",
+      "opponentSlug": "80553-tyler-flores",
+      "result": "loss",
+      "method": "other",
+      "event": "Fury FC 46: Lookin' For a Fight",
+      "eventSlug": "78119-fury-fc-46",
+      "round": 3,
+      "timeInRound": "1:21"
+    },
+    {
+      "date": "2018-06-22T00:00:00.000Z",
+      "opponent": "Brendan Allen",
+      "opponentSlug": "91516-brendan-allen",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 43: Allen vs. Crowe",
+      "eventSlug": "53401-lfa-43-allen-vs-crowe",
+      "round": 1,
+      "timeInRound": "2:06"
+    },
+    {
+      "date": "2017-11-03T00:00:00.000Z",
+      "opponent": "Bilal Williams",
+      "opponentSlug": "74467-bilal-williams",
+      "result": "win",
+      "method": "dec-split",
+      "event": "LFA 26: Odoms vs. Hughes",
+      "eventSlug": "48455-lfa-26-odoms-vs-hughes",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-09T00:00:00.000Z",
+      "opponent": "Trevin Giles",
+      "opponentSlug": "20072-trevin-giles",
+      "result": "loss",
+      "method": "tko",
+      "event": "Fury FC 8",
+      "eventSlug": "35499-fury-fc-8",
+      "round": 2,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2015-06-26T00:00:00.000Z",
+      "opponent": "Ryan Spann",
+      "opponentSlug": "20908-ryan-spann",
+      "result": "loss",
+      "method": "other",
+      "event": "Legacy FC 42",
+      "eventSlug": "32143-legacy-fc-42-njokuani-vs-quayhagen",
+      "round": 1,
+      "timeInRound": "0:08"
+    },
+    {
+      "date": "2015-02-27T00:00:00.000Z",
+      "opponent": "Leo Leite",
+      "opponentSlug": "51422-leo-leite",
+      "result": "loss",
+      "method": "other",
+      "event": "Legacy FC 39",
+      "eventSlug": "28884-legacy-fc-39-leite-vs-crowe",
+      "round": 2,
+      "timeInRound": "2:19"
+    },
+    {
+      "date": "2014-11-14T00:00:00.000Z",
+      "opponent": "Quentin Henry",
+      "opponentSlug": "53240-quentin-henry",
+      "result": "win",
+      "method": "other",
+      "event": "Legacy FC 37",
+      "eventSlug": "26020-legacy-fc-37-garcia-vs-pineda",
+      "round": 1,
+      "timeInRound": "1:06"
+    },
+    {
+      "date": "2014-01-31T00:00:00.000Z",
+      "opponent": "Terrance Ferguson",
+      "opponentSlug": "16359-terrance-ferguson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Legacy FC 27",
+      "eventSlug": "21286-legacy-fc-27-buentello-vs-villanueva",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-11-15T00:00:00.000Z",
+      "opponent": "Jon Kirk",
+      "opponentSlug": "jon-kirk-el-jaguar",
+      "result": "win",
+      "method": "sub",
+      "event": "Legacy FC 25",
+      "eventSlug": "20036-legacy-fc-25",
+      "round": 1,
+      "timeInRound": "0:52"
+    },
+    {
+      "date": "2013-07-19T00:00:00.000Z",
+      "opponent": "Bubba Bush",
+      "opponentSlug": "william-bush",
+      "result": "loss",
+      "method": "other",
+      "event": "Legacy FC 21",
+      "eventSlug": "18298-legacy-fc-21-riddle-vs-young",
+      "round": 2,
+      "timeInRound": "2:41"
+    },
+    {
+      "date": "2013-03-01T00:00:00.000Z",
+      "opponent": "Matt Rogers",
+      "opponentSlug": "5291-matt-rogers",
+      "result": "win",
+      "method": "other",
+      "event": "Legacy FC 18",
+      "eventSlug": "17186-legacy-fc-18-lewis-vs-shivers",
+      "round": 1,
+      "timeInRound": "1:21"
+    },
+    {
+      "date": "2011-12-16T00:00:00.000Z",
+      "opponent": "Jeff Rexroad",
+      "opponentSlug": "15704-jeff-rexroad-the-executioner",
+      "result": "loss",
+      "method": "sub",
+      "event": "Legacy FC 9",
+      "eventSlug": "11586-legacy-fc-9",
+      "round": 3,
+      "timeInRound": "4:48"
+    },
+    {
+      "date": "2011-09-16T00:00:00.000Z",
+      "opponent": "Ike Villanueva",
+      "opponentSlug": "isaac-villanueva",
+      "result": "win",
+      "method": "other",
+      "event": "Legacy FC 8",
+      "eventSlug": "10352-legacy-fc-8",
+      "round": 2,
+      "timeInRound": "1:57"
+    },
+    {
+      "date": "2011-07-22T00:00:00.000Z",
+      "opponent": "Jermaine Anugwom",
+      "opponentSlug": "16169-jermaine-anugwom",
+      "result": "win",
+      "method": "other",
+      "event": "Legacy FC 7",
+      "eventSlug": "legacy-fc-7",
+      "round": 1,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2011-02-25T00:00:00.000Z",
+      "opponent": "Jordan Clissold",
+      "opponentSlug": "16174-jordan-clissold",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-10-16T00:00:00.000Z",
+      "opponent": "Jarred Taylor",
+      "opponentSlug": "4013-jarred-taylor",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-07-31T00:00:00.000Z",
+      "opponent": "Taylor Herbert",
+      "opponentSlug": "14024-taylor-herbert",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-04-09T00:00:00.000Z",
+      "opponent": "Miguel Guerra",
+      "opponentSlug": "16175-miguel-guerra",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:51:02.452Z"
+}

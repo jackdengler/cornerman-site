@@ -1,0 +1,220 @@
+{
+  "slug": "154464-gabriel-echavarry",
+  "name": "Gabriel Echavarry",
+  "nickname": "Gaby",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1994-07-20",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/154464-gabriel-echavarry",
+  "recentFights": [
+    {
+      "date": "2025-01-12T00:00:00.000Z",
+      "opponent": "Azjavkhlan Baatar",
+      "opponentSlug": "127189-bardahl-asjabharan",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fury FC 100",
+      "eventSlug": "119963-fury-fc-100",
+      "round": 1,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2024-06-16T00:00:00.000Z",
+      "opponent": "Christian Strong",
+      "opponentSlug": "227460-christian-bagdadi",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fury FC 92: Pa-ac vs. Piccininni",
+      "eventSlug": "112058-fury-fc-91",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-10T00:00:00.000Z",
+      "opponent": "Shane Torres",
+      "opponentSlug": "171638-shane-torres",
+      "result": "win",
+      "method": "sub",
+      "event": "Fury FC 87: Moran vs. Harvey",
+      "eventSlug": "107714-fury-fc-87",
+      "round": 3,
+      "timeInRound": "4:48"
+    },
+    {
+      "date": "2023-08-27T00:00:00.000Z",
+      "opponent": "Cristian Lopez",
+      "opponentSlug": "232643-cristian-lopez",
+      "result": "win",
+      "method": "sub",
+      "event": "Fury FC 82: Moran vs. Trujillo",
+      "eventSlug": "102559-fury-fc-82",
+      "round": 2,
+      "timeInRound": "2:48"
+    },
+    {
+      "date": "2023-06-25T00:00:00.000Z",
+      "opponent": "Stephen Perez",
+      "opponentSlug": "16499-stephen-perez",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Fury FC 80: Martinez vs. Efrain",
+      "eventSlug": "100197-fury-fc-80",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-26T00:00:00.000Z",
+      "opponent": "Jose Lemus",
+      "opponentSlug": "161429-jose-lemus",
+      "result": "win",
+      "method": "other",
+      "event": "Fury Challenger Series 3",
+      "eventSlug": "99203-fury-challenger-series-3",
+      "round": 1,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2022-02-11T00:00:00.000Z",
+      "opponent": "John Yannis",
+      "opponentSlug": "151617-john-yannies",
+      "result": "loss",
+      "method": "other",
+      "event": "Fury FC 57",
+      "eventSlug": "85648-fury-fc-57",
+      "round": 2,
+      "timeInRound": "3:48"
+    },
+    {
+      "date": "2021-03-06T00:00:00.000Z",
+      "opponent": "Francisco Obando",
+      "opponentSlug": "121050-francisco-obando",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fury FC 44",
+      "eventSlug": "76644-fury-fc-44",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-01-23T00:00:00.000Z",
+      "opponent": "Justice Lamparez",
+      "opponentSlug": "135354-justice-lamparez",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Gulf Coast MMA 8",
+      "eventSlug": "76233-gulf-coast-mma-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-09T00:00:00.000Z",
+      "opponent": "Jonathan Taylor",
+      "opponentSlug": "136661-jonathan-taylor",
+      "result": "win",
+      "method": "other",
+      "event": "Fury FC 39",
+      "eventSlug": "62413-fury-fc-39",
+      "round": 1,
+      "timeInRound": "2:53"
+    },
+    {
+      "date": "2019-08-23T00:00:00.000Z",
+      "opponent": "Darius Gray",
+      "opponentSlug": "54897-darius-gray",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fury FC 35",
+      "eventSlug": "61654-fury-fc-35",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-15T00:00:00.000Z",
+      "opponent": "Josh Rosen",
+      "opponentSlug": "169688-josh-rosen",
+      "result": "loss",
+      "method": "other",
+      "event": "Fury FC 31",
+      "eventSlug": "58444-fury-fc-31",
+      "round": 1,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2018-12-15T00:00:00.000Z",
+      "opponent": "Edward Gonzales",
+      "opponentSlug": "121137-edward-gonzales",
+      "result": "win",
+      "method": "sub",
+      "event": "Fury FC 28: Black Tie MMA",
+      "eventSlug": "55900-fury-fc-28-black-tie-mma",
+      "round": 2,
+      "timeInRound": "2:28"
+    },
+    {
+      "date": "2018-10-20T00:00:00.000Z",
+      "opponent": "Kai Laigo",
+      "opponentSlug": "121045-kai-laigo",
+      "result": "win",
+      "method": "sub",
+      "event": "Apex Fight Night 6",
+      "eventSlug": "55237-apex-fight-night-6",
+      "round": 1,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2018-07-20T00:00:00.000Z",
+      "opponent": "Justin Hoffart",
+      "opponentSlug": "154467-justin-hoffart",
+      "result": "win",
+      "method": "other",
+      "event": "Fury FC 25",
+      "eventSlug": "54439-fury-fc-25",
+      "round": 1,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2018-06-23T00:00:00.000Z",
+      "opponent": "Jerry Wilkins",
+      "opponentSlug": "159389-jerry-wilkins",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "A Dragon's Tale 5",
+      "eventSlug": "52234-a-dragon-s-tale-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-16T00:00:00.000Z",
+      "opponent": "Justice Torres",
+      "opponentSlug": "165425-justice-torres",
+      "result": "win",
+      "method": "other",
+      "event": "Fury FC 21",
+      "eventSlug": "49570-fury-fc-21",
+      "round": 3,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2017-04-28T00:00:00.000Z",
+      "opponent": "Amin Jon Abushaer",
+      "opponentSlug": "154463-amin-jon-abushaer",
+      "result": "draw",
+      "method": "dec-split",
+      "event": "Fury FC 16",
+      "eventSlug": "45162-fury-fc-16",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:05:35.216Z"
+}

@@ -1,0 +1,180 @@
+{
+  "slug": "66944-michael-parker",
+  "name": "Michael Parker",
+  "nickname": "Thunderbolt",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 9,
+    "losses": 5,
+    "draws": 0
+  },
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1990-05-16",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/66944-michael-parker",
+  "recentFights": [
+    {
+      "date": "2019-03-30T00:00:00.000Z",
+      "opponent": "Ryan Patterson",
+      "opponentSlug": "159573-ryan-patterson",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "EAFL: Illinois vs. Virginia",
+      "eventSlug": "58462-eafl-illinois-vs-virginia",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-16T00:00:00.000Z",
+      "opponent": "Christian Jones",
+      "opponentSlug": "129634-christian-jones",
+      "result": "loss",
+      "method": "other",
+      "event": "EAFL: Indiana vs. Illinois",
+      "eventSlug": "56635-eafl-indiana-vs-illinois",
+      "round": 3,
+      "timeInRound": "2:19"
+    },
+    {
+      "date": "2018-10-27T00:00:00.000Z",
+      "opponent": "Andrew Kauzlaric",
+      "opponentSlug": "158190-andrew-kauzlaric",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Pure FC 11",
+      "eventSlug": "55395-pure-fc-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-02-25T00:00:00.000Z",
+      "opponent": "Devondrick Bankston",
+      "opponentSlug": "65232-devondrick-bankston",
+      "result": "loss",
+      "method": "sub",
+      "event": "XFO: Rocktown Showdown 29",
+      "eventSlug": "44139-xfo-rocktown-showdown-29",
+      "round": 3,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2016-10-22T00:00:00.000Z",
+      "opponent": "Ed DeMeyer",
+      "opponentSlug": "142883-ed-demeyer",
+      "result": "win",
+      "method": "other",
+      "event": "XFO: Fight Night",
+      "eventSlug": "41555-xfo-fight-night",
+      "round": 3,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2016-06-18T00:00:00.000Z",
+      "opponent": "Montel Jackson",
+      "opponentSlug": "89335-montel-jackson",
+      "result": "loss",
+      "method": "tko",
+      "event": "XFO: Rocktown Showdown 27",
+      "eventSlug": "39963-xfo-rocktown-showdown-27",
+      "round": 4,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2016-03-19T00:00:00.000Z",
+      "opponent": "James Bennett",
+      "opponentSlug": "27615-james-bennett",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XFO: Rocktown Showdown 26",
+      "eventSlug": "38649-xfo-rocktown-showdown-26",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-17T00:00:00.000Z",
+      "opponent": "Rodney Perez",
+      "opponentSlug": "106452-rodney-perez",
+      "result": "win",
+      "method": "sub",
+      "event": "XFO: Rocktown Showdown 25",
+      "eventSlug": "35365-xfo-fight-night",
+      "round": 2,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2015-08-15T00:00:00.000Z",
+      "opponent": "Anthony Lorenzo",
+      "opponentSlug": "60476-anthony-lorenzo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XFO 56: Outdoor War 11",
+      "eventSlug": "34330-xfo-56-outdoor-war-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-07-11T00:00:00.000Z",
+      "opponent": "Franklin Springfield",
+      "opponentSlug": "59478-franklin-springfield",
+      "result": "win",
+      "method": "tko",
+      "event": "XFO Fight Night",
+      "eventSlug": "33835-xfo-fight-night",
+      "round": 3,
+      "timeInRound": "0:09"
+    },
+    {
+      "date": "2015-06-12T00:00:00.000Z",
+      "opponent": "Tyrone Deal",
+      "opponentSlug": "105170-tyrone-deal",
+      "result": "win",
+      "method": "tko",
+      "event": "XFO: Rocktown Showdown 24",
+      "eventSlug": "33153-xfo-rocktown-showdown-24",
+      "round": 1,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2015-01-17T00:00:00.000Z",
+      "opponent": "Montel Jackson",
+      "opponentSlug": "89335-montel-jackson",
+      "result": "loss",
+      "method": "tko",
+      "event": "XFO: Rocktown Showdown 22",
+      "eventSlug": "29244-xfo-rocktown-showdown-22",
+      "round": 1,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2014-06-27T00:00:00.000Z",
+      "opponent": "Nicholas Burress",
+      "opponentSlug": "74739-nicholas-burress",
+      "result": "win",
+      "method": "sub",
+      "event": "XFO: Rocktown Showdown 20",
+      "eventSlug": "25106-xfo-rocktown-showdown-20",
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2014-03-14T00:00:00.000Z",
+      "opponent": "Konstantine Denev",
+      "opponentSlug": "53183-konstantine-deneb",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XFO: Rocktown Showdown 19",
+      "eventSlug": "23198-xfo-rocktown-showdown-19",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:37:59.657Z"
+}

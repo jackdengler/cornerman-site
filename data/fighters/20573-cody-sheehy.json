@@ -1,0 +1,213 @@
+{
+  "slug": "20573-cody-sheehy",
+  "name": "Cody Sheehy",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 13,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 13,
+    "losses": 4,
+    "draws": 0
+  },
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1986-12-19",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/20573-cody-sheehy",
+  "recentFights": [
+    {
+      "date": "2019-03-23T00:00:00.000Z",
+      "opponent": "Jonathon Liles",
+      "opponentSlug": "59366-jonathon-liles",
+      "result": "loss",
+      "method": "other",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "58915-brutaal-genesis-fight-night-back-in-the-barn-14",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2018-05-18T00:00:00.000Z",
+      "opponent": "Santana Acosta",
+      "opponentSlug": "85224-santana-acosta",
+      "result": "win",
+      "method": "other",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "52939-brutaal-genesis-fight-night-back-in-the-barn-11",
+      "round": 1,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2017-12-16T00:00:00.000Z",
+      "opponent": "Josh Kristensen",
+      "opponentSlug": "143979-josh-kristensen",
+      "result": "win",
+      "method": "sub",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "49326-brutaal-genesis-fight-night-christmas-chaos",
+      "round": 1,
+      "timeInRound": "2:11"
+    },
+    {
+      "date": "2017-07-28T00:00:00.000Z",
+      "opponent": "Anthony Driver",
+      "opponentSlug": "117134-anthony-driver",
+      "result": "win",
+      "method": "other",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "46608-brutaal-genesis-fight-night-fight-night-at-hy-vee-hall",
+      "round": 1,
+      "timeInRound": "0:59"
+    },
+    {
+      "date": "2017-05-19T00:00:00.000Z",
+      "opponent": "Josh Kristensen",
+      "opponentSlug": "143979-josh-kristensen",
+      "result": "win",
+      "method": "sub",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "45768-brutaal-genesis-fight-night-back-in-the-barn-8",
+      "round": 1,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2016-12-17T00:00:00.000Z",
+      "opponent": "Joey White",
+      "opponentSlug": "102695-joey-white",
+      "result": "win",
+      "method": "sub",
+      "event": "Back In The Barn 6",
+      "eventSlug": "43256-back-in-the-barn-6",
+      "round": 2,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2016-10-01T00:00:00.000Z",
+      "opponent": "Steven Behlers",
+      "opponentSlug": "111839-steven-behlers",
+      "result": "win",
+      "method": "sub",
+      "event": "Back In The Barn 5",
+      "eventSlug": "42815-back-in-the-barn-5",
+      "round": 1,
+      "timeInRound": "0:25"
+    },
+    {
+      "date": "2016-08-06T00:00:00.000Z",
+      "opponent": "Santana Acosta",
+      "opponentSlug": "85224-santana-acosta",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Laramar Fight Night 12",
+      "eventSlug": "42814-laramar-fight-night-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-07T00:00:00.000Z",
+      "opponent": "Zach Pilcher",
+      "opponentSlug": "62170-zach-pilcher",
+      "result": "win",
+      "method": "other",
+      "event": "MCC 52: Hostile Territory",
+      "eventSlug": "23069-mcc-52-hostile-territory",
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2013-12-21T00:00:00.000Z",
+      "opponent": "Mike Helle",
+      "opponentSlug": "125098-mike-helle",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 2,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2013-06-28T00:00:00.000Z",
+      "opponent": "Shane Burtzlaff",
+      "opponentSlug": "146346-shane-burtzlaff",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 2,
+      "timeInRound": "2:21"
+    },
+    {
+      "date": "2013-05-18T00:00:00.000Z",
+      "opponent": "Ago Huskić",
+      "opponentSlug": "41418-agoo-huskic",
+      "result": "loss",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2012-12-22T00:00:00.000Z",
+      "opponent": "Anthony Yost",
+      "opponentSlug": "85227-anthony-yost",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2012-10-12T00:00:00.000Z",
+      "opponent": "Jordan Webb",
+      "opponentSlug": "26051-jordan-webb",
+      "result": "win",
+      "method": "sub",
+      "event": "MCC 43: High Octane",
+      "eventSlug": "15691-mcc-43-high-octane",
+      "round": 1,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2012-07-21T00:00:00.000Z",
+      "opponent": "Josh McNichols",
+      "opponentSlug": "37110-josh-mcnichols",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "1:40"
+    },
+    {
+      "date": "2012-04-13T00:00:00.000Z",
+      "opponent": "Zac Goodrich",
+      "opponentSlug": "25507-zac-goodrich",
+      "result": "loss",
+      "method": "sub",
+      "event": "MCC 40: Lund vs. Dicke",
+      "eventSlug": "12909-mcc-40",
+      "round": 2,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2012-01-27T00:00:00.000Z",
+      "opponent": "Ryan Fitzgerald",
+      "opponentSlug": "20567-ryan-fitzgerald",
+      "result": "loss",
+      "method": "sub",
+      "event": "MCC 38: Hernandez vs. O'Brien",
+      "eventSlug": "12195-mcc-38",
+      "round": 1,
+      "timeInRound": "2:35"
+    }
+  ],
+  "lastVerified": "2026-04-18T09:06:12.410Z"
+}

@@ -1,0 +1,136 @@
+{
+  "slug": "285975-jed-dale",
+  "name": "Jed Dale",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 5,
+    "losses": 5,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "2001-04-27",
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/285975-jed-dale",
+  "recentFights": [
+    {
+      "date": "2025-03-09T00:00:00.000Z",
+      "opponent": "Antonio Cesaro",
+      "opponentSlug": "348839-antonio-cesaro",
+      "result": "loss",
+      "method": "tko",
+      "event": "Diamondback FC 22",
+      "eventSlug": "122462-diamondback-fc-22",
+      "round": 3,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2024-11-16T00:00:00.000Z",
+      "opponent": "Kage Fisher",
+      "opponentSlug": "423172-kage-fisher",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Demolition Fight Series 16",
+      "eventSlug": "117577-demolition-fight-series-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-07-07T00:00:00.000Z",
+      "opponent": "Taylor Jensen",
+      "opponentSlug": "449238-taylor-jensen",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Diamondback FC 20",
+      "eventSlug": "114083-diamondback-fc-20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-03T00:00:00.000Z",
+      "opponent": "Cameron Sinclair",
+      "opponentSlug": "181066-cameron-sinclair",
+      "result": "win",
+      "method": "sub",
+      "event": "Diamondback FC 19",
+      "eventSlug": "109531-diamondback-fc-19",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-02T00:00:00.000Z",
+      "opponent": "Josh Watkins",
+      "opponentSlug": "285970-josh-watkins",
+      "result": "loss",
+      "method": "sub",
+      "event": "Diamondback FC 17",
+      "eventSlug": "102748-diamondback-fc-17",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-28T00:00:00.000Z",
+      "opponent": "Tom Kovac",
+      "opponentSlug": "346708-tomi-kovac",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Demolition Fight Series 6",
+      "eventSlug": "87346-demolition-fight-series-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-12T00:00:00.000Z",
+      "opponent": "Sekou Kamara",
+      "opponentSlug": "315988-sekou-kamara",
+      "result": "win",
+      "method": "sub",
+      "event": "Diamondback FC 13",
+      "eventSlug": "87020-diamondback-fc-13",
+      "round": 2,
+      "timeInRound": "1:55"
+    },
+    {
+      "date": "2021-11-21T00:00:00.000Z",
+      "opponent": "Sekou Kamara",
+      "opponentSlug": "315988-sekou-kamara",
+      "result": "win",
+      "method": "sub",
+      "event": "Diamondback FC 12",
+      "eventSlug": "79288-diamondback-fc-12",
+      "round": 2,
+      "timeInRound": "1:55"
+    },
+    {
+      "date": "2021-10-30T00:00:00.000Z",
+      "opponent": "Dom Mar Fan",
+      "opponentSlug": "196890-dom-mar-fan",
+      "result": "loss",
+      "method": "tko",
+      "event": "Beast Championship 8",
+      "eventSlug": "72143-beast-championship-8",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-02-20T00:00:00.000Z",
+      "opponent": "Sam Niejalke",
+      "opponentSlug": "285974-sam-niejalke",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Diamondback FC 11",
+      "eventSlug": "72688-diamondback-fc-11",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:19:26.632Z"
+}

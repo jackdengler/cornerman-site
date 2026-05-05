@@ -1,0 +1,143 @@
+{
+  "slug": "365273-firas-daud",
+  "name": "Firas Daud",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "2001-01-05",
+  "nationality": "Germany",
+  "url": "https://www.tapology.com/fightcenter/fighters/365273-firas-daud",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Václav Štěpán",
+      "opponentSlug": "197384-vaclav-stepan",
+      "result": null,
+      "method": "other",
+      "event": "OKTAGON 87: Szabová vs. Fernandes",
+      "eventSlug": "135741-oktagon-87",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-13T00:00:00.000Z",
+      "opponent": "Severino Neto",
+      "opponentSlug": "167082-severino-neto-fria",
+      "result": "win",
+      "method": "other",
+      "event": "GMC 44",
+      "eventSlug": "131092-gmc-44",
+      "round": 1,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2025-04-26T00:00:00.000Z",
+      "opponent": "Diego Santos",
+      "opponentSlug": "186045-diego-gonzaga",
+      "result": "win",
+      "method": "other",
+      "event": "GMC 42",
+      "eventSlug": "122294-gmc-42",
+      "round": 2,
+      "timeInRound": "3:30"
+    },
+    {
+      "date": "2025-03-01T00:00:00.000Z",
+      "opponent": "Firooz Yarmohammadi",
+      "opponentSlug": "485659-firooz-yarmohammadi",
+      "result": "win",
+      "method": "other",
+      "event": "GMC 41",
+      "eventSlug": "121991-gmc-41",
+      "round": 2,
+      "timeInRound": "2:11"
+    },
+    {
+      "date": "2024-09-07T00:00:00.000Z",
+      "opponent": "Nasim Azimi",
+      "opponentSlug": "454515-mohammad-azimi",
+      "result": "win",
+      "method": "other",
+      "event": "GMC 39",
+      "eventSlug": "114714-gmc-39",
+      "round": 1,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2024-06-08T00:00:00.000Z",
+      "opponent": "Aleksandar Čoti",
+      "opponentSlug": "427381-alessandro-coti",
+      "result": "win",
+      "method": "other",
+      "event": "GMC 38",
+      "eventSlug": "111274-gmc-38",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-20T00:00:00.000Z",
+      "opponent": "Pietro Micelli",
+      "opponentSlug": "173406-pietro-micelli",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "GAMMA",
+      "eventSlug": "110648-gamma-european-championship-2024",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-19T00:00:00.000Z",
+      "opponent": "Lukáš Bouška",
+      "opponentSlug": "221262-lukas-bouska",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "GAMMA",
+      "eventSlug": "115209-gamma-world-championships-2024-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-18T00:00:00.000Z",
+      "opponent": "Agshin Babaev",
+      "opponentSlug": "71699-agshin-babaev",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "110647-gamma-european-championship-2024",
+      "round": 1,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2023-09-23T00:00:00.000Z",
+      "opponent": "Valik Ialama",
+      "opponentSlug": "370139-valik-ialama",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Prize 3",
+      "eventSlug": "104454-prize-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-16T00:00:00.000Z",
+      "opponent": "Enes Celik",
+      "opponentSlug": "362638-enes-celik",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "NFC Contenders",
+      "eventSlug": "95643-nfc-contenders",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T15:57:00.838Z"
+}

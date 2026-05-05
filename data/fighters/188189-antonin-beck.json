@@ -1,0 +1,176 @@
+{
+  "slug": "188189-antonin-beck",
+  "name": "Antonín Beck",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/188189-antonin-beck",
+  "recentFights": [
+    {
+      "date": "2026-02-20T00:00:00.000Z",
+      "opponent": "Erik Nagy",
+      "opponentSlug": "230930-erik-nagy",
+      "result": "win",
+      "method": "other",
+      "event": "RFA 27",
+      "eventSlug": "136923-rfa-27",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-06-25T00:00:00.000Z",
+      "opponent": "István Juhász",
+      "opponentSlug": "500449-istvan-juhasz",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "KO Warriors 2",
+      "eventSlug": "130052-ko-warriors-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-28T00:00:00.000Z",
+      "opponent": "David Tiep",
+      "opponentSlug": "173968-tiep-cai-xuan",
+      "result": "win",
+      "method": "other",
+      "event": "RFA x IAF: Special Title Night 2",
+      "eventSlug": "116402-rfa-x-iaf-special-title-night-2",
+      "round": 2,
+      "timeInRound": "0:51"
+    },
+    {
+      "date": "2024-05-11T00:00:00.000Z",
+      "opponent": "Daniil Manannikov",
+      "opponentSlug": "377455-daniil-manannikov",
+      "result": "loss",
+      "method": "other",
+      "event": "RCC 19",
+      "eventSlug": "111104-rcc-19",
+      "round": 1,
+      "timeInRound": "3:19"
+    },
+    {
+      "date": "2023-06-24T00:00:00.000Z",
+      "opponent": "Lukáš Soroka",
+      "opponentSlug": "199725-lukas-soroka",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMAA Arena Cup 79",
+      "eventSlug": "101633-mmaa-arena-cup-79",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-17T00:00:00.000Z",
+      "opponent": "Dominik Toporcer",
+      "opponentSlug": "266710-dominik-toporcner",
+      "result": "win",
+      "method": "tko",
+      "event": "I Am Fighter 5",
+      "eventSlug": "91129-i-am-fighter-5-the-king-of-pilsen",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-16T00:00:00.000Z",
+      "opponent": "Sungat Kharirzhan",
+      "opponentSlug": "294988-sungat-kharirzhan",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "I Am Fighter 4",
+      "eventSlug": "88931-i-am-fighter-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-29T00:00:00.000Z",
+      "opponent": "Marcel Šimo",
+      "opponentSlug": "248851-marcel-simo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MAMMAL: Round 21",
+      "eventSlug": "80132-mammal-round-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-10T00:00:00.000Z",
+      "opponent": "Adam Król",
+      "opponentSlug": "208315-adam-krol",
+      "result": "loss",
+      "method": "tko",
+      "event": "MAMMAL: Round 20",
+      "eventSlug": "76242-mammal-round-20",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-20T00:00:00.000Z",
+      "opponent": "Denis Gondžala",
+      "opponentSlug": "230938-denis-gondzala",
+      "result": "loss",
+      "method": "sub",
+      "event": "MAMMAL: Round 19",
+      "eventSlug": "76241-mammal-round-19",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-01-27T00:00:00.000Z",
+      "opponent": "David Volf",
+      "opponentSlug": "199803-david-volf",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "RP Security MMAA Aréna Cup 48",
+      "eventSlug": "58110-rp-security-mmaa-arena-cup-48",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-22T00:00:00.000Z",
+      "opponent": "Lukáš Blaževič",
+      "opponentSlug": "172000-luk-blaevi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMAA Aréna Cup 47",
+      "eventSlug": "57387-mmaa-arena-cup-47-most",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-25T00:00:00.000Z",
+      "opponent": "Tadeáš Andrle",
+      "opponentSlug": "202502-tadeas-andrle",
+      "result": "win",
+      "method": "tko",
+      "event": "MMAA Aréna Cup 46",
+      "eventSlug": "56711-mmaa-arena-cup-46-prague",
+      "round": 1,
+      "timeInRound": "0:43"
+    },
+    {
+      "date": "2018-05-26T00:00:00.000Z",
+      "opponent": "Václav Štěpán",
+      "opponentSlug": "197384-vaclav-stepan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MMAA Arena Cup 42",
+      "eventSlug": "52832-mmaa-arena-cup-42-2017-18-mcr-final",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:09:55.288Z"
+}

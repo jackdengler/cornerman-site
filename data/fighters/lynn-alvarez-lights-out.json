@@ -1,0 +1,132 @@
+{
+  "slug": "lynn-alvarez-lights-out",
+  "name": "Lynn Alvarez",
+  "nickname": "Lights Out",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 158,
+  "reachCm": null,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": "1985-09-06",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/lynn-alvarez-lights-out",
+  "recentFights": [
+    {
+      "date": "2016-11-18T00:00:00.000Z",
+      "opponent": "JJ Aldrich",
+      "opponentSlug": "28420-jj-aldrich",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 20",
+      "eventSlug": "42159-invicta-fc-20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-29T00:00:00.000Z",
+      "opponent": "Mizuki Inoue",
+      "opponentSlug": "25717-mizuki-inoue",
+      "result": "loss",
+      "method": "sub",
+      "event": "Invicta FC 18",
+      "eventSlug": "39954-invicta-fc-18",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2014-01-11T00:00:00.000Z",
+      "opponent": "Amber Stautzenberger",
+      "opponentSlug": "31880-amber-stautszenberger-the-apex-predator",
+      "result": "win",
+      "method": "sub",
+      "event": "Dakota FC: Winter Brawl 2014",
+      "eventSlug": "21440-dfc-winter-brawl",
+      "round": 1,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2012-10-06T00:00:00.000Z",
+      "opponent": "Carla Esparza",
+      "opponentSlug": "carla-esparza",
+      "result": "loss",
+      "method": "other",
+      "event": "Invicta FC 3",
+      "eventSlug": "14985-invicta-fc-3",
+      "round": 1,
+      "timeInRound": "2:53"
+    },
+    {
+      "date": "2010-08-12T00:00:00.000Z",
+      "opponent": "Jessica Aguilar",
+      "opponentSlug": "jessica-aguilar-jag",
+      "result": "loss",
+      "method": "sub",
+      "event": "Bellator 24",
+      "eventSlug": "bellator-24",
+      "round": 1,
+      "timeInRound": "4:01"
+    },
+    {
+      "date": "2009-07-25T00:00:00.000Z",
+      "opponent": "Shoni Esquiro",
+      "opponentSlug": "10480-shoni-esquiro",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-10-24T00:00:00.000Z",
+      "opponent": "Chelsea Colarelli",
+      "opponentSlug": "chelsea-colarelli",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-03-07T00:00:00.000Z",
+      "opponent": "Michelle Ould",
+      "opponentSlug": "michelle-ould-thundercat",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-02-01T00:00:00.000Z",
+      "opponent": "Angela Magana",
+      "opponentSlug": "angela-magana",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-12-01T00:00:00.000Z",
+      "opponent": "Michelle Waterson-Gomez",
+      "opponentSlug": "michelle-waterson-the-karate-hottie",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:01:31.537Z"
+}

@@ -1,0 +1,198 @@
+{
+  "slug": "86141-tashawn-mack",
+  "name": "Shawn Mack",
+  "nickname": "Tha Quick",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 183,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1981-05-03",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/86141-tashawn-mack",
+  "recentFights": [
+    {
+      "date": "2023-06-24T00:00:00.000Z",
+      "opponent": "Devon Lozej",
+      "opponentSlug": "205775-devon-lozej",
+      "result": "loss",
+      "method": "other",
+      "event": "CLIP MMA: The Takeover",
+      "eventSlug": "101803-clip-mma-the-takeover",
+      "round": 1,
+      "timeInRound": "4:39"
+    },
+    {
+      "date": "2019-05-29T00:00:00.000Z",
+      "opponent": "Josh Smith",
+      "opponentSlug": "35697-josh-smith",
+      "result": "loss",
+      "method": "other",
+      "event": "WXC 78: Warrior Wednesday 3",
+      "eventSlug": "58776-wxc-79-warrior-wednesday-4",
+      "round": 1,
+      "timeInRound": "4:33"
+    },
+    {
+      "date": "2018-04-06T00:00:00.000Z",
+      "opponent": "Marquis Brewster",
+      "opponentSlug": "40598-marques-brewster",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "CES 49",
+      "eventSlug": "50832-ces-49",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-16T00:00:00.000Z",
+      "opponent": "Keith Lee",
+      "opponentSlug": "117289-keith-lee",
+      "result": "loss",
+      "method": "other",
+      "event": "KOP 59",
+      "eventSlug": "48834-kop-59",
+      "round": 1,
+      "timeInRound": "4:09"
+    },
+    {
+      "date": "2017-11-17T00:00:00.000Z",
+      "opponent": "Richie Santiago",
+      "opponentSlug": "40588-richard-santiago",
+      "result": "loss",
+      "method": "sub",
+      "event": "CES 47: Rebello vs. Brown",
+      "eventSlug": "48087-ces-48",
+      "round": 1,
+      "timeInRound": "3:05"
+    },
+    {
+      "date": "2016-08-27T00:00:00.000Z",
+      "opponent": "Jonathan Walker",
+      "opponentSlug": "101453-jonathan-walker",
+      "result": "win",
+      "method": "sub",
+      "event": "KOP 50",
+      "eventSlug": "40716-kop-50",
+      "round": 2,
+      "timeInRound": "4:36"
+    },
+    {
+      "date": "2016-06-11T00:00:00.000Z",
+      "opponent": "Jesse Bazzi",
+      "opponentSlug": "90494-jesse-bazzi",
+      "result": "loss",
+      "method": "sub",
+      "event": "KOP 49",
+      "eventSlug": "39185-kop-49",
+      "round": 3,
+      "timeInRound": "3:47"
+    },
+    {
+      "date": "2016-03-26T00:00:00.000Z",
+      "opponent": "Anthony Fleming",
+      "opponentSlug": "63632-scoops-fleming",
+      "result": "win",
+      "method": "sub",
+      "event": "KOP 48",
+      "eventSlug": "38174-kop-48",
+      "round": 1,
+      "timeInRound": "3:52"
+    },
+    {
+      "date": "2015-08-08T00:00:00.000Z",
+      "opponent": "Malcolm Gordon",
+      "opponentSlug": "36176-malcom-gordon",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "WXC 59: Homeland Pride",
+      "eventSlug": "34006-wxc-59-homeland-pride",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-06-20T00:00:00.000Z",
+      "opponent": "Dominick Sindone",
+      "opponentSlug": "34910-dominick-sindone",
+      "result": "win",
+      "method": "sub",
+      "event": "TWC Pro Series",
+      "eventSlug": "32650-twc-pro-series",
+      "round": 1,
+      "timeInRound": "3:45"
+    },
+    {
+      "date": "2015-04-11T00:00:00.000Z",
+      "opponent": "John Hollis",
+      "opponentSlug": "john-hollis",
+      "result": "win",
+      "method": "sub",
+      "event": "Battle at the Fort 10",
+      "eventSlug": "29073-battle-at-the-fort-10",
+      "round": 1,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2015-02-21T00:00:00.000Z",
+      "opponent": "Eric Ramirez",
+      "opponentSlug": "9283-eric-ramirez",
+      "result": "win",
+      "method": "sub",
+      "event": "TXC Legends 5",
+      "eventSlug": "29669-txc-legends-5",
+      "round": 1,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2014-11-22T00:00:00.000Z",
+      "opponent": "Mikeal Wood Jr.",
+      "opponentSlug": "86140-mikeal-wood-jr",
+      "result": "win",
+      "method": "tko",
+      "event": "TWC Pro Series 26",
+      "eventSlug": "27593-twc-pro-series-26",
+      "round": 1,
+      "timeInRound": "0:18"
+    },
+    {
+      "date": "2014-01-11T00:00:00.000Z",
+      "opponent": "Lex Marson",
+      "opponentSlug": "124928-lex-marson",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 3,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2013-11-16T00:00:00.000Z",
+      "opponent": "Usama Rahman",
+      "opponentSlug": "83672-usama-rahman",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2012-11-17T00:00:00.000Z",
+      "opponent": "Jeffery Saxton",
+      "opponentSlug": "125626-jeffery-saxton",
+      "result": "win",
+      "method": "other",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:36:10.586Z"
+}

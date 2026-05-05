@@ -1,0 +1,176 @@
+{
+  "slug": "153509-brenda-gottig",
+  "name": "Brenda Gottig",
+  "nickname": "Arenita",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": 169,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": "1991-06-18",
+  "nationality": "Buenos Aires, Argentina",
+  "url": "https://www.tapology.com/fightcenter/fighters/153509-brenda-gottig",
+  "recentFights": [
+    {
+      "date": "2025-11-15T00:00:00.000Z",
+      "opponent": "Giuliana Cosnard",
+      "opponentSlug": "233173-giuliana-cosnard",
+      "result": "win",
+      "method": "sub",
+      "event": "Blood and Glory 3",
+      "eventSlug": "133969-blood-and-glory-3",
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2024-12-21T00:00:00.000Z",
+      "opponent": "Paola Garay",
+      "opponentSlug": "248484-paola-garay",
+      "result": "win",
+      "method": "other",
+      "event": "La Batalla de los Dioses",
+      "eventSlug": "121500-la-batalla-de-los-dioses",
+      "round": 1,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2024-03-14T00:00:00.000Z",
+      "opponent": "Anyela Perez",
+      "opponentSlug": "225281-anyela-perez-la-maquina",
+      "result": "loss",
+      "method": "other",
+      "event": "FFC 73: Miguel vs. Huachin",
+      "eventSlug": "110973-ffc-73-miguel-vs-huachin",
+      "round": 2,
+      "timeInRound": "4:43"
+    },
+    {
+      "date": "2023-07-09T00:00:00.000Z",
+      "opponent": "Loly Espinoza",
+      "opponentSlug": "342279-loly-espinoza",
+      "result": "win",
+      "method": "tko",
+      "event": "Cobra Fighter 6",
+      "eventSlug": "103557-cobra-fighter-6",
+      "round": 1,
+      "timeInRound": "1:11"
+    },
+    {
+      "date": "2023-01-28T00:00:00.000Z",
+      "opponent": "Julia Polastri",
+      "opponentSlug": "168315-julia-polastri",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 151: Delano vs. Santos",
+      "eventSlug": "96398-lfa-151-delano-vs-santos",
+      "round": 1,
+      "timeInRound": "4:50"
+    },
+    {
+      "date": "2022-08-21T00:00:00.000Z",
+      "opponent": "Laura Balin",
+      "opponentSlug": "62356-laura-balin",
+      "result": "win",
+      "method": "other",
+      "event": "Invictus Deluxe Championship 15",
+      "eventSlug": "90296-invictus-deluxe-championship",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-15T00:00:00.000Z",
+      "opponent": "Oriana Fernandez",
+      "opponentSlug": "300231-oriana-fernandez-la-dinamita",
+      "result": "win",
+      "method": "other",
+      "event": "IDC - The way to Glory",
+      "eventSlug": "89182-idc-the-way-to-glory",
+      "round": 1,
+      "timeInRound": "3:43"
+    },
+    {
+      "date": "2019-12-15T00:00:00.000Z",
+      "opponent": "Paola Garay",
+      "opponentSlug": "248484-paola-garay",
+      "result": "win",
+      "method": "sub",
+      "event": "Leon Fighter League 21",
+      "eventSlug": "65610-leon-fighter-21",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2019-09-14T00:00:00.000Z",
+      "opponent": "Mariana Jofre",
+      "opponentSlug": "223457-mariana-jofre-la-hiena",
+      "result": "win",
+      "method": "other",
+      "event": "EWT 3",
+      "eventSlug": "62904-ewt-3",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2018-10-28T00:00:00.000Z",
+      "opponent": "Romina Castillo",
+      "opponentSlug": "166478-romina-castillo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "West Fights MMA 1",
+      "eventSlug": "56061-west-fights",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-28T00:00:00.000Z",
+      "opponent": "Valeria Mejia",
+      "opponentSlug": "77557-valeria-mejia-galactika",
+      "result": "win",
+      "method": "other",
+      "event": "MFC 15: Ortega vs Quintana",
+      "eventSlug": "53615-mfc-15-ortega-vs-quintana",
+      "round": 2,
+      "timeInRound": "4:28"
+    },
+    {
+      "date": "2018-04-08T00:00:00.000Z",
+      "opponent": "Noemi Galarza",
+      "opponentSlug": "183811-noemi-galarza",
+      "result": "win",
+      "method": "tko",
+      "event": "El Octagono Fight Night 3",
+      "eventSlug": "52310-el-octagono-fight-night-3",
+      "round": 1,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2017-04-23T00:00:00.000Z",
+      "opponent": "Daniela Velasco",
+      "opponentSlug": "156209-daniela-velasco",
+      "result": "win",
+      "method": "sub",
+      "event": "Houdini Kombat 3",
+      "eventSlug": "45302-houdini-kombat-3",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-11T00:00:00.000Z",
+      "opponent": "Emilce Ortiz",
+      "opponentSlug": "94904-emilce-ortiz",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WMMAA Argentina",
+      "eventSlug": "44997-world-mma-argentina-copa-mercosur",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:58:52.563Z"
+}

@@ -1,0 +1,114 @@
+{
+  "slug": "385263-jesse-midas",
+  "name": "Jesse Midas",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 6,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "2001-09-01",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/385263-jesse-midas",
+  "recentFights": [
+    {
+      "date": "2025-10-18T00:00:00.000Z",
+      "opponent": "James Fulgham",
+      "opponentSlug": "460051-james-fulgham",
+      "result": "win",
+      "method": "sub",
+      "event": "Throne MMA 16",
+      "eventSlug": "133485-throne-mma",
+      "round": 2,
+      "timeInRound": "2:19"
+    },
+    {
+      "date": "2025-08-02T00:00:00.000Z",
+      "opponent": "Newar Brifki",
+      "opponentSlug": "456202-newar-brifki",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Throne MMA 13",
+      "eventSlug": "129617-throne-mma",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-10T00:00:00.000Z",
+      "opponent": "J.J. Lord",
+      "opponentSlug": "323420-joseph-lord",
+      "result": "win",
+      "method": "other",
+      "event": "Throne MMA 11",
+      "eventSlug": "124762-throne-mma",
+      "round": 2,
+      "timeInRound": "0:24"
+    },
+    {
+      "date": "2025-01-25T00:00:00.000Z",
+      "opponent": "Christopher Clark",
+      "opponentSlug": "249807-christopher-clark",
+      "result": "win",
+      "method": "other",
+      "event": "Throne MMA 10",
+      "eventSlug": "118413-throne-mma",
+      "round": 1,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2024-10-19T00:00:00.000Z",
+      "opponent": "J.J. Lord",
+      "opponentSlug": "323420-joseph-lord",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Throne MMA 8",
+      "eventSlug": "114875-throne-mma",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-08-24T00:00:00.000Z",
+      "opponent": "James Thompson",
+      "opponentSlug": "456268-james-thompson",
+      "result": "win",
+      "method": "other",
+      "event": "Throne MMA 6",
+      "eventSlug": "112525-throne-mma",
+      "round": 1,
+      "timeInRound": "0:43"
+    },
+    {
+      "date": "2024-01-12T00:00:00.000Z",
+      "opponent": "Ezayah Gomez",
+      "opponentSlug": "413108-ezaya-gomez-oropeza",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 174: Jones vs. Gennrich",
+      "eventSlug": "108251-lfa-174-jones-vs-gennrich",
+      "round": 1,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2023-11-04T00:00:00.000Z",
+      "opponent": "Mason Tripp",
+      "opponentSlug": "382048-mason-tripp",
+      "result": "win",
+      "method": "other",
+      "event": "WFC 158",
+      "eventSlug": "106063-wfc-158",
+      "round": 1,
+      "timeInRound": "0:51"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:44:20.187Z"
+}

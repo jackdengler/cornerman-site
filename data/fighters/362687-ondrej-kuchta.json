@@ -1,0 +1,136 @@
+{
+  "slug": "362687-ondrej-kuchta",
+  "name": "Ondrej Kuchta",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 5,
+    "losses": 4,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/362687-ondrej-kuchta",
+  "recentFights": [
+    {
+      "date": "2026-02-14T00:00:00.000Z",
+      "opponent": "Adam Cerny",
+      "opponentSlug": "413783-adam-cerny",
+      "result": null,
+      "method": "other",
+      "event": "Fight Night Beroun 5",
+      "eventSlug": "138339-fight-night-beroun",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-12-13T00:00:00.000Z",
+      "opponent": "Ariji Besii",
+      "opponentSlug": "398513-ariji-besii",
+      "result": "loss",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "123283-gamma-world-championships-2024-preliminaries-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-19T00:00:00.000Z",
+      "opponent": "Michal Kuzma",
+      "opponentSlug": "347120-michal-kuzma",
+      "result": "loss",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "115209-gamma-world-championships-2024-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-18T00:00:00.000Z",
+      "opponent": "Michele Clemente",
+      "opponentSlug": "183852-michele-clemente",
+      "result": "win",
+      "method": "dec-split",
+      "event": "GAMMA",
+      "eventSlug": "110647-gamma-european-championship-2024",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-02-03T00:00:00.000Z",
+      "opponent": "David Dolak",
+      "opponentSlug": "329969-david-dolak",
+      "result": "win",
+      "method": "other",
+      "event": "MMAA Arena Cup 84",
+      "eventSlug": "110062-mmaa-arena-cup-84",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-08T00:00:00.000Z",
+      "opponent": "Marwan Rahiki",
+      "opponentSlug": "388487-marwan-rahiki",
+      "result": "loss",
+      "method": "sub",
+      "event": "GAMMA",
+      "eventSlug": "108384-gamma-world-mma-championship-2023-day-1",
+      "round": 2,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2023-06-24T00:00:00.000Z",
+      "opponent": "Volodomyr Aleksieienko",
+      "opponentSlug": "363160-volodomyr-aleksieienko",
+      "result": "win",
+      "method": "sub",
+      "event": "MMAA Arena Cup 79",
+      "eventSlug": "101633-mmaa-arena-cup-79",
+      "round": 2,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2023-04-22T00:00:00.000Z",
+      "opponent": "David Dolak",
+      "opponentSlug": "329969-david-dolak",
+      "result": "win",
+      "method": "sub",
+      "event": "MMAA Arena Cup 77",
+      "eventSlug": "99829-mmaa-arena-cup-77",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-27T00:00:00.000Z",
+      "opponent": "Yaroslav Slyvčuk",
+      "opponentSlug": "363155-yaroslav-slyvcuk",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMAA Arena Cup 74",
+      "eventSlug": "95532-mmaa-arena-cup-74",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-25T00:00:00.000Z",
+      "opponent": "Makhmud Sayfullaev",
+      "opponentSlug": "362666-makhmud-sayfullaev",
+      "result": "loss",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "94680-gamma-european-championships-day-1",
+      "round": 3,
+      "timeInRound": "1:28"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:58:41.529Z"
+}

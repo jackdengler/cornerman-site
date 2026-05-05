@@ -1,0 +1,99 @@
+{
+  "slug": "201980-samat-fayzuldaev",
+  "name": "Samat Fayzuldaev",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1994-11-17",
+  "nationality": "Kyrgyzstan",
+  "url": "https://www.tapology.com/fightcenter/fighters/201980-samat-fayzuldaev",
+  "recentFights": [
+    {
+      "date": "2021-09-04T00:00:00.000Z",
+      "opponent": "Khamzat Mezhidov",
+      "opponentSlug": "295414-khamzat-mezhidov",
+      "result": "loss",
+      "method": "sub",
+      "event": "MMA Series 39",
+      "eventSlug": "79797-emir-fighting-championship-global-7",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-12-19T00:00:00.000Z",
+      "opponent": "Mark Vologdin",
+      "opponentSlug": "202598-mark-vologdin",
+      "result": "loss",
+      "method": "tko",
+      "event": "MMA Series 23",
+      "eventSlug": "74704-mma-series-23-time-of-new-heroes-13",
+      "round": 1,
+      "timeInRound": "2:48"
+    },
+    {
+      "date": "2020-08-16T00:00:00.000Z",
+      "opponent": "Shakhboz Sharipkhon",
+      "opponentSlug": "241400-shakhbozi-sharipkhon",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Colosseum MMA",
+      "eventSlug": "71103-colosseum-mma-battle-of-champions-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-04T00:00:00.000Z",
+      "opponent": "Sukhrob Safarov",
+      "opponentSlug": "241353-sukhrov-safarov",
+      "result": "loss",
+      "method": "sub",
+      "event": "Colosseum MMA",
+      "eventSlug": "63716-colosseum-mma-battle-of-champions-10",
+      "round": 2,
+      "timeInRound": "4:00"
+    },
+    {
+      "date": "2019-09-01T00:00:00.000Z",
+      "opponent": "Gagik Agababyan",
+      "opponentSlug": "234162-gagik-agababyan",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Colosseum MMA",
+      "eventSlug": "62200-colosseum-mma-battle-of-champions-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-28T00:00:00.000Z",
+      "opponent": "Nazhmutdin Batrazov",
+      "opponentSlug": "230799-nazhmutdin-batrazov",
+      "result": "win",
+      "method": "other",
+      "event": "Colosseum MMA",
+      "eventSlug": "61533-colosseum-mma-battle-of-champions-7",
+      "round": 2,
+      "timeInRound": "1:40"
+    },
+    {
+      "date": "2018-10-27T00:00:00.000Z",
+      "opponent": "Maktobek Nazrali",
+      "opponentSlug": "201981-nazrali-uulu-maktobek",
+      "result": "win",
+      "method": "other",
+      "event": "Thunder 7: Saydakov vs Mezhlumyan",
+      "eventSlug": "56187-thunder-7-saydakov-vs-mezhlumyan",
+      "round": 1,
+      "timeInRound": "1:05"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:04:08.765Z"
+}

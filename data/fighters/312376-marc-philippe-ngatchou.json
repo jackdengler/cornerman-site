@@ -1,0 +1,154 @@
+{
+  "slug": "312376-marc-philippe-ngatchou",
+  "name": "Marc-Philippe Ngatchou",
+  "nickname": "NGT",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 181,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Düsseldorf, Germany",
+  "url": "https://www.tapology.com/fightcenter/fighters/312376-marc-philippe-ngatchou",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Jordan Stronge",
+      "opponentSlug": "112206-jordan-stronge",
+      "result": null,
+      "method": "other",
+      "event": "Cage Warriors 205",
+      "eventSlug": "138938-cage-warriors-205",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-21T00:00:00.000Z",
+      "opponent": "Yusuf Nazokatov",
+      "opponentSlug": "307164-yusuf-nazokatov",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 197",
+      "eventSlug": "134061-cage-warriors-197-unplugged",
+      "round": 2,
+      "timeInRound": "0:12"
+    },
+    {
+      "date": "2025-03-29T00:00:00.000Z",
+      "opponent": "Christopher Moly",
+      "opponentSlug": "361142-christopher-moly",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FNFC 2",
+      "eventSlug": "127009-fnfc-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-21T00:00:00.000Z",
+      "opponent": "Shay Ingram",
+      "opponentSlug": "220265-shay-ingram",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 178",
+      "eventSlug": "114650-cage-warriors-178",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-25T00:00:00.000Z",
+      "opponent": "Kacper Klasa",
+      "opponentSlug": "269920-kacper-klasa",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors Academy: Lowlands 10",
+      "eventSlug": "112521-cage-warriors-academy-lowlands-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-06T00:00:00.000Z",
+      "opponent": "Andrii Misiuk",
+      "opponentSlug": "342716-andriy-misiuk",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "IMMAF",
+      "eventSlug": "110784-2024-immaf-european-championships",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-04T00:00:00.000Z",
+      "opponent": "Dara O'Sullivan",
+      "opponentSlug": "290272-dara-o-sullivan",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMMAF",
+      "eventSlug": "116284-immaf-european-championships-2024-seniors-semi-finals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-02T00:00:00.000Z",
+      "opponent": "Theo Kolehmainen",
+      "opponentSlug": "382434-theo-kolehmainen",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMMAF",
+      "eventSlug": "110781-2024-immaf-european-championships",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-02T00:00:00.000Z",
+      "opponent": "Theo Pino",
+      "opponentSlug": "355035-theo-pino",
+      "result": "win",
+      "method": "dec-split",
+      "event": "IMMAF",
+      "eventSlug": "110781-2024-immaf-european-championships",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-02T00:00:00.000Z",
+      "opponent": "Berre Vanduffel",
+      "opponentSlug": "310997-berre-vanduffel",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors Academy: Lowlands 9",
+      "eventSlug": "108933-cage-warriors-academy-lowlands-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-10-14T00:00:00.000Z",
+      "opponent": "Oskar Sennewald",
+      "opponentSlug": "364323-oskar-sennewald",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "German Amateur MMA Chamiponship 2023",
+      "eventSlug": "108242-german-amateur-mma-chamiponship-2023-seniors",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-10-14T00:00:00.000Z",
+      "opponent": "Niccolo Klaus",
+      "opponentSlug": "418143-niccolo-klaus",
+      "result": "win",
+      "method": "sub",
+      "event": "German Amateur MMA Chamiponship 2023",
+      "eventSlug": "108242-german-amateur-mma-chamiponship-2023-seniors",
+      "round": 2,
+      "timeInRound": "1:00"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:05:27.163Z"
+}

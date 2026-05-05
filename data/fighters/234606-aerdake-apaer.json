@@ -1,0 +1,77 @@
+{
+  "slug": "234606-aerdake-apaer",
+  "name": "Aerdake Apaer",
+  "nickname": "雄狮",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 187,
+  "reachCm": 184,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "China",
+  "url": "https://www.tapology.com/fightcenter/fighters/234606-aerdake-apaer",
+  "recentFights": [
+    {
+      "date": "2024-10-25T00:00:00.000Z",
+      "opponent": "Cam Rowston",
+      "opponentSlug": "69262-cam-rowston",
+      "result": "loss",
+      "method": "other",
+      "event": "SFL 1",
+      "eventSlug": "117718-stealth-fighters-league-sfl-001",
+      "round": 2,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2024-05-11T00:00:00.000Z",
+      "opponent": "Yi Sak Lee",
+      "opponentSlug": "191436-yi-sak-lee",
+      "result": "loss",
+      "method": "other",
+      "event": "WKG & M-1 Global",
+      "eventSlug": "112429-wkg-m-1-global",
+      "round": 1,
+      "timeInRound": "2:44"
+    },
+    {
+      "date": "2022-06-25T00:00:00.000Z",
+      "opponent": "Guoxu Yang",
+      "opponentSlug": "305585-yang-guo-xu",
+      "result": "win",
+      "method": "other",
+      "event": "JCK Fight Night 2022",
+      "eventSlug": "90160-jck-fight-night-2022-first-round-8",
+      "round": 1,
+      "timeInRound": "0:27"
+    },
+    {
+      "date": "2021-07-17T00:00:00.000Z",
+      "opponent": "Aorigele",
+      "opponentSlug": "302464-aorigele",
+      "result": "loss",
+      "method": "tko",
+      "event": "JCK Night Cage Series",
+      "eventSlug": "81015-jck-night-cage-series-2021-round-4",
+      "round": 1,
+      "timeInRound": "1:52"
+    },
+    {
+      "date": "2020-09-12T00:00:00.000Z",
+      "opponent": "Meng Ding",
+      "opponentSlug": "126548-meng-ding",
+      "result": "loss",
+      "method": "tko",
+      "event": "JCK City Qualifier Series",
+      "eventSlug": "73692-jck-night-qualifier-8",
+      "round": 1,
+      "timeInRound": "1:57"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:17:22.035Z"
+}

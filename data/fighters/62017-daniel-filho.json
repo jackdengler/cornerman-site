@@ -1,0 +1,77 @@
+{
+  "slug": "62017-daniel-filho",
+  "name": "Daniel Rodrigues",
+  "nickname": "Santa Cruz",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1991-03-19T00:00:00.000Z",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/62017-daniel-filho",
+  "recentFights": [
+    {
+      "date": "2019-11-30T00:00:00.000Z",
+      "opponent": "Thiago Carvalho",
+      "opponentSlug": "113353-thiago-oliveira",
+      "result": "win",
+      "method": "other",
+      "event": "NFC 17",
+      "eventSlug": "65842-natal-fc-17",
+      "round": 1,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2016-08-27T00:00:00.000Z",
+      "opponent": "Stênio Barbosa",
+      "opponentSlug": "39638-stenio-silva-barbosa",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-05-31T00:00:00.000Z",
+      "opponent": "Iago Gomes",
+      "opponentSlug": "60639-iago-gomes-souto",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-01-24T00:00:00.000Z",
+      "opponent": "Jafel Filho",
+      "opponentSlug": "46690-jafel-cavalcante-filho",
+      "result": "loss",
+      "method": "sub",
+      "event": "Shooto Brasil 46",
+      "eventSlug": "21975-shooto-brazil-46",
+      "round": 3,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2011-11-11T00:00:00.000Z",
+      "opponent": "Felipe Bunes",
+      "opponentSlug": "66549-felipe-silva-felipinho",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:55:52.988Z"
+}

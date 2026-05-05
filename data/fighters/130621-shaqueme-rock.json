@@ -1,0 +1,242 @@
+{
+  "slug": "130621-shaqueme-rock",
+  "name": "Shem Rock",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 12,
+    "losses": 3,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": 185,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1993-11-05",
+  "nationality": "Liverpool",
+  "url": "https://www.tapology.com/fightcenter/fighters/130621-shaqueme-rock",
+  "recentFights": [
+    {
+      "date": "2026-03-21T00:00:00.000Z",
+      "opponent": "Abdul-Kareem Al-Selwady",
+      "opponentSlug": "77145-abdul-kareem-al-selwady",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "136856-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-22T00:00:00.000Z",
+      "opponent": "Nurullo Aliev",
+      "opponentSlug": "178801-nurullo-aliev",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "130635-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-17T00:00:00.000Z",
+      "opponent": "Attila Korkmaz",
+      "opponentSlug": "58073-attila-korkmaz",
+      "result": "win",
+      "method": "dec-split",
+      "event": "OKTAGON 71: Poppeck vs. Langer",
+      "eventSlug": "123601-oktagon-71",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-08T00:00:00.000Z",
+      "opponent": "Jaroslav Pokorný",
+      "opponentSlug": "18859-jaroslav-pokorny",
+      "result": "win",
+      "method": "sub",
+      "event": "OKTAGON 58: Vémola vs Végh 2",
+      "eventSlug": "108636-oktagon",
+      "round": 1,
+      "timeInRound": "3:06"
+    },
+    {
+      "date": "2024-04-20T00:00:00.000Z",
+      "opponent": "Stefano Catacoli",
+      "opponentSlug": "128795-stefano-catacoli",
+      "result": "win",
+      "method": "sub",
+      "event": "OKTAGON 56: Aby vs. Creasey",
+      "eventSlug": "110041-oktagon-56",
+      "round": 1,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2023-07-28T00:00:00.000Z",
+      "opponent": "Jan Malach",
+      "opponentSlug": "64719-jan-malach",
+      "result": "win",
+      "method": "sub",
+      "event": "OKTAGON 45: Mågård vs Lima",
+      "eventSlug": "101739-oktagon-stvanice-special",
+      "round": 1,
+      "timeInRound": "2:08"
+    },
+    {
+      "date": "2023-04-29T00:00:00.000Z",
+      "opponent": "Arthur Lima",
+      "opponentSlug": "129962-arthur-baiano",
+      "result": "draw",
+      "method": "dec-majority",
+      "event": "OKTAGON 42: Keita vs. Tichota",
+      "eventSlug": "93085-oktagon-v-bratislave",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-17T00:00:00.000Z",
+      "opponent": "Mike Thompson",
+      "opponentSlug": "188819-mike-roberts",
+      "result": "win",
+      "method": "sub",
+      "event": "Full Contact Contender 32",
+      "eventSlug": "93808-full-contact-contender-32",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-03T00:00:00.000Z",
+      "opponent": "Harry Davies",
+      "opponentSlug": "40845-harry-davis",
+      "result": "win",
+      "method": "other",
+      "event": "Contenders 33",
+      "eventSlug": "92189-contenders-33",
+      "round": 1,
+      "timeInRound": "0:06"
+    },
+    {
+      "date": "2021-10-09T00:00:00.000Z",
+      "opponent": "Nathan Kelly",
+      "opponentSlug": "78170-nathan-kelly",
+      "result": "loss",
+      "method": "tko",
+      "event": "Clan Wars 42",
+      "eventSlug": "82333-clan-wars-42",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-05T00:00:00.000Z",
+      "opponent": "Neil Ward",
+      "opponentSlug": "55666-neil-ward",
+      "result": "win",
+      "method": "sub",
+      "event": "Clan Wars 39",
+      "eventSlug": "79143-clan-wars-39",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-07T00:00:00.000Z",
+      "opponent": "Hassan Mandour",
+      "opponentSlug": "92250-hassan-mandour",
+      "result": "win",
+      "method": "other",
+      "event": "Probellum: Dubai - Lazzez vs. Murati",
+      "eventSlug": "66870-mtk-mma",
+      "round": 2,
+      "timeInRound": "0:26"
+    },
+    {
+      "date": "2019-01-12T00:00:00.000Z",
+      "opponent": "Rocky Lee",
+      "opponentSlug": "27661-rocky-lee",
+      "result": "win",
+      "method": "sub",
+      "event": "Way Of The Dragon Championships 3",
+      "eventSlug": "56831-wotd-03-way-of-the-dragon-03-taiwan-pro-combat-championship",
+      "round": 1,
+      "timeInRound": "4:45"
+    },
+    {
+      "date": "2018-11-17T00:00:00.000Z",
+      "opponent": "Hendi Praharso",
+      "opponentSlug": "201722-hendi-praharso-frogman",
+      "result": "win",
+      "method": "other",
+      "event": "MFC 9",
+      "eventSlug": "55322-malaysian-fighting-championship-mfc-9",
+      "round": 1,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2017-09-09T00:00:00.000Z",
+      "opponent": "Ernest Tang",
+      "opponentSlug": "144160-ernest-tang",
+      "result": "win",
+      "method": "sub",
+      "event": "Golden Warriors Fighting Championship 2",
+      "eventSlug": "47899-golden-warriors-fighting-championship-2-the-golden-fight",
+      "round": 1,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2017-07-22T00:00:00.000Z",
+      "opponent": "Joshua Khiew",
+      "opponentSlug": "70560-joshua-khiew",
+      "result": "win",
+      "method": "sub",
+      "event": "Golden Warriors Fighting Championship 1",
+      "eventSlug": "46972-golden-warriors-fighting-championship-night-of-warriors",
+      "round": 1,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2016-10-08T00:00:00.000Z",
+      "opponent": "Muhammad Nazri Sutari",
+      "opponentSlug": "60492-muhammad-nazri",
+      "result": "win",
+      "method": "sub",
+      "event": "Malaysian Invasion 4: Grand Finals",
+      "eventSlug": "41639-malaysian-invasion-4-grand-finals",
+      "round": 2,
+      "timeInRound": "2:35"
+    },
+    {
+      "date": "2016-09-03T00:00:00.000Z",
+      "opponent": "Don Sulaiman",
+      "opponentSlug": "130623-amro-fy-sulaiman",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Malaysian Invasion 4: Contender Fight",
+      "eventSlug": "41254-malaysian-invasion-4-contender-fight",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-08-06T00:00:00.000Z",
+      "opponent": "Saeid Jafari",
+      "opponentSlug": "130607-saeid-jafari",
+      "result": "win",
+      "method": "other",
+      "event": "Malaysian Invasion 4: Semifinals",
+      "eventSlug": "40794-malaysian-invasion-4-semifinals",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-15T00:00:00.000Z",
+      "opponent": "Yerkin Aralbayev",
+      "opponentSlug": "131373-yerkin-aralbayer",
+      "result": "win",
+      "method": "other",
+      "event": "Malaysian Invasion 4: Ladder Match",
+      "eventSlug": "39199-malaysian-invasion-4-ladder-match",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:07:30.983Z"
+}

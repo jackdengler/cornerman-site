@@ -1,0 +1,70 @@
+{
+  "slug": "362924-luka-vrtaclic",
+  "name": "Luka Vrtačić",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/362924-luka-vrtaclic",
+  "recentFights": [
+    {
+      "date": "2026-04-18T00:00:00.000Z",
+      "opponent": "Jacek Gać",
+      "opponentSlug": "178226-jacek-ga",
+      "result": null,
+      "method": "other",
+      "event": "KSW 117: Pawlak vs. Khalidov",
+      "eventSlug": "140146-ksw-117-de-fries-vs-wojcik",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-15T00:00:00.000Z",
+      "opponent": "Jan Gojsalić",
+      "opponentSlug": "359281-jan-gojsalic",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "FNC Vikings 1",
+      "eventSlug": "135461-fnc-vikings-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-15T00:00:00.000Z",
+      "opponent": "Mariusz Ligor",
+      "opponentSlug": "531934-mariusz-ligor",
+      "result": "win",
+      "method": "other",
+      "event": "FNC Vikings 1",
+      "eventSlug": "135461-fnc-vikings-1",
+      "round": 1,
+      "timeInRound": "0:15"
+    },
+    {
+      "date": "2022-11-19T00:00:00.000Z",
+      "opponent": "Jan Gojsalić",
+      "opponentSlug": "359281-jan-gojsalic",
+      "result": "loss",
+      "method": "sub",
+      "event": "Noc Gladijatora",
+      "eventSlug": "95603-noc-gladijatora",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:03:24.926Z"
+}

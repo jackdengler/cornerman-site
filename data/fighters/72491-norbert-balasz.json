@@ -1,0 +1,77 @@
+{
+  "slug": "72491-norbert-balasz",
+  "name": "Norbert Balasz",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Slovakia",
+  "url": "https://www.tapology.com/fightcenter/fighters/72491-norbert-balasz",
+  "recentFights": [
+    {
+      "date": "2024-11-16T00:00:00.000Z",
+      "opponent": "Tomáš Mudroch",
+      "opponentSlug": "266708-tomasz-mudroch",
+      "result": "loss",
+      "method": "other",
+      "event": "RFA 19",
+      "eventSlug": "116401-rfa-19",
+      "round": 1,
+      "timeInRound": "0:29"
+    },
+    {
+      "date": "2018-04-21T00:00:00.000Z",
+      "opponent": "Ivan Rodrigues Gutierrez",
+      "opponentSlug": "18879-ivan-rodrigues",
+      "result": "loss",
+      "method": "sub",
+      "event": "Vendetta 15",
+      "eventSlug": "51031-vendetta-15",
+      "round": 1,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2016-03-12T00:00:00.000Z",
+      "opponent": "Ivan Rodrigues Gutierrez",
+      "opponentSlug": "18879-ivan-rodrigues",
+      "result": "loss",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "0:20"
+    },
+    {
+      "date": "2012-06-24T00:00:00.000Z",
+      "opponent": "Darko Banović",
+      "opponentSlug": "43730-darko-banovic",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-03-18T00:00:00.000Z",
+      "opponent": "Murat Aktas",
+      "opponentSlug": "184884-murat-aktas",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:05:40.095Z"
+}

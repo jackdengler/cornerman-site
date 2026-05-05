@@ -1,0 +1,77 @@
+{
+  "slug": "161845-diana-morais",
+  "name": "Diana Morais",
+  "nickname": "Leoa",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 173,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/161845-diana-morais",
+  "recentFights": [
+    {
+      "date": "2023-09-02T00:00:00.000Z",
+      "opponent": "Leidiane Fernandes",
+      "opponentSlug": "271498-leidiane-fernandes",
+      "result": "loss",
+      "method": "sub",
+      "event": "MAC 5",
+      "eventSlug": "103906-mac-5",
+      "round": 1,
+      "timeInRound": "2:09"
+    },
+    {
+      "date": "2020-03-14T00:00:00.000Z",
+      "opponent": "Janelice Moraes",
+      "opponentSlug": "237891-janelice-moraes-farinha",
+      "result": "win",
+      "method": "other",
+      "event": "Arena Global 4",
+      "eventSlug": "68604-arena-global-4",
+      "round": 1,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2017-08-26T00:00:00.000Z",
+      "opponent": "Juliete de Souza",
+      "opponentSlug": "56214-juliete-de-souza-silva-ju-pitbull",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-15T00:00:00.000Z",
+      "opponent": "Karol Rosa",
+      "opponentSlug": "79637-karolline-rosa-karol",
+      "result": "loss",
+      "method": "sub",
+      "event": "NCE 16: Ladies",
+      "eventSlug": "46958-nce-16-ladies",
+      "round": 2,
+      "timeInRound": "4:30"
+    },
+    {
+      "date": "2017-05-06T00:00:00.000Z",
+      "opponent": "Ana Costa",
+      "opponentSlug": "128372-ana-costa",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:02:59.834Z"
+}

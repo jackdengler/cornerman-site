@@ -1,0 +1,99 @@
+{
+  "slug": "178226-jacek-ga",
+  "name": "Jacek Gać",
+  "nickname": "Siexa",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 187,
+  "reachCm": 190,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1991-02-21",
+  "nationality": "Poland",
+  "url": "https://www.tapology.com/fightcenter/fighters/178226-jacek-ga",
+  "recentFights": [
+    {
+      "date": "2026-04-18T00:00:00.000Z",
+      "opponent": "Luka Vrtačić",
+      "opponentSlug": "362924-luka-vrtaclic",
+      "result": null,
+      "method": "other",
+      "event": "KSW 117: Pawlak vs. Khalidov",
+      "eventSlug": "140146-ksw-117-de-fries-vs-wojcik",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-02-21T00:00:00.000Z",
+      "opponent": "Samuel Bily",
+      "opponentSlug": "432871-samuel-bily",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 103: Brichta vs. Charzewski",
+      "eventSlug": "119218-ksw-103",
+      "round": 1,
+      "timeInRound": "3:07"
+    },
+    {
+      "date": "2023-11-11T00:00:00.000Z",
+      "opponent": "Michał Gniady",
+      "opponentSlug": "372292-michal-gniady",
+      "result": "loss",
+      "method": "other",
+      "event": "KSW 88: Bitwa o Radom",
+      "eventSlug": "105211-ksw-88-bitwa-o-radom",
+      "round": 1,
+      "timeInRound": "3:02"
+    },
+    {
+      "date": "2023-04-22T00:00:00.000Z",
+      "opponent": "Arkadiusz Kaszuba",
+      "opponentSlug": "276216-arkadiusz-kaszuba",
+      "result": "win",
+      "method": "tko",
+      "event": "Fight Club 2",
+      "eventSlug": "100434-fight-club-2",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-10-14T00:00:00.000Z",
+      "opponent": "Tomasz Brotón",
+      "opponentSlug": "298073-tomasz-broton",
+      "result": "win",
+      "method": "tko",
+      "event": "Fight Empire MMA 2",
+      "eventSlug": "92436-fight-empire-mma-2",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-02-03T00:00:00.000Z",
+      "opponent": "Kevin Wiwatowski",
+      "opponentSlug": "86792-kewin-wiwatowski",
+      "result": "loss",
+      "method": "sub",
+      "event": "ALMMA 143: Łódź",
+      "eventSlug": "50138-almma-143",
+      "round": 1,
+      "timeInRound": "2:18"
+    },
+    {
+      "date": "2018-02-03T00:00:00.000Z",
+      "opponent": "Adam Mirzyński",
+      "opponentSlug": "166008-adam-mirzyski",
+      "result": "win",
+      "method": "other",
+      "event": "ALMMA 143: Łódź",
+      "eventSlug": "50138-almma-143",
+      "round": 1,
+      "timeInRound": "1:15"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:03:22.811Z"
+}

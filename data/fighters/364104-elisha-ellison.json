@@ -1,0 +1,154 @@
+{
+  "slug": "364104-elisha-ellison",
+  "name": "Elisha Ellison",
+  "nickname": "The Snack Panther",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 198,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1997-03-05",
+  "nationality": "Seattle, Washington, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/364104-elisha-ellison",
+  "recentFights": [
+    {
+      "date": "2025-09-27T00:00:00.000Z",
+      "opponent": "Brando Peričić",
+      "opponentSlug": "195101-brando-pericic",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "130754-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "1:55"
+    },
+    {
+      "date": "2025-01-25T00:00:00.000Z",
+      "opponent": "Rafael Brewster",
+      "opponentSlug": "56695-brew-brewster",
+      "result": "win",
+      "method": "other",
+      "event": "Muckleshoot Fight Night 12",
+      "eventSlug": "124172-muckleshoot-fight-night-12",
+      "round": 1,
+      "timeInRound": "3:21"
+    },
+    {
+      "date": "2024-10-05T00:00:00.000Z",
+      "opponent": "Spur Roundstone",
+      "opponentSlug": "155412-spur-roundstone-big-sexy",
+      "result": "win",
+      "method": "other",
+      "event": "Fighting Force Championship 3",
+      "eventSlug": "118635-fighting-force-championship",
+      "round": 1,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2024-08-31T00:00:00.000Z",
+      "opponent": "Johnnie Burlington",
+      "opponentSlug": "233776-johnnie-burlington",
+      "result": "win",
+      "method": "tko",
+      "event": "Muckleshoot Fight Night 10",
+      "eventSlug": "117070-muckleshoot-fight-night-10",
+      "round": 1,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2024-05-25T00:00:00.000Z",
+      "opponent": "Dave Pearson",
+      "opponentSlug": "138278-dave-pearson",
+      "result": "loss",
+      "method": "other",
+      "event": "Muckleshoot Fight Night 9",
+      "eventSlug": "112055-muckleshoot-fight-night-9",
+      "round": 2,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2024-02-17T00:00:00.000Z",
+      "opponent": "Kimo Luis",
+      "opponentSlug": "158210-richard-luis",
+      "result": "win",
+      "method": "tko",
+      "event": "Muckleshoot Fight Night 8",
+      "eventSlug": "109949-muckleshoot-fight-night-8",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-08T00:00:00.000Z",
+      "opponent": "Sua Tuani",
+      "opponentSlug": "125896-sua-tuani",
+      "result": "win",
+      "method": "sub",
+      "event": "Muckleshoot Fight Night 7",
+      "eventSlug": "107082-muckleshoot-fight-night-7",
+      "round": 1,
+      "timeInRound": "3:31"
+    },
+    {
+      "date": "2023-09-22T00:00:00.000Z",
+      "opponent": "Luther Egerson",
+      "opponentSlug": "391241-luther-egerson",
+      "result": "win",
+      "method": "sub",
+      "event": "Muckleshoot Fight Night 6",
+      "eventSlug": "104463-muckleshoot-fight-night-6",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2023-07-07T00:00:00.000Z",
+      "opponent": "Mark Repose",
+      "opponentSlug": "370708-mark-repose",
+      "result": "win",
+      "method": "other",
+      "event": "Muckleshoot Fight Night 5",
+      "eventSlug": "102751-muckleshoot-fight-night-5",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-13T00:00:00.000Z",
+      "opponent": "Cody Snider",
+      "opponentSlug": "382177-cody-snider",
+      "result": "win",
+      "method": "other",
+      "event": "CageWarriors Northwest 3",
+      "eventSlug": "97116-cagewarriors-northwest-3",
+      "round": 1,
+      "timeInRound": "2:41"
+    },
+    {
+      "date": "2023-03-11T00:00:00.000Z",
+      "opponent": "Ike Okoli",
+      "opponentSlug": "319861-ike-okoli",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Muckleshoot Fight Night 4",
+      "eventSlug": "97243-muckleshoot-fight-night-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-02T00:00:00.000Z",
+      "opponent": "Dylan Kalamarski",
+      "opponentSlug": "364105-dylan-kalamarski",
+      "result": "win",
+      "method": "sub",
+      "event": "Muckleshoot Fight Night 3",
+      "eventSlug": "95074-muckleshoot-fight-night-3",
+      "round": 1,
+      "timeInRound": "2:48"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:55:59.597Z"
+}

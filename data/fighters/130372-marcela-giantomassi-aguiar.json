@@ -1,0 +1,99 @@
+{
+  "slug": "130372-marcela-giantomassi-aguiar",
+  "name": "Marcela Giantomassi",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 157,
+  "reachCm": null,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/130372-marcela-giantomassi-aguiar",
+  "recentFights": [
+    {
+      "date": "2019-12-20T00:00:00.000Z",
+      "opponent": "Julie Mezabarba",
+      "opponentSlug": "113333-julie-mezabarba",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shooto Brasil 99",
+      "eventSlug": "65193-shooto-brasil-99",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-14T00:00:00.000Z",
+      "opponent": "Jamie Colleen Miller",
+      "opponentSlug": "37798-jamie-miller",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "CFFC 76",
+      "eventSlug": "59422-cffc-76",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-09T00:00:00.000Z",
+      "opponent": "Julia Polastri",
+      "opponentSlug": "168315-julia-polastri",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shooto Brasil 89",
+      "eventSlug": "56735-shooto-brasil-89",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-26T00:00:00.000Z",
+      "opponent": "Valesca Machado",
+      "opponentSlug": "124041-valesca-machado",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Shooto Brasil 78",
+      "eventSlug": "49336-shooto-brasil-78",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-08T00:00:00.000Z",
+      "opponent": "Andréia Serafim",
+      "opponentSlug": "136451-andreia-serafim-azevedo",
+      "result": "loss",
+      "method": "other",
+      "event": "Aspera FC 54",
+      "eventSlug": "45844-aspera-fc-54",
+      "round": 3,
+      "timeInRound": "4:24"
+    },
+    {
+      "date": "2017-04-15T00:00:00.000Z",
+      "opponent": "Jesian Júlia",
+      "opponentSlug": "136446-jesian-jlia-de-souza",
+      "result": "win",
+      "method": "sub",
+      "event": "NP Fight 6",
+      "eventSlug": "44618-np-fight-5",
+      "round": 2,
+      "timeInRound": "4:26"
+    },
+    {
+      "date": "2016-04-16T00:00:00.000Z",
+      "opponent": "Michele Divina Correia",
+      "opponentSlug": "130373-michele-divina-correia",
+      "result": "win",
+      "method": "other",
+      "event": "NP Fight Night",
+      "eventSlug": "39300-np-fight-night",
+      "round": 2,
+      "timeInRound": "2:22"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:59:08.226Z"
+}

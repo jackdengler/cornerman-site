@@ -1,0 +1,209 @@
+{
+  "slug": "174329-wellington-predador",
+  "name": "Wellington Prado",
+  "nickname": "Predador",
+  "aliases": [],
+  "recordPro": {
+    "wins": 14,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": 188,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1999-09-23",
+  "nationality": "Itapevi, Sao Paulo, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/174329-wellington-predador",
+  "recentFights": [
+    {
+      "date": "2024-08-30T00:00:00.000Z",
+      "opponent": "Keweny Lopes",
+      "opponentSlug": "131593-keweny-lopes",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 191: Prado vs. Lopes",
+      "eventSlug": "114937-lfa-191",
+      "round": 1,
+      "timeInRound": "1:34"
+    },
+    {
+      "date": "2024-06-01T00:00:00.000Z",
+      "opponent": "Kauê Vaz",
+      "opponentSlug": "296452-kaue-luiz-vaz",
+      "result": "win",
+      "method": "other",
+      "event": "BFC 9",
+      "eventSlug": "114235-bfc-9",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2023-07-07T00:00:00.000Z",
+      "opponent": "Márcio Barbosa",
+      "opponentSlug": "126539-marcio-ticot",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 162: Conceição vs. Lopes",
+      "eventSlug": "102000-lfa-162-prates-vs-antunes",
+      "round": 1,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2022-07-15T00:00:00.000Z",
+      "opponent": "Italo Gomes",
+      "opponentSlug": "141586-italo-gomes",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "LFA 136: Rio de Janeiro vs. São Paulo",
+      "eventSlug": "90492-lfa-136",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-23T00:00:00.000Z",
+      "opponent": "Thiago Silva",
+      "opponentSlug": "50647-thiago-manchinha",
+      "result": "win",
+      "method": "other",
+      "event": "SFT 30: Predador vs. Manchinha",
+      "eventSlug": "83292-sft-30-predador-vs-manchinha",
+      "round": 2,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2020-11-21T00:00:00.000Z",
+      "opponent": "Bruno Viana",
+      "opponentSlug": "69768-bruno-viana",
+      "result": "win",
+      "method": "other",
+      "event": "SFT 25: Predador vs. Viana",
+      "eventSlug": "73471-sft-25-predador-vs-viana",
+      "round": 1,
+      "timeInRound": "4:26"
+    },
+    {
+      "date": "2019-11-30T00:00:00.000Z",
+      "opponent": "Marcos dos Santos",
+      "opponentSlug": "3069-marcos-dos-santos-babuino",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "SFT 18",
+      "eventSlug": "64040-sft-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-27T00:00:00.000Z",
+      "opponent": "Junior Maranhão",
+      "opponentSlug": "39962-junior-maranhao",
+      "result": "win",
+      "method": "sub",
+      "event": "SFT 14",
+      "eventSlug": "61894-sft-14",
+      "round": 1,
+      "timeInRound": "4:04"
+    },
+    {
+      "date": "2019-03-30T00:00:00.000Z",
+      "opponent": "Paulo Henrique Lemes",
+      "opponentSlug": "31190-paulo-henrique-lemes-patetinha",
+      "result": "win",
+      "method": "sub",
+      "event": "SFT 10",
+      "eventSlug": "59057-sft-10",
+      "round": 1,
+      "timeInRound": "4:20"
+    },
+    {
+      "date": "2018-12-15T00:00:00.000Z",
+      "opponent": "Janio Rodrigues",
+      "opponentSlug": "53908-janio-rodrigues-vitamina",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "SFT 8",
+      "eventSlug": "57010-sft-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-27T00:00:00.000Z",
+      "opponent": "Evertom Freitas",
+      "opponentSlug": "169759-evertom-freitas",
+      "result": "win",
+      "method": "tko",
+      "event": "SFT 6",
+      "eventSlug": "56038-sft-6",
+      "round": 1,
+      "timeInRound": "0:32"
+    },
+    {
+      "date": "2018-09-07T00:00:00.000Z",
+      "opponent": "Joanderson Brito",
+      "opponentSlug": "98539-joanderson-brito-tubarao",
+      "result": "loss",
+      "method": "sub",
+      "event": "Thunder Fight 15",
+      "eventSlug": "55345-thunder-fight-15-independence-day",
+      "round": 2,
+      "timeInRound": "4:00"
+    },
+    {
+      "date": "2018-07-07T00:00:00.000Z",
+      "opponent": "Cicero Coutinho",
+      "opponentSlug": "57730-cicero-gardenal-o-louco-patologico",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-14T00:00:00.000Z",
+      "opponent": "Thales Morais",
+      "opponentSlug": "131387-thales-moraes",
+      "result": "win",
+      "method": "sub",
+      "event": "Thunder Fight",
+      "eventSlug": "53202-thunder-fight-cbmma-3",
+      "round": 2,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2018-03-17T00:00:00.000Z",
+      "opponent": "Diego Brandaglia",
+      "opponentSlug": "54591-diego-rodriguez-negao",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-22T00:00:00.000Z",
+      "opponent": "Maksuel de Souza",
+      "opponentSlug": "155301-max-matogrosso",
+      "result": "win",
+      "method": "sub",
+      "event": "Thunder Fight 13",
+      "eventSlug": "49728-thunder-fight-13",
+      "round": 1,
+      "timeInRound": "3:42"
+    },
+    {
+      "date": "2017-11-25T00:00:00.000Z",
+      "opponent": "Fernando Garcia",
+      "opponentSlug": "133485-fernando-garcia",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:56:39.345Z"
+}

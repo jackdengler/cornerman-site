@@ -1,0 +1,143 @@
+{
+  "slug": "20915-martin-walker",
+  "name": "Martin Walker",
+  "nickname": "The Viper",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 172,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1978-09-15",
+  "nationality": "Texas",
+  "url": "https://www.tapology.com/fightcenter/fighters/20915-martin-walker",
+  "recentFights": [
+    {
+      "date": "2014-09-12T00:00:00.000Z",
+      "opponent": "Alexander Hernandez",
+      "opponentSlug": "46253-alexander-hernandez",
+      "result": "loss",
+      "method": "tko",
+      "event": "Best of the Best 3",
+      "eventSlug": "25871-best-of-the-best-3",
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2013-09-28T00:00:00.000Z",
+      "opponent": "Ray Rodriguez",
+      "opponentSlug": "28870-reynaldo-rodriguez",
+      "result": "loss",
+      "method": "tko",
+      "event": "Texas Pride",
+      "eventSlug": "20169-texas-pride",
+      "round": 2,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2013-02-16T00:00:00.000Z",
+      "opponent": "Todd Martarona",
+      "opponentSlug": "41716-todd-martarona",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "VFA: Round 1",
+      "eventSlug": "17498-vfa-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-09-15T00:00:00.000Z",
+      "opponent": "Jerry Stuart",
+      "opponentSlug": "27025-jerry-stuart",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-05-25T00:00:00.000Z",
+      "opponent": "Kody Williams",
+      "opponentSlug": "22855-kody-williams",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Combat 9",
+      "eventSlug": "13846-cage-combat-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-01-28T00:00:00.000Z",
+      "opponent": "Mike Bruno",
+      "opponentSlug": "20916-mike-bruno",
+      "result": "loss",
+      "method": "other",
+      "event": "G1 Fights: Sovereign Valor",
+      "eventSlug": "12285-g1-fights-sovereign-valor",
+      "round": 3,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2011-07-16T00:00:00.000Z",
+      "opponent": "Taylor Hilger",
+      "opponentSlug": "60762-taylor-hilger",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-04-16T00:00:00.000Z",
+      "opponent": "JD Schwendemann",
+      "opponentSlug": "60704-jd-schwendemann",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-12-11T00:00:00.000Z",
+      "opponent": "Taylor Montgomery",
+      "opponentSlug": "20910-taylor-montgomery",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-06-19T00:00:00.000Z",
+      "opponent": "Jacob Gary",
+      "opponentSlug": "92932-jacob-gary",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-02-20T00:00:00.000Z",
+      "opponent": "Mark Garcia",
+      "opponentSlug": "15687-mark-garcia-kant-get-right",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:35:36.064Z"
+}

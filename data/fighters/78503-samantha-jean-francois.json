@@ -1,0 +1,242 @@
+{
+  "slug": "78503-samantha-jean-francois",
+  "name": "Samantha Jean-Francois",
+  "nickname": "Spicy",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 9,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 163,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1987-02-27",
+  "nationality": "France",
+  "url": "https://www.tapology.com/fightcenter/fighters/78503-samantha-jean-francois",
+  "recentFights": [
+    {
+      "date": "2025-10-22T00:00:00.000Z",
+      "opponent": "Amena Hadaya",
+      "opponentSlug": "227840-amena-hadaya",
+      "result": "loss",
+      "method": "tko",
+      "event": "UAE Warriors 64",
+      "eventSlug": "133266-uae-warriors-64",
+      "round": 3,
+      "timeInRound": "0:38"
+    },
+    {
+      "date": "2025-04-05T00:00:00.000Z",
+      "opponent": "Laetitia Gallardo",
+      "opponentSlug": "311678-laetitia-gallardo",
+      "result": "win",
+      "method": "sub",
+      "event": "GFTC 3",
+      "eventSlug": "124247-gftc-3",
+      "round": 1,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2025-02-08T00:00:00.000Z",
+      "opponent": "Fernanda Priscila",
+      "opponentSlug": "83419-fernanda-priscila-barros",
+      "result": "win",
+      "method": "sub",
+      "event": "Dynamite MMA 3",
+      "eventSlug": "118005-dynamite-mma-3",
+      "round": 1,
+      "timeInRound": "1:18"
+    },
+    {
+      "date": "2024-11-09T00:00:00.000Z",
+      "opponent": "Maristela Alves",
+      "opponentSlug": "227184-maristela-alves",
+      "result": "win",
+      "method": "sub",
+      "event": "GFTC 2",
+      "eventSlug": "119230-gftc-2",
+      "round": 1,
+      "timeInRound": "0:41"
+    },
+    {
+      "date": "2024-06-08T00:00:00.000Z",
+      "opponent": "Melissa Amaya",
+      "opponentSlug": "312982-melissa-amaya",
+      "result": "loss",
+      "method": "tko",
+      "event": "Combate Global",
+      "eventSlug": "114376-combate-global",
+      "round": 2,
+      "timeInRound": "3:44"
+    },
+    {
+      "date": "2024-02-24T00:00:00.000Z",
+      "opponent": "Mileide Simplicio",
+      "opponentSlug": "266639-mileide-simplicio",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Stars Night",
+      "eventSlug": "110928-stars-night-tournament",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-28T00:00:00.000Z",
+      "opponent": "Laura Balin",
+      "opponentSlug": "62356-laura-balin",
+      "result": "win",
+      "method": "sub",
+      "event": "Hexagone MMA 10",
+      "eventSlug": "99807-hexagone-mma-10",
+      "round": 2,
+      "timeInRound": "4:00"
+    },
+    {
+      "date": "2023-03-11T00:00:00.000Z",
+      "opponent": "Andressa Rocha",
+      "opponentSlug": "46707-andressa-araujo",
+      "result": "win",
+      "method": "sub",
+      "event": "Hexagone MMA 7",
+      "eventSlug": "97625-hexagone-mma-7",
+      "round": 5,
+      "timeInRound": "4:34"
+    },
+    {
+      "date": "2022-08-28T00:00:00.000Z",
+      "opponent": "Mona Ftouhi",
+      "opponentSlug": "116872-mona-ftouhi",
+      "result": "win",
+      "method": "sub",
+      "event": "Hexagone MMA 4",
+      "eventSlug": "91940-hexagone-mma-4",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-04T00:00:00.000Z",
+      "opponent": "Valentina Scatizzi",
+      "opponentSlug": "283991-valentina-scatizzi",
+      "result": "win",
+      "method": "sub",
+      "event": "Slam FC 13: No Man's Land",
+      "eventSlug": "88193-slam-fc-13",
+      "round": 1,
+      "timeInRound": "3:12"
+    },
+    {
+      "date": "2019-04-21T00:00:00.000Z",
+      "opponent": "Rena Kubota",
+      "opponentSlug": "118827-rena-kubota",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "RIZIN 15",
+      "eventSlug": "57558-rizin-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-16T00:00:00.000Z",
+      "opponent": "Alyona Rassohyna",
+      "opponentSlug": "64137-alyona-rassohyna",
+      "result": "loss",
+      "method": "sub",
+      "event": "WWFC 11",
+      "eventSlug": "52536-wwfc-11",
+      "round": 1,
+      "timeInRound": "4:25"
+    },
+    {
+      "date": "2017-11-25T00:00:00.000Z",
+      "opponent": "Wendy McKenna",
+      "opponentSlug": "80801-wendy-mckenna",
+      "result": "win",
+      "method": "sub",
+      "event": "British Challenge MMA 20",
+      "eventSlug": "45881-british-challenge-mma-20-cage-warriors-academy",
+      "round": 1,
+      "timeInRound": "0:57"
+    },
+    {
+      "date": "2017-06-14T00:00:00.000Z",
+      "opponent": "Svetlana Gotsyk",
+      "opponentSlug": "92357-svetlana-gotsyk",
+      "result": "loss",
+      "method": "sub",
+      "event": "WWFC 7",
+      "eventSlug": "45762-wwfc-cage-encounter-7",
+      "round": 5,
+      "timeInRound": "3:10"
+    },
+    {
+      "date": "2016-05-07T00:00:00.000Z",
+      "opponent": "Bryony Tyrell",
+      "opponentSlug": "69569-bryony-tyrell",
+      "result": "loss",
+      "method": "sub",
+      "event": "British Challenge MMA 15",
+      "eventSlug": "39550-british-challenge-mma-15",
+      "round": 2,
+      "timeInRound": "1:51"
+    },
+    {
+      "date": "2016-02-13T00:00:00.000Z",
+      "opponent": "Audrey Kerouche",
+      "opponentSlug": "56046-audrey-kerouche-sorel",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-12-19T00:00:00.000Z",
+      "opponent": "Weili Zhang",
+      "opponentSlug": "83443-weili-zhang",
+      "result": "loss",
+      "method": "other",
+      "event": "Kunlun Fight 35",
+      "eventSlug": "37200-kunlun-fight-35",
+      "round": 1,
+      "timeInRound": "3:37"
+    },
+    {
+      "date": "2015-11-28T00:00:00.000Z",
+      "opponent": "Laïla Sekaf",
+      "opponentSlug": "93154-lala-sekaf-lilou-dallas",
+      "result": "win",
+      "method": "sub",
+      "event": "100% Fight 26",
+      "eventSlug": "36212-100-fight-26-ladies-first",
+      "round": 1,
+      "timeInRound": "1:53"
+    },
+    {
+      "date": "2014-05-17T00:00:00.000Z",
+      "opponent": "Isabelle Pare",
+      "opponentSlug": "78484-isabelle-pare",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-01T00:00:00.000Z",
+      "opponent": "Morgane Delagnau",
+      "opponentSlug": "60875-morgane-delagnau",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:10:32.081Z"
+}

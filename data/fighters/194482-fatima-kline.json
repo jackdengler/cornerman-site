@@ -1,0 +1,143 @@
+{
+  "slug": "194482-fatima-kline",
+  "name": "Fatima Kline",
+  "nickname": "The Archangel",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": 170,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": "2000-07-12",
+  "nationality": "Holbrook, New York, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/194482-fatima-kline",
+  "recentFights": [
+    {
+      "date": "2025-11-15T00:00:00.000Z",
+      "opponent": "Angela Hill",
+      "opponentSlug": "57525-angela-hill-overkill",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 322",
+      "eventSlug": "132653-ufc-322",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-07-12T00:00:00.000Z",
+      "opponent": "Melissa Martinez",
+      "opponentSlug": "113003-melissa-martinez",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "126523-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "2:36"
+    },
+    {
+      "date": "2025-01-11T00:00:00.000Z",
+      "opponent": "Victoria Dudakova",
+      "opponentSlug": "227991-viktoria-dudakova",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "118450-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "4:27"
+    },
+    {
+      "date": "2024-07-13T00:00:00.000Z",
+      "opponent": "Jasmine Jasudavicius",
+      "opponentSlug": "171056-jasmine-jasdavicious",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "111798-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-02-09T00:00:00.000Z",
+      "opponent": "Andressa Romero",
+      "opponentSlug": "148814-andressa-romero",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CFFC 129: Kline vs. Romero",
+      "eventSlug": "109480-cffc-129",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-03T00:00:00.000Z",
+      "opponent": "Sara Cova",
+      "opponentSlug": "152871-sara-cova",
+      "result": "win",
+      "method": "other",
+      "event": "CFFC 127: Kline vs. Cova",
+      "eventSlug": "106215-cffc-127",
+      "round": 3,
+      "timeInRound": "3:56"
+    },
+    {
+      "date": "2023-03-15T00:00:00.000Z",
+      "opponent": "Natasha Kuziutina",
+      "opponentSlug": "363577-natasha-kuziutina-kuzya",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 52",
+      "eventSlug": "98267-invicta-fc-52-machado-vs-mccormack",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-01-18T00:00:00.000Z",
+      "opponent": "Laura Gallardo",
+      "opponentSlug": "158429-laura-anderson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 51",
+      "eventSlug": "96214-invicta-fc-51-tennant-vs-bernardo",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-11T00:00:00.000Z",
+      "opponent": "Sidney Trillo",
+      "opponentSlug": "168323-sidney-trillo-sid-vicious",
+      "result": "win",
+      "method": "other",
+      "event": "Invicta FC 47",
+      "eventSlug": "88077-invicta-fc-47-ducote-vs-zappitella",
+      "round": 3,
+      "timeInRound": "4:45"
+    },
+    {
+      "date": "2021-05-21T00:00:00.000Z",
+      "opponent": "Ariana Melendez",
+      "opponentSlug": "197068-arianna-melendez",
+      "result": "win",
+      "method": "sub",
+      "event": "Invicta on AXS TV",
+      "eventSlug": "78656-invicta-fc-44-zappitella-vs-delboni",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2019-09-21T00:00:00.000Z",
+      "opponent": "Krista Hannaford",
+      "opponentSlug": "164433-krista-hannaford",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Aggressive Combat 21",
+      "eventSlug": "60773-aggressive-combat-20",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:09:33.259Z"
+}

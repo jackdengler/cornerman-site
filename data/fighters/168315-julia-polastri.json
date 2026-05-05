@@ -1,0 +1,242 @@
+{
+  "slug": "168315-julia-polastri",
+  "name": "Julia Polastri",
+  "nickname": "Psycho",
+  "aliases": [],
+  "recordPro": {
+    "wins": 14,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 157,
+  "reachCm": 160,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": "1998-03-05",
+  "nationality": "Duque de Caxias, Rio de Janeiro, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/168315-julia-polastri",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Talita Alencar",
+      "opponentSlug": "217437-talita-alencar",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "140114-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-11T00:00:00.000Z",
+      "opponent": "Karolina Kowalkiewicz",
+      "opponentSlug": "35968-karolina-kowalkiewicz",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "130995-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2025-03-29T00:00:00.000Z",
+      "opponent": "Lupita Godinez",
+      "opponentSlug": "133312-lupita-godinez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "120490-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-10-12T00:00:00.000Z",
+      "opponent": "Cory McKenna",
+      "opponentSlug": "81574-cory-mckenna",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "115961-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-15T00:00:00.000Z",
+      "opponent": "Josefine Knutsson",
+      "opponentSlug": "174069-josefine-lindgren-knutsson-little-thunder",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "111669-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-12T00:00:00.000Z",
+      "opponent": "Patricia Alujas",
+      "opponentSlug": "126486-patricia-alujas-el-angel",
+      "result": "win",
+      "method": "sub",
+      "event": "Contender Series 2023",
+      "eventSlug": "100996-contender-series-2023-week-6",
+      "round": 2,
+      "timeInRound": "4:05"
+    },
+    {
+      "date": "2023-01-28T00:00:00.000Z",
+      "opponent": "Brenda Gottig",
+      "opponentSlug": "153509-brenda-gottig",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 151: Delano vs. Santos",
+      "eventSlug": "96398-lfa-151-delano-vs-santos",
+      "round": 1,
+      "timeInRound": "4:50"
+    },
+    {
+      "date": "2022-11-04T00:00:00.000Z",
+      "opponent": "Bianca Sattelmayer",
+      "opponentSlug": "58437-bianca-reis",
+      "result": "win",
+      "method": "tko",
+      "event": "LFA 146: Barbosa vs. Santos",
+      "eventSlug": "94392-lfa-146-barbosa-vs-santos",
+      "round": 3,
+      "timeInRound": "0:51"
+    },
+    {
+      "date": "2022-06-24T00:00:00.000Z",
+      "opponent": "Kalindra Faria",
+      "opponentSlug": "10740-kalindra-carvalho-faria",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Iron Man MMA 24",
+      "eventSlug": "90386-iron-man-cf-24",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-14T00:00:00.000Z",
+      "opponent": "Jasmine Jasudavicius",
+      "opponentSlug": "171056-jasmine-jasdavicious",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Contender Series 2021",
+      "eventSlug": "78722-contender-series-2021",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-10-31T00:00:00.000Z",
+      "opponent": "Jessica Cunha",
+      "opponentSlug": "187732-jessica-evelyn-monteiro-so-na-manha",
+      "result": "win",
+      "method": "sub",
+      "event": "SFT 22: Serafim vs. Mara",
+      "eventSlug": "73425-sft-22-serafim-vs-mara",
+      "round": 2,
+      "timeInRound": "4:18"
+    },
+    {
+      "date": "2019-10-19T00:00:00.000Z",
+      "opponent": "Jéssica Delboni",
+      "opponentSlug": "79636-jssica-delboni",
+      "result": "win",
+      "method": "tko",
+      "event": "Shooto Brasil 97",
+      "eventSlug": "63628-shooto-brasil-97",
+      "round": 2,
+      "timeInRound": "4:35"
+    },
+    {
+      "date": "2019-05-25T00:00:00.000Z",
+      "opponent": "Geísa Veloso",
+      "opponentSlug": "125518-geisa-veloso",
+      "result": "win",
+      "method": "other",
+      "event": "Shooto Brasil 92",
+      "eventSlug": "60598-shooto-brasil-92",
+      "round": 2,
+      "timeInRound": "1:57"
+    },
+    {
+      "date": "2019-05-05T00:00:00.000Z",
+      "opponent": "Daniela da Silva",
+      "opponentSlug": "31234-daniela-maria-da-silva-danny-fenix",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMA Brutus 2",
+      "eventSlug": "60085-mma-brutus-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-09T00:00:00.000Z",
+      "opponent": "Marcela Giantomassi",
+      "opponentSlug": "130372-marcela-giantomassi-aguiar",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shooto Brasil 89",
+      "eventSlug": "56735-shooto-brasil-89",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-06T00:00:00.000Z",
+      "opponent": "Beatriz Ferreira",
+      "opponentSlug": "189660-beatriz-ferreira-bia",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Niterói Top Fight 7",
+      "eventSlug": "55802-niteroi-top-fight-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-26T00:00:00.000Z",
+      "opponent": "Valesca Machado",
+      "opponentSlug": "124041-valesca-machado",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shooto Brasil 84",
+      "eventSlug": "53369-shooto-brasil-84",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-03T00:00:00.000Z",
+      "opponent": "Vanessa Santos",
+      "opponentSlug": "179746-vanessa-santos",
+      "result": "win",
+      "method": "other",
+      "event": "NCE 23",
+      "eventSlug": "51191-nce-23",
+      "round": 2,
+      "timeInRound": "3:55"
+    },
+    {
+      "date": "2017-10-21T00:00:00.000Z",
+      "opponent": "Nathielly Santos",
+      "opponentSlug": "166051-nathielly-santos-naty-pitbull",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "NCE 19",
+      "eventSlug": "48411-nce-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-23T00:00:00.000Z",
+      "opponent": "Monique Adriane",
+      "opponentSlug": "140994-monique-adriane-azevedo",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:53:52.587Z"
+}

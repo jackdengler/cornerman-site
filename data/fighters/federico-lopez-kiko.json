@@ -1,0 +1,187 @@
+{
+  "slug": "federico-lopez-kiko",
+  "name": "Federico Lopez",
+  "nickname": "Kiko",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 163,
+  "reachCm": 173,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1984-01-04",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/federico-lopez-kiko",
+  "recentFights": [
+    {
+      "date": "2015-12-16T00:00:00.000Z",
+      "opponent": "John Castañeda",
+      "opponentSlug": "20125-john-castaneda",
+      "result": "loss",
+      "method": "sub",
+      "event": "Combate Americas",
+      "eventSlug": "36689-combate-americas-2",
+      "round": 3,
+      "timeInRound": "4:49"
+    },
+    {
+      "date": "2014-02-01T00:00:00.000Z",
+      "opponent": "Miguelito Marti",
+      "opponentSlug": "48719-miguelito-marti",
+      "result": "win",
+      "method": "other",
+      "event": "Gladiator Challenge",
+      "eventSlug": "24086-gladiator-challenge-uprising",
+      "round": 1,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2013-09-21T00:00:00.000Z",
+      "opponent": "Jimmy Marquez",
+      "opponentSlug": "60909-jimmy-marquez",
+      "result": "win",
+      "method": "other",
+      "event": "XFS: Creation",
+      "eventSlug": "20879-xfs-creation",
+      "round": 1,
+      "timeInRound": "2:51"
+    },
+    {
+      "date": "2013-05-18T00:00:00.000Z",
+      "opponent": "Alfredo Perez",
+      "opponentSlug": "40899-alfredo-perez",
+      "result": "win",
+      "method": "sub",
+      "event": "XFS: Devastation",
+      "eventSlug": "19775-xfs-devastation",
+      "round": 2,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2012-08-18T00:00:00.000Z",
+      "opponent": "Willie Gates",
+      "opponentSlug": "willie-gates",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-11-19T00:00:00.000Z",
+      "opponent": "Bobby Sanchez",
+      "opponentSlug": "bobby-sanchez-the-kid",
+      "result": "win",
+      "method": "other",
+      "event": "XFS: Hillside Havoc",
+      "eventSlug": "11499-xfs-hillside-havoc",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-10-22T00:00:00.000Z",
+      "opponent": "Matt Leyva",
+      "opponentSlug": "17283-matt-leyva",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Jackson's MMA Series 6",
+      "eventSlug": "10987-jacksons-mma-series-vi",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-08-13T00:00:00.000Z",
+      "opponent": "Josh Hill",
+      "opponentSlug": "josh-hill",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "GWFC 1: Uprising",
+      "eventSlug": "10783-gwfc-1-uprising",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-05-27T00:00:00.000Z",
+      "opponent": "Bobby Huron",
+      "opponentSlug": "13481-Bobby-Huron",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shark Fights 15",
+      "eventSlug": "shark-fights-15-villasenor-vs-camozzi",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-05-29T00:00:00.000Z",
+      "opponent": "Norifumi Yamamoto",
+      "opponentSlug": "norifumi-yamamoto-kid",
+      "result": "loss",
+      "method": "other",
+      "event": "Dream 14",
+      "eventSlug": "dream-14",
+      "round": 1,
+      "timeInRound": "1:41"
+    },
+    {
+      "date": "2009-12-10T00:00:00.000Z",
+      "opponent": "Chuck Mady",
+      "opponentSlug": "chuck-mady-the-energiza-bunny",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-05-16T00:00:00.000Z",
+      "opponent": "Greg Guzman",
+      "opponentSlug": "7549-greg-guzman",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "KOTC: Storm",
+      "eventSlug": "5385-kotc-storm",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-04-25T00:00:00.000Z",
+      "opponent": "Reynaldo Duarte",
+      "opponentSlug": "7552-reynaldo-duarte-reyzinho",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-01-31T00:00:00.000Z",
+      "opponent": "Mitchell Wykoff",
+      "opponentSlug": "7553-mitchell-wykoff",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-04-19T00:00:00.000Z",
+      "opponent": "Alejandro Ortiz",
+      "opponentSlug": "157504-alejandro-ortiz",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:03:05.499Z"
+}

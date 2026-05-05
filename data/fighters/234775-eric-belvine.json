@@ -1,0 +1,92 @@
+{
+  "slug": "234775-eric-belvine",
+  "name": "Eric Belvine",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 5,
+    "draws": 0
+  },
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/234775-eric-belvine",
+  "recentFights": [
+    {
+      "date": "2022-04-08T00:00:00.000Z",
+      "opponent": "Nate Shannon",
+      "opponentSlug": "273374-nathan-shannon",
+      "result": "loss",
+      "method": "other",
+      "event": "DCS 78: DC 100",
+      "eventSlug": "86150-dcs-78",
+      "round": 1,
+      "timeInRound": "0:16"
+    },
+    {
+      "date": "2021-03-13T00:00:00.000Z",
+      "opponent": "Miljan Djukanovic",
+      "opponentSlug": "272784-miljan-djukanovic",
+      "result": "loss",
+      "method": "other",
+      "event": "DCS 69: St. Patty's Showdown",
+      "eventSlug": "77339-dcs-69-st-patty-s-showdown",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2020-02-15T00:00:00.000Z",
+      "opponent": "Steven Bass",
+      "opponentSlug": "48359-steven-bass",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "DCS 58: Love & War",
+      "eventSlug": "65355-dcs-58",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-06T00:00:00.000Z",
+      "opponent": "Kevin Coughlin",
+      "opponentSlug": "190592-kevin-coughlin",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "DCS 57: Season's Beatings",
+      "eventSlug": "64524-dcs-57",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-21T00:00:00.000Z",
+      "opponent": "Josh Trebbien",
+      "opponentSlug": "181476-josh-trebbien",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "DCS 55: Syracuse Slugfest",
+      "eventSlug": "62858-dcs-55",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-08-30T00:00:00.000Z",
+      "opponent": "Derrick Geesaman",
+      "opponentSlug": "91082-derrick-geesaman",
+      "result": "win",
+      "method": "sub",
+      "event": "OFC 125",
+      "eventSlug": "61335-ofc-125-independence",
+      "round": 2,
+      "timeInRound": "1:57"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:42:57.889Z"
+}

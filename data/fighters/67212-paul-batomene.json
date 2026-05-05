@@ -1,0 +1,88 @@
+{
+  "slug": "67212-paul-batomene",
+  "name": "Paul Batomene",
+  "nickname": "Ngando Elombe",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "France",
+  "url": "https://www.tapology.com/fightcenter/fighters/67212-paul-batomene",
+  "recentFights": [
+    {
+      "date": "2023-11-11T00:00:00.000Z",
+      "opponent": "Yusup Magomedov",
+      "opponentSlug": "223121-yusup-magomedov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "NFC 16",
+      "eventSlug": "94583-nfc-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-05T00:00:00.000Z",
+      "opponent": "Amar Nessar",
+      "opponentSlug": "201668-amar-nassar",
+      "result": "loss",
+      "method": "other",
+      "event": "Atomic 3",
+      "eventSlug": "97409-atomic-3",
+      "round": 1,
+      "timeInRound": "1:27"
+    },
+    {
+      "date": "2017-05-20T00:00:00.000Z",
+      "opponent": "Koray Cengiz",
+      "opponentSlug": "59563-koray-cengiz",
+      "result": "loss",
+      "method": "other",
+      "event": "Hype FC 6",
+      "eventSlug": "43599-hype-fc",
+      "round": 1,
+      "timeInRound": "3:20"
+    },
+    {
+      "date": "2016-11-26T00:00:00.000Z",
+      "opponent": "Robert Valentin",
+      "opponentSlug": "136498-robert-valentin",
+      "result": "loss",
+      "method": "sub",
+      "event": "We Love MMA 26",
+      "eventSlug": "37430-we-love-mma-26",
+      "round": 1,
+      "timeInRound": "3:05"
+    },
+    {
+      "date": "2015-06-27T00:00:00.000Z",
+      "opponent": "David Brzoska",
+      "opponentSlug": "134086-david-brzoska",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-04-27T00:00:00.000Z",
+      "opponent": "Nordine Hadjar",
+      "opponentSlug": "67198-nordine-hadjar",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:57:50.106Z"
+}

@@ -1,0 +1,147 @@
+{
+  "slug": "85742-michael-collazo",
+  "name": "Michael Collazo",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 6,
+    "losses": 5,
+    "draws": 0
+  },
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1988-11-26",
+  "nationality": "Milwaukie, Oregon",
+  "url": "https://www.tapology.com/fightcenter/fighters/85742-michael-collazo",
+  "recentFights": [
+    {
+      "date": "2017-03-18T00:00:00.000Z",
+      "opponent": "Eric McConico",
+      "opponentSlug": "112634-eric-mcconico",
+      "result": "loss",
+      "method": "sub",
+      "event": "Rumble at the Roseland 91",
+      "eventSlug": "44473-rumble-at-the-roseland-91",
+      "round": 1,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2016-12-10T00:00:00.000Z",
+      "opponent": "Derek Rottenberg",
+      "opponentSlug": "128784-derek-rottenberg",
+      "result": "win",
+      "method": "sub",
+      "event": "Rumble at the Roseland 89",
+      "eventSlug": "42349-rumble-at-the-roseland-89",
+      "round": 3,
+      "timeInRound": "0:26"
+    },
+    {
+      "date": "2016-04-09T00:00:00.000Z",
+      "opponent": "Scott Davenport",
+      "opponentSlug": "29823-scott-davenport",
+      "result": "win",
+      "method": "sub",
+      "event": "Arena Wars: Redemption",
+      "eventSlug": "38914-arena-wars-redemption",
+      "round": 3,
+      "timeInRound": "2:43"
+    },
+    {
+      "date": "2015-12-12T00:00:00.000Z",
+      "opponent": "Shalamar Washington",
+      "opponentSlug": "77166-shalamar-washington",
+      "result": "win",
+      "method": "tko",
+      "event": "Rumble at the Roseland 84",
+      "eventSlug": "36026-rumble-at-the-roseland-84",
+      "round": 3,
+      "timeInRound": "1:46"
+    },
+    {
+      "date": "2015-10-24T00:00:00.000Z",
+      "opponent": "Austin Vanderford",
+      "opponentSlug": "39902-austin-vandeford",
+      "result": "loss",
+      "method": "tko",
+      "event": "Budofights 13",
+      "eventSlug": "34987-budofights-13",
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2015-09-12T00:00:00.000Z",
+      "opponent": "Erik Herman",
+      "opponentSlug": "48873-erik-herman",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Battle in the Burg 3",
+      "eventSlug": "33555-battle-in-the-burg-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-22T00:00:00.000Z",
+      "opponent": "Sam Sprauer",
+      "opponentSlug": "41801-sam-sprauer",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Rumble at the Roseland 83",
+      "eventSlug": "34040-rumble-at-the-roseland-83",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-04-18T00:00:00.000Z",
+      "opponent": "Brandon Lunny",
+      "opponentSlug": "99491-brandon-lunny",
+      "result": "win",
+      "method": "tko",
+      "event": "Rumble at the Roseland 81",
+      "eventSlug": "31023-rumble-at-the-roseland-81",
+      "round": 1,
+      "timeInRound": "0:13"
+    },
+    {
+      "date": "2015-03-07T00:00:00.000Z",
+      "opponent": "Hank Turner",
+      "opponentSlug": "61762-hank-turner",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Midtown Throwdown 6",
+      "eventSlug": "28575-midtown-throwdown-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-01-24T00:00:00.000Z",
+      "opponent": "Anthoni Van Hattem",
+      "opponentSlug": "91397-anthoni-van-hattem",
+      "result": "win",
+      "method": "tko",
+      "event": "Rumble at the Roseland 80",
+      "eventSlug": "28571-rumble-at-the-roseland-80",
+      "round": 1,
+      "timeInRound": "2:19"
+    },
+    {
+      "date": "2014-11-15T00:00:00.000Z",
+      "opponent": "Shawn Elzey",
+      "opponentSlug": "85743-shawn-elzey",
+      "result": "loss",
+      "method": "tko",
+      "event": "Knucklehead 10",
+      "eventSlug": "26782-knucklehead-11",
+      "round": 1,
+      "timeInRound": "2:21"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:52:39.954Z"
+}

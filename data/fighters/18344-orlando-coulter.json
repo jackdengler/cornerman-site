@@ -1,0 +1,176 @@
+{
+  "slug": "18344-orlando-coulter",
+  "name": "Rashad Coulter",
+  "nickname": "Daywalker",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 193,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1981-11-27",
+  "nationality": "Newton, North Carolina, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/18344-orlando-coulter",
+  "recentFights": [
+    {
+      "date": "2019-12-13T00:00:00.000Z",
+      "opponent": "Ike Villanueva",
+      "opponentSlug": "isaac-villanueva",
+      "result": "loss",
+      "method": "other",
+      "event": "Fury FC 40",
+      "eventSlug": "62414-fury-fc-40",
+      "round": 1,
+      "timeInRound": "3:17"
+    },
+    {
+      "date": "2018-11-24T00:00:00.000Z",
+      "opponent": "Yaozong Hu",
+      "opponentSlug": "162606-yaozong-hu",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night 141",
+      "eventSlug": "54135-ufc-fight-night-141",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-09T00:00:00.000Z",
+      "opponent": "Chris De La Rocha",
+      "opponentSlug": "75087-chris-de-la-rocha",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 225: Whittaker vs. Romero 2",
+      "eventSlug": "50751-ufc-225",
+      "round": 2,
+      "timeInRound": "3:53"
+    },
+    {
+      "date": "2017-11-18T00:00:00.000Z",
+      "opponent": "Tai Tuivasa",
+      "opponentSlug": "120884-tai-tuivasa-bam-bam",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night 121",
+      "eventSlug": "46847-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "4:35"
+    },
+    {
+      "date": "2017-05-13T00:00:00.000Z",
+      "opponent": "Chase Sherman",
+      "opponentSlug": "55773-chase-sherman",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 211: Miocic vs. Dos Santos 2",
+      "eventSlug": "43945-ufc-211",
+      "round": 2,
+      "timeInRound": "3:36"
+    },
+    {
+      "date": "2017-01-13T00:00:00.000Z",
+      "opponent": "Larry Hopkins",
+      "opponentSlug": "5987-larry-hopkins",
+      "result": "win",
+      "method": "tko",
+      "event": "LFA 1: Peterson vs. Higo",
+      "eventSlug": "43006-lfa-1-peterson-vs-higo",
+      "round": 1,
+      "timeInRound": "0:38"
+    },
+    {
+      "date": "2016-10-14T00:00:00.000Z",
+      "opponent": "Jeremy Hardy",
+      "opponentSlug": "21621-jeremy-hardy",
+      "result": "win",
+      "method": "other",
+      "event": "Legacy FC 61",
+      "eventSlug": "41417-legacy-fc-61-peterson-vs-de-la-rosa",
+      "round": 1,
+      "timeInRound": "1:11"
+    },
+    {
+      "date": "2016-04-30T00:00:00.000Z",
+      "opponent": "Allen Nelson II",
+      "opponentSlug": "54389-allen-nelson-ii",
+      "result": "win",
+      "method": "tko",
+      "event": "XKO 30",
+      "eventSlug": "39149-xko-30",
+      "round": 1,
+      "timeInRound": "2:49"
+    },
+    {
+      "date": "2015-03-27T00:00:00.000Z",
+      "opponent": "Jeremiah O'Neal",
+      "opponentSlug": "6841-jeremiah-oneal",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 135",
+      "eventSlug": "28176-bellator-134",
+      "round": 1,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2014-10-18T00:00:00.000Z",
+      "opponent": "Alex Madrid",
+      "opponentSlug": "27509-alex-madrid",
+      "result": "win",
+      "method": "tko",
+      "event": "XKO 23",
+      "eventSlug": "26795-xko-23",
+      "round": 1,
+      "timeInRound": "2:52"
+    },
+    {
+      "date": "2013-03-23T00:00:00.000Z",
+      "opponent": "Derek Perkins",
+      "opponentSlug": "41154-derek-perkins",
+      "result": "loss",
+      "method": "sub",
+      "event": "XKO 18",
+      "eventSlug": "17877-xko-18",
+      "round": 1,
+      "timeInRound": "2:03"
+    },
+    {
+      "date": "2011-11-11T00:00:00.000Z",
+      "opponent": "Chase Watson",
+      "opponentSlug": "9530-chase-watson-relentless",
+      "result": "win",
+      "method": "other",
+      "event": "Shark Fights 21",
+      "eventSlug": "9796-shark-fights-21",
+      "round": 3,
+      "timeInRound": "2:39"
+    },
+    {
+      "date": "2011-09-10T00:00:00.000Z",
+      "opponent": "Alfredo Ayala",
+      "opponentSlug": "18448-alfredo-ayala",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-06-10T00:00:00.000Z",
+      "opponent": "Manuel Rodriguez",
+      "opponentSlug": "18449-manuel-rodriguez",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:11:43.666Z"
+}

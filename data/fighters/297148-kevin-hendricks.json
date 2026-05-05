@@ -1,0 +1,114 @@
+{
+  "slug": "297148-kevin-hendricks",
+  "name": "Kevin Hendrix",
+  "nickname": "Captain Cowabunga",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 5,
+    "draws": 0
+  },
+  "heightCm": 152,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1993-05-08",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/297148-kevin-hendricks",
+  "recentFights": [
+    {
+      "date": "2024-03-01T00:00:00.000Z",
+      "opponent": "Aziz King",
+      "opponentSlug": "86107-aziz-king",
+      "result": "loss",
+      "method": "sub",
+      "event": "NFC 162",
+      "eventSlug": "109126-nfc-162",
+      "round": 2,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2023-12-15T00:00:00.000Z",
+      "opponent": "Rashad Lockhart",
+      "opponentSlug": "279277-rashad-lockhart",
+      "result": "loss",
+      "method": "tko",
+      "event": "Aries Fight Series",
+      "eventSlug": "106607-nashville-underground",
+      "round": 1,
+      "timeInRound": "0:15"
+    },
+    {
+      "date": "2023-10-21T00:00:00.000Z",
+      "opponent": "Dan Walters",
+      "opponentSlug": "340955-dan-walters",
+      "result": "loss",
+      "method": "sub",
+      "event": "247 FC: Brawl in the Burgh 18",
+      "eventSlug": "102945-247-fc-brawl-in-the-burgh-18",
+      "round": 2,
+      "timeInRound": "1:40"
+    },
+    {
+      "date": "2022-04-30T00:00:00.000Z",
+      "opponent": "Korey Taylor",
+      "opponentSlug": "193806-korey-taylor",
+      "result": "loss",
+      "method": "tko",
+      "event": "Combat Night Pro",
+      "eventSlug": "88764-combat-night-duval",
+      "round": 1,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2022-03-19T00:00:00.000Z",
+      "opponent": "Garrett Schneider",
+      "opponentSlug": "176696-garrett-schneider",
+      "result": "win",
+      "method": "tko",
+      "event": "Combat Night Pro",
+      "eventSlug": "87532-combat-night-pro-orlando",
+      "round": 1,
+      "timeInRound": "0:06"
+    },
+    {
+      "date": "2021-11-06T00:00:00.000Z",
+      "opponent": "Ty Slayton",
+      "opponentSlug": "206477-arthur-slayton",
+      "result": "loss",
+      "method": "sub",
+      "event": "Combat Night Pro",
+      "eventSlug": "84059-combat-night-pro-duval",
+      "round": 1,
+      "timeInRound": "0:46"
+    },
+    {
+      "date": "2021-08-28T00:00:00.000Z",
+      "opponent": "Jake Bunkley",
+      "opponentSlug": "268321-jake-bunkley",
+      "result": "win",
+      "method": "tko",
+      "event": "Combat Night Pro",
+      "eventSlug": "81926-combat-night-pro-tallahassee",
+      "round": 1,
+      "timeInRound": "0:07"
+    },
+    {
+      "date": "2021-06-05T00:00:00.000Z",
+      "opponent": "Christian Zecher",
+      "opponentSlug": "297149-christian-zecher",
+      "result": "win",
+      "method": "tko",
+      "event": "Combat Night Pro 22",
+      "eventSlug": "78757-combat-night-pro-22",
+      "round": 1,
+      "timeInRound": "0:41"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:37:13.395Z"
+}

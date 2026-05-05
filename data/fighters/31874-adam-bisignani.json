@@ -1,0 +1,59 @@
+{
+  "slug": "31874-adam-bisignani",
+  "name": "Adam Bisignani",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1990-04-18",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/31874-adam-bisignani",
+  "recentFights": [
+    {
+      "date": "2013-02-15T00:00:00.000Z",
+      "opponent": "Michael Hefflefinger",
+      "opponentSlug": "26471-michael-hefflefinger",
+      "result": "win",
+      "method": "other",
+      "event": "PA Cage Fight 15",
+      "eventSlug": "16940-pa-cage-fight-15",
+      "round": 2,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2011-06-24T00:00:00.000Z",
+      "opponent": "Mike Colon",
+      "opponentSlug": "25585-mike-colon",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-04-12T00:00:00.000Z",
+      "opponent": "Pat Sabatini",
+      "opponentSlug": "29210-pat-sabatini",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:06:56.089Z"
+}

@@ -1,0 +1,231 @@
+{
+  "slug": "95363-gabriella-gulfin",
+  "name": "Gabriella Gulfin",
+  "nickname": "GDaddy",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 163,
+  "reachCm": 159,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1992-02-27",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/95363-gabriella-gulfin",
+  "recentFights": [
+    {
+      "date": "2025-05-17T00:00:00.000Z",
+      "opponent": "Stephanie Calderon",
+      "opponentSlug": "337308-stephanie-calderon",
+      "result": "loss",
+      "method": "tko",
+      "event": "Combat Night Duval",
+      "eventSlug": "124757-combat-night-duval",
+      "round": 1,
+      "timeInRound": "4:47"
+    },
+    {
+      "date": "2024-08-23T00:00:00.000Z",
+      "opponent": "Mariana Piccolo",
+      "opponentSlug": "274228-mariana-poltronieri-mari",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 190: Chapolin vs. Siqueira",
+      "eventSlug": "114936-lfa-190",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-07-20T00:00:00.000Z",
+      "opponent": "Hilarie Rose",
+      "opponentSlug": "87574-hillary-rose",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Cage Titans 66",
+      "eventSlug": "114179-cage-titans-66",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-09T00:00:00.000Z",
+      "opponent": "Glory Watson",
+      "opponentSlug": "185835-glory-watson",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "NEF 49: Queen City Showdown",
+      "eventSlug": "91707-nef-49",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-02T00:00:00.000Z",
+      "opponent": "Hilarie Rose",
+      "opponentSlug": "87574-hillary-rose",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Titans 54",
+      "eventSlug": "89850-cage-titans-54",
+      "round": 1,
+      "timeInRound": "4:49"
+    },
+    {
+      "date": "2022-04-02T00:00:00.000Z",
+      "opponent": "Kylie O'Hearn",
+      "opponentSlug": "132438-kylie-ohearn",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Titans 52",
+      "eventSlug": "87474-cage-titans-52",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-18T00:00:00.000Z",
+      "opponent": "Mary Kupp",
+      "opponentSlug": "164459-mary-kupp",
+      "result": "win",
+      "method": "tko",
+      "event": "Ring of Combat 75",
+      "eventSlug": "84322-ring-of-combat-75",
+      "round": 2,
+      "timeInRound": "2:11"
+    },
+    {
+      "date": "2021-09-17T00:00:00.000Z",
+      "opponent": "Alexandra Ballou",
+      "opponentSlug": "167439-alexandra-ballou",
+      "result": "win",
+      "method": "dec-split",
+      "event": "CES 64: Bessette vs. Dela Cruz",
+      "eventSlug": "80881-ces-64",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-16T00:00:00.000Z",
+      "opponent": "Diana Avsaragova",
+      "opponentSlug": "173475-diana-avsaragova",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Bellator 262",
+      "eventSlug": "79368-bellator-262-velasquez-vs-kielholtz",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-01T00:00:00.000Z",
+      "opponent": "Jasmine Jasudavicius",
+      "opponentSlug": "171056-jasmine-jasdavicious",
+      "result": "loss",
+      "method": "other",
+      "event": "CFFC 81: Sabatini vs. Gonzalez",
+      "eventSlug": "65236-cffc-81",
+      "round": 1,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2019-06-14T00:00:00.000Z",
+      "opponent": "Erin Blanchfield",
+      "opponentSlug": "167460-erin-blanchfield",
+      "result": "loss",
+      "method": "other",
+      "event": "CFFC 76",
+      "eventSlug": "59422-cffc-76",
+      "round": 1,
+      "timeInRound": "3:20"
+    },
+    {
+      "date": "2019-02-22T00:00:00.000Z",
+      "opponent": "Whittany Pyles",
+      "opponentSlug": "151966-whitney-pyles",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ring of Combat 67",
+      "eventSlug": "57514-ring-of-combat-67",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-21T00:00:00.000Z",
+      "opponent": "Brittany Gianino",
+      "opponentSlug": "129695-brittany-gianino-brutality",
+      "result": "win",
+      "method": "sub",
+      "event": "Ring of Combat 65",
+      "eventSlug": "54203-ring-of-combat-65",
+      "round": 1,
+      "timeInRound": "3:36"
+    },
+    {
+      "date": "2017-10-28T00:00:00.000Z",
+      "opponent": "Jennifer D'Acquisto",
+      "opponentSlug": "75763-jennifer-dacquisto",
+      "result": "win",
+      "method": "sub",
+      "event": "Ring of Combat AM 26",
+      "eventSlug": "47813-ring-of-combat-am-26",
+      "round": 3,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2016-12-16T00:00:00.000Z",
+      "opponent": "LaNeisha Vinson",
+      "opponentSlug": "124435-laneisha-vinson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KTFO & ACC: Worlds Collide",
+      "eventSlug": "42125-ktfo-16-worlds-collide",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-24T00:00:00.000Z",
+      "opponent": "Destiny Quinones",
+      "opponentSlug": "66919-destiny-quinones-the-cookie-monster",
+      "result": "win",
+      "method": "sub",
+      "event": "Aggressive Combat 16",
+      "eventSlug": "41002-aggressive-combat-16",
+      "round": 2,
+      "timeInRound": "2:09"
+    },
+    {
+      "date": "2016-07-30T00:00:00.000Z",
+      "opponent": "Aly Franco",
+      "opponentSlug": "73884-aly-franco-foxtail",
+      "result": "win",
+      "method": "sub",
+      "event": "ECF 11: Fight To Survive",
+      "eventSlug": "40938-ecf-11-fight-to-survive",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-06-18T00:00:00.000Z",
+      "opponent": "Brittany Gianino",
+      "opponentSlug": "129695-brittany-gianino-brutality",
+      "result": "win",
+      "method": "sub",
+      "event": "ECF 10: Take Over 2",
+      "eventSlug": "39177-ecf-10-take-over-2",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-14T00:00:00.000Z",
+      "opponent": "Lauren Braccia",
+      "opponentSlug": "71943-lauren-braccia",
+      "result": "loss",
+      "method": "other",
+      "event": "Ring of Combat AM 20",
+      "eventSlug": "29078-ring-of-combat-am-20",
+      "round": 1,
+      "timeInRound": "2:14"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:09:53.001Z"
+}

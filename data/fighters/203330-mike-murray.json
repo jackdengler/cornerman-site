@@ -1,0 +1,220 @@
+{
+  "slug": "203330-mike-murray",
+  "name": "Mike Murray",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1992-09-30",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/203330-mike-murray",
+  "recentFights": [
+    {
+      "date": "2024-03-01T00:00:00.000Z",
+      "opponent": "Fred Freeman",
+      "opponentSlug": "54167-fred-freeman",
+      "result": "win",
+      "method": "sub",
+      "event": "Synergy FC 11",
+      "eventSlug": "109144-synergy-fc-11",
+      "round": 1,
+      "timeInRound": "3:10"
+    },
+    {
+      "date": "2023-10-06T00:00:00.000Z",
+      "opponent": "Davi Young",
+      "opponentSlug": "185867-davi-young",
+      "result": "loss",
+      "method": "sub",
+      "event": "FAC 21",
+      "eventSlug": "104509-fac-21",
+      "round": 1,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2023-02-04T00:00:00.000Z",
+      "opponent": "Khris Gonzalez",
+      "opponentSlug": "102253-khris-gonzalez",
+      "result": "loss",
+      "method": "sub",
+      "event": "Synergy FC 5",
+      "eventSlug": "94476-synergy-fc-5-kansas-city-fight-night",
+      "round": 2,
+      "timeInRound": "3:09"
+    },
+    {
+      "date": "2022-12-09T00:00:00.000Z",
+      "opponent": "Michael Banks",
+      "opponentSlug": "209529-michael-banks",
+      "result": "win",
+      "method": "sub",
+      "event": "FAC 17",
+      "eventSlug": "93369-fac-17",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2022-09-10T00:00:00.000Z",
+      "opponent": "Travis Ford",
+      "opponentSlug": "213568-travis-ford",
+      "result": "win",
+      "method": "sub",
+      "event": "Synergy FC 1",
+      "eventSlug": "91439-synergy-fc-kansas-city-fight-night",
+      "round": 2,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2022-07-29T00:00:00.000Z",
+      "opponent": "Theo Brown",
+      "opponentSlug": "50223-theo-brown",
+      "result": "win",
+      "method": "sub",
+      "event": "FAC 15",
+      "eventSlug": "89815-fac-15",
+      "round": 2,
+      "timeInRound": "4:23"
+    },
+    {
+      "date": "2022-02-06T00:00:00.000Z",
+      "opponent": "Michael Banks",
+      "opponentSlug": "209529-michael-banks",
+      "result": "win",
+      "method": "sub",
+      "event": "FAC 12: Lookin' For a Fight",
+      "eventSlug": "85292-fac-12",
+      "round": 2,
+      "timeInRound": "0:19"
+    },
+    {
+      "date": "2021-12-17T00:00:00.000Z",
+      "opponent": "Joshua Wooten",
+      "opponentSlug": "96363-joshua-wooten",
+      "result": "win",
+      "method": "sub",
+      "event": "True Revelation 45",
+      "eventSlug": "84069-true-revelation-45",
+      "round": 2,
+      "timeInRound": "0:49"
+    },
+    {
+      "date": "2021-10-08T00:00:00.000Z",
+      "opponent": "Kendall Whited",
+      "opponentSlug": "247637-kendall-whited",
+      "result": "win",
+      "method": "other",
+      "event": "FAC 10",
+      "eventSlug": "82861-fac-10",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2021-02-20T00:00:00.000Z",
+      "opponent": "Davion Trotter",
+      "opponentSlug": "232240-davion-trotter",
+      "result": "loss",
+      "method": "sub",
+      "event": "Nemesis Fighting Alliance 4",
+      "eventSlug": "77514-nemesis-fighting-alliance-4",
+      "round": 1,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2020-10-30T00:00:00.000Z",
+      "opponent": "Charles Mendoza",
+      "opponentSlug": "218992-charles-mendoza",
+      "result": "win",
+      "method": "sub",
+      "event": "The Fight Series",
+      "eventSlug": "73834-the-fight-series",
+      "round": 1,
+      "timeInRound": "2:35"
+    },
+    {
+      "date": "2020-10-09T00:00:00.000Z",
+      "opponent": "Mike Moore",
+      "opponentSlug": "275126-mike-moore",
+      "result": "win",
+      "method": "sub",
+      "event": "FAC 4",
+      "eventSlug": "73143-fac-4",
+      "round": 1,
+      "timeInRound": "2:04"
+    },
+    {
+      "date": "2020-08-14T00:00:00.000Z",
+      "opponent": "Nick Meck",
+      "opponentSlug": "236715-nicholas-meck",
+      "result": "loss",
+      "method": "other",
+      "event": "FAC 3",
+      "eventSlug": "71076-fac-3",
+      "round": 2,
+      "timeInRound": "1:56"
+    },
+    {
+      "date": "2020-02-07T00:00:00.000Z",
+      "opponent": "Alexis Garcia",
+      "opponentSlug": "165412-alexis-garcia",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Utlimate Blue Corner Battles",
+      "eventSlug": "64575-utlimate-blue-corner-battles",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-27T00:00:00.000Z",
+      "opponent": "Gauge Young",
+      "opponentSlug": "213571-gauge-young",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "KC Fighting Alliance 34",
+      "eventSlug": "60419-kc-fighting-alliance-34",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-08T00:00:00.000Z",
+      "opponent": "Ralph Hernandez III",
+      "opponentSlug": "190165-ralph-hernandez",
+      "result": "win",
+      "method": "sub",
+      "event": "Shamrock FC 319",
+      "eventSlug": "59201-shamrock-fc-319",
+      "round": 1,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2019-04-06T00:00:00.000Z",
+      "opponent": "Jake Wilson",
+      "opponentSlug": "202548-jake-wilson",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Shamrock FC 317",
+      "eventSlug": "58770-shamrock-fc-317",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-01T00:00:00.000Z",
+      "opponent": "Jonah Roberts",
+      "opponentSlug": "203331-jonah-roberts",
+      "result": "win",
+      "method": "sub",
+      "event": "KC Fighting Alliance 31",
+      "eventSlug": "55976-kc-fighting-alliance-31",
+      "round": 1,
+      "timeInRound": "2:31"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:12:38.298Z"
+}

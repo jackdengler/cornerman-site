@@ -1,0 +1,154 @@
+{
+  "slug": "129778-olivia-parker",
+  "name": "Olivia Parker",
+  "nickname": "Phoenix",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": 173,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1982-01-26",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/129778-olivia-parker",
+  "recentFights": [
+    {
+      "date": "2022-03-04T00:00:00.000Z",
+      "opponent": "Michelle Montague",
+      "opponentSlug": "237486-michell-montague",
+      "result": "loss",
+      "method": "sub",
+      "event": "PFL Challenger Series 2022",
+      "eventSlug": "85964-pfl-challenger-series-3",
+      "round": 1,
+      "timeInRound": "3:57"
+    },
+    {
+      "date": "2021-04-09T00:00:00.000Z",
+      "opponent": "Cat Zingano",
+      "opponentSlug": "cat-zingano-alpha",
+      "result": "loss",
+      "method": "sub",
+      "event": "Bellator 256",
+      "eventSlug": "76829-bellator-mma",
+      "round": 1,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2020-07-02T00:00:00.000Z",
+      "opponent": "Chelsea Chandler",
+      "opponentSlug": "134566-chelsea-chandler",
+      "result": "loss",
+      "method": "sub",
+      "event": "Invicta FC 40",
+      "eventSlug": "70103-invicta-fc-40-ducote-vs-lima",
+      "round": 1,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2020-01-10T00:00:00.000Z",
+      "opponent": "Carolyn Biskup",
+      "opponentSlug": "75000-carolyn-biskup",
+      "result": "win",
+      "method": "sub",
+      "event": "Valor Fighting Challenge 68",
+      "eventSlug": "64638-valor-fighting-challenge-68-fight-night-at-the-joe-12",
+      "round": 1,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2019-07-12T00:00:00.000Z",
+      "opponent": "Jamie Driver",
+      "opponentSlug": "30554-jamie-driver",
+      "result": "win",
+      "method": "other",
+      "event": "Valor Fighting Challenge 61",
+      "eventSlug": "61085-valor-fighting-challenge-61",
+      "round": 2,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2019-05-18T00:00:00.000Z",
+      "opponent": "Taryn Conklin",
+      "opponentSlug": "59304-taryn-conkin",
+      "result": "win",
+      "method": "sub",
+      "event": "Valor Fighting Challenge 59",
+      "eventSlug": "60347-valor-fighting-challenge-59",
+      "round": 2,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2019-01-19T00:00:00.000Z",
+      "opponent": "Jennifer Morgan",
+      "opponentSlug": "208786-jennifer-morgan",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Valor Fighting Challenge 54",
+      "eventSlug": "57792-valor-fighting-challenge-54",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-01-06T00:00:00.000Z",
+      "opponent": "Erica Camp",
+      "opponentSlug": "174729-erica-camp",
+      "result": "win",
+      "method": "other",
+      "event": "Valor Fights 47",
+      "eventSlug": "49936-valor-fights-47",
+      "round": 1,
+      "timeInRound": "2:04"
+    },
+    {
+      "date": "2017-10-14T00:00:00.000Z",
+      "opponent": "Stevana Shouvely",
+      "opponentSlug": "116264-stevana-shouvely",
+      "result": "win",
+      "method": "other",
+      "event": "Virginia Cage Fighting Championships",
+      "eventSlug": "46540-fall-brawl-2",
+      "round": 2,
+      "timeInRound": "4:10"
+    },
+    {
+      "date": "2017-06-30T00:00:00.000Z",
+      "opponent": "Tracie Starks",
+      "opponentSlug": "160883-tracie-starks",
+      "result": "win",
+      "method": "tko",
+      "event": "Fight Night at the Shed",
+      "eventSlug": "46698-fight-night-at-the-shed",
+      "round": 1,
+      "timeInRound": "0:23"
+    },
+    {
+      "date": "2016-09-17T00:00:00.000Z",
+      "opponent": "Kristy Stafford",
+      "opponentSlug": "139710-kristy-stafford",
+      "result": "win",
+      "method": "sub",
+      "event": "Apex Fights 12",
+      "eventSlug": "41662-apex-fights-12",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-09T00:00:00.000Z",
+      "opponent": "Tiaira Fitzgerald",
+      "opponentSlug": "129777-tiaira-fitzgerald",
+      "result": "win",
+      "method": "tko",
+      "event": "Warrior FC: Bloody Harlan Havoc",
+      "eventSlug": "38315-warrior-fc-bloody-harlan-havoc",
+      "round": 1,
+      "timeInRound": "2:51"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:54:50.338Z"
+}

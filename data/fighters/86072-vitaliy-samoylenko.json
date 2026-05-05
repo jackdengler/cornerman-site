@@ -1,0 +1,81 @@
+{
+  "slug": "86072-vitaliy-samoylenko",
+  "name": "Vitaliy Samoylenko",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 4,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/86072-vitaliy-samoylenko",
+  "recentFights": [
+    {
+      "date": "2015-04-25T00:00:00.000Z",
+      "opponent": "Zachary Buros-Nash",
+      "opponentSlug": "92449-zachary-buros-nash",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "3 River Throwdown 7",
+      "eventSlug": "32191-3-river-throwdown-vii",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-21T00:00:00.000Z",
+      "opponent": "Montel Jackson",
+      "opponentSlug": "89335-montel-jackson",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-02-21T00:00:00.000Z",
+      "opponent": "Jesse Rogge",
+      "opponentSlug": "50014-jesse-rogge",
+      "result": "win",
+      "method": "sub",
+      "event": "KOTC: Public Enemy",
+      "eventSlug": "29668-kotc-public-enemy",
+      "round": 1,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2014-11-21T00:00:00.000Z",
+      "opponent": "Jake Wyman",
+      "opponentSlug": "79604-jake-wyman",
+      "result": "win",
+      "method": "other",
+      "event": "KOTC: Industrial Strength",
+      "eventSlug": "28216-kotc-industrial-strength",
+      "round": 1,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2014-03-22T00:00:00.000Z",
+      "opponent": "Brandon Hoyt",
+      "opponentSlug": "131171-brandon-hoyt",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:38:13.107Z"
+}

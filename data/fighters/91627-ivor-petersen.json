@@ -1,0 +1,48 @@
+{
+  "slug": "91627-ivor-petersen",
+  "name": "Ivor Petersen",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 0,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/91627-ivor-petersen",
+  "recentFights": [
+    {
+      "date": "2013-04-06T00:00:00.000Z",
+      "opponent": "Frans Steyn",
+      "opponentSlug": "88686-frans-steyn",
+      "result": "win",
+      "method": "other",
+      "event": "Cape Fight League 3",
+      "eventSlug": "29711-cape-fight-league-3",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-02-04T00:00:00.000Z",
+      "opponent": "Themba Gorimbo",
+      "opponentSlug": "52251-themba-takura-gorimbo",
+      "result": "win",
+      "method": "other",
+      "event": "Cape Fight League 1",
+      "eventSlug": "17199-cape-fight-league-1",
+      "round": 3,
+      "timeInRound": "1:00"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:55:10.240Z"
+}

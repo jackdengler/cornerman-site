@@ -1,0 +1,59 @@
+{
+  "slug": "309826-gunner-charbonneau",
+  "name": "Gunner Charbonneau",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1998-08-31",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/309826-gunner-charbonneau",
+  "recentFights": [
+    {
+      "date": "2023-01-21T00:00:00.000Z",
+      "opponent": "Canon Swanson",
+      "opponentSlug": "329282-canon-swanson",
+      "result": "loss",
+      "method": "sub",
+      "event": "Captain's Fight Club 2",
+      "eventSlug": "96210-captain-s-fight-club-2",
+      "round": 2,
+      "timeInRound": "0:46"
+    },
+    {
+      "date": "2022-04-15T00:00:00.000Z",
+      "opponent": "Eric Newman",
+      "opponentSlug": "330537-eric-newman",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 129: Petersen vs. Cortes-Acosta",
+      "eventSlug": "87693-lfa-129-petersen-vs-cortes-acosta",
+      "round": 1,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2021-12-10T00:00:00.000Z",
+      "opponent": "Anteze Howard",
+      "opponentSlug": "257011-anteze-howard",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 120: Cantuária vs. Horth",
+      "eventSlug": "84181-lfa-120-cantuaria-vs-horth",
+      "round": 2,
+      "timeInRound": "1:30"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:41:05.589Z"
+}

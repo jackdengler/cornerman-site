@@ -1,0 +1,220 @@
+{
+  "slug": "73288-jordan-williams",
+  "name": "Jordan Williams",
+  "nickname": "Bomaye",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 192,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1990-10-13",
+  "nationality": "Menomonee Falls, Wisconsin",
+  "url": "https://www.tapology.com/fightcenter/fighters/73288-jordan-williams",
+  "recentFights": [
+    {
+      "date": "2021-11-06T00:00:00.000Z",
+      "opponent": "Ian Machado Garry",
+      "opponentSlug": "171377-ian-garry",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 268: Usman vs. Covington 2",
+      "eventSlug": "81402-ufc-268-usman-vs-covington-2",
+      "round": 1,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2021-07-24T00:00:00.000Z",
+      "opponent": "Mickey Gall",
+      "opponentSlug": "63731-mickey-gall",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "78477-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "2:57"
+    },
+    {
+      "date": "2020-10-03T00:00:00.000Z",
+      "opponent": "Nassourdine Imavov",
+      "opponentSlug": "125404-nassourdine-imavov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "71155-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-15T00:00:00.000Z",
+      "opponent": "Gregory Rodrigues",
+      "opponentSlug": "78681-gregory-rodrigues-robocop",
+      "result": "win",
+      "method": "other",
+      "event": "Contender Series 2020",
+      "eventSlug": "70395-contender-series-2020-week-7",
+      "round": 1,
+      "timeInRound": "2:19"
+    },
+    {
+      "date": "2019-07-23T00:00:00.000Z",
+      "opponent": "Ramazan Kuramagomedov",
+      "opponentSlug": "121626-ramazan-kuramagomedov",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Contender Series 2019",
+      "eventSlug": "59498-dw-s-contender-series-2019-week-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-27T00:00:00.000Z",
+      "opponent": "Diego Herzog",
+      "opponentSlug": "53558-diego-herzog-nosferatu",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 220",
+      "eventSlug": "58028-bellator",
+      "round": 3,
+      "timeInRound": "1:21"
+    },
+    {
+      "date": "2018-06-26T00:00:00.000Z",
+      "opponent": "Tim Caron",
+      "opponentSlug": "35291-tim-caron",
+      "result": "nc",
+      "method": "other",
+      "event": "DW's Contender Series 2018",
+      "eventSlug": "52731-dw-s-contender-series-2018-week-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-12T00:00:00.000Z",
+      "opponent": "Brandon Hester",
+      "opponentSlug": "66165-brandon-hester",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 199",
+      "eventSlug": "50795-bellator-198-bader-vs-king-mo",
+      "round": 2,
+      "timeInRound": "1:11"
+    },
+    {
+      "date": "2018-03-24T00:00:00.000Z",
+      "opponent": "Alex Lopez",
+      "opponentSlug": "25485-alex-lopez",
+      "result": "win",
+      "method": "tko",
+      "event": "Dragon House 28",
+      "eventSlug": "51901-dragon-house-28",
+      "round": 1,
+      "timeInRound": "0:24"
+    },
+    {
+      "date": "2016-04-30T00:00:00.000Z",
+      "opponent": "Dwight Grant",
+      "opponentSlug": "17476-dwight-grant",
+      "result": "loss",
+      "method": "other",
+      "event": "Conquer FC 2",
+      "eventSlug": "37778-cfc-2",
+      "round": 1,
+      "timeInRound": "2:47"
+    },
+    {
+      "date": "2015-11-19T00:00:00.000Z",
+      "opponent": "Preston Scharf",
+      "opponentSlug": "8624-preston-scharf",
+      "result": "win",
+      "method": "sub",
+      "event": "Tachi PF 25",
+      "eventSlug": "36800-tachi-pf-25-fall-brawl",
+      "round": 1,
+      "timeInRound": "1:42"
+    },
+    {
+      "date": "2015-10-10T00:00:00.000Z",
+      "opponent": "Richard Rigmaden",
+      "opponentSlug": "19329-richard-rigmaden",
+      "result": "win",
+      "method": "other",
+      "event": "West Coast FC 15",
+      "eventSlug": "35087-west-coast-fc-15-griffin-vs-terrado",
+      "round": 1,
+      "timeInRound": "0:46"
+    },
+    {
+      "date": "2015-02-05T00:00:00.000Z",
+      "opponent": "Cris Barber",
+      "opponentSlug": "25474-cris-barber",
+      "result": "win",
+      "method": "other",
+      "event": "Tachi PF 22",
+      "eventSlug": "29286-tachi-pf-22-champions-collide-ii",
+      "round": 1,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2014-06-19T00:00:00.000Z",
+      "opponent": "Rodrigo Vargas",
+      "opponentSlug": "66226-rodrigo-vargas-kacula",
+      "result": "loss",
+      "method": "other",
+      "event": "Tachi PF 19",
+      "eventSlug": "24715-tachi-pf-19-throwback-thursday",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2014-01-25T00:00:00.000Z",
+      "opponent": "JC Llamas",
+      "opponentSlug": "52091-jc-llamas",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "TWC 19: Blackout",
+      "eventSlug": "23078-twc-19-blackout",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-06-22T00:00:00.000Z",
+      "opponent": "Sean Choice",
+      "opponentSlug": "13496-sean-choice",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-04-22T00:00:00.000Z",
+      "opponent": "Corey Wyatt",
+      "opponentSlug": "35819-corey-wyatt-agnarr",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-08-27T00:00:00.000Z",
+      "opponent": "Max Griffin",
+      "opponentSlug": "25437-max-griffin",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:57:42.699Z"
+}

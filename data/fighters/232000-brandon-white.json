@@ -1,0 +1,132 @@
+{
+  "slug": "232000-brandon-white",
+  "name": "Brandon White",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/232000-brandon-white",
+  "recentFights": [
+    {
+      "date": "2026-05-01T00:00:00.000Z",
+      "opponent": "Joseph Bird",
+      "opponentSlug": "402815-joseph-bird",
+      "result": null,
+      "method": "other",
+      "event": "Eternal MMA 105",
+      "eventSlug": "140911-eternal-mma-105",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-20T00:00:00.000Z",
+      "opponent": "Alexander Ponoris",
+      "opponentSlug": "232001-alex-poniris",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Showdown 24",
+      "eventSlug": "133661-showdown-24",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-07-06T00:00:00.000Z",
+      "opponent": "Lucas Cannon",
+      "opponentSlug": "437333-lucas-cannon",
+      "result": "loss",
+      "method": "sub",
+      "event": "Samurai Fight Series 11",
+      "eventSlug": "128792-samurai-fight-series-11",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-10T00:00:00.000Z",
+      "opponent": "John Loughhead",
+      "opponentSlug": "181067-john-loughhead",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "102621-2023-gamma-oceania-championships",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-04-29T00:00:00.000Z",
+      "opponent": "Marwan Rahiki",
+      "opponentSlug": "388487-marwan-rahiki",
+      "result": "loss",
+      "method": "tko",
+      "event": "Superfight MMA 19",
+      "eventSlug": "101609-superfight-mma",
+      "round": 3,
+      "timeInRound": "0:16"
+    },
+    {
+      "date": "2023-02-25T00:00:00.000Z",
+      "opponent": "Louis Pasin",
+      "opponentSlug": "315985-louie-pasin",
+      "result": "win",
+      "method": "other",
+      "event": "Diamondback FC 16",
+      "eventSlug": "96714-diamondback-fc-16",
+      "round": 1,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2022-03-12T00:00:00.000Z",
+      "opponent": "Levi Collins",
+      "opponentSlug": "257882-levi-collins",
+      "result": "loss",
+      "method": "sub",
+      "event": "Diamondback FC 13",
+      "eventSlug": "87020-diamondback-fc-13",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-29T00:00:00.000Z",
+      "opponent": "Steve Brown",
+      "opponentSlug": "143303-steve-brown",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Diamondback FC 10",
+      "eventSlug": "64254-diamondback-fc-10-night-of-champions",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-29T00:00:00.000Z",
+      "opponent": "Lucas Machado",
+      "opponentSlug": "238868-lucas-machado",
+      "result": "win",
+      "method": "tko",
+      "event": "Urban Fight Night 21",
+      "eventSlug": "63143-urban-fight-night-21",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-08-02T00:00:00.000Z",
+      "opponent": "Paul Adams",
+      "opponentSlug": "196258-paul-adams",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "New Generation Cage MMA Series 3",
+      "eventSlug": "62033-new-generation-cage-series-3",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:58:48.263Z"
+}

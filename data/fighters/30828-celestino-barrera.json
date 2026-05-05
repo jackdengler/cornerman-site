@@ -1,0 +1,59 @@
+{
+  "slug": "30828-celestino-barrera",
+  "name": "Celestino Barrera",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1982-08-15",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/30828-celestino-barrera",
+  "recentFights": [
+    {
+      "date": "2012-07-20T00:00:00.000Z",
+      "opponent": "Le'Ville Simpson",
+      "opponentSlug": "27434-leville-simpson",
+      "result": "loss",
+      "method": "dec-majority",
+      "event": "Cage Wars 2012",
+      "eventSlug": "14724-cage-wars",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-12-11T00:00:00.000Z",
+      "opponent": "Ryan Spann",
+      "opponentSlug": "20908-ryan-spann",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-11-06T00:00:00.000Z",
+      "opponent": "Luke Flores",
+      "opponentSlug": "45080-jose-flores",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:51:26.899Z"
+}

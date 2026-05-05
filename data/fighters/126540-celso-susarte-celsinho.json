@@ -1,0 +1,33 @@
+{
+  "slug": "126540-celso-susarte-celsinho",
+  "name": "Celso Susarte",
+  "nickname": "Celsinho",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": "1992-02-28",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/126540-celso-susarte-celsinho",
+  "recentFights": [
+    {
+      "date": "2016-02-13T00:00:00.000Z",
+      "opponent": "Márcio Barbosa",
+      "opponentSlug": "126539-marcio-ticot",
+      "result": "loss",
+      "method": "other",
+      "event": "NEC 23",
+      "eventSlug": "37767-nec-23",
+      "round": 1,
+      "timeInRound": "3:04"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:57:09.946Z"
+}

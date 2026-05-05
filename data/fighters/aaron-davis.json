@@ -1,0 +1,231 @@
+{
+  "slug": "aaron-davis",
+  "name": "Aaron Davis",
+  "nickname": "Lil Mule",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 183,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1977-01-27",
+  "nationality": "Pt Lavaka,Texas, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/aaron-davis",
+  "recentFights": [
+    {
+      "date": "2025-03-07T00:00:00.000Z",
+      "opponent": "Roman Pizzolato",
+      "opponentSlug": "31518-roman-pizzolato-the-italian-lion",
+      "result": "win",
+      "method": "tko",
+      "event": "Titan Combat Championship 4",
+      "eventSlug": "121413-titan-combat-championship-4",
+      "round": 1,
+      "timeInRound": "0:41"
+    },
+    {
+      "date": "2018-01-26T00:00:00.000Z",
+      "opponent": "Darrell Wood",
+      "opponentSlug": "6653-darrell-wood",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 32: Allen vs. Hernandez",
+      "eventSlug": "49701-lfa-32-allen-vs-hernandez",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-22T00:00:00.000Z",
+      "opponent": "Darrell Wood",
+      "opponentSlug": "6653-darrell-wood",
+      "result": "win",
+      "method": "sub",
+      "event": "Legacy FC 58",
+      "eventSlug": "39448-legacy-fc-58-spann-vs-drysdale",
+      "round": 1,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2016-03-25T00:00:00.000Z",
+      "opponent": "Ryan Spann",
+      "opponentSlug": "20908-ryan-spann",
+      "result": "loss",
+      "method": "sub",
+      "event": "Legacy FC 52",
+      "eventSlug": "38132-legacy-fc-52-page-vs-schnell",
+      "round": 1,
+      "timeInRound": "2:53"
+    },
+    {
+      "date": "2015-11-13T00:00:00.000Z",
+      "opponent": "Edgar Verdin",
+      "opponentSlug": "16358-edgar-verdin-manos-de-piedra",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Legacy FC 48",
+      "eventSlug": "35535-legacy-fc-48-leite-vs-spann",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-21T00:00:00.000Z",
+      "opponent": "Jason Anderson",
+      "opponentSlug": "jason-anderson",
+      "result": "win",
+      "method": "sub",
+      "event": "USA MMA 24: Border War 4",
+      "eventSlug": "23450-usa-mma-24-border-war-4",
+      "round": 1,
+      "timeInRound": "1:55"
+    },
+    {
+      "date": "2013-05-18T00:00:00.000Z",
+      "opponent": "Brandon Farran",
+      "opponentSlug": "12953-brandan-farran",
+      "result": "loss",
+      "method": "tko",
+      "event": "IXFA 9: Delta Downs",
+      "eventSlug": "17963-ixfa-9-delta-downs",
+      "round": 1,
+      "timeInRound": "3:56"
+    },
+    {
+      "date": "2012-08-18T00:00:00.000Z",
+      "opponent": "Carl Perry",
+      "opponentSlug": "19525-carl-perry",
+      "result": "win",
+      "method": "other",
+      "event": "USA MMA 19: Border War 3",
+      "eventSlug": "15481-border-war-3-lake-charles-vs-the-world",
+      "round": 1,
+      "timeInRound": "1:11"
+    },
+    {
+      "date": "2012-07-07T00:00:00.000Z",
+      "opponent": "Rakim Cleveland",
+      "opponentSlug": "14025-rankim-cleveland",
+      "result": "win",
+      "method": "dec-split",
+      "event": "IXFA 8: Delta Downs",
+      "eventSlug": "13859-ixfa-8-delta-downs",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-04-16T00:00:00.000Z",
+      "opponent": "Jeremy McCombs",
+      "opponentSlug": "18646-jeremy-mccombs",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-01-14T00:00:00.000Z",
+      "opponent": "Drew Raticheck",
+      "opponentSlug": "20870-drew-raticheck",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-09-30T00:00:00.000Z",
+      "opponent": "Tim Ruberg",
+      "opponentSlug": "tim-ruberg",
+      "result": "loss",
+      "method": "sub",
+      "event": "Bellator 31",
+      "eventSlug": "bellator-31",
+      "round": 1,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2010-02-27T00:00:00.000Z",
+      "opponent": "Darrell Wood",
+      "opponentSlug": "6653-darrell-wood",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-02-28T00:00:00.000Z",
+      "opponent": "Aaron Garcia",
+      "opponentSlug": "12127-aaron-garcia",
+      "result": "loss",
+      "method": "other",
+      "event": "USA MMA 6: Night Of Champions 1",
+      "eventSlug": "5850-usa-mma-6-night-of-champions-1",
+      "round": 1,
+      "timeInRound": "2:28"
+    },
+    {
+      "date": "2008-10-10T00:00:00.000Z",
+      "opponent": "Wigberto Diaz",
+      "opponentSlug": "90680-wigberto-diaz",
+      "result": "win",
+      "method": "other",
+      "event": "USA MMA 4: Border War 1",
+      "eventSlug": "29328-usa-mma-4-border-war-1",
+      "round": 1,
+      "timeInRound": "3:38"
+    },
+    {
+      "date": "2007-09-01T00:00:00.000Z",
+      "opponent": "Brandon Wooten",
+      "opponentSlug": "90681-brandon-wooten",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IXFA 2",
+      "eventSlug": "1149-ixfa-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-03-24T00:00:00.000Z",
+      "opponent": "Chris Reed",
+      "opponentSlug": "10782-charles-reed",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2006-12-16T00:00:00.000Z",
+      "opponent": "Ralph Kelly",
+      "opponentSlug": "ralph-kelly",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ISCF: Rampage In The Cage 4",
+      "eventSlug": "5448-iscf-rampage-in-the-cage-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2006-10-21T00:00:00.000Z",
+      "opponent": "John Castellano",
+      "opponentSlug": "90683-john-castellano",
+      "result": "win",
+      "method": "tko",
+      "event": "ISCF: Rampage In The Cage 3",
+      "eventSlug": "29330-iscf-rampage-in-the-cage-3",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:50:58.250Z"
+}

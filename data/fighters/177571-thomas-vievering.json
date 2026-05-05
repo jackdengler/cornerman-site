@@ -1,0 +1,198 @@
+{
+  "slug": "177571-thomas-vievering",
+  "name": "Thomas Vievering",
+  "nickname": "The Redeemed",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1995-02-08",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/177571-thomas-vievering",
+  "recentFights": [
+    {
+      "date": "2025-03-23T00:00:00.000Z",
+      "opponent": "Brennon Mellgren",
+      "opponentSlug": "190951-brennon-mellgren",
+      "result": "loss",
+      "method": "sub",
+      "event": "Anthony Pettis FC 16",
+      "eventSlug": "122516-anthony-pettis-fc-16-milwaukee-fight-night",
+      "round": 1,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2023-11-19T00:00:00.000Z",
+      "opponent": "Mohammed Maali",
+      "opponentSlug": "56548-mohammed-maali",
+      "result": "loss",
+      "method": "sub",
+      "event": "Anthony Pettis FC 9",
+      "eventSlug": "105198-anthony-pettis-fc-9-milwaukee-fight-night-iii",
+      "round": 1,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2023-10-06T00:00:00.000Z",
+      "opponent": "Alejandro Gomez",
+      "opponentSlug": "280892-alejandro-gomez",
+      "result": "loss",
+      "method": "sub",
+      "event": "FAC 21",
+      "eventSlug": "104509-fac-21",
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2022-11-05T00:00:00.000Z",
+      "opponent": "Angelo Pettis",
+      "opponentSlug": "312303-angelo-pettis",
+      "result": "loss",
+      "method": "tko",
+      "event": "B2 Fighting Series 177",
+      "eventSlug": "93110-b2-fighting-series-177-iowa",
+      "round": 1,
+      "timeInRound": "2:23"
+    },
+    {
+      "date": "2022-09-24T00:00:00.000Z",
+      "opponent": "Judah Bolser",
+      "opponentSlug": "287855-judah-bolser",
+      "result": "win",
+      "method": "sub",
+      "event": "True Revelation 48",
+      "eventSlug": "91436-true-revelation-48",
+      "round": 1,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2022-04-16T00:00:00.000Z",
+      "opponent": "Dearion Stokes",
+      "opponentSlug": "317911-dearion-stokes",
+      "result": "loss",
+      "method": "other",
+      "event": "B2 Fighting Series 156",
+      "eventSlug": "86531-b2-fighting-series-156-iowa",
+      "round": 1,
+      "timeInRound": "0:59"
+    },
+    {
+      "date": "2022-01-15T00:00:00.000Z",
+      "opponent": "Abbas Abasov",
+      "opponentSlug": "247102-abbas-abasov",
+      "result": "loss",
+      "method": "sub",
+      "event": "A-Town Throwdown 17",
+      "eventSlug": "82739-a-town-throwdown-xvii",
+      "round": 1,
+      "timeInRound": "1:41"
+    },
+    {
+      "date": "2021-05-21T00:00:00.000Z",
+      "opponent": "Colten Larson",
+      "opponentSlug": "204502-colten-larson",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 108: Fremd vs. Rodrigues",
+      "eventSlug": "79065-lfa-108-fremd-vs-rodrigues",
+      "round": 2,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2020-10-17T00:00:00.000Z",
+      "opponent": "Caleb Gall",
+      "opponentSlug": "96194-caleb-gall",
+      "result": "loss",
+      "method": "sub",
+      "event": "Caged Aggression 28",
+      "eventSlug": "72934-caged-aggression-28-unstoppable-day-2",
+      "round": 1,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2020-03-07T00:00:00.000Z",
+      "opponent": "Santana Acosta",
+      "opponentSlug": "85224-santana-acosta",
+      "result": "win",
+      "method": "sub",
+      "event": "A-Town Throwdown 16",
+      "eventSlug": "65315-a-town-throwdown-16",
+      "round": 1,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2019-12-21T00:00:00.000Z",
+      "opponent": "Daniel Pogreban",
+      "opponentSlug": "235193-daniel-pogreban",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Mecca 16",
+      "eventSlug": "64511-mecca-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-18T00:00:00.000Z",
+      "opponent": "Hunter Pederson",
+      "opponentSlug": "29757-hunter-pederson-grizzly",
+      "result": "win",
+      "method": "sub",
+      "event": "No Mercy 10",
+      "eventSlug": "59197-no-mercy-10",
+      "round": 1,
+      "timeInRound": "0:26"
+    },
+    {
+      "date": "2018-12-15T00:00:00.000Z",
+      "opponent": "Victor Cabadas",
+      "opponentSlug": "75640-victor-cabadas",
+      "result": "win",
+      "method": "sub",
+      "event": "A-Town Throwdown 14",
+      "eventSlug": "55974-a-town-throwdown-14",
+      "round": 1,
+      "timeInRound": "0:42"
+    },
+    {
+      "date": "2018-09-21T00:00:00.000Z",
+      "opponent": "Jimmy Padilla",
+      "opponentSlug": "46538-jimmy-padilla",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 50: Allen vs. Hiley",
+      "eventSlug": "54853-lfa-50-allen-vs-hiley",
+      "round": 1,
+      "timeInRound": "2:11"
+    },
+    {
+      "date": "2018-06-01T00:00:00.000Z",
+      "opponent": "Tyler Manning",
+      "opponentSlug": "135428-tyler-manning",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 41: Moisés vs. Peterson",
+      "eventSlug": "52492-lfa-41-moises-vs-peterson",
+      "round": 1,
+      "timeInRound": "0:57"
+    },
+    {
+      "date": "2018-03-02T00:00:00.000Z",
+      "opponent": "Zak Flessas",
+      "opponentSlug": "96056-zal-flessas",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 34: Watley vs. Jenkins",
+      "eventSlug": "50421-lfa-34-watley-vs-jenkins",
+      "round": 1,
+      "timeInRound": "2:57"
+    }
+  ],
+  "lastVerified": "2026-04-18T09:06:03.272Z"
+}

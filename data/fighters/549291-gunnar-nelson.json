@@ -1,0 +1,37 @@
+{
+  "slug": "549291-gunnar-nelson",
+  "name": "Gunnar Nelson",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 0,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/549291-gunnar-nelson",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Erick Medrano",
+      "opponentSlug": "461138-erick-medrano",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 231: Lozej vs. Ibarra",
+      "eventSlug": "140675-lfa-231-trembley-vs-johns",
+      "round": 1,
+      "timeInRound": "1:58"
+    }
+  ],
+  "lastVerified": "2026-04-18T06:00:14.674Z"
+}

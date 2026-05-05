@@ -1,0 +1,231 @@
+{
+  "slug": "74023-geisyele-nascimento",
+  "name": "Geisyele Nascimento",
+  "nickname": "Geisy",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 9,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 156,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1995-08-03",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/74023-geisyele-nascimento",
+  "recentFights": [
+    {
+      "date": "2026-05-09T00:00:00.000Z",
+      "opponent": "Bediha Tacyildiz",
+      "opponentSlug": "533610-bediha-tacyildiz",
+      "result": null,
+      "method": "other",
+      "event": "Vendetta Fight Nights 51",
+      "eventSlug": "139737-vendetta-fight-nights-51",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Nathália Pletz",
+      "opponentSlug": "471639-nathalia-pletz",
+      "result": null,
+      "method": "other",
+      "event": "Curitiba Fight Pro 13",
+      "eventSlug": "141219-curitiba-fight-pro-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-07-20T00:00:00.000Z",
+      "opponent": "Josy Fabriely",
+      "opponentSlug": "244969-josy-maldita",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Unified Grappling & MMA 1",
+      "eventSlug": "130907-unified-grappling-mma-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-10-26T00:00:00.000Z",
+      "opponent": "Andressa Rocha",
+      "opponentSlug": "46707-andressa-araujo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "SFT Combat: Outubro Rosa VII",
+      "eventSlug": "117487-sft-52-outubro-rosa-vii",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-10-21T00:00:00.000Z",
+      "opponent": "Fernanda Barbosa",
+      "opponentSlug": "158853-fernanda-barbosa",
+      "result": "loss",
+      "method": "other",
+      "event": "SFT 43: Outubro Rosa 6",
+      "eventSlug": "106011-sft-43-outubro-rosa-6",
+      "round": 5,
+      "timeInRound": "3:47"
+    },
+    {
+      "date": "2023-08-26T00:00:00.000Z",
+      "opponent": "Keila Menezes",
+      "opponentSlug": "314909-keila-menezes",
+      "result": "win",
+      "method": "tko",
+      "event": "Gladiator CF 63",
+      "eventSlug": "104266-gladiator-cf-63",
+      "round": 1,
+      "timeInRound": "1:17"
+    },
+    {
+      "date": "2023-05-12T00:00:00.000Z",
+      "opponent": "Elane Macario",
+      "opponentSlug": "237353-elane-macario-braba",
+      "result": "win",
+      "method": "tko",
+      "event": "Fight Music Show",
+      "eventSlug": "101192-fight-music-show-fight-night",
+      "round": 1,
+      "timeInRound": "3:14"
+    },
+    {
+      "date": "2022-12-11T00:00:00.000Z",
+      "opponent": "Tatiane Ramos",
+      "opponentSlug": "203965-tatiane-ramos-dama-de-ferro",
+      "result": "win",
+      "method": "other",
+      "event": "True Time 14",
+      "eventSlug": "99282-true-time-14",
+      "round": 1,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2022-08-28T00:00:00.000Z",
+      "opponent": "Khete Silva",
+      "opponentSlug": "251323-khete-silva",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-10T00:00:00.000Z",
+      "opponent": "Vitória Ferreira",
+      "opponentSlug": "76715-vitoria-ferreira",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cidade da Luta 8",
+      "eventSlug": "90376-cidade-da-luta-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-11-28T00:00:00.000Z",
+      "opponent": "Erika Sousa",
+      "opponentSlug": "140731-erika-alcantara-mulher-maravilha",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Forze FC 1",
+      "eventSlug": "74214-forze-fc-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-28T00:00:00.000Z",
+      "opponent": "Fernanda Caetano",
+      "opponentSlug": "120792-fernanda-caetano",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Curitiba Top Fight 12",
+      "eventSlug": "63446-curitiba-top-fight-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-01T00:00:00.000Z",
+      "opponent": "Deise Rocha",
+      "opponentSlug": "49911-deise-lee",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Curitiba Top Fight 11",
+      "eventSlug": "45912-curitiba-top-fight-11-girls-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-03-12T00:00:00.000Z",
+      "opponent": "Marta Souza",
+      "opponentSlug": "69239-marta-souza-gladiadora",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-06-20T00:00:00.000Z",
+      "opponent": "Ariane da Silva",
+      "opponentSlug": "57056-ariane-lipski",
+      "result": "loss",
+      "method": "other",
+      "event": "Copa Striker's House 50",
+      "eventSlug": "33360-copa-strikers-house-50",
+      "round": 1,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2014-12-13T00:00:00.000Z",
+      "opponent": "Anne Karoline",
+      "opponentSlug": "39618-anne-karoline-karol-mutante",
+      "result": "loss",
+      "method": "other",
+      "event": "PFE 12",
+      "eventSlug": "28388-pfe-12",
+      "round": 1,
+      "timeInRound": "0:59"
+    },
+    {
+      "date": "2014-10-25T00:00:00.000Z",
+      "opponent": "Mariana Morais",
+      "opponentSlug": "68151-mariana-morais",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-07-05T00:00:00.000Z",
+      "opponent": "Taila Santos",
+      "opponentSlug": "74022-taila-santos",
+      "result": "loss",
+      "method": "other",
+      "event": "UOC 1",
+      "eventSlug": "25248-uoc-1",
+      "round": 2,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2014-06-14T00:00:00.000Z",
+      "opponent": "Karine Silva",
+      "opponentSlug": "69225-karine-silva-killer",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:10:47.148Z"
+}

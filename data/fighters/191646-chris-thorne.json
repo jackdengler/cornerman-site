@@ -1,0 +1,103 @@
+{
+  "slug": "191646-chris-thorne",
+  "name": "Chris Thorne",
+  "nickname": "The Journeyman",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 5,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 175,
+  "reachCm": 183,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/191646-chris-thorne",
+  "recentFights": [
+    {
+      "date": "2024-03-16T00:00:00.000Z",
+      "opponent": "Yusuke Sato",
+      "opponentSlug": "359015-yusuke-sato",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 83",
+      "eventSlug": "108185-eternal-mma-83",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-22T00:00:00.000Z",
+      "opponent": "Matt Hackett",
+      "opponentSlug": "244465-mathew-hackett",
+      "result": "win",
+      "method": "sub",
+      "event": "PGFL 1",
+      "eventSlug": "79282-proving-grounds-fight-league-1",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-10-31T00:00:00.000Z",
+      "opponent": "Tasar Malone",
+      "opponentSlug": "224448-tasar-malone",
+      "result": "loss",
+      "method": "sub",
+      "event": "Eternal MMA 54",
+      "eventSlug": "72850-eternal-mma-54",
+      "round": 1,
+      "timeInRound": "2:32"
+    },
+    {
+      "date": "2019-03-23T00:00:00.000Z",
+      "opponent": "Colby Thicknesse",
+      "opponentSlug": "166902-colby-thicknesse",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 42",
+      "eventSlug": "57693-eternal-mma-42",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-24T00:00:00.000Z",
+      "opponent": "Cody Watego",
+      "opponentSlug": "86709-cody-watego",
+      "result": "loss",
+      "method": "sub",
+      "event": "Eternal MMA 39",
+      "eventSlug": "56404-eternal-mma-39",
+      "round": 3,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2018-09-15T00:00:00.000Z",
+      "opponent": "Joe Marsden",
+      "opponentSlug": "137025-joe-marsden",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 36",
+      "eventSlug": "54440-eternal-mma-36",
+      "round": 2,
+      "timeInRound": "0:54"
+    },
+    {
+      "date": "2018-07-14T00:00:00.000Z",
+      "opponent": "Ethan Wulf",
+      "opponentSlug": "186339-ethan-wulf",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 35",
+      "eventSlug": "53798-eternal-35",
+      "round": 2,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:56:44.973Z"
+}

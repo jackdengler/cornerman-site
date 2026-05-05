@@ -1,0 +1,165 @@
+{
+  "slug": "347348-viktor-kovac",
+  "name": "Viktor Kováč",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Slovak Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/347348-viktor-kovac",
+  "recentFights": [
+    {
+      "date": "2025-12-28T00:00:00.000Z",
+      "opponent": "Alex Hutyra",
+      "opponentSlug": "347893-alex-hutyra",
+      "result": "loss",
+      "method": "sub",
+      "event": "OKTAGON 81: Fleury vs. Buday",
+      "eventSlug": "118940-oktagon",
+      "round": 2,
+      "timeInRound": "2:52"
+    },
+    {
+      "date": "2025-03-29T00:00:00.000Z",
+      "opponent": "Alex Vörös",
+      "opponentSlug": "267972-alex-voros",
+      "result": "win",
+      "method": "other",
+      "event": "PML 14",
+      "eventSlug": "123472-pml-14",
+      "round": 1,
+      "timeInRound": "0:18"
+    },
+    {
+      "date": "2025-02-01T00:00:00.000Z",
+      "opponent": "Emir-Can Al",
+      "opponentSlug": "273407-emir-can-al",
+      "result": "loss",
+      "method": "other",
+      "event": "OKTAGON 66: Engizek vs. Oniszczuk",
+      "eventSlug": "118928-oktagon",
+      "round": 1,
+      "timeInRound": "3:47"
+    },
+    {
+      "date": "2024-04-02T00:00:00.000Z",
+      "opponent": "Orestis Constantinides",
+      "opponentSlug": "434392-orestis-constantinides",
+      "result": "loss",
+      "method": "other",
+      "event": "IMMAF",
+      "eventSlug": "110781-2024-immaf-european-championships",
+      "round": 1,
+      "timeInRound": "2:03"
+    },
+    {
+      "date": "2024-03-15T00:00:00.000Z",
+      "opponent": "David Saint-Vil",
+      "opponentSlug": "433796-david-saint-vil",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "SOMMA: European Championship 2024",
+      "eventSlug": "110724-european-championship-2024",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-15T00:00:00.000Z",
+      "opponent": "Borivoje Stanić",
+      "opponentSlug": "433798-borivoje-stanic",
+      "result": "win",
+      "method": "other",
+      "event": "SOMMA: European Championship 2024",
+      "eventSlug": "110724-european-championship-2024",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-01-20T00:00:00.000Z",
+      "opponent": "Jan Švagerko",
+      "opponentSlug": "374223-jan-svagerko",
+      "result": "loss",
+      "method": "sub",
+      "event": "FABRIQ MMA 4",
+      "eventSlug": "104878-fabriq-mma-4",
+      "round": 2,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2023-03-25T00:00:00.000Z",
+      "opponent": "Simon Stanko",
+      "opponentSlug": "289115-simon-stanko",
+      "result": "win",
+      "method": "tko",
+      "event": "TFN 18: Talents",
+      "eventSlug": "97104-tfn-18-talents",
+      "round": 2,
+      "timeInRound": "2:16"
+    },
+    {
+      "date": "2023-03-25T00:00:00.000Z",
+      "opponent": "Zbyněk Vlček",
+      "opponentSlug": "325213-zbynek-vlcek",
+      "result": "loss",
+      "method": "tko",
+      "event": "MAMMAL 38",
+      "eventSlug": "96977-mammal-38",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-12T00:00:00.000Z",
+      "opponent": "Brajan Przysiwek",
+      "opponentSlug": "226215-brajan-przysiwek",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "2022 IMMAF World Championships",
+      "eventSlug": "97165-2022-immaf-world-championships-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-28T00:00:00.000Z",
+      "opponent": "David Hervias",
+      "opponentSlug": "341568-david-hervias",
+      "result": "loss",
+      "method": "tko",
+      "event": "IMMAF",
+      "eventSlug": "92752-2022-immaf-european-championships-day-2",
+      "round": 1,
+      "timeInRound": "1:19"
+    },
+    {
+      "date": "2022-09-03T00:00:00.000Z",
+      "opponent": "Martin Kozák",
+      "opponentSlug": "349322-martin-kozak",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MAMMAL 31: Summer Fight Night",
+      "eventSlug": "92504-mammal-31-summer-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-13T00:00:00.000Z",
+      "opponent": "Radomír Chovan",
+      "opponentSlug": "299230-rado-chovan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Way of Warrior 7",
+      "eventSlug": "92042-way-of-warrior-7",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:11:24.823Z"
+}

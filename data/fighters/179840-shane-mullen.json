@@ -1,0 +1,102 @@
+{
+  "slug": "179840-shane-mullen",
+  "name": "Shane Mullen",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Ireland",
+  "url": "https://www.tapology.com/fightcenter/fighters/179840-shane-mullen",
+  "recentFights": [
+    {
+      "date": "2026-04-16T00:00:00.000Z",
+      "opponent": "Eoghan Masoliver",
+      "opponentSlug": "255929-eoghan-masoliver",
+      "result": "loss",
+      "method": "sub",
+      "event": "PFL Belfast",
+      "round": 1,
+      "timeInRound": "1:55"
+    },
+    {
+      "date": "2025-06-14T00:00:00.000Z",
+      "opponent": "Sarayut Sornchai",
+      "opponentSlug": "99107-sarayut-somchai",
+      "result": "win",
+      "method": "other",
+      "event": "TCF 1",
+      "round": 1,
+      "timeInRound": "0:28"
+    },
+    {
+      "date": "2023-06-11T00:00:00.000Z",
+      "opponent": "Damien McKenna",
+      "opponentSlug": "304545-damien-mckenna",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Clan Wars 47",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-25T00:00:00.000Z",
+      "opponent": "Ulrik Vangsvik",
+      "opponentSlug": "316597-airlock-vangsvik",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Clan Wars 45",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-09T00:00:00.000Z",
+      "opponent": "Alex Josan",
+      "opponentSlug": "290279-alex-josan",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage Legacy 15",
+      "round": 1,
+      "timeInRound": "0:26"
+    },
+    {
+      "date": "2019-06-08T00:00:00.000Z",
+      "opponent": "Taka Mhandu",
+      "opponentSlug": "198097-taka-mandhu",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Clan Wars 35",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-07T00:00:00.000Z",
+      "opponent": "Stuart Graham",
+      "opponentSlug": "67835-stuart-graham",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Akuma Fighting Championship 12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-10T00:00:00.000Z",
+      "opponent": "Richie Stack",
+      "opponentSlug": "100958-richie-stack",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Ring Championship 8",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-16T23:59:31.093Z"
+}

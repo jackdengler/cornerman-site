@@ -1,0 +1,132 @@
+{
+  "slug": "65792-tulio-marcos",
+  "name": "Tulio Marcos",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 9,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 184,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/65792-tulio-marcos",
+  "recentFights": [
+    {
+      "date": "2022-10-29T00:00:00.000Z",
+      "opponent": "Marcos Átila",
+      "opponentSlug": "106367-talo-guerra",
+      "result": "loss",
+      "method": "other",
+      "event": "Gladiators Fight Night 5",
+      "eventSlug": "100532-gladiators-fight-night-5",
+      "round": 1,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2020-12-12T00:00:00.000Z",
+      "opponent": "Rafael Celestino",
+      "opponentSlug": "136909-rafael-celestino-rafao",
+      "result": "loss",
+      "method": "sub",
+      "event": "Gladiators Fight Night 3",
+      "eventSlug": "77664-gladiators-fight-night-3",
+      "round": 1,
+      "timeInRound": "4:34"
+    },
+    {
+      "date": "2019-11-23T00:00:00.000Z",
+      "opponent": "Douglas Rakchal",
+      "opponentSlug": "51131-douglas-rakchal",
+      "result": "loss",
+      "method": "other",
+      "event": "Jungle Fight 98",
+      "eventSlug": "64172-jungle-fight-98",
+      "round": 1,
+      "timeInRound": "4:33"
+    },
+    {
+      "date": "2018-12-08T00:00:00.000Z",
+      "opponent": "Daniel Chicão",
+      "opponentSlug": "56494-daniel-chico",
+      "result": "win",
+      "method": "other",
+      "event": "Federação Fight 9",
+      "eventSlug": "58702-federacao-fight-9",
+      "round": 2,
+      "timeInRound": "3:38"
+    },
+    {
+      "date": "2017-09-16T00:00:00.000Z",
+      "opponent": "Marco Tulio",
+      "opponentSlug": "165750-marco-tulio-silva",
+      "result": "loss",
+      "method": "sub",
+      "event": "Federação Fight 5",
+      "eventSlug": "48010-federao-fight-5",
+      "round": 1,
+      "timeInRound": "4:25"
+    },
+    {
+      "date": "2017-04-22T00:00:00.000Z",
+      "opponent": "Johny Vieira",
+      "opponentSlug": "44276-johnny-vieira",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fortuna Fighters 3",
+      "eventSlug": "45341-fortuna-fighters-3",
+      "round": 1,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2017-03-19T00:00:00.000Z",
+      "opponent": "Eliseu Matsuura",
+      "opponentSlug": "51133-eliseu-matsuura-japa",
+      "result": "loss",
+      "method": "tko",
+      "event": "All Fights 1",
+      "eventSlug": "44708-all-fights-1",
+      "round": 1,
+      "timeInRound": "0:43"
+    },
+    {
+      "date": "2016-04-15T00:00:00.000Z",
+      "opponent": "Alex de Paula",
+      "opponentSlug": "121272-alex-de-paula-lekao",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-12-19T00:00:00.000Z",
+      "opponent": "Joaquim Ferreira",
+      "opponentSlug": "joaquim-ferreira-mamute",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-09-21T00:00:00.000Z",
+      "opponent": "Luis Henrique Barbosa",
+      "opponentSlug": "15398-luiz-henrique-kbeltnho",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:03:44.190Z"
+}

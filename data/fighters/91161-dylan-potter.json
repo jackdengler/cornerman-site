@@ -1,0 +1,253 @@
+{
+  "slug": "91161-dylan-potter",
+  "name": "Dylan Potter",
+  "nickname": "Big Poppa",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 9,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": 196,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1995-01-14",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/91161-dylan-potter",
+  "recentFights": [
+    {
+      "date": "2025-08-23T00:00:00.000Z",
+      "opponent": "Jamal Pogues",
+      "opponentSlug": "60287-jamal-pogues",
+      "result": "loss",
+      "method": "sub",
+      "event": "Tuff-N-Uff 147",
+      "eventSlug": "131173-tuff-n-uff-147",
+      "round": 3,
+      "timeInRound": "3:06"
+    },
+    {
+      "date": "2024-11-09T00:00:00.000Z",
+      "opponent": "Justin Sumter",
+      "opponentSlug": "35974-justin-sumter",
+      "result": "loss",
+      "method": "sub",
+      "event": "CES 79: Balletto Jr. vs. Quintanilha",
+      "eventSlug": "116767-ces-79",
+      "round": 1,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2024-03-08T00:00:00.000Z",
+      "opponent": "Phillip Latu",
+      "opponentSlug": "303053-phillip-latu",
+      "result": "loss",
+      "method": "other",
+      "event": "CFFC 130: Galvan vs. Dorzhiev",
+      "eventSlug": "110089-cffc-130",
+      "round": 2,
+      "timeInRound": "0:57"
+    },
+    {
+      "date": "2022-08-05T00:00:00.000Z",
+      "opponent": "Marcelo Nunes",
+      "opponentSlug": "60531-marcelo-nunes",
+      "result": "loss",
+      "method": "sub",
+      "event": "PFL 7: 2022 Playoffs",
+      "eventSlug": "87838-pfl-2022-7-playoffs",
+      "round": 1,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2021-09-14T00:00:00.000Z",
+      "opponent": "Łukasz Brzeski",
+      "opponentSlug": "90654-ukasz-brzeski",
+      "result": "nc",
+      "method": "other",
+      "event": "Contender Series 2021",
+      "eventSlug": "78722-contender-series-2021",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-24T00:00:00.000Z",
+      "opponent": "Nick Mills",
+      "opponentSlug": "139497-nick-mills",
+      "result": "win",
+      "method": "sub",
+      "event": "CageSport 61",
+      "eventSlug": "80894-cagesport-61",
+      "round": 2,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2020-11-20T00:00:00.000Z",
+      "opponent": "Myron Dennis",
+      "opponentSlug": "myron-dennis",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "LFA 95: Pereira vs. Powell",
+      "eventSlug": "73846-lfa-95-browne-vs-estrazulas",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-18T00:00:00.000Z",
+      "opponent": "Charles Brown",
+      "opponentSlug": "22893-dingo-brown",
+      "result": "win",
+      "method": "other",
+      "event": "WXC 85: Warrior Wednesday 10",
+      "eventSlug": "64528-wxc-85-warrior-wednesday-10",
+      "round": 1,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2019-04-27T00:00:00.000Z",
+      "opponent": "Sua Tuani",
+      "opponentSlug": "125896-sua-tuani",
+      "result": "win",
+      "method": "sub",
+      "event": "CageSport 56",
+      "eventSlug": "58455-cagesport-56",
+      "round": 1,
+      "timeInRound": "2:49"
+    },
+    {
+      "date": "2019-02-23T00:00:00.000Z",
+      "opponent": "Sua Tuani",
+      "opponentSlug": "125896-sua-tuani",
+      "result": "win",
+      "method": "other",
+      "event": "Reign FC 3",
+      "eventSlug": "57294-reign-fc-3",
+      "round": 3,
+      "timeInRound": "0:26"
+    },
+    {
+      "date": "2018-09-15T00:00:00.000Z",
+      "opponent": "Anthony Hamilton",
+      "opponentSlug": "19031-anthony-hamilton",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Dominate FC 2",
+      "eventSlug": "53058-dominate-fc",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-02-24T00:00:00.000Z",
+      "opponent": "Jared Torgeson",
+      "opponentSlug": "14189-jared-torgeson",
+      "result": "win",
+      "method": "sub",
+      "event": "Dominate FC",
+      "eventSlug": "49421-dominate-fc",
+      "round": 4,
+      "timeInRound": "2:42"
+    },
+    {
+      "date": "2017-08-05T00:00:00.000Z",
+      "opponent": "Ronny Markes",
+      "opponentSlug": "14128-Ronny-Markes",
+      "result": "loss",
+      "method": "sub",
+      "event": "KOTC: Fractured",
+      "eventSlug": "47161-kotc-fractured",
+      "round": 1,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2017-05-27T00:00:00.000Z",
+      "opponent": "Nick Biron",
+      "opponentSlug": "35739-nick-biron",
+      "result": "win",
+      "method": "sub",
+      "event": "KOTC: Head Strong",
+      "eventSlug": "45221-kotc-headstrong",
+      "round": 1,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2016-10-22T00:00:00.000Z",
+      "opponent": "Mike Persons",
+      "opponentSlug": "29141-mike-persons",
+      "result": "loss",
+      "method": "other",
+      "event": "CageSport 42",
+      "eventSlug": "42335-sfl-america",
+      "round": 3,
+      "timeInRound": "3:19"
+    },
+    {
+      "date": "2016-07-23T00:00:00.000Z",
+      "opponent": "Thomas Hoeper",
+      "opponentSlug": "52439-thomas-hoeper",
+      "result": "loss",
+      "method": "other",
+      "event": "CageSport 41",
+      "eventSlug": "40891-super-fight-league-50-seattle-vs-los-angeles",
+      "round": 2,
+      "timeInRound": "4:27"
+    },
+    {
+      "date": "2016-06-18T00:00:00.000Z",
+      "opponent": "Frankie Orr",
+      "opponentSlug": "29227-frankie-orr",
+      "result": "win",
+      "method": "sub",
+      "event": "Reign FC",
+      "eventSlug": "40641-reign-fc",
+      "round": 1,
+      "timeInRound": "3:10"
+    },
+    {
+      "date": "2016-02-20T00:00:00.000Z",
+      "opponent": "Rob Burgess",
+      "opponentSlug": "91180-rob-burgess",
+      "result": "win",
+      "method": "sub",
+      "event": "CageSport 39",
+      "eventSlug": "38205-super-fight-league-46",
+      "round": 2,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2015-12-12T00:00:00.000Z",
+      "opponent": "Artiom Cula",
+      "opponentSlug": "39925-artiom-cula",
+      "result": "win",
+      "method": "tko",
+      "event": "CageSport 38",
+      "eventSlug": "37183-super-fight-league-45",
+      "round": 1,
+      "timeInRound": "2:41"
+    },
+    {
+      "date": "2015-09-26T00:00:00.000Z",
+      "opponent": "John Aparicio",
+      "opponentSlug": "74477-john-aparicio",
+      "result": "win",
+      "method": "sub",
+      "event": "CageSport 37",
+      "eventSlug": "28969-super-fight-league-america-6-presented-by-cagesport",
+      "round": 1,
+      "timeInRound": "1:34"
+    },
+    {
+      "date": "2015-02-21T00:00:00.000Z",
+      "opponent": "Nathan Yale",
+      "opponentSlug": "87728-nathan-yale",
+      "result": "win",
+      "method": "tko",
+      "event": "The Redemption 2",
+      "eventSlug": "29491-the-redemption-2",
+      "round": 1,
+      "timeInRound": "2:21"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:40:32.031Z"
+}

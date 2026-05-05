@@ -1,0 +1,242 @@
+{
+  "slug": "55110-mikko-ahmala",
+  "name": "Mikko Ahmala",
+  "nickname": "Maniac",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 9,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1992-04-08",
+  "nationality": "Finland",
+  "url": "https://www.tapology.com/fightcenter/fighters/55110-mikko-ahmala",
+  "recentFights": [
+    {
+      "date": "2025-12-19T00:00:00.000Z",
+      "opponent": "Mateusz Sosnowski",
+      "opponentSlug": "172775-mateusz-sosnowski",
+      "result": "loss",
+      "method": "sub",
+      "event": "Strife 17",
+      "eventSlug": "136919-strife-17",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-26T00:00:00.000Z",
+      "opponent": "Albert Odzimkowski",
+      "opponentSlug": "50072-albert-odzimkowski-zloty",
+      "result": "loss",
+      "method": "other",
+      "event": "Strife 15",
+      "eventSlug": "132338-strife-15",
+      "round": 1,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2024-11-23T00:00:00.000Z",
+      "opponent": "Andrian Murug",
+      "opponentSlug": "149701-andrian-murug",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CAGE 64",
+      "eventSlug": "120332-cage-64",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-02-10T00:00:00.000Z",
+      "opponent": "Michael Dubois",
+      "opponentSlug": "27314-mikael-dubois",
+      "result": "loss",
+      "method": "other",
+      "event": "CAGE 61",
+      "eventSlug": "109142-cage-61",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-02T00:00:00.000Z",
+      "opponent": "Rafał Błachuta",
+      "opponentSlug": "34432-rafal-blachuta",
+      "result": "nc",
+      "method": "other",
+      "event": "CAGE 59",
+      "eventSlug": "100430-cage-59",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-11T00:00:00.000Z",
+      "opponent": "Evasio D'Onofrio",
+      "opponentSlug": "38094-evasio-donofrio",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CAGE 57",
+      "eventSlug": "96141-cage-57",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-23T00:00:00.000Z",
+      "opponent": "Joachim Tollefsen",
+      "opponentSlug": "67022-joachim-tollefsen",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CAGE MMA 54",
+      "eventSlug": "87503-cage-mma-54",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-12T00:00:00.000Z",
+      "opponent": "Maxim Mikhteev",
+      "opponentSlug": "74014-maxim-mikhteev",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Total Fight Night 4",
+      "eventSlug": "63760-total-fight-night-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-02-17T00:00:00.000Z",
+      "opponent": "Vojtech Garba",
+      "opponentSlug": "145826-vojtech-garba",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage 42",
+      "eventSlug": "51048-cage-42",
+      "round": 2,
+      "timeInRound": "4:02"
+    },
+    {
+      "date": "2017-11-18T00:00:00.000Z",
+      "opponent": "Mika Kuronen",
+      "opponentSlug": "96080-mika-kuronen",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FNF 15",
+      "eventSlug": "48720-fnf-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-02-13T00:00:00.000Z",
+      "opponent": "Yannick Carrere",
+      "opponentSlug": "67005-yannick-carrere",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage 34",
+      "eventSlug": "37411-cage-34",
+      "round": 1,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2015-05-16T00:00:00.000Z",
+      "opponent": "Ismail Naurdiev",
+      "opponentSlug": "79755-ismael-naurdiev",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage 30",
+      "eventSlug": "31443-cage-30",
+      "round": 1,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2015-02-28T00:00:00.000Z",
+      "opponent": "Julien Piednoir",
+      "opponentSlug": "74806-julien-piednoir",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage 29",
+      "eventSlug": "29694-cage-29",
+      "round": 2,
+      "timeInRound": "4:08"
+    },
+    {
+      "date": "2014-11-08T00:00:00.000Z",
+      "opponent": "Pierre Chrétien",
+      "opponentSlug": "59195-pierre-chretien",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage 27",
+      "eventSlug": "26717-cage-27",
+      "round": 1,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2014-09-20T00:00:00.000Z",
+      "opponent": "Yacin Daji",
+      "opponentSlug": "38997-yacin-daji",
+      "result": "win",
+      "method": "sub",
+      "event": "Lappeenranta Fight Night 11",
+      "eventSlug": "25787-lappeenranta-fight-night-11",
+      "round": 1,
+      "timeInRound": "0:20"
+    },
+    {
+      "date": "2014-04-05T00:00:00.000Z",
+      "opponent": "Laurent Beranger",
+      "opponentSlug": "67172-laurent-beranger",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage 26",
+      "eventSlug": "23415-cage-26",
+      "round": 1,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2014-02-15T00:00:00.000Z",
+      "opponent": "Ville Vanhanen",
+      "opponentSlug": "40824-ville-vanhanen",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Cage 25",
+      "eventSlug": "21994-cage-25",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-10-19T00:00:00.000Z",
+      "opponent": "Zulfikar Usmanov",
+      "opponentSlug": "47784-zulfikar-usmanov",
+      "result": "loss",
+      "method": "other",
+      "event": "Lappeenranta Fight Night 9",
+      "eventSlug": "20788-lfn-lappeenranta-fight-night-9",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-09-21T00:00:00.000Z",
+      "opponent": "Aleksi Nurminen",
+      "opponentSlug": "55109-aleksi-nurminen",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Cage 23",
+      "eventSlug": "19921-cage-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-12-08T00:00:00.000Z",
+      "opponent": "Fernando Flores",
+      "opponentSlug": "89356-fernando-flores",
+      "result": "loss",
+      "method": "dec-split",
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:09:06.133Z"
+}

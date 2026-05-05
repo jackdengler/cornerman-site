@@ -1,0 +1,242 @@
+{
+  "slug": "62039-arda-adas",
+  "name": "Arda Adas",
+  "nickname": "Boma Ye!",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1992-04-22",
+  "nationality": "Germany",
+  "url": "https://www.tapology.com/fightcenter/fighters/62039-arda-adas",
+  "recentFights": [
+    {
+      "date": "2022-06-18T00:00:00.000Z",
+      "opponent": "Aleksandr Vertko",
+      "opponentSlug": "83472-alexander-vertko",
+      "result": "loss",
+      "method": "other",
+      "event": "NFC 9",
+      "eventSlug": "90359-nfc-9",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-26T00:00:00.000Z",
+      "opponent": "Matouš Kohout",
+      "opponentSlug": "130021-matou-kohout",
+      "result": "loss",
+      "method": "other",
+      "event": "OKTAGON Prime 5",
+      "eventSlug": "85466-oktagon-prime-5",
+      "round": 2,
+      "timeInRound": "3:30"
+    },
+    {
+      "date": "2021-12-04T00:00:00.000Z",
+      "opponent": "Jan Malach",
+      "opponentSlug": "64719-jan-malach",
+      "result": "win",
+      "method": "sub",
+      "event": "OKTAGON 29",
+      "eventSlug": "84142-oktagon-29",
+      "round": 3,
+      "timeInRound": "3:59"
+    },
+    {
+      "date": "2021-07-25T00:00:00.000Z",
+      "opponent": "Benjamin Brander",
+      "opponentSlug": "62483-benjamin-brander",
+      "result": "win",
+      "method": "dec-split",
+      "event": "National Fighting Championship 4",
+      "eventSlug": "77060-national-fighting-championship-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-19T00:00:00.000Z",
+      "opponent": "Ronald Paradeiser",
+      "opponentSlug": "93432-ronald-paradeiser",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 25",
+      "eventSlug": "79498-oktagon-25",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-02-27T00:00:00.000Z",
+      "opponent": "Marko Kisič",
+      "opponentSlug": "78820-marko-kisic",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "GMC Fight Night 5",
+      "eventSlug": "77035-gmc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-02-02T00:00:00.000Z",
+      "opponent": "Louis Glismann",
+      "opponentSlug": "114102-louis-glismann",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "GMC 18",
+      "eventSlug": "56510-gmc-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-01T00:00:00.000Z",
+      "opponent": "Sergey Romanov",
+      "opponentSlug": "55841-sergey-romanov",
+      "result": "loss",
+      "method": "other",
+      "event": "M-1 Challenge 79",
+      "eventSlug": "45114-m-1-challenge-79-shlemenko-vs-halsey",
+      "round": 1,
+      "timeInRound": "4:19"
+    },
+    {
+      "date": "2016-10-15T00:00:00.000Z",
+      "opponent": "Oleg Dadonov",
+      "opponentSlug": "141697-oleg-dadonov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IFO3 Europe",
+      "eventSlug": "40521-ifo3-europe",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-06-03T00:00:00.000Z",
+      "opponent": "Jorge Bezerra",
+      "opponentSlug": "4695-jorge-michelin-michelan",
+      "result": "win",
+      "method": "other",
+      "event": "Final Fight Championship 24",
+      "eventSlug": "39620-final-fight-championship-24-parisyan-vs-ardas",
+      "round": 2,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2016-04-23T00:00:00.000Z",
+      "opponent": "Marcel Quitsch",
+      "opponentSlug": "56878-marcel-quitsch",
+      "result": "win",
+      "method": "other",
+      "event": "Sprawl & Brawl MMA 3",
+      "eventSlug": "37434-sprawl-brawl-mma-3",
+      "round": 3,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2015-10-31T00:00:00.000Z",
+      "opponent": "Sebastian Steinmann",
+      "opponentSlug": "56877-sebastian-steinmann",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Sprawl & Brawl MMA 2",
+      "eventSlug": "35260-sprawl-brawl-mma-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-07-04T00:00:00.000Z",
+      "opponent": "Dustin Stoltzfus",
+      "opponentSlug": "34864-dustin-stoltzfus",
+      "result": "loss",
+      "method": "dq",
+      "event": "We Love MMA 15",
+      "eventSlug": "33726-we-love-mma-15",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-12-20T00:00:00.000Z",
+      "opponent": "Abduraschka Gadschigev",
+      "opponentSlug": "89492-abduraschka-gadschigev",
+      "result": "win",
+      "method": "other",
+      "event": "We Love MMA 11",
+      "eventSlug": "28458-we-love-mma-11",
+      "round": 1,
+      "timeInRound": "3:56"
+    },
+    {
+      "date": "2013-02-23T00:00:00.000Z",
+      "opponent": "Michael Bahr",
+      "opponentSlug": "66407-michael-bahr",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-11-04T00:00:00.000Z",
+      "opponent": "Paul Berdikov",
+      "opponentSlug": "37049-paul-berdikov-tooth-fairy",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-09-29T00:00:00.000Z",
+      "opponent": "Adam Lewandowski",
+      "opponentSlug": "52293-adam-lewandowski",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-01-29T00:00:00.000Z",
+      "opponent": "Veselin Dimitrov",
+      "opponentSlug": "44802-veselin-dimitrov",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-12-11T00:00:00.000Z",
+      "opponent": "Georgios Serganis",
+      "opponentSlug": "69142-georgios-serganis-jogge",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-07-03T00:00:00.000Z",
+      "opponent": "Gino Rogalla",
+      "opponentSlug": "124931-gino-rogalla",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:07:39.770Z"
+}

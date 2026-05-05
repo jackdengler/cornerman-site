@@ -1,0 +1,154 @@
+{
+  "slug": "157689-ahmad-halimson",
+  "name": "Ahmad Halimson",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 4,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1996-12-02",
+  "nationality": "Afghanistan",
+  "url": "https://www.tapology.com/fightcenter/fighters/157689-ahmad-halimson",
+  "recentFights": [
+    {
+      "date": "2026-01-31T00:00:00.000Z",
+      "opponent": "Jan Malach",
+      "opponentSlug": "64719-jan-malach",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 83: Samsonidse vs. Machaev",
+      "eventSlug": "134546-oktagon-83-stuttgart",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-06-28T00:00:00.000Z",
+      "opponent": "Tomáš Cigánik",
+      "opponentSlug": "199593-tomas-ciganik",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "OKTAGON 73: Eckerlin vs. Pukač",
+      "eventSlug": "118933-oktagon",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-14T00:00:00.000Z",
+      "opponent": "Marinos Tzolis",
+      "opponentSlug": "409735-marinos-tzolis",
+      "result": "win",
+      "method": "sub",
+      "event": "XCC 1",
+      "eventSlug": "117616-xcc-1",
+      "round": 1,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2023-06-24T00:00:00.000Z",
+      "opponent": "Gökhan Aksu",
+      "opponentSlug": "104264-gkhan-asku",
+      "result": "loss",
+      "method": "other",
+      "event": "INNFERNO Fighting Championship 6",
+      "eventSlug": "98112-innferno-fighting-championship-6",
+      "round": 1,
+      "timeInRound": "0:41"
+    },
+    {
+      "date": "2022-11-19T00:00:00.000Z",
+      "opponent": "Qaisar Amer Chel",
+      "opponentSlug": "131182-qaisar-amer-chel",
+      "result": "win",
+      "method": "other",
+      "event": "We Love MMA 62",
+      "eventSlug": "94264-we-love-mma-62",
+      "round": 1,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2022-04-02T00:00:00.000Z",
+      "opponent": "Iman Samarghandi",
+      "opponentSlug": "150082-iman-samarghandi",
+      "result": "win",
+      "method": "other",
+      "event": "GMC Fight Night 14",
+      "eventSlug": "90348-gmc-27",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-10-17T00:00:00.000Z",
+      "opponent": "Arthur Demonceaux",
+      "opponentSlug": "169142-arthur-demonceaux",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Super League MMA 1",
+      "eventSlug": "72650-super-league-mma",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-08T00:00:00.000Z",
+      "opponent": "Sylwester Hasny",
+      "opponentSlug": "66394-sylwester-hasny",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "We Love MMA 44",
+      "eventSlug": "51012-we-love-mma-45",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-30T00:00:00.000Z",
+      "opponent": "Kirill Surikow",
+      "opponentSlug": "190008-kirill-surikow",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "GMC 15",
+      "eventSlug": "53566-gmc-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-16T00:00:00.000Z",
+      "opponent": "Komron Zuhurov",
+      "opponentSlug": "126564-komron-zuhurov",
+      "result": "win",
+      "method": "sub",
+      "event": "We Love MMA 36",
+      "eventSlug": "45987-we-love-mma-36",
+      "round": 1,
+      "timeInRound": "2:37"
+    },
+    {
+      "date": "2017-09-16T00:00:00.000Z",
+      "opponent": "Phil Arnold",
+      "opponentSlug": "161448-phil-arnold",
+      "result": "win",
+      "method": "other",
+      "event": "Sprawl & Brawl MMA 6",
+      "eventSlug": "46918-sprawl-brawl-mma-6",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-27T00:00:00.000Z",
+      "opponent": "Georg Schierz",
+      "opponentSlug": "101572-georg-schierz",
+      "result": "win",
+      "method": "sub",
+      "event": "Sprawl & Brawl MMA 5",
+      "eventSlug": "45757-sprawl-brawl-mma-5",
+      "round": 1,
+      "timeInRound": "4:16"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:07:17.784Z"
+}

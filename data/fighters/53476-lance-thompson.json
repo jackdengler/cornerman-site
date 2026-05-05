@@ -1,0 +1,198 @@
+{
+  "slug": "53476-lance-thompson",
+  "name": "Lance Thompson",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 9,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/53476-lance-thompson",
+  "recentFights": [
+    {
+      "date": "2021-08-27T00:00:00.000Z",
+      "opponent": "Sedriques Dumas",
+      "opponentSlug": "188574-sedriques-dumas",
+      "result": "loss",
+      "method": "tko",
+      "event": "AKA 17",
+      "eventSlug": "81605-aka-17",
+      "round": 2,
+      "timeInRound": "4:17"
+    },
+    {
+      "date": "2019-06-15T00:00:00.000Z",
+      "opponent": "Eric Scallan",
+      "opponentSlug": "10772-eric-scallan",
+      "result": "loss",
+      "method": "sub",
+      "event": "Bayou FC 38",
+      "eventSlug": "61002-bfc-38",
+      "round": 1,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2019-03-16T00:00:00.000Z",
+      "opponent": "Tyler Hill",
+      "opponentSlug": "59679-tyler-hill",
+      "result": "win",
+      "method": "sub",
+      "event": "Gulf Coast MMA",
+      "eventSlug": "58246-gulf-coast-mma-brawlroom-beatdown-3",
+      "round": 1,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2018-03-10T00:00:00.000Z",
+      "opponent": "Tony Jenkins",
+      "opponentSlug": "67277-tony-jenkins",
+      "result": "loss",
+      "method": "other",
+      "event": "Rumble At RAXX 26",
+      "eventSlug": "51772-rumble-at-raxxx-26",
+      "round": 1,
+      "timeInRound": "4:46"
+    },
+    {
+      "date": "2018-01-27T00:00:00.000Z",
+      "opponent": "Christian Fulgium",
+      "opponentSlug": "christian-fulgium",
+      "result": "win",
+      "method": "sub",
+      "event": "WFC 82",
+      "eventSlug": "49801-wfc-82",
+      "round": 1,
+      "timeInRound": "3:27"
+    },
+    {
+      "date": "2017-05-13T00:00:00.000Z",
+      "opponent": "Thomas Webb",
+      "opponentSlug": "32412-thomas-webb",
+      "result": "loss",
+      "method": "sub",
+      "event": "WFC 72",
+      "eventSlug": "45480-wfc-72",
+      "round": 1,
+      "timeInRound": "4:31"
+    },
+    {
+      "date": "2010-11-11T00:00:00.000Z",
+      "opponent": "Lanny Dardar",
+      "opponentSlug": "11945-lanny-dardar",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-02-20T00:00:00.000Z",
+      "opponent": "Robert Thompson",
+      "opponentSlug": "3875-robert-thompson",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-08-01T00:00:00.000Z",
+      "opponent": "Colin McKee",
+      "opponentSlug": "5279-colin-mckee-the-gift",
+      "result": "loss",
+      "method": "sub",
+      "event": "No Love Entertainment",
+      "eventSlug": "5848-no-love-entertainment",
+      "round": 1,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2009-06-27T00:00:00.000Z",
+      "opponent": "Colin McKee",
+      "opponentSlug": "5279-colin-mckee-the-gift",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-05-09T00:00:00.000Z",
+      "opponent": "Robert Thompson",
+      "opponentSlug": "3875-robert-thompson",
+      "result": "loss",
+      "method": "sub",
+      "event": "No Love Entertainment",
+      "eventSlug": "13257-no-love-entertainment-return-of-nightmare-on-the-northshore",
+      "round": 2,
+      "timeInRound": "0:52"
+    },
+    {
+      "date": "2009-03-21T00:00:00.000Z",
+      "opponent": "Alexander Ducksworth",
+      "opponentSlug": "13123-alexander-ducksworth",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-12-08T00:00:00.000Z",
+      "opponent": "Brandon Brown",
+      "opponentSlug": "7595-brandon-brown",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-08-25T00:00:00.000Z",
+      "opponent": "Chris Salinas",
+      "opponentSlug": "108325-chris-salinas",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-03-24T00:00:00.000Z",
+      "opponent": "Gary Hancock",
+      "opponentSlug": "8312-gary-hancock",
+      "result": "loss",
+      "method": "sub",
+      "event": "Python's Punishers 2",
+      "eventSlug": "30366-python-s-punishers-2-team-warrior-vs-the-world",
+      "round": 1,
+      "timeInRound": "3:15"
+    },
+    {
+      "date": "2006-10-14T00:00:00.000Z",
+      "opponent": "Randy Fields",
+      "opponentSlug": "23012-randy-fields",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:53:16.105Z"
+}

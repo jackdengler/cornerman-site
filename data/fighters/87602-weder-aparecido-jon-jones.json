@@ -1,0 +1,231 @@
+{
+  "slug": "87602-weder-aparecido-jon-jones",
+  "name": "Weder Aparecido",
+  "nickname": "Jon Jones",
+  "aliases": [],
+  "recordPro": {
+    "wins": 12,
+    "losses": 10,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1989-01-21",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/87602-weder-aparecido-jon-jones",
+  "recentFights": [
+    {
+      "date": "2024-03-30T00:00:00.000Z",
+      "opponent": "Rony Henrique",
+      "opponentSlug": "141729-rony-henrique-ratinho",
+      "result": "loss",
+      "method": "tko",
+      "event": "Souza Combat MV 2",
+      "eventSlug": "112527-souza-combat-mv-2",
+      "round": 2,
+      "timeInRound": "4:55"
+    },
+    {
+      "date": "2023-10-14T00:00:00.000Z",
+      "opponent": "Derick Borges",
+      "opponentSlug": "187654-derick-borges",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Souza Combat MV 1",
+      "eventSlug": "106517-souza-combat-mv",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-19T00:00:00.000Z",
+      "opponent": "Leonardo Ribeiro",
+      "opponentSlug": "84691-leonardo-ribeiro",
+      "result": "win",
+      "method": "sub",
+      "event": "Samurai Fight 4",
+      "eventSlug": "104179-samuray-fight-4",
+      "round": 1,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2019-11-09T00:00:00.000Z",
+      "opponent": "Matheus Mendes",
+      "opponentSlug": "157883-matheus-mendes",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-11T00:00:00.000Z",
+      "opponent": "Willyam Pereira",
+      "opponentSlug": "157376-willian-pereira-da-silva-willyam-pitbull",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-07T00:00:00.000Z",
+      "opponent": "Raniere Silva",
+      "opponentSlug": "58524-raniere-silva",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "NP Fight 9: Gold Segunda Edição",
+      "eventSlug": "53292-np-fight-9-gold-segunda-edicao",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-11T00:00:00.000Z",
+      "opponent": "Jafel Filho",
+      "opponentSlug": "46690-jafel-cavalcante-filho",
+      "result": "loss",
+      "method": "sub",
+      "event": "Shooto Brasil 83",
+      "eventSlug": "53099-shooto-brasil-83",
+      "round": 1,
+      "timeInRound": "4:15"
+    },
+    {
+      "date": "2017-12-09T00:00:00.000Z",
+      "opponent": "Mikael dos Anjos",
+      "opponentSlug": "157868-mikael-dos-anjos-cowboy",
+      "result": "win",
+      "method": "sub",
+      "event": "Spartacus Combate 2",
+      "eventSlug": "50029-spartacus-combate-2",
+      "round": 1,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2017-10-20T00:00:00.000Z",
+      "opponent": "Wesley Targino",
+      "opponentSlug": "136402-wesley-cesar-sete-vidas",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cruzeiro Fight 1",
+      "eventSlug": "48931-cruzeiro-fight-1",
+      "round": 2,
+      "timeInRound": "4:22"
+    },
+    {
+      "date": "2017-09-24T00:00:00.000Z",
+      "opponent": "Yarlei Junior",
+      "opponentSlug": "139524-yarlei-junio-junior",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Shooto Brasil 75",
+      "eventSlug": "48104-shooto-brasil-75",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-26T00:00:00.000Z",
+      "opponent": "Lucas Fontoura",
+      "opponentSlug": "115471-lucas-fontoura-morcego",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "IFC MMA Combate 8",
+      "eventSlug": "47704-ifc-mma-combate-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-20T00:00:00.000Z",
+      "opponent": "Rafael Silva",
+      "opponentSlug": "157863-rafael-silva",
+      "result": "win",
+      "method": "sub",
+      "event": "CFC Fight 4",
+      "eventSlug": "45823-cfc-fight-4",
+      "round": 1,
+      "timeInRound": "0:40"
+    },
+    {
+      "date": "2016-03-19T00:00:00.000Z",
+      "opponent": "Mario Vieira Jr.",
+      "opponentSlug": "157882-mario-vieira-jr-bross",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-03-05T00:00:00.000Z",
+      "opponent": "Gabriel Pimenta",
+      "opponentSlug": "106110-gabriel-folha",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-12-18T00:00:00.000Z",
+      "opponent": "Matheus Mendes",
+      "opponentSlug": "157883-matheus-mendes",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-12-12T00:00:00.000Z",
+      "opponent": "Mario Vieira Jr.",
+      "opponentSlug": "157882-mario-vieira-jr-bross",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-05-30T00:00:00.000Z",
+      "opponent": "Gilberto Dias",
+      "opponentSlug": "24377-gilberto-dias",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-09-20T00:00:00.000Z",
+      "opponent": "Wilker Leandro",
+      "opponentSlug": "39135-wilker-leandro-wylk",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-07-26T00:00:00.000Z",
+      "opponent": "Wilker Leandro",
+      "opponentSlug": "39135-wilker-leandro-wylk",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:55:35.307Z"
+}

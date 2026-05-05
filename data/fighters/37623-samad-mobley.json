@@ -1,0 +1,110 @@
+{
+  "slug": "37623-samad-mobley",
+  "name": "Samad Mobley",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/37623-samad-mobley",
+  "recentFights": [
+    {
+      "date": "2017-11-17T00:00:00.000Z",
+      "opponent": "Alex Oliveira",
+      "opponentSlug": "127873-alex-oliveira",
+      "result": "loss",
+      "method": "sub",
+      "event": "Ring of Combat 61",
+      "eventSlug": "48257-ring-of-combat-61",
+      "round": 1,
+      "timeInRound": "2:03"
+    },
+    {
+      "date": "2013-06-14T00:00:00.000Z",
+      "opponent": "Leodegario Muniz",
+      "opponentSlug": "48890-leodegario-muniz",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Ring of Combat 45",
+      "eventSlug": "18150-ring-of-combat-45",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-05-15T00:00:00.000Z",
+      "opponent": "Pat Sabatini",
+      "opponentSlug": "29210-pat-sabatini",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-04-17T00:00:00.000Z",
+      "opponent": "Jimbo Hoffman",
+      "opponentSlug": "15059-jimbo-hoffman",
+      "result": "loss",
+      "method": "sub",
+      "event": "AFL 28",
+      "eventSlug": "11672-afl-28",
+      "round": 1,
+      "timeInRound": "0:52"
+    },
+    {
+      "date": "2010-02-27T00:00:00.000Z",
+      "opponent": "Brian Kelleher",
+      "opponentSlug": "13751-Brian-Kelleher",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-12-18T00:00:00.000Z",
+      "opponent": "Brian Kelleher",
+      "opponentSlug": "13751-Brian-Kelleher",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-07-23T00:00:00.000Z",
+      "opponent": "Anthony Facchini",
+      "opponentSlug": "15067-anthony-facchini",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-05-03T00:00:00.000Z",
+      "opponent": "Pat White",
+      "opponentSlug": "8396-pat-white",
+      "result": "win",
+      "method": "dec-split",
+      "event": "New Breed Fighters 13",
+      "eventSlug": "43683-new-breed-fighters-13",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:06:42.327Z"
+}

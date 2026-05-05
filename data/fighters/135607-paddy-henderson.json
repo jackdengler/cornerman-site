@@ -1,0 +1,231 @@
+{
+  "slug": "135607-paddy-henderson",
+  "name": "Paddy McCorry",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 191,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1997-12-09",
+  "nationality": "Ireland",
+  "url": "https://www.tapology.com/fightcenter/fighters/135607-paddy-henderson",
+  "recentFights": [
+    {
+      "date": "2026-02-21T00:00:00.000Z",
+      "opponent": "Dario Bellandi",
+      "opponentSlug": "140683-dario-bellandi",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 200",
+      "eventSlug": "135610-cage-warriors-200",
+      "round": 1,
+      "timeInRound": "2:28"
+    },
+    {
+      "date": "2025-09-16T00:00:00.000Z",
+      "opponent": "In Soo Hwang",
+      "opponentSlug": "161782-in-soo-hwang",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Contender Series 2025",
+      "eventSlug": "128463-contender-series-2025-week-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-31T00:00:00.000Z",
+      "opponent": "Shuki Farage",
+      "opponentSlug": "171715-shuki-farage",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 189",
+      "eventSlug": "126277-cage-warriors-189",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-15T00:00:00.000Z",
+      "opponent": "Tye Palmer",
+      "opponentSlug": "41662-tye-palmer",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 180",
+      "eventSlug": "114647-cage-warriors-180",
+      "round": 1,
+      "timeInRound": "0:46"
+    },
+    {
+      "date": "2024-04-09T00:00:00.000Z",
+      "opponent": "Robert Valentin",
+      "opponentSlug": "136498-robert-valentin",
+      "result": "loss",
+      "method": "sub",
+      "event": "The Ultimate Fighter 32",
+      "eventSlug": "117196-the-ultimate-fighter-32-grasso-vs-shevchenko",
+      "round": 1,
+      "timeInRound": "3:35"
+    },
+    {
+      "date": "2024-03-27T00:00:00.000Z",
+      "opponent": "Mark Hulme",
+      "opponentSlug": "63903-mark-hulme",
+      "result": "win",
+      "method": "sub",
+      "event": "The Ultimate Fighter 32",
+      "eventSlug": "117195-the-ultimate-fighter-32-grasso-vs-shevchenko",
+      "round": 1,
+      "timeInRound": "3:19"
+    },
+    {
+      "date": "2023-10-14T00:00:00.000Z",
+      "opponent": "Samir Kadi",
+      "opponentSlug": "181334-samir-kadi",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Warriors 161",
+      "eventSlug": "99935-cage-warriors-dublin",
+      "round": 3,
+      "timeInRound": "3:41"
+    },
+    {
+      "date": "2023-04-29T00:00:00.000Z",
+      "opponent": "Angus Hewett",
+      "opponentSlug": "311496-angus-hewett",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 153",
+      "eventSlug": "97499-cage-warriors-153-dublin",
+      "round": 1,
+      "timeInRound": "1:59"
+    },
+    {
+      "date": "2022-11-04T00:00:00.000Z",
+      "opponent": "James Webb",
+      "opponentSlug": "124864-james-webb",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 145",
+      "eventSlug": "91960-cage-warriors-145",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-04T00:00:00.000Z",
+      "opponent": "Cathal Manning",
+      "opponentSlug": "146088-cathal-manning",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Conflict 5",
+      "eventSlug": "82334-cage-conflict-5-resistance",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-12T00:00:00.000Z",
+      "opponent": "Petru Plesa",
+      "opponentSlug": "210988-petru-plesa",
+      "result": "win",
+      "method": "tko",
+      "event": "Cage Conflict 4",
+      "eventSlug": "80631-cage-conflict-4-the-resurrection",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-24T00:00:00.000Z",
+      "opponent": "PJ Cunningham",
+      "opponentSlug": "143840-pj-cunningham",
+      "result": "win",
+      "method": "sub",
+      "event": "Akuma Fighting Championship 15",
+      "eventSlug": "63253-akuma-fighting-championship-15",
+      "round": 2,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2019-10-26T00:00:00.000Z",
+      "opponent": "Leon Hill",
+      "opponentSlug": "149133-leon-hill",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Conflict 2",
+      "eventSlug": "60865-cage-conflict-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-09T00:00:00.000Z",
+      "opponent": "Dawid Wisniosz",
+      "opponentSlug": "143838-dawid-wisniosz",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Conflict 1",
+      "eventSlug": "59094-cage-conflict-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-17T00:00:00.000Z",
+      "opponent": "Kenny Patterson",
+      "opponentSlug": "144725-kenny-patterson",
+      "result": "win",
+      "method": "tko",
+      "event": "On Top 21",
+      "eventSlug": "56385-on-top-21",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-13T00:00:00.000Z",
+      "opponent": "Joseph Luciano",
+      "opponentSlug": "136006-joseph-luciano",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "2017 IMMAF World Championships",
+      "eventSlug": "43731-2017-immaf-world-championships-day-1-cage-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-04T00:00:00.000Z",
+      "opponent": "Callum Liston",
+      "opponentSlug": "152506-callum-liston",
+      "result": "loss",
+      "method": "other",
+      "event": "Clan Wars 28",
+      "eventSlug": "45896-clan-wars-28",
+      "round": 3,
+      "timeInRound": "2:47"
+    },
+    {
+      "date": "2017-03-25T00:00:00.000Z",
+      "opponent": "Aidan McCann",
+      "opponentSlug": "124854-aidan-mccann",
+      "result": "win",
+      "method": "tko",
+      "event": "Clan Wars 27",
+      "eventSlug": "43550-clan-wars-27",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2016-07-02T00:00:00.000Z",
+      "opponent": "Sean Paul Power",
+      "opponentSlug": "67301-sean-paul-power",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Akuma Fighting Championship 8",
+      "eventSlug": "39549-akuma-fighting-championship-8",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:57:19.043Z"
+}

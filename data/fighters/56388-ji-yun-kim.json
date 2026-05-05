@@ -1,0 +1,220 @@
+{
+  "slug": "56388-ji-yun-kim",
+  "name": "Ji Yeon Kim",
+  "nickname": "Fire Fist",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 7,
+    "draws": 2
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 183,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1989-10-18",
+  "nationality": "South Korea",
+  "url": "https://www.tapology.com/fightcenter/fighters/56388-ji-yun-kim",
+  "recentFights": [
+    {
+      "date": "2023-05-13T00:00:00.000Z",
+      "opponent": "Mandy Böhm",
+      "opponentSlug": "79758-mandy-bhm",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC on ABC 4",
+      "eventSlug": "98223-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-30T00:00:00.000Z",
+      "opponent": "Joselyne Edwards",
+      "opponentSlug": "98366-yoselin-edwards",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC 277: Peña vs. Nunes 2",
+      "eventSlug": "87975-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-26T00:00:00.000Z",
+      "opponent": "Priscila Cachoeira",
+      "opponentSlug": "128371-priscila-cachoeira",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "83426-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-04T00:00:00.000Z",
+      "opponent": "Molly McCann",
+      "opponentSlug": "57976-molly-mccann",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "79654-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-08-29T00:00:00.000Z",
+      "opponent": "Alexa Grasso",
+      "opponentSlug": "68972-alexa-grasso",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "70174-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-05T00:00:00.000Z",
+      "opponent": "Nadia Kassem",
+      "opponentSlug": "101844-nadia-kassem",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 243: Whittaker vs. Adesanya",
+      "eventSlug": "60318-ufc-243",
+      "round": 2,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2018-11-30T00:00:00.000Z",
+      "opponent": "Antonina Shevchenko",
+      "opponentSlug": "119417-antonia-schevchenko",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "The Ultimate Fighter 28 Finale",
+      "eventSlug": "54136-the-ultimate-fighter-28-finale",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-23T00:00:00.000Z",
+      "opponent": "Melinda Fábián",
+      "opponentSlug": "99460-melinda-fbin",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night 132",
+      "eventSlug": "51323-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-01-27T00:00:00.000Z",
+      "opponent": "Justine Kish",
+      "opponentSlug": "15102-justine-kish",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC on FOX 27",
+      "eventSlug": "49007-ufc-fight-night-125",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-17T00:00:00.000Z",
+      "opponent": "Lucie Pudilová",
+      "opponentSlug": "90345-lucie-pudilova",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night 111",
+      "eventSlug": "44376-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-05T00:00:00.000Z",
+      "opponent": "Tao Li",
+      "opponentSlug": "126550-tao-li",
+      "result": "win",
+      "method": "sub",
+      "event": "TFC 13",
+      "eventSlug": "41844-tfc-13",
+      "round": 2,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2016-05-22T00:00:00.000Z",
+      "opponent": "Jin Tang",
+      "opponentSlug": "57175-jin-tang",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Top FC 11: Top FC vs Kunlun Fight",
+      "eventSlug": "39516-top-fc-11-top-fc-vs-kunlun-fight",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-29T00:00:00.000Z",
+      "opponent": "Takayo Hashi",
+      "opponentSlug": "takayo-hashi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "DEEP JEWELS 9",
+      "eventSlug": "32112-deep-jewels-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-05-02T00:00:00.000Z",
+      "opponent": "Hatice Özyurt",
+      "opponentSlug": "44808-hatice-ozyurt-the-turkish-delight",
+      "result": "win",
+      "method": "sub",
+      "event": "Road FC 23",
+      "eventSlug": "31087-road-fc-23",
+      "round": 2,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2015-02-28T00:00:00.000Z",
+      "opponent": "Miki Miyauchi",
+      "opponentSlug": "73110-miki-miyauchi",
+      "result": "win",
+      "method": "other",
+      "event": "GLADIATOR 81",
+      "eventSlug": "30729-gladiator-81",
+      "round": 2,
+      "timeInRound": "0:18"
+    },
+    {
+      "date": "2014-08-30T00:00:00.000Z",
+      "opponent": "Yukimi Kamikaze",
+      "opponentSlug": "77842-kamikaze-yukimi",
+      "result": "win",
+      "method": "sub",
+      "event": "Road FC 18",
+      "eventSlug": "25934-road-fc-18",
+      "round": 1,
+      "timeInRound": "1:19"
+    },
+    {
+      "date": "2014-03-09T00:00:00.000Z",
+      "opponent": "Takayo Hashi",
+      "opponentSlug": "takayo-hashi",
+      "result": "draw",
+      "method": "other",
+      "event": "Road FC Korea 2",
+      "eventSlug": "22496-road-fc-korea-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-11-24T00:00:00.000Z",
+      "opponent": "Shizuka Sugiyama",
+      "opponentSlug": "11954-shizuka-sugiyama",
+      "result": "draw",
+      "method": "dec-majority",
+      "event": "DEEP Cage Impact 2013",
+      "eventSlug": "20785-deep-cage-impact-2013",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:33:47.905Z"
+}

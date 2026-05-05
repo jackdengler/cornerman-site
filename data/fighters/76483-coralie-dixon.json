@@ -1,0 +1,77 @@
+{
+  "slug": "76483-coralie-dixon",
+  "name": "Coralie Dixon",
+  "nickname": "The Vixen",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 160,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/76483-coralie-dixon",
+  "recentFights": [
+    {
+      "date": "2018-03-17T00:00:00.000Z",
+      "opponent": "Jamey-Lyn Horth",
+      "opponentSlug": "148703-jamey-lyn-horth",
+      "result": "loss",
+      "method": "other",
+      "event": "BFL 54",
+      "eventSlug": "51611-bfl-fight-night-54",
+      "round": 2,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2017-05-27T00:00:00.000Z",
+      "opponent": "Anastasia Nikolakakos",
+      "opponentSlug": "103541-anastasia-nikolakakos",
+      "result": "loss",
+      "method": "tko",
+      "event": "BTC 1: Genesis",
+      "eventSlug": "45482-btc-1-genesis",
+      "round": 2,
+      "timeInRound": "4:05"
+    },
+    {
+      "date": "2016-03-04T00:00:00.000Z",
+      "opponent": "Sashya Churchill",
+      "opponentSlug": "126684-sashya-churchill",
+      "result": "win",
+      "method": "other",
+      "event": "Unified MMA 26",
+      "eventSlug": "37835-unified-mma-26",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2015-06-19T00:00:00.000Z",
+      "opponent": "Chaleur Jones",
+      "opponentSlug": "22781-chaleur-jones",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Havoc FC 9",
+      "eventSlug": "29748-havoc-fc-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-20T00:00:00.000Z",
+      "opponent": "Mallory Gellner",
+      "opponentSlug": "63058-mallory-gellner",
+      "result": "win",
+      "method": "sub",
+      "event": "Hard Knocks 42",
+      "eventSlug": "29441-hard-knocks-42",
+      "round": 1,
+      "timeInRound": "2:49"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:02:25.776Z"
+}

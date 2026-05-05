@@ -1,0 +1,132 @@
+{
+  "slug": "159898-pavel-lamack",
+  "name": "Pavel Lamacký",
+  "nickname": "Maximus",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 181,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Hodonín, Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/159898-pavel-lamack",
+  "recentFights": [
+    {
+      "date": "2023-09-16T00:00:00.000Z",
+      "opponent": "Dominik Podzemský",
+      "opponentSlug": "152863-dominik-podzemsky",
+      "result": "loss",
+      "method": "other",
+      "event": "IAF 9",
+      "eventSlug": "102156-iaf-9",
+      "round": 1,
+      "timeInRound": "2:21"
+    },
+    {
+      "date": "2023-05-26T00:00:00.000Z",
+      "opponent": "Gabriel Török",
+      "opponentSlug": "128404-gabriel-torok",
+      "result": "loss",
+      "method": "sub",
+      "event": "East Pro Fight 23",
+      "eventSlug": "95978-east-pro-fight-23",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-05T00:00:00.000Z",
+      "opponent": "Petr Bartoněk",
+      "opponentSlug": "86333-petr-bartonk",
+      "result": "loss",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-07T00:00:00.000Z",
+      "opponent": "Dominik Humburger",
+      "opponentSlug": "169531-dominik-humburger",
+      "result": "loss",
+      "method": "other",
+      "event": "MMAsters League vol. 3",
+      "eventSlug": "78528-mmasters",
+      "round": 1,
+      "timeInRound": "3:26"
+    },
+    {
+      "date": "2018-03-03T00:00:00.000Z",
+      "opponent": "Václav Mikulášek",
+      "opponentSlug": "116980-vaclav-mikulasek",
+      "result": "loss",
+      "method": "tko",
+      "event": "GCF 43: Big Cage 5",
+      "eventSlug": "50199-gcf-43-big-cage-5",
+      "round": 2,
+      "timeInRound": "2:18"
+    },
+    {
+      "date": "2017-11-11T00:00:00.000Z",
+      "opponent": "Michal Konrád",
+      "opponentSlug": "144016-michal-konrd",
+      "result": "loss",
+      "method": "sub",
+      "event": "Night of Warriors 12",
+      "eventSlug": "49042-night-of-warriors-12",
+      "round": 1,
+      "timeInRound": "4:07"
+    },
+    {
+      "date": "2017-10-21T00:00:00.000Z",
+      "opponent": "Jakub Bahník",
+      "opponentSlug": "142634-jakub-bahnik",
+      "result": "loss",
+      "method": "other",
+      "event": "XFN 5",
+      "eventSlug": "46649-xfn-4",
+      "round": 1,
+      "timeInRound": "1:42"
+    },
+    {
+      "date": "2014-06-21T00:00:00.000Z",
+      "opponent": "Lukáš Jandák",
+      "opponentSlug": "64987-luk-jandk",
+      "result": "loss",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 3,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2013-06-01T00:00:00.000Z",
+      "opponent": "Tomas Dubsky",
+      "opponentSlug": "113317-tomas-dubsky",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-16T00:00:00.000Z",
+      "opponent": "Richard Lang",
+      "opponentSlug": "159899-richard-lang",
+      "result": "loss",
+      "method": "sub",
+      "event": "Gladork Arena 9",
+      "eventSlug": "46247-gladork-arena-9",
+      "round": 1,
+      "timeInRound": "3:13"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:03:32.358Z"
+}

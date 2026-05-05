@@ -1,0 +1,70 @@
+{
+  "slug": "236466-olga-rusina",
+  "name": "Olga Rusina",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1980-04-26",
+  "nationality": "Omsk, Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/236466-olga-rusina",
+  "recentFights": [
+    {
+      "date": "2023-06-02T00:00:00.000Z",
+      "opponent": "Vitaliya Staroivoitova",
+      "opponentSlug": "392007-vitaliya-staroivoitova",
+      "result": "loss",
+      "method": "other",
+      "event": "Russian MMA Championship of Seniors 2023",
+      "eventSlug": "102417-russian-mma-championship-of-seniors-2023-semi-finals",
+      "round": 1,
+      "timeInRound": "2:19"
+    },
+    {
+      "date": "2022-06-05T00:00:00.000Z",
+      "opponent": "Anna Ermakova",
+      "opponentSlug": "340817-anna-ermakova",
+      "result": "loss",
+      "method": "other",
+      "event": "Russian MMA Championship 2022",
+      "eventSlug": "89020-russian-mma-championship-2022",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-13T00:00:00.000Z",
+      "opponent": "Michelle Montague",
+      "opponentSlug": "237486-michell-montague",
+      "result": "loss",
+      "method": "tko",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64319-immaf-wmmaa-amateur-world-championships-2019",
+      "round": 3,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2019-05-03T00:00:00.000Z",
+      "opponent": "Maria Mironova",
+      "opponentSlug": "212542-mironova",
+      "result": "win",
+      "method": "other",
+      "event": "Russian MMA Championship 2019",
+      "eventSlug": "61696-russian-mma-championship-2019",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:55:10.367Z"
+}

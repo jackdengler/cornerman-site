@@ -1,0 +1,198 @@
+{
+  "slug": "166442-kay-hansen",
+  "name": "Kay Hansen",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 157,
+  "reachCm": 160,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": "1999-08-14",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/166442-kay-hansen",
+  "recentFights": [
+    {
+      "date": "2024-06-28T00:00:00.000Z",
+      "opponent": "Sayury Cañon",
+      "opponentSlug": "127507-sayruy-canon",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Invicta FC 55",
+      "eventSlug": "114278-invicta-fc-55",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-09T00:00:00.000Z",
+      "opponent": "Piera Rodriguez",
+      "opponentSlug": "140642-pierangela-rodriguez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 273",
+      "eventSlug": "85306-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-01-22T00:00:00.000Z",
+      "opponent": "Jasmine Jasudavicius",
+      "opponentSlug": "171056-jasmine-jasdavicious",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 270: N'Gannou vs. Gane",
+      "eventSlug": "82993-ufc-270",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-11-14T00:00:00.000Z",
+      "opponent": "Cory McKenna",
+      "opponentSlug": "81574-cory-mckenna",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "71846-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-06-27T00:00:00.000Z",
+      "opponent": "Jinh Yu Frey",
+      "opponentSlug": "32655-jinh-yu",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "67596-ufc-on-espn",
+      "round": 3,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2020-03-06T00:00:00.000Z",
+      "opponent": "Liana Pirosin",
+      "opponentSlug": "83417-liana-pirosin-li",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Invicta FC: Phoenix Series 3",
+      "eventSlug": "66855-invicta-fc-phoenix-series-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-04T00:00:00.000Z",
+      "opponent": "Nicolle Caliari",
+      "opponentSlug": "107869-nicolle-caliari",
+      "result": "win",
+      "method": "other",
+      "event": "Invicta FC 37",
+      "eventSlug": "62234-invicta-fc-37",
+      "round": 3,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2019-09-06T00:00:00.000Z",
+      "opponent": "Carolina Jiménez",
+      "opponentSlug": "89693-carolina-jimenez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Invicta FC: Phoenix Series 2",
+      "eventSlug": "62236-invicta-fc-phoenix-series-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-03T00:00:00.000Z",
+      "opponent": "Magdaléna Šormová",
+      "opponentSlug": "62828-magdalena-smorova",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Invicta FC: Phoenix Series 1",
+      "eventSlug": "58846-invicta-fc-35-phoenix-rising",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-15T00:00:00.000Z",
+      "opponent": "Sharon Jacobson",
+      "opponentSlug": "41413-sharon-jacobsen",
+      "result": "win",
+      "method": "sub",
+      "event": "Invicta FC 33",
+      "eventSlug": "56175-invicta-fc-33-yu-frey-vs-grusander-2",
+      "round": 3,
+      "timeInRound": "4:43"
+    },
+    {
+      "date": "2018-11-16T00:00:00.000Z",
+      "opponent": "Erin Blanchfield",
+      "opponentSlug": "167460-erin-blanchfield",
+      "result": "loss",
+      "method": "dec-majority",
+      "event": "Invicta FC 32",
+      "eventSlug": "55195-invicta-fc-32-sorenson-vs-spencer",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-01T00:00:00.000Z",
+      "opponent": "Helen Peralta",
+      "opponentSlug": "130995-helen-peralta",
+      "result": "win",
+      "method": "other",
+      "event": "Invicta FC 31",
+      "eventSlug": "54291-invicta-fc-31-jandiroba-vs-morandin",
+      "round": 3,
+      "timeInRound": "4:16"
+    },
+    {
+      "date": "2018-07-29T00:00:00.000Z",
+      "opponent": "Gabby Romero",
+      "opponentSlug": "77814-gabby-romero",
+      "result": "win",
+      "method": "other",
+      "event": "CCW 7: Super Show",
+      "eventSlug": "54594-california-cage-wars-super-show",
+      "round": 3,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2018-03-24T00:00:00.000Z",
+      "opponent": "Kal Schwartz",
+      "opponentSlug": "79294-kalyn-schwartz",
+      "result": "loss",
+      "method": "other",
+      "event": "Invicta FC 28",
+      "eventSlug": "50301-invicta-fc-28",
+      "round": 2,
+      "timeInRound": "4:27"
+    },
+    {
+      "date": "2017-12-08T00:00:00.000Z",
+      "opponent": "Emilee King",
+      "opponentSlug": "136487-emilee-prince",
+      "result": "win",
+      "method": "sub",
+      "event": "Invicta FC 26",
+      "eventSlug": "48438-invicta-fc-26",
+      "round": 1,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2017-09-23T00:00:00.000Z",
+      "opponent": "Cecilia Padilla",
+      "opponentSlug": "166441-cecilia-padilla",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Club OC",
+      "eventSlug": "48051-gladiator-mma-championship-series-3",
+      "round": 1,
+      "timeInRound": "1:43"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:09:46.544Z"
+}

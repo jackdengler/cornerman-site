@@ -1,0 +1,165 @@
+{
+  "slug": "229363-dariya-zheleznyakova",
+  "name": "Darya Zheleznyakova",
+  "nickname": "Iron Lady",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 173,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1996-01-23",
+  "nationality": "Saint Petersburg, Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/229363-dariya-zheleznyakova",
+  "recentFights": [
+    {
+      "date": "2026-04-18T00:00:00.000Z",
+      "opponent": "Melissa Croden",
+      "opponentSlug": "140510-melissa-croden",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "139670-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-06-21T00:00:00.000Z",
+      "opponent": "Melissa Mullins",
+      "opponentSlug": "188856-melissa-mullins",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "125838-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-28T00:00:00.000Z",
+      "opponent": "Ailín Pérez",
+      "opponentSlug": "143238-ailin-luciana-perez",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "111674-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "3:52"
+    },
+    {
+      "date": "2024-03-23T00:00:00.000Z",
+      "opponent": "Montse Rendon",
+      "opponentSlug": "213856-montse-rendon",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "108462-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-04-07T00:00:00.000Z",
+      "opponent": "Marie Loiseau",
+      "opponentSlug": "198237-marie-loiseau",
+      "result": "win",
+      "method": "other",
+      "event": "Ares FC 14: Lebout vs. Staropoli",
+      "eventSlug": "96199-ares-fc-14",
+      "round": 1,
+      "timeInRound": "1:27"
+    },
+    {
+      "date": "2022-11-03T00:00:00.000Z",
+      "opponent": "Melissa Mullins",
+      "opponentSlug": "188856-melissa-mullins",
+      "result": "loss",
+      "method": "other",
+      "event": "Ares FC 9: Lapilus vs. Ayoub 2",
+      "eventSlug": "88260-ares-fc-9",
+      "round": 1,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2022-05-20T00:00:00.000Z",
+      "opponent": "Liana Jojua",
+      "opponentSlug": "116037-liana-dzhoudzhua",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ares FC 6: Damiani vs. Tulshaev",
+      "eventSlug": "87593-ares-fc-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-19T00:00:00.000Z",
+      "opponent": "Meruert Ibraeva",
+      "opponentSlug": "283838-meruert-ibraeva",
+      "result": "win",
+      "method": "other",
+      "event": "Open Fighting Championship 15",
+      "eventSlug": "84913-open-fighting-championship-15",
+      "round": 2,
+      "timeInRound": "1:17"
+    },
+    {
+      "date": "2021-07-24T00:00:00.000Z",
+      "opponent": "Andreina Reis",
+      "opponentSlug": "127966-andreia-repolho-china-muay-thai",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Open Fighting Championship 7",
+      "eventSlug": "81160-open-fighting-championship-7-velikoross-cup",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-26T00:00:00.000Z",
+      "opponent": "Gozel Zutova",
+      "opponentSlug": "246625-gozel-zutova",
+      "result": "win",
+      "method": "tko",
+      "event": "MMA Series 15",
+      "eventSlug": "72307-mma-series-15-time-of-new-heroes-9",
+      "round": 2,
+      "timeInRound": "4:47"
+    },
+    {
+      "date": "2020-03-01T00:00:00.000Z",
+      "opponent": "Iryna Kyselova",
+      "opponentSlug": "63725-iryna-shaparenko-delsa",
+      "result": "win",
+      "method": "other",
+      "event": "GIT Sech Pro",
+      "eventSlug": "67378-git-sech-pro-time-of-new-heroes-4",
+      "round": 1,
+      "timeInRound": "0:42"
+    },
+    {
+      "date": "2019-12-01T00:00:00.000Z",
+      "opponent": "Darina Mazdyuk",
+      "opponentSlug": "210641-darina-mazdyuk",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "GIT Sech Pro",
+      "eventSlug": "64476-git-sech-pro-time-of-new-heroes-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-06T00:00:00.000Z",
+      "opponent": "Oksana Pavlovskaya",
+      "opponentSlug": "217780-oksana-pavlovskaya",
+      "result": "win",
+      "method": "other",
+      "event": "GIT Sech Pro",
+      "eventSlug": "61355-git-sech-pro-time-of-new-heroes-2",
+      "round": 2,
+      "timeInRound": "0:12"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:52:44.930Z"
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "139914-jye-wyllie-coyote",
+  "name": "Jye Wyllie",
+  "nickname": "Coyote",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/139914-jye-wyllie-coyote",
+  "recentFights": [
+    {
+      "date": "2018-02-24T00:00:00.000Z",
+      "opponent": "Stephan Friedrich",
+      "opponentSlug": "83909-stephan-friedrich",
+      "result": "win",
+      "method": "other",
+      "event": "Coastal Combat 3",
+      "eventSlug": "50709-coastal-combat-3",
+      "round": 1,
+      "timeInRound": "0:07"
+    },
+    {
+      "date": "2017-09-09T00:00:00.000Z",
+      "opponent": "Joel Fahey",
+      "opponentSlug": "83171-joel-fahey",
+      "result": "loss",
+      "method": "sub",
+      "event": "Coastal Combat 2",
+      "eventSlug": "47795-coastal-combat-2",
+      "round": 1,
+      "timeInRound": "4:10"
+    },
+    {
+      "date": "2017-05-13T00:00:00.000Z",
+      "opponent": "Cam Rowston",
+      "opponentSlug": "69262-cam-rowston",
+      "result": "loss",
+      "method": "tko",
+      "event": "BRACE 50: Arana vs. Catubig",
+      "eventSlug": "45218-brace-50-arana-vs-catubig",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-01-28T00:00:00.000Z",
+      "opponent": "Sebastian Temesi",
+      "opponentSlug": "141896-sebastian-temesi",
+      "result": "loss",
+      "method": "other",
+      "event": "Legend MMA 1",
+      "eventSlug": "43694-legend-mma-1",
+      "round": 1,
+      "timeInRound": "3:22"
+    },
+    {
+      "date": "2017-04-08T00:00:00.000Z",
+      "opponent": "Rasa Dasa",
+      "opponentSlug": "136135-rasa-dasa",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Reign Fighting 3",
+      "eventSlug": "44514-reign-fighting-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-05T00:00:00.000Z",
+      "opponent": "Stephan Friedrich",
+      "opponentSlug": "83909-stephan-friedrich",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Battle at the Beach 6",
+      "eventSlug": "42139-battle-at-the-beach-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-17T00:00:00.000Z",
+      "opponent": "Jack Macklin",
+      "opponentSlug": "107472-jack-macklin",
+      "result": "loss",
+      "method": "sub",
+      "event": "Carnage in the Cage 7",
+      "eventSlug": "41756-carnage-in-the-cage-7",
+      "round": 1,
+      "timeInRound": "1:36"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:17:38.535Z"
+}

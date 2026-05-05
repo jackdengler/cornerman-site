@@ -1,0 +1,110 @@
+{
+  "slug": "341800-hugo-deux-nemesis",
+  "name": "Hugo Deux",
+  "nickname": "Némésis",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 176,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1996-04-02",
+  "nationality": "Lyon, France",
+  "url": "https://www.tapology.com/fightcenter/fighters/341800-hugo-deux-nemesis",
+  "recentFights": [
+    {
+      "date": "2026-04-18T00:00:00.000Z",
+      "opponent": "Welisson Paiva",
+      "opponentSlug": "207556-welisson-dos-santos-mao-de-pedra",
+      "result": null,
+      "method": "other",
+      "event": "KSW 117: Pawlak vs. Khalidov",
+      "eventSlug": "140146-ksw-117-de-fries-vs-wojcik",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-15T00:00:00.000Z",
+      "opponent": "Wojciech Kawa",
+      "opponentSlug": "113185-wojciech-kawa",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KSW 112: Kaczmarczyk vs. Soldaev",
+      "eventSlug": "132390-ksw-112",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-10T00:00:00.000Z",
+      "opponent": "Krystian Blezień",
+      "opponentSlug": "152798-krystian-blezie",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KSW 106: Parnasse vs. Ziółkowski",
+      "eventSlug": "125258-xtb-ksw-106-parnasse-vs-held",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-02-08T00:00:00.000Z",
+      "opponent": "Francesco Moricca",
+      "opponentSlug": "157073-francesco-moricca",
+      "result": "win",
+      "method": "other",
+      "event": "Strife 12",
+      "eventSlug": "123307-strife-12",
+      "round": 2,
+      "timeInRound": "4:04"
+    },
+    {
+      "date": "2024-07-20T00:00:00.000Z",
+      "opponent": "Adam Brysz",
+      "opponentSlug": "62176-adam-brysz",
+      "result": "loss",
+      "method": "other",
+      "event": "KSW 96: Pawlak vs. Janikowski 2",
+      "eventSlug": "113366-ksw-96-pawlak-vs-janikowski-2",
+      "round": 2,
+      "timeInRound": "4:11"
+    },
+    {
+      "date": "2024-01-20T00:00:00.000Z",
+      "opponent": "Gino van Steenis",
+      "opponentSlug": "183501-gino-van-steenis",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KSW 90: Wrzosek vs. Vitasović",
+      "eventSlug": "106205-ksw-90",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-18T00:00:00.000Z",
+      "opponent": "Jan Stanovský",
+      "opponentSlug": "197428-jan-stanovsky",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Strife 3",
+      "eventSlug": "97051-strife-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-25T00:00:00.000Z",
+      "opponent": "Diego Emanuel Dias",
+      "opponentSlug": "341801-diego-emanuel-dias",
+      "result": "win",
+      "method": "other",
+      "event": "Strife 2",
+      "eventSlug": "90575-strife-2",
+      "round": 1,
+      "timeInRound": "5:00"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:03:20.662Z"
+}

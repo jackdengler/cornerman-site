@@ -1,0 +1,253 @@
+{
+  "slug": "194220-giovanny-meza",
+  "name": "Giovanny Meza",
+  "nickname": "The Scorpion",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 11,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 170,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1999-09-03",
+  "nationality": "Texas, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/194220-giovanny-meza",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Steve Ojeda",
+      "opponentSlug": "98821-steve-ojeda",
+      "result": null,
+      "method": "other",
+      "event": "CFC 6: Proving Grounds",
+      "eventSlug": "139135-cfc-6-proving-grounds",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-04-04T00:00:00.000Z",
+      "opponent": "Gregory Foster",
+      "opponentSlug": "127906-gregory-foster",
+      "result": "loss",
+      "method": "tko",
+      "event": "Freedom Fight Night 4",
+      "eventSlug": "139755-freedom-fight-night-4",
+      "round": 1,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2026-02-21T00:00:00.000Z",
+      "opponent": "Westin Wilson",
+      "opponentSlug": "41130-westin-wilson",
+      "result": "loss",
+      "method": "tko",
+      "event": "CFC 7: G-Vegas Fight Night",
+      "eventSlug": "140028-cage-fighting-championships-g-vegas-fight-night",
+      "round": 1,
+      "timeInRound": "0:55"
+    },
+    {
+      "date": "2026-01-10T00:00:00.000Z",
+      "opponent": "Amari Sengsavanh",
+      "opponentSlug": "332114-amari-sengsavanh",
+      "result": "loss",
+      "method": "other",
+      "event": "Fusion Fight League",
+      "eventSlug": "135906-fusion-fight-league",
+      "round": 1,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2025-06-14T00:00:00.000Z",
+      "opponent": "Alpha Strout",
+      "opponentSlug": "352061-alpha-james",
+      "result": "loss",
+      "method": "tko",
+      "event": "Ultimate Battle Grounds 25",
+      "eventSlug": "126737-ultimate-battle-grounds-26",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2025-04-26T00:00:00.000Z",
+      "opponent": "Erik Mendez",
+      "opponentSlug": "178636-eric-mendez",
+      "result": "loss",
+      "method": "other",
+      "event": "Fusion Fight League",
+      "eventSlug": "124720-fusion-fight-league",
+      "round": 1,
+      "timeInRound": "2:52"
+    },
+    {
+      "date": "2025-04-05T00:00:00.000Z",
+      "opponent": "Carlos Pacheco",
+      "opponentSlug": "77811-carlos-pacheco",
+      "result": "loss",
+      "method": "tko",
+      "event": "CFC 3: Crowning of Champions",
+      "eventSlug": "121362-cfc-3",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-15T00:00:00.000Z",
+      "opponent": "Tommy Cuozzi Jr.",
+      "opponentSlug": "102231-tommy-cuozzi",
+      "result": "loss",
+      "method": "other",
+      "event": "Ultimate Battle Grounds 24",
+      "eventSlug": "122581-ultimate-battle-grounds-24",
+      "round": 1,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2024-08-02T00:00:00.000Z",
+      "opponent": "Adrian Luna Martinetti",
+      "opponentSlug": "139620-juan-adrian-luna",
+      "result": "loss",
+      "method": "other",
+      "event": "Budo Sento Championship 24",
+      "eventSlug": "116419-budo-sento-championship-24",
+      "round": 1,
+      "timeInRound": "0:33"
+    },
+    {
+      "date": "2024-07-06T00:00:00.000Z",
+      "opponent": "Juan Gandara",
+      "opponentSlug": "51913-juan-gandara",
+      "result": "loss",
+      "method": "sub",
+      "event": "CFC 1",
+      "eventSlug": "120797-cfc-1",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-19T00:00:00.000Z",
+      "opponent": "Luis Elías",
+      "opponentSlug": "281855-luis-elias",
+      "result": "loss",
+      "method": "sub",
+      "event": "UWC 53: Elías vs. Meza",
+      "eventSlug": "113249-uwc-53-elias-vs-meza",
+      "round": 1,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2024-02-24T00:00:00.000Z",
+      "opponent": "Jose Jimenez",
+      "opponentSlug": "370004-jose-jimenez",
+      "result": "win",
+      "method": "sub",
+      "event": "GPC: Last Man Standing",
+      "eventSlug": "110992-gpc-last-man-standing",
+      "round": 1,
+      "timeInRound": "3:16"
+    },
+    {
+      "date": "2023-08-12T00:00:00.000Z",
+      "opponent": "Alaibek Tairbeuk Uulu",
+      "opponentSlug": "432017-alaibek-tairbeuk-uulu",
+      "result": "win",
+      "method": "sub",
+      "event": "GPC: Alay Nomad Games",
+      "eventSlug": "109263-gpc-world-championship-mma-international-fights",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2023-04-29T00:00:00.000Z",
+      "opponent": "Jander Martinez",
+      "opponentSlug": "341096-jander-martinez-el-padrino",
+      "result": "win",
+      "method": "sub",
+      "event": "GPC: Road to New York JRZ",
+      "eventSlug": "111232-gpc-road-to-new-york-jrz",
+      "round": 1,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2023-03-31T00:00:00.000Z",
+      "opponent": "Ángel Gabriel García",
+      "opponentSlug": "389559-angel-gabriel-garcia",
+      "result": "win",
+      "method": "tko",
+      "event": "Konyak FC 1",
+      "eventSlug": "101794-konyak-fc-1",
+      "round": 1,
+      "timeInRound": "3:55"
+    },
+    {
+      "date": "2022-09-24T00:00:00.000Z",
+      "opponent": "Baktybek Mirseiit Uulu",
+      "opponentSlug": "432018-baktybek-mirseiit-uulu",
+      "result": "win",
+      "method": "sub",
+      "event": "GPC: Kok-Boru Rematch of Manas",
+      "eventSlug": "111543-gpc-kok-boru-rematch-of-manas",
+      "round": 1,
+      "timeInRound": "3:15"
+    },
+    {
+      "date": "2022-07-23T00:00:00.000Z",
+      "opponent": "Manuel Gonzalez",
+      "opponentSlug": "266052-manuel-gonzalez",
+      "result": "win",
+      "method": "other",
+      "event": "Noche MMA",
+      "eventSlug": "95904-noche-mma",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2022-05-27T00:00:00.000Z",
+      "opponent": "Dzhanybekov Azat Uulu",
+      "opponentSlug": "432019-dzhanybekov-azat-uulu",
+      "result": "win",
+      "method": "other",
+      "event": "GPC: The Epic of Manas",
+      "eventSlug": "111544-gpc-the-epic-of-manas",
+      "round": 3,
+      "timeInRound": "4:31"
+    },
+    {
+      "date": "2021-04-24T00:00:00.000Z",
+      "opponent": "Emiliano Sanvicente",
+      "opponentSlug": "294883-emiliano-sanvicente",
+      "result": "loss",
+      "method": "other",
+      "event": "Vendetta 5",
+      "eventSlug": "79005-vendetta-5",
+      "round": 1,
+      "timeInRound": "3:11"
+    },
+    {
+      "date": "2016-03-19T00:00:00.000Z",
+      "opponent": "Ángel Medina",
+      "opponentSlug": "405033-angel-medina",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FMP 32",
+      "eventSlug": "105552-fmp-32",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-08T00:00:00.000Z",
+      "opponent": "Joseph Rivas",
+      "opponentSlug": "187761-joseph-rivas",
+      "result": "win",
+      "method": "sub",
+      "event": "RUF MMA 28",
+      "eventSlug": "54825-ruf-mma-28",
+      "round": 2,
+      "timeInRound": "0:43"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:36:47.273Z"
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "66933-reza-almasi",
+  "name": "Reza Almasi",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/66933-reza-almasi",
+  "recentFights": [
+    {
+      "date": "2020-02-29T00:00:00.000Z",
+      "opponent": "Dan Currie",
+      "opponentSlug": "143299-dan-currie",
+      "result": "loss",
+      "method": "tko",
+      "event": "Diamondback FC 10",
+      "eventSlug": "64254-diamondback-fc-10-night-of-champions",
+      "round": 3,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2019-09-06T00:00:00.000Z",
+      "opponent": "Nathan Wilson",
+      "opponentSlug": "93957-nathan-wilson",
+      "result": null,
+      "method": "other",
+      "event": "Capital Fight Show 17",
+      "eventSlug": "62760-dencio-vs-mudaliar",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-07T00:00:00.000Z",
+      "opponent": "Steven Kennedy",
+      "opponentSlug": "steven-kennedy",
+      "result": "loss",
+      "method": "sub",
+      "event": "Australian FC 22",
+      "eventSlug": "51768-australian-fc-22",
+      "round": 1,
+      "timeInRound": "3:56"
+    },
+    {
+      "date": "2016-11-26T00:00:00.000Z",
+      "opponent": "Cam Rowston",
+      "opponentSlug": "69262-cam-rowston",
+      "result": "loss",
+      "method": "sub",
+      "event": "BRACE 45: Alchin vs Christakos",
+      "eventSlug": "42306-brace-45-alchin-vs-christakos",
+      "round": 1,
+      "timeInRound": "3:44"
+    },
+    {
+      "date": "2016-05-21T00:00:00.000Z",
+      "opponent": "Matt Eland",
+      "opponentSlug": "56570-matt-eland",
+      "result": "loss",
+      "method": "sub",
+      "event": "Valor Fight 14",
+      "eventSlug": "39431-valor-fight-14",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-05-23T00:00:00.000Z",
+      "opponent": "David Francis",
+      "opponentSlug": "95768-david-francis",
+      "result": "loss",
+      "method": "tko",
+      "event": "BRACE 34",
+      "eventSlug": "30057-brace-34",
+      "round": 1,
+      "timeInRound": "3:50"
+    },
+    {
+      "date": "2014-05-03T00:00:00.000Z",
+      "opponent": "Brenton Leggett",
+      "opponentSlug": "66934-brenton-leggett",
+      "result": "win",
+      "method": "tko",
+      "event": "BRACE: Ascend 1",
+      "eventSlug": "23589-brace-ascend-1",
+      "round": 3,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:17:40.811Z"
+}

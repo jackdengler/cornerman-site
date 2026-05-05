@@ -1,0 +1,110 @@
+{
+  "slug": "38908-corey-barreiro",
+  "name": "Corey Barreiro",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1987-07-29",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/38908-corey-barreiro",
+  "recentFights": [
+    {
+      "date": "2023-11-04T00:00:00.000Z",
+      "opponent": "Korey Taylor",
+      "opponentSlug": "193806-korey-taylor",
+      "result": "loss",
+      "method": "tko",
+      "event": "Combat Night 166",
+      "eventSlug": "106803-combat-night-166-duval",
+      "round": 1,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2023-02-18T00:00:00.000Z",
+      "opponent": "John Harrison",
+      "opponentSlug": "139789-john-harrison",
+      "result": "loss",
+      "method": "tko",
+      "event": "Combat Night Pro",
+      "eventSlug": "98047-combat-night-pro-tallahassee",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2022-11-05T00:00:00.000Z",
+      "opponent": "Emre Örün",
+      "opponentSlug": "57997-emre-rn",
+      "result": "loss",
+      "method": "sub",
+      "event": "Combat Night",
+      "eventSlug": "93514-duval",
+      "round": 1,
+      "timeInRound": "0:39"
+    },
+    {
+      "date": "2022-08-20T00:00:00.000Z",
+      "opponent": "Chase Rowden",
+      "opponentSlug": "57929-chase-rowden",
+      "result": "loss",
+      "method": "tko",
+      "event": "Combat Night Pro",
+      "eventSlug": "92166-combat-night-pro-tallahassee",
+      "round": 1,
+      "timeInRound": "0:54"
+    },
+    {
+      "date": "2014-09-13T00:00:00.000Z",
+      "opponent": "Ian Butler",
+      "opponentSlug": "84405-ian-butler",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-06-07T00:00:00.000Z",
+      "opponent": "Tyler Clausen",
+      "opponentSlug": "51119-tyler-clausen",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-11-01T00:00:00.000Z",
+      "opponent": "Hugh Pulley",
+      "opponentSlug": "64586-hugh-pulley",
+      "result": "loss",
+      "method": "other",
+      "event": "CFE: Journey to the Top 3",
+      "eventSlug": "21514-cfe",
+      "round": 1,
+      "timeInRound": "1:19"
+    },
+    {
+      "date": "2012-05-19T00:00:00.000Z",
+      "opponent": "Chris Heatherly",
+      "opponentSlug": "38901-chris-heatherly",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:37:04.584Z"
+}

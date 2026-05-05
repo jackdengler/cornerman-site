@@ -1,0 +1,224 @@
+{
+  "slug": "85224-santana-acosta",
+  "name": "Santana Acosta",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 9,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 9,
+    "losses": 9,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1996-05-06",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/85224-santana-acosta",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Sam Bailey",
+      "opponentSlug": "365733-sam-bailey",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 231: Lozej vs. Ibarra",
+      "eventSlug": "140675-lfa-231-trembley-vs-johns",
+      "round": 3,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2020-03-07T00:00:00.000Z",
+      "opponent": "Thomas Vievering",
+      "opponentSlug": "177571-thomas-vievering",
+      "result": "loss",
+      "method": "sub",
+      "event": "A-Town Throwdown 16",
+      "eventSlug": "65315-a-town-throwdown-16",
+      "round": 1,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2019-08-03T00:00:00.000Z",
+      "opponent": "Traevon Kroger",
+      "opponentSlug": "170104-traevon-kroger",
+      "result": "loss",
+      "method": "other",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "62010-brutaal-genesis-fight-night-fort-frenzy-8",
+      "round": 1,
+      "timeInRound": "2:13"
+    },
+    {
+      "date": "2019-05-18T00:00:00.000Z",
+      "opponent": "Colten Larson",
+      "opponentSlug": "204502-colten-larson",
+      "result": "win",
+      "method": "sub",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "60302-brutaal-genesis-fight-night-fort-frenzy-7",
+      "round": 3,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2018-08-24T00:00:00.000Z",
+      "opponent": "Tye Joint",
+      "opponentSlug": "194536-tye-joint",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "54965-brutaal-genesis-fight-night-back-in-the-barn-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-18T00:00:00.000Z",
+      "opponent": "Cody Sheehy",
+      "opponentSlug": "20573-cody-sheehy",
+      "result": "loss",
+      "method": "other",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "52939-brutaal-genesis-fight-night-back-in-the-barn-11",
+      "round": 1,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2018-03-10T00:00:00.000Z",
+      "opponent": "Ron Sexton",
+      "opponentSlug": "160909-ron-sexton",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "50100-brutaal-genesis-fight-night-fort-frenzy-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-16T00:00:00.000Z",
+      "opponent": "Ron Sexton",
+      "opponentSlug": "160909-ron-sexton",
+      "result": "win",
+      "method": "other",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "49326-brutaal-genesis-fight-night-christmas-chaos",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2017-09-23T00:00:00.000Z",
+      "opponent": "Ethan Pfantz",
+      "opponentSlug": "37112-ethan-pfantz",
+      "result": "loss",
+      "method": "sub",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "47933-brutaal-genesis-fight-night-back-in-the-barn-9",
+      "round": 3,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2017-07-28T00:00:00.000Z",
+      "opponent": "Josh Kristensen",
+      "opponentSlug": "143979-josh-kristensen",
+      "result": "win",
+      "method": "other",
+      "event": "Brutaal Genesis Fight Night",
+      "eventSlug": "46608-brutaal-genesis-fight-night-fight-night-at-hy-vee-hall",
+      "round": 2,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2017-01-27T00:00:00.000Z",
+      "opponent": "Dylan Forkner",
+      "opponentSlug": "110814-dylan-forkner",
+      "result": "loss",
+      "method": "other",
+      "event": "MCC 63",
+      "eventSlug": "42475-mcc-63",
+      "round": 2,
+      "timeInRound": "2:13"
+    },
+    {
+      "date": "2016-10-22T00:00:00.000Z",
+      "opponent": "Markus Ford",
+      "opponentSlug": "86704-markus-ford",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MCC 62",
+      "eventSlug": "41568-mcc-62-huskic-vs-deeds",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-08-06T00:00:00.000Z",
+      "opponent": "Cody Sheehy",
+      "opponentSlug": "20573-cody-sheehy",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Laramar Fight Night 12",
+      "eventSlug": "42814-laramar-fight-night-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-06-04T00:00:00.000Z",
+      "opponent": "Steven Merrill",
+      "opponentSlug": "86703-steven-merrill",
+      "result": "loss",
+      "method": "sub",
+      "event": "Laramar Fight Night 11",
+      "eventSlug": "40106-laramar-fight-night-11",
+      "round": 1,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2016-03-26T00:00:00.000Z",
+      "opponent": "Ashton Olson",
+      "opponentSlug": "96361-ashton-olson",
+      "result": "win",
+      "method": "other",
+      "event": "Laramar Fight Night 10",
+      "eventSlug": "38607-laramar-fight-night-10",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2015-10-17T00:00:00.000Z",
+      "opponent": "Anthony Bruhl",
+      "opponentSlug": "95481-anthony-bruhl",
+      "result": "win",
+      "method": "tko",
+      "event": "Fight Night at the Laramar 9",
+      "eventSlug": "36133-fight-night-at-the-laramar-9",
+      "round": 1,
+      "timeInRound": "0:42"
+    },
+    {
+      "date": "2015-09-19T00:00:00.000Z",
+      "opponent": "Sam Hernandez",
+      "opponentSlug": "72562-sam-hernandez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "A-Town Throwdown 6",
+      "eventSlug": "35488-a-town-throwdown-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-15T00:00:00.000Z",
+      "opponent": "Andrew Sweeney",
+      "opponentSlug": "85225-andrew-sweeney",
+      "result": "win",
+      "method": "tko",
+      "event": "A-Town Throwdown 4",
+      "eventSlug": "28050-a-town-throwdown-iv",
+      "round": 1,
+      "timeInRound": "2:52"
+    }
+  ],
+  "lastVerified": "2026-04-18T06:00:12.640Z"
+}

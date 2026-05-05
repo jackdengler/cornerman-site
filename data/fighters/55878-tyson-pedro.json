@@ -1,0 +1,142 @@
+{
+  "slug": "55878-tyson-pedro",
+  "name": "Tyson Pedro",
+  "nickname": "Kangaroo Paws",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 191,
+  "reachCm": 201,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1991-09-17",
+  "nationality": "Sydney, New South Wales, Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/55878-tyson-pedro",
+  "recentFights": [
+    {
+      "date": "2026-04-16T00:00:00.000Z",
+      "opponent": "Dovlet Yagshimuradov",
+      "opponentSlug": "63444-dovletdzhan-yagshimiradov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "PFL Belfast",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-02T00:00:00.000Z",
+      "opponent": "Vitor Petrino",
+      "opponentSlug": "158172-vitor-petrino",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-09T00:00:00.000Z",
+      "opponent": "Anton Turkalj",
+      "opponentSlug": "115015-anton-turkalj",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 293: Adesanya vs. Strickland",
+      "round": 1,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2023-02-11T00:00:00.000Z",
+      "opponent": "Modestas Bukauskas",
+      "opponentSlug": "85433-modestas-bukauskas",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 284: Makhachev vs. Volkanovski",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-20T00:00:00.000Z",
+      "opponent": "Harry Hunsucker",
+      "opponentSlug": "24519-harry-hunsucker",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 278: Usman vs. Edwards 2",
+      "round": 1,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2022-04-23T00:00:00.000Z",
+      "opponent": "Ike Villanueva",
+      "opponentSlug": "isaac-villanueva",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "round": 1,
+      "timeInRound": "4:55"
+    },
+    {
+      "date": "2018-12-01T00:00:00.000Z",
+      "opponent": "Maurício Rua",
+      "opponentSlug": "mauricio-rua-shogun",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night 142",
+      "round": 3,
+      "timeInRound": "0:43"
+    },
+    {
+      "date": "2018-06-23T00:00:00.000Z",
+      "opponent": "Ovince St. Preux",
+      "opponentSlug": "ovince-st-preux",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night 132",
+      "round": 1,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2018-02-10T00:00:00.000Z",
+      "opponent": "Saparbeg Safarov",
+      "opponentSlug": "38348-saparbek-safarov",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC 221: Romero vs. Rockhold",
+      "round": 1,
+      "timeInRound": "3:54"
+    },
+    {
+      "date": "2017-09-09T00:00:00.000Z",
+      "opponent": "Ilir Latifi",
+      "opponentSlug": "ilir-latifi",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 215: Nunes vs. Shevchenko 2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-04T00:00:00.000Z",
+      "opponent": "Paul Craig",
+      "opponentSlug": "25338-paul-craig",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 209: Woodley vs. Thompson 2",
+      "round": 1,
+      "timeInRound": "4:10"
+    },
+    {
+      "date": "2016-11-26T00:00:00.000Z",
+      "opponent": "Khalil Rountree Jr.",
+      "opponentSlug": "47284-khalil-rountree-the-war-horse",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night 101",
+      "round": 1,
+      "timeInRound": "4:07"
+    }
+  ],
+  "lastVerified": "2026-04-16T23:58:55.161Z"
+}

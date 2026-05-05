@@ -1,0 +1,143 @@
+{
+  "slug": "44268-francinaldo-nego",
+  "name": "Francivaldo Trinaldo",
+  "nickname": "Massarinha",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1982-02-27",
+  "nationality": "Amarante, Piaui, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/44268-francinaldo-nego",
+  "recentFights": [
+    {
+      "date": "2017-10-27T00:00:00.000Z",
+      "opponent": "Antônio Monteiro",
+      "opponentSlug": "116451-antnio-monteiro-junior-nego",
+      "result": "loss",
+      "method": "other",
+      "event": "Shooto Brasil 77",
+      "eventSlug": "48799-shooto-brasil-77",
+      "round": 1,
+      "timeInRound": "1:46"
+    },
+    {
+      "date": "2017-08-19T00:00:00.000Z",
+      "opponent": "Jean Maia",
+      "opponentSlug": "164490-jean-maia",
+      "result": "win",
+      "method": "sub",
+      "event": "Aspera FC 56",
+      "eventSlug": "46279-aspera-fc-56",
+      "round": 1,
+      "timeInRound": "3:06"
+    },
+    {
+      "date": "2017-03-25T00:00:00.000Z",
+      "opponent": "Carlos Leal",
+      "opponentSlug": "58430-carlos-leal",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Katana Fight 2",
+      "eventSlug": "44400-katana-fight-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-11T00:00:00.000Z",
+      "opponent": "Valmir Lázaro",
+      "opponentSlug": "30990-valmir-lazaro",
+      "result": "loss",
+      "method": "other",
+      "event": "Shooto Brasil 67",
+      "eventSlug": "42670-shooto-brasil-67",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-02-06T00:00:00.000Z",
+      "opponent": "Lucas Eurico",
+      "opponentSlug": "143874-lucas-eurico-cobrinha-foguinho-topete",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-24T00:00:00.000Z",
+      "opponent": "Valdines Silva",
+      "opponentSlug": "31489-valdines-silva",
+      "result": "loss",
+      "method": "sub",
+      "event": "Jungle Fight 82",
+      "eventSlug": "35379-jungle-fight-82",
+      "round": 1,
+      "timeInRound": "2:41"
+    },
+    {
+      "date": "2015-05-17T00:00:00.000Z",
+      "opponent": "Ivan Paiva",
+      "opponentSlug": "44418-ivan-paiva",
+      "result": "win",
+      "method": "other",
+      "event": "Shooto Brasil 54",
+      "eventSlug": "32695-shooto-brasil-54",
+      "round": 1,
+      "timeInRound": "3:31"
+    },
+    {
+      "date": "2014-05-11T00:00:00.000Z",
+      "opponent": "Thiago Moisés",
+      "opponentSlug": "49744-thiago-moiss",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fighten 1",
+      "eventSlug": "24274-fighten-1",
+      "round": 3,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2013-07-12T00:00:00.000Z",
+      "opponent": "Paulo de Sousa",
+      "opponentSlug": "51429-paulo-de-sousa-irmo",
+      "result": "win",
+      "method": "sub",
+      "event": "Shooto Brasil 41",
+      "eventSlug": "19674-shooto-brazil-41",
+      "round": 1,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2013-03-15T00:00:00.000Z",
+      "opponent": "Divino da Silva",
+      "opponentSlug": "14964-jnior-beba",
+      "result": "win",
+      "method": "other",
+      "event": "Shooto Brasil 37",
+      "eventSlug": "17695-shooto-brazil-3",
+      "round": 1,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2011-07-09T00:00:00.000Z",
+      "opponent": "Wellington Brito",
+      "opponentSlug": "46985-wellington-brito-raquete",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:11:47.034Z"
+}

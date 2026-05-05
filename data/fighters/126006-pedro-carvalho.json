@@ -1,0 +1,142 @@
+{
+  "slug": "126006-pedro-carvalho",
+  "name": "Pedro Carvalho",
+  "nickname": "The Game",
+  "aliases": [],
+  "recordPro": {
+    "wins": 15,
+    "losses": 10,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": 179,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1995-08-06",
+  "nationality": "Portugal",
+  "url": "https://www.tapology.com/fightcenter/fighters/126006-pedro-carvalho",
+  "recentFights": [
+    {
+      "date": "2026-04-16T00:00:00.000Z",
+      "opponent": "Sergio Cossio",
+      "opponentSlug": "89392-daniel-cossio",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "PFL Belfast",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-18T00:00:00.000Z",
+      "opponent": "Damien Lapilus",
+      "opponentSlug": "35664-damien-lapilus",
+      "result": "win",
+      "method": "sub",
+      "event": "WNC 3",
+      "round": 1,
+      "timeInRound": "2:10"
+    },
+    {
+      "date": "2024-06-28T00:00:00.000Z",
+      "opponent": "Kai Kamaka III",
+      "opponentSlug": "74838-kai-kamaka-iii-boy",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "PFL 6: 2024 Regular Season",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-19T00:00:00.000Z",
+      "opponent": "Brendan Loughnane",
+      "opponentSlug": "31147-brendan-loughnane",
+      "result": "loss",
+      "method": "other",
+      "event": "PFL 3: 2024 Regular Season",
+      "round": 1,
+      "timeInRound": "1:26"
+    },
+    {
+      "date": "2023-09-23T00:00:00.000Z",
+      "opponent": "Aaron Pico",
+      "opponentSlug": "86018-aaron-pico",
+      "result": "loss",
+      "method": "other",
+      "event": "Bellator 299",
+      "round": 1,
+      "timeInRound": "3:05"
+    },
+    {
+      "date": "2023-02-25T00:00:00.000Z",
+      "opponent": "Jeremy Kennedy",
+      "opponentSlug": "21079-jeremy-kennedy-fence",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bellator 291",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-23T00:00:00.000Z",
+      "opponent": "Mads Burnell",
+      "opponentSlug": "52291-mads-burnell",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bellator 285",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-06T00:00:00.000Z",
+      "opponent": "Piotr Niedzielski",
+      "opponentSlug": "72394-piotr-niedzielski",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Bellator 280",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-05T00:00:00.000Z",
+      "opponent": "Daniel Weichel",
+      "opponentSlug": "daniel-weichel",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bellator 270",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-16T00:00:00.000Z",
+      "opponent": "Jay Jay Wilson",
+      "opponentSlug": "136000-jay-jay-wilson",
+      "result": "loss",
+      "method": "other",
+      "event": "Bellator 257",
+      "round": 2,
+      "timeInRound": "0:53"
+    },
+    {
+      "date": "2020-11-12T00:00:00.000Z",
+      "opponent": "Patricio Pitbull",
+      "opponentSlug": "patricio-freire-pitbull",
+      "result": "loss",
+      "method": "other",
+      "event": "Bellator 252",
+      "round": 1,
+      "timeInRound": "2:10"
+    },
+    {
+      "date": "2019-09-07T00:00:00.000Z",
+      "opponent": "Sam Sicilia",
+      "opponentSlug": "17109-sam-sicilia",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 226",
+      "round": 2,
+      "timeInRound": "1:56"
+    }
+  ],
+  "lastVerified": "2026-04-16T23:59:15.576Z"
+}

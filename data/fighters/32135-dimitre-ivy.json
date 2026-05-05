@@ -1,0 +1,253 @@
+{
+  "slug": "32135-dimitre-ivy",
+  "name": "Dimitre Ivy",
+  "nickname": "Poison",
+  "aliases": [],
+  "recordPro": {
+    "wins": 13,
+    "losses": 9,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 180,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1990-01-23",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/32135-dimitre-ivy",
+  "recentFights": [
+    {
+      "date": "2026-02-06T00:00:00.000Z",
+      "opponent": "Dimitri Jioev",
+      "opponentSlug": "358374-dmitriy-dzhioev",
+      "result": "loss",
+      "method": "tko",
+      "event": "Fury FC 115",
+      "eventSlug": "137945-fury-fc-115-macklin-vs-bakhtiyar",
+      "round": 1,
+      "timeInRound": "4:49"
+    },
+    {
+      "date": "2025-05-23T00:00:00.000Z",
+      "opponent": "Edgardo Guzman",
+      "opponentSlug": "164942-edgardo-guzman",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "XKO 70",
+      "eventSlug": "126311-xko-70",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-04T00:00:00.000Z",
+      "opponent": "Lucas Brennan",
+      "opponentSlug": "162427-lucas-brennan",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "PFL 1: 2024 Regular Season",
+      "eventSlug": "110613-pfl-1-2024-regular-season",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-02-24T00:00:00.000Z",
+      "opponent": "Abe Sellers",
+      "opponentSlug": "135183-abram-sellers",
+      "result": "win",
+      "method": "sub",
+      "event": "Bayou FC 64",
+      "eventSlug": "110015-bayou-fc-64",
+      "round": 1,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2023-03-24T00:00:00.000Z",
+      "opponent": "Carlton Minus",
+      "opponentSlug": "137973-carlton-minus-the-gentleman-fighter",
+      "result": "loss",
+      "method": "other",
+      "event": "Fury FC 76: Chairez vs. Vasquez",
+      "eventSlug": "96724-fury-fc-76",
+      "round": 2,
+      "timeInRound": "0:21"
+    },
+    {
+      "date": "2022-05-22T00:00:00.000Z",
+      "opponent": "Lorram Esteves",
+      "opponentSlug": "124040-lorran-esteves",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fury FC 63: Esteves vs. Ivy",
+      "eventSlug": "88322-fury-fc-63",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-21T00:00:00.000Z",
+      "opponent": "Jake Heffernan",
+      "opponentSlug": "43898-jake-heffernan",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fury FC 54",
+      "eventSlug": "83611-fury-fc-54",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-05T00:00:00.000Z",
+      "opponent": "Jesse Butler",
+      "opponentSlug": "39845-jessie-butler",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fury FC 50",
+      "eventSlug": "79973-fury-fc-50",
+      "round": 1,
+      "timeInRound": "4:14"
+    },
+    {
+      "date": "2021-06-19T00:00:00.000Z",
+      "opponent": "Huseyn Aliev",
+      "opponentSlug": "87949-khusein-aliev",
+      "result": "win",
+      "method": "sub",
+      "event": "Peak Fighting 13",
+      "eventSlug": "79637-peak-fighting-13",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2018-07-20T00:00:00.000Z",
+      "opponent": "Daniel Pineda",
+      "opponentSlug": "daniel-pineda",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fury FC 25",
+      "eventSlug": "54439-fury-fc-25",
+      "round": 1,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2018-02-16T00:00:00.000Z",
+      "opponent": "Cameron Graves",
+      "opponentSlug": "29841-cameron-graves",
+      "result": "win",
+      "method": "other",
+      "event": "Fury FC 22",
+      "eventSlug": "49970-fury-fc-22",
+      "round": 1,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2017-12-09T00:00:00.000Z",
+      "opponent": "Devin Cowan",
+      "opponentSlug": "44315-devin-cowan",
+      "result": "win",
+      "method": "other",
+      "event": "Fury FC 20",
+      "eventSlug": "48821-fury-fc-20",
+      "round": 2,
+      "timeInRound": "4:13"
+    },
+    {
+      "date": "2017-03-10T00:00:00.000Z",
+      "opponent": "Gleidson Cutis",
+      "opponentSlug": "38131-gleidson-moraes-poney",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 6: Junior vs. Rodriguez",
+      "eventSlug": "44061-lfa-6-junior-vs-rodriguez",
+      "round": 1,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2016-08-12T00:00:00.000Z",
+      "opponent": "Alexandre Bezerra",
+      "opponentSlug": "alexandre-bezerra-popo",
+      "result": "loss",
+      "method": "sub",
+      "event": "XCC 25",
+      "eventSlug": "40137-xcc-25",
+      "round": 1,
+      "timeInRound": "1:16"
+    },
+    {
+      "date": "2015-09-26T00:00:00.000Z",
+      "opponent": "Javier Minjarez",
+      "opponentSlug": "33470-javier-minjarez",
+      "result": "win",
+      "method": "sub",
+      "event": "Hero FC: Best of the Best 6",
+      "eventSlug": "34254-hero-fc-best-of-the-best-6",
+      "round": 5,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2015-06-06T00:00:00.000Z",
+      "opponent": "Rey Trujillo",
+      "opponentSlug": "reynaldo-trujillo-the-truth",
+      "result": "win",
+      "method": "sub",
+      "event": "Hero FC: Best of the Best 5",
+      "eventSlug": "32792-hero-fc-best-of-the-best-5",
+      "round": 1,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2015-04-18T00:00:00.000Z",
+      "opponent": "Travonne Hobbs",
+      "opponentSlug": "29690-travonne-hobbs",
+      "result": "win",
+      "method": "sub",
+      "event": "Fury FC 5",
+      "eventSlug": "31711-fury-fc-5",
+      "round": 1,
+      "timeInRound": "2:53"
+    },
+    {
+      "date": "2013-12-06T00:00:00.000Z",
+      "opponent": "Matt Mazurek",
+      "opponentSlug": "33328-david-mazurek",
+      "result": "win",
+      "method": "sub",
+      "event": "Legacy FC 26",
+      "eventSlug": "20748-legacy-fc-26",
+      "round": 2,
+      "timeInRound": "3:18"
+    },
+    {
+      "date": "2012-10-20T00:00:00.000Z",
+      "opponent": "Alexander Hernandez",
+      "opponentSlug": "46253-alexander-hernandez",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-07-30T00:00:00.000Z",
+      "opponent": "Ray Rodriguez",
+      "opponentSlug": "28870-reynaldo-rodriguez",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-11-06T00:00:00.000Z",
+      "opponent": "Jose Cabral",
+      "opponentSlug": "18331-jose-cabral",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:35:43.467Z"
+}

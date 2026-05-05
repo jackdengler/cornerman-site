@@ -1,0 +1,187 @@
+{
+  "slug": "19950-sarah-alpar-too-sweet",
+  "name": "Sarah Simmons",
+  "nickname": "Too Sweet",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 163,
+  "reachCm": 160,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1991-06-01",
+  "nationality": "Oklahoma City, Oklahoma",
+  "url": "https://www.tapology.com/fightcenter/fighters/19950-sarah-alpar-too-sweet",
+  "recentFights": [
+    {
+      "date": "2021-09-18T00:00:00.000Z",
+      "opponent": "Erin Blanchfield",
+      "opponentSlug": "167460-erin-blanchfield",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "79258-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-19T00:00:00.000Z",
+      "opponent": "Jessica-Rose Clark",
+      "opponentSlug": "41689-jessy-rose",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "70810-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "4:21"
+    },
+    {
+      "date": "2019-08-13T00:00:00.000Z",
+      "opponent": "Shanna Young",
+      "opponentSlug": "58605-shanna-young",
+      "result": "win",
+      "method": "sub",
+      "event": "Contender Series 2019",
+      "eventSlug": "59999-dw-s-contender-series-2019-week-9",
+      "round": 2,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2018-11-30T00:00:00.000Z",
+      "opponent": "Joselyne Edwards",
+      "opponentSlug": "98366-yoselin-edwards",
+      "result": "win",
+      "method": "dec-split",
+      "event": "LFA 55: Johns vs. Yanez",
+      "eventSlug": "56314-lfa-55-johns-vs-yanez",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-11T00:00:00.000Z",
+      "opponent": "Pámela Bóveda Aguirre",
+      "opponentSlug": "85263-pamela-boveda-aguirre",
+      "result": "win",
+      "method": "other",
+      "event": "Sugar Creek Showdown 33",
+      "eventSlug": "47966-sugar-creek-showdown-33",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-06-10T00:00:00.000Z",
+      "opponent": "Carina Damm",
+      "opponentSlug": "carina-damm-beauty-but-the-beast",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Titan FC 39",
+      "eventSlug": "39639-titan-fc-39-cavalcante-vs-healy",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-12-18T00:00:00.000Z",
+      "opponent": "Jaymee Jones",
+      "opponentSlug": "75039-jaymee-jones",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Xtreme Fight Night 26",
+      "eventSlug": "37319-xtreme-fight-night-26",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-22T00:00:00.000Z",
+      "opponent": "Susy Watson",
+      "opponentSlug": "43721-susy-watson",
+      "result": "win",
+      "method": "tko",
+      "event": "Sugar Creek Showdown 27",
+      "eventSlug": "33439-sugar-creek-showdown-27-survival",
+      "round": 2,
+      "timeInRound": "4:33"
+    },
+    {
+      "date": "2014-01-25T00:00:00.000Z",
+      "opponent": "Delaney Bailey",
+      "opponentSlug": "38465-delaney-owens",
+      "result": "loss",
+      "method": "sub",
+      "event": "Sugar Creek Showdown 21",
+      "eventSlug": "21710-sugar-creek-showdown-21",
+      "round": 3,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2013-07-20T00:00:00.000Z",
+      "opponent": "Jocelyn Jones-Lybarger",
+      "opponentSlug": "27978-jocelyn-lybarger-lights-out",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KOTC: Heated Fury",
+      "eventSlug": "19745-kotc-heated-fury",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-10-06T00:00:00.000Z",
+      "opponent": "Brenda Gonzales",
+      "opponentSlug": "20456-brenda-gonzales",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "KOTC: Stranglehold",
+      "eventSlug": "15657-kotc-stranglehold",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-05-12T00:00:00.000Z",
+      "opponent": "Monica Lovato",
+      "opponentSlug": "8158-monica-lovato",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-10-01T00:00:00.000Z",
+      "opponent": "Heather Clark",
+      "opponentSlug": "12603-heather-clark-hurricane",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-07-30T00:00:00.000Z",
+      "opponent": "Erica Torres",
+      "opponentSlug": "171796-erica-torres",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-07-01T00:00:00.000Z",
+      "opponent": "Mariah Reed",
+      "opponentSlug": "4259-mariah-reed",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:33:59.164Z"
+}

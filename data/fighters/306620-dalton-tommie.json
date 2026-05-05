@@ -1,0 +1,70 @@
+{
+  "slug": "306620-dalton-tommie",
+  "name": "Dalton Tommie",
+  "nickname": "\"the Reaper\"",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "2000-06-12",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/306620-dalton-tommie",
+  "recentFights": [
+    {
+      "date": "2022-12-17T00:00:00.000Z",
+      "opponent": "Isaac Casey",
+      "opponentSlug": "304321-isaac-casey-crazy-eyes",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MTF 34",
+      "eventSlug": "93602-mtf-34",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-18T00:00:00.000Z",
+      "opponent": "Kelton Sneve",
+      "opponentSlug": "213615-kelton-sneve",
+      "result": "loss",
+      "method": "sub",
+      "event": "Throne MMA 1",
+      "eventSlug": "83034-throne-mma-1",
+      "round": 1,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2021-11-19T00:00:00.000Z",
+      "opponent": "Jake Thiel",
+      "opponentSlug": "186617-jacob-thiel",
+      "result": "win",
+      "method": "sub",
+      "event": "Captain's Fight Club 1",
+      "eventSlug": "83893-cfc-1",
+      "round": 3,
+      "timeInRound": "2:37"
+    },
+    {
+      "date": "2021-09-18T00:00:00.000Z",
+      "opponent": "Jayden Hicks",
+      "opponentSlug": "287212-jayden-hicks",
+      "result": "win",
+      "method": "other",
+      "event": "Warrior Games 9",
+      "eventSlug": "81710-warrior-games-9",
+      "round": 1,
+      "timeInRound": "1:09"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:41:52.757Z"
+}

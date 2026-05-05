@@ -1,0 +1,77 @@
+{
+  "slug": "328918-mario-farkas",
+  "name": "Mário Farkáš",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Slovak Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/328918-mario-farkas",
+  "recentFights": [
+    {
+      "date": "2024-04-27T00:00:00.000Z",
+      "opponent": "Umut Birdal",
+      "opponentSlug": "368664-umut-birdal",
+      "result": "loss",
+      "method": "other",
+      "event": "Sparta Championship Fighting 4",
+      "eventSlug": "111996-sparta-championship-fighting-4",
+      "round": 1,
+      "timeInRound": "2:35"
+    },
+    {
+      "date": "2023-09-09T00:00:00.000Z",
+      "opponent": "Alfred Cetaj",
+      "opponentSlug": "402262-alfred-cetaj",
+      "result": "loss",
+      "method": "other",
+      "event": "Shoutout Contender Series 6",
+      "eventSlug": "103973-shoutout-contender-series-6",
+      "round": 2,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2023-02-11T00:00:00.000Z",
+      "opponent": "Dávid Šajben",
+      "opponentSlug": "248854-david-sajben",
+      "result": "loss",
+      "method": "other",
+      "event": "Hanuman Cup 45",
+      "eventSlug": "96710-mammal-36-hanuman-cup",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-03T00:00:00.000Z",
+      "opponent": "Roman Hudec",
+      "opponentSlug": "197211-roman-hudec",
+      "result": null,
+      "method": "other",
+      "event": "MAMMAL 31: Summer Fight Night",
+      "eventSlug": "92504-mammal-31-summer-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-17T00:00:00.000Z",
+      "opponent": "Armen Hakobyan",
+      "opponentSlug": "230941-armen-hakobyan",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:57:44.825Z"
+}

@@ -1,0 +1,143 @@
+{
+  "slug": "418176-charlie-cleveland",
+  "name": "Charlie Cleveland",
+  "nickname": "The Reaper",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": 196,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1997-12-30",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/418176-charlie-cleveland",
+  "recentFights": [
+    {
+      "date": "2026-04-03T00:00:00.000Z",
+      "opponent": "Nyle Bartling",
+      "opponentSlug": "199512-nyle-bartling",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 230: Bartling vs. Cleveland",
+      "eventSlug": "140669-lfa-230-franklin-vs-urena",
+      "round": 1,
+      "timeInRound": "3:10"
+    },
+    {
+      "date": "2026-02-06T00:00:00.000Z",
+      "opponent": "Ben Wunder",
+      "opponentSlug": "341828-benjamin-wunder",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 226: Allakhverdiev vs. Kropschot",
+      "eventSlug": "138232-lfa-226-allakhverdiev-vs-kropschot",
+      "round": 1,
+      "timeInRound": "1:03"
+    },
+    {
+      "date": "2025-12-20T00:00:00.000Z",
+      "opponent": "Cameron Graham",
+      "opponentSlug": "191262-cameron-graham",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Carnage Fight Series 5",
+      "eventSlug": "133960-carnage-fight-series-5-fights-before-christmas",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-25T00:00:00.000Z",
+      "opponent": "Juan Silva",
+      "opponentSlug": "428119-juan-silva",
+      "result": "win",
+      "method": "sub",
+      "event": "EGO Fight Series 5",
+      "eventSlug": "131698-ego-fight-series-5-the-shipyard-brawl",
+      "round": 1,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2025-06-07T00:00:00.000Z",
+      "opponent": "RJ Harris",
+      "opponentSlug": "382864-rj-harris",
+      "result": "loss",
+      "method": "other",
+      "event": "Caged Thunder 32",
+      "eventSlug": "124821-caged-thunder-32",
+      "round": 2,
+      "timeInRound": "3:07"
+    },
+    {
+      "date": "2025-04-12T00:00:00.000Z",
+      "opponent": "Mark Gordon",
+      "opponentSlug": "314596-mark-gordon",
+      "result": "win",
+      "method": "other",
+      "event": "Caged Thunder 31",
+      "eventSlug": "123166-caged-thunder-31",
+      "round": 1,
+      "timeInRound": "0:51"
+    },
+    {
+      "date": "2025-02-01T00:00:00.000Z",
+      "opponent": "Jeremy Riley",
+      "opponentSlug": "307893-jeremy-riley",
+      "result": "win",
+      "method": "tko",
+      "event": "ECC Cage Wars 11",
+      "eventSlug": "123416-ecc-cage-wars-11",
+      "round": 1,
+      "timeInRound": "3:25"
+    },
+    {
+      "date": "2024-11-27T00:00:00.000Z",
+      "opponent": "Dan Albright",
+      "opponentSlug": "120862-daniel-albright",
+      "result": "win",
+      "method": "other",
+      "event": "Bayfront Brawl 16",
+      "eventSlug": "117396-bayfront-brawl-16",
+      "round": 1,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2024-07-06T00:00:00.000Z",
+      "opponent": "Juan Silva",
+      "opponentSlug": "428119-juan-silva",
+      "result": "win",
+      "method": "sub",
+      "event": "SCS: Red White Black & Blue Brawl",
+      "eventSlug": "115210-scs-red-white-black-blue-brawl",
+      "round": 2,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2024-03-29T00:00:00.000Z",
+      "opponent": "Alexander Collett",
+      "opponentSlug": "331692-alex-collett",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 180: Lawrence vs. Ward",
+      "eventSlug": "109365-legacy-fighting-alliance-180-lfa-180",
+      "round": 1,
+      "timeInRound": "1:53"
+    },
+    {
+      "date": "2023-12-09T00:00:00.000Z",
+      "opponent": "Kasey Beaucamp",
+      "opponentSlug": "194485-kasey-beaucamp",
+      "result": "win",
+      "method": "other",
+      "event": "EGO Fight Series 2",
+      "eventSlug": "107134-ego-fight-series-2",
+      "round": 1,
+      "timeInRound": "1:38"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:40:04.784Z"
+}

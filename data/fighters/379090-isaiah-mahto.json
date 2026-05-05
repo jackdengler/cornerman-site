@@ -1,0 +1,66 @@
+{
+  "slug": "379090-isaiah-mahto",
+  "name": "Isaiah Mahto",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1982-09-22",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/379090-isaiah-mahto",
+  "recentFights": [
+    {
+      "date": "2025-04-19T00:00:00.000Z",
+      "opponent": "Brock Hamer",
+      "opponentSlug": "299603-brock-hamer",
+      "result": "loss",
+      "method": "sub",
+      "event": "Absolute Combat League 7",
+      "eventSlug": "123167-absolute-combat-league-7",
+      "round": 1,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2024-04-13T00:00:00.000Z",
+      "opponent": "Jake Bower",
+      "opponentSlug": "292139-jake-bower",
+      "result": "loss",
+      "method": "sub",
+      "event": "Iowa Fight Series 2",
+      "eventSlug": "109676-iowa-fight-series-2",
+      "round": 2,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2023-11-11T00:00:00.000Z",
+      "opponent": "Kelton Sneve",
+      "opponentSlug": "213615-kelton-sneve",
+      "result": "loss",
+      "method": "sub",
+      "event": "Mecca 20",
+      "eventSlug": "103306-mecca-20",
+      "round": 1,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2023-04-01T00:00:00.000Z",
+      "opponent": "Casey Goulet",
+      "opponentSlug": "142552-casey-goulet",
+      "result": "win",
+      "method": "other",
+      "event": "Aftermath 3",
+      "eventSlug": "98002-aftermath-3",
+      "round": 1,
+      "timeInRound": "1:34"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:41:43.669Z"
+}

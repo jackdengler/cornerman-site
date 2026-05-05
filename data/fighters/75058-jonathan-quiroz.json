@@ -1,0 +1,198 @@
+{
+  "slug": "75058-jonathan-quiroz",
+  "name": "Jonathan Quiroz",
+  "nickname": "Sancho",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": 183,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1987-04-17",
+  "nationality": "Fresnillo, Zacatecas, Mexico",
+  "url": "https://www.tapology.com/fightcenter/fighters/75058-jonathan-quiroz",
+  "recentFights": [
+    {
+      "date": "2021-07-31T00:00:00.000Z",
+      "opponent": "Khasan Magomedsharipov",
+      "opponentSlug": "212534-gasan-magomedsharipov",
+      "result": "loss",
+      "method": "other",
+      "event": "Bellator 263",
+      "eventSlug": "79728-bellator-263",
+      "round": 2,
+      "timeInRound": "4:21"
+    },
+    {
+      "date": "2019-09-28T00:00:00.000Z",
+      "opponent": "AJ Agazarm",
+      "opponentSlug": "207811-aj-agazarm-leao",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bellator 228",
+      "eventSlug": "61700-bellator-228-pitbull-vs-archuleta",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-11T00:00:00.000Z",
+      "opponent": "Julian Baez",
+      "opponentSlug": "70952-julian-baez",
+      "result": "win",
+      "method": "tko",
+      "event": "LXF 1",
+      "eventSlug": "60077-lxf-1",
+      "round": 1,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2017-07-27T00:00:00.000Z",
+      "opponent": "Alberto Montes",
+      "opponentSlug": "162516-alberto-montes-the-promise",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combate 16: Combate Clasico",
+      "eventSlug": "47168-combate-clasico",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-02T00:00:00.000Z",
+      "opponent": "Kyler Phillips",
+      "opponentSlug": "93501-kyler-phillips",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 13: Millender vs. Holland",
+      "eventSlug": "45699-lfa-13-millender-vs-holland",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-02-25T00:00:00.000Z",
+      "opponent": "Michael Jackson",
+      "opponentSlug": "61669-michael-jackson",
+      "result": "win",
+      "method": "sub",
+      "event": "CXF 6: The Meryl Streep Showcase",
+      "eventSlug": "43861-cxf-6-the-meryl-streep-showcase",
+      "round": 1,
+      "timeInRound": "2:33"
+    },
+    {
+      "date": "2016-08-11T00:00:00.000Z",
+      "opponent": "Ryan Lilley",
+      "opponentSlug": "48775-ryan-lilley",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combate 8",
+      "eventSlug": "40861-combate-americas-combate-ocho",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-18T00:00:00.000Z",
+      "opponent": "Jose Estrada",
+      "opponentSlug": "97131-jose-estrada-froggy",
+      "result": "loss",
+      "method": "other",
+      "event": "Combate 5",
+      "eventSlug": "39212-combate-americas-3-road-to-the-championship",
+      "round": 1,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2015-11-22T00:00:00.000Z",
+      "opponent": "Antonio Lopez",
+      "opponentSlug": "62291-antonio-lopez",
+      "result": "win",
+      "method": "sub",
+      "event": "University of MMA",
+      "eventSlug": "36222-university-of-mma-fight-night-12",
+      "round": 1,
+      "timeInRound": "1:22"
+    },
+    {
+      "date": "2015-03-08T00:00:00.000Z",
+      "opponent": "Ryan Lilley",
+      "opponentSlug": "48775-ryan-lilley",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "University of MMA",
+      "eventSlug": "30789-university-of-mma-fight-night-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-29T00:00:00.000Z",
+      "opponent": "Antonio Vazquez",
+      "opponentSlug": "61430-antonio-vazquez",
+      "result": "win",
+      "method": "sub",
+      "event": "Spar Star MMA",
+      "eventSlug": "28313-spar-star-promotions-thanksgiving-edition",
+      "round": 2,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2014-10-11T00:00:00.000Z",
+      "opponent": "Roberto Hernandez",
+      "opponentSlug": "47706-roberto-hernandez",
+      "result": "loss",
+      "method": "other",
+      "event": "CFL HD 1: Mavericks, No Guts No Glory",
+      "eventSlug": "27163-cfl-hd-1-mavericks-no-guts-no-glory",
+      "round": 1,
+      "timeInRound": "1:34"
+    },
+    {
+      "date": "2014-08-16T00:00:00.000Z",
+      "opponent": "Jimmy Uribe",
+      "opponentSlug": "65854-jimmy-uribe",
+      "result": "win",
+      "method": "sub",
+      "event": "Mansion Fights 19",
+      "eventSlug": "25454-mansion-fights-19",
+      "round": 1,
+      "timeInRound": "1:09"
+    },
+    {
+      "date": "2014-08-09T00:00:00.000Z",
+      "opponent": "Sergio Perez",
+      "opponentSlug": "62478-sergio-perez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Spar Star MMA",
+      "eventSlug": "25450-spar-star",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-05-17T00:00:00.000Z",
+      "opponent": "Felipe Alvarez",
+      "opponentSlug": "64815-felipe-alvarez",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-03-15T00:00:00.000Z",
+      "opponent": "Chase Gibson",
+      "opponentSlug": "79391-chase-gibson",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:06:06.173Z"
+}

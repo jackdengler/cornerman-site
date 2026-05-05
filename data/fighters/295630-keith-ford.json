@@ -1,0 +1,59 @@
+{
+  "slug": "295630-keith-ford",
+  "name": "Keith Ford",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/295630-keith-ford",
+  "recentFights": [
+    {
+      "date": "2021-11-21T00:00:00.000Z",
+      "opponent": "Kody Steele",
+      "opponentSlug": "228289-kody-steele",
+      "result": "loss",
+      "method": "other",
+      "event": "Fury FC 54",
+      "eventSlug": "83611-fury-fc-54",
+      "round": 1,
+      "timeInRound": "0:13"
+    },
+    {
+      "date": "2021-06-26T00:00:00.000Z",
+      "opponent": "Alvaro Hurtado",
+      "opponentSlug": "79616-alvaro-hurtado",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fury Amateur Series 34",
+      "eventSlug": "79972-fury-amateur-series-34",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-05T00:00:00.000Z",
+      "opponent": "Matt Altman",
+      "opponentSlug": "295629-matt-altman",
+      "result": "win",
+      "method": "tko",
+      "event": "Valor FL 8: Everlast",
+      "eventSlug": "78726-valor-fl-8",
+      "round": 2,
+      "timeInRound": "2:25"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:19:01.149Z"
+}

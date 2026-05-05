@@ -1,0 +1,198 @@
+{
+  "slug": "104720-cosmin-tutu",
+  "name": "Cosmin Tutu",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "France",
+  "url": "https://www.tapology.com/fightcenter/fighters/104720-cosmin-tutu",
+  "recentFights": [
+    {
+      "date": "2024-02-24T00:00:00.000Z",
+      "opponent": "Geysim Derouiche",
+      "opponentSlug": "150178-zidane-geisym",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Stars Night",
+      "eventSlug": "110928-stars-night-tournament",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-01-18T00:00:00.000Z",
+      "opponent": "William Gomis",
+      "opponentSlug": "125696-william-gomis",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "100% Fight 33",
+      "eventSlug": "50294-100-fight-33",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-01-18T00:00:00.000Z",
+      "opponent": "Sofian Bougamoun",
+      "opponentSlug": "66464-soufian-bougamoun",
+      "result": "win",
+      "method": "sub",
+      "event": "100% Fight 33",
+      "eventSlug": "50294-100-fight-33",
+      "round": 1,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2017-10-14T00:00:00.000Z",
+      "opponent": "Richard Williams",
+      "opponentSlug": "126653-richard-williams",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage Warriors 87",
+      "eventSlug": "46148-cage-warriors-academy-wales",
+      "round": 1,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2017-04-30T00:00:00.000Z",
+      "opponent": "Phil Raeburn",
+      "opponentSlug": "5073-phil-raeburn",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Adrenalin: At The Grand",
+      "eventSlug": "43555-adrenalin-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-25T00:00:00.000Z",
+      "opponent": "Souk Khampasath",
+      "opponentSlug": "21199-souk-kampasath",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Knock Out Championship 10",
+      "eventSlug": "43605-knock-out-championship-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-02-11T00:00:00.000Z",
+      "opponent": "Benjamin Baudrier",
+      "opponentSlug": "58102-benjamin-baudrier",
+      "result": "win",
+      "method": "other",
+      "event": "Knock Out Championship",
+      "eventSlug": "41580-knock-out-championship-prestige-2016",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2016-10-29T00:00:00.000Z",
+      "opponent": "Donovan Desmae",
+      "opponentSlug": "81588-donovan-desmae",
+      "result": "loss",
+      "method": "sub",
+      "event": "360 MMA Fight Nights",
+      "eventSlug": "42593-360-mma-fight-nights-genesis",
+      "round": 1,
+      "timeInRound": "4:21"
+    },
+    {
+      "date": "2016-04-16T00:00:00.000Z",
+      "opponent": "Florent Conte",
+      "opponentSlug": "115757-florent-conte",
+      "result": "win",
+      "method": "dec-split",
+      "event": "GOTA 4: The Pride Edition",
+      "eventSlug": "39336-gota-4-the-pride-edition",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-16T00:00:00.000Z",
+      "opponent": "Morgan Heraud",
+      "opponentSlug": "66747-morgan-heraud",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "GOTA 4: The Pride Edition",
+      "eventSlug": "39336-gota-4-the-pride-edition",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-31T00:00:00.000Z",
+      "opponent": "Jean Dutriaux",
+      "opponentSlug": "117654-jean-dutriaux",
+      "result": "win",
+      "method": "other",
+      "event": "100% Fight: Contenders 30",
+      "eventSlug": "36207-100-fight-contenders-30",
+      "round": 1,
+      "timeInRound": "0:26"
+    },
+    {
+      "date": "2015-07-04T00:00:00.000Z",
+      "opponent": "Emerick Youmbi",
+      "opponentSlug": "112234-emerick-youmbi",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-06-20T00:00:00.000Z",
+      "opponent": "Antony Revereault",
+      "opponentSlug": "126603-antony-revereault",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-04-27T00:00:00.000Z",
+      "opponent": "Aymeric Mouton",
+      "opponentSlug": "67028-aymeric-mouton",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-02-02T00:00:00.000Z",
+      "opponent": "Aziz Stringer",
+      "opponentSlug": "79947-aziz-stringer",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-05-04T00:00:00.000Z",
+      "opponent": "Damien Peltier",
+      "opponentSlug": "95228-damien-peltier",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:55:22.212Z"
+}

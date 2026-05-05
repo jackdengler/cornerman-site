@@ -1,0 +1,253 @@
+{
+  "slug": "24724-pj-ste-marie",
+  "name": "PJ Ste-Marie",
+  "nickname": "The Shredder",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1989-09-27",
+  "nationality": "Kingston, Ontario, Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/24724-pj-ste-marie",
+  "recentFights": [
+    {
+      "date": "2024-03-16T00:00:00.000Z",
+      "opponent": "Avinash Chowtee",
+      "opponentSlug": "128692-avinesh-chowtee",
+      "result": "loss",
+      "method": "other",
+      "event": "BTC 23: Revolution",
+      "eventSlug": "107519-btc-23-revolution",
+      "round": 2,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2018-11-17T00:00:00.000Z",
+      "opponent": "Christopher Piriz",
+      "opponentSlug": "56946-chris-piriz",
+      "result": "loss",
+      "method": "other",
+      "event": "Maverick MMA 10",
+      "eventSlug": "56578-maverick-mma-10",
+      "round": 2,
+      "timeInRound": "4:38"
+    },
+    {
+      "date": "2018-08-25T00:00:00.000Z",
+      "opponent": "Serhiy Sidey",
+      "opponentSlug": "127056-serhiy-sidey",
+      "result": "loss",
+      "method": "other",
+      "event": "Fighting Alliance 7",
+      "eventSlug": "54110-fighting-alliance-7-legends",
+      "round": 2,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2017-11-10T00:00:00.000Z",
+      "opponent": "Corey Jackson",
+      "opponentSlug": "93173-corey-jackson",
+      "result": "win",
+      "method": "sub",
+      "event": "Wreck MMA: Gatineau",
+      "eventSlug": "49092-wreck-mma-gatineau",
+      "round": 1,
+      "timeInRound": "1:33"
+    },
+    {
+      "date": "2017-09-09T00:00:00.000Z",
+      "opponent": "Vladimir Kazbekov",
+      "opponentSlug": "54775-vladimir-kazbekov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "BTC 2: Valhalla",
+      "eventSlug": "47283-btc-2-valhalla",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-10T00:00:00.000Z",
+      "opponent": "Kyler Phillips",
+      "opponentSlug": "93501-kyler-phillips",
+      "result": "loss",
+      "method": "other",
+      "event": "CXF 4: Fighting for Liam",
+      "eventSlug": "41030-california-xtreme-fighting-locked-and-loaded",
+      "round": 1,
+      "timeInRound": "4:37"
+    },
+    {
+      "date": "2016-08-18T00:00:00.000Z",
+      "opponent": "Justin Saikley",
+      "opponentSlug": "63488-justin-saikley",
+      "result": null,
+      "method": "other",
+      "event": "Wreck MMA",
+      "eventSlug": "41385-wreck-mma",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-29T00:00:00.000Z",
+      "opponent": "Jordan Champion",
+      "opponentSlug": "53348-jordan-champion",
+      "result": "win",
+      "method": "sub",
+      "event": "Rumble at the Raceway",
+      "eventSlug": "35137-rumble-at-the-raceway",
+      "round": 1,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2015-04-11T00:00:00.000Z",
+      "opponent": "Shawn Crump",
+      "opponentSlug": "69503-shawn-crump",
+      "result": "loss",
+      "method": "sub",
+      "event": "NE Amateur MMA Championship Qualifier",
+      "eventSlug": "30009-ne-amateur-mma-championship-qualifier",
+      "round": 1,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2014-11-15T00:00:00.000Z",
+      "opponent": "Mike Karam",
+      "opponentSlug": "41294-mike-karam",
+      "result": "loss",
+      "method": "sub",
+      "event": "AFA: Fight Night 1",
+      "eventSlug": "27776-afa-7-fight-night",
+      "round": 3,
+      "timeInRound": "2:33"
+    },
+    {
+      "date": "2014-09-06T00:00:00.000Z",
+      "opponent": "Andre Belcarris",
+      "opponentSlug": "38373-andre-belcarris",
+      "result": "win",
+      "method": "sub",
+      "event": "Can-Am MMA Championships",
+      "eventSlug": "25121-can-am-mma-championships-border-wars",
+      "round": 3,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2014-05-03T00:00:00.000Z",
+      "opponent": "Ryan Donnelly",
+      "opponentSlug": "51195-ryan-donnelly",
+      "result": "win",
+      "method": "sub",
+      "event": "NE Amateur MMA Championship",
+      "eventSlug": "23483-northeast-amateur-mma-championship-quest-for-kings",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-02-22T00:00:00.000Z",
+      "opponent": "James Briggs",
+      "opponentSlug": "60181-james-briggs",
+      "result": "win",
+      "method": "sub",
+      "event": "NE Amateur MMA Qualifier",
+      "eventSlug": "23482-northeast-amateur-mma-qualifier-future-legends",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2013-11-29T00:00:00.000Z",
+      "opponent": "Kevin Legris",
+      "opponentSlug": "22279-kevin-legris",
+      "result": "win",
+      "method": "sub",
+      "event": "Victory MMA 11",
+      "eventSlug": "20059-victory-mma-11",
+      "round": 2,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2012-05-11T00:00:00.000Z",
+      "opponent": "Jeremie Boudreault",
+      "opponentSlug": "24702-jeremie-boudreault",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Hybrid 13",
+      "eventSlug": "13195-hybrid-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-04-21T00:00:00.000Z",
+      "opponent": "Cristian Mardari",
+      "opponentSlug": "25008-cristian-mardari",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fightquest 20",
+      "eventSlug": "13274-fightquest-20",
+      "round": 1,
+      "timeInRound": "1:22"
+    },
+    {
+      "date": "2012-02-11T00:00:00.000Z",
+      "opponent": "Abdulah Teymouri",
+      "opponentSlug": "24723-abdulah-teymouri",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Hybrid 12",
+      "eventSlug": "13199-hybrid-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-11-26T00:00:00.000Z",
+      "opponent": "Trever Leroux",
+      "opponentSlug": "24739-trevor-leroux",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Hybrid 11",
+      "eventSlug": "13200-hybrid-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-09-16T00:00:00.000Z",
+      "opponent": "Aundray David",
+      "opponentSlug": "24775-aundray-david",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Hybrid 10",
+      "eventSlug": "13215-hybrid-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-07-16T00:00:00.000Z",
+      "opponent": "Brian Sandaga",
+      "opponentSlug": "25258-brian-sandaga",
+      "result": "win",
+      "method": "sub",
+      "event": "Fightquest 18",
+      "eventSlug": "13327-fightquest-18",
+      "round": 1,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2011-03-05T00:00:00.000Z",
+      "opponent": "Steven Davis-Gosling",
+      "opponentSlug": "70167-steven-davis-gosling",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:06:10.911Z"
+}

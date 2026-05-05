@@ -1,0 +1,37 @@
+{
+  "slug": "24752-luke-connick",
+  "name": "Luke Connick",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/24752-luke-connick",
+  "recentFights": [
+    {
+      "date": "2011-11-26T00:00:00.000Z",
+      "opponent": "Mandel Nallo",
+      "opponentSlug": "24751-mandell-nallo",
+      "result": "loss",
+      "method": "other",
+      "event": "Hybrid 11",
+      "eventSlug": "13200-hybrid-11",
+      "round": 1,
+      "timeInRound": "3:00"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:08:20.259Z"
+}

@@ -1,0 +1,220 @@
+{
+  "slug": "67451-martin-day",
+  "name": "Martin Day",
+  "nickname": "The Spartan",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": 185,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1988-11-10",
+  "nationality": "Nagoya, Japan",
+  "url": "https://www.tapology.com/fightcenter/fighters/67451-martin-day",
+  "recentFights": [
+    {
+      "date": "2022-04-30T00:00:00.000Z",
+      "opponent": "Ramon Taveras",
+      "opponentSlug": "133259-ramon-tavares",
+      "result": "loss",
+      "method": "sub",
+      "event": "Combat Night Pro",
+      "eventSlug": "88764-combat-night-duval",
+      "round": 1,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2021-02-06T00:00:00.000Z",
+      "opponent": "Timur Valiev",
+      "opponentSlug": "45318-timur-valiev",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "73411-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-11-28T00:00:00.000Z",
+      "opponent": "Anderson dos Santos",
+      "opponentSlug": "50759-anderson-berlingeri-berinja",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "71907-ufc-fight-night-blaydes-vs-lewis",
+      "round": 1,
+      "timeInRound": "4:35"
+    },
+    {
+      "date": "2020-07-11T00:00:00.000Z",
+      "opponent": "Davey Grant",
+      "opponentSlug": "18815-david-grant",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 251: Usman vs. Masvidal",
+      "eventSlug": "67725-ufc-252",
+      "round": 3,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2018-11-24T00:00:00.000Z",
+      "opponent": "Pingyuan Liu",
+      "opponentSlug": "17551-pingyuan-liu",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC Fight Night 141",
+      "eventSlug": "54135-ufc-fight-night-141",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-08-04T00:00:00.000Z",
+      "opponent": "Brady Huang",
+      "opponentSlug": "51411-brady-huang",
+      "result": "win",
+      "method": "tko",
+      "event": "URCC 34: Destiny",
+      "eventSlug": "53343-urcc-34",
+      "round": 2,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2018-06-23T00:00:00.000Z",
+      "opponent": "Shojin Miki",
+      "opponentSlug": "80902-shojin-miki",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Destiny MMA",
+      "eventSlug": "53213-destiny-mma",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-02-17T00:00:00.000Z",
+      "opponent": "Richard Barnard",
+      "opponentSlug": "90296-richard-barnard-hit-to-hard",
+      "result": "win",
+      "method": "sub",
+      "event": "Destiny MMA",
+      "eventSlug": "50150-destiny-mma-fight-night-4",
+      "round": 1,
+      "timeInRound": "0:55"
+    },
+    {
+      "date": "2017-08-15T00:00:00.000Z",
+      "opponent": "Jaime Alvarez",
+      "opponentSlug": "51356-jamie-alvarez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "DW's Contender Series 2017",
+      "eventSlug": "46987-dana-whites-contender-series-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-09T00:00:00.000Z",
+      "opponent": "Shojin Miki",
+      "opponentSlug": "80902-shojin-miki",
+      "result": "win",
+      "method": "other",
+      "event": "Mid-Pacific Championships 3",
+      "eventSlug": "47319-mid-pacific-championships-3",
+      "round": 1,
+      "timeInRound": "4:32"
+    },
+    {
+      "date": "2017-03-18T00:00:00.000Z",
+      "opponent": "Nohelin Hernandez",
+      "opponentSlug": "62298-nohelin-hernandez",
+      "result": "loss",
+      "method": "other",
+      "event": "GKO 9",
+      "eventSlug": "43178-global-knockout-9",
+      "round": 1,
+      "timeInRound": "3:20"
+    },
+    {
+      "date": "2016-08-04T00:00:00.000Z",
+      "opponent": "Richard Parra III",
+      "opponentSlug": "88479-richard-parra",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Tachi PF 28",
+      "eventSlug": "40468-tachi-pf-28",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-07T00:00:00.000Z",
+      "opponent": "Anthony Torres",
+      "opponentSlug": "50859-anthony-torres",
+      "result": "win",
+      "method": "sub",
+      "event": "West Coast FC 17",
+      "eventSlug": "39214-west-coast-fc-17-emmett-vs-aveles",
+      "round": 1,
+      "timeInRound": "1:55"
+    },
+    {
+      "date": "2015-10-30T00:00:00.000Z",
+      "opponent": "Jeffery Oher",
+      "opponentSlug": "113244-jeffery-oher",
+      "result": "win",
+      "method": "other",
+      "event": "Trinity SC",
+      "eventSlug": "36191-trinity-sc",
+      "round": 2,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2015-01-17T00:00:00.000Z",
+      "opponent": "Dylan Morgan",
+      "opponentSlug": "32024-dylan-morgan",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Destiny Na Koa 8",
+      "eventSlug": "29214-destiny-na-koa-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-02T00:00:00.000Z",
+      "opponent": "Ryan Mondala",
+      "opponentSlug": "84132-ryan-mondala",
+      "result": "win",
+      "method": "other",
+      "event": "Destiny Na Koa 7",
+      "eventSlug": "27033-destiny-na-koa-7",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-08-03T00:00:00.000Z",
+      "opponent": "Shiloh Torres-Umi",
+      "opponentSlug": "74840-shiloh-torres-umi",
+      "result": "win",
+      "method": "other",
+      "event": "Destiny Na Koa 6",
+      "eventSlug": "25224-destiny-na-koa-6",
+      "round": 2,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2014-05-04T00:00:00.000Z",
+      "opponent": "Manakiai Punahala",
+      "opponentSlug": "69526-manakiai-punahala",
+      "result": "win",
+      "method": "tko",
+      "event": "Destiny Na Koa 5",
+      "eventSlug": "23645-destony-mma-noa-ka-5",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:36:03.202Z"
+}

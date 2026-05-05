@@ -1,0 +1,92 @@
+{
+  "slug": "162398-adrian-hernandez",
+  "name": "Adrian Hernandez",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/162398-adrian-hernandez",
+  "recentFights": [
+    {
+      "date": "2019-12-15T00:00:00.000Z",
+      "opponent": "Oscar Jurado Sánchez",
+      "opponentSlug": "178522-oscar-alejandro-jurado-snchez",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Fight Card Entertainment",
+      "eventSlug": "62848-fight-card-entertainment-takeover",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-20T00:00:00.000Z",
+      "opponent": "Elias Garcia",
+      "opponentSlug": "170215-elias-garcia",
+      "result": "loss",
+      "method": "sub",
+      "event": "Total Fight Challenge",
+      "eventSlug": "53844-total-fight-challenge",
+      "round": 3,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2018-03-30T00:00:00.000Z",
+      "opponent": "Derek McMillan",
+      "opponentSlug": "118087-derek-mcmillan",
+      "result": "win",
+      "method": "other",
+      "event": "Midwest Fight League",
+      "eventSlug": "51229-midwest-fight-league-fight-knight-9",
+      "round": 1,
+      "timeInRound": "2:52"
+    },
+    {
+      "date": "2018-02-23T00:00:00.000Z",
+      "opponent": "Oleg Shilkrut",
+      "opponentSlug": "177653-oleg-shilkrut",
+      "result": "win",
+      "method": "sub",
+      "event": "Total Fight Challenge",
+      "eventSlug": "50157-total-fight-challenge",
+      "round": 3,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2017-11-08T00:00:00.000Z",
+      "opponent": "Alberto Garcia",
+      "opponentSlug": "65229-alberto-garcia",
+      "result": "win",
+      "method": "other",
+      "event": "United Combat League",
+      "eventSlug": "48296-united-combat-league-brawl-at-bourbon-street",
+      "round": 1,
+      "timeInRound": "0:10"
+    },
+    {
+      "date": "2017-07-14T00:00:00.000Z",
+      "opponent": "Anthony Farfan",
+      "opponentSlug": "142618-anthony-farfan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Total Fight Challenge",
+      "eventSlug": "46260-total-fight-challenge",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:43:19.105Z"
+}

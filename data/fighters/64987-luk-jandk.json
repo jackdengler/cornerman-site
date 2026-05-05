@@ -1,0 +1,55 @@
+{
+  "slug": "64987-luk-jandk",
+  "name": "Lukáš Jandák",
+  "nickname": "The Stinking Batman",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1993-02-10",
+  "nationality": "Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/64987-luk-jandk",
+  "recentFights": [
+    {
+      "date": "2014-06-21T00:00:00.000Z",
+      "opponent": "Pavel Lamacký",
+      "opponentSlug": "159898-pavel-lamack",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 3,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2014-06-14T00:00:00.000Z",
+      "opponent": "Radek Honka",
+      "opponentSlug": "44525-radek-honka",
+      "result": "win",
+      "method": "sub",
+      "event": "Night of Champions 1",
+      "eventSlug": "25695-night-of-champions-1",
+      "round": 1,
+      "timeInRound": "2:57"
+    },
+    {
+      "date": "2014-03-07T00:00:00.000Z",
+      "opponent": "Jan Malach",
+      "opponentSlug": "64719-jan-malach",
+      "result": "loss",
+      "method": "sub",
+      "event": "MMAA Arena 3",
+      "eventSlug": "23068-mmaa-arena-3-vmola-vs-strus",
+      "round": 1,
+      "timeInRound": "4:53"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:08:22.929Z"
+}

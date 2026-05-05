@@ -1,0 +1,176 @@
+{
+  "slug": "29215-phillip-doig",
+  "name": "Phillip Doig",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1986-10-04",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/29215-phillip-doig",
+  "recentFights": [
+    {
+      "date": "2017-09-15T00:00:00.000Z",
+      "opponent": "Joseph Schick",
+      "opponentSlug": "106754-joseph-schick",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Ring of Combat 60",
+      "eventSlug": "46538-ring-of-combat-60",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-06-19T00:00:00.000Z",
+      "opponent": "Dan Dubuque",
+      "opponentSlug": "30734-dan-dubuque",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Reality Fighting",
+      "eventSlug": "29217-reality-fighting",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-06-28T00:00:00.000Z",
+      "opponent": "Pat White",
+      "opponentSlug": "8396-pat-white",
+      "result": "win",
+      "method": "other",
+      "event": "CFFC 37: Anyanwu vs. Bell",
+      "eventSlug": "24307-cffc-37",
+      "round": 1,
+      "timeInRound": "4:47"
+    },
+    {
+      "date": "2013-05-10T00:00:00.000Z",
+      "opponent": "Chris Sladky",
+      "opponentSlug": "37468-chris-sladky",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "XCC: Uprising",
+      "eventSlug": "17960-xcc-uprising",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-09-08T00:00:00.000Z",
+      "opponent": "Jordan Stiner",
+      "opponentSlug": "33700-jordan-stiner",
+      "result": "loss",
+      "method": "sub",
+      "event": "New Breed Fighters 38",
+      "eventSlug": "14327-new-breed-fighters-38",
+      "round": 1,
+      "timeInRound": "4:50"
+    },
+    {
+      "date": "2011-06-11T00:00:00.000Z",
+      "opponent": "Jordan Stiner",
+      "opponentSlug": "33700-jordan-stiner",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "New Breed Fighters 35",
+      "eventSlug": "32752-new-breed-fighters-35-one-step-closer",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-04-01T00:00:00.000Z",
+      "opponent": "Pat Sabatini",
+      "opponentSlug": "29210-pat-sabatini",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-10-09T00:00:00.000Z",
+      "opponent": "Mtume Goodrum",
+      "opponentSlug": "14540-mtume-goodrum",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "New Breed Fighters 34",
+      "eventSlug": "32753-new-breed-fighters-34-ultimate-mma-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-08-15T00:00:00.000Z",
+      "opponent": "Dan Cion",
+      "opponentSlug": "15355-dan-cion",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "New Breed Fighters 24",
+      "eventSlug": "27237-new-breed-fighters-24-wilkies-warriors-against-the-world",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-03-07T00:00:00.000Z",
+      "opponent": "Ryan Vaccaro",
+      "opponentSlug": "ryan-vaccaro",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "New Breed Fighters 20",
+      "eventSlug": "29438-new-breed-fighters-20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-11-26T00:00:00.000Z",
+      "opponent": "Steve Sierra",
+      "opponentSlug": "70948-steve-sierra-ugly-knuckles",
+      "result": "win",
+      "method": "sub",
+      "event": "New Breed Fighters 19",
+      "eventSlug": "35646-new-breed-fighters",
+      "round": 2,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2008-07-12T00:00:00.000Z",
+      "opponent": "Craig Alexander",
+      "opponentSlug": "32237-craig-alexander",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "New Breed Fighters 15",
+      "eventSlug": "40822-new-breed-fighters-15-return-to-the-abyss",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-04-26T00:00:00.000Z",
+      "opponent": "Sevak Grigoryan",
+      "opponentSlug": "146756-sevak-grigoryan",
+      "result": "win",
+      "method": "sub",
+      "event": "New Breed Fighters 12",
+      "eventSlug": "43682-new-breed-fighters-12",
+      "round": 3,
+      "timeInRound": "2:03"
+    },
+    {
+      "date": "2007-08-24T00:00:00.000Z",
+      "opponent": "Jeff Cressman",
+      "opponentSlug": "11497-jeff-cressman",
+      "result": "win",
+      "method": "sub",
+      "event": "New Breed Fighters 6",
+      "eventSlug": "43628-new-breed-fighters-6",
+      "round": 2,
+      "timeInRound": "1:23"
+    }
+  ],
+  "lastVerified": "2026-04-25T23:06:35.483Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "330207-aleksandr-kolomytsev",
+  "name": "Aleksandr Kolomytsev",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/330207-aleksandr-kolomytsev",
+  "recentFights": [
+    {
+      "date": "2022-07-01T00:00:00.000Z",
+      "opponent": "Alexander Ponomorov",
+      "opponentSlug": "385437-alexander-ponomorov",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Rostov Fight Night 2022",
+      "eventSlug": "100865-rostov-fight-night-2022-for-victory",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-27T00:00:00.000Z",
+      "opponent": "Shamil Gaziev",
+      "opponentSlug": "201352-shamil-gaziev",
+      "result": "loss",
+      "method": "sub",
+      "event": "ProFC 70: Anniversary Tournament",
+      "eventSlug": "86888-profc-70",
+      "round": 1,
+      "timeInRound": "2:56"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:55:25.509Z"
+}

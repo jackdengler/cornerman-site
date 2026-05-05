@@ -1,0 +1,81 @@
+{
+  "slug": "358729-reis-newman",
+  "name": "Reis Newman",
+  "nickname": "Lord",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "2001-09-17",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/358729-reis-newman",
+  "recentFights": [
+    {
+      "date": "2024-10-12T00:00:00.000Z",
+      "opponent": "Jeremiah Huff",
+      "opponentSlug": "311857-jeremiah-huff",
+      "result": "loss",
+      "method": "other",
+      "event": "Caged Aggression 38",
+      "eventSlug": "116510-caged-aggression-38-retaliation-night-2",
+      "round": 1,
+      "timeInRound": "2:23"
+    },
+    {
+      "date": "2024-08-03T00:00:00.000Z",
+      "opponent": "Damon Hoback",
+      "opponentSlug": "353202-damon-hoback",
+      "result": "win",
+      "method": "sub",
+      "event": "True Revelation 57",
+      "eventSlug": "112362-true-revelation-57",
+      "round": 2,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2023-10-13T00:00:00.000Z",
+      "opponent": "Kendall Bragg",
+      "opponentSlug": "206800-kendall-bragg",
+      "result": "loss",
+      "method": "sub",
+      "event": "Caged Aggression 36",
+      "eventSlug": "103395-caged-aggression-36-bad-blood-night-1",
+      "round": 2,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2023-03-25T00:00:00.000Z",
+      "opponent": "Chris Polanco",
+      "opponentSlug": "249211-chris-polanco",
+      "result": "win",
+      "method": "other",
+      "event": "Caged Aggression 35",
+      "eventSlug": "92882-caged-aggression-35-the-trilogy-night-3",
+      "round": 1,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2023-01-07T00:00:00.000Z",
+      "opponent": "Noah Bellini",
+      "opponentSlug": "292158-noah-bellini",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "True Revelation 50",
+      "eventSlug": "94911-true-revelation-50-night-2",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:45:04.212Z"
+}

@@ -1,0 +1,112 @@
+{
+  "slug": "214000-chelsea-hackett",
+  "name": "Chelsea Hackett",
+  "nickname": "Hammer",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 3,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 163,
+  "reachCm": 168,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1999-10-29",
+  "nationality": "Gold Coast, Queensland, Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/214000-chelsea-hackett",
+  "recentFights": [
+    {
+      "date": "2026-04-16T00:00:00.000Z",
+      "opponent": "Andrea Vázquez",
+      "opponentSlug": "281167-andrea-vazquez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "PFL Belfast",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-13T00:00:00.000Z",
+      "opponent": "Dakota Ditcheva",
+      "opponentSlug": "216494-dakota-ditcheva",
+      "result": "loss",
+      "method": "other",
+      "event": "PFL 4: 2024 Regular Season",
+      "round": 1,
+      "timeInRound": "3:22"
+    },
+    {
+      "date": "2024-04-04T00:00:00.000Z",
+      "opponent": "Jena Bishop",
+      "opponentSlug": "211607-jena-bishop",
+      "result": "loss",
+      "method": "sub",
+      "event": "PFL 1: 2024 Regular Season",
+      "round": 1,
+      "timeInRound": "4:15"
+    },
+    {
+      "date": "2023-08-04T00:00:00.000Z",
+      "opponent": "Ky Bennett",
+      "opponentSlug": "151246-ky-bennett",
+      "result": "win",
+      "method": "sub",
+      "event": "PFL 7: 2023 Playoffs",
+      "round": 2,
+      "timeInRound": "4:42"
+    },
+    {
+      "date": "2020-11-17T00:00:00.000Z",
+      "opponent": "Victoria Leonardo",
+      "opponentSlug": "102107-victoria-leonardo",
+      "result": "loss",
+      "method": "other",
+      "event": "Contender Series 2020",
+      "round": 2,
+      "timeInRound": "4:41"
+    },
+    {
+      "date": "2020-03-07T00:00:00.000Z",
+      "opponent": "Rhiannon Thompson",
+      "opponentSlug": "25233-rhiannon-thompson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 52",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-01T00:00:00.000Z",
+      "opponent": "Nicole Szepesvary",
+      "opponentSlug": "141608-nicole-szepesvary",
+      "result": "win",
+      "method": "tko",
+      "event": "Eternal MMA 49",
+      "round": 2,
+      "timeInRound": "0:08"
+    },
+    {
+      "date": "2019-07-27T00:00:00.000Z",
+      "opponent": "Danielle Hayes",
+      "opponentSlug": "142913-danielle-hayes",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 46",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-25T00:00:00.000Z",
+      "opponent": "Mel Zeman",
+      "opponentSlug": "137353-mel-zeman",
+      "result": "draw",
+      "method": "dec-majority",
+      "event": "Eternal MMA 45",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-16T23:59:33.412Z"
+}

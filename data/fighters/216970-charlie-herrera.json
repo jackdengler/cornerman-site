@@ -1,0 +1,48 @@
+{
+  "slug": "216970-charlie-herrera",
+  "name": "Charlie Herrera",
+  "nickname": "Crazy Dragon",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1975-09-18",
+  "nationality": "Chicago, Illinois",
+  "url": "https://www.tapology.com/fightcenter/fighters/216970-charlie-herrera",
+  "recentFights": [
+    {
+      "date": "2019-06-15T00:00:00.000Z",
+      "opponent": "Korey Taylor",
+      "opponentSlug": "193806-korey-taylor",
+      "result": "loss",
+      "method": "sub",
+      "event": "Combat Night 107",
+      "eventSlug": "61096-combat-night-107",
+      "round": 1,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2019-03-16T00:00:00.000Z",
+      "opponent": "Owen Beining",
+      "opponentSlug": "216972-owen-beining",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combat Night Pro",
+      "eventSlug": "58608-combat-night-pro-duval",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:37:20.604Z"
+}

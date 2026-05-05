@@ -1,0 +1,44 @@
+{
+  "slug": "454515-mohammad-azimi",
+  "name": "Nasim Azimi",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "2002-03-11",
+  "nationality": "Afghanistan",
+  "url": "https://www.tapology.com/fightcenter/fighters/454515-mohammad-azimi",
+  "recentFights": [
+    {
+      "date": "2024-12-21T00:00:00.000Z",
+      "opponent": "Harun Kurt",
+      "opponentSlug": "312363-harun-kurt",
+      "result": "loss",
+      "method": "other",
+      "event": "GMC 40",
+      "eventSlug": "111726-gmc-40",
+      "round": 3,
+      "timeInRound": "4:08"
+    },
+    {
+      "date": "2024-09-07T00:00:00.000Z",
+      "opponent": "Firas Daud",
+      "opponentSlug": "365273-firas-daud",
+      "result": "loss",
+      "method": "other",
+      "event": "GMC 39",
+      "eventSlug": "114714-gmc-39",
+      "round": 1,
+      "timeInRound": "2:50"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:10:04.678Z"
+}

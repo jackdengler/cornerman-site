@@ -1,0 +1,231 @@
+{
+  "slug": "110963-austin-wourms",
+  "name": "Austin Wourms",
+  "nickname": "Starkiller",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 191,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/110963-austin-wourms",
+  "recentFights": [
+    {
+      "date": "2025-05-02T00:00:00.000Z",
+      "opponent": "Geno Morelli",
+      "opponentSlug": "268160-geno-morelli",
+      "result": "loss",
+      "method": "other",
+      "event": "United Fight League 6",
+      "eventSlug": "123643-united-fight-league-6-phoenix-vs-orange-county",
+      "round": 1,
+      "timeInRound": "3:40"
+    },
+    {
+      "date": "2024-11-16T00:00:00.000Z",
+      "opponent": "Aleko Sagliani",
+      "opponentSlug": "130235-aliko-sagliani",
+      "result": "win",
+      "method": "other",
+      "event": "RUF 60",
+      "eventSlug": "117386-ruf-60",
+      "round": 1,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2024-08-17T00:00:00.000Z",
+      "opponent": "Derrick Brown",
+      "opponentSlug": "53652-derrick-brown",
+      "result": "win",
+      "method": "sub",
+      "event": "RUF 59",
+      "eventSlug": "115139-ringside-unified-fighting-ruf-59",
+      "round": 1,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2023-05-19T00:00:00.000Z",
+      "opponent": "Cedric Katambwa",
+      "opponentSlug": "151861-cedric-katambwa",
+      "result": "nc",
+      "method": "other",
+      "event": "LFA 158: Lebosnoyani vs. Jones",
+      "eventSlug": "100039-lfa-158-lebosnoyani-vs-jones",
+      "round": 1,
+      "timeInRound": "0:53"
+    },
+    {
+      "date": "2022-11-04T00:00:00.000Z",
+      "opponent": "Bobby Moffett",
+      "opponentSlug": "29376-bobby-moffett",
+      "result": "loss",
+      "method": "other",
+      "event": "Freedom Fight Night 3",
+      "eventSlug": "91340-freedom-fight-night-3-team-bader-vs-team-henderson",
+      "round": 1,
+      "timeInRound": "3:12"
+    },
+    {
+      "date": "2022-07-08T00:00:00.000Z",
+      "opponent": "Lucas Clay",
+      "opponentSlug": "119299-lucas-clay",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 135: Leyva vs. Reis",
+      "eventSlug": "90204-lfa-135-leyva-vs-reis",
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2022-02-11T00:00:00.000Z",
+      "opponent": "JaCobi Jones",
+      "opponentSlug": "216724-jakobi-jones",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 124: Formiga vs. Bunes",
+      "eventSlug": "86479-lfa-124-formiga-vs-bunes",
+      "round": 1,
+      "timeInRound": "1:18"
+    },
+    {
+      "date": "2021-12-03T00:00:00.000Z",
+      "opponent": "Chris Renteria",
+      "opponentSlug": "153553-cristobal-renteria",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 119: Silveira vs. Revel",
+      "eventSlug": "84173-lfa-119-silveira-vs-revel",
+      "round": 1,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2021-10-23T00:00:00.000Z",
+      "opponent": "Tony Pike",
+      "opponentSlug": "309496-tony-pike",
+      "result": "win",
+      "method": "sub",
+      "event": "RUF 44",
+      "eventSlug": "83124-ruf-44-road-to-one-the-quarterfinals",
+      "round": 1,
+      "timeInRound": "0:20"
+    },
+    {
+      "date": "2021-04-25T00:00:00.000Z",
+      "opponent": "Ernesto Rodriguez",
+      "opponentSlug": "226008-ernesto-rodriguez",
+      "result": "loss",
+      "method": "other",
+      "event": "RUF MMA 40: Ft Road to ONE",
+      "eventSlug": "78541-ruf-mma-40-road-to-one",
+      "round": 1,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2019-10-13T00:00:00.000Z",
+      "opponent": "Travis Foster",
+      "opponentSlug": "45185-travis-foster",
+      "result": "loss",
+      "method": "other",
+      "event": "RUF MMA 36",
+      "eventSlug": "63404-ruf-mma-36",
+      "round": 2,
+      "timeInRound": "3:35"
+    },
+    {
+      "date": "2019-09-07T00:00:00.000Z",
+      "opponent": "Andrew Lazo",
+      "opponentSlug": "46201-andrew-lazo",
+      "result": "win",
+      "method": "sub",
+      "event": "KOTC: Reaction Time",
+      "eventSlug": "61421-kotc",
+      "round": 1,
+      "timeInRound": "3:45"
+    },
+    {
+      "date": "2018-09-14T00:00:00.000Z",
+      "opponent": "Flavian Pilgrim",
+      "opponentSlug": "57033-flavian-pilgrim",
+      "result": "loss",
+      "method": "other",
+      "event": "Combate 24: Alday vs. Lopez",
+      "eventSlug": "55053-combate-22-marroquin-vs-alday",
+      "round": 1,
+      "timeInRound": "3:25"
+    },
+    {
+      "date": "2018-05-19T00:00:00.000Z",
+      "opponent": "John Long",
+      "opponentSlug": "83152-john-long",
+      "result": "win",
+      "method": "sub",
+      "event": "Iron Boy MMA 11",
+      "eventSlug": "52598-iron-boy-mma-11",
+      "round": 1,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2016-11-26T00:00:00.000Z",
+      "opponent": "Bobby Oakley",
+      "opponentSlug": "39505-bobby-oakley",
+      "result": "win",
+      "method": "sub",
+      "event": "KOTC: Duke City 2",
+      "eventSlug": "42432-kotc-dark-city-2",
+      "round": 1,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2016-08-13T00:00:00.000Z",
+      "opponent": "Ernesto Salvidrez",
+      "opponentSlug": "73099-ernesto-salvidre",
+      "result": "loss",
+      "method": "tko",
+      "event": "KOTC: Will Power",
+      "eventSlug": "41200-kotc-will-power",
+      "round": 1,
+      "timeInRound": "1:57"
+    },
+    {
+      "date": "2015-08-15T00:00:00.000Z",
+      "opponent": "Christopher Preece",
+      "opponentSlug": "83273-christopher-preece",
+      "result": "loss",
+      "method": "other",
+      "event": "KOTC: Grind",
+      "eventSlug": "34648-kotc-grind",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2012-09-22T00:00:00.000Z",
+      "opponent": "Andrew Lazo",
+      "opponentSlug": "46201-andrew-lazo",
+      "result": "win",
+      "method": "sub",
+      "event": "XFS: Anarchy",
+      "eventSlug": "16844-xfs-anarchy",
+      "round": 1,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2012-04-21T00:00:00.000Z",
+      "opponent": "Ruben Valdivona",
+      "opponentSlug": "156428-ruben-valdivona",
+      "result": "loss",
+      "method": "other",
+      "event": "XFS Amateur Series 2",
+      "eventSlug": "30725-xfs-amateur-series-epicenter",
+      "round": 1,
+      "timeInRound": "1:50"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:42:04.096Z"
+}

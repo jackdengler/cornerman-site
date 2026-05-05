@@ -1,0 +1,220 @@
+{
+  "slug": "24210-robert-seres",
+  "name": "Robert Seres",
+  "nickname": "Maximus",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/24210-robert-seres",
+  "recentFights": [
+    {
+      "date": "2025-05-30T00:00:00.000Z",
+      "opponent": "Zackery Powell",
+      "opponentSlug": "89974-zackery-powell",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Samourai MMA 15",
+      "eventSlug": "128716-samourai-mma-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-08-30T00:00:00.000Z",
+      "opponent": "Mandel Nallo",
+      "opponentSlug": "24751-mandell-nallo",
+      "result": "loss",
+      "method": "sub",
+      "event": "Samourai MMA 11",
+      "eventSlug": "116834-samourai-mma-11-chapitre-11",
+      "round": 1,
+      "timeInRound": "4:07"
+    },
+    {
+      "date": "2023-08-04T00:00:00.000Z",
+      "opponent": "Xavier Nash",
+      "opponentSlug": "41524-xavier-nash",
+      "result": "win",
+      "method": "tko",
+      "event": "Samourai MMA 7",
+      "eventSlug": "102857-samourai-mma-7",
+      "round": 1,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2023-03-11T00:00:00.000Z",
+      "opponent": "Jesse Ronson",
+      "opponentSlug": "14581-jesse-ronson-the-body-snatcher",
+      "result": "loss",
+      "method": "sub",
+      "event": "Samourai MMA 5",
+      "eventSlug": "98508-samourai-mma-5",
+      "round": 1,
+      "timeInRound": "0:42"
+    },
+    {
+      "date": "2022-11-12T00:00:00.000Z",
+      "opponent": "Guillaume DeLorenzi",
+      "opponentSlug": "3245-guillaume-delorenzi-il-toro",
+      "result": "win",
+      "method": "other",
+      "event": "Samourai MMA 4",
+      "eventSlug": "94699-samourai-mma-4",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-02T00:00:00.000Z",
+      "opponent": "Patrick Connors",
+      "opponentSlug": "72086-patrick-connors",
+      "result": "win",
+      "method": "sub",
+      "event": "Samourai MMA 3",
+      "eventSlug": "90825-samourai-mma-3",
+      "round": 1,
+      "timeInRound": "3:12"
+    },
+    {
+      "date": "2022-05-06T00:00:00.000Z",
+      "opponent": "Kevin Généreux",
+      "opponentSlug": "20753-kevin-genereux",
+      "result": "win",
+      "method": "tko",
+      "event": "Samourai MMA 2",
+      "eventSlug": "86981-samourai-mma-2",
+      "round": 1,
+      "timeInRound": "0:11"
+    },
+    {
+      "date": "2018-09-21T00:00:00.000Z",
+      "opponent": "Jeremie Capony",
+      "opponentSlug": "24212-jeremie-capony",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "TKO 44",
+      "eventSlug": "53478-tko-44",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-08T00:00:00.000Z",
+      "opponent": "Michael Dufort",
+      "opponentSlug": "21457-mic-dufort",
+      "result": "loss",
+      "method": "sub",
+      "event": "TKO 40: Dénouement",
+      "eventSlug": "45575-tko-40",
+      "round": 1,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2016-11-04T00:00:00.000Z",
+      "opponent": "Dan Lariviere",
+      "opponentSlug": "24213-dan-lariviere",
+      "result": "win",
+      "method": "sub",
+      "event": "TKO 36: Resurrection",
+      "eventSlug": "41388-tko-36",
+      "round": 2,
+      "timeInRound": "3:12"
+    },
+    {
+      "date": "2015-10-17T00:00:00.000Z",
+      "opponent": "Matthew Rusniak",
+      "opponentSlug": "20752-mathew-rusniack",
+      "result": "win",
+      "method": "tko",
+      "event": "Hybrid Pro Series 4",
+      "eventSlug": "34277-hybrid-pro-series-4",
+      "round": 1,
+      "timeInRound": "0:10"
+    },
+    {
+      "date": "2014-11-22T00:00:00.000Z",
+      "opponent": "Jean-Philippe Cantin Gagnon",
+      "opponentSlug": "27483-jean-philippe-cantin",
+      "result": "win",
+      "method": "sub",
+      "event": "FIGHT4PRIDE Championship 2",
+      "eventSlug": "26764-fight4pride-championship-2",
+      "round": 1,
+      "timeInRound": "3:02"
+    },
+    {
+      "date": "2014-03-05T00:00:00.000Z",
+      "opponent": "Samuel Desruisseaux",
+      "opponentSlug": "24214-samuel-desruisseaux",
+      "result": "win",
+      "method": "sub",
+      "event": "Wednesday Night Fights 1",
+      "eventSlug": "22029-mma-fight-night-1",
+      "round": 1,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2012-04-20T00:00:00.000Z",
+      "opponent": "Andrew Walters",
+      "opponentSlug": "26144-andrew-walters",
+      "result": "loss",
+      "method": "sub",
+      "event": "Wreck MMA 9",
+      "eventSlug": "12309-wreck-mma-9-road-to-glory",
+      "round": 1,
+      "timeInRound": "4:15"
+    },
+    {
+      "date": "2013-10-19T00:00:00.000Z",
+      "opponent": "Jordan Balmir",
+      "opponentSlug": "35713-jordan-balmir",
+      "result": "loss",
+      "method": "sub",
+      "event": "Ultimaction 10",
+      "eventSlug": "19353-ultimaction-10",
+      "round": 4,
+      "timeInRound": "1:52"
+    },
+    {
+      "date": "2013-05-18T00:00:00.000Z",
+      "opponent": "Gary Pearson",
+      "opponentSlug": "29638-gary-pearson",
+      "result": "win",
+      "method": "other",
+      "event": "Victory MMA 9",
+      "eventSlug": "17429-victory-mma-9",
+      "round": 1,
+      "timeInRound": "0:29"
+    },
+    {
+      "date": "2012-02-18T00:00:00.000Z",
+      "opponent": "Jason Fontaine",
+      "opponentSlug": "24211-jason-fontaine",
+      "result": "win",
+      "method": "sub",
+      "event": "EFL 4: Bad Intention",
+      "eventSlug": "13095-efl-4",
+      "round": 1,
+      "timeInRound": "1:42"
+    },
+    {
+      "date": "2011-11-26T00:00:00.000Z",
+      "opponent": "Charles Michael Girard",
+      "opponentSlug": "26584-michael-girard",
+      "result": "win",
+      "method": "sub",
+      "event": "KEF 5",
+      "eventSlug": "14230-kef-5",
+      "round": 2,
+      "timeInRound": "0:33"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:07:42.155Z"
+}

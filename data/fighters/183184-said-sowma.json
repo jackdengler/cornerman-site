@@ -1,0 +1,198 @@
+{
+  "slug": "183184-said-sowma",
+  "name": "Said Sowma",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 193,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1992-01-14",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/183184-said-sowma",
+  "recentFights": [
+    {
+      "date": "2025-09-06T00:00:00.000Z",
+      "opponent": "Michał Andryszak",
+      "opponentSlug": "27738-michal-andryszak",
+      "result": "win",
+      "method": "other",
+      "event": "FNC 24: Vitasović vs. Stošić",
+      "eventSlug": "130481-fnc-24",
+      "round": 3,
+      "timeInRound": "1:41"
+    },
+    {
+      "date": "2024-11-08T00:00:00.000Z",
+      "opponent": "Nick Gay",
+      "opponentSlug": "35564-nicholas-gay",
+      "result": "win",
+      "method": "tko",
+      "event": "Double Down Fighting Championship 2",
+      "eventSlug": "120010-double-down-fighting-championship-2",
+      "round": 1,
+      "timeInRound": "3:18"
+    },
+    {
+      "date": "2024-06-14T00:00:00.000Z",
+      "opponent": "Shelton Graves",
+      "opponentSlug": "25281-shelton-graves",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Double Down Fighting Championship 1",
+      "eventSlug": "114759-double-down-fighting-championship",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-04-21T00:00:00.000Z",
+      "opponent": "Tim Johnson",
+      "opponentSlug": "45020-timothy-johnson",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bellator 294",
+      "eventSlug": "98378-bellator-294",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-12T00:00:00.000Z",
+      "opponent": "Gokhan Saricam",
+      "opponentSlug": "203358-gokhan-saricam",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Bellator 284",
+      "eventSlug": "90026-bellator-284",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-19T00:00:00.000Z",
+      "opponent": "Davion Franklin",
+      "opponentSlug": "239688-davion-franklin",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Bellator 274",
+      "eventSlug": "85305-bellator-274",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-23T00:00:00.000Z",
+      "opponent": "Vitaly Minakov",
+      "opponentSlug": "31420-vitaly-minakov",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 269",
+      "eventSlug": "80135-bellator",
+      "round": 3,
+      "timeInRound": "3:08"
+    },
+    {
+      "date": "2021-07-16T00:00:00.000Z",
+      "opponent": "Ronny Markes",
+      "opponentSlug": "14128-Ronny-Markes",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 262",
+      "eventSlug": "79368-bellator-262-velasquez-vs-kielholtz",
+      "round": 1,
+      "timeInRound": "1:09"
+    },
+    {
+      "date": "2020-11-05T00:00:00.000Z",
+      "opponent": "Tyrell Fortune",
+      "opponentSlug": "141665-tyrell-fortune",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bellator 251",
+      "eventSlug": "73156-bellator-mma",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-25T00:00:00.000Z",
+      "opponent": "Bobby Brents",
+      "opponentSlug": "13100-bob-brents",
+      "result": "win",
+      "method": "other",
+      "event": "Titan FC 64",
+      "eventSlug": "72578-titan-fc-64",
+      "round": 3,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2020-08-15T00:00:00.000Z",
+      "opponent": "Dustin Clements",
+      "opponentSlug": "84614-dustin-clements",
+      "result": "win",
+      "method": "sub",
+      "event": "Global Legion FC 15",
+      "eventSlug": "71598-global-legion-fc-15",
+      "round": 2,
+      "timeInRound": "4:15"
+    },
+    {
+      "date": "2020-02-28T00:00:00.000Z",
+      "opponent": "Jermaine Barnes",
+      "opponentSlug": "41846-jermaine-barnes",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Titan FC 59",
+      "eventSlug": "66494-titan-fc-59",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-13T00:00:00.000Z",
+      "opponent": "Marino Eatman",
+      "opponentSlug": "86098-marino-eatman",
+      "result": "win",
+      "method": "tko",
+      "event": "Global Legion FC 13",
+      "eventSlug": "64645-global-legion-fc-13",
+      "round": 3,
+      "timeInRound": "3:49"
+    },
+    {
+      "date": "2019-04-26T00:00:00.000Z",
+      "opponent": "Jimmy Lawson",
+      "opponentSlug": "218358-james-lawson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Titan FC 54",
+      "eventSlug": "59079-titan-fc-54",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-20T00:00:00.000Z",
+      "opponent": "Quentin Henry",
+      "opponentSlug": "53240-quentin-henry",
+      "result": "win",
+      "method": "other",
+      "event": "Apex Fight Night 6",
+      "eventSlug": "55237-apex-fight-night-6",
+      "round": 1,
+      "timeInRound": "3:13"
+    },
+    {
+      "date": "2018-04-06T00:00:00.000Z",
+      "opponent": "Steve Mowry",
+      "opponentSlug": "32133-steve-mowry",
+      "result": "loss",
+      "method": "other",
+      "event": "Titan FC 49",
+      "eventSlug": "51347-titan-fc-49-gomez-vs-soares",
+      "round": 2,
+      "timeInRound": "5:00"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:59:46.069Z"
+}

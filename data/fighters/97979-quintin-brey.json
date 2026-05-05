@@ -1,0 +1,231 @@
+{
+  "slug": "97979-quintin-brey",
+  "name": "Quintin Bray",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1988-10-20",
+  "nationality": "Fort Pierce, Florida, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/97979-quintin-brey",
+  "recentFights": [
+    {
+      "date": "2025-11-15T00:00:00.000Z",
+      "opponent": "Taylor Buffard",
+      "opponentSlug": "108573-taylor-buffard",
+      "result": "win",
+      "method": "sub",
+      "event": "Combat Night Fort Pierce",
+      "eventSlug": "135406-combat-night-fort-pierce",
+      "round": 1,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2024-11-23T00:00:00.000Z",
+      "opponent": "Derek Clardy",
+      "opponentSlug": "61129-derek-clardy",
+      "result": "win",
+      "method": "tko",
+      "event": "Combat Night",
+      "eventSlug": "120511-combat-night-rise-of-a-warrior",
+      "round": 1,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2024-05-04T00:00:00.000Z",
+      "opponent": "Korey Taylor",
+      "opponentSlug": "193806-korey-taylor",
+      "result": "loss",
+      "method": "tko",
+      "event": "Combat Night Pro Duval",
+      "eventSlug": "113481-combat-night-pro-duval",
+      "round": 1,
+      "timeInRound": "4:46"
+    },
+    {
+      "date": "2023-11-18T00:00:00.000Z",
+      "opponent": "Paul Teague",
+      "opponentSlug": "72879-paul-teague",
+      "result": "win",
+      "method": "sub",
+      "event": "Combat Night",
+      "eventSlug": "106804-combat-night",
+      "round": 1,
+      "timeInRound": "0:28"
+    },
+    {
+      "date": "2023-02-18T00:00:00.000Z",
+      "opponent": "Jordan Nash",
+      "opponentSlug": "162001-jordan-nash",
+      "result": "loss",
+      "method": "tko",
+      "event": "Combat Night Pro",
+      "eventSlug": "98047-combat-night-pro-tallahassee",
+      "round": 1,
+      "timeInRound": "4:56"
+    },
+    {
+      "date": "2022-02-19T00:00:00.000Z",
+      "opponent": "Ramon Butts",
+      "opponentSlug": "77311-ramon-butts",
+      "result": "win",
+      "method": "sub",
+      "event": "Combat Night Pro",
+      "eventSlug": "86679-combat-night-pro-tallahassee",
+      "round": 1,
+      "timeInRound": "4:40"
+    },
+    {
+      "date": "2021-09-16T00:00:00.000Z",
+      "opponent": "William Rentz",
+      "opponentSlug": "231057-william-rentz",
+      "result": "loss",
+      "method": "other",
+      "event": "CFFC 100: Kamchybekov vs. Smith",
+      "eventSlug": "80862-cffc-100",
+      "round": 2,
+      "timeInRound": "2:48"
+    },
+    {
+      "date": "2018-07-21T00:00:00.000Z",
+      "opponent": "Geralbert Castillo",
+      "opponentSlug": "150224-geralbert-castillo",
+      "result": "loss",
+      "method": "other",
+      "event": "Underground Cage Fighting Championship 1",
+      "eventSlug": "54257-underground-cage-fighting-championship",
+      "round": 1,
+      "timeInRound": "2:53"
+    },
+    {
+      "date": "2017-07-08T00:00:00.000Z",
+      "opponent": "Ronnie Tisdal",
+      "opponentSlug": "63173-ronnie-tisdal",
+      "result": "win",
+      "method": "other",
+      "event": "Rise of a Warrior 20",
+      "eventSlug": "45945-rise-of-a-warrior-20",
+      "round": 1,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2016-11-12T00:00:00.000Z",
+      "opponent": "Jeremy Hohl",
+      "opponentSlug": "95648-jeremy-hohl",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combat Night 65",
+      "eventSlug": "42920-combat-night-66",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-22T00:00:00.000Z",
+      "opponent": "Marcus Boyce",
+      "opponentSlug": "142413-marcus-boyce",
+      "result": "win",
+      "method": "other",
+      "event": "Rise of a Warrior 18",
+      "eventSlug": "41258-rise-of-a-warrior-18",
+      "round": 1,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2016-08-27T00:00:00.000Z",
+      "opponent": "Daniel DiLallo",
+      "opponentSlug": "143825-daniel-dilallo",
+      "result": "win",
+      "method": "other",
+      "event": "Combat Night 63",
+      "eventSlug": "41469-combat-night-63",
+      "round": 1,
+      "timeInRound": "1:22"
+    },
+    {
+      "date": "2016-04-23T00:00:00.000Z",
+      "opponent": "Andres Jurado",
+      "opponentSlug": "124903-andres-jurado",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Rise of a Warrior 17",
+      "eventSlug": "38009-rise-of-the-warrior-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-01-30T00:00:00.000Z",
+      "opponent": "Casey Long",
+      "opponentSlug": "73499-casey-long",
+      "result": "win",
+      "method": "other",
+      "event": "Combat Night 55",
+      "eventSlug": "37932-combat-night-55",
+      "round": 1,
+      "timeInRound": "0:27"
+    },
+    {
+      "date": "2015-10-12T00:00:00.000Z",
+      "opponent": "Stephen Hersman",
+      "opponentSlug": "96917-stephen-hersman-handguns",
+      "result": "loss",
+      "method": "sub",
+      "event": "Undisputed Florida Fighting Championship 2",
+      "eventSlug": "34469-united-florida-fighting-championship-2",
+      "round": 1,
+      "timeInRound": "1:40"
+    },
+    {
+      "date": "2014-09-27T00:00:00.000Z",
+      "opponent": "Ramon Lara Jr",
+      "opponentSlug": "96376-ramon-lara-jr",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Time: Strike Gym",
+      "eventSlug": "31131-fight-time-strike-gym",
+      "round": 1,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2013-10-23T00:00:00.000Z",
+      "opponent": "Ty Flores",
+      "opponentSlug": "80553-tyler-flores",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-05-30T00:00:00.000Z",
+      "opponent": "Trevor Gross",
+      "opponentSlug": "96368-trevor-gross-gross",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-02-21T00:00:00.000Z",
+      "opponent": "Brenton Bush",
+      "opponentSlug": "97972-brenton-bush",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "1:29"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:37:02.492Z"
+}

@@ -1,0 +1,112 @@
+{
+  "slug": "362314-artemios-trepca-arte",
+  "name": "Artemios Trepca",
+  "nickname": "Arte",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Corinto, Greece",
+  "url": "https://www.tapology.com/fightcenter/fighters/362314-artemios-trepca-arte",
+  "recentFights": [
+    {
+      "date": "2026-02-21T00:00:00.000Z",
+      "opponent": "Kallum Parker",
+      "opponentSlug": "345357-kallum-parker",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 103",
+      "eventSlug": "138397-eternal-mma-103",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-31T00:00:00.000Z",
+      "opponent": "Brodie Mayocchi",
+      "opponentSlug": "278371-brodie-mayocchi",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "HEX Fight Series 35",
+      "eventSlug": "120778-hex-fight-series-35",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-23T00:00:00.000Z",
+      "opponent": "Dindo Camansa",
+      "opponentSlug": "66046-dindo-camansa",
+      "result": "win",
+      "method": "sub",
+      "event": "HEX Fight Series 33",
+      "eventSlug": "117576-hex-fight-series-33",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-07T00:00:00.000Z",
+      "opponent": "Saynarvat Srisawat",
+      "opponentSlug": "453418-saynarvat-srisawat",
+      "result": "win",
+      "method": "sub",
+      "event": "HEX Fight Series 32",
+      "eventSlug": "115236-hex-fight-series-32",
+      "round": 2,
+      "timeInRound": null
+    }
+  ],
+  "allFights": [
+    {
+      "date": "2026-02-21T00:00:00.000Z",
+      "opponent": "Kallum Parker",
+      "opponentSlug": "345357-kallum-parker",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 103",
+      "eventSlug": "138397-eternal-mma-103",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-31T00:00:00.000Z",
+      "opponent": "Brodie Mayocchi",
+      "opponentSlug": "278371-brodie-mayocchi",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "HEX Fight Series 35",
+      "eventSlug": "120778-hex-fight-series-35",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-23T00:00:00.000Z",
+      "opponent": "Dindo Camansa",
+      "opponentSlug": "66046-dindo-camansa",
+      "result": "win",
+      "method": "sub",
+      "event": "HEX Fight Series 33",
+      "eventSlug": "117576-hex-fight-series-33",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-07T00:00:00.000Z",
+      "opponent": "Saynarvat Srisawat",
+      "opponentSlug": "453418-saynarvat-srisawat",
+      "result": "win",
+      "method": "sub",
+      "event": "HEX Fight Series 32",
+      "eventSlug": "115236-hex-fight-series-32",
+      "round": 2,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-05-03T10:17:08.484Z"
+}

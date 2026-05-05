@@ -1,0 +1,37 @@
+{
+  "slug": "117112-brandon-robinson",
+  "name": "Brandon Robinson",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/117112-brandon-robinson",
+  "recentFights": [
+    {
+      "date": "2015-10-24T00:00:00.000Z",
+      "opponent": "Youssef Zalal",
+      "opponentSlug": "110826-youssef-zalaal",
+      "result": "loss",
+      "method": "other",
+      "event": "SCL 45: Turn on the Lights",
+      "eventSlug": "36237-scl-45-turn-on-the-lights",
+      "round": 2,
+      "timeInRound": "2:13"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:33:05.388Z"
+}

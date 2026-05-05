@@ -1,0 +1,121 @@
+{
+  "slug": "84657-james-obrian",
+  "name": "James O'Brien",
+  "nickname": "The Dog",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": 185,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1992-06-19",
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/84657-james-obrian",
+  "recentFights": [
+    {
+      "date": "2023-09-23T00:00:00.000Z",
+      "opponent": "Dom Mar Fan",
+      "opponentSlug": "196890-dom-mar-fan",
+      "result": "loss",
+      "method": "sub",
+      "event": "Eternal MMA 79",
+      "eventSlug": "102042-eternal-mma-79",
+      "round": 1,
+      "timeInRound": "4:40"
+    },
+    {
+      "date": "2022-09-16T00:00:00.000Z",
+      "opponent": "Niam Stephen",
+      "opponentSlug": "195966-niam-stephen",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 69",
+      "eventSlug": "91665-eternal-mma-69",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-16T00:00:00.000Z",
+      "opponent": "Bayden Mandich",
+      "opponentSlug": "72862-bayden-mandich",
+      "result": "win",
+      "method": "sub",
+      "event": "Eternal MMA 67",
+      "eventSlug": "89588-eternal-mma-67",
+      "round": 2,
+      "timeInRound": "3:23"
+    },
+    {
+      "date": "2019-07-27T00:00:00.000Z",
+      "opponent": "Ty Duncan",
+      "opponentSlug": "31856-ty-duncan",
+      "result": "loss",
+      "method": "sub",
+      "event": "Eternal MMA 46",
+      "eventSlug": "60268-eternal-mma-46",
+      "round": 1,
+      "timeInRound": "3:40"
+    },
+    {
+      "date": "2019-05-25T00:00:00.000Z",
+      "opponent": "Kevin Jousset",
+      "opponentSlug": "195097-kevin-jousset",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 45",
+      "eventSlug": "59594-eternal-mma-45",
+      "round": 1,
+      "timeInRound": "2:32"
+    },
+    {
+      "date": "2019-03-23T00:00:00.000Z",
+      "opponent": "Darcy Vendy",
+      "opponentSlug": "48380-darcy-vendy",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 42",
+      "eventSlug": "57693-eternal-mma-42",
+      "round": 1,
+      "timeInRound": "1:41"
+    },
+    {
+      "date": "2018-02-23T00:00:00.000Z",
+      "opponent": "Troy Toby",
+      "opponentSlug": "56913-troy-toby",
+      "result": "win",
+      "method": "other",
+      "event": "Superfight MMA 6",
+      "eventSlug": "51217-superfight-mma-6",
+      "round": 2,
+      "timeInRound": "2:36"
+    },
+    {
+      "date": "2016-08-13T00:00:00.000Z",
+      "opponent": "Joel Vigors",
+      "opponentSlug": "130478-joel-vigors",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "BRACE 42",
+      "eventSlug": "40120-brace-42-2016-championship-semi-finals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-21T00:00:00.000Z",
+      "opponent": "Jamie Carl",
+      "opponentSlug": "95775-jamie-carl",
+      "result": "win",
+      "method": "tko",
+      "event": "BRACE 37",
+      "eventSlug": "35656-brace-37-2015-championship-grand-final",
+      "round": 1,
+      "timeInRound": "1:18"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:19:19.724Z"
+}

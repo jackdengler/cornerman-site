@@ -1,0 +1,132 @@
+{
+  "slug": "266639-mileide-simplicio",
+  "name": "Mileide Simplicio",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 164,
+  "reachCm": null,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": "2000-11-11",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/266639-mileide-simplicio",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Josefine Knutsson",
+      "opponentSlug": "174069-josefine-lindgren-knutsson-little-thunder",
+      "result": null,
+      "method": "other",
+      "event": "OKTAGON 87: Szabová vs. Fernandes",
+      "eventSlug": "135741-oktagon-87",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-08T00:00:00.000Z",
+      "opponent": "Aleksandra Toncheva",
+      "opponentSlug": "119990-aleksandra-toncheva",
+      "result": "win",
+      "method": "sub",
+      "event": "Dynamite MMA 4",
+      "eventSlug": "135381-dynamite-mma-4",
+      "round": 2,
+      "timeInRound": "4:48"
+    },
+    {
+      "date": "2025-05-16T00:00:00.000Z",
+      "opponent": "Delphine Benouaich",
+      "opponentSlug": "328062-delphine-benouaich",
+      "result": "loss",
+      "method": "other",
+      "event": "Ares FC 30: Chamsoudinov vs. Lima",
+      "eventSlug": "122687-ares-fc",
+      "round": 2,
+      "timeInRound": "0:49"
+    },
+    {
+      "date": "2025-02-08T00:00:00.000Z",
+      "opponent": "Veronica Grenno",
+      "opponentSlug": "89368-veronica-grenno-avispa-dorada",
+      "result": "win",
+      "method": "sub",
+      "event": "Dynamite MMA 3",
+      "eventSlug": "118005-dynamite-mma-3",
+      "round": 1,
+      "timeInRound": "3:15"
+    },
+    {
+      "date": "2024-11-09T00:00:00.000Z",
+      "opponent": "Veronika Smolková",
+      "opponentSlug": "293817-verinika-smolkova",
+      "result": "loss",
+      "method": "other",
+      "event": "OKTAGON 63: Buchinger vs. Nafuka",
+      "eventSlug": "116290-oktagon-63",
+      "round": 1,
+      "timeInRound": "1:06"
+    },
+    {
+      "date": "2024-05-24T00:00:00.000Z",
+      "opponent": "Magdaléna Šormová",
+      "opponentSlug": "62828-magdalena-smorova",
+      "result": "win",
+      "method": "sub",
+      "event": "PML 10",
+      "eventSlug": "112911-pml-10",
+      "round": 2,
+      "timeInRound": "4:08"
+    },
+    {
+      "date": "2024-02-24T00:00:00.000Z",
+      "opponent": "Samantha Jean-Francois",
+      "opponentSlug": "78503-samantha-jean-francois",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Stars Night",
+      "eventSlug": "110928-stars-night-tournament",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-12T00:00:00.000Z",
+      "opponent": "Ingrid Silva",
+      "opponentSlug": "261644-ingrid-silva",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Paraíba Fight 3",
+      "eventSlug": "103512-paraiba-fight-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-27T00:00:00.000Z",
+      "opponent": "Shamara Braga",
+      "opponentSlug": "430194-shamara-cavalcante",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Victorious MMA 4",
+      "eventSlug": "78089-victorious-fc-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-26T00:00:00.000Z",
+      "opponent": "Maristela Alves",
+      "opponentSlug": "227184-maristela-alves",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Victorious MMA 3",
+      "eventSlug": "64762-victorious-fc-3",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T15:57:03.004Z"
+}

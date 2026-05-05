@@ -1,0 +1,110 @@
+{
+  "slug": "199925-tibor-balasz",
+  "name": "Tibor Balázs",
+  "nickname": "Tibi",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 4,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Slovakia",
+  "url": "https://www.tapology.com/fightcenter/fighters/199925-tibor-balasz",
+  "recentFights": [
+    {
+      "date": "2025-11-08T00:00:00.000Z",
+      "opponent": "Alex Hutyra",
+      "opponentSlug": "347893-alex-hutyra",
+      "result": "loss",
+      "method": "sub",
+      "event": "PML 17",
+      "eventSlug": "135515-pml-17",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-06-28T00:00:00.000Z",
+      "opponent": "Altin Zenuni",
+      "opponentSlug": "222410-altan-zenuni",
+      "result": "loss",
+      "method": "sub",
+      "event": "OKTAGON 73: Eckerlin vs. Pukač",
+      "eventSlug": "118933-oktagon",
+      "round": 1,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2025-05-31T00:00:00.000Z",
+      "opponent": "Nick Stamidis",
+      "opponentSlug": "167169-nick-stamidis",
+      "result": "loss",
+      "method": "other",
+      "event": "Heroes Gate 31",
+      "eventSlug": "128662-heroes-gate-31",
+      "round": 2,
+      "timeInRound": "1:33"
+    },
+    {
+      "date": "2024-06-15T00:00:00.000Z",
+      "opponent": "Milan Ulman",
+      "opponentSlug": "230957-milan-ulman",
+      "result": "win",
+      "method": "other",
+      "event": "FABRIQ MMA 5",
+      "eventSlug": "114814-fabriq-mma-5",
+      "round": 2,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2023-09-02T00:00:00.000Z",
+      "opponent": "Denis Gondžala",
+      "opponentSlug": "230938-denis-gondzala",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FABRIQ MMA 3",
+      "eventSlug": "101904-fabriq-mma-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-26T00:00:00.000Z",
+      "opponent": "Matúš Arpáš",
+      "opponentSlug": "202302-matus-arpas",
+      "result": "loss",
+      "method": "sub",
+      "event": "East Pro Fight 23",
+      "eventSlug": "95978-east-pro-fight-23",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-10-29T00:00:00.000Z",
+      "opponent": "Patrik Šoffa",
+      "opponentSlug": "305760-patrik-soffa",
+      "result": "win",
+      "method": "other",
+      "event": "East PRO Fight",
+      "eventSlug": "93297-east-pro-fight",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-26T00:00:00.000Z",
+      "opponent": "Jakub Mistrík",
+      "opponentSlug": "197454-jakub-mistrik",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "East Pro Fight",
+      "eventSlug": "55769-east-pro-fight-ffn-21",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:11:26.912Z"
+}

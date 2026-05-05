@@ -1,0 +1,154 @@
+{
+  "slug": "190442-david-briones-toquinho",
+  "name": "David Briones",
+  "nickname": "Toquinho",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": 184,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1988-02-29",
+  "nationality": "Mexico",
+  "url": "https://www.tapology.com/fightcenter/fighters/190442-david-briones-toquinho",
+  "recentFights": [
+    {
+      "date": "2025-11-15T00:00:00.000Z",
+      "opponent": "Alfrego Ruelas",
+      "opponentSlug": "195274-alfrego-ruelas-tarzan",
+      "result": "loss",
+      "method": "other",
+      "event": "MFL 2",
+      "eventSlug": "135345-mfl-2",
+      "round": 2,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2025-01-31T00:00:00.000Z",
+      "opponent": "Luis Márquez",
+      "opponentSlug": "137059-luis-marquez",
+      "result": "loss",
+      "method": "other",
+      "event": "Lux Fight League 49",
+      "eventSlug": "121910-lux-fight-league-49",
+      "round": 2,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2024-09-06T00:00:00.000Z",
+      "opponent": "Jamie Siraj",
+      "opponentSlug": "35361-jamie-siraj-the-gremlin",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "BFL 81: World War 2",
+      "eventSlug": "114885-bfl-81",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-09T00:00:00.000Z",
+      "opponent": "Adam Posener",
+      "opponentSlug": "347553-adam-posener",
+      "result": "loss",
+      "method": "other",
+      "event": "BFL 80: World War",
+      "eventSlug": "110899-bfl-80-world-war",
+      "round": 2,
+      "timeInRound": "1:16"
+    },
+    {
+      "date": "2023-10-19T00:00:00.000Z",
+      "opponent": "Navid Zanganeh",
+      "opponentSlug": "339456-navid-zanganeh",
+      "result": "loss",
+      "method": "other",
+      "event": "BFL 78",
+      "eventSlug": "102815-bfl-78",
+      "round": 1,
+      "timeInRound": "3:25"
+    },
+    {
+      "date": "2022-11-25T00:00:00.000Z",
+      "opponent": "Kevin Arreola",
+      "opponentSlug": "177963-kevin-arreola",
+      "result": "loss",
+      "method": "other",
+      "event": "MKC 3: Albornoz vs. Saenz",
+      "eventSlug": "97918-mkc-3-albornoz-vs-saenz",
+      "round": 3,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2022-02-11T00:00:00.000Z",
+      "opponent": "Alan Domínguez",
+      "opponentSlug": "115510-alan-dominguez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Lux Fight League 20",
+      "eventSlug": "85323-lux-fight-league-20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-10-22T00:00:00.000Z",
+      "opponent": "Alejandro Corrales",
+      "opponentSlug": "230745-alejandro-corrales-toro",
+      "result": "win",
+      "method": "sub",
+      "event": "iKon Fighting Federation 2",
+      "eventSlug": "72962-torres-vs-zepeda",
+      "round": 2,
+      "timeInRound": "1:46"
+    },
+    {
+      "date": "2020-07-17T00:00:00.000Z",
+      "opponent": "Luis Medrano",
+      "opponentSlug": "10665-jose-medrano",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Lux Fight League 9",
+      "eventSlug": "71013-lux-fight-league-009",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-14T00:00:00.000Z",
+      "opponent": "Jesús Martinez",
+      "opponentSlug": "165002-jess-martinez-mantis",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Lux Fight League 8",
+      "eventSlug": "67099-lux-fight-league-008",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-25T00:00:00.000Z",
+      "opponent": "Carlos Barrientos",
+      "opponentSlug": "156347-carlos-barrientos-choko",
+      "result": "win",
+      "method": "sub",
+      "event": "JFL Fight Night vol 8",
+      "eventSlug": "60744-jfl-fight-night-vol-8",
+      "round": 1,
+      "timeInRound": "4:26"
+    },
+    {
+      "date": "2019-03-31T00:00:00.000Z",
+      "opponent": "Carlos Arana",
+      "opponentSlug": "227304-carlos-arana-goku",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 2,
+      "timeInRound": "3:56"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:04:31.535Z"
+}

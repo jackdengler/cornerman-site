@@ -1,0 +1,110 @@
+{
+  "slug": "46244-james-grey",
+  "name": "James Gray",
+  "nickname": "The Phenom",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 178,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1987-10-25",
+  "nationality": "Philadelphia, Pennsylvania",
+  "url": "https://www.tapology.com/fightcenter/fighters/46244-james-grey",
+  "recentFights": [
+    {
+      "date": "2017-08-01T00:00:00.000Z",
+      "opponent": "Kyler Phillips",
+      "opponentSlug": "93501-kyler-phillips",
+      "result": "loss",
+      "method": "other",
+      "event": "DW's Contender Series 2017",
+      "eventSlug": "46568-dana-whites-contender-series-4",
+      "round": 1,
+      "timeInRound": "0:46"
+    },
+    {
+      "date": "2015-07-04T00:00:00.000Z",
+      "opponent": "Daniel Virginio",
+      "opponentSlug": "79909-daniel-virginio",
+      "result": "loss",
+      "method": "other",
+      "event": "XFC International 10",
+      "eventSlug": "33435-xfc-international-10-night-of-champions",
+      "round": 1,
+      "timeInRound": "3:59"
+    },
+    {
+      "date": "2015-03-14T00:00:00.000Z",
+      "opponent": "Edgar Cabello",
+      "opponentSlug": "8236-edgar-garcia-cabello",
+      "result": "win",
+      "method": "sub",
+      "event": "XFC International 9",
+      "eventSlug": "30409-xfc-international-9",
+      "round": 1,
+      "timeInRound": "1:34"
+    },
+    {
+      "date": "2014-09-27T00:00:00.000Z",
+      "opponent": "Lucas Moraes",
+      "opponentSlug": "42516-lucas-moraes-treta",
+      "result": "win",
+      "method": "sub",
+      "event": "XFC International 6",
+      "eventSlug": "26277-xfc-international-6",
+      "round": 1,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2013-10-19T00:00:00.000Z",
+      "opponent": "Andrew Ventimiglia",
+      "opponentSlug": "57025-andrew-ventimiglia",
+      "result": "win",
+      "method": "sub",
+      "event": "TXC Legends 2",
+      "eventSlug": "21146-txc-legends-2",
+      "round": 1,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2013-05-18T00:00:00.000Z",
+      "opponent": "Adam Alvarez",
+      "opponentSlug": "4545-adam-alvarez",
+      "result": "win",
+      "method": "sub",
+      "event": "TWC Pro Series 18",
+      "eventSlug": "18589-twc-pro-series-bulletproof",
+      "round": 1,
+      "timeInRound": "1:16"
+    },
+    {
+      "date": "2012-07-28T00:00:00.000Z",
+      "opponent": "Derrick Mandell",
+      "opponentSlug": "45311-derrick-mandell",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2010-08-21T00:00:00.000Z",
+      "opponent": "Daryl Thompson",
+      "opponentSlug": "18181-daryl-thompson",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:06:04.004Z"
+}

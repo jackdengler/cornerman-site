@@ -1,0 +1,48 @@
+{
+  "slug": "406205-jeremiah-hunter",
+  "name": "Jeremiah Hunter",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/406205-jeremiah-hunter",
+  "recentFights": [
+    {
+      "date": "2009-04-04T00:00:00.000Z",
+      "opponent": "Max Griffin",
+      "opponentSlug": "25437-max-griffin",
+      "result": "loss",
+      "method": "other",
+      "event": "Brass Knuckle",
+      "eventSlug": "46643-brass-knuckle-annihilation-cage-fights",
+      "round": 1,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2009-02-07T00:00:00.000Z",
+      "opponent": "Jeremy Bryant",
+      "opponentSlug": "406207-jeremy-bryant",
+      "result": "win",
+      "method": "tko",
+      "event": "Brass Knuckle",
+      "eventSlug": "16356-brass-knuckle-corvallis-cage-fights-6",
+      "round": 1,
+      "timeInRound": "0:06"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:57:46.864Z"
+}

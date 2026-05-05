@@ -1,0 +1,231 @@
+{
+  "slug": "81574-cory-mckenna",
+  "name": "Cory McKenna",
+  "nickname": "Poppins",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 160,
+  "reachCm": 149,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": "1999-07-11",
+  "nationality": "Wales",
+  "url": "https://www.tapology.com/fightcenter/fighters/81574-cory-mckenna",
+  "recentFights": [
+    {
+      "date": "2024-10-12T00:00:00.000Z",
+      "opponent": "Julia Polastri",
+      "opponentSlug": "168315-julia-polastri",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "115961-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-16T00:00:00.000Z",
+      "opponent": "Jaqueline Amorim",
+      "opponentSlug": "248605-jaqueline-amorim",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "108288-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2022-12-17T00:00:00.000Z",
+      "opponent": "Cheyanne Vlismas",
+      "opponentSlug": "59694-cheyanne-vlismas",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "92365-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-06T00:00:00.000Z",
+      "opponent": "Miranda Granger",
+      "opponentSlug": "95179-miranda-granger",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "89111-ufc-fight-night-santos-vs-hill",
+      "round": 2,
+      "timeInRound": "1:03"
+    },
+    {
+      "date": "2022-03-19T00:00:00.000Z",
+      "opponent": "Elise Reed",
+      "opponentSlug": "106876-elise-reed",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "83999-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-11-14T00:00:00.000Z",
+      "opponent": "Kay Hansen",
+      "opponentSlug": "166442-kay-hansen",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "71846-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-08-11T00:00:00.000Z",
+      "opponent": "Vanessa Demopoulos",
+      "opponentSlug": "35907-vanessa-demopoulos",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Contender Series 2020",
+      "eventSlug": "70390-contender-series-2020-week-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-31T00:00:00.000Z",
+      "opponent": "Giulia Chinello",
+      "opponentSlug": "115455-giulla-chinello",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 105",
+      "eventSlug": "59936-cage-warriors-105",
+      "round": 1,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2019-04-27T00:00:00.000Z",
+      "opponent": "Fannie Redman",
+      "opponentSlug": "152973-fannie-redman",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Warriors 104",
+      "eventSlug": "57346-cage-warriors-104",
+      "round": 2,
+      "timeInRound": "2:06"
+    },
+    {
+      "date": "2018-09-29T00:00:00.000Z",
+      "opponent": "Micol di Segni",
+      "opponentSlug": "74638-micol-di-segni",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Cage Warriors 97",
+      "eventSlug": "54307-cage-warriors-97",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-16T00:00:00.000Z",
+      "opponent": "Eva Dourthe",
+      "opponentSlug": "152748-eva-dourthe",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Cage Warriors 94",
+      "eventSlug": "51416-cage-warriors-94",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-03T00:00:00.000Z",
+      "opponent": "Maria Vittoria Colonna",
+      "opponentSlug": "106931-maria-vittoria-colonna",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 91",
+      "eventSlug": "48609-cage-warriors-91",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2017-05-06T00:00:00.000Z",
+      "opponent": "Anette Österberg",
+      "opponentSlug": "120028-anette-sterberg",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "British Challenge MMA 19",
+      "eventSlug": "45021-british-challenge-mma-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-03T00:00:00.000Z",
+      "opponent": "Aleksandra Rola",
+      "opponentSlug": "101093-aleksandra-rola",
+      "result": "win",
+      "method": "sub",
+      "event": "British Challenge MMA 17",
+      "eventSlug": "41631-british-challenge-mma-17",
+      "round": 3,
+      "timeInRound": "1:56"
+    },
+    {
+      "date": "2016-07-23T00:00:00.000Z",
+      "opponent": "Fee Chrystall",
+      "opponentSlug": "136521-fiona-chrystall",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "British Challenge MMA 16",
+      "eventSlug": "40541-british-challenge-mma-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-07T00:00:00.000Z",
+      "opponent": "Karolina Wójcik",
+      "opponentSlug": "132235-karolina-wojcik",
+      "result": "win",
+      "method": "sub",
+      "event": "UK Fighting Championships 1",
+      "eventSlug": "38944-uk-fighting-championships",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-12-05T00:00:00.000Z",
+      "opponent": "Joanne Haywood",
+      "opponentSlug": "121144-joanne-haywood",
+      "result": "win",
+      "method": "other",
+      "event": "Fight UK 12",
+      "eventSlug": "36582-fight-uk-12-the-reawakening",
+      "round": 2,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2015-02-21T00:00:00.000Z",
+      "opponent": "Shania McNally",
+      "opponentSlug": "85517-shania-mcnally",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UXC Fight Night 2",
+      "eventSlug": "28099-uxc-fight-night-2-the-road-to-the-odyssey",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-09-27T00:00:00.000Z",
+      "opponent": "Marisa Charalambous",
+      "opponentSlug": "81575-marisa-charalambous",
+      "result": "win",
+      "method": "other",
+      "event": "British Challenge MMA 8",
+      "eventSlug": "25796-bcmma-8",
+      "round": 3,
+      "timeInRound": "2:21"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:58:46.108Z"
+}

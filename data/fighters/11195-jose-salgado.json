@@ -1,0 +1,88 @@
+{
+  "slug": "11195-jose-salgado",
+  "name": "Jose Salgado",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/11195-jose-salgado",
+  "recentFights": [
+    {
+      "date": "2012-01-28T00:00:00.000Z",
+      "opponent": "Gilbert Burns",
+      "opponentSlug": "31168-gilbert-burns-durinho",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-06-18T00:00:00.000Z",
+      "opponent": "Clay Collard",
+      "opponentSlug": "18435-clay-collard",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-10-09T00:00:00.000Z",
+      "opponent": "Beibit Nazarov",
+      "opponentSlug": "48637-beibit-nazarov",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-08-06T00:00:00.000Z",
+      "opponent": "Harris Sarmiento",
+      "opponentSlug": "harris-sarmiento-the-hitman",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-11-14T00:00:00.000Z",
+      "opponent": "Jordan Clements",
+      "opponentSlug": "11629-jordan-clements",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-11-08T00:00:00.000Z",
+      "opponent": "Julian Delgadillo",
+      "opponentSlug": "27197-julian-delgadillo",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:05:04.155Z"
+}

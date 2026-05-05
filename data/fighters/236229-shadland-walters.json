@@ -1,0 +1,176 @@
+{
+  "slug": "236229-shadland-walters",
+  "name": "Shad Walters",
+  "nickname": "The Relentless",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": 169,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1995-01-16",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/236229-shadland-walters",
+  "recentFights": [
+    {
+      "date": "2025-05-09T00:00:00.000Z",
+      "opponent": "Shane Torres",
+      "opponentSlug": "171638-shane-torres",
+      "result": "loss",
+      "method": "tko",
+      "event": "LFA 208: Mecate vs. Reyes",
+      "eventSlug": "125685-lfa-208",
+      "round": 1,
+      "timeInRound": "3:44"
+    },
+    {
+      "date": "2025-01-25T00:00:00.000Z",
+      "opponent": "Jeremy Strobel Jr.",
+      "opponentSlug": "218643-jeremy-strobel-jr-the-sniper",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 200: Johns vs. Douglas",
+      "eventSlug": "120838-lfa-200",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-13T00:00:00.000Z",
+      "opponent": "Jaime Mora-Muñoz",
+      "opponentSlug": "133618-jaime-mora",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 192: Climaco vs. Dias",
+      "eventSlug": "115811-lfa-192",
+      "round": 1,
+      "timeInRound": "2:44"
+    },
+    {
+      "date": "2024-04-26T00:00:00.000Z",
+      "opponent": "Nicholas Gjelaj",
+      "opponentSlug": "317130-nicholas-gjelag",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 182: McKee vs. Hernandez",
+      "eventSlug": "110761-lfa-182",
+      "round": 1,
+      "timeInRound": "0:11"
+    },
+    {
+      "date": "2023-12-15T00:00:00.000Z",
+      "opponent": "Patrick Cornett",
+      "opponentSlug": "46293-patrick-cornett",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 173: Fernando vs. Bekoev",
+      "eventSlug": "107094-legacy-fighting-alliance-173-lfa-173",
+      "round": 3,
+      "timeInRound": "4:36"
+    },
+    {
+      "date": "2023-10-06T00:00:00.000Z",
+      "opponent": "Darius Miller",
+      "opponentSlug": "255095-darius-miller",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 169: Ward vs. Walker",
+      "eventSlug": "105294-lfa-169-ward-vs-walker",
+      "round": 2,
+      "timeInRound": "0:38"
+    },
+    {
+      "date": "2023-01-06T00:00:00.000Z",
+      "opponent": "Chance Ikei",
+      "opponentSlug": "252854-chance-ikei",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 149: Bunes vs. Horiuchi",
+      "eventSlug": "95845-lfa-149-bunes-vs-horiuchi",
+      "round": 2,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2022-09-16T00:00:00.000Z",
+      "opponent": "Andre Sellars",
+      "opponentSlug": "247093-andre-sellars",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 142: Amorim vs. Nichols",
+      "eventSlug": "92238-lfa-142-amorim-vs-nichols",
+      "round": 2,
+      "timeInRound": "0:10"
+    },
+    {
+      "date": "2022-07-02T00:00:00.000Z",
+      "opponent": "Bill Prochniewski",
+      "opponentSlug": "309786-bill-prochniewski",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Stateline Rumble 1",
+      "eventSlug": "88486-stateline-rumble-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-08T00:00:00.000Z",
+      "opponent": "Nolan Vincent",
+      "opponentSlug": "308807-nolan-vincent",
+      "result": "win",
+      "method": "tko",
+      "event": "Brawl @ Bourbon Street 3",
+      "eventSlug": "85330-ignite-fights-brawl-bourbon-street-3",
+      "round": 2,
+      "timeInRound": "1:59"
+    },
+    {
+      "date": "2020-10-24T00:00:00.000Z",
+      "opponent": "Justin Richter",
+      "opponentSlug": "253432-justin-richter",
+      "result": "loss",
+      "method": "sub",
+      "event": "Nemesis Fighting Alliance 3",
+      "eventSlug": "73579-nemesis-fighting-alliance-3",
+      "round": 2,
+      "timeInRound": "0:55"
+    },
+    {
+      "date": "2020-08-15T00:00:00.000Z",
+      "opponent": "Dan Moriarty",
+      "opponentSlug": "98844-dan-moriarty",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Nemesis Fighting Alliance 2",
+      "eventSlug": "71085-nemesis-fighting-alliance-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-12T00:00:00.000Z",
+      "opponent": "Devon Lozej",
+      "opponentSlug": "205775-devon-lozej",
+      "result": "loss",
+      "method": "other",
+      "event": "Warrior Games 7",
+      "eventSlug": "62360-warrior-games-7",
+      "round": 3,
+      "timeInRound": "1:51"
+    },
+    {
+      "date": "2019-08-03T00:00:00.000Z",
+      "opponent": "Johnny Churak",
+      "opponentSlug": "231766-johnny-churak",
+      "result": "win",
+      "method": "other",
+      "event": "XFO: Outdoor War 15",
+      "eventSlug": "61420-xfo-outdoor-war-15",
+      "round": 1,
+      "timeInRound": "1:54"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:36:23.332Z"
+}

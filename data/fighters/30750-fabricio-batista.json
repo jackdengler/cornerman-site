@@ -1,0 +1,165 @@
+{
+  "slug": "30750-fabricio-batista",
+  "name": "Fabricio Batista",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 12,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/30750-fabricio-batista",
+  "recentFights": [
+    {
+      "date": "2024-07-13T00:00:00.000Z",
+      "opponent": "Breno Marinho",
+      "opponentSlug": "188732-breno-marinho-tubarao",
+      "result": "loss",
+      "method": "sub",
+      "event": "Dragon Fight 6",
+      "eventSlug": "116154-dragon-fight-6",
+      "round": 2,
+      "timeInRound": "2:16"
+    },
+    {
+      "date": "2022-11-26T00:00:00.000Z",
+      "opponent": "Alan Monteiro",
+      "opponentSlug": "235397-alan-monteiro",
+      "result": "loss",
+      "method": "other",
+      "event": "Spartacus MMA 22",
+      "eventSlug": "94366-spartacus-mma-23",
+      "round": 1,
+      "timeInRound": "4:54"
+    },
+    {
+      "date": "2021-08-06T00:00:00.000Z",
+      "opponent": "Jair Leonel",
+      "opponentSlug": "182893-jair-de-castro",
+      "result": "loss",
+      "method": "other",
+      "event": "WOCS 58",
+      "eventSlug": "81693-wocs-58",
+      "round": 2,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2016-04-09T00:00:00.000Z",
+      "opponent": "David Magliano",
+      "opponentSlug": "42657-david-magliano-tatu",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Valent's Night 1",
+      "eventSlug": "39179-valents-night-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-09-06T00:00:00.000Z",
+      "opponent": "Reynaldo Duarte",
+      "opponentSlug": "7552-reynaldo-duarte-reyzinho",
+      "result": "loss",
+      "method": "other",
+      "event": "Bitetti Combat 17",
+      "eventSlug": "20377-bitetti-combat-17",
+      "round": 2,
+      "timeInRound": "2:17"
+    },
+    {
+      "date": "2012-12-23T00:00:00.000Z",
+      "opponent": "Rafael Pereira",
+      "opponentSlug": "70674-rafael-leito",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-07-14T00:00:00.000Z",
+      "opponent": "Raoni Barcelos",
+      "opponentSlug": "30448-raoni-barcellos",
+      "result": "loss",
+      "method": "other",
+      "event": "Shooto Brasil 32",
+      "eventSlug": "14602-shooto-brazil-32",
+      "round": 1,
+      "timeInRound": "0:21"
+    },
+    {
+      "date": "2011-03-14T00:00:00.000Z",
+      "opponent": "Eduardo Felipe",
+      "opponentSlug": "16139-eduardo-felipe-kiko",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-11-07T00:00:00.000Z",
+      "opponent": "Marcos Vinicius",
+      "opponentSlug": "27670-marcos-vinicius-sa-freire-cabecinha",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-07-27T00:00:00.000Z",
+      "opponent": "Leonardo Carvalho",
+      "opponentSlug": "4965-leonardo-carvalho-tangerina",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-12-16T00:00:00.000Z",
+      "opponent": "Thiago Grilo",
+      "opponentSlug": "31391-thiago-grilo",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-11-13T00:00:00.000Z",
+      "opponent": "William Porfirio",
+      "opponentSlug": "7783-william-porfirio-parrudinho",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-09-19T00:00:00.000Z",
+      "opponent": "Felipe Melo",
+      "opponentSlug": "44561-felipe-melo",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:38:55.622Z"
+}

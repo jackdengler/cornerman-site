@@ -1,0 +1,242 @@
+{
+  "slug": "15551-mark-platts",
+  "name": "Mark Platts",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 11,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "England",
+  "url": "https://www.tapology.com/fightcenter/fighters/15551-mark-platts",
+  "recentFights": [
+    {
+      "date": "2014-06-14T00:00:00.000Z",
+      "opponent": "Kevin Petshi",
+      "opponentSlug": "72637-kevin-petshi",
+      "result": "loss",
+      "method": "sub",
+      "event": "WWFC 1: Cage Encounter 1",
+      "eventSlug": "25295-wwfc-cage-encounter",
+      "round": 1,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2013-05-04T00:00:00.000Z",
+      "opponent": "Martin McDonough",
+      "opponentSlug": "15521-martin-mcdonough",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage Warriors 54",
+      "eventSlug": "17630-cage-warriors-54",
+      "round": 2,
+      "timeInRound": "1:18"
+    },
+    {
+      "date": "2013-03-16T00:00:00.000Z",
+      "opponent": "Pietro Menga",
+      "opponentSlug": "22544-pietro-menga",
+      "result": "loss",
+      "method": "sub",
+      "event": "Full Contact Contender 5",
+      "eventSlug": "19392-full-contact-contender-5",
+      "round": 1,
+      "timeInRound": "2:42"
+    },
+    {
+      "date": "2012-06-02T00:00:00.000Z",
+      "opponent": "Neil Seery",
+      "opponentSlug": "17184-neil-seery",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage Warriors 47",
+      "eventSlug": "13170-cage-warriors-47",
+      "round": 2,
+      "timeInRound": "2:36"
+    },
+    {
+      "date": "2012-02-25T00:00:00.000Z",
+      "opponent": "Brian Hyslop",
+      "opponentSlug": "18276-brian-hyslop",
+      "result": "win",
+      "method": "sub",
+      "event": "On Top 4",
+      "eventSlug": "12685-on-top-4",
+      "round": 2,
+      "timeInRound": "2:17"
+    },
+    {
+      "date": "2011-12-10T00:00:00.000Z",
+      "opponent": "Brent Crawley",
+      "opponentSlug": "18802-brent-crawley",
+      "result": "loss",
+      "method": "sub",
+      "event": "BAMMA 8: Manuwa vs. Rea",
+      "eventSlug": "11237-bamma-8",
+      "round": 1,
+      "timeInRound": "2:57"
+    },
+    {
+      "date": "2011-09-17T00:00:00.000Z",
+      "opponent": "Mark Aldridge",
+      "opponentSlug": "18813-mark-aldridge",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-06-18T00:00:00.000Z",
+      "opponent": "Darren Gilchrist",
+      "opponentSlug": "18814-darren-gilchrist",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-04-23T00:00:00.000Z",
+      "opponent": "Owen Gayle",
+      "opponentSlug": "18277-owen-gayle",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shock n' Awe 7",
+      "eventSlug": "10393-shock-n-awe-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-11-13T00:00:00.000Z",
+      "opponent": "Rob McCrum",
+      "opponentSlug": "18816-rob-mccrum",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-11-13T00:00:00.000Z",
+      "opponent": "Davey Grant",
+      "opponentSlug": "18815-david-grant",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-05-08T00:00:00.000Z",
+      "opponent": "Mark Connor",
+      "opponentSlug": "18818-mark-connor",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-05-01T00:00:00.000Z",
+      "opponent": "Rob McCrum",
+      "opponentSlug": "18816-rob-mccrum",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-02-20T00:00:00.000Z",
+      "opponent": "Niko Gjoka",
+      "opponentSlug": "15547-niko-gjoka",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-11-27T00:00:00.000Z",
+      "opponent": "Mark Connor",
+      "opponentSlug": "18818-mark-connor",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-11-07T00:00:00.000Z",
+      "opponent": "Declan Williams",
+      "opponentSlug": "12207-declan-williams-kid-dynamite",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-08-08T00:00:00.000Z",
+      "opponent": "Nathan Thompson",
+      "opponentSlug": "14112-nathan-thompson-chicken",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-05-16T00:00:00.000Z",
+      "opponent": "Adam Steele",
+      "opponentSlug": "22550-adam-steele",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-03-14T00:00:00.000Z",
+      "opponent": "Shamsul Haque",
+      "opponentSlug": "18290-shamsul-haque-black-magic",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-02-21T00:00:00.000Z",
+      "opponent": "Adam Steele",
+      "opponentSlug": "22550-adam-steele",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "3:53"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:36:32.333Z"
+}

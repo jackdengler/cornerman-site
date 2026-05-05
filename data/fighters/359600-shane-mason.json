@@ -1,0 +1,121 @@
+{
+  "slug": "359600-shane-mason",
+  "name": "Shane Mason",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1998-09-21",
+  "nationality": "Ocala, Florida",
+  "url": "https://www.tapology.com/fightcenter/fighters/359600-shane-mason",
+  "recentFights": [
+    {
+      "date": "2025-11-08T00:00:00.000Z",
+      "opponent": "Seth Dupuis",
+      "opponentSlug": "92496-seth-dupris",
+      "result": "loss",
+      "method": "tko",
+      "event": "Combat Night Jacksonville",
+      "eventSlug": "135407-combat-night-jacksonville",
+      "round": 1,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2024-08-03T00:00:00.000Z",
+      "opponent": "Jeremy Williams",
+      "opponentSlug": "304080-jeremy-williams",
+      "result": "loss",
+      "method": "other",
+      "event": "Combat Night Kissimmee",
+      "eventSlug": "115884-combat-night-kissimmee",
+      "round": 1,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2024-05-04T00:00:00.000Z",
+      "opponent": "Timothy Kline",
+      "opponentSlug": "216940-timothy-kline",
+      "result": "loss",
+      "method": "sub",
+      "event": "Combat Night Pro Duval",
+      "eventSlug": "113481-combat-night-pro-duval",
+      "round": 1,
+      "timeInRound": "0:42"
+    },
+    {
+      "date": "2024-02-17T00:00:00.000Z",
+      "opponent": "Mikey Conlon",
+      "opponentSlug": "97821-mikey-conlon",
+      "result": "loss",
+      "method": "tko",
+      "event": "Combat Night",
+      "eventSlug": "108794-combat-night-tally",
+      "round": 1,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2023-11-04T00:00:00.000Z",
+      "opponent": "Walter Zelaya",
+      "opponentSlug": "171181-walter-zelaya",
+      "result": "loss",
+      "method": "tko",
+      "event": "Combat Night 166",
+      "eventSlug": "106803-combat-night-166-duval",
+      "round": 1,
+      "timeInRound": "0:58"
+    },
+    {
+      "date": "2023-08-19T00:00:00.000Z",
+      "opponent": "Korey Taylor",
+      "opponentSlug": "193806-korey-taylor",
+      "result": "loss",
+      "method": "tko",
+      "event": "Combat Night",
+      "eventSlug": "102287-combat-night-tally",
+      "round": 1,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2023-05-06T00:00:00.000Z",
+      "opponent": "Hunter Chambers",
+      "opponentSlug": "174078-hunter-chambers",
+      "result": "loss",
+      "method": "sub",
+      "event": "Combat Night Pro",
+      "eventSlug": "99524-combat-night-pro-jacksonville",
+      "round": 1,
+      "timeInRound": "1:16"
+    },
+    {
+      "date": "2023-02-04T00:00:00.000Z",
+      "opponent": "Tristram Christensen",
+      "opponentSlug": "237513-tristram-christensen",
+      "result": "loss",
+      "method": "sub",
+      "event": "Synergy FC 5",
+      "eventSlug": "94476-synergy-fc-5-kansas-city-fight-night",
+      "round": 1,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2022-11-05T00:00:00.000Z",
+      "opponent": "Andres Santiago",
+      "opponentSlug": "210905-andres-santiago",
+      "result": "loss",
+      "method": "tko",
+      "event": "Combat Night",
+      "eventSlug": "93514-duval",
+      "round": 1,
+      "timeInRound": "1:25"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:37:06.720Z"
+}

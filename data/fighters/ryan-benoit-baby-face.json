@@ -1,0 +1,231 @@
+{
+  "slug": "ryan-benoit-baby-face",
+  "name": "Ryan Benoit",
+  "nickname": "Baby Face",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": 174,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1989-08-25",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/ryan-benoit-baby-face",
+  "recentFights": [
+    {
+      "date": "2021-07-31T00:00:00.000Z",
+      "opponent": "Zarrukh Adashev",
+      "opponentSlug": "41908-zarrukh-adashev",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "78698-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-07-15T00:00:00.000Z",
+      "opponent": "Tim Elliott",
+      "opponentSlug": "13664-timothy-elliot",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "70017-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-21T00:00:00.000Z",
+      "opponent": "Alatengheili",
+      "opponentSlug": "57170-ala-tengheili",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC on ESPN+ 23",
+      "eventSlug": "60327-ufc-on-espn-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-18T00:00:00.000Z",
+      "opponent": "Ashkan Mokhtarian",
+      "opponentSlug": "29744-ashkan-mokhtaran",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night 121",
+      "eventSlug": "46847-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2016-12-03T00:00:00.000Z",
+      "opponent": "Brandon Moreno",
+      "opponentSlug": "27833-brandon-moreno-the-assassin",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "The Ultimate Fighter 24 Finale",
+      "eventSlug": "41342-the-ultimate-fighter-24-finale",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-30T00:00:00.000Z",
+      "opponent": "Fredy Serrano",
+      "opponentSlug": "70996-fredy-serrano",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC 201: Lawler vs. Woodley",
+      "eventSlug": "39712-ufc-201",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-14T00:00:00.000Z",
+      "opponent": "Ben Nguyen",
+      "opponentSlug": "15366-ben-nguyen",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC 193: Rousey vs. Holm",
+      "eventSlug": "30831-ufc-193",
+      "round": 1,
+      "timeInRound": "2:35"
+    },
+    {
+      "date": "2015-03-14T00:00:00.000Z",
+      "opponent": "Sergio Pettis",
+      "opponentSlug": "17135-sergio-pettis",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 185: Pettis vs. Dos Anjos",
+      "eventSlug": "28236-ufc-185",
+      "round": 2,
+      "timeInRound": "1:34"
+    },
+    {
+      "date": "2013-11-30T00:00:00.000Z",
+      "opponent": "Josh Sampo",
+      "opponentSlug": "14541-josh-sampo",
+      "result": "loss",
+      "method": "sub",
+      "event": "The Ultimate Fighter 18 Finale",
+      "eventSlug": "20173-the-ultimate-fighter-18-finale",
+      "round": 2,
+      "timeInRound": "4:31"
+    },
+    {
+      "date": "2013-10-11T00:00:00.000Z",
+      "opponent": "Cody Fuller",
+      "opponentSlug": "15803-cody-fuller",
+      "result": "win",
+      "method": "other",
+      "event": "Legacy FC 24",
+      "eventSlug": "20033-legacy-fc-24",
+      "round": 1,
+      "timeInRound": "4:53"
+    },
+    {
+      "date": "2013-05-10T00:00:00.000Z",
+      "opponent": "Anthony Birchak",
+      "opponentSlug": "13551-Anthony-Birchak",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MFC 37: True Grit",
+      "eventSlug": "17162-mfc-37-true-grit",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-12-14T00:00:00.000Z",
+      "opponent": "Joseph Sandoval",
+      "opponentSlug": "joseph-sandoval",
+      "result": "win",
+      "method": "other",
+      "event": "Legacy FC 16",
+      "eventSlug": "15589-legacy-fc-16",
+      "round": 1,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2012-08-17T00:00:00.000Z",
+      "opponent": "Randy Villarreal",
+      "opponentSlug": "14670-randy-villareal",
+      "result": "win",
+      "method": "other",
+      "event": "Legacy FC 13",
+      "eventSlug": "13683-legacy-fc-13",
+      "round": 1,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2012-05-11T00:00:00.000Z",
+      "opponent": "Cody Williams",
+      "opponentSlug": "16354-cody-williams-wolverine",
+      "result": "win",
+      "method": "sub",
+      "event": "Legacy FC 11",
+      "eventSlug": "12620-legacy-fc-11",
+      "round": 1,
+      "timeInRound": "2:53"
+    },
+    {
+      "date": "2011-03-11T00:00:00.000Z",
+      "opponent": "Matt Espinoza",
+      "opponentSlug": "matt-espinoza",
+      "result": "win",
+      "method": "other",
+      "event": "Shark Fights 14",
+      "eventSlug": "shark-fights-14",
+      "round": 2,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2010-06-19T00:00:00.000Z",
+      "opponent": "Tim Snyder",
+      "opponentSlug": "tim-snyder",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-08-29T00:00:00.000Z",
+      "opponent": "Davis Sylvester",
+      "opponentSlug": "13118-davis-sylvester",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-05-09T00:00:00.000Z",
+      "opponent": "LeJerrian Lindley",
+      "opponentSlug": "13119-lejerrian-lindley",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-01-10T00:00:00.000Z",
+      "opponent": "Pedro Alvarez",
+      "opponentSlug": "95905-pedro-alvarez",
+      "result": "win",
+      "method": "sub",
+      "event": "Ring Rulers",
+      "eventSlug": "9588-ring-rulers-super-brawl",
+      "round": 2,
+      "timeInRound": "1:19"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:12:28.782Z"
+}

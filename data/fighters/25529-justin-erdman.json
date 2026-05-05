@@ -1,0 +1,44 @@
+{
+  "slug": "25529-justin-erdman",
+  "name": "Justin Erdman",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/25529-justin-erdman",
+  "recentFights": [
+    {
+      "date": "2005-01-12T00:00:00.000Z",
+      "opponent": "Jeff Carstens",
+      "opponentSlug": "3349-jeff-carstens",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2004-01-16T00:00:00.000Z",
+      "opponent": "Jeremy Stephens",
+      "opponentSlug": "jeremy-stephens-lil-heathen",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:02:15.333Z"
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "208500-leon-giscard-belomo",
+  "name": "Leon Giscard Belomo",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/208500-leon-giscard-belomo",
+  "recentFights": [
+    {
+      "date": "2019-05-25T00:00:00.000Z",
+      "opponent": "Shamil Gaziev",
+      "opponentSlug": "201352-shamil-gaziev",
+      "result": "loss",
+      "method": "tko",
+      "event": "2019 IMMAF-WMMAA Africa Open Championships",
+      "eventSlug": "60675-2019-immaf-wmmaa-africa-open-championships-day-3",
+      "round": 1,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2019-04-06T00:00:00.000Z",
+      "opponent": "Butcha Mbiamou",
+      "opponentSlug": "219059-butcha-mbiamou",
+      "result": "win",
+      "method": "tko",
+      "event": "CFC 10",
+      "eventSlug": "58269-cfc-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-09T00:00:00.000Z",
+      "opponent": "Mbiamou Aime",
+      "opponentSlug": "208501-mbiamou-aime",
+      "result": "win",
+      "method": "other",
+      "event": "CFC 9",
+      "eventSlug": "57969-cfc-9",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:55:48.262Z"
+}

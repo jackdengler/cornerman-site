@@ -1,0 +1,99 @@
+{
+  "slug": "210641-darina-mazdyuk",
+  "name": "Darina Mazdyuk",
+  "nickname": "Red Queen",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": 164,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1992-01-24",
+  "nationality": "Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/210641-darina-mazdyuk",
+  "recentFights": [
+    {
+      "date": "2021-10-23T00:00:00.000Z",
+      "opponent": "Katarzyna Sadura",
+      "opponentSlug": "90407-katarzyna-sadura",
+      "result": "loss",
+      "method": "other",
+      "event": "Bellator 269",
+      "eventSlug": "80135-bellator",
+      "round": 2,
+      "timeInRound": "3:17"
+    },
+    {
+      "date": "2020-03-06T00:00:00.000Z",
+      "opponent": "Marina Kigeleva",
+      "opponentSlug": "258745-marina-kiseleva",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fight For Hype 11",
+      "eventSlug": "68471-fight-for-hype-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-04T00:00:00.000Z",
+      "opponent": "Anastasiya Sukhanova",
+      "opponentSlug": "278999-anastasiya-sukhanova",
+      "result": "win",
+      "method": "other",
+      "event": "Fight For Hype 9",
+      "eventSlug": "70022-fight-for-hype-9",
+      "round": 1,
+      "timeInRound": "1:11"
+    },
+    {
+      "date": "2019-12-21T00:00:00.000Z",
+      "opponent": "Madina Magomedova",
+      "opponentSlug": "246823-madina-magomedova",
+      "result": "win",
+      "method": "other",
+      "event": "The Old Guard",
+      "eventSlug": "64647-the-old-guard-divizion-5",
+      "round": 4,
+      "timeInRound": "3:24"
+    },
+    {
+      "date": "2019-12-01T00:00:00.000Z",
+      "opponent": "Darya Zheleznyakova",
+      "opponentSlug": "229363-dariya-zheleznyakova",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "GIT Sech Pro",
+      "eventSlug": "64476-git-sech-pro-time-of-new-heroes-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-02-02T00:00:00.000Z",
+      "opponent": "Nadezhda Zinovyeva",
+      "opponentSlug": "210640-nadezhda-zinovyeva",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Top Fight: Grand Prix",
+      "eventSlug": "58119-top-fight-grand-prix",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-11-26T00:00:00.000Z",
+      "opponent": "Grigory Chistyakov",
+      "opponentSlug": "279024-grisha-polnoe",
+      "result": "win",
+      "method": "other",
+      "event": "Nashe Delo 10",
+      "eventSlug": "74461-nashe-delo-fights",
+      "round": 1,
+      "timeInRound": "1:25"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:00:56.168Z"
+}

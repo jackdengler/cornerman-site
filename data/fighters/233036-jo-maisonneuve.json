@@ -1,0 +1,121 @@
+{
+  "slug": "233036-jo-maisonneuve",
+  "name": "Jo Maisonneuve",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": 168,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1991-01-05",
+  "nationality": "Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/233036-jo-maisonneuve",
+  "recentFights": [
+    {
+      "date": "2025-09-04T00:00:00.000Z",
+      "opponent": "Rachel Hofer",
+      "opponentSlug": "342971-rachel-hofer",
+      "result": "win",
+      "method": "tko",
+      "event": "BFL 84",
+      "eventSlug": "131123-bfl-84",
+      "round": 2,
+      "timeInRound": "3:46"
+    },
+    {
+      "date": "2022-12-17T00:00:00.000Z",
+      "opponent": "Shannon Clark",
+      "opponentSlug": "236557-shannon-clark",
+      "result": "loss",
+      "method": "other",
+      "event": "Unified MMA 49",
+      "eventSlug": "93981-unified-mma-49",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2022-05-06T00:00:00.000Z",
+      "opponent": "Ekaterina Voronova",
+      "opponentSlug": "121570-ekaterina-voronova",
+      "result": "win",
+      "method": "other",
+      "event": "Samourai MMA 2",
+      "eventSlug": "86981-samourai-mma-2",
+      "round": 1,
+      "timeInRound": "3:50"
+    },
+    {
+      "date": "2021-06-05T00:00:00.000Z",
+      "opponent": "Maria Djukic",
+      "opponentSlug": "176910-maria-djukic",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "BTC 10",
+      "eventSlug": "79320-btc-x",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-28T00:00:00.000Z",
+      "opponent": "Melissa Croden",
+      "opponentSlug": "140510-melissa-croden",
+      "result": "loss",
+      "method": "other",
+      "event": "Fight Night 11",
+      "eventSlug": "61474-fight-night-11",
+      "round": 3,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2018-11-17T00:00:00.000Z",
+      "opponent": "Noka Kistabich",
+      "opponentSlug": "125300-noka-kistabich",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MFL 8",
+      "eventSlug": "56325-montreal-fight-league-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-02-03T00:00:00.000Z",
+      "opponent": "Jasmine Jasudavicius",
+      "opponentSlug": "171056-jasmine-jasdavicious",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Full Contact Promotions",
+      "eventSlug": "49384-full-contact-promotions-rage-in-the-cage-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-27T00:00:00.000Z",
+      "opponent": "Emma Horner",
+      "opponentSlug": "167135-emma-horner",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-08T00:00:00.000Z",
+      "opponent": "Krystal Maxwell",
+      "opponentSlug": "341369-krystal-maxwell",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:10:07.123Z"
+}

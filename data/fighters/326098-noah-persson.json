@@ -1,0 +1,37 @@
+{
+  "slug": "326098-noah-persson",
+  "name": "Noah Persson",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Kristianstad, Sweden",
+  "url": "https://www.tapology.com/fightcenter/fighters/326098-noah-persson",
+  "recentFights": [
+    {
+      "date": "2022-02-26T00:00:00.000Z",
+      "opponent": "Liam Pitts",
+      "opponentSlug": "323029-liam-pitts",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fight Club Rush 11",
+      "eventSlug": "85841-fight-club-rush-11",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:10:58.524Z"
+}

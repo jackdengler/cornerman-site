@@ -1,0 +1,59 @@
+{
+  "slug": "111324-dean-bradley",
+  "name": "Dean Bradley",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/111324-dean-bradley",
+  "recentFights": [
+    {
+      "date": "2017-09-15T00:00:00.000Z",
+      "opponent": "James Killin",
+      "opponentSlug": "165962-james-killin",
+      "result": "win",
+      "method": "tko",
+      "event": "Superfight MMA 5",
+      "eventSlug": "47645-superfight-mma-5",
+      "round": 2,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2016-02-19T00:00:00.000Z",
+      "opponent": "Jason Stuart",
+      "opponentSlug": "114751-jason-stuart",
+      "result": "win",
+      "method": "tko",
+      "event": "Superfight MMA 2",
+      "eventSlug": "37930-superfight-mma-2",
+      "round": 1,
+      "timeInRound": "2:44"
+    },
+    {
+      "date": "2015-08-21T00:00:00.000Z",
+      "opponent": "Jacob Malkoun",
+      "opponentSlug": "111323-jacob-malkoun",
+      "result": "loss",
+      "method": "other",
+      "event": "Superfight MMA 1",
+      "eventSlug": "33990-superfight-mma-1",
+      "round": 2,
+      "timeInRound": "0:43"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:14:41.673Z"
+}

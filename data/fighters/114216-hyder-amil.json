@@ -1,0 +1,198 @@
+{
+  "slug": "114216-hyder-amil",
+  "name": "Hyder Amil",
+  "nickname": "The Hurricane",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 178,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1990-05-28",
+  "nationality": "Cebu City, Philippines",
+  "url": "https://www.tapology.com/fightcenter/fighters/114216-hyder-amil",
+  "recentFights": [
+    {
+      "date": "2026-06-20T00:00:00.000Z",
+      "opponent": "Christian Rodriguez",
+      "opponentSlug": "121190-christian-rodriguez",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "141144-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-08T00:00:00.000Z",
+      "opponent": "Jamall Emmers",
+      "opponentSlug": "32088-jamall-emmers",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "132761-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-06-28T00:00:00.000Z",
+      "opponent": "Jose Delgado",
+      "opponentSlug": "196121-jose-delgado",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 317: Topuria vs. Oliveira",
+      "eventSlug": "124086-ufc-317",
+      "round": 1,
+      "timeInRound": "0:26"
+    },
+    {
+      "date": "2025-03-01T00:00:00.000Z",
+      "opponent": "William Gomis",
+      "opponentSlug": "125696-william-gomis",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "120055-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-07-20T00:00:00.000Z",
+      "opponent": "Jeong Yeong Lee",
+      "opponentSlug": "51443-jeong-young-lee",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "112783-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2024-02-10T00:00:00.000Z",
+      "opponent": "Fernie Garcia",
+      "opponentSlug": "43088-fernie-garcia",
+      "result": "win",
+      "method": "tko",
+      "event": "UFC Fight Night",
+      "eventSlug": "107367-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2023-08-15T00:00:00.000Z",
+      "opponent": "Emrah Sonmez",
+      "opponentSlug": "44847-emrah-sonmez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Contender Series 2023",
+      "eventSlug": "100992-contender-series-2023-week-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-29T00:00:00.000Z",
+      "opponent": "Chase Gibson",
+      "opponentSlug": "79391-chase-gibson",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 137: Gibson vs. Amil",
+      "eventSlug": "90493-lfa-137",
+      "round": 2,
+      "timeInRound": "0:11"
+    },
+    {
+      "date": "2022-04-15T00:00:00.000Z",
+      "opponent": "Devante Sewell",
+      "opponentSlug": "91224-devante-sewell",
+      "result": "win",
+      "method": "dec-split",
+      "event": "LFA 129: Petersen vs. Cortes-Acosta",
+      "eventSlug": "87693-lfa-129-petersen-vs-cortes-acosta",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-05T00:00:00.000Z",
+      "opponent": "Robson Junior",
+      "opponentSlug": "239447-robson-junior",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 117: Dias vs. Tanaka",
+      "eventSlug": "83286-lfa-117-dias-vs-tanaka",
+      "round": 2,
+      "timeInRound": "3:26"
+    },
+    {
+      "date": "2019-09-07T00:00:00.000Z",
+      "opponent": "Ignacio Ortiz",
+      "opponentSlug": "74471-ignacio-ortiz",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Bellator 226",
+      "eventSlug": "61709-bellator-226-bader-vs-kongo",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-27T00:00:00.000Z",
+      "opponent": "Paradise Vaovasa",
+      "opponentSlug": "48491-paridise-vaovasa",
+      "result": "win",
+      "method": "sub",
+      "event": "Bellator 220",
+      "eventSlug": "58028-bellator",
+      "round": 1,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2018-05-12T00:00:00.000Z",
+      "opponent": "Elias Anderson",
+      "opponentSlug": "136993-elias-anderson",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 199",
+      "eventSlug": "50795-bellator-198-bader-vs-king-mo",
+      "round": 2,
+      "timeInRound": "3:01"
+    },
+    {
+      "date": "2017-11-18T00:00:00.000Z",
+      "opponent": "Adam Cruz",
+      "opponentSlug": "33442-adam-cruz",
+      "result": "win",
+      "method": "tko",
+      "event": "Dragon House 27",
+      "eventSlug": "49186-dragon-house-27",
+      "round": 2,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2016-12-03T00:00:00.000Z",
+      "opponent": "Adrian Contreras",
+      "opponentSlug": "139500-adrian-contreras",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Combat FC",
+      "eventSlug": "43164-ccfc-contender-series-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-04-05T00:00:00.000Z",
+      "opponent": "Tito Mendoza",
+      "opponentSlug": "61651-agapito-mendoza",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:07:00.038Z"
+}

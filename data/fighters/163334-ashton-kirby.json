@@ -1,0 +1,198 @@
+{
+  "slug": "163334-ashton-kirby",
+  "name": "Ashton Kirby",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "2000-09-03",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/163334-ashton-kirby",
+  "recentFights": [
+    {
+      "date": "2024-06-21T00:00:00.000Z",
+      "opponent": "Ryan Hoover",
+      "opponentSlug": "140346-ryan-hoover",
+      "result": "loss",
+      "method": "sub",
+      "event": "Xtreme Fight Night 394",
+      "eventSlug": "113618-xfn-394",
+      "round": 1,
+      "timeInRound": "2:23"
+    },
+    {
+      "date": "2024-04-13T00:00:00.000Z",
+      "opponent": "Tremiere Hollie",
+      "opponentSlug": "99604-tremiere-hollis",
+      "result": "win",
+      "method": "tko",
+      "event": "RDC 12: Fight Night",
+      "eventSlug": "111009-rdc-12",
+      "round": 1,
+      "timeInRound": "1:16"
+    },
+    {
+      "date": "2023-12-09T00:00:00.000Z",
+      "opponent": "Dontail Henson",
+      "opponentSlug": "117625-dontall-henson",
+      "result": "win",
+      "method": "sub",
+      "event": "RDC 9: As Real As it Gets",
+      "eventSlug": "105461-rdc-9-as-real-as-it-gets",
+      "round": 1,
+      "timeInRound": "1:41"
+    },
+    {
+      "date": "2022-08-05T00:00:00.000Z",
+      "opponent": "Kallum Parker",
+      "opponentSlug": "345357-kallum-parker",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "LFA 138: Farias vs. Tanaka",
+      "eventSlug": "90629-lfa-138-farias-vs-tanaka",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-08-14T00:00:00.000Z",
+      "opponent": "Gauge Young",
+      "opponentSlug": "213571-gauge-young",
+      "result": "win",
+      "method": "other",
+      "event": "FAC 3",
+      "eventSlug": "71076-fac-3",
+      "round": 3,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2020-06-20T00:00:00.000Z",
+      "opponent": "Ross Johnson",
+      "opponentSlug": "217757-ross-johnson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMAX FC 8: Mardi Gras Fight Night 2",
+      "eventSlug": "70473-mfc-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-01-18T00:00:00.000Z",
+      "opponent": "Anthony Sutterfield",
+      "opponentSlug": "211145-anthony-sutterfield",
+      "result": "win",
+      "method": "other",
+      "event": "Peak Fighting 4",
+      "eventSlug": "63958-peak-fighting-4-the-takeover",
+      "round": 1,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2019-11-23T00:00:00.000Z",
+      "opponent": "Johnathan Williams",
+      "opponentSlug": "117226-jonathon-williams",
+      "result": "win",
+      "method": "sub",
+      "event": "V3 Fights 77",
+      "eventSlug": "64384-v3-fights-77",
+      "round": 1,
+      "timeInRound": "1:03"
+    },
+    {
+      "date": "2019-10-04T00:00:00.000Z",
+      "opponent": "Josiah Harrell",
+      "opponentSlug": "199898-josiah-harrell",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Ohio Combat League 3",
+      "eventSlug": "62391-ohio-combat-league-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-13T00:00:00.000Z",
+      "opponent": "Marshal Kemp",
+      "opponentSlug": "100982-marshall-kemp",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Pyramid Fights 11",
+      "eventSlug": "58218-pyramid-fights-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-01-19T00:00:00.000Z",
+      "opponent": "Kevin Pease",
+      "opponentSlug": "175737-kevin-pease",
+      "result": "win",
+      "method": "sub",
+      "event": "V3 Fights 72",
+      "eventSlug": "57790-v3-fights-72",
+      "round": 1,
+      "timeInRound": "2:37"
+    },
+    {
+      "date": "2018-08-18T00:00:00.000Z",
+      "opponent": "Christopher Vaughn",
+      "opponentSlug": "128895-christopher-vaughn",
+      "result": "win",
+      "method": "sub",
+      "event": "Pyramid Fights 8",
+      "eventSlug": "53490-pyramid-fights-8",
+      "round": 1,
+      "timeInRound": "2:28"
+    },
+    {
+      "date": "2018-06-09T00:00:00.000Z",
+      "opponent": "Seth Sirgo",
+      "opponentSlug": "110501-seth-sirgo",
+      "result": "win",
+      "method": "sub",
+      "event": "Summit FC 28",
+      "eventSlug": "53484-summit-fc-28",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-09T00:00:00.000Z",
+      "opponent": "Ray Willis",
+      "opponentSlug": "167406-ray-willis",
+      "result": "win",
+      "method": "sub",
+      "event": "Pyramid Fights 5",
+      "eventSlug": "48441-pyramid-fights-5",
+      "round": 2,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2017-10-14T00:00:00.000Z",
+      "opponent": "Jeremiah Hexamer",
+      "opponentSlug": "133183-jeremiah-hexamer",
+      "result": "win",
+      "method": "sub",
+      "event": "Summit FC 24",
+      "eventSlug": "48791-summit-fc-24-jackson",
+      "round": 1,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2017-08-12T00:00:00.000Z",
+      "opponent": "Wesley Ledford",
+      "opponentSlug": "163333-wesley-ledford",
+      "result": "win",
+      "method": "sub",
+      "event": "Pyramid Fights 3",
+      "eventSlug": "46229-pyramid-fights-3",
+      "round": 2,
+      "timeInRound": "2:26"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:12:29.278Z"
+}

@@ -1,0 +1,253 @@
+{
+  "slug": "7694-lucas-rota",
+  "name": "Lucas Rota",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 13,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 186,
+  "reachCm": 189,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1984-04-17",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/7694-lucas-rota",
+  "recentFights": [
+    {
+      "date": "2019-08-30T00:00:00.000Z",
+      "opponent": "Moses Murrietta",
+      "opponentSlug": "51198-moses-murrietta",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 74: Vanderaa vs. Ferreira",
+      "eventSlug": "62077-lfa-74-vanderaa-vs-ferreira",
+      "round": 1,
+      "timeInRound": "0:24"
+    },
+    {
+      "date": "2019-01-18T00:00:00.000Z",
+      "opponent": "Adam Stroup",
+      "opponentSlug": "22313-adam-stroup",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 57: Zalal vs. Mariscal",
+      "eventSlug": "57206-lfa-57-zalal-vs-mariscal",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-21T00:00:00.000Z",
+      "opponent": "Ian Heinisch",
+      "opponentSlug": "77683-ian-heinisch",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 10: Heinisch vs. Rota",
+      "eventSlug": "44724-lfa-10-heinisch-vs-rota",
+      "round": 1,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2015-12-19T00:00:00.000Z",
+      "opponent": "Edson Gottlieb Jr.",
+      "opponentSlug": "62417-edson-nilson-gottlieb-jr-chokito",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-22T00:00:00.000Z",
+      "opponent": "Casey Ryan",
+      "opponentSlug": "casey-ryan",
+      "result": "win",
+      "method": "other",
+      "event": "TFE: Baptism Under Fire",
+      "eventSlug": "34308-tfe-baptism-under-fire",
+      "round": 3,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2015-07-18T00:00:00.000Z",
+      "opponent": "Gerald Meerschaert",
+      "opponentSlug": "6018-gerald-meerschaert-the-machine",
+      "result": "loss",
+      "method": "other",
+      "event": "Titan FC 34",
+      "eventSlug": "33394-titan-fc-34-healy-vs-ricci",
+      "round": 3,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2014-12-06T00:00:00.000Z",
+      "opponent": "Marcos Werner",
+      "opponentSlug": "53996-marcos-werner",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-08-16T00:00:00.000Z",
+      "opponent": "Tassio de Paula",
+      "opponentSlug": "77226-tassio-de-paula",
+      "result": "win",
+      "method": "sub",
+      "event": "Gladiator CF 6",
+      "eventSlug": "25726-gladiator-cf-6",
+      "round": 3,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2013-11-22T00:00:00.000Z",
+      "opponent": "Vinnie Lopez",
+      "opponentSlug": "15494-vinnie-lopez",
+      "result": "win",
+      "method": "other",
+      "event": "RFA 11: Manzanares vs. Makovsky",
+      "eventSlug": "21126-rfa-11-makovsky-vs-manzanares",
+      "round": 2,
+      "timeInRound": "0:33"
+    },
+    {
+      "date": "2013-03-09T00:00:00.000Z",
+      "opponent": "Angel Orellana",
+      "opponentSlug": "17025-angel-orellana-aplanadora",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bitetti Combat 14",
+      "eventSlug": "17696-bitetti-combat-14",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-11-17T00:00:00.000Z",
+      "opponent": "Aldo Campos",
+      "opponentSlug": "43821-aldo-campos",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-10-20T00:00:00.000Z",
+      "opponent": "Wellington Bruno",
+      "opponentSlug": "37439-wellington-bruno-tleis",
+      "result": "win",
+      "method": "other",
+      "event": "Empire FC 1",
+      "eventSlug": "16197-empire-fc-1",
+      "round": 1,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2012-09-15T00:00:00.000Z",
+      "opponent": "Manoel Conti",
+      "opponentSlug": "31363-manoel-henrique-conti-mane",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-11-26T00:00:00.000Z",
+      "opponent": "Carlos Alberto Bazan Rojas",
+      "opponentSlug": "31079-carlos-alberto-bazan-rojas",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-08-20T00:00:00.000Z",
+      "opponent": "Marcelo Guimarães",
+      "opponentSlug": "24398-marcelo-guimaraes-magrao",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-04-01T00:00:00.000Z",
+      "opponent": "Gilberto Galvão",
+      "opponentSlug": "16321-gilberto-galvao-giba",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-12-11T00:00:00.000Z",
+      "opponent": "Alexandre Brandão",
+      "opponentSlug": "4387-alexandre-brandao-sagat",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-02-01T00:00:00.000Z",
+      "opponent": "Nabil Khatib",
+      "opponentSlug": "4004-nabil-khatib-the-thrill",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-10-19T00:00:00.000Z",
+      "opponent": "Andrew Buckland",
+      "opponentSlug": "andrew-buckland",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-08-23T00:00:00.000Z",
+      "opponent": "Tiago Mônaco",
+      "opponentSlug": "4056-tiago-tosato-monaco",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2005-06-26T00:00:00.000Z",
+      "opponent": "Junior Vidal",
+      "opponentSlug": "31222-junior-vidal",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:15:30.028Z"
+}

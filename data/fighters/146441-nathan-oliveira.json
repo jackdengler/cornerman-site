@@ -1,0 +1,132 @@
+{
+  "slug": "146441-nathan-oliveira",
+  "name": "Nathan Oliveira",
+  "nickname": "Shogun",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1999-06-08",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/146441-nathan-oliveira",
+  "recentFights": [
+    {
+      "date": "2024-07-20T00:00:00.000Z",
+      "opponent": "Modestino Rodrigues",
+      "opponentSlug": "321755-modestino-rodrigues-the-slenderman",
+      "result": "loss",
+      "method": "other",
+      "event": "Jungle Fight 128",
+      "eventSlug": "115704-jungle-fight-128",
+      "round": 2,
+      "timeInRound": "0:32"
+    },
+    {
+      "date": "2023-12-16T00:00:00.000Z",
+      "opponent": "Édson Silva",
+      "opponentSlug": "294703-edson-silva",
+      "result": "win",
+      "method": "other",
+      "event": "Jungle Fight 123",
+      "eventSlug": "107678-jungle-fight-123",
+      "round": 2,
+      "timeInRound": "4:10"
+    },
+    {
+      "date": "2022-10-29T00:00:00.000Z",
+      "opponent": "Rafael Tobias",
+      "opponentSlug": "332548-rafael-tobias-bipolar",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Spartacus MMA 19",
+      "eventSlug": "94251-spartacus-mma-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-10-24T00:00:00.000Z",
+      "opponent": "Willian Duarte",
+      "opponentSlug": "162994-willian-duarte-will",
+      "result": "win",
+      "method": "sub",
+      "event": "Gladiator CF 53",
+      "eventSlug": "72380-gladiator-cf-53",
+      "round": 1,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2020-03-14T00:00:00.000Z",
+      "opponent": "Julio Cesar Araujo",
+      "opponentSlug": "36253-julio-gaucho",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Serbian Battle Championship 27",
+      "eventSlug": "67616-serbian-battle-championship-27-revenge",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-10T00:00:00.000Z",
+      "opponent": "Lucas Costa",
+      "opponentSlug": "135735-lucas-costa-stifler",
+      "result": "loss",
+      "method": "sub",
+      "event": "MF Fighters 1",
+      "eventSlug": "56469-mf-fighters-1",
+      "round": 1,
+      "timeInRound": "4:39"
+    },
+    {
+      "date": "2018-08-25T00:00:00.000Z",
+      "opponent": "Marcus Vinicius",
+      "opponentSlug": "99876-marcus-vinicius-carrasco-jones",
+      "result": "loss",
+      "method": "tko",
+      "event": "SFT 4",
+      "eventSlug": "54897-sft-4",
+      "round": 1,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2017-11-12T00:00:00.000Z",
+      "opponent": "Alberto Antônio",
+      "opponentSlug": "57087-alberto-antonio",
+      "result": "win",
+      "method": "other",
+      "event": "Leões da Luta 1",
+      "eventSlug": "49076-lees-da-luta-1",
+      "round": 2,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2017-08-18T00:00:00.000Z",
+      "opponent": "Yaroslav Amosov",
+      "opponentSlug": "81129-yaroslav-amosov",
+      "result": "loss",
+      "method": "other",
+      "event": "Tech-Krep FC",
+      "eventSlug": "46942-tech-krep-fc-prime-selection-17-night-of-champions",
+      "round": 1,
+      "timeInRound": "3:20"
+    },
+    {
+      "date": "2016-12-10T00:00:00.000Z",
+      "opponent": "Felipe Alves",
+      "opponentSlug": "54266-felipe-alves",
+      "result": "win",
+      "method": "tko",
+      "event": "Imortal FC 6",
+      "eventSlug": "42502-imortal-fc-6",
+      "round": 1,
+      "timeInRound": "0:34"
+    }
+  ],
+  "lastVerified": "2026-04-25T23:04:33.383Z"
+}

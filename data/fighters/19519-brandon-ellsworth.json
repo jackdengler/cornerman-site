@@ -1,0 +1,44 @@
+{
+  "slug": "19519-brandon-ellsworth",
+  "name": "Brandon Ellsworth",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/19519-brandon-ellsworth",
+  "recentFights": [
+    {
+      "date": "2010-10-02T00:00:00.000Z",
+      "opponent": "Kevin Meredith",
+      "opponentSlug": "72224-kevin-meredith",
+      "result": "win",
+      "method": "other",
+      "event": "KOTC Underground 63",
+      "eventSlug": "8350-kotc-underground-63-strickland-vs-montes",
+      "round": 3,
+      "timeInRound": "2:28"
+    },
+    {
+      "date": "2009-03-14T00:00:00.000Z",
+      "opponent": "Sean Strickland",
+      "opponentSlug": "6055-sean-strickland-tarzan",
+      "result": "loss",
+      "method": "other",
+      "event": "KOTC Underground 33",
+      "eventSlug": "4797-kotc-last-resort",
+      "round": 1,
+      "timeInRound": "1:28"
+    }
+  ],
+  "lastVerified": "2026-04-25T22:58:50.105Z"
+}

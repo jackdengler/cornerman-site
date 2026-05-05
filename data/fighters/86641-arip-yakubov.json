@@ -1,0 +1,121 @@
+{
+  "slug": "86641-arip-yakubov",
+  "name": "Arip Yakubov",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1991-11-13",
+  "nationality": "Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/86641-arip-yakubov",
+  "recentFights": [
+    {
+      "date": "2022-03-26T00:00:00.000Z",
+      "opponent": "William Gomis",
+      "opponentSlug": "125696-william-gomis",
+      "result": "loss",
+      "method": "other",
+      "event": "UAE Warriors 28",
+      "eventSlug": "87433-uae-warriors-28",
+      "round": 1,
+      "timeInRound": "4:56"
+    },
+    {
+      "date": "2019-12-24T00:00:00.000Z",
+      "opponent": "Igor Arnaut",
+      "opponentSlug": "247563-igor-arnaut",
+      "result": "win",
+      "method": "other",
+      "event": "AFC: Battle on Volga 5",
+      "eventSlug": "65094-afc-battle-on-volga-5",
+      "round": 1,
+      "timeInRound": "4:18"
+    },
+    {
+      "date": "2018-06-30T00:00:00.000Z",
+      "opponent": "Ali Fathiarteh",
+      "opponentSlug": "123165-ali-fathi-persian-monster",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Nights Global",
+      "eventSlug": "53716-fight-nights-global-summer-cup",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-16T00:00:00.000Z",
+      "opponent": "Jingjia Wang",
+      "opponentSlug": "126547-jingjia-wang",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WLF W.A.R.S. 20",
+      "eventSlug": "49768-wlf-wars-20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-10-01T00:00:00.000Z",
+      "opponent": "Nizamuddin Ochildiev",
+      "opponentSlug": "176378-nizamuddin-ochildiev",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fitness Fight Global 3",
+      "eventSlug": "50451-fitness-fight-global-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-22T00:00:00.000Z",
+      "opponent": "Bowen Liu",
+      "opponentSlug": "123147-bowen-liu",
+      "result": "win",
+      "method": "tko",
+      "event": "WLF W.A.R.S. 16",
+      "eventSlug": "47068-wlf-wars-16",
+      "round": 1,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2017-05-20T00:00:00.000Z",
+      "opponent": "Enboniluo",
+      "opponentSlug": "133899-enboniluo",
+      "result": "win",
+      "method": "tko",
+      "event": "WLF W.A.R.S. 14",
+      "eventSlug": "45769-wlf-wars-14",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-22T00:00:00.000Z",
+      "opponent": "Grigorii Popov",
+      "opponentSlug": "64746-grigory-popov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MFP: Governor's Cup Of Sakhalin 2014",
+      "eventSlug": "26862-fefomp-cup-of-the-sakhalin-oblast-administration-head",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-11T00:00:00.000Z",
+      "opponent": "Magomed Abdulabekov",
+      "opponentSlug": "177310-magomed-abdulabekov",
+      "result": "win",
+      "method": "other",
+      "event": "Cup Of Tver 2017",
+      "eventSlug": "50287-cup-of-tver-2017",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:07:07.250Z"
+}

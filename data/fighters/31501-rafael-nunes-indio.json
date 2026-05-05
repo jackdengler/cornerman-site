@@ -1,0 +1,154 @@
+{
+  "slug": "31501-rafael-nunes-indio",
+  "name": "Rafael Nunes",
+  "nickname": "Índio",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1987-12-18",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/31501-rafael-nunes-indio",
+  "recentFights": [
+    {
+      "date": "2019-11-08T00:00:00.000Z",
+      "opponent": "Jae Woong Kim",
+      "opponentSlug": "50347-jae-ung-kim",
+      "result": "loss",
+      "method": "other",
+      "event": "ONE Championship",
+      "eventSlug": "61499-one-championship-masters-of-fate",
+      "round": 3,
+      "timeInRound": "0:38"
+    },
+    {
+      "date": "2018-06-29T00:00:00.000Z",
+      "opponent": "Tetsuya Yamada",
+      "opponentSlug": "tetsuya-yamada-helper",
+      "result": "loss",
+      "method": "other",
+      "event": "ONE Championship",
+      "eventSlug": "52844-one-championship-spirit-of-a-warrior",
+      "round": 2,
+      "timeInRound": "4:05"
+    },
+    {
+      "date": "2018-01-26T00:00:00.000Z",
+      "opponent": "Eric Kelly",
+      "opponentSlug": "16125-eric-kelly-the-natural",
+      "result": "win",
+      "method": "other",
+      "event": "ONE Championship",
+      "eventSlug": "49721-one-championship-global-superheroes",
+      "round": 2,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2014-07-11T00:00:00.000Z",
+      "opponent": "Koji Ando",
+      "opponentSlug": "koji-ando",
+      "result": "loss",
+      "method": "sub",
+      "event": "ONE FC 18: War of Dragons",
+      "eventSlug": "25012-one-fc-18-war-of-dragons",
+      "round": 1,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2013-06-22T00:00:00.000Z",
+      "opponent": "Claudiere Freitas",
+      "opponentSlug": "8368-claudiere-freitas",
+      "result": "win",
+      "method": "sub",
+      "event": "Premium FC 1",
+      "eventSlug": "19416-premium-fc-1",
+      "round": 1,
+      "timeInRound": "4:55"
+    },
+    {
+      "date": "2012-11-10T00:00:00.000Z",
+      "opponent": "Fabiano de Melo",
+      "opponentSlug": "7784-fabiano-lucas-bob-esponja",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-07-28T00:00:00.000Z",
+      "opponent": "Udi Lima",
+      "opponentSlug": "4073-udi-lima",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-05-13T00:00:00.000Z",
+      "opponent": "Carlos Prates",
+      "opponentSlug": "36554-carlos-prates-carlao",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-03-17T00:00:00.000Z",
+      "opponent": "Ricardo Galheta",
+      "opponentSlug": "31089-jose-ricardo-galheta",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-07-16T00:00:00.000Z",
+      "opponent": "Fabio Defendenti",
+      "opponentSlug": "31187-fabio-defendenti",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-10-08T00:00:00.000Z",
+      "opponent": "Marcio Sapo",
+      "opponentSlug": "11156-marcio-sapo",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-07-24T00:00:00.000Z",
+      "opponent": "Leandro Gigante",
+      "opponentSlug": "35462-leandro-gigante",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:11:06.724Z"
+}

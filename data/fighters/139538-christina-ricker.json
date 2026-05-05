@@ -1,0 +1,253 @@
+{
+  "slug": "139538-christina-ricker",
+  "name": "Christina Adcock",
+  "nickname": "Roadhouse",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": 173,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1990-08-23",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/139538-christina-ricker",
+  "recentFights": [
+    {
+      "date": "2026-03-14T00:00:00.000Z",
+      "opponent": "Brittany Bickhart",
+      "opponentSlug": "214676-brittany-bickhart-sunshine",
+      "result": "loss",
+      "method": "sub",
+      "event": "247 MMA at the Venue 5",
+      "eventSlug": "138740-247-mma-at-the-venue-5",
+      "round": 1,
+      "timeInRound": "3:06"
+    },
+    {
+      "date": "2023-04-22T00:00:00.000Z",
+      "opponent": "Monica Medina",
+      "opponentSlug": "71432-monica-medina",
+      "result": "nc",
+      "method": "other",
+      "event": "CFC 1",
+      "eventSlug": "100465-cfc-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-01-14T00:00:00.000Z",
+      "opponent": "Maria Rios",
+      "opponentSlug": "17382-maria-rios",
+      "result": "win",
+      "method": "sub",
+      "event": "Showcase MMA 29",
+      "eventSlug": "96349-showcase-mma-29",
+      "round": 1,
+      "timeInRound": "2:06"
+    },
+    {
+      "date": "2022-06-25T00:00:00.000Z",
+      "opponent": "Whittany Pyles",
+      "opponentSlug": "151966-whitney-pyles",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Showcase MMA 26",
+      "eventSlug": "88433-showcase-mma-26-freedom-reigns",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-04T00:00:00.000Z",
+      "opponent": "Alexandra Ballou",
+      "opponentSlug": "167439-alexandra-ballou",
+      "result": "loss",
+      "method": "tko",
+      "event": "Valor Fighting Challenge 83",
+      "eventSlug": "78716-valor-fighting-challenge-83",
+      "round": 2,
+      "timeInRound": "4:35"
+    },
+    {
+      "date": "2021-01-09T00:00:00.000Z",
+      "opponent": "Serena DeJesus",
+      "opponentSlug": "87466-serena-dejesus",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Valor Fighting Challenge 77",
+      "eventSlug": "73676-valor-fighting-challenge-77",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-12T00:00:00.000Z",
+      "opponent": "Hannah Rosario",
+      "opponentSlug": "84384-hannah-rosario",
+      "result": "win",
+      "method": "other",
+      "event": "Valor Fighting Challenge 73",
+      "eventSlug": "71541-valor-fighting-challenge-73",
+      "round": 2,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2020-02-08T00:00:00.000Z",
+      "opponent": "Brigid Chase",
+      "opponentSlug": "142587-brigid-chase",
+      "result": "loss",
+      "method": "sub",
+      "event": "Valor Fighting Challenge 69",
+      "eventSlug": "66447-valor-fighting-challenge-69-robins-vs-ferhatbegovic",
+      "round": 1,
+      "timeInRound": "3:57"
+    },
+    {
+      "date": "2019-11-30T00:00:00.000Z",
+      "opponent": "Jasmine Jasudavicius",
+      "opponentSlug": "171056-jasmine-jasdavicious",
+      "result": "loss",
+      "method": "other",
+      "event": "BTC 8: Eliminator",
+      "eventSlug": "60389-btc-8",
+      "round": 1,
+      "timeInRound": "0:52"
+    },
+    {
+      "date": "2019-04-12T00:00:00.000Z",
+      "opponent": "Larkyn Dasch",
+      "opponentSlug": "122996-larkyn-dasch",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CLIP: Motor City Cagefights 5",
+      "eventSlug": "58473-clip-motor-city-cagefights-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-02-15T00:00:00.000Z",
+      "opponent": "Caitlin Sammons",
+      "opponentSlug": "101620-caitlin-sammons",
+      "result": "loss",
+      "method": "other",
+      "event": "Invicta FC 34",
+      "eventSlug": "57600-invicta-fc-34",
+      "round": 2,
+      "timeInRound": "3:02"
+    },
+    {
+      "date": "2019-01-19T00:00:00.000Z",
+      "opponent": "Hayley Turner",
+      "opponentSlug": "138780-hayley-turner",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Valor Fighting Challenge 54",
+      "eventSlug": "57792-valor-fighting-challenge-54",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-22T00:00:00.000Z",
+      "opponent": "Jamey-Lyn Horth",
+      "opponentSlug": "148703-jamey-lyn-horth",
+      "result": "loss",
+      "method": "other",
+      "event": "BFL 57: Incursion",
+      "eventSlug": "54317-bfl-57",
+      "round": 2,
+      "timeInRound": "4:49"
+    },
+    {
+      "date": "2018-04-20T00:00:00.000Z",
+      "opponent": "Megan Poe",
+      "opponentSlug": "132232-megan-poe",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Valor Fights 49",
+      "eventSlug": "52439-valor-fights-49-fight-night-at-the-shed",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-02T00:00:00.000Z",
+      "opponent": "Jordan Nickelatti",
+      "opponentSlug": "136123-jordan-nickellati",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 34: Watley vs. Jenkins",
+      "eventSlug": "50421-lfa-34-watley-vs-jenkins",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-01T00:00:00.000Z",
+      "opponent": "Hailey Cowan",
+      "opponentSlug": "166556-hailey-cowan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Rite of Passage 2",
+      "eventSlug": "48198-rite-of-passage-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-12T00:00:00.000Z",
+      "opponent": "Whittany Pyles",
+      "opponentSlug": "151966-whitney-pyles",
+      "result": "loss",
+      "method": "dec-majority",
+      "event": "VFW Fight Night",
+      "eventSlug": "47471-vfw-fight-night-under-siege",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-16T00:00:00.000Z",
+      "opponent": "Fotini Kandris",
+      "opponentSlug": "130487-fotini-kandris",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "50fifty Fight Night 2",
+      "eventSlug": "46256-50fifty-fight-night-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-28T00:00:00.000Z",
+      "opponent": "Maddy Simmons",
+      "opponentSlug": "34928-maddy-simmons",
+      "result": "win",
+      "method": "other",
+      "event": "50Fifty Fight Night",
+      "eventSlug": "45402-50fifty-fight-night",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2016-12-02T00:00:00.000Z",
+      "opponent": "Laila Corder",
+      "opponentSlug": "145088-laila-corder",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Valor Fights 39",
+      "eventSlug": "42713-valor-fights-39",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-17T00:00:00.000Z",
+      "opponent": "Natasha Lawler",
+      "opponentSlug": "132444-natasha-lawler",
+      "result": "win",
+      "method": "tko",
+      "event": "Apex Fights 12",
+      "eventSlug": "41662-apex-fights-12",
+      "round": 2,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:09:55.237Z"
+}

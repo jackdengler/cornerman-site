@@ -1,0 +1,66 @@
+{
+  "slug": "80680-leandro-moreira",
+  "name": "Leandro Moreira",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/80680-leandro-moreira",
+  "recentFights": [
+    {
+      "date": "2019-03-16T00:00:00.000Z",
+      "opponent": "Iago Ribeiro",
+      "opponentSlug": "199397-iago-ribeiro",
+      "result": "win",
+      "method": "other",
+      "event": "Mr. Cage vs. Rei da Selva Combat 1",
+      "eventSlug": "58966-mr-cage-vs-rei-da-selva-combat-1",
+      "round": 1,
+      "timeInRound": "3:17"
+    },
+    {
+      "date": "2016-05-21T00:00:00.000Z",
+      "opponent": "Kevin Christian",
+      "opponentSlug": "124745-kevin-christian",
+      "result": "loss",
+      "method": "sub",
+      "event": "Rei da Selva Combat 7",
+      "eventSlug": "39874-rei-da-selva-combat-7",
+      "round": 1,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2015-02-21T00:00:00.000Z",
+      "opponent": "Helberth Batista",
+      "opponentSlug": "214704-helberth-batista",
+      "result": "win",
+      "method": "sub",
+      "event": "Amazon Talent 1",
+      "eventSlug": "30138-amazon-talent-1",
+      "round": 1,
+      "timeInRound": "3:59"
+    },
+    {
+      "date": "2014-11-29T00:00:00.000Z",
+      "opponent": "Victor Castro",
+      "opponentSlug": "92801-victor-castro",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:17:06.202Z"
+}

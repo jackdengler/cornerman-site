@@ -1,0 +1,253 @@
+{
+  "slug": "145837-simon-krisztian",
+  "name": "Krisztián Simon",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1994-06-28",
+  "nationality": "Slovakia",
+  "url": "https://www.tapology.com/fightcenter/fighters/145837-simon-krisztian",
+  "recentFights": [
+    {
+      "date": "2024-01-20T00:00:00.000Z",
+      "opponent": "Denis Gondžala",
+      "opponentSlug": "230938-denis-gondzala",
+      "result": "win",
+      "method": "sub",
+      "event": "FABRIQ MMA 4",
+      "eventSlug": "104878-fabriq-mma-4",
+      "round": 3,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2023-11-11T00:00:00.000Z",
+      "opponent": "Adam Herajn",
+      "opponentSlug": "217632-adam-herajn",
+      "result": "loss",
+      "method": "other",
+      "event": "RFA x IAF Special Title Night",
+      "eventSlug": "104879-rfa-x-iaf-special-title-night",
+      "round": 3,
+      "timeInRound": "4:48"
+    },
+    {
+      "date": "2023-02-04T00:00:00.000Z",
+      "opponent": "Jakub Batfalsky",
+      "opponentSlug": "159059-jakub-batfalsky",
+      "result": "loss",
+      "method": "other",
+      "event": "RFA 8",
+      "eventSlug": "96646-rfa-8",
+      "round": 2,
+      "timeInRound": "3:16"
+    },
+    {
+      "date": "2022-07-16T00:00:00.000Z",
+      "opponent": "Ognjen Dimić",
+      "opponentSlug": "180529-ognjen-dimi",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Serbian Battle Championship 42",
+      "eventSlug": "91057-serbian-battle-championship-42-revenge",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-04T00:00:00.000Z",
+      "opponent": "Matěj Kuzník",
+      "opponentSlug": "36762-matej-kuznik",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 29",
+      "eventSlug": "84142-oktagon-29",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-26T00:00:00.000Z",
+      "opponent": "Jakub Dohnal",
+      "opponentSlug": "116834-jakub-dohnal",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Oktagon 16: Ryšavý vs Paradeiser",
+      "eventSlug": "72251-oktagon-16-rysavy-vs-paradeiser",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-14T00:00:00.000Z",
+      "opponent": "Arbi Mezhidov",
+      "opponentSlug": "33031-arbi-mezdihov",
+      "result": "loss",
+      "method": "other",
+      "event": "Double Red XFN",
+      "eventSlug": "65171-double-red-xfn-kristofic-vs-kares",
+      "round": 2,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2019-10-26T00:00:00.000Z",
+      "opponent": "Mateus Oliveira",
+      "opponentSlug": "174523-mateus-oliveira",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Fighting 7",
+      "eventSlug": "64094-cage-fighting-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-06T00:00:00.000Z",
+      "opponent": "Marko Vardjan",
+      "opponentSlug": "85630-marko-vardjan",
+      "result": "win",
+      "method": "sub",
+      "event": "CFC 5",
+      "eventSlug": "63833-cfc-5",
+      "round": 2,
+      "timeInRound": "3:34"
+    },
+    {
+      "date": "2019-01-27T00:00:00.000Z",
+      "opponent": "Jan Malach",
+      "opponentSlug": "64719-jan-malach",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "GCF 47: Cage Fight Nymburk 3",
+      "eventSlug": "58109-gcf-47-cage-fight-nymburk",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-10T00:00:00.000Z",
+      "opponent": "Denis Farkaš",
+      "opponentSlug": "185986-denis-farkas",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Fighting Komárno 5",
+      "eventSlug": "56198-cage-fighting-komarno-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-13T00:00:00.000Z",
+      "opponent": "Michal Lebduška",
+      "opponentSlug": "89549-michal-lebduska",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "GCF 46: Fight Night Dobříš 3",
+      "eventSlug": "54346-gcf-46-fight-night-dobris-iii",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-26T00:00:00.000Z",
+      "opponent": "Jiří Novák",
+      "opponentSlug": "100414-jiri-novak",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMAA Arena Cup 42",
+      "eventSlug": "52832-mmaa-arena-cup-42-2017-18-mcr-final",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-11T00:00:00.000Z",
+      "opponent": "Mirko Jovanović",
+      "opponentSlug": "169855-mirko-jovanovic",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Fighting Komarno 4",
+      "eventSlug": "58826-cage-fighting-komarno-4",
+      "round": 1,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2017-11-12T00:00:00.000Z",
+      "opponent": "Jusup Soltaev",
+      "opponentSlug": "151581-jusup-soltaev",
+      "result": "loss",
+      "method": "other",
+      "event": "Oktagon 4: Oktagon Výzva II Finále",
+      "eventSlug": "48837-oktagon-4",
+      "round": 1,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2017-10-28T00:00:00.000Z",
+      "opponent": "Robi Tsenize",
+      "opponentSlug": "169186-robi-tsenize",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Fighting Komarno 3",
+      "eventSlug": "59129-cage-fighting-komarno-3",
+      "round": 1,
+      "timeInRound": "2:47"
+    },
+    {
+      "date": "2017-04-21T00:00:00.000Z",
+      "opponent": "Adam Matousek",
+      "opponentSlug": "94959-adam-matousek",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Fighting Komarno 2",
+      "eventSlug": "46781-cage-fighting-komarno-2",
+      "round": 1,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2017-04-07T00:00:00.000Z",
+      "opponent": "Michal Konrád",
+      "opponentSlug": "144016-michal-konrd",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Oktagon 2",
+      "eventSlug": "45228-oktagon-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-20T00:00:00.000Z",
+      "opponent": "Norbert Moravko",
+      "opponentSlug": "127466-norbert-moravko",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Slovenska Liga Amateruv MMA 13",
+      "eventSlug": "45761-slovenska-liga-amateruv-mma-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-02-25T00:00:00.000Z",
+      "opponent": "Jozef Skorčík",
+      "opponentSlug": "128387-jozef-skorcik",
+      "result": "win",
+      "method": "sub",
+      "event": "Slovenska Liga Amateruv MMA 12",
+      "eventSlug": "44445-slovenska-liga-amateruv-mma-11",
+      "round": 2,
+      "timeInRound": "0:59"
+    },
+    {
+      "date": "2016-11-05T00:00:00.000Z",
+      "opponent": "Patrik Jánoš",
+      "opponentSlug": "145838-patrik-janos",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Fighting Komárno 1",
+      "eventSlug": "43132-cage-fighting-komrno-1",
+      "round": 3,
+      "timeInRound": "1:58"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:07:52.841Z"
+}

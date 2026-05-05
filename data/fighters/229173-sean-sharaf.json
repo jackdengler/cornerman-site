@@ -1,0 +1,121 @@
+{
+  "slug": "229173-sean-sharaf",
+  "name": "Sean Sharaf",
+  "nickname": "The Smoke",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 191,
+  "reachCm": 196,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1993-07-11",
+  "nationality": "Anaheim, California, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/229173-sean-sharaf",
+  "recentFights": [
+    {
+      "date": "2026-05-02T00:00:00.000Z",
+      "opponent": "Tai Tuivasa",
+      "opponentSlug": "120884-tai-tuivasa-bam-bam",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "140511-ufc-fight-night-della-maddalena-vs-prates",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-12-13T00:00:00.000Z",
+      "opponent": "Steven Asplund",
+      "opponentSlug": "338034-steven-asplund",
+      "result": "loss",
+      "method": "tko",
+      "event": "UFC Fight Night",
+      "eventSlug": "132921-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "3:49"
+    },
+    {
+      "date": "2024-10-12T00:00:00.000Z",
+      "opponent": "Junior Tafa",
+      "opponentSlug": "242095-junior-tafa",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "115961-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2024-09-06T00:00:00.000Z",
+      "opponent": "LJ Torres",
+      "opponentSlug": "32046-lj-torres",
+      "result": "win",
+      "method": "other",
+      "event": "LXF 19",
+      "eventSlug": "116295-lxf-19",
+      "round": 1,
+      "timeInRound": "3:19"
+    },
+    {
+      "date": "2024-04-04T00:00:00.000Z",
+      "opponent": "Chadricc Kindle",
+      "opponentSlug": "187676-chadricc-kindle-big-bad-chad",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Club OC",
+      "eventSlug": "110475-fight-club-oc",
+      "round": 1,
+      "timeInRound": "4:31"
+    },
+    {
+      "date": "2023-07-01T00:00:00.000Z",
+      "opponent": "Nathan Mullett",
+      "opponentSlug": "61446-nathan-mullett",
+      "result": "win",
+      "method": "other",
+      "event": "UNF 9",
+      "eventSlug": "102056-unf-9",
+      "round": 1,
+      "timeInRound": "0:09"
+    },
+    {
+      "date": "2021-09-23T00:00:00.000Z",
+      "opponent": "Bruno Casillas",
+      "opponentSlug": "47878-bruno-casillas",
+      "result": "win",
+      "method": "other",
+      "event": "FCOC 65",
+      "eventSlug": "82694-fcoc-65",
+      "round": 1,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2019-09-21T00:00:00.000Z",
+      "opponent": "Lorenzo Guzman",
+      "opponentSlug": "236005-lorenzo-guzman",
+      "result": "win",
+      "method": "tko",
+      "event": "LXF 3",
+      "eventSlug": "63004-lxf-3",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2019-06-22T00:00:00.000Z",
+      "opponent": "Ryan Cazares",
+      "opponentSlug": "229174-ryan-cazares",
+      "result": "win",
+      "method": "tko",
+      "event": "KOTC: Golden Era",
+      "eventSlug": "60553-kotc-golden-era",
+      "round": 2,
+      "timeInRound": "0:15"
+    }
+  ],
+  "lastVerified": "2026-04-18T17:54:18.269Z"
+}

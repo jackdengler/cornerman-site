@@ -1,0 +1,37 @@
+{
+  "slug": "67530-igor-gigante",
+  "name": "Igor de Araujo",
+  "nickname": "Zulu",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1996-02-26",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/67530-igor-gigante",
+  "recentFights": [
+    {
+      "date": "2014-03-29T00:00:00.000Z",
+      "opponent": "Djorden Santos",
+      "opponentSlug": "67529-diorden-maguila",
+      "result": "loss",
+      "method": "tko",
+      "event": "Full House Battle Home 3.1",
+      "eventSlug": "23566-full-house-battle-home-3-dia-1",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:04:16.354Z"
+}

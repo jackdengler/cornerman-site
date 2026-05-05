@@ -1,0 +1,242 @@
+{
+  "slug": "69239-marta-souza-gladiadora",
+  "name": "Marta Souza",
+  "nickname": "Gladiadora",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 12,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 163,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Maringa, Parana, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/69239-marta-souza-gladiadora",
+  "recentFights": [
+    {
+      "date": "2019-10-05T00:00:00.000Z",
+      "opponent": "Janaina Barbosa",
+      "opponentSlug": "214957-janaina-barbosa-jani-absoluta",
+      "result": "win",
+      "method": "other",
+      "event": "Metanoia FC 4",
+      "eventSlug": "64752-metanoia-fc-4",
+      "round": 2,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2019-06-28T00:00:00.000Z",
+      "opponent": "Daiana Torquato",
+      "opponentSlug": "57055-daiana-torquato",
+      "result": "loss",
+      "method": "sub",
+      "event": "Max Fight 23",
+      "eventSlug": "60720-max-fight-23",
+      "round": 2,
+      "timeInRound": "3:04"
+    },
+    {
+      "date": "2018-12-16T00:00:00.000Z",
+      "opponent": "Rúbia Amorim",
+      "opponentSlug": "194526-rubia-amorim",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-21T00:00:00.000Z",
+      "opponent": "Mariza Loch",
+      "opponentSlug": "110260-mariza-nina-loch",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "São José Super Fight",
+      "eventSlug": "52859-sao-jose-super-fight-qualifying",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-01T00:00:00.000Z",
+      "opponent": "Priscila Cachoeira",
+      "opponentSlug": "128371-priscila-cachoeira",
+      "result": "loss",
+      "method": "dec-majority",
+      "event": "Curitiba Top Fight 11",
+      "eventSlug": "45912-curitiba-top-fight-11-girls-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-08-28T00:00:00.000Z",
+      "opponent": "Gisele Pereira",
+      "opponentSlug": "104087-gisele-pereira-juzelia",
+      "result": "win",
+      "method": "other",
+      "event": "TFC 11",
+      "eventSlug": "41751-tatuquara-fight-combat-11",
+      "round": 1,
+      "timeInRound": "1:33"
+    },
+    {
+      "date": "2016-06-04T00:00:00.000Z",
+      "opponent": "Priscila Gomes",
+      "opponentSlug": "76608-priscila-ferreira-pri",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Gladiator CF 21",
+      "eventSlug": "40199-gladiator-cf-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-28T00:00:00.000Z",
+      "opponent": "Sidy Rocha",
+      "opponentSlug": "134461-sidy-rocha",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-03-12T00:00:00.000Z",
+      "opponent": "Geisyele Nascimento",
+      "opponentSlug": "74023-geisyele-nascimento",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-12-12T00:00:00.000Z",
+      "opponent": "Deise Rocha",
+      "opponentSlug": "49911-deise-lee",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Copa Striker's House 57",
+      "eventSlug": "37074-copa-strikers-house-57",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-10T00:00:00.000Z",
+      "opponent": "Jennifer Maia",
+      "opponentSlug": "19813-jennifer-maia",
+      "result": "loss",
+      "method": "tko",
+      "event": "Samurai FC 12",
+      "eventSlug": "35844-samurai-fc-12",
+      "round": 1,
+      "timeInRound": "2:51"
+    },
+    {
+      "date": "2015-08-15T00:00:00.000Z",
+      "opponent": "Ariane da Silva",
+      "opponentSlug": "57056-ariane-lipski",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Copa Striker's House 52",
+      "eventSlug": "34820-copa-strikers-house-52",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-06-06T00:00:00.000Z",
+      "opponent": "Jady Menezes",
+      "opponentSlug": "87071-jady-larissa",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Gladiator CF 13",
+      "eventSlug": "33171-gladiator-cf-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-01T00:00:00.000Z",
+      "opponent": "Priscila de Souza",
+      "opponentSlug": "58008-priscila-de-souza",
+      "result": "loss",
+      "method": "sub",
+      "event": "Curitiba Top Fight 9",
+      "eventSlug": "30233-curitiba-top-fight-9-o-retorno",
+      "round": 1,
+      "timeInRound": "4:00"
+    },
+    {
+      "date": "2015-02-01T00:00:00.000Z",
+      "opponent": "Taila Santos",
+      "opponentSlug": "74022-taila-santos",
+      "result": "loss",
+      "method": "other",
+      "event": "Aspera FC 15",
+      "eventSlug": "29335-aspera-fc",
+      "round": 1,
+      "timeInRound": "2:36"
+    },
+    {
+      "date": "2014-12-20T00:00:00.000Z",
+      "opponent": "Mariana Morais",
+      "opponentSlug": "68151-mariana-morais",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-10-04T00:00:00.000Z",
+      "opponent": "Natali Alves",
+      "opponentSlug": "76818-natali-alves",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-05-10T00:00:00.000Z",
+      "opponent": "Helaine Ribeiro",
+      "opponentSlug": "69238-helaine-ribeiro",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-02-22T00:00:00.000Z",
+      "opponent": "Karine Silva",
+      "opponentSlug": "69225-karine-silva-killer",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-11-08T00:00:00.000Z",
+      "opponent": "Priscila Gomes",
+      "opponentSlug": "76608-priscila-ferreira-pri",
+      "result": "draw",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:10:56.508Z"
+}

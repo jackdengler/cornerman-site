@@ -1,0 +1,103 @@
+{
+  "slug": "109280-austin-roybal",
+  "name": "Austin Roybal",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 5,
+    "draws": 0
+  },
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1992-02-08",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/109280-austin-roybal",
+  "recentFights": [
+    {
+      "date": "2021-05-01T00:00:00.000Z",
+      "opponent": "Ivan Ortiz",
+      "opponentSlug": "313116-ivan-ortiz",
+      "result": "loss",
+      "method": "other",
+      "event": "RCWC: Throwdown Showdown",
+      "eventSlug": "78720-rcwc-throwdown-showdown",
+      "round": 1,
+      "timeInRound": "2:04"
+    },
+    {
+      "date": "2020-09-19T00:00:00.000Z",
+      "opponent": "Kevin Sanchez",
+      "opponentSlug": "220892-kevin-sanchez",
+      "result": "win",
+      "method": "other",
+      "event": "RCWC: Battle on the Prairie",
+      "eventSlug": "72738-rcwc-battle-on-the-prairie",
+      "round": 2,
+      "timeInRound": "1:03"
+    },
+    {
+      "date": "2018-10-27T00:00:00.000Z",
+      "opponent": "John Yannis",
+      "opponentSlug": "151617-john-yannies",
+      "result": "loss",
+      "method": "sub",
+      "event": "RCWC: Halloween Brawl 3",
+      "eventSlug": "55413-rcwc-halloween-brawl-3",
+      "round": 2,
+      "timeInRound": "0:43"
+    },
+    {
+      "date": "2016-08-20T00:00:00.000Z",
+      "opponent": "Kayon Silver",
+      "opponentSlug": "138790-kayon-silver",
+      "result": "loss",
+      "method": "other",
+      "event": "RCWC: Battle on the Plains",
+      "eventSlug": "40946-rcwc-battle-on-the-plains",
+      "round": 1,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2016-05-20T00:00:00.000Z",
+      "opponent": "Kurtis Ellis",
+      "opponentSlug": "131732-kurtis-ellis",
+      "result": "loss",
+      "method": "sub",
+      "event": "Conquest Promotions",
+      "eventSlug": "39573-conquest-promotions-clash-on-the-high-plains",
+      "round": 1,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2016-02-27T00:00:00.000Z",
+      "opponent": "Tim Grammon",
+      "opponentSlug": "124082-tim-grammon",
+      "result": "loss",
+      "method": "sub",
+      "event": "RCWC: Ice Wars",
+      "eventSlug": "37789-rcwc-ice-wars",
+      "round": 2,
+      "timeInRound": "2:52"
+    },
+    {
+      "date": "2015-09-12T00:00:00.000Z",
+      "opponent": "Fran Bailon",
+      "opponentSlug": "72357-fran-bailon",
+      "result": "win",
+      "method": "sub",
+      "event": "RCWC: Fall Brawl",
+      "eventSlug": "34478-rcwc-fall-brawl",
+      "round": 1,
+      "timeInRound": "2:24"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:30:46.040Z"
+}

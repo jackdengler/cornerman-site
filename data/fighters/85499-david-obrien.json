@@ -1,0 +1,70 @@
+{
+  "slug": "85499-david-obrien",
+  "name": "David O'Brien",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/85499-david-obrien",
+  "recentFights": [
+    {
+      "date": "2017-01-07T00:00:00.000Z",
+      "opponent": "Manny Madril",
+      "opponentSlug": "142080-manny-madril",
+      "result": "loss",
+      "method": "other",
+      "event": "SCL 56: Rise",
+      "eventSlug": "43667-scl-56-rise",
+      "round": 1,
+      "timeInRound": "0:12"
+    },
+    {
+      "date": "2016-07-16T00:00:00.000Z",
+      "opponent": "Youssef Zalal",
+      "opponentSlug": "110826-youssef-zalaal",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "SCL 50",
+      "eventSlug": "40472-scl-50",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-22T00:00:00.000Z",
+      "opponent": "Nate Cortez",
+      "opponentSlug": "77688-nate-cortez",
+      "result": "win",
+      "method": "sub",
+      "event": "SCL 43: Rumble on the Mountain",
+      "eventSlug": "34762-scl-rumble-on-the-mountain",
+      "round": 1,
+      "timeInRound": "0:25"
+    },
+    {
+      "date": "2014-11-15T00:00:00.000Z",
+      "opponent": "Aaron Lopez",
+      "opponentSlug": "72412-aaron-lopez",
+      "result": "win",
+      "method": "sub",
+      "event": "SCL: When Champions Collide",
+      "eventSlug": "28097-scl-when-champions-collide",
+      "round": 1,
+      "timeInRound": "0:38"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:33:00.795Z"
+}

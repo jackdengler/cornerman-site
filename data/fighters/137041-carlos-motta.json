@@ -1,0 +1,187 @@
+{
+  "slug": "137041-carlos-motta",
+  "name": "Carlos Mota",
+  "nickname": "Tizil",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 163,
+  "reachCm": 175,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1995-04-15",
+  "nationality": "Para, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/137041-carlos-motta",
+  "recentFights": [
+    {
+      "date": "2026-03-07T00:00:00.000Z",
+      "opponent": "Yuki Ito",
+      "opponentSlug": "131333-yuki-ito",
+      "result": "loss",
+      "method": "other",
+      "event": "RIZIN 52",
+      "eventSlug": "137796-rizin-52",
+      "round": 1,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2022-10-29T00:00:00.000Z",
+      "opponent": "Cody Durden",
+      "opponentSlug": "68337-cody-durden",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "91651-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-26T00:00:00.000Z",
+      "opponent": "Rizvan Abuev",
+      "opponentSlug": "87589-rizvan-abuev",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 140: Mota vs. Abuev",
+      "eventSlug": "91626-lfa-140-mota-vs-abuev",
+      "round": 1,
+      "timeInRound": "3:14"
+    },
+    {
+      "date": "2022-05-21T00:00:00.000Z",
+      "opponent": "Steven Merrill",
+      "opponentSlug": "86703-steven-merrill",
+      "result": "win",
+      "method": "other",
+      "event": "North Iowa Fights",
+      "eventSlug": "85336-north-iowa-fights",
+      "round": 1,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2022-01-21T00:00:00.000Z",
+      "opponent": "Charles Johnson",
+      "opponentSlug": "117993-charles-johnson",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 122: Johnson vs. Mota",
+      "eventSlug": "85581-lfa-122-johnson-vs-mota",
+      "round": 5,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2021-07-18T00:00:00.000Z",
+      "opponent": "Jeferson Ferreira",
+      "opponentSlug": "98082-jefferson-oliveira-jerri",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 112: Welterweight Grand Prix",
+      "eventSlug": "80471-lfa-112-welterweight-tournament",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-22T00:00:00.000Z",
+      "opponent": "George Martinez",
+      "opponentSlug": "63588-george-martinez",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 79: Royval vs. Williams",
+      "eventSlug": "64015-lfa-79-royval-vs-scoggins",
+      "round": 1,
+      "timeInRound": "0:36"
+    },
+    {
+      "date": "2017-10-22T00:00:00.000Z",
+      "opponent": "Cláudio Coutinho",
+      "opponentSlug": "99501-claudio-coutinho",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shooto Brasil 76",
+      "eventSlug": "48485-shooto-brasil-76",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-28T00:00:00.000Z",
+      "opponent": "Elves Oliveira",
+      "opponentSlug": "102109-elves-oliveira",
+      "result": "win",
+      "method": "tko",
+      "event": "Shooto Brasil 73",
+      "eventSlug": "45933-shooto-brasil-73",
+      "round": 2,
+      "timeInRound": "4:35"
+    },
+    {
+      "date": "2017-03-11T00:00:00.000Z",
+      "opponent": "Samir Faiddine",
+      "opponentSlug": "56058-samir-faiddine",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shock n' Awe 24",
+      "eventSlug": "42758-shock-n-awe-24",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-31T00:00:00.000Z",
+      "opponent": "Ronaico Marinho",
+      "opponentSlug": "114730-ronaico-marinho-raio-x",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shooto Brasil 65",
+      "eventSlug": "40864-shooto-brasil-65",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-06-18T00:00:00.000Z",
+      "opponent": "Jonathan William",
+      "opponentSlug": "275302-jonathan-william",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-03-03T00:00:00.000Z",
+      "opponent": "Leandro Borelli",
+      "opponentSlug": "275110-leandro-borelli",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-06T00:00:00.000Z",
+      "opponent": "Italo Klein",
+      "opponentSlug": "87614-italo-klein",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-08-04T00:00:00.000Z",
+      "opponent": "Tim Junior",
+      "opponentSlug": "459208-tim-junior",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-19T19:09:59.558Z"
+}

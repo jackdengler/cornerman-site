@@ -1,0 +1,143 @@
+{
+  "slug": "83473-anton-mor",
+  "name": "Anton Mor",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1994-09-02",
+  "nationality": "Kaliningrad, Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/83473-anton-mor",
+  "recentFights": [
+    {
+      "date": "2024-02-16T00:00:00.000Z",
+      "opponent": "Dmitry Zasinets",
+      "opponentSlug": "190345-dmitry-zasinets",
+      "result": "win",
+      "method": "dec-split",
+      "event": "ACA Young Eagles 45",
+      "eventSlug": "109447-aca-young-eagles-45",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-10T00:00:00.000Z",
+      "opponent": "Melisbek Abdyrakhmanov",
+      "opponentSlug": "90191-melisbek-abdrahmanov-belfort",
+      "result": "win",
+      "method": "other",
+      "event": "ACA Young Eagles 42",
+      "eventSlug": "106893-aca-young-eagles-42",
+      "round": 1,
+      "timeInRound": "3:14"
+    },
+    {
+      "date": "2023-05-25T00:00:00.000Z",
+      "opponent": "Ivan Soloviev",
+      "opponentSlug": "132210-ivan-soloviev",
+      "result": "loss",
+      "method": "other",
+      "event": "ACA Young Eagles 35",
+      "eventSlug": "100662-aca-young-eagles-35",
+      "round": 2,
+      "timeInRound": "0:57"
+    },
+    {
+      "date": "2020-10-03T00:00:00.000Z",
+      "opponent": "Magomed Ayskhanov",
+      "opponentSlug": "115786-magommed-aischanov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fair FC 10",
+      "eventSlug": "72723-fair-fc-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-01T00:00:00.000Z",
+      "opponent": "Ozan Aslaner",
+      "opponentSlug": "107207-ozan-aslaner",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "GMC 16",
+      "eventSlug": "53567-gmc-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-10T00:00:00.000Z",
+      "opponent": "Dominic Schober",
+      "opponentSlug": "66395-dominic-schober",
+      "result": "win",
+      "method": "other",
+      "event": "Big Game 2",
+      "eventSlug": "51037-big-game-2-finest-mma-kickboxing-gala",
+      "round": 1,
+      "timeInRound": "0:33"
+    },
+    {
+      "date": "2015-05-30T00:00:00.000Z",
+      "opponent": "Ivan Privalov",
+      "opponentSlug": "57705-ivan-privalov",
+      "result": "win",
+      "method": "other",
+      "event": "ACB 19: Berkut Cup 2015 - Stage 4",
+      "eventSlug": "32205-absolute-championship-berkut-18",
+      "round": 1,
+      "timeInRound": "4:48"
+    },
+    {
+      "date": "2015-03-19T00:00:00.000Z",
+      "opponent": "Alexey Susaev",
+      "opponentSlug": "82378-alexey-susaev",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Nights Global 32",
+      "eventSlug": "31870-fight-nights-fight-club-russian-team-championship-stage-3",
+      "round": 1,
+      "timeInRound": "4:29"
+    },
+    {
+      "date": "2015-03-05T00:00:00.000Z",
+      "opponent": "Ali Radzhabov",
+      "opponentSlug": "73604-ali-radjabov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fight Nights Global 30",
+      "eventSlug": "31014-fight-nights-fight-club-russian-team-championship-stage-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-01T00:00:00.000Z",
+      "opponent": "Alex Kretz",
+      "opponentSlug": "83474-alex-kretz",
+      "result": "win",
+      "method": "other",
+      "event": "Baltic Fights",
+      "eventSlug": "27552-profc-56-baltic-challenge-6",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-11-25T00:00:00.000Z",
+      "opponent": "Timur Votchin",
+      "opponentSlug": "180285-timur-votchin",
+      "result": "win",
+      "method": "sub",
+      "event": "Baltic Fights",
+      "eventSlug": "51511-baltic-fights-baltic-cup-2013",
+      "round": 1,
+      "timeInRound": "2:40"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:06:57.904Z"
+}

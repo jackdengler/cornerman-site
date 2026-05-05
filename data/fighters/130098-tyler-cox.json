@@ -1,0 +1,169 @@
+{
+  "slug": "130098-tyler-cox",
+  "name": "Tyler Cox",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 9,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 4,
+    "losses": 9,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/130098-tyler-cox",
+  "recentFights": [
+    {
+      "date": "2021-07-10T00:00:00.000Z",
+      "opponent": "Elijah Sieren",
+      "opponentSlug": "285036-elijah-sieren",
+      "result": "loss",
+      "method": "other",
+      "event": "Knuckled Up Promotions",
+      "eventSlug": "80519-knuckled-up-promotions-fight-show-5",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2021-04-24T00:00:00.000Z",
+      "opponent": "William Perkins",
+      "opponentSlug": "160450-william-perkins",
+      "result": "loss",
+      "method": "other",
+      "event": "Knuckled Up Promotions",
+      "eventSlug": "78923-knuckled-up-promotions-fight-show-4",
+      "round": 1,
+      "timeInRound": "2:16"
+    },
+    {
+      "date": "2021-03-06T00:00:00.000Z",
+      "opponent": "Josh Wright",
+      "opponentSlug": "285035-josh-wright",
+      "result": "win",
+      "method": "sub",
+      "event": "Midwest Fight League",
+      "eventSlug": "78931-midwest-fight-league",
+      "round": 1,
+      "timeInRound": "0:55"
+    },
+    {
+      "date": "2021-01-23T00:00:00.000Z",
+      "opponent": "Dylan Willey",
+      "opponentSlug": "285041-dylan-willey",
+      "result": "loss",
+      "method": "other",
+      "event": "Knuckled Up Promotions",
+      "eventSlug": "76886-knuckled-up-promotions-fight-show-3",
+      "round": 2,
+      "timeInRound": "2:09"
+    },
+    {
+      "date": "2020-10-10T00:00:00.000Z",
+      "opponent": "Gauge Young",
+      "opponentSlug": "213571-gauge-young",
+      "result": "loss",
+      "method": "other",
+      "event": "Midwest Fight League",
+      "eventSlug": "72933-midwest-fight-league-battle-at-fairgrounds-sedalia",
+      "round": 1,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2019-12-06T00:00:00.000Z",
+      "opponent": "Muhammad Zwolak",
+      "opponentSlug": "237453-muhammad-zwolak",
+      "result": "loss",
+      "method": "other",
+      "event": "Ultimate Blue Corner Battles",
+      "eventSlug": "64574-ultimate-blue-corner-battles",
+      "round": 3,
+      "timeInRound": "0:57"
+    },
+    {
+      "date": "2019-10-04T00:00:00.000Z",
+      "opponent": "Cesar Morales",
+      "opponentSlug": "148144-cesar-morales",
+      "result": "loss",
+      "method": "other",
+      "event": "Ultimate Blue Corner Battles",
+      "eventSlug": "63394-ultimate-blue-corner-battles",
+      "round": 1,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2018-03-03T00:00:00.000Z",
+      "opponent": "Jacob Jewell",
+      "opponentSlug": "170661-jacob-jewell",
+      "result": "win",
+      "method": "sub",
+      "event": "Midwest Fight League",
+      "eventSlug": "49968-midwest-fight-league-backwoods-brawl-7",
+      "round": 1,
+      "timeInRound": "0:48"
+    },
+    {
+      "date": "2017-11-04T00:00:00.000Z",
+      "opponent": "Jacob Jewell",
+      "opponentSlug": "170661-jacob-jewell",
+      "result": "win",
+      "method": "sub",
+      "event": "Midwest Fight League",
+      "eventSlug": "48608-midwest-fight-league-backwoods-brawl-6",
+      "round": 1,
+      "timeInRound": "2:09"
+    },
+    {
+      "date": "2017-08-12T00:00:00.000Z",
+      "opponent": "Sam Paneitz",
+      "opponentSlug": "138444-sam-paneitz",
+      "result": "loss",
+      "method": "sub",
+      "event": "Midwest Fight League",
+      "eventSlug": "47105-midwest-fight-league-hannibal-fight-night",
+      "round": 1,
+      "timeInRound": "2:13"
+    },
+    {
+      "date": "2016-10-29T00:00:00.000Z",
+      "opponent": "Draven Falter",
+      "opponentSlug": "143428-draven-falter",
+      "result": "loss",
+      "method": "other",
+      "event": "Midwest Fight League",
+      "eventSlug": "42476-midwest-fight-league-backwoods-brawl-4",
+      "round": 2,
+      "timeInRound": "0:52"
+    },
+    {
+      "date": "2016-04-02T00:00:00.000Z",
+      "opponent": "Ryan Rairden",
+      "opponentSlug": "128017-ryan-rairden",
+      "result": "win",
+      "method": "other",
+      "event": "Midwest Fight League",
+      "eventSlug": "38765-midwest-fight-league-small-town-showdown",
+      "round": 1,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2013-07-20T00:00:00.000Z",
+      "opponent": "Jesse Lykins",
+      "opponentSlug": "118495-jesse-lykins",
+      "result": "loss",
+      "method": "other",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "0:52"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:12:27.045Z"
+}

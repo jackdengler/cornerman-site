@@ -1,0 +1,220 @@
+{
+  "slug": "45190-karl-robinson",
+  "name": "Karl Roberson",
+  "nickname": "Baby K",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 188,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1990-10-04",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/45190-karl-robinson",
+  "recentFights": [
+    {
+      "date": "2022-07-09T00:00:00.000Z",
+      "opponent": "Kennedy Nzechukwu",
+      "opponentSlug": "119288-kennedy-nzechukwu",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "88397-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "2:19"
+    },
+    {
+      "date": "2022-03-12T00:00:00.000Z",
+      "opponent": "Khalil Rountree Jr.",
+      "opponentSlug": "47284-khalil-rountree-the-war-horse",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "84364-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "0:25"
+    },
+    {
+      "date": "2021-04-24T00:00:00.000Z",
+      "opponent": "Brendan Allen",
+      "opponentSlug": "91516-brendan-allen",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC 261: Usman vs. Masvidal 2",
+      "eventSlug": "76694-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "4:55"
+    },
+    {
+      "date": "2020-06-13T00:00:00.000Z",
+      "opponent": "Marvin Vettori",
+      "opponentSlug": "50533-marvin-vettori",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "67562-ufc-on-espn",
+      "round": 1,
+      "timeInRound": "4:17"
+    },
+    {
+      "date": "2019-11-09T00:00:00.000Z",
+      "opponent": "Roman Kopylov",
+      "opponentSlug": "138424-roman-kopylov",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC on ESPN+ 21",
+      "eventSlug": "61626-ufc-on-espn-21",
+      "round": 3,
+      "timeInRound": "4:01"
+    },
+    {
+      "date": "2019-07-13T00:00:00.000Z",
+      "opponent": "Wellington Turman",
+      "opponentSlug": "70129-wellington-turman-fofo",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC on ESPN+ 13",
+      "eventSlug": "59896-ufc-on-espn-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-01-19T00:00:00.000Z",
+      "opponent": "Glover Teixeira",
+      "opponentSlug": "glover-teixeira",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC on ESPN+ 1",
+      "eventSlug": "55048-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "3:21"
+    },
+    {
+      "date": "2018-11-03T00:00:00.000Z",
+      "opponent": "Jack Marshman",
+      "opponentSlug": "16561-jack-marshman",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 230: Cormier vs. Lewis",
+      "eventSlug": "53519-ufc-230",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-12T00:00:00.000Z",
+      "opponent": "Cezar Ferreira",
+      "opponentSlug": "cesar-jesus-ferreira-mutante",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC 224: Nunes vs. Pennington",
+      "eventSlug": "50243-ufc-224",
+      "round": 1,
+      "timeInRound": "4:45"
+    },
+    {
+      "date": "2017-11-11T00:00:00.000Z",
+      "opponent": "Darren Stewart",
+      "opponentSlug": "44180-darren-stewart",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night 120",
+      "eventSlug": "47253-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "3:41"
+    },
+    {
+      "date": "2017-07-25T00:00:00.000Z",
+      "opponent": "Ryan Spann",
+      "opponentSlug": "20908-ryan-spann",
+      "result": "win",
+      "method": "other",
+      "event": "DW's Contender Series 2017",
+      "eventSlug": "46363-dana-whites-contender-series-3",
+      "round": 1,
+      "timeInRound": "0:15"
+    },
+    {
+      "date": "2017-05-20T00:00:00.000Z",
+      "opponent": "Derrick Brown",
+      "opponentSlug": "25569-derrick-brown",
+      "result": "win",
+      "method": "sub",
+      "event": "CFFC 65",
+      "eventSlug": "43626-cffc-65",
+      "round": 1,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2017-04-08T00:00:00.000Z",
+      "opponent": "Elijah Gbollie, Jr.",
+      "opponentSlug": "31990-elijah-gbollie",
+      "result": "win",
+      "method": "other",
+      "event": "Shogun Fights 16",
+      "eventSlug": "44017-shogun-fights-16",
+      "round": 1,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2015-07-18T00:00:00.000Z",
+      "opponent": "Michael Wilcox",
+      "opponentSlug": "19264-michael-wilcox",
+      "result": "win",
+      "method": "sub",
+      "event": "CFFC 50: Smith vs. Williams II",
+      "eventSlug": "32636-cffc-50",
+      "round": 1,
+      "timeInRound": "3:11"
+    },
+    {
+      "date": "2015-06-05T00:00:00.000Z",
+      "opponent": "Chike Obi",
+      "opponentSlug": "45550-chike-obi-the-black-mamba",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ring of Combat 51",
+      "eventSlug": "31000-ring-of-combat-51",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-15T00:00:00.000Z",
+      "opponent": "Lex Ludlow",
+      "opponentSlug": "48538-lex-ludlow",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XCC 19: Bloodshed",
+      "eventSlug": "26042-xcc-bloodshed",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-07-26T00:00:00.000Z",
+      "opponent": "Lex Ludlow",
+      "opponentSlug": "48538-lex-ludlow",
+      "result": "win",
+      "method": "other",
+      "event": "XCC: Vendetta",
+      "eventSlug": "19371-xcc-vendetta",
+      "round": 1,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2013-04-20T00:00:00.000Z",
+      "opponent": "Adam Timberlake",
+      "opponentSlug": "43757-adam-timberlake",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Gold Medal MMA",
+      "eventSlug": "18252-gold-medal-mma-1",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:39:56.511Z"
+}

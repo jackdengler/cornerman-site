@@ -1,0 +1,242 @@
+{
+  "slug": "45311-derrick-mandell",
+  "name": "Derrick Mandell",
+  "nickname": "Give Em Hell",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 160,
+  "reachCm": 163,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1991-02-12",
+  "nationality": "Garden City, Michigan",
+  "url": "https://www.tapology.com/fightcenter/fighters/45311-derrick-mandell",
+  "recentFights": [
+    {
+      "date": "2023-06-24T00:00:00.000Z",
+      "opponent": "Darnell White Jr.",
+      "opponentSlug": "109318-darnell-white",
+      "result": "win",
+      "method": "sub",
+      "event": "Lights Out Championship 12",
+      "eventSlug": "101536-lights-out-championship-12",
+      "round": 1,
+      "timeInRound": "1:57"
+    },
+    {
+      "date": "2018-09-21T00:00:00.000Z",
+      "opponent": "Askar Askar",
+      "opponentSlug": "55860-askar",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 50: Allen vs. Hiley",
+      "eventSlug": "54853-lfa-50-allen-vs-hiley",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-02-09T00:00:00.000Z",
+      "opponent": "Taylor Moore",
+      "opponentSlug": "109307-taylor-moore",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CLIP: Motor City Cagefights 2",
+      "eventSlug": "49517-dual-combat-sports",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-18T00:00:00.000Z",
+      "opponent": "Maikel Pérez",
+      "opponentSlug": "138378-maikel-prez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 19: Michaud vs. Rodrigues",
+      "eventSlug": "47191-lfa-19-michaud-vs-rodrigues",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-18T00:00:00.000Z",
+      "opponent": "Juan Archuleta",
+      "opponentSlug": "52666-juan-archuleta",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "KOTC: Warranted Aggression",
+      "eventSlug": "42798-kotc-warranted-aggression",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-08T00:00:00.000Z",
+      "opponent": "Reuben Duran",
+      "opponentSlug": "reuben-duran",
+      "result": "win",
+      "method": "dec-split",
+      "event": "KOTC: Ultimate Collision",
+      "eventSlug": "39844-kotc-ultimate-collision",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-01-30T00:00:00.000Z",
+      "opponent": "John DeVall",
+      "opponentSlug": "15758-john-devall",
+      "result": "win",
+      "method": "tko",
+      "event": "KOTC: Cold War",
+      "eventSlug": "37161-kotc-cold-war",
+      "round": 4,
+      "timeInRound": "4:36"
+    },
+    {
+      "date": "2016-01-08T00:00:00.000Z",
+      "opponent": "Ben Pierre-Saint",
+      "opponentSlug": "67285-benjamn-st-pierre",
+      "result": "win",
+      "method": "sub",
+      "event": "KOTC: Thunder n' Lightning",
+      "eventSlug": "36243-kotc",
+      "round": 2,
+      "timeInRound": "3:22"
+    },
+    {
+      "date": "2015-02-07T00:00:00.000Z",
+      "opponent": "Josh Robinson",
+      "opponentSlug": "15988-josh-robinson",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "WXC 55: Fully Loaded",
+      "eventSlug": "28932-wxc-55-fully-loaded",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-08-02T00:00:00.000Z",
+      "opponent": "Lloyd Carter",
+      "opponentSlug": "16447-lloyd-carter",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MFL 35",
+      "eventSlug": "25333-mfl-35",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-02-22T00:00:00.000Z",
+      "opponent": "John Castañeda",
+      "opponentSlug": "20125-john-castaneda",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Caged Chaos at Canterbury Park 5",
+      "eventSlug": "22194-caged-chaos-5-caged-chaos-at-canterbury-park",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-10-19T00:00:00.000Z",
+      "opponent": "Daniel Winston",
+      "opponentSlug": "57023-daniel-winston-the",
+      "result": "win",
+      "method": "sub",
+      "event": "TXC Legends 2",
+      "eventSlug": "21146-txc-legends-2",
+      "round": 3,
+      "timeInRound": "4:04"
+    },
+    {
+      "date": "2013-06-21T00:00:00.000Z",
+      "opponent": "David Rhoads",
+      "opponentSlug": "15789-david-rhoads",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "RFA 8: Pettis vs. Pegg",
+      "eventSlug": "18844-rfa-8-pettis-vs-curran",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-03-29T00:00:00.000Z",
+      "opponent": "Ryan Mendez",
+      "opponentSlug": "18349-ryan-mendez",
+      "result": "win",
+      "method": "dec-split",
+      "event": "NAFC: Battleground",
+      "eventSlug": "17110-nafc-battleground",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-11-17T00:00:00.000Z",
+      "opponent": "Pat Hook",
+      "opponentSlug": "125627-pat-hook",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-07-28T00:00:00.000Z",
+      "opponent": "James Gray",
+      "opponentSlug": "46244-james-grey",
+      "result": "loss",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2012-01-27T00:00:00.000Z",
+      "opponent": "Richard Hazard",
+      "opponentSlug": "38222-richard-hazard",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2011-11-05T00:00:00.000Z",
+      "opponent": "Eric Ramirez",
+      "opponentSlug": "9283-eric-ramirez",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-03-19T00:00:00.000Z",
+      "opponent": "Darryol Humphery",
+      "opponentSlug": "90499-darryol-humphery",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 4,
+      "timeInRound": "1:27"
+    },
+    {
+      "date": "2011-01-29T00:00:00.000Z",
+      "opponent": "Matt Christopher",
+      "opponentSlug": "109482-matt-christopher",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:03:19.847Z"
+}

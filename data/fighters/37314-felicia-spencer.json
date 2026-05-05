@@ -1,0 +1,220 @@
+{
+  "slug": "37314-felicia-spencer",
+  "name": "Felicia Spencer",
+  "nickname": "Feenom",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": 173,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1990-11-29",
+  "nationality": "Montreal, Quebec",
+  "url": "https://www.tapology.com/fightcenter/fighters/37314-felicia-spencer",
+  "recentFights": [
+    {
+      "date": "2021-11-13T00:00:00.000Z",
+      "opponent": "Leah Letson",
+      "opponentSlug": "71668-leah-letson-nidas",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "81601-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "4:25"
+    },
+    {
+      "date": "2021-05-22T00:00:00.000Z",
+      "opponent": "Norma Dumont",
+      "opponentSlug": "139271-norma-dumont-viana",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "77264-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-06-06T00:00:00.000Z",
+      "opponent": "Amanda Nunes",
+      "opponentSlug": "amanda-nunes-lioness-of-the-ring",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 250: Nunes vs. Spencer",
+      "eventSlug": "67364-ufc-251",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-29T00:00:00.000Z",
+      "opponent": "Zarah Fairn",
+      "opponentSlug": "98694-zarah-fairn",
+      "result": "win",
+      "method": "other",
+      "event": "UFC on ESPN+ 27",
+      "eventSlug": "65142-ufc-on-espn-27",
+      "round": 1,
+      "timeInRound": "3:37"
+    },
+    {
+      "date": "2019-07-27T00:00:00.000Z",
+      "opponent": "Cris Cyborg",
+      "opponentSlug": "cristiane-santos-cyborg",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 240: Holloway vs. Edgar",
+      "eventSlug": "59521-ufc-240",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-18T00:00:00.000Z",
+      "opponent": "Megan Anderson",
+      "opponentSlug": "58669-megan-anderson",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC on ESPN+ 10",
+      "eventSlug": "57509-ufc-on-espn-9",
+      "round": 1,
+      "timeInRound": "3:24"
+    },
+    {
+      "date": "2018-11-16T00:00:00.000Z",
+      "opponent": "Pam Sorenson",
+      "opponentSlug": "60007-pam-sorenson-bam",
+      "result": "win",
+      "method": "sub",
+      "event": "Invicta FC 32",
+      "eventSlug": "55195-invicta-fc-32-sorenson-vs-spencer",
+      "round": 4,
+      "timeInRound": "4:23"
+    },
+    {
+      "date": "2018-07-21T00:00:00.000Z",
+      "opponent": "Olena Kolesnyk",
+      "opponentSlug": "127379-yelena",
+      "result": "win",
+      "method": "sub",
+      "event": "Invicta FC 30",
+      "eventSlug": "52971-invicta-fc-30-yu-frey-vs-grusander",
+      "round": 2,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2018-01-13T00:00:00.000Z",
+      "opponent": "Akeela Al-Hameed",
+      "opponentSlug": "140009-akeela-al-haseem",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 27",
+      "eventSlug": "49718-invicta-fc-27",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-15T00:00:00.000Z",
+      "opponent": "Amy Coleman",
+      "opponentSlug": "40662-amy-coleman",
+      "result": "win",
+      "method": "sub",
+      "event": "Invicta FC 24",
+      "eventSlug": "46073-invicta-fc-24",
+      "round": 1,
+      "timeInRound": "3:17"
+    },
+    {
+      "date": "2017-03-25T00:00:00.000Z",
+      "opponent": "Madison McElhaney",
+      "opponentSlug": "120266-madison-mcelhaney",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 22",
+      "eventSlug": "43799-invicta-fc-22-evinger-vs-kunitskaya-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-12T00:00:00.000Z",
+      "opponent": "Rach Wiley",
+      "opponentSlug": "62471-rachel-wiley",
+      "result": "win",
+      "method": "other",
+      "event": "Invicta FC 14",
+      "eventSlug": "34029-invicta-fc-14-souza-vs-grasso",
+      "round": 1,
+      "timeInRound": "3:32"
+    },
+    {
+      "date": "2015-01-09T00:00:00.000Z",
+      "opponent": "Jessica Eve Richer",
+      "opponentSlug": "50399-jessica-eve-richer",
+      "result": "win",
+      "method": "other",
+      "event": "Tuff-N-Uff",
+      "eventSlug": "29110-tuff-n-uff-xtreme-couture-vs-syndicate-mma",
+      "round": 2,
+      "timeInRound": "1:57"
+    },
+    {
+      "date": "2014-11-07T00:00:00.000Z",
+      "opponent": "Leanne Foster",
+      "opponentSlug": "33219-leanne-foster",
+      "result": "win",
+      "method": "sub",
+      "event": "Tuff-N-Uff",
+      "eventSlug": "27961-tuff-n-uff",
+      "round": 2,
+      "timeInRound": "0:36"
+    },
+    {
+      "date": "2014-08-22T00:00:00.000Z",
+      "opponent": "Macy Chiasson",
+      "opponentSlug": "77737-macy-chiasson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "RMMA 31",
+      "eventSlug": "26101-rmma-31",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-05-31T00:00:00.000Z",
+      "opponent": "Calli Paquette",
+      "opponentSlug": "71267-calli-paquette",
+      "result": "win",
+      "method": "sub",
+      "event": "Breakthrough MMA 12",
+      "eventSlug": "23144-breakthrough-mma-12",
+      "round": 1,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2013-08-10T00:00:00.000Z",
+      "opponent": "Angel Keihl",
+      "opponentSlug": "111662-angel-keihl-dakilla",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-08-19T00:00:00.000Z",
+      "opponent": "Jennifer Hauss Nixon",
+      "opponentSlug": "61330-jennifer-nixon",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fighter Source",
+      "eventSlug": "34687-fighter-source",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:33:27.879Z"
+}

@@ -1,0 +1,121 @@
+{
+  "slug": "52902-brandon-sosoli-zilla",
+  "name": "Brandon Sosoli",
+  "nickname": "Zilla",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Bourke, New South Wales, Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/52902-brandon-sosoli-zilla",
+  "recentFights": [
+    {
+      "date": "2017-06-17T00:00:00.000Z",
+      "opponent": "Ben Edwards",
+      "opponentSlug": "156792-ben-edwards-the-guvner",
+      "result": "loss",
+      "method": "other",
+      "event": "MFC 25",
+      "eventSlug": "45624-mfc-25",
+      "round": 1,
+      "timeInRound": "3:53"
+    },
+    {
+      "date": "2016-06-18T00:00:00.000Z",
+      "opponent": "Tai Tuivasa",
+      "opponentSlug": "120884-tai-tuivasa-bam-bam",
+      "result": "loss",
+      "method": "other",
+      "event": "Australian FC 16",
+      "eventSlug": "39540-australian-fc-16",
+      "round": 1,
+      "timeInRound": "0:21"
+    },
+    {
+      "date": "2015-10-10T00:00:00.000Z",
+      "opponent": "Matthew Wade",
+      "opponentSlug": "52912-matthew-wade",
+      "result": "win",
+      "method": "tko",
+      "event": "Wollongong Wars 3",
+      "eventSlug": "35666-wollongong-wars-3",
+      "round": 1,
+      "timeInRound": "2:32"
+    },
+    {
+      "date": "2015-06-14T00:00:00.000Z",
+      "opponent": "Andre Meunier",
+      "opponentSlug": "69927-andre-meunier",
+      "result": "win",
+      "method": "tko",
+      "event": "Australian FC 13",
+      "eventSlug": "32389-australian-fc-13",
+      "round": 1,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2014-11-01T00:00:00.000Z",
+      "opponent": "Simon Osborne",
+      "opponentSlug": "52910-simon-osborne",
+      "result": "win",
+      "method": "tko",
+      "event": "Wollongong Wars 2",
+      "eventSlug": "27589-wollongong-wars-2",
+      "round": 1,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2013-08-31T00:00:00.000Z",
+      "opponent": "Andrew Machin",
+      "opponentSlug": "29736-andrew-machin",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Storm Damage 3",
+      "eventSlug": "20145-storm-mma-storm-damage-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-02-02T00:00:00.000Z",
+      "opponent": "Andrew Machin",
+      "opponentSlug": "29736-andrew-machin",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Storm Damage 2",
+      "eventSlug": "20148-storm-damage-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-02-02T00:00:00.000Z",
+      "opponent": "James Lane",
+      "opponentSlug": "52923-james-lane",
+      "result": "win",
+      "method": "other",
+      "event": "Storm Damage 2",
+      "eventSlug": "20148-storm-damage-2",
+      "round": 1,
+      "timeInRound": "0:19"
+    },
+    {
+      "date": "2012-08-25T00:00:00.000Z",
+      "opponent": "Andrew Machin",
+      "opponentSlug": "29736-andrew-machin",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Storm Damage 1",
+      "eventSlug": "17492-storm-damage-1",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:11:48.096Z"
+}

@@ -1,0 +1,121 @@
+{
+  "slug": "311857-jeremiah-huff",
+  "name": "Jeremiah Huff",
+  "nickname": "Kilam",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "2002-01-04",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/311857-jeremiah-huff",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Ralph Hernandez III",
+      "opponentSlug": "190165-ralph-hernandez",
+      "result": "loss",
+      "method": "tko",
+      "event": "LFA 231: Lozej vs. Ibarra",
+      "eventSlug": "140675-lfa-231-trembley-vs-johns",
+      "round": 1,
+      "timeInRound": "4:53"
+    },
+    {
+      "date": "2025-09-06T00:00:00.000Z",
+      "opponent": "Luis Guevara Jr.",
+      "opponentSlug": "375383-luis-guevara",
+      "result": "win",
+      "method": "dec-split",
+      "event": "NAFC: Summer Slam",
+      "eventSlug": "128060-nafc-summer-slam",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-10-12T00:00:00.000Z",
+      "opponent": "Reis Newman",
+      "opponentSlug": "358729-reis-newman",
+      "result": "win",
+      "method": "other",
+      "event": "Caged Aggression 38",
+      "eventSlug": "116510-caged-aggression-38-retaliation-night-2",
+      "round": 1,
+      "timeInRound": "2:23"
+    },
+    {
+      "date": "2024-07-20T00:00:00.000Z",
+      "opponent": "Ross Waddell",
+      "opponentSlug": "358725-ross-waddell",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Pure FC 28: Konkol vs. Verburgt",
+      "eventSlug": "113537-pure-fc-28",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-10-07T00:00:00.000Z",
+      "opponent": "Jevon Edwards",
+      "opponentSlug": "218046-jevon-edwards",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Chosen Few FC 23",
+      "eventSlug": "103308-chosen-few-fc-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-01-28T00:00:00.000Z",
+      "opponent": "Tyler Peterick",
+      "opponentSlug": "194017-tyler-peterick",
+      "result": "win",
+      "method": "sub",
+      "event": "Chosen Few FC 22",
+      "eventSlug": "95001-chosen-few-fc-22",
+      "round": 1,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2022-10-01T00:00:00.000Z",
+      "opponent": "Martez Hall",
+      "opponentSlug": "333678-martez-hall",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Chosen Few FC 21",
+      "eventSlug": "91549-chosen-few-fc-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-16T00:00:00.000Z",
+      "opponent": "Jake Hefter",
+      "opponentSlug": "322828-jake-hefter",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "NAFC: Colosseum",
+      "eventSlug": "86627-north-american-fighting-championship-colosseum",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-01-29T00:00:00.000Z",
+      "opponent": "Thor Crapp",
+      "opponentSlug": "187957-thor-crapp",
+      "result": "win",
+      "method": "other",
+      "event": "Chosen Few FC 20",
+      "eventSlug": "84308-chosen-few-fc-20",
+      "round": 1,
+      "timeInRound": "2:48"
+    }
+  ],
+  "lastVerified": "2026-04-18T06:00:08.364Z"
+}

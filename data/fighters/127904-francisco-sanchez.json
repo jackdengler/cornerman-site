@@ -1,0 +1,59 @@
+{
+  "slug": "127904-francisco-sanchez",
+  "name": "Francisco Sanchez",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/127904-francisco-sanchez",
+  "recentFights": [
+    {
+      "date": "2017-03-25T00:00:00.000Z",
+      "opponent": "Cedric Katambwa",
+      "opponentSlug": "151861-cedric-katambwa",
+      "result": "loss",
+      "method": "other",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2016-06-25T00:00:00.000Z",
+      "opponent": "Ryan Shatto",
+      "opponentSlug": "83123-ryan-shatto",
+      "result": "loss",
+      "method": "tko",
+      "event": "Cage Rage on the River 11",
+      "eventSlug": "40470-cage-rage-on-the-river-10",
+      "round": 1,
+      "timeInRound": "2:43"
+    },
+    {
+      "date": "2016-03-05T00:00:00.000Z",
+      "opponent": "Hansel Ten",
+      "opponentSlug": "127905-hansel-tan",
+      "result": "win",
+      "method": "tko",
+      "event": "Cage Rage at the Diamond",
+      "eventSlug": "38599-cage-rage-at-the-diamond",
+      "round": 1,
+      "timeInRound": "2:16"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:42:24.352Z"
+}

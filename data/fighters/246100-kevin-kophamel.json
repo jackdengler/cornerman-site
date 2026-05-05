@@ -1,0 +1,134 @@
+{
+  "slug": "246100-kevin-kophamel",
+  "name": "Kevin Kophamel",
+  "nickname": "The Devoted",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/246100-kevin-kophamel",
+  "recentFights": [
+    {
+      "date": "2026-03-14T00:00:00.000Z",
+      "opponent": "Justin Van Heerden",
+      "opponentSlug": "86412-justin-van-heerdan",
+      "result": "win",
+      "method": "sub",
+      "event": "Eternal MMA 104",
+      "eventSlug": "140115-eternal-mma-104",
+      "round": 3,
+      "timeInRound": "4:45"
+    },
+    {
+      "date": "2025-10-11T00:00:00.000Z",
+      "opponent": "A'Keitheon Whitner",
+      "opponentSlug": "241767-a-keitheon-whitner",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 99",
+      "eventSlug": "132090-eternal-mma-99",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-08-17T00:00:00.000Z",
+      "opponent": "Harry Webb",
+      "opponentSlug": "211948-harry-webb",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Eternal MMA 87",
+      "eventSlug": "112018-eternal-mma-87",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-08T00:00:00.000Z",
+      "opponent": "Joe Davis",
+      "opponentSlug": "278819-joe-davis",
+      "result": "win",
+      "method": "sub",
+      "event": "Eternal MMA 85",
+      "eventSlug": "112576-eternal-mma-85",
+      "round": 1,
+      "timeInRound": "4:56"
+    },
+    {
+      "date": "2022-10-29T00:00:00.000Z",
+      "opponent": "Brad Ramsey",
+      "opponentSlug": "160181-brad-ramsey",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 71",
+      "eventSlug": "93815-eternal-mma-71",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "allFights": [
+    {
+      "date": "2026-03-14T00:00:00.000Z",
+      "opponent": "Justin Van Heerden",
+      "opponentSlug": "86412-justin-van-heerdan",
+      "result": "win",
+      "method": "sub",
+      "event": "Eternal MMA 104",
+      "eventSlug": "140115-eternal-mma-104",
+      "round": 3,
+      "timeInRound": "4:45"
+    },
+    {
+      "date": "2025-10-11T00:00:00.000Z",
+      "opponent": "A'Keitheon Whitner",
+      "opponentSlug": "241767-a-keitheon-whitner",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 99",
+      "eventSlug": "132090-eternal-mma-99",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-08-17T00:00:00.000Z",
+      "opponent": "Harry Webb",
+      "opponentSlug": "211948-harry-webb",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Eternal MMA 87",
+      "eventSlug": "112018-eternal-mma-87",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-08T00:00:00.000Z",
+      "opponent": "Joe Davis",
+      "opponentSlug": "278819-joe-davis",
+      "result": "win",
+      "method": "sub",
+      "event": "Eternal MMA 85",
+      "eventSlug": "112576-eternal-mma-85",
+      "round": 1,
+      "timeInRound": "4:56"
+    },
+    {
+      "date": "2022-10-29T00:00:00.000Z",
+      "opponent": "Brad Ramsey",
+      "opponentSlug": "160181-brad-ramsey",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 71",
+      "eventSlug": "93815-eternal-mma-71",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-05-03T10:17:39.827Z"
+}

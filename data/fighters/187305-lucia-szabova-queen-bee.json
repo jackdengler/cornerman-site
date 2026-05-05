@@ -1,0 +1,176 @@
+{
+  "slug": "187305-lucia-szabova-queen-bee",
+  "name": "Lucia Szabová",
+  "nickname": "Silent Killer",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1997-12-23",
+  "nationality": "Bratislava, Slovakia",
+  "url": "https://www.tapology.com/fightcenter/fighters/187305-lucia-szabova-queen-bee",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Leidiane Fernandes",
+      "opponentSlug": "271498-leidiane-fernandes",
+      "result": null,
+      "method": "other",
+      "event": "OKTAGON 87: Szabová vs. Fernandes",
+      "eventSlug": "135741-oktagon-87",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-08-09T00:00:00.000Z",
+      "opponent": "Cecilie Bolander",
+      "opponentSlug": "311815-cecile-bolander",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 74: Bolander vs. Szabová",
+      "eventSlug": "129607-oktagon-74",
+      "round": 1,
+      "timeInRound": "3:11"
+    },
+    {
+      "date": "2025-02-22T00:00:00.000Z",
+      "opponent": "Kalindra Faria",
+      "opponentSlug": "10740-kalindra-carvalho-faria",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 67: Creasey vs. Adamia",
+      "eventSlug": "118929-oktagon",
+      "round": 1,
+      "timeInRound": "4:16"
+    },
+    {
+      "date": "2024-07-20T00:00:00.000Z",
+      "opponent": "Aitana Álvarez",
+      "opponentSlug": "208768-aitana-alvarez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 59: Summer Party",
+      "eventSlug": "111005-oktagon-59-summer-party",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-23T00:00:00.000Z",
+      "opponent": "Róża Gumienna",
+      "opponentSlug": "103159-ra-gumienna",
+      "result": "win",
+      "method": "sub",
+      "event": "OKTAGON 55: Jungwirth vs. Pukač",
+      "eventSlug": "107451-oktagon-55",
+      "round": 3,
+      "timeInRound": "4:38"
+    },
+    {
+      "date": "2021-07-24T00:00:00.000Z",
+      "opponent": "Cornelia Holm",
+      "opponentSlug": "101419-cornelia-holm",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 26",
+      "eventSlug": "79976-oktagon-26",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-27T00:00:00.000Z",
+      "opponent": "Christina Netza",
+      "opponentSlug": "173434-cristina-netza",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 22",
+      "eventSlug": "76911-oktagon-22",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2021-01-30T00:00:00.000Z",
+      "opponent": "Rizlen Zouak",
+      "opponentSlug": "159853-rizlen-zouak",
+      "result": "win",
+      "method": "sub",
+      "event": "OKTAGON 21",
+      "eventSlug": "75449-oktagon-21",
+      "round": 2,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2020-11-21T00:00:00.000Z",
+      "opponent": "Anželika Petkevičiūtė",
+      "opponentSlug": "153966-anelika-petkeviit",
+      "result": "win",
+      "method": "sub",
+      "event": "Oktagon 18",
+      "eventSlug": "73565-oktagon-18",
+      "round": 1,
+      "timeInRound": "0:43"
+    },
+    {
+      "date": "2020-07-04T00:00:00.000Z",
+      "opponent": "Tereza Bledá",
+      "opponentSlug": "169518-tereza-bieda",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Oktagon: Underground 7 Super Final",
+      "eventSlug": "70349-oktagon-underground-7-super-final",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-06-20T00:00:00.000Z",
+      "opponent": "Lucia Krajčovič",
+      "opponentSlug": "104019-lucia-krajovi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Oktagon: Underground 6",
+      "eventSlug": "70219-oktagon-underground-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-06-06T00:00:00.000Z",
+      "opponent": "Paula Marcisova",
+      "opponentSlug": "262822-paula-marcisova",
+      "result": "win",
+      "method": "sub",
+      "event": "Oktagon: Underground 4",
+      "eventSlug": "69964-oktagon-underground-4",
+      "round": 1,
+      "timeInRound": "0:12"
+    },
+    {
+      "date": "2019-09-01T00:00:00.000Z",
+      "opponent": "Michaela Dostalova",
+      "opponentSlug": "106935-michaela-dostalova",
+      "result": "win",
+      "method": "other",
+      "event": "Oktagon 4 Challenge Qualification",
+      "eventSlug": "81839-oktagon-4-challenge-qualification-semifinal-2",
+      "round": 1,
+      "timeInRound": "4:28"
+    },
+    {
+      "date": "2019-08-22T00:00:00.000Z",
+      "opponent": "Kamila Eliášová",
+      "opponentSlug": "305711-kamila-eliasova",
+      "result": "win",
+      "method": "sub",
+      "event": "Oktagon 4 Challenge Qualification",
+      "eventSlug": "81837-oktagon-4-challenge-qualification-quarterfinals-4",
+      "round": 1,
+      "timeInRound": "1:31"
+    }
+  ],
+  "lastVerified": "2026-04-25T15:56:28.985Z"
+}

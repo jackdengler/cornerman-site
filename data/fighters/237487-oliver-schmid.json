@@ -1,0 +1,178 @@
+{
+  "slug": "237487-oliver-schmid",
+  "name": "Ollie Schmid",
+  "nickname": "The Hungarian Stallion",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "2000-12-28",
+  "nationality": "New Zealand",
+  "url": "https://www.tapology.com/fightcenter/fighters/237487-oliver-schmid",
+  "recentFights": [
+    {
+      "date": "2026-05-02T00:00:00.000Z",
+      "opponent": "Marwan Rahiki",
+      "opponentSlug": "388487-marwan-rahiki",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "140511-ufc-fight-night-della-maddalena-vs-prates",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-03-07T00:00:00.000Z",
+      "opponent": "Jeffrey Mesa",
+      "opponentSlug": "71953-jeff-mesa",
+      "result": "win",
+      "method": "other",
+      "event": "Shuriken Fight Series 23",
+      "eventSlug": "138392-shuriken-fight-series-23",
+      "round": 1,
+      "timeInRound": "0:15"
+    },
+    {
+      "date": "2025-07-05T00:00:00.000Z",
+      "opponent": "Ford Gerbes",
+      "opponentSlug": "291473-ford-gerbes",
+      "result": "win",
+      "method": "other",
+      "event": "SFC: Rivalry",
+      "eventSlug": "125113-sfc-rivalry",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-08T00:00:00.000Z",
+      "opponent": "Saynarvat Srisawat",
+      "opponentSlug": "453418-saynarvat-srisawat",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shuriken Fight Series 20",
+      "eventSlug": "123099-shuriken-fight-series-20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-22T00:00:00.000Z",
+      "opponent": "Dimps Gillies",
+      "opponentSlug": "140176-dimps-gillies",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 86",
+      "eventSlug": "112017-eternal-mma-86",
+      "round": 3,
+      "timeInRound": "3:48"
+    },
+    {
+      "date": "2024-05-04T00:00:00.000Z",
+      "opponent": "Dane Edge",
+      "opponentSlug": "318384-dane-edge",
+      "result": "win",
+      "method": "other",
+      "event": "HEX Fight Series 30",
+      "eventSlug": "107574-hex-fight-series-30-hex-goes-global",
+      "round": 1,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2023-05-06T00:00:00.000Z",
+      "opponent": "Harry Webb",
+      "opponentSlug": "211948-harry-webb",
+      "result": "loss",
+      "method": "sub",
+      "event": "Eternal MMA 75",
+      "eventSlug": "99483-eternal-mma-75",
+      "round": 3,
+      "timeInRound": "3:33"
+    }
+  ],
+  "allFights": [
+    {
+      "date": "2026-05-02T00:00:00.000Z",
+      "opponent": "Marwan Rahiki",
+      "opponentSlug": "388487-marwan-rahiki",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "140511-ufc-fight-night-della-maddalena-vs-prates",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-03-07T00:00:00.000Z",
+      "opponent": "Jeffrey Mesa",
+      "opponentSlug": "71953-jeff-mesa",
+      "result": "win",
+      "method": "other",
+      "event": "Shuriken Fight Series 23",
+      "eventSlug": "138392-shuriken-fight-series-23",
+      "round": 1,
+      "timeInRound": "0:15"
+    },
+    {
+      "date": "2025-07-05T00:00:00.000Z",
+      "opponent": "Ford Gerbes",
+      "opponentSlug": "291473-ford-gerbes",
+      "result": "win",
+      "method": "other",
+      "event": "SFC: Rivalry",
+      "eventSlug": "125113-sfc-rivalry",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-08T00:00:00.000Z",
+      "opponent": "Saynarvat Srisawat",
+      "opponentSlug": "453418-saynarvat-srisawat",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shuriken Fight Series 20",
+      "eventSlug": "123099-shuriken-fight-series-20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-22T00:00:00.000Z",
+      "opponent": "Dimps Gillies",
+      "opponentSlug": "140176-dimps-gillies",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 86",
+      "eventSlug": "112017-eternal-mma-86",
+      "round": 3,
+      "timeInRound": "3:48"
+    },
+    {
+      "date": "2024-05-04T00:00:00.000Z",
+      "opponent": "Dane Edge",
+      "opponentSlug": "318384-dane-edge",
+      "result": "win",
+      "method": "other",
+      "event": "HEX Fight Series 30",
+      "eventSlug": "107574-hex-fight-series-30-hex-goes-global",
+      "round": 1,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2023-05-06T00:00:00.000Z",
+      "opponent": "Harry Webb",
+      "opponentSlug": "211948-harry-webb",
+      "result": "loss",
+      "method": "sub",
+      "event": "Eternal MMA 75",
+      "eventSlug": "99483-eternal-mma-75",
+      "round": 3,
+      "timeInRound": "3:33"
+    }
+  ],
+  "lastVerified": "2026-04-30T11:54:07.873Z"
+}

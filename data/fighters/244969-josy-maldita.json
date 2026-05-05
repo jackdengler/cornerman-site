@@ -1,0 +1,165 @@
+{
+  "slug": "244969-josy-maldita",
+  "name": "Josy Fabriely",
+  "nickname": "Maldita",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 6,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 167,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "2001-01-26",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/244969-josy-maldita",
+  "recentFights": [
+    {
+      "date": "2025-08-30T00:00:00.000Z",
+      "opponent": "Geovanna Moura",
+      "opponentSlug": "294593-geovanna-moura",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Curitiba Fight Pro 11",
+      "eventSlug": "131929-curitiba-fight-pro-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-07-20T00:00:00.000Z",
+      "opponent": "Geisyele Nascimento",
+      "opponentSlug": "74023-geisyele-nascimento",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Unified Grappling & MMA 1",
+      "eventSlug": "130907-unified-grappling-mma-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-12-04T00:00:00.000Z",
+      "opponent": "Valeria Karygina",
+      "opponentSlug": "176388-valeria-karygina",
+      "result": "win",
+      "method": "other",
+      "event": "MMA Global Series 86",
+      "eventSlug": "120430-mma-global-series-86",
+      "round": 2,
+      "timeInRound": "4:50"
+    },
+    {
+      "date": "2024-07-13T00:00:00.000Z",
+      "opponent": "Irina Chernyshova",
+      "opponentSlug": "153282-irina-degtyareva",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "MMA Series 82",
+      "eventSlug": "114870-mma-series-82",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-09T00:00:00.000Z",
+      "opponent": "Alena Agisheva",
+      "opponentSlug": "306734-alena-agisheva",
+      "result": "loss",
+      "method": "sub",
+      "event": "MMA Series 77",
+      "eventSlug": "110607-mma-series-77",
+      "round": 2,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2023-12-02T00:00:00.000Z",
+      "opponent": "Maria Egorova",
+      "opponentSlug": "417487-maria-egorova",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MMA Series 75",
+      "eventSlug": "105945-mma-series-75-all-stars",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-23T00:00:00.000Z",
+      "opponent": "Irina Chernyshova",
+      "opponentSlug": "153282-irina-degtyareva",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "MMA Series 72",
+      "eventSlug": "103017-mma-series-72-all-stars",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-07T00:00:00.000Z",
+      "opponent": "Nina Kharinova",
+      "opponentSlug": "306840-nina-kharinovs",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "MMA Series 63",
+      "eventSlug": "98391-mma-series-63",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-07T00:00:00.000Z",
+      "opponent": "Andreina Reis",
+      "opponentSlug": "127966-andreia-repolho-china-muay-thai",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Arena Global 18",
+      "eventSlug": "87719-arena-global-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-17T00:00:00.000Z",
+      "opponent": "Leidiane Fernandes",
+      "opponentSlug": "271498-leidiane-fernandes",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Refit Pro Fighters 1",
+      "eventSlug": "80827-refit-pro-fighters-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-07T00:00:00.000Z",
+      "opponent": "Taynara Silva",
+      "opponentSlug": "158854-taynara-silva",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Corumbá Fight Combat 7",
+      "eventSlug": "64750-corumba-fight-combat-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-14T00:00:00.000Z",
+      "opponent": "Eleonora Khubezheva",
+      "opponentSlug": "403053-eleonora-khubezheva",
+      "result": "win",
+      "method": "other",
+      "event": "Counterattack-9",
+      "eventSlug": "61105-counterattack-9",
+      "round": 1,
+      "timeInRound": "3:35"
+    },
+    {
+      "date": "2018-11-18T00:00:00.000Z",
+      "opponent": "Tomara Gverceteli",
+      "opponentSlug": "403054-tomara-gverceteli",
+      "result": "win",
+      "method": "sub",
+      "event": "Counterattack-9",
+      "eventSlug": "58950-counterattack-9-k-9-championship",
+      "round": 1,
+      "timeInRound": "1:15"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:03:02.234Z"
+}

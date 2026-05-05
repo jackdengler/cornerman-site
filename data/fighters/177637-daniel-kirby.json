@@ -1,0 +1,48 @@
+{
+  "slug": "177637-daniel-kirby",
+  "name": "Daniel Kirby",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1997-09-24",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/177637-daniel-kirby",
+  "recentFights": [
+    {
+      "date": "2018-08-04T00:00:00.000Z",
+      "opponent": "Korey Taylor",
+      "opponentSlug": "193806-korey-taylor",
+      "result": "loss",
+      "method": "other",
+      "event": "Combat Night 95",
+      "eventSlug": "54810-combat-night-95",
+      "round": 3,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2018-02-10T00:00:00.000Z",
+      "opponent": "Hunter Chambers",
+      "opponentSlug": "174078-hunter-chambers",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combat Night 87",
+      "eventSlug": "50825-combat-night-87",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:37:24.964Z"
+}

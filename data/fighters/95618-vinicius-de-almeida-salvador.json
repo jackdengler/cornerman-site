@@ -1,0 +1,253 @@
+{
+  "slug": "95618-vinicius-de-almeida-salvador",
+  "name": "Vinicius Salvador",
+  "nickname": "Fenômeno",
+  "aliases": [],
+  "recordPro": {
+    "wins": 14,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 179,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1996-07-24",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/95618-vinicius-de-almeida-salvador",
+  "recentFights": [
+    {
+      "date": "2025-09-19T00:00:00.000Z",
+      "opponent": "Micaias Ureña",
+      "opponentSlug": "113575-macias-urea-mica",
+      "result": "loss",
+      "method": "sub",
+      "event": "Samurai Fight House 24",
+      "eventSlug": "130326-samurai-fight-house-24",
+      "round": 2,
+      "timeInRound": "3:02"
+    },
+    {
+      "date": "2024-05-18T00:00:00.000Z",
+      "opponent": "Adrian Yanez",
+      "opponentSlug": "34063-adrian-yanez",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "110359-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "2:47"
+    },
+    {
+      "date": "2023-07-29T00:00:00.000Z",
+      "opponent": "CJ Vergara",
+      "opponentSlug": "38340-carlos-vergara",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 291: Poirier vs. Gaethje 2",
+      "eventSlug": "101214-ufc-291",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-25T00:00:00.000Z",
+      "opponent": "Victor Altamirano",
+      "opponentSlug": "101415-victor-altamirano",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "96078-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-02T00:00:00.000Z",
+      "opponent": "Shannon Ross",
+      "opponentSlug": "14797-shannon-mcclellan",
+      "result": "win",
+      "method": "other",
+      "event": "Contender Series 2022",
+      "eventSlug": "89494-contender-series-2022",
+      "round": 2,
+      "timeInRound": "4:22"
+    },
+    {
+      "date": "2022-04-16T00:00:00.000Z",
+      "opponent": "Wallace Vampirinho",
+      "opponentSlug": "334826-wallace-vampirinho",
+      "result": "win",
+      "method": "tko",
+      "event": "Pentagon Combat 23",
+      "eventSlug": "88510-pentagon-combat-23",
+      "round": 1,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2020-12-06T00:00:00.000Z",
+      "opponent": "Tarcizio Gomes",
+      "opponentSlug": "152592-tarcizio-gomes-pedra",
+      "result": "win",
+      "method": "other",
+      "event": "Arena Global 9",
+      "eventSlug": "73907-arena-global-9",
+      "round": 2,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2019-11-30T00:00:00.000Z",
+      "opponent": "Leonardo da Silva",
+      "opponentSlug": "265193-leonardo-gabriel-da-silva-manivela",
+      "result": "win",
+      "method": "other",
+      "event": "Federação Fight 11",
+      "eventSlug": "64120-federacao-fight-11",
+      "round": 1,
+      "timeInRound": "0:28"
+    },
+    {
+      "date": "2019-05-25T00:00:00.000Z",
+      "opponent": "Jafel Filho",
+      "opponentSlug": "46690-jafel-cavalcante-filho",
+      "result": "loss",
+      "method": "other",
+      "event": "Shooto Brasil 92",
+      "eventSlug": "60598-shooto-brasil-92",
+      "round": 2,
+      "timeInRound": "4:45"
+    },
+    {
+      "date": "2019-03-23T00:00:00.000Z",
+      "opponent": "Andrey Teixeira",
+      "opponentSlug": "224742-andrey-teixeira-drey",
+      "result": "win",
+      "method": "other",
+      "event": "Pentagon Combat 22",
+      "eventSlug": "60035-pentagon-combat-22-negao-vs-hyppolito",
+      "round": 1,
+      "timeInRound": "4:10"
+    },
+    {
+      "date": "2018-12-01T00:00:00.000Z",
+      "opponent": "Rafael Costa",
+      "opponentSlug": "111144-rafael-costa",
+      "result": "loss",
+      "method": "sub",
+      "event": "Max Fight 21",
+      "eventSlug": "57532-max-fight-21",
+      "round": 2,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2018-06-29T00:00:00.000Z",
+      "opponent": "Luiz Filho",
+      "opponentSlug": "62366-luis-guerreiro",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Shooto Brasil 85",
+      "eventSlug": "53790-shooto-brasil-85",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-26T00:00:00.000Z",
+      "opponent": "Roberto de Souza",
+      "opponentSlug": "65876-roberto-barbosa-de-souza",
+      "result": "win",
+      "method": "other",
+      "event": "Max Fight 19",
+      "eventSlug": "47705-max-fight-19",
+      "round": 3,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2017-05-28T00:00:00.000Z",
+      "opponent": "Lucas Ananias",
+      "opponentSlug": "134477-lucas-ananias",
+      "result": "win",
+      "method": "tko",
+      "event": "Shooto Brasil 73",
+      "eventSlug": "45933-shooto-brasil-73",
+      "round": 1,
+      "timeInRound": "0:25"
+    },
+    {
+      "date": "2016-09-21T00:00:00.000Z",
+      "opponent": "André Azevedo",
+      "opponentSlug": "55171-andre-azevedo",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-21T00:00:00.000Z",
+      "opponent": "Diogo Oliveira",
+      "opponentSlug": "54584-diogo-oliveira",
+      "result": "win",
+      "method": "other",
+      "event": "Max Fight 18",
+      "eventSlug": "38938-max-fight-18",
+      "round": 1,
+      "timeInRound": "3:55"
+    },
+    {
+      "date": "2015-11-28T00:00:00.000Z",
+      "opponent": "Elifrank Cariolano",
+      "opponentSlug": "16948-elifrank-cariolano",
+      "result": "loss",
+      "method": "tko",
+      "event": "Jungle Fight 83",
+      "eventSlug": "36731-jungle-fight-83",
+      "round": 1,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2015-07-11T00:00:00.000Z",
+      "opponent": "Fabio Gava Bichaco Jr.",
+      "opponentSlug": "119439-fabio-gava-bichaco-jr",
+      "result": "win",
+      "method": "tko",
+      "event": "Pentagon Combat 21",
+      "eventSlug": "35314-pentagon-combat-21",
+      "round": 1,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2015-05-09T00:00:00.000Z",
+      "opponent": "Arif Lazart",
+      "opponentSlug": "65863-arif-lazart-el-demonio",
+      "result": "win",
+      "method": "other",
+      "event": "Jungle Fight 77",
+      "eventSlug": "32129-jungle-fight-77",
+      "round": 2,
+      "timeInRound": "4:35"
+    },
+    {
+      "date": "2015-04-11T00:00:00.000Z",
+      "opponent": "Eduardo Hanke",
+      "opponentSlug": "80698-eduardo-hanke",
+      "result": "win",
+      "method": "tko",
+      "event": "Americas FC 3",
+      "eventSlug": "31026-americas-fc-3",
+      "round": 1,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2014-09-27T00:00:00.000Z",
+      "opponent": "Sostines Carvalho",
+      "opponentSlug": "95626-sostines-carvalho-espirro",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:55:33.377Z"
+}

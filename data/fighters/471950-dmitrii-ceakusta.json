@@ -1,0 +1,132 @@
+{
+  "slug": "471950-dmitrii-ceakusta",
+  "name": "Dmitrii Ceacusta",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Moldova",
+  "url": "https://www.tapology.com/fightcenter/fighters/471950-dmitrii-ceakusta",
+  "recentFights": [
+    {
+      "date": "2026-01-31T00:00:00.000Z",
+      "opponent": "Mert Can Cayir",
+      "opponentSlug": "513632-mert-can-cayir",
+      "result": "win",
+      "method": "other",
+      "event": "BFL 2",
+      "eventSlug": "136775-bfl-2",
+      "round": 1,
+      "timeInRound": "2:13"
+    },
+    {
+      "date": "2024-11-23T00:00:00.000Z",
+      "opponent": "Dilgan Abbasov",
+      "opponentSlug": "63139-dilgan-abbasov",
+      "result": "win",
+      "method": "other",
+      "event": "WWFC 23",
+      "eventSlug": "120737-wwfc-23",
+      "round": 1,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2024-12-15T00:00:00.000Z",
+      "opponent": "Colin Robinson",
+      "opponentSlug": "272713-colin-robinson",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "116248-gamma-world-championships-2024-finals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-12-14T00:00:00.000Z",
+      "opponent": "Nursultan Makhmetov",
+      "opponentSlug": "255842-nursultan-makhmetov",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "116247-gamma-world-championships-2024-semi-finals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-12-13T00:00:00.000Z",
+      "opponent": "Israel Phinees Mano",
+      "opponentSlug": "292586-israel-mano",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "123283-gamma-world-championships-2024-preliminaries-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-20T00:00:00.000Z",
+      "opponent": "Oleg Korsakov",
+      "opponentSlug": "438572-oleh-korsakov",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "110648-gamma-european-championship-2024",
+      "round": 1,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2024-05-19T00:00:00.000Z",
+      "opponent": "Matin Huseynli",
+      "opponentSlug": "451879-matin-huseynli",
+      "result": "win",
+      "method": "tko",
+      "event": "GAMMA",
+      "eventSlug": "115209-gamma-world-championships-2024-day-2",
+      "round": 3,
+      "timeInRound": "0:41"
+    },
+    {
+      "date": "2021-11-08T00:00:00.000Z",
+      "opponent": "Vojtech Garba",
+      "opponentSlug": "145826-vojtech-garba",
+      "result": "loss",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "115328-gamma-european-championships-2021-day-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-07T00:00:00.000Z",
+      "opponent": "Aurelien Teyssonneyre",
+      "opponentSlug": "255836-aurelien-teyssonneyre",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "115208-gamma-european-championships-2021-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-06T00:00:00.000Z",
+      "opponent": "Dmytro Sobchenko",
+      "opponentSlug": "448371-dmytro-sobchenko",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "115207-gamma-european-championships-2021-day-1",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:09:17.185Z"
+}

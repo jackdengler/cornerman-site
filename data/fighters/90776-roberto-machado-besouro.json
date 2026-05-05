@@ -1,0 +1,110 @@
+{
+  "slug": "90776-roberto-machado-besouro",
+  "name": "Roberto Machado",
+  "nickname": "Besouro",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1982-08-04",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/90776-roberto-machado-besouro",
+  "recentFights": [
+    {
+      "date": "2024-05-11T00:00:00.000Z",
+      "opponent": "Moab Florêncio",
+      "opponentSlug": "16075-moab-florencio",
+      "result": "loss",
+      "method": "sub",
+      "event": "Brasil Grand Champion 3",
+      "eventSlug": "123092-brasil-grand-champion-3",
+      "round": 3,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2022-09-24T00:00:00.000Z",
+      "opponent": "Mauricio Villordo",
+      "opponentSlug": "157991-mauricio-villordo",
+      "result": "win",
+      "method": "other",
+      "event": "Number 1 Fight Series 6",
+      "eventSlug": "92054-number-1-fight-series",
+      "round": 1,
+      "timeInRound": "3:56"
+    },
+    {
+      "date": "2022-02-05T00:00:00.000Z",
+      "opponent": "David dos Santos",
+      "opponentSlug": "325227-david-dos-santos",
+      "result": "win",
+      "method": "other",
+      "event": "Number 1 MMA 3",
+      "eventSlug": "85750-number-1-mma-3",
+      "round": 2,
+      "timeInRound": "3:54"
+    },
+    {
+      "date": "2017-10-27T00:00:00.000Z",
+      "opponent": "David Pregely",
+      "opponentSlug": "135966-david-pregeli",
+      "result": "loss",
+      "method": "other",
+      "event": "Limo Fight 19",
+      "eventSlug": "48967-limo-fight-19",
+      "round": 2,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2016-12-16T00:00:00.000Z",
+      "opponent": "João Fontenele",
+      "opponentSlug": "146538-joo-junior",
+      "result": "loss",
+      "method": "sub",
+      "event": "1º Round Combat 3",
+      "eventSlug": "43168-1-round-combat-3",
+      "round": 2,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2016-01-29T00:00:00.000Z",
+      "opponent": "George Emanuel",
+      "opponentSlug": "67751-george-emanuel",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-08-15T00:00:00.000Z",
+      "opponent": "Iramar Frota",
+      "opponentSlug": "31155-iramar-frota",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-09-21T00:00:00.000Z",
+      "opponent": "Junior Melo",
+      "opponentSlug": "121289-jose-cleiton-de-melo-junior-melo",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:38:34.960Z"
+}

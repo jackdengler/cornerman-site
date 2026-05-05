@@ -1,0 +1,165 @@
+{
+  "slug": "18574-vadim-sandulitsky",
+  "name": "Vadim Sandulitsky",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 177,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1989-10-13",
+  "nationality": "Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/18574-vadim-sandulitsky",
+  "recentFights": [
+    {
+      "date": "2016-04-29T00:00:00.000Z",
+      "opponent": "Vasiliy Zubkov",
+      "opponentSlug": "62145-vasiliy-zubkov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fight Nights Global 46",
+      "eventSlug": "39343-fight-nights-global-46",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-09-14T00:00:00.000Z",
+      "opponent": "Ivan Zagubinoga",
+      "opponentSlug": "21611-ivan-zagubinoga",
+      "result": "win",
+      "method": "sub",
+      "event": "R.O.D.: Moscow Calling",
+      "eventSlug": "27121-rod-fighting-moscow-calling",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2014-09-14T00:00:00.000Z",
+      "opponent": "Ilya Martisyuk",
+      "opponentSlug": "36043-ilya-martisyuk",
+      "result": "win",
+      "method": "other",
+      "event": "R.O.D.: Moscow Calling",
+      "eventSlug": "27121-rod-fighting-moscow-calling",
+      "round": 1,
+      "timeInRound": "3:08"
+    },
+    {
+      "date": "2013-12-19T00:00:00.000Z",
+      "opponent": "Tursunbek Asylgaziev",
+      "opponentSlug": "46370-tursunbek-asilgaziev",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "R.O.D: Shield And Sword 5",
+      "eventSlug": "44900-r-o-d-shield-and-sword-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-08-17T00:00:00.000Z",
+      "opponent": "Yaroslav Amosov",
+      "opponentSlug": "81129-yaroslav-amosov",
+      "result": "loss",
+      "method": "sub",
+      "event": "S-70: Plotforma Cup 2013",
+      "eventSlug": "21208-plotforma-s-70-4th",
+      "round": 3,
+      "timeInRound": "3:03"
+    },
+    {
+      "date": "2013-05-18T00:00:00.000Z",
+      "opponent": "Vladimir Sidorov",
+      "opponentSlug": "66344-vladizmir-sidorov",
+      "result": "win",
+      "method": "other",
+      "event": "Alpha Cup 2013",
+      "eventSlug": "48601-alpha-cup-2013",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-04-27T00:00:00.000Z",
+      "opponent": "Evgeny Fomenko",
+      "opponentSlug": "31585-evgeni-fomenko",
+      "result": "win",
+      "method": "other",
+      "event": "Overtime Cup 2013",
+      "eventSlug": "19181-overtime-cup-2013",
+      "round": 1,
+      "timeInRound": "1:18"
+    },
+    {
+      "date": "2013-02-23T00:00:00.000Z",
+      "opponent": "Bagautdin Abasov",
+      "opponentSlug": "20163-bagautdin-abasov",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Nights Global 14",
+      "eventSlug": "17685-fight-nights-battle-of-moscow-10",
+      "round": 1,
+      "timeInRound": "2:16"
+    },
+    {
+      "date": "2012-12-14T00:00:00.000Z",
+      "opponent": "Ivan Zagubinoga",
+      "opponentSlug": "21611-ivan-zagubinoga",
+      "result": "win",
+      "method": "sub",
+      "event": "R.O.D: Shield And Sword 3",
+      "eventSlug": "48512-r-o-d-shield-and-sword-3",
+      "round": 1,
+      "timeInRound": "3:04"
+    },
+    {
+      "date": "2012-10-27T00:00:00.000Z",
+      "opponent": "Artem Yamschitov",
+      "opponentSlug": "88763-artiom-yamschitov",
+      "result": "win",
+      "method": "sub",
+      "event": "Overtime Cup 2012",
+      "eventSlug": "18705-overtime-cup-2012",
+      "round": 1,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2012-05-11T00:00:00.000Z",
+      "opponent": "Sergey Veselov",
+      "opponentSlug": "181695-sergey-veselov",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-03-31T00:00:00.000Z",
+      "opponent": "Vladimir Katyhin",
+      "opponentSlug": "13583-vladimir-katyhin",
+      "result": "loss",
+      "method": "sub",
+      "event": "Vosmiugolnik Cup 2012",
+      "eventSlug": "14953-vosmiugolnik-cup-2012",
+      "round": 1,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2011-09-15T00:00:00.000Z",
+      "opponent": "Khabib Nurmagomedov",
+      "opponentSlug": "18536-khabib-nurmagomedov",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:05:02.779Z"
+}

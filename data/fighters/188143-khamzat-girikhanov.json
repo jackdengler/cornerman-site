@@ -1,0 +1,209 @@
+{
+  "slug": "188143-khamzat-girikhanov",
+  "name": "Khamzat Chimaev",
+  "nickname": "Borz",
+  "aliases": [],
+  "recordPro": {
+    "wins": 15,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": 191,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1994-05-01",
+  "nationality": "Beno-Yurt, Chechnya, Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/188143-khamzat-girikhanov",
+  "recentFights": [
+    {
+      "date": "2026-05-09T00:00:00.000Z",
+      "opponent": "Sean Strickland",
+      "opponentSlug": "6055-sean-strickland-tarzan",
+      "result": null,
+      "method": "other",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "eventSlug": "140614-ufc-328",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-08-16T00:00:00.000Z",
+      "opponent": "Dricus Du Plessis",
+      "opponentSlug": "51267-dricus-du-plessis-stilknocks",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 319: Du Plessis vs. Chimaev",
+      "eventSlug": "128190-ufc-319-du-plessis-vs-chimaev",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-10-26T00:00:00.000Z",
+      "opponent": "Robert Whittaker",
+      "opponentSlug": "17398-robert-whittaker",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 308: Topuria vs. Holloway",
+      "eventSlug": "112501-ufc-308",
+      "round": 1,
+      "timeInRound": "3:34"
+    },
+    {
+      "date": "2023-10-21T00:00:00.000Z",
+      "opponent": "Kamaru Usman",
+      "opponentSlug": "39265-kamarudeen-usman",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "UFC 294: Makhachev vs. Volkanovski 2",
+      "eventSlug": "99416-ufc-294",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-10T00:00:00.000Z",
+      "opponent": "Kevin Holland",
+      "opponentSlug": "35757-kevin-holland",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 279: Diaz vs. Ferguson",
+      "eventSlug": "89492-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "2:13"
+    },
+    {
+      "date": "2022-04-09T00:00:00.000Z",
+      "opponent": "Gilbert Burns",
+      "opponentSlug": "31168-gilbert-burns-durinho",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 273",
+      "eventSlug": "85306-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-30T00:00:00.000Z",
+      "opponent": "Jingliang Li",
+      "opponentSlug": "jing-liang-li-the-leech",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC 267: Błachowicz vs. Teixeira",
+      "eventSlug": "80222-ufc-267",
+      "round": 1,
+      "timeInRound": "3:16"
+    },
+    {
+      "date": "2020-09-19T00:00:00.000Z",
+      "opponent": "Gerald Meerschaert",
+      "opponentSlug": "6018-gerald-meerschaert-the-machine",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "70810-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "0:17"
+    },
+    {
+      "date": "2020-07-25T00:00:00.000Z",
+      "opponent": "Rhys McKee",
+      "opponentSlug": "54321-rhys-mckee",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "69764-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "3:09"
+    },
+    {
+      "date": "2020-07-15T00:00:00.000Z",
+      "opponent": "John Phillips",
+      "opponentSlug": "john-phillips-the-white-mike-tyson",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "70017-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2019-10-04T00:00:00.000Z",
+      "opponent": "Mzwandile Hlongwa",
+      "opponentSlug": "89260-mzwandile-hlongwa",
+      "result": "win",
+      "method": "sub",
+      "event": "Brave CF 27",
+      "eventSlug": "62763-brave-cf-27",
+      "round": 2,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2019-04-19T00:00:00.000Z",
+      "opponent": "Ikram Aliskerov",
+      "opponentSlug": "108253-ikram-aliskerov",
+      "result": "win",
+      "method": "other",
+      "event": "Brave CF 23",
+      "eventSlug": "58443-brave-fc-23",
+      "round": 1,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2018-12-22T00:00:00.000Z",
+      "opponent": "Sidney Wheeler",
+      "opponentSlug": "96877-sidney-wheeler",
+      "result": "win",
+      "method": "sub",
+      "event": "Brave CF 20",
+      "eventSlug": "56712-brave-cf-20",
+      "round": 1,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2018-11-16T00:00:00.000Z",
+      "opponent": "Marko Kisič",
+      "opponentSlug": "78820-marko-kisic",
+      "result": "win",
+      "method": "other",
+      "event": "Brave CF 18",
+      "eventSlug": "55854-brave-cf-18",
+      "round": 1,
+      "timeInRound": "3:12"
+    },
+    {
+      "date": "2018-08-18T00:00:00.000Z",
+      "opponent": "Ole Magnor",
+      "opponentSlug": "36505-ole-magnor",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Club Rush 3",
+      "eventSlug": "54454-fight-club-rush-fightclub-rush-3",
+      "round": 1,
+      "timeInRound": "4:23"
+    },
+    {
+      "date": "2018-05-26T00:00:00.000Z",
+      "opponent": "Gard Olve Sagen",
+      "opponentSlug": "74334-gard-olve-sagen",
+      "result": "win",
+      "method": "other",
+      "event": "IRFA 14",
+      "eventSlug": "51044-irfa-14",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-10T00:00:00.000Z",
+      "opponent": "Khaled Laallam",
+      "opponentSlug": "152976-khaled-laallam",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Club Rush 1",
+      "eventSlug": "53224-fight-club-rush-1",
+      "round": 2,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:04:13.065Z"
+}

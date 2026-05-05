@@ -1,0 +1,176 @@
+{
+  "slug": "10429-chase-waldon",
+  "name": "Chase Waldon",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 191,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1986-09-19",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/10429-chase-waldon",
+  "recentFights": [
+    {
+      "date": "2017-07-25T00:00:00.000Z",
+      "opponent": "Geoff Neal",
+      "opponentSlug": "20058-geoffrey-neal",
+      "result": "loss",
+      "method": "other",
+      "event": "DW's Contender Series 2017",
+      "eventSlug": "46363-dana-whites-contender-series-3",
+      "round": 1,
+      "timeInRound": "1:56"
+    },
+    {
+      "date": "2017-05-19T00:00:00.000Z",
+      "opponent": "Cully Butterfield",
+      "opponentSlug": "18372-cully-butterfield",
+      "result": "win",
+      "method": "dec-split",
+      "event": "LFA 12: Krantz vs. Neumann",
+      "eventSlug": "44968-lfa-12-krantz-vs-neumann",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-28T00:00:00.000Z",
+      "opponent": "Gerald Meerschaert",
+      "opponentSlug": "6018-gerald-meerschaert-the-machine",
+      "result": "loss",
+      "method": "sub",
+      "event": "RFA 45: Meerschaert vs. Waldon",
+      "eventSlug": "41534-rfa-45-meerschaert-vs-waldon",
+      "round": 1,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2016-07-15T00:00:00.000Z",
+      "opponent": "Austen Heidlage",
+      "opponentSlug": "26919-james-heidlage",
+      "result": "win",
+      "method": "other",
+      "event": "RFA 40: Sklavos vs. Camus",
+      "eventSlug": "39794-rfa-40-sklavos-vs-camus",
+      "round": 1,
+      "timeInRound": "0:15"
+    },
+    {
+      "date": "2016-02-05T00:00:00.000Z",
+      "opponent": "Justin Winkles-Camparetto",
+      "opponentSlug": "63613-justin-winkles-camparetto",
+      "result": "win",
+      "method": "tko",
+      "event": "Legacy FC 51",
+      "eventSlug": "37042-legacy-fc-51-ramos-vs-mendes",
+      "round": 1,
+      "timeInRound": "0:28"
+    },
+    {
+      "date": "2015-07-17T00:00:00.000Z",
+      "opponent": "Nick Wagner",
+      "opponentSlug": "14302-nick-wagner",
+      "result": "win",
+      "method": "sub",
+      "event": "Legacy FC 43",
+      "eventSlug": "32485-legacy-fc-43-krantz-vs-larson",
+      "round": 3,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2014-05-31T00:00:00.000Z",
+      "opponent": "Miguel Rios",
+      "opponentSlug": "15321-miguel-rios",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-01-11T00:00:00.000Z",
+      "opponent": "Jordan Faas",
+      "opponentSlug": "16199-jordan-faas",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Mecca 3: Premier MMA",
+      "eventSlug": "22050-mecca-3-premier-mma",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-11-09T00:00:00.000Z",
+      "opponent": "Zach Browder",
+      "opponentSlug": "18370-zach-browder",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-04-27T00:00:00.000Z",
+      "opponent": "Garrett Olson",
+      "opponentSlug": "garrett-olson",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-07-14T00:00:00.000Z",
+      "opponent": "Nate Hoffman",
+      "opponentSlug": "34981-nate-hoffman",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-09-23T00:00:00.000Z",
+      "opponent": "Reilly Griffin",
+      "opponentSlug": "25512-reilly-griffin",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-06-19T00:00:00.000Z",
+      "opponent": "Derrick Mehmen",
+      "opponentSlug": "derrick-mehman",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-03-06T00:00:00.000Z",
+      "opponent": "Hugh Cornick",
+      "opponentSlug": "82754-hugh-cornick",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:15:24.998Z"
+}

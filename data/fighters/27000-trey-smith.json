@@ -1,0 +1,121 @@
+{
+  "slug": "27000-trey-smith",
+  "name": "Trey Smith",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/27000-trey-smith",
+  "recentFights": [
+    {
+      "date": "2017-01-14T00:00:00.000Z",
+      "opponent": "Nolan McLaughlin",
+      "opponentSlug": "19517-nolan-mclaughlin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "NMEF: Annihilation 59",
+      "eventSlug": "43685-nmef-annihilation-59",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-02-13T00:00:00.000Z",
+      "opponent": "Vince Morales",
+      "opponentSlug": "91401-vince-morales",
+      "result": "loss",
+      "method": "tko",
+      "event": "Front Street Fights 8",
+      "eventSlug": "38410-front-street-fights-8",
+      "round": 1,
+      "timeInRound": "4:15"
+    },
+    {
+      "date": "2015-11-21T00:00:00.000Z",
+      "opponent": "Tyler Cutsforth",
+      "opponentSlug": "55727-tyler-cutsforth",
+      "result": "loss",
+      "method": "sub",
+      "event": "NMEF: Annihilation 56",
+      "eventSlug": "36685-nmef-annihilation-56",
+      "round": 2,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2015-10-10T00:00:00.000Z",
+      "opponent": "Fernando Sanchez",
+      "opponentSlug": "110960-fernando-sanchez",
+      "result": "win",
+      "method": "sub",
+      "event": "IronFist Fights 1",
+      "eventSlug": "35816-ironfist-fights-1",
+      "round": 3,
+      "timeInRound": "0:19"
+    },
+    {
+      "date": "2015-09-12T00:00:00.000Z",
+      "opponent": "Josh Kampbell",
+      "opponentSlug": "36872-josh-campbell",
+      "result": "win",
+      "method": "other",
+      "event": "NMEF: Annihilation 55",
+      "eventSlug": "34966-nmef-annihilation-55",
+      "round": 2,
+      "timeInRound": "0:13"
+    },
+    {
+      "date": "2013-05-04T00:00:00.000Z",
+      "opponent": "Brandon Heredia",
+      "opponentSlug": "38184-brandon-heredia",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "NMEF Annihilation 45",
+      "eventSlug": "18767-nmef-annihilation-45",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-03-09T00:00:00.000Z",
+      "opponent": "Zach Larimore",
+      "opponentSlug": "43276-zach-larimore",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Grand Junction Fight Night 2",
+      "eventSlug": "17872-grand-junction-fight-night-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-07-21T00:00:00.000Z",
+      "opponent": "Tony Dominguez",
+      "opponentSlug": "31038-tony-dominguez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ultimate Top Team Fights 8",
+      "eventSlug": "14725-ultimate-top-team-fights-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-04-14T00:00:00.000Z",
+      "opponent": "Steven Perez",
+      "opponentSlug": "83087-steven-perez",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:57:29.181Z"
+}

@@ -1,0 +1,147 @@
+{
+  "slug": "135358-tyler-lanham",
+  "name": "Tyler Lanham",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 5,
+    "losses": 6,
+    "draws": 0
+  },
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1989-11-17",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/135358-tyler-lanham",
+  "recentFights": [
+    {
+      "date": "2022-07-09T00:00:00.000Z",
+      "opponent": "Marcus Finch",
+      "opponentSlug": "155754-marcus-finch",
+      "result": "loss",
+      "method": "other",
+      "event": "Rise of the Prospects",
+      "eventSlug": "90471-rise-of-the-prospects-cage-series-2",
+      "round": 1,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2021-08-13T00:00:00.000Z",
+      "opponent": "Dakotah Munro",
+      "opponentSlug": "98817-dakotah-monro",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "WFF 43",
+      "eventSlug": "79966-wff-43",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-20T00:00:00.000Z",
+      "opponent": "Johnny Torres",
+      "opponentSlug": "70985-johnny-torres",
+      "result": "win",
+      "method": "sub",
+      "event": "MCF 20: St. Paddy's Beatdown",
+      "eventSlug": "77972-mcf-20-st-paddy-s-beatdown",
+      "round": 1,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2019-10-13T00:00:00.000Z",
+      "opponent": "Chris Renteria",
+      "opponentSlug": "153553-cristobal-renteria",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "RUF MMA 36",
+      "eventSlug": "63404-ruf-mma-36",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-08-11T00:00:00.000Z",
+      "opponent": "Sung Kim",
+      "opponentSlug": "178007-sung-kim",
+      "result": "loss",
+      "method": "other",
+      "event": "RUF MMA 27",
+      "eventSlug": "53829-ruf-mma-27",
+      "round": 2,
+      "timeInRound": "0:16"
+    },
+    {
+      "date": "2017-09-23T00:00:00.000Z",
+      "opponent": "Buddy Rodriguez",
+      "opponentSlug": "77729-francisco-rodriguez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "RUF MMA 22",
+      "eventSlug": "47802-ruf-mma-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-09T00:00:00.000Z",
+      "opponent": "Marcus Finch",
+      "opponentSlug": "155754-marcus-finch",
+      "result": "win",
+      "method": "tko",
+      "event": "RUF MMA 21",
+      "eventSlug": "47796-ruf-mma-21",
+      "round": 1,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2017-08-19T00:00:00.000Z",
+      "opponent": "Cedric Katambwa",
+      "opponentSlug": "151861-cedric-katambwa",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "WFF 35",
+      "eventSlug": "47012-wff-35",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-22T00:00:00.000Z",
+      "opponent": "Christopher Cartwright",
+      "opponentSlug": "135268-christopher-cartwright",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Rage on the River 12",
+      "eventSlug": "42336-cage-rage-on-the-river-12",
+      "round": 2,
+      "timeInRound": "0:54"
+    },
+    {
+      "date": "2016-07-16T00:00:00.000Z",
+      "opponent": "Sterling Throssell",
+      "opponentSlug": "53650-sterling-throssell",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Rage at the Diamond 2",
+      "eventSlug": "40703-cage-rage-at-the-diamond-2",
+      "round": 1,
+      "timeInRound": "0:32"
+    },
+    {
+      "date": "2016-06-25T00:00:00.000Z",
+      "opponent": "Justin Trigg",
+      "opponentSlug": "135357-justin-trigg",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage Rage on the River 11",
+      "eventSlug": "40470-cage-rage-on-the-river-10",
+      "round": 1,
+      "timeInRound": "1:30"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:42:19.994Z"
+}

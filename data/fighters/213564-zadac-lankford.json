@@ -1,0 +1,81 @@
+{
+  "slug": "213564-zadac-lankford",
+  "name": "Zadac Lankford",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 4,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/213564-zadac-lankford",
+  "recentFights": [
+    {
+      "date": "2019-11-30T00:00:00.000Z",
+      "opponent": "Logan Arnhold",
+      "opponentSlug": "175194-logan-arnold",
+      "result": "win",
+      "method": "other",
+      "event": "Organized Chaos 17",
+      "eventSlug": "62836-organized-chaos-17",
+      "round": 1,
+      "timeInRound": "2:17"
+    },
+    {
+      "date": "2019-08-24T00:00:00.000Z",
+      "opponent": "Christian Ringer",
+      "opponentSlug": "176419-christian-wayne-ringer",
+      "result": "win",
+      "method": "other",
+      "event": "FAC 1",
+      "eventSlug": "61652-fac-1",
+      "round": 1,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2019-07-27T00:00:00.000Z",
+      "opponent": "Hoss Fletcher",
+      "opponentSlug": "218031-hoss-fletcher",
+      "result": "win",
+      "method": "other",
+      "event": "KC Fighting Alliance 34",
+      "eventSlug": "60419-kc-fighting-alliance-34",
+      "round": 1,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2019-05-04T00:00:00.000Z",
+      "opponent": "Gauge Young",
+      "opponentSlug": "213571-gauge-young",
+      "result": "loss",
+      "method": "other",
+      "event": "KC Fighting Alliance 33",
+      "eventSlug": "59207-kc-fighting-alliance-33",
+      "round": 1,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2019-02-23T00:00:00.000Z",
+      "opponent": "Mitch McElmurry",
+      "opponentSlug": "213565-mitch-mcelmurry",
+      "result": "win",
+      "method": "other",
+      "event": "KC Fighting Alliance 32",
+      "eventSlug": "57463-kc-fighting-alliance-32",
+      "round": 1,
+      "timeInRound": "0:14"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:12:40.634Z"
+}

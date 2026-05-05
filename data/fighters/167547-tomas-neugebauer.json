@@ -1,0 +1,33 @@
+{
+  "slug": "167547-tomas-neugebauer",
+  "name": "Tomas Neugebauer",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/167547-tomas-neugebauer",
+  "recentFights": [
+    {
+      "date": "2017-04-22T00:00:00.000Z",
+      "opponent": "Vojtech Garba",
+      "opponentSlug": "145826-vojtech-garba",
+      "result": "loss",
+      "method": "other",
+      "event": "Fight of Gladiators 6",
+      "eventSlug": "48399-fight-of-gladiators-6",
+      "round": 1,
+      "timeInRound": "2:45"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:09:08.198Z"
+}

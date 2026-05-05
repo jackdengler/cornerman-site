@@ -1,0 +1,187 @@
+{
+  "slug": "109896-ernesto-ibarra",
+  "name": "Ernesto Ibarra",
+  "nickname": "The Stallion",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 180,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1996-05-01",
+  "nationality": "Ensenada, Baja California, Mexico",
+  "url": "https://www.tapology.com/fightcenter/fighters/109896-ernesto-ibarra",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Devon Lozej",
+      "opponentSlug": "205775-devon-lozej",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 231: Lozej vs. Ibarra",
+      "eventSlug": "140675-lfa-231-trembley-vs-johns",
+      "round": 2,
+      "timeInRound": "1:46"
+    },
+    {
+      "date": "2025-10-25T00:00:00.000Z",
+      "opponent": "Kyle Estrada",
+      "opponentSlug": "76182-kyle-estrada",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 220: Tanner vs. Cyr",
+      "eventSlug": "132282-lfa-220",
+      "round": 1,
+      "timeInRound": "4:02"
+    },
+    {
+      "date": "2025-05-03T00:00:00.000Z",
+      "opponent": "Francisco Benitez",
+      "opponentSlug": "65149-francisco-benitez-el-escorpion",
+      "result": "win",
+      "method": "sub",
+      "event": "EXF 21",
+      "eventSlug": "127537-exf-21",
+      "round": 1,
+      "timeInRound": "1:55"
+    },
+    {
+      "date": "2023-12-02T00:00:00.000Z",
+      "opponent": "Javier Valdebenito",
+      "opponentSlug": "144240-javier-valdebenito",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combate Global",
+      "eventSlug": "107955-combate-globa",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-04-08T00:00:00.000Z",
+      "opponent": "Martin Davila",
+      "opponentSlug": "78560-martin-davila",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combate Global",
+      "eventSlug": "100151-combate-global-ibarra-vs-davila",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-20T00:00:00.000Z",
+      "opponent": "Pablo Caballero",
+      "opponentSlug": "75375-pablo-caballero-the-killer",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combate Global",
+      "eventSlug": "89454-combate-global",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-19T00:00:00.000Z",
+      "opponent": "Gerardo Graniel",
+      "opponentSlug": "187499-gerardo-graniel-terrier",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combate Global",
+      "eventSlug": "84362-combate-global",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-29T00:00:00.000Z",
+      "opponent": "Alan Cantú",
+      "opponentSlug": "64543-alan-garcia",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combate Global",
+      "eventSlug": "79378-combate-global",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-07T00:00:00.000Z",
+      "opponent": "Jhoao Ruiz",
+      "opponentSlug": "169308-jhoao-ruiz",
+      "result": "win",
+      "method": "sub",
+      "event": "EXF 15",
+      "eventSlug": "79238-exf-15",
+      "round": 2,
+      "timeInRound": "3:13"
+    },
+    {
+      "date": "2020-02-21T00:00:00.000Z",
+      "opponent": "Santiago Monreal",
+      "opponentSlug": "83920-raul-monreal",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combate 55: Mexicali",
+      "eventSlug": "65832-combate-mexicali",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-02-08T00:00:00.000Z",
+      "opponent": "Ramon Vizcarra",
+      "opponentSlug": "97516-ramon-vizcarra",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combate 30: Mexicali",
+      "eventSlug": "57831-combate-30-combate-baja",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-14T00:00:00.000Z",
+      "opponent": "Jhoao Ruiz",
+      "opponentSlug": "169308-jhoao-ruiz",
+      "result": "win",
+      "method": "other",
+      "event": "EXF 12",
+      "eventSlug": "55362-elite-xtreme-fighting",
+      "round": 3,
+      "timeInRound": "3:43"
+    },
+    {
+      "date": "2018-02-16T00:00:00.000Z",
+      "opponent": "Kevin Fregoso",
+      "opponentSlug": "196040-kevin-fregoso",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-02-03T00:00:00.000Z",
+      "opponent": "Alan Varela",
+      "opponentSlug": "80016-alan-varela",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "EXF 7",
+      "eventSlug": "44253-exf-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-07T00:00:00.000Z",
+      "opponent": "Alan Varela",
+      "opponentSlug": "80016-alan-varela",
+      "result": "win",
+      "method": "sub",
+      "event": "EXF 3",
+      "eventSlug": "33319-exf-3",
+      "round": 2,
+      "timeInRound": "1:14"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:59:23.774Z"
+}

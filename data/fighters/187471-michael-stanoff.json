@@ -1,0 +1,187 @@
+{
+  "slug": "187471-michael-stanoff",
+  "name": "Michael Stanoff",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/187471-michael-stanoff",
+  "recentFights": [
+    {
+      "date": "2024-05-24T00:00:00.000Z",
+      "opponent": "Rodolfo Marques",
+      "opponentSlug": "13657-rodolfo-marques",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 84",
+      "eventSlug": "111485-eternal-mma-84",
+      "round": 2,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2023-11-04T00:00:00.000Z",
+      "opponent": "Dom Mar Fan",
+      "opponentSlug": "196890-dom-mar-fan",
+      "result": "loss",
+      "method": "sub",
+      "event": "Eternal MMA 81",
+      "eventSlug": "102044-eternal-mma-81",
+      "round": 2,
+      "timeInRound": "2:36"
+    },
+    {
+      "date": "2023-03-04T00:00:00.000Z",
+      "opponent": "Tim Schultz",
+      "opponentSlug": "140168-tim-schultz",
+      "result": "loss",
+      "method": "sub",
+      "event": "Beatdown Promotions 3",
+      "eventSlug": "94613-beatdown-promotions-3",
+      "round": 2,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2022-10-15T00:00:00.000Z",
+      "opponent": "Jayden Binnie",
+      "opponentSlug": "180489-jayden-binnie",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Beatdown Promotions 2",
+      "eventSlug": "91760-beatdown-promotions-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-17T00:00:00.000Z",
+      "opponent": "Coby Porter",
+      "opponentSlug": "222516-coby-porter",
+      "result": "win",
+      "method": "sub",
+      "event": "Eternal MMA 70",
+      "eventSlug": "91666-eternal-mma-70",
+      "round": 1,
+      "timeInRound": "3:53"
+    },
+    {
+      "date": "2022-07-09T00:00:00.000Z",
+      "opponent": "Ryan Mortimer",
+      "opponentSlug": "20151-ryan-mortimer-dog",
+      "result": "win",
+      "method": "sub",
+      "event": "Beatdown Promotions 1",
+      "eventSlug": "88927-beatdown-promotions-1",
+      "round": 2,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2022-02-26T00:00:00.000Z",
+      "opponent": "Jack Lyons",
+      "opponentSlug": "232050-jack-lyons",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Demolition Fight Series 5",
+      "eventSlug": "84707-demolition-fight-series-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-18T00:00:00.000Z",
+      "opponent": "Niam Stephen",
+      "opponentSlug": "195966-niam-stephen",
+      "result": "win",
+      "method": "sub",
+      "event": "Superfight MMA 17",
+      "eventSlug": "79721-superfight-mma-17",
+      "round": 3,
+      "timeInRound": "0:46"
+    },
+    {
+      "date": "2021-03-12T00:00:00.000Z",
+      "opponent": "Jordan Thomas",
+      "opponentSlug": "160921-jordan-thomas",
+      "result": "loss",
+      "method": "sub",
+      "event": "Superfight MMA 16",
+      "eventSlug": "76999-superfight-mma-16",
+      "round": 4,
+      "timeInRound": "1:55"
+    },
+    {
+      "date": "2019-11-15T00:00:00.000Z",
+      "opponent": "Aidan Nowfel",
+      "opponentSlug": "155698-aiden-nowfel",
+      "result": "win",
+      "method": "tko",
+      "event": "Superfight MMA 14",
+      "eventSlug": "64076-superfight-mma-14",
+      "round": 4,
+      "timeInRound": "1:06"
+    },
+    {
+      "date": "2019-07-05T00:00:00.000Z",
+      "opponent": "Joshua Hughes",
+      "opponentSlug": "229233-joshua-hughes",
+      "result": "win",
+      "method": "other",
+      "event": "Superfight MMA 12",
+      "eventSlug": "61242-superfight-mma-12",
+      "round": 1,
+      "timeInRound": "1:59"
+    },
+    {
+      "date": "2019-05-03T00:00:00.000Z",
+      "opponent": "Lochlan Patterson",
+      "opponentSlug": "124549-lochlan-peterson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Superfight MMA 11",
+      "eventSlug": "59873-superfight-mma-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-01T00:00:00.000Z",
+      "opponent": "Daniel Mitchell",
+      "opponentSlug": "291057-daniel-mitchell",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Superfight MMA 10",
+      "eventSlug": "57791-superfight-mma-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-16T00:00:00.000Z",
+      "opponent": "Josh Waltisbuhl",
+      "opponentSlug": "178750-john-waltisbuhl",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Superfight MMA 9",
+      "eventSlug": "56158-superfight-mma-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-18T00:00:00.000Z",
+      "opponent": "Jesse Corcoran",
+      "opponentSlug": "178753-jesse-corcoran",
+      "result": "win",
+      "method": "tko",
+      "event": "Superfight MMA 7",
+      "eventSlug": "53211-superfight-mma-7",
+      "round": 1,
+      "timeInRound": "1:46"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:19:17.123Z"
+}

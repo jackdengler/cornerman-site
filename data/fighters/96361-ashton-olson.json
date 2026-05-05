@@ -1,0 +1,147 @@
+{
+  "slug": "96361-ashton-olson",
+  "name": "Ashton Olson",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 5,
+    "losses": 6,
+    "draws": 0
+  },
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1991-05-06",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/96361-ashton-olson",
+  "recentFights": [
+    {
+      "date": "2016-12-23T00:00:00.000Z",
+      "opponent": "David McKinney",
+      "opponentSlug": "86702-david-mckinney",
+      "result": "loss",
+      "method": "sub",
+      "event": "Ascendancy FC 12",
+      "eventSlug": "42943-ascendancy-fc-12",
+      "round": 2,
+      "timeInRound": "0:22"
+    },
+    {
+      "date": "2016-10-22T00:00:00.000Z",
+      "opponent": "Josh Thele",
+      "opponentSlug": "61827-josh-thele",
+      "result": "loss",
+      "method": "sub",
+      "event": "MCC 62",
+      "eventSlug": "41568-mcc-62-huskic-vs-deeds",
+      "round": 1,
+      "timeInRound": "2:52"
+    },
+    {
+      "date": "2016-03-26T00:00:00.000Z",
+      "opponent": "Santana Acosta",
+      "opponentSlug": "85224-santana-acosta",
+      "result": "loss",
+      "method": "other",
+      "event": "Laramar Fight Night 10",
+      "eventSlug": "38607-laramar-fight-night-10",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2016-02-27T00:00:00.000Z",
+      "opponent": "Mike Kissee",
+      "opponentSlug": "119177-mike-kissee",
+      "result": "win",
+      "method": "sub",
+      "event": "True Revelation MMA 29",
+      "eventSlug": "38102-true-revelation-mma-29",
+      "round": 1,
+      "timeInRound": "1:17"
+    },
+    {
+      "date": "2016-02-13T00:00:00.000Z",
+      "opponent": "Justin Van Est",
+      "opponentSlug": "95502-justin-van-est",
+      "result": "win",
+      "method": "sub",
+      "event": "Ascendancy FC 8",
+      "eventSlug": "37785-ascendancy-fc-8-howser-vs-muniz",
+      "round": 2,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2015-10-31T00:00:00.000Z",
+      "opponent": "Trent Capps",
+      "opponentSlug": "117115-trent-capps",
+      "result": "win",
+      "method": "sub",
+      "event": "Ascendancy FC 7",
+      "eventSlug": "36238-ascendancy-fc-7",
+      "round": 1,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2015-10-17T00:00:00.000Z",
+      "opponent": "Aaron Mitchell",
+      "opponentSlug": "67270-aaron-mitchell",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fight Night at the Laramar 9",
+      "eventSlug": "36133-fight-night-at-the-laramar-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-25T00:00:00.000Z",
+      "opponent": "Ian Jones",
+      "opponentSlug": "111834-ian-jones",
+      "result": "win",
+      "method": "sub",
+      "event": "Ascendancy FC 6",
+      "eventSlug": "34980-ascendancy-fc-6",
+      "round": 1,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2015-07-25T00:00:00.000Z",
+      "opponent": "Dallas Cady",
+      "opponentSlug": "98621-dallas-cady",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Night at the Laramar 8",
+      "eventSlug": "34120-fight-night-at-the-laramar-8",
+      "round": 1,
+      "timeInRound": "0:40"
+    },
+    {
+      "date": "2015-04-24T00:00:00.000Z",
+      "opponent": "Jay Fresh",
+      "opponentSlug": "84248-jay-fresh",
+      "result": "loss",
+      "method": "tko",
+      "event": "Ascendancy FC 5",
+      "eventSlug": "31934-ascendancy-fc-5",
+      "round": 1,
+      "timeInRound": "2:48"
+    },
+    {
+      "date": "2015-03-21T00:00:00.000Z",
+      "opponent": "Ty Mcleod",
+      "opponentSlug": "97852-ty-mcloed",
+      "result": "loss",
+      "method": "sub",
+      "event": "True Revelation MMA 24",
+      "eventSlug": "30983-true-revelation-mma-24",
+      "round": 1,
+      "timeInRound": "2:36"
+    }
+  ],
+  "lastVerified": "2026-04-18T09:06:25.984Z"
+}

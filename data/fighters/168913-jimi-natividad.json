@@ -1,0 +1,187 @@
+{
+  "slug": "168913-jimi-natividad",
+  "name": "Jimi Natividad",
+  "nickname": "Juggernaut",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1993-11-12",
+  "nationality": "Philippines",
+  "url": "https://www.tapology.com/fightcenter/fighters/168913-jimi-natividad",
+  "recentFights": [
+    {
+      "date": "2026-02-07T00:00:00.000Z",
+      "opponent": "Oscar Garcia Jr.",
+      "opponentSlug": "97746-oscar-garcia",
+      "result": "loss",
+      "method": "other",
+      "event": "RUF 66: MMA At Its Best",
+      "eventSlug": "136020-ruf-66-love-n-combat",
+      "round": 1,
+      "timeInRound": "0:29"
+    },
+    {
+      "date": "2025-03-22T00:00:00.000Z",
+      "opponent": "An Tuan Ho",
+      "opponentSlug": "196541-an-ho",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 204: Cunha vs. Freeman",
+      "eventSlug": "123068-lfa-204",
+      "round": 1,
+      "timeInRound": "0:16"
+    },
+    {
+      "date": "2024-10-06T00:00:00.000Z",
+      "opponent": "Sergio Plascencia",
+      "opponentSlug": "191578-sergio-plascencia",
+      "result": "loss",
+      "method": "sub",
+      "event": "Anthony Pettis FC 13",
+      "eventSlug": "115539-anthony-pettis-fc-13-indiana-fight-night-iv",
+      "round": 3,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2024-03-08T00:00:00.000Z",
+      "opponent": "Max Quinones",
+      "opponentSlug": "101600-max-quinones-hitman",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "CFFC 130: Galvan vs. Dorzhiev",
+      "eventSlug": "110089-cffc-130",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-03T00:00:00.000Z",
+      "opponent": "Ethan Melisano",
+      "opponentSlug": "42368-ethan-melisano",
+      "result": "win",
+      "method": "other",
+      "event": "CFFC 127: Kline vs. Cova",
+      "eventSlug": "106215-cffc-127",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2023-02-24T00:00:00.000Z",
+      "opponent": "Joe McCormick",
+      "opponentSlug": "98251-joe-mccormick",
+      "result": "loss",
+      "method": "tko",
+      "event": "Xtreme Fight Night 385",
+      "eventSlug": "97710-xtreme-fight-night-385",
+      "round": 1,
+      "timeInRound": "1:18"
+    },
+    {
+      "date": "2022-08-26T00:00:00.000Z",
+      "opponent": "Sampson Tabbytite",
+      "opponentSlug": "152444-sampson-tabbytite",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Xtreme Fight Night 382",
+      "eventSlug": "91479-xtreme-fight-night-382",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-22T00:00:00.000Z",
+      "opponent": "Miles McDonald",
+      "opponentSlug": "33399-miles-mcdonald",
+      "result": "win",
+      "method": "other",
+      "event": "Xtreme Fight Night 379",
+      "eventSlug": "88291-xtreme-fight-night-379",
+      "round": 2,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2021-04-09T00:00:00.000Z",
+      "opponent": "Raul Garcia Jr",
+      "opponentSlug": "137476-raul-garcia",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Xtreme Fight Night 370",
+      "eventSlug": "78905-xtreme-fight-night-370",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-13T00:00:00.000Z",
+      "opponent": "Zach Shambles",
+      "opponentSlug": "190220-zach-shambles",
+      "result": "win",
+      "method": "other",
+      "event": "Xtreme Fight Night 362",
+      "eventSlug": "62787-xtreme-fight-night-362",
+      "round": 1,
+      "timeInRound": "0:59"
+    },
+    {
+      "date": "2019-02-01T00:00:00.000Z",
+      "opponent": "Andrew Castellano",
+      "opponentSlug": "73385-andrew-castellano",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Xtreme Fight Night 356",
+      "eventSlug": "57555-xtreme-fight-night-356",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-29T00:00:00.000Z",
+      "opponent": "Mario Vasquez",
+      "opponentSlug": "234441-mario-vasquez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Xtreme Fight Night 349",
+      "eventSlug": "53833-xtreme-fight-league-349",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-02-02T00:00:00.000Z",
+      "opponent": "John Yannis",
+      "opponentSlug": "151617-john-yannies",
+      "result": "win",
+      "method": "other",
+      "event": "Xtreme Fight Night 346",
+      "eventSlug": "50017-xtreme-fight-night-346",
+      "round": 1,
+      "timeInRound": "1:56"
+    },
+    {
+      "date": "2017-12-08T00:00:00.000Z",
+      "opponent": "Cameron Veales",
+      "opponentSlug": "149782-cameron-veales",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Xtreme Fight Night 345",
+      "eventSlug": "49363-xtreme-fight-night-345",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-10-21T00:00:00.000Z",
+      "opponent": "Devin Long",
+      "opponentSlug": "168914-devin-long",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Xtreme Fight Night 344",
+      "eventSlug": "48272-xtreme-fight-night-344-usa-vs-mexico",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:30:50.669Z"
+}

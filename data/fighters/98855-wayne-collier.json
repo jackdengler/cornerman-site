@@ -1,0 +1,88 @@
+{
+  "slug": "98855-wayne-collier",
+  "name": "Wayne Collier",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1991-08-16",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/98855-wayne-collier",
+  "recentFights": [
+    {
+      "date": "2020-02-07T00:00:00.000Z",
+      "opponent": "John O'Brien",
+      "opponentSlug": "163195-john-obrien",
+      "result": "loss",
+      "method": "sub",
+      "event": "Utlimate Blue Corner Battles",
+      "eventSlug": "64575-utlimate-blue-corner-battles",
+      "round": 1,
+      "timeInRound": "0:39"
+    },
+    {
+      "date": "2017-07-07T00:00:00.000Z",
+      "opponent": "Johnny Eblen",
+      "opponentSlug": "140953-johnny-eblen-john",
+      "result": "loss",
+      "method": "other",
+      "event": "Shamrock FC 291",
+      "eventSlug": "45936-shamrock-fc-291",
+      "round": 1,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2016-02-27T00:00:00.000Z",
+      "opponent": "Chris Petty",
+      "opponentSlug": "119102-chris-petty",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage of Honor 67",
+      "eventSlug": "38347-cage-of-honor-67",
+      "round": 1,
+      "timeInRound": "1:51"
+    },
+    {
+      "date": "2015-02-28T00:00:00.000Z",
+      "opponent": "Raymond Gray",
+      "opponentSlug": "69429-raymond-gray",
+      "result": "loss",
+      "method": null,
+      "event": "Midwest Fight League",
+      "eventSlug": "30819-midwest-fight-league-17-capital-city-throwdown",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-01-16T00:00:00.000Z",
+      "opponent": "Kyle Kurtz",
+      "opponentSlug": "60587-kyle-kurtz",
+      "result": "loss",
+      "method": null,
+      "event": "Rumble Time Promotions",
+      "eventSlug": "30566-rumble-time-promotions-rage",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-12-28T00:00:00.000Z",
+      "opponent": "Joaquin Buckley",
+      "opponentSlug": "55022-joaquin-buckley",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:00:30.783Z"
+}

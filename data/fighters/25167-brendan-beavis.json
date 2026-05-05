@@ -1,0 +1,70 @@
+{
+  "slug": "25167-brendan-beavis",
+  "name": "Brendan Beavis",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": "1988-01-18",
+  "nationality": "Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/25167-brendan-beavis",
+  "recentFights": [
+    {
+      "date": "2011-10-15T00:00:00.000Z",
+      "opponent": "Guillaume Gagnon-Arsenault",
+      "opponentSlug": "24992-guillaume-gagnon-arsenault",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fightquest 19",
+      "eventSlug": "13306-fightquest-19",
+      "round": 1,
+      "timeInRound": "1:57"
+    },
+    {
+      "date": "2010-08-13T00:00:00.000Z",
+      "opponent": "Mandel Nallo",
+      "opponentSlug": "24751-mandell-nallo",
+      "result": "loss",
+      "method": "other",
+      "event": "Hybrid 6",
+      "eventSlug": "13667-hybrid-6",
+      "round": 1,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2010-05-22T00:00:00.000Z",
+      "opponent": "Paul Levac",
+      "opponentSlug": "26324-paul-levac",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hybrid 5",
+      "eventSlug": "13627-hybrid-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-05-01T00:00:00.000Z",
+      "opponent": "Andy Zamora",
+      "opponentSlug": "25734-andy-zamora",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fightquest 12",
+      "eventSlug": "14208-fightquest-12",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:08:24.473Z"
+}

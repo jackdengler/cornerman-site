@@ -1,0 +1,220 @@
+{
+  "slug": "234482-felipe-oliveira",
+  "name": "Felipe Oliveira",
+  "nickname": "Selvagem",
+  "aliases": [],
+  "recordPro": {
+    "wins": 12,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": 183,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1999-05-01",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/234482-felipe-oliveira",
+  "recentFights": [
+    {
+      "date": "2026-02-07T00:00:00.000Z",
+      "opponent": "Wallace Portela",
+      "opponentSlug": "135670-wallace-portela",
+      "result": "win",
+      "method": "other",
+      "event": "Arena Global 37",
+      "eventSlug": "138927-arena-global-37",
+      "round": 1,
+      "timeInRound": "2:57"
+    },
+    {
+      "date": "2025-11-15T00:00:00.000Z",
+      "opponent": "Emrah Sonmez",
+      "opponentSlug": "44847-emrah-sonmez",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Cage FS 18",
+      "eventSlug": "131080-cage-fs-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-05T00:00:00.000Z",
+      "opponent": "Marcelo Marques",
+      "opponentSlug": "137317-marcelo-marques",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 216: Silva vs. Bertolso",
+      "eventSlug": "130820-lfa-216",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-22T00:00:00.000Z",
+      "opponent": "Daniel Schordje",
+      "opponentSlug": "190268-daniel-schordje",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Cage FS 17",
+      "eventSlug": "121883-cage-fs-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-22T00:00:00.000Z",
+      "opponent": "Márcio Barbosa",
+      "opponentSlug": "126539-marcio-ticot",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 197: Kuziutina vs Guimarães",
+      "eventSlug": "117777-lfa-197",
+      "round": 1,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2024-03-23T00:00:00.000Z",
+      "opponent": "Caio Machado",
+      "opponentSlug": "61724-caio-machado",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 179: Neto vs. Antunes",
+      "eventSlug": "109364-legacy-fighting-alliance-179-lfa-179",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-02T00:00:00.000Z",
+      "opponent": "Luiz Henrique Oliveira",
+      "opponentSlug": "42227-luiz-henrique-pelezinho",
+      "result": "win",
+      "method": "other",
+      "event": "Arena Global 28",
+      "eventSlug": "106998-arena-global-28",
+      "round": 1,
+      "timeInRound": "0:55"
+    },
+    {
+      "date": "2023-11-10T00:00:00.000Z",
+      "opponent": "Andrei Carauș",
+      "opponentSlug": "298317-andriy-karaush",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Cage FS 14: Grad vs Marinho",
+      "eventSlug": "100560-cage-fs",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-15T00:00:00.000Z",
+      "opponent": "Luis Ortega",
+      "opponentSlug": "146696-luis-ortega-machin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Inka FC 37: Ortega vs. De Oliveira",
+      "eventSlug": "103475-inka-fc-37",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-04-15T00:00:00.000Z",
+      "opponent": "Ivanildo Rodrigues",
+      "opponentSlug": "383538-ivanildo-rodrigues-trator",
+      "result": "win",
+      "method": "sub",
+      "event": "Maximun Fight 3",
+      "eventSlug": "98273-maximun-fight-3",
+      "round": 1,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2022-04-16T00:00:00.000Z",
+      "opponent": "João Victor Campos",
+      "opponentSlug": "320823-joao-paulo-campos",
+      "result": "win",
+      "method": "tko",
+      "event": "Pentagon Combat 23",
+      "eventSlug": "88510-pentagon-combat-23",
+      "round": 2,
+      "timeInRound": "0:41"
+    },
+    {
+      "date": "2022-03-27T00:00:00.000Z",
+      "opponent": "Daniel Henrique Santos",
+      "opponentSlug": "154174-daniel-henrique-santos",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Jungle Fight 106",
+      "eventSlug": "87477-jungle-fight-106",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-19T00:00:00.000Z",
+      "opponent": "Leandro Camargo",
+      "opponentSlug": "190763-leandro-da-mata",
+      "result": "win",
+      "method": "other",
+      "event": "Gladiators Fight Night 4",
+      "eventSlug": "91844-gladiators-fight-night-4",
+      "round": 2,
+      "timeInRound": "2:21"
+    },
+    {
+      "date": "2021-08-07T00:00:00.000Z",
+      "opponent": "Breno Marinho",
+      "opponentSlug": "188732-breno-marinho-tubarao",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Arena Global 13",
+      "eventSlug": "80098-arena-global-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-07-26T00:00:00.000Z",
+      "opponent": "Wendel Almeida",
+      "opponentSlug": "203938-wendel-almeida",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shooto Brasil",
+      "eventSlug": "71130-shooto-brasil-solidariedade",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-23T00:00:00.000Z",
+      "opponent": "Marcos Novais",
+      "opponentSlug": "117429-marcos-novaes",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shooto Brasil 98",
+      "eventSlug": "64485-shooto-brasil-98",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-06T00:00:00.000Z",
+      "opponent": "Leonardo Santana",
+      "opponentSlug": "233332-leo-jason",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shooto Brasil 95",
+      "eventSlug": "62661-shooto-brasil-95",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-23T00:00:00.000Z",
+      "opponent": "Wagner Reis",
+      "opponentSlug": "181240-wagner-reis",
+      "result": "win",
+      "method": "sub",
+      "event": "Pentagon Combat 22",
+      "eventSlug": "60035-pentagon-combat-22-negao-vs-hyppolito",
+      "round": 2,
+      "timeInRound": "1:45"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:56:34.969Z"
+}

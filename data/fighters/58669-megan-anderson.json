@@ -1,0 +1,198 @@
+{
+  "slug": "58669-megan-anderson",
+  "name": "Megan Anderson",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 183,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1990-02-11",
+  "nationality": "Gold Coast, Queensland, Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/58669-megan-anderson",
+  "recentFights": [
+    {
+      "date": "2021-03-06T00:00:00.000Z",
+      "opponent": "Amanda Nunes",
+      "opponentSlug": "amanda-nunes-lioness-of-the-ring",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC 259: Błachowicz vs. Adesanya",
+      "eventSlug": "74079-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "2:03"
+    },
+    {
+      "date": "2020-02-29T00:00:00.000Z",
+      "opponent": "Norma Dumont",
+      "opponentSlug": "139271-norma-dumont-viana",
+      "result": "win",
+      "method": "other",
+      "event": "UFC on ESPN+ 27",
+      "eventSlug": "65142-ufc-on-espn-27",
+      "round": 1,
+      "timeInRound": "3:31"
+    },
+    {
+      "date": "2019-10-05T00:00:00.000Z",
+      "opponent": "Zarah Fairn",
+      "opponentSlug": "98694-zarah-fairn",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC 243: Whittaker vs. Adesanya",
+      "eventSlug": "60318-ufc-243",
+      "round": 1,
+      "timeInRound": "3:57"
+    },
+    {
+      "date": "2019-05-18T00:00:00.000Z",
+      "opponent": "Felicia Spencer",
+      "opponentSlug": "37314-felicia-spencer",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC on ESPN+ 10",
+      "eventSlug": "57509-ufc-on-espn-9",
+      "round": 1,
+      "timeInRound": "3:24"
+    },
+    {
+      "date": "2018-12-29T00:00:00.000Z",
+      "opponent": "Cat Zingano",
+      "opponentSlug": "cat-zingano-alpha",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 232: Jones vs. Gustafsson 2",
+      "eventSlug": "49923-ufc-232",
+      "round": 1,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2018-06-09T00:00:00.000Z",
+      "opponent": "Holly Holm",
+      "opponentSlug": "18698-holly-holm-hottie",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 225: Whittaker vs. Romero 2",
+      "eventSlug": "50751-ufc-225",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-01-14T00:00:00.000Z",
+      "opponent": "Charmaine Tweet",
+      "opponentSlug": "15188-charmaine-tweet-not-so-sweet",
+      "result": "win",
+      "method": "other",
+      "event": "Invicta FC 21",
+      "eventSlug": "42836-invicta-fc-21",
+      "round": 2,
+      "timeInRound": "2:05"
+    },
+    {
+      "date": "2016-07-29T00:00:00.000Z",
+      "opponent": "Peggy Morgan",
+      "opponentSlug": "20839-peggy-morgan",
+      "result": "win",
+      "method": "other",
+      "event": "Invicta FC 18",
+      "eventSlug": "39954-invicta-fc-18",
+      "round": 1,
+      "timeInRound": "4:09"
+    },
+    {
+      "date": "2016-05-07T00:00:00.000Z",
+      "opponent": "Amanda Bell",
+      "opponentSlug": "33220-amanda-bell",
+      "result": "win",
+      "method": "other",
+      "event": "Invicta FC 17",
+      "eventSlug": "38806-invicta-fc-17-evinger-vs-schneider",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2016-01-16T00:00:00.000Z",
+      "opponent": "Amber Leibrock",
+      "opponentSlug": "48869-amber-leibrock",
+      "result": "win",
+      "method": "other",
+      "event": "Invicta FC 15",
+      "eventSlug": "36958-invicta-fc-15-souza-vs-bennett",
+      "round": 3,
+      "timeInRound": "2:33"
+    },
+    {
+      "date": "2015-09-12T00:00:00.000Z",
+      "opponent": "Cindy Dandois",
+      "opponentSlug": "4847-cindy-dandois-battlecat",
+      "result": "loss",
+      "method": "sub",
+      "event": "Invicta FC 14",
+      "eventSlug": "34029-invicta-fc-14-souza-vs-grasso",
+      "round": 2,
+      "timeInRound": "2:41"
+    },
+    {
+      "date": "2014-12-06T00:00:00.000Z",
+      "opponent": "Zoie Shreiweis",
+      "opponentSlug": "58668-zoie-shreiweis",
+      "result": "win",
+      "method": "sub",
+      "event": "Roshambo MMA 4",
+      "eventSlug": "26756-roshambo-mma-4",
+      "round": 1,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2014-10-11T00:00:00.000Z",
+      "opponent": "Jodie Struzik",
+      "opponentSlug": "78193-jodie-struzik",
+      "result": "win",
+      "method": "sub",
+      "event": "Nitro MMA 12",
+      "eventSlug": "25458-nitro-mma-12",
+      "round": 2,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2014-07-26T00:00:00.000Z",
+      "opponent": "Kerry Barrett",
+      "opponentSlug": "37443-kerry-barrett",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Roshambo MMA 3",
+      "eventSlug": "23956-roshambo-mma-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-11-16T00:00:00.000Z",
+      "opponent": "Zoie Shreiweis",
+      "opponentSlug": "58668-zoie-shreiweis",
+      "result": "loss",
+      "method": "dec-majority",
+      "event": "Fightworld Cup 16",
+      "eventSlug": "21027-fightworld-cup-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-04-12T00:00:00.000Z",
+      "opponent": "Janay Harding",
+      "opponentSlug": "67815-janay-harding",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fightworld Cup 17",
+      "eventSlug": "22541-fightworld-cup-17",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:33:31.912Z"
+}

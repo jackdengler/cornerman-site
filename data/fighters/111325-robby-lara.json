@@ -1,0 +1,121 @@
+{
+  "slug": "111325-robby-lara",
+  "name": "Robby Lara",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/111325-robby-lara",
+  "recentFights": [
+    {
+      "date": "2022-03-12T00:00:00.000Z",
+      "opponent": "Josh Togo",
+      "opponentSlug": "69261-josh-togo",
+      "result": "loss",
+      "method": "other",
+      "event": "Urban Fight Night 29",
+      "eventSlug": "87428-urban-fight-night-29",
+      "round": 1,
+      "timeInRound": "2:17"
+    },
+    {
+      "date": "2019-09-06T00:00:00.000Z",
+      "opponent": "Byron Cowell",
+      "opponentSlug": "61631-byron-cowell",
+      "result": "win",
+      "method": "tko",
+      "event": "Superfight MMA 13",
+      "eventSlug": "62216-superfight-mma-13",
+      "round": 1,
+      "timeInRound": "4:37"
+    },
+    {
+      "date": "2019-03-29T00:00:00.000Z",
+      "opponent": "Jack Jenkins",
+      "opponentSlug": "134851-jack-jenkins",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Hex Fight Series 18",
+      "eventSlug": "58679-hex-fight-series-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-08T00:00:00.000Z",
+      "opponent": "Joshua Trambulo",
+      "opponentSlug": "128244-joshua-riley",
+      "result": "loss",
+      "method": "other",
+      "event": "Hex Fight Series 16",
+      "eventSlug": "55073-hex-fight-series",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2018-02-23T00:00:00.000Z",
+      "opponent": "Hussein Wasette",
+      "opponentSlug": "101851-haussain-wasette",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Superfight MMA 6",
+      "eventSlug": "51217-superfight-mma-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-28T00:00:00.000Z",
+      "opponent": "James Vandarakis",
+      "opponentSlug": "79559-james-vandarakis",
+      "result": "loss",
+      "method": "sub",
+      "event": "Superfight MMA 4",
+      "eventSlug": "44826-superfight-mma-4",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-03-12T00:00:00.000Z",
+      "opponent": "Brad Shortland",
+      "opponentSlug": "81105-brad-shortland",
+      "result": "loss",
+      "method": "other",
+      "event": "Urban Fight Night 6",
+      "eventSlug": "37946-urban-fight-night-6",
+      "round": 4,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-02-19T00:00:00.000Z",
+      "opponent": "Damian Duthiel",
+      "opponentSlug": "114747-damian-duthiell",
+      "result": "win",
+      "method": "tko",
+      "event": "Superfight MMA 2",
+      "eventSlug": "37930-superfight-mma-2",
+      "round": 1,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2015-08-21T00:00:00.000Z",
+      "opponent": "Trung Ho",
+      "opponentSlug": "111326-trung-ho",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Superfight MMA 1",
+      "eventSlug": "33990-superfight-mma-1",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:58:13.965Z"
+}

@@ -1,0 +1,176 @@
+{
+  "slug": "58610-sebastian-noriega",
+  "name": "Sebastian Noriega",
+  "nickname": "El Lobito",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Lima, Peru",
+  "url": "https://www.tapology.com/fightcenter/fighters/58610-sebastian-noriega",
+  "recentFights": [
+    {
+      "date": "2026-01-28T00:00:00.000Z",
+      "opponent": "Jhonatan Cieza",
+      "opponentSlug": "139560-jhonatan-cieza",
+      "result": "loss",
+      "method": "other",
+      "event": "Inka 53: Navarro vs. Alcino",
+      "eventSlug": "137216-inka-53",
+      "round": 3,
+      "timeInRound": "3:55"
+    },
+    {
+      "date": "2025-09-12T00:00:00.000Z",
+      "opponent": "Gennier Rojas",
+      "opponentSlug": "295585-gennier-rojas",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FFC 95: Pastran vs. Silva",
+      "eventSlug": "132589-ffc-95",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-08T00:00:00.000Z",
+      "opponent": "Anderson Labrin",
+      "opponentSlug": "327318-anderson-labrin",
+      "result": "win",
+      "method": "other",
+      "event": "WCC 07: Robles vs. Silva",
+      "eventSlug": "95072-wcc-07-noriega-vs-pineda",
+      "round": 1,
+      "timeInRound": "0:31"
+    },
+    {
+      "date": "2022-04-22T00:00:00.000Z",
+      "opponent": "Eduardo Loyaga",
+      "opponentSlug": "108593-eduardo-loyaga",
+      "result": "win",
+      "method": "dec-split",
+      "event": "WCC 05: Bandenay vs. Bastidas",
+      "eventSlug": "87685-wcc-05-bandenay-vs-bastidas",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-07T00:00:00.000Z",
+      "opponent": "Inor Valladares",
+      "opponentSlug": "160992-inor-valladares-pettis",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "FFC 35: Tubarao vs. Zarauz",
+      "eventSlug": "55617-ffc-35-tubarao-vs-zarauz",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-19T00:00:00.000Z",
+      "opponent": "Diego Martinez",
+      "opponentSlug": "150309-diego-martinez",
+      "result": "win",
+      "method": "other",
+      "event": "FFC 34: Mora vs. Diaz",
+      "eventSlug": "54383-ffc-34",
+      "round": 2,
+      "timeInRound": "3:40"
+    },
+    {
+      "date": "2018-07-18T00:00:00.000Z",
+      "opponent": "Adrian Luna Martinetti",
+      "opponentSlug": "139620-juan-adrian-luna",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "FFC 33: Iwasaki vs. Tubarao",
+      "eventSlug": "53656-ffc-33-iwasaki-vs-basurto",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-30T00:00:00.000Z",
+      "opponent": "Elder Olivera",
+      "opponentSlug": "161521-elder-olivera",
+      "result": null,
+      "method": "other",
+      "event": "TFC 3",
+      "eventSlug": "47290-tfc-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-08T00:00:00.000Z",
+      "opponent": "Rodrigo Vera",
+      "opponentSlug": "94593-rodrigo-vera",
+      "result": "loss",
+      "method": "other",
+      "event": "Dojo Fights 1",
+      "eventSlug": "43275-dojo-fights-1rst-edition",
+      "round": 1,
+      "timeInRound": "1:41"
+    },
+    {
+      "date": "2016-09-14T00:00:00.000Z",
+      "opponent": "Luis De La Puente",
+      "opponentSlug": "81895-luis-de-la-puente-el-lobo",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fusion FC 22",
+      "eventSlug": "37857-fusion-fc-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-05-05T00:00:00.000Z",
+      "opponent": "Hector Huamani",
+      "opponentSlug": "56405-hector-huamani",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fusion FC 14",
+      "eventSlug": "32014-fusion-fc-14",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-08-30T00:00:00.000Z",
+      "opponent": "Alexis Ramos",
+      "opponentSlug": "55261-alexis-ramos-perrito-sarnoso",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Inka FC: Warriors",
+      "eventSlug": "25514-inka-fc-27",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-04-17T00:00:00.000Z",
+      "opponent": "Raul Solis",
+      "opponentSlug": "77555-raul-solis",
+      "result": "win",
+      "method": "sub",
+      "event": "Mechazas Show 1",
+      "eventSlug": "35682-mechazas-show",
+      "round": 1,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2013-11-29T00:00:00.000Z",
+      "opponent": "Martin Villareal",
+      "opponentSlug": "55254-martin-villareal",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Peru FC 15",
+      "eventSlug": "21183-peru-fc-15",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:37:11.393Z"
+}

@@ -1,0 +1,220 @@
+{
+  "slug": "14600-Myles-Price",
+  "name": "Myles Price",
+  "nickname": "Thundercat",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 10,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 185,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1988-05-23",
+  "nationality": "Ireland",
+  "url": "https://www.tapology.com/fightcenter/fighters/14600-Myles-Price",
+  "recentFights": [
+    {
+      "date": "2022-08-20T00:00:00.000Z",
+      "opponent": "Marcin Held",
+      "opponentSlug": "marcin-held",
+      "result": "loss",
+      "method": "sub",
+      "event": "PFL 9: 2022 Playoffs",
+      "eventSlug": "87840-pfl-2022-9-playoffs",
+      "round": 2,
+      "timeInRound": "2:37"
+    },
+    {
+      "date": "2022-06-17T00:00:00.000Z",
+      "opponent": "Jeremy Stephens",
+      "opponentSlug": "jeremy-stephens-lil-heathen",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "PFL 4: 2022 Regular Season",
+      "eventSlug": "87835-pfl-2022-4-regular-season",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-06T00:00:00.000Z",
+      "opponent": "Anthony Pettis",
+      "opponentSlug": "anthony-pettis-showtime",
+      "result": "loss",
+      "method": "sub",
+      "event": "PFL 3: 2022 Regular Season",
+      "eventSlug": "87834-pfl-2022-3-regular-season",
+      "round": 1,
+      "timeInRound": "4:17"
+    },
+    {
+      "date": "2019-02-23T00:00:00.000Z",
+      "opponent": "Peter Queally",
+      "opponentSlug": "21195-peter-quelly",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Bellator 217",
+      "eventSlug": "57114-bellator-218-gallagher-vs-graham",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-09T00:00:00.000Z",
+      "opponent": "Norman Parke",
+      "opponentSlug": "8033-norman-parke-stormin",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Brave CF 13",
+      "eventSlug": "53326-brave-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-12T00:00:00.000Z",
+      "opponent": "Phil Raeburn",
+      "opponentSlug": "5073-phil-raeburn",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "BAMMA 35: Lohore Vs. Pascu",
+      "eventSlug": "51921-bamma-35",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-02-27T00:00:00.000Z",
+      "opponent": "Mario Saeed",
+      "opponentSlug": "29261-mario-saeed",
+      "result": "win",
+      "method": "other",
+      "event": "BAMMA 24: Kone Vs. Phillips",
+      "eventSlug": "35497-bamma-24-ireland-vs-england",
+      "round": 2,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2015-09-19T00:00:00.000Z",
+      "opponent": "Kane Mousah",
+      "opponentSlug": "65802-kane-mousah-the-danger",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "BAMMA 22: Duquesnoy Vs. Loughnane",
+      "eventSlug": "33312-bamma-22-duquesnoy-vs-loughnane",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-12-31T00:00:00.000Z",
+      "opponent": "Sean Carter",
+      "opponentSlug": "21206-sean-carter",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage Warriors 63",
+      "eventSlug": "20493-cage-warriors-tba",
+      "round": 1,
+      "timeInRound": "4:03"
+    },
+    {
+      "date": "2013-11-23T00:00:00.000Z",
+      "opponent": "Kieran Davern",
+      "opponentSlug": "21477-kieran-davern",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-02-23T00:00:00.000Z",
+      "opponent": "Ali Maclean",
+      "opponentSlug": "12659-ali-maclean",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Contender 16",
+      "eventSlug": "17343-cage-contender-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-08-27T00:00:00.000Z",
+      "opponent": "Chris Stringer",
+      "opponentSlug": "4201-chris-stringer",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-07-16T00:00:00.000Z",
+      "opponent": "Colin Fletcher",
+      "opponentSlug": "16589-colin-fletcher",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-04-16T00:00:00.000Z",
+      "opponent": "Stephen Coll",
+      "opponentSlug": "16590-stephen-coll",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-07-24T00:00:00.000Z",
+      "opponent": "Martin Begley",
+      "opponentSlug": "8028-martin-begley-the-heat",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-02-05T00:00:00.000Z",
+      "opponent": "Norman Parke",
+      "opponentSlug": "8033-norman-parke-stormin",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-11-27T00:00:00.000Z",
+      "opponent": "Darin Hughes",
+      "opponentSlug": "12668-darin-hughes",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-09-18T00:00:00.000Z",
+      "opponent": "Michael Doyle",
+      "opponentSlug": "16592-michael-doyle",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:00:42.204Z"
+}

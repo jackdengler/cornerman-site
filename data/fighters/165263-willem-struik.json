@@ -1,0 +1,110 @@
+{
+  "slug": "165263-willem-struik",
+  "name": "Willem Struik",
+  "nickname": "Dirty",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1995-03-30",
+  "nationality": "Netherlands",
+  "url": "https://www.tapology.com/fightcenter/fighters/165263-willem-struik",
+  "recentFights": [
+    {
+      "date": "2019-06-29T00:00:00.000Z",
+      "opponent": "Ruud Vernooij",
+      "opponentSlug": "84120-ruud-vernooij",
+      "result": "loss",
+      "method": "other",
+      "event": "Fight Night Meppen",
+      "eventSlug": "61745-fight-night-meppen",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-02-23T00:00:00.000Z",
+      "opponent": "Quentin Domingos",
+      "opponentSlug": "181123-quentin-domingos-ruskov",
+      "result": "loss",
+      "method": "dq",
+      "event": "Battle Arena",
+      "eventSlug": "63481-battle-arena-2019",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-02T00:00:00.000Z",
+      "opponent": "Gokhan Saricam",
+      "opponentSlug": "203358-gokhan-saricam",
+      "result": "loss",
+      "method": "other",
+      "event": "Fight Club Den Haag",
+      "eventSlug": "56393-fight-club-den-haag-oldskool-heroes",
+      "round": 2,
+      "timeInRound": "3:17"
+    },
+    {
+      "date": "2018-10-06T00:00:00.000Z",
+      "opponent": "Aleksandar Aleksic",
+      "opponentSlug": "163215-aleksandar-aleksic",
+      "result": "win",
+      "method": "other",
+      "event": "Battle Events Apeldoorn",
+      "eventSlug": "55851-battle-events-apeldoorn",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-10T00:00:00.000Z",
+      "opponent": "Mindaugas Gerve",
+      "opponentSlug": "119005-mindaugas-gerve",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "HIT Fighting Championship 5",
+      "eventSlug": "51034-hit-fighting-championship-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-10-21T00:00:00.000Z",
+      "opponent": "Luke Morton",
+      "opponentSlug": "121228-luke-morton",
+      "result": "win",
+      "method": "tko",
+      "event": "HIT Fighting Championship 4",
+      "eventSlug": "46921-hit-fighting-championship-4",
+      "round": 1,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2017-09-24T00:00:00.000Z",
+      "opponent": "Jan Lysak",
+      "opponentSlug": "101098-jan-lysak",
+      "result": "win",
+      "method": "tko",
+      "event": "Fight Club Den Haag",
+      "eventSlug": "46916-fightclub-den-haag-on-tour",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-27T00:00:00.000Z",
+      "opponent": "Ruud Vernooij",
+      "opponentSlug": "84120-ruud-vernooij",
+      "result": "loss",
+      "method": "other",
+      "event": "Fight Club Den Haag",
+      "eventSlug": "43091-fight-club-den-haag",
+      "round": 2,
+      "timeInRound": "5:00"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:59:59.375Z"
+}

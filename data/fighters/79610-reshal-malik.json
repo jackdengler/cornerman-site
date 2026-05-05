@@ -1,0 +1,242 @@
+{
+  "slug": "79610-reshal-malik",
+  "name": "Reshal Malik",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 6,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1988-01-14",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/79610-reshal-malik",
+  "recentFights": [
+    {
+      "date": "2026-03-21T00:00:00.000Z",
+      "opponent": "Sam Paneitz",
+      "opponentSlug": "138444-sam-paneitz",
+      "result": "loss",
+      "method": "other",
+      "event": "Ignite Fights 111",
+      "eventSlug": "136130-ignite-fights-111",
+      "round": 2,
+      "timeInRound": "3:47"
+    },
+    {
+      "date": "2025-08-16T00:00:00.000Z",
+      "opponent": "Victor Santos",
+      "opponentSlug": "281082-victor-santos-diamond",
+      "result": "loss",
+      "method": "other",
+      "event": "Ignite Fights 109",
+      "eventSlug": "127306-ignite-fights-109",
+      "round": 1,
+      "timeInRound": "4:52"
+    },
+    {
+      "date": "2024-11-02T00:00:00.000Z",
+      "opponent": "Edwin Jimenez",
+      "opponentSlug": "209713-edwin-jimenez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Mecca 23",
+      "eventSlug": "112724-mecca-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-29T00:00:00.000Z",
+      "opponent": "Delfino Benitez",
+      "opponentSlug": "49532-delfino-benitez",
+      "result": "win",
+      "method": "sub",
+      "event": "Mecca 22",
+      "eventSlug": "110075-mecca-22",
+      "round": 1,
+      "timeInRound": "3:55"
+    },
+    {
+      "date": "2022-09-16T00:00:00.000Z",
+      "opponent": "Devon Lozej",
+      "opponentSlug": "205775-devon-lozej",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 142: Amorim vs. Nichols",
+      "eventSlug": "92238-lfa-142-amorim-vs-nichols",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-15T00:00:00.000Z",
+      "opponent": "Kyles Vang",
+      "opponentSlug": "133767-kyles-vang",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 129: Petersen vs. Cortes-Acosta",
+      "eventSlug": "87693-lfa-129-petersen-vs-cortes-acosta",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-24T00:00:00.000Z",
+      "opponent": "Zach Vaci",
+      "opponentSlug": "137241-zackary-vaci",
+      "result": "loss",
+      "method": "tko",
+      "event": "LFA 115: Silveira vs. Cummins",
+      "eventSlug": "82167-lfa-115-silveira-vs-cummins",
+      "round": 1,
+      "timeInRound": "2:41"
+    },
+    {
+      "date": "2019-06-08T00:00:00.000Z",
+      "opponent": "Jesse Wannemacher",
+      "opponentSlug": "20133-jesse-wannemacher",
+      "result": "win",
+      "method": "sub",
+      "event": "North Star Combat 11",
+      "eventSlug": "59386-north-star-combat-11",
+      "round": 2,
+      "timeInRound": "4:08"
+    },
+    {
+      "date": "2018-09-02T00:00:00.000Z",
+      "opponent": "Devin Cowan",
+      "opponentSlug": "44315-devin-cowan",
+      "result": "loss",
+      "method": "other",
+      "event": "Fury FC 26",
+      "eventSlug": "54437-fury-fc-26",
+      "round": 2,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2018-07-20T00:00:00.000Z",
+      "opponent": "Ruben Martinez Jr",
+      "opponentSlug": "18173-ruben-martinez-rapid",
+      "result": "win",
+      "method": "sub",
+      "event": "Fury FC 25",
+      "eventSlug": "54439-fury-fc-25",
+      "round": 1,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2018-05-25T00:00:00.000Z",
+      "opponent": "Robert Casper",
+      "opponentSlug": "75832-robert-casper-the-ghostman",
+      "result": "win",
+      "method": "sub",
+      "event": "Fury FC 24",
+      "eventSlug": "52942-fury-fc-24",
+      "round": 1,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2017-09-29T00:00:00.000Z",
+      "opponent": "Shawn Solis",
+      "opponentSlug": "113488-shawn-solis",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fury FC 19",
+      "eventSlug": "47934-fury-fc-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-22T00:00:00.000Z",
+      "opponent": "Robert Henson",
+      "opponentSlug": "48261-robert-henson",
+      "result": "draw",
+      "method": "dec-split",
+      "event": "Fury FC 18",
+      "eventSlug": "47002-fury-fc-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-17T00:00:00.000Z",
+      "opponent": "Jose Solis",
+      "opponentSlug": "30402-jose-solis",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Combat 27",
+      "eventSlug": "43139-cage-combat-27",
+      "round": 2,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2016-11-04T00:00:00.000Z",
+      "opponent": "Darius Gray",
+      "opponentSlug": "54897-darius-gray",
+      "result": "win",
+      "method": "sub",
+      "event": "Fury FC 13",
+      "eventSlug": "42425-fury-fc-13",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-08-06T00:00:00.000Z",
+      "opponent": "Luis De Leon",
+      "opponentSlug": "33893-luis-deleon",
+      "result": "win",
+      "method": "tko",
+      "event": "Cage Combat 25",
+      "eventSlug": "40896-cage-combat-25",
+      "round": 1,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2015-12-19T00:00:00.000Z",
+      "opponent": "Hector Renoj",
+      "opponentSlug": "76078-hector-renoj",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Combat 22",
+      "eventSlug": "37036-cage-combat-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-13T00:00:00.000Z",
+      "opponent": "Michael Lawson",
+      "opponentSlug": "94106-michael-lawson",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Combat 19",
+      "eventSlug": "30611-cage-combat-19",
+      "round": 2,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2014-12-21T00:00:00.000Z",
+      "opponent": "Dequette Reed",
+      "opponentSlug": "80762-dequette-reed",
+      "result": "loss",
+      "method": "tko",
+      "event": "Cage Combat 18",
+      "eventSlug": "28510-cage-combat-18",
+      "round": 1,
+      "timeInRound": "0:33"
+    },
+    {
+      "date": "2014-09-27T00:00:00.000Z",
+      "opponent": "Josh Rodriguez",
+      "opponentSlug": "79609-josh-rodriguez",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Combat 16",
+      "eventSlug": "26573-cage-combat-16",
+      "round": 1,
+      "timeInRound": "2:43"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:36:14.794Z"
+}

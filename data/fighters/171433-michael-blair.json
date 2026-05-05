@@ -1,0 +1,154 @@
+{
+  "slug": "171433-michael-blair",
+  "name": "Michael Blair",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1997-10-24",
+  "nationality": "Scotland",
+  "url": "https://www.tapology.com/fightcenter/fighters/171433-michael-blair",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Ermil Xhaferi",
+      "opponentSlug": "202600-ermil-xhaferi",
+      "result": null,
+      "method": "other",
+      "event": "Cage Warriors 205",
+      "eventSlug": "138938-cage-warriors-205",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-13T00:00:00.000Z",
+      "opponent": "Grant Ogborne",
+      "opponentSlug": "197967-grant-ogborne",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 193",
+      "eventSlug": "129013-cage-warriors-193",
+      "round": 2,
+      "timeInRound": "4:21"
+    },
+    {
+      "date": "2025-04-19T00:00:00.000Z",
+      "opponent": "Mathias Poiron",
+      "opponentSlug": "306896-mathias-poiron",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 187",
+      "eventSlug": "120832-cage-warriors-187",
+      "round": 2,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2024-09-07T00:00:00.000Z",
+      "opponent": "Kye Stevens",
+      "opponentSlug": "169618-kye-stevens",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 176",
+      "eventSlug": "112909-cage-warriors",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-20T00:00:00.000Z",
+      "opponent": "Dec Dean",
+      "opponentSlug": "164586-dec-dean",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 171",
+      "eventSlug": "108293-cage-warriors-170",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-11T00:00:00.000Z",
+      "opponent": "Tariq Pell",
+      "opponentSlug": "133882-tariq-pell",
+      "result": "loss",
+      "method": "other",
+      "event": "Cage Warriors 163",
+      "eventSlug": "99934-cage-warriors",
+      "round": 1,
+      "timeInRound": "0:22"
+    },
+    {
+      "date": "2022-08-27T00:00:00.000Z",
+      "opponent": "Thomas Hepburn",
+      "opponentSlug": "49536-thomas-hepburn",
+      "result": "win",
+      "method": "other",
+      "event": "Holytown Havoc 2",
+      "eventSlug": "92559-holytown-havoc-2",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-27T00:00:00.000Z",
+      "opponent": "Darren Landsdale",
+      "opponentSlug": "395656-darren-landsdale",
+      "result": "win",
+      "method": "other",
+      "event": "Forza Fighting Championship 9",
+      "eventSlug": "88865-forza-fighting-championship-9",
+      "round": 1,
+      "timeInRound": "0:24"
+    },
+    {
+      "date": "2021-08-28T00:00:00.000Z",
+      "opponent": "Mark Ewen",
+      "opponentSlug": "126749-mark-ewen",
+      "result": "loss",
+      "method": "tko",
+      "event": "Holytown Havoc 1",
+      "eventSlug": "82344-holytown-havoc-bungard-vs-garmendia",
+      "round": 2,
+      "timeInRound": "2:03"
+    },
+    {
+      "date": "2020-08-22T00:00:00.000Z",
+      "opponent": "Saqib Khan",
+      "opponentSlug": "115803-saqib-khan",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Celtic Gladiator 27",
+      "eventSlug": "71592-celtic-gladiator",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-12T00:00:00.000Z",
+      "opponent": "Kieran O’Shea",
+      "opponentSlug": "154869-kieran-oshea",
+      "result": "win",
+      "method": "tko",
+      "event": "Shogun MMA 3",
+      "eventSlug": "63259-shogun-mma-3",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-08-18T00:00:00.000Z",
+      "opponent": "Patryk Krzak",
+      "opponentSlug": "165059-patryk-krzak",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMA Total Combat 77",
+      "eventSlug": "51100-mma-total-combat-77",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:05:38.328Z"
+}

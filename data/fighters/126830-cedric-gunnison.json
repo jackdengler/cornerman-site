@@ -1,0 +1,209 @@
+{
+  "slug": "126830-cedric-gunnison",
+  "name": "Cedric Gunnison",
+  "nickname": "The Gunman",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 178,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1994-12-20",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/126830-cedric-gunnison",
+  "recentFights": [
+    {
+      "date": "2024-04-26T00:00:00.000Z",
+      "opponent": "Nikita Kulshin",
+      "opponentSlug": "178301-nikita-kulshin",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 182: McKee vs. Hernandez",
+      "eventSlug": "110761-lfa-182",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-10-13T00:00:00.000Z",
+      "opponent": "Julio Cesar Chaves",
+      "opponentSlug": "79651-julio-cesar-chaves",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CFFC 126: Alvidrez vs. Rentz",
+      "eventSlug": "105018-cffc-126",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-20T00:00:00.000Z",
+      "opponent": "Robert Watley",
+      "opponentSlug": "79470-robert-watley",
+      "result": "loss",
+      "method": "dec-majority",
+      "event": "CFFC 122: Gunnison vs. Watley",
+      "eventSlug": "102517-cffc-122-gunnison-vs-watley",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-31T00:00:00.000Z",
+      "opponent": "Zulkarnaiyn Kamchybekov",
+      "opponentSlug": "134516-zulkarnaiyn-kamchybekov",
+      "result": "win",
+      "method": "dec-split",
+      "event": "CFFC 117: Kamchybekov vs. Gunnison",
+      "eventSlug": "97942-cffc-117-kamchybekov-vs-gunnison",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-09T00:00:00.000Z",
+      "opponent": "Lenny Rufati",
+      "opponentSlug": "142303-lirim-rufati",
+      "result": "win",
+      "method": "other",
+      "event": "Ring of Combat 77",
+      "eventSlug": "90226-ring-of-combat-77",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2022-05-20T00:00:00.000Z",
+      "opponent": "Nick Rodrigues",
+      "opponentSlug": "91219-nich-rodrigues",
+      "result": "win",
+      "method": "tko",
+      "event": "Ring of Combat 76",
+      "eventSlug": "87796-ring-of-combat-76",
+      "round": 3,
+      "timeInRound": "2:23"
+    },
+    {
+      "date": "2021-10-22T00:00:00.000Z",
+      "opponent": "Armando Gjetja",
+      "opponentSlug": "218747-armando-gjetji",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ring of Combat 74",
+      "eventSlug": "82748-ring-of-combat-74",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-12T00:00:00.000Z",
+      "opponent": "Charlie Campbell",
+      "opponentSlug": "179091-charlie-campbell",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "CFFC 93: Huckbody vs. Jeffery",
+      "eventSlug": "76659-cffc-93",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-12-17T00:00:00.000Z",
+      "opponent": "Nick Olson",
+      "opponentSlug": "54532-nick-olson",
+      "result": "win",
+      "method": "sub",
+      "event": "CFFC 90: Huckbody vs. Adams",
+      "eventSlug": "74816-cffc-90",
+      "round": 2,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2019-10-19T00:00:00.000Z",
+      "opponent": "Will Worley",
+      "opponentSlug": "102437-will-worley",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Night Challenge",
+      "eventSlug": "62393-fight-night-challenge",
+      "round": 1,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2019-01-26T00:00:00.000Z",
+      "opponent": "Brock Roderick",
+      "opponentSlug": "80779-brock-roderick",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cowboy Fight Series 1",
+      "eventSlug": "56640-cowboy-fight-series-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-08-25T00:00:00.000Z",
+      "opponent": "Chamy Delva",
+      "opponentSlug": "124759-sham-delva",
+      "result": "win",
+      "method": "other",
+      "event": "American Fight League 2",
+      "eventSlug": "54529-american-fight-league-2",
+      "round": 2,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2018-03-03T00:00:00.000Z",
+      "opponent": "Leonard Poe",
+      "opponentSlug": "108591-leonard-poe",
+      "result": "win",
+      "method": "sub",
+      "event": "Cagezilla FC 50",
+      "eventSlug": "51186-cagezilla-fc-50",
+      "round": 1,
+      "timeInRound": "2:19"
+    },
+    {
+      "date": "2017-11-18T00:00:00.000Z",
+      "opponent": "Shawn Brooks",
+      "opponentSlug": "102633-shawn-brooks",
+      "result": "win",
+      "method": "other",
+      "event": "Cagezilla FC 49",
+      "eventSlug": "48782-cagezilla-fc-49",
+      "round": 1,
+      "timeInRound": "0:21"
+    },
+    {
+      "date": "2017-06-10T00:00:00.000Z",
+      "opponent": "Mike Tipton",
+      "opponentSlug": "126826-mike-tipton",
+      "result": "win",
+      "method": "sub",
+      "event": "Battle FC: Battle at the Fairgrounds",
+      "eventSlug": "46132-battle-fc-barn-brawl",
+      "round": 1,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2016-09-17T00:00:00.000Z",
+      "opponent": "Richard Spinelli",
+      "opponentSlug": "140140-richard-spinelli",
+      "result": "win",
+      "method": "other",
+      "event": "Mix It Up Sports",
+      "eventSlug": "41762-mix-it-up-sports-war-zone",
+      "round": 1,
+      "timeInRound": "2:04"
+    },
+    {
+      "date": "2016-02-27T00:00:00.000Z",
+      "opponent": "Colin Moore",
+      "opponentSlug": "126832-colin-moore",
+      "result": "win",
+      "method": "other",
+      "event": "Battle FC: MMA Marine Brawl",
+      "eventSlug": "38105-battle-fc",
+      "round": 1,
+      "timeInRound": "1:50"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:38:38.953Z"
+}

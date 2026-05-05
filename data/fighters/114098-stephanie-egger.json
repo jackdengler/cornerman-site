@@ -1,0 +1,176 @@
+{
+  "slug": "114098-stephanie-egger",
+  "name": "Stephanie Egger",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 171,
+  "reachCm": 173,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1988-08-12",
+  "nationality": "Switzerland",
+  "url": "https://www.tapology.com/fightcenter/fighters/114098-stephanie-egger",
+  "recentFights": [
+    {
+      "date": "2026-03-07T00:00:00.000Z",
+      "opponent": "Veronika Smolková",
+      "opponentSlug": "293817-verinika-smolkova",
+      "result": "loss",
+      "method": "other",
+      "event": "OKTAGON 85: Severino vs. Kakhorov",
+      "eventSlug": "135740-oktagon-85",
+      "round": 1,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2023-12-09T00:00:00.000Z",
+      "opponent": "Luana Santos",
+      "opponentSlug": "223129-luana-santos",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "105194-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-04-29T00:00:00.000Z",
+      "opponent": "Irina Alekseeva",
+      "opponentSlug": "213675-irina-alekseeva",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "97740-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "2:11"
+    },
+    {
+      "date": "2022-09-03T00:00:00.000Z",
+      "opponent": "Ailín Pérez",
+      "opponentSlug": "143238-ailin-luciana-perez",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "88967-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "4:54"
+    },
+    {
+      "date": "2022-08-06T00:00:00.000Z",
+      "opponent": "Mayra Bueno Silva",
+      "opponentSlug": "140732-mayra-bueno-silva-sheetara",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "89111-ufc-fight-night-santos-vs-hill",
+      "round": 1,
+      "timeInRound": "1:17"
+    },
+    {
+      "date": "2022-02-19T00:00:00.000Z",
+      "opponent": "Jessica-Rose Clark",
+      "opponentSlug": "41689-jessy-rose",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "83406-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "3:44"
+    },
+    {
+      "date": "2021-10-02T00:00:00.000Z",
+      "opponent": "Shanna Young",
+      "opponentSlug": "58605-shanna-young",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "79693-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2020-10-10T00:00:00.000Z",
+      "opponent": "Tracy Cortez",
+      "opponentSlug": "63711-tracy-cortez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "71622-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-05T00:00:00.000Z",
+      "opponent": "Cinja Kiefer",
+      "opponentSlug": "79759-cinja-kiefer",
+      "result": "win",
+      "method": "sub",
+      "event": "Buddy MMA Clash 3",
+      "eventSlug": "72804-buddy-mma-clash-3",
+      "round": 1,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2019-07-28T00:00:00.000Z",
+      "opponent": "Reina Miura",
+      "opponentSlug": "140565-king-reina",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "RIZIN 17",
+      "eventSlug": "60816-rizin-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-31T00:00:00.000Z",
+      "opponent": "Eeva Siiskonen",
+      "opponentSlug": "38505-eeva-siiskonen",
+      "result": "win",
+      "method": "tko",
+      "event": "Buddy MMA Clash 2",
+      "eventSlug": "52171-buddy-mma-clash-2",
+      "round": 1,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2016-11-18T00:00:00.000Z",
+      "opponent": "Alexa Conners",
+      "opponentSlug": "45501-alexa-conners",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Invicta FC 20",
+      "eventSlug": "42159-invicta-fc-20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-04T00:00:00.000Z",
+      "opponent": "Mara Romero Borella",
+      "opponentSlug": "98890-mara-romero-borella",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-19T00:00:00.000Z",
+      "opponent": "Judith Ruis",
+      "opponentSlug": "114096-judith-ruis",
+      "result": "win",
+      "method": "sub",
+      "event": "Respect FC: Amazons 1",
+      "eventSlug": "32814-respect-fc-13-amazons",
+      "round": 1,
+      "timeInRound": "1:30"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:54:20.676Z"
+}

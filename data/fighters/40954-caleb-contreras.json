@@ -1,0 +1,132 @@
+{
+  "slug": "40954-caleb-contreras",
+  "name": "Caleb Contreras",
+  "nickname": "The Carrot",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1993-04-11",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/40954-caleb-contreras",
+  "recentFights": [
+    {
+      "date": "2025-10-25T00:00:00.000Z",
+      "opponent": "Renato Canuto",
+      "opponentSlug": "208794-renato-canuto",
+      "result": "loss",
+      "method": "other",
+      "event": "Tuff-N-Uff 149",
+      "eventSlug": "132087-tuff-n-uff-149",
+      "round": 1,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2025-03-22T00:00:00.000Z",
+      "opponent": "Quintin Richards",
+      "opponentSlug": "292164-quintin-richards",
+      "result": "loss",
+      "method": "sub",
+      "event": "Carnage Fight Series 1",
+      "eventSlug": "123569-carnage-fight-series-5",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2021-10-22T00:00:00.000Z",
+      "opponent": "John Caldone",
+      "opponentSlug": "224704-john-calderone",
+      "result": "loss",
+      "method": "other",
+      "event": "Ring of Combat 74",
+      "eventSlug": "82748-ring-of-combat-74",
+      "round": 2,
+      "timeInRound": "4:45"
+    },
+    {
+      "date": "2015-11-14T00:00:00.000Z",
+      "opponent": "Samson Phommabout",
+      "opponentSlug": "46265-samson-phommabout",
+      "result": "win",
+      "method": "sub",
+      "event": "SteelFist Fight Night 38",
+      "eventSlug": "35840-steelfist-fight-night-38-elimination",
+      "round": 1,
+      "timeInRound": "3:06"
+    },
+    {
+      "date": "2015-06-27T00:00:00.000Z",
+      "opponent": "Derrick Brown",
+      "opponentSlug": "53652-derrick-brown",
+      "result": "win",
+      "method": "sub",
+      "event": "Tuff-N-Uff",
+      "eventSlug": "33436-tuff-n-uff",
+      "round": 1,
+      "timeInRound": "2:05"
+    },
+    {
+      "date": "2015-05-15T00:00:00.000Z",
+      "opponent": "John Alvarado",
+      "opponentSlug": "33603-john-alvarado",
+      "result": "win",
+      "method": "tko",
+      "event": "Tuff-N-Uff: Festibrawl",
+      "eventSlug": "32776-tuff-n-uff-festibrawl",
+      "round": 1,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2015-03-14T00:00:00.000Z",
+      "opponent": "Derrick Brown",
+      "opponentSlug": "53652-derrick-brown",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Tuff-N-Uff: Mayhem in Mesquite 6",
+      "eventSlug": "30821-tuff-n-uff-mayhem-in-mesquite-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-01-24T00:00:00.000Z",
+      "opponent": "Lenon Ford",
+      "opponentSlug": "30227-lenon-hideen",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Tuff-N-Uff",
+      "eventSlug": "22211-tuff-n-uff",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-08-31T00:00:00.000Z",
+      "opponent": "Chris Sherley-Rios",
+      "opponentSlug": "43472-chris-sherley",
+      "result": "win",
+      "method": "sub",
+      "event": "KOTC: Future Legends 16",
+      "eventSlug": "20447-kotc-future-legends-16",
+      "round": 2,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2013-07-05T00:00:00.000Z",
+      "opponent": "Chris Gomez",
+      "opponentSlug": "39028-chris-gomez",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Tuff-N-Uff: Festibrawl",
+      "eventSlug": "19367-tuff-n-uff-rountree-vs-jahrling",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:41:14.678Z"
+}

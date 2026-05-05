@@ -1,0 +1,121 @@
+{
+  "slug": "259609-navajo-sterling",
+  "name": "Navajo Stirling",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 193,
+  "reachCm": 201,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1997-11-07",
+  "nationality": "Upper Hutt, New Zealand",
+  "url": "https://www.tapology.com/fightcenter/fighters/259609-navajo-sterling",
+  "recentFights": [
+    {
+      "date": "2026-03-28T00:00:00.000Z",
+      "opponent": "Bruno Lopes",
+      "opponentSlug": "78682-bruno-lopes",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "136873-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "4:05"
+    },
+    {
+      "date": "2025-09-27T00:00:00.000Z",
+      "opponent": "Rodolfo Bellato",
+      "opponentSlug": "76570-rodolfo-bellato",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "130754-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-10T00:00:00.000Z",
+      "opponent": "Ivan Erslan",
+      "opponentSlug": "42328-ivan-erslan",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 315: Muhammad vs. Della Maddalena",
+      "eventSlug": "123873-ufc-315",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-12-14T00:00:00.000Z",
+      "opponent": "Tuco Tokkos",
+      "opponentSlug": "165168-george-tokkos",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "116905-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-10T00:00:00.000Z",
+      "opponent": "Phillip Latu",
+      "opponentSlug": "303053-phillip-latu",
+      "result": "win",
+      "method": "other",
+      "event": "Contender Series 2024",
+      "eventSlug": "112922-contender-series-2024-week-5",
+      "round": 2,
+      "timeInRound": "2:21"
+    },
+    {
+      "date": "2024-06-14T00:00:00.000Z",
+      "opponent": "Sam Kei",
+      "opponentSlug": "36884-sam-kei",
+      "result": "win",
+      "method": "other",
+      "event": "HEX Fight Series 31",
+      "eventSlug": "112106-hex-fight-series-31",
+      "round": 3,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2024-05-04T00:00:00.000Z",
+      "opponent": "Stu Dare",
+      "opponentSlug": "30893-stuart-dare",
+      "result": "win",
+      "method": "other",
+      "event": "HEX Fight Series 30",
+      "eventSlug": "107574-hex-fight-series-30-hex-goes-global",
+      "round": 1,
+      "timeInRound": "3:46"
+    },
+    {
+      "date": "2023-10-28T00:00:00.000Z",
+      "opponent": "Kelvin Fitial",
+      "opponentSlug": "11389-kelvin-fitial-the-big-hit",
+      "result": "win",
+      "method": "other",
+      "event": "Shuriken Fight Series 16",
+      "eventSlug": "105207-shuriken-fight-series-16",
+      "round": 1,
+      "timeInRound": "2:41"
+    },
+    {
+      "date": "2022-09-23T00:00:00.000Z",
+      "opponent": "James Craughwell",
+      "opponentSlug": "347376-james-craughwell",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shuriken Fight Series 12",
+      "eventSlug": "89928-shuriken-fight-series-12",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:40:29.628Z"
+}

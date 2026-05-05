@@ -1,0 +1,209 @@
+{
+  "slug": "272716-torrez-finney",
+  "name": "Torrez Finney",
+  "nickname": "The Punisher",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 192,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1998-10-24",
+  "nationality": "Macon, Georgia, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/272716-torrez-finney",
+  "recentFights": [
+    {
+      "date": "2026-01-31T00:00:00.000Z",
+      "opponent": "Jacob Malkoun",
+      "opponentSlug": "111323-jacob-malkoun",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 325: Volkanovski vs. Lopes 2",
+      "eventSlug": "136549-ufc-325-volkanovski-vs-lopes-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-04-05T00:00:00.000Z",
+      "opponent": "Robert Valentin",
+      "opponentSlug": "136498-robert-valentin",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "122672-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-10-01T00:00:00.000Z",
+      "opponent": "Abdellah Er-Ramy",
+      "opponentSlug": "228627-david-er-ramy-the-golden-boy",
+      "result": "win",
+      "method": "other",
+      "event": "Contender Series 2024",
+      "eventSlug": "112925-contender-series-2024-week-8",
+      "round": 1,
+      "timeInRound": "4:10"
+    },
+    {
+      "date": "2024-08-20T00:00:00.000Z",
+      "opponent": "Cam Rowston",
+      "opponentSlug": "69262-cam-rowston",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Contender Series 2024",
+      "eventSlug": "112919-contender-series-2024-week-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-04T00:00:00.000Z",
+      "opponent": "Tyson Jeffries",
+      "opponentSlug": "tyson-jeffries",
+      "result": "win",
+      "method": "tko",
+      "event": "Combat Night Pro Duval",
+      "eventSlug": "113481-combat-night-pro-duval",
+      "round": 1,
+      "timeInRound": "1:33"
+    },
+    {
+      "date": "2023-10-10T00:00:00.000Z",
+      "opponent": "Yuri Panferov",
+      "opponentSlug": "145317-yuri-panferov",
+      "result": "win",
+      "method": "sub",
+      "event": "Contender Series 2023",
+      "eventSlug": "101000-contender-series-2023-week-10",
+      "round": 2,
+      "timeInRound": "2:43"
+    },
+    {
+      "date": "2023-08-04T00:00:00.000Z",
+      "opponent": "EL J Portée",
+      "opponentSlug": "171619-lj-smith-portee",
+      "result": "win",
+      "method": "tko",
+      "event": "Aries Fight Series",
+      "eventSlug": "103668-aries-fight-series-nashville-underground",
+      "round": 1,
+      "timeInRound": "4:03"
+    },
+    {
+      "date": "2023-04-22T00:00:00.000Z",
+      "opponent": "Caleb Crump",
+      "opponentSlug": "110854-caleb-crump",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Aries Fight Series 16",
+      "eventSlug": "98296-aries-fight-series-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-10-14T00:00:00.000Z",
+      "opponent": "Ivan Batinich",
+      "opponentSlug": "140325-ivan-batinich",
+      "result": "win",
+      "method": "other",
+      "event": "iKON FC 5",
+      "eventSlug": "92771-ikon-fc-5",
+      "round": 3,
+      "timeInRound": "4:09"
+    },
+    {
+      "date": "2022-08-05T00:00:00.000Z",
+      "opponent": "Justin Dorsey",
+      "opponentSlug": "242734-justin-dorsey",
+      "result": "win",
+      "method": "other",
+      "event": "iKON FC 4",
+      "eventSlug": "90581-ikon-fc-4",
+      "round": 1,
+      "timeInRound": "2:06"
+    },
+    {
+      "date": "2022-06-11T00:00:00.000Z",
+      "opponent": "Jake Zogg",
+      "opponentSlug": "51106-jake-zogg",
+      "result": "win",
+      "method": "tko",
+      "event": "Aries Fight Series 9",
+      "eventSlug": "90041-aries-fight-series-9",
+      "round": 1,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2022-02-19T00:00:00.000Z",
+      "opponent": "Wesley McCracken",
+      "opponentSlug": "85715-wesley-mccracken",
+      "result": "win",
+      "method": "tko",
+      "event": "Conflict MMA 51",
+      "eventSlug": "87314-macon-fight-night",
+      "round": 2,
+      "timeInRound": "4:32"
+    },
+    {
+      "date": "2021-10-30T00:00:00.000Z",
+      "opponent": "Andre Zulu Johnson",
+      "opponentSlug": "192539-andre-zulu-johnson",
+      "result": "win",
+      "method": "other",
+      "event": "Aries Fight Series 1",
+      "eventSlug": "83238-aries-fight-series-1",
+      "round": 1,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2021-07-02T00:00:00.000Z",
+      "opponent": "Tylando Mattress",
+      "opponentSlug": "202457-tylando-mattress-tk",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Valor Fighting Challenge 84",
+      "eventSlug": "79994-valor-fighting-challenge-84",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-15T00:00:00.000Z",
+      "opponent": "Kevin Minard",
+      "opponentSlug": "253093-kevin-minard",
+      "result": "win",
+      "method": "tko",
+      "event": "Valor Fighting Challenge 82",
+      "eventSlug": "78715-valor-fighting-challenge-82",
+      "round": 1,
+      "timeInRound": "0:05"
+    },
+    {
+      "date": "2021-02-05T00:00:00.000Z",
+      "opponent": "Tristan Scarborough",
+      "opponentSlug": "228186-tristan-scarborough",
+      "result": "win",
+      "method": "tko",
+      "event": "Valor Fighting Challenge 78",
+      "eventSlug": "74954-valor-fighting-challenge-76",
+      "round": 3,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2020-10-03T00:00:00.000Z",
+      "opponent": "Antonio Holt",
+      "opponentSlug": "272710-antonio-holt",
+      "result": "win",
+      "method": "other",
+      "event": "Valor Fighting Challenge 74",
+      "eventSlug": "72220-valor-fighting-challenge-74",
+      "round": 1,
+      "timeInRound": "0:11"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:57:14.642Z"
+}

@@ -1,0 +1,220 @@
+{
+  "slug": "20606-mike-kent",
+  "name": "Mike Kent",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 186,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1984-03-08",
+  "nationality": "Dartmouth, Nova Scotia, Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/20606-mike-kent",
+  "recentFights": [
+    {
+      "date": "2017-05-12T00:00:00.000Z",
+      "opponent": "Julien Leblanc",
+      "opponentSlug": "24714-julien-leblanc",
+      "result": "loss",
+      "method": "sub",
+      "event": "Prestige FC 8",
+      "eventSlug": "45045-prestige-fc-8",
+      "round": 1,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2017-03-31T00:00:00.000Z",
+      "opponent": "Jared McComb",
+      "opponentSlug": "11627-jared-mccombe",
+      "result": "loss",
+      "method": "sub",
+      "event": "Unified MMA 30",
+      "eventSlug": "44510-unified-mma-30",
+      "round": 1,
+      "timeInRound": "4:15"
+    },
+    {
+      "date": "2015-09-25T00:00:00.000Z",
+      "opponent": "Nick Campbell",
+      "opponentSlug": "21226-nick-campbell",
+      "result": "win",
+      "method": "sub",
+      "event": "Unified MMA 24",
+      "eventSlug": "34045-unified-mma-24",
+      "round": 1,
+      "timeInRound": "4:13"
+    },
+    {
+      "date": "2014-09-19T00:00:00.000Z",
+      "opponent": "Cody Krahn",
+      "opponentSlug": "cody-krahn",
+      "result": "loss",
+      "method": "sub",
+      "event": "Prestige FC 6",
+      "eventSlug": "25097-prestige-fc-6",
+      "round": 2,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2014-04-12T00:00:00.000Z",
+      "opponent": "Alfonso Gonzales",
+      "opponentSlug": "42623-alfanso-gonzales",
+      "result": "loss",
+      "method": "other",
+      "event": "Battle for the Border 3",
+      "eventSlug": "23026-battle-for-the-border-3",
+      "round": 1,
+      "timeInRound": "0:52"
+    },
+    {
+      "date": "2014-02-21T00:00:00.000Z",
+      "opponent": "Matt Baker",
+      "opponentSlug": "15642-matt-baker-the-riotmaker",
+      "result": "win",
+      "method": "dec-split",
+      "event": "WSOF Canada 1",
+      "eventSlug": "21887-wsof-9-ford-vs-powell",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-10-25T00:00:00.000Z",
+      "opponent": "David Loiseau",
+      "opponentSlug": "david-loiseau-the-crow",
+      "result": "loss",
+      "method": "other",
+      "event": "ECC 18: Road to Glory",
+      "eventSlug": "19570-ecc-18",
+      "round": 1,
+      "timeInRound": "0:15"
+    },
+    {
+      "date": "2013-09-13T00:00:00.000Z",
+      "opponent": "Joe Doerksen",
+      "opponentSlug": "joe-doerksen-el-dirte",
+      "result": "loss",
+      "method": "sub",
+      "event": "CFC 8: Resurrection",
+      "eventSlug": "18307-cfc-8-resurrection",
+      "round": 1,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2013-05-11T00:00:00.000Z",
+      "opponent": "Elias Theodorou",
+      "opponentSlug": "23158-elias-theodorou",
+      "result": "loss",
+      "method": "other",
+      "event": "ECC 17: Rise of Champions",
+      "eventSlug": "18184-ecc-17-rise-of-champions",
+      "round": 1,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2013-02-16T00:00:00.000Z",
+      "opponent": "Cody Krahn",
+      "opponentSlug": "cody-krahn",
+      "result": "win",
+      "method": "other",
+      "event": "ECC 15: Carnage",
+      "eventSlug": "16616-ecc-15",
+      "round": 4,
+      "timeInRound": "1:46"
+    },
+    {
+      "date": "2012-11-23T00:00:00.000Z",
+      "opponent": "Tim Chemelli",
+      "opponentSlug": "18585-tim-chemelli",
+      "result": "loss",
+      "method": "other",
+      "event": "AFC 14: Invasion",
+      "eventSlug": "15957-aggression-fc-14",
+      "round": 2,
+      "timeInRound": "1:06"
+    },
+    {
+      "date": "2012-01-27T00:00:00.000Z",
+      "opponent": "Chester Post",
+      "opponentSlug": "2933-chester-post",
+      "result": "win",
+      "method": "other",
+      "event": "ECC 13: Armageddon",
+      "eventSlug": "12207-ecc-13-armageddon",
+      "round": 2,
+      "timeInRound": "0:32"
+    },
+    {
+      "date": "2011-10-15T00:00:00.000Z",
+      "opponent": "Dan Fowler",
+      "opponentSlug": "5382-dan-fowler",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-06-25T00:00:00.000Z",
+      "opponent": "Jeremiah Bernard",
+      "opponentSlug": "18651-jeremiah-bernard-the-fireline",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-06-11T00:00:00.000Z",
+      "opponent": "Alderic Keith",
+      "opponentSlug": "20680-alderic-keith",
+      "result": "win",
+      "method": "other",
+      "event": "CECR 1",
+      "eventSlug": "13191-cecr-1",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-05-07T00:00:00.000Z",
+      "opponent": "Alderic Keith",
+      "opponentSlug": "20680-alderic-keith",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Elite 1 MMA",
+      "eventSlug": "9884-elite-1-mma-high-voltage",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-02-19T00:00:00.000Z",
+      "opponent": "Todd Henry",
+      "opponentSlug": "16986-todd-henry",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-09-18T00:00:00.000Z",
+      "opponent": "Adam Hunter",
+      "opponentSlug": "20709-adam-hunter",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:58:07.597Z"
+}

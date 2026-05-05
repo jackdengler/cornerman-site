@@ -1,0 +1,68 @@
+{
+  "slug": "361002-sam-emmanuel",
+  "name": "Sam Emmanuel",
+  "nickname": "The Techie",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Guam",
+  "url": "https://www.tapology.com/fightcenter/fighters/361002-sam-emmanuel",
+  "recentFights": [
+    {
+      "date": "2024-10-11T00:00:00.000Z",
+      "opponent": "Jeffrey Mesa",
+      "opponentSlug": "71953-jeff-mesa",
+      "result": "loss",
+      "method": "other",
+      "event": "Brawl 4",
+      "eventSlug": "121258-brawl-4",
+      "round": 4,
+      "timeInRound": "4:12"
+    },
+    {
+      "date": "2023-10-13T00:00:00.000Z",
+      "opponent": "Larry Marcella",
+      "opponentSlug": "408638-larry-marcella-the-hawk",
+      "result": "win",
+      "method": "other",
+      "event": "Brawl 3",
+      "eventSlug": "106230-brawl-3",
+      "round": 2,
+      "timeInRound": "3:53"
+    }
+  ],
+  "allFights": [
+    {
+      "date": "2024-10-11T00:00:00.000Z",
+      "opponent": "Jeffrey Mesa",
+      "opponentSlug": "71953-jeff-mesa",
+      "result": "loss",
+      "method": "other",
+      "event": "Brawl 4",
+      "eventSlug": "121258-brawl-4",
+      "round": 4,
+      "timeInRound": "4:12"
+    },
+    {
+      "date": "2023-10-13T00:00:00.000Z",
+      "opponent": "Larry Marcella",
+      "opponentSlug": "408638-larry-marcella-the-hawk",
+      "result": "win",
+      "method": "other",
+      "event": "Brawl 3",
+      "eventSlug": "106230-brawl-3",
+      "round": 2,
+      "timeInRound": "3:53"
+    }
+  ],
+  "lastVerified": "2026-05-03T10:16:46.245Z"
+}

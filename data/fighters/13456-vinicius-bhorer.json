@@ -1,0 +1,242 @@
+{
+  "slug": "13456-vinicius-bhorer",
+  "name": "Vinicius Bohrer",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 16,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 181,
+  "reachCm": 179,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1988-03-27",
+  "nationality": "Piumhy, Minas Gerais, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/13456-vinicius-bhorer",
+  "recentFights": [
+    {
+      "date": "2019-12-07T00:00:00.000Z",
+      "opponent": "Artur Sowiński",
+      "opponentSlug": "artur-sowinski-kornik",
+      "result": "loss",
+      "method": "other",
+      "event": "KSW 52: Askham vs. Khalidov",
+      "eventSlug": "62927-ksw-52-askhan-vs-mamedov",
+      "round": 1,
+      "timeInRound": "0:52"
+    },
+    {
+      "date": "2018-12-01T00:00:00.000Z",
+      "opponent": "Roberto Soldić",
+      "opponentSlug": "90283-roberto-soldic",
+      "result": "loss",
+      "method": "other",
+      "event": "KSW 46: Narkun vs. Khalidov 2",
+      "eventSlug": "55779-ksw-46",
+      "round": 1,
+      "timeInRound": "4:34"
+    },
+    {
+      "date": "2018-05-19T00:00:00.000Z",
+      "opponent": "Taffarel Brasil",
+      "opponentSlug": "134178-taffarel-ndio",
+      "result": "win",
+      "method": "sub",
+      "event": "WOCS 50",
+      "eventSlug": "53100-wocs-50",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-25T00:00:00.000Z",
+      "opponent": "Richard Barbosa",
+      "opponentSlug": "152987-richard-barbosa",
+      "result": "win",
+      "method": "sub",
+      "event": "WOCS 45",
+      "eventSlug": "44831-wocs-45",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-18T00:00:00.000Z",
+      "opponent": "Luiz Dutra Jr.",
+      "opponentSlug": "luis-dutra-jr-besouro",
+      "result": "loss",
+      "method": "other",
+      "event": "Shooto Brasil 58",
+      "eventSlug": "36009-shooto-brasil-58-bope",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2015-07-25T00:00:00.000Z",
+      "opponent": "Bruce Souto",
+      "opponentSlug": "35174-bruce-souto",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-06T00:00:00.000Z",
+      "opponent": "Alexandre Brandão",
+      "opponentSlug": "4387-alexandre-brandao-sagat",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-09-04T00:00:00.000Z",
+      "opponent": "Renilson Carvalho",
+      "opponentSlug": "36117-renilson-castro-carvalho",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-05-02T00:00:00.000Z",
+      "opponent": "Wendell Oliveira",
+      "opponentSlug": "4071-wendell-oliveira-war-machine",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-30T00:00:00.000Z",
+      "opponent": "Ney Duarte",
+      "opponentSlug": "38115-ney-duarte",
+      "result": "win",
+      "method": "sub",
+      "event": "Fatality Arena 6",
+      "eventSlug": "23103-fatality-arena-7",
+      "round": 1,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2013-12-15T00:00:00.000Z",
+      "opponent": "Luis Melo",
+      "opponentSlug": "luis-sergio-da-fonseca-melo-sergio-junior",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-04-19T00:00:00.000Z",
+      "opponent": "James Silveira",
+      "opponentSlug": "15721-james-silveira-dinamite",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-07-27T00:00:00.000Z",
+      "opponent": "Gilbert Burns",
+      "opponentSlug": "31168-gilbert-burns-durinho",
+      "result": "loss",
+      "method": "sub",
+      "event": "WOCS 20",
+      "eventSlug": "14838-wocs-20",
+      "round": 1,
+      "timeInRound": "1:59"
+    },
+    {
+      "date": "2012-04-20T00:00:00.000Z",
+      "opponent": "Antônio Magno Pereira",
+      "opponentSlug": "31196-antonio-magno-lima-pereira-cri-cri",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-09-03T00:00:00.000Z",
+      "opponent": "Edval Pedroso",
+      "opponentSlug": "6532-edval-pedroso-tico",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-04-08T00:00:00.000Z",
+      "opponent": "Yuri Fraga",
+      "opponentSlug": "4372-yuri-fraga-terrorista",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-08-09T00:00:00.000Z",
+      "opponent": "Gerson Cordeiro",
+      "opponentSlug": "4393-gerson-cordeiro-indio",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-11-24T00:00:00.000Z",
+      "opponent": "André Santos",
+      "opponentSlug": "8278-andre-santos-chatuba",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-04-14T00:00:00.000Z",
+      "opponent": "Gabriel Santos",
+      "opponentSlug": "gabriel-santos-gladiator",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2006-08-18T00:00:00.000Z",
+      "opponent": "Francisco Trinaldo",
+      "opponentSlug": "4609-francisco-drinaldo-massaranduba",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:05:02.081Z"
+}

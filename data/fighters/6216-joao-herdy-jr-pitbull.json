@@ -1,0 +1,132 @@
+{
+  "slug": "6216-joao-herdy-jr-pitbull",
+  "name": "João Herdy Jr.",
+  "nickname": "Pitbull",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/6216-joao-herdy-jr-pitbull",
+  "recentFights": [
+    {
+      "date": "2013-05-11T00:00:00.000Z",
+      "opponent": "Mauro Chaulet",
+      "opponentSlug": "16277-mauro-chaulet",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WNC 1",
+      "eventSlug": "18944-wnc-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-01-27T00:00:00.000Z",
+      "opponent": "Raoni Barcelos",
+      "opponentSlug": "30448-raoni-barcellos",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-01-21T00:00:00.000Z",
+      "opponent": "Ryan McIntosh",
+      "opponentSlug": "13077-ryan-mcintosh",
+      "result": "win",
+      "method": "other",
+      "event": "LFC 44: Against All Odds",
+      "eventSlug": "10746-lof-44-against-all-odds",
+      "round": 1,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2010-06-12T00:00:00.000Z",
+      "opponent": "Dustin Neace",
+      "opponentSlug": "dustin-neace-the-beast",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Total Warrior Challenge 6",
+      "eventSlug": "10710-total-warrior-challenge-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2006-04-29T00:00:00.000Z",
+      "opponent": "Joe Voisin",
+      "opponentSlug": "9145-joe-voisin",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2006-01-20T00:00:00.000Z",
+      "opponent": "Dan Swift",
+      "opponentSlug": "2246-dan-swift-the-pennsylvania-hitman",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2005-11-19T00:00:00.000Z",
+      "opponent": "Joe Pearson",
+      "opponentSlug": "joe-pearson-the-triangular-strangler",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2004-11-20T00:00:00.000Z",
+      "opponent": "Dave Pearson",
+      "opponentSlug": "47559-dave-pearson",
+      "result": "win",
+      "method": "other",
+      "event": "Ironheart Crown 8",
+      "eventSlug": "804-ironheart-crown-8-ethereal",
+      "round": 1,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2004-09-25T00:00:00.000Z",
+      "opponent": "Brian Geraghty",
+      "opponentSlug": "brian-geraghty",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2004-03-27T00:00:00.000Z",
+      "opponent": "Dan Caesar",
+      "opponentSlug": "2275-dan-caesar",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:38:51.249Z"
+}

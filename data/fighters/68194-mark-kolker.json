@@ -1,0 +1,253 @@
+{
+  "slug": "68194-mark-kolker",
+  "name": "Mark Kolker",
+  "nickname": "The Alabama Hammer",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1992-10-17",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/68194-mark-kolker",
+  "recentFights": [
+    {
+      "date": "2025-11-23T00:00:00.000Z",
+      "opponent": "Jalin Fuller",
+      "opponentSlug": "144968-jalin-fuller",
+      "result": "loss",
+      "method": "other",
+      "event": "Anthony Pettis FC 21",
+      "eventSlug": "134077-anthony-pettis-fc-21-new-mexico-fight-night-ii",
+      "round": 1,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2025-05-17T00:00:00.000Z",
+      "opponent": "Bobby Galvan",
+      "opponentSlug": "18450-bobby-galvan",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Empire FC 31",
+      "eventSlug": "126082-empire-fc-31",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-14T00:00:00.000Z",
+      "opponent": "Julien Leblanc",
+      "opponentSlug": "24714-julien-leblanc",
+      "result": "loss",
+      "method": "other",
+      "event": "Unified MMA 57",
+      "eventSlug": "112602-unified-mma-57",
+      "round": 2,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2023-10-14T00:00:00.000Z",
+      "opponent": "Montrel James",
+      "opponentSlug": "90332-montrell-james",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Empire FC 23",
+      "eventSlug": "106286-empire-fc-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-01-28T00:00:00.000Z",
+      "opponent": "Drew Fickett",
+      "opponentSlug": "drew-fickett-the-master",
+      "result": "loss",
+      "method": "sub",
+      "event": "Savage Fights 1",
+      "eventSlug": "98286-savage-fights-1",
+      "round": 2,
+      "timeInRound": "3:49"
+    },
+    {
+      "date": "2022-08-12T00:00:00.000Z",
+      "opponent": "Steve Jones",
+      "opponentSlug": "91648-steven-jones",
+      "result": "win",
+      "method": "other",
+      "event": "AKA 23",
+      "eventSlug": "91672-aka-23",
+      "round": 2,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2022-06-04T00:00:00.000Z",
+      "opponent": "D'Juan Owens",
+      "opponentSlug": "20469-djuan-owens",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Southeastern Combat Championships 8",
+      "eventSlug": "89631-southeastern-combat-championships-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-01-22T00:00:00.000Z",
+      "opponent": "Logan Crosby",
+      "opponentSlug": "232060-logan-crosby",
+      "result": "win",
+      "method": "other",
+      "event": "Southeastern Combat Championships 6",
+      "eventSlug": "84993-southeastern-combat-championships-6",
+      "round": 1,
+      "timeInRound": "0:32"
+    },
+    {
+      "date": "2021-08-27T00:00:00.000Z",
+      "opponent": "Christopher Anthony",
+      "opponentSlug": "39837-christopher-anthony",
+      "result": "win",
+      "method": "sub",
+      "event": "AKA 17",
+      "eventSlug": "81605-aka-17",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-12-19T00:00:00.000Z",
+      "opponent": "Ryan Jones",
+      "opponentSlug": "42569-ryan-jones",
+      "result": "win",
+      "method": "sub",
+      "event": "Empire FC 8",
+      "eventSlug": "73761-empire-fighting-championship-7",
+      "round": 1,
+      "timeInRound": "3:35"
+    },
+    {
+      "date": "2020-01-25T00:00:00.000Z",
+      "opponent": "Ty Evans",
+      "opponentSlug": "62558-ty-evans",
+      "result": "win",
+      "method": "sub",
+      "event": "Southeastern Combat Championships 4",
+      "eventSlug": "65348-southeastern-combat-championships-4",
+      "round": 1,
+      "timeInRound": "4:33"
+    },
+    {
+      "date": "2019-05-25T00:00:00.000Z",
+      "opponent": "Noah Cutter",
+      "opponentSlug": "132848-noah-cutter",
+      "result": "loss",
+      "method": "other",
+      "event": "Southeastern Combat Championships",
+      "eventSlug": "59199-southeastern-combat-championships",
+      "round": 1,
+      "timeInRound": "2:44"
+    },
+    {
+      "date": "2019-02-23T00:00:00.000Z",
+      "opponent": "Romalice Thomason",
+      "opponentSlug": "132599-romalice-thomason",
+      "result": "win",
+      "method": "other",
+      "event": "Bayou FC 35",
+      "eventSlug": "58262-bayou-fc-35",
+      "round": 2,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2018-09-15T00:00:00.000Z",
+      "opponent": "Zulkarnaiyn Kamchybekov",
+      "opponentSlug": "134516-zulkarnaiyn-kamchybekov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MMA Pro League 1",
+      "eventSlug": "53637-mma-pro-league-1-team-new-jersey-vs-team-pennsylvania",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-28T00:00:00.000Z",
+      "opponent": "Mark Martin",
+      "opponentSlug": "166384-mark-martin",
+      "result": "loss",
+      "method": "sub",
+      "event": "V3 Fights 68",
+      "eventSlug": "52008-v3-fights-68",
+      "round": 1,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2017-06-10T00:00:00.000Z",
+      "opponent": "Smith Amisial",
+      "opponentSlug": "33737-smith-amisial",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Blood and Sand 22",
+      "eventSlug": "47565-blood-and-sand-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-08-26T00:00:00.000Z",
+      "opponent": "Coty Ziegler",
+      "opponentSlug": "137816-coty-ziegler",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "RMMA 37",
+      "eventSlug": "41435-rmma-37",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-02-20T00:00:00.000Z",
+      "opponent": "Vance Pritchard",
+      "opponentSlug": "405199-vance-pritchard",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Blood and Sand 18",
+      "eventSlug": "38803-blood-and-sand-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-01T00:00:00.000Z",
+      "opponent": "Tony Jenkins",
+      "opponentSlug": "67277-tony-jenkins",
+      "result": "win",
+      "method": "tko",
+      "event": "XFC: Natural Disaster 4",
+      "eventSlug": "34123-xfc-natural-disaster",
+      "round": 1,
+      "timeInRound": "2:48"
+    },
+    {
+      "date": "2014-11-14T00:00:00.000Z",
+      "opponent": "Brandon Barecca",
+      "opponentSlug": "85277-brandon-barecca",
+      "result": "loss",
+      "method": "tko",
+      "event": "RMMA 32: Sevin vs. Bosnick",
+      "eventSlug": "28056-rmma-32-sevin-vs-bosnick",
+      "round": 2,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2014-04-12T00:00:00.000Z",
+      "opponent": "Gabe Henson",
+      "opponentSlug": "68195-gabe-henson",
+      "result": "win",
+      "method": "tko",
+      "event": "Atlas Fights",
+      "eventSlug": "23655-atlas-fights-battle-on-mobile-bay",
+      "round": 1,
+      "timeInRound": "0:22"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:57:57.172Z"
+}

@@ -1,0 +1,198 @@
+{
+  "slug": "205775-devon-lozej",
+  "name": "Devon Lozej",
+  "nickname": "The Dream",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 175,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1993-05-16",
+  "nationality": "Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/205775-devon-lozej",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Ernesto Ibarra",
+      "opponentSlug": "109896-ernesto-ibarra",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 231: Lozej vs. Ibarra",
+      "eventSlug": "140675-lfa-231-trembley-vs-johns",
+      "round": 2,
+      "timeInRound": "1:46"
+    },
+    {
+      "date": "2025-08-22T00:00:00.000Z",
+      "opponent": "Eduardo Henrique",
+      "opponentSlug": "171129-eduardo-henrique-da-silva-chapolim",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 215: Miranda vs. Barzilay",
+      "eventSlug": "129781-lfa-215",
+      "round": 1,
+      "timeInRound": "2:57"
+    },
+    {
+      "date": "2025-01-25T00:00:00.000Z",
+      "opponent": "Enrique Pacheco Parra",
+      "opponentSlug": "96485-enrique-pacheco-pesadilla",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 200: Johns vs. Douglas",
+      "eventSlug": "120838-lfa-200",
+      "round": 2,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2024-09-20T00:00:00.000Z",
+      "opponent": "Nate Smith",
+      "opponentSlug": "67804-nate-smith",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 193: Bowers vs. Borisova",
+      "eventSlug": "115812-lfa-193",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-29T00:00:00.000Z",
+      "opponent": "Jayson Scott",
+      "opponentSlug": "189755-jayson-scott",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Mecca 22",
+      "eventSlug": "110075-mecca-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-02-17T00:00:00.000Z",
+      "opponent": "Sean Stebbins",
+      "opponentSlug": "99815-sean-stebbins",
+      "result": "win",
+      "method": "sub",
+      "event": "Mecca 21",
+      "eventSlug": "107581-mecca-21",
+      "round": 2,
+      "timeInRound": "3:56"
+    },
+    {
+      "date": "2023-11-11T00:00:00.000Z",
+      "opponent": "Oscar Jurado Sánchez",
+      "opponentSlug": "178522-oscar-alejandro-jurado-snchez",
+      "result": "win",
+      "method": "other",
+      "event": "Mecca 20",
+      "eventSlug": "103306-mecca-20",
+      "round": 2,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2023-06-24T00:00:00.000Z",
+      "opponent": "Shawn Mack",
+      "opponentSlug": "86141-tashawn-mack",
+      "result": "win",
+      "method": "other",
+      "event": "CLIP MMA: The Takeover",
+      "eventSlug": "101803-clip-mma-the-takeover",
+      "round": 1,
+      "timeInRound": "4:39"
+    },
+    {
+      "date": "2022-12-17T00:00:00.000Z",
+      "opponent": "Harley King",
+      "opponentSlug": "189740-harley-king",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Unified MMA 49",
+      "eventSlug": "93981-unified-mma-49",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-16T00:00:00.000Z",
+      "opponent": "Reshal Malik",
+      "opponentSlug": "79610-reshal-malik",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 142: Amorim vs. Nichols",
+      "eventSlug": "92238-lfa-142-amorim-vs-nichols",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-16T00:00:00.000Z",
+      "opponent": "Justin Patton",
+      "opponentSlug": "96810-justin-patton",
+      "result": "win",
+      "method": "sub",
+      "event": "247 FC: Brawl in the Burgh 11",
+      "eventSlug": "86135-247-fc-brawl-in-the-burgh-11",
+      "round": 2,
+      "timeInRound": "4:35"
+    },
+    {
+      "date": "2021-08-15T00:00:00.000Z",
+      "opponent": "Albaraa Atmeh",
+      "opponentSlug": "168788-albaraa-atmeh",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "BTC 11",
+      "eventSlug": "80021-btc-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-14T00:00:00.000Z",
+      "opponent": "Brynn Heathcock",
+      "opponentSlug": "105980-brynn-heathcock",
+      "result": "win",
+      "method": "other",
+      "event": "Warrior Games 8",
+      "eventSlug": "63912-warrior-games-8-winter-spirit",
+      "round": 4,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2019-10-12T00:00:00.000Z",
+      "opponent": "Shad Walters",
+      "opponentSlug": "236229-shadland-walters",
+      "result": "win",
+      "method": "other",
+      "event": "Warrior Games 7",
+      "eventSlug": "62360-warrior-games-7",
+      "round": 3,
+      "timeInRound": "1:51"
+    },
+    {
+      "date": "2019-06-29T00:00:00.000Z",
+      "opponent": "Austin Robinson",
+      "opponentSlug": "198728-austin-robinson",
+      "result": "win",
+      "method": "tko",
+      "event": "Warrior Games 6",
+      "eventSlug": "59520-warrior-games-vi",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-23T00:00:00.000Z",
+      "opponent": "Timothy Barber",
+      "opponentSlug": "179496-timothy-barber",
+      "result": "win",
+      "method": "other",
+      "event": "Warrior Games 5",
+      "eventSlug": "57278-warrior-games-5",
+      "round": 1,
+      "timeInRound": "1:25"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:59:21.369Z"
+}

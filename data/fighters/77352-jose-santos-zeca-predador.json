@@ -1,0 +1,154 @@
+{
+  "slug": "77352-jose-santos-zeca-predador",
+  "name": "José Santos",
+  "nickname": "Zeca Predador",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1986-02-08",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/77352-jose-santos-zeca-predador",
+  "recentFights": [
+    {
+      "date": "2019-07-13T00:00:00.000Z",
+      "opponent": "Jose Augusto",
+      "opponentSlug": "133511-jose-augusto-azevedo-gugu",
+      "result": "loss",
+      "method": "other",
+      "event": "Fight On 6",
+      "eventSlug": "61686-fight-on-6",
+      "round": 1,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2018-03-10T00:00:00.000Z",
+      "opponent": "Maiwand Timori",
+      "opponentSlug": "181055-maiwand",
+      "result": "win",
+      "method": "other",
+      "event": "SFL 2018 Semi Finals",
+      "eventSlug": "51678-sfl-2018-semi-finals-bengaluru-tigers-vs-delhi-heroes",
+      "round": 1,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2018-02-18T00:00:00.000Z",
+      "opponent": "Mandeep Singh",
+      "opponentSlug": "149739-mandeep-singh",
+      "result": "win",
+      "method": "tko",
+      "event": "SFL 2018",
+      "eventSlug": "51250-sfl-2018-sher-e-punjab-vs-bengaluru-tigers",
+      "round": 1,
+      "timeInRound": "2:37"
+    },
+    {
+      "date": "2018-02-10T00:00:00.000Z",
+      "opponent": "Vinicius Moreira",
+      "opponentSlug": "116072-vinicius-alves-mamute",
+      "result": "loss",
+      "method": "sub",
+      "event": "SFL 2018",
+      "eventSlug": "51222-sfl-2018-haryana-sultans-vs-bengaluru-tigers",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-30T00:00:00.000Z",
+      "opponent": "Valdir Silva",
+      "opponentSlug": "12929-valdir-silva-dil-furacao",
+      "result": "win",
+      "method": "tko",
+      "event": "Jungle Fight 92",
+      "eventSlug": "47988-jungle-fight-92",
+      "round": 1,
+      "timeInRound": "0:53"
+    },
+    {
+      "date": "2016-08-21T00:00:00.000Z",
+      "opponent": "Roman Kopylov",
+      "opponentSlug": "138424-roman-kopylov",
+      "result": "loss",
+      "method": "other",
+      "event": "S-70: Plotforma Cup 2016",
+      "eventSlug": "41274-plotforma-s-70-7th",
+      "round": 3,
+      "timeInRound": "4:52"
+    },
+    {
+      "date": "2016-04-02T00:00:00.000Z",
+      "opponent": "Jackson Gonçalves",
+      "opponentSlug": "44263-jackson-goncalves-naco",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-05-09T00:00:00.000Z",
+      "opponent": "André Muniz",
+      "opponentSlug": "38116-andr-muniz-sergipano",
+      "result": "loss",
+      "method": "sub",
+      "event": "CEF 12",
+      "eventSlug": "31834-cef-12",
+      "round": 2,
+      "timeInRound": "4:36"
+    },
+    {
+      "date": "2014-11-29T00:00:00.000Z",
+      "opponent": "Alexandre Funari",
+      "opponentSlug": "58446-alexandre-funari-turquinho",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Jungle Fight 74",
+      "eventSlug": "27272-jungle-fight-74",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-09-06T00:00:00.000Z",
+      "opponent": "Walison Pereira",
+      "opponentSlug": "45280-wallison-pereira",
+      "result": "win",
+      "method": "sub",
+      "event": "CEF 11",
+      "eventSlug": "26016-cef-11",
+      "round": 1,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2014-02-15T00:00:00.000Z",
+      "opponent": "Carlos Henrique",
+      "opponentSlug": "77356-carlos-henrique",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-10-26T00:00:00.000Z",
+      "opponent": "Celivaldo Pereira",
+      "opponentSlug": "43783-celivaldo-pereira-gorilo",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:03:13.006Z"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "262822-paula-marcisova",
+  "name": "Paula Marcisova",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": null,
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/262822-paula-marcisova",
+  "recentFights": [
+    {
+      "date": "2020-06-13T00:00:00.000Z",
+      "opponent": "Tereza Dvořáková",
+      "opponentSlug": "174067-tereza-dvokov-vepoun",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Oktagon: Underground 5",
+      "eventSlug": "70086-oktagon-underground-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-06-06T00:00:00.000Z",
+      "opponent": "Lucia Szabová",
+      "opponentSlug": "187305-lucia-szabova-queen-bee",
+      "result": "loss",
+      "method": "sub",
+      "event": "Oktagon: Underground 4",
+      "eventSlug": "69964-oktagon-underground-4",
+      "round": 1,
+      "timeInRound": "0:12"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:02:41.732Z"
+}

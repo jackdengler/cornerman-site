@@ -1,0 +1,253 @@
+{
+  "slug": "63711-tracy-cortez",
+  "name": "Tracy Cortez",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 12,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": 166,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1993-12-10",
+  "nationality": "Phoenix, Arizona",
+  "url": "https://www.tapology.com/fightcenter/fighters/63711-tracy-cortez",
+  "recentFights": [
+    {
+      "date": "2025-11-15T00:00:00.000Z",
+      "opponent": "Erin Blanchfield",
+      "opponentSlug": "167460-erin-blanchfield",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC 322",
+      "eventSlug": "132653-ufc-322",
+      "round": 2,
+      "timeInRound": "4:44"
+    },
+    {
+      "date": "2025-06-28T00:00:00.000Z",
+      "opponent": "Viviane Araujo",
+      "opponentSlug": "106437-viviane-araujo-vivi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 317: Topuria vs. Oliveira",
+      "eventSlug": "124086-ufc-317",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-07-13T00:00:00.000Z",
+      "opponent": "Rose Namajunas",
+      "opponentSlug": "39227-rose-namajunas-the-riveter",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "111798-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-16T00:00:00.000Z",
+      "opponent": "Jasmine Jasudavicius",
+      "opponentSlug": "171056-jasmine-jasdavicious",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "101864-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-07T00:00:00.000Z",
+      "opponent": "Melissa Gatto",
+      "opponentSlug": "164565-melissa-gatto",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 274: Oliveira vs. Gaethje",
+      "eventSlug": "85253-ufc-274",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-17T00:00:00.000Z",
+      "opponent": "Justine Kish",
+      "opponentSlug": "15102-justine-kish",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "76103-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-10-10T00:00:00.000Z",
+      "opponent": "Stephanie Egger",
+      "opponentSlug": "114098-stephanie-egger",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "71622-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-16T00:00:00.000Z",
+      "opponent": "Vanessa Melo",
+      "opponentSlug": "50942-vanessa-melo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC on ESPN+ 22",
+      "eventSlug": "60323-ufc-on-espn-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-30T00:00:00.000Z",
+      "opponent": "Mariya Agapova",
+      "opponentSlug": "156192-mariya-agapova",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Contender Series 2019",
+      "eventSlug": "59499-dw-s-contender-series-2019-week-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-02-15T00:00:00.000Z",
+      "opponent": "Erin Blanchfield",
+      "opponentSlug": "167460-erin-blanchfield",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Invicta FC 34",
+      "eventSlug": "57600-invicta-fc-34",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-14T00:00:00.000Z",
+      "opponent": "Karen Cedillo",
+      "opponentSlug": "192753-karen-cedillo",
+      "result": "win",
+      "method": "other",
+      "event": "Combate 24: Alday vs. Lopez",
+      "eventSlug": "55053-combate-22-marroquin-vs-alday",
+      "round": 2,
+      "timeInRound": "3:53"
+    },
+    {
+      "date": "2018-06-16T00:00:00.000Z",
+      "opponent": "Monica Medina",
+      "opponentSlug": "71432-monica-medina",
+      "result": "win",
+      "method": "sub",
+      "event": "V3 Fights 69",
+      "eventSlug": "53801-v3-fights-69",
+      "round": 1,
+      "timeInRound": "4:27"
+    },
+    {
+      "date": "2018-03-24T00:00:00.000Z",
+      "opponent": "Kaytlin Neil",
+      "opponentSlug": "55797-kaytlin-neil",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Invicta FC 28",
+      "eventSlug": "50301-invicta-fc-28",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-04T00:00:00.000Z",
+      "opponent": "Roxanne Ceasear",
+      "opponentSlug": "72913-roxanne-ceasear",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WFF 36",
+      "eventSlug": "48913-wff-36",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-31T00:00:00.000Z",
+      "opponent": "Cheri Muraski",
+      "opponentSlug": "58843-cheri-muraski",
+      "result": "loss",
+      "method": "sub",
+      "event": "Invicta FC 25",
+      "eventSlug": "46756-invicta-fc-25-kunitskaya-vs-paaluhi",
+      "round": 2,
+      "timeInRound": "2:42"
+    },
+    {
+      "date": "2016-11-19T00:00:00.000Z",
+      "opponent": "Amanda Jones",
+      "opponentSlug": "61665-amanda-jones",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Tuff-N-Uff: Round 7",
+      "eventSlug": "42576-tuff-n-uff-round-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-03T00:00:00.000Z",
+      "opponent": "Codie Wareham",
+      "opponentSlug": "106929-codie-wareham",
+      "result": "win",
+      "method": "other",
+      "event": null,
+      "eventSlug": null,
+      "round": 3,
+      "timeInRound": "2:28"
+    },
+    {
+      "date": "2015-04-11T00:00:00.000Z",
+      "opponent": "Roxanne Ceasear",
+      "opponentSlug": "72913-roxanne-ceasear",
+      "result": "win",
+      "method": "tko",
+      "event": "KOTC: Onslaught",
+      "eventSlug": "31477-kotc-onslaught",
+      "round": 1,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2014-11-22T00:00:00.000Z",
+      "opponent": "Arianne Christensen",
+      "opponentSlug": "63597-arianne-christensen",
+      "result": "win",
+      "method": "sub",
+      "event": "WFF 17",
+      "eventSlug": "26044-wff-17",
+      "round": 1,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2014-03-01T00:00:00.000Z",
+      "opponent": "Nicole Upshaw",
+      "opponentSlug": "62578-nicole-upshaw",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WFF 12: Pascua Yaqui Fights VI",
+      "eventSlug": "22791-wff-pascua-yaqui-fights-vi",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-06-29T00:00:00.000Z",
+      "opponent": "Nicole Sontag",
+      "opponentSlug": "45510-nicole-sontag",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:09:37.789Z"
+}

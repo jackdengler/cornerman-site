@@ -1,0 +1,231 @@
+{
+  "slug": "47574-jared-scoggins",
+  "name": "Jared Scoggins",
+  "nickname": "Psycho",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 174,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1995-03-08",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/47574-jared-scoggins",
+  "recentFights": [
+    {
+      "date": "2022-12-09T00:00:00.000Z",
+      "opponent": "Cass Bell",
+      "opponentSlug": "43770-cass-bell",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Bellator 289",
+      "eventSlug": "92561-bellator-289",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-03T00:00:00.000Z",
+      "opponent": "Josh Hill",
+      "opponentSlug": "josh-hill",
+      "result": "loss",
+      "method": "other",
+      "event": "Bellator 272",
+      "eventSlug": "83245-bellator-mma",
+      "round": 2,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2020-09-17T00:00:00.000Z",
+      "opponent": "Thomas Vasquez",
+      "opponentSlug": "17732-thomas-vasquez-the-die-hard-kidd",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CFFC 84",
+      "eventSlug": "72013-cffc-84",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-29T00:00:00.000Z",
+      "opponent": "Kenny Porter",
+      "opponentSlug": "46179-kenny-porter",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "864 Fighting Championship",
+      "eventSlug": "55672-864-fighting-championship-fight-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-01-27T00:00:00.000Z",
+      "opponent": "Dexter Wright",
+      "opponentSlug": "15075-dexter-wright",
+      "result": "win",
+      "method": "other",
+      "event": "864 Fighting Championship",
+      "eventSlug": "50508-864-fighting-championship",
+      "round": 1,
+      "timeInRound": "4:54"
+    },
+    {
+      "date": "2017-07-22T00:00:00.000Z",
+      "opponent": "Cody Durden",
+      "opponentSlug": "68337-cody-durden",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "NFC 97",
+      "eventSlug": "47011-nfc-97",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-07T00:00:00.000Z",
+      "opponent": "Juan Puerta",
+      "opponentSlug": "17209-juan-puerta",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 8: Hamilton vs. Bazzi",
+      "eventSlug": "44721-lfa-8-hamilton-vs-bazzi",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-02-17T00:00:00.000Z",
+      "opponent": "Jesse Bazzi",
+      "opponentSlug": "90494-jesse-bazzi",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "WXC 67: Out Cold",
+      "eventSlug": "43176-wxc-67",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-05T00:00:00.000Z",
+      "opponent": "Chachi Tabor",
+      "opponentSlug": "65609-ichach-tabor",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "USFFC 29: Shadows of Enmity",
+      "eventSlug": "42548-usffc-29-shadows-of-enmity",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-06-03T00:00:00.000Z",
+      "opponent": "Marcus Levester",
+      "opponentSlug": "27381-marcus-levester-little-big-man",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "USFFC 27: High Voltage",
+      "eventSlug": "39706-usffc-27-high-voltage",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-03-05T00:00:00.000Z",
+      "opponent": "Graeme Prue",
+      "opponentSlug": "graeme-prue",
+      "result": "win",
+      "method": "tko",
+      "event": "USFFC 26: Edge of Revolt",
+      "eventSlug": "37163-usffc-26-edge-of-revolt",
+      "round": 1,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2015-11-14T00:00:00.000Z",
+      "opponent": "Tayshawn Autry",
+      "opponentSlug": "84645-tayshawn-autry",
+      "result": "win",
+      "method": "tko",
+      "event": "USFFC 25: Defiance",
+      "eventSlug": "35169-usffc-25-defiance",
+      "round": 1,
+      "timeInRound": "0:52"
+    },
+    {
+      "date": "2015-10-24T00:00:00.000Z",
+      "opponent": "Rodney Jordan",
+      "opponentSlug": "42531-rodney-jordan",
+      "result": "win",
+      "method": "tko",
+      "event": "Warfare FC 14",
+      "eventSlug": "35167-warfare-fc-14",
+      "round": 3,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2015-08-22T00:00:00.000Z",
+      "opponent": "Bryant Bullock",
+      "opponentSlug": "30792-bryant-bullock",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "USFFC 24: Aftershock",
+      "eventSlug": "32686-usffc-24-aftershock",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-04-18T00:00:00.000Z",
+      "opponent": "Josh Smith",
+      "opponentSlug": "50248-josh-smith",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "USFFC 22: Metal and Mayhem",
+      "eventSlug": "29074-usffc-22-metal-and-mayhem",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-22T00:00:00.000Z",
+      "opponent": "Me'shack Adams",
+      "opponentSlug": "40958-meshack-adams",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Warfare FC 13",
+      "eventSlug": "26885-warfare-fc-13-dawn-of-the-strikers",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-02-01T00:00:00.000Z",
+      "opponent": "Salvador Garcia",
+      "opponentSlug": "47209-salvador-garcia-the-chupakabra",
+      "result": "win",
+      "method": "other",
+      "event": "3FC 20: Townsend vs. Landwehr",
+      "eventSlug": "22461-3fc-20-townsend-vs-landwehr-collision-course",
+      "round": 3,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2013-03-23T00:00:00.000Z",
+      "opponent": "Jose Guerrero",
+      "opponentSlug": "42180-jose-guerrero",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-03-08T00:00:00.000Z",
+      "opponent": "Christian Patterson",
+      "opponentSlug": "43541-christian-patterson",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-19T19:10:22.614Z"
+}

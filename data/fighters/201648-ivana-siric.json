@@ -1,0 +1,220 @@
+{
+  "slug": "201648-ivana-siric",
+  "name": "Ivana Petrović",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 172,
+  "reachCm": 180,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1994-06-11",
+  "nationality": "Norway",
+  "url": "https://www.tapology.com/fightcenter/fighters/201648-ivana-siric",
+  "recentFights": [
+    {
+      "date": "2026-05-16T00:00:00.000Z",
+      "opponent": "Danielle Misteli",
+      "opponentSlug": "245997-danielle-misteli",
+      "result": null,
+      "method": "other",
+      "event": "OKTAGON 88: Machaev vs. Palokaj",
+      "eventSlug": "137670-oktagon-88",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-12-20T00:00:00.000Z",
+      "opponent": "Sara Luzar Smajić",
+      "opponentSlug": "197886-sara-luzar-smajic",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "FNC 26: Janičić vs. Oliveira",
+      "eventSlug": "131056-fnc-26",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-03T00:00:00.000Z",
+      "opponent": "Juliana Miller",
+      "opponentSlug": "114339-juliana-miller",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "123376-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-02T00:00:00.000Z",
+      "opponent": "Jamey-Lyn Horth",
+      "opponentSlug": "148703-jamey-lyn-horth",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "116421-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-27T00:00:00.000Z",
+      "opponent": "Na Liang",
+      "opponentSlug": "136810-na-liang",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "109627-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2023-07-01T00:00:00.000Z",
+      "opponent": "Luana Carolina",
+      "opponentSlug": "114251-luana-carolina-dread",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "100452-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-04-07T00:00:00.000Z",
+      "opponent": "Ewelina Woźniak",
+      "opponentSlug": "118400-ewelina-woniak",
+      "result": "win",
+      "method": "sub",
+      "event": "Ares FC 14: Lebout vs. Staropoli",
+      "eventSlug": "96199-ares-fc-14",
+      "round": 4,
+      "timeInRound": "3:05"
+    },
+    {
+      "date": "2022-09-02T00:00:00.000Z",
+      "opponent": "Alexandra Tekenah",
+      "opponentSlug": "325369-alexandra-tekenah",
+      "result": "win",
+      "method": "sub",
+      "event": "Ares FC 8: Tekenah vs. Siric",
+      "eventSlug": "88259-ares-fc-8",
+      "round": 3,
+      "timeInRound": "4:43"
+    },
+    {
+      "date": "2022-04-16T00:00:00.000Z",
+      "opponent": "Marta Waliczek",
+      "opponentSlug": "168593-marta-waliczek",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Ares FC 5: Lapilus vs. Pena",
+      "eventSlug": "87569-ares-fc-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-03T00:00:00.000Z",
+      "opponent": "Dorota Norek",
+      "opponentSlug": "118401-dorota-norek",
+      "result": "win",
+      "method": "other",
+      "event": "Ares FC 3",
+      "eventSlug": "85930-ares-fc-3-abdouraguimov-vs-godofredo",
+      "round": 1,
+      "timeInRound": "4:12"
+    },
+    {
+      "date": "2021-11-20T00:00:00.000Z",
+      "opponent": "Alline Torquato",
+      "opponentSlug": "269344-alline-torquato",
+      "result": "win",
+      "method": "tko",
+      "event": "Fight Club Rush 10",
+      "eventSlug": "83184-fight-club-rush-10",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2021-07-24T00:00:00.000Z",
+      "opponent": "Joanne Doyle",
+      "opponentSlug": "133662-joanne-doyle",
+      "result": "win",
+      "method": "other",
+      "event": "Battle Arena 62",
+      "eventSlug": "77938-battle-arena-62",
+      "round": 2,
+      "timeInRound": "4:06"
+    },
+    {
+      "date": "2020-03-07T00:00:00.000Z",
+      "opponent": "Shanelle Dyer",
+      "opponentSlug": "221195-shanelle-dyer",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors Academy South East 25",
+      "eventSlug": "66851-cage-warriors-academy-south-east-25",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-19T00:00:00.000Z",
+      "opponent": "Stephanie Evans",
+      "opponentSlug": "169601-stephanie-evans",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors Academy South East 24",
+      "eventSlug": "63271-cage-warriors-academy-south-east-24",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-08T00:00:00.000Z",
+      "opponent": "Charlie Crochet",
+      "opponentSlug": "182852-charlie-crochet",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Battle Arena 56",
+      "eventSlug": "60841-battle-arena-56",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-02T00:00:00.000Z",
+      "opponent": "Maria Kaald Andresen",
+      "opponentSlug": "196661-maria-kaald-andresen",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Battle Arena 54",
+      "eventSlug": "57659-battle-arena-54",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-15T00:00:00.000Z",
+      "opponent": "Alberte Ostermann",
+      "opponentSlug": "165076-alberte-ostermann",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Warriors Academy Denmark 2",
+      "eventSlug": "56364-cage-warriors-academy-denmark-2",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-17T00:00:00.000Z",
+      "opponent": "Melissa Mullins",
+      "opponentSlug": "188856-melissa-mullins",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Battle Arena 52",
+      "eventSlug": "54745-battle-arena-52",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:02:14.732Z"
+}

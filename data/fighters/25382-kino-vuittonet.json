@@ -1,0 +1,55 @@
+{
+  "slug": "25382-kino-vuittonet",
+  "name": "Kino Vuittonet",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/25382-kino-vuittonet",
+  "recentFights": [
+    {
+      "date": "2012-01-28T00:00:00.000Z",
+      "opponent": "Carlos Guerrero",
+      "opponentSlug": "18969-carlos-guerrero-mongoose",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-03-06T00:00:00.000Z",
+      "opponent": "Gabriel Arriola",
+      "opponentSlug": "25436-gabriel-arriola-pit-bull",
+      "result": "loss",
+      "method": "sub",
+      "event": "Gladiator Challenge",
+      "eventSlug": "5590-gladiator-challenge-domination",
+      "round": 1,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2009-10-10T00:00:00.000Z",
+      "opponent": "Max Griffin",
+      "opponentSlug": "25437-max-griffin",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:57:40.441Z"
+}

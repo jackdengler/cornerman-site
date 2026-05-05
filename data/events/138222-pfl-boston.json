@@ -1,0 +1,338 @@
+{
+  "slug": "138222-pfl-boston",
+  "name": "PFL Belfast: Kelly vs. Wilson",
+  "promotion": "Professional Fighters League",
+  "startTimeUtc": "2026-04-16T19:00:00.000Z",
+  "venueTimezone": null,
+  "venue": "SSE Arena",
+  "location": "Belfast, Northern Ireland",
+  "url": "https://www.tapology.com/fightcenter/events/138222-pfl-boston",
+  "status": "scheduled",
+  "fights": [
+    {
+      "id": "138222-pfl-boston#1",
+      "eventSlug": "138222-pfl-boston",
+      "order": 1,
+      "cardSection": "main",
+      "weightClass": "155 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "182192-darragh-kelly",
+        "name": "Darragh Kelly",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "136000-jay-jay-wilson",
+        "name": "Jay Jay Wilson",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-16T17:44:22.363Z"
+    },
+    {
+      "id": "138222-pfl-boston#2",
+      "eventSlug": "138222-pfl-boston",
+      "order": 2,
+      "cardSection": "main",
+      "weightClass": "176 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "54321-rhys-mckee",
+        "name": "Rhys McKee",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "78745-alex-lohore",
+        "name": "Alex Lohoré",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-16T17:44:22.363Z"
+    },
+    {
+      "id": "138222-pfl-boston#3",
+      "eventSlug": "138222-pfl-boston",
+      "order": 3,
+      "cardSection": "main",
+      "weightClass": "205 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "55878-tyson-pedro",
+        "name": "Tyson Pedro",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "63444-dovletdzhan-yagshimiradov",
+        "name": "Dovlet Yagshimuradov",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-16T17:44:22.363Z"
+    },
+    {
+      "id": "138222-pfl-boston#4",
+      "eventSlug": "138222-pfl-boston",
+      "order": 4,
+      "cardSection": "main",
+      "weightClass": "170 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "166291-chris-mixan",
+        "name": "Chris Mixan",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "229290-eoin-sheridan",
+        "name": "Eoin Sheridan",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-16T17:44:22.363Z"
+    },
+    {
+      "id": "138222-pfl-boston#5",
+      "eventSlug": "138222-pfl-boston",
+      "order": 5,
+      "cardSection": "main",
+      "weightClass": "145 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "152507-caolan-loughran",
+        "name": "Caolán Loughran",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "21606-alan-philpott",
+        "name": "Alan Philpott",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-16T17:44:22.363Z"
+    },
+    {
+      "id": "138222-pfl-boston#6",
+      "eventSlug": "138222-pfl-boston",
+      "order": 6,
+      "cardSection": "main",
+      "weightClass": "170 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "130312-omran-chabaan",
+        "name": "Omran Chaaban",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "204277-chequina-noso-pedro",
+        "name": "Chequina Noso Pedro",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-16T17:44:22.363Z"
+    },
+    {
+      "id": "138222-pfl-boston#7",
+      "eventSlug": "138222-pfl-boston",
+      "order": 7,
+      "cardSection": "main",
+      "weightClass": "135 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "55691-ciaran-clarke",
+        "name": "Ciaran Clarke",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "22545-dean-garnett",
+        "name": "Dean Garnett",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-16T17:44:22.363Z"
+    },
+    {
+      "id": "138222-pfl-boston#8",
+      "eventSlug": "138222-pfl-boston",
+      "order": 8,
+      "cardSection": "main",
+      "weightClass": "165 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "126006-pedro-carvalho",
+        "name": "Pedro Carvalho",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "89392-daniel-cossio",
+        "name": "Sergio Cossio",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-16T17:44:22.363Z"
+    },
+    {
+      "id": "138222-pfl-boston#9",
+      "eventSlug": "138222-pfl-boston",
+      "order": 9,
+      "cardSection": "main",
+      "weightClass": "176 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "61637-david-russell",
+        "name": "David Martinez",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "123989-giannis-basar",
+        "name": "Giannis Bachar",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-16T17:44:22.363Z"
+    },
+    {
+      "id": "138222-pfl-boston#10",
+      "eventSlug": "138222-pfl-boston",
+      "order": 10,
+      "cardSection": "main",
+      "weightClass": "135 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "65305-sean-gauci",
+        "name": "Sean Gauci",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "101080-liam-gittins",
+        "name": "Liam Gittins",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-16T17:44:22.363Z"
+    },
+    {
+      "id": "138222-pfl-boston#11",
+      "eventSlug": "138222-pfl-boston",
+      "order": 11,
+      "cardSection": "main",
+      "weightClass": "135 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "255929-eoghan-masoliver",
+        "name": "Eoghan Masoliver",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "179840-shane-mullen",
+        "name": "Shane Mullen",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-16T17:44:22.363Z"
+    },
+    {
+      "id": "138222-pfl-boston#12",
+      "eventSlug": "138222-pfl-boston",
+      "order": 12,
+      "cardSection": "main",
+      "weightClass": "125 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "214000-chelsea-hackett",
+        "name": "Chelsea Hackett",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "281167-andrea-vazquez",
+        "name": "Andrea Vázquez",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-16T17:44:22.363Z"
+    }
+  ],
+  "lastVerified": "2026-04-16T17:44:22.363Z"
+}

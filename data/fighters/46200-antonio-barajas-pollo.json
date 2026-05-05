@@ -1,0 +1,220 @@
+{
+  "slug": "46200-antonio-barajas-pollo",
+  "name": "Antonio Barajas",
+  "nickname": "El Pollo",
+  "aliases": [],
+  "recordPro": {
+    "wins": 12,
+    "losses": 8,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1991-02-19",
+  "nationality": "Tijuana, Baja California, Mexico",
+  "url": "https://www.tapology.com/fightcenter/fighters/46200-antonio-barajas-pollo",
+  "recentFights": [
+    {
+      "date": "2023-08-11T00:00:00.000Z",
+      "opponent": "Andrés Leal",
+      "opponentSlug": "79928-andres-ayala-double-a",
+      "result": "loss",
+      "method": "sub",
+      "event": "Lux Fight League 35",
+      "eventSlug": "103167-lux-fight-league-35",
+      "round": 3,
+      "timeInRound": "2:47"
+    },
+    {
+      "date": "2023-03-17T00:00:00.000Z",
+      "opponent": "David Mendoza",
+      "opponentSlug": "117354-david-mendoza",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Lux Fight League 31",
+      "eventSlug": "97707-lux-fight-league-31",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-14T00:00:00.000Z",
+      "opponent": "Carlos Calvo Calvo",
+      "opponentSlug": "95166-carlos-calvo-calvo-changuito",
+      "result": "win",
+      "method": "other",
+      "event": "Crixus MMA 4",
+      "eventSlug": "64726-crixus-mma-4",
+      "round": 3,
+      "timeInRound": "3:42"
+    },
+    {
+      "date": "2019-06-15T00:00:00.000Z",
+      "opponent": "Erik Radleim",
+      "opponentSlug": "136598-erik-radleim",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Night Champions 4",
+      "eventSlug": "64233-fight-night-champions-4",
+      "round": 1,
+      "timeInRound": "4:41"
+    },
+    {
+      "date": "2019-03-02T00:00:00.000Z",
+      "opponent": "Cristian Jimenez",
+      "opponentSlug": "13303-cristian-jimenez",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-01T00:00:00.000Z",
+      "opponent": "Erik Radleim",
+      "opponentSlug": "136598-erik-radleim",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-01T00:00:00.000Z",
+      "opponent": "Rafa García",
+      "opponentSlug": "105452-rafael-garcia-gifted",
+      "result": "loss",
+      "method": "other",
+      "event": "Fight for Glory 2",
+      "eventSlug": "34299-fight-for-glory-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-07-18T00:00:00.000Z",
+      "opponent": "Jose Lugo",
+      "opponentSlug": "96334-mike-lugo",
+      "result": "loss",
+      "method": "sub",
+      "event": "WCF 6",
+      "eventSlug": "33320-wcf-6",
+      "round": 1,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2014-02-21T00:00:00.000Z",
+      "opponent": "Alexandre Nogueira",
+      "opponentSlug": "alexandre-franca-nogueira-pequeno",
+      "result": "loss",
+      "method": "sub",
+      "event": "RDC 2",
+      "eventSlug": "22872-rdc-2",
+      "round": 1,
+      "timeInRound": "2:06"
+    },
+    {
+      "date": "2013-04-28T00:00:00.000Z",
+      "opponent": "Cristian Jimenez",
+      "opponentSlug": "13303-cristian-jimenez",
+      "result": "draw",
+      "method": "dec-split",
+      "event": "UWC: New Blood 2",
+      "eventSlug": "18576-uwc-mexico-new-blood-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-03-16T00:00:00.000Z",
+      "opponent": "Pablo Sabori",
+      "opponentSlug": "46211-pablo-sabori",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-03-02T00:00:00.000Z",
+      "opponent": "Brady Harrison",
+      "opponentSlug": "18312-brady-harrison",
+      "result": "win",
+      "method": "other",
+      "event": "UWC 13: The 13th",
+      "eventSlug": "18578-uwc-mexico-13-benitez-vs-davison",
+      "round": 1,
+      "timeInRound": "4:47"
+    },
+    {
+      "date": "2012-08-04T00:00:00.000Z",
+      "opponent": "Carlos Ernesto Ochoa",
+      "opponentSlug": "46212-carlos-ochoa",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-04-28T00:00:00.000Z",
+      "opponent": "Cristian Jimenez",
+      "opponentSlug": "13303-cristian-jimenez",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-01-29T00:00:00.000Z",
+      "opponent": "Kevin Amador",
+      "opponentSlug": "14854-kevin-amador",
+      "result": "win",
+      "method": "other",
+      "event": "UWC: New Blood 1",
+      "eventSlug": "13973-uwc-mexico-new-blood-1",
+      "round": 1,
+      "timeInRound": "3:43"
+    },
+    {
+      "date": "2011-12-03T00:00:00.000Z",
+      "opponent": "Ceasar Avila",
+      "opponentSlug": "17990-ceasar-avila-dirty-boy",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-10-16T00:00:00.000Z",
+      "opponent": "Matthew Jordan",
+      "opponentSlug": "46214-matthew-jordan",
+      "result": "win",
+      "method": "sub",
+      "event": "UWC 8: Mexican Championships",
+      "eventSlug": "8089-uwc-8-mexican-championships",
+      "round": 2,
+      "timeInRound": "2:35"
+    },
+    {
+      "date": "2010-02-12T00:00:00.000Z",
+      "opponent": "Cristian Jimenez",
+      "opponentSlug": "13303-cristian-jimenez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UWC 5: Bloody Valentine",
+      "eventSlug": "8889-uwc-5-bloody-valentine",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:35:00.677Z"
+}

@@ -1,0 +1,132 @@
+{
+  "slug": "109436-peter-lo",
+  "name": "Peter Lo",
+  "nickname": "Let Em Go",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Wisconsin, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/109436-peter-lo",
+  "recentFights": [
+    {
+      "date": "2022-01-29T00:00:00.000Z",
+      "opponent": "Oscar Jurado Sánchez",
+      "opponentSlug": "178522-oscar-alejandro-jurado-snchez",
+      "result": "loss",
+      "method": "other",
+      "event": "Chosen Few FC 20",
+      "eventSlug": "84308-chosen-few-fc-20",
+      "round": 1,
+      "timeInRound": "2:42"
+    },
+    {
+      "date": "2020-01-25T00:00:00.000Z",
+      "opponent": "Dan Sokolowski",
+      "opponentSlug": "248160-daniel-soko",
+      "result": "loss",
+      "method": "other",
+      "event": "Chosen Few FC 18",
+      "eventSlug": "64515-chosen-few-fc-18",
+      "round": 1,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2019-09-28T00:00:00.000Z",
+      "opponent": "Cristians San Martin",
+      "opponentSlug": "124503-christian-san-martin",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Chosen Few FC 17",
+      "eventSlug": "59215-chosen-few-fc-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-28T00:00:00.000Z",
+      "opponent": "Cody Linne",
+      "opponentSlug": "189477-cody-linne",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "LFA 70: Ferreira vs. Martin",
+      "eventSlug": "61142-lfa-70-ferreira-vs-martin",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-09T00:00:00.000Z",
+      "opponent": "Jordan Carrow",
+      "opponentSlug": "118196-jordan-carrow",
+      "result": "win",
+      "method": "sub",
+      "event": "Chosen Few FC 16",
+      "eventSlug": "55981-chosen-few-fc-16",
+      "round": 1,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2018-09-22T00:00:00.000Z",
+      "opponent": "Eimar Hernandez",
+      "opponentSlug": "177956-eimar-hernandez",
+      "result": "loss",
+      "method": "other",
+      "event": "Chosen Few FC 15",
+      "eventSlug": "53845-chosen-few-fc-15",
+      "round": 2,
+      "timeInRound": "1:42"
+    },
+    {
+      "date": "2018-01-27T00:00:00.000Z",
+      "opponent": "Terrin Labelle",
+      "opponentSlug": "148497-terrin-labelle",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Chosen Few FC 13",
+      "eventSlug": "49106-chosen-few-fc-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-10-07T00:00:00.000Z",
+      "opponent": "James Kohnen",
+      "opponentSlug": "111614-james-kohnen",
+      "result": "win",
+      "method": "sub",
+      "event": "Chosen Few FC 12",
+      "eventSlug": "47085-chosen-few-fc-12",
+      "round": 1,
+      "timeInRound": "0:39"
+    },
+    {
+      "date": "2012-11-16T00:00:00.000Z",
+      "opponent": "George Tamayo",
+      "opponentSlug": "174626-george-tamayo",
+      "result": "loss",
+      "method": "other",
+      "event": null,
+      "eventSlug": null,
+      "round": 3,
+      "timeInRound": "0:31"
+    },
+    {
+      "date": "2012-08-18T00:00:00.000Z",
+      "opponent": "Rod Lol",
+      "opponentSlug": "174627-rod-lol",
+      "result": "win",
+      "method": "other",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "0:49"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:43:07.329Z"
+}

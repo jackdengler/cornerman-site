@@ -1,0 +1,176 @@
+{
+  "slug": "91403-leon-taylor",
+  "name": "Leon Taylor",
+  "nickname": "The Lion",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1992-07-30",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/91403-leon-taylor",
+  "recentFights": [
+    {
+      "date": "2026-02-06T00:00:00.000Z",
+      "opponent": "Ammon Garcia",
+      "opponentSlug": "308742-ammon-garcia",
+      "result": "loss",
+      "method": "other",
+      "event": "Fierce FC 46",
+      "eventSlug": "137765-fierce-fc-46",
+      "round": 1,
+      "timeInRound": "0:54"
+    },
+    {
+      "date": "2025-11-14T00:00:00.000Z",
+      "opponent": "Teague Vigil",
+      "opponentSlug": "110204-teague-vigil",
+      "result": "loss",
+      "method": "other",
+      "event": "Fierce Challenger Series 18",
+      "eventSlug": "134711-fierce-challenger-series-18",
+      "round": 1,
+      "timeInRound": "4:33"
+    },
+    {
+      "date": "2019-04-19T00:00:00.000Z",
+      "opponent": "Stephen Stirewalt",
+      "opponentSlug": "42977-stephen-stirewalt",
+      "result": "loss",
+      "method": "sub",
+      "event": "Front Street Fights 19",
+      "eventSlug": "59192-front-street-fights-19",
+      "round": 3,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2019-02-16T00:00:00.000Z",
+      "opponent": "Brandon Pieper",
+      "opponentSlug": "3326-brandon-pieper",
+      "result": "loss",
+      "method": "other",
+      "event": "Trinity Kings 6",
+      "eventSlug": "57714-trinity-kings-6",
+      "round": 3,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2019-01-26T00:00:00.000Z",
+      "opponent": "Weston Barnes",
+      "opponentSlug": "22081-weston-barnes",
+      "result": "win",
+      "method": "sub",
+      "event": "MTF 7",
+      "eventSlug": "57287-mtf-7",
+      "round": 1,
+      "timeInRound": "2:19"
+    },
+    {
+      "date": "2018-11-16T00:00:00.000Z",
+      "opponent": "Angelo Garcia",
+      "opponentSlug": "40037-angelo-garcia",
+      "result": "win",
+      "method": "other",
+      "event": "SteelFist Fight Night",
+      "eventSlug": "56073-steelfist-fight-night-confrontation",
+      "round": 1,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2018-09-21T00:00:00.000Z",
+      "opponent": "Bryce Edminister",
+      "opponentSlug": "25046-bryce-edminister",
+      "result": "loss",
+      "method": "sub",
+      "event": "Bellator 205",
+      "eventSlug": "54285-bellator-205",
+      "round": 2,
+      "timeInRound": "1:34"
+    },
+    {
+      "date": "2018-04-28T00:00:00.000Z",
+      "opponent": "Arthur Baxter",
+      "opponentSlug": "140341-arthur-baxter",
+      "result": "win",
+      "method": "other",
+      "event": "Unsung Heroes Of MMA",
+      "eventSlug": "51458-unsung-heroes-of-mma",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-30T00:00:00.000Z",
+      "opponent": "Dustin Jones",
+      "opponentSlug": "133967-dustin-jones",
+      "result": "win",
+      "method": "sub",
+      "event": "UCF 20: Friday Night Fights",
+      "eventSlug": "47998-ucf-20",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-17T00:00:00.000Z",
+      "opponent": "Dustin Jones",
+      "opponentSlug": "133967-dustin-jones",
+      "result": "win",
+      "method": "sub",
+      "event": "KOTC: Quick Draw",
+      "eventSlug": "46419-kotc-quick-draw",
+      "round": 2,
+      "timeInRound": "2:48"
+    },
+    {
+      "date": "2016-12-09T00:00:00.000Z",
+      "opponent": "Sammy Olvera",
+      "opponentSlug": "145857-sammy-olvera-the-wild-one",
+      "result": "win",
+      "method": "sub",
+      "event": "Front Street Fights 10",
+      "eventSlug": "43135-front-street-fights-10",
+      "round": 2,
+      "timeInRound": "1:06"
+    },
+    {
+      "date": "2015-02-20T00:00:00.000Z",
+      "opponent": "Stephen Stirewalt",
+      "opponentSlug": "42977-stephen-stirewalt",
+      "result": "loss",
+      "method": "sub",
+      "event": "Front Street Fights 4",
+      "eventSlug": "28952-front-street-fights-4",
+      "round": 1,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2014-11-07T00:00:00.000Z",
+      "opponent": "Jared Crain",
+      "opponentSlug": "191253-jared-crain",
+      "result": "loss",
+      "method": "other",
+      "event": "Front Street Fights 3",
+      "eventSlug": "30470-front-street-fights-3",
+      "round": 2,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2014-08-15T00:00:00.000Z",
+      "opponent": "Vince Morales",
+      "opponentSlug": "91401-vince-morales",
+      "result": "loss",
+      "method": "other",
+      "event": "Front Street Fights 2",
+      "eventSlug": "27538-front-street-fights-2",
+      "round": 3,
+      "timeInRound": "0:52"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:57:40.291Z"
+}

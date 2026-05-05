@@ -1,0 +1,143 @@
+{
+  "slug": "72438-jacob-landin",
+  "name": "Jacob Landin",
+  "nickname": "Jiu Jitsu Jesus",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": 185,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1986-05-09",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/72438-jacob-landin",
+  "recentFights": [
+    {
+      "date": "2019-11-08T00:00:00.000Z",
+      "opponent": "Lucas Brennan",
+      "opponentSlug": "162427-lucas-brennan",
+      "result": "loss",
+      "method": "sub",
+      "event": "Bellator 233",
+      "eventSlug": "62512-bellator-233-salter-vs-van-steenis",
+      "round": 1,
+      "timeInRound": "3:38"
+    },
+    {
+      "date": "2019-07-12T00:00:00.000Z",
+      "opponent": "AJ Agazarm",
+      "opponentSlug": "207811-aj-agazarm-leao",
+      "result": "loss",
+      "method": "sub",
+      "event": "Bellator 224",
+      "eventSlug": "59237-bellator-budd-vs-rubin",
+      "round": 1,
+      "timeInRound": "4:21"
+    },
+    {
+      "date": "2017-06-10T00:00:00.000Z",
+      "opponent": "Jesse Almaraz",
+      "opponentSlug": "74140-jesse-almaraz",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fury FC 17",
+      "eventSlug": "45866-fury-fc-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-14T00:00:00.000Z",
+      "opponent": "Roy Sarabia",
+      "opponentSlug": "102651-roy-sarabia",
+      "result": "loss",
+      "method": "sub",
+      "event": "ICON: Ambition 8",
+      "eventSlug": "39430-icon-ambition-8",
+      "round": 1,
+      "timeInRound": "0:29"
+    },
+    {
+      "date": "2016-04-02T00:00:00.000Z",
+      "opponent": "Enrique Cardona",
+      "opponentSlug": "106948-enrique-cardona",
+      "result": "win",
+      "method": "tko",
+      "event": "Texas Clash Bash 4",
+      "eventSlug": "38740-texas-clash-bash-3",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-24T00:00:00.000Z",
+      "opponent": "Camilo Rodriguez",
+      "opponentSlug": "94661-camillo-rodriguez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Texas Clash Bash 2",
+      "eventSlug": "35667-texas-clash-bash-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-15T00:00:00.000Z",
+      "opponent": "Jacob Grove",
+      "opponentSlug": "108348-jacob-grove",
+      "result": "loss",
+      "method": "sub",
+      "event": "Beeville Showdown",
+      "eventSlug": "34647-beeville-showdown",
+      "round": 1,
+      "timeInRound": "1:46"
+    },
+    {
+      "date": "2015-08-01T00:00:00.000Z",
+      "opponent": "Manuel Hernandez",
+      "opponentSlug": "78492-manuel-hernandez",
+      "result": "win",
+      "method": "sub",
+      "event": "Texas Clash Bash 1",
+      "eventSlug": "33987-texas-clash-bash",
+      "round": 3,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2014-12-06T00:00:00.000Z",
+      "opponent": "Eric Wooding",
+      "opponentSlug": "78491-eric-wooding",
+      "result": "win",
+      "method": "sub",
+      "event": "Cowboys Extreme Cagefighting 20",
+      "eventSlug": "28334-cowboys-extreme-cagefighting-20",
+      "round": 2,
+      "timeInRound": "2:13"
+    },
+    {
+      "date": "2014-06-27T00:00:00.000Z",
+      "opponent": "Steve Ellis",
+      "opponentSlug": "72437-steve-ellis",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cowboys Extreme Cagefighting",
+      "eventSlug": "24899-cowboys-extreme-cagefighting",
+      "round": 3,
+      "timeInRound": "0:46"
+    },
+    {
+      "date": "2012-08-04T00:00:00.000Z",
+      "opponent": "Eric Almazan",
+      "opponentSlug": "51313-eric-almazan",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-21T06:14:32.915Z"
+}

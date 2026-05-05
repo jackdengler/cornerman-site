@@ -1,0 +1,110 @@
+{
+  "slug": "227850-francesco-mazzeo",
+  "name": "Francesco Mazzeo",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 191,
+  "reachCm": 191,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1997-09-23",
+  "nationality": "Milan, Italy",
+  "url": "https://www.tapology.com/fightcenter/fighters/227850-francesco-mazzeo",
+  "recentFights": [
+    {
+      "date": "2025-06-27T00:00:00.000Z",
+      "opponent": "Aldo Pereira",
+      "opponentSlug": "109633-aldo-pereira",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 190",
+      "eventSlug": "127518-cage-warriors-190-unplugged",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-24T00:00:00.000Z",
+      "opponent": "Kevin Christian",
+      "opponentSlug": "124745-kevin-christian",
+      "result": "loss",
+      "method": "sub",
+      "event": "Contender Series 2024",
+      "eventSlug": "112924-contender-series-2024-week-7",
+      "round": 2,
+      "timeInRound": "4:17"
+    },
+    {
+      "date": "2024-07-20T00:00:00.000Z",
+      "opponent": "Vanderlei Junior",
+      "opponentSlug": "63349-vanderlei-junior-marreta",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 174",
+      "eventSlug": "112984-cage-warriors",
+      "round": 1,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2023-11-11T00:00:00.000Z",
+      "opponent": "Angus Hewett",
+      "opponentSlug": "311496-angus-hewett",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 163",
+      "eventSlug": "99934-cage-warriors",
+      "round": 2,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2023-05-06T00:00:00.000Z",
+      "opponent": "Joan Arastey",
+      "opponentSlug": "159852-joan-arastey",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 154",
+      "eventSlug": "98570-cage-warriors-154-rome",
+      "round": 1,
+      "timeInRound": "0:59"
+    },
+    {
+      "date": "2021-12-18T00:00:00.000Z",
+      "opponent": "Alessandro Esposito",
+      "opponentSlug": "201697-alessandro-esposito",
+      "result": "win",
+      "method": "other",
+      "event": "Lugano In The Cage 4",
+      "eventSlug": "85489-lugano-in-the-cage-4",
+      "round": 1,
+      "timeInRound": "0:43"
+    },
+    {
+      "date": "2019-06-16T00:00:00.000Z",
+      "opponent": "Mario Orofino",
+      "opponentSlug": "227851-mario-orofino",
+      "result": "win",
+      "method": "other",
+      "event": "MMA League Amateur 11",
+      "eventSlug": "61216-mma-league-amateur-11",
+      "round": 1,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2019-05-18T00:00:00.000Z",
+      "opponent": "Enrico Legori",
+      "opponentSlug": "344422-enrico-legori",
+      "result": "win",
+      "method": "other",
+      "event": "MMA League Amateur 10",
+      "eventSlug": "62359-mma-league-amateur-10",
+      "round": 1,
+      "timeInRound": "2:42"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:16:52.860Z"
+}

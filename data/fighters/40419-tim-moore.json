@@ -1,0 +1,253 @@
+{
+  "slug": "40419-tim-moore",
+  "name": "Tim Moore",
+  "nickname": "Quickdraw",
+  "aliases": [],
+  "recordPro": {
+    "wins": 13,
+    "losses": 9,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1987-01-17",
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/40419-tim-moore",
+  "recentFights": [
+    {
+      "date": "2025-11-14T00:00:00.000Z",
+      "opponent": "Shane Parker",
+      "opponentSlug": "83673-shane-parker",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Eternal MMA 100",
+      "eventSlug": "132091-eternal-mma-100",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-15T00:00:00.000Z",
+      "opponent": "Rod Costa",
+      "opponentSlug": "160502-rod-costa",
+      "result": "loss",
+      "method": "sub",
+      "event": "Eternal MMA 94",
+      "eventSlug": "119506-eternal-mma-94",
+      "round": 2,
+      "timeInRound": "4:41"
+    },
+    {
+      "date": "2019-05-25T00:00:00.000Z",
+      "opponent": "Steve Erceg",
+      "opponentSlug": "132326-stephen-erceg",
+      "result": "loss",
+      "method": "sub",
+      "event": "Eternal MMA 45",
+      "eventSlug": "59594-eternal-mma-45",
+      "round": 3,
+      "timeInRound": "3:15"
+    },
+    {
+      "date": "2017-12-09T00:00:00.000Z",
+      "opponent": "Trent Girdham",
+      "opponentSlug": "106218-trent-girdham-nioloco",
+      "result": "loss",
+      "method": "sub",
+      "event": "ACB 76: Young Eagles 23",
+      "eventSlug": "48516-acb-76-australia",
+      "round": 2,
+      "timeInRound": "4:30"
+    },
+    {
+      "date": "2017-04-08T00:00:00.000Z",
+      "opponent": "Sean Gauci",
+      "opponentSlug": "65305-sean-gauci",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Reign Fighting 3",
+      "eventSlug": "44514-reign-fighting-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-02-18T00:00:00.000Z",
+      "opponent": "Paul Loga",
+      "opponentSlug": "86707-paul-loga",
+      "result": "win",
+      "method": "other",
+      "event": "XFC 29",
+      "eventSlug": "42980-xfc-29",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-30T00:00:00.000Z",
+      "opponent": "Yusaku Nakamura",
+      "opponentSlug": "14725-Yusaku-Nakamura",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "WSOF Global Championship 3",
+      "eventSlug": "40213-wsof-global-3-philippines",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-12-12T00:00:00.000Z",
+      "opponent": "Luke Morris",
+      "opponentSlug": "25374-luke-morris",
+      "result": "win",
+      "method": "sub",
+      "event": "Eternal MMA 14",
+      "eventSlug": "36150-eternal-mma-14",
+      "round": 2,
+      "timeInRound": "3:35"
+    },
+    {
+      "date": "2015-09-26T00:00:00.000Z",
+      "opponent": "Shaun Etchell",
+      "opponentSlug": "39474-shaun-etchell",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 12",
+      "eventSlug": "35660-eternal-mma-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-29T00:00:00.000Z",
+      "opponent": "Shane Parker",
+      "opponentSlug": "83673-shane-parker",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 8",
+      "eventSlug": "27596-eternal-mma-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-08-30T00:00:00.000Z",
+      "opponent": "Ryan Lambert",
+      "opponentSlug": "32787-ryan-lambert",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Carnage in the Cage 3",
+      "eventSlug": "26204-citc-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-07-19T00:00:00.000Z",
+      "opponent": "Shaun Etchell",
+      "opponentSlug": "39474-shaun-etchell",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 6",
+      "eventSlug": "24753-eternal-mma-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-11-16T00:00:00.000Z",
+      "opponent": "Chris Morris",
+      "opponentSlug": "28278-chris-morris-kewl-bonez",
+      "result": "win",
+      "method": "sub",
+      "event": "Fightworld Cup 16",
+      "eventSlug": "21027-fightworld-cup-16",
+      "round": 1,
+      "timeInRound": "4:40"
+    },
+    {
+      "date": "2013-09-28T00:00:00.000Z",
+      "opponent": "Greg Penaloza",
+      "opponentSlug": "25415-greg-penaloza",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 3",
+      "eventSlug": "20603-eternal-mma-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-07-13T00:00:00.000Z",
+      "opponent": "Michael Roger",
+      "opponentSlug": "28316-michael-roger",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Nitro MMA 9",
+      "eventSlug": "18774-nitro-mma-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-05-11T00:00:00.000Z",
+      "opponent": "Adam Corbett",
+      "opponentSlug": "30332-adam-corbett",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-09-15T00:00:00.000Z",
+      "opponent": "Jacob Mahony",
+      "opponentSlug": "jacob-mahony-j-money",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-08-04T00:00:00.000Z",
+      "opponent": "Matt George",
+      "opponentSlug": "28279-matthew-george",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-05-05T00:00:00.000Z",
+      "opponent": "Michael Roger",
+      "opponentSlug": "28316-michael-roger",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-11-19T00:00:00.000Z",
+      "opponent": "Jack Gooderham",
+      "opponentSlug": "25414-jack-gooderham",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-05-28T00:00:00.000Z",
+      "opponent": "Thanh Vu",
+      "opponentSlug": "40415-thanh-vu",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:13:58.116Z"
+}

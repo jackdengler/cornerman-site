@@ -1,0 +1,176 @@
+{
+  "slug": "151861-cedric-katambwa",
+  "name": "Cedric Katambwa",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": 191,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1990-12-13",
+  "nationality": "Democratic Republic of Congo",
+  "url": "https://www.tapology.com/fightcenter/fighters/151861-cedric-katambwa",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Kelton Sneve",
+      "opponentSlug": "213615-kelton-sneve",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 231: Lozej vs. Ibarra",
+      "eventSlug": "140675-lfa-231-trembley-vs-johns",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-07-12T00:00:00.000Z",
+      "opponent": "Stanley Dorsainvil",
+      "opponentSlug": "232589-stanley-dorsainvil",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 188: Sweeney vs. Do Nascimento",
+      "eventSlug": "113977-lfa-188-sweeney-vs-do-nascimento",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-17T00:00:00.000Z",
+      "opponent": "Bret Cooper",
+      "opponentSlug": "71318-bret-cooper-12-step",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 172: Davis vs. Chapolin",
+      "eventSlug": "106248-lfa-172-davis-vs-chapolin",
+      "round": 2,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2023-05-19T00:00:00.000Z",
+      "opponent": "Austin Wourms",
+      "opponentSlug": "110963-austin-wourms",
+      "result": "nc",
+      "method": "other",
+      "event": "LFA 158: Lebosnoyani vs. Jones",
+      "eventSlug": "100039-lfa-158-lebosnoyani-vs-jones",
+      "round": 1,
+      "timeInRound": "0:53"
+    },
+    {
+      "date": "2023-01-06T00:00:00.000Z",
+      "opponent": "Adam Garcia",
+      "opponentSlug": "331443-adam-garcia",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 149: Bunes vs. Horiuchi",
+      "eventSlug": "95845-lfa-149-bunes-vs-horiuchi",
+      "round": 1,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2022-07-08T00:00:00.000Z",
+      "opponent": "James Hay",
+      "opponentSlug": "100016-james-hay",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 135: Leyva vs. Reis",
+      "eventSlug": "90204-lfa-135-leyva-vs-reis",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-03T00:00:00.000Z",
+      "opponent": "Ray Orsborn",
+      "opponentSlug": "174087-ray-orsborn-panama",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 119: Silveira vs. Revel",
+      "eventSlug": "84173-lfa-119-silveira-vs-revel",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-28T00:00:00.000Z",
+      "opponent": "Princeton Jackson",
+      "opponentSlug": "190994-princeton-jackson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Iron Boy MMA 12",
+      "eventSlug": "53838-iron-boy-mma-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-19T00:00:00.000Z",
+      "opponent": "Breon Sparrow",
+      "opponentSlug": "98123-breon-sparrow",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Iron Boy MMA 11",
+      "eventSlug": "52598-iron-boy-mma-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-23T00:00:00.000Z",
+      "opponent": "Justin O'Connor",
+      "opponentSlug": "162166-justin-oconnor",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Iron Boy MMA 8",
+      "eventSlug": "48124-iron-boy-mma-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-19T00:00:00.000Z",
+      "opponent": "Tyler Lanham",
+      "opponentSlug": "135358-tyler-lanham",
+      "result": "win",
+      "method": "dec-split",
+      "event": "WFF 35",
+      "eventSlug": "47012-wff-35",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-20T00:00:00.000Z",
+      "opponent": "Levi Escobar",
+      "opponentSlug": "93504-levi-escobar",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combate 13",
+      "eventSlug": "45087-combate-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-25T00:00:00.000Z",
+      "opponent": "Francisco Sanchez",
+      "opponentSlug": "127904-francisco-sanchez",
+      "result": "win",
+      "method": "other",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2017-03-10T00:00:00.000Z",
+      "opponent": "JohnPaul Robinson",
+      "opponentSlug": "151862-johnpaul-robinson",
+      "result": "win",
+      "method": "tko",
+      "event": "Iron Boy MMA 5",
+      "eventSlug": "44652-iron-boy-mma-5",
+      "round": 2,
+      "timeInRound": "2:23"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:59:51.227Z"
+}

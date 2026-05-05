@@ -1,0 +1,231 @@
+{
+  "slug": "101823-joshua-culibao",
+  "name": "Josh Culibao",
+  "nickname": "Kuya",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 4,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 177,
+  "reachCm": 185,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1994-05-24",
+  "nationality": "Sydney, New South Wales, Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/101823-joshua-culibao",
+  "recentFights": [
+    {
+      "date": "2024-08-17T00:00:00.000Z",
+      "opponent": "Ricardo Ramos",
+      "opponentSlug": "56182-ricardo-ramos-carcacinha",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC 305: Du Plessis vs. Adesanya",
+      "eventSlug": "111885-ufc-305",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-16T00:00:00.000Z",
+      "opponent": "Danny Silva",
+      "opponentSlug": "174093-danny-silva",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "108288-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-22T00:00:00.000Z",
+      "opponent": "Lerone Murphy",
+      "opponentSlug": "84753-lerone-murphy",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "99813-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-11T00:00:00.000Z",
+      "opponent": "Melsik Baghdasaryan",
+      "opponentSlug": "75671-melsik-bagdasaryan",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC 284: Makhachev vs. Volkanovski",
+      "eventSlug": "93764-ufc-284",
+      "round": 2,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2022-06-11T00:00:00.000Z",
+      "opponent": "Seung Woo Choi",
+      "opponentSlug": "108867-seung-woo-choi",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC 275: Teixeira vs. Procházka",
+      "eventSlug": "87286-ufc-275-teixeira-vs-prochazka",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-22T00:00:00.000Z",
+      "opponent": "Shayilan Nuerdanbieke",
+      "opponentSlug": "132976-yilan-sha",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "77264-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-10-03T00:00:00.000Z",
+      "opponent": "Charles Jourdain",
+      "opponentSlug": "36724-charles-jourdain",
+      "result": "draw",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "71155-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-22T00:00:00.000Z",
+      "opponent": "Jalin Turner",
+      "opponentSlug": "68396-jalin-turner",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC on ESPN+ 26",
+      "eventSlug": "64478-ufc-on-espn",
+      "round": 2,
+      "timeInRound": "3:01"
+    },
+    {
+      "date": "2019-03-01T00:00:00.000Z",
+      "opponent": "Josh Payne",
+      "opponentSlug": "8931-josh-payne-major",
+      "result": "win",
+      "method": "tko",
+      "event": "Superfight MMA 10",
+      "eventSlug": "57791-superfight-mma-10",
+      "round": 1,
+      "timeInRound": "3:02"
+    },
+    {
+      "date": "2018-11-10T00:00:00.000Z",
+      "opponent": "Rodolfo Marques",
+      "opponentSlug": "13657-rodolfo-marques",
+      "result": "win",
+      "method": "other",
+      "event": "Diamondback FC 7",
+      "eventSlug": "55136-diamondback-fc-7",
+      "round": 4,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-02T00:00:00.000Z",
+      "opponent": "James McGlashan",
+      "opponentSlug": "76026-jamed-mcglashan",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Urban Fight Night 13",
+      "eventSlug": "49014-urban-fight-night-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-31T00:00:00.000Z",
+      "opponent": "Jordan Cameron",
+      "opponentSlug": "29503-jordan-cameron",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Hex Fight Series 8",
+      "eventSlug": "43840-hex-fight-series-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-02T00:00:00.000Z",
+      "opponent": "Raphael Berthet",
+      "opponentSlug": "87484-raphael-berthet",
+      "result": "win",
+      "method": "tko",
+      "event": "Hex Fight Series 7",
+      "eventSlug": "42141-hex-fight-series-7",
+      "round": 5,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2016-08-27T00:00:00.000Z",
+      "opponent": "Simon Arentz",
+      "opponentSlug": "86539-simon-arentz",
+      "result": "win",
+      "method": "other",
+      "event": "Urban Fight Night 8",
+      "eventSlug": "40413-urban-fight-night-8",
+      "round": 1,
+      "timeInRound": "4:49"
+    },
+    {
+      "date": "2016-05-07T00:00:00.000Z",
+      "opponent": "Brad Shortland",
+      "opponentSlug": "81105-brad-shortland",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Urban Fight Night 7",
+      "eventSlug": "39523-urban-fight-night-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-02-19T00:00:00.000Z",
+      "opponent": "Paul Traish",
+      "opponentSlug": "81460-paul-traish",
+      "result": "win",
+      "method": "tko",
+      "event": "Superfight MMA 2",
+      "eventSlug": "37930-superfight-mma-2",
+      "round": 1,
+      "timeInRound": "4:28"
+    },
+    {
+      "date": "2015-07-26T00:00:00.000Z",
+      "opponent": "Blake Donnelly",
+      "opponentSlug": "63105-blake-donnelly",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Urban Fight Night 3",
+      "eventSlug": "34220-urban-fight-night-3-revenge",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-04-19T00:00:00.000Z",
+      "opponent": "Mark Hedges",
+      "opponentSlug": "101824-mark-hedges",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Urban Fight Night 2",
+      "eventSlug": "32270-urban-fight-night-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-02-15T00:00:00.000Z",
+      "opponent": "Michael Moss",
+      "opponentSlug": "61093-michael-moss",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Conquest 3",
+      "eventSlug": "22071-cage-conquest-3",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:06:45.048Z"
+}

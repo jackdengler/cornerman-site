@@ -1,0 +1,143 @@
+{
+  "slug": "59720-orell-fisher",
+  "name": "Orell Fisher",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1987-12-08",
+  "nationality": "Wyoming",
+  "url": "https://www.tapology.com/fightcenter/fighters/59720-orell-fisher",
+  "recentFights": [
+    {
+      "date": "2026-02-28T00:00:00.000Z",
+      "opponent": "Tyler Scott",
+      "opponentSlug": "58639-tyler-scott",
+      "result": "loss",
+      "method": "tko",
+      "event": "Maximus 18",
+      "eventSlug": "137714-maximus-18",
+      "round": 1,
+      "timeInRound": "4:11"
+    },
+    {
+      "date": "2025-02-22T00:00:00.000Z",
+      "opponent": "Michael Banks",
+      "opponentSlug": "209529-michael-banks",
+      "result": "loss",
+      "method": "sub",
+      "event": "Shamrock FC 361",
+      "eventSlug": "122210-shamrock-fc-361",
+      "round": 1,
+      "timeInRound": "3:18"
+    },
+    {
+      "date": "2025-01-04T00:00:00.000Z",
+      "opponent": "Miljan Djukanovic",
+      "opponentSlug": "272784-miljan-djukanovic",
+      "result": "loss",
+      "method": "sub",
+      "event": "Absolute Combat League 6",
+      "eventSlug": "120564-absolute-combat-league-6",
+      "round": 2,
+      "timeInRound": "3:48"
+    },
+    {
+      "date": "2024-09-07T00:00:00.000Z",
+      "opponent": "Kody McGehee",
+      "opponentSlug": "205313-kody-mcgehee",
+      "result": "loss",
+      "method": "other",
+      "event": "Shamrock FC 357",
+      "eventSlug": "113060-shamrock-fc-357",
+      "round": 1,
+      "timeInRound": "2:35"
+    },
+    {
+      "date": "2020-01-11T00:00:00.000Z",
+      "opponent": "Evan Elder",
+      "opponentSlug": "108144-evan-elders",
+      "result": "loss",
+      "method": "other",
+      "event": "Shamrock FC 327",
+      "eventSlug": "64514-shamrock-fc-327",
+      "round": 1,
+      "timeInRound": "3:25"
+    },
+    {
+      "date": "2019-11-01T00:00:00.000Z",
+      "opponent": "Derik Scott",
+      "opponentSlug": "116506-derik-scott",
+      "result": "loss",
+      "method": "sub",
+      "event": "Shamrock FC 324",
+      "eventSlug": "62138-shamrock-fc-324",
+      "round": 2,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2015-06-26T00:00:00.000Z",
+      "opponent": "Todd Liberati",
+      "opponentSlug": "41267-todd-liberati",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Total Fight Challenge",
+      "eventSlug": "33294-total-fight-challenge",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-04-24T00:00:00.000Z",
+      "opponent": "Mazen Ballout",
+      "opponentSlug": "84954-mazen-ballout",
+      "result": "loss",
+      "method": "sub",
+      "event": "Total Fight Challenge",
+      "eventSlug": "30653-total-fight-challenge",
+      "round": 2,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2015-02-07T00:00:00.000Z",
+      "opponent": "William Wilson",
+      "opponentSlug": "58384-william-wilson",
+      "result": "win",
+      "method": "tko",
+      "event": "Total Fight Challenge",
+      "eventSlug": "29295-total-fight-challenge",
+      "round": 2,
+      "timeInRound": "2:39"
+    },
+    {
+      "date": "2014-11-21T00:00:00.000Z",
+      "opponent": "Mike Velez",
+      "opponentSlug": "86101-mike-velez",
+      "result": "win",
+      "method": "other",
+      "event": "Total Fight Challenge",
+      "eventSlug": "27591-total-fight-challenge",
+      "round": 2,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2013-11-22T00:00:00.000Z",
+      "opponent": "Joshua Donovan",
+      "opponentSlug": "59719-joshua-donovan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Total Fight Challenge",
+      "eventSlug": "21359-total-fight",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:42:47.135Z"
+}

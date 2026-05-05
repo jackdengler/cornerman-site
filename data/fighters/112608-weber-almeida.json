@@ -1,0 +1,110 @@
+{
+  "slug": "112608-weber-almeida",
+  "name": "Weber Almeida",
+  "nickname": "The Silverback",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 178,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1987-12-01",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/112608-weber-almeida",
+  "recentFights": [
+    {
+      "date": "2023-08-11T00:00:00.000Z",
+      "opponent": "Lucas Brennan",
+      "opponentSlug": "162427-lucas-brennan",
+      "result": "loss",
+      "method": "other",
+      "event": "Bellator 298",
+      "eventSlug": "101316-bellator-mma",
+      "round": 3,
+      "timeInRound": "3:32"
+    },
+    {
+      "date": "2022-10-01T00:00:00.000Z",
+      "opponent": "Ryan Lilley",
+      "opponentSlug": "48775-ryan-lilley",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Bellator 286",
+      "eventSlug": "91824-bellator-286-pitbull-vs-borics",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-22T00:00:00.000Z",
+      "opponent": "Fabricio Franco",
+      "opponentSlug": "67605-fabricio-franco-sub-zero",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 278",
+      "eventSlug": "87504-bellator-278",
+      "round": 1,
+      "timeInRound": "3:01"
+    },
+    {
+      "date": "2021-05-07T00:00:00.000Z",
+      "opponent": "Johnny Soto",
+      "opponentSlug": "186117-johnny-soto",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bellator 258",
+      "eventSlug": "77132-bellator-258-archuleta-vs-pettis",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-08-21T00:00:00.000Z",
+      "opponent": "Salim Mukhidinov",
+      "opponentSlug": "101865-salim-mukhidinov",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 244",
+      "eventSlug": "70974-bellator-mma",
+      "round": 1,
+      "timeInRound": "3:57"
+    },
+    {
+      "date": "2019-09-28T00:00:00.000Z",
+      "opponent": "Castle Williams",
+      "opponentSlug": "47707-castle-williams",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 228",
+      "eventSlug": "61700-bellator-228-pitbull-vs-archuleta",
+      "round": 2,
+      "timeInRound": "0:20"
+    },
+    {
+      "date": "2019-01-26T00:00:00.000Z",
+      "opponent": "Odan Chinchilla",
+      "opponentSlug": "208200-odan-ruiz-chinchilla",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 214",
+      "eventSlug": "55750-bellator",
+      "round": 1,
+      "timeInRound": "3:04"
+    },
+    {
+      "date": "2015-09-05T00:00:00.000Z",
+      "opponent": "Bruno Sena",
+      "opponentSlug": "112609-bruno-senna",
+      "result": "win",
+      "method": "tko",
+      "event": "Brutality MMA 1",
+      "eventSlug": "35124-brutality-mma-1",
+      "round": 1,
+      "timeInRound": "2:20"
+    }
+  ],
+  "lastVerified": "2026-04-21T06:14:17.430Z"
+}

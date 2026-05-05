@@ -1,0 +1,209 @@
+{
+  "slug": "148375-rafael-gigante",
+  "name": "Raphael Pessoa",
+  "nickname": "BEBEZÃO",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 190,
+  "reachCm": 198,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1989-03-09",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/148375-rafael-gigante",
+  "recentFights": [
+    {
+      "date": "2025-05-10T00:00:00.000Z",
+      "opponent": "Michael Smolik",
+      "opponentSlug": "237476-michael-smolik",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "We Love MMA 79",
+      "eventSlug": "117751-we-love-mma-79",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-01-24T00:00:00.000Z",
+      "opponent": "Boris Atangana",
+      "opponentSlug": "337528-alan-mbarga",
+      "result": "loss",
+      "method": "tko",
+      "event": "KOF 13",
+      "eventSlug": "117763-kof",
+      "round": 1,
+      "timeInRound": "2:05"
+    },
+    {
+      "date": "2022-07-22T00:00:00.000Z",
+      "opponent": "Adam Bogatyrev",
+      "opponentSlug": "157314-adam-bogatirov",
+      "result": "loss",
+      "method": "other",
+      "event": "ACA 141: Froes vs. Suleymanov",
+      "eventSlug": "89288-aca-141-bagov-vs-magomedov",
+      "round": 1,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2021-11-19T00:00:00.000Z",
+      "opponent": "Daniel James",
+      "opponentSlug": "33088-daniel-james",
+      "result": "loss",
+      "method": "other",
+      "event": "ACA 132: Johnson vs. Vakhaev",
+      "eventSlug": "83356-aca-132-johnson-vs-vakhaev",
+      "round": 2,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2021-08-28T00:00:00.000Z",
+      "opponent": "Mukhamad Vakhaev",
+      "opponentSlug": "62159-mukhomad-vakhaev",
+      "result": "loss",
+      "method": "other",
+      "event": "ACA 127: Albaskhanov vs. Kerefov",
+      "eventSlug": "79575-aca-127-khasbulaev-vs-kishev",
+      "round": 1,
+      "timeInRound": "4:28"
+    },
+    {
+      "date": "2020-07-25T00:00:00.000Z",
+      "opponent": "Tanner Boser",
+      "opponentSlug": "35149-tanner-boser",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "69764-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "2:36"
+    },
+    {
+      "date": "2019-10-26T00:00:00.000Z",
+      "opponent": "Jeff Hughes",
+      "opponentSlug": "28227-jeff-hughes-lights-out",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC on ESPN+ 20",
+      "eventSlug": "60321-ufc-on-espn-20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-08-10T00:00:00.000Z",
+      "opponent": "Ciryl Gane",
+      "opponentSlug": "187819-cyril-gane-real-c",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC on ESPN+ 14",
+      "eventSlug": "60313-ufc-on-espn-14",
+      "round": 1,
+      "timeInRound": "4:12"
+    },
+    {
+      "date": "2018-09-21T00:00:00.000Z",
+      "opponent": "Brian Heden",
+      "opponentSlug": "brian-heden",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 50: Allen vs. Hiley",
+      "eventSlug": "54853-lfa-50-allen-vs-hiley",
+      "round": 1,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2017-11-26T00:00:00.000Z",
+      "opponent": "Wagner Maia",
+      "opponentSlug": "80506-wagner-maia-pezinho",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shooto Brasil 78",
+      "eventSlug": "49336-shooto-brasil-78",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-26T00:00:00.000Z",
+      "opponent": "Diego Pimenta",
+      "opponentSlug": "119879-diego-sagat",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-15T00:00:00.000Z",
+      "opponent": "Carlos Alexandre",
+      "opponentSlug": "161847-carlos-alexandre-xando",
+      "result": "win",
+      "method": "other",
+      "event": "NCE 16: Ladies",
+      "eventSlug": "46958-nce-16-ladies",
+      "round": 1,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2017-06-11T00:00:00.000Z",
+      "opponent": "Luan Mendes Oliveira",
+      "opponentSlug": "75160-luan-oliveira",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-13T00:00:00.000Z",
+      "opponent": "Leonardo Alves",
+      "opponentSlug": "45633-leonardo-alves-nascimento-leo-gigante",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "NCE 13",
+      "eventSlug": "45780-nce-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-18T00:00:00.000Z",
+      "opponent": "Fábio Marongiu",
+      "opponentSlug": "42654-fbio-cesar-marongiu",
+      "result": "win",
+      "method": "other",
+      "event": "NCE 11",
+      "eventSlug": "44759-nce-11",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2017-02-04T00:00:00.000Z",
+      "opponent": "Romulo Ismael",
+      "opponentSlug": "148379-romulo-ismael-jon-jones",
+      "result": "win",
+      "method": "sub",
+      "event": "NCE 10",
+      "eventSlug": "43892-nce-10",
+      "round": 1,
+      "timeInRound": "1:34"
+    },
+    {
+      "date": "2016-12-10T00:00:00.000Z",
+      "opponent": "Bruno Luiz Nicolau",
+      "opponentSlug": "139306-bruno-luiz-nicolau",
+      "result": "win",
+      "method": "tko",
+      "event": "NCE 9",
+      "eventSlug": "43012-nce-9",
+      "round": 1,
+      "timeInRound": "0:26"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:58:40.708Z"
+}

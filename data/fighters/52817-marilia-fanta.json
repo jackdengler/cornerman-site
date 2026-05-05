@@ -1,0 +1,88 @@
+{
+  "slug": "52817-marilia-fanta",
+  "name": "Marilia Morais",
+  "nickname": "The Tigress",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 169,
+  "reachCm": 168,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1988-11-14",
+  "nationality": "Fortaleza, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/52817-marilia-fanta",
+  "recentFights": [
+    {
+      "date": "2025-04-04T00:00:00.000Z",
+      "opponent": "Joy Pendell",
+      "opponentSlug": "196440-joy-pendell",
+      "result": "loss",
+      "method": "sub",
+      "event": "Invicta FC 61",
+      "eventSlug": "124755-invicta-fc-61-ferreira-vs-palacios",
+      "round": 1,
+      "timeInRound": "2:28"
+    },
+    {
+      "date": "2024-08-16T00:00:00.000Z",
+      "opponent": "Michelle Montague",
+      "opponentSlug": "237486-michell-montague",
+      "result": "loss",
+      "method": "sub",
+      "event": "PFL 8: 2024 Playoffs",
+      "eventSlug": "113641-pfl-8-2024-playoffs",
+      "round": 1,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2023-07-14T00:00:00.000Z",
+      "opponent": "Rebecca Evans",
+      "opponentSlug": "164432-rebecca-evans",
+      "result": "loss",
+      "method": "other",
+      "event": "CFFC 121: Perez vs. Vasil",
+      "eventSlug": "102124-cffc-121-perez-vs-vasil",
+      "round": 2,
+      "timeInRound": "3:25"
+    },
+    {
+      "date": "2018-07-21T00:00:00.000Z",
+      "opponent": "Yue Tang",
+      "opponentSlug": "192803-yue-tang",
+      "result": "win",
+      "method": "tko",
+      "event": "Heroine FC",
+      "eventSlug": "54279-heroine-fc-2",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-18T00:00:00.000Z",
+      "opponent": "Polly Lima",
+      "opponentSlug": "129379-polly-lima",
+      "result": "win",
+      "method": "tko",
+      "event": null,
+      "eventSlug": null,
+      "round": 3,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2017-06-10T00:00:00.000Z",
+      "opponent": "Ana Nicoly",
+      "opponentSlug": "159509-ana-nicoly",
+      "result": "win",
+      "method": "sub",
+      "event": "Aspera FC 53",
+      "eventSlug": "45118-aspera-fc-53",
+      "round": 1,
+      "timeInRound": "1:04"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:54:38.446Z"
+}

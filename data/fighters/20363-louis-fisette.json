@@ -1,0 +1,165 @@
+{
+  "slug": "20363-louis-fisette",
+  "name": "Louis Fisette",
+  "nickname": "Petit Pain",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1990-04-02",
+  "nationality": "Winnipeg, Manitoba, Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/20363-louis-fisette",
+  "recentFights": [
+    {
+      "date": "2014-10-24T00:00:00.000Z",
+      "opponent": "Rick Pfeifer",
+      "opponentSlug": "19059-rick-pfeifer",
+      "result": "win",
+      "method": "sub",
+      "event": "Xcessive Force FC 5",
+      "eventSlug": "25096-xcessive-force-fc-5",
+      "round": 1,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2013-06-14T00:00:00.000Z",
+      "opponent": "Davey Grant",
+      "opponentSlug": "18815-david-grant",
+      "result": "loss",
+      "method": "sub",
+      "event": "The Ultimate Fighter Season 18",
+      "eventSlug": "33760-the-ultimate-fighter-season-18",
+      "round": 2,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2013-05-29T00:00:00.000Z",
+      "opponent": "Chris Holdsworth",
+      "opponentSlug": "16504-chris-holdsworth",
+      "result": "loss",
+      "method": "sub",
+      "event": "The Ultimate Fighter Season 18",
+      "eventSlug": "33759-the-ultimate-fighter-season-18",
+      "round": 1,
+      "timeInRound": "4:09"
+    },
+    {
+      "date": "2013-03-23T00:00:00.000Z",
+      "opponent": "Brent Fryia",
+      "opponentSlug": "24808-brent-fryia-the-professor",
+      "result": "win",
+      "method": "sub",
+      "event": "AFC 16: Uprising",
+      "eventSlug": "17589-afc-16-uprising",
+      "round": 1,
+      "timeInRound": "1:34"
+    },
+    {
+      "date": "2012-11-03T00:00:00.000Z",
+      "opponent": "Diego Wilson",
+      "opponentSlug": "13045-diego-wilson",
+      "result": "win",
+      "method": "other",
+      "event": "AFC 13: Natural Selection",
+      "eventSlug": "15852-aggression-fc-13",
+      "round": 1,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2012-09-15T00:00:00.000Z",
+      "opponent": "Allan Munroe",
+      "opponentSlug": "19066-allan-munroe",
+      "result": "win",
+      "method": "sub",
+      "event": "AFC 11: Takeover",
+      "eventSlug": "14706-aggression-fc-11",
+      "round": 1,
+      "timeInRound": "2:41"
+    },
+    {
+      "date": "2012-02-11T00:00:00.000Z",
+      "opponent": "Curtis Constant",
+      "opponentSlug": "29304-curtis-constant",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-11-25T00:00:00.000Z",
+      "opponent": "Mike O'Neill",
+      "opponentSlug": "17826-mike-oneill",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-05-13T00:00:00.000Z",
+      "opponent": "Mike Glover",
+      "opponentSlug": "20398-mike-glover",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-01-07T00:00:00.000Z",
+      "opponent": "Daniel Mark",
+      "opponentSlug": "19102-daniel-mark",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-12-04T00:00:00.000Z",
+      "opponent": "Ben Fraser",
+      "opponentSlug": "45380-ben-fraser",
+      "result": "loss",
+      "method": "dec-majority",
+      "event": "Saturday Night Fights 2",
+      "eventSlug": "18408-saturday-night-fights-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-04-17T00:00:00.000Z",
+      "opponent": "Joshua Harley",
+      "opponentSlug": "23956-josh-harley",
+      "result": "win",
+      "method": "other",
+      "event": "Saturday Night Fights 1",
+      "eventSlug": "18409-saturday-night-fights-1",
+      "round": 1,
+      "timeInRound": "1:53"
+    },
+    {
+      "date": "2010-01-30T00:00:00.000Z",
+      "opponent": "Andy Selvig",
+      "opponentSlug": "13082-andy-selvig",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:36:14.684Z"
+}

@@ -1,0 +1,154 @@
+{
+  "slug": "193326-tamires-vidal",
+  "name": "Tamires Vidal",
+  "nickname": "Tratora",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": 174,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1998-07-27",
+  "nationality": "Niteroi, Rio de Janeiro, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/193326-tamires-vidal",
+  "recentFights": [
+    {
+      "date": "2026-01-17T00:00:00.000Z",
+      "opponent": "Wiktoria Czyżewska",
+      "opponentSlug": "256780-wiktoria-czyzewska",
+      "result": "loss",
+      "method": "other",
+      "event": "KSW 114: Parnasse vs. Held",
+      "eventSlug": "136117-ksw-114",
+      "round": 1,
+      "timeInRound": "4:10"
+    },
+    {
+      "date": "2024-10-19T00:00:00.000Z",
+      "opponent": "Joselyne Edwards",
+      "opponentSlug": "98366-yoselin-edwards",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "116368-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "4:33"
+    },
+    {
+      "date": "2024-05-18T00:00:00.000Z",
+      "opponent": "Melissa Gatto",
+      "opponentSlug": "164565-melissa-gatto",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "110359-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2023-09-23T00:00:00.000Z",
+      "opponent": "Montse Rendon",
+      "opponentSlug": "213856-montse-rendon",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "101865-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-05T00:00:00.000Z",
+      "opponent": "Ramona Pascual",
+      "opponentSlug": "138183-ramona-pascual",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "91921-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "3:06"
+    },
+    {
+      "date": "2022-03-11T00:00:00.000Z",
+      "opponent": "Queila Braga",
+      "opponentSlug": "241171-queila-braga",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 126: Bilharinho vs. Delano",
+      "eventSlug": "87004-lfa-126-bilharinho-vs-barbosa",
+      "round": 2,
+      "timeInRound": "3:36"
+    },
+    {
+      "date": "2021-11-06T00:00:00.000Z",
+      "opponent": "Ailín Pérez",
+      "opponentSlug": "143238-ailin-luciana-perez",
+      "result": "win",
+      "method": "other",
+      "event": "Samurai Fight House 2",
+      "eventSlug": "82356-samurai-fight-house-2",
+      "round": 3,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2021-07-16T00:00:00.000Z",
+      "opponent": "Martina Jindrová",
+      "opponentSlug": "197879-martina-jindrova",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IAF Fight Night 1",
+      "eventSlug": "80784-i-am-fighter-fight-night-vol-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-12-13T00:00:00.000Z",
+      "opponent": "Yana Gadelha",
+      "opponentSlug": "230097-yana-gadelha",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shooto Brasil 106",
+      "eventSlug": "74919-shooto-brasil-106",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-15T00:00:00.000Z",
+      "opponent": "Veronica Santos",
+      "opponentSlug": "229148-veronica-santos-trator",
+      "result": "win",
+      "method": "sub",
+      "event": "Arena Global 1",
+      "eventSlug": "61109-arena-global-1",
+      "round": 2,
+      "timeInRound": "3:04"
+    },
+    {
+      "date": "2019-03-24T00:00:00.000Z",
+      "opponent": "Karol Rosa",
+      "opponentSlug": "79637-karolline-rosa-karol",
+      "result": "loss",
+      "method": "sub",
+      "event": "MMA Brutus 1",
+      "eventSlug": "59330-mma-brutus",
+      "round": 3,
+      "timeInRound": "1:40"
+    },
+    {
+      "date": "2018-08-18T00:00:00.000Z",
+      "opponent": "Ana Costa",
+      "opponentSlug": "128372-ana-costa",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Fatality Arena 11",
+      "eventSlug": "54681-fatality-arena-11",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:33:43.270Z"
+}

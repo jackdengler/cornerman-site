@@ -1,0 +1,253 @@
+{
+  "slug": "88262-rodrigo-lidio",
+  "name": "Rodrigo Lídio",
+  "nickname": "The Dynamis",
+  "aliases": [],
+  "recordPro": {
+    "wins": 15,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 185,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1989-07-07",
+  "nationality": "Salvador, Bahia, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/88262-rodrigo-lidio",
+  "recentFights": [
+    {
+      "date": "2025-12-12T00:00:00.000Z",
+      "opponent": "Temirkhan Temirkhanov",
+      "opponentSlug": "176120-temirkhan-temirkhanov",
+      "result": "loss",
+      "method": "other",
+      "event": "RCC 24",
+      "eventSlug": "136114-rcc-24",
+      "round": 1,
+      "timeInRound": "0:40"
+    },
+    {
+      "date": "2025-06-20T00:00:00.000Z",
+      "opponent": "Mateo Pereira",
+      "opponentSlug": "176496-mateo-pereira",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MMA University 2",
+      "eventSlug": "127966-mma-university-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-10-12T00:00:00.000Z",
+      "opponent": "André Borges",
+      "opponentSlug": "14756-andre-borges",
+      "result": "loss",
+      "method": "other",
+      "event": "CFC 23: Copacabana",
+      "eventSlug": "117957-cfc-23-copacabana",
+      "round": 2,
+      "timeInRound": "0:07"
+    },
+    {
+      "date": "2024-08-24T00:00:00.000Z",
+      "opponent": "Eduardo Souza",
+      "opponentSlug": "50818-eduardo-silva-pain-machine",
+      "result": "win",
+      "method": "tko",
+      "event": "CFC 22: OBSIDIO",
+      "eventSlug": "116483-cfc-22-obsidio",
+      "round": 1,
+      "timeInRound": "2:52"
+    },
+    {
+      "date": "2023-10-21T00:00:00.000Z",
+      "opponent": "Wemerson Vitor",
+      "opponentSlug": "241259-wemerson-vitor-ifc",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight On 8",
+      "eventSlug": "106589-fight-on-8",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2023-09-02T00:00:00.000Z",
+      "opponent": "Samuel Silva",
+      "opponentSlug": "126537-samuel-silva",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "LFA 166: Neto vs. Conrado",
+      "eventSlug": "103491-lfa-166-neto-vs-conrado",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-20T00:00:00.000Z",
+      "opponent": "Hugo Vargas",
+      "opponentSlug": "228759-hugo-vargas",
+      "result": "win",
+      "method": "tko",
+      "event": "Qualify Combat 13",
+      "eventSlug": "98274-qualify-combat-13",
+      "round": 2,
+      "timeInRound": "1:51"
+    },
+    {
+      "date": "2022-08-30T00:00:00.000Z",
+      "opponent": "Mateusz Rębecki",
+      "opponentSlug": "65128-mateusz-rbecki-chiczyk",
+      "result": "loss",
+      "method": "sub",
+      "event": "Contender Series 2022",
+      "eventSlug": "89499-contender-series-2022-week-6",
+      "round": 1,
+      "timeInRound": "3:05"
+    },
+    {
+      "date": "2021-07-16T00:00:00.000Z",
+      "opponent": "Arthur Lima",
+      "opponentSlug": "129962-arthur-baiano",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 111: De Sa vs. Bonfim",
+      "eventSlug": "80470-lfa-111-de-sa-vs-bonfim",
+      "round": 2,
+      "timeInRound": "0:23"
+    },
+    {
+      "date": "2020-10-16T00:00:00.000Z",
+      "opponent": "Adilson Fernandes",
+      "opponentSlug": "26054-jack-godzilla",
+      "result": "win",
+      "method": "other",
+      "event": "Future MMA 12",
+      "eventSlug": "70891-future-fc-12",
+      "round": 5,
+      "timeInRound": "0:25"
+    },
+    {
+      "date": "2019-10-19T00:00:00.000Z",
+      "opponent": "Evandro Barbosa",
+      "opponentSlug": "99736-evandro-barbosa",
+      "result": "win",
+      "method": "other",
+      "event": "Future FC 9",
+      "eventSlug": "61777-future-fc-9",
+      "round": 1,
+      "timeInRound": "3:31"
+    },
+    {
+      "date": "2019-06-28T00:00:00.000Z",
+      "opponent": "Eder Gama",
+      "opponentSlug": "30358-eder-gama",
+      "result": "win",
+      "method": "other",
+      "event": "Future FC 6",
+      "eventSlug": "59821-future-fc-6-panico-vs-marretinha",
+      "round": 1,
+      "timeInRound": "3:39"
+    },
+    {
+      "date": "2019-04-13T00:00:00.000Z",
+      "opponent": "Herbert Batista",
+      "opponentSlug": "62443-herbert-batista",
+      "result": "loss",
+      "method": "tko",
+      "event": "Coari Champions 2",
+      "eventSlug": "59334-coari-champions-2",
+      "round": 1,
+      "timeInRound": "3:30"
+    },
+    {
+      "date": "2018-10-27T00:00:00.000Z",
+      "opponent": "Arthur Ferreira",
+      "opponentSlug": "135432-arthur-ferreira",
+      "result": "win",
+      "method": "other",
+      "event": "Qualify Combat 7",
+      "eventSlug": "56205-qualify-combat-7",
+      "round": 1,
+      "timeInRound": "0:16"
+    },
+    {
+      "date": "2018-07-21T00:00:00.000Z",
+      "opponent": "Marcos Vinicius",
+      "opponentSlug": "16069-marcos-vinicius",
+      "result": "win",
+      "method": "other",
+      "event": "Fight On: Solidário",
+      "eventSlug": "54061-fight-on-mma-6-solidario",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2017-11-25T00:00:00.000Z",
+      "opponent": "Anderson da Silva",
+      "opponentSlug": "170232-anderson-da-silva",
+      "result": "win",
+      "method": "sub",
+      "event": "Qualify Combat 3",
+      "eventSlug": "49001-qualify-combat-5",
+      "round": 1,
+      "timeInRound": "4:00"
+    },
+    {
+      "date": "2017-10-07T00:00:00.000Z",
+      "opponent": "Roniele Gomes",
+      "opponentSlug": "60432-roniele-gomes-blindado",
+      "result": "win",
+      "method": "tko",
+      "event": "Fight On 5",
+      "eventSlug": "48161-fight-on-5",
+      "round": 3,
+      "timeInRound": "0:49"
+    },
+    {
+      "date": "2017-07-01T00:00:00.000Z",
+      "opponent": "Mayk Mendes",
+      "opponentSlug": "145248-mayk-mendes",
+      "result": "win",
+      "method": "other",
+      "event": "Brabos Combat 6",
+      "eventSlug": "46715-brabos-combat-6",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2017-05-20T00:00:00.000Z",
+      "opponent": "Paulo Roberto",
+      "opponentSlug": "31623-paulo-nego-trama",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-01T00:00:00.000Z",
+      "opponent": "João Nogueira",
+      "opponentSlug": "56676-joao-domingos-nogueira",
+      "result": "win",
+      "method": "other",
+      "event": "Fight On 4",
+      "eventSlug": "44465-fight-on-4",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2014-12-14T00:00:00.000Z",
+      "opponent": "Bruno Oliveira",
+      "opponentSlug": "88263-bruno-oliveira",
+      "result": "loss",
+      "method": "sub",
+      "event": "Imperium MMA Pro 11",
+      "eventSlug": "28648-imperium-mma-pro-11-grand-prix-2014-fase-final",
+      "round": 3,
+      "timeInRound": "3:37"
+    }
+  ],
+  "lastVerified": "2026-04-25T23:05:18.231Z"
+}

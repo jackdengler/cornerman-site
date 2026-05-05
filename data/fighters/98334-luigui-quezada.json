@@ -1,0 +1,209 @@
+{
+  "slug": "98334-luigui-quezada",
+  "name": "Luigui Quezada",
+  "nickname": "Rayo",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Peru",
+  "url": "https://www.tapology.com/fightcenter/fighters/98334-luigui-quezada",
+  "recentFights": [
+    {
+      "date": "2025-07-04T00:00:00.000Z",
+      "opponent": "Cristian Cañas",
+      "opponentSlug": "226435-cristian-canas",
+      "result": "loss",
+      "method": "tko",
+      "event": "Llescas i Sobrasadas 3",
+      "eventSlug": "133298-llescas-i-sobrasadas-3",
+      "round": 1,
+      "timeInRound": "4:20"
+    },
+    {
+      "date": "2024-03-02T00:00:00.000Z",
+      "opponent": "Irvin Bared",
+      "opponentSlug": "287186-irvin-bared",
+      "result": "loss",
+      "method": "dec-majority",
+      "event": "Gladiator Fighting Arena 15",
+      "eventSlug": "108736-gladiator-fighting-arena-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-07T00:00:00.000Z",
+      "opponent": "Alexis Vera",
+      "opponentSlug": "103868-alexis-vera",
+      "result": "loss",
+      "method": "other",
+      "event": "FFC 63: Batalla en Madrid",
+      "eventSlug": "100534-ffc-64-madrid",
+      "round": 1,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2020-02-28T00:00:00.000Z",
+      "opponent": "Miguel Villar",
+      "opponentSlug": "166129-miguel-villar-leon",
+      "result": "win",
+      "method": "other",
+      "event": "DFC 15",
+      "eventSlug": "63397-dfc-15",
+      "round": 1,
+      "timeInRound": "3:30"
+    },
+    {
+      "date": "2019-07-19T00:00:00.000Z",
+      "opponent": "Gabriel Victorino",
+      "opponentSlug": "152299-gabriel-victorino",
+      "result": "loss",
+      "method": "other",
+      "event": "Inka FC 31: Quezada vs Victorino",
+      "eventSlug": "60968-inka-fc-32",
+      "round": 1,
+      "timeInRound": "3:45"
+    },
+    {
+      "date": "2019-05-17T00:00:00.000Z",
+      "opponent": "Marvin Perez",
+      "opponentSlug": "207363-marvin-perez-eizaga",
+      "result": "win",
+      "method": "sub",
+      "event": "Inka FC 30: Marquez vs. Lemos",
+      "eventSlug": "59563-inka-fc-30",
+      "round": 1,
+      "timeInRound": "4:40"
+    },
+    {
+      "date": "2018-05-23T00:00:00.000Z",
+      "opponent": "Victor Arata",
+      "opponentSlug": "55256-victor-arata",
+      "result": "win",
+      "method": "other",
+      "event": "FFC 32: Hawaiano vs. Perez",
+      "eventSlug": "52160-ffc-32",
+      "round": 1,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2018-04-27T00:00:00.000Z",
+      "opponent": "Carlos Lopez",
+      "opponentSlug": "145084-carlos-lopez",
+      "result": "win",
+      "method": "other",
+      "event": "DFC 8",
+      "eventSlug": "52427-dfc-8",
+      "round": 1,
+      "timeInRound": "3:01"
+    },
+    {
+      "date": "2017-09-30T00:00:00.000Z",
+      "opponent": "Jorge Luis Durand",
+      "opponentSlug": "50259-jorge-figueroa-la-makinita",
+      "result": null,
+      "method": "other",
+      "event": "TFC 3",
+      "eventSlug": "47290-tfc-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-20T00:00:00.000Z",
+      "opponent": "Adrian Luna Martinetti",
+      "opponentSlug": "139620-juan-adrian-luna",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FFC 29",
+      "eventSlug": "47049-ffc-29",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-28T00:00:00.000Z",
+      "opponent": "Jorge Cuenca Melendez",
+      "opponentSlug": "71282-jorge-cuenca-karateca",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "300 Sparta 18",
+      "eventSlug": "45152-300-sparta-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-02T00:00:00.000Z",
+      "opponent": "Oscar Eduardo Aragon Poma",
+      "opponentSlug": "55303-eduardo-poma",
+      "result": "win",
+      "method": "sub",
+      "event": "300 Sparta 14",
+      "eventSlug": "42200-300-sparta-14",
+      "round": 1,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2016-02-26T00:00:00.000Z",
+      "opponent": "Renzo Torres",
+      "opponentSlug": "103964-renzo-torres-che",
+      "result": "win",
+      "method": "other",
+      "event": "Desafio FC 4",
+      "eventSlug": "41063-dfc-4",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-16T00:00:00.000Z",
+      "opponent": "Rafael Perez",
+      "opponentSlug": "106173-rafael-perez",
+      "result": "win",
+      "method": "sub",
+      "event": "El Desafio 2",
+      "eventSlug": "35867-el-desafio-2",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-26T00:00:00.000Z",
+      "opponent": "Oscar Huaman",
+      "opponentSlug": "115266-oscar-huaman",
+      "result": "win",
+      "method": "other",
+      "event": "MMA Proyecto Amateur 16",
+      "eventSlug": "35598-mma-proyecto-amateur-16",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2015-07-17T00:00:00.000Z",
+      "opponent": "Kevin Turpo",
+      "opponentSlug": "100029-kevin-turpo-pequeo",
+      "result": "win",
+      "method": "sub",
+      "event": "Inka FC: Warriors 4",
+      "eventSlug": "28469-inka-fc",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-04-28T00:00:00.000Z",
+      "opponent": "Rodrigo Vera",
+      "opponentSlug": "94593-rodrigo-vera",
+      "result": "loss",
+      "method": "sub",
+      "event": "300 Sparta 6",
+      "eventSlug": "31271-300-sparta-6",
+      "round": 3,
+      "timeInRound": "2:59"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:37:13.645Z"
+}

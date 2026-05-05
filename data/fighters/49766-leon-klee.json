@@ -1,0 +1,198 @@
+{
+  "slug": "49766-leon-klee",
+  "name": "Leon Klee",
+  "nickname": "Live Action",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 14,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/49766-leon-klee",
+  "recentFights": [
+    {
+      "date": "2026-02-05T00:00:00.000Z",
+      "opponent": "Josh Richmond",
+      "opponentSlug": "254862-josh-richmond",
+      "result": "loss",
+      "method": "other",
+      "event": "King of the Cage",
+      "eventSlug": "138609-king-of-the-cage-rise-of-the-warriors",
+      "round": 1,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2025-04-10T00:00:00.000Z",
+      "opponent": "Josh Richmond",
+      "opponentSlug": "254862-josh-richmond",
+      "result": "loss",
+      "method": "sub",
+      "event": "King of the Cage",
+      "eventSlug": "124718-king-of-the-cage-no-loose-ends",
+      "round": 1,
+      "timeInRound": "0:58"
+    },
+    {
+      "date": "2023-09-30T00:00:00.000Z",
+      "opponent": "Aledre Bracey",
+      "opponentSlug": "319903-aledre-bracey",
+      "result": "loss",
+      "method": "other",
+      "event": "King of the Cage",
+      "eventSlug": "103888-king-of-the-cage-oceanside",
+      "round": 1,
+      "timeInRound": "0:26"
+    },
+    {
+      "date": "2023-04-13T00:00:00.000Z",
+      "opponent": "Adam Cool",
+      "opponentSlug": "158651-adam-cool",
+      "result": "loss",
+      "method": "other",
+      "event": "KOTC: Knockout 2",
+      "eventSlug": "98608-kotc-knockout-2",
+      "round": 1,
+      "timeInRound": "3:04"
+    },
+    {
+      "date": "2022-10-01T00:00:00.000Z",
+      "opponent": "Fernando Alvarado",
+      "opponentSlug": "127823-fernando-alvarado",
+      "result": "loss",
+      "method": "tko",
+      "event": "KOTC: Split Second",
+      "eventSlug": "92452-kotc-split-second",
+      "round": 1,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2022-03-31T00:00:00.000Z",
+      "opponent": "Tylor Sijohn",
+      "opponentSlug": "211678-tylor-sijohn",
+      "result": "loss",
+      "method": "tko",
+      "event": "KOTC: Recharge",
+      "eventSlug": "87944-king-of-the-cage-recharge",
+      "round": 1,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2021-11-18T00:00:00.000Z",
+      "opponent": "Fernando Alvarado",
+      "opponentSlug": "127823-fernando-alvarado",
+      "result": "loss",
+      "method": "tko",
+      "event": "KOTC: Homecoming 3",
+      "eventSlug": "84329-kotc-homecoming-3",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-01T00:00:00.000Z",
+      "opponent": "Fernando Alvarado",
+      "opponentSlug": "127823-fernando-alvarado",
+      "result": "win",
+      "method": "other",
+      "event": "KOTC: Pure Vengeance",
+      "eventSlug": "64522-kotc",
+      "round": 1,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2019-05-25T00:00:00.000Z",
+      "opponent": "Brandon Nunn",
+      "opponentSlug": "43417-brandon-nunn",
+      "result": "loss",
+      "method": "other",
+      "event": "KOTC: Resurgence",
+      "eventSlug": "59210-kotc",
+      "round": 1,
+      "timeInRound": "2:44"
+    },
+    {
+      "date": "2019-03-10T00:00:00.000Z",
+      "opponent": "William Sriyapai",
+      "opponentSlug": "william-sriyapai-the-bull",
+      "result": "loss",
+      "method": "other",
+      "event": "KOTC: Sin Rival",
+      "eventSlug": "58833-kotc-sin-rival",
+      "round": 3,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2016-09-15T00:00:00.000Z",
+      "opponent": "Joey Angelo",
+      "opponentSlug": "33831-joey-angelo",
+      "result": "loss",
+      "method": "other",
+      "event": "SMASH Global 4",
+      "eventSlug": "39216-smash-global-4",
+      "round": 2,
+      "timeInRound": "0:57"
+    },
+    {
+      "date": "2015-06-14T00:00:00.000Z",
+      "opponent": "Ozzy Diaz",
+      "opponentSlug": "61676-ozzy-diaz",
+      "result": "loss",
+      "method": "sub",
+      "event": "KOTC: Sanctioned",
+      "eventSlug": "33098-kotc-sanctioned",
+      "round": 1,
+      "timeInRound": "2:31"
+    },
+    {
+      "date": "2015-03-15T00:00:00.000Z",
+      "opponent": "John Palaiologos",
+      "opponentSlug": "91026-john-paleologus",
+      "result": "loss",
+      "method": "sub",
+      "event": "KOTC: Coming Home",
+      "eventSlug": "30639-kotc-coming-home",
+      "round": 1,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2013-07-11T00:00:00.000Z",
+      "opponent": "Robert Otani",
+      "opponentSlug": "7917-robert-otani",
+      "result": "loss",
+      "method": "other",
+      "event": "KOTC: Validation",
+      "eventSlug": "19517-kotc-validation",
+      "round": 1,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2011-10-15T00:00:00.000Z",
+      "opponent": "Tillis Sionesini",
+      "opponentSlug": "95628-tillis-sionesini",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-06-08T00:00:00.000Z",
+      "opponent": "Nathan Feitosa",
+      "opponentSlug": "49767-nathan-feitosa",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KOTC: Unsigned",
+      "eventSlug": "19019-kotc-unsigned",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:02:38.470Z"
+}

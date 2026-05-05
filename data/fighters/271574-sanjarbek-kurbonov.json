@@ -1,0 +1,198 @@
+{
+  "slug": "271574-sanjarbek-kurbonov",
+  "name": "Sanjarbek Kurbonov",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Uzbekistan",
+  "url": "https://www.tapology.com/fightcenter/fighters/271574-sanjarbek-kurbonov",
+  "recentFights": [
+    {
+      "date": "2024-05-11T00:00:00.000Z",
+      "opponent": "Bekzod Urinboev",
+      "opponentSlug": "333054-bekzod-orinbaev",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Muradov Professional League 9",
+      "eventSlug": "112016-muradov-professional-league-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-01-29T00:00:00.000Z",
+      "opponent": "Ruslan Shamshiev",
+      "opponentSlug": "317579-ruslan-shamshiev",
+      "result": "win",
+      "method": "tko",
+      "event": "MMA Series 47",
+      "eventSlug": "85251-mma-series-47",
+      "round": 2,
+      "timeInRound": "3:29"
+    },
+    {
+      "date": "2021-04-11T00:00:00.000Z",
+      "opponent": "Elaman Bekmamat Uulu",
+      "opponentSlug": "234860-elaman-bekmamat-uulu",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Kulak 6",
+      "eventSlug": "92883-kulak-fighting-championship",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-11T00:00:00.000Z",
+      "opponent": "Artem Astikov",
+      "opponentSlug": "421514-artem-astikov-russian-schoolboy",
+      "result": "win",
+      "method": "other",
+      "event": "Kulak 6",
+      "eventSlug": "92883-kulak-fighting-championship",
+      "round": 1,
+      "timeInRound": "0:12"
+    },
+    {
+      "date": "2021-03-12T00:00:00.000Z",
+      "opponent": "Azarbek Turaev",
+      "opponentSlug": "289378-azarbek-turaev",
+      "result": "win",
+      "method": "tko",
+      "event": "Perviy Club",
+      "eventSlug": "77899-perviy-club-fight-show-50",
+      "round": 1,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2021-02-27T00:00:00.000Z",
+      "opponent": "Syrgach Apgipota uluu",
+      "opponentSlug": "421505-syrgach-apgipota-uluu",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Kulak 5",
+      "eventSlug": "108935-kulak-fc",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-02-27T00:00:00.000Z",
+      "opponent": "Seroch Ashurov",
+      "opponentSlug": "421423-seroch-ashurov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Kulak 5",
+      "eventSlug": "108935-kulak-fc",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-01-09T00:00:00.000Z",
+      "opponent": "Magomed Taygibov",
+      "opponentSlug": "421290-magomed-taygibov",
+      "result": "loss",
+      "method": "sub",
+      "event": "Kulak 4",
+      "eventSlug": "108909-kulak-4",
+      "round": 1,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2020-10-25T00:00:00.000Z",
+      "opponent": "Makhsum Latifshaev",
+      "opponentSlug": "275962-makhsum-latifshaev",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Perviy Club",
+      "eventSlug": "73558-perviy-club-fight-show-45",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-10-04T00:00:00.000Z",
+      "opponent": "Zakirbek Khoshimov",
+      "opponentSlug": "273945-zakirbek-khoshimov",
+      "result": "win",
+      "method": "other",
+      "event": "Ihlas Fight Club 5",
+      "eventSlug": "73275-ihlas-fight-club-5",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2020-09-19T00:00:00.000Z",
+      "opponent": "Jumakhon Isoev",
+      "opponentSlug": "271575-jumakhon-isoev",
+      "result": "loss",
+      "method": "other",
+      "event": "FFC: Selection 3",
+      "eventSlug": "72405-ffc-selection-3",
+      "round": 1,
+      "timeInRound": "1:27"
+    },
+    {
+      "date": "2020-08-20T00:00:00.000Z",
+      "opponent": "Valijon Jabirov",
+      "opponentSlug": "187220-validzhon-zabirov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Big Boys Fights 11",
+      "eventSlug": "73771-big-boys-fights-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-08-15T00:00:00.000Z",
+      "opponent": "Mark Vologdin",
+      "opponentSlug": "202598-mark-vologdin",
+      "result": "loss",
+      "method": "other",
+      "event": "MMA Series 12",
+      "eventSlug": "71106-mma-series-12-time-of-new-heroes-9",
+      "round": 2,
+      "timeInRound": "2:10"
+    },
+    {
+      "date": "2019-09-08T00:00:00.000Z",
+      "opponent": "Amir Nurmamatov",
+      "opponentSlug": "282161-amir-nurmamatov",
+      "result": "win",
+      "method": "other",
+      "event": "NUC 1",
+      "eventSlug": "62649-nuc",
+      "round": 1,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2021-06-26T00:00:00.000Z",
+      "opponent": "Dastan Amanbaev",
+      "opponentSlug": "299264-dastan-amanbaev",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "R3 Fighting Championship",
+      "eventSlug": "79677-r3-fighting-championship-sherlar-jangi",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-01-27T00:00:00.000Z",
+      "opponent": "Kochkorbay Bayysh Uulu",
+      "opponentSlug": "263355-kochkorbay-bayysh-uulu",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "R3 Fighting Championship",
+      "eventSlug": "76494-r3-fighting-championship",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:04:13.172Z"
+}

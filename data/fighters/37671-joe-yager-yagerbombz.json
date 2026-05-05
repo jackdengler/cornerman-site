@@ -1,0 +1,198 @@
+{
+  "slug": "37671-joe-yager-yagerbombz",
+  "name": "Joey Yager",
+  "nickname": "Yagerbombz",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 185,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1981-03-19",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/37671-joe-yager-yagerbombz",
+  "recentFights": [
+    {
+      "date": "2017-04-29T00:00:00.000Z",
+      "opponent": "Arjan Bhullar",
+      "opponentSlug": "77932-arjan-bhullar",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "BFL 48",
+      "eventSlug": "44827-bfl-48",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-30T00:00:00.000Z",
+      "opponent": "Tanner Boser",
+      "opponentSlug": "35149-tanner-boser",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Unified MMA 28",
+      "eventSlug": "41932-unified-mma-28",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-03-20T00:00:00.000Z",
+      "opponent": "Tony Lopez",
+      "opponentSlug": "tony-lopez-kryptonite",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UR Fight 1",
+      "eventSlug": "38929-ur-fight-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-04-25T00:00:00.000Z",
+      "opponent": "Tony Lopez",
+      "opponentSlug": "tony-lopez-kryptonite",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "RITC 177",
+      "eventSlug": "32198-ritc-177",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-12-05T00:00:00.000Z",
+      "opponent": "Marcus Sursa",
+      "opponentSlug": "marcus-sursa",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-09-06T00:00:00.000Z",
+      "opponent": "Bryan McVea",
+      "opponentSlug": "29354-bryan-mcvea-the-lion",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-04-18T00:00:00.000Z",
+      "opponent": "Dan Huber",
+      "opponentSlug": "71790-dan-huber",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-12-06T00:00:00.000Z",
+      "opponent": "Josh Bryant",
+      "opponentSlug": "josh-bryant-the-beast",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-11-08T00:00:00.000Z",
+      "opponent": "Levi Avera",
+      "opponentSlug": "levi-avera-the-marine",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-09-20T00:00:00.000Z",
+      "opponent": "Clifford Starks",
+      "opponentSlug": "14172-clifford-starks",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bellator 100",
+      "eventSlug": "19859-bellator-100",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-06-19T00:00:00.000Z",
+      "opponent": "Brandon Halsey",
+      "opponentSlug": "21907-brandon-halsey",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Bellator 96",
+      "eventSlug": "18765-bellator-96",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-11-02T00:00:00.000Z",
+      "opponent": "Marcio Cruz",
+      "opponentSlug": "marcio-cruz-pe-de-pano",
+      "result": "loss",
+      "method": "sub",
+      "event": "RFA 4: Griffin vs. Escudero",
+      "eventSlug": "15550-rfa-4",
+      "round": 2,
+      "timeInRound": "4:16"
+    },
+    {
+      "date": "2012-04-14T00:00:00.000Z",
+      "opponent": "Ashley Gooch",
+      "opponentSlug": "16294-ashley-gooch",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-10-15T00:00:00.000Z",
+      "opponent": "Shawn Frye",
+      "opponentSlug": "10815-shawn-frye",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-04-16T00:00:00.000Z",
+      "opponent": "Jojo Thompson",
+      "opponentSlug": "12343-jojo-thompson-chocolate-thunder",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-11-14T00:00:00.000Z",
+      "opponent": "Jed Jobe",
+      "opponentSlug": "36036-jed-jobe",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:59:09.813Z"
+}

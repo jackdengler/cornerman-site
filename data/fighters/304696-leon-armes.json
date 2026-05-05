@@ -1,0 +1,121 @@
+{
+  "slug": "304696-leon-armes",
+  "name": "Leon Armes",
+  "nickname": "Fire",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "England",
+  "url": "https://www.tapology.com/fightcenter/fighters/304696-leon-armes",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Damon Donald",
+      "opponentSlug": "132978-damon-donald",
+      "result": null,
+      "method": "other",
+      "event": "Cage Warriors 205",
+      "eventSlug": "138938-cage-warriors-205",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-04-26T00:00:00.000Z",
+      "opponent": "Scott Harvey",
+      "opponentSlug": "76107-scott-harvey",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 188",
+      "eventSlug": "120833-cage-warriors-188",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-23T00:00:00.000Z",
+      "opponent": "Michał Folc",
+      "opponentSlug": "95161-micha-folc",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 181",
+      "eventSlug": "114649-cage-warriors-181",
+      "round": 1,
+      "timeInRound": "3:41"
+    },
+    {
+      "date": "2024-03-15T00:00:00.000Z",
+      "opponent": "Christian Tosco",
+      "opponentSlug": "325759-christian-tosco",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 167",
+      "eventSlug": "108290-cage-warriors-167",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-25T00:00:00.000Z",
+      "opponent": "Cesari Simon Kevin",
+      "opponentSlug": "338232-simon-kevin",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Warriors 164",
+      "eventSlug": "102523-cage-warriors-164-newcastle",
+      "round": 1,
+      "timeInRound": "1:26"
+    },
+    {
+      "date": "2023-05-07T00:00:00.000Z",
+      "opponent": "Harry Beckham",
+      "opponentSlug": "100514-harry-beckham",
+      "result": "win",
+      "method": "other",
+      "event": "Rise and Conquer 12",
+      "eventSlug": "99468-rise-and-conquer-12",
+      "round": 2,
+      "timeInRound": "1:40"
+    },
+    {
+      "date": "2022-12-03T00:00:00.000Z",
+      "opponent": "Georgi Yerosalimov",
+      "opponentSlug": "197295-georgi-stefanov",
+      "result": "win",
+      "method": "tko",
+      "event": "Full Contact Contender 31",
+      "eventSlug": "93807-full-contact-contender-31",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-19T00:00:00.000Z",
+      "opponent": "Benny Baldini",
+      "opponentSlug": "243179-benny-baldini",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Almighty Fighting Championship 23",
+      "eventSlug": "85425-almighty-fighting-championship-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-07T00:00:00.000Z",
+      "opponent": "Jakob Capes",
+      "opponentSlug": "304695-jakob-capes",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Almighty Fighting Championship 18",
+      "eventSlug": "72450-almighty-fighting-championship-26",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:05:49.742Z"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "266707-mehrad-seyri",
+  "name": "Mehrad Seyri",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1993-04-12",
+  "nationality": "Tehran",
+  "url": "https://www.tapology.com/fightcenter/fighters/266707-mehrad-seyri",
+  "recentFights": [
+    {
+      "date": "2021-05-29T00:00:00.000Z",
+      "opponent": "Dário Gaman",
+      "opponentSlug": "304904-dario-gaman",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-07-24T00:00:00.000Z",
+      "opponent": "Tomáš Mudroch",
+      "opponentSlug": "266708-tomasz-mudroch",
+      "result": "loss",
+      "method": "sub",
+      "event": "IAF: Streetfighter 2",
+      "eventSlug": "71199-iaf-streetfighter-3",
+      "round": 1,
+      "timeInRound": "1:07"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:06:06.915Z"
+}

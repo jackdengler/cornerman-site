@@ -1,0 +1,110 @@
+{
+  "slug": "337270-nico-o-dor-the-flow",
+  "name": "Nico O'Dor",
+  "nickname": "The Flow",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 0,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1998-04-29",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/337270-nico-o-dor-the-flow",
+  "recentFights": [
+    {
+      "date": "2025-11-01T00:00:00.000Z",
+      "opponent": "Canon Swanson",
+      "opponentSlug": "329282-canon-swanson",
+      "result": "draw",
+      "method": "dec-split",
+      "event": "Ignite Fights 110",
+      "eventSlug": "132193-ignite-fights-110",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-06-13T00:00:00.000Z",
+      "opponent": "Beka Lashkhia",
+      "opponentSlug": "225764-beka-lashkhia",
+      "result": "win",
+      "method": "other",
+      "event": "Ring of Combat 86",
+      "eventSlug": "124673-ring-of-combat-87",
+      "round": 2,
+      "timeInRound": "3:44"
+    },
+    {
+      "date": "2024-08-17T00:00:00.000Z",
+      "opponent": "Ricky Clabough",
+      "opponentSlug": "284056-ricky-clabough",
+      "result": "win",
+      "method": "sub",
+      "event": "Caged Thunder 28",
+      "eventSlug": "113393-caged-thunder-28-fight-night-in-the-flats",
+      "round": 3,
+      "timeInRound": "3:24"
+    },
+    {
+      "date": "2024-05-11T00:00:00.000Z",
+      "opponent": "Dalton Jones",
+      "opponentSlug": "238219-dalton-jones",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FightWorld 35",
+      "eventSlug": "109058-fightworld-35",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-09T00:00:00.000Z",
+      "opponent": "Jordon Tague",
+      "opponentSlug": "353166-jordan-tague",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Caged Thunder 23",
+      "eventSlug": "102117-caged-thunder-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-03T00:00:00.000Z",
+      "opponent": "John Leark",
+      "opponentSlug": "243089-john-leark",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WFC 155",
+      "eventSlug": "100306-wfc-155",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-12T00:00:00.000Z",
+      "opponent": "Nathan Cole",
+      "opponentSlug": "348607-nathan-cole-the-gorilla",
+      "result": "win",
+      "method": "other",
+      "event": "BCM Fight Night 11",
+      "eventSlug": "92779-bcm-fight-night-11",
+      "round": 1,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2022-05-14T00:00:00.000Z",
+      "opponent": "Sam Viengmany",
+      "opponentSlug": "174044-sam-viengmany",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "BCM Fight Night 9",
+      "eventSlug": "87176-bcm-promotions-fight-night-9",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:40:49.294Z"
+}

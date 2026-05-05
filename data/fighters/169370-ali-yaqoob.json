@@ -1,0 +1,191 @@
+{
+  "slug": "169370-ali-yaqoob",
+  "name": "Ali Yaqoob",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 8,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 7,
+    "losses": 8,
+    "draws": 0
+  },
+  "heightCm": 160,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Bahrain",
+  "url": "https://www.tapology.com/fightcenter/fighters/169370-ali-yaqoob",
+  "recentFights": [
+    {
+      "date": "2022-01-24T00:00:00.000Z",
+      "opponent": "Alexander Kovalenko",
+      "opponentSlug": "315254-alexander-kovalenko",
+      "result": "loss",
+      "method": "tko",
+      "event": "IMMAF",
+      "eventSlug": "86211-immaf-2021-world-senior-championships-day-1",
+      "round": 2,
+      "timeInRound": "2:47"
+    },
+    {
+      "date": "2021-08-18T00:00:00.000Z",
+      "opponent": "Salman Ramazanov",
+      "opponentSlug": "214609-salman-ramazanov",
+      "result": "loss",
+      "method": "tko",
+      "event": "IMMAF",
+      "eventSlug": "82031-immaf-european-open-senior-and-junior-championships-day-3",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2020-09-24T00:00:00.000Z",
+      "opponent": "Ariz Ahmed",
+      "opponentSlug": "223687-ariz-ahmed",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Brave CF 42",
+      "eventSlug": "72022-brave-cf-42",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-03-06T00:00:00.000Z",
+      "opponent": "Colby Thicknesse",
+      "opponentSlug": "166902-colby-thicknesse",
+      "result": "loss",
+      "method": "tko",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "67963-immaf-wmmaa-oceania-open-championship-day-1",
+      "round": 3,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2019-11-12T00:00:00.000Z",
+      "opponent": "Gamlet Aslanov",
+      "opponentSlug": "242325-gamlet-aslanov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64318-immaf-wmmaa-amateur-world-championships-2019-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-11T00:00:00.000Z",
+      "opponent": "Šimon Bruknar",
+      "opponentSlug": "23893-imon-bruknar",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64317-immaf-wmmaa-amateur-world-championships-2019",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-21T00:00:00.000Z",
+      "opponent": "Reo Yamaguchi",
+      "opponentSlug": "140870-reishin-yamaguchi",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "2019 IMMAF-WMMAA European Senior & Junior Open Championships",
+      "eventSlug": "61284-2019-immaf-wmmaa-european-senior-junior-open-championships-day-3-cage-a-quarter-finals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-20T00:00:00.000Z",
+      "opponent": "Fidel Gramiccia",
+      "opponentSlug": "184223-fidel-gramiccia",
+      "result": "win",
+      "method": "dec-split",
+      "event": "2019 IMMAF-WMMAA European Senior & Junior Open Championships",
+      "eventSlug": "61563-2019-immaf-wmmaa-european-senior-junior-open-championships-day-2-cage-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-03T00:00:00.000Z",
+      "opponent": "Olzhas Moldagaliev",
+      "opponentSlug": "159784-olzhas-moldagaliyev",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "IMMAF WMMAA Asian Open",
+      "eventSlug": "60698-immaf-wmmaa-asian-open-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-02T00:00:00.000Z",
+      "opponent": "Narupon Plodpai",
+      "opponentSlug": "228497-narupon-plodpai",
+      "result": "win",
+      "method": "sub",
+      "event": "IMMAF WMMAA Asian Open",
+      "eventSlug": "60697-immaf-wmmaa-asian-open-day-1",
+      "round": 1,
+      "timeInRound": "0:39"
+    },
+    {
+      "date": "2018-11-15T00:00:00.000Z",
+      "opponent": "Reo Yamaguchi",
+      "opponentSlug": "140870-reishin-yamaguchi",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "2018 IMMAF Junior World Championships",
+      "eventSlug": "56607-2018-immaf-junior-world-championships-day-4-cage-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-14T00:00:00.000Z",
+      "opponent": "Diiar Shulianov",
+      "opponentSlug": "202475-diiar-shulianov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "2018 IMMAF Junior World Championships",
+      "eventSlug": "56769-2018-immaf-junior-world-championships-day-3-cage-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-22T00:00:00.000Z",
+      "opponent": "Jake Nichols",
+      "opponentSlug": "166141-jake-nichols",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "2018 IMMAF European Championships",
+      "eventSlug": "53928-2018-immaf-european-championships-day-5-finals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-21T00:00:00.000Z",
+      "opponent": "Paddy Symes",
+      "opponentSlug": "143860-paddy-symes",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "2018 IMMAF European Championships",
+      "eventSlug": "53931-2018-immaf-european-championships-day-4-semi-finals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-13T00:00:00.000Z",
+      "opponent": "Sean Stebbins",
+      "opponentSlug": "99815-sean-stebbins",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "2017 IMMAF World Championships",
+      "eventSlug": "49050-2017-immaf-world-championships-day-1-cage-2",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:56:40.282Z"
+}

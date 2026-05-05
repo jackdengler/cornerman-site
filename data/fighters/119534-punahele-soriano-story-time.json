@@ -1,0 +1,253 @@
+{
+  "slug": "119534-punahele-soriano-story-time",
+  "name": "Punahele Soriano",
+  "nickname": "Puna",
+  "aliases": [],
+  "recordPro": {
+    "wins": 13,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": 184,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1992-11-22",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/119534-punahele-soriano-story-time",
+  "recentFights": [
+    {
+      "date": "2026-02-21T00:00:00.000Z",
+      "opponent": "Ramiz Brahimaj",
+      "opponentSlug": "129794-ramiz-brahimaj",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "136872-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-04T00:00:00.000Z",
+      "opponent": "Nikolay Veretennikov",
+      "opponentSlug": "74381-nikolai-veretenikov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 320: Ankalaev vs. Pereira 2",
+      "eventSlug": "129311-ufc-320",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-01-11T00:00:00.000Z",
+      "opponent": "Uros Medic",
+      "opponentSlug": "175629-uros-medic",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "118450-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "0:31"
+    },
+    {
+      "date": "2024-06-08T00:00:00.000Z",
+      "opponent": "Miguel Baeza",
+      "opponentSlug": "99224-miguel-baeza",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "111458-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-02T00:00:00.000Z",
+      "opponent": "Dustin Stoltzfus",
+      "opponentSlug": "34864-dustin-stoltzfus",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "104486-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "4:10"
+    },
+    {
+      "date": "2023-01-14T00:00:00.000Z",
+      "opponent": "Roman Kopylov",
+      "opponentSlug": "138424-roman-kopylov",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "93279-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "3:19"
+    },
+    {
+      "date": "2022-07-16T00:00:00.000Z",
+      "opponent": "Dalcha Lungiambula",
+      "opponentSlug": "72343-dalcha-lungiambula-champion",
+      "result": "win",
+      "method": "other",
+      "event": "UFC on ABC 3",
+      "eventSlug": "88485-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "0:28"
+    },
+    {
+      "date": "2022-02-05T00:00:00.000Z",
+      "opponent": "Nick Maximov",
+      "opponentSlug": "160352-nick-maximov",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "83125-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-24T00:00:00.000Z",
+      "opponent": "Brendan Allen",
+      "opponentSlug": "91516-brendan-allen",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "78477-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-01-16T00:00:00.000Z",
+      "opponent": "Duško Todorović",
+      "opponentSlug": "114625-duko-todorovi",
+      "result": "win",
+      "method": "other",
+      "event": "UFC on ABC 1",
+      "eventSlug": "73220-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "4:48"
+    },
+    {
+      "date": "2019-12-14T00:00:00.000Z",
+      "opponent": "Oskar Piechota",
+      "opponentSlug": "46894-oskar-piechota-imadlo",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 245: Usman vs. Covington",
+      "eventSlug": "60326-ufc-245",
+      "round": 1,
+      "timeInRound": "3:17"
+    },
+    {
+      "date": "2019-06-18T00:00:00.000Z",
+      "opponent": "Jamie Pickett",
+      "opponentSlug": "38304-jamie-pickett",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Contender Series 2019",
+      "eventSlug": "59493-dw-s-contender-series-2019-week-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-19T00:00:00.000Z",
+      "opponent": "Jhonoven Pati",
+      "opponentSlug": "41334-jhonoven-pati",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 52: Rodriguez vs. Gutierrez",
+      "eventSlug": "55947-lfa-52-rodriguez-vs-gutierrez",
+      "round": 1,
+      "timeInRound": "3:36"
+    },
+    {
+      "date": "2018-06-16T00:00:00.000Z",
+      "opponent": "James Horne",
+      "opponentSlug": "73320-james-horne",
+      "result": "win",
+      "method": "other",
+      "event": "V3 Fights 69",
+      "eventSlug": "53801-v3-fights-69",
+      "round": 1,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2018-04-06T00:00:00.000Z",
+      "opponent": "Rafael Celestino",
+      "opponentSlug": "136909-rafael-celestino-rafao",
+      "result": "win",
+      "method": "other",
+      "event": "Titan FC 49",
+      "eventSlug": "51347-titan-fc-49-gomez-vs-soares",
+      "round": 1,
+      "timeInRound": "0:31"
+    },
+    {
+      "date": "2017-07-29T00:00:00.000Z",
+      "opponent": "Jon Gover",
+      "opponentSlug": "149756-jon-gover",
+      "result": "win",
+      "method": "other",
+      "event": "PFL Everett",
+      "eventSlug": "46688-pfl-2",
+      "round": 1,
+      "timeInRound": "2:36"
+    },
+    {
+      "date": "2017-01-28T00:00:00.000Z",
+      "opponent": "Jon Ferrell",
+      "opponentSlug": "8453-john-ferrel",
+      "result": "win",
+      "method": "sub",
+      "event": "X-1 World Events 45",
+      "eventSlug": "43895-x-1-live",
+      "round": 1,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2016-07-23T00:00:00.000Z",
+      "opponent": "Issac Worth",
+      "opponentSlug": "166644-issac-worth",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-22T00:00:00.000Z",
+      "opponent": "Rylen Waiwaiole",
+      "opponentSlug": "168360-rylen-waiwaiole",
+      "result": "win",
+      "method": "other",
+      "event": "Just Scrap",
+      "eventSlug": "39692-just-scrap",
+      "round": 1,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2015-11-13T00:00:00.000Z",
+      "opponent": "Thor Soder",
+      "opponentSlug": "113261-thor-soder",
+      "result": "win",
+      "method": "tko",
+      "event": "Just Scrap",
+      "eventSlug": "36541-just-scrap",
+      "round": 1,
+      "timeInRound": "2:33"
+    },
+    {
+      "date": "2015-10-23T00:00:00.000Z",
+      "opponent": "Rashard Goff",
+      "opponentSlug": "115686-rashard-goff",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:02:58.065Z"
+}

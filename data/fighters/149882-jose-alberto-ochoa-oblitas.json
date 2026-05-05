@@ -1,0 +1,176 @@
+{
+  "slug": "149882-jose-alberto-ochoa-oblitas",
+  "name": "Jose Ochoa",
+  "nickname": "Kalzifer",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 170,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "2000-12-31",
+  "nationality": "Moyobamba, San Martin, Peru",
+  "url": "https://www.tapology.com/fightcenter/fighters/149882-jose-alberto-ochoa-oblitas",
+  "recentFights": [
+    {
+      "date": "2026-05-09T00:00:00.000Z",
+      "opponent": "Clayton Carpenter",
+      "opponentSlug": "92011-clayton-carpenter",
+      "result": null,
+      "method": "other",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "eventSlug": "140614-ufc-328",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-07-26T00:00:00.000Z",
+      "opponent": "Asu Almabayev",
+      "opponentSlug": "127726-khamzat-sakalov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "125931-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-06-14T00:00:00.000Z",
+      "opponent": "Cody Durden",
+      "opponentSlug": "68337-cody-durden",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "125944-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "0:11"
+    },
+    {
+      "date": "2024-11-23T00:00:00.000Z",
+      "opponent": "Lone'er Kavanagh",
+      "opponentSlug": "112229-loneer-kavanagh",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "116899-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-03T00:00:00.000Z",
+      "opponent": "Juscelino Pantoja",
+      "opponentSlug": "255896-juscelino-bonifacio-pantoja",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 171: Neves vs. Cunha",
+      "eventSlug": "105821-lfa-171-neves-vs-cunha",
+      "round": 1,
+      "timeInRound": "4:30"
+    },
+    {
+      "date": "2023-09-30T00:00:00.000Z",
+      "opponent": "Jeferson Pereira",
+      "opponentSlug": "60180-jeferson-pereira",
+      "result": "win",
+      "method": "other",
+      "event": "Bison Kombat 3",
+      "eventSlug": "105411-bison-kombat-3",
+      "round": 1,
+      "timeInRound": "1:42"
+    },
+    {
+      "date": "2021-10-01T00:00:00.000Z",
+      "opponent": "Jhoao Ruiz",
+      "opponentSlug": "169308-jhoao-ruiz",
+      "result": "nc",
+      "method": "other",
+      "event": "UWC 29",
+      "eventSlug": "82688-uwc-29",
+      "round": 1,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2021-05-01T00:00:00.000Z",
+      "opponent": "Franklin Grifo",
+      "opponentSlug": "189547-franklin-grifo",
+      "result": "win",
+      "method": "other",
+      "event": "FFC 45: Ecuador",
+      "eventSlug": "75219-ffc-45-mora-vs-vinicius-2",
+      "round": 1,
+      "timeInRound": "1:51"
+    },
+    {
+      "date": "2019-07-27T00:00:00.000Z",
+      "opponent": "Neto Castro",
+      "opponentSlug": "230425-neto-castro-bad-boy",
+      "result": "win",
+      "method": "other",
+      "event": "ICC 5: Vasquez vs. Gomes",
+      "eventSlug": "61743-icc-5-vasquez-vs-gomes",
+      "round": 2,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2019-05-31T00:00:00.000Z",
+      "opponent": "Omar Torres",
+      "opponentSlug": "129087-omar-torres",
+      "result": "win",
+      "method": "other",
+      "event": "Combate 38: Combate Peru",
+      "eventSlug": "58979-combate-38",
+      "round": 2,
+      "timeInRound": "4:34"
+    },
+    {
+      "date": "2019-02-23T00:00:00.000Z",
+      "opponent": "Dyllan Santiago",
+      "opponentSlug": "202635-dyllan-santiago",
+      "result": "win",
+      "method": "other",
+      "event": "ICC 3: Peru vs. Brasil",
+      "eventSlug": "57914-icc-3-peru-vs-brasil",
+      "round": 1,
+      "timeInRound": "2:47"
+    },
+    {
+      "date": "2018-11-07T00:00:00.000Z",
+      "opponent": "Yhosue Mego",
+      "opponentSlug": "115625-yoshue-mego",
+      "result": "win",
+      "method": "other",
+      "event": "FFC 35: Tubarao vs. Zarauz",
+      "eventSlug": "55617-ffc-35-tubarao-vs-zarauz",
+      "round": 2,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2018-07-20T00:00:00.000Z",
+      "opponent": "Luis Ccanto Aguilar",
+      "opponentSlug": "183590-luis-ccanto-aguilar",
+      "result": "win",
+      "method": "other",
+      "event": "Tayta FC 11",
+      "eventSlug": "54058-tayta-fc-11",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-02-11T00:00:00.000Z",
+      "opponent": "Vladimir Torres",
+      "opponentSlug": "149887-vladimir-torres",
+      "result": "win",
+      "method": "sub",
+      "event": "La Madriguera de los Guerreros",
+      "eventSlug": "44246-la-madriguera-de-los-guerreros",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-19T19:09:48.028Z"
+}

@@ -1,0 +1,209 @@
+{
+  "slug": "195097-kevin-jousset",
+  "name": "Kevin Jousset",
+  "nickname": "Air",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": 191,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1993-05-02",
+  "nationality": "Bordeaux, France",
+  "url": "https://www.tapology.com/fightcenter/fighters/195097-kevin-jousset",
+  "recentFights": [
+    {
+      "date": "2025-12-13T00:00:00.000Z",
+      "opponent": "Patrick Habirora",
+      "opponentSlug": "209285-patrick-habirora",
+      "result": "loss",
+      "method": "other",
+      "event": "PFL Europe 4",
+      "eventSlug": "130455-pfl-europe-4-lyon-2025",
+      "round": 1,
+      "timeInRound": "2:42"
+    },
+    {
+      "date": "2025-02-08T00:00:00.000Z",
+      "opponent": "Jonathan Micallef",
+      "opponentSlug": "238862-jonathan-micallef",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 312: Du Plessis vs. Strickland 2",
+      "eventSlug": "119136-ufc-312",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-28T00:00:00.000Z",
+      "opponent": "Bryan Battle",
+      "opponentSlug": "153353-bryan-battle",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "111674-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "3:47"
+    },
+    {
+      "date": "2023-12-09T00:00:00.000Z",
+      "opponent": "Kenan Song",
+      "opponentSlug": "83444-kenan-song",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "105194-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-09T00:00:00.000Z",
+      "opponent": "Kiefer Crosbie",
+      "opponentSlug": "69153-kiefer-crosbie",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC 293: Adesanya vs. Strickland",
+      "eventSlug": "101315-ufc-293",
+      "round": 1,
+      "timeInRound": "4:49"
+    },
+    {
+      "date": "2023-05-26T00:00:00.000Z",
+      "opponent": "Kitt Campbell",
+      "opponentSlug": "59598-kitt-campbell",
+      "result": "win",
+      "method": "other",
+      "event": "Hex Fight Series 26",
+      "eventSlug": "98677-hex-fight-series-26",
+      "round": 3,
+      "timeInRound": "4:53"
+    },
+    {
+      "date": "2023-02-24T00:00:00.000Z",
+      "opponent": "Priscus Fogagnolo",
+      "opponentSlug": "4074-priscus-fogagnolo-the-wog-boy",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Hex Fight Series 25",
+      "eventSlug": "95838-hex-fight-series-25",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-10T00:00:00.000Z",
+      "opponent": "James Craughwell",
+      "opponentSlug": "347376-james-craughwell",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shuriken Fight Series 13",
+      "eventSlug": "94368-shuriken-fight-series-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-16T00:00:00.000Z",
+      "opponent": "Kaleb Rideout",
+      "opponentSlug": "134913-kaleb-rideout",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Eternal MMA 67",
+      "eventSlug": "89588-eternal-mma-67",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-07T00:00:00.000Z",
+      "opponent": "Saeid Fatahifar",
+      "opponentSlug": "69700-saeed-fatahfir",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Eternal MMA 59",
+      "eventSlug": "78431-eternal-mma-59",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-26T00:00:00.000Z",
+      "opponent": "Paul McMah",
+      "opponentSlug": "147897-paul-mcmah",
+      "result": "win",
+      "method": "other",
+      "event": "Shuriken Fight Series 9",
+      "eventSlug": "78155-shuriken-fight-series-9",
+      "round": 1,
+      "timeInRound": "2:39"
+    },
+    {
+      "date": "2019-12-13T00:00:00.000Z",
+      "opponent": "Mat Myers",
+      "opponentSlug": "179603-mat-myers",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hex Fight Series 20",
+      "eventSlug": "63850-hex-fight-series-20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-04T00:00:00.000Z",
+      "opponent": "Jack Della Maddalena",
+      "opponentSlug": "119831-jack-della-maddalena",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 48",
+      "eventSlug": "62409-eternal-mma-48",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2019-05-25T00:00:00.000Z",
+      "opponent": "James O'Brien",
+      "opponentSlug": "84657-james-obrian",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 45",
+      "eventSlug": "59594-eternal-mma-45",
+      "round": 1,
+      "timeInRound": "2:32"
+    },
+    {
+      "date": "2019-03-29T00:00:00.000Z",
+      "opponent": "Sam McNally",
+      "opponentSlug": "160488-sam-mcnally",
+      "result": "win",
+      "method": "other",
+      "event": "Hex Fight Series 18",
+      "eventSlug": "58679-hex-fight-series-18",
+      "round": 1,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2018-10-27T00:00:00.000Z",
+      "opponent": "Marc Luty",
+      "opponentSlug": "74570-marc-luti",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 38",
+      "eventSlug": "55129-eternal-mma-38",
+      "round": 1,
+      "timeInRound": "2:17"
+    },
+    {
+      "date": "2018-09-22T00:00:00.000Z",
+      "opponent": "Jayden Groen",
+      "opponentSlug": "196553-jayden-groen",
+      "result": "win",
+      "method": "other",
+      "event": "Path to Hex 6",
+      "eventSlug": "55467-path-to-hex-6",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:53:57.042Z"
+}

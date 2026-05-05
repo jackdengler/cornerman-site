@@ -1,0 +1,114 @@
+{
+  "slug": "255836-aurelien-teyssonneyre",
+  "name": "Aurelien Teyssonneyre",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/255836-aurelien-teyssonneyre",
+  "recentFights": [
+    {
+      "date": "2023-12-10T00:00:00.000Z",
+      "opponent": "Marcos Mota Zaragoza",
+      "opponentSlug": "419752-marcos-mota-zaragoza",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "108670-gamma-world-mma-championship-2023-finals",
+      "round": 1,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2023-12-09T00:00:00.000Z",
+      "opponent": "Vincent Pio",
+      "opponentSlug": "419684-vicent-pio",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "GAMMA",
+      "eventSlug": "108613-gamma-world-mma-championship-2023-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-25T00:00:00.000Z",
+      "opponent": "Valentino Misiedjan",
+      "opponentSlug": "448479-misiedjan-valentino",
+      "result": "loss",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "88078-gamma-world-championships-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-07T00:00:00.000Z",
+      "opponent": "Dmitrii Ceacusta",
+      "opponentSlug": "471950-dmitrii-ceakusta",
+      "result": "loss",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "115208-gamma-european-championships-2021-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-07T00:00:00.000Z",
+      "opponent": "Vojtech Garba",
+      "opponentSlug": "145826-vojtech-garba",
+      "result": "loss",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "115208-gamma-european-championships-2021-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-21T00:00:00.000Z",
+      "opponent": "Evgeny Petrov",
+      "opponentSlug": "181432-evgeny-petrov",
+      "result": "loss",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "65255-gamma-singapore-world-championships-2019-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-20T00:00:00.000Z",
+      "opponent": "Kurosh Derikvand",
+      "opponentSlug": "236828-kurosh-derikvand",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "65226-gamma-singapore-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-20T00:00:00.000Z",
+      "opponent": "Poya Baghbani",
+      "opponentSlug": "255837-poya-baghbani",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "65226-gamma-singapore-day-1",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:09:23.884Z"
+}

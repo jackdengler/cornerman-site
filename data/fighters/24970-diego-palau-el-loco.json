@@ -1,0 +1,143 @@
+{
+  "slug": "24970-diego-palau-el-loco",
+  "name": "Diego Palau",
+  "nickname": "El Loco",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 11,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1986-07-17",
+  "nationality": "La Plata, Buenos Aires, Argentina",
+  "url": "https://www.tapology.com/fightcenter/fighters/24970-diego-palau-el-loco",
+  "recentFights": [
+    {
+      "date": "2014-05-10T00:00:00.000Z",
+      "opponent": "Matias Juarez",
+      "opponentSlug": "86882-matias-juarez",
+      "result": "loss",
+      "method": "other",
+      "event": "Heroes MMA 4",
+      "eventSlug": "28364-heroes-mma-4",
+      "round": 1,
+      "timeInRound": "0:20"
+    },
+    {
+      "date": "2013-11-29T00:00:00.000Z",
+      "opponent": "Victor Valenzuela",
+      "opponentSlug": "67389-victor-valenzuela-sicosis",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-08-16T00:00:00.000Z",
+      "opponent": "Ali Bahjet",
+      "opponentSlug": "64567-ali-bahjet",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-07-14T00:00:00.000Z",
+      "opponent": "Kevin Koldobsky",
+      "opponentSlug": "65418-kevin-koldobsky-el-general",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-12-07T00:00:00.000Z",
+      "opponent": "Fernando Martinez",
+      "opponentSlug": "18328-fernando-martinez-pitbull",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Glam Fight",
+      "eventSlug": "17513-glam-fight",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-03-12T00:00:00.000Z",
+      "opponent": "Mariano Hinojal",
+      "opponentSlug": "14126-mariano-hinojal",
+      "result": "loss",
+      "method": null,
+      "event": "Real Fights 8",
+      "eventSlug": "20357-real-fights-8-demolition",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-04-10T00:00:00.000Z",
+      "opponent": "Angel Orellana",
+      "opponentSlug": "17025-angel-orellana-aplanadora",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-11-01T00:00:00.000Z",
+      "opponent": "Emiliano Sordi",
+      "opponentSlug": "24406-emiliano-sordi",
+      "result": "loss",
+      "method": "sub",
+      "event": "Explotion Fight Night 2",
+      "eventSlug": "7689-explotion-fight-night-2",
+      "round": 2,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2009-06-21T00:00:00.000Z",
+      "opponent": "Ezequiel Ricci",
+      "opponentSlug": "38749-ezequiel-ricci-el-chino",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Explotion Fight Night",
+      "eventSlug": "28666-explotion-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-04-18T00:00:00.000Z",
+      "opponent": "Horacio Bepre",
+      "opponentSlug": "42684-horacio-bepre",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-12-14T00:00:00.000Z",
+      "opponent": "Horacio Bepre",
+      "opponentSlug": "42684-horacio-bepre",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:58:18.637Z"
+}

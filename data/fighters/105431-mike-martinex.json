@@ -1,0 +1,92 @@
+{
+  "slug": "105431-mike-martinex",
+  "name": "Mike Martinez",
+  "nickname": "\"The Gentleman\"",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 5,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 152,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1997-10-04",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/105431-mike-martinex",
+  "recentFights": [
+    {
+      "date": "2018-07-14T00:00:00.000Z",
+      "opponent": "Adam Barrett",
+      "opponentSlug": "49452-adam-barrett",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Wars 37",
+      "eventSlug": "52906-cage-wars-37",
+      "round": 1,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2018-05-25T00:00:00.000Z",
+      "opponent": "Dennis Buzukja",
+      "opponentSlug": "131561-dennis-buzukia",
+      "result": "loss",
+      "method": "tko",
+      "event": "Triton Fights 7",
+      "eventSlug": "51658-triton-fights-7",
+      "round": 1,
+      "timeInRound": "2:04"
+    },
+    {
+      "date": "2017-10-21T00:00:00.000Z",
+      "opponent": "Nequoyah Sethi",
+      "opponentSlug": "35703-nequoyah-sethi",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Wars 34",
+      "eventSlug": "47275-cage-wars-34",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-09T00:00:00.000Z",
+      "opponent": "Irvin Averbukh",
+      "opponentSlug": "126422-irvin-averbukh",
+      "result": "win",
+      "method": "dec-split",
+      "event": "KTFO 15",
+      "eventSlug": "40575-ktfo-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-23T00:00:00.000Z",
+      "opponent": "Deshawn Casseus",
+      "opponentSlug": "134565-deshawn-casseus",
+      "result": "win",
+      "method": "sub",
+      "event": "Kaged Kombat FC 27",
+      "eventSlug": "40277-kaged-kombat-fc-27",
+      "round": 1,
+      "timeInRound": "1:51"
+    },
+    {
+      "date": "2016-03-12T00:00:00.000Z",
+      "opponent": "Jahlil Lane",
+      "opponentSlug": "128242-jahlil-lane",
+      "result": "win",
+      "method": "sub",
+      "event": "Kaged Kombat FC 25",
+      "eventSlug": "38057-kaged-kombat-fc-25",
+      "round": 1,
+      "timeInRound": "1:01"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:13:18.964Z"
+}

@@ -1,0 +1,154 @@
+{
+  "slug": "96877-sidney-wheeler",
+  "name": "Sidney Wheeler",
+  "nickname": "The All-American Kid",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1996-05-10",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/96877-sidney-wheeler",
+  "recentFights": [
+    {
+      "date": "2018-12-22T00:00:00.000Z",
+      "opponent": "Khamzat Chimaev",
+      "opponentSlug": "188143-khamzat-girikhanov",
+      "result": "loss",
+      "method": "sub",
+      "event": "Brave CF 20",
+      "eventSlug": "56712-brave-cf-20",
+      "round": 1,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2018-08-18T00:00:00.000Z",
+      "opponent": "Abdoul Abdouraguimov",
+      "opponentSlug": "145174-abdoul-abdouraguimov",
+      "result": "loss",
+      "method": "other",
+      "event": "Brave CF 14",
+      "eventSlug": "54087-brave-cf-14",
+      "round": 1,
+      "timeInRound": "3:20"
+    },
+    {
+      "date": "2018-03-02T00:00:00.000Z",
+      "opponent": "Paweł Kiełek",
+      "opponentSlug": "56464-pawel-kielek",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Brave CF 10",
+      "eventSlug": "49942-brave-x-the-kingdom-rises",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-10-21T00:00:00.000Z",
+      "opponent": "Robert Hale",
+      "opponentSlug": "106004-robert-hale",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Valor Fights 45",
+      "eventSlug": "48644-valor-fights-45",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-03T00:00:00.000Z",
+      "opponent": "Travis Davis",
+      "opponentSlug": "124056-travis-davis",
+      "result": "win",
+      "method": "other",
+      "event": "Justified Defiance Fight Series 5",
+      "eventSlug": "44140-justified-defiance-fight-series-5",
+      "round": 1,
+      "timeInRound": "0:06"
+    },
+    {
+      "date": "2016-12-02T00:00:00.000Z",
+      "opponent": "Brendan Allen",
+      "opponentSlug": "91516-brendan-allen",
+      "result": "loss",
+      "method": "other",
+      "event": "Valor Fights 39",
+      "eventSlug": "42713-valor-fights-39",
+      "round": 2,
+      "timeInRound": "0:29"
+    },
+    {
+      "date": "2016-08-13T00:00:00.000Z",
+      "opponent": "Gerald Meerschaert",
+      "opponentSlug": "6018-gerald-meerschaert-the-machine",
+      "result": "loss",
+      "method": "sub",
+      "event": "Valor Fights 36",
+      "eventSlug": "40826-valor-fights-36-wheeler-vs-riggs",
+      "round": 1,
+      "timeInRound": "1:22"
+    },
+    {
+      "date": "2016-05-14T00:00:00.000Z",
+      "opponent": "Kendrick Miree",
+      "opponentSlug": "30660-kendrick-miree-big-problem",
+      "result": "win",
+      "method": "sub",
+      "event": "Valor Fights 33",
+      "eventSlug": "39752-valor-fights-33",
+      "round": 5,
+      "timeInRound": "4:32"
+    },
+    {
+      "date": "2016-02-27T00:00:00.000Z",
+      "opponent": "Justin Fisher",
+      "opponentSlug": "49213-justin-fisher",
+      "result": "win",
+      "method": "tko",
+      "event": "VALOR Fights 31",
+      "eventSlug": "37804-valor-fights-31",
+      "round": 2,
+      "timeInRound": "4:08"
+    },
+    {
+      "date": "2015-10-31T00:00:00.000Z",
+      "opponent": "Julio Gallegos",
+      "opponentSlug": "4174-gerardo-julio-gallegos",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "VALOR Fights 28",
+      "eventSlug": "36320-valor-fights-28-wheeler-vs-gallegos",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-12T00:00:00.000Z",
+      "opponent": "Matthew Baccus",
+      "opponentSlug": "78535-matthew-baccus",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Valor Fights 26",
+      "eventSlug": "35086-valor-fights-26-all-pro-tri-cities",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-28T00:00:00.000Z",
+      "opponent": "Jesse Grun",
+      "opponentSlug": "96876-jesse-grun",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Valor Fights 21",
+      "eventSlug": "30824-valor-fights-21",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:15:27.357Z"
+}

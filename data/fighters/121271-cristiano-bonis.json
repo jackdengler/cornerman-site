@@ -1,0 +1,187 @@
+{
+  "slug": "121271-cristiano-bonis",
+  "name": "Cristiano Bonis",
+  "nickname": "Big Bonis",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1991-02-12",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/121271-cristiano-bonis",
+  "recentFights": [
+    {
+      "date": "2019-10-12T00:00:00.000Z",
+      "opponent": "Lucas Silva",
+      "opponentSlug": "48148-lucas-silva",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-20T00:00:00.000Z",
+      "opponent": "Carlo Prater",
+      "opponentSlug": "carlo-prater-neo",
+      "result": "loss",
+      "method": "other",
+      "event": "King of Ring MMA 2",
+      "eventSlug": "61853-king-of-ring-mma-2",
+      "round": 1,
+      "timeInRound": "1:09"
+    },
+    {
+      "date": "2019-04-13T00:00:00.000Z",
+      "opponent": "Diogo Barberatto",
+      "opponentSlug": "131250-diogo-barberatto",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-08T00:00:00.000Z",
+      "opponent": "Diogo Barberatto",
+      "opponentSlug": "131250-diogo-barberatto",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-10T00:00:00.000Z",
+      "opponent": "Cesar Siqueira",
+      "opponentSlug": "197599-cesar-siqueira",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-16T00:00:00.000Z",
+      "opponent": "Mario Barreto",
+      "opponentSlug": "84345-mario-corvo",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Liga Brasileira de MMA 15",
+      "eventSlug": "70278-liga-brasileira-de-mma-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-26T00:00:00.000Z",
+      "opponent": "Argemiro Delmandes",
+      "opponentSlug": "35193-argemiro-delmandes",
+      "result": "loss",
+      "method": "other",
+      "event": "IFC MMA Combate 8",
+      "eventSlug": "47704-ifc-mma-combate-8",
+      "round": 1,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2017-05-20T00:00:00.000Z",
+      "opponent": "Gabriel Henrique",
+      "opponentSlug": "142041-gabriel-henrique",
+      "result": "win",
+      "method": "other",
+      "event": "CFC Fight 4",
+      "eventSlug": "45823-cfc-fight-4",
+      "round": 3,
+      "timeInRound": "0:08"
+    },
+    {
+      "date": "2016-12-10T00:00:00.000Z",
+      "opponent": "Luiz Carlos Alves",
+      "opponentSlug": "86052-luiz-carlos-luizinho",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-26T00:00:00.000Z",
+      "opponent": "Djorden Santos",
+      "opponentSlug": "67529-diorden-maguila",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-10T00:00:00.000Z",
+      "opponent": "Mario Barreto",
+      "opponentSlug": "84345-mario-corvo",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-06-11T00:00:00.000Z",
+      "opponent": "Petronio Pereira",
+      "opponentSlug": "157874-petronio-pereira-pedreira",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-03-19T00:00:00.000Z",
+      "opponent": "Luiz Carlos Alves",
+      "opponentSlug": "86052-luiz-carlos-luizinho",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-03-05T00:00:00.000Z",
+      "opponent": "Eliseu Matsuura",
+      "opponentSlug": "51133-eliseu-matsuura-japa",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-15T00:00:00.000Z",
+      "opponent": "Bruno Assis",
+      "opponentSlug": "99877-bruno-assis",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:04:07.242Z"
+}

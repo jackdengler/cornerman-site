@@ -1,0 +1,209 @@
+{
+  "slug": "29725-aj-dobson",
+  "name": "AJ Dobson",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 193,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1992-01-18",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/29725-aj-dobson",
+  "recentFights": [
+    {
+      "date": "2024-03-23T00:00:00.000Z",
+      "opponent": "Edmen Shahbazyan",
+      "opponentSlug": "142325-edmen-shahbazyan",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "108462-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "4:33"
+    },
+    {
+      "date": "2023-08-12T00:00:00.000Z",
+      "opponent": "Tafon Nchukwi",
+      "opponentSlug": "155239-tafon-nchukwi-cameroon-express",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "101163-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-10-22T00:00:00.000Z",
+      "opponent": "Armen Petrosyan",
+      "opponentSlug": "198212-armen-petrosyan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 280: Oliveira vs. Makhachev",
+      "eventSlug": "87755-ufc-281",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-12T00:00:00.000Z",
+      "opponent": "Jacob Malkoun",
+      "opponentSlug": "111323-jacob-malkoun",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 271: Adesanya vs. Whittaker 2",
+      "eventSlug": "83288-ufc-271",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-21T00:00:00.000Z",
+      "opponent": "Hashem Arkhagha",
+      "opponentSlug": "19352-hashem-arkhagha-cavaca",
+      "result": "win",
+      "method": "sub",
+      "event": "Contender Series 2021",
+      "eventSlug": "78723-contender-series-2021",
+      "round": 1,
+      "timeInRound": "4:21"
+    },
+    {
+      "date": "2020-11-07T00:00:00.000Z",
+      "opponent": "Kailan Hill",
+      "opponentSlug": "136254-kailan-hill",
+      "result": "win",
+      "method": "tko",
+      "event": "Strikehard Productions 57",
+      "eventSlug": "73529-strikehard-productions-57",
+      "round": 1,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2018-08-18T00:00:00.000Z",
+      "opponent": "Wesley Golden",
+      "opponentSlug": "18501-wesley-golden",
+      "result": "win",
+      "method": "sub",
+      "event": "Honor FC 6: Fight Night at Nautica",
+      "eventSlug": "53825-honor-fc-6",
+      "round": 1,
+      "timeInRound": "0:24"
+    },
+    {
+      "date": "2017-12-09T00:00:00.000Z",
+      "opponent": "Montrel James",
+      "opponentSlug": "90332-montrell-james",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IT Fight Series 78",
+      "eventSlug": "48984-it-fight-series-78",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-15T00:00:00.000Z",
+      "opponent": "Willie Whitehead",
+      "opponentSlug": "116540-willie-whitehead",
+      "result": "win",
+      "method": "other",
+      "event": "KOTC: Territorial Dispute",
+      "eventSlug": "44806-kotc-territorial-dispute",
+      "round": 1,
+      "timeInRound": "1:43"
+    },
+    {
+      "date": "2017-04-01T00:00:00.000Z",
+      "opponent": "Seth Bass",
+      "opponentSlug": "35683-seth-bass",
+      "result": "nc",
+      "method": "other",
+      "event": "DCS 33: Spring Brawl 2017",
+      "eventSlug": "44159-dcs-33-spring-brawl-2017",
+      "round": 1,
+      "timeInRound": "0:43"
+    },
+    {
+      "date": "2016-06-25T00:00:00.000Z",
+      "opponent": "JT Miller",
+      "opponentSlug": "28232-jt-miller",
+      "result": "win",
+      "method": "other",
+      "event": "Big Guns 19",
+      "eventSlug": "39584-big-guns-19-return-to-the-summit",
+      "round": 1,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2014-12-06T00:00:00.000Z",
+      "opponent": "John Gunther",
+      "opponentSlug": "32107-john-gunther",
+      "result": "loss",
+      "method": "sub",
+      "event": "NAAFS: Caged Vengeance 15",
+      "eventSlug": "28061-naafs-caged-vengeance-15",
+      "round": 2,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2013-08-31T00:00:00.000Z",
+      "opponent": "John Gunther",
+      "opponentSlug": "32107-john-gunther",
+      "result": "win",
+      "method": "other",
+      "event": "Big Guns 12",
+      "eventSlug": "19814-big-guns-12",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2013-06-01T00:00:00.000Z",
+      "opponent": "Josh Lasich",
+      "opponentSlug": "28225-josh-lasich-the-ox",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "NAAFS: Fight Night In The Flats 9",
+      "eventSlug": "18611-naafs-fight-nite-in-the-flats-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-03-30T00:00:00.000Z",
+      "opponent": "Dustin Wolf",
+      "opponentSlug": "44119-dustin-wolf",
+      "result": "win",
+      "method": "sub",
+      "event": "NAAFS: Caged Vengeance 13",
+      "eventSlug": "17885-naafs-caged-vengeance-13",
+      "round": 1,
+      "timeInRound": "2:08"
+    },
+    {
+      "date": "2012-11-10T00:00:00.000Z",
+      "opponent": "Nate Davies",
+      "opponentSlug": "38261-nate-davies",
+      "result": "win",
+      "method": "tko",
+      "event": "NAAFS: Caged Fury 20",
+      "eventSlug": "16133-naafs-caged-fury-20",
+      "round": 1,
+      "timeInRound": "0:12"
+    },
+    {
+      "date": "2012-06-23T00:00:00.000Z",
+      "opponent": "Jonathan Berkley",
+      "opponentSlug": "29726-jonathan-berkley",
+      "result": "win",
+      "method": "sub",
+      "event": "NFC 7: Field of Fury",
+      "eventSlug": "13595-nfc-7-field-of-fury",
+      "round": 1,
+      "timeInRound": "2:25"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:14:26.043Z"
+}

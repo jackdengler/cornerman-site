@@ -1,0 +1,132 @@
+{
+  "slug": "289653-michael-oliveira-pqd",
+  "name": "Michael Oliveira",
+  "nickname": "PQD",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 199,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1998-01-21",
+  "nationality": "Rio de Janeiro, Rio de Janeiro, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/289653-michael-oliveira-pqd",
+  "recentFights": [
+    {
+      "date": "2025-10-14T00:00:00.000Z",
+      "opponent": "Victor Valenzuela",
+      "opponentSlug": "67389-victor-valenzuela-sicosis",
+      "result": "win",
+      "method": "other",
+      "event": "Contender Series 2025",
+      "eventSlug": "128467-contender-series-2025-week-10",
+      "round": 2,
+      "timeInRound": "3:56"
+    },
+    {
+      "date": "2024-11-22T00:00:00.000Z",
+      "opponent": "Aldo Pereira",
+      "opponentSlug": "109633-aldo-pereira",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 197: Kuziutina vs Guimarães",
+      "eventSlug": "117777-lfa-197",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-23T00:00:00.000Z",
+      "opponent": "Dallys Gama",
+      "opponentSlug": "50262-dallys-moraes",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 179: Neto vs. Antunes",
+      "eventSlug": "109364-legacy-fighting-alliance-179-lfa-179",
+      "round": 3,
+      "timeInRound": "4:47"
+    },
+    {
+      "date": "2023-11-03T00:00:00.000Z",
+      "opponent": "Eduardo Alencar",
+      "opponentSlug": "174535-antnio-eduardo-albino",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 171: Neves vs. Cunha",
+      "eventSlug": "105821-lfa-171-neves-vs-cunha",
+      "round": 1,
+      "timeInRound": "0:31"
+    },
+    {
+      "date": "2023-07-07T00:00:00.000Z",
+      "opponent": "Francisco Ataliba",
+      "opponentSlug": "286914-francisco-ataliba",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 162: Conceição vs. Lopes",
+      "eventSlug": "102000-lfa-162-prates-vs-antunes",
+      "round": 1,
+      "timeInRound": "4:48"
+    },
+    {
+      "date": "2023-03-10T00:00:00.000Z",
+      "opponent": "Bruno Teixeira",
+      "opponentSlug": "272376-bruno-teixeira-tank",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 154: Fernando vs. Silva",
+      "eventSlug": "97603-lfa-154-fernando-vs-silva",
+      "round": 1,
+      "timeInRound": "3:47"
+    },
+    {
+      "date": "2023-01-28T00:00:00.000Z",
+      "opponent": "Clever Souza",
+      "opponentSlug": "168138-clever-souza-nene",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 151: Delano vs. Santos",
+      "eventSlug": "96398-lfa-151-delano-vs-santos",
+      "round": 1,
+      "timeInRound": "0:49"
+    },
+    {
+      "date": "2022-08-27T00:00:00.000Z",
+      "opponent": "Elder Dias",
+      "opponentSlug": "339412-elder-costa",
+      "result": "win",
+      "method": "other",
+      "event": "Jungle Fight 110",
+      "eventSlug": "91786-jungle-fight-110",
+      "round": 1,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2022-02-19T00:00:00.000Z",
+      "opponent": "Guilherme Silva",
+      "opponentSlug": "289869-guilherme-silva",
+      "result": "win",
+      "method": "other",
+      "event": "Arena Global 16",
+      "eventSlug": "85760-arena-global-16",
+      "round": 1,
+      "timeInRound": "0:42"
+    },
+    {
+      "date": "2021-04-10T00:00:00.000Z",
+      "opponent": "Wagner Robson Viana",
+      "opponentSlug": "289654-wagner-robson-viana",
+      "result": "win",
+      "method": "other",
+      "event": "Arena Global 11",
+      "eventSlug": "77273-arena-global-11",
+      "round": 1,
+      "timeInRound": "1:35"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:57:51.634Z"
+}

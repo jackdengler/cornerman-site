@@ -1,0 +1,110 @@
+{
+  "slug": "107036-dmitriy-golbaev",
+  "name": "Dmitriy Golbaev",
+  "nickname": "Tiger",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1995-06-02",
+  "nationality": "Kiev, Ukraine",
+  "url": "https://www.tapology.com/fightcenter/fighters/107036-dmitriy-golbaev",
+  "recentFights": [
+    {
+      "date": "2018-06-30T00:00:00.000Z",
+      "opponent": "Alex Vyazinko",
+      "opponentSlug": "153442-alex-vyazinko",
+      "result": "win",
+      "method": "other",
+      "event": "PPC Kratos Cup 7",
+      "eventSlug": "54124-professional-pankration-championship-7-battle-of-univa-2",
+      "round": 2,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2017-08-20T00:00:00.000Z",
+      "opponent": "Nikoloz Khevsurishvili",
+      "opponentSlug": "220530-nikoloz-khevsurishvili",
+      "result": "win",
+      "method": "other",
+      "event": "PPC Kratos Cup",
+      "eventSlug": "47921-ppc-3",
+      "round": 1,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2017-08-12T00:00:00.000Z",
+      "opponent": "Mateusz Rębecki",
+      "opponentSlug": "65128-mateusz-rbecki-chiczyk",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fight Exclusive Night 18",
+      "eventSlug": "45744-fight-exclusive-night-18",
+      "round": 3,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2017-07-16T00:00:00.000Z",
+      "opponent": "Andrey Davidov",
+      "opponentSlug": "118778-andrey-davidov",
+      "result": "win",
+      "method": "other",
+      "event": "PPC Kratos Cup 4",
+      "eventSlug": "47247-kratos-cup-4-young-stars",
+      "round": 1,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2015-10-11T00:00:00.000Z",
+      "opponent": "Martin Matiasko",
+      "opponentSlug": "103197-martin-matiasko",
+      "result": "win",
+      "method": "other",
+      "event": "RFP 36: West Fight 16",
+      "eventSlug": "35964-west-fight-16",
+      "round": 2,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2015-07-05T00:00:00.000Z",
+      "opponent": "Stepan Poshyvak",
+      "opponentSlug": "81948-stepan-poshyvak",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "RFP 31: West Fight 14",
+      "eventSlug": "33684-west-fight-14",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-18T00:00:00.000Z",
+      "opponent": "Dmitriy Vozniuk",
+      "opponentSlug": "118761-dmitriy-vozniuk",
+      "result": "win",
+      "method": "other",
+      "event": "Amateur Cup of Kiev 2017",
+      "eventSlug": "45081-amateur-cup-of-kiev-2017",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-18T00:00:00.000Z",
+      "opponent": "Ivan Grinyuk",
+      "opponentSlug": "144557-ivan-grinyuk",
+      "result": "win",
+      "method": "other",
+      "event": "Amateur Cup of Kiev 2017",
+      "eventSlug": "45081-amateur-cup-of-kiev-2017",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:05:38.836Z"
+}

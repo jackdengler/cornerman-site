@@ -1,0 +1,220 @@
+{
+  "slug": "59327-mark-delarosa",
+  "name": "Mark De La Rosa",
+  "nickname": "The Bumblebee",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": 165,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1994-08-31",
+  "nationality": "Lubbock, Texas",
+  "url": "https://www.tapology.com/fightcenter/fighters/59327-mark-delarosa",
+  "recentFights": [
+    {
+      "date": "2020-06-13T00:00:00.000Z",
+      "opponent": "Jordan Espinosa",
+      "opponentSlug": "40011-jordan-espinosa",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "67562-ufc-on-espn",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-15T00:00:00.000Z",
+      "opponent": "Raulian Paiva",
+      "opponentSlug": "80405-raulian-paiva",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC on ESPN+ 25",
+      "eventSlug": "64635-ufc-on-espn",
+      "round": 2,
+      "timeInRound": "4:42"
+    },
+    {
+      "date": "2019-08-31T00:00:00.000Z",
+      "opponent": "Kai Kara-France",
+      "opponentSlug": "24803-kaiwhare-kara-france",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC on ESPN+ 15",
+      "eventSlug": "60314-ufc-on-espn-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-30T00:00:00.000Z",
+      "opponent": "Alex Perez",
+      "opponentSlug": "alex-perez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC on ESPN 2",
+      "eventSlug": "56354-ufc-fight-night-150",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-10T00:00:00.000Z",
+      "opponent": "Joby Sanchez",
+      "opponentSlug": "28639-joby-sanchez",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night 139",
+      "eventSlug": "53520-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-14T00:00:00.000Z",
+      "opponent": "Elias Garcia",
+      "opponentSlug": "54304-elias-garcia",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night 133",
+      "eventSlug": "52391-ufc-fight-night-133",
+      "round": 2,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2017-12-30T00:00:00.000Z",
+      "opponent": "Tim Elliott",
+      "opponentSlug": "13664-timothy-elliot",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 219: Cyborg vs. Holm",
+      "eventSlug": "47258-ufc-219",
+      "round": 2,
+      "timeInRound": "1:41"
+    },
+    {
+      "date": "2017-06-30T00:00:00.000Z",
+      "opponent": "Mahatma García",
+      "opponentSlug": "63976-mahatma-garcia-arana",
+      "result": "win",
+      "method": "sub",
+      "event": "Combate 15",
+      "eventSlug": "46700-combate-15",
+      "round": 3,
+      "timeInRound": "2:36"
+    },
+    {
+      "date": "2017-01-19T00:00:00.000Z",
+      "opponent": "Ivan Hernandez-Flores",
+      "opponentSlug": "63980-ivan-flores-el-brasil",
+      "result": "win",
+      "method": "sub",
+      "event": "Combate 10",
+      "eventSlug": "43217-combate-diez",
+      "round": 2,
+      "timeInRound": "3:11"
+    },
+    {
+      "date": "2016-04-02T00:00:00.000Z",
+      "opponent": "Arthur Oliveira",
+      "opponentSlug": "49890-arthur-oliveira",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "SCC 12: Fighting for Hope",
+      "eventSlug": "38741-scc-fighting-for-hope",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-01-09T00:00:00.000Z",
+      "opponent": "Kashif Solarin",
+      "opponentSlug": "16491-kashif-solarin",
+      "result": "win",
+      "method": "sub",
+      "event": "Dominion Warrior",
+      "eventSlug": "37330-dominion-warrior-relentless",
+      "round": 1,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2015-12-05T00:00:00.000Z",
+      "opponent": "Joseph Sandoval",
+      "opponentSlug": "joseph-sandoval",
+      "result": "win",
+      "method": "sub",
+      "event": "XKO 28",
+      "eventSlug": "36687-xko-28",
+      "round": 1,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2015-06-13T00:00:00.000Z",
+      "opponent": "Xavier Siller",
+      "opponentSlug": "47964-xavier-siller",
+      "result": "win",
+      "method": "tko",
+      "event": "Premier Fight Series 4",
+      "eventSlug": "32649-premier-fight-series-4",
+      "round": 2,
+      "timeInRound": "4:24"
+    },
+    {
+      "date": "2015-02-13T00:00:00.000Z",
+      "opponent": "Keeton Gorton",
+      "opponentSlug": "61978-keeton-gorton",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Legacy FC 38",
+      "eventSlug": "28530-legacy-fc-38",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-10-18T00:00:00.000Z",
+      "opponent": "Michael Brasher",
+      "opponentSlug": "35775-michael-brasher",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XKO 23",
+      "eventSlug": "26795-xko-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-09-06T00:00:00.000Z",
+      "opponent": "Marcus Huerta",
+      "opponentSlug": "33467-marcus-huerta",
+      "result": "win",
+      "method": "sub",
+      "event": "24/7 Entertainment 16 & 17",
+      "eventSlug": "26244-247-entertainment-16-17-injustice-tyranny",
+      "round": 1,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2014-02-21T00:00:00.000Z",
+      "opponent": "Shawn Castillo",
+      "opponentSlug": "41151-shawn-castillo",
+      "result": "win",
+      "method": "sub",
+      "event": "Belts of Honorious 4",
+      "eventSlug": "22353-belts-of-honorious-4",
+      "round": 1,
+      "timeInRound": "0:48"
+    },
+    {
+      "date": "2013-11-23T00:00:00.000Z",
+      "opponent": "Avishai Malke",
+      "opponentSlug": "59328-avishai-malke",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Belts of Honorious 3",
+      "eventSlug": "21525-belts-of-honorious-3",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:12:35.448Z"
+}

@@ -1,0 +1,187 @@
+{
+  "slug": "147054-alan-bruno",
+  "name": "Alan Bruno",
+  "nickname": "Bruninho",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 7,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 160,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1995-01-08",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/147054-alan-bruno",
+  "recentFights": [
+    {
+      "date": "2023-12-23T00:00:00.000Z",
+      "opponent": "Alcimar Moto",
+      "opponentSlug": "232552-alcimar-moto-do-nascimento-loirao",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-27T00:00:00.000Z",
+      "opponent": "Francisco Neves",
+      "opponentSlug": "237355-francisco-neves",
+      "result": "loss",
+      "method": "tko",
+      "event": "Coari New Talent 1",
+      "eventSlug": "101503-coari-new-talent-1",
+      "round": 2,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2022-10-08T00:00:00.000Z",
+      "opponent": "Elinelson Gonçalves",
+      "opponentSlug": "186054-elinelson-goncalves-mao-de-pedra",
+      "result": "win",
+      "method": "sub",
+      "event": "Codajás Combat 2022",
+      "eventSlug": "93694-codajas-combat-2022",
+      "round": 1,
+      "timeInRound": "3:01"
+    },
+    {
+      "date": "2021-12-18T00:00:00.000Z",
+      "opponent": "Gabriel Rodrigues",
+      "opponentSlug": "189769-gabriel-rodrigues-maizena",
+      "result": "loss",
+      "method": "tko",
+      "event": "Lions Fights MMA 3",
+      "eventSlug": "86543-lions-fight-arena-3",
+      "round": 1,
+      "timeInRound": "2:43"
+    },
+    {
+      "date": "2019-10-05T00:00:00.000Z",
+      "opponent": "Francinaldo Silva",
+      "opponentSlug": "229680-francinaldo-silva",
+      "result": "win",
+      "method": "other",
+      "event": "Suar FC 5",
+      "eventSlug": "63353-suar-fight-championship-5",
+      "round": 3,
+      "timeInRound": "2:08"
+    },
+    {
+      "date": "2019-04-13T00:00:00.000Z",
+      "opponent": "Jhonata Peres",
+      "opponentSlug": "180482-jhonata-de-souza-showtime",
+      "result": "loss",
+      "method": "sub",
+      "event": "Coari Champions 2",
+      "eventSlug": "59334-coari-champions-2",
+      "round": 1,
+      "timeInRound": "4:35"
+    },
+    {
+      "date": "2018-09-01T00:00:00.000Z",
+      "opponent": "Elson Lima",
+      "opponentSlug": "184024-elson-monstrinho",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-31T00:00:00.000Z",
+      "opponent": "Warllem Silva",
+      "opponentSlug": "138678-warllem-lobo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Coari Champions 1",
+      "eventSlug": "54209-coari-champions-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-04T00:00:00.000Z",
+      "opponent": "Wallafy Fernandes",
+      "opponentSlug": "103587-wallaf-mull",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-19T00:00:00.000Z",
+      "opponent": "Antonio Santos da Silva",
+      "opponentSlug": "192350-antonio-santos-da-silva-bigfoot",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-13T00:00:00.000Z",
+      "opponent": "Clemens Junio",
+      "opponentSlug": "115987-clemens-junio",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-04T00:00:00.000Z",
+      "opponent": "Lucas Rocha",
+      "opponentSlug": "192343-lucas-rocha-fenomeno",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-02T00:00:00.000Z",
+      "opponent": "Adailton Silva",
+      "opponentSlug": "54576-adailton-silva",
+      "result": "loss",
+      "method": "tko",
+      "event": "FLC 3",
+      "eventSlug": "43498-flc-3",
+      "round": 2,
+      "timeInRound": "2:31"
+    },
+    {
+      "date": "2015-10-03T00:00:00.000Z",
+      "opponent": "Magno Alves",
+      "opponentSlug": "24638-magno-alves-pirulito",
+      "result": "draw",
+      "method": "dec-majority",
+      "event": "DGT Fight",
+      "eventSlug": "51676-dgt-fight",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-07-25T00:00:00.000Z",
+      "opponent": "Samuel Xavier",
+      "opponentSlug": "17146-samuel-xavier",
+      "result": "loss",
+      "method": "other",
+      "event": "Selva Combat 3",
+      "eventSlug": "42044-selva-combat-3",
+      "round": 3,
+      "timeInRound": "1:15"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:56:35.453Z"
+}

@@ -1,0 +1,209 @@
+{
+  "slug": "251547-austin-bashi",
+  "name": "Austin Bashi",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 14,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": 178,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "2001-09-29",
+  "nationality": "West Bloomfield Township, Michigan, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/251547-austin-bashi",
+  "recentFights": [
+    {
+      "date": "2025-08-02T00:00:00.000Z",
+      "opponent": "John Yannis",
+      "opponentSlug": "151617-john-yannies",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "127934-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "3:39"
+    },
+    {
+      "date": "2025-01-11T00:00:00.000Z",
+      "opponent": "Christian Rodriguez",
+      "opponentSlug": "121190-christian-rodriguez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "118450-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-03T00:00:00.000Z",
+      "opponent": "Dorian Ramos",
+      "opponentSlug": "108139-dorian-ramos",
+      "result": "win",
+      "method": "sub",
+      "event": "Contender Series 2024",
+      "eventSlug": "112921-contender-series-2024-week-4",
+      "round": 2,
+      "timeInRound": "3:15"
+    },
+    {
+      "date": "2024-06-01T00:00:00.000Z",
+      "opponent": "Zac Riley",
+      "opponentSlug": "28236-zac-riley",
+      "result": "win",
+      "method": "other",
+      "event": "Lights Out Championship 16",
+      "eventSlug": "113146-lights-out-championship-16",
+      "round": 1,
+      "timeInRound": "3:48"
+    },
+    {
+      "date": "2023-09-30T00:00:00.000Z",
+      "opponent": "Askar Askar",
+      "opponentSlug": "55860-askar",
+      "result": "win",
+      "method": "other",
+      "event": "Lights Out Championship 13",
+      "eventSlug": "103767-lights-out-championship-13",
+      "round": 2,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2023-06-24T00:00:00.000Z",
+      "opponent": "Erik Vo",
+      "opponentSlug": "11821-eric-vo",
+      "result": "win",
+      "method": "sub",
+      "event": "Lights Out Championship 12",
+      "eventSlug": "101536-lights-out-championship-12",
+      "round": 1,
+      "timeInRound": "3:27"
+    },
+    {
+      "date": "2023-04-29T00:00:00.000Z",
+      "opponent": "Pipe Vargas",
+      "opponentSlug": "124298-felipe-vargas",
+      "result": "win",
+      "method": "sub",
+      "event": "Lights Out Championship 11",
+      "eventSlug": "98770-lights-out-championship-11",
+      "round": 2,
+      "timeInRound": "3:06"
+    },
+    {
+      "date": "2022-11-12T00:00:00.000Z",
+      "opponent": "Joe Penafiel",
+      "opponentSlug": "108779-joe-penafiel",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Lights Out Championship 9",
+      "eventSlug": "91586-lights-out-championship-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-25T00:00:00.000Z",
+      "opponent": "Chris San Jose",
+      "opponentSlug": "65176-chris-sanjose",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Lights Out Championship 8",
+      "eventSlug": "89901-lights-out-championship-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-09T00:00:00.000Z",
+      "opponent": "Erion Zekthi",
+      "opponentSlug": "109056-erion-zekthi",
+      "result": "win",
+      "method": "other",
+      "event": "Shamrock FC 337",
+      "eventSlug": "84474-shamrock-fc-337",
+      "round": 2,
+      "timeInRound": "3:28"
+    },
+    {
+      "date": "2021-12-10T00:00:00.000Z",
+      "opponent": "Darnell White Jr.",
+      "opponentSlug": "109318-darnell-white",
+      "result": "win",
+      "method": "other",
+      "event": "XFC Young Guns 4",
+      "eventSlug": "83261-xfc-youngguns-4",
+      "round": 1,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2021-08-06T00:00:00.000Z",
+      "opponent": "James Dunn",
+      "opponentSlug": "102421-james-dunn",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XFC 45",
+      "eventSlug": "80528-xfc-45",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-28T00:00:00.000Z",
+      "opponent": "Emanuel Pugh",
+      "opponentSlug": "146020-emanuel-pugh",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XFC 44: Soukhamthath vs. Quinonez",
+      "eventSlug": "78810-xfc-44",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-27T00:00:00.000Z",
+      "opponent": "Mason Iacobellis",
+      "opponentSlug": "110338-mason-iacobellis-big-daddy-mase",
+      "result": "win",
+      "method": "sub",
+      "event": "XFC Young Guns 1",
+      "eventSlug": "75684-xfc-youngguns-1",
+      "round": 3,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2020-11-11T00:00:00.000Z",
+      "opponent": "Enzo Perez",
+      "opponentSlug": "131783-enzo-perez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XFC 43: Faria vs. Soukhamthath",
+      "eventSlug": "72767-xfc-43",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-03-07T00:00:00.000Z",
+      "opponent": "Tony Lichtenberger",
+      "opponentSlug": "161896-tony-lichtenberger",
+      "result": "win",
+      "method": "other",
+      "event": "Caged Thunder 11",
+      "eventSlug": "65316-caged-thunder-11",
+      "round": 1,
+      "timeInRound": "2:43"
+    },
+    {
+      "date": "2020-02-08T00:00:00.000Z",
+      "opponent": "Garrett Wooden",
+      "opponentSlug": "216726-garrett-wooden",
+      "result": "win",
+      "method": "other",
+      "event": "Lights Out Championship 7",
+      "eventSlug": "65698-lights-out-championship-7",
+      "round": 1,
+      "timeInRound": "2:19"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:05:13.330Z"
+}

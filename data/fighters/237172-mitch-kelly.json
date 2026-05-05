@@ -1,0 +1,68 @@
+{
+  "slug": "237172-mitch-kelly",
+  "name": "Mitch Kelly",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "New Zealand",
+  "url": "https://www.tapology.com/fightcenter/fighters/237172-mitch-kelly",
+  "recentFights": [
+    {
+      "date": "2026-01-31T00:00:00.000Z",
+      "opponent": "Joshua O'Brien",
+      "opponentSlug": "386163-joshua-o-brien",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Eternal MMA 102",
+      "eventSlug": "138396-eternal-mma-102",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-08-30T00:00:00.000Z",
+      "opponent": "Dane Edge",
+      "opponentSlug": "318384-dane-edge",
+      "result": "win",
+      "method": "tko",
+      "event": "SFL 3",
+      "eventSlug": "127175-sfl-3",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "allFights": [
+    {
+      "date": "2026-01-31T00:00:00.000Z",
+      "opponent": "Joshua O'Brien",
+      "opponentSlug": "386163-joshua-o-brien",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Eternal MMA 102",
+      "eventSlug": "138396-eternal-mma-102",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-08-30T00:00:00.000Z",
+      "opponent": "Dane Edge",
+      "opponentSlug": "318384-dane-edge",
+      "result": "win",
+      "method": "tko",
+      "event": "SFL 3",
+      "eventSlug": "127175-sfl-3",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-05-03T10:17:33.334Z"
+}

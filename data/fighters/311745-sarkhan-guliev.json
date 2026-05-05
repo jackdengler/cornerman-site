@@ -1,0 +1,33 @@
+{
+  "slug": "311745-sarkhan-guliev",
+  "name": "Sarkhan Guliev",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 177,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "2001-03-26",
+  "nationality": "Nizhny Novgorod, Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/311745-sarkhan-guliev",
+  "recentFights": [
+    {
+      "date": "2021-10-11T00:00:00.000Z",
+      "opponent": "Nikita Kulshin",
+      "opponentSlug": "178301-nikita-kulshin",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ACA Young Eagles 21",
+      "eventSlug": "83310-aca-young-eagles-21",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:38:45.510Z"
+}

@@ -1,0 +1,198 @@
+{
+  "slug": "116037-liana-dzhoudzhua",
+  "name": "Liana Jojua",
+  "nickname": "She Wolf",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 162,
+  "reachCm": 157,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1995-03-22",
+  "nationality": "Georgia",
+  "url": "https://www.tapology.com/fightcenter/fighters/116037-liana-dzhoudzhua",
+  "recentFights": [
+    {
+      "date": "2024-12-14T00:00:00.000Z",
+      "opponent": "Jaqueline Ferreira",
+      "opponentSlug": "129401-jaqueline-ferreira-jack-3d",
+      "result": "win",
+      "method": "other",
+      "event": "GFC 29",
+      "eventSlug": "121370-gfc-29",
+      "round": 1,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2022-05-20T00:00:00.000Z",
+      "opponent": "Darya Zheleznyakova",
+      "opponentSlug": "229363-dariya-zheleznyakova",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Ares FC 6: Damiani vs. Tulshaev",
+      "eventSlug": "87593-ares-fc-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-13T00:00:00.000Z",
+      "opponent": "Cortney Casey",
+      "opponentSlug": "21135-courtney-casey",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "81601-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-10-24T00:00:00.000Z",
+      "opponent": "Miranda Maverick",
+      "opponentSlug": "116637-miranda-maverick",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 254: Khabib vs. Gaethje",
+      "eventSlug": "70869-ufc-255",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2020-07-15T00:00:00.000Z",
+      "opponent": "Diana Belbiţă",
+      "opponentSlug": "76509-diana-belbita",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "70017-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "2:23"
+    },
+    {
+      "date": "2019-09-07T00:00:00.000Z",
+      "opponent": "Sarah Moras",
+      "opponentSlug": "20868-sarah-moras",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 242: Khabib vs. Poirier",
+      "eventSlug": "60004-ufc-242",
+      "round": 3,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2018-02-22T00:00:00.000Z",
+      "opponent": "Marina Mokhnatkina",
+      "opponentSlug": "134452-marina-mokhnatkina",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Fight Nights Global 83",
+      "eventSlug": "50302-fight-nights-global-83",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-29T00:00:00.000Z",
+      "opponent": "Viktoriya Shalimova",
+      "opponentSlug": "133897-viktoriya-shalimova",
+      "result": "win",
+      "method": "sub",
+      "event": "Emir FC: Selection 1",
+      "eventSlug": "49684-emir-fc-selection-1",
+      "round": 1,
+      "timeInRound": "0:28"
+    },
+    {
+      "date": "2017-07-29T00:00:00.000Z",
+      "opponent": "Karina Vasilenko",
+      "opponentSlug": "141673-karina-vasilenko",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Nights Global 71",
+      "eventSlug": "47062-fight-nights-global-71-michailidis-vs-mineev",
+      "round": 1,
+      "timeInRound": "4:15"
+    },
+    {
+      "date": "2016-12-15T00:00:00.000Z",
+      "opponent": "Tao Li",
+      "opponentSlug": "126550-tao-li",
+      "result": "win",
+      "method": "sub",
+      "event": "Kunlun Fight MMA 7",
+      "eventSlug": "42953-kunlun-fight-mma-7",
+      "round": 1,
+      "timeInRound": "3:13"
+    },
+    {
+      "date": "2016-11-06T00:00:00.000Z",
+      "opponent": "Valeria Pak",
+      "opponentSlug": "145017-valeria-pak",
+      "result": "win",
+      "method": "sub",
+      "event": "SLMMA 7: Ivanov vs. Karapetyan",
+      "eventSlug": "43112-student-league-mma-1",
+      "round": 1,
+      "timeInRound": "0:41"
+    },
+    {
+      "date": "2016-08-20T00:00:00.000Z",
+      "opponent": "Na Liang",
+      "opponentSlug": "136810-na-liang",
+      "result": "loss",
+      "method": "other",
+      "event": "WLF E.P.I.C. 7",
+      "eventSlug": "41356-wlf-epic-7",
+      "round": 2,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2016-01-16T00:00:00.000Z",
+      "opponent": "Zamzagul Fayzallanova",
+      "opponentSlug": "123720-zamzagul-fayzallanova",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Alash Pride FC",
+      "eventSlug": "37723-alash-pride-fc-atyrau-the-beautiful",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-03T00:00:00.000Z",
+      "opponent": "Tatiana Pevneva",
+      "opponentSlug": "116036-tatiana-pevneva",
+      "result": "win",
+      "method": "other",
+      "event": "Octagon Fighting Sensation 5",
+      "eventSlug": "36020-octagon-fighting-sensation-5-battle-for-yaroslavl",
+      "round": 1,
+      "timeInRound": "3:07"
+    },
+    {
+      "date": "2015-09-27T00:00:00.000Z",
+      "opponent": "Ekaterina Golovatova",
+      "opponentSlug": "159742-ekaterina-golovatova",
+      "result": "win",
+      "method": "sub",
+      "event": "Kumite Fight 4",
+      "eventSlug": "46374-kumite-fight-4",
+      "round": 3,
+      "timeInRound": "0:52"
+    },
+    {
+      "date": "2015-04-26T00:00:00.000Z",
+      "opponent": "Polina Biryukova",
+      "opponentSlug": "159743-polina-biryukova",
+      "result": "win",
+      "method": "other",
+      "event": "SLMMA 1: Jojua vs. Biryukova",
+      "eventSlug": "46375-slmma-1-jojua-vs-biryukova",
+      "round": 1,
+      "timeInRound": "0:42"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:00:44.690Z"
+}

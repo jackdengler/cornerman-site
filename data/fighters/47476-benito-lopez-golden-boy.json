@@ -1,0 +1,231 @@
+{
+  "slug": "47476-benito-lopez-golden-boy",
+  "name": "Benito Lopez",
+  "nickname": "Golden Boy",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": 185,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1994-04-06",
+  "nationality": "Oroville, California",
+  "url": "https://www.tapology.com/fightcenter/fighters/47476-benito-lopez-golden-boy",
+  "recentFights": [
+    {
+      "date": "2026-06-20T00:00:00.000Z",
+      "opponent": "Justin Cornell",
+      "opponentSlug": "66178-justin-cornell",
+      "result": null,
+      "method": "other",
+      "event": "PureCombat: Spirit Warrior 4",
+      "eventSlug": "141656-purecombat-spirit-warrior-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-05T00:00:00.000Z",
+      "opponent": "Mario Bautista",
+      "opponentSlug": "33428-mario-bautista",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "91921-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "4:54"
+    },
+    {
+      "date": "2019-07-13T00:00:00.000Z",
+      "opponent": "Vince Morales",
+      "opponentSlug": "91401-vince-morales",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC on ESPN+ 13",
+      "eventSlug": "59896-ufc-on-espn-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-02-17T00:00:00.000Z",
+      "opponent": "Manny Bermudez",
+      "opponentSlug": "30736-manny-bermuedez",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC on ESPN 1",
+      "eventSlug": "56349-ufc-fight-night-145",
+      "round": 1,
+      "timeInRound": "3:09"
+    },
+    {
+      "date": "2017-12-09T00:00:00.000Z",
+      "opponent": "Albert Morales",
+      "opponentSlug": "64619-albert-morales",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night 123",
+      "eventSlug": "47256-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-22T00:00:00.000Z",
+      "opponent": "Steven Peterson",
+      "opponentSlug": "steven-peterson-ocho",
+      "result": "win",
+      "method": "dec-split",
+      "event": "DW's Contender Series 2017",
+      "eventSlug": "46989-dana-whites-contender-series-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-24T00:00:00.000Z",
+      "opponent": "Benny Vinson",
+      "opponentSlug": "26599-benny-vinson",
+      "result": "win",
+      "method": "other",
+      "event": "KOTC: Flashback",
+      "eventSlug": "46565-kotc-flashback",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2016-10-08T00:00:00.000Z",
+      "opponent": "Journey Newson",
+      "opponentSlug": "41203-journey-newson",
+      "result": "win",
+      "method": "other",
+      "event": "KOTC: Unchallenged",
+      "eventSlug": "41801-kotc-unchallenged",
+      "round": 1,
+      "timeInRound": "3:04"
+    },
+    {
+      "date": "2016-03-19T00:00:00.000Z",
+      "opponent": "Rick James",
+      "opponentSlug": "51741-rick-james",
+      "result": "win",
+      "method": "other",
+      "event": "KOTC: Home Turf",
+      "eventSlug": "38888-kotc-home-turf",
+      "round": 1,
+      "timeInRound": "0:08"
+    },
+    {
+      "date": "2015-07-12T00:00:00.000Z",
+      "opponent": "Stephone Taylor",
+      "opponentSlug": "41499-stephone-taylor",
+      "result": "win",
+      "method": "other",
+      "event": "IFC: Warriors Challenge 36",
+      "eventSlug": "34081-ifc-warriors-challenge-36",
+      "round": 1,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2015-02-28T00:00:00.000Z",
+      "opponent": "Matt Wagy",
+      "opponentSlug": "33748-matt-wagy",
+      "result": "win",
+      "method": "sub",
+      "event": "West Coast FC 13",
+      "eventSlug": "30467-west-coast-fc-13-huckaba-vs-mitchell",
+      "round": 1,
+      "timeInRound": "0:48"
+    },
+    {
+      "date": "2014-09-13T00:00:00.000Z",
+      "opponent": "Drey Mitchell",
+      "opponentSlug": "55925-drey-mitchell",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "West Coast FC 11",
+      "eventSlug": "25694-west-coast-fc-11-mitchell-vs-major",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-04-04T00:00:00.000Z",
+      "opponent": "Oscar Ramirez",
+      "opponentSlug": "45568-oscar-ramirez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bellator 115",
+      "eventSlug": "22163-bellator-115-minakov-vs-kongo",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-02-15T00:00:00.000Z",
+      "opponent": "Benji Amezquita",
+      "opponentSlug": "61109-benji-amezquita",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "West Coast FC 8",
+      "eventSlug": "22074-wcfc-8-avila-vs-berkovic",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-05-03T00:00:00.000Z",
+      "opponent": "Mike Olson",
+      "opponentSlug": "84952-mike-olson",
+      "result": "win",
+      "method": "sub",
+      "event": "West Coast FC 5",
+      "eventSlug": "18914-wcfc-5-andrews-vs-griffin",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2013-03-09T00:00:00.000Z",
+      "opponent": "Travis Whitley",
+      "opponentSlug": "157920-travis-whitley",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-01-18T00:00:00.000Z",
+      "opponent": "Jeff Carson",
+      "opponentSlug": "28376-jeff-carson-the-hitman",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-12-08T00:00:00.000Z",
+      "opponent": "Matt Murray",
+      "opponentSlug": "212436-matt-murray",
+      "result": "win",
+      "method": "other",
+      "event": "IFC: Warriors Challenge 29",
+      "eventSlug": "19197-ifc-warriors-challenge-29",
+      "round": 1,
+      "timeInRound": "3:28"
+    },
+    {
+      "date": "2012-04-14T00:00:00.000Z",
+      "opponent": "Johnny Terry",
+      "opponentSlug": "74520-johnny-terry",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:57:11.954Z"
+}

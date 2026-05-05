@@ -1,0 +1,37 @@
+{
+  "slug": "287210-michael-allison",
+  "name": "Michael Allison",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/287210-michael-allison",
+  "recentFights": [
+    {
+      "date": "2021-02-20T00:00:00.000Z",
+      "opponent": "Jackson McVey",
+      "opponentSlug": "238221-jackson-mcvey",
+      "result": "loss",
+      "method": "sub",
+      "event": "Nemesis Fighting Alliance 4",
+      "eventSlug": "77514-nemesis-fighting-alliance-4",
+      "round": 1,
+      "timeInRound": "0:28"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:54:09.098Z"
+}

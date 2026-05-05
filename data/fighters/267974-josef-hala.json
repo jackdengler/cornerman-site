@@ -1,0 +1,48 @@
+{
+  "slug": "267974-josef-hala",
+  "name": "Josef Hála",
+  "nickname": "Berserker",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/267974-josef-hala",
+  "recentFights": [
+    {
+      "date": "2020-08-21T00:00:00.000Z",
+      "opponent": "Matěj Fojtík",
+      "opponentSlug": "217620-matej-fojtik",
+      "result": "loss",
+      "method": "other",
+      "event": "IAF: Streetfighter 6",
+      "eventSlug": "71968-iaf-streetfighter-6",
+      "round": 3,
+      "timeInRound": "2:37"
+    },
+    {
+      "date": "2020-08-07T00:00:00.000Z",
+      "opponent": "Daniel Bureš",
+      "opponentSlug": "267973-daniel-bures",
+      "result": "win",
+      "method": "sub",
+      "event": "IAF: Streetfighter 4",
+      "eventSlug": "71678-iaf-streetfighter-4",
+      "round": 2,
+      "timeInRound": "2:44"
+    }
+  ],
+  "lastVerified": "2026-04-25T15:56:44.961Z"
+}

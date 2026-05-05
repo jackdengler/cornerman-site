@@ -1,0 +1,231 @@
+{
+  "slug": "3768-kalel-robinson",
+  "name": "Kalel Robinson",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 12,
+    "losses": 9,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1984-10-09",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/3768-kalel-robinson",
+  "recentFights": [
+    {
+      "date": "2019-12-14T00:00:00.000Z",
+      "opponent": "Dallas Jennings",
+      "opponentSlug": "118587-dallas-jennings",
+      "result": "loss",
+      "method": "other",
+      "event": "Midwest Fight League",
+      "eventSlug": "64573-midwest-fight-league-fight-knight-14",
+      "round": 1,
+      "timeInRound": "1:22"
+    },
+    {
+      "date": "2015-03-21T00:00:00.000Z",
+      "opponent": "Joaquin Buckley",
+      "opponentSlug": "55022-joaquin-buckley",
+      "result": "loss",
+      "method": "tko",
+      "event": "Shamrock FC",
+      "eventSlug": "29231-shamrock-fc-showdown",
+      "round": 2,
+      "timeInRound": "4:01"
+    },
+    {
+      "date": "2012-07-28T00:00:00.000Z",
+      "opponent": "Lucas Lopes",
+      "opponentSlug": "lucas-lopes",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-11-19T00:00:00.000Z",
+      "opponent": "Jason Bowling",
+      "opponentSlug": "7387-jason-bowling",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-08-27T00:00:00.000Z",
+      "opponent": "Dennis Reed",
+      "opponentSlug": "1971-dennis-reed",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-08-06T00:00:00.000Z",
+      "opponent": "Kevin Burns",
+      "opponentSlug": "kevin-burns-the-fire",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-06-26T00:00:00.000Z",
+      "opponent": "Matt Veach",
+      "opponentSlug": "matt-veach",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-12-18T00:00:00.000Z",
+      "opponent": "James Krause",
+      "opponentSlug": "james-krause",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-06-27T00:00:00.000Z",
+      "opponent": "McKenzie Jackson",
+      "opponentSlug": "11412-mckenzie-jackson",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-03-20T00:00:00.000Z",
+      "opponent": "Rod Montoya",
+      "opponentSlug": "3888-rod-montoya",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-11-08T00:00:00.000Z",
+      "opponent": "John Strawn",
+      "opponentSlug": "john-strawn",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-04-19T00:00:00.000Z",
+      "opponent": "Jeff Carstens",
+      "opponentSlug": "3349-jeff-carstens",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-02-16T00:00:00.000Z",
+      "opponent": "Justin DeMoney",
+      "opponentSlug": "justin-demoney",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-12-08T00:00:00.000Z",
+      "opponent": "Dave Cochran",
+      "opponentSlug": "dave-cochran",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-08-25T00:00:00.000Z",
+      "opponent": "Chris Perez van Dam",
+      "opponentSlug": "11336-chris-perez-van-dam",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-05-11T00:00:00.000Z",
+      "opponent": "Zeke Shiling",
+      "opponentSlug": "2457-zeke-shiling",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2006-09-30T00:00:00.000Z",
+      "opponent": "Joe Morris",
+      "opponentSlug": "18379-joe-morris",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2006-07-15T00:00:00.000Z",
+      "opponent": "Frank Young",
+      "opponentSlug": "146573-frank-young",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2006-06-10T00:00:00.000Z",
+      "opponent": "Ryan Bixler",
+      "opponentSlug": "ryan-bixler-bones",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:00:21.559Z"
+}

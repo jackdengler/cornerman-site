@@ -1,0 +1,44 @@
+{
+  "slug": "52048-pawel-krzeszowiec",
+  "name": "Paweł Krzeszowiec",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Poland",
+  "url": "https://www.tapology.com/fightcenter/fighters/52048-pawel-krzeszowiec",
+  "recentFights": [
+    {
+      "date": "2012-11-24T00:00:00.000Z",
+      "opponent": "Robert Bryczek",
+      "opponentSlug": "26244-robert-bryczek",
+      "result": "loss",
+      "method": "other",
+      "event": "PLMMA 9: Chełm",
+      "eventSlug": "18241-plmma-9-chelm",
+      "round": 1,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2012-09-01T00:00:00.000Z",
+      "opponent": "Piotr Kalenik",
+      "opponentSlug": "58566-piotr-kalenik",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:18:36.359Z"
+}

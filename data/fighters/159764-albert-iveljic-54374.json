@@ -1,0 +1,187 @@
+{
+  "slug": "159764-albert-iveljic-54374",
+  "name": "Abdel Rahmane Driai",
+  "nickname": "Silverback",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 191,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1990-01-19",
+  "nationality": "Roubaix, France",
+  "url": "https://www.tapology.com/fightcenter/fighters/159764-albert-iveljic-54374",
+  "recentFights": [
+    {
+      "date": "2024-12-15T00:00:00.000Z",
+      "opponent": "Mohammad Fakhreddine",
+      "opponentSlug": "77056-mohammad-fakhreddine",
+      "result": "loss",
+      "method": "other",
+      "event": "BRAVE CF 92",
+      "eventSlug": "120274-brave-cf-92",
+      "round": 2,
+      "timeInRound": "3:11"
+    },
+    {
+      "date": "2024-07-12T00:00:00.000Z",
+      "opponent": "Mostafa Abada Rashed Neda",
+      "opponentSlug": "77473-mostafa-rashid-neda",
+      "result": "loss",
+      "method": "other",
+      "event": "PFL MENA 2: 2024 Regular Season",
+      "eventSlug": "114598-pfl-mena-2-riyadh",
+      "round": 1,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2024-05-03T00:00:00.000Z",
+      "opponent": "Jonathan Bosuku",
+      "opponentSlug": "78099-jonathan-bosuku",
+      "result": "win",
+      "method": "other",
+      "event": "KOF 5",
+      "eventSlug": "106962-kof-5",
+      "round": 1,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2023-06-24T00:00:00.000Z",
+      "opponent": "Guilherme Cadena",
+      "opponentSlug": "46385-guilherme-cadena",
+      "result": "win",
+      "method": "sub",
+      "event": "Dynamite MMA 1",
+      "eventSlug": "102076-dynamite-mma-1",
+      "round": 2,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2022-12-03T00:00:00.000Z",
+      "opponent": "Robert Bryczek",
+      "opponentSlug": "26244-robert-bryczek",
+      "result": "loss",
+      "method": "other",
+      "event": "OKTAGON 37: Kozma vs. Brito",
+      "eventSlug": "91182-oktagon-37",
+      "round": 1,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2021-06-19T00:00:00.000Z",
+      "opponent": "Zdenek Polivka",
+      "opponentSlug": "141928-zdenek-polivka",
+      "result": "win",
+      "method": "sub",
+      "event": "OKTAGON 25",
+      "eventSlug": "79498-oktagon-25",
+      "round": 1,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2019-10-12T00:00:00.000Z",
+      "opponent": "Kevin Ruart",
+      "opponentSlug": "79939-kevin-ruart",
+      "result": "loss",
+      "method": "sub",
+      "event": "European Beatdown 7",
+      "eventSlug": "63283-european-beatdown-7",
+      "round": 1,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2018-11-17T00:00:00.000Z",
+      "opponent": "Martin Hudson",
+      "opponentSlug": "23385-martin-hudson",
+      "result": "win",
+      "method": "sub",
+      "event": "MTK MMA 5: The Rising",
+      "eventSlug": "53536-mtk-mma-5",
+      "round": 1,
+      "timeInRound": "1:16"
+    },
+    {
+      "date": "2018-10-13T00:00:00.000Z",
+      "opponent": "Lamine Talbi",
+      "opponentSlug": "46587-lamine-talbi",
+      "result": "win",
+      "method": "other",
+      "event": "European Beatdown 4",
+      "eventSlug": "54720-european-beatdown-4",
+      "round": 1,
+      "timeInRound": "4:10"
+    },
+    {
+      "date": "2018-03-17T00:00:00.000Z",
+      "opponent": "Pavel Sabadash",
+      "opponentSlug": "69846-pavel-sabadash",
+      "result": "win",
+      "method": "tko",
+      "event": "European Beatdown 3",
+      "eventSlug": "51035-european-beatdown-3",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-14T00:00:00.000Z",
+      "opponent": "Alexander Karpov",
+      "opponentSlug": "104671-alexander-karpov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "WWFC 9",
+      "eventSlug": "48623-wwfc-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-25T00:00:00.000Z",
+      "opponent": "Aleksandar Joketić",
+      "opponentSlug": "173042-aleksandar-joketic",
+      "result": "win",
+      "method": "sub",
+      "event": "Megdan Fighting 2",
+      "eventSlug": "49583-megdan-fighting-2",
+      "round": 1,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2017-09-17T00:00:00.000Z",
+      "opponent": "Ibrahima Mané",
+      "opponentSlug": "127116-ibrahim-man",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "The Fighter Season 1",
+      "eventSlug": "48121-the-fighter-season-1-team-pena-vs-team-sayed",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-17T00:00:00.000Z",
+      "opponent": "Gustavo Dias",
+      "opponentSlug": "166159-gustavo-diaas-guru",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "The Fighter Season 1",
+      "eventSlug": "48121-the-fighter-season-1-team-pena-vs-team-sayed",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-17T00:00:00.000Z",
+      "opponent": "Francis Buangala",
+      "opponentSlug": "95739-issey-buangala",
+      "result": "win",
+      "method": "other",
+      "event": "Shooto Switzerland",
+      "eventSlug": "46009-shooto-switzerland",
+      "round": 1,
+      "timeInRound": "2:45"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:17:59.402Z"
+}

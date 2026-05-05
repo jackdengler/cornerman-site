@@ -1,0 +1,231 @@
+{
+  "slug": "28705-ashlee-evans-smith",
+  "name": "Ashlee Evans-Smith",
+  "nickname": "Rebel Girl",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 171,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1987-07-09",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/28705-ashlee-evans-smith",
+  "recentFights": [
+    {
+      "date": "2023-07-15T00:00:00.000Z",
+      "opponent": "Ailín Pérez",
+      "opponentSlug": "143238-ailin-luciana-perez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "100553-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-11-28T00:00:00.000Z",
+      "opponent": "Norma Dumont",
+      "opponentSlug": "139271-norma-dumont-viana",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "71907-ufc-fight-night-blaydes-vs-lewis",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-02-17T00:00:00.000Z",
+      "opponent": "Andrea Lee",
+      "opponentSlug": "47916-andrea-lee",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC on ESPN 1",
+      "eventSlug": "56349-ufc-fight-night-145",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-07T00:00:00.000Z",
+      "opponent": "Bec Rawlings",
+      "opponentSlug": "25143-bec-hyatt-rowdy",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 223: Khabib vs. Iaquinta",
+      "eventSlug": "50149-ufc-223",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-09T00:00:00.000Z",
+      "opponent": "Sarah Moras",
+      "opponentSlug": "20868-sarah-moras",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC 215: Nunes vs. Shevchenko 2",
+      "eventSlug": "44084-ufc-216",
+      "round": 1,
+      "timeInRound": "2:51"
+    },
+    {
+      "date": "2017-04-15T00:00:00.000Z",
+      "opponent": "Ketlen Vieira",
+      "opponentSlug": "99972-ketlen-vieira-fenomeno",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC on FOX 24",
+      "eventSlug": "43966-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-03T00:00:00.000Z",
+      "opponent": "Veronica Hardy",
+      "opponentSlug": "82229-veronica-macedo",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night 93",
+      "eventSlug": "39753-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "2:46"
+    },
+    {
+      "date": "2016-02-21T00:00:00.000Z",
+      "opponent": "Marion Reneau",
+      "opponentSlug": "37101-marion-reneau",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night 83",
+      "eventSlug": "35520-ufc-fight-night-82",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-12-06T00:00:00.000Z",
+      "opponent": "Raquel Pennington",
+      "opponentSlug": "26224-raquel-pennington",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 181: Hendricks vs. Lawler 2",
+      "eventSlug": "22392-ufc-181",
+      "round": 1,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2014-06-21T00:00:00.000Z",
+      "opponent": "Marciea Allen",
+      "opponentSlug": "22464-marciea-allen-black-widow",
+      "result": "win",
+      "method": "other",
+      "event": "WSOF 10: Branch vs. Taylor",
+      "eventSlug": "23629-wsof-10-karakhanyan-vs-glenn",
+      "round": 3,
+      "timeInRound": "3:01"
+    },
+    {
+      "date": "2013-10-12T00:00:00.000Z",
+      "opponent": "Fallon Fox",
+      "opponentSlug": "34028-fallon-fox",
+      "result": "win",
+      "method": "other",
+      "event": "CFA 12: Sampo vs. Thao",
+      "eventSlug": "19888-cfa-12",
+      "round": 3,
+      "timeInRound": "3:15"
+    },
+    {
+      "date": "2013-03-02T00:00:00.000Z",
+      "opponent": "Tori Adams",
+      "opponentSlug": "31513-tori-adams",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CFA 10: McSweeney vs. Staring",
+      "eventSlug": "17106-cfa-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-07-06T00:00:00.000Z",
+      "opponent": "Veronica Rothenhausler",
+      "opponentSlug": "28704-veronica-rothenhausler-the-heartbreaker",
+      "result": "loss",
+      "method": "other",
+      "event": "Tuff-N-Uff: Festibrawl 2",
+      "eventSlug": "14248-tuff-n-uff",
+      "round": 1,
+      "timeInRound": "0:05"
+    },
+    {
+      "date": "2012-04-07T00:00:00.000Z",
+      "opponent": "Bridgette Batch",
+      "opponentSlug": "87862-bridgette-batch",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-03-12T00:00:00.000Z",
+      "opponent": "Taylor Guardado",
+      "opponentSlug": "32612-taylor-stratford-no-mercy",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-02-11T00:00:00.000Z",
+      "opponent": "Tori Adams",
+      "opponentSlug": "31513-tori-adams",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-01-07T00:00:00.000Z",
+      "opponent": "Jessamyn Duke",
+      "opponentSlug": "22463-jessamyn-duke-the-gun",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-12-17T00:00:00.000Z",
+      "opponent": "Samantha Mosqueda",
+      "opponentSlug": "22516-samantha-mosqueda-muay-thai-machine",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-10-23T00:00:00.000Z",
+      "opponent": "Stacie Seidner",
+      "opponentSlug": "512249-stacie-seidner",
+      "result": "win",
+      "method": "tko",
+      "event": "Bay Arena vs. Sacramento",
+      "eventSlug": "131696-bay-arena-vs-sacramento",
+      "round": 2,
+      "timeInRound": "1:31"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:33:29.871Z"
+}

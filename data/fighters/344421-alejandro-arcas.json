@@ -1,0 +1,77 @@
+{
+  "slug": "344421-alejandro-arcas",
+  "name": "Alejandro Arcas",
+  "nickname": "The Cuban Pitbull",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 188,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1986-05-23",
+  "nationality": "Cuba",
+  "url": "https://www.tapology.com/fightcenter/fighters/344421-alejandro-arcas",
+  "recentFights": [
+    {
+      "date": "2025-03-22T00:00:00.000Z",
+      "opponent": "Vojtech Garba",
+      "opponentSlug": "145826-vojtech-garba",
+      "result": "win",
+      "method": "other",
+      "event": "RFA 21 x ZHS",
+      "eventSlug": "122028-rfa-x-zhs",
+      "round": 1,
+      "timeInRound": "0:31"
+    },
+    {
+      "date": "2023-04-07T00:00:00.000Z",
+      "opponent": "Jacky Jeanne",
+      "opponentSlug": "325375-jacky-jeanne",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Ares FC 14: Lebout vs. Staropoli",
+      "eventSlug": "96199-ares-fc-14",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-17T00:00:00.000Z",
+      "opponent": "Lukáš Dvořák",
+      "opponentSlug": "130018-luk-dvok",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "RFA 7",
+      "eventSlug": "95115-rfa-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-06T00:00:00.000Z",
+      "opponent": "Lukáš Pumr",
+      "opponentSlug": "238706-lukas-pumr",
+      "result": "win",
+      "method": "sub",
+      "event": "GMC 28",
+      "eventSlug": "90351-gmc-fight-night",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-28T00:00:00.000Z",
+      "opponent": "Kenneth Bishop",
+      "opponentSlug": "196879-kenneth-bishop-iron-man",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:08:42.979Z"
+}

@@ -1,0 +1,114 @@
+{
+  "slug": "130432-scraps-presented-by-brawl",
+  "name": "Scraps Presented by Brawl",
+  "promotion": "Brawl International",
+  "startTimeUtc": null,
+  "venueTimezone": null,
+  "venue": "SandCastle",
+  "location": "Tumon, Guam",
+  "url": "https://www.tapology.com/fightcenter/events/130432-scraps-presented-by-brawl",
+  "status": "scheduled",
+  "forumThreadId": null,
+  "fights": [
+    {
+      "id": "130432-scraps-presented-by-brawl#1",
+      "eventSlug": "130432-scraps-presented-by-brawl",
+      "order": 1,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "401919-ho-son-geun",
+        "name": "Geun Ho Son",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "102590-tsubasa-kamino",
+        "name": "Tsubasa Kamino",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-05-03T09:12:45.148Z",
+      "odds": null,
+      "judges": null,
+      "referee": null,
+      "bonuses": null,
+      "sigStrikes": null,
+      "roundScores": null
+    },
+    {
+      "id": "130432-scraps-presented-by-brawl#2",
+      "eventSlug": "130432-scraps-presented-by-brawl",
+      "order": 2,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "384764-hyeon-seok-seong",
+        "name": "Hyun Seok Sung",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "71953-jeff-mesa",
+        "name": "Jeffrey Mesa",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-05-03T09:12:45.148Z",
+      "odds": null,
+      "judges": null,
+      "referee": null,
+      "bonuses": null,
+      "sigStrikes": null,
+      "roundScores": null
+    },
+    {
+      "id": "130432-scraps-presented-by-brawl#3",
+      "eventSlug": "130432-scraps-presented-by-brawl",
+      "order": 3,
+      "cardSection": "main",
+      "weightClass": null,
+      "titleFight": false,
+      "fighterA": {
+        "slug": "454980-jin-seo-kim",
+        "name": "Jin Seo Kim",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "507688-sean-mendiola",
+        "name": "Sean Mendiola",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-05-03T09:12:45.148Z",
+      "odds": null,
+      "judges": null,
+      "referee": null,
+      "bonuses": null,
+      "sigStrikes": null,
+      "roundScores": null
+    }
+  ],
+  "lastVerified": "2026-05-03T09:12:45.148Z"
+}

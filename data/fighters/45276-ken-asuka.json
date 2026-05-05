@@ -1,0 +1,154 @@
+{
+  "slug": "45276-ken-asuka",
+  "name": "Ryohei Kurosawa",
+  "nickname": "Ken Asuka",
+  "aliases": [],
+  "recordPro": {
+    "wins": 20,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": 170,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1993-05-10",
+  "nationality": "Chiba, Japan",
+  "url": "https://www.tapology.com/fightcenter/fighters/45276-ken-asuka",
+  "recentFights": [
+    {
+      "date": "2026-04-29T00:00:00.000Z",
+      "opponent": "Keito Yamakita",
+      "opponentSlug": "215789-keito-yamakita",
+      "result": null,
+      "method": "other",
+      "event": "ONE Samurai 1",
+      "eventSlug": "137460-one-175",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-01-23T00:00:00.000Z",
+      "opponent": "Bokang Masunyane",
+      "opponentSlug": "111304-bk",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ONE Fight Night 39",
+      "eventSlug": "136786-one-fight-night-39",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-12T00:00:00.000Z",
+      "opponent": "Jayson Miralpez",
+      "opponentSlug": "404623-jayson-miralpes",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE Friday Fights 124",
+      "eventSlug": "133156-one-friday-fights-124",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-08T00:00:00.000Z",
+      "opponent": "Yoshiki Uematsu",
+      "opponentSlug": "313418-yoshiki-uematsu",
+      "result": "win",
+      "method": "tko",
+      "event": "Pancrase 352",
+      "eventSlug": "124485-pancrase-352",
+      "round": 2,
+      "timeInRound": "2:23"
+    },
+    {
+      "date": "2024-04-29T00:00:00.000Z",
+      "opponent": "Takafumi Ato",
+      "opponentSlug": "27094-takafumi-ato-little",
+      "result": "win",
+      "method": "tko",
+      "event": "Pancrase 342",
+      "eventSlug": "112721-pancrase-342",
+      "round": 2,
+      "timeInRound": "3:17"
+    },
+    {
+      "date": "2023-09-24T00:00:00.000Z",
+      "opponent": "Ryo Hatta",
+      "opponentSlug": "45701-ryo-hatta",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Pancrase 337",
+      "eventSlug": "102697-pancrase-337-30-year-anniversary",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-08T00:00:00.000Z",
+      "opponent": "Ryohei Kobayashi",
+      "opponentSlug": "244931-ryohei-kobayashi",
+      "result": "win",
+      "method": "tko",
+      "event": "Pancrase 335",
+      "eventSlug": "101321-pancrase-335-336",
+      "round": 1,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2023-04-16T00:00:00.000Z",
+      "opponent": "Masashi Oshiro",
+      "opponentSlug": "161005-tadashi-oshiro",
+      "result": "win",
+      "method": "sub",
+      "event": "Shooto Okinawa vol.8",
+      "eventSlug": "99431-shooto-okinawa-vol-8",
+      "round": 1,
+      "timeInRound": "3:45"
+    },
+    {
+      "date": "2022-05-22T00:00:00.000Z",
+      "opponent": "Jo Arai",
+      "opponentSlug": "62758-jo-arai",
+      "result": "loss",
+      "method": "other",
+      "event": "Shooto 2022 Vol.3",
+      "eventSlug": "89468-shooto-2022-vol-3",
+      "round": 2,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2021-11-05T00:00:00.000Z",
+      "opponent": "Junji Ito",
+      "opponentSlug": "21553-junji-ito-sarumaru",
+      "result": "loss",
+      "method": "sub",
+      "event": "Shooto 2021 Vol.7",
+      "eventSlug": "83054-shooto-2021-vol-7",
+      "round": 1,
+      "timeInRound": "3:23"
+    },
+    {
+      "date": "2020-11-23T00:00:00.000Z",
+      "opponent": "Masayoshi Kato",
+      "opponentSlug": "28454-masayoshi-kato-macho-the-butterfly",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shooto 2020 Vol. 7",
+      "eventSlug": "73018-shooto-2020-vol-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-08-01T00:00:00.000Z",
+      "opponent": "Takamasa Kiuchi",
+      "opponentSlug": "23577-takamasa-kiuchi",
+      "result": "win",
+      "method": "other",
+      "event": "Shooto 2020 Vol. 5",
+      "eventSlug": "71048-shooto-2020-vol-5",
+      "round": 1,
+      "timeInRound": "0:24"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:07:15.558Z"
+}

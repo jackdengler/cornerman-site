@@ -1,0 +1,154 @@
+{
+  "slug": "205347-itsuki-hirata",
+  "name": "Itsuki Hirata",
+  "nickname": "Android 18",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 157,
+  "reachCm": 159,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": "1999-08-24",
+  "nationality": "Adachi, Tokyo, Japan",
+  "url": "https://www.tapology.com/fightcenter/fighters/205347-itsuki-hirata",
+  "recentFights": [
+    {
+      "date": "2026-04-29T00:00:00.000Z",
+      "opponent": "Ritu Phogat",
+      "opponentSlug": "240108-ritu-phogat",
+      "result": null,
+      "method": "other",
+      "event": "ONE Samurai 1",
+      "eventSlug": "137460-one-175",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-15T00:00:00.000Z",
+      "opponent": "Chihiro Sawada",
+      "opponentSlug": "289752-chihiro-sawada",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ONE 173: Superbon vs. Noiri",
+      "eventSlug": "130445-one-173-superbon-vs-noiri",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-08-15T00:00:00.000Z",
+      "opponent": "Aarti Khatri",
+      "opponentSlug": "202232-aarti-khatri",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE Friday Fights 120",
+      "eventSlug": "132004-one-friday-fights-120",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-07T00:00:00.000Z",
+      "opponent": "Victória Souza",
+      "opponentSlug": "222180-vick-souza",
+      "result": "loss",
+      "method": "sub",
+      "event": "ONE 167: Tawanchai vs. Nattawut 2",
+      "eventSlug": "109346-one-fight-night-23",
+      "round": 1,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2024-01-28T00:00:00.000Z",
+      "opponent": "Ayaka Miura",
+      "opponentSlug": "68336-miura-ayaka",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ONE 165: Superlek vs. Takeru",
+      "eventSlug": "107951-one-165-rodtang-vs-takeru",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-24T00:00:00.000Z",
+      "opponent": "Seo Hee Ham",
+      "opponentSlug": "10097-seo-hee-ham",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ONE Fight Night 8",
+      "eventSlug": "94525-one-on-prime-video-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-26T00:00:00.000Z",
+      "opponent": "Heqin Lin",
+      "opponentSlug": "123154-heqin-lin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE Fight Night 1",
+      "eventSlug": "89976-one-championship-161-moraes-vs-johnson-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-26T00:00:00.000Z",
+      "opponent": "Jihin Radzuan",
+      "opponentSlug": "95683-hayatun-najihin",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "ONE Championship",
+      "eventSlug": "85971-one-championship",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-03T00:00:00.000Z",
+      "opponent": "Alyse Anderson",
+      "opponentSlug": "79480-alyse-anderson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE Championship",
+      "eventSlug": "81072-one-championship-10-year-anniversary",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-02-22T00:00:00.000Z",
+      "opponent": "Miku Nakamura",
+      "opponentSlug": "203893-mirai-nakamura",
+      "result": "win",
+      "method": "other",
+      "event": "Shooto Road to ONE",
+      "eventSlug": "76847-road-to-one-4th-young-guns",
+      "round": 2,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2020-02-07T00:00:00.000Z",
+      "opponent": "Nyrene Crowley",
+      "opponentSlug": "145014-nyrene-crowley",
+      "result": "win",
+      "method": "other",
+      "event": "ONE Championship",
+      "eventSlug": "65025-one-championship-warrior-s-code",
+      "round": 3,
+      "timeInRound": "3:27"
+    },
+    {
+      "date": "2019-10-12T00:00:00.000Z",
+      "opponent": "Rika Ishige",
+      "opponentSlug": "150242-rika-ishige-tinydoll",
+      "result": "win",
+      "method": "sub",
+      "event": "ONE Championship",
+      "eventSlug": "61497-one-championship-century",
+      "round": 2,
+      "timeInRound": "4:41"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:07:17.575Z"
+}

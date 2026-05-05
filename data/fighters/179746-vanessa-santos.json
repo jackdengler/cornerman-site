@@ -1,0 +1,66 @@
+{
+  "slug": "179746-vanessa-santos",
+  "name": "Vanessa Santos",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 158,
+  "reachCm": null,
+  "weightClass": "Atomweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/179746-vanessa-santos",
+  "recentFights": [
+    {
+      "date": "2019-03-22T00:00:00.000Z",
+      "opponent": "Monique Adriane",
+      "opponentSlug": "140994-monique-adriane-azevedo",
+      "result": "loss",
+      "method": "tko",
+      "event": "Future FC 3",
+      "eventSlug": "57835-future-fc-3",
+      "round": 2,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2018-09-29T00:00:00.000Z",
+      "opponent": "Janaina Soares",
+      "opponentSlug": "197361-janaina-soares-jay",
+      "result": "win",
+      "method": "other",
+      "event": "Favela Kombat 30",
+      "eventSlug": "54807-favela-kombat-30-extreme-evolution",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2018-08-11T00:00:00.000Z",
+      "opponent": "Iris Amanda",
+      "opponentSlug": "191770-iris-amanda-da-silva",
+      "result": "win",
+      "method": "sub",
+      "event": "Skull FC 2",
+      "eventSlug": "54536-skull-fc-2",
+      "round": 1,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2018-03-03T00:00:00.000Z",
+      "opponent": "Julia Polastri",
+      "opponentSlug": "168315-julia-polastri",
+      "result": "loss",
+      "method": "other",
+      "event": "NCE 23",
+      "eventSlug": "51191-nce-23",
+      "round": 2,
+      "timeInRound": "3:55"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:59:14.891Z"
+}

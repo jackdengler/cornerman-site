@@ -1,0 +1,165 @@
+{
+  "slug": "178302-giorgiy-tskhovrebov",
+  "name": "Georgy Tskhovrebov",
+  "nickname": "Skif",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 187,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/178302-giorgiy-tskhovrebov",
+  "recentFights": [
+    {
+      "date": "2025-11-14T00:00:00.000Z",
+      "opponent": "Alim Thamadokov",
+      "opponentSlug": "60237-alim-thamadokov",
+      "result": "win",
+      "method": "other",
+      "event": "BetCity Fight Nights 130",
+      "eventSlug": "135109-betcity-fight-nights-130-gazaev-vs-heun",
+      "round": 1,
+      "timeInRound": "4:55"
+    },
+    {
+      "date": "2023-11-16T00:00:00.000Z",
+      "opponent": "Nikita Severov",
+      "opponentSlug": "272179-nikita-severov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hardcore MMA 76",
+      "eventSlug": "107425-hardcore-mma-78-kovalenko-vs-kulmagambetov",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-16T00:00:00.000Z",
+      "opponent": "Vitaliy Yakubenya",
+      "opponentSlug": "159181-vyacheslav-yakubenya",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Hardcore MMA",
+      "eventSlug": "109787-hardcore-fc-vk-exclusive-card",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-29T00:00:00.000Z",
+      "opponent": "Ubaidulla Tagirov",
+      "opponentSlug": "312071-ubaidulla-tagirov",
+      "result": "loss",
+      "method": "sub",
+      "event": "Hardcore MMA 49",
+      "eventSlug": "96938-hardcore-fc-49",
+      "round": 2,
+      "timeInRound": "3:30"
+    },
+    {
+      "date": "2022-06-30T00:00:00.000Z",
+      "opponent": "Albert Munkiev",
+      "opponentSlug": "307559-albert-munkiev",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hardcore MMA 33",
+      "eventSlug": "90785-hardcore-fc-33",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-23T00:00:00.000Z",
+      "opponent": "Bekkhan Malsagov",
+      "opponentSlug": "272436-bekkhan-malsagov",
+      "result": "win",
+      "method": "other",
+      "event": "Hardcore MMA 17",
+      "eventSlug": "85386-hardcore-fc-17",
+      "round": 2,
+      "timeInRound": "4:20"
+    },
+    {
+      "date": "2021-03-20T00:00:00.000Z",
+      "opponent": "Sunatillo Nurov",
+      "opponentSlug": "275043-sunatillo-nurov",
+      "result": "win",
+      "method": "tko",
+      "event": "FFC: Selection 6",
+      "eventSlug": "75615-ffc-selection-6",
+      "round": 1,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2021-01-24T00:00:00.000Z",
+      "opponent": "Magomed Bilalov",
+      "opponentSlug": "137883-magomed-bilalov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Colosseum MMA",
+      "eventSlug": "75251-colosseum-mma-battle-of-the-champions-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-12-12T00:00:00.000Z",
+      "opponent": "Ismail Makhmudov",
+      "opponentSlug": "277394-ismail-makhmudov",
+      "result": "loss",
+      "method": "tko",
+      "event": "FFC: Selection 5",
+      "eventSlug": "73611-ffc-selection-5",
+      "round": 2,
+      "timeInRound": "4:00"
+    },
+    {
+      "date": "2025-05-18T00:00:00.000Z",
+      "opponent": "Aleksandr Khizhnyakov",
+      "opponentSlug": "499987-aleksandr-khizhnyakov",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Alexander Serdyukov Memorial 2025",
+      "eventSlug": "128652-alexander-serdyukov-memorial-2025-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-18T00:00:00.000Z",
+      "opponent": "Stepan Korolenko",
+      "opponentSlug": "176841-stepan-korolenko",
+      "result": "loss",
+      "method": "sub",
+      "event": "Alexander Serdyukov Memorial 2025",
+      "eventSlug": "128652-alexander-serdyukov-memorial-2025-day-2",
+      "round": 3,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2018-02-10T00:00:00.000Z",
+      "opponent": "Nikita Kulshin",
+      "opponentSlug": "178301-nikita-kulshin",
+      "result": "loss",
+      "method": "other",
+      "event": "Cup Of Alania 2018",
+      "eventSlug": "50858-cup-of-alania-2018",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-07T00:00:00.000Z",
+      "opponent": "Krym Guriev",
+      "opponentSlug": "157649-krym-guriev",
+      "result": "loss",
+      "method": "other",
+      "event": "Cup Of Alania 2015",
+      "eventSlug": "52405-cup-of-alania-2015",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:39:03.544Z"
+}

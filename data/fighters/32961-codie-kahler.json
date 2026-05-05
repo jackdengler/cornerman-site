@@ -1,0 +1,176 @@
+{
+  "slug": "32961-codie-kahler",
+  "name": "Codie Kahler",
+  "nickname": "The Dream Smasher",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/32961-codie-kahler",
+  "recentFights": [
+    {
+      "date": "2015-11-06T00:00:00.000Z",
+      "opponent": "Bobby Lee",
+      "opponentSlug": "107233-bobby-lee",
+      "result": "loss",
+      "method": "sub",
+      "event": "RFA 32: Blumer vs. Higo",
+      "eventSlug": "35696-rfa-32-blumer-vs-higo",
+      "round": 3,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2015-09-12T00:00:00.000Z",
+      "opponent": "Douglas Deback",
+      "opponentSlug": "18354-douglas-deback",
+      "result": "loss",
+      "method": "sub",
+      "event": "NAFC: Battledome",
+      "eventSlug": "34010-nafc-battledome",
+      "round": 1,
+      "timeInRound": "0:22"
+    },
+    {
+      "date": "2015-04-25T00:00:00.000Z",
+      "opponent": "Damian Norris",
+      "opponentSlug": "23402-damian-norris",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "XFO 55",
+      "eventSlug": "31715-xfo-55",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-07-12T00:00:00.000Z",
+      "opponent": "Damion Hill",
+      "opponentSlug": "19705-damien-hill",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Last Man Standing",
+      "eventSlug": "25307-last-man-standing",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-01-11T00:00:00.000Z",
+      "opponent": "Zach Juusola",
+      "opponentSlug": "15692-zach-juusola",
+      "result": "loss",
+      "method": "tko",
+      "event": "Mecca 3: Premier MMA",
+      "eventSlug": "22050-mecca-3-premier-mma",
+      "round": 2,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2013-09-20T00:00:00.000Z",
+      "opponent": "Mike Zimmer",
+      "opponentSlug": "23641-mike-zimmer",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-03-23T00:00:00.000Z",
+      "opponent": "Floyd Hodges",
+      "opponentSlug": "18196-floyd-hodges-the-hitman",
+      "result": "win",
+      "method": "other",
+      "event": "Havoc at the High-Five",
+      "eventSlug": "17897-havoc-at-the-high-five",
+      "round": 1,
+      "timeInRound": "3:44"
+    },
+    {
+      "date": "2012-11-10T00:00:00.000Z",
+      "opponent": "Bill Finn",
+      "opponentSlug": "20082-bill-finn",
+      "result": "win",
+      "method": "sub",
+      "event": "Lockout",
+      "eventSlug": "16501-lockout",
+      "round": 1,
+      "timeInRound": "3:04"
+    },
+    {
+      "date": "2012-08-18T00:00:00.000Z",
+      "opponent": "Starr Roberts Jr.",
+      "opponentSlug": "18246-starr-roberts-jr",
+      "result": "win",
+      "method": "other",
+      "event": "Downtown Showdown 9",
+      "eventSlug": "15327-downtown-showdown-9",
+      "round": 2,
+      "timeInRound": "3:35"
+    },
+    {
+      "date": "2012-06-23T00:00:00.000Z",
+      "opponent": "Brock Peters",
+      "opponentSlug": "45258-brock-peters",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-10-28T00:00:00.000Z",
+      "opponent": "John Castañeda",
+      "opponentSlug": "20125-john-castaneda",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-05-14T00:00:00.000Z",
+      "opponent": "Randy Lene",
+      "opponentSlug": "20264-randy-lene",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-04-15T00:00:00.000Z",
+      "opponent": "Terry Lemaire",
+      "opponentSlug": "24218-terry-lemaire",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-02-04T00:00:00.000Z",
+      "opponent": "Jesse Wannemacher",
+      "opponentSlug": "20133-jesse-wannemacher",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:03:40.029Z"
+}

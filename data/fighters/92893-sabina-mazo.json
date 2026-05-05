@@ -1,0 +1,176 @@
+{
+  "slug": "92893-sabina-mazo",
+  "name": "Sabina Mazo",
+  "nickname": "Colombian Queen",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 178,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1997-03-25",
+  "nationality": "Medellín, Antioquia, Colombia",
+  "url": "https://www.tapology.com/fightcenter/fighters/92893-sabina-mazo",
+  "recentFights": [
+    {
+      "date": "2023-08-04T00:00:00.000Z",
+      "opponent": "Sandra Lavado",
+      "opponentSlug": "144079-sandra-lavado",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 164: Mazo vs. Lavado",
+      "eventSlug": "102680-lfa-164-mazo-vs-lavado",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-12T00:00:00.000Z",
+      "opponent": "Miranda Maverick",
+      "opponentSlug": "116637-miranda-maverick",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "84364-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2021-10-09T00:00:00.000Z",
+      "opponent": "Mariya Agapova",
+      "opponentSlug": "156192-mariya-agapova",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "80131-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "0:53"
+    },
+    {
+      "date": "2021-02-27T00:00:00.000Z",
+      "opponent": "Alexis Davis",
+      "opponentSlug": "alexis-davis",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "73679-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-12T00:00:00.000Z",
+      "opponent": "Justine Kish",
+      "opponentSlug": "15102-justine-kish",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "70698-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "3:57"
+    },
+    {
+      "date": "2020-01-18T00:00:00.000Z",
+      "opponent": "JJ Aldrich",
+      "opponentSlug": "28420-jj-aldrich",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC 246: McGregor vs. Cerrone",
+      "eventSlug": "63997-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-08-17T00:00:00.000Z",
+      "opponent": "Shana Dobson",
+      "opponentSlug": "90374-shana-dobson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 241: Cormier vs. Miocic 2",
+      "eventSlug": "59522-ufc-241",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-30T00:00:00.000Z",
+      "opponent": "Maryna Moroz",
+      "opponentSlug": "73990-marina-moroz",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC on ESPN 2",
+      "eventSlug": "56354-ufc-fight-night-150",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-16T00:00:00.000Z",
+      "opponent": "Carol Yariwaki",
+      "opponentSlug": "135774-caroline-yaiwaki-da-cruz-japa",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 54: Mazo vs. Yariwaki",
+      "eventSlug": "56062-lfa-54-mazo-vs-yariwaki",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-20T00:00:00.000Z",
+      "opponent": "Shannon Sinn",
+      "opponentSlug": "16758-shannon-culpepper",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 37: Bice vs. Perez",
+      "eventSlug": "51514-lfa-37",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-22T00:00:00.000Z",
+      "opponent": "Linsey Williams",
+      "opponentSlug": "72560-linsey-williams",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 23: Krantz vs. Nakashima",
+      "eventSlug": "47912-lfa-23-krantz-vs-nakashima",
+      "round": 1,
+      "timeInRound": "4:26"
+    },
+    {
+      "date": "2017-04-14T00:00:00.000Z",
+      "opponent": "Jamie Thorton",
+      "opponentSlug": "134287-jamie-thorton",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 9: Dennis vs. Marques",
+      "eventSlug": "44722-lfa-9-dennis-vs-spann",
+      "round": 1,
+      "timeInRound": "4:50"
+    },
+    {
+      "date": "2015-11-21T00:00:00.000Z",
+      "opponent": "Reina Cordoba",
+      "opponentSlug": "17089-reyna-cordoba",
+      "result": "win",
+      "method": "dec-split",
+      "event": "CRF 19",
+      "eventSlug": "36180-crf-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-26T00:00:00.000Z",
+      "opponent": "Alejandra Lara",
+      "opponentSlug": "86967-alejandra-lara-azul",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "SFC 18",
+      "eventSlug": "29273-sfc-18",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:01:17.952Z"
+}

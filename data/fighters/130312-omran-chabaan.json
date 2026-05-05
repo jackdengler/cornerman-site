@@ -1,0 +1,142 @@
+{
+  "slug": "130312-omran-chabaan",
+  "name": "Omran Chaaban",
+  "nickname": "The Lebanese Gorilla",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 196,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Finland",
+  "url": "https://www.tapology.com/fightcenter/fighters/130312-omran-chabaan",
+  "recentFights": [
+    {
+      "date": "2026-04-16T00:00:00.000Z",
+      "opponent": "Chequina Noso Pedro",
+      "opponentSlug": "204277-chequina-noso-pedro",
+      "result": "win",
+      "method": "other",
+      "event": "PFL Belfast",
+      "round": 2,
+      "timeInRound": "4:16"
+    },
+    {
+      "date": "2025-07-23T00:00:00.000Z",
+      "opponent": "Wellington Madeira",
+      "opponentSlug": "186007-wellington-eduardo-madeira",
+      "result": "win",
+      "method": "other",
+      "event": "UAE Warriors 61",
+      "round": 1,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2025-06-12T00:00:00.000Z",
+      "opponent": "Gunther Kalunda Ngunza",
+      "opponentSlug": "86544-kalunda-gunther",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UAE Warriors 59",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-02-15T00:00:00.000Z",
+      "opponent": "Felipe Alves",
+      "opponentSlug": "190456-felipe-alves",
+      "result": "win",
+      "method": "other",
+      "event": "CAGE 65: CAGE On The Beach Vol.2",
+      "round": 1,
+      "timeInRound": "1:33"
+    },
+    {
+      "date": "2024-04-09T00:00:00.000Z",
+      "opponent": "Ryan Loder",
+      "opponentSlug": "292593-ryan-loder",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "The Ultimate Fighter 32",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-27T00:00:00.000Z",
+      "opponent": "Shamidkhan Magomedov",
+      "opponentSlug": "167473-shamidkhan-magomedov",
+      "result": "win",
+      "method": "other",
+      "event": "The Ultimate Fighter 32",
+      "round": 2,
+      "timeInRound": "3:22"
+    },
+    {
+      "date": "2024-01-21T00:00:00.000Z",
+      "opponent": "Wisem Hammami",
+      "opponentSlug": "144054-wisem-hammami",
+      "result": "win",
+      "method": "sub",
+      "event": "UAE Warriors 47",
+      "round": 5,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2023-03-17T00:00:00.000Z",
+      "opponent": "Mush Aslani",
+      "opponentSlug": "83437-mush-aslani",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 150",
+      "round": 1,
+      "timeInRound": "4:47"
+    },
+    {
+      "date": "2022-11-20T00:00:00.000Z",
+      "opponent": "George McManus",
+      "opponentSlug": "103178-george-mcmanus",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 147",
+      "round": 3,
+      "timeInRound": "3:12"
+    },
+    {
+      "date": "2022-05-27T00:00:00.000Z",
+      "opponent": "Jack Dedames",
+      "opponentSlug": "235585-jack-dedames",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 137",
+      "round": 1,
+      "timeInRound": "4:07"
+    },
+    {
+      "date": "2021-10-28T00:00:00.000Z",
+      "opponent": "Kher Khalifa Eshoushan",
+      "opponentSlug": "296897-kher-khalifa-eshoushan",
+      "result": "win",
+      "method": "other",
+      "event": "UAE Warriors 23",
+      "round": 3,
+      "timeInRound": "2:33"
+    },
+    {
+      "date": "2021-03-20T00:00:00.000Z",
+      "opponent": "Joan Arastey",
+      "opponentSlug": "159852-joan-arastey",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UAE Warriors 18",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-16T23:59:06.715Z"
+}

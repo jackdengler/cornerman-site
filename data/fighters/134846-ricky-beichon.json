@@ -1,0 +1,176 @@
+{
+  "slug": "134846-ricky-beichon",
+  "name": "Ricky Biechun",
+  "nickname": "The Barbarian",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 196,
+  "reachCm": 197,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1993-05-09",
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/134846-ricky-beichon",
+  "recentFights": [
+    {
+      "date": "2025-11-22T00:00:00.000Z",
+      "opponent": "Danny Hartwell",
+      "opponentSlug": "350325-danny-hartwell",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "HEX Fight Series 37",
+      "eventSlug": "120780-hex-fight-series-37",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-08-30T00:00:00.000Z",
+      "opponent": "Myung Hwan Kim",
+      "opponentSlug": "141973-myung-hwan-kim",
+      "result": "win",
+      "method": "dec-split",
+      "event": "HEX Fight Series 36",
+      "eventSlug": "120779-hex-fight-series-36",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-01T00:00:00.000Z",
+      "opponent": "Ken Viliamu",
+      "opponentSlug": "214579-ken-viliamu",
+      "result": "win",
+      "method": "dec-split",
+      "event": "HEX Fight Series 34",
+      "eventSlug": "120777-hex-fight-series-34",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-07T00:00:00.000Z",
+      "opponent": "Lio Llalio",
+      "opponentSlug": "175647-lio-llalio",
+      "result": "win",
+      "method": "tko",
+      "event": "HEX Fight Series 32",
+      "eventSlug": "115236-hex-fight-series-32",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-14T00:00:00.000Z",
+      "opponent": "Kelvin Fitial",
+      "opponentSlug": "11389-kelvin-fitial-the-big-hit",
+      "result": "win",
+      "method": "dec-split",
+      "event": "HEX Fight Series 31",
+      "eventSlug": "112106-hex-fight-series-31",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-18T00:00:00.000Z",
+      "opponent": "Randall Rayment",
+      "opponentSlug": "30395-randall-rayment",
+      "result": "loss",
+      "method": "sub",
+      "event": "Hex Fight Series 27",
+      "eventSlug": "101993-hex-fight-series-27",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-24T00:00:00.000Z",
+      "opponent": "Seung Jun Lee",
+      "opponentSlug": "141418-seung-jun-lee",
+      "result": "win",
+      "method": "other",
+      "event": "Hex Fight Series 25",
+      "eventSlug": "95838-hex-fight-series-25",
+      "round": 3,
+      "timeInRound": "2:33"
+    },
+    {
+      "date": "2022-11-19T00:00:00.000Z",
+      "opponent": "Adnan Larry",
+      "opponentSlug": "300438-adnan-larry",
+      "result": "win",
+      "method": "tko",
+      "event": "Salt Fight Series 1",
+      "eventSlug": "94612-salt-fight-series-1",
+      "round": 2,
+      "timeInRound": "0:11"
+    },
+    {
+      "date": "2021-04-09T00:00:00.000Z",
+      "opponent": "Sam Kei",
+      "opponentSlug": "36884-sam-kei",
+      "result": "loss",
+      "method": "other",
+      "event": "Hex Fight Series 21",
+      "eventSlug": "75164-hex-fight-series-21",
+      "round": 1,
+      "timeInRound": "0:29"
+    },
+    {
+      "date": "2020-02-22T00:00:00.000Z",
+      "opponent": "Henri Burns",
+      "opponentSlug": "135224-henri-burns",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Eternal MMA 50",
+      "eventSlug": "64804-eternal-mma-50",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-22T00:00:00.000Z",
+      "opponent": "Jack Tuave",
+      "opponentSlug": "164878-jack-tuave",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 50",
+      "eventSlug": "64804-eternal-mma-50",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-03T00:00:00.000Z",
+      "opponent": "Brando Peričić",
+      "opponentSlug": "195101-brando-pericic",
+      "result": "loss",
+      "method": "tko",
+      "event": "Diamondback FC 9",
+      "eventSlug": "62451-diamondback-fc-9",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-08T00:00:00.000Z",
+      "opponent": "Gregory Hearne",
+      "opponentSlug": "78353-gregory-hearne",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hex Fight Series 16",
+      "eventSlug": "55073-hex-fight-series",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-06-17T00:00:00.000Z",
+      "opponent": "Adam Abdulhak",
+      "opponentSlug": "118476-adam-abdulhak",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Minotaur 4: Demolition",
+      "eventSlug": "40097-minotaur-4",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:56:08.508Z"
+}

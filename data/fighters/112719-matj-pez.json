@@ -1,0 +1,176 @@
+{
+  "slug": "112719-matj-pez",
+  "name": "Matěj Peňáz",
+  "nickname": "Money",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 193,
+  "reachCm": 211,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1996-10-14",
+  "nationality": "Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/112719-matj-pez",
+  "recentFights": [
+    {
+      "date": "2025-02-01T00:00:00.000Z",
+      "opponent": "David Zawada",
+      "opponentSlug": "33906-david-zawada",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 66: Engizek vs. Oniszczuk",
+      "eventSlug": "118928-oktagon",
+      "round": 1,
+      "timeInRound": "4:42"
+    },
+    {
+      "date": "2024-01-27T00:00:00.000Z",
+      "opponent": "Matthew Bonner",
+      "opponentSlug": "93532-matthew-bonner",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 52: Mågård vs. Cartwright",
+      "eventSlug": "107435-oktagon-52",
+      "round": 2,
+      "timeInRound": "4:43"
+    },
+    {
+      "date": "2023-12-09T00:00:00.000Z",
+      "opponent": "Ole Magnor",
+      "opponentSlug": "36505-ole-magnor",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 50: Keita vs. Samsonidse",
+      "eventSlug": "98887-oktagon",
+      "round": 1,
+      "timeInRound": "0:29"
+    },
+    {
+      "date": "2022-12-30T00:00:00.000Z",
+      "opponent": "Joel dos Santos",
+      "opponentSlug": "89360-joel-dos-santos-tigre",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 38: Macek vs. Lopez",
+      "eventSlug": "91582-oktagon-38",
+      "round": 1,
+      "timeInRound": "2:03"
+    },
+    {
+      "date": "2022-08-30T00:00:00.000Z",
+      "opponent": "Sedriques Dumas",
+      "opponentSlug": "188574-sedriques-dumas",
+      "result": "loss",
+      "method": "sub",
+      "event": "Contender Series 2022",
+      "eventSlug": "89499-contender-series-2022-week-6",
+      "round": 1,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2022-04-09T00:00:00.000Z",
+      "opponent": "Gianni Melillo",
+      "opponentSlug": "122816-giovanni-melillo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 32",
+      "eventSlug": "88403-oktagon-32",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-30T00:00:00.000Z",
+      "opponent": "Cheick Kone",
+      "opponentSlug": "58906-cheik-kone",
+      "result": "win",
+      "method": "tko",
+      "event": "OKTAGON 30",
+      "eventSlug": "83044-oktagon-30",
+      "round": 3,
+      "timeInRound": "0:40"
+    },
+    {
+      "date": "2021-09-25T00:00:00.000Z",
+      "opponent": "Mateusz Strzelczyk",
+      "opponentSlug": "34433-mateusz-strzelczyk",
+      "result": "win",
+      "method": "tko",
+      "event": "OKTAGON 28",
+      "eventSlug": "81784-oktagon-28",
+      "round": 1,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2021-05-29T00:00:00.000Z",
+      "opponent": "Carlos Graca",
+      "opponentSlug": "190874-carlos-graca",
+      "result": "win",
+      "method": "tko",
+      "event": "OKTAGON 24",
+      "eventSlug": "79018-oktagon-24",
+      "round": 1,
+      "timeInRound": "0:40"
+    },
+    {
+      "date": "2021-01-30T00:00:00.000Z",
+      "opponent": "Romain Debienne",
+      "opponentSlug": "150798-romain-debienne",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 21",
+      "eventSlug": "75449-oktagon-21",
+      "round": 1,
+      "timeInRound": "4:00"
+    },
+    {
+      "date": "2020-11-21T00:00:00.000Z",
+      "opponent": "Patrik Jevicky",
+      "opponentSlug": "9361-patrik-javicky",
+      "result": "win",
+      "method": "tko",
+      "event": "Oktagon 18",
+      "eventSlug": "73565-oktagon-18",
+      "round": 1,
+      "timeInRound": "2:48"
+    },
+    {
+      "date": "2020-06-13T00:00:00.000Z",
+      "opponent": "Jakub Klauda",
+      "opponentSlug": "261514-jakub-klauda",
+      "result": "win",
+      "method": "tko",
+      "event": "Oktagon: Underground 5",
+      "eventSlug": "70086-oktagon-underground-5",
+      "round": 1,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2020-05-30T00:00:00.000Z",
+      "opponent": "Adam Dvoráček",
+      "opponentSlug": "261516-adam-dvoracek",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Oktagon Underground 3",
+      "eventSlug": "69845-oktagon-underground-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-05-16T00:00:00.000Z",
+      "opponent": "Matěj Hrkal",
+      "opponentSlug": "172006-matj-hrkal",
+      "result": "win",
+      "method": "tko",
+      "event": "Oktagon Underground 1",
+      "eventSlug": "69530-oktagon-undergound",
+      "round": 1,
+      "timeInRound": "3:00"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:53:07.714Z"
+}

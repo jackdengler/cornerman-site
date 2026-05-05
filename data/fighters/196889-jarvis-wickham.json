@@ -1,0 +1,81 @@
+{
+  "slug": "196889-jarvis-wickham",
+  "name": "Jarvis Wickham",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/196889-jarvis-wickham",
+  "recentFights": [
+    {
+      "date": "2025-03-14T00:00:00.000Z",
+      "opponent": "Alex Ross",
+      "opponentSlug": "307823-alex-ross",
+      "result": "win",
+      "method": "sub",
+      "event": "Beatdown Promotions 10",
+      "eventSlug": "120785-beatdown-promotions-10",
+      "round": 3,
+      "timeInRound": "2:33"
+    },
+    {
+      "date": "2024-07-13T00:00:00.000Z",
+      "opponent": "Jake Kennedy",
+      "opponentSlug": "450210-jake-kennedy",
+      "result": "win",
+      "method": "sub",
+      "event": "Beatdown Promotions 8",
+      "eventSlug": "115765-beatdown-promotions-8",
+      "round": 3,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2023-03-11T00:00:00.000Z",
+      "opponent": "Declan Corcoran",
+      "opponentSlug": "310306-declan-corcoran",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "XFC 63",
+      "eventSlug": "97855-xfc-63",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-02T00:00:00.000Z",
+      "opponent": "Alex Young",
+      "opponentSlug": "213579-alex-young",
+      "result": "loss",
+      "method": "tko",
+      "event": "XFC 39: Undisputed",
+      "eventSlug": "56681-xfc-39",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-02T00:00:00.000Z",
+      "opponent": "Dom Mar Fan",
+      "opponentSlug": "196890-dom-mar-fan",
+      "result": "loss",
+      "method": "sub",
+      "event": "XFC 37: Small vs. Bradney",
+      "eventSlug": "53413-xfc-37",
+      "round": 3,
+      "timeInRound": "3:00"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:19:38.108Z"
+}

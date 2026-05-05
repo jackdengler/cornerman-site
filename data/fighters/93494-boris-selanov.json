@@ -1,0 +1,44 @@
+{
+  "slug": "93494-boris-selanov",
+  "name": "Boris Selanov",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Ukraine",
+  "url": "https://www.tapology.com/fightcenter/fighters/93494-boris-selanov",
+  "recentFights": [
+    {
+      "date": "2014-11-22T00:00:00.000Z",
+      "opponent": "Yaroslav Amosov",
+      "opponentSlug": "81129-yaroslav-amosov",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-06-28T00:00:00.000Z",
+      "opponent": "Aleksey Nimirovich",
+      "opponentSlug": "81137-aleksey-nimirovich",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:04:50.970Z"
+}

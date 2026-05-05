@@ -1,0 +1,125 @@
+{
+  "slug": "51095-rocco-pucillo-scanlon",
+  "name": "Rocco Pucillo-Scanlon",
+  "nickname": "Hard Way",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 6,
+    "draws": 0
+  },
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1993-10-28",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/51095-rocco-pucillo-scanlon",
+  "recentFights": [
+    {
+      "date": "2020-01-25T00:00:00.000Z",
+      "opponent": "Cory Pych",
+      "opponentSlug": "191684-cory-pych",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Chosen Few FC 18",
+      "eventSlug": "64515-chosen-few-fc-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-19T00:00:00.000Z",
+      "opponent": "Feroz Khan",
+      "opponentSlug": "79518-feroz-khan",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Chosen Few FC 6",
+      "eventSlug": "34013-chosen-few-fc-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-05-23T00:00:00.000Z",
+      "opponent": "Montel Jackson",
+      "opponentSlug": "89335-montel-jackson",
+      "result": "loss",
+      "method": "tko",
+      "event": "Chosen Few FC 5",
+      "eventSlug": "32388-chosen-few-fc-5",
+      "round": 1,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2015-01-31T00:00:00.000Z",
+      "opponent": "Benjamin Ames",
+      "opponentSlug": "73800-benjamin-ames",
+      "result": "win",
+      "method": "sub",
+      "event": "Chosen Few FC 4",
+      "eventSlug": "28927-chosen-few-fc-4",
+      "round": 2,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2014-10-04T00:00:00.000Z",
+      "opponent": "Josh Taylor",
+      "opponentSlug": "77067-josh-taylor",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Chosen Few FC 3",
+      "eventSlug": "26613-chosen-few-fc-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-04-19T00:00:00.000Z",
+      "opponent": "Gonzalo Ponce",
+      "opponentSlug": "68292-gonzalo-ponce",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Chosen Few FC 2",
+      "eventSlug": "23286-chosen-few-fc-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-02-15T00:00:00.000Z",
+      "opponent": "Eric Johnson",
+      "opponentSlug": "60916-eric-johnson",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Chosen Few FC 1",
+      "eventSlug": "22004-chosen-few-fc-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-10-05T00:00:00.000Z",
+      "opponent": "Khuseyn Kurbanov",
+      "opponentSlug": "49519-khuseyn-kurbanov",
+      "result": "loss",
+      "method": "tko",
+      "event": "APFC 14: Revenge",
+      "eventSlug": "19817-apfc-14-revenge",
+      "round": 1,
+      "timeInRound": "0:59"
+    },
+    {
+      "date": "2013-07-13T00:00:00.000Z",
+      "opponent": "Patrick Kirby",
+      "opponentSlug": "51094-patrick-kirby",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "APFC 13: Summer Brawl",
+      "eventSlug": "19368-apfc-13-summer-brawl",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:38:10.778Z"
+}

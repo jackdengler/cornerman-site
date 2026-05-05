@@ -1,0 +1,242 @@
+{
+  "slug": "95121-diego-pereira",
+  "name": "Diego Pereira",
+  "nickname": "El Pantera Negra",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/95121-diego-pereira",
+  "recentFights": [
+    {
+      "date": "2024-07-13T00:00:00.000Z",
+      "opponent": "Kirato Haebara",
+      "opponentSlug": "169039-kirato-haebaru",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Beatdown Promotions 8",
+      "eventSlug": "115765-beatdown-promotions-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-04T00:00:00.000Z",
+      "opponent": "Luke Jones",
+      "opponentSlug": "124587-luke-jones",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 81",
+      "eventSlug": "102044-eternal-mma-81",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-06T00:00:00.000Z",
+      "opponent": "Jesse Medina",
+      "opponentSlug": "54818-jesse-medina",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 75",
+      "eventSlug": "99483-eternal-mma-75",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-02T00:00:00.000Z",
+      "opponent": "Justin Van Heerden",
+      "opponentSlug": "86412-justin-van-heerdan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 72",
+      "eventSlug": "93816-eternal-mma-72",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-16T00:00:00.000Z",
+      "opponent": "Alan Philpott",
+      "opponentSlug": "21606-alan-philpott",
+      "result": "win",
+      "method": "sub",
+      "event": "Eternal MMA 69",
+      "eventSlug": "91665-eternal-mma-69",
+      "round": 2,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2022-03-19T00:00:00.000Z",
+      "opponent": "Ryan Gray",
+      "opponentSlug": "72861-ryan-gray",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 64",
+      "eventSlug": "85848-eternal-mma-65",
+      "round": 2,
+      "timeInRound": "4:58"
+    },
+    {
+      "date": "2021-11-20T00:00:00.000Z",
+      "opponent": "Rod Costa",
+      "opponentSlug": "160502-rod-costa",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 63",
+      "eventSlug": "82991-eternal-mma-62",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-11T00:00:00.000Z",
+      "opponent": "Abdalla Biayda",
+      "opponentSlug": "202073-abdullah-eltigani",
+      "result": "win",
+      "method": "sub",
+      "event": "Eternal MMA 61",
+      "eventSlug": "82273-eternal-mma-61",
+      "round": 2,
+      "timeInRound": "1:33"
+    },
+    {
+      "date": "2020-03-07T00:00:00.000Z",
+      "opponent": "Jack Jenkins",
+      "opponentSlug": "134851-jack-jenkins",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 52",
+      "eventSlug": "64806-eternal-mma-52",
+      "round": 4,
+      "timeInRound": "4:01"
+    },
+    {
+      "date": "2019-11-01T00:00:00.000Z",
+      "opponent": "Michael Tobin",
+      "opponentSlug": "46973-michael-tobin-the-great-white",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 49",
+      "eventSlug": "63375-eternal-mma-49",
+      "round": 3,
+      "timeInRound": "0:42"
+    },
+    {
+      "date": "2019-03-23T00:00:00.000Z",
+      "opponent": "Aaron Blackie",
+      "opponentSlug": "75736-aaron-blackie",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 42",
+      "eventSlug": "57693-eternal-mma-42",
+      "round": 1,
+      "timeInRound": "0:25"
+    },
+    {
+      "date": "2018-09-15T00:00:00.000Z",
+      "opponent": "Sam Hibberd",
+      "opponentSlug": "87482-sam-hibberd",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Eternal MMA 36",
+      "eventSlug": "54440-eternal-mma-36",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-09T00:00:00.000Z",
+      "opponent": "Kairin Moses",
+      "opponentSlug": "75302-kairin-moses",
+      "result": "win",
+      "method": "dec-split",
+      "event": "ACB 76: Young Eagles 23",
+      "eventSlug": "48516-acb-76-australia",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-05T00:00:00.000Z",
+      "opponent": "Justin Van Heerden",
+      "opponentSlug": "86412-justin-van-heerdan",
+      "result": "win",
+      "method": "tko",
+      "event": "Eternal MMA 27",
+      "eventSlug": "47401-eternal-mma-27",
+      "round": 3,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2017-04-08T00:00:00.000Z",
+      "opponent": "Ryan Lambert",
+      "opponentSlug": "32787-ryan-lambert",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Reign Fighting 3",
+      "eventSlug": "44514-reign-fighting-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-11T00:00:00.000Z",
+      "opponent": "George Malizis",
+      "opponentSlug": "61102-george-malizis",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 24",
+      "eventSlug": "43836-eternal-mma-25",
+      "round": 2,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2016-03-05T00:00:00.000Z",
+      "opponent": "Beau Luxford",
+      "opponentSlug": "92624-beau-luxford",
+      "result": "loss",
+      "method": "tko",
+      "event": "Carnage in the Cage 6",
+      "eventSlug": "37944-carnage-in-the-cage-6",
+      "round": 3,
+      "timeInRound": "1:21"
+    },
+    {
+      "date": "2015-05-30T00:00:00.000Z",
+      "opponent": "Nix Agulto",
+      "opponentSlug": "51669-nix-agulto-django",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 10",
+      "eventSlug": "30055-eternal-mma-10",
+      "round": 1,
+      "timeInRound": "0:09"
+    },
+    {
+      "date": "2015-03-07T00:00:00.000Z",
+      "opponent": "Aaron Zambelli",
+      "opponentSlug": "94618-aaron-zambelli",
+      "result": "win",
+      "method": "sub",
+      "event": "Eternal MMA 9",
+      "eventSlug": "28935-eternal-mma-9",
+      "round": 3,
+      "timeInRound": "1:34"
+    },
+    {
+      "date": "2012-09-01T00:00:00.000Z",
+      "opponent": "Rene Lahti-Parsell",
+      "opponentSlug": "122883-rene-lahti-parsell",
+      "result": "draw",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:58:09.522Z"
+}

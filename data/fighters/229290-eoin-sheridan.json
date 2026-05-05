@@ -1,0 +1,132 @@
+{
+  "slug": "229290-eoin-sheridan",
+  "name": "Eoin Sheridan",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 196,
+  "reachCm": 206,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Ireland",
+  "url": "https://www.tapology.com/fightcenter/fighters/229290-eoin-sheridan",
+  "recentFights": [
+    {
+      "date": "2026-04-16T00:00:00.000Z",
+      "opponent": "Chris Mixan",
+      "opponentSlug": "166291-chris-mixan",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "PFL Belfast",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-18T00:00:00.000Z",
+      "opponent": "Felipe Maia",
+      "opponentSlug": "139061-felipe-maia-praguinha",
+      "result": "win",
+      "method": "sub",
+      "event": "AFC 1: Pamplona",
+      "round": 1,
+      "timeInRound": "3:55"
+    },
+    {
+      "date": "2025-05-10T00:00:00.000Z",
+      "opponent": "Malichi Edwards",
+      "opponentSlug": "269026-malichi-edwards",
+      "result": "win",
+      "method": "other",
+      "event": "PFL Europe 1",
+      "round": 1,
+      "timeInRound": "1:53"
+    },
+    {
+      "date": "2024-12-14T00:00:00.000Z",
+      "opponent": "Brice Belghazi",
+      "opponentSlug": "420436-brice-belgahzi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "PFL Europe: 2024 Championships",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-02T00:00:00.000Z",
+      "opponent": "Joey Dakin",
+      "opponentSlug": "112490-joey-dakin",
+      "result": "win",
+      "method": "other",
+      "event": "Golden Ticket Fight Promotions 23",
+      "round": 2,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2021-09-11T00:00:00.000Z",
+      "opponent": "Hazem Kayyali",
+      "opponentSlug": "242524-hazem-kayyali",
+      "result": "loss",
+      "method": "sub",
+      "event": "Senior & Junior World Cup",
+      "round": 2,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2021-09-10T00:00:00.000Z",
+      "opponent": "Ergo Reinvald",
+      "opponentSlug": "229361-ergo-reinvald",
+      "result": "win",
+      "method": "tko",
+      "event": "Senior & Junior World Cup",
+      "round": 1,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2021-09-09T00:00:00.000Z",
+      "opponent": "Tian Olsen",
+      "opponentSlug": "94802-tian-olsen",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Senior & Junior World Cup",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-12T00:00:00.000Z",
+      "opponent": "Yusup Magomedov",
+      "opponentSlug": "223121-yusup-magomedov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "IMMAF-WMMAA",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-11T00:00:00.000Z",
+      "opponent": "Szymon Roicki",
+      "opponentSlug": "170615-szymon-roicki",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMMAF-WMMAA",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-20T00:00:00.000Z",
+      "opponent": "Magomedkhabib Umarov",
+      "opponentSlug": "201499-magomedkhabib-umarov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "2019 IMMAF-WMMAA European Senior & Junior Open Championships",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-16T23:58:57.254Z"
+}

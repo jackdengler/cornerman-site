@@ -1,0 +1,154 @@
+{
+  "slug": "138896-akaki-khorava",
+  "name": "Akaki Khorava",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": 170,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1996-05-16",
+  "nationality": "Georgia",
+  "url": "https://www.tapology.com/fightcenter/fighters/138896-akaki-khorava",
+  "recentFights": [
+    {
+      "date": "2025-10-17T00:00:00.000Z",
+      "opponent": "Samir Faiddine",
+      "opponentSlug": "56058-samir-faiddine",
+      "result": "loss",
+      "method": "other",
+      "event": "Super League 5",
+      "eventSlug": "133975-super-league-5",
+      "round": 1,
+      "timeInRound": "3:19"
+    },
+    {
+      "date": "2025-08-30T00:00:00.000Z",
+      "opponent": "Musa Musazade",
+      "opponentSlug": "206532-musa-musazada",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Gama MMA 1",
+      "eventSlug": "132616-gama-mma-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-23T00:00:00.000Z",
+      "opponent": "Adem Vashakmadze",
+      "opponentSlug": "246444-adem-vashaymadze",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "GAMA 30: Raise",
+      "eventSlug": "125634-gama-raise",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-16T00:00:00.000Z",
+      "opponent": "Adrian Błoński",
+      "opponentSlug": "96103-adrian-boski",
+      "result": "loss",
+      "method": "other",
+      "event": "FSC 8: Iława Fight Night",
+      "eventSlug": "108589-fsc-8-ilawa-fight-night",
+      "round": 2,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2023-05-13T00:00:00.000Z",
+      "opponent": "Kacper Matyszewski",
+      "opponentSlug": "229084-kacper-matyszewski",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "FSC 7: Koszalin",
+      "eventSlug": "99870-fsc-7-koszalin",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-04T00:00:00.000Z",
+      "opponent": "Islam Mayrasultanov",
+      "opponentSlug": "110416-islam-mayrasultanov",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Fight Empire MMA 1",
+      "eventSlug": "77502-fight-empire-mma-1-enter-of-the-dragon",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-08-24T00:00:00.000Z",
+      "opponent": "Grzegorz Joniak",
+      "opponentSlug": "206927-grzegorz-joniak",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bebson Arena 5",
+      "eventSlug": "61838-bebson-arena-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-08T00:00:00.000Z",
+      "opponent": "Abo Dzeytov",
+      "opponentSlug": "158822-abo-dzeytov",
+      "result": "loss",
+      "method": "sub",
+      "event": "Berkut Young Eagles 1",
+      "eventSlug": "50814-berkut-young-eagles-grand-prix-1st-stage",
+      "round": 1,
+      "timeInRound": "4:41"
+    },
+    {
+      "date": "2017-08-05T00:00:00.000Z",
+      "opponent": "Frederico Gutzwiller",
+      "opponentSlug": "144097-frederico-gutzwiller-muskito",
+      "result": "loss",
+      "method": "sub",
+      "event": "M-1 Challenge 82",
+      "eventSlug": "45710-m-1-challenge-82",
+      "round": 1,
+      "timeInRound": "1:59"
+    },
+    {
+      "date": "2017-04-28T00:00:00.000Z",
+      "opponent": "Jinhao He",
+      "opponentSlug": "130858-jinhao-he",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Glory Of Heroes 17",
+      "eventSlug": "45473-glory-of-heroes-journey",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-02T00:00:00.000Z",
+      "opponent": "Cheng Lin",
+      "opponentSlug": "99631",
+      "result": "win",
+      "method": "tko",
+      "event": "Glory of Heroes 10",
+      "eventSlug": "45745-glory-of-heroes-conquest-of-heroes-1",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-08-27T00:00:00.000Z",
+      "opponent": "Marios Zinonos",
+      "opponentSlug": "138897-marios-zinonos",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Nights Global",
+      "eventSlug": "41275-fight-nights-summer-cup",
+      "round": 1,
+      "timeInRound": "4:27"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:11:09.425Z"
+}

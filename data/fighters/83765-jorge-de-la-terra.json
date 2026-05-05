@@ -1,0 +1,209 @@
+{
+  "slug": "83765-jorge-de-la-terra",
+  "name": "Jorge Daniel La Terra",
+  "nickname": "He-Man",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 9,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 177,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1988-11-17",
+  "nationality": "Ciudad del Este, Paraguay",
+  "url": "https://www.tapology.com/fightcenter/fighters/83765-jorge-de-la-terra",
+  "recentFights": [
+    {
+      "date": "2023-05-03T00:00:00.000Z",
+      "opponent": "Mandel Nallo",
+      "opponentSlug": "24751-mandell-nallo",
+      "result": "loss",
+      "method": "tko",
+      "event": "XMMA 6: Bash at the Beach",
+      "eventSlug": "99256-xmma-6-bash-at-the-beach",
+      "round": 1,
+      "timeInRound": "2:09"
+    },
+    {
+      "date": "2019-12-21T00:00:00.000Z",
+      "opponent": "Renzo Cortti",
+      "opponentSlug": "89365-renzo-corti",
+      "result": "loss",
+      "method": "other",
+      "event": "Origenes Championship 3",
+      "eventSlug": "72263-origenes-championship-3",
+      "round": 1,
+      "timeInRound": "3:40"
+    },
+    {
+      "date": "2019-08-10T00:00:00.000Z",
+      "opponent": "Alvaro Correa",
+      "opponentSlug": "70708-alvaro-correa",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-28T00:00:00.000Z",
+      "opponent": "Gabriel Amorim",
+      "opponentSlug": "149459-gabriel-amorim",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-08-11T00:00:00.000Z",
+      "opponent": "Guilherme Nogueira",
+      "opponentSlug": "169821-guilherme-nogueira-novas",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Skull FC 2",
+      "eventSlug": "54536-skull-fc-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-19T00:00:00.000Z",
+      "opponent": "Alexandre Barros",
+      "opponentSlug": "alexandre-barros-baixinho",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "WOCS 50",
+      "eventSlug": "53100-wocs-50",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-24T00:00:00.000Z",
+      "opponent": "Danilo Souza",
+      "opponentSlug": "54085-danilo-guerreiro",
+      "result": "win",
+      "method": "other",
+      "event": "WOCS 49",
+      "eventSlug": "51623-wocs-49",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-14T00:00:00.000Z",
+      "opponent": "Guilherme Nogueira",
+      "opponentSlug": "169821-guilherme-nogueira-novas",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "FLC 6",
+      "eventSlug": "49617-flc-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-28T00:00:00.000Z",
+      "opponent": "Matias Juarez",
+      "opponentSlug": "86882-matias-juarez",
+      "result": "loss",
+      "method": "other",
+      "event": "Fight2Night 2",
+      "eventSlug": "44932-fight2night-2",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2016-10-22T00:00:00.000Z",
+      "opponent": "Ariel Mieres",
+      "opponentSlug": "149451-ariel-mieres",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-01-23T00:00:00.000Z",
+      "opponent": "Weslley Araujo",
+      "opponentSlug": "67781-wesley-araujo",
+      "result": "loss",
+      "method": "other",
+      "event": "Jungle Fight 85",
+      "eventSlug": "37251-jungle-fight-85",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2015-11-21T00:00:00.000Z",
+      "opponent": "Edson Gottlieb Jr.",
+      "opponentSlug": "62417-edson-nilson-gottlieb-jr-chokito",
+      "result": "win",
+      "method": "other",
+      "event": "3FC: Desafio Tres Fronters",
+      "eventSlug": "36303-desafio-tres-fronters",
+      "round": 1,
+      "timeInRound": "2:57"
+    },
+    {
+      "date": "2014-11-15T00:00:00.000Z",
+      "opponent": "Bruno Granada",
+      "opponentSlug": "40888-bruno-granada",
+      "result": "loss",
+      "method": "other",
+      "event": "Explosion MMA 4",
+      "eventSlug": "27622-explosion-mma-fighters-1",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-08-22T00:00:00.000Z",
+      "opponent": "Javier Pereira Leiva",
+      "opponentSlug": "86533-javier-pereira-leiva-el-ejecutor",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-05-17T00:00:00.000Z",
+      "opponent": "Ivan Freitas",
+      "opponentSlug": "43794-ivan-freitas",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-09-07T00:00:00.000Z",
+      "opponent": "Lionel Bareiro",
+      "opponentSlug": "89374-lionel-bareiro-acerito",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-09-05T00:00:00.000Z",
+      "opponent": "Murilo Marques",
+      "opponentSlug": "38392-murilo-marques",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:07:48.774Z"
+}

@@ -1,0 +1,253 @@
+{
+  "slug": "38340-carlos-vergara",
+  "name": "CJ Vergara",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 12,
+    "losses": 7,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": 173,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1991-06-18",
+  "nationality": "Laredo, Texas, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/38340-carlos-vergara",
+  "recentFights": [
+    {
+      "date": "2025-03-29T00:00:00.000Z",
+      "opponent": "Edgar Cháirez",
+      "opponentSlug": "80020-edgar-chaidez",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "120490-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2024-10-12T00:00:00.000Z",
+      "opponent": "Ramazan Temirov",
+      "opponentSlug": "173956-razonbek-temirov",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "115961-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2024-03-09T00:00:00.000Z",
+      "opponent": "Asu Almabayev",
+      "opponentSlug": "127726-khamzat-sakalov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 299: O'Malley vs. Vera 2",
+      "eventSlug": "107061-ufc-299",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-29T00:00:00.000Z",
+      "opponent": "Vinicius Salvador",
+      "opponentSlug": "95618-vinicius-de-almeida-salvador",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 291: Poirier vs. Gaethje 2",
+      "eventSlug": "101214-ufc-291",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-25T00:00:00.000Z",
+      "opponent": "Daniel Lacerda",
+      "opponentSlug": "162924-daniel-lacerda-miojo",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "96078-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "4:04"
+    },
+    {
+      "date": "2022-10-15T00:00:00.000Z",
+      "opponent": "Tatsuro Taira",
+      "opponentSlug": "145595-tatsuro-taira",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "90713-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "4:19"
+    },
+    {
+      "date": "2022-05-07T00:00:00.000Z",
+      "opponent": "Kleydson Rodrigues",
+      "opponentSlug": "147055-kleidison-rodrigues-kr",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC 274: Oliveira vs. Gaethje",
+      "eventSlug": "85253-ufc-274",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-06T00:00:00.000Z",
+      "opponent": "Ode Osbourne",
+      "opponentSlug": "50154-ode-osbourne",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 268: Usman vs. Covington 2",
+      "eventSlug": "81402-ufc-268-usman-vs-covington-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-07T00:00:00.000Z",
+      "opponent": "Bruno Korea",
+      "opponentSlug": "55402-bruno-korea",
+      "result": "win",
+      "method": "other",
+      "event": "Contender Series 2021",
+      "eventSlug": "79436-contender-series-2021",
+      "round": 1,
+      "timeInRound": "0:41"
+    },
+    {
+      "date": "2021-03-06T00:00:00.000Z",
+      "opponent": "Jacob Silva",
+      "opponentSlug": "20066-jacob-silva",
+      "result": "win",
+      "method": "other",
+      "event": "Fury FC 44",
+      "eventSlug": "76644-fury-fc-44",
+      "round": 3,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2019-10-27T00:00:00.000Z",
+      "opponent": "Shawn Solis",
+      "opponentSlug": "113488-shawn-solis",
+      "result": "win",
+      "method": "other",
+      "event": "Fury FC 38",
+      "eventSlug": "62412-fury-fc-38",
+      "round": 3,
+      "timeInRound": "4:05"
+    },
+    {
+      "date": "2019-06-21T00:00:00.000Z",
+      "opponent": "Emerson Garcia",
+      "opponentSlug": "128306-emerson-garcia",
+      "result": "win",
+      "method": "other",
+      "event": "Fury FC: Fight Night San Antonio",
+      "eventSlug": "60883-fury-fc-fight-night-san-antonio",
+      "round": 2,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2019-03-03T00:00:00.000Z",
+      "opponent": "Ramiro Ruiz Castillo",
+      "opponentSlug": "47241-ramiro-ruiz-castillo",
+      "result": "win",
+      "method": "other",
+      "event": "Fury FC 30",
+      "eventSlug": "57208-fury-fc-30",
+      "round": 2,
+      "timeInRound": "1:41"
+    },
+    {
+      "date": "2018-05-25T00:00:00.000Z",
+      "opponent": "Devin Miller",
+      "opponentSlug": "79597-devin-miller",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 40: Aguilar vs. Le",
+      "eventSlug": "52491-lfa-40-aguilar-vs-le",
+      "round": 1,
+      "timeInRound": "0:54"
+    },
+    {
+      "date": "2016-11-19T00:00:00.000Z",
+      "opponent": "Emerson Garcia",
+      "opponentSlug": "128306-emerson-garcia",
+      "result": "draw",
+      "method": "dec-majority",
+      "event": "Fury FC 14",
+      "eventSlug": "42577-fury-fc-14",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-29T00:00:00.000Z",
+      "opponent": "Jose Soto Jr.",
+      "opponentSlug": "68768-jose-soto",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "RFA 41: Clark vs. Giles",
+      "eventSlug": "40503-rfa-41-gigliotti-vs-giles",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-01-24T00:00:00.000Z",
+      "opponent": "Jonathan Martinez",
+      "opponentSlug": "41237-jonathon-martinez",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Fury FC 3",
+      "eventSlug": "29130-fury-fc-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-09-13T00:00:00.000Z",
+      "opponent": "Jonathan Ramirez",
+      "opponentSlug": "44320-jonathan-ramirez",
+      "result": "win",
+      "method": "tko",
+      "event": "Legacy FC 23",
+      "eventSlug": "19724-legacy-fc-23",
+      "round": 1,
+      "timeInRound": "2:43"
+    },
+    {
+      "date": "2013-06-28T00:00:00.000Z",
+      "opponent": "Akira Smith",
+      "opponentSlug": "15039-akira-smith",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Crown Center MMA",
+      "eventSlug": "19134-crown-center-mma",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-11-17T00:00:00.000Z",
+      "opponent": "LeRoy Martinez",
+      "opponentSlug": "27017-leroy-martinez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Alamo Showdown 5",
+      "eventSlug": "16693-alamo-showdown-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-04-06T00:00:00.000Z",
+      "opponent": "Elias Garcia",
+      "opponentSlug": "18360-elias-garcia",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T22:59:06.055Z"
+}

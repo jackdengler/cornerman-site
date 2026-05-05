@@ -1,0 +1,66 @@
+{
+  "slug": "14374-james-saunders",
+  "name": "James Saunders",
+  "nickname": "The Saigo Warrior",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 163,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": "1986-10-31",
+  "nationality": "Moncton, New Brunswick, Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/14374-james-saunders",
+  "recentFights": [
+    {
+      "date": "2011-04-16T00:00:00.000Z",
+      "opponent": "Mike Malott",
+      "opponentSlug": "22740-mike-malott",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-08-08T00:00:00.000Z",
+      "opponent": "Matt Maclennan",
+      "opponentSlug": "20609-matt-maclennan",
+      "result": "loss",
+      "method": "sub",
+      "event": "East Coast FP",
+      "eventSlug": "9383-ecfp-standoff-at-the-stadium",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-06-20T00:00:00.000Z",
+      "opponent": "Daryle Pinter",
+      "opponentSlug": "14372-daryle-pinter",
+      "result": "loss",
+      "method": "dq",
+      "event": "KOTC: Moment Of Truth",
+      "eventSlug": "2015-kotc-moment-of-truth",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-12-15T00:00:00.000Z",
+      "opponent": "Tristan Johnson",
+      "opponentSlug": "tristan-johnson",
+      "result": "loss",
+      "method": "other",
+      "event": "KOTC: Avalanche",
+      "eventSlug": "1819-kotc-avalanche",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:05:37.228Z"
+}

@@ -1,0 +1,220 @@
+{
+  "slug": "67389-victor-valenzuela-sicosis",
+  "name": "Victor Valenzuela",
+  "nickname": "Psicosis",
+  "aliases": [],
+  "recordPro": {
+    "wins": 13,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 182,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1994-02-09",
+  "nationality": "Chile",
+  "url": "https://www.tapology.com/fightcenter/fighters/67389-victor-valenzuela-sicosis",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Max Griffin",
+      "opponentSlug": "25437-max-griffin",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "140114-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-03-30T00:00:00.000Z",
+      "opponent": "Yusaku Kinoshita",
+      "opponentSlug": "152934-yusaku-kinoshita",
+      "result": "win",
+      "method": "tko",
+      "event": "Lemino Shooto.4",
+      "eventSlug": "140133-lemino-shooto-4",
+      "round": 2,
+      "timeInRound": "4:13"
+    },
+    {
+      "date": "2025-10-14T00:00:00.000Z",
+      "opponent": "Michael Oliveira",
+      "opponentSlug": "289653-michael-oliveira-pqd",
+      "result": "loss",
+      "method": "other",
+      "event": "Contender Series 2025",
+      "eventSlug": "128467-contender-series-2025-week-10",
+      "round": 2,
+      "timeInRound": "3:56"
+    },
+    {
+      "date": "2025-06-22T00:00:00.000Z",
+      "opponent": "Bruce Whitehead",
+      "opponentSlug": "77701-bruce-whitehead",
+      "result": "win",
+      "method": "other",
+      "event": "Fury FC 105",
+      "eventSlug": "127522-fury-fc-105",
+      "round": 1,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2024-03-29T00:00:00.000Z",
+      "opponent": "Dustin Parrish",
+      "opponentSlug": "26114-dustin-parish",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 180: Lawrence vs. Ward",
+      "eventSlug": "109365-legacy-fighting-alliance-180-lfa-180",
+      "round": 1,
+      "timeInRound": "2:43"
+    },
+    {
+      "date": "2023-05-13T00:00:00.000Z",
+      "opponent": "Shinsho Anzai",
+      "opponentSlug": "18127-shinsho-anzai-animal",
+      "result": "win",
+      "method": "tko",
+      "event": "Combate Global",
+      "eventSlug": "101111-combate-global-mexico-vs-japan",
+      "round": 2,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2022-12-10T00:00:00.000Z",
+      "opponent": "Matias Ibañez",
+      "opponentSlug": "107769-matias-ibaez-el-nio",
+      "result": "win",
+      "method": "other",
+      "event": "Ragnarok Combate 4",
+      "eventSlug": "95950-ragnarok-combate-4",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-26T00:00:00.000Z",
+      "opponent": "Bryan McDowell",
+      "opponentSlug": "44032-bryan-mcdowell",
+      "result": "win",
+      "method": "sub",
+      "event": "Combate Global",
+      "eventSlug": "92471-combate-global",
+      "round": 3,
+      "timeInRound": "0:58"
+    },
+    {
+      "date": "2022-06-10T00:00:00.000Z",
+      "opponent": "Fernando Calvo",
+      "opponentSlug": "174371-fernando-calvo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combate Global",
+      "eventSlug": "90028-combate-global",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-17T00:00:00.000Z",
+      "opponent": "Thomas Powell",
+      "opponentSlug": "119566-thomas-powell",
+      "result": "loss",
+      "method": "other",
+      "event": "Ring Of Combat 73",
+      "eventSlug": "79661-ring-of-combat-73",
+      "round": 1,
+      "timeInRound": "4:35"
+    },
+    {
+      "date": "2016-03-12T00:00:00.000Z",
+      "opponent": "Fabio Diaz",
+      "opponentSlug": "75174-fabio-diaz-coyote",
+      "result": "win",
+      "method": "other",
+      "event": "MFC 12",
+      "eventSlug": "37862-mfc-12",
+      "round": 1,
+      "timeInRound": "3:13"
+    },
+    {
+      "date": "2015-04-25T00:00:00.000Z",
+      "opponent": "Guillermo Martinez Ayme",
+      "opponentSlug": "53862-guillermo-martinez-cubano",
+      "result": "loss",
+      "method": "tko",
+      "event": "MFC 11: 61 kg Title Grand Prix",
+      "eventSlug": "30115-mfc-11-61-kg-title-gp",
+      "round": 2,
+      "timeInRound": "4:54"
+    },
+    {
+      "date": "2014-12-20T00:00:00.000Z",
+      "opponent": "Evan Vasquez Matus",
+      "opponentSlug": "8254-evan-vasquez",
+      "result": "loss",
+      "method": "sub",
+      "event": "Arena Tour 4",
+      "eventSlug": "26464-arena-tour-4",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-22T00:00:00.000Z",
+      "opponent": "Martin Torres",
+      "opponentSlug": "65414-martin-torres",
+      "result": "win",
+      "method": "sub",
+      "event": "Arena Tour 2",
+      "eventSlug": "23054-arena-tour-2",
+      "round": 1,
+      "timeInRound": "2:51"
+    },
+    {
+      "date": "2013-11-29T00:00:00.000Z",
+      "opponent": "Diego Palau",
+      "opponentSlug": "24970-diego-palau-el-loco",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-10-06T00:00:00.000Z",
+      "opponent": "Rodrigo Carlos",
+      "opponentSlug": "44938-rodrigo-carlos-bruga",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-06-22T00:00:00.000Z",
+      "opponent": "Horacio Bepre",
+      "opponentSlug": "42684-horacio-bepre",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-04-27T00:00:00.000Z",
+      "opponent": "Eric Farias Bravo",
+      "opponentSlug": "72647-erick-farias",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:53:48.026Z"
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "219103-daniel-wojanczyk",
+  "name": "Daniel Wojańczyk",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Poland",
+  "url": "https://www.tapology.com/fightcenter/fighters/219103-daniel-wojanczyk",
+  "recentFights": [
+    {
+      "date": "2023-04-21T00:00:00.000Z",
+      "opponent": "Michał Oleksy",
+      "opponentSlug": "170621-micha-oleksy",
+      "result": "loss",
+      "method": "other",
+      "event": "CFN 8",
+      "eventSlug": "100099-cfn-8",
+      "round": 1,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2022-07-29T00:00:00.000Z",
+      "opponent": "Grzegorz Stabach",
+      "opponentSlug": "173658-grzegorz-stabach",
+      "result": "loss",
+      "method": "other",
+      "event": "Armia Fight Night 14",
+      "eventSlug": "90445-armia-fight-night-14",
+      "round": 1,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2022-02-26T00:00:00.000Z",
+      "opponent": "Kacper Matyszewski",
+      "opponentSlug": "229084-kacper-matyszewski",
+      "result": "loss",
+      "method": "sub",
+      "event": "Armia Fight Night 12",
+      "eventSlug": "85987-armia-fight-night-12",
+      "round": 1,
+      "timeInRound": "1:26"
+    },
+    {
+      "date": "2023-10-29T00:00:00.000Z",
+      "opponent": "Patryk Nikel",
+      "opponentSlug": "411066-patryk-nikel",
+      "result": "loss",
+      "method": "tko",
+      "event": "Silesian MMA 12",
+      "eventSlug": "105681-silesian-mma-12",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-15T00:00:00.000Z",
+      "opponent": "Viktor Gunnarsson",
+      "opponentSlug": "305758-viktor-gunnarsson",
+      "result": "loss",
+      "method": "sub",
+      "event": "Contender Fight Night 5",
+      "eventSlug": "82426-contender-fight-night-5",
+      "round": 1,
+      "timeInRound": "2:44"
+    },
+    {
+      "date": "2020-07-25T00:00:00.000Z",
+      "opponent": "Kamil Hadała",
+      "opponentSlug": "266522-kamil-hadala",
+      "result": "loss",
+      "method": "sub",
+      "event": "Wieczór Walk 6",
+      "eventSlug": "70018-wieczor-walk-6-live-in-studio",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-14T00:00:00.000Z",
+      "opponent": "Eryk Bałasz",
+      "opponentSlug": "146719-eryk-baasz",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Wieczór Walk 5",
+      "eventSlug": "63093-wieczor-walk-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-06T00:00:00.000Z",
+      "opponent": "Kamil Zych",
+      "opponentSlug": "219104-kamil-zych",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Husaria Fight Night 1",
+      "eventSlug": "59564-husaria-fight-night-1",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:11:13.767Z"
+}

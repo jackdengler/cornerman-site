@@ -1,0 +1,40 @@
+{
+  "slug": "514323-luis-justiniano",
+  "name": "Luis Justiniano",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": null,
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/514323-luis-justiniano",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Jhairo Cuellar",
+      "opponentSlug": "536575-jhairo-cuellar",
+      "result": null,
+      "method": "other",
+      "event": "Noche de Campeones 10",
+      "eventSlug": "142521-noche-de-campeones-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-12-06T00:00:00.000Z",
+      "opponent": "Nicolas Suarez",
+      "opponentSlug": "536117-nicolas-suarez",
+      "result": "win",
+      "method": "sub",
+      "event": "TFL 1",
+      "eventSlug": "136276-tfl-1",
+      "round": 1,
+      "timeInRound": "1:37"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:02:09.071Z"
+}

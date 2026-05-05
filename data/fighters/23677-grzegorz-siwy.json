@@ -1,0 +1,187 @@
+{
+  "slug": "23677-grzegorz-siwy",
+  "name": "Grzegorz Siwy",
+  "nickname": "Fizol",
+  "aliases": [],
+  "recordPro": {
+    "wins": 13,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Poland",
+  "url": "https://www.tapology.com/fightcenter/fighters/23677-grzegorz-siwy",
+  "recentFights": [
+    {
+      "date": "2019-09-21T00:00:00.000Z",
+      "opponent": "Sergey Guzev",
+      "opponentSlug": "18011-sergey-guzev",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "WWFC 15",
+      "eventSlug": "58230-wwfc-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-15T00:00:00.000Z",
+      "opponent": "Milanko Puranovic",
+      "opponentSlug": "36444-milanko-puranovic",
+      "result": "win",
+      "method": "other",
+      "event": "Megdan Fighting 4",
+      "eventSlug": "58226-megdan-meridan",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-27T00:00:00.000Z",
+      "opponent": "Makhmud Muradov",
+      "opponentSlug": "34702-makhmud-muradov",
+      "result": "loss",
+      "method": "other",
+      "event": "XFN 15: Marpo vs Rytmus",
+      "eventSlug": "56960-xfn-15-marpo-vs-rytmus",
+      "round": 3,
+      "timeInRound": "4:50"
+    },
+    {
+      "date": "2018-09-15T00:00:00.000Z",
+      "opponent": "Samuel Krištofič",
+      "opponentSlug": "127416-samuel-kristofic",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Oktagon 9",
+      "eventSlug": "54459-oktagon-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-09T00:00:00.000Z",
+      "opponent": "Grigoriy Sirenko",
+      "opponentSlug": "143552-grigoriy-sirenko",
+      "result": "loss",
+      "method": "other",
+      "event": "MFP 221: Far Eastern Frontier",
+      "eventSlug": "52783-mfp-221-far-eastern-frontier",
+      "round": 1,
+      "timeInRound": "1:19"
+    },
+    {
+      "date": "2018-04-26T00:00:00.000Z",
+      "opponent": "Marinica Bejenaru",
+      "opponentSlug": "156903-marinica-bejenaru",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Megdan Fighting 3",
+      "eventSlug": "50142-megdan-fighting-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-16T00:00:00.000Z",
+      "opponent": "Khalid Murtazaliev",
+      "opponentSlug": "98431-khalid-murtazaliev",
+      "result": "loss",
+      "method": "other",
+      "event": "Fight Nights Global 82",
+      "eventSlug": "48681-fight-nights-global-82",
+      "round": 1,
+      "timeInRound": "4:31"
+    },
+    {
+      "date": "2017-04-01T00:00:00.000Z",
+      "opponent": "Piotr Wawrzyniak",
+      "opponentSlug": "50055-piotr-wawrzyniak",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Spartan Fight 7",
+      "eventSlug": "43970-spartan-fight-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-17T00:00:00.000Z",
+      "opponent": "Sylwester Borys",
+      "opponentSlug": "56308-sylwester-borys",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Spartan Fight 6",
+      "eventSlug": "42222-spartan-fight-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-08-06T00:00:00.000Z",
+      "opponent": "Robert Bryczek",
+      "opponentSlug": "26244-robert-bryczek",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Spartan Fight 4",
+      "eventSlug": "39873-spartan-fight-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-21T00:00:00.000Z",
+      "opponent": "Arkadiusz Jędraczka",
+      "opponentSlug": "26234-arkadiusz-jedraczka-rooney",
+      "result": "win",
+      "method": "other",
+      "event": "PLMMA 67: Nastula Cup 1",
+      "eventSlug": "37309-plmma-nastula-cup-1",
+      "round": 3,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2011-01-23T00:00:00.000Z",
+      "opponent": "Vladimir Oleshkevich",
+      "opponentSlug": "71917-vladimir-oleshkevich-the-boa-constrictor",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-06-13T00:00:00.000Z",
+      "opponent": "Frank Vatan",
+      "opponentSlug": "13869-frank-vatan",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-07-26T00:00:00.000Z",
+      "opponent": "Mok Rahman",
+      "opponentSlug": "13954-mok-rahman",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-04-11T00:00:00.000Z",
+      "opponent": "Robbie Weedall",
+      "opponentSlug": "133258-robbie-weedall",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:18:21.215Z"
+}

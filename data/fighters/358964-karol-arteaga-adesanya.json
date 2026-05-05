@@ -1,0 +1,165 @@
+{
+  "slug": "358964-karol-arteaga-adesanya",
+  "name": "Karol Arteaga",
+  "nickname": "Showtime",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "2005-04-18",
+  "nationality": "Venezuela",
+  "url": "https://www.tapology.com/fightcenter/fighters/358964-karol-arteaga-adesanya",
+  "recentFights": [
+    {
+      "date": "2026-04-18T00:00:00.000Z",
+      "opponent": "Italo Ribeiro",
+      "opponentSlug": "58465-italo-ribeiro",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "JSC 4",
+      "eventSlug": "141721-jsc-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-17T00:00:00.000Z",
+      "opponent": "Magomed-Emin Dadaev",
+      "opponentSlug": "315736-magomed-emin-dadaev",
+      "result": "loss",
+      "method": "other",
+      "event": "BRAVE CF 94",
+      "eventSlug": "127315-brave-cf-94",
+      "round": 3,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2025-03-01T00:00:00.000Z",
+      "opponent": "Rusi Hadzhiev",
+      "opponentSlug": "379305-rusi-hadzhiev",
+      "result": "win",
+      "method": "other",
+      "event": "Max Fight 60",
+      "eventSlug": "122761-max-fight-60",
+      "round": 2,
+      "timeInRound": "0:49"
+    },
+    {
+      "date": "2024-12-14T00:00:00.000Z",
+      "opponent": "Václav Štěpán",
+      "opponentSlug": "197384-vaclav-stepan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Heroes Gate 30",
+      "eventSlug": "121113-heroes-gate-30",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-10-05T00:00:00.000Z",
+      "opponent": "Roman Paulus",
+      "opponentSlug": "127470-roman-paulus",
+      "result": "loss",
+      "method": "sub",
+      "event": "PML 11",
+      "eventSlug": "118409-pml-11",
+      "round": 2,
+      "timeInRound": "2:46"
+    },
+    {
+      "date": "2024-09-07T00:00:00.000Z",
+      "opponent": "Gjoni Palokaj",
+      "opponentSlug": "125750-gjoni-palokaj",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 60: Buchinger vs. Eskiev",
+      "eventSlug": "114644-oktagon-60",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-29T00:00:00.000Z",
+      "opponent": "Raul Raga",
+      "opponentSlug": "453431-raul-raga",
+      "result": "win",
+      "method": "sub",
+      "event": "The King Fighters 2",
+      "eventSlug": "115997-the-king-fighters-2da-edicion",
+      "round": 1,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2024-06-01T00:00:00.000Z",
+      "opponent": "Paul Amaya",
+      "opponentSlug": "317266-paul-amaya",
+      "result": "win",
+      "method": "tko",
+      "event": "Strike Warrior 10",
+      "eventSlug": "113123-strike-warrior-10",
+      "round": 2,
+      "timeInRound": "3:58"
+    },
+    {
+      "date": "2023-07-22T00:00:00.000Z",
+      "opponent": "Antonio Zerpa",
+      "opponentSlug": "472823-antonio-zerpa-el-chino",
+      "result": "win",
+      "method": "sub",
+      "event": "Reto MMA 1",
+      "eventSlug": "121241-reto-mma-1",
+      "round": 2,
+      "timeInRound": "3:27"
+    },
+    {
+      "date": "2023-07-01T00:00:00.000Z",
+      "opponent": "Nelson Jimenez",
+      "opponentSlug": "340542-nelson-jimenez",
+      "result": "win",
+      "method": "sub",
+      "event": "Strike Warrior 8",
+      "eventSlug": "102097-strike-warrior-8",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-04T00:00:00.000Z",
+      "opponent": "Elvis Espinoza",
+      "opponentSlug": "378387-elvis-espinoza-el-mandril",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Liga Immortal 2",
+      "eventSlug": "99440-liga-immortal-2da-edicion-la-conquista",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-22T00:00:00.000Z",
+      "opponent": "Sergio Velazquez",
+      "opponentSlug": "363220-sergio-velazquez",
+      "result": "win",
+      "method": "sub",
+      "event": "Strike Warrior 6",
+      "eventSlug": "95949-strike-warrior-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-10-07T00:00:00.000Z",
+      "opponent": "Leonardo Bastos",
+      "opponentSlug": "342129-leonardo-bastos",
+      "result": "win",
+      "method": "sub",
+      "event": "Legion MMA 4",
+      "eventSlug": "92350-legion-mma-4",
+      "round": 1,
+      "timeInRound": "0:46"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:09:26.153Z"
+}

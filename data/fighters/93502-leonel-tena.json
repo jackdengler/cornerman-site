@@ -1,0 +1,103 @@
+{
+  "slug": "93502-leonel-tena",
+  "name": "Leonel Tena",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 4,
+    "draws": 0
+  },
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1997-02-17",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/93502-leonel-tena",
+  "recentFights": [
+    {
+      "date": "2018-08-11T00:00:00.000Z",
+      "opponent": "Terry Cartwright",
+      "opponentSlug": "177263-terry-cartwright",
+      "result": "win",
+      "method": "other",
+      "event": "RUF MMA 27",
+      "eventSlug": "53829-ruf-mma-27",
+      "round": 2,
+      "timeInRound": "0:53"
+    },
+    {
+      "date": "2017-09-09T00:00:00.000Z",
+      "opponent": "Brandan Olivas",
+      "opponentSlug": "123404-brandan-olivas",
+      "result": "loss",
+      "method": "sub",
+      "event": "RUF MMA 21",
+      "eventSlug": "47796-ruf-mma-21",
+      "round": 1,
+      "timeInRound": "0:52"
+    },
+    {
+      "date": "2017-04-29T00:00:00.000Z",
+      "opponent": "Trenton Schmidt",
+      "opponentSlug": "155757-trenton-schmidt",
+      "result": "win",
+      "method": "tko",
+      "event": "RUF MMA",
+      "eventSlug": "45043-ruf-mma",
+      "round": 2,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2016-06-25T00:00:00.000Z",
+      "opponent": "Juan Carlos Virgen",
+      "opponentSlug": "135539-juan-carlos-virgen",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage Rage on the River 11",
+      "eventSlug": "40470-cage-rage-on-the-river-10",
+      "round": 1,
+      "timeInRound": "0:40"
+    },
+    {
+      "date": "2015-10-17T00:00:00.000Z",
+      "opponent": "Jamie Carskaden",
+      "opponentSlug": "83112-jamie-carskaden",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage Rage on the River 10",
+      "eventSlug": "34465-cage-rage-on-the-river-10",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2015-06-20T00:00:00.000Z",
+      "opponent": "Alfonso Hernandez",
+      "opponentSlug": "172125-alfonso-hernandez",
+      "result": "loss",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 2,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2015-02-21T00:00:00.000Z",
+      "opponent": "Kyler Phillips",
+      "opponentSlug": "93501-kyler-phillips",
+      "result": "loss",
+      "method": "sub",
+      "event": "WFF 19: Casino Del Sol Resort Fights",
+      "eventSlug": "29671-wff-19-casino-del-sol-resort-fights",
+      "round": 2,
+      "timeInRound": "2:29"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:06:21.928Z"
+}

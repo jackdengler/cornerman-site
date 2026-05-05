@@ -1,0 +1,37 @@
+{
+  "slug": "280644-martin-jonas",
+  "name": "Martin Jonáš",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 172,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/280644-martin-jonas",
+  "recentFights": [
+    {
+      "date": "2020-12-12T00:00:00.000Z",
+      "opponent": "Václav Štěpán",
+      "opponentSlug": "197384-vaclav-stepan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MMAsters League vol. 2",
+      "eventSlug": "75017-mmasters-league-vol-2-galavecer-bojovych-sportu",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:09:39.926Z"
+}

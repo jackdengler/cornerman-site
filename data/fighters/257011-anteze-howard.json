@@ -1,0 +1,136 @@
+{
+  "slug": "257011-anteze-howard",
+  "name": "Anteze Howard",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 6,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1999-03-10",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/257011-anteze-howard",
+  "recentFights": [
+    {
+      "date": "2026-04-18T00:00:00.000Z",
+      "opponent": "Alexis Flores",
+      "opponentSlug": "298536-alexis-flores",
+      "result": null,
+      "method": "other",
+      "event": "Throne MMA 22",
+      "eventSlug": "141525-throne-mma-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-02T00:00:00.000Z",
+      "opponent": "Noah Gasho",
+      "opponentSlug": "348174-noah-gasho",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Mecca 23",
+      "eventSlug": "112724-mecca-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-04-13T00:00:00.000Z",
+      "opponent": "Andres Lugo",
+      "opponentSlug": "329335-andrea-lugo",
+      "result": "win",
+      "method": "sub",
+      "event": "Iowa Fight Series 2",
+      "eventSlug": "109676-iowa-fight-series-2",
+      "round": 4,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2023-10-21T00:00:00.000Z",
+      "opponent": "Romello Monjaras",
+      "opponentSlug": "314183-romello-monjaras",
+      "result": "win",
+      "method": "sub",
+      "event": "Iowa Fight Series 1",
+      "eventSlug": "103305-iowa-fight-series-1",
+      "round": 1,
+      "timeInRound": "1:41"
+    },
+    {
+      "date": "2023-01-28T00:00:00.000Z",
+      "opponent": "McCoy Tekautz",
+      "opponentSlug": "238184-max-tekautz",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "MCFC 1",
+      "eventSlug": "93591-mcfc-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-10T00:00:00.000Z",
+      "opponent": "Dylan Smerillo",
+      "opponentSlug": "277363-dylan-smerillo",
+      "result": "win",
+      "method": "sub",
+      "event": "A-Town Throwdown 18",
+      "eventSlug": "88579-a-town-throwdown-18",
+      "round": 2,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2022-05-20T00:00:00.000Z",
+      "opponent": "Kelton Sneve",
+      "opponentSlug": "213615-kelton-sneve",
+      "result": "loss",
+      "method": "other",
+      "event": "FAC 14",
+      "eventSlug": "88127-fac-14",
+      "round": 2,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2021-12-10T00:00:00.000Z",
+      "opponent": "Gunner Charbonneau",
+      "opponentSlug": "309826-gunner-charbonneau",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 120: Cantuária vs. Horth",
+      "eventSlug": "84181-lfa-120-cantuaria-vs-horth",
+      "round": 2,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2021-09-24T00:00:00.000Z",
+      "opponent": "Andy Foss",
+      "opponentSlug": "152534-andrew-foss",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 115: Silveira vs. Cummins",
+      "eventSlug": "82167-lfa-115-silveira-vs-cummins",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-03-07T00:00:00.000Z",
+      "opponent": "Alex Zapata",
+      "opponentSlug": "257012-alex-zapata",
+      "result": "win",
+      "method": "sub",
+      "event": "A-Town Throwdown 16",
+      "eventSlug": "65315-a-town-throwdown-16",
+      "round": 1,
+      "timeInRound": "2:30"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:41:50.571Z"
+}

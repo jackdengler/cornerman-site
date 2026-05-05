@@ -1,0 +1,209 @@
+{
+  "slug": "103506-sean-woodson",
+  "name": "Sean Woodson",
+  "nickname": "The Sniper",
+  "aliases": [],
+  "recordPro": {
+    "wins": 13,
+    "losses": 2,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 189,
+  "reachCm": 198,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1992-06-07",
+  "nationality": "Saint Louis, Missouri, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/103506-sean-woodson",
+  "recentFights": [
+    {
+      "date": "2025-04-12T00:00:00.000Z",
+      "opponent": "Dan Ige",
+      "opponentSlug": "21178-dan-ige",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 314: Volkanovski vs. Lopes",
+      "eventSlug": "122989-ufc-314",
+      "round": 3,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2024-12-14T00:00:00.000Z",
+      "opponent": "Fernando Padilla",
+      "opponentSlug": "98371-fernando-padilla",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "116905-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "4:58"
+    },
+    {
+      "date": "2024-05-11T00:00:00.000Z",
+      "opponent": "Alex Caceres",
+      "opponentSlug": "alex-caceres-bruce-leroy",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "110365-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-01-20T00:00:00.000Z",
+      "opponent": "Charles Jourdain",
+      "opponentSlug": "36724-charles-jourdain",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC 297: Strickland vs. Du Plessis",
+      "eventSlug": "105840-ufc-297",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-05T00:00:00.000Z",
+      "opponent": "Dennis Buzukja",
+      "opponentSlug": "131561-dennis-buzukia",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "101342-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-20T00:00:00.000Z",
+      "opponent": "Luis Saldaña",
+      "opponentSlug": "20577-luis-saldana",
+      "result": "draw",
+      "method": "dec-split",
+      "event": "UFC 278: Usman vs. Edwards 2",
+      "eventSlug": "89354-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-13T00:00:00.000Z",
+      "opponent": "Collin Anglin",
+      "opponentSlug": "119395-collin-anglin",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "81601-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "4:30"
+    },
+    {
+      "date": "2021-06-05T00:00:00.000Z",
+      "opponent": "Youssef Zalal",
+      "opponentSlug": "110826-youssef-zalaal",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "77692-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-06-27T00:00:00.000Z",
+      "opponent": "Julian Erosa",
+      "opponentSlug": "18497-julian-erosa",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "67596-ufc-on-espn",
+      "round": 3,
+      "timeInRound": "2:44"
+    },
+    {
+      "date": "2019-10-18T00:00:00.000Z",
+      "opponent": "Kyle Bochniak",
+      "opponentSlug": "17484-kyle-bochniak",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC on ESPN 6",
+      "eventSlug": "60320-ufc-on-espn-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-23T00:00:00.000Z",
+      "opponent": "Terrance McKinney",
+      "opponentSlug": "126382-terrance-mckinney",
+      "result": "win",
+      "method": "other",
+      "event": "Contender Series 2019",
+      "eventSlug": "59498-dw-s-contender-series-2019-week-6",
+      "round": 2,
+      "timeInRound": "1:49"
+    },
+    {
+      "date": "2018-11-02T00:00:00.000Z",
+      "opponent": "Rashard Lovelace",
+      "opponentSlug": "91351-rashad-loveless",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shamrock FC 311",
+      "eventSlug": "54890-shamrock-fc-311",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-22T00:00:00.000Z",
+      "opponent": "Seth Basler",
+      "opponentSlug": "64283-seth-basler",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shamrock FC 295",
+      "eventSlug": "47083-shamrock-fc-295",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-02T00:00:00.000Z",
+      "opponent": "Rashard Lovelace",
+      "opponentSlug": "91351-rashad-loveless",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shamrock FC 290",
+      "eventSlug": "45460-shamrock-fc-290",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-01-28T00:00:00.000Z",
+      "opponent": "Coltin Cole",
+      "opponentSlug": "coltin-cole-the-truth",
+      "result": "win",
+      "method": "other",
+      "event": "Shamrock FC 283",
+      "eventSlug": "43658-shamrock-fc-283",
+      "round": 1,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2016-09-30T00:00:00.000Z",
+      "opponent": "Kevin Brown Jr.",
+      "opponentSlug": "112792-kevin-brown-jr",
+      "result": "win",
+      "method": "sub",
+      "event": "RFA 44: Moisés vs. Freeman",
+      "eventSlug": "41285-rfa-44-moiss-vs-freeman",
+      "round": 1,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2013-01-25T00:00:00.000Z",
+      "opponent": "Daniel McClendon",
+      "opponentSlug": "75027-daniel-mcclendon-red",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:06:26.680Z"
+}

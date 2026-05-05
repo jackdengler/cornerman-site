@@ -1,0 +1,198 @@
+{
+  "slug": "65061-daniel-willycat",
+  "name": "Daniel Santos",
+  "nickname": "Willycat",
+  "aliases": [],
+  "recordPro": {
+    "wins": 13,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 170,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1995-03-12",
+  "nationality": "Uberlandia, Minas Gerais, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/65061-daniel-willycat",
+  "recentFights": [
+    {
+      "date": "2026-05-16T00:00:00.000Z",
+      "opponent": "Doo Ho Choi",
+      "opponentSlug": "doo-ho-choi",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "140458-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-04T00:00:00.000Z",
+      "opponent": "Joo Sang Yoo",
+      "opponentSlug": "157789-joo-sang-yoo",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 320: Ankalaev vs. Pereira 2",
+      "eventSlug": "129311-ufc-320",
+      "round": 2,
+      "timeInRound": "0:21"
+    },
+    {
+      "date": "2025-05-10T00:00:00.000Z",
+      "opponent": "Jeong Yeong Lee",
+      "opponentSlug": "51443-jeong-young-lee",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 315: Muhammad vs. Della Maddalena",
+      "eventSlug": "123873-ufc-315",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-03T00:00:00.000Z",
+      "opponent": "Johnny Munoz Jr.",
+      "opponentSlug": "79600-john-munoz-jr",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "99119-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-10-01T00:00:00.000Z",
+      "opponent": "John Castañeda",
+      "opponentSlug": "20125-john-castaneda",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "89894-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "4:28"
+    },
+    {
+      "date": "2022-04-09T00:00:00.000Z",
+      "opponent": "Julio Arce",
+      "opponentSlug": "30552-julio-arce",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 273",
+      "eventSlug": "85306-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-14T00:00:00.000Z",
+      "opponent": "Nizambek Abdrashitov",
+      "opponentSlug": "100445-zhunus-uulu-nizambek",
+      "result": "win",
+      "method": "sub",
+      "event": "Brave CF 32",
+      "eventSlug": "64549-brave-cf-32",
+      "round": 1,
+      "timeInRound": "2:37"
+    },
+    {
+      "date": "2019-06-28T00:00:00.000Z",
+      "opponent": "Henrique Fantini",
+      "opponentSlug": "162754-henrique-fantini-budista",
+      "result": "win",
+      "method": "other",
+      "event": "Future FC 6",
+      "eventSlug": "59821-future-fc-6-panico-vs-marretinha",
+      "round": 1,
+      "timeInRound": "2:21"
+    },
+    {
+      "date": "2019-01-26T00:00:00.000Z",
+      "opponent": "Murad Kalamov",
+      "opponentSlug": "71914-murad-kalamov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ACA 91",
+      "eventSlug": "57053-aca-91",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-02-16T00:00:00.000Z",
+      "opponent": "Dukvakha Astamirov",
+      "opponentSlug": "71767-dukvaha-astamirov",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "ACB 80: Burrell vs. Tumenov",
+      "eventSlug": "49409-acb-80-tumenov-vs-berkhamov",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-11T00:00:00.000Z",
+      "opponent": "Cleverson Silva",
+      "opponentSlug": "105428-cleverson-silva-carrilho",
+      "result": "win",
+      "method": "other",
+      "event": "Fighten 3",
+      "eventSlug": "41290-fighten-3",
+      "round": 1,
+      "timeInRound": "3:10"
+    },
+    {
+      "date": "2016-04-02T00:00:00.000Z",
+      "opponent": "José Alexandre",
+      "opponentSlug": "50742-jos-alexandre-z-reborn",
+      "result": "win",
+      "method": "other",
+      "event": "Thunder Fight 6",
+      "eventSlug": "38259-thunder-fight-6",
+      "round": 3,
+      "timeInRound": "3:30"
+    },
+    {
+      "date": "2015-08-22T00:00:00.000Z",
+      "opponent": "Irwing Machado",
+      "opponentSlug": "36295-irwing-machado-king-kong",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fighten 2",
+      "eventSlug": "34556-fighten-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-30T00:00:00.000Z",
+      "opponent": "Ary dos Santos",
+      "opponentSlug": "155521-ary-dos-santos",
+      "result": "win",
+      "method": "other",
+      "event": null,
+      "eventSlug": null,
+      "round": 3,
+      "timeInRound": "2:42"
+    },
+    {
+      "date": "2014-03-30T00:00:00.000Z",
+      "opponent": "Mauro dos Santos",
+      "opponentSlug": "59638-mauro-dos-santos-pedra",
+      "result": "win",
+      "method": "other",
+      "event": "Fatality Arena 6",
+      "eventSlug": "23103-fatality-arena-7",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-08-17T00:00:00.000Z",
+      "opponent": "Caio Forastieri",
+      "opponentSlug": "65064-caio-forastieri-formiga-atomica",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:02:41.187Z"
+}

@@ -1,0 +1,134 @@
+{
+  "slug": "142334-sam-flint",
+  "name": "Sam Flint",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/142334-sam-flint",
+  "recentFights": [
+    {
+      "date": "2020-12-12T00:00:00.000Z",
+      "opponent": "Tom Nolan",
+      "opponentSlug": "145210-tom-nolan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "XFC 46: State Of Origin",
+      "eventSlug": "73764-xfc-46",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-01T00:00:00.000Z",
+      "opponent": "Dimps Gillies",
+      "opponentSlug": "140176-dimps-gillies",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 49",
+      "eventSlug": "63375-eternal-mma-49",
+      "round": 1,
+      "timeInRound": "4:22"
+    },
+    {
+      "date": "2019-09-07T00:00:00.000Z",
+      "opponent": "David Martinez",
+      "opponentSlug": "61637-david-russell",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Coastal Combat 6",
+      "eventSlug": "60757-coastal-combat-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-24T00:00:00.000Z",
+      "opponent": "Anthony Barbuto",
+      "opponentSlug": "145213-anthony-barbuto",
+      "result": "win",
+      "method": "sub",
+      "event": "XFC 41",
+      "eventSlug": "56683-xfc-41",
+      "round": 2,
+      "timeInRound": "4:14"
+    },
+    {
+      "date": "2019-03-02T00:00:00.000Z",
+      "opponent": "Mirko Nuotatore",
+      "opponentSlug": "101837-mirko-nuotatore",
+      "result": "win",
+      "method": "tko",
+      "event": "XFC 39: Undisputed",
+      "eventSlug": "56681-xfc-39",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "allFights": [
+    {
+      "date": "2020-12-12T00:00:00.000Z",
+      "opponent": "Tom Nolan",
+      "opponentSlug": "145210-tom-nolan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "XFC 46: State Of Origin",
+      "eventSlug": "73764-xfc-46",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-01T00:00:00.000Z",
+      "opponent": "Dimps Gillies",
+      "opponentSlug": "140176-dimps-gillies",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 49",
+      "eventSlug": "63375-eternal-mma-49",
+      "round": 1,
+      "timeInRound": "4:22"
+    },
+    {
+      "date": "2019-09-07T00:00:00.000Z",
+      "opponent": "David Martinez",
+      "opponentSlug": "61637-david-russell",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Coastal Combat 6",
+      "eventSlug": "60757-coastal-combat-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-24T00:00:00.000Z",
+      "opponent": "Anthony Barbuto",
+      "opponentSlug": "145213-anthony-barbuto",
+      "result": "win",
+      "method": "sub",
+      "event": "XFC 41",
+      "eventSlug": "56683-xfc-41",
+      "round": 2,
+      "timeInRound": "4:14"
+    },
+    {
+      "date": "2019-03-02T00:00:00.000Z",
+      "opponent": "Mirko Nuotatore",
+      "opponentSlug": "101837-mirko-nuotatore",
+      "result": "win",
+      "method": "tko",
+      "event": "XFC 39: Undisputed",
+      "eventSlug": "56681-xfc-39",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-05-03T10:17:24.887Z"
+}

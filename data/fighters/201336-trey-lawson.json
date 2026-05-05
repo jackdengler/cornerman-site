@@ -1,0 +1,125 @@
+{
+  "slug": "201336-trey-lawson",
+  "name": "Trevon Lawson",
+  "nickname": "The Last Shinobi",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 5,
+    "losses": 4,
+    "draws": 0
+  },
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1996-07-20T00:00:00.000Z",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/201336-trey-lawson",
+  "recentFights": [
+    {
+      "date": "2023-02-24T00:00:00.000Z",
+      "opponent": "Kelton Sneve",
+      "opponentSlug": "213615-kelton-sneve",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Compass Fight Series 2",
+      "eventSlug": "95397-compass-fight-series-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-19T00:00:00.000Z",
+      "opponent": "Steve Collins",
+      "opponentSlug": "307378-steve-collins",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Brawl @ Bourbon Street 5",
+      "eventSlug": "85331-ignite-fights-brawl-at-bourbon-street-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-10T00:00:00.000Z",
+      "opponent": "Sean Murphy",
+      "opponentSlug": "303324-sean-murphy",
+      "result": "loss",
+      "method": "sub",
+      "event": "Total Fight Challenge",
+      "eventSlug": "90228-total-fight-challenge",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-11T00:00:00.000Z",
+      "opponent": "Rafael Ramos",
+      "opponentSlug": "148414-rafael-ramos",
+      "result": "win",
+      "method": "other",
+      "event": "Total Fight Challenge",
+      "eventSlug": "88625-total-fight-challenge",
+      "round": 1,
+      "timeInRound": "1:21"
+    },
+    {
+      "date": "2021-12-17T00:00:00.000Z",
+      "opponent": "Linzy Hudson",
+      "opponentSlug": "287848-linzy-hudson",
+      "result": "win",
+      "method": "other",
+      "event": "Brawl @ Bourbon Street 2",
+      "eventSlug": "82490-ignite-fights-brawl-bourbon-street-ii",
+      "round": 3,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2019-11-22T00:00:00.000Z",
+      "opponent": "Michael Anderson",
+      "opponentSlug": "191761-michael-anderson",
+      "result": "loss",
+      "method": "other",
+      "event": "United Combat League 33",
+      "eventSlug": "62845-united-combat-league-33",
+      "round": 2,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2019-09-14T00:00:00.000Z",
+      "opponent": "Colton Parks",
+      "opponentSlug": "138163-colton-parks",
+      "result": "loss",
+      "method": "sub",
+      "event": "Colosseum Combat 50",
+      "eventSlug": "61429-colosseum-combat-50",
+      "round": 2,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2019-07-12T00:00:00.000Z",
+      "opponent": "Derric Artis",
+      "opponentSlug": "228443-derek-artis",
+      "result": "win",
+      "method": "sub",
+      "event": "Total Fight Challenge",
+      "eventSlug": "60668-total-fight-challenge",
+      "round": 1,
+      "timeInRound": "1:03"
+    },
+    {
+      "date": "2018-11-16T00:00:00.000Z",
+      "opponent": "Corey Felker",
+      "opponentSlug": "201335-corey-felker",
+      "result": "win",
+      "method": "other",
+      "event": "United Combat League",
+      "eventSlug": "55971-united-combat-league-brawl-at-bourbon-street",
+      "round": 2,
+      "timeInRound": "1:42"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:39:51.127Z"
+}

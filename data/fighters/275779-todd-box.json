@@ -1,0 +1,132 @@
+{
+  "slug": "275779-todd-box",
+  "name": "Todd Box",
+  "nickname": "Bipolar Beast",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1993-05-04",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/275779-todd-box",
+  "recentFights": [
+    {
+      "date": "2025-04-11T00:00:00.000Z",
+      "opponent": "Noah Gasho",
+      "opponentSlug": "348174-noah-gasho",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 206: Gennrich vs. Lebosnoyani",
+      "eventSlug": "124520-lfa-206",
+      "round": 1,
+      "timeInRound": "0:51"
+    },
+    {
+      "date": "2024-03-16T00:00:00.000Z",
+      "opponent": "James Haley",
+      "opponentSlug": "201792-james-haley",
+      "result": "win",
+      "method": "other",
+      "event": "SCS: Renegade Rumble 7",
+      "eventSlug": "109906-scs-renegade-rumble",
+      "round": 2,
+      "timeInRound": "1:55"
+    },
+    {
+      "date": "2022-11-19T00:00:00.000Z",
+      "opponent": "T.J. Arthur",
+      "opponentSlug": "314274-thomas-arthur",
+      "result": "win",
+      "method": "other",
+      "event": "ECC Cage Fighting",
+      "eventSlug": "94953-ecc-cage-fighting-cage-wars-3",
+      "round": 1,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2022-04-01T00:00:00.000Z",
+      "opponent": "Joshua Delgadillo",
+      "opponentSlug": "231785-josh-delgadillo",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "SCS: Renegade Rumble",
+      "eventSlug": "86947-scs-renegade-rumble",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-12T00:00:00.000Z",
+      "opponent": "Jacob Perez",
+      "opponentSlug": "254010-jacob-perez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "AFC 9: War of the Roses",
+      "eventSlug": "84071-afc-9-war-of-the-roses",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-20T00:00:00.000Z",
+      "opponent": "Jake Tewart",
+      "opponentSlug": "273498-jake-tewart",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Premier MMA Championship 17",
+      "eventSlug": "81930-premier-mma-championship-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-09T00:00:00.000Z",
+      "opponent": "Brandon Swaney",
+      "opponentSlug": "172261-brandon-swaney",
+      "result": "win",
+      "method": "sub",
+      "event": "Rivers Rumble 11",
+      "eventSlug": "81847-rivers-rumble-xi",
+      "round": 3,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2021-07-03T00:00:00.000Z",
+      "opponent": "Mark Grey",
+      "opponentSlug": "287923-mark-grey",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "CFFC 98: Cutts vs. Lainesse",
+      "eventSlug": "79658-cffc-98-cutts-vs-lainesse",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-10T00:00:00.000Z",
+      "opponent": "Dorian Stovall",
+      "opponentSlug": "288654-dorian-stovall",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Premier MMA Championship 16",
+      "eventSlug": "75086-premier-mma-championship-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-01-23T00:00:00.000Z",
+      "opponent": "Austin Kingsland",
+      "opponentSlug": "282490-austin-kingsland",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Premier MMA Championship 15",
+      "eventSlug": "68630-premier-mma-championship-15",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:42:31.103Z"
+}

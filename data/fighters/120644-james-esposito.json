@@ -1,0 +1,88 @@
+{
+  "slug": "120644-james-esposito",
+  "name": "James Esposito",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/120644-james-esposito",
+  "recentFights": [
+    {
+      "date": "2017-09-23T00:00:00.000Z",
+      "opponent": "Nick Wayne",
+      "opponentSlug": "16436-nick-wayne",
+      "result": "loss",
+      "method": "sub",
+      "event": "United Combat League",
+      "eventSlug": "47104-united-combat-league-havoc-in-hammond-4",
+      "round": 1,
+      "timeInRound": "2:44"
+    },
+    {
+      "date": "2017-03-31T00:00:00.000Z",
+      "opponent": "Asef Askar",
+      "opponentSlug": "79465-asef-askar",
+      "result": "loss",
+      "method": "sub",
+      "event": "Bellator 175",
+      "eventSlug": "43920-bellator-175-rampage-vs-king-mo-2",
+      "round": 1,
+      "timeInRound": "3:06"
+    },
+    {
+      "date": "2016-12-02T00:00:00.000Z",
+      "opponent": "Maximillian Fuentes",
+      "opponentSlug": "60561-maximillian-fuentes",
+      "result": "loss",
+      "method": "other",
+      "event": "XFO 59",
+      "eventSlug": "42457-xfo-59",
+      "round": 1,
+      "timeInRound": "2:49"
+    },
+    {
+      "date": "2016-08-06T00:00:00.000Z",
+      "opponent": "Joe Allen",
+      "opponentSlug": "67963-joe-allen",
+      "result": "win",
+      "method": "tko",
+      "event": "XFO 59: Outdoor War 12",
+      "eventSlug": "40369-xfo-59",
+      "round": 1,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2016-03-19T00:00:00.000Z",
+      "opponent": "Montel Jackson",
+      "opponentSlug": "89335-montel-jackson",
+      "result": "loss",
+      "method": "sub",
+      "event": "Inner Strength MMA 4",
+      "eventSlug": "38701-inner-strength-mma-4-rising-stars-collide",
+      "round": 1,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2015-11-20T00:00:00.000Z",
+      "opponent": "Deonta Johnson",
+      "opponentSlug": "66222-deonta-johnson",
+      "result": "win",
+      "method": "sub",
+      "event": "MoreMMA Classic 7",
+      "eventSlug": "34722-more-mma-classic-7",
+      "round": 1,
+      "timeInRound": "0:43"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:38:02.010Z"
+}

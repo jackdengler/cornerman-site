@@ -1,0 +1,136 @@
+{
+  "slug": "168892-shawn-moffett",
+  "name": "Shawn Moffett",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 5,
+    "losses": 5,
+    "draws": 0
+  },
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/168892-shawn-moffett",
+  "recentFights": [
+    {
+      "date": "2020-02-22T00:00:00.000Z",
+      "opponent": "Gauge Young",
+      "opponentSlug": "213571-gauge-young",
+      "result": "loss",
+      "method": "sub",
+      "event": "FAC 2",
+      "eventSlug": "65336-fac-2",
+      "round": 2,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2019-09-13T00:00:00.000Z",
+      "opponent": "Devin Mayes",
+      "opponentSlug": "195583-devin-mayes",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 76: Ogden vs. Browne",
+      "eventSlug": "62330-lfa-76-ogden-vs-browne",
+      "round": 1,
+      "timeInRound": "2:16"
+    },
+    {
+      "date": "2019-04-13T00:00:00.000Z",
+      "opponent": "Clifford Easiley",
+      "opponentSlug": "158659-clifford-easiley",
+      "result": "win",
+      "method": "other",
+      "event": "EFC 11",
+      "eventSlug": "58289-efc-11",
+      "round": 2,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2019-03-23T00:00:00.000Z",
+      "opponent": "Carlos Calderon",
+      "opponentSlug": "149398-carlos-calderon",
+      "result": "loss",
+      "method": "sub",
+      "event": "Conquest Promotions",
+      "eventSlug": "58215-conquest-promotions-throwdown-at-the-gateway",
+      "round": 1,
+      "timeInRound": "1:03"
+    },
+    {
+      "date": "2018-10-20T00:00:00.000Z",
+      "opponent": "Brian Eastman",
+      "opponentSlug": "185270-brian-eastman",
+      "result": "win",
+      "method": "sub",
+      "event": "Conquest Promotions",
+      "eventSlug": "54806-conquest-promotions-o-town-throwdown-at-the-gateway",
+      "round": 1,
+      "timeInRound": "2:17"
+    },
+    {
+      "date": "2018-09-15T00:00:00.000Z",
+      "opponent": "Marshal Kemp",
+      "opponentSlug": "100982-marshall-kemp",
+      "result": "loss",
+      "method": "sub",
+      "event": "Walkout FC 12",
+      "eventSlug": "54533-walkout-fc-12-battle-at-the-crossing",
+      "round": 1,
+      "timeInRound": "1:03"
+    },
+    {
+      "date": "2018-05-19T00:00:00.000Z",
+      "opponent": "Bron Greenfeather",
+      "opponentSlug": "114636-bron-greenfeather",
+      "result": "win",
+      "method": "sub",
+      "event": "Organized Chaos 14",
+      "eventSlug": "50175-organized-chaos-14",
+      "round": 1,
+      "timeInRound": "0:47"
+    },
+    {
+      "date": "2018-04-28T00:00:00.000Z",
+      "opponent": "Edgar Cruz",
+      "opponentSlug": "177953-edgar-cruz",
+      "result": "win",
+      "method": "sub",
+      "event": "RCWC: Battle on Boot Hill 2",
+      "eventSlug": "51996-rcwc-battle-on-boot-hill-2",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2018-03-10T00:00:00.000Z",
+      "opponent": "Sean Arvelo",
+      "opponentSlug": "163141-sean-arvelo",
+      "result": "win",
+      "method": "sub",
+      "event": "Conquest Promotions",
+      "eventSlug": "50330-conquest-promotions",
+      "round": 1,
+      "timeInRound": "0:58"
+    },
+    {
+      "date": "2017-09-30T00:00:00.000Z",
+      "opponent": "Tim Grammon",
+      "opponentSlug": "124082-tim-grammon",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Conquest Promotions",
+      "eventSlug": "47410-conquest-promotions-battle-between-the-rivers",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:12:31.380Z"
+}

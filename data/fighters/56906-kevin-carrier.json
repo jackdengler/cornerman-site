@@ -1,0 +1,220 @@
+{
+  "slug": "56906-kevin-carrier",
+  "name": "Kevin Carrier",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": 188,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1992-07-13",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/56906-kevin-carrier",
+  "recentFights": [
+    {
+      "date": "2026-05-22T00:00:00.000Z",
+      "opponent": "Zaki Mohsin",
+      "opponentSlug": "282723-zaki-mohsin",
+      "result": null,
+      "method": "other",
+      "event": "LFA 233: Piersma vs. Camillo",
+      "eventSlug": "142025-lfa-233-piersma-vs-camilo",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-21T00:00:00.000Z",
+      "opponent": "Kelton Sneve",
+      "opponentSlug": "213615-kelton-sneve",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 223: Francischinelli vs. Piersma",
+      "eventSlug": "133540-lfa-223",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-06-20T00:00:00.000Z",
+      "opponent": "Dey McIntosh",
+      "opponentSlug": "322470-dey-mcintosh",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 211: Mesquita vs. Dinwoodie",
+      "eventSlug": "126693-lfa-211",
+      "round": 3,
+      "timeInRound": "4:34"
+    },
+    {
+      "date": "2025-03-22T00:00:00.000Z",
+      "opponent": "Kyle Pufahl",
+      "opponentSlug": "287724-kyle-pufahl",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 204: Cunha vs. Freeman",
+      "eventSlug": "123068-lfa-204",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-10-18T00:00:00.000Z",
+      "opponent": "Carlo Ricci",
+      "opponentSlug": "191708-carlo-ricci",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 194: Magomedov vs. Leyva",
+      "eventSlug": "117126-lfa-194-magomedov-vs-leyva",
+      "round": 2,
+      "timeInRound": "1:56"
+    },
+    {
+      "date": "2024-05-18T00:00:00.000Z",
+      "opponent": "Ricky Sylvester",
+      "opponentSlug": "42299-ricky-sylvester",
+      "result": "win",
+      "method": "tko",
+      "event": "Combat Zone 84",
+      "eventSlug": "112227-combat-zone-84",
+      "round": 1,
+      "timeInRound": "4:27"
+    },
+    {
+      "date": "2017-10-20T00:00:00.000Z",
+      "opponent": "Jose Perez",
+      "opponentSlug": "142081-jose-antonio-perez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bellator 185",
+      "eventSlug": "46967-bellator-184",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-28T00:00:00.000Z",
+      "opponent": "Vince Ciotoli",
+      "opponentSlug": "41918-vince-ciotoli",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Gladius Fights 21",
+      "eventSlug": "39039-gladius-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-03-19T00:00:00.000Z",
+      "opponent": "Chris Torres",
+      "opponentSlug": "84596-christopher-torres",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Gladius Fights 20",
+      "eventSlug": "38300-gladius-20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-14T00:00:00.000Z",
+      "opponent": "Robert Best",
+      "opponentSlug": "21352-robert-best",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Gladius Fights 19",
+      "eventSlug": "35889-gladius-fights-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-26T00:00:00.000Z",
+      "opponent": "Bobby Aylward",
+      "opponentSlug": "42449-bobby-aylward",
+      "result": "win",
+      "method": "tko",
+      "event": "Gladius Fights 18",
+      "eventSlug": "34184-gladius-fights-18",
+      "round": 1,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2015-08-15T00:00:00.000Z",
+      "opponent": "Marcus Ellis",
+      "opponentSlug": "49580-marcus-ellis",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Gladius Fights 17",
+      "eventSlug": "33080-gladius-fights-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-06-13T00:00:00.000Z",
+      "opponent": "Dylan Lockard",
+      "opponentSlug": "73083-dylan-lockard",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "East Coast FC 1",
+      "eventSlug": "23925-ecfc-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-04-26T00:00:00.000Z",
+      "opponent": "Mike Bennett",
+      "opponentSlug": "42063-mike-bennett",
+      "result": "win",
+      "method": "tko",
+      "event": "Gladius Fights 11",
+      "eventSlug": "23400-gladius-fights-11",
+      "round": 1,
+      "timeInRound": "2:16"
+    },
+    {
+      "date": "2014-03-08T00:00:00.000Z",
+      "opponent": "Benjamin Davila",
+      "opponentSlug": "36995-benjamin-davila",
+      "result": "loss",
+      "method": "tko",
+      "event": "Gladius Fights 10",
+      "eventSlug": "22054-gladius-10",
+      "round": 1,
+      "timeInRound": "0:13"
+    },
+    {
+      "date": "2014-01-18T00:00:00.000Z",
+      "opponent": "Josh Taylor",
+      "opponentSlug": "60904-josh-taylor",
+      "result": "win",
+      "method": "sub",
+      "event": "Gladius Fights 9",
+      "eventSlug": "20873-gladius-fights-9",
+      "round": 2,
+      "timeInRound": "1:19"
+    },
+    {
+      "date": "2013-12-07T00:00:00.000Z",
+      "opponent": "Corey Kenerson",
+      "opponentSlug": "49637-corey-kennerson",
+      "result": "win",
+      "method": "tko",
+      "event": "Gladius Fights 8",
+      "eventSlug": "20872-gladius-fights-8",
+      "round": 1,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2013-10-19T00:00:00.000Z",
+      "opponent": "Dan Carley",
+      "opponentSlug": "56905-dan-carley",
+      "result": "loss",
+      "method": "dec-majority",
+      "event": "Art of Combat SC 5",
+      "eventSlug": "19960-art-of-combat-5",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:41:37.520Z"
+}

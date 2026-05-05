@@ -1,0 +1,253 @@
+{
+  "slug": "kenny-robertson",
+  "name": "Kenny Robertson",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 15,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": 188,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1984-02-14",
+  "nationality": "East Peoria, Illinois, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/kenny-robertson",
+  "recentFights": [
+    {
+      "date": "2021-07-30T00:00:00.000Z",
+      "opponent": "Chris Curtis",
+      "opponentSlug": "14863-christopher-curtis-the-action-man",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "XMMA 2: Saunders vs. Nijem",
+      "eventSlug": "79687-xmma-2x",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-27T00:00:00.000Z",
+      "opponent": "Dante Schiro",
+      "opponentSlug": "109429-dante-schiro",
+      "result": "loss",
+      "method": "other",
+      "event": "Caged Aggression 30",
+      "eventSlug": "76433-caged-aggression-30-triple-threat-day-3",
+      "round": 2,
+      "timeInRound": "3:48"
+    },
+    {
+      "date": "2016-09-17T00:00:00.000Z",
+      "opponent": "Roan Carneiro",
+      "opponentSlug": "roan-carneiro-jucao",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC Fight Night 94",
+      "eventSlug": "40816-ufc-fight-night-94",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-07-25T00:00:00.000Z",
+      "opponent": "Ben Saunders",
+      "opponentSlug": "ben-saunders-killa-b",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC on FOX 16",
+      "eventSlug": "29323-ufc-on-fox-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-01-24T00:00:00.000Z",
+      "opponent": "Sultan Aliev",
+      "opponentSlug": "30449-sultan-aliev",
+      "result": "win",
+      "method": "other",
+      "event": "UFC on FOX 14",
+      "eventSlug": "27583-ufc-on-fox-14-gustafsson-vs-evans",
+      "round": 1,
+      "timeInRound": "2:42"
+    },
+    {
+      "date": "2014-07-05T00:00:00.000Z",
+      "opponent": "Ildemar Alcântara",
+      "opponentSlug": "4391-idemar-queixinho",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 175: Weidman vs. Machida",
+      "eventSlug": "23324-ufc-175",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-23T00:00:00.000Z",
+      "opponent": "Thiago Perpétuo",
+      "opponentSlug": "29477-thiago-perpetuo-bodao",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night 38",
+      "eventSlug": "22108-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2013-06-15T00:00:00.000Z",
+      "opponent": "Sean Pierson",
+      "opponentSlug": "sean-pierson",
+      "result": "loss",
+      "method": "dec-majority",
+      "event": "UFC 161: Evans vs. Henderson",
+      "eventSlug": "17939-ufc-161",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-02-23T00:00:00.000Z",
+      "opponent": "Brock Jardine",
+      "opponentSlug": "4218-brock-jardine-the-machine",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 157: Rousey vs. Carmouche",
+      "eventSlug": "16791-ufc-157",
+      "round": 1,
+      "timeInRound": "2:57"
+    },
+    {
+      "date": "2012-07-11T00:00:00.000Z",
+      "opponent": "Aaron Simpson",
+      "opponentSlug": "aaron-simpson-a-train",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC on FUEL TV 4",
+      "eventSlug": "13665-ufc-on-fuel-tv-4-munoz-vs-weidman",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-10-01T00:00:00.000Z",
+      "opponent": "Lucio Linhares",
+      "opponentSlug": "lucio-linhares-spartan",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-02-05T00:00:00.000Z",
+      "opponent": "Mike Pierce",
+      "opponentSlug": "mike-pierce",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 126: Silva vs. Belfort",
+      "eventSlug": "ufc-126-silva-vs-belfort",
+      "round": 2,
+      "timeInRound": "0:29"
+    },
+    {
+      "date": "2010-08-19T00:00:00.000Z",
+      "opponent": "John Kolosci",
+      "opponentSlug": "john-kolosci",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 25",
+      "eventSlug": "bellator-25",
+      "round": 2,
+      "timeInRound": "2:41"
+    },
+    {
+      "date": "2010-04-30T00:00:00.000Z",
+      "opponent": "Igor Almeida",
+      "opponentSlug": "igor-almeida-the-legend",
+      "result": "win",
+      "method": "other",
+      "event": "MAXX FC 8: Ocho",
+      "eventSlug": "7471-maxx-fc-8-ocho",
+      "round": 2,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2009-05-02T00:00:00.000Z",
+      "opponent": "Gerald Meerschaert",
+      "opponentSlug": "6018-gerald-meerschaert-the-machine",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-11-22T00:00:00.000Z",
+      "opponent": "LeVon Maynard",
+      "opponentSlug": "levon-maynard-da-maynman",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-08-09T00:00:00.000Z",
+      "opponent": "Roy Timmons",
+      "opponentSlug": "10794-roy-timmons",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-05-30T00:00:00.000Z",
+      "opponent": "Herbert Goodman",
+      "opponentSlug": "herbert-goodman-whisper",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-05-03T00:00:00.000Z",
+      "opponent": "Brady Gillian",
+      "opponentSlug": "10795-brady-gillian",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-04-26T00:00:00.000Z",
+      "opponent": "AJ Skiba",
+      "opponentSlug": "10796-aj-skiba",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-03-22T00:00:00.000Z",
+      "opponent": "Jay Finnegan",
+      "opponentSlug": "4882-jay-finnegan",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:16:03.347Z"
+}

@@ -1,0 +1,132 @@
+{
+  "slug": "348174-noah-gasho",
+  "name": "Noah Gasho",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "2002-05-14",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/348174-noah-gasho",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "Miljan Djukanovic",
+      "opponentSlug": "272784-miljan-djukanovic",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 231: Lozej vs. Ibarra",
+      "eventSlug": "140675-lfa-231-trembley-vs-johns",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-01-16T00:00:00.000Z",
+      "opponent": "David McKinney",
+      "opponentSlug": "86702-david-mckinney",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 224: Adams vs Bilalov",
+      "eventSlug": "137873-legacy-fighting-alliance-224-lfa-224",
+      "round": 2,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2025-11-29T00:00:00.000Z",
+      "opponent": "Jene Zarbano",
+      "opponentSlug": "226821-jene-zarbano",
+      "result": "win",
+      "method": "other",
+      "event": "North Iowa Fights 22",
+      "eventSlug": "135266-north-iowa-fights-22",
+      "round": 2,
+      "timeInRound": "3:24"
+    },
+    {
+      "date": "2025-04-11T00:00:00.000Z",
+      "opponent": "Todd Box",
+      "opponentSlug": "275779-todd-box",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 206: Gennrich vs. Lebosnoyani",
+      "eventSlug": "124520-lfa-206",
+      "round": 1,
+      "timeInRound": "0:51"
+    },
+    {
+      "date": "2024-11-02T00:00:00.000Z",
+      "opponent": "Anteze Howard",
+      "opponentSlug": "257011-anteze-howard",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Mecca 23",
+      "eventSlug": "112724-mecca-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-29T00:00:00.000Z",
+      "opponent": "Deacon Taylor",
+      "opponentSlug": "396468-deacon-taylor",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Mecca 22",
+      "eventSlug": "110075-mecca-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-02-17T00:00:00.000Z",
+      "opponent": "Jaron Lathrop",
+      "opponentSlug": "287849-jaron-lathrop",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Mecca 21",
+      "eventSlug": "107581-mecca-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-04-21T00:00:00.000Z",
+      "opponent": "Jeffrey Tuley",
+      "opponentSlug": "353203-jeffrey-tuley-whiplash",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 157: Croden vs. Cavalcanti",
+      "eventSlug": "98777-lfa-157-croden-vs-cavalcanti",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-01-13T00:00:00.000Z",
+      "opponent": "Moy Medina",
+      "opponentSlug": "339310-moy-medina",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 150: Farias vs. Sweeney",
+      "eventSlug": "96178-lfa-150-farias-vs-sweeney",
+      "round": 3,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2022-09-16T00:00:00.000Z",
+      "opponent": "Daniel Guadalajara",
+      "opponentSlug": "348173-daniel-guadalajara",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 142: Amorim vs. Nichols",
+      "eventSlug": "92238-lfa-142-amorim-vs-nichols",
+      "round": 1,
+      "timeInRound": "2:47"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:59:53.355Z"
+}

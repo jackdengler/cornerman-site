@@ -1,0 +1,99 @@
+{
+  "slug": "49002-william-carriere",
+  "name": "William Carriere",
+  "nickname": "Berserker",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 191,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1984-09-09",
+  "nationality": "Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/49002-william-carriere",
+  "recentFights": [
+    {
+      "date": "2019-03-15T00:00:00.000Z",
+      "opponent": "Steve MacDonald",
+      "opponentSlug": "177180-steve-macdonald",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "XFFC 21: Locked and Loaded",
+      "eventSlug": "57793-xffc-21-locked-and-loaded",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-08-11T00:00:00.000Z",
+      "opponent": "Brad Robinson",
+      "opponentSlug": "16237-brad-robinson",
+      "result": "win",
+      "method": "other",
+      "event": "XFFC 19",
+      "eventSlug": "52780-xffc-19",
+      "round": 2,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2015-10-09T00:00:00.000Z",
+      "opponent": "Todd Stoute",
+      "opponentSlug": "16978-todd-stoute",
+      "result": "loss",
+      "method": "other",
+      "event": "Xcessive Force FC 7",
+      "eventSlug": "34000-xcessive-force-fc-7-bad-blood",
+      "round": 1,
+      "timeInRound": "1:59"
+    },
+    {
+      "date": "2015-03-20T00:00:00.000Z",
+      "opponent": "Shawn Pauliuk",
+      "opponentSlug": "7702-shawn-pauliuk",
+      "result": "win",
+      "method": "sub",
+      "event": "Xcessive Force FC 6",
+      "eventSlug": "28348-xcessive-force-fc-6",
+      "round": 1,
+      "timeInRound": "0:12"
+    },
+    {
+      "date": "2014-10-24T00:00:00.000Z",
+      "opponent": "Pat Gionette",
+      "opponentSlug": "31125-pat-gionette",
+      "result": "win",
+      "method": "sub",
+      "event": "Xcessive Force FC 5",
+      "eventSlug": "25096-xcessive-force-fc-5",
+      "round": 1,
+      "timeInRound": "0:25"
+    },
+    {
+      "date": "2013-12-14T00:00:00.000Z",
+      "opponent": "Tanner Boser",
+      "opponentSlug": "35149-tanner-boser",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Xcessive Force FC 3",
+      "eventSlug": "19242-xcessive-force-fc-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-07-20T00:00:00.000Z",
+      "opponent": "Aaron Downey",
+      "opponentSlug": "42669-aaron-downey",
+      "result": "win",
+      "method": "other",
+      "event": "Xcessive Force FC 2",
+      "eventSlug": "18503-xcessive-force-fc-2",
+      "round": 2,
+      "timeInRound": "2:22"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:59:28.034Z"
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "62419-bryant-west",
+  "name": "Bryant West",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1998-02-26",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/62419-bryant-west",
+  "recentFights": [
+    {
+      "date": "2017-02-11T00:00:00.000Z",
+      "opponent": "Doug Stapleton",
+      "opponentSlug": "27224-douglas-stapleton",
+      "result": "loss",
+      "method": "sub",
+      "event": "HFC 32",
+      "eventSlug": "43677-hfc-32",
+      "round": 1,
+      "timeInRound": "0:38"
+    },
+    {
+      "date": "2016-04-30T00:00:00.000Z",
+      "opponent": "Mike De La Vega",
+      "opponentSlug": "51082-mike-delaviega",
+      "result": "loss",
+      "method": "sub",
+      "event": "HFC 28: Kraus vs. Kapel",
+      "eventSlug": "38198-hfc-28",
+      "round": 1,
+      "timeInRound": "1:11"
+    },
+    {
+      "date": "2015-02-21T00:00:00.000Z",
+      "opponent": "Joaquin Buckley",
+      "opponentSlug": "55022-joaquin-buckley",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-09-13T00:00:00.000Z",
+      "opponent": "Aaron Highfill",
+      "opponentSlug": "53046-aaron-highfill",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-04-26T00:00:00.000Z",
+      "opponent": "Richard McLean",
+      "opponentSlug": "46176-richard-mclean",
+      "result": "win",
+      "method": "other",
+      "event": "GE Fights 17",
+      "eventSlug": "23290-ge-fights-17-sinister",
+      "round": 1,
+      "timeInRound": "1:01"
+    }
+  ],
+  "lastVerified": "2026-04-25T23:00:24.026Z"
+}

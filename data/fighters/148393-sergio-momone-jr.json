@@ -1,0 +1,114 @@
+{
+  "slug": "148393-sergio-momone-jr",
+  "name": "Sergio Mamone Jr",
+  "nickname": "Kamuela",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 5,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 173,
+  "reachCm": 174,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Hawai'i, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/148393-sergio-momone-jr",
+  "recentFights": [
+    {
+      "date": "2025-01-24T00:00:00.000Z",
+      "opponent": "Morgun Colledge",
+      "opponentSlug": "157821-morgun-colledge",
+      "result": "win",
+      "method": "sub",
+      "event": "Fierce FC 37",
+      "eventSlug": "120491-fierce-fc-37",
+      "round": 1,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2024-06-15T00:00:00.000Z",
+      "opponent": "Layne Dalton",
+      "opponentSlug": "395799-layne-dalton",
+      "result": "nc",
+      "method": "other",
+      "event": "Fierce Challenger Series 10",
+      "eventSlug": "110874-fierce-challenger-series-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-19T00:00:00.000Z",
+      "opponent": "Ammon Garcia",
+      "opponentSlug": "308742-ammon-garcia",
+      "result": "loss",
+      "method": "other",
+      "event": "SteelFist Fight Night",
+      "eventSlug": "99401-steelfist-fight-night",
+      "round": 4,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2023-03-10T00:00:00.000Z",
+      "opponent": "Samuel Medel",
+      "opponentSlug": "269089-samuel-medel",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "SteelFist Fight Night",
+      "eventSlug": "99107-steelfist-fight-night-mayhem",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-30T00:00:00.000Z",
+      "opponent": "Cole Faust",
+      "opponentSlug": "232186-cole-faust",
+      "result": "loss",
+      "method": "sub",
+      "event": "Steelfist Fight Night",
+      "eventSlug": "92483-steeliest-fight-night-rampage",
+      "round": 1,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2020-02-23T00:00:00.000Z",
+      "opponent": "Josiah Lagazo",
+      "opponentSlug": "252719-josiah-lagazo-bj",
+      "result": "win",
+      "method": "other",
+      "event": "Destiny MMA",
+      "eventSlug": "64613-destiny-mma",
+      "round": 3,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2017-05-12T00:00:00.000Z",
+      "opponent": "Ruldolpho Lopez",
+      "opponentSlug": "168358-ruldolpho-lopez",
+      "result": "win",
+      "method": "other",
+      "event": "Just Scrap",
+      "eventSlug": "45810-just-scrap",
+      "round": 1,
+      "timeInRound": "0:25"
+    },
+    {
+      "date": "2017-01-28T00:00:00.000Z",
+      "opponent": "Gaberial Recheluck",
+      "opponentSlug": "148392-gaberial-recheluck",
+      "result": "win",
+      "method": "other",
+      "event": "X-1 World Events 45",
+      "eventSlug": "43895-x-1-live",
+      "round": 1,
+      "timeInRound": "0:14"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:39:17.505Z"
+}

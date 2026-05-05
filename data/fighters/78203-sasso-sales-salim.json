@@ -1,0 +1,77 @@
+{
+  "slug": "78203-sasso-sales-salim",
+  "name": "Sasso Sales",
+  "nickname": "Salim",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/78203-sasso-sales-salim",
+  "recentFights": [
+    {
+      "date": "2017-06-10T00:00:00.000Z",
+      "opponent": "Junior Melo",
+      "opponentSlug": "121289-jose-cleiton-de-melo-junior-melo",
+      "result": "loss",
+      "method": "sub",
+      "event": "Aspera FC 53",
+      "eventSlug": "45118-aspera-fc-53",
+      "round": 1,
+      "timeInRound": "0:48"
+    },
+    {
+      "date": "2016-12-16T00:00:00.000Z",
+      "opponent": "Carlos Heide",
+      "opponentSlug": "7786-cyborg",
+      "result": "win",
+      "method": "other",
+      "event": "1º Round Combat 3",
+      "eventSlug": "43168-1-round-combat-3",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2015-12-06T00:00:00.000Z",
+      "opponent": "Vladson Alves",
+      "opponentSlug": "72272-vladson-gleyci-gerba",
+      "result": "loss",
+      "method": "other",
+      "event": "1° Round Combat",
+      "eventSlug": "35877-1-round-combat",
+      "round": 1,
+      "timeInRound": "3:53"
+    },
+    {
+      "date": "2015-08-14T00:00:00.000Z",
+      "opponent": "Glefeson Gurgel",
+      "opponentSlug": "53066-glefeson-gurgel-gg",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-08-28T00:00:00.000Z",
+      "opponent": "Mariano Bezerra",
+      "opponentSlug": "52821-mariano-bruto",
+      "result": "win",
+      "method": "other",
+      "event": "Extreme Fighter Nordeste",
+      "eventSlug": "26201-extreme-fighter-nordeste-1",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:38:28.184Z"
+}

@@ -1,0 +1,187 @@
+{
+  "slug": "270603-josef-stummer",
+  "name": "Josef Štummer",
+  "nickname": "Air",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 177,
+  "reachCm": 173,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1996-12-28",
+  "nationality": "Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/270603-josef-stummer",
+  "recentFights": [
+    {
+      "date": "2026-02-21T00:00:00.000Z",
+      "opponent": "Michał Domin",
+      "opponentSlug": "157303-micha-domin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KSW 115: Przybysz vs. Yakymenko",
+      "eventSlug": "137484-ksw-115",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-08-09T00:00:00.000Z",
+      "opponent": "Eduard Kexel",
+      "opponentSlug": "242381-eduard-kesel",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KSW 109: Kuberski vs. Paczuski",
+      "eventSlug": "129471-ksw-109",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-02-21T00:00:00.000Z",
+      "opponent": "Nacim Belhouachi",
+      "opponentSlug": "158538-nacim-belhaou",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 103: Brichta vs. Charzewski",
+      "eventSlug": "119218-ksw-103",
+      "round": 1,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2024-10-19T00:00:00.000Z",
+      "opponent": "Wojciech Kazieczko",
+      "opponentSlug": "126160-wojciech-kazieczko",
+      "result": "loss",
+      "method": "other",
+      "event": "KSW 99: Martínek vs. Vojčák",
+      "eventSlug": "116516-ksw-99",
+      "round": 3,
+      "timeInRound": "4:09"
+    },
+    {
+      "date": "2024-02-17T00:00:00.000Z",
+      "opponent": "Adrian Wieliczko",
+      "opponentSlug": "173607-adrian-wieliczko",
+      "result": "win",
+      "method": "sub",
+      "event": "KSW 91: Mircea vs. Brichta",
+      "eventSlug": "106206-ksw-91",
+      "round": 2,
+      "timeInRound": "4:20"
+    },
+    {
+      "date": "2023-10-14T00:00:00.000Z",
+      "opponent": "Dawid Kareta",
+      "opponentSlug": "101122-dawid-kareta",
+      "result": "loss",
+      "method": "other",
+      "event": "KSW 87: Martínek vs. Stošić",
+      "eventSlug": "104170-ksw-87-stosic-vs-martinek",
+      "round": 1,
+      "timeInRound": "4:10"
+    },
+    {
+      "date": "2023-04-22T00:00:00.000Z",
+      "opponent": "Jonatan Kujawa",
+      "opponentSlug": "116079-jonatan-kujawa",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KSW 81: Bartosiński vs. Szczepaniak",
+      "eventSlug": "97605-ksw-81",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-04T00:00:00.000Z",
+      "opponent": "Gergely Csibi",
+      "opponentSlug": "196134-gergely-csibi",
+      "result": "win",
+      "method": "other",
+      "event": "RFA 8",
+      "eventSlug": "96646-rfa-8",
+      "round": 3,
+      "timeInRound": "1:16"
+    },
+    {
+      "date": "2022-07-23T00:00:00.000Z",
+      "opponent": "Bartosz Rewera",
+      "opponentSlug": "172313-bartosz-rewera",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "RFA 3",
+      "eventSlug": "91075-rfa-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-20T00:00:00.000Z",
+      "opponent": "Grzegorz Rogalski",
+      "opponentSlug": "310809-grzegorz-rogalski",
+      "result": "win",
+      "method": "other",
+      "event": "Night of Warriors 18",
+      "eventSlug": "127318-night-of-warriors-18",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-13T00:00:00.000Z",
+      "opponent": "Mário Brezovský",
+      "opponentSlug": "222517-mario-brezovsky",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "I Am Fighter 3",
+      "eventSlug": "83233-i-am-fighter-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-16T00:00:00.000Z",
+      "opponent": "Sungat Kharirzhan",
+      "opponentSlug": "294988-sungat-kharirzhan",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IAF Fight Night 1",
+      "eventSlug": "80784-i-am-fighter-fight-night-vol-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-07T00:00:00.000Z",
+      "opponent": "Václav Štěpán",
+      "opponentSlug": "197384-vaclav-stepan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MMAsters League vol. 3",
+      "eventSlug": "78528-mmasters",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-09-18T00:00:00.000Z",
+      "opponent": "Martin Hurt",
+      "opponentSlug": "217639-martin-hurt",
+      "result": "win",
+      "method": "sub",
+      "event": "IAF: Streetfighter 10",
+      "eventSlug": "72645-iaf-streetfighter-10",
+      "round": 1,
+      "timeInRound": "0:23"
+    },
+    {
+      "date": "2020-09-04T00:00:00.000Z",
+      "opponent": "Jiří Olšanský",
+      "opponentSlug": "266709-jiri-olsansky",
+      "result": "win",
+      "method": "sub",
+      "event": "IAF: Streetfighter 8",
+      "eventSlug": "72209-iaf-streetfighter-8",
+      "round": 1,
+      "timeInRound": "2:20"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:09:37.481Z"
+}

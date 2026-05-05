@@ -1,0 +1,231 @@
+{
+  "slug": "126539-marcio-ticot",
+  "name": "Márcio Barbosa",
+  "nickname": "Ticotô",
+  "aliases": [],
+  "recordPro": {
+    "wins": 17,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": 179,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1998-05-22",
+  "nationality": "Amapa, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/126539-marcio-ticot",
+  "recentFights": [
+    {
+      "date": "2026-04-18T00:00:00.000Z",
+      "opponent": "Dennis Buzukja",
+      "opponentSlug": "131561-dennis-buzukia",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "139670-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-08-26T00:00:00.000Z",
+      "opponent": "Damon Wilson",
+      "opponentSlug": "116480-damon-wilson",
+      "result": "win",
+      "method": "other",
+      "event": "Contender Series 2025",
+      "eventSlug": "128460-contender-series-2025-week-3",
+      "round": 1,
+      "timeInRound": "4:14"
+    },
+    {
+      "date": "2024-11-22T00:00:00.000Z",
+      "opponent": "Felipe Oliveira",
+      "opponentSlug": "234482-felipe-oliveira",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 197: Kuziutina vs Guimarães",
+      "eventSlug": "117777-lfa-197",
+      "round": 1,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2023-11-03T00:00:00.000Z",
+      "opponent": "Gian Sarturi",
+      "opponentSlug": "147078-gian-sarturi",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 171: Neves vs. Cunha",
+      "eventSlug": "105821-lfa-171-neves-vs-cunha",
+      "round": 1,
+      "timeInRound": "3:08"
+    },
+    {
+      "date": "2023-07-07T00:00:00.000Z",
+      "opponent": "Wellington Prado",
+      "opponentSlug": "174329-wellington-predador",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 162: Conceição vs. Lopes",
+      "eventSlug": "102000-lfa-162-prates-vs-antunes",
+      "round": 1,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2022-11-04T00:00:00.000Z",
+      "opponent": "Gabriel Santos",
+      "opponentSlug": "159865-gabriel-santos-mosquitinho",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 146: Barbosa vs. Santos",
+      "eventSlug": "94392-lfa-146-barbosa-vs-santos",
+      "round": 2,
+      "timeInRound": "0:09"
+    },
+    {
+      "date": "2022-07-10T00:00:00.000Z",
+      "opponent": "Kevin Moreyra",
+      "opponentSlug": "78387-kevin-moreyra",
+      "result": "win",
+      "method": "other",
+      "event": "Inka FC 34: Peru vs. Brasil",
+      "eventSlug": "90737-inka-fc-34-peru-vs-brasil",
+      "round": 1,
+      "timeInRound": "3:21"
+    },
+    {
+      "date": "2022-05-01T00:00:00.000Z",
+      "opponent": "Tiago Ramos",
+      "opponentSlug": "163014-tiago-terra-nova",
+      "result": "win",
+      "method": "sub",
+      "event": "Jungle Fight 107",
+      "eventSlug": "88504-jungle-fight-107",
+      "round": 1,
+      "timeInRound": "3:41"
+    },
+    {
+      "date": "2022-03-20T00:00:00.000Z",
+      "opponent": "Caio Machado",
+      "opponentSlug": "61724-caio-machado",
+      "result": "win",
+      "method": "tko",
+      "event": "Favela Kombat 37",
+      "eventSlug": "86979-favela-kombat-37",
+      "round": 1,
+      "timeInRound": "1:34"
+    },
+    {
+      "date": "2021-12-11T00:00:00.000Z",
+      "opponent": "Luis Felipe",
+      "opponentSlug": "66541-luis-felipe-buda",
+      "result": "loss",
+      "method": "tko",
+      "event": "Dominium Fighter Championship 8",
+      "eventSlug": "83794-dominium-fighter-championship-8-round-final",
+      "round": 2,
+      "timeInRound": "2:46"
+    },
+    {
+      "date": "2021-11-13T00:00:00.000Z",
+      "opponent": "Jameson Oliveira",
+      "opponentSlug": "192352-jameson-oliveira-el-pistoleiro",
+      "result": "win",
+      "method": "other",
+      "event": "SFFN 6",
+      "eventSlug": "83128-sffn-6",
+      "round": 1,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2021-09-25T00:00:00.000Z",
+      "opponent": "Gabriel Oliveira",
+      "opponentSlug": "288061-gabriel-oliveira",
+      "result": "win",
+      "method": "other",
+      "event": "SFFN 5",
+      "eventSlug": "81657-sffn-5",
+      "round": 1,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2021-07-11T00:00:00.000Z",
+      "opponent": "Ronaldo Junior",
+      "opponentSlug": "235400-ronaldo-junior",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Thunder Fight 28",
+      "eventSlug": "79933-thunder-fight-28",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-12-03T00:00:00.000Z",
+      "opponent": "Wellington Borges",
+      "opponentSlug": "270141-wellington-borges",
+      "result": "win",
+      "method": "other",
+      "event": "Shooto Brasil 105",
+      "eventSlug": "74542-shooto-brasil-105",
+      "round": 1,
+      "timeInRound": "0:59"
+    },
+    {
+      "date": "2019-09-14T00:00:00.000Z",
+      "opponent": "Alessandro Soares",
+      "opponentSlug": "225741-alessandro-soares-soldado",
+      "result": "win",
+      "method": "sub",
+      "event": "Amapá Fight Night 1",
+      "eventSlug": "62802-amapa-fight-night-1",
+      "round": 1,
+      "timeInRound": "2:42"
+    },
+    {
+      "date": "2018-12-01T00:00:00.000Z",
+      "opponent": "Lucas Sá Bessa",
+      "opponentSlug": "83426-lucas-danilo-sa-bessa-pao-careca",
+      "result": "win",
+      "method": "other",
+      "event": "NEC 40",
+      "eventSlug": "60050-nec-40",
+      "round": 1,
+      "timeInRound": "3:48"
+    },
+    {
+      "date": "2017-09-30T00:00:00.000Z",
+      "opponent": "Willian Martins",
+      "opponentSlug": "155315-willian",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-15T00:00:00.000Z",
+      "opponent": "Iwanderson Caldas",
+      "opponentSlug": "155311-anderson-caldas",
+      "result": "win",
+      "method": "tko",
+      "event": "WCombat 21",
+      "eventSlug": "45342-wcombat-21",
+      "round": 1,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2016-02-13T00:00:00.000Z",
+      "opponent": "Celso Susarte",
+      "opponentSlug": "126540-celso-susarte-celsinho",
+      "result": "win",
+      "method": "other",
+      "event": "NEC 23",
+      "eventSlug": "37767-nec-23",
+      "round": 1,
+      "timeInRound": "3:04"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:52:31.161Z"
+}

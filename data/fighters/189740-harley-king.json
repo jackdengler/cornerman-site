@@ -1,0 +1,132 @@
+{
+  "slug": "189740-harley-king",
+  "name": "Harley King",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/189740-harley-king",
+  "recentFights": [
+    {
+      "date": "2025-04-12T00:00:00.000Z",
+      "opponent": "Kees Huisman",
+      "opponentSlug": "217387-kees-huisman",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Unified MMA 61",
+      "eventSlug": "124730-unified-mma-61",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-15T00:00:00.000Z",
+      "opponent": "Cody Chovancek",
+      "opponentSlug": "186319-cody-chovancek",
+      "result": "loss",
+      "method": "other",
+      "event": "Unified MMA 54",
+      "eventSlug": "106643-unified-mma-54",
+      "round": 1,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2022-12-17T00:00:00.000Z",
+      "opponent": "Devon Lozej",
+      "opponentSlug": "205775-devon-lozej",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Unified MMA 49",
+      "eventSlug": "93981-unified-mma-49",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-27T00:00:00.000Z",
+      "opponent": "Izzudeen Atmeh",
+      "opponentSlug": "219429-izzudeen-atmeh",
+      "result": "win",
+      "method": "tko",
+      "event": "Unified MMA 45",
+      "eventSlug": "88134-unified-mma-45",
+      "round": 1,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2021-11-20T00:00:00.000Z",
+      "opponent": "Ariel Arellano Zuniga",
+      "opponentSlug": "58412-ariel-arellano-zuniga",
+      "result": "loss",
+      "method": "sub",
+      "event": "BTC 13: Power",
+      "eventSlug": "83513-btc-13-power",
+      "round": 3,
+      "timeInRound": "0:36"
+    },
+    {
+      "date": "2019-11-22T00:00:00.000Z",
+      "opponent": "Ryan Williams",
+      "opponentSlug": "35018-ryan-williams",
+      "result": "win",
+      "method": "other",
+      "event": "Havoc FC 14",
+      "eventSlug": "61238-havoc-fc-14",
+      "round": 2,
+      "timeInRound": "4:00"
+    },
+    {
+      "date": "2019-03-01T00:00:00.000Z",
+      "opponent": "Peter Janssen",
+      "opponentSlug": "118928-peter-janssen",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Unified MMA 36",
+      "eventSlug": "57376-unified-mma-36-mayhem",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-28T00:00:00.000Z",
+      "opponent": "Isaiah Bean",
+      "opponentSlug": "145206-isiah-bean",
+      "result": "win",
+      "method": "other",
+      "event": "Unified MMA 34",
+      "eventSlug": "54139-unified-mma-34-supremacy",
+      "round": 1,
+      "timeInRound": "2:05"
+    },
+    {
+      "date": "2018-08-11T00:00:00.000Z",
+      "opponent": "Sasha Butler",
+      "opponentSlug": "190806-sasha-butler",
+      "result": "win",
+      "method": "sub",
+      "event": "XFFC 19",
+      "eventSlug": "52780-xffc-19",
+      "round": 2,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2018-06-09T00:00:00.000Z",
+      "opponent": "Indroop Virk",
+      "opponentSlug": "166769-indrop-virk",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Rise FC 1: Chmielewscy vs Spina",
+      "eventSlug": "53774-rise-fc-1-chmielewscy-vs-spina",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:36:12.469Z"
+}

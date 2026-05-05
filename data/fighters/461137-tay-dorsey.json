@@ -1,0 +1,81 @@
+{
+  "slug": "461137-tay-dorsey",
+  "name": "Tay Dorsey",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "2002-04-07",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/461137-tay-dorsey",
+  "recentFights": [
+    {
+      "date": "2026-02-14T00:00:00.000Z",
+      "opponent": "Yonaiker Durand",
+      "opponentSlug": "518601-yonaiker-durand",
+      "result": "loss",
+      "method": "sub",
+      "event": "True Revelation 63",
+      "eventSlug": "136820-true-revelation-63",
+      "round": 2,
+      "timeInRound": "2:06"
+    },
+    {
+      "date": "2025-11-22T00:00:00.000Z",
+      "opponent": "Christian Cassidy",
+      "opponentSlug": "531994-christian-cassidy",
+      "result": "win",
+      "method": "sub",
+      "event": "True Revelation 62",
+      "eventSlug": "132380-true-revelation-62",
+      "round": 2,
+      "timeInRound": "0:22"
+    },
+    {
+      "date": "2025-05-10T00:00:00.000Z",
+      "opponent": "Angel Ponce",
+      "opponentSlug": "495700-angel-ponce",
+      "result": "loss",
+      "method": "sub",
+      "event": "True Revelation 60",
+      "eventSlug": "125757-true-revelation-60",
+      "round": 2,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2025-02-01T00:00:00.000Z",
+      "opponent": "Garet Palmer",
+      "opponentSlug": "479619-garet-palmer",
+      "result": "win",
+      "method": "tko",
+      "event": "True Revelation 59",
+      "eventSlug": "119445-true-revelation-59",
+      "round": 1,
+      "timeInRound": "1:06"
+    },
+    {
+      "date": "2024-10-19T00:00:00.000Z",
+      "opponent": "Erick Medrano",
+      "opponentSlug": "461138-erick-medrano",
+      "result": "loss",
+      "method": "other",
+      "event": "True Revelation 58",
+      "eventSlug": "116634-true-revelation-58",
+      "round": 1,
+      "timeInRound": "1:39"
+    }
+  ],
+  "lastVerified": "2026-04-18T09:06:41.187Z"
+}

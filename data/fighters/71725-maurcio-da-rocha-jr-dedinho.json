@@ -1,0 +1,187 @@
+{
+  "slug": "71725-maurcio-da-rocha-jr-dedinho",
+  "name": "José da Rocha Junior",
+  "nickname": "Dedinho",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 194,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1987-09-22",
+  "nationality": "Natal, Rio Grande do Norte, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/71725-maurcio-da-rocha-jr-dedinho",
+  "recentFights": [
+    {
+      "date": "2021-12-04T00:00:00.000Z",
+      "opponent": "Kaleka Kabanda",
+      "opponentSlug": "86660-block-kabanda",
+      "result": "win",
+      "method": "dec-split",
+      "event": "EFC 91",
+      "eventSlug": "84172-efc-91",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-04T00:00:00.000Z",
+      "opponent": "Themba Gorimbo",
+      "opponentSlug": "52251-themba-takura-gorimbo",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "EFC Worldwide 79",
+      "eventSlug": "57740-efc-79",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-08T00:00:00.000Z",
+      "opponent": "Conrad Seabi",
+      "opponentSlug": "83133-conrad-seabi",
+      "result": "win",
+      "method": "other",
+      "event": "EFC Worldwide 76",
+      "eventSlug": "56571-efc-worldwide-76",
+      "round": 1,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2018-09-07T00:00:00.000Z",
+      "opponent": "Gunther Kalunda Ngunza",
+      "opponentSlug": "86544-kalunda-gunther",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "EFC Worldwide 73",
+      "eventSlug": "55036-efc-worldwide-73",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-16T00:00:00.000Z",
+      "opponent": "Pupanga Tresor",
+      "opponentSlug": "66606-pupanga-tresor",
+      "result": "win",
+      "method": "other",
+      "event": "EFC Worldwide 66",
+      "eventSlug": "47262-the-fighter-1-finals",
+      "round": 1,
+      "timeInRound": "4:45"
+    },
+    {
+      "date": "2017-09-09T00:00:00.000Z",
+      "opponent": "Cameron Pritchard",
+      "opponentSlug": "82737-cameron-pritchard",
+      "result": "win",
+      "method": "tko",
+      "event": "EFC Worldwide 63",
+      "eventSlug": "43884-efc-worldwide-63",
+      "round": 1,
+      "timeInRound": "0:23"
+    },
+    {
+      "date": "2017-05-13T00:00:00.000Z",
+      "opponent": "Dricus Du Plessis",
+      "opponentSlug": "51267-dricus-du-plessis-stilknocks",
+      "result": "loss",
+      "method": "other",
+      "event": "EFC Worldwide 59",
+      "eventSlug": "43880-efc-worldwide-59",
+      "round": 1,
+      "timeInRound": "3:58"
+    },
+    {
+      "date": "2017-03-30T00:00:00.000Z",
+      "opponent": "Talisson Quaresma",
+      "opponentSlug": "156539-talisson-quaresma",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-06T00:00:00.000Z",
+      "opponent": "Alexandre Gonçalves",
+      "opponentSlug": "18029-alexandre-goncalves-macaco",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "1° Round Combat 2",
+      "eventSlug": "39228-1-round-combat-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-05-14T00:00:00.000Z",
+      "opponent": "Jonas Lima",
+      "opponentSlug": "67719-jonas-lima-tubaro",
+      "result": "win",
+      "method": "sub",
+      "event": "Limo Fight 15",
+      "eventSlug": "32777-limo-fight-15",
+      "round": 1,
+      "timeInRound": "4:48"
+    },
+    {
+      "date": "2014-08-15T00:00:00.000Z",
+      "opponent": "Daniel da Silva",
+      "opponentSlug": "15126-daniel-animal",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-05-29T00:00:00.000Z",
+      "opponent": "Thiego Gregorio",
+      "opponentSlug": "45281-thiego-gregorio",
+      "result": "win",
+      "method": "sub",
+      "event": "CEF 10",
+      "eventSlug": "23691-cef-10",
+      "round": 1,
+      "timeInRound": "4:03"
+    },
+    {
+      "date": "2013-07-31T00:00:00.000Z",
+      "opponent": "Daniel da Silva",
+      "opponentSlug": "15126-daniel-animal",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-09-29T00:00:00.000Z",
+      "opponent": "Oriosvaldo Costa",
+      "opponentSlug": "71755-oriosvaldo-costa",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-07-04T00:00:00.000Z",
+      "opponent": "Jeferson dos Santos",
+      "opponentSlug": "17329-nino-bala",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:54:49.061Z"
+}

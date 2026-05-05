@@ -1,0 +1,142 @@
+{
+  "slug": "166291-chris-mixan",
+  "name": "Chris Mixan",
+  "nickname": "Cossack",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 188,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1998-11-26",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/166291-chris-mixan",
+  "recentFights": [
+    {
+      "date": "2026-04-16T00:00:00.000Z",
+      "opponent": "Eoin Sheridan",
+      "opponentSlug": "229290-eoin-sheridan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "PFL Belfast",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-08-15T00:00:00.000Z",
+      "opponent": "Kendly St. Louis",
+      "opponentSlug": "105788-kendley-st-louise",
+      "result": "win",
+      "method": "other",
+      "event": "PFL World Tournament 9",
+      "round": 1,
+      "timeInRound": "4:36"
+    },
+    {
+      "date": "2025-01-25T00:00:00.000Z",
+      "opponent": "Joey Hart",
+      "opponentSlug": "152535-joey-hart",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 200: Johns vs. Douglas",
+      "round": 1,
+      "timeInRound": "2:10"
+    },
+    {
+      "date": "2024-03-29T00:00:00.000Z",
+      "opponent": "Tre'ston Vines",
+      "opponentSlug": "101085-treston-vines",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "All In Combat 5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-14T00:00:00.000Z",
+      "opponent": "Derrick Ageday",
+      "opponentSlug": "103492-danny-ageday",
+      "result": "win",
+      "method": "tko",
+      "event": "All in Combat 2",
+      "round": 1,
+      "timeInRound": "0:15"
+    },
+    {
+      "date": "2022-08-13T00:00:00.000Z",
+      "opponent": "Christian Stigenberg",
+      "opponentSlug": "156565-christian-stigenberg",
+      "result": "win",
+      "method": "dec-split",
+      "event": "PFL 8: 2022 Playoffs",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-25T00:00:00.000Z",
+      "opponent": "Nathan Pierce",
+      "opponentSlug": "21010-nathan-pierce",
+      "result": "win",
+      "method": "other",
+      "event": "PFL Challenger Series 2022",
+      "round": 2,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2021-05-08T00:00:00.000Z",
+      "opponent": "Gregory Guidry",
+      "opponentSlug": "253486-gregory-guidry",
+      "result": "win",
+      "method": "tko",
+      "event": "Empire FC 11",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-10-17T00:00:00.000Z",
+      "opponent": "Sedric Johnson",
+      "opponentSlug": "43102-sedric-johnson",
+      "result": "win",
+      "method": "sub",
+      "event": "Empire FC 6",
+      "round": 2,
+      "timeInRound": "1:22"
+    },
+    {
+      "date": "2019-11-23T00:00:00.000Z",
+      "opponent": "Lucas Cortes",
+      "opponentSlug": "197819-lucas-cortes",
+      "result": "win",
+      "method": "tko",
+      "event": "XFN 26",
+      "round": 3,
+      "timeInRound": "0:51"
+    },
+    {
+      "date": "2019-02-09T00:00:00.000Z",
+      "opponent": "Jorge Casiano",
+      "opponentSlug": "174475-jorge-casiano",
+      "result": "win",
+      "method": "other",
+      "event": "Combat Night",
+      "round": 1,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2018-07-07T00:00:00.000Z",
+      "opponent": "Daniel Joseph",
+      "opponentSlug": "108567-daniel-joseph",
+      "result": "win",
+      "method": "sub",
+      "event": "Combat Night 93",
+      "round": 2,
+      "timeInRound": "2:13"
+    }
+  ],
+  "lastVerified": "2026-04-16T23:58:59.742Z"
+}

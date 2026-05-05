@@ -1,0 +1,717 @@
+{
+  "slug": "140114-ufc-fight-night",
+  "name": "UFC Fight Night: Sterling vs. Zalal",
+  "promotion": "Ultimate Fighting Championship",
+  "startTimeUtc": "2026-04-25T21:00:00.000Z",
+  "venueTimezone": null,
+  "venue": "Meta APEX",
+  "location": "Las Vegas, Nevada, United States",
+  "url": "https://www.tapology.com/fightcenter/events/140114-ufc-fight-night",
+  "status": "scheduled",
+  "forumThreadId": "95498",
+  "fights": [
+    {
+      "id": "140114-ufc-fight-night#1",
+      "eventSlug": "140114-ufc-fight-night",
+      "order": 1,
+      "cardSection": "main",
+      "weightClass": "145 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "aljamain-sterling",
+        "name": "Aljamain Sterling",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "110826-youssef-zalaal",
+        "name": "Youssef Zalal",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T20:57:18.888Z"
+    },
+    {
+      "id": "140114-ufc-fight-night#2",
+      "eventSlug": "140114-ufc-fight-night",
+      "order": 2,
+      "cardSection": "main",
+      "weightClass": "135 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "139271-norma-dumont-viana",
+        "name": "Norma Dumont",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "98366-yoselin-edwards",
+        "name": "Joselyne Edwards",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T20:57:18.888Z"
+    },
+    {
+      "id": "140114-ufc-fight-night#3",
+      "eventSlug": "140114-ufc-fight-night",
+      "order": 3,
+      "cardSection": "main",
+      "weightClass": "155 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "105452-rafael-garcia-gifted",
+        "name": "Rafa García",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "46253-alexander-hernandez",
+        "name": "Alexander Hernandez",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T20:57:18.888Z"
+    },
+    {
+      "id": "140114-ufc-fight-night#4",
+      "eventSlug": "140114-ufc-fight-night",
+      "order": 4,
+      "cardSection": "main",
+      "weightClass": "135 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "18815-david-grant",
+        "name": "Davey Grant",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "139620-juan-adrian-luna",
+        "name": "Adrian Luna Martinetti",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T20:57:18.888Z"
+    },
+    {
+      "id": "140114-ufc-fight-night#5",
+      "eventSlug": "140114-ufc-fight-night",
+      "order": 5,
+      "cardSection": "main",
+      "weightClass": "135 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "89335-montel-jackson",
+        "name": "Montel Jackson",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "30448-raoni-barcellos",
+        "name": "Raoni Barcelos",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T20:57:18.888Z"
+    },
+    {
+      "id": "140114-ufc-fight-night#6",
+      "eventSlug": "140114-ufc-fight-night",
+      "order": 6,
+      "cardSection": "main",
+      "weightClass": "265 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "237072-marcius-almedia-buchecha",
+        "name": "Marcus Buchecha",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "20908-ryan-spann",
+        "name": "Ryan Spann",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T20:57:18.888Z"
+    },
+    {
+      "id": "140114-ufc-fight-night#7",
+      "eventSlug": "140114-ufc-fight-night",
+      "order": 7,
+      "cardSection": "main",
+      "weightClass": "185 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "148791-rodolfo-vieira-srour-the-black-belt-hunter",
+        "name": "Rodolfo Vieira",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "112634-eric-mcconico",
+        "name": "Eric McConico",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T20:57:18.888Z"
+    },
+    {
+      "id": "140114-ufc-fight-night#8",
+      "eventSlug": "140114-ufc-fight-night",
+      "order": 8,
+      "cardSection": "main",
+      "weightClass": "185 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "188574-sedriques-dumas",
+        "name": "Sedriques Dumas",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "238221-jackson-mcvey",
+        "name": "Jackson McVey",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T20:57:18.888Z"
+    },
+    {
+      "id": "140114-ufc-fight-night#9",
+      "eventSlug": "140114-ufc-fight-night",
+      "order": 9,
+      "cardSection": "main",
+      "weightClass": "135 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "140732-mayra-bueno-silva-sheetara",
+        "name": "Mayra Bueno Silva",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "237486-michell-montague",
+        "name": "Michelle Montague",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T20:57:18.888Z"
+    },
+    {
+      "id": "140114-ufc-fight-night#10",
+      "eventSlug": "140114-ufc-fight-night",
+      "order": 10,
+      "cardSection": "main",
+      "weightClass": "135 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "46690-jafel-cavalcante-filho",
+        "name": "Jafel Filho",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "68337-cody-durden",
+        "name": "Cody Durden",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T20:57:18.888Z"
+    },
+    {
+      "id": "140114-ufc-fight-night#11",
+      "eventSlug": "140114-ufc-fight-night",
+      "order": 11,
+      "cardSection": "main",
+      "weightClass": "155 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "186284-francis-marshall",
+        "name": "Francis Marshall",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "162427-lucas-brennan",
+        "name": "Lucas Brennan",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T20:57:18.888Z"
+    },
+    {
+      "id": "140114-ufc-fight-night#12",
+      "eventSlug": "140114-ufc-fight-night",
+      "order": 12,
+      "cardSection": "main",
+      "weightClass": "170 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "25437-max-griffin",
+        "name": "Max Griffin",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "67389-victor-valenzuela-sicosis",
+        "name": "Victor Valenzuela",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T20:57:18.888Z"
+    },
+    {
+      "id": "140114-ufc-fight-night#13",
+      "eventSlug": "140114-ufc-fight-night",
+      "order": 13,
+      "cardSection": "main",
+      "weightClass": "115 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "217437-talita-alencar",
+        "name": "Talita Alencar",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "168315-julia-polastri",
+        "name": "Julia Polastri",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T20:57:18.888Z"
+    },
+    {
+      "id": "140114-ufc-fight-night#14",
+      "eventSlug": "140114-ufc-fight-night",
+      "order": 14,
+      "cardSection": "main",
+      "weightClass": "145 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "aljamain-sterling",
+        "name": "Aljamain Sterling",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "110826-youssef-zalaal",
+        "name": "Youssef Zalal",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T20:57:18.888Z"
+    },
+    {
+      "id": "140114-ufc-fight-night#15",
+      "eventSlug": "140114-ufc-fight-night",
+      "order": 15,
+      "cardSection": "main",
+      "weightClass": "135 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "139271-norma-dumont-viana",
+        "name": "Norma Dumont",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "98366-yoselin-edwards",
+        "name": "Joselyne Edwards",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T20:57:18.888Z"
+    },
+    {
+      "id": "140114-ufc-fight-night#16",
+      "eventSlug": "140114-ufc-fight-night",
+      "order": 16,
+      "cardSection": "main",
+      "weightClass": "155 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "105452-rafael-garcia-gifted",
+        "name": "Rafa García",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "46253-alexander-hernandez",
+        "name": "Alexander Hernandez",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T20:57:18.888Z"
+    },
+    {
+      "id": "140114-ufc-fight-night#17",
+      "eventSlug": "140114-ufc-fight-night",
+      "order": 17,
+      "cardSection": "main",
+      "weightClass": "135 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "18815-david-grant",
+        "name": "Davey Grant",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "139620-juan-adrian-luna",
+        "name": "Adrian Luna Martinetti",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T20:57:18.888Z"
+    },
+    {
+      "id": "140114-ufc-fight-night#18",
+      "eventSlug": "140114-ufc-fight-night",
+      "order": 18,
+      "cardSection": "main",
+      "weightClass": "135 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "89335-montel-jackson",
+        "name": "Montel Jackson",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "30448-raoni-barcellos",
+        "name": "Raoni Barcelos",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T20:57:18.888Z"
+    },
+    {
+      "id": "140114-ufc-fight-night#19",
+      "eventSlug": "140114-ufc-fight-night",
+      "order": 19,
+      "cardSection": "main",
+      "weightClass": "265 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "237072-marcius-almedia-buchecha",
+        "name": "Marcus Buchecha",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "20908-ryan-spann",
+        "name": "Ryan Spann",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T20:57:18.888Z"
+    },
+    {
+      "id": "140114-ufc-fight-night#20",
+      "eventSlug": "140114-ufc-fight-night",
+      "order": 20,
+      "cardSection": "main",
+      "weightClass": "185 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "148791-rodolfo-vieira-srour-the-black-belt-hunter",
+        "name": "Rodolfo Vieira",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "112634-eric-mcconico",
+        "name": "Eric McConico",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T20:57:18.888Z"
+    },
+    {
+      "id": "140114-ufc-fight-night#21",
+      "eventSlug": "140114-ufc-fight-night",
+      "order": 21,
+      "cardSection": "main",
+      "weightClass": "185 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "188574-sedriques-dumas",
+        "name": "Sedriques Dumas",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "238221-jackson-mcvey",
+        "name": "Jackson McVey",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T20:57:18.888Z"
+    },
+    {
+      "id": "140114-ufc-fight-night#22",
+      "eventSlug": "140114-ufc-fight-night",
+      "order": 22,
+      "cardSection": "main",
+      "weightClass": "135 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "140732-mayra-bueno-silva-sheetara",
+        "name": "Mayra Bueno Silva",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "237486-michell-montague",
+        "name": "Michelle Montague",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T20:57:18.888Z"
+    },
+    {
+      "id": "140114-ufc-fight-night#23",
+      "eventSlug": "140114-ufc-fight-night",
+      "order": 23,
+      "cardSection": "main",
+      "weightClass": "135 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "46690-jafel-cavalcante-filho",
+        "name": "Jafel Filho",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "68337-cody-durden",
+        "name": "Cody Durden",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T20:57:18.888Z"
+    },
+    {
+      "id": "140114-ufc-fight-night#24",
+      "eventSlug": "140114-ufc-fight-night",
+      "order": 24,
+      "cardSection": "main",
+      "weightClass": "155 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "186284-francis-marshall",
+        "name": "Francis Marshall",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "162427-lucas-brennan",
+        "name": "Lucas Brennan",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T20:57:18.888Z"
+    },
+    {
+      "id": "140114-ufc-fight-night#25",
+      "eventSlug": "140114-ufc-fight-night",
+      "order": 25,
+      "cardSection": "main",
+      "weightClass": "170 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "25437-max-griffin",
+        "name": "Max Griffin",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "67389-victor-valenzuela-sicosis",
+        "name": "Victor Valenzuela",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T20:57:18.888Z"
+    },
+    {
+      "id": "140114-ufc-fight-night#26",
+      "eventSlug": "140114-ufc-fight-night",
+      "order": 26,
+      "cardSection": "main",
+      "weightClass": "115 lbs",
+      "titleFight": false,
+      "fighterA": {
+        "slug": "217437-talita-alencar",
+        "name": "Talita Alencar",
+        "nickname": null,
+        "recordPro": null
+      },
+      "fighterB": {
+        "slug": "168315-julia-polastri",
+        "name": "Julia Polastri",
+        "nickname": null,
+        "recordPro": null
+      },
+      "status": "scheduled",
+      "method": null,
+      "round": null,
+      "timeInRound": null,
+      "winnerSlug": null,
+      "notes": null,
+      "lastVerified": "2026-04-25T20:57:18.888Z"
+    }
+  ],
+  "lastVerified": "2026-04-25T20:57:18.888Z"
+}

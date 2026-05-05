@@ -1,0 +1,88 @@
+{
+  "slug": "49745-jos-conceio-z",
+  "name": "José Conceição",
+  "nickname": "Zé",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 9,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 177,
+  "reachCm": 179,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Sao Jose dos Campos, Sao Paulo, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/49745-jos-conceio-z",
+  "recentFights": [
+    {
+      "date": "2015-07-18T00:00:00.000Z",
+      "opponent": "Vinicius Loureiro",
+      "opponentSlug": "37358-vinicius-loureiro",
+      "result": "loss",
+      "method": null,
+      "event": "Bison Kombat 1",
+      "eventSlug": "34484-bison-kombat-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-12-13T00:00:00.000Z",
+      "opponent": "José Roberto",
+      "opponentSlug": "85644-jos-roberto-robertinho",
+      "result": "loss",
+      "method": "tko",
+      "event": "Real Fight 12",
+      "eventSlug": "28143-real-fight-12",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-06-15T00:00:00.000Z",
+      "opponent": "Thiago Moisés",
+      "opponentSlug": "49744-thiago-moiss",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Real Fight 9",
+      "eventSlug": "19403-real-fight-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-09-15T00:00:00.000Z",
+      "opponent": "Lusciano do Nascimento",
+      "opponentSlug": "31557-lusciano-do-nascimento",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-12-10T00:00:00.000Z",
+      "opponent": "Ernesto Cristoforato",
+      "opponentSlug": "49750-ernesto-cristoforato",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-10-03T00:00:00.000Z",
+      "opponent": "Marcio Sapo",
+      "opponentSlug": "11156-marcio-sapo",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:11:51.364Z"
+}

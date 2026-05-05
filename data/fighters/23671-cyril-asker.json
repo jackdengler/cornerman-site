@@ -1,0 +1,176 @@
+{
+  "slug": "23671-cyril-asker",
+  "name": "Cyril Asker",
+  "nickname": "Silverback",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 188,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1985-12-24",
+  "nationality": "Sorgues, France",
+  "url": "https://www.tapology.com/fightcenter/fighters/23671-cyril-asker",
+  "recentFights": [
+    {
+      "date": "2018-02-10T00:00:00.000Z",
+      "opponent": "Tai Tuivasa",
+      "opponentSlug": "120884-tai-tuivasa-bam-bam",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 221: Romero vs. Rockhold",
+      "eventSlug": "48688-ufc-221",
+      "round": 1,
+      "timeInRound": "2:18"
+    },
+    {
+      "date": "2017-11-25T00:00:00.000Z",
+      "opponent": "Yaozong Hu",
+      "opponentSlug": "162606-yaozong-hu",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night 122",
+      "eventSlug": "47252-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "2:33"
+    },
+    {
+      "date": "2017-06-17T00:00:00.000Z",
+      "opponent": "Walt Harris",
+      "opponentSlug": "17046-walter-harris",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night 111",
+      "eventSlug": "44376-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "1:44"
+    },
+    {
+      "date": "2017-01-15T00:00:00.000Z",
+      "opponent": "Dmitry Smolyakov",
+      "opponentSlug": "77156-dmitry-smolyakov",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night 103",
+      "eventSlug": "42582-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "2:41"
+    },
+    {
+      "date": "2016-04-10T00:00:00.000Z",
+      "opponent": "Jared Cannonier",
+      "opponentSlug": "63163-jared-cannonier",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night 86",
+      "eventSlug": "37670-ufc-fight-night-85",
+      "round": 1,
+      "timeInRound": "2:44"
+    },
+    {
+      "date": "2015-10-03T00:00:00.000Z",
+      "opponent": "Andrew van Zyl",
+      "opponentSlug": "17902-andrew-van-zyl-one-gear",
+      "result": "win",
+      "method": "sub",
+      "event": "EFC Worldwide 44",
+      "eventSlug": "34863-efc-worldwide-44",
+      "round": 1,
+      "timeInRound": "3:25"
+    },
+    {
+      "date": "2015-06-06T00:00:00.000Z",
+      "opponent": "Ruan Potts",
+      "opponentSlug": "17901-ruan-potts-fangs",
+      "result": "win",
+      "method": "other",
+      "event": "EFC Worldwide 40",
+      "eventSlug": "32122-efc-africa-40",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2015-02-21T00:00:00.000Z",
+      "opponent": "Ricky Misholas",
+      "opponentSlug": "21939-ricky-misholas",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "EFC Africa 37",
+      "eventSlug": "28156-efca",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-08T00:00:00.000Z",
+      "opponent": "Juha Saarinen",
+      "opponentSlug": "7162-juha-saarinen",
+      "result": "win",
+      "method": "tko",
+      "event": "Cage 27",
+      "eventSlug": "26717-cage-27",
+      "round": 2,
+      "timeInRound": "4:19"
+    },
+    {
+      "date": "2013-10-06T00:00:00.000Z",
+      "opponent": "Eugene Buchmueller",
+      "opponentSlug": "56045-eugen-buchmueller",
+      "result": "win",
+      "method": "sub",
+      "event": "Roundhouse - Berlin",
+      "eventSlug": "20520-roundhouse-berlin",
+      "round": 1,
+      "timeInRound": "0:59"
+    },
+    {
+      "date": "2013-05-25T00:00:00.000Z",
+      "opponent": "Karl Moore",
+      "opponentSlug": "29590-karl-moore",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-03-16T00:00:00.000Z",
+      "opponent": "Peter Tornow",
+      "opponentSlug": "39954-peter-tornow",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-03-16T00:00:00.000Z",
+      "opponent": "Adam Brearley",
+      "opponentSlug": "15587-adam-brearley",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors",
+      "eventSlug": "12625-cage-warriors-fight-night-4",
+      "round": 1,
+      "timeInRound": "4:30"
+    },
+    {
+      "date": "2010-01-31T00:00:00.000Z",
+      "opponent": "Craig Molton",
+      "opponentSlug": "116340-craig-molton",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:11:40.898Z"
+}

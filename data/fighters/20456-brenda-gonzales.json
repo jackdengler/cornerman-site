@@ -1,0 +1,165 @@
+{
+  "slug": "20456-brenda-gonzales",
+  "name": "Brenda Gonzales",
+  "nickname": "Boom Boom",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 166,
+  "reachCm": 166,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1982-03-24",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/20456-brenda-gonzales",
+  "recentFights": [
+    {
+      "date": "2018-10-05T00:00:00.000Z",
+      "opponent": "Tamikka Brents",
+      "opponentSlug": "33788-tamikka-brents-boom-boom",
+      "result": "win",
+      "method": "other",
+      "event": "FCF 56",
+      "eventSlug": "55291-fcf-56",
+      "round": 1,
+      "timeInRound": "3:55"
+    },
+    {
+      "date": "2018-09-01T00:00:00.000Z",
+      "opponent": "Joselyne Edwards",
+      "opponentSlug": "98366-yoselin-edwards",
+      "result": "loss",
+      "method": "sub",
+      "event": "KOTC: Aggressive Lifestyle",
+      "eventSlug": "53821-sky-ute-casino-resort",
+      "round": 2,
+      "timeInRound": "2:53"
+    },
+    {
+      "date": "2016-11-26T00:00:00.000Z",
+      "opponent": "Yumi Matsumoto",
+      "opponentSlug": "76985-yumi-matsumoto",
+      "result": "win",
+      "method": "tko",
+      "event": "KOTC: Duke City 2",
+      "eventSlug": "42432-kotc-dark-city-2",
+      "round": 1,
+      "timeInRound": "3:52"
+    },
+    {
+      "date": "2016-07-30T00:00:00.000Z",
+      "opponent": "Pam Sorenson",
+      "opponentSlug": "60007-pam-sorenson-bam",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "KOTC: Natural Instinct",
+      "eventSlug": "40371-kotc-natural-instinct",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-14T00:00:00.000Z",
+      "opponent": "Anita Rodriguez",
+      "opponentSlug": "4260-anita-rodriguez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Sugar Creek Showdown 28",
+      "eventSlug": "35170-sugar-creek-showdown-28-shockwave",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-01-30T00:00:00.000Z",
+      "opponent": "Lacey Schuckman",
+      "opponentSlug": "lacey-schuckman-the-ladie",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Super Brawl Showdown 1",
+      "eventSlug": "29534-super-brawl-showdown",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-10-04T00:00:00.000Z",
+      "opponent": "Colleen Schneider",
+      "opponentSlug": "colleen-schneider-the-beautiful-disaster",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "CageSport 32",
+      "eventSlug": "24792-cagesport-32",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-09-12T00:00:00.000Z",
+      "opponent": "Heather Bassett",
+      "opponentSlug": "50146-heather-bassett",
+      "result": "win",
+      "method": "sub",
+      "event": "RFA 18: Manzanares vs. Pantoja",
+      "eventSlug": "25948-rfa-18-manzanares-vs-sanchez",
+      "round": 1,
+      "timeInRound": "2:48"
+    },
+    {
+      "date": "2013-05-19T00:00:00.000Z",
+      "opponent": "Rin Nakai",
+      "opponentSlug": "rin-nakai",
+      "result": "loss",
+      "method": "sub",
+      "event": "Pancrase 247",
+      "eventSlug": "17965-pancrase-247",
+      "round": 1,
+      "timeInRound": "4:47"
+    },
+    {
+      "date": "2012-12-01T00:00:00.000Z",
+      "opponent": "Elsie Henri",
+      "opponentSlug": "12818-elsie-henri-the-sweetheart",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-10-06T00:00:00.000Z",
+      "opponent": "Sarah Simmons",
+      "opponentSlug": "19950-sarah-alpar-too-sweet",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KOTC: Stranglehold",
+      "eventSlug": "15657-kotc-stranglehold",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-08-20T00:00:00.000Z",
+      "opponent": "Trisha Clark",
+      "opponentSlug": "17247-trisha-clark",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-05-14T00:00:00.000Z",
+      "opponent": "Kyane Hampton",
+      "opponentSlug": "16858-kyane-hampton-pepper",
+      "result": "win",
+      "method": "other",
+      "event": "KOTC: Fight To Live",
+      "eventSlug": "12174-kotc-fight-to-live",
+      "round": 1,
+      "timeInRound": "3:51"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:34:01.205Z"
+}

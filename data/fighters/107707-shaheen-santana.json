@@ -1,0 +1,242 @@
+{
+  "slug": "107707-shaheen-santana",
+  "name": "Shaheen Santana",
+  "nickname": "Shazam",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 191,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1991-06-04",
+  "nationality": "Brooklyn, New York",
+  "url": "https://www.tapology.com/fightcenter/fighters/107707-shaheen-santana",
+  "recentFights": [
+    {
+      "date": "2026-03-28T00:00:00.000Z",
+      "opponent": "Jesse Roberts",
+      "opponentSlug": "107594-jesse-roberts",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "AKA 54",
+      "eventSlug": "140636-aka-54",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-01-16T00:00:00.000Z",
+      "opponent": "Taner Trembley",
+      "opponentSlug": "336743-taner-trembley",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 224: Adams vs Bilalov",
+      "eventSlug": "137873-legacy-fighting-alliance-224-lfa-224",
+      "round": 1,
+      "timeInRound": "3:32"
+    },
+    {
+      "date": "2025-04-05T00:00:00.000Z",
+      "opponent": "Regivaldo Carvalho",
+      "opponentSlug": "96774-regivaldo-carvalho-magrao",
+      "result": "win",
+      "method": "sub",
+      "event": "CES 80: Balletto Jr. vs. Dunkle",
+      "eventSlug": "123868-ces-80",
+      "round": 2,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2024-12-06T00:00:00.000Z",
+      "opponent": "Chris Mecate",
+      "opponentSlug": "153332-chris-mecate",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 198: Miranda vs. Oyarzún",
+      "eventSlug": "118796-lfa-198",
+      "round": 2,
+      "timeInRound": "2:18"
+    },
+    {
+      "date": "2024-04-05T00:00:00.000Z",
+      "opponent": "Isaac Thomson",
+      "opponentSlug": "187780-isaac-thomson",
+      "result": "win",
+      "method": "dec-split",
+      "event": "LFA 181: Siqueira vs. Hernandez",
+      "eventSlug": "110760-lfa-181",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-16T00:00:00.000Z",
+      "opponent": "Tommy Garcia",
+      "opponentSlug": "231336-tommy-garcia-la-salsa",
+      "result": "loss",
+      "method": "other",
+      "event": "Combate Global",
+      "eventSlug": "108612-combate-global-copa-combate-semi-finals-and-final",
+      "round": 1,
+      "timeInRound": "3:53"
+    },
+    {
+      "date": "2022-10-21T00:00:00.000Z",
+      "opponent": "Alejandro Martinez",
+      "opponentSlug": "60009-alejandro-martinez",
+      "result": "win",
+      "method": "sub",
+      "event": "Combate Global",
+      "eventSlug": "94213-combate",
+      "round": 3,
+      "timeInRound": "4:47"
+    },
+    {
+      "date": "2021-10-01T00:00:00.000Z",
+      "opponent": "Jair Pérez",
+      "opponentSlug": "135229-jair-prez",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Combate Global",
+      "eventSlug": "83023-combate-global",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-11-10T00:00:00.000Z",
+      "opponent": "Natan Levy",
+      "opponentSlug": "121270-natan-levy",
+      "result": "loss",
+      "method": "sub",
+      "event": "Contender Series 2020",
+      "eventSlug": "70397-contender-series-2020-week-9",
+      "round": 3,
+      "timeInRound": "0:55"
+    },
+    {
+      "date": "2020-07-18T00:00:00.000Z",
+      "opponent": "Ty Johnson",
+      "opponentSlug": "114445-ty-kalista",
+      "result": "win",
+      "method": "sub",
+      "event": "Global Legion FC 14",
+      "eventSlug": "67800-global-legion-fc-14",
+      "round": 1,
+      "timeInRound": "4:16"
+    },
+    {
+      "date": "2019-08-23T00:00:00.000Z",
+      "opponent": "Lee Henry Lilly",
+      "opponentSlug": "39300-lee-henry-lilly",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Titan FC 56",
+      "eventSlug": "61867-titan-fc-56-brown-vs-nazarov",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-26T00:00:00.000Z",
+      "opponent": "Marco Simmons",
+      "opponentSlug": "37076-marco-lopez",
+      "result": "win",
+      "method": "sub",
+      "event": "Titan FC 54",
+      "eventSlug": "59079-titan-fc-54",
+      "round": 2,
+      "timeInRound": "1:55"
+    },
+    {
+      "date": "2017-09-01T00:00:00.000Z",
+      "opponent": "Geraldo Almonte",
+      "opponentSlug": "96377-geraldo-almonte",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Time 37",
+      "eventSlug": "45937-fight-time-37",
+      "round": 1,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2016-12-16T00:00:00.000Z",
+      "opponent": "Christian Lepe",
+      "opponentSlug": "83336-christian-lepe",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Time 34",
+      "eventSlug": "35559-fight-time-34",
+      "round": 1,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2016-06-24T00:00:00.000Z",
+      "opponent": "Nick Recchia",
+      "opponentSlug": "83334-nicholas-recchia",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Time 31",
+      "eventSlug": "35556-fight-time-31",
+      "round": 1,
+      "timeInRound": "2:23"
+    },
+    {
+      "date": "2016-01-23T00:00:00.000Z",
+      "opponent": "Francisco Segrado",
+      "opponentSlug": "100673-francisco-segrado",
+      "result": "win",
+      "method": "sub",
+      "event": "Combat Night 54",
+      "eventSlug": "37925-combat-night-54",
+      "round": 2,
+      "timeInRound": "1:57"
+    },
+    {
+      "date": "2015-10-03T00:00:00.000Z",
+      "opponent": "Jemel Wilson",
+      "opponentSlug": "114718-jemel-wilson",
+      "result": "win",
+      "method": "other",
+      "event": "Combat Night 51",
+      "eventSlug": "35847-combat-night-51",
+      "round": 1,
+      "timeInRound": "0:06"
+    },
+    {
+      "date": "2015-09-18T00:00:00.000Z",
+      "opponent": "Kyle Eberts",
+      "opponentSlug": "58369-kyle-eberts",
+      "result": "win",
+      "method": "other",
+      "event": "Knuckle Up 3",
+      "eventSlug": "35465-knuckle-up-3",
+      "round": 1,
+      "timeInRound": "2:09"
+    },
+    {
+      "date": "2015-07-20T00:00:00.000Z",
+      "opponent": "Luis Betancourt",
+      "opponentSlug": "86087-luis-betancourt",
+      "result": "win",
+      "method": "other",
+      "event": "Undisputed Florida Fighting Championship 1",
+      "eventSlug": "33750-undisputed-florida-fighting-championship",
+      "round": 1,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2015-07-11T00:00:00.000Z",
+      "opponent": "Louis Brewington",
+      "opponentSlug": "138128-louis-brewington",
+      "result": "win",
+      "method": "other",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "0:33"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:37:27.315Z"
+}

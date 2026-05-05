@@ -1,0 +1,88 @@
+{
+  "slug": "51980-stacey-sigala",
+  "name": "Stacey Sigala",
+  "nickname": "Mad Dawg",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1990-12-10",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/51980-stacey-sigala",
+  "recentFights": [
+    {
+      "date": "2015-11-20T00:00:00.000Z",
+      "opponent": "Nicco Montaño",
+      "opponentSlug": "78912-nicco-montano",
+      "result": "loss",
+      "method": "tko",
+      "event": "KOTC: Evolution",
+      "eventSlug": "36396-kotc-evolution",
+      "round": 1,
+      "timeInRound": "4:15"
+    },
+    {
+      "date": "2014-12-06T00:00:00.000Z",
+      "opponent": "Jessica Zomcik",
+      "opponentSlug": "33866-jessica-zomcik-the-dna-princess",
+      "result": "loss",
+      "method": "sub",
+      "event": "Gladiators of the Cage",
+      "eventSlug": "27433-gladiators-of-the-cage-north-shores-rise-to-power-7",
+      "round": 1,
+      "timeInRound": "1:16"
+    },
+    {
+      "date": "2013-09-28T00:00:00.000Z",
+      "opponent": "Tsui-Jen Cunanan",
+      "opponentSlug": "16857-tsui-jen-cunanan-soo-bee-doo",
+      "result": "loss",
+      "method": "sub",
+      "event": "Rocktagon MMA 29",
+      "eventSlug": "20608-rocktagon-mma-29-journey-of-champions",
+      "round": 1,
+      "timeInRound": "0:48"
+    },
+    {
+      "date": "2013-07-26T00:00:00.000Z",
+      "opponent": "Jazmine Quezada",
+      "opponentSlug": "36136-jazmine-quezada",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Rocktagon MMA 28",
+      "eventSlug": "19752-rocktagon-mma-28",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-10-13T00:00:00.000Z",
+      "opponent": "Maureen Riordon",
+      "opponentSlug": "30484-maureen-riordon",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-04-21T00:00:00.000Z",
+      "opponent": "JJ Aldrich",
+      "opponentSlug": "28420-jj-aldrich",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:02:01.184Z"
+}

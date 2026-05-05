@@ -1,0 +1,154 @@
+{
+  "slug": "45048-seiichiro-ito",
+  "name": "Seiichiro Ito",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 18,
+    "losses": 4,
+    "draws": 2
+  },
+  "recordAmateur": null,
+  "heightCm": 163,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1993-12-03",
+  "nationality": "Japan",
+  "url": "https://www.tapology.com/fightcenter/fighters/45048-seiichiro-ito",
+  "recentFights": [
+    {
+      "date": "2026-04-29T00:00:00.000Z",
+      "opponent": "Tatsumitsu Wada",
+      "opponentSlug": "4803-tatsumitsu-wada",
+      "result": null,
+      "method": "other",
+      "event": "ONE Samurai 1",
+      "eventSlug": "137460-one-175",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-07-21T00:00:00.000Z",
+      "opponent": "Muhammad Salohidinov",
+      "opponentSlug": "359869-muhammad-salohiddinov",
+      "result": "win",
+      "method": "sub",
+      "event": "Pancrase 346",
+      "eventSlug": "114046-pancrase-346",
+      "round": 3,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2023-12-24T00:00:00.000Z",
+      "opponent": "Naoki Arikawa",
+      "opponentSlug": "138582-naoki",
+      "result": "win",
+      "method": "sub",
+      "event": "Pancrase 340",
+      "eventSlug": "102698-pancrase-340-30-year-anniversary",
+      "round": 2,
+      "timeInRound": "3:05"
+    },
+    {
+      "date": "2023-06-04T00:00:00.000Z",
+      "opponent": "Taiki Akiba",
+      "opponentSlug": "58937-taiki-akiba",
+      "result": "win",
+      "method": "sub",
+      "event": "Pancrase 334",
+      "eventSlug": "100777-pancrase-334",
+      "round": 1,
+      "timeInRound": "4:39"
+    },
+    {
+      "date": "2022-12-25T00:00:00.000Z",
+      "opponent": "Masatoshi Ueda",
+      "opponentSlug": "44855-masatatsu-ueda-shoryu",
+      "result": "win",
+      "method": "sub",
+      "event": "Pancrase 330",
+      "eventSlug": "96740-pancrase-330",
+      "round": 2,
+      "timeInRound": "1:26"
+    },
+    {
+      "date": "2021-10-24T00:00:00.000Z",
+      "opponent": "Kunta Hashimoto",
+      "opponentSlug": "201486-kunta-hashimoto",
+      "result": "win",
+      "method": "sub",
+      "event": "RIZIN 31",
+      "eventSlug": "83059-rizin-31",
+      "round": 2,
+      "timeInRound": "4:07"
+    },
+    {
+      "date": "2020-11-22T00:00:00.000Z",
+      "opponent": "Yuta Hamamoto",
+      "opponentSlug": "173637-yuta-hamamoto-cat",
+      "result": "win",
+      "method": "other",
+      "event": "ZST 69",
+      "eventSlug": "76445-zst-69",
+      "round": 1,
+      "timeInRound": "4:40"
+    },
+    {
+      "date": "2020-08-10T00:00:00.000Z",
+      "opponent": "Makoto Takahashi",
+      "opponentSlug": "128155-makoto-takahashi",
+      "result": "loss",
+      "method": "sub",
+      "event": "RIZIN 23",
+      "eventSlug": "70858-rizin-23",
+      "round": 2,
+      "timeInRound": "4:30"
+    },
+    {
+      "date": "2019-04-21T00:00:00.000Z",
+      "opponent": "Manel Kape",
+      "opponentSlug": "70075-manel-kape-prodigio",
+      "result": "loss",
+      "method": "other",
+      "event": "RIZIN 15",
+      "eventSlug": "57558-rizin-15",
+      "round": 2,
+      "timeInRound": "3:59"
+    },
+    {
+      "date": "2018-10-28T00:00:00.000Z",
+      "opponent": "Tatsuki Saomoto",
+      "opponentSlug": "93127-saomoto-mikio",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ZST 62",
+      "eventSlug": "56688-zst-62",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-16T00:00:00.000Z",
+      "opponent": "Kizaemon Saiga",
+      "opponentSlug": "78100-kizaemon-saiga",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "RIZIN 2017 in Yokohama",
+      "eventSlug": "43479-rizin-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-03T00:00:00.000Z",
+      "opponent": "Nobutaka Naito",
+      "opponentSlug": "53085-koki-naito",
+      "result": "win",
+      "method": "other",
+      "event": "GRANDSLAM 5",
+      "eventSlug": "41904-grandslam-5-way-of-the-cage",
+      "round": 2,
+      "timeInRound": "4:59"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:07:46.449Z"
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "75174-fabio-diaz-coyote",
+  "name": "Fabio Diaz",
+  "nickname": "Coyote",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/75174-fabio-diaz-coyote",
+  "recentFights": [
+    {
+      "date": "2017-01-28T00:00:00.000Z",
+      "opponent": "André Luis",
+      "opponentSlug": "76266-andr-luis-bulldog",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-03-12T00:00:00.000Z",
+      "opponent": "Victor Valenzuela",
+      "opponentSlug": "67389-victor-valenzuela-sicosis",
+      "result": "loss",
+      "method": "other",
+      "event": "MFC 12",
+      "eventSlug": "37862-mfc-12",
+      "round": 1,
+      "timeInRound": "3:13"
+    },
+    {
+      "date": "2014-05-03T00:00:00.000Z",
+      "opponent": "Gabriel Miranda",
+      "opponentSlug": "36548-gabriel-miranda-fly",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:58:09.517Z"
+}

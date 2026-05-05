@@ -1,0 +1,165 @@
+{
+  "slug": "71441-alexandre-silva",
+  "name": "Alexandre Silva",
+  "nickname": "Pequeno",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 190,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1994-07-25",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/71441-alexandre-silva",
+  "recentFights": [
+    {
+      "date": "2024-01-20T00:00:00.000Z",
+      "opponent": "José Henrique",
+      "opponentSlug": "289580-jose-henrique-canela",
+      "result": "loss",
+      "method": "dec-majority",
+      "event": "CFC 17: REX MUNDI",
+      "eventSlug": "107527-cfc-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-24T00:00:00.000Z",
+      "opponent": "Wesley Sousa",
+      "opponentSlug": "316145-wesley-souza-piga",
+      "result": "win",
+      "method": "other",
+      "event": "K2MMA Pancada Fight 4",
+      "eventSlug": "107932-k2mma-pancada-fight-4",
+      "round": 2,
+      "timeInRound": "3:54"
+    },
+    {
+      "date": "2022-07-15T00:00:00.000Z",
+      "opponent": "Ewerton Polaquini",
+      "opponentSlug": "189661-ewerton-polanqui-hulk",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 136: Rio de Janeiro vs. São Paulo",
+      "eventSlug": "90492-lfa-136",
+      "round": 2,
+      "timeInRound": "4:00"
+    },
+    {
+      "date": "2022-02-26T00:00:00.000Z",
+      "opponent": "Vlasto Čepo",
+      "opponentSlug": "222562-vlasto-cepo",
+      "result": "loss",
+      "method": "tko",
+      "event": "OKTAGON 31",
+      "eventSlug": "85465-oktagon-31",
+      "round": 1,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2021-10-30T00:00:00.000Z",
+      "opponent": "Luiz Carlos Alves",
+      "opponentSlug": "86052-luiz-carlos-luizinho",
+      "result": "win",
+      "method": "other",
+      "event": "K2MMA Pancada Fight",
+      "eventSlug": "84523-cafc-4-pancada-fight",
+      "round": 2,
+      "timeInRound": "3:47"
+    },
+    {
+      "date": "2020-01-17T00:00:00.000Z",
+      "opponent": "Rodrigo Gomes",
+      "opponentSlug": "145235-rodrigo-gomes",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Future FC 11",
+      "eventSlug": "65684-future-fc-11-braga-vs-neto",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-28T00:00:00.000Z",
+      "opponent": "John Allan",
+      "opponentSlug": "55658-john-allan",
+      "result": "loss",
+      "method": "other",
+      "event": "Future FC 6",
+      "eventSlug": "59821-future-fc-6-panico-vs-marretinha",
+      "round": 2,
+      "timeInRound": "1:33"
+    },
+    {
+      "date": "2019-03-23T00:00:00.000Z",
+      "opponent": "Cairo Rocha",
+      "opponentSlug": "34041-cairo-rocha",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fusion Fight Festival 1",
+      "eventSlug": "58780-fusion-fight-festival-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-29T00:00:00.000Z",
+      "opponent": "Marco Tulio",
+      "opponentSlug": "165750-marco-tulio-silva",
+      "result": "win",
+      "method": "tko",
+      "event": "SFT 5",
+      "eventSlug": "55655-sft-5",
+      "round": 2,
+      "timeInRound": "3:52"
+    },
+    {
+      "date": "2018-04-22T00:00:00.000Z",
+      "opponent": "Paulo César",
+      "opponentSlug": "66024-paulo-csar-pc",
+      "result": "win",
+      "method": "other",
+      "event": "Thunder Fight",
+      "eventSlug": "53732-thunder-fight-cbmma-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-01-27T00:00:00.000Z",
+      "opponent": "Luiz Garcia",
+      "opponentSlug": "176753-luiz-garcia",
+      "result": "win",
+      "method": "tko",
+      "event": "Batalha MMA 11",
+      "eventSlug": "50601-batalha-mma-11",
+      "round": 1,
+      "timeInRound": "4:33"
+    },
+    {
+      "date": "2014-08-09T00:00:00.000Z",
+      "opponent": "Rodolfo César",
+      "opponentSlug": "77265-rodolfo-csar-cavalo",
+      "result": "win",
+      "method": "other",
+      "event": "Americas FC 2",
+      "eventSlug": "25719-americas-fc-2",
+      "round": 1,
+      "timeInRound": "0:57"
+    },
+    {
+      "date": "2014-05-24T00:00:00.000Z",
+      "opponent": "Daniel Silva",
+      "opponentSlug": "71359-daniel-silva-mo-de-broca",
+      "result": "win",
+      "method": "other",
+      "event": "Americas FC 1",
+      "eventSlug": "24642-afc-mma-1",
+      "round": 1,
+      "timeInRound": "4:16"
+    }
+  ],
+  "lastVerified": "2026-04-25T23:03:37.400Z"
+}

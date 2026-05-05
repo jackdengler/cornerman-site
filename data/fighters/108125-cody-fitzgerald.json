@@ -1,0 +1,81 @@
+{
+  "slug": "108125-cody-fitzgerald",
+  "name": "Cody Fitzgerald",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 5,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/108125-cody-fitzgerald",
+  "recentFights": [
+    {
+      "date": "2019-03-02T00:00:00.000Z",
+      "opponent": "Zach Platt",
+      "opponentSlug": "202072-zach-platter",
+      "result": "loss",
+      "method": "other",
+      "event": "Eternal MMA 41",
+      "eventSlug": "57696-eternal-mma-41",
+      "round": 1,
+      "timeInRound": "2:28"
+    },
+    {
+      "date": "2017-03-05T00:00:00.000Z",
+      "opponent": "Jamie Vo",
+      "opponentSlug": "127820-jamie-vo",
+      "result": "loss",
+      "method": "sub",
+      "event": "Eternal MMA 23",
+      "eventSlug": "43837-eternal-mma-24",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-07-25T00:00:00.000Z",
+      "opponent": "Jake Newton",
+      "opponentSlug": "108124-jake-newton",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Eternal MMA 11",
+      "eventSlug": "31969-eternal-mma-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-11-22T00:00:00.000Z",
+      "opponent": "Steve Erceg",
+      "opponentSlug": "132326-stephen-erceg",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-06-14T00:00:00.000Z",
+      "opponent": "Steve Erceg",
+      "opponentSlug": "132326-stephen-erceg",
+      "result": "loss",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 2,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:14:19.641Z"
+}

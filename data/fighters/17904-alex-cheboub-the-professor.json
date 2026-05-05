@@ -1,0 +1,132 @@
+{
+  "slug": "17904-alex-cheboub-the-professor",
+  "name": "Alex Cheboub",
+  "nickname": "The Professor",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 176,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1982-03-06",
+  "nationality": "South Africa",
+  "url": "https://www.tapology.com/fightcenter/fighters/17904-alex-cheboub-the-professor",
+  "recentFights": [
+    {
+      "date": "2015-02-21T00:00:00.000Z",
+      "opponent": "Themba Gorimbo",
+      "opponentSlug": "52251-themba-takura-gorimbo",
+      "result": "loss",
+      "method": "sub",
+      "event": "EFC Africa 37",
+      "eventSlug": "28156-efca",
+      "round": 1,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2014-05-01T00:00:00.000Z",
+      "opponent": "Wade Groth",
+      "opponentSlug": "17922-wade-groth-the-warrior",
+      "result": "loss",
+      "method": "other",
+      "event": "EFC Africa 29",
+      "eventSlug": "23311-efca-29-bagattin-vs-fadipe",
+      "round": 2,
+      "timeInRound": "4:06"
+    },
+    {
+      "date": "2014-02-27T00:00:00.000Z",
+      "opponent": "David van Schalkwyk",
+      "opponentSlug": "43693-mynhardt-van-schalkwyk-salvage",
+      "result": "win",
+      "method": "other",
+      "event": "EFC Africa 27",
+      "eventSlug": "21733-efca-27",
+      "round": 2,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2013-09-12T00:00:00.000Z",
+      "opponent": "Khalil Akleker",
+      "opponentSlug": "36168-khalil-akleker",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "EFC Africa 23",
+      "eventSlug": "19750-efca-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-06-27T00:00:00.000Z",
+      "opponent": "Sibusiso Mdoko",
+      "opponentSlug": "50412-sibusiso-mdoko-the-monster",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "EFC Africa 20",
+      "eventSlug": "18711-efca-20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-07-27T00:00:00.000Z",
+      "opponent": "Leon Mynhardt",
+      "opponentSlug": "17912-leon-mynhardt-the-iron-lion",
+      "result": "loss",
+      "method": "sub",
+      "event": "EFC Africa 15",
+      "eventSlug": "14476-efca-15",
+      "round": 2,
+      "timeInRound": "0:40"
+    },
+    {
+      "date": "2012-06-01T00:00:00.000Z",
+      "opponent": "Ashley Calvert",
+      "opponentSlug": "17948-ashley-calvert",
+      "result": "win",
+      "method": "other",
+      "event": "EFC Africa 14",
+      "eventSlug": "13576-efca-14",
+      "round": 2,
+      "timeInRound": "2:42"
+    },
+    {
+      "date": "2011-11-10T00:00:00.000Z",
+      "opponent": "Costa Ioannou",
+      "opponentSlug": "17903-costa-ioannou",
+      "result": "loss",
+      "method": "sub",
+      "event": "EFC Africa 11",
+      "eventSlug": "11105-efca-11",
+      "round": 3,
+      "timeInRound": "4:24"
+    },
+    {
+      "date": "2010-12-02T00:00:00.000Z",
+      "opponent": "William Bentley",
+      "opponentSlug": "17934-william-bentley-i-am",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-08-05T00:00:00.000Z",
+      "opponent": "Ian Swart",
+      "opponentSlug": "17992-ian-swart-chucky",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:54:57.336Z"
+}

@@ -1,0 +1,165 @@
+{
+  "slug": "237485-yousri-belgaroui-baby-face-assassin",
+  "name": "Yousri Belgaroui",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 198,
+  "reachCm": 201,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1992-06-02",
+  "nationality": "Amsterdam, Holland",
+  "url": "https://www.tapology.com/fightcenter/fighters/237485-yousri-belgaroui-baby-face-assassin",
+  "recentFights": [
+    {
+      "date": "2026-03-28T00:00:00.000Z",
+      "opponent": "Mansur Abdul-Malik",
+      "opponentSlug": "236993-mansur-abdul-malik",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "136873-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "3:39"
+    },
+    {
+      "date": "2025-10-18T00:00:00.000Z",
+      "opponent": "Azamat Bekoev",
+      "opponentSlug": "137588-azamat-bekoev",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "129312-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "0:55"
+    },
+    {
+      "date": "2024-09-10T00:00:00.000Z",
+      "opponent": "Taiga Iwasaki",
+      "opponentSlug": "265430-iwasaki",
+      "result": "win",
+      "method": "other",
+      "event": "Contender Series 2024",
+      "eventSlug": "112922-contender-series-2024-week-5",
+      "round": 3,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2024-02-18T00:00:00.000Z",
+      "opponent": "Ahmed Sami",
+      "opponentSlug": "88534-ahmed-sami-lee",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Levels Fight League 11",
+      "eventSlug": "108500-levels-fight-league-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-10-29T00:00:00.000Z",
+      "opponent": "Giorgi Kvelidze",
+      "opponentSlug": "181783-giorgi-kvelidze",
+      "result": "win",
+      "method": "other",
+      "event": "Levels Fight League 10",
+      "eventSlug": "104156-levels-fight-league-10",
+      "round": 1,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2023-08-29T00:00:00.000Z",
+      "opponent": "Marco Tulio",
+      "opponentSlug": "165750-marco-tulio-silva",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Contender Series 2023",
+      "eventSlug": "100994-contender-series-2023-week-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-24T00:00:00.000Z",
+      "opponent": "Stefan Pretorius",
+      "opponentSlug": "82997-stefan-pretorious",
+      "result": "win",
+      "method": "other",
+      "event": "UAE Warriors 35",
+      "eventSlug": "97926-uae-warriors-35",
+      "round": 2,
+      "timeInRound": "0:43"
+    },
+    {
+      "date": "2023-02-05T00:00:00.000Z",
+      "opponent": "Bogdan Kotlovyanov",
+      "opponentSlug": "81724-bogdan-kotlovyanov",
+      "result": "win",
+      "method": "other",
+      "event": "Levels Fight League 7",
+      "eventSlug": "95756-levels-fight-league-7",
+      "round": 1,
+      "timeInRound": "1:15"
+    },
+    {
+      "date": "2022-07-03T00:00:00.000Z",
+      "opponent": "Mohamad Osseili",
+      "opponentSlug": "276230-mohamad-osseili",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UAE Warriors 31",
+      "eventSlug": "89635-uae-warriors-31",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-25T00:00:00.000Z",
+      "opponent": "Samir Zaidi",
+      "opponentSlug": "134051-samir-zaidi",
+      "result": "win",
+      "method": "tko",
+      "event": "UAE Warriors 27",
+      "eventSlug": "87615-uae-warriors-27-arabia",
+      "round": 1,
+      "timeInRound": "4:32"
+    },
+    {
+      "date": "2022-02-25T00:00:00.000Z",
+      "opponent": "Ahmed Sami",
+      "opponentSlug": "88534-ahmed-sami-lee",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UAE Warriors 25",
+      "eventSlug": "87058-uae-warriors-25-africa",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-19T00:00:00.000Z",
+      "opponent": "Sallah-Eddine Dekhissi",
+      "opponentSlug": "79022-sallah-dekhissi",
+      "result": "win",
+      "method": "tko",
+      "event": "UAE Warriors 17",
+      "eventSlug": "77795-uae-warriors-17-arabia-2",
+      "round": 1,
+      "timeInRound": "2:44"
+    },
+    {
+      "date": "2021-01-22T00:00:00.000Z",
+      "opponent": "Badreddine Diani",
+      "opponentSlug": "171521-badreddine-diani",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UAE Warriors Arabia",
+      "eventSlug": "76392-uae-warriors-arabia",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:03:23.826Z"
+}

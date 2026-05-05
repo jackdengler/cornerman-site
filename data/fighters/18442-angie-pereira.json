@@ -1,0 +1,44 @@
+{
+  "slug": "18442-angie-pereira",
+  "name": "Angie Pereira",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/18442-angie-pereira",
+  "recentFights": [
+    {
+      "date": "2009-11-07T00:00:00.000Z",
+      "opponent": "Jenny Trujillo",
+      "opponentSlug": "15600-jenny-trujillo",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "X-1 World Events 29",
+      "eventSlug": "7684-x-1-world-events-23-scuffle-on-schofield-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-01-19T00:00:00.000Z",
+      "opponent": "JJ Aldrich",
+      "opponentSlug": "28420-jj-aldrich",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:01:54.036Z"
+}

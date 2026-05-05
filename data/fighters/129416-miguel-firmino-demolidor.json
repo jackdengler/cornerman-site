@@ -1,0 +1,198 @@
+{
+  "slug": "129416-miguel-firmino-demolidor",
+  "name": "Miguel Firmino",
+  "nickname": "Demolidor",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/129416-miguel-firmino-demolidor",
+  "recentFights": [
+    {
+      "date": "2025-03-22T00:00:00.000Z",
+      "opponent": "Simon Biyong",
+      "opponentSlug": "156999-simon-binyom",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cage FS 17",
+      "eventSlug": "121883-cage-fs-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-16T00:00:00.000Z",
+      "opponent": "Fabio Aguiar",
+      "opponentSlug": "103527-fabio-aguiar",
+      "result": "loss",
+      "method": "sub",
+      "event": "Jungle Fight 132",
+      "eventSlug": "120058-jungle-fight-132",
+      "round": 3,
+      "timeInRound": "3:33"
+    },
+    {
+      "date": "2024-10-19T00:00:00.000Z",
+      "opponent": "Thiago Buarque",
+      "opponentSlug": "48669-thiago-buarque-silva-boi",
+      "result": "win",
+      "method": "other",
+      "event": "GVT 5",
+      "eventSlug": "120362-gvt-5",
+      "round": 1,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2024-03-02T00:00:00.000Z",
+      "opponent": "Maicon Douglas",
+      "opponentSlug": "167078-maicon-mamute",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "GVT 4",
+      "eventSlug": "110932-gvt-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-10-21T00:00:00.000Z",
+      "opponent": "Ednaldo Oliveira",
+      "opponentSlug": "6617-edinaldo-oliveira-lula",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Fight On 8",
+      "eventSlug": "106589-fight-on-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-01T00:00:00.000Z",
+      "opponent": "Fernando Filho",
+      "opponentSlug": "274586-fernando-luiz-da-costa",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "NFC 25",
+      "eventSlug": "104305-nfc-25",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-12T00:00:00.000Z",
+      "opponent": "João Paulo Fagundes",
+      "opponentSlug": "130089-joo-paulo-king",
+      "result": "loss",
+      "method": "dec-majority",
+      "event": "Paraíba Fight 3",
+      "eventSlug": "103512-paraiba-fight-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-04T00:00:00.000Z",
+      "opponent": "Nivaldo Neto",
+      "opponentSlug": "373664-neto-aranha",
+      "result": "win",
+      "method": "other",
+      "event": "GVT 3",
+      "eventSlug": "97701-gvt-3",
+      "round": 2,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2023-02-12T00:00:00.000Z",
+      "opponent": "Marcelo Cruz",
+      "opponentSlug": "39088-marcelo-cruz",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Thunder Fight 41",
+      "eventSlug": "95762-thunder-fight-40-legends",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-30T00:00:00.000Z",
+      "opponent": "Vitor Costa",
+      "opponentSlug": "241252-vitor-costa",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "LFA 143: Lopes vs. Paiva",
+      "eventSlug": "92701-lfa-143-lopes-vs-paiva",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-18T00:00:00.000Z",
+      "opponent": "Jeff dos Santos",
+      "opponentSlug": "35191-jefferson-santos",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Number 1 Fight Series 5",
+      "eventSlug": "89921-number-1-fight-series",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-27T00:00:00.000Z",
+      "opponent": "Marcos Luz",
+      "opponentSlug": "243630-marcos-antonio-luz-santos",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Brazilian Fighting Series 7",
+      "eventSlug": "86057-brazilian-fighting-series-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-19T00:00:00.000Z",
+      "opponent": "Djorden Santos",
+      "opponentSlug": "67529-diorden-maguila",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Thunder Fight 33",
+      "eventSlug": "84138-thunder-fight-33-legends",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-19T00:00:00.000Z",
+      "opponent": "Marcos Átila",
+      "opponentSlug": "106367-talo-guerra",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LMI Brasil 1",
+      "eventSlug": "79311-lmi",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-17T00:00:00.000Z",
+      "opponent": "Marcelo Gomes",
+      "opponentSlug": "246883-marcelo-gomes-baby-face",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ReciFight 6",
+      "eventSlug": "77915-recifight-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-08-30T00:00:00.000Z",
+      "opponent": "Willyanedson Paiva",
+      "opponentSlug": "129387-willyanedson-paiva",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:03:53.106Z"
+}

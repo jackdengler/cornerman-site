@@ -1,0 +1,134 @@
+{
+  "slug": "367343-jett-fisher",
+  "name": "Jett Fisher",
+  "nickname": "The Wolverine",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 173,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "2004-08-30",
+  "nationality": "Melborne",
+  "url": "https://www.tapology.com/fightcenter/fighters/367343-jett-fisher",
+  "recentFights": [
+    {
+      "date": "2026-03-14T00:00:00.000Z",
+      "opponent": "Alexander Ponoris",
+      "opponentSlug": "232001-alex-poniris",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 104",
+      "eventSlug": "140115-eternal-mma-104",
+      "round": 1,
+      "timeInRound": "0:18"
+    },
+    {
+      "date": "2025-08-30T00:00:00.000Z",
+      "opponent": "Emre Han Hekimoglu",
+      "opponentSlug": "260240-emre-han-hekimoglu",
+      "result": "loss",
+      "method": "other",
+      "event": "HEX Fight Series 36",
+      "eventSlug": "120779-hex-fight-series-36",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2025-05-31T00:00:00.000Z",
+      "opponent": "Jonathan Kuhn",
+      "opponentSlug": "227432-jonathan-kuhn",
+      "result": "win",
+      "method": "sub",
+      "event": "HEX Fight Series 35",
+      "eventSlug": "120778-hex-fight-series-35",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-01T00:00:00.000Z",
+      "opponent": "Dane Edge",
+      "opponentSlug": "318384-dane-edge",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "HEX Fight Series 34",
+      "eventSlug": "120777-hex-fight-series-34",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-23T00:00:00.000Z",
+      "opponent": "Oscar Marlow",
+      "opponentSlug": "349628-oscar-marlow",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "HEX Fight Series 33",
+      "eventSlug": "117576-hex-fight-series-33",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "allFights": [
+    {
+      "date": "2026-03-14T00:00:00.000Z",
+      "opponent": "Alexander Ponoris",
+      "opponentSlug": "232001-alex-poniris",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 104",
+      "eventSlug": "140115-eternal-mma-104",
+      "round": 1,
+      "timeInRound": "0:18"
+    },
+    {
+      "date": "2025-08-30T00:00:00.000Z",
+      "opponent": "Emre Han Hekimoglu",
+      "opponentSlug": "260240-emre-han-hekimoglu",
+      "result": "loss",
+      "method": "other",
+      "event": "HEX Fight Series 36",
+      "eventSlug": "120779-hex-fight-series-36",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2025-05-31T00:00:00.000Z",
+      "opponent": "Jonathan Kuhn",
+      "opponentSlug": "227432-jonathan-kuhn",
+      "result": "win",
+      "method": "sub",
+      "event": "HEX Fight Series 35",
+      "eventSlug": "120778-hex-fight-series-35",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-01T00:00:00.000Z",
+      "opponent": "Dane Edge",
+      "opponentSlug": "318384-dane-edge",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "HEX Fight Series 34",
+      "eventSlug": "120777-hex-fight-series-34",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-23T00:00:00.000Z",
+      "opponent": "Oscar Marlow",
+      "opponentSlug": "349628-oscar-marlow",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "HEX Fight Series 33",
+      "eventSlug": "117576-hex-fight-series-33",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-05-03T10:17:37.901Z"
+}

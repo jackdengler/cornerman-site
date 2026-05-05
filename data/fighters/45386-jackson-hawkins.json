@@ -1,0 +1,59 @@
+{
+  "slug": "45386-jackson-hawkins",
+  "name": "Jackson Hawkins",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1988-02-03",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/45386-jackson-hawkins",
+  "recentFights": [
+    {
+      "date": "2014-07-26T00:00:00.000Z",
+      "opponent": "Dez Moore",
+      "opponentSlug": "59323-dez-moore",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Legacy Amateur Series 17",
+      "eventSlug": "25443-legacy-amateur-series-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-11-23T00:00:00.000Z",
+      "opponent": "Junior Flores",
+      "opponentSlug": "52879-junior-flores",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Cowboys Extreme Cagefighting",
+      "eventSlug": "21397-cowboys-extreme-cagefighting",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-05-05T00:00:00.000Z",
+      "opponent": "Alexander Hernandez",
+      "opponentSlug": "46253-alexander-hernandez",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:35:47.421Z"
+}

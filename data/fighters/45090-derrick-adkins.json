@@ -1,0 +1,253 @@
+{
+  "slug": "45090-derrick-adkins",
+  "name": "Derrick Adkins",
+  "nickname": "A-Game",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": 187,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1989-12-12",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/45090-derrick-adkins",
+  "recentFights": [
+    {
+      "date": "2018-06-08T00:00:00.000Z",
+      "opponent": "Codale Ford",
+      "opponentSlug": "19522-codale-ford",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "HD MMA 12",
+      "eventSlug": "52235-hd-mma-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-10T00:00:00.000Z",
+      "opponent": "Alexander Hernandez",
+      "opponentSlug": "46253-alexander-hernandez",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 27: Watley vs. Wilson",
+      "eventSlug": "48696-lfa-27-watley-vs-wilson",
+      "round": 3,
+      "timeInRound": "1:53"
+    },
+    {
+      "date": "2017-08-04T00:00:00.000Z",
+      "opponent": "Kyle Driscoll",
+      "opponentSlug": "119657-kyle-driscoll",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 18: Aguilar vs. Rader",
+      "eventSlug": "47037-lfa-18-aguilar-vs-rader",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-06-30T00:00:00.000Z",
+      "opponent": "Dan Moret",
+      "opponentSlug": "32956-dan-moret",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 15: Odoms vs. Vanderaa",
+      "eventSlug": "46390-lfa-15-odoms-vs-vanderaa",
+      "round": 3,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2016-12-02T00:00:00.000Z",
+      "opponent": "Chris Jones",
+      "opponentSlug": "11325-chris-jones-lionheart",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 166",
+      "eventSlug": "41807-bellator-166",
+      "round": 2,
+      "timeInRound": "4:09"
+    },
+    {
+      "date": "2016-11-11T00:00:00.000Z",
+      "opponent": "Manny Muro",
+      "opponentSlug": "44771-luis-muro",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Legacy FC 62",
+      "eventSlug": "41502-legacy-fc-62",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-17T00:00:00.000Z",
+      "opponent": "Zac Church",
+      "opponentSlug": "29611-zac-church",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FCF 53",
+      "eventSlug": "41875-fcf-53",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-22T00:00:00.000Z",
+      "opponent": "Daryl Wilson",
+      "opponentSlug": "62350-daryl-wilson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Legacy FC 54",
+      "eventSlug": "38134-legacy-fc-54",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-03-12T00:00:00.000Z",
+      "opponent": "Jeremiah Jones",
+      "opponentSlug": "74309-jaremy-jones",
+      "result": "win",
+      "method": "sub",
+      "event": "FCF 51: Larock vs. Frazier",
+      "eventSlug": "38604-fcf-51",
+      "round": 1,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2015-12-04T00:00:00.000Z",
+      "opponent": "Chris Harris",
+      "opponentSlug": "30858-chris-harris",
+      "result": "loss",
+      "method": "other",
+      "event": "EFC 2: The Evolution Continues",
+      "eventSlug": "36527-efc-2-the-evolution-continues",
+      "round": 2,
+      "timeInRound": "0:52"
+    },
+    {
+      "date": "2015-11-13T00:00:00.000Z",
+      "opponent": "Marcus Penland",
+      "opponentSlug": "19455-marcus-penland",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "HD MMA 3",
+      "eventSlug": "36239-hd-mma-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-11T00:00:00.000Z",
+      "opponent": "Jesse Chaffin",
+      "opponentSlug": "19579-jesse-chaffin",
+      "result": "win",
+      "method": "other",
+      "event": "Legacy FC 45",
+      "eventSlug": "34315-legacy-fc-45-todhunter-vs-smith",
+      "round": 1,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2015-06-13T00:00:00.000Z",
+      "opponent": "Derrick Williams",
+      "opponentSlug": "45113-derrick-williams",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-04-23T00:00:00.000Z",
+      "opponent": "Alfred Walker",
+      "opponentSlug": "30193-alfred-walker",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-27T00:00:00.000Z",
+      "opponent": "Christian Camp",
+      "opponentSlug": "92016-christian-camp",
+      "result": "win",
+      "method": "dec-split",
+      "event": "HD MMA 1: Rampage at Remington 1",
+      "eventSlug": "30985-hd-promotions-rampage-at-remington-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-01-10T00:00:00.000Z",
+      "opponent": "Mark Davis Jr.",
+      "opponentSlug": "90078-mark-davis-jr",
+      "result": "win",
+      "method": "sub",
+      "event": "OFC 4",
+      "eventSlug": "29111-ofc-4",
+      "round": 3,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2014-09-26T00:00:00.000Z",
+      "opponent": "Daryl Wilson",
+      "opponentSlug": "62350-daryl-wilson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Legacy FC 35",
+      "eventSlug": "25440-legacy-fc-35-dennis-vs-leite",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-07-11T00:00:00.000Z",
+      "opponent": "Jose Martinez",
+      "opponentSlug": "62351-jose-martinez",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Rage in the Cage OKC 29",
+      "eventSlug": "25286-rage-in-the-cage-okc-29",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-05-17T00:00:00.000Z",
+      "opponent": "Nelson Norman",
+      "opponentSlug": "34368-nelson-norman",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "BattleGrounds MMA 4",
+      "eventSlug": "24437-bgmma-4-smith-vs-lindsay",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-10-26T00:00:00.000Z",
+      "opponent": "Bert Ramos",
+      "opponentSlug": "57471-bert-ramos",
+      "result": "win",
+      "method": "tko",
+      "event": "BattleGrounds MMA 2",
+      "eventSlug": "21222-thunderbird-fight-night-2",
+      "round": 1,
+      "timeInRound": "0:18"
+    },
+    {
+      "date": "2013-04-13T00:00:00.000Z",
+      "opponent": "Dale Ford",
+      "opponentSlug": "45091-dale-ford",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Rage in the Cage OKC 20",
+      "eventSlug": "18339-rage-in-the-cage-20",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:35:27.283Z"
+}

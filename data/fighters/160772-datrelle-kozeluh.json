@@ -1,0 +1,209 @@
+{
+  "slug": "160772-datrelle-kozeluh",
+  "name": "Datrelle Kozeluh",
+  "nickname": "DKO",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1999-05-15",
+  "nationality": "Chicago, Illinois, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/160772-datrelle-kozeluh",
+  "recentFights": [
+    {
+      "date": "2025-06-07T00:00:00.000Z",
+      "opponent": "Nate Smith",
+      "opponentSlug": "67804-nate-smith",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Chicago Cagefighting Championship",
+      "eventSlug": "127814-chicago-cagefighting-championship",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-11T00:00:00.000Z",
+      "opponent": "Darius Miller",
+      "opponentSlug": "255095-darius-miller",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Anthony Pettis FC 5",
+      "eventSlug": "100453-anthony-pettis-fc-5-milwaukee-fight-night-ii",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-04-23T00:00:00.000Z",
+      "opponent": "Earnest Walls",
+      "opponentSlug": "132345-earnest-walls",
+      "result": "win",
+      "method": "sub",
+      "event": "Anthony Pettis FC 4",
+      "eventSlug": "98572-anthony-pettis-fc-4-night-of-champions",
+      "round": 1,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2022-08-20T00:00:00.000Z",
+      "opponent": "Thomas Deleon",
+      "opponentSlug": "329357-thomas-deleon",
+      "result": "win",
+      "method": "other",
+      "event": "Elite Fight Night",
+      "eventSlug": "91368-elite-fight-night-title-time",
+      "round": 1,
+      "timeInRound": "0:15"
+    },
+    {
+      "date": "2021-08-14T00:00:00.000Z",
+      "opponent": "Cody Schieve",
+      "opponentSlug": "57376-cody-schieve",
+      "result": "win",
+      "method": "other",
+      "event": "EAFL: Elite Fight Night 1",
+      "eventSlug": "79881-eafl-elite-fight-night",
+      "round": 1,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2021-03-27T00:00:00.000Z",
+      "opponent": "Jared Ray",
+      "opponentSlug": "122666-jared-ray",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XFC Young Guns 1",
+      "eventSlug": "75684-xfc-youngguns-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-08-14T00:00:00.000Z",
+      "opponent": "Matthew Allison",
+      "opponentSlug": "148626-matt-allison",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combat Quest 9",
+      "eventSlug": "71616-combat-quest-9-revenge",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-15T00:00:00.000Z",
+      "opponent": "Ronny Hauser",
+      "opponentSlug": "165899-ronny-hauser",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Card Entertainment",
+      "eventSlug": "62848-fight-card-entertainment-takeover",
+      "round": 3,
+      "timeInRound": "0:55"
+    },
+    {
+      "date": "2019-03-30T00:00:00.000Z",
+      "opponent": "Michael Capone",
+      "opponentSlug": "148832-michael-capone",
+      "result": "win",
+      "method": "sub",
+      "event": "EAFL: Illinois vs. Virginia",
+      "eventSlug": "58462-eafl-illinois-vs-virginia",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2019-02-23T00:00:00.000Z",
+      "opponent": "Oscar Jurado Sánchez",
+      "opponentSlug": "178522-oscar-alejandro-jurado-snchez",
+      "result": "win",
+      "method": "other",
+      "event": "CCC: The Comeback",
+      "eventSlug": "58112-ccc-the-comeback",
+      "round": 1,
+      "timeInRound": "1:36"
+    },
+    {
+      "date": "2018-09-02T00:00:00.000Z",
+      "opponent": "Javier Coronado",
+      "opponentSlug": "167309-javier-coronado",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "Fight Card Entertainment",
+      "eventSlug": "53843-fight-card-entertainment-supremacy",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-08T00:00:00.000Z",
+      "opponent": "Jose Leon",
+      "opponentSlug": "121471-jose-leon",
+      "result": "draw",
+      "method": "dec-split",
+      "event": "XFO: Noche De Lucha",
+      "eventSlug": "52953-xfo-noche-de-lucha",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-15T00:00:00.000Z",
+      "opponent": "Anthony Farfan",
+      "opponentSlug": "142618-anthony-farfan",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Total Fight Challenge",
+      "eventSlug": "47691-total-fight-challenge",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-05T00:00:00.000Z",
+      "opponent": "Kurtis Ellis",
+      "opponentSlug": "131732-kurtis-ellis",
+      "result": "win",
+      "method": "sub",
+      "event": "XFO 62: Outdoor War 13",
+      "eventSlug": "45924-xfo-62-outdoor-war-13",
+      "round": 1,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2017-07-14T00:00:00.000Z",
+      "opponent": "Tucker Newling",
+      "opponentSlug": "141660-tucker-newling",
+      "result": "win",
+      "method": "sub",
+      "event": "Total Fight Challenge",
+      "eventSlug": "46260-total-fight-challenge",
+      "round": 1,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2017-05-25T00:00:00.000Z",
+      "opponent": "Adrian Haro",
+      "opponentSlug": "160773-oscar-haro",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Card Entertainment",
+      "eventSlug": "44345-fight-card-entertainment-victory",
+      "round": 1,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2017-05-25T00:00:00.000Z",
+      "opponent": "Adrian Haro",
+      "opponentSlug": "160773-oscar-haro",
+      "result": "win",
+      "method": "tko",
+      "event": "Fight Card Entertainment",
+      "eventSlug": "44345-fight-card-entertainment-victory",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:43:23.922Z"
+}

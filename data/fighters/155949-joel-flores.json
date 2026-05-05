@@ -1,0 +1,77 @@
+{
+  "slug": "155949-joel-flores",
+  "name": "Joel Flores Jr.",
+  "nickname": "The Latin Assassin",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/155949-joel-flores",
+  "recentFights": [
+    {
+      "date": "2023-06-11T00:00:00.000Z",
+      "opponent": "Oscar Jurado Sánchez",
+      "opponentSlug": "178522-oscar-alejandro-jurado-snchez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Anthony Pettis FC 5",
+      "eventSlug": "100453-anthony-pettis-fc-5-milwaukee-fight-night-ii",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-01-15T00:00:00.000Z",
+      "opponent": "Pierre Hampton",
+      "opponentSlug": "115185-pierre-hampton",
+      "result": "win",
+      "method": "sub",
+      "event": "NAFC: Super Brawl",
+      "eventSlug": "84764-north-american-fighting-championship-super-brawl",
+      "round": 1,
+      "timeInRound": "4:37"
+    },
+    {
+      "date": "2018-09-21T00:00:00.000Z",
+      "opponent": "Daniel Soriano",
+      "opponentSlug": "173503-daniel-soriano",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 50: Allen vs. Hiley",
+      "eventSlug": "54853-lfa-50-allen-vs-hiley",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-19T00:00:00.000Z",
+      "opponent": "Clay Raider",
+      "opponentSlug": "141828-clay-raider",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "XFO: Rocktown Showdown 33",
+      "eventSlug": "52010-xfo-rocktown-showdown-33",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-16T00:00:00.000Z",
+      "opponent": "Mario Gomez",
+      "opponentSlug": "173502-mario-gomez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "A-Town Throwdown 12",
+      "eventSlug": "48890-a-town-throwdown-12",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:43:02.458Z"
+}

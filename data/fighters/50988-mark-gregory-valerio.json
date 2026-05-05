@@ -1,0 +1,231 @@
+{
+  "slug": "50988-mark-gregory-valerio",
+  "name": "Mark Gregory Valerio",
+  "nickname": "Vicious",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 9,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Philippines",
+  "url": "https://www.tapology.com/fightcenter/fighters/50988-mark-gregory-valerio",
+  "recentFights": [
+    {
+      "date": "2024-10-26T00:00:00.000Z",
+      "opponent": "Mhar John Manahan",
+      "opponentSlug": "173487-mharjohn-manahan",
+      "result": "loss",
+      "method": "sub",
+      "event": "Zeus Combat League 2",
+      "eventSlug": "117975-zeus-combat-league-2-sprmcy",
+      "round": 3,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2024-05-25T00:00:00.000Z",
+      "opponent": "Rone Deliu",
+      "opponentSlug": "425622-rone-deliu-half-breed",
+      "result": "win",
+      "method": "sub",
+      "event": "Zeus Combat League 1",
+      "eventSlug": "114312-zeus-combat-league-ground-zero",
+      "round": 1,
+      "timeInRound": "0:58"
+    },
+    {
+      "date": "2024-01-20T00:00:00.000Z",
+      "opponent": "Jaures Dea",
+      "opponentSlug": "149491-juares-dea-crazy-cameroonian",
+      "result": "win",
+      "method": "other",
+      "event": "UAE Warriors 46",
+      "eventSlug": "109076-uae-warriors-46",
+      "round": 1,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2023-05-19T00:00:00.000Z",
+      "opponent": "Hussein Salem",
+      "opponentSlug": "77146-hussein-salem",
+      "result": "win",
+      "method": "other",
+      "event": "UAE Warriors 41",
+      "eventSlug": "101078-uae-warriors-41-arabia-11",
+      "round": 1,
+      "timeInRound": "0:11"
+    },
+    {
+      "date": "2023-02-25T00:00:00.000Z",
+      "opponent": "Dennis Buzukja",
+      "opponentSlug": "131561-dennis-buzukia",
+      "result": "loss",
+      "method": "other",
+      "event": "UAE Warriors 36",
+      "eventSlug": "98071-uae-warriors-36",
+      "round": 1,
+      "timeInRound": "3:57"
+    },
+    {
+      "date": "2019-11-29T00:00:00.000Z",
+      "opponent": "James Bishop",
+      "opponentSlug": "95779-james-bishop",
+      "result": "loss",
+      "method": "other",
+      "event": "UAE Warriors 9",
+      "eventSlug": "64344-uae-warriors-4",
+      "round": 2,
+      "timeInRound": "2:28"
+    },
+    {
+      "date": "2019-10-27T00:00:00.000Z",
+      "opponent": "Ernie Braca",
+      "opponentSlug": "69361-ernie-braca",
+      "result": "loss",
+      "method": "other",
+      "event": "UGB 26: Game On",
+      "eventSlug": "65213-ugb-26-game-on",
+      "round": 1,
+      "timeInRound": "3:45"
+    },
+    {
+      "date": "2019-04-27T00:00:00.000Z",
+      "opponent": "Adonis Sevilleno",
+      "opponentSlug": "136626-adonis-sevilleno-ahbdon",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "URCC 77: Raw Fury",
+      "eventSlug": "59101-urcc-77-raw-fury",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-23T00:00:00.000Z",
+      "opponent": "Kangkang Fu",
+      "opponentSlug": "131087-kang-kang-fu",
+      "result": "loss",
+      "method": null,
+      "event": "Yunfeng Showdown 12",
+      "eventSlug": "60457-yunfeng-showdown-3-global-kung-fu-masters",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-14T00:00:00.000Z",
+      "opponent": "Mario Sismundo",
+      "opponentSlug": "26462-mario-sismundo",
+      "result": "win",
+      "method": "tko",
+      "event": "URCC Bets 7",
+      "eventSlug": "55541-urcc-bets-7",
+      "round": 2,
+      "timeInRound": "4:20"
+    },
+    {
+      "date": "2018-05-05T00:00:00.000Z",
+      "opponent": "Morteza Minbashi",
+      "opponentSlug": "26812-morteza-minbashi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Team Lakay Championship 15",
+      "eventSlug": "53512-team-lakay-championship-xv-the-kapangan-mma-invasion-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-09T00:00:00.000Z",
+      "opponent": "Dondon Bislig",
+      "opponentSlug": "85193-dondon-bislig",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "3:45"
+    },
+    {
+      "date": "2017-09-02T00:00:00.000Z",
+      "opponent": "Kai Tang",
+      "opponentSlug": "131298-kai-tang",
+      "result": "loss",
+      "method": "other",
+      "event": "Rebel FC 6: China vs The World",
+      "eventSlug": "47412-rebel-fc-6-china-vs-the-world",
+      "round": 2,
+      "timeInRound": "3:48"
+    },
+    {
+      "date": "2017-02-24T00:00:00.000Z",
+      "opponent": "Joven Superales",
+      "opponentSlug": "96236-joven-superales",
+      "result": "win",
+      "method": "dec-split",
+      "event": "SAFC 47",
+      "eventSlug": "46815-safc-47",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-02-17T00:00:00.000Z",
+      "opponent": "Roel Rio",
+      "opponentSlug": "78305-ruel-rio",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-17T00:00:00.000Z",
+      "opponent": "Marvin Mateo",
+      "opponentSlug": "148329-marvin-mateo",
+      "result": "win",
+      "method": "other",
+      "event": "Dynasty Fights 1",
+      "eventSlug": "42291-dynasty-fights",
+      "round": 1,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2016-01-22T00:00:00.000Z",
+      "opponent": "Jeorey Orao",
+      "opponentSlug": "103393-jeorey-orao",
+      "result": "loss",
+      "method": "other",
+      "event": "UGB MMA Championship 13",
+      "eventSlug": "37732-ugb-mma-championship-13-foreign-invasion",
+      "round": 2,
+      "timeInRound": "0:54"
+    },
+    {
+      "date": "2015-10-24T00:00:00.000Z",
+      "opponent": "Guzman Pia-Yas",
+      "opponentSlug": "30580-guzman-pia-yas-the-flashlight",
+      "result": "win",
+      "method": "other",
+      "event": "Spartacus Combat MMA",
+      "eventSlug": "37209-spartacus-mma-spartacus-mma",
+      "round": 1,
+      "timeInRound": "2:14"
+    },
+    {
+      "date": "2013-07-05T00:00:00.000Z",
+      "opponent": "Jun Paderna",
+      "opponentSlug": "50833-wennie-paderna",
+      "result": "loss",
+      "method": "other",
+      "event": "KOTC: Worldwide",
+      "eventSlug": "19022-kotc-worldwide",
+      "round": 2,
+      "timeInRound": "3:27"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:12:51.844Z"
+}

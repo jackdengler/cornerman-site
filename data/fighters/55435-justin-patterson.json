@@ -1,0 +1,231 @@
+{
+  "slug": "55435-justin-patterson",
+  "name": "Justin Patterson",
+  "nickname": "The Tactician",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": 187,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1985-12-07",
+  "nationality": "Arlington, Texas",
+  "url": "https://www.tapology.com/fightcenter/fighters/55435-justin-patterson",
+  "recentFights": [
+    {
+      "date": "2023-10-20T00:00:00.000Z",
+      "opponent": "Anthony Ivy",
+      "opponentSlug": "52881-anthony-ivy",
+      "result": "loss",
+      "method": "other",
+      "event": "XKO 64: Fight Night",
+      "eventSlug": "104764-xko-64-fight-night",
+      "round": 1,
+      "timeInRound": "3:15"
+    },
+    {
+      "date": "2020-03-06T00:00:00.000Z",
+      "opponent": "Matt Dixon",
+      "opponentSlug": "140878-matt-dixon",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 83: Jackson vs. Chaulet",
+      "eventSlug": "66606-lfa-83-jackson-vs-chaulet",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-29T00:00:00.000Z",
+      "opponent": "Derrick Krantz",
+      "opponentSlug": "4212-derrick-krantz-d-rock",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 63: Krantz vs. Patterson",
+      "eventSlug": "58594-lfa-63-krantz-vs-patterson",
+      "round": 1,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2018-11-30T00:00:00.000Z",
+      "opponent": "Ramiz Brahimaj",
+      "opponentSlug": "129794-ramiz-brahimaj",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 55: Johns vs. Yanez",
+      "eventSlug": "56314-lfa-55-johns-vs-yanez",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-02T00:00:00.000Z",
+      "opponent": "Brian Grinnell",
+      "opponentSlug": "19523-brian-grinnell",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 195",
+      "eventSlug": "49796-bellator-caldwell-vs-higo",
+      "round": 1,
+      "timeInRound": "4:49"
+    },
+    {
+      "date": "2017-10-06T00:00:00.000Z",
+      "opponent": "Chance Rencountre",
+      "opponentSlug": "54332-chance-rencountre",
+      "result": "loss",
+      "method": "other",
+      "event": "Bellator 184",
+      "eventSlug": "46977-bellator-184-dantas-vs-caldwell",
+      "round": 1,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2017-03-31T00:00:00.000Z",
+      "opponent": "Joaquin Buckley",
+      "opponentSlug": "55022-joaquin-buckley",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bellator 175",
+      "eventSlug": "43920-bellator-175-rampage-vs-king-mo-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-03T00:00:00.000Z",
+      "opponent": "Jason Witt",
+      "opponentSlug": "53481-jason-witt",
+      "result": "win",
+      "method": "other",
+      "event": "Bellator 174",
+      "eventSlug": "43722-bellator-174-coenen-vs-budd",
+      "round": 3,
+      "timeInRound": "0:13"
+    },
+    {
+      "date": "2016-12-03T00:00:00.000Z",
+      "opponent": "Codale Ford",
+      "opponentSlug": "19522-codale-ford",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Bellator 167",
+      "eventSlug": "42185-bellator-167",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-08-26T00:00:00.000Z",
+      "opponent": "Jordan Plaisance",
+      "opponentSlug": "50234-jordan-plasiance",
+      "result": "loss",
+      "method": "tko",
+      "event": "RMMA 37",
+      "eventSlug": "41435-rmma-37",
+      "round": 3,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2016-03-04T00:00:00.000Z",
+      "opponent": "Chance Rencountre",
+      "opponentSlug": "54332-chance-rencountre",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Bellator 151",
+      "eventSlug": "37275-bellator-151-warren-vs-caldwell",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-20T00:00:00.000Z",
+      "opponent": "Codale Ford",
+      "opponentSlug": "19522-codale-ford",
+      "result": "loss",
+      "method": "sub",
+      "event": "Bellator 146",
+      "eventSlug": "34665-bellator-146",
+      "round": 1,
+      "timeInRound": "2:17"
+    },
+    {
+      "date": "2015-09-17T00:00:00.000Z",
+      "opponent": "Ozzie Alvarez",
+      "opponentSlug": "25869-ozzie-alvarez-the-outlaw",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combate Americas",
+      "eventSlug": "35026-combate-americas-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-02-28T00:00:00.000Z",
+      "opponent": "Le'Ville Simpson",
+      "opponentSlug": "27434-leville-simpson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Rocks Xtreme MMA 12",
+      "eventSlug": "29995-rocks-xtreme-mma-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-08-22T00:00:00.000Z",
+      "opponent": "Brandon Lyons",
+      "opponentSlug": "5267-brandon-lyons",
+      "result": "win",
+      "method": "tko",
+      "event": "RMMA 31",
+      "eventSlug": "26101-rmma-31",
+      "round": 2,
+      "timeInRound": "1:17"
+    },
+    {
+      "date": "2014-07-12T00:00:00.000Z",
+      "opponent": "Jon Cook",
+      "opponentSlug": "38761-jon-cook",
+      "result": "win",
+      "method": "tko",
+      "event": "24/7 Entertainment 14 & 15",
+      "eventSlug": "25020-247-entertainment-14-new-regime",
+      "round": 2,
+      "timeInRound": "2:36"
+    },
+    {
+      "date": "2013-10-26T00:00:00.000Z",
+      "opponent": "Yuri Santos",
+      "opponentSlug": "54756-yuri-santos",
+      "result": "win",
+      "method": "tko",
+      "event": "24/7 Entertainment 12",
+      "eventSlug": "21160-247-entertainment-12-state-of-emergency",
+      "round": 1,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2012-11-10T00:00:00.000Z",
+      "opponent": "Mark Lujan",
+      "opponentSlug": "16062-mark-lujan",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-03-23T00:00:00.000Z",
+      "opponent": "Eryk Anders",
+      "opponentSlug": "30666-eryk-anders",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:00:12.343Z"
+}

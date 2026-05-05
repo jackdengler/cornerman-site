@@ -1,0 +1,198 @@
+{
+  "slug": "8254-evan-vasquez",
+  "name": "Evan Vasquez Matus",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 6,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 172,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1984-03-18",
+  "nationality": "Costa Rica",
+  "url": "https://www.tapology.com/fightcenter/fighters/8254-evan-vasquez",
+  "recentFights": [
+    {
+      "date": "2015-11-21T00:00:00.000Z",
+      "opponent": "Sydney Machado",
+      "opponentSlug": "9093-sydney-machado",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CRF 19",
+      "eventSlug": "36180-crf-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-02-21T00:00:00.000Z",
+      "opponent": "Gunther Lutz",
+      "opponentSlug": "83528-gunter-lutz",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "CRF 15",
+      "eventSlug": "29425-crf-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-12-20T00:00:00.000Z",
+      "opponent": "Victor Valenzuela",
+      "opponentSlug": "67389-victor-valenzuela-sicosis",
+      "result": "win",
+      "method": "sub",
+      "event": "Arena Tour 4",
+      "eventSlug": "26464-arena-tour-4",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-04-10T00:00:00.000Z",
+      "opponent": "Leonardo Rodriguez",
+      "opponentSlug": "78227-leonardo-rodriguez-lion",
+      "result": "draw",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-12-11T00:00:00.000Z",
+      "opponent": "Alejandro Solano Rodriguez",
+      "opponentSlug": "6638-alejandro-solano-rodriguez-mandarina",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-12-19T00:00:00.000Z",
+      "opponent": "Alfredo Morales",
+      "opponentSlug": "15898-alfredo-morales-tsunami",
+      "result": "win",
+      "method": "sub",
+      "event": "CRFL Champ vs. Champ 4",
+      "eventSlug": "23467-crfl-champ-vs-champ-4",
+      "round": 1,
+      "timeInRound": "2:18"
+    },
+    {
+      "date": "2012-04-28T00:00:00.000Z",
+      "opponent": "LaVerne Clark",
+      "opponentSlug": "laverne-clark",
+      "result": "win",
+      "method": "sub",
+      "event": "Coco Beach Brawl",
+      "eventSlug": "20009-coco-beach-brawl",
+      "round": 1,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2011-08-30T00:00:00.000Z",
+      "opponent": "Mike Wilkins",
+      "opponentSlug": "25904-mike-wilkins",
+      "result": "win",
+      "method": "sub",
+      "event": "MMA/Toshi Costa Rica",
+      "eventSlug": "13492-mmatoshi-costa-rica-champ-vs-champ",
+      "round": 1,
+      "timeInRound": "4:50"
+    },
+    {
+      "date": "2011-04-15T00:00:00.000Z",
+      "opponent": "Julio Rodriguez Ho",
+      "opponentSlug": "83006-julio-rodriguez-ho",
+      "result": "win",
+      "method": "sub",
+      "event": "UCC 2011",
+      "eventSlug": "27565-ucc-2011-ucc-6",
+      "round": 1,
+      "timeInRound": "3:22"
+    },
+    {
+      "date": "2010-09-01T00:00:00.000Z",
+      "opponent": "Alejandro Solano Rodriguez",
+      "opponentSlug": "6638-alejandro-solano-rodriguez-mandarina",
+      "result": "nc",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-09-22T00:00:00.000Z",
+      "opponent": "Saad Awad",
+      "opponentSlug": "saad-awad-assassin",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-07-21T00:00:00.000Z",
+      "opponent": "Manuel Chacon Camarena",
+      "opponentSlug": "66237-manuel-chacon",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-03-16T00:00:00.000Z",
+      "opponent": "Wady Salgado",
+      "opponentSlug": "19083-wady-salgado",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2006-12-01T00:00:00.000Z",
+      "opponent": "Allan Marin",
+      "opponentSlug": "32745-allan-marin",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2006-12-01T00:00:00.000Z",
+      "opponent": "Ariel Sexton",
+      "opponentSlug": "8053-ariel-sexton-tarzan",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2006-09-08T00:00:00.000Z",
+      "opponent": "Alejandro Villalobos",
+      "opponentSlug": "3930-alejandro-villalobos",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:58:14.204Z"
+}

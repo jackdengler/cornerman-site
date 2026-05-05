@@ -1,0 +1,99 @@
+{
+  "slug": "48101-jeramy-burford",
+  "name": "Jeramy Burford",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1983-05-27",
+  "nationality": "Portland, Oregon",
+  "url": "https://www.tapology.com/fightcenter/fighters/48101-jeramy-burford",
+  "recentFights": [
+    {
+      "date": "2018-05-26T00:00:00.000Z",
+      "opponent": "Eric McConico",
+      "opponentSlug": "112634-eric-mcconico",
+      "result": "loss",
+      "method": "other",
+      "event": "KOTC: Grand Finale",
+      "eventSlug": "52003-kotc-grande-finale",
+      "round": 1,
+      "timeInRound": "4:16"
+    },
+    {
+      "date": "2017-05-13T00:00:00.000Z",
+      "opponent": "Scott Baker",
+      "opponentSlug": "43288-scott-baker",
+      "result": "win",
+      "method": "sub",
+      "event": "Rumble at the Roseland 92",
+      "eventSlug": "45220-rumble-at-the-roseland-92",
+      "round": 1,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2015-06-13T00:00:00.000Z",
+      "opponent": "Hiroyuki Tetsuka",
+      "opponentSlug": "39909-hiroyuki-tetsuka-last-samurai",
+      "result": "loss",
+      "method": "sub",
+      "event": "Rumble at the Roseland 82",
+      "eventSlug": "33032-rumble-at-the-roseland-82",
+      "round": 1,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2015-01-24T00:00:00.000Z",
+      "opponent": "Sean Clemons",
+      "opponentSlug": "35846-sean-clemons",
+      "result": "win",
+      "method": "tko",
+      "event": "Rumble at the Roseland 80",
+      "eventSlug": "28571-rumble-at-the-roseland-80",
+      "round": 1,
+      "timeInRound": "0:22"
+    },
+    {
+      "date": "2014-05-31T00:00:00.000Z",
+      "opponent": "Chris Moran",
+      "opponentSlug": "72045-chris-moran",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Knucklehead 9",
+      "eventSlug": "24216-knucklehead-9-dallas-cage-fights",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-12-07T00:00:00.000Z",
+      "opponent": "Cameron Ericson",
+      "opponentSlug": "43233-cameron-ericson",
+      "result": "loss",
+      "method": "sub",
+      "event": "Rumble at the Roseland 75",
+      "eventSlug": "21235-rumble-at-the-roseland-75",
+      "round": 1,
+      "timeInRound": "2:13"
+    },
+    {
+      "date": "2013-05-18T00:00:00.000Z",
+      "opponent": "Scott Baker",
+      "opponentSlug": "43288-scott-baker",
+      "result": "win",
+      "method": "sub",
+      "event": "Rumble at the Roseland 71",
+      "eventSlug": "18157-rumble-at-the-roseland-71",
+      "round": 1,
+      "timeInRound": "2:22"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:52:30.583Z"
+}

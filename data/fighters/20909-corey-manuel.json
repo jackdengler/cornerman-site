@@ -1,0 +1,37 @@
+{
+  "slug": "20909-corey-manuel",
+  "name": "Corey Manuel",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1977-09-06",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/20909-corey-manuel",
+  "recentFights": [
+    {
+      "date": "2012-01-28T00:00:00.000Z",
+      "opponent": "Ryan Spann",
+      "opponentSlug": "20908-ryan-spann",
+      "result": "loss",
+      "method": "sub",
+      "event": "G1 Fights: Sovereign Valor",
+      "eventSlug": "12285-g1-fights-sovereign-valor",
+      "round": 1,
+      "timeInRound": "0:16"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:51:24.896Z"
+}

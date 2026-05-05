@@ -1,0 +1,198 @@
+{
+  "slug": "62403-ukasz-witos",
+  "name": "Łukasz Witos",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 184,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Poland",
+  "url": "https://www.tapology.com/fightcenter/fighters/62403-ukasz-witos",
+  "recentFights": [
+    {
+      "date": "2017-09-23T00:00:00.000Z",
+      "opponent": "Nikolai Grynchuk",
+      "opponentSlug": "106786-mykola-hrynchuk",
+      "result": "loss",
+      "method": "other",
+      "event": "Spartan Fight 8",
+      "eventSlug": "47678-spartan-fight-8",
+      "round": 1,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2017-04-29T00:00:00.000Z",
+      "opponent": "Mohammad Fakhreddine",
+      "opponentSlug": "77056-mohammad-fakhreddine",
+      "result": "loss",
+      "method": "tko",
+      "event": "Brave CF 6",
+      "eventSlug": "45147-brave-cf-6",
+      "round": 1,
+      "timeInRound": "4:24"
+    },
+    {
+      "date": "2016-12-17T00:00:00.000Z",
+      "opponent": "Andrey Vlasov",
+      "opponentSlug": "56396-andrey-vlasov",
+      "result": "win",
+      "method": "other",
+      "event": "Spartan Fight 6",
+      "eventSlug": "42222-spartan-fight-6",
+      "round": 3,
+      "timeInRound": "4:06"
+    },
+    {
+      "date": "2016-08-06T00:00:00.000Z",
+      "opponent": "Michał Labus",
+      "opponentSlug": "60104-michal-labus",
+      "result": "win",
+      "method": "sub",
+      "event": "Spartan Fight 4",
+      "eventSlug": "39873-spartan-fight-4",
+      "round": 1,
+      "timeInRound": "4:19"
+    },
+    {
+      "date": "2016-01-09T00:00:00.000Z",
+      "opponent": "Antoni Chmielewski",
+      "opponentSlug": "7150-antoni-chmielewski-antonio",
+      "result": "loss",
+      "method": "other",
+      "event": "PLMMA 62: AFC 6",
+      "eventSlug": "36253-plmma-62",
+      "round": 1,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2015-06-19T00:00:00.000Z",
+      "opponent": "Robert Bryczek",
+      "opponentSlug": "26244-robert-bryczek",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "PLMMA 56: Veto",
+      "eventSlug": "29924-plmma-53-bielsko-biaa",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-05-02T00:00:00.000Z",
+      "opponent": "Konrad Płaza",
+      "opponentSlug": "62065-konrad-paza-bambi",
+      "result": "win",
+      "method": "other",
+      "event": "Thunderstrike Fight League 7",
+      "eventSlug": "29657-thunderstrike-fight-league-7",
+      "round": 1,
+      "timeInRound": "3:33"
+    },
+    {
+      "date": "2014-10-24T00:00:00.000Z",
+      "opponent": "Dominik Chmiel",
+      "opponentSlug": "60127-dominik-chmiel",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "PLMMA 41: Extra - Legionowo",
+      "eventSlug": "24242-plmma-legionowo",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-08-23T00:00:00.000Z",
+      "opponent": "Antonio Stanic",
+      "opponentSlug": "77906-antonio-stanic",
+      "result": "win",
+      "method": "other",
+      "event": "Noc Góralskich Wojowników",
+      "eventSlug": "25336-noc-gralskich-wojownikw",
+      "round": 1,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2014-04-12T00:00:00.000Z",
+      "opponent": "Paweł Hadaś",
+      "opponentSlug": "56309-pawel-hadas",
+      "result": "loss",
+      "method": "sub",
+      "event": "PLMMA 31: Extra",
+      "eventSlug": "22327-plmma-30",
+      "round": 1,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2013-11-23T00:00:00.000Z",
+      "opponent": "Damian Okliński",
+      "opponentSlug": "62446-damian-oklinski",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-05-03T00:00:00.000Z",
+      "opponent": "Marek Boris",
+      "opponentSlug": "62447-marek-boris",
+      "result": "win",
+      "method": "other",
+      "event": "Coloseum 14",
+      "eventSlug": "19057-coloseum-14-w-cieniu-wielkiej-krokwi",
+      "round": 1,
+      "timeInRound": "4:06"
+    },
+    {
+      "date": "2012-12-28T00:00:00.000Z",
+      "opponent": "Dawid Haras",
+      "opponentSlug": "48897-dawid-haras",
+      "result": "win",
+      "method": "sub",
+      "event": "Coloseum 13",
+      "eventSlug": "18239-mmac-13-highlander-tango",
+      "round": 1,
+      "timeInRound": "0:29"
+    },
+    {
+      "date": "2014-05-24T00:00:00.000Z",
+      "opponent": "Konrad Płaza",
+      "opponentSlug": "62065-konrad-paza-bambi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ALMMA 61: Puchar Polski MMA 2014",
+      "eventSlug": "74967-almma-61-puchar-polski-mma-2014",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-05-24T00:00:00.000Z",
+      "opponent": "Mikołaj Mataśka",
+      "opponentSlug": "117258-mikoaj-mataka",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ALMMA 61: Puchar Polski MMA 2014",
+      "eventSlug": "74967-almma-61-puchar-polski-mma-2014",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-05-24T00:00:00.000Z",
+      "opponent": "Mariusz Chrobot",
+      "opponentSlug": "369412-mariusz-chrobot",
+      "result": "win",
+      "method": "sub",
+      "event": "ALMMA 61: Puchar Polski MMA 2014",
+      "eventSlug": "74967-almma-61-puchar-polski-mma-2014",
+      "round": 1,
+      "timeInRound": "4:00"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:18:25.667Z"
+}

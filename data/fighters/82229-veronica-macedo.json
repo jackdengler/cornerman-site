@@ -1,0 +1,220 @@
+{
+  "slug": "82229-veronica-macedo",
+  "name": "Veronica Hardy",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 5,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 163,
+  "reachCm": 163,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1995-10-30",
+  "nationality": "Caracas, Venezuela",
+  "url": "https://www.tapology.com/fightcenter/fighters/82229-veronica-macedo",
+  "recentFights": [
+    {
+      "date": "2025-10-04T00:00:00.000Z",
+      "opponent": "Brogan Walker",
+      "opponentSlug": "78298-brogan-walker-killer-bee",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 320: Ankalaev vs. Pereira 2",
+      "eventSlug": "129311-ufc-320",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-11-16T00:00:00.000Z",
+      "opponent": "Eduarda Moura",
+      "opponentSlug": "292626-eduarda-moura",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 309: Jones vs. Miocic",
+      "eventSlug": "116669-ufc-309",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-11T00:00:00.000Z",
+      "opponent": "JJ Aldrich",
+      "opponentSlug": "28420-jj-aldrich",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "110365-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-02T00:00:00.000Z",
+      "opponent": "Jamey-Lyn Horth",
+      "opponentSlug": "148703-jamey-lyn-horth",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "104486-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-18T00:00:00.000Z",
+      "opponent": "Juliana Miller",
+      "opponentSlug": "114339-juliana-miller",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "eventSlug": "95408-ufc-286",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-03-14T00:00:00.000Z",
+      "opponent": "Bea Malecki",
+      "opponentSlug": "156566-bea-malecki",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC on ESPN+ 28",
+      "eventSlug": "64600-ufc-on-espn-26",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-08-10T00:00:00.000Z",
+      "opponent": "Polyana Viana",
+      "opponentSlug": "85751-polyana-mota-poly",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC on ESPN+ 14",
+      "eventSlug": "60313-ufc-on-espn-14",
+      "round": 1,
+      "timeInRound": "1:09"
+    },
+    {
+      "date": "2019-02-23T00:00:00.000Z",
+      "opponent": "Gillian Robertson",
+      "opponentSlug": "73142-gillian-robertson",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC on ESPN+ 3",
+      "eventSlug": "56350-ufc-fight-night-146",
+      "round": 2,
+      "timeInRound": "3:27"
+    },
+    {
+      "date": "2018-05-19T00:00:00.000Z",
+      "opponent": "Andrea Lee",
+      "opponentSlug": "47916-andrea-lee",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night 129",
+      "eventSlug": "50992-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-03T00:00:00.000Z",
+      "opponent": "Ashlee Evans-Smith",
+      "opponentSlug": "28705-ashlee-evans-smith",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night 93",
+      "eventSlug": "39753-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "2:46"
+    },
+    {
+      "date": "2016-08-14T00:00:00.000Z",
+      "opponent": "Irén Rácz",
+      "opponentSlug": "54146-irena-racz",
+      "result": "draw",
+      "method": "dec-majority",
+      "event": "INNFERNO Fighting Championship 2",
+      "eventSlug": "38908-innferno-fighting-championship-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-08T00:00:00.000Z",
+      "opponent": "Karine Gevorgyan",
+      "opponentSlug": "82608-karine-gevorgyan-princess",
+      "result": "win",
+      "method": "sub",
+      "event": "Mix Fight Events",
+      "eventSlug": "38800-mix-fight-events",
+      "round": 3,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2016-05-28T00:00:00.000Z",
+      "opponent": "Valérie Domergue",
+      "opponentSlug": "98284-valerie-domergue",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "HIT Fighting Championship 2",
+      "eventSlug": "37738-hit-fighting-championship-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-01T00:00:00.000Z",
+      "opponent": "Lilla Vincze",
+      "opponentSlug": "45616-lilla-vincze",
+      "result": "win",
+      "method": "other",
+      "event": "Ladies Fight Night 2",
+      "eventSlug": "38777-ladies-fight-night-2",
+      "round": 1,
+      "timeInRound": "2:13"
+    },
+    {
+      "date": "2016-03-26T00:00:00.000Z",
+      "opponent": "Camilla Hinze",
+      "opponentSlug": "89050-camilla-hinze",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Trophy MMA 8",
+      "eventSlug": "37409-trophy-mma-8-psksmllen",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-03-12T00:00:00.000Z",
+      "opponent": "Anne Merkt",
+      "opponentSlug": "62237-anne-merkt",
+      "result": "win",
+      "method": "dec-split",
+      "event": "We Love MMA 20",
+      "eventSlug": "37424-we-love-mma-20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-10-11T00:00:00.000Z",
+      "opponent": "Chrissy Audin",
+      "opponentSlug": "78761-chrissy-audin",
+      "result": "win",
+      "method": "other",
+      "event": "Say Uncle Fight Night 2",
+      "eventSlug": "26725-say-uncle-fight-night-2",
+      "round": 1,
+      "timeInRound": "0:24"
+    },
+    {
+      "date": "2014-09-27T00:00:00.000Z",
+      "opponent": "Angela Danzig",
+      "opponentSlug": "67168-angela-hancock",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:01:03.252Z"
+}

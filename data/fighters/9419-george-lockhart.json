@@ -1,0 +1,231 @@
+{
+  "slug": "9419-george-lockhart",
+  "name": "George Lockhart",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 12,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1983-01-26",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/9419-george-lockhart",
+  "recentFights": [
+    {
+      "date": "2013-12-13T00:00:00.000Z",
+      "opponent": "Keith Johnson",
+      "opponentSlug": "7318-keith-johnson",
+      "result": "loss",
+      "method": "sub",
+      "event": "NFC 61: Wild Bill's Fight Night 60",
+      "eventSlug": "21674-wild-bills-fight-night-61-a-fight-for-charity",
+      "round": 2,
+      "timeInRound": "4:58"
+    },
+    {
+      "date": "2013-07-19T00:00:00.000Z",
+      "opponent": "Gerald Meerschaert",
+      "opponentSlug": "6018-gerald-meerschaert-the-machine",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "NFC 58: Wild Bill's Fight Night 57",
+      "eventSlug": "19779-nfc-58-harvison-vs-weathers",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-06-08T00:00:00.000Z",
+      "opponent": "Adam Dehart",
+      "opponentSlug": "22165-adam-dehart",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "NFC 57: Wild Bill's Fight Night 56",
+      "eventSlug": "19335-wild-bills-fight-night-57",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-04-12T00:00:00.000Z",
+      "opponent": "Joel Powell",
+      "opponentSlug": "8030-joel-powell",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "NFC 55: Wild Bill's Fight Night 54",
+      "eventSlug": "18609-wild-bills-fight-night-54",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-07-31T00:00:00.000Z",
+      "opponent": "Bristol Marunde",
+      "opponentSlug": "bristol-marunde",
+      "result": "loss",
+      "method": "sub",
+      "event": "The Ultimate Fighter Season 16",
+      "eventSlug": "33259-the-ultimate-fighter-season-16",
+      "round": 1,
+      "timeInRound": "2:23"
+    },
+    {
+      "date": "2012-02-24T00:00:00.000Z",
+      "opponent": "Jarome Hatch",
+      "opponentSlug": "17289-jarome-hatch",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Showdown Fights 6",
+      "eventSlug": "12415-showdown-fights-breakout",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-11-13T00:00:00.000Z",
+      "opponent": "Cortez Coleman",
+      "opponentSlug": "cortez-coleman-hollywood",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-10-10T00:00:00.000Z",
+      "opponent": "Willie Smalls",
+      "opponentSlug": "12595-willie-smalls-steamin-willie-beamin",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-02-20T00:00:00.000Z",
+      "opponent": "Shonie Carter",
+      "opponentSlug": "shonie-carter-mr-international",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-05-30T00:00:00.000Z",
+      "opponent": "George Allen",
+      "opponentSlug": "2107-george-allen-a-dog",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-03-07T00:00:00.000Z",
+      "opponent": "TJ Cook",
+      "opponentSlug": "tj-cook",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-07-21T00:00:00.000Z",
+      "opponent": "Chris Crawford",
+      "opponentSlug": "8149-chris-crawford",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-04-21T00:00:00.000Z",
+      "opponent": "Kevin Brooks",
+      "opponentSlug": "7860-kevin-brooks",
+      "result": "win",
+      "method": "other",
+      "event": "ISCF: Battle Of Rome 2",
+      "eventSlug": "1222-fight-party-battle-of-rome-2",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2006-02-24T00:00:00.000Z",
+      "opponent": "Scott Harper",
+      "opponentSlug": "scott-harper-hardcore",
+      "result": "win",
+      "method": "other",
+      "event": "Knuckle Up 3",
+      "eventSlug": "5712-knuckle-up-3-young-guns",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2004-03-05T00:00:00.000Z",
+      "opponent": "Dave Garcia",
+      "opponentSlug": "3106-dave-garcia",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2003-07-11T00:00:00.000Z",
+      "opponent": "Ricky Folse",
+      "opponentSlug": "8536-ricky-folse",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2003-01-31T00:00:00.000Z",
+      "opponent": "Gene Gildea",
+      "opponentSlug": "22793-gene-gildea",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2002-07-06T00:00:00.000Z",
+      "opponent": "Mark Beecher",
+      "opponentSlug": "8067-mark-beacher-the-hyena",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2001-06-22T00:00:00.000Z",
+      "opponent": "Edwin Dewees",
+      "opponentSlug": "edwin-dewees-babyface",
+      "result": "loss",
+      "method": "other",
+      "event": "RITC 29: The Big Boys Are Back",
+      "eventSlug": "6871-ritc-29-the-big-boys-are-back",
+      "round": 1,
+      "timeInRound": "1:40"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:15:40.350Z"
+}

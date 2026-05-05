@@ -1,0 +1,121 @@
+{
+  "slug": "319820-norbert-pietrzak",
+  "name": "Norbert Pietrzak",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Gdańsk, Poland",
+  "url": "https://www.tapology.com/fightcenter/fighters/319820-norbert-pietrzak",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Michael Tchamou",
+      "opponentSlug": "226264-michael-tchamou",
+      "result": null,
+      "method": "other",
+      "event": "Cage Warriors 205",
+      "eventSlug": "138938-cage-warriors-205",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-12-06T00:00:00.000Z",
+      "opponent": "Charles Joyner",
+      "opponentSlug": "197201-charles-joyner",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 199",
+      "eventSlug": "134063-cage-warriors-199",
+      "round": 1,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2025-09-27T00:00:00.000Z",
+      "opponent": "Trevor Makengo",
+      "opponentSlug": "164020-trevor-makengo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Warriors 194",
+      "eventSlug": "129014-cage-warriors-194",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-07-13T00:00:00.000Z",
+      "opponent": "Darryl John",
+      "opponentSlug": "158639-darryl-john",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors Academy South East 35",
+      "eventSlug": "109459-cage-warriors-academy-south-east-35",
+      "round": 3,
+      "timeInRound": "1:46"
+    },
+    {
+      "date": "2024-03-02T00:00:00.000Z",
+      "opponent": "Ruairi Murphy",
+      "opponentSlug": "396230-ruairi-murphy",
+      "result": "win",
+      "method": "other",
+      "event": "Caestus MMA 2",
+      "eventSlug": "108356-caestus-mma-2",
+      "round": 2,
+      "timeInRound": "1:16"
+    },
+    {
+      "date": "2023-12-09T00:00:00.000Z",
+      "opponent": "Kevin De Matos",
+      "opponentSlug": "311497-kevin-de-matos",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors Academy South East 33",
+      "eventSlug": "107098-cage-warriors-academy-south-east-33",
+      "round": 3,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2023-10-07T00:00:00.000Z",
+      "opponent": "Nell Ariano",
+      "opponentSlug": "324885-nell-ariano",
+      "result": "nc",
+      "method": "other",
+      "event": "Cage Warriors Academy South East 32",
+      "eventSlug": "102375-cage-warriors-academy-south-east-32",
+      "round": 2,
+      "timeInRound": "0:53"
+    },
+    {
+      "date": "2023-04-29T00:00:00.000Z",
+      "opponent": "Kevin De Matos",
+      "opponentSlug": "311497-kevin-de-matos",
+      "result": "win",
+      "method": "sub",
+      "event": "Goliath Fight Series 3",
+      "eventSlug": "99467-goliath-fight-series-3",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-13T00:00:00.000Z",
+      "opponent": "Mikolaj Rowinski",
+      "opponentSlug": "319821-mikolaj-rowinski",
+      "result": "win",
+      "method": "other",
+      "event": "Machine MMA 28",
+      "eventSlug": "84664-machine-mma-28",
+      "round": 2,
+      "timeInRound": "2:58"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:05:29.479Z"
+}

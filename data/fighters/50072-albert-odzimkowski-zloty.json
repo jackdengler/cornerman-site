@@ -1,0 +1,154 @@
+{
+  "slug": "50072-albert-odzimkowski-zloty",
+  "name": "Albert Odzimkowski",
+  "nickname": "Dzik",
+  "aliases": [],
+  "recordPro": {
+    "wins": 16,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 191,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1988-01-01",
+  "nationality": "Radom, Poland",
+  "url": "https://www.tapology.com/fightcenter/fighters/50072-albert-odzimkowski-zloty",
+  "recentFights": [
+    {
+      "date": "2026-04-18T00:00:00.000Z",
+      "opponent": "Andi Vrtačić",
+      "opponentSlug": "257185-andi-vrtacic",
+      "result": null,
+      "method": "other",
+      "event": "KSW 117: Pawlak vs. Khalidov",
+      "eventSlug": "140146-ksw-117-de-fries-vs-wojcik",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-26T00:00:00.000Z",
+      "opponent": "Mikko Ahmala",
+      "opponentSlug": "55110-mikko-ahmala",
+      "result": "win",
+      "method": "other",
+      "event": "Strife 15",
+      "eventSlug": "132338-strife-15",
+      "round": 1,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2024-08-24T00:00:00.000Z",
+      "opponent": "David Hošek",
+      "opponentSlug": "185791-david-hosek",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 97: Bajor vs. Scheffel",
+      "eventSlug": "114692-ksw-97",
+      "round": 1,
+      "timeInRound": "4:12"
+    },
+    {
+      "date": "2023-11-11T00:00:00.000Z",
+      "opponent": "Jorge Bueno",
+      "opponentSlug": "161853-jorge-bueno-jorginho",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 88: Bitwa o Radom",
+      "eventSlug": "105211-ksw-88-bitwa-o-radom",
+      "round": 2,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2023-09-22T00:00:00.000Z",
+      "opponent": "Gil Carvalho",
+      "opponentSlug": "100532-gil-capoeira",
+      "result": "win",
+      "method": "other",
+      "event": "CAVEMMA 3: Rave in the Cave",
+      "eventSlug": "103407-cave-mma-3-rave-in-the-cave",
+      "round": 1,
+      "timeInRound": "1:55"
+    },
+    {
+      "date": "2022-11-12T00:00:00.000Z",
+      "opponent": "Henry Fadipe",
+      "opponentSlug": "18656-henry-fadipe",
+      "result": "loss",
+      "method": "other",
+      "event": "KSW 76: Parnasse vs. Rajewski",
+      "eventSlug": "92898-ksw-76",
+      "round": 2,
+      "timeInRound": "0:39"
+    },
+    {
+      "date": "2022-05-28T00:00:00.000Z",
+      "opponent": "Tommy Quinn",
+      "opponentSlug": "27719-tommy-quinn",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 70: Pudzian vs. Materla",
+      "eventSlug": "87780-ksw-70",
+      "round": 1,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2022-03-19T00:00:00.000Z",
+      "opponent": "Tommy Quinn",
+      "opponentSlug": "27719-tommy-quinn",
+      "result": "nc",
+      "method": "other",
+      "event": "KSW 68: Parnasse vs. Rutkowski",
+      "eventSlug": "86778-ksw-68",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-23T00:00:00.000Z",
+      "opponent": "Jason Radcliffe",
+      "opponentSlug": "17649-jason-radcliffe",
+      "result": "loss",
+      "method": "other",
+      "event": "KSW 64: Przybysz vs. Santos",
+      "eventSlug": "82372-ksw-64",
+      "round": 1,
+      "timeInRound": "3:42"
+    },
+    {
+      "date": "2020-12-19T00:00:00.000Z",
+      "opponent": "Christian Eckerlin",
+      "opponentSlug": "13589-Christian-Eckerlin",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "KSW 57: De Fries vs. Kita",
+      "eventSlug": "74099-ksw-57",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-07T00:00:00.000Z",
+      "opponent": "Michał Michalski",
+      "opponentSlug": "50974-michal-michalski",
+      "result": "loss",
+      "method": "other",
+      "event": "KSW 52: Askham vs. Khalidov",
+      "eventSlug": "62927-ksw-52-askhan-vs-mamedov",
+      "round": 1,
+      "timeInRound": "4:31"
+    },
+    {
+      "date": "2019-06-14T00:00:00.000Z",
+      "opponent": "Krzysztof Kułak",
+      "opponentSlug": "4239-krzysztof-kulak-model",
+      "result": "win",
+      "method": "other",
+      "event": "Armia Fight Night 6",
+      "eventSlug": "59465-armia-fight-night-6",
+      "round": 1,
+      "timeInRound": "1:21"
+    }
+  ],
+  "lastVerified": "2026-04-17T22:03:11.967Z"
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "299804-miguel-porto",
+  "name": "Miguel Porto",
+  "nickname": "Eagle",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 196,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1997-01-22",
+  "nationality": "Rio de Janeiro, Rio de Janeiro, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/299804-miguel-porto",
+  "recentFights": [
+    {
+      "date": "2026-01-23T00:00:00.000Z",
+      "opponent": "Leon Soares",
+      "opponentSlug": "130755-leon-soares-de-deus",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 225: Degli vs. Aguiar",
+      "eventSlug": "137876-lfa-225-degli-vs-aguiar",
+      "round": 1,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2024-01-27T00:00:00.000Z",
+      "opponent": "Kevin Christian",
+      "opponentSlug": "124745-kevin-christian",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 175: Lopes vs. Brigagão",
+      "eventSlug": "109002-lfa-175-lopes-vs-brigagao",
+      "round": 2,
+      "timeInRound": "0:39"
+    },
+    {
+      "date": "2023-07-07T00:00:00.000Z",
+      "opponent": "Rafael Tobias",
+      "opponentSlug": "332548-rafael-tobias-bipolar",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 162: Conceição vs. Lopes",
+      "eventSlug": "102000-lfa-162-prates-vs-antunes",
+      "round": 2,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2023-02-04T00:00:00.000Z",
+      "opponent": "Ryan Gandra",
+      "opponentSlug": "305914-ryan-gandra",
+      "result": "loss",
+      "method": "sub",
+      "event": "Spartacus MMA",
+      "eventSlug": "97507-spartacus-mma",
+      "round": 1,
+      "timeInRound": "4:19"
+    },
+    {
+      "date": "2022-09-03T00:00:00.000Z",
+      "opponent": "Rene Josias Nuñez",
+      "opponentSlug": "154147-rene-josias-nuez-chacon",
+      "result": "win",
+      "method": "other",
+      "event": "Spartacus MMA 11",
+      "eventSlug": "92385-spartacus-mma-11",
+      "round": 2,
+      "timeInRound": "1:17"
+    },
+    {
+      "date": "2022-04-24T00:00:00.000Z",
+      "opponent": "Lucas Sales",
+      "opponentSlug": "330596-lucas-sales",
+      "result": "win",
+      "method": "other",
+      "event": "Brazilian Fighting Series 9",
+      "eventSlug": "86059-brazilian-fighting-series-9",
+      "round": 1,
+      "timeInRound": "4:10"
+    },
+    {
+      "date": "2021-08-08T00:00:00.000Z",
+      "opponent": "Natanael Mattos",
+      "opponentSlug": "278953-natanael-matos-mamute",
+      "result": "win",
+      "method": "other",
+      "event": "Brazilian Fighting Series 1",
+      "eventSlug": "80460-brazilian-fighting-series-1",
+      "round": 1,
+      "timeInRound": "4:10"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:16:54.975Z"
+}

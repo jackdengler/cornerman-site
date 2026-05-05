@@ -1,0 +1,187 @@
+{
+  "slug": "236135-dimas-chapa",
+  "name": "Dimas Chapa",
+  "nickname": "The Chef",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/236135-dimas-chapa",
+  "recentFights": [
+    {
+      "date": "2024-09-22T00:00:00.000Z",
+      "opponent": "John Yannis",
+      "opponentSlug": "151617-john-yannies",
+      "result": "loss",
+      "method": "tko",
+      "event": "Fury FC 96: Silva vs. Gurule",
+      "eventSlug": "115513-fury-fc-96",
+      "round": 2,
+      "timeInRound": "1:59"
+    },
+    {
+      "date": "2024-05-12T00:00:00.000Z",
+      "opponent": "Daulet Karimulla",
+      "opponentSlug": "292148-daulet-karimulla",
+      "result": "win",
+      "method": "tko",
+      "event": "Fury FC 90: Saenz vs. Khera",
+      "eventSlug": "111453-fury-fc-90-dixon-vs-macklin",
+      "round": 2,
+      "timeInRound": "4:52"
+    },
+    {
+      "date": "2024-02-04T00:00:00.000Z",
+      "opponent": "Rommel Castellanos",
+      "opponentSlug": "317051-rommel-castellanos",
+      "result": "win",
+      "method": "other",
+      "event": "Fury Challenger Series 11",
+      "eventSlug": "107711-fury-challenger-series-11",
+      "round": 2,
+      "timeInRound": "3:24"
+    },
+    {
+      "date": "2023-10-22T00:00:00.000Z",
+      "opponent": "Anthony Valenzuela",
+      "opponentSlug": "57403-anthony-valenzuela",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fury Challenger Series 8",
+      "eventSlug": "104835-fury-challenger-series-8",
+      "round": 1,
+      "timeInRound": "4:40"
+    },
+    {
+      "date": "2023-09-01T00:00:00.000Z",
+      "opponent": "Elijah Smith",
+      "opponentSlug": "289643-elijah-smith",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fury Challenger Series 6",
+      "eventSlug": "103519-fury-challenger-series-6",
+      "round": 3,
+      "timeInRound": "2:09"
+    },
+    {
+      "date": "2023-05-21T00:00:00.000Z",
+      "opponent": "Armando Zuniga",
+      "opponentSlug": "251536-armando-zuniga",
+      "result": "win",
+      "method": "sub",
+      "event": "Fury Challenger Series 4",
+      "eventSlug": "100510-fury-challenger-series-4",
+      "round": 1,
+      "timeInRound": "3:48"
+    },
+    {
+      "date": "2023-02-05T00:00:00.000Z",
+      "opponent": "Robert Garcia",
+      "opponentSlug": "17030-zavier-garcia",
+      "result": "win",
+      "method": "tko",
+      "event": "Fury FC 74: Smotherman vs. Caballero",
+      "eventSlug": "96722-fury-fc-7",
+      "round": 1,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2022-12-02T00:00:00.000Z",
+      "opponent": "Gabriel Wanderley",
+      "opponentSlug": "251531-gabriel-wanderley",
+      "result": "loss",
+      "method": "sub",
+      "event": "PCS 2",
+      "eventSlug": "94271-pcs-2",
+      "round": 1,
+      "timeInRound": "2:09"
+    },
+    {
+      "date": "2021-10-29T00:00:00.000Z",
+      "opponent": "Austin Soileau",
+      "opponentSlug": "233194-austin-soileau",
+      "result": "win",
+      "method": "other",
+      "event": "AKA 18",
+      "eventSlug": "83851-aka-18",
+      "round": 3,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2021-06-25T00:00:00.000Z",
+      "opponent": "Austin Soileau",
+      "opponentSlug": "233194-austin-soileau",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "AKA 16",
+      "eventSlug": "79638-aka-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-11-13T00:00:00.000Z",
+      "opponent": "Jordan Woodle",
+      "opponentSlug": "183023-jordan-woodle",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "AKA 12",
+      "eventSlug": "73443-aka-12-professional-and-amateur-mma-fights",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-03-06T00:00:00.000Z",
+      "opponent": "Robert Link",
+      "opponentSlug": "162009-robert-link",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Rite of Passage 11",
+      "eventSlug": "65343-rite-of-passage-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-01-17T00:00:00.000Z",
+      "opponent": "Austin Soileau",
+      "opponentSlug": "233194-austin-soileau",
+      "result": "win",
+      "method": "other",
+      "event": "Bayou FC 44",
+      "eventSlug": "66092-bfc-44",
+      "round": 1,
+      "timeInRound": "2:43"
+    },
+    {
+      "date": "2019-11-15T00:00:00.000Z",
+      "opponent": "Wade Taylor",
+      "opponentSlug": "168417-wade-taylor",
+      "result": "win",
+      "method": "sub",
+      "event": "Rite of Passage 10",
+      "eventSlug": "62830-rite-of-passage-10",
+      "round": 3,
+      "timeInRound": "1:53"
+    },
+    {
+      "date": "2019-08-23T00:00:00.000Z",
+      "opponent": "Christopher Keeton",
+      "opponentSlug": "209585-christopher-keeton",
+      "result": "win",
+      "method": "sub",
+      "event": "Rite of Passage 9",
+      "eventSlug": "62151-knockout-chiari-black-tie-event",
+      "round": 3,
+      "timeInRound": "1:42"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:05:19.889Z"
+}

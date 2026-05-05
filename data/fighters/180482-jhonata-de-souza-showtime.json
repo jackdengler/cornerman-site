@@ -1,0 +1,99 @@
+{
+  "slug": "180482-jhonata-de-souza-showtime",
+  "name": "Jhonata Peres",
+  "nickname": "Showtime",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 163,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1994-12-21",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/180482-jhonata-de-souza-showtime",
+  "recentFights": [
+    {
+      "date": "2022-08-02T00:00:00.000Z",
+      "opponent": "Alberto Silva",
+      "opponentSlug": "142366-alberto-amorim-boyca",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Coari Champions 4",
+      "eventSlug": "91588-coari-champions-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-19T00:00:00.000Z",
+      "opponent": "Eduardo Castro",
+      "opponentSlug": "302828-eduardo-castro-jacarezinho",
+      "result": "loss",
+      "method": "sub",
+      "event": "Jungle Fight 108",
+      "eventSlug": "89737-jungle-fight-108",
+      "round": 1,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2021-12-11T00:00:00.000Z",
+      "opponent": "Giliarde da Silva",
+      "opponentSlug": "49164-gilliard-da-silva-wolverine",
+      "result": "win",
+      "method": "sub",
+      "event": "Titans Jungle Combat",
+      "eventSlug": "88558-titans-jungle-combat",
+      "round": 2,
+      "timeInRound": "1:46"
+    },
+    {
+      "date": "2019-04-13T00:00:00.000Z",
+      "opponent": "Alan Bruno",
+      "opponentSlug": "147054-alan-bruno",
+      "result": "win",
+      "method": "sub",
+      "event": "Coari Champions 2",
+      "eventSlug": "59334-coari-champions-2",
+      "round": 1,
+      "timeInRound": "4:35"
+    },
+    {
+      "date": "2018-11-03T00:00:00.000Z",
+      "opponent": "Elson Lima",
+      "opponentSlug": "184024-elson-monstrinho",
+      "result": "loss",
+      "method": "other",
+      "event": "MFC 2",
+      "eventSlug": "56202-mfc-2",
+      "round": 1,
+      "timeInRound": "3:42"
+    },
+    {
+      "date": "2017-11-04T00:00:00.000Z",
+      "opponent": "Fabio Lima",
+      "opponentSlug": "180471-fabio-lima-binho",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-27T00:00:00.000Z",
+      "opponent": "Lucas Rocha",
+      "opponentSlug": "192343-lucas-rocha-fenomeno",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:56:33.053Z"
+}

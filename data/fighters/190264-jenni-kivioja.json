@@ -1,0 +1,136 @@
+{
+  "slug": "190264-jenni-kivioja",
+  "name": "Jenni Kivioja",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 5,
+    "losses": 5,
+    "draws": 0
+  },
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1988-05-01",
+  "nationality": "Finland",
+  "url": "https://www.tapology.com/fightcenter/fighters/190264-jenni-kivioja",
+  "recentFights": [
+    {
+      "date": "2021-08-19T00:00:00.000Z",
+      "opponent": "Mariya Shirkanova",
+      "opponentSlug": "306272-mariya-shirkanova",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "IMMAF",
+      "eventSlug": "82048-immaf-european-open-senior-and-junior-championships-day-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-03-08T00:00:00.000Z",
+      "opponent": "Michelle Montague",
+      "opponentSlug": "237486-michell-montague",
+      "result": "loss",
+      "method": "sub",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "67973-immaf-wmmaa-oceania-open-championship-finals",
+      "round": 2,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2020-03-07T00:00:00.000Z",
+      "opponent": "Mel Webster",
+      "opponentSlug": "204375-mel-webster",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "67964-immaf-wmmaa-oceania-open-cup-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-14T00:00:00.000Z",
+      "opponent": "Sabrinna de Sousa",
+      "opponentSlug": "242374-sabrina-laurentina-de-sousa",
+      "result": "loss",
+      "method": "sub",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64428-immaf-wmmaa-amateur-world-championships-2019-day-4",
+      "round": 1,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2019-11-13T00:00:00.000Z",
+      "opponent": "Anastasiya Glotova",
+      "opponentSlug": "236474-anastasiya-glotova",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64319-immaf-wmmaa-amateur-world-championships-2019",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-17T00:00:00.000Z",
+      "opponent": "Julia Dorny",
+      "opponentSlug": "106938-julia-dorny",
+      "result": "loss",
+      "method": "sub",
+      "event": "2018 IMMAF-WMMAA Unified World Championships",
+      "eventSlug": "56565-2018-immaf-wmmaa-unified-world-championships-day-5-finals",
+      "round": 2,
+      "timeInRound": "2:09"
+    },
+    {
+      "date": "2018-11-15T00:00:00.000Z",
+      "opponent": "Katerina Dobroznay",
+      "opponentSlug": "141522-katerina-dobroznay",
+      "result": "win",
+      "method": "sub",
+      "event": "2018 IMMAF-WMMAA Unified World Championships",
+      "eventSlug": "56563-2018-immaf-wmmaa-unified-world-championships-day-4-cage-3",
+      "round": 2,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2018-06-22T00:00:00.000Z",
+      "opponent": "Julia Dorny",
+      "opponentSlug": "106938-julia-dorny",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "2018 IMMAF European Championships",
+      "eventSlug": "53928-2018-immaf-european-championships-day-5-finals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-21T00:00:00.000Z",
+      "opponent": "Fabiana Giampà",
+      "opponentSlug": "169456-fabiana-giampa",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "2018 IMMAF European Championships",
+      "eventSlug": "53931-2018-immaf-european-championships-day-4-semi-finals",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-20T00:00:00.000Z",
+      "opponent": "Jessica Forslund Reis",
+      "opponentSlug": "188147-jessica-forslund-reis",
+      "result": "win",
+      "method": "other",
+      "event": "2018 IMMAF European Championships",
+      "eventSlug": "53930-2018-immaf-european-championships-day-3-querter-finals",
+      "round": 1,
+      "timeInRound": "2:38"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:55:00.997Z"
+}

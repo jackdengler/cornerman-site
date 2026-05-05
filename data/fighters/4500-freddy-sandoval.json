@@ -1,0 +1,165 @@
+{
+  "slug": "4500-freddy-sandoval",
+  "name": "Freddy Sandoval",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 10,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 175,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1985-05-17",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/4500-freddy-sandoval",
+  "recentFights": [
+    {
+      "date": "2023-07-08T00:00:00.000Z",
+      "opponent": "Marco Sanchez",
+      "opponentSlug": "118534-marco-sanchez",
+      "result": "loss",
+      "method": "other",
+      "event": "Fierce Challenger Series 6",
+      "eventSlug": "102240-fierce-challenger-series-6",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2023-04-29T00:00:00.000Z",
+      "opponent": "Josh Watson",
+      "opponentSlug": "43592-josh-watson",
+      "result": "loss",
+      "method": "sub",
+      "event": "Battle MMA Championships 8",
+      "eventSlug": "95344-battle-mma-championships-8",
+      "round": 1,
+      "timeInRound": "2:02"
+    },
+    {
+      "date": "2022-11-04T00:00:00.000Z",
+      "opponent": "Eric McConico",
+      "opponentSlug": "112634-eric-mcconico",
+      "result": "loss",
+      "method": "sub",
+      "event": "Freedom Fight Night 3",
+      "eventSlug": "91340-freedom-fight-night-3-team-bader-vs-team-henderson",
+      "round": 1,
+      "timeInRound": "4:40"
+    },
+    {
+      "date": "2022-03-12T00:00:00.000Z",
+      "opponent": "Romero Cotton",
+      "opponentSlug": "161573-romero-cotton",
+      "result": "loss",
+      "method": "other",
+      "event": "Bellator 276",
+      "eventSlug": "86354-bellator-276",
+      "round": 1,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2009-09-26T00:00:00.000Z",
+      "opponent": "Sidiah Parker",
+      "opponentSlug": "19589-sidiah-parker",
+      "result": "loss",
+      "method": "other",
+      "event": "KOTC Underground 44",
+      "eventSlug": "6049-kotc-underground-44-forged-steel",
+      "round": 1,
+      "timeInRound": "4:38"
+    },
+    {
+      "date": "2009-08-15T00:00:00.000Z",
+      "opponent": "Drew Fickett",
+      "opponentSlug": "drew-fickett-the-master",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-05-30T00:00:00.000Z",
+      "opponent": "Robert Montiel",
+      "opponentSlug": "7940-robert-montiel",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-02-02T00:00:00.000Z",
+      "opponent": "Rocky Ramirez",
+      "opponentSlug": "16061-rocky-ramirez-the-angry-aztec",
+      "result": "draw",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-10-13T00:00:00.000Z",
+      "opponent": "Joshua Groves",
+      "opponentSlug": "7612-joshua-groves",
+      "result": "loss",
+      "method": "other",
+      "event": "KOTC: Hierarchy",
+      "eventSlug": "2424-kotc-underground-50-hierarchy",
+      "round": 1,
+      "timeInRound": "1:52"
+    },
+    {
+      "date": "2007-09-15T00:00:00.000Z",
+      "opponent": "Jake Collins",
+      "opponentSlug": "225901-jacob-collins",
+      "result": "loss",
+      "method": "other",
+      "event": "KOTC Underground 15",
+      "eventSlug": "747-kotc-underground-45-unstoppable",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-06-09T00:00:00.000Z",
+      "opponent": "Levi Stout",
+      "opponentSlug": "11277-levi-stout",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2006-06-18T00:00:00.000Z",
+      "opponent": "Jay Diamond",
+      "opponentSlug": "2728-jay-diamond",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2006-02-04T00:00:00.000Z",
+      "opponent": "Abe Vining",
+      "opponentSlug": "112113-abe-vining",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:52:18.725Z"
+}

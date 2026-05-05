@@ -1,0 +1,154 @@
+{
+  "slug": "114111-geir-kre-nyland",
+  "name": "Geir Kåre Cemsoylu Nyland",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Norway",
+  "url": "https://www.tapology.com/fightcenter/fighters/114111-geir-kre-nyland",
+  "recentFights": [
+    {
+      "date": "2021-03-06T00:00:00.000Z",
+      "opponent": "Rahmads Stromanis",
+      "opponentSlug": "233823-rahmads-stromanis",
+      "result": "loss",
+      "method": "ko",
+      "event": "Fight Club Rush 8",
+      "eventSlug": "76424-fight-club-rush-8",
+      "round": 1,
+      "timeInRound": "2:47"
+    },
+    {
+      "date": "2019-11-23T00:00:00.000Z",
+      "opponent": "Marcus Hammond",
+      "opponentSlug": "116026-marcus-hammond",
+      "result": "win",
+      "method": "other",
+      "event": "Battle Arena 58",
+      "eventSlug": "63252-battle-arena-58",
+      "round": 1,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2019-07-27T00:00:00.000Z",
+      "opponent": "Samuel Bark",
+      "opponentSlug": "229953-samuel-bark-sammon-decker",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Wolf Fight Promotion 2",
+      "eventSlug": "60953-wolf-fight-promotion-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-07T00:00:00.000Z",
+      "opponent": "Cristian Iorga",
+      "opponentSlug": "105822-cristian-iorga",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "2016 IMMAF World Championships",
+      "eventSlug": "40731-2016-immaf-world-championships-day-3-cage-c",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-06T00:00:00.000Z",
+      "opponent": "Francesco Spinola",
+      "opponentSlug": "120024-francesco-spinola",
+      "result": "win",
+      "method": "sub",
+      "event": "2016 IMMAF World Championships",
+      "eventSlug": "40697-2016-immaf-world-championships-day-2-cage-b",
+      "round": 3,
+      "timeInRound": "1:19"
+    },
+    {
+      "date": "2016-03-12T00:00:00.000Z",
+      "opponent": "Carlos Zamora",
+      "opponentSlug": "118986-carlos-zamora",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Odense Fight Night 5",
+      "eventSlug": "37737-odense-fight-night-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-02-20T00:00:00.000Z",
+      "opponent": "Joe Harding",
+      "opponentSlug": "30490-joe-harding",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "British Challenge MMA 14",
+      "eventSlug": "37446-british-challenge-mma-14",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-22T00:00:00.000Z",
+      "opponent": "Jack Shore",
+      "opponentSlug": "80250-jack-shore",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "2015 IMMAF European Open Championships",
+      "eventSlug": "35767-2015-immaf-european-open-championships-day-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-21T00:00:00.000Z",
+      "opponent": "Lee Hammond",
+      "opponentSlug": "116771-lee-hammond",
+      "result": "win",
+      "method": "other",
+      "event": "2015 IMMAF European Open Championships",
+      "eventSlug": "35766-2015-immaf-european-open-championships-day-3",
+      "round": 3,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2015-11-20T00:00:00.000Z",
+      "opponent": "Bjarki Omarsson",
+      "opponentSlug": "87306-bjarki-omarsson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "2015 IMMAF European Open Championships",
+      "eventSlug": "35765-2015-immaf-european-open-championships-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-20T00:00:00.000Z",
+      "opponent": "Francesco Spinola",
+      "opponentSlug": "120024-francesco-spinola",
+      "result": "win",
+      "method": "tko",
+      "event": "2015 IMMAF European Open Championships",
+      "eventSlug": "36850-2015-immaf-european-open-championships-day-2-ring-2",
+      "round": 2,
+      "timeInRound": "2:59"
+    },
+    {
+      "date": "2015-11-19T00:00:00.000Z",
+      "opponent": "Niko Koponen",
+      "opponentSlug": "119932-niko-kopone",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "2015 IMMAF European Open Championships",
+      "eventSlug": "36842-2015-immaf-european-open-championships-day-1-ring-2",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:05:30.922Z"
+}

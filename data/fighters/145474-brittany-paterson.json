@@ -1,0 +1,37 @@
+{
+  "slug": "145474-brittany-paterson",
+  "name": "Brittany Paterson",
+  "nickname": "Blitzkrieg",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1992-04-12",
+  "nationality": "Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/145474-brittany-paterson",
+  "recentFights": [
+    {
+      "date": "2016-12-09T00:00:00.000Z",
+      "opponent": "Melissa Croden",
+      "opponentSlug": "140510-melissa-croden",
+      "result": "loss",
+      "method": "other",
+      "event": "Hard Knocks 52",
+      "eventSlug": "42931-hard-knocks-52",
+      "round": 1,
+      "timeInRound": "0:52"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:00:31.115Z"
+}

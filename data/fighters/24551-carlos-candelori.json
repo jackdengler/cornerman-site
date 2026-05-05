@@ -1,0 +1,198 @@
+{
+  "slug": "24551-carlos-candelori",
+  "name": "Carlos Candelario",
+  "nickname": "The Cannon",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 173,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1991-06-04",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/24551-carlos-candelori",
+  "recentFights": [
+    {
+      "date": "2022-11-05T00:00:00.000Z",
+      "opponent": "Jake Hadley",
+      "opponentSlug": "87298-jake-hadley",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "91921-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "2:39"
+    },
+    {
+      "date": "2022-05-14T00:00:00.000Z",
+      "opponent": "Tatsuro Taira",
+      "opponentSlug": "145595-tatsuro-taira",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "85916-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-31T00:00:00.000Z",
+      "opponent": "Victor Altamirano",
+      "opponentSlug": "101415-victor-altamirano",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Contender Series 2021",
+      "eventSlug": "78721-contender-series-2021",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-06T00:00:00.000Z",
+      "opponent": "Miguel Restrepo",
+      "opponentSlug": "54597-miguel-restrepo-magic-city-mauler",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CES 63: Howard vs. Alvarez",
+      "eventSlug": "80482-ces-63-back-2-back",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-01T00:00:00.000Z",
+      "opponent": "Ronaldo Candido",
+      "opponentSlug": "44063-ronaldo-candido",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "DW's Contender Series 2017",
+      "eventSlug": "46568-dana-whites-contender-series-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-12T00:00:00.000Z",
+      "opponent": "Timothy Wheeler",
+      "opponentSlug": "73447-tim-wheeler",
+      "result": "win",
+      "method": "tko",
+      "event": "CES 44: Bessette vs. Trujillo",
+      "eventSlug": "45310-ces-44",
+      "round": 1,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2017-01-27T00:00:00.000Z",
+      "opponent": "Miguel Restrepo",
+      "opponentSlug": "54597-miguel-restrepo-magic-city-mauler",
+      "result": "win",
+      "method": "sub",
+      "event": "CES 41: Bessette vs. Croom",
+      "eventSlug": "43028-ces-41",
+      "round": 2,
+      "timeInRound": "2:11"
+    },
+    {
+      "date": "2016-06-10T00:00:00.000Z",
+      "opponent": "Roosevelt Archie",
+      "opponentSlug": "38355-roosevelt-archie",
+      "result": "win",
+      "method": "sub",
+      "event": "CES 36: Andrews vs. Muro",
+      "eventSlug": "37898-ces-36",
+      "round": 1,
+      "timeInRound": "1:16"
+    },
+    {
+      "date": "2016-04-01T00:00:00.000Z",
+      "opponent": "Luay Ashkar",
+      "opponentSlug": "41916-luay-ashkar",
+      "result": "win",
+      "method": "tko",
+      "event": "CES 34: Curtis vs. Burrell",
+      "eventSlug": "37896-ces-34",
+      "round": 1,
+      "timeInRound": "0:31"
+    },
+    {
+      "date": "2015-10-30T00:00:00.000Z",
+      "opponent": "Jesse Gutierrez",
+      "opponentSlug": "jesse-gutierez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CES 31",
+      "eventSlug": "29829-ces-31",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-01-03T00:00:00.000Z",
+      "opponent": "Josh Baker",
+      "opponentSlug": "15673-josh-baker",
+      "result": "win",
+      "method": "sub",
+      "event": "Reality Fighting",
+      "eventSlug": "25680-reality-fighting",
+      "round": 1,
+      "timeInRound": "3:22"
+    },
+    {
+      "date": "2014-07-13T00:00:00.000Z",
+      "opponent": "Marquis Brewster",
+      "opponentSlug": "40598-marques-brewster",
+      "result": "win",
+      "method": "other",
+      "event": "Premier FC 16",
+      "eventSlug": "24192-premier-fc-16",
+      "round": 1,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2012-11-17T00:00:00.000Z",
+      "opponent": "Josh Carrero",
+      "opponentSlug": "16455-josh-carrero",
+      "result": "win",
+      "method": "sub",
+      "event": "Premier FC 12",
+      "eventSlug": "16241-premier-fc-12",
+      "round": 3,
+      "timeInRound": "0:57"
+    },
+    {
+      "date": "2012-08-03T00:00:00.000Z",
+      "opponent": "Jeremy Reipold",
+      "opponentSlug": "13419-jeremy-reipold-the-boss",
+      "result": "win",
+      "method": "sub",
+      "event": "Premier FC 11",
+      "eventSlug": "15055-premier-fc-11-the-finals",
+      "round": 2,
+      "timeInRound": "0:57"
+    },
+    {
+      "date": "2012-05-20T00:00:00.000Z",
+      "opponent": "Saphat Adler",
+      "opponentSlug": "24549-adler-jack",
+      "result": "win",
+      "method": "sub",
+      "event": "Premier FC 9",
+      "eventSlug": "13961-premier-fighting-championship-9-battle-to-the-belt",
+      "round": 1,
+      "timeInRound": "0:10"
+    },
+    {
+      "date": "2012-04-01T00:00:00.000Z",
+      "opponent": "Jim Strife",
+      "opponentSlug": "24550-jim-strife",
+      "result": "win",
+      "method": "sub",
+      "event": "Premier FC 8",
+      "eventSlug": "13173-premier-fc-8",
+      "round": 1,
+      "timeInRound": "1:13"
+    }
+  ],
+  "lastVerified": "2026-04-25T22:59:08.802Z"
+}

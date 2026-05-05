@@ -1,0 +1,198 @@
+{
+  "slug": "114251-luana-carolina-dread",
+  "name": "Luana Carolina",
+  "nickname": "Dread",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 171,
+  "reachCm": 175,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1993-06-11",
+  "nationality": "Sao Paulo, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/114251-luana-carolina-dread",
+  "recentFights": [
+    {
+      "date": "2025-09-27T00:00:00.000Z",
+      "opponent": "Michelle Montague",
+      "opponentSlug": "237486-michell-montague",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "130754-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-07-20T00:00:00.000Z",
+      "opponent": "Lucie Pudilová",
+      "opponentSlug": "90345-lucie-pudilova",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "112783-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-02-03T00:00:00.000Z",
+      "opponent": "Julija Stoliarenko",
+      "opponentSlug": "54390-julia-stoliarenko",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "106801-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "4:52"
+    },
+    {
+      "date": "2023-07-01T00:00:00.000Z",
+      "opponent": "Ivana Petrović",
+      "opponentSlug": "201648-ivana-siric",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "100452-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-18T00:00:00.000Z",
+      "opponent": "Joanne Wood",
+      "opponentSlug": "22500-joanne-calderwood",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC 286: Edwards vs. Usman 3",
+      "eventSlug": "95408-ufc-286",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-19T00:00:00.000Z",
+      "opponent": "Molly McCann",
+      "opponentSlug": "57976-molly-mccann",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "83999-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "1:52"
+    },
+    {
+      "date": "2021-10-16T00:00:00.000Z",
+      "opponent": "Lupita Godinez",
+      "opponentSlug": "133312-lupita-godinez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "80539-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-05-01T00:00:00.000Z",
+      "opponent": "Poliana Botelho",
+      "opponentSlug": "72267-poliana-botelho",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "76888-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-07-18T00:00:00.000Z",
+      "opponent": "Ariane da Silva",
+      "opponentSlug": "57056-ariane-lipski",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "69705-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2019-05-11T00:00:00.000Z",
+      "opponent": "Priscila Cachoeira",
+      "opponentSlug": "128371-priscila-cachoeira",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 237: Namajunas vs. Andrade",
+      "eventSlug": "57508-ufc-237",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-08-11T00:00:00.000Z",
+      "opponent": "Mabelly Lima",
+      "opponentSlug": "90733-mabelly-lima",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "DW's Contender Series 2018",
+      "eventSlug": "54663-dw-s-contender-series-2018-brazil-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-29T00:00:00.000Z",
+      "opponent": "Mary Ellen Sato",
+      "opponentSlug": "167057-mary-ellen-sato",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Thunder Fight 12",
+      "eventSlug": "48044-thunder-fight-12-evolution-edition",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-09T00:00:00.000Z",
+      "opponent": "Jessica Negrão",
+      "opponentSlug": "88853-jessica-negro-jeeh",
+      "result": "win",
+      "method": "other",
+      "event": "Batalha MMA 3",
+      "eventSlug": "40615-batalha-mma-3",
+      "round": 1,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2015-09-19T00:00:00.000Z",
+      "opponent": "Ana Merlin",
+      "opponentSlug": "114816-ana-merlin",
+      "result": "win",
+      "method": "tko",
+      "event": "Thunder Fight 5",
+      "eventSlug": "35523-thunder-fight-5",
+      "round": 1,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2015-05-30T00:00:00.000Z",
+      "opponent": "Isabela de Pádua",
+      "opponentSlug": "114258-isabella-de-padua",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-01-24T00:00:00.000Z",
+      "opponent": "Daiane Firmino",
+      "opponentSlug": "59730-daiane-firmino-dai-fox",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:54:36.413Z"
+}

@@ -1,0 +1,143 @@
+{
+  "slug": "304338-nyamjargal-tumendemberel",
+  "name": "Nyamjargal Tumendemberel",
+  "nickname": "Art of Knockout",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 180,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1998-03-22",
+  "nationality": "Baynbulag, Baynkhongor, Mongoli",
+  "url": "https://www.tapology.com/fightcenter/fighters/304338-nyamjargal-tumendemberel",
+  "recentFights": [
+    {
+      "date": "2026-03-07T00:00:00.000Z",
+      "opponent": "Cody Durden",
+      "opponentSlug": "68337-cody-durden",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC 326: Holloway vs. Oliveira 2",
+      "eventSlug": "136871-ufc-326-holloway-vs-oliveira-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-08-22T00:00:00.000Z",
+      "opponent": "Terrance Saeteurn",
+      "opponentSlug": "199305-terrance-saeteurn",
+      "result": "win",
+      "method": "other",
+      "event": "Road to UFC",
+      "eventSlug": "128598-road-to-ufc-shanghai-episode-5",
+      "round": 1,
+      "timeInRound": "2:53"
+    },
+    {
+      "date": "2024-11-23T00:00:00.000Z",
+      "opponent": "Carlos Hernandez",
+      "opponentSlug": "60838-carlos-hernandez",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC Fight Night",
+      "eventSlug": "116899-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-27T00:00:00.000Z",
+      "opponent": "Peter Danesoe",
+      "opponentSlug": "227316-peter-danasoe",
+      "result": "win",
+      "method": "sub",
+      "event": "Road to UFC",
+      "eventSlug": "103957-road-to-ufc-singapore-episode-1",
+      "round": 1,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2023-05-27T00:00:00.000Z",
+      "opponent": "Topnoi Kiwram",
+      "opponentSlug": "128196-thanongsaklek-tigermuaythai-top-noi",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Road to UFC",
+      "eventSlug": "101112-road-to-ufc-shanghai",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-25T00:00:00.000Z",
+      "opponent": "Masayuki Watanabe",
+      "opponentSlug": "54302-masayuki-watanabe-nave",
+      "result": "win",
+      "method": "tko",
+      "event": "GLADIATOR 021",
+      "eventSlug": "98836-gladiator-021",
+      "round": 1,
+      "timeInRound": "0:07"
+    },
+    {
+      "date": "2022-11-19T00:00:00.000Z",
+      "opponent": "Namsrai Batbayar",
+      "opponentSlug": "331794-namsrai-batbaatar",
+      "result": "win",
+      "method": "sub",
+      "event": "MGL-1 FC 18",
+      "eventSlug": "98449-mgl-1-fc-18",
+      "round": 2,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2022-05-28T00:00:00.000Z",
+      "opponent": "Enkhzorig Munkhchuluun",
+      "opponentSlug": "374502-e-munkhchuluun",
+      "result": "win",
+      "method": "sub",
+      "event": "MGL-1 FC 17",
+      "eventSlug": "98450-mgl-1-fc-17",
+      "round": 1,
+      "timeInRound": "0:21"
+    },
+    {
+      "date": "2022-03-26T00:00:00.000Z",
+      "opponent": "Munkhdelger Bat-Erdeen",
+      "opponentSlug": "200210-munkhdelger",
+      "result": "win",
+      "method": "other",
+      "event": "MGL-1 Fight Night 5",
+      "eventSlug": "98452-mgl-1-fight-night-5",
+      "round": 1,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2021-06-06T00:00:00.000Z",
+      "opponent": "Temuulen Algirmaa",
+      "opponentSlug": "212287-temuulen-algirmaa",
+      "result": "win",
+      "method": "sub",
+      "event": "112 Fight Academy",
+      "eventSlug": "96466-112-fight-academy-grand-opening",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-10-27T00:00:00.000Z",
+      "opponent": "Urtnasan Damdinragchaa",
+      "opponentSlug": "172207-urtnasan",
+      "result": "win",
+      "method": "sub",
+      "event": "Mongol FC Fight Night 2",
+      "eventSlug": "81513-mongol-fc-fight-night-2",
+      "round": 3,
+      "timeInRound": "3:03"
+    }
+  ],
+  "lastVerified": "2026-04-19T19:09:45.926Z"
+}

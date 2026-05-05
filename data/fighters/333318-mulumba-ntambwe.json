@@ -1,0 +1,165 @@
+{
+  "slug": "333318-mulumba-ntambwe",
+  "name": "Ananias Mulumba",
+  "nickname": "Metal",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": 179,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1998-09-18",
+  "nationality": "Lubumbashi, D.R. Congo",
+  "url": "https://www.tapology.com/fightcenter/fighters/333318-mulumba-ntambwe",
+  "recentFights": [
+    {
+      "date": "2026-03-27T00:00:00.000Z",
+      "opponent": "Ahmed Faress",
+      "opponentSlug": "88931-ahmed-faris",
+      "result": "win",
+      "method": "other",
+      "event": "UAE Warriors 68",
+      "eventSlug": "140463-uae-warriors-68-arabia-15",
+      "round": 1,
+      "timeInRound": "4:09"
+    },
+    {
+      "date": "2025-10-14T00:00:00.000Z",
+      "opponent": "Marwan Rahiki",
+      "opponentSlug": "388487-marwan-rahiki",
+      "result": "loss",
+      "method": "other",
+      "event": "Contender Series 2025",
+      "eventSlug": "128467-contender-series-2025-week-10",
+      "round": 2,
+      "timeInRound": "2:13"
+    },
+    {
+      "date": "2025-06-12T00:00:00.000Z",
+      "opponent": "Amer El Shanshory",
+      "opponentSlug": "77031-amer-el-shanshory",
+      "result": "win",
+      "method": "sub",
+      "event": "UAE Warriors 59",
+      "eventSlug": "128647-uae-warriors-59-arabia-vs-africa",
+      "round": 2,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2024-11-22T00:00:00.000Z",
+      "opponent": "Jackiel Ayana",
+      "opponentSlug": "308804-jakiel-ayana",
+      "result": "win",
+      "method": "other",
+      "event": "AKO 6: Final Eliminator",
+      "eventSlug": "120241-ako-6-final-eliminator",
+      "round": 2,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2024-06-15T00:00:00.000Z",
+      "opponent": "Jonathan Lamptey",
+      "opponentSlug": "170889-jonathan-lamptey",
+      "result": "win",
+      "method": "other",
+      "event": "AKO 4",
+      "eventSlug": "114919-ako-4",
+      "round": 1,
+      "timeInRound": "1:52"
+    },
+    {
+      "date": "2024-05-11T00:00:00.000Z",
+      "opponent": "Ylies Djiroun",
+      "opponentSlug": "42239-ylies-djiroun",
+      "result": "loss",
+      "method": "sub",
+      "event": "BRAVE CF 82",
+      "eventSlug": "110466-brave-cf-82",
+      "round": 1,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2023-08-19T00:00:00.000Z",
+      "opponent": "Cornel Thompson",
+      "opponentSlug": "281223-thompson-cornell",
+      "result": "win",
+      "method": "sub",
+      "event": "AKO 2",
+      "eventSlug": "105409-african-knockout-championship-2023-ako2",
+      "round": 2,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2023-05-12T00:00:00.000Z",
+      "opponent": "Victor Dooga",
+      "opponentSlug": "312595-victor-dooga",
+      "result": "win",
+      "method": "sub",
+      "event": "AKO 1",
+      "eventSlug": "101381-african-knockout-championship-2023-ako1",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-04-08T00:00:00.000Z",
+      "opponent": "Uchejim Onyeka",
+      "opponentSlug": "217953-uchejim-onyeka",
+      "result": "win",
+      "method": "sub",
+      "event": "Impact Championship 2",
+      "eventSlug": "99284-impact-championship-2",
+      "round": 1,
+      "timeInRound": "3:12"
+    },
+    {
+      "date": "2022-12-29T00:00:00.000Z",
+      "opponent": "Isaac Commey",
+      "opponentSlug": "169922-isaac-commey",
+      "result": "win",
+      "method": "sub",
+      "event": "Face Off Fight Night 3",
+      "eventSlug": "97198-face-off-fight-night-3-fofn3",
+      "round": 2,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2022-10-08T00:00:00.000Z",
+      "opponent": "Zikpli Adams",
+      "opponentSlug": "205831-adams-zikpli",
+      "result": "win",
+      "method": "other",
+      "event": "Lome Fight Night International 9",
+      "eventSlug": "93461-lome-fight-night-international-9",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2022-05-14T00:00:00.000Z",
+      "opponent": "Zikpli Adams",
+      "opponentSlug": "205831-adams-zikpli",
+      "result": "win",
+      "method": "tko",
+      "event": "Lome Fight Night International 8",
+      "eventSlug": "88583-lome-fight-night-international-8",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-16T00:00:00.000Z",
+      "opponent": "Steve Endom Bikim",
+      "opponentSlug": "170816-bikim-steve",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "IMBGIM FC",
+      "eventSlug": "88371-imbgim-fc-1",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:58:27.022Z"
+}

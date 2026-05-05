@@ -1,0 +1,198 @@
+{
+  "slug": "64628-marcos-bonilla",
+  "name": "Marcos Bonilla",
+  "nickname": "El Matador",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 9,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": 177,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1985-07-17",
+  "nationality": "Los Angeles, California",
+  "url": "https://www.tapology.com/fightcenter/fighters/64628-marcos-bonilla",
+  "recentFights": [
+    {
+      "date": "2023-07-01T00:00:00.000Z",
+      "opponent": "Ysidro Gutierrez",
+      "opponentSlug": "118656-ysidro-gutierrez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UNF 9",
+      "eventSlug": "102056-unf-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-15T00:00:00.000Z",
+      "opponent": "Ruben Lozano",
+      "opponentSlug": "87253-ruben-lozano",
+      "result": "loss",
+      "method": "other",
+      "event": "Combate: Palacios vs. Park",
+      "eventSlug": "91123-combate",
+      "round": 2,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2022-05-21T00:00:00.000Z",
+      "opponent": "Tim Riscen",
+      "opponentSlug": "46527-tim-riscen-the-tornado",
+      "result": "win",
+      "method": "sub",
+      "event": "UNF 1",
+      "eventSlug": "88484-unf-1",
+      "round": 1,
+      "timeInRound": "4:53"
+    },
+    {
+      "date": "2021-08-07T00:00:00.000Z",
+      "opponent": "Arnold Jimenez",
+      "opponentSlug": "112702-arnold-jimenez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LXF 5",
+      "eventSlug": "80692-lxf-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-06T00:00:00.000Z",
+      "opponent": "Serob Minasyan",
+      "opponentSlug": "serob-minasyan",
+      "result": "loss",
+      "method": "tko",
+      "event": "CXF 13: Heavy Hitters",
+      "eventSlug": "53340-cxf-13-heavy-hitters",
+      "round": 1,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2017-09-15T00:00:00.000Z",
+      "opponent": "Rafa García",
+      "opponentSlug": "105452-rafael-garcia-gifted",
+      "result": "loss",
+      "method": "sub",
+      "event": "Combate 17: El Grito En La Jaula",
+      "eventSlug": "48029-combate-17-el-grito-en-la-jaula",
+      "round": 2,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2017-03-30T00:00:00.000Z",
+      "opponent": "Ramon Lopez",
+      "opponentSlug": "71777-ramon-lopez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combate 12",
+      "eventSlug": "44921-combate-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-17T00:00:00.000Z",
+      "opponent": "A.J. Bryant",
+      "opponentSlug": "62575-aj-bryant",
+      "result": "loss",
+      "method": "other",
+      "event": "CXF 5: Night of Champions",
+      "eventSlug": "42156-cxf-5-night-of-champions",
+      "round": 3,
+      "timeInRound": "4:13"
+    },
+    {
+      "date": "2016-08-11T00:00:00.000Z",
+      "opponent": "Izic Fernandez",
+      "opponentSlug": "36180-izic-fernandez",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Combate 8",
+      "eventSlug": "40861-combate-americas-combate-ocho",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-25T00:00:00.000Z",
+      "opponent": "Rudy Morales",
+      "opponentSlug": "46547-rudy-morales-ruthless",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combate 6",
+      "eventSlug": "39213-combate-americas-4-road-to-the-championship",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-07-10T00:00:00.000Z",
+      "opponent": "Adel Altamimi",
+      "opponentSlug": "84377-adel-al-tamimi-kyokushin",
+      "result": "win",
+      "method": "other",
+      "event": "Lights Out @ Sportsmen's Lodge",
+      "eventSlug": "33831-valley-fight-night-3",
+      "round": 2,
+      "timeInRound": "3:10"
+    },
+    {
+      "date": "2015-04-10T00:00:00.000Z",
+      "opponent": "AJ McKee Jr.",
+      "opponentSlug": "69323-antonio-mckee-jr",
+      "result": "loss",
+      "method": "sub",
+      "event": "Bellator 136",
+      "eventSlug": "29609-bellator-136",
+      "round": 1,
+      "timeInRound": "2:08"
+    },
+    {
+      "date": "2015-02-20T00:00:00.000Z",
+      "opponent": "Christian Bizarretty",
+      "opponentSlug": "36386-christian-bizarretty",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "Lights Out @ Sportsmen's Lodge",
+      "eventSlug": "29513-lights-out-at-the-lodge",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-08-10T00:00:00.000Z",
+      "opponent": "Jay Bogan",
+      "opponentSlug": "24667-jay-borgan",
+      "result": "loss",
+      "method": "other",
+      "event": "Chaos at the Casino 5",
+      "eventSlug": "25588-chaos-at-the-casino-5",
+      "round": 1,
+      "timeInRound": "1:37"
+    },
+    {
+      "date": "2014-03-07T00:00:00.000Z",
+      "opponent": "Eric Castodio",
+      "opponentSlug": "61435-eric-castodio",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Spar Star MMA",
+      "eventSlug": "22492-spar-star",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-09-21T00:00:00.000Z",
+      "opponent": "Jesus Garcia",
+      "opponentSlug": "181489-jesus-garcia",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:34:53.436Z"
+}

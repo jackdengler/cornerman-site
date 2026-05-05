@@ -1,0 +1,66 @@
+{
+  "slug": "361226-aibek-seitmurat",
+  "name": "Aibek Seitmurat",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/361226-aibek-seitmurat",
+  "recentFights": [
+    {
+      "date": "2022-06-17T00:00:00.000Z",
+      "opponent": "Muso Yokubov",
+      "opponentSlug": "327951-muso-yokubov",
+      "result": "loss",
+      "method": "other",
+      "event": "FCF-MMA: 13th World Cup",
+      "eventSlug": "102016-fcf-mma-13th-world-cup",
+      "round": 1,
+      "timeInRound": "3:15"
+    },
+    {
+      "date": "2022-11-12T00:00:00.000Z",
+      "opponent": "Yermakhan Oryntaev",
+      "opponentSlug": "361593-yermakhan-oryntaev",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "GAMMA",
+      "eventSlug": "95190-gamma-asian-pacific-mma-championships-2022-day-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-10T00:00:00.000Z",
+      "opponent": "Nattawut Kaewkhanchum",
+      "opponentSlug": "334270-nattawut-kaewkhuanchum",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "GAMMA",
+      "eventSlug": "95045-gamma-asian-pacific-mma-championships-2022-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-10T00:00:00.000Z",
+      "opponent": "Satyam Pandey",
+      "opponentSlug": "242860-satyam-pandey",
+      "result": "win",
+      "method": "dec-split",
+      "event": "GAMMA",
+      "eventSlug": "95045-gamma-asian-pacific-mma-championships-2022-day-1",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:43:55.800Z"
+}

@@ -1,0 +1,121 @@
+{
+  "slug": "279961-radek-rousal-ruchy",
+  "name": "Radek Roušal",
+  "nickname": "Ruchy",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1995-03-17",
+  "nationality": "Brno, Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/279961-radek-rousal-ruchy",
+  "recentFights": [
+    {
+      "date": "2026-04-25T00:00:00.000Z",
+      "opponent": "Samuel Bark",
+      "opponentSlug": "229953-samuel-bark-sammon-decker",
+      "result": null,
+      "method": "other",
+      "event": "OKTAGON 87: Szabová vs. Fernandes",
+      "eventSlug": "135741-oktagon-87",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-01T00:00:00.000Z",
+      "opponent": "Corey Fry",
+      "opponentSlug": "97867-corey-fry",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 79: Surdu vs. Kalašnik",
+      "eventSlug": "118938-oktagon",
+      "round": 1,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2025-08-09T00:00:00.000Z",
+      "opponent": "Adrian Hamerski",
+      "opponentSlug": "183537-adrian-hamerski",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 74: Bolander vs. Szabová",
+      "eventSlug": "129607-oktagon-74",
+      "round": 2,
+      "timeInRound": "1:09"
+    },
+    {
+      "date": "2025-04-26T00:00:00.000Z",
+      "opponent": "Karol Kutyła",
+      "opponentSlug": "221562-karol-kutyla",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 70: Krištofič vs. Humburger",
+      "eventSlug": "122083-oktagon-70",
+      "round": 2,
+      "timeInRound": "3:36"
+    },
+    {
+      "date": "2024-11-09T00:00:00.000Z",
+      "opponent": "Jack Maguire",
+      "opponentSlug": "116773-jack-maguire",
+      "result": "loss",
+      "method": "sub",
+      "event": "OKTAGON 63: Buchinger vs. Nafuka",
+      "eventSlug": "116290-oktagon-63",
+      "round": 2,
+      "timeInRound": "2:44"
+    },
+    {
+      "date": "2024-09-21T00:00:00.000Z",
+      "opponent": "Nezar Bahaji",
+      "opponentSlug": "338906-nezar-bahaji",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 61: Paradeiser vs. Duque",
+      "eventSlug": "113352-oktagon-60",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-07-20T00:00:00.000Z",
+      "opponent": "Marco Novák",
+      "opponentSlug": "248857-marco-novak",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 59: Summer Party",
+      "eventSlug": "111005-oktagon-59-summer-party",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-29T00:00:00.000Z",
+      "opponent": "Kallum Parker",
+      "opponentSlug": "345357-kallum-parker",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 51",
+      "eventSlug": "105224-oktagon-51",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-28T00:00:00.000Z",
+      "opponent": "Armand Herczeg",
+      "opponentSlug": "194260-armand-herczeg",
+      "result": "win",
+      "method": "dec-split",
+      "event": "OKTAGON 45: Mågård vs Lima",
+      "eventSlug": "101739-oktagon-stvanice-special",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T15:56:38.043Z"
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "88803-cleovoulos-loukaidis",
+  "name": "Cleovoulos Loukaidis",
+  "nickname": "The Islander",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1992-06-18",
+  "nationality": "Cyprus",
+  "url": "https://www.tapology.com/fightcenter/fighters/88803-cleovoulos-loukaidis",
+  "recentFights": [
+    {
+      "date": "2020-02-22T00:00:00.000Z",
+      "opponent": "Angelos Christodoulidis",
+      "opponentSlug": "88804-aggelos-christodoulidis",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMA Challenge Pro 10",
+      "eventSlug": "66149-mma-challenge-pro-10-greece-vs-turkey",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-12T00:00:00.000Z",
+      "opponent": "Bailey Gilbert",
+      "opponentSlug": "113777-bailey-gilbert",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shogun MMA 3",
+      "eventSlug": "63259-shogun-mma-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-03T00:00:00.000Z",
+      "opponent": "Konstantinos Ntelis",
+      "opponentSlug": "118951-konstantinos-delis",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Survivor 11",
+      "eventSlug": "51234-cage-survivor-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-22T00:00:00.000Z",
+      "opponent": "Nassim Bouazza",
+      "opponentSlug": "143622-nassim-bouazza",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-12-18T00:00:00.000Z",
+      "opponent": "Jan Malach",
+      "opponentSlug": "64719-jan-malach",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "XFN 2: World Cup of MMA",
+      "eventSlug": "43632-xfn-fight-night-2-world-cup-of-mma",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-01-18T00:00:00.000Z",
+      "opponent": "Angelos Christodoulidis",
+      "opponentSlug": "88804-aggelos-christodoulidis",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Cage Survivor 3",
+      "eventSlug": "28780-cage-survivor-3-cs3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-05-03T00:00:00.000Z",
+      "opponent": "Christos Laskaridis",
+      "opponentSlug": "105717-christos-laskaridis",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 2,
+      "timeInRound": "3:35"
+    },
+    {
+      "date": "2016-07-02T00:00:00.000Z",
+      "opponent": "Shkurtaj Brikeno",
+      "opponentSlug": "136035-shkurtaj-brikeno",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Castle Gladiators 2",
+      "eventSlug": "40661-castle-gladiators-2",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:08:05.677Z"
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "51673-jayden-eynaud",
+  "name": "Jayden Eynaud",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": 203,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/51673-jayden-eynaud",
+  "recentFights": [
+    {
+      "date": "2019-12-13T00:00:00.000Z",
+      "opponent": "Cam Rowston",
+      "opponentSlug": "69262-cam-rowston",
+      "result": "loss",
+      "method": "sub",
+      "event": "New Generation Cage MMA Series 4",
+      "eventSlug": "62411-new-generation-cage-mma-series-4",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-25T00:00:00.000Z",
+      "opponent": "Michael McDaniel",
+      "opponentSlug": "67818-michael-mcdaniel",
+      "result": "win",
+      "method": "other",
+      "event": "XFC 32: State of Origin",
+      "eventSlug": "48365-xfc-32-state-of-origin",
+      "round": 1,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2014-03-08T00:00:00.000Z",
+      "opponent": "Riley Mallett",
+      "opponentSlug": "48745-riley-mallett",
+      "result": "loss",
+      "method": "other",
+      "event": "Nitro MMA 11",
+      "eventSlug": "21281-nitro-mma-11",
+      "round": 1,
+      "timeInRound": "1:16"
+    },
+    {
+      "date": "2013-07-20T00:00:00.000Z",
+      "opponent": "Zac Bennett",
+      "opponentSlug": "51675-zac-bennett",
+      "result": "win",
+      "method": "other",
+      "event": "XFC Australia 19",
+      "eventSlug": "18776-xfc-australia-19",
+      "round": 3,
+      "timeInRound": "0:55"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:17:29.314Z"
+}

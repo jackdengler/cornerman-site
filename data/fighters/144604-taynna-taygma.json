@@ -1,0 +1,55 @@
+{
+  "slug": "144604-taynna-taygma",
+  "name": "Taynna Taygma",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 158,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1988-11-17",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/144604-taynna-taygma",
+  "recentFights": [
+    {
+      "date": "2016-12-02T00:00:00.000Z",
+      "opponent": "Marilia Gabriela",
+      "opponentSlug": "146842-marilia-gabriela",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "EFN 3",
+      "eventSlug": "43401-efn-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-12T00:00:00.000Z",
+      "opponent": "Juliana Velasquez",
+      "opponentSlug": "60674-juliana-velasquez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "IKombat 1",
+      "eventSlug": "42835-ikombat-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-21T00:00:00.000Z",
+      "opponent": "Mayra Bueno Silva",
+      "opponentSlug": "140732-mayra-bueno-silva-sheetara",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:54:29.015Z"
+}

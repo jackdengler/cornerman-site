@@ -1,0 +1,66 @@
+{
+  "slug": "98236-valdinho-melo",
+  "name": "Valdinho Melo",
+  "nickname": "Valdinho",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/98236-valdinho-melo",
+  "recentFights": [
+    {
+      "date": "2019-11-16T00:00:00.000Z",
+      "opponent": "Junior Melo",
+      "opponentSlug": "121289-jose-cleiton-de-melo-junior-melo",
+      "result": "loss",
+      "method": "sub",
+      "event": "Macaíba Fight 1",
+      "eventSlug": "64761-macaiba-fight-1",
+      "round": 3,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2016-12-16T00:00:00.000Z",
+      "opponent": "Felipe Sousa",
+      "opponentSlug": "146539-felipe-sousa-mano",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "1º Round Combat 3",
+      "eventSlug": "43168-1-round-combat-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-04-09T00:00:00.000Z",
+      "opponent": "André Ceará",
+      "opponentSlug": "129135-andr-cear-polvo",
+      "result": "loss",
+      "method": "sub",
+      "event": "NFC 10",
+      "eventSlug": "38655-natal-fc-10",
+      "round": 1,
+      "timeInRound": "4:31"
+    },
+    {
+      "date": "2015-04-09T00:00:00.000Z",
+      "opponent": "Hallysson dos Santos",
+      "opponentSlug": "98237-hallysson-dos-santos-cro-cop",
+      "result": "win",
+      "method": "other",
+      "event": "NFC 8",
+      "eventSlug": "31837-natal-fc-8",
+      "round": 2,
+      "timeInRound": "1:31"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:38:11.796Z"
+}

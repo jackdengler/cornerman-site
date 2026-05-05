@@ -1,0 +1,187 @@
+{
+  "slug": "287849-jaron-lathrop",
+  "name": "Jaron Lathrop",
+  "nickname": "Protect Ya Neck",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1999-06-29",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/287849-jaron-lathrop",
+  "recentFights": [
+    {
+      "date": "2025-03-28T00:00:00.000Z",
+      "opponent": "Evgeny Shinkarevsky",
+      "opponentSlug": "324851-yevgeni-shinkarevsky",
+      "result": "win",
+      "method": "other",
+      "event": "XFC 52: The Awakening",
+      "eventSlug": "123856-xfc-52-the-awakening",
+      "round": 1,
+      "timeInRound": "4:22"
+    },
+    {
+      "date": "2024-07-27T00:00:00.000Z",
+      "opponent": "Maynor Romero",
+      "opponentSlug": "161200-minor-romero",
+      "result": "win",
+      "method": "other",
+      "event": "Absolute Combat League 4",
+      "eventSlug": "115816-absolute-combat-league-4",
+      "round": 2,
+      "timeInRound": "2:17"
+    },
+    {
+      "date": "2024-02-17T00:00:00.000Z",
+      "opponent": "Noah Gasho",
+      "opponentSlug": "348174-noah-gasho",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Mecca 21",
+      "eventSlug": "107581-mecca-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-22T00:00:00.000Z",
+      "opponent": "Jordan Gast",
+      "opponentSlug": "326938-jordan-gast",
+      "result": "win",
+      "method": "other",
+      "event": "Live Cage Fights at Grand River Center",
+      "eventSlug": "102202-live-mma-grand-river-center",
+      "round": 3,
+      "timeInRound": "0:42"
+    },
+    {
+      "date": "2023-06-17T00:00:00.000Z",
+      "opponent": "Joby Steffensmeier",
+      "opponentSlug": "90092-joby-steffensmeier",
+      "result": "win",
+      "method": "other",
+      "event": "True Revelation 53",
+      "eventSlug": "101551-true-revelation-53",
+      "round": 2,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2023-04-08T00:00:00.000Z",
+      "opponent": "Joby Steffensmeier",
+      "opponentSlug": "90092-joby-steffensmeier",
+      "result": "win",
+      "method": "sub",
+      "event": "True Revelation 52",
+      "eventSlug": "98451-true-revelation-52",
+      "round": 2,
+      "timeInRound": "0:46"
+    },
+    {
+      "date": "2023-01-07T00:00:00.000Z",
+      "opponent": "Brynn Heathcock",
+      "opponentSlug": "105980-brynn-heathcock",
+      "result": "win",
+      "method": "sub",
+      "event": "True Revelation 50",
+      "eventSlug": "94911-true-revelation-50-night-2",
+      "round": 1,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2022-11-05T00:00:00.000Z",
+      "opponent": "Jordan Gast",
+      "opponentSlug": "326938-jordan-gast",
+      "result": "win",
+      "method": "sub",
+      "event": "B2 Fighting Series 177",
+      "eventSlug": "93110-b2-fighting-series-177-iowa",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-24T00:00:00.000Z",
+      "opponent": "Jared Medley",
+      "opponentSlug": "318292-jared-medley",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "True Revelation 48",
+      "eventSlug": "91436-true-revelation-48",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-09T00:00:00.000Z",
+      "opponent": "Brandon Hoaglin",
+      "opponentSlug": "176810-brandon-hoalgin",
+      "result": "win",
+      "method": "sub",
+      "event": "True Revelation 47",
+      "eventSlug": "90911-true-revelation-47",
+      "round": 1,
+      "timeInRound": "2:47"
+    },
+    {
+      "date": "2021-12-17T00:00:00.000Z",
+      "opponent": "Cameron Cook",
+      "opponentSlug": "299599-cameron-cook",
+      "result": "win",
+      "method": "sub",
+      "event": "True Revelation 45",
+      "eventSlug": "84069-true-revelation-45",
+      "round": 3,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2021-11-13T00:00:00.000Z",
+      "opponent": "Jevontea Yarbrough",
+      "opponentSlug": "313356-jevontea-yarbrough",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "B2 Fighting Series 139",
+      "eventSlug": "81591-b2-fighting-series-140-iowa",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-31T00:00:00.000Z",
+      "opponent": "Sam Norris",
+      "opponentSlug": "274103-sam-norris",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "B2 Fighting Series: Iowa",
+      "eventSlug": "78563-b2-fighting-series-iowa-cedar-rapids-night-two",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-12T00:00:00.000Z",
+      "opponent": "Cameron Cook",
+      "opponentSlug": "299599-cameron-cook",
+      "result": "win",
+      "method": "sub",
+      "event": "True Revelation 43",
+      "eventSlug": "79480-true-revelation-43",
+      "round": 2,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2021-03-06T00:00:00.000Z",
+      "opponent": "Linzy Hudson",
+      "opponentSlug": "287848-linzy-hudson",
+      "result": "loss",
+      "method": "sub",
+      "event": "True Revelation 42",
+      "eventSlug": "77685-true-revelation-42-day-2",
+      "round": 1,
+      "timeInRound": "2:53"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:42:35.609Z"
+}

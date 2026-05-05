@@ -1,0 +1,132 @@
+{
+  "slug": "144901-pedro-gutierrez-iii",
+  "name": "Pedro Gutierrez III",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 164,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1993-10-08",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/144901-pedro-gutierrez-iii",
+  "recentFights": [
+    {
+      "date": "2023-04-23T00:00:00.000Z",
+      "opponent": "Sergio Plascencia",
+      "opponentSlug": "191578-sergio-plascencia",
+      "result": "loss",
+      "method": "sub",
+      "event": "Anthony Pettis FC 4",
+      "eventSlug": "98572-anthony-pettis-fc-4-night-of-champions",
+      "round": 2,
+      "timeInRound": "2:47"
+    },
+    {
+      "date": "2022-06-11T00:00:00.000Z",
+      "opponent": "Anthony Jackson",
+      "opponentSlug": "257342-anthony-jackson",
+      "result": "loss",
+      "method": "other",
+      "event": "Total Fight Challenge",
+      "eventSlug": "88625-total-fight-challenge",
+      "round": 1,
+      "timeInRound": "0:27"
+    },
+    {
+      "date": "2022-01-22T00:00:00.000Z",
+      "opponent": "Clay Raider",
+      "opponentSlug": "141828-clay-raider",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "B2 Fighting Series 144",
+      "eventSlug": "83925-b2-fighting-series-144-fort-wayne-indiana",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-07T00:00:00.000Z",
+      "opponent": "Jonny Leal-Gerwarth",
+      "opponentSlug": "294567-jonathan-leal-gerwarth",
+      "result": "win",
+      "method": "sub",
+      "event": "Total Fight Challenge",
+      "eventSlug": "80139-total-fight-challenge",
+      "round": 2,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2020-01-25T00:00:00.000Z",
+      "opponent": "Gerardo Castaneda",
+      "opponentSlug": "154685-gerardo-castaneda",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Total Fight Challenge",
+      "eventSlug": "64566-total-fight-challenge",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-07T00:00:00.000Z",
+      "opponent": "Gerardo Castaneda",
+      "opponentSlug": "154685-gerardo-castaneda",
+      "result": "loss",
+      "method": "other",
+      "event": "Total Fight Challenge",
+      "eventSlug": "62849-total-fight-challenge",
+      "round": 1,
+      "timeInRound": "0:18"
+    },
+    {
+      "date": "2019-07-12T00:00:00.000Z",
+      "opponent": "Sergio Plascencia",
+      "opponentSlug": "191578-sergio-plascencia",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Total Fight Challenge",
+      "eventSlug": "60668-total-fight-challenge",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-16T00:00:00.000Z",
+      "opponent": "Oscar Jurado Sánchez",
+      "opponentSlug": "178522-oscar-alejandro-jurado-snchez",
+      "result": "loss",
+      "method": "other",
+      "event": "EAFL: Indiana vs. Illinois",
+      "eventSlug": "56635-eafl-indiana-vs-illinois",
+      "round": 1,
+      "timeInRound": "0:25"
+    },
+    {
+      "date": "2018-01-27T00:00:00.000Z",
+      "opponent": "Myles Chick",
+      "opponentSlug": "169261-myles-chick",
+      "result": "loss",
+      "method": "dq",
+      "event": "More MMA Classic 14",
+      "eventSlug": "49576-more-mma-classic-14",
+      "round": 1,
+      "timeInRound": "0:33"
+    },
+    {
+      "date": "2017-10-21T00:00:00.000Z",
+      "opponent": "Myles Chick",
+      "opponentSlug": "169261-myles-chick",
+      "result": "win",
+      "method": "sub",
+      "event": "More MMA Classic 13",
+      "eventSlug": "48000-more-mma-classic-13",
+      "round": 3,
+      "timeInRound": "2:25"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:43:26.456Z"
+}

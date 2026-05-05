@@ -1,0 +1,242 @@
+{
+  "slug": "104264-gkhan-asku",
+  "name": "Gökhan Aksu",
+  "nickname": "Abinator",
+  "aliases": [],
+  "recordPro": {
+    "wins": 14,
+    "losses": 6,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1991-11-28",
+  "nationality": "Turkey",
+  "url": "https://www.tapology.com/fightcenter/fighters/104264-gkhan-asku",
+  "recentFights": [
+    {
+      "date": "2025-11-22T00:00:00.000Z",
+      "opponent": "Denis Frimpong",
+      "opponentSlug": "304840-denis-frimpong",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 80: Legierski vs. Korkmaz",
+      "eventSlug": "118939-oktagon",
+      "round": 1,
+      "timeInRound": "3:58"
+    },
+    {
+      "date": "2025-05-17T00:00:00.000Z",
+      "opponent": "Ognjen Dimić",
+      "opponentSlug": "180529-ognjen-dimi",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 71: Poppeck vs. Langer",
+      "eventSlug": "123601-oktagon-71",
+      "round": 1,
+      "timeInRound": "2:43"
+    },
+    {
+      "date": "2024-12-07T00:00:00.000Z",
+      "opponent": "Jan Malach",
+      "opponentSlug": "64719-jan-malach",
+      "result": "win",
+      "method": "sub",
+      "event": "OKTAGON 64: Brito vs. Surdu",
+      "eventSlug": "117613-oktagon-64",
+      "round": 1,
+      "timeInRound": "3:28"
+    },
+    {
+      "date": "2023-11-11T00:00:00.000Z",
+      "opponent": "Thomas Glot",
+      "opponentSlug": "229238-glot-thomas",
+      "result": "win",
+      "method": "sub",
+      "event": "INNFERNO Fighting Championship 7",
+      "eventSlug": "105979-innferno-fighting-championship-7",
+      "round": 3,
+      "timeInRound": "3:25"
+    },
+    {
+      "date": "2023-06-24T00:00:00.000Z",
+      "opponent": "Ahmad Halimson",
+      "opponentSlug": "157689-ahmad-halimson",
+      "result": "win",
+      "method": "other",
+      "event": "INNFERNO Fighting Championship 6",
+      "eventSlug": "98112-innferno-fighting-championship-6",
+      "round": 1,
+      "timeInRound": "0:41"
+    },
+    {
+      "date": "2022-12-17T00:00:00.000Z",
+      "opponent": "Christian Mach",
+      "opponentSlug": "211112-christian-mach",
+      "result": "win",
+      "method": "other",
+      "event": "BRAVE CF 68",
+      "eventSlug": "90361-nfc-11",
+      "round": 1,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2022-06-11T00:00:00.000Z",
+      "opponent": "Bogdan Grad",
+      "opponentSlug": "106776-bogdan-grad",
+      "result": "loss",
+      "method": "other",
+      "event": "INNFERNO Fighting Championship 5",
+      "eventSlug": "90860-innferno-fighting-championship-5",
+      "round": 1,
+      "timeInRound": "4:57"
+    },
+    {
+      "date": "2021-06-19T00:00:00.000Z",
+      "opponent": "Stephan Janßen",
+      "opponentSlug": "62241-stephan-janen",
+      "result": "loss",
+      "method": "sub",
+      "event": "GMC Fight Night 8",
+      "eventSlug": "79098-gmc-fight-night",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-07T00:00:00.000Z",
+      "opponent": "Michael Rirsch",
+      "opponentSlug": "126525-michael-rirsch",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "Austrian FC 12",
+      "eventSlug": "64881-austrian-fc-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-23T00:00:00.000Z",
+      "opponent": "Ivica Jakopic",
+      "opponentSlug": "21964-ivica-jakopic",
+      "result": "win",
+      "method": "tko",
+      "event": "Austrian FC 9",
+      "eventSlug": "59123-austrian-fc-9",
+      "round": 1,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2018-12-01T00:00:00.000Z",
+      "opponent": "Ahmedin Fajić",
+      "opponentSlug": "146648-ahmedin-fajic",
+      "result": "win",
+      "method": "other",
+      "event": "Austrian FC 8",
+      "eventSlug": "53571-austrian-fc-8",
+      "round": 2,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2018-03-17T00:00:00.000Z",
+      "opponent": "Nenad Dunovic",
+      "opponentSlug": "174665-nenad-dunovic",
+      "result": "win",
+      "method": "tko",
+      "event": "IFC: Fight Night Austria",
+      "eventSlug": "52725-ifc-fight-night-austria",
+      "round": 1,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2017-05-13T00:00:00.000Z",
+      "opponent": "Joey Kuiten",
+      "opponentSlug": "72450-joey-kuiten",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Centurion Fight Championship 1",
+      "eventSlug": "45680-centurion-fight-championship-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-08-14T00:00:00.000Z",
+      "opponent": "Jaroslav Jartim",
+      "opponentSlug": "63815-jaroslav-jartim",
+      "result": "win",
+      "method": "other",
+      "event": "INNFERNO Fighting Championship 2",
+      "eventSlug": "38908-innferno-fighting-championship-2",
+      "round": 1,
+      "timeInRound": "4:07"
+    },
+    {
+      "date": "2016-04-24T00:00:00.000Z",
+      "opponent": "David Ulus",
+      "opponentSlug": "131225-david-ulus",
+      "result": "win",
+      "method": "sub",
+      "event": "Aggrelin 11",
+      "eventSlug": "39457-aggrelin-11",
+      "round": 1,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2015-06-13T00:00:00.000Z",
+      "opponent": "Can Bayrakdar",
+      "opponentSlug": "88973-can-bayrakdar",
+      "result": "win",
+      "method": "other",
+      "event": "INNFERNO Fighting Championship 1",
+      "eventSlug": "33048-innferno-fighting-championship-1",
+      "round": 2,
+      "timeInRound": "3:39"
+    },
+    {
+      "date": "2015-03-03T00:00:00.000Z",
+      "opponent": "Dennis Coste",
+      "opponentSlug": "102915-dennis-coste",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-04-26T00:00:00.000Z",
+      "opponent": "Jaroslav Jartim",
+      "opponentSlug": "63815-jaroslav-jartim",
+      "result": "win",
+      "method": "tko",
+      "event": "Salzburger MMA Challenge",
+      "eventSlug": "96527-salzburger-mma-challenge",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-02-01T00:00:00.000Z",
+      "opponent": "Michael Rirsch",
+      "opponentSlug": "126525-michael-rirsch",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-07-06T00:00:00.000Z",
+      "opponent": "Rafael Rutschek",
+      "opponentSlug": "169636-rafael-rutschek",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:07:24.590Z"
+}

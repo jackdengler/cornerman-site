@@ -1,0 +1,44 @@
+{
+  "slug": "81137-aleksey-nimirovich",
+  "name": "Aleksey Nimirovich",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Ukraine",
+  "url": "https://www.tapology.com/fightcenter/fighters/81137-aleksey-nimirovich",
+  "recentFights": [
+    {
+      "date": "2014-07-26T00:00:00.000Z",
+      "opponent": "Yaroslav Amosov",
+      "opponentSlug": "81129-yaroslav-amosov",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-06-28T00:00:00.000Z",
+      "opponent": "Boris Selanov",
+      "opponentSlug": "93494-boris-selanov",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:04:58.302Z"
+}

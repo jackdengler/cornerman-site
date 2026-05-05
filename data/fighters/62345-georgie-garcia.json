@@ -1,0 +1,187 @@
+{
+  "slug": "62345-georgie-garcia",
+  "name": "George Garcia",
+  "nickname": "Gorgeous",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1990-09-20",
+  "nationality": "Pacoima, California",
+  "url": "https://www.tapology.com/fightcenter/fighters/62345-georgie-garcia",
+  "recentFights": [
+    {
+      "date": "2022-04-22T00:00:00.000Z",
+      "opponent": "Ismael Zamora",
+      "opponentSlug": "201495-ismael-zamora",
+      "result": "loss",
+      "method": "tko",
+      "event": "Combate Global",
+      "eventSlug": "88614-combate-global",
+      "round": 1,
+      "timeInRound": "3:22"
+    },
+    {
+      "date": "2021-05-14T00:00:00.000Z",
+      "opponent": "Ricardo Dias",
+      "opponentSlug": "36777-ricardo-dias",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 107: Kirk vs. Swain",
+      "eventSlug": "79064-lfa-107-carvalho-vs-davlatmurodov",
+      "round": 2,
+      "timeInRound": "0:25"
+    },
+    {
+      "date": "2019-08-30T00:00:00.000Z",
+      "opponent": "Bair Shtepin",
+      "opponentSlug": "98426-bair-shtepin",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "M-1 Challenge 104",
+      "eventSlug": "61203-m-1-challenge-105",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-30T00:00:00.000Z",
+      "opponent": "Yuriy Chobuka",
+      "opponentSlug": "88178-yuriy-chobuka",
+      "result": "win",
+      "method": "sub",
+      "event": "M-1 Challenge 101",
+      "eventSlug": "58625-m-1-challenge-101",
+      "round": 3,
+      "timeInRound": "4:45"
+    },
+    {
+      "date": "2018-10-20T00:00:00.000Z",
+      "opponent": "Willie Gates",
+      "opponentSlug": "willie-gates",
+      "result": "win",
+      "method": "sub",
+      "event": "CXF 15: Rage in the Cage",
+      "eventSlug": "56213-cxf-15",
+      "round": 2,
+      "timeInRound": "2:33"
+    },
+    {
+      "date": "2018-04-21T00:00:00.000Z",
+      "opponent": "Chris Beal",
+      "opponentSlug": "19024-chris-beal",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "CXF 12: Burbank Beatdown",
+      "eventSlug": "52569-cxf-12-burbank-beatdown",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-04T00:00:00.000Z",
+      "opponent": "Steve Ramirez",
+      "opponentSlug": "32667-steve-ramirez",
+      "result": "win",
+      "method": "sub",
+      "event": "CXF 10: Fall Brawl",
+      "eventSlug": "49052-cxf-10-fall-brawl",
+      "round": 2,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2017-06-10T00:00:00.000Z",
+      "opponent": "Corey Gower",
+      "opponentSlug": "14331-Corey-Gower",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Night 3",
+      "eventSlug": "45622-fight-night-medicine-hat-3",
+      "round": 1,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2016-12-17T00:00:00.000Z",
+      "opponent": "Kyler Phillips",
+      "opponentSlug": "93501-kyler-phillips",
+      "result": "loss",
+      "method": "other",
+      "event": "CXF 5: Night of Champions",
+      "eventSlug": "42156-cxf-5-night-of-champions",
+      "round": 1,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2016-09-10T00:00:00.000Z",
+      "opponent": "Young Jun Lee",
+      "opponentSlug": "11997-young-jun-lee",
+      "result": "win",
+      "method": "sub",
+      "event": "CXF 4: Fighting for Liam",
+      "eventSlug": "41030-california-xtreme-fighting-locked-and-loaded",
+      "round": 1,
+      "timeInRound": "1:52"
+    },
+    {
+      "date": "2016-06-25T00:00:00.000Z",
+      "opponent": "Gary Michaels",
+      "opponentSlug": "29254-gary-michaels",
+      "result": "win",
+      "method": "sub",
+      "event": "CXF 3: Proving Grounds",
+      "eventSlug": "39890-california-xtreme-fighting",
+      "round": 1,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2015-04-17T00:00:00.000Z",
+      "opponent": "Ron Scolesdang",
+      "opponentSlug": "27849-ron-scolesdang",
+      "result": "loss",
+      "method": "other",
+      "event": "Lights Out @ Sportsmen's Lodge",
+      "eventSlug": "31719-fight-night-sportsmens-lodge-2",
+      "round": 1,
+      "timeInRound": "1:56"
+    },
+    {
+      "date": "2015-02-20T00:00:00.000Z",
+      "opponent": "Paul Amaro",
+      "opponentSlug": "49709-paul-amaro",
+      "result": "win",
+      "method": "other",
+      "event": "Lights Out @ Sportsmen's Lodge",
+      "eventSlug": "29513-lights-out-at-the-lodge",
+      "round": 1,
+      "timeInRound": "1:53"
+    },
+    {
+      "date": "2014-10-02T00:00:00.000Z",
+      "opponent": "Ramos Cruz",
+      "opponentSlug": "40945-ramos-cruz",
+      "result": "win",
+      "method": "sub",
+      "event": "KOTC: Battle for the Belt",
+      "eventSlug": "26576-kotc-battle-for-the-belt",
+      "round": 2,
+      "timeInRound": "2:48"
+    },
+    {
+      "date": "2014-03-06T00:00:00.000Z",
+      "opponent": "Donavon Frelow",
+      "opponentSlug": "30213-donovan-frelow",
+      "result": "loss",
+      "method": "sub",
+      "event": "KOTC: Beaten Path",
+      "eventSlug": "22371-kotc-beaten-path",
+      "round": 2,
+      "timeInRound": "0:30"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:06:08.625Z"
+}

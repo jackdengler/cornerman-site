@@ -1,0 +1,33 @@
+{
+  "slug": "290462-alexey-druzhinin",
+  "name": "Alexey Druzhinin",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Belarus",
+  "url": "https://www.tapology.com/fightcenter/fighters/290462-alexey-druzhinin",
+  "recentFights": [
+    {
+      "date": "2021-04-03T00:00:00.000Z",
+      "opponent": "Shamil Gaziev",
+      "opponentSlug": "201352-shamil-gaziev",
+      "result": "loss",
+      "method": "other",
+      "event": "MMA Series 29",
+      "eventSlug": "78220-mma-series-29-world-cup",
+      "round": 1,
+      "timeInRound": "0:33"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:55:32.255Z"
+}

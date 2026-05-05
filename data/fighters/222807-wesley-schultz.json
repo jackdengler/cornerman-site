@@ -1,0 +1,231 @@
+{
+  "slug": "222807-wesley-schultz",
+  "name": "Wes Schultz",
+  "nickname": "Party Time",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 187,
+  "reachCm": 196,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1996-08-09",
+  "nationality": "Madison, Wisconsin, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/222807-wesley-schultz",
+  "recentFights": [
+    {
+      "date": "2026-05-02T00:00:00.000Z",
+      "opponent": "Ben Johnston",
+      "opponentSlug": "345042-ben-johnston",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "140511-ufc-fight-night-della-maddalena-vs-prates",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2026-02-28T00:00:00.000Z",
+      "opponent": "Damian Pinas",
+      "opponentSlug": "389237-damian-pinas",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "136702-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2025-10-14T00:00:00.000Z",
+      "opponent": "Mario Mingaj",
+      "opponentSlug": "147092-mario-mingaj",
+      "result": "win",
+      "method": "other",
+      "event": "Contender Series 2025",
+      "eventSlug": "128467-contender-series-2025-week-10",
+      "round": 1,
+      "timeInRound": "1:51"
+    },
+    {
+      "date": "2025-04-12T00:00:00.000Z",
+      "opponent": "Dustin Pape",
+      "opponentSlug": "26923-dustin-pape",
+      "result": "win",
+      "method": "sub",
+      "event": "MFL 56: Big Bang",
+      "eventSlug": "120225-mfl-56",
+      "round": 1,
+      "timeInRound": "0:55"
+    },
+    {
+      "date": "2024-08-13T00:00:00.000Z",
+      "opponent": "Mansur Abdul-Malik",
+      "opponentSlug": "236993-mansur-abdul-malik",
+      "result": "loss",
+      "method": "other",
+      "event": "Contender Series 2024",
+      "eventSlug": "112918-contender-series-2024-week-1",
+      "round": 2,
+      "timeInRound": "3:55"
+    },
+    {
+      "date": "2024-04-05T00:00:00.000Z",
+      "opponent": "Adland Benson",
+      "opponentSlug": "123052-adland-benson",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 181: Siqueira vs. Hernandez",
+      "eventSlug": "110760-lfa-181",
+      "round": 1,
+      "timeInRound": "3:39"
+    },
+    {
+      "date": "2024-01-12T00:00:00.000Z",
+      "opponent": "Maurice Morris",
+      "opponentSlug": "319864-maurice-morris",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 174: Jones vs. Gennrich",
+      "eventSlug": "108251-lfa-174-jones-vs-gennrich",
+      "round": 1,
+      "timeInRound": "1:52"
+    },
+    {
+      "date": "2023-05-13T00:00:00.000Z",
+      "opponent": "Zach Edington",
+      "opponentSlug": "26131-zachary-edington",
+      "result": "win",
+      "method": "sub",
+      "event": "GE Fights: High Octane",
+      "eventSlug": "98268-ge-fights-high-octane",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2023-01-13T00:00:00.000Z",
+      "opponent": "Dylan Budka",
+      "opponentSlug": "275778-dylan-budka",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 150: Farias vs. Sweeney",
+      "eventSlug": "96178-lfa-150-farias-vs-sweeney",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-26T00:00:00.000Z",
+      "opponent": "Jon Knutson",
+      "opponentSlug": "11101-jonathan-knutson",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 140: Mota vs. Abuev",
+      "eventSlug": "91626-lfa-140-mota-vs-abuev",
+      "round": 2,
+      "timeInRound": "0:53"
+    },
+    {
+      "date": "2022-05-06T00:00:00.000Z",
+      "opponent": "Hamza Salim",
+      "opponentSlug": "117025-hamza-salim",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 131: Argueta vs. Silva",
+      "eventSlug": "88713-lfa-131-argueta-vs-silva",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-23T00:00:00.000Z",
+      "opponent": "Victor Jones",
+      "opponentSlug": "52892-victor-jones",
+      "result": "win",
+      "method": "other",
+      "event": "Pure FC 20",
+      "eventSlug": "80231-pure-fc-20",
+      "round": 1,
+      "timeInRound": "0:24"
+    },
+    {
+      "date": "2021-03-27T00:00:00.000Z",
+      "opponent": "Zack Rilea",
+      "opponentSlug": "99599-zach-rilea",
+      "result": "win",
+      "method": "sub",
+      "event": "Caged Aggression 30",
+      "eventSlug": "76433-caged-aggression-30-triple-threat-day-3",
+      "round": 3,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2020-11-21T00:00:00.000Z",
+      "opponent": "Jeff Nielsen",
+      "opponentSlug": "166814-jeff-nielsen",
+      "result": "win",
+      "method": "sub",
+      "event": "DCS 64",
+      "eventSlug": "74477-dcs-64-thanksgiving-throwdown-ii-night-two",
+      "round": 1,
+      "timeInRound": "3:47"
+    },
+    {
+      "date": "2020-09-12T00:00:00.000Z",
+      "opponent": "Ben Goodwin",
+      "opponentSlug": "190591-ben-goodwin",
+      "result": "win",
+      "method": "other",
+      "event": "DCS 61: September Fight Fest",
+      "eventSlug": "72739-dcs-61-september-fight-fest",
+      "round": 1,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2020-02-21T00:00:00.000Z",
+      "opponent": "Jackson McVey",
+      "opponentSlug": "238221-jackson-mcvey",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 82: Polizzi vs. Pogues",
+      "eventSlug": "66533-lfa-82-polizzi-vs-pogues",
+      "round": 1,
+      "timeInRound": "0:41"
+    },
+    {
+      "date": "2019-11-02T00:00:00.000Z",
+      "opponent": "Wes Holtz",
+      "opponentSlug": "193347-wes-holtz",
+      "result": "win",
+      "method": "sub",
+      "event": "Pure FC 15",
+      "eventSlug": "62828-pure-fc-15",
+      "round": 1,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2019-08-24T00:00:00.000Z",
+      "opponent": "Gabe Taylor",
+      "opponentSlug": "223733-gabe-taylor",
+      "result": "loss",
+      "method": "sub",
+      "event": "Caged Aggression 25",
+      "eventSlug": "59217-caged-aggression-25-the-return-night-2",
+      "round": 2,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2019-04-27T00:00:00.000Z",
+      "opponent": "Jake Ramert",
+      "opponentSlug": "222808-jake-ramert",
+      "result": "win",
+      "method": "other",
+      "event": "3 River Throwdown 15",
+      "eventSlug": "57279-3-river-throwdown-15",
+      "round": 1,
+      "timeInRound": "2:46"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:54:11.594Z"
+}

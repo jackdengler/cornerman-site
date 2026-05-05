@@ -1,0 +1,220 @@
+{
+  "slug": "109252-jaime-drago",
+  "name": "Jimmy Drago",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": 182,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1995-02-18",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/109252-jaime-drago",
+  "recentFights": [
+    {
+      "date": "2025-11-01T00:00:00.000Z",
+      "opponent": "Justice Lamparez",
+      "opponentSlug": "135354-justice-lamparez",
+      "result": "win",
+      "method": "other",
+      "event": "New Line Cagefighting 40",
+      "eventSlug": "130616-new-line-cagefighting-41-brawl-at-the-bridge-4",
+      "round": 2,
+      "timeInRound": "4:09"
+    },
+    {
+      "date": "2025-08-12T00:00:00.000Z",
+      "opponent": "Ty Miller",
+      "opponentSlug": "203990-ty-miller",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Contender Series 2025",
+      "eventSlug": "128458-contender-series-2025-week-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-14T00:00:00.000Z",
+      "opponent": "Junior Melo",
+      "opponentSlug": "121289-jose-cleiton-de-melo-junior-melo",
+      "result": "nc",
+      "method": "other",
+      "event": "CFFC 140: Rzgoev vs. Roberts",
+      "eventSlug": "123146-cffc-149-varricchio-vs-alvarez",
+      "round": 2,
+      "timeInRound": "3:47"
+    },
+    {
+      "date": "2024-09-20T00:00:00.000Z",
+      "opponent": "Alonzo Turner",
+      "opponentSlug": "221751-alonzo-turner",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ring of Combat 85",
+      "eventSlug": "115706-ring-of-combat-85",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-07T00:00:00.000Z",
+      "opponent": "Tyler Stewart",
+      "opponentSlug": "142841-tyler-stewart",
+      "result": "win",
+      "method": "tko",
+      "event": "Ring of Combat 84",
+      "eventSlug": "112270-ring-of-combat-84",
+      "round": 1,
+      "timeInRound": "3:50"
+    },
+    {
+      "date": "2024-03-01T00:00:00.000Z",
+      "opponent": "Myles Robinson",
+      "opponentSlug": "97002-myles-robinson",
+      "result": "win",
+      "method": "other",
+      "event": "Ring of Combat 83",
+      "eventSlug": "107764-ring-of-combat-83",
+      "round": 2,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2023-09-08T00:00:00.000Z",
+      "opponent": "Itso Babulaidze",
+      "opponentSlug": "196069-itso-babulaidze",
+      "result": "loss",
+      "method": "sub",
+      "event": "Ring of Combat 81",
+      "eventSlug": "103439-ring-of-combat-81",
+      "round": 3,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2023-03-25T00:00:00.000Z",
+      "opponent": "Gabe Barletta",
+      "opponentSlug": "96929-gabe-barletta",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Maverick MMA 22",
+      "eventSlug": "97233-maverick-mma-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-18T00:00:00.000Z",
+      "opponent": "Regis Farias",
+      "opponentSlug": "161740-regis-farias",
+      "result": "win",
+      "method": "other",
+      "event": "Ring of Combat 78",
+      "eventSlug": "94522-ring-of-combat-78",
+      "round": 1,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2022-05-20T00:00:00.000Z",
+      "opponent": "Kasheem Peterson",
+      "opponentSlug": "13858-kasheem-peterson-the-dream",
+      "result": "win",
+      "method": "tko",
+      "event": "Ring of Combat 76",
+      "eventSlug": "87796-ring-of-combat-76",
+      "round": 1,
+      "timeInRound": "4:32"
+    },
+    {
+      "date": "2021-06-26T00:00:00.000Z",
+      "opponent": "Ibrahim Kallie",
+      "opponentSlug": "173763-ibrahim-kallie",
+      "result": "win",
+      "method": "sub",
+      "event": "Maverick MMA 16",
+      "eventSlug": "74210-maverick-mma-16",
+      "round": 1,
+      "timeInRound": "3:39"
+    },
+    {
+      "date": "2019-05-31T00:00:00.000Z",
+      "opponent": "Lenny Rufati",
+      "opponentSlug": "142303-lirim-rufati",
+      "result": "loss",
+      "method": "other",
+      "event": "Ring of Combat 68",
+      "eventSlug": "59296-ring-of-combat-68",
+      "round": 1,
+      "timeInRound": "3:12"
+    },
+    {
+      "date": "2018-12-15T00:00:00.000Z",
+      "opponent": "Kadim Wheatle",
+      "opponentSlug": "22295-kadim-wheatle",
+      "result": "win",
+      "method": "tko",
+      "event": "Dead Serious 32",
+      "eventSlug": "56718-dead-serious-32",
+      "round": 2,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2018-07-28T00:00:00.000Z",
+      "opponent": "Hakeif Phillips",
+      "opponentSlug": "32241-hakeif-phillips",
+      "result": "win",
+      "method": "other",
+      "event": "Ring of Combat 64",
+      "eventSlug": "52728-ring-of-combat-64",
+      "round": 1,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2018-02-24T00:00:00.000Z",
+      "opponent": "Lenny Rufati",
+      "opponentSlug": "142303-lirim-rufati",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Dead Serious 27",
+      "eventSlug": "49887-dead-serious-27",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-10-28T00:00:00.000Z",
+      "opponent": "De'Jon Farrell-Francis",
+      "opponentSlug": "140936-dejon-farrell-francis",
+      "result": "win",
+      "method": "other",
+      "event": "Ring of Combat AM 26",
+      "eventSlug": "47813-ring-of-combat-am-26",
+      "round": 1,
+      "timeInRound": "1:26"
+    },
+    {
+      "date": "2017-07-15T00:00:00.000Z",
+      "opponent": "Alex Torres",
+      "opponentSlug": "116409-alex-torres",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ring of Combat AM 24",
+      "eventSlug": "44769-ring-of-combat-am-24",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-04T00:00:00.000Z",
+      "opponent": "Jose Soto",
+      "opponentSlug": "151444-jose-soto",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Dead Serious 24",
+      "eventSlug": "43308-dead-serious-24",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:37:49.314Z"
+}

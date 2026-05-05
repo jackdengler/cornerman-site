@@ -1,0 +1,154 @@
+{
+  "slug": "207556-welisson-dos-santos-mao-de-pedra",
+  "name": "Welisson Paiva",
+  "nickname": "Mão de Pedra",
+  "aliases": [],
+  "recordPro": {
+    "wins": 12,
+    "losses": 4,
+    "draws": 2
+  },
+  "recordAmateur": null,
+  "heightCm": 177,
+  "reachCm": 174,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "2002-08-22",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/207556-welisson-dos-santos-mao-de-pedra",
+  "recentFights": [
+    {
+      "date": "2026-04-18T00:00:00.000Z",
+      "opponent": "Hugo Deux",
+      "opponentSlug": "341800-hugo-deux-nemesis",
+      "result": null,
+      "method": "other",
+      "event": "KSW 117: Pawlak vs. Khalidov",
+      "eventSlug": "140146-ksw-117-de-fries-vs-wojcik",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-20T00:00:00.000Z",
+      "opponent": "Mateusz Makarowski",
+      "opponentSlug": "159667-mateusz-makarowski",
+      "result": "loss",
+      "method": "other",
+      "event": "KSW 110: Grzebyk vs. Tulshaev",
+      "eventSlug": "129565-ksw-110",
+      "round": 2,
+      "timeInRound": "3:07"
+    },
+    {
+      "date": "2025-02-21T00:00:00.000Z",
+      "opponent": "Dawid Śmiełowski",
+      "opponentSlug": "88531-dawid-mieowski",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KSW 103: Brichta vs. Charzewski",
+      "eventSlug": "119218-ksw-103",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-07-20T00:00:00.000Z",
+      "opponent": "Maciej Kazieczko",
+      "opponentSlug": "103029-maciej-kazieczko",
+      "result": "win",
+      "method": "other",
+      "event": "KSW 96: Pawlak vs. Janikowski 2",
+      "eventSlug": "113366-ksw-96-pawlak-vs-janikowski-2",
+      "round": 3,
+      "timeInRound": "3:43"
+    },
+    {
+      "date": "2024-06-02T00:00:00.000Z",
+      "opponent": "Magomed Kadimagomedov",
+      "opponentSlug": "326810-magomed-kadimagomedov",
+      "result": "win",
+      "method": "other",
+      "event": "Hexagone MMA 17",
+      "eventSlug": "108454-hexagone-mma-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-18T00:00:00.000Z",
+      "opponent": "Nurzhan Akishev",
+      "opponentSlug": "172046-nurzhan-akishev",
+      "result": "draw",
+      "method": "dec-split",
+      "event": "Octagon 52: Shutova vs. Tursyn",
+      "eventSlug": "107119-octagon-52",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-07T00:00:00.000Z",
+      "opponent": "Franco Aranda",
+      "opponentSlug": "143661-franco-aranda",
+      "result": "win",
+      "method": "tko",
+      "event": "MFT 4",
+      "eventSlug": "101542-mft-4",
+      "round": 2,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2023-01-21T00:00:00.000Z",
+      "opponent": "Walisson Dias",
+      "opponentSlug": "241635-walisson-caveira",
+      "result": "win",
+      "method": "other",
+      "event": "The Champion MMA 1",
+      "eventSlug": "97548-the-champion-mma",
+      "round": 1,
+      "timeInRound": "0:19"
+    },
+    {
+      "date": "2022-09-24T00:00:00.000Z",
+      "opponent": "Lom-Ali Eskiev",
+      "opponentSlug": "33885-lom-ali-eskijew-leon",
+      "result": "loss",
+      "method": "other",
+      "event": "EMC 10",
+      "eventSlug": "91476-emc-10",
+      "round": 1,
+      "timeInRound": "2:28"
+    },
+    {
+      "date": "2022-04-09T00:00:00.000Z",
+      "opponent": "Mateo Pereira",
+      "opponentSlug": "176496-mateo-pereira",
+      "result": "draw",
+      "method": "dec-unanimous",
+      "event": "CFU: La Purga",
+      "eventSlug": "87516-cfu-la-purga",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-06T00:00:00.000Z",
+      "opponent": "Antonio Domingos",
+      "opponentSlug": "104102-antonio-domingos-junior-nego",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Number 1 MMA 2",
+      "eventSlug": "82289-number-1-mma-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-26T00:00:00.000Z",
+      "opponent": "Elysson Machado",
+      "opponentSlug": "159986-elysson-machado",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Centro Oeste Fight 12",
+      "eventSlug": "78829-centro-oeste-fight-12",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:03:18.219Z"
+}

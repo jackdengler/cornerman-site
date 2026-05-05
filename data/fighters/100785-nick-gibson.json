@@ -1,0 +1,48 @@
+{
+  "slug": "100785-nick-gibson",
+  "name": "Nick Gibson",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1993-01-25",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/100785-nick-gibson",
+  "recentFights": [
+    {
+      "date": "2015-07-11T00:00:00.000Z",
+      "opponent": "Kyler Phillips",
+      "opponentSlug": "93501-kyler-phillips",
+      "result": "loss",
+      "method": "other",
+      "event": "Duel for Domination 12",
+      "eventSlug": "34026-duel-for-domination-12",
+      "round": 1,
+      "timeInRound": "0:15"
+    },
+    {
+      "date": "2015-04-25T00:00:00.000Z",
+      "opponent": "Jacob Clary",
+      "opponentSlug": "95827-jacob-clary",
+      "result": "win",
+      "method": "tko",
+      "event": "KOTC: Cutting Edge",
+      "eventSlug": "32062-kotc-cutting-edge",
+      "round": 1,
+      "timeInRound": "0:19"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:06:17.424Z"
+}

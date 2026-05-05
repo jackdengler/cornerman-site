@@ -1,0 +1,37 @@
+{
+  "slug": "188588-michael-hughes",
+  "name": "Michael Hughes",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/188588-michael-hughes",
+  "recentFights": [
+    {
+      "date": "2018-06-16T00:00:00.000Z",
+      "opponent": "Ralph Hernandez III",
+      "opponentSlug": "190165-ralph-hernandez",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shamrock FC 306",
+      "eventSlug": "52437-shamrock-fc-306",
+      "round": 3,
+      "timeInRound": "3:00"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:45:00.105Z"
+}

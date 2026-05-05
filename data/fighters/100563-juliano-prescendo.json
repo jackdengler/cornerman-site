@@ -1,0 +1,220 @@
+{
+  "slug": "100563-juliano-prescendo",
+  "name": "Juliano Prescendo",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1998-01-22",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/100563-juliano-prescendo",
+  "recentFights": [
+    {
+      "date": "2025-07-11T00:00:00.000Z",
+      "opponent": "Samuel Dias",
+      "opponentSlug": "137693-samuel-marcos",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 212: Degli vs. Severino",
+      "eventSlug": "128256-lfa-212",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-07T00:00:00.000Z",
+      "opponent": "Joel dos Santos",
+      "opponentSlug": "89360-joel-dos-santos-tigre",
+      "result": "win",
+      "method": "other",
+      "event": "Metanoia FC",
+      "eventSlug": "116997-metanoia-fc-premium",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2023-11-17T00:00:00.000Z",
+      "opponent": "Nikita Kulshin",
+      "opponentSlug": "178301-nikita-kulshin",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 172: Davis vs. Chapolin",
+      "eventSlug": "106248-lfa-172-davis-vs-chapolin",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-07-01T00:00:00.000Z",
+      "opponent": "Pedro Henrique",
+      "opponentSlug": "84791-pedro-henrique-psicopata",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Prime Fights 2",
+      "eventSlug": "102859-prime-fights-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-20T00:00:00.000Z",
+      "opponent": "Renzo Cortti",
+      "opponentSlug": "89365-renzo-corti",
+      "result": "loss",
+      "method": "sub",
+      "event": "Imortal FC 11",
+      "eventSlug": "94603-imortal-fc-11",
+      "round": 1,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2022-05-27T00:00:00.000Z",
+      "opponent": "Thiago Lima",
+      "opponentSlug": "115234-thiago-lima",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Max Fight 24",
+      "eventSlug": "87920-max-fight-24",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-25T00:00:00.000Z",
+      "opponent": "Gabriel Andry",
+      "opponentSlug": "305289-gabriel-andry",
+      "result": "win",
+      "method": "sub",
+      "event": "CWB Fight League 20",
+      "eventSlug": "81651-cwb-fight-league-20",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2020-11-28T00:00:00.000Z",
+      "opponent": "Emerson Santos",
+      "opponentSlug": "48202-emerson-santos",
+      "result": "win",
+      "method": "sub",
+      "event": "Forze FC 1",
+      "eventSlug": "74214-forze-fc-1",
+      "round": 1,
+      "timeInRound": "4:55"
+    },
+    {
+      "date": "2020-02-15T00:00:00.000Z",
+      "opponent": "Cesar Acosta",
+      "opponentSlug": "256754-cesar-acosta",
+      "result": "win",
+      "method": "sub",
+      "event": "CWB Fight League 17",
+      "eventSlug": "67802-cwb-fight-league-17",
+      "round": 1,
+      "timeInRound": "0:41"
+    },
+    {
+      "date": "2019-03-29T00:00:00.000Z",
+      "opponent": "Taffarel Brasil",
+      "opponentSlug": "134178-taffarel-ndio",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Sicario MMA 4",
+      "eventSlug": "59412-sicario-mma-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-23T00:00:00.000Z",
+      "opponent": "Paulo Nadal",
+      "opponentSlug": "36551-paulo-giovani-nadal-vaca",
+      "result": "win",
+      "method": "tko",
+      "event": "Sicario MMA 3",
+      "eventSlug": "55705-sicario-mma-4",
+      "round": 1,
+      "timeInRound": "3:07"
+    },
+    {
+      "date": "2018-07-20T00:00:00.000Z",
+      "opponent": "Fernando Silva",
+      "opponentSlug": "89024-fernando-silva",
+      "result": "win",
+      "method": "other",
+      "event": "Sicario MMA 1",
+      "eventSlug": "54295-sicario-mma-1",
+      "round": 1,
+      "timeInRound": "3:10"
+    },
+    {
+      "date": "2018-03-24T00:00:00.000Z",
+      "opponent": "Leandro Brito",
+      "opponentSlug": "101538-leandro-light",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-22T00:00:00.000Z",
+      "opponent": "Matheus Ferreira",
+      "opponentSlug": "159503-matheus-ferreira",
+      "result": "win",
+      "method": "other",
+      "event": "Copa Striker's House 78",
+      "eventSlug": "48810-copa-strikers-house-78",
+      "round": 1,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2016-12-16T00:00:00.000Z",
+      "opponent": "João Victor",
+      "opponentSlug": "118686-joo-victor",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-06-25T00:00:00.000Z",
+      "opponent": "Everton Fernandes",
+      "opponentSlug": "135475-everton-fernandes",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Copa Striker's House 63",
+      "eventSlug": "40270-copa-strikers-house-63",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-07-18T00:00:00.000Z",
+      "opponent": "Geo Rodrigues",
+      "opponentSlug": "111122-geo-rodrigues",
+      "result": "loss",
+      "method": "tko",
+      "event": "Copa Striker's House 51",
+      "eventSlug": "34819-copa-strikers-house-51",
+      "round": 1,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2015-04-25T00:00:00.000Z",
+      "opponent": "Diorran Alexandre",
+      "opponentSlug": "100564-diorran-pereira",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Copa Striker's House 48",
+      "eventSlug": "32146-copa-strikers-house-48",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:38:41.202Z"
+}

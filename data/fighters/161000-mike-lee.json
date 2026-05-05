@@ -1,0 +1,121 @@
+{
+  "slug": "161000-mike-lee",
+  "name": "Mike Lee",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1994-09-19",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/161000-mike-lee",
+  "recentFights": [
+    {
+      "date": "2025-02-22T00:00:00.000Z",
+      "opponent": "Freddy Vidal",
+      "opponentSlug": "326485-freddy-vidal",
+      "result": "loss",
+      "method": "tko",
+      "event": "Flex Fights",
+      "eventSlug": "123239-flex-fights-let-s-just-fight-vol-43",
+      "round": 1,
+      "timeInRound": "3:52"
+    },
+    {
+      "date": "2022-02-12T00:00:00.000Z",
+      "opponent": "Robert Sanfilippo",
+      "opponentSlug": "136870-rob-sanfallipo",
+      "result": "win",
+      "method": "tko",
+      "event": "Combat Night",
+      "eventSlug": "87087-combat-night-broward",
+      "round": 1,
+      "timeInRound": "2:50"
+    },
+    {
+      "date": "2019-09-14T00:00:00.000Z",
+      "opponent": "Fernando Reyes",
+      "opponentSlug": "216800-fernando-reyes",
+      "result": "loss",
+      "method": "sub",
+      "event": "XFN 25",
+      "eventSlug": "62914-xfn-25",
+      "round": 1,
+      "timeInRound": "1:19"
+    },
+    {
+      "date": "2019-06-15T00:00:00.000Z",
+      "opponent": "Sedriques Dumas",
+      "opponentSlug": "188574-sedriques-dumas",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Dean Toole Promotions",
+      "eventSlug": "61097-dean-toole-promotions",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-07T00:00:00.000Z",
+      "opponent": "Abraham Cunningham",
+      "opponentSlug": "174382-abraham-cunningham",
+      "result": "win",
+      "method": "tko",
+      "event": "Combat Night 104",
+      "eventSlug": "59484-combat-night-104",
+      "round": 1,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2018-11-17T00:00:00.000Z",
+      "opponent": "Stephen Townsel",
+      "opponentSlug": "150557-steve-townsel-tomahawk",
+      "result": "win",
+      "method": "other",
+      "event": "Rise of a Warrior 24",
+      "eventSlug": "56654-rise-of-a-warrior-24",
+      "round": 2,
+      "timeInRound": "1:42"
+    },
+    {
+      "date": "2018-04-14T00:00:00.000Z",
+      "opponent": "Sheldon Harper",
+      "opponentSlug": "174477-sheldon-harper",
+      "result": "win",
+      "method": "other",
+      "event": "Combat Night 90",
+      "eventSlug": "52490-combat-night-90",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-11-02T00:00:00.000Z",
+      "opponent": "Miles Amos",
+      "opponentSlug": "126519-miles-amos",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "XFN 17: Unconquered",
+      "eventSlug": "48891-xfn-17-unconquered",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-01T00:00:00.000Z",
+      "opponent": "Patrick O'Reilly",
+      "opponentSlug": "147141-patrick-oreily",
+      "result": "win",
+      "method": "tko",
+      "event": "XFN 16: Gamboa vs. Suarez",
+      "eventSlug": "46707-xfn-16",
+      "round": 1,
+      "timeInRound": "3:00"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:53:29.747Z"
+}

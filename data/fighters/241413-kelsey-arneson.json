@@ -1,0 +1,88 @@
+{
+  "slug": "241413-kelsey-arneson",
+  "name": "Kelsey Arnesen",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": 164,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/241413-kelsey-arneson",
+  "recentFights": [
+    {
+      "date": "2023-04-14T00:00:00.000Z",
+      "opponent": "Talita Alencar",
+      "opponentSlug": "217437-talita-alencar",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 156: Fuller vs. Waters",
+      "eventSlug": "98557-lfa-156-fuller-vs-waters",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-09-09T00:00:00.000Z",
+      "opponent": "Kathryn Paprocki",
+      "opponentSlug": "100577-kathryn-paprocki",
+      "result": "win",
+      "method": "dec-split",
+      "event": "LFA 141: Talundžić vs. Brown",
+      "eventSlug": "92073-lfa-141-talundzic-vs-brown",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-22T00:00:00.000Z",
+      "opponent": "Marnic Mann",
+      "opponentSlug": "171672-marnic-mann",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "LFA 130: Ksiazkiewicz vs. Gambulino",
+      "eventSlug": "87858-lfa-130-ksiazkiewicz-vs-gambulino",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-22T00:00:00.000Z",
+      "opponent": "Brittany Camozzi",
+      "opponentSlug": "66200-brittany-boone",
+      "result": "win",
+      "method": "tko",
+      "event": "LFA 116: Fremd vs. Valente",
+      "eventSlug": "82589-lfa-116-fremd-vs-valente",
+      "round": 3,
+      "timeInRound": "3:32"
+    },
+    {
+      "date": "2020-09-04T00:00:00.000Z",
+      "opponent": "Tabatha Ricci",
+      "opponentSlug": "81538-tabatha-ricci",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "LFA 90: Lazishvili vs. Steele",
+      "eventSlug": "72079-lfa-90-lazishvili-vs-steele",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-12-13T00:00:00.000Z",
+      "opponent": "Jessica Plascencia",
+      "opponentSlug": "224519-jessica-plascencia-jaws",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Colorado Combat Club 4",
+      "eventSlug": "64159-colorado-combat-club-4",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:58:34.330Z"
+}

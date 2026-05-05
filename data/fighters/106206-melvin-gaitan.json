@@ -1,0 +1,158 @@
+{
+  "slug": "106206-melvin-gaitan",
+  "name": "Melvin Alexander Gaitan",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 9,
+    "losses": 4,
+    "draws": 0
+  },
+  "heightCm": 165,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1996-01-29",
+  "nationality": "Nicaragua",
+  "url": "https://www.tapology.com/fightcenter/fighters/106206-melvin-gaitan",
+  "recentFights": [
+    {
+      "date": "2017-02-24T00:00:00.000Z",
+      "opponent": "Santiago Hernandez",
+      "opponentSlug": "111199-santiago-hernandez",
+      "result": "loss",
+      "method": "other",
+      "event": "NFC 34: Rey De La Jaula",
+      "eventSlug": "44215-nfc-34-rey-de-la-jaula",
+      "round": 2,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2016-10-28T00:00:00.000Z",
+      "opponent": "Adrian Luna Martinetti",
+      "opponentSlug": "139620-juan-adrian-luna",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UCC Fantastic Fight Night 3",
+      "eventSlug": "42081-ucc-fantastic-fight-night-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-08-26T00:00:00.000Z",
+      "opponent": "Marvin Adolfo Garcia Ugarte",
+      "opponentSlug": "93210-marvin-garcia-la-mascara",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UCC Fantastic Fight Night 1",
+      "eventSlug": "40969-ucc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-07-15T00:00:00.000Z",
+      "opponent": "Erick Romero Chavez",
+      "opponentSlug": "117467-erick-romero-chavez-el-gemelo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "NFC 29: Rivera vs. Wilson",
+      "eventSlug": "40145-nfc-29-rivera-vs-wilson",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-05-21T00:00:00.000Z",
+      "opponent": "Kevin David Garcia Vargas",
+      "opponentSlug": "93208-kevin-garcia-popeye",
+      "result": "win",
+      "method": "tko",
+      "event": "NFC 28: Torneo de Retadores",
+      "eventSlug": "39816-nfc-28-torneo-de-retadores",
+      "round": 2,
+      "timeInRound": "2:09"
+    },
+    {
+      "date": "2016-04-29T00:00:00.000Z",
+      "opponent": "Ottoniel Espinoza Calderon",
+      "opponentSlug": "94299-ottoniel-fautino",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "NFC 27: Campeones de la Jaula",
+      "eventSlug": "38784-nfc-27-campeones-de-la-jaula",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-12-11T00:00:00.000Z",
+      "opponent": "Roberto Luna",
+      "opponentSlug": "122772-roberto-carlos-luna-ortez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Moon Fight 24",
+      "eventSlug": "37346-moon-fight-24",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-30T00:00:00.000Z",
+      "opponent": "Johnny Marenco",
+      "opponentSlug": "98585-johnny-marenco",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-07-23T00:00:00.000Z",
+      "opponent": "Enoc Najera Chavarria",
+      "opponentSlug": "89405-enoc-najera",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Calvo Promotions 6",
+      "eventSlug": "33744-calvo-promotions",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-14T00:00:00.000Z",
+      "opponent": "Juancamilo Ronderos",
+      "opponentSlug": "87976-juancamilo-ronderos",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Tuff-N-Uff: Mayhem in Mesquite 6",
+      "eventSlug": "30821-tuff-n-uff-mayhem-in-mesquite-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-12-06T00:00:00.000Z",
+      "opponent": "Kevin Baltodano",
+      "opponentSlug": "130216-kevin-baltodano",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Omega MMA: Nueva Guinea",
+      "eventSlug": "30314-omega-mmawsof-central-america-nueva-guinea",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-02-22T00:00:00.000Z",
+      "opponent": "Eberto Sanz",
+      "opponentSlug": "133206-eberto-sanz",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Omega 7",
+      "eventSlug": "39266-omega-7",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:37:22.511Z"
+}

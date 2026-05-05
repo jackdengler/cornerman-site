@@ -1,0 +1,33 @@
+{
+  "slug": "474082-orion-kenny",
+  "name": "Orion Kenny",
+  "nickname": "Bear Hunter",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "New Zealand",
+  "url": "https://www.tapology.com/fightcenter/fighters/474082-orion-kenny",
+  "recentFights": [
+    {
+      "date": "2024-11-02T00:00:00.000Z",
+      "opponent": "Brando Peričić",
+      "opponentSlug": "195101-brando-pericic",
+      "result": "loss",
+      "method": "other",
+      "event": "SFC: Rebirth",
+      "eventSlug": "121593-sfc-ultimate-standup",
+      "round": 1,
+      "timeInRound": "1:08"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:56:02.275Z"
+}

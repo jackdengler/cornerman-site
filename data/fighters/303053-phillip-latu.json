@@ -1,0 +1,154 @@
+{
+  "slug": "303053-phillip-latu",
+  "name": "Phillip Latu",
+  "nickname": "The Doctor",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": 196,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1991-02-17",
+  "nationality": "Los Angeles, California",
+  "url": "https://www.tapology.com/fightcenter/fighters/303053-phillip-latu",
+  "recentFights": [
+    {
+      "date": "2026-04-17T00:00:00.000Z",
+      "opponent": "RJ Harris",
+      "opponentSlug": "382864-rj-harris",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 231: Lozej vs. Ibarra",
+      "eventSlug": "140675-lfa-231-trembley-vs-johns",
+      "round": 2,
+      "timeInRound": "4:01"
+    },
+    {
+      "date": "2026-01-30T00:00:00.000Z",
+      "opponent": "Greg Hardy",
+      "opponentSlug": "169557-greg-hardy",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Peak Fighting 50",
+      "eventSlug": "133952-peak-fighting-50",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-08-15T00:00:00.000Z",
+      "opponent": "Lucas Fernando",
+      "opponentSlug": "135406-lucas-fernando",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 214: Fernando vs. Latu",
+      "eventSlug": "129780-lfa-214",
+      "round": 1,
+      "timeInRound": "1:03"
+    },
+    {
+      "date": "2025-02-21T00:00:00.000Z",
+      "opponent": "Joe Taylor",
+      "opponentSlug": "109679-joe-taylor",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 202: Nkuta vs. Garcia",
+      "eventSlug": "121295-lfa-202",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-10T00:00:00.000Z",
+      "opponent": "Navajo Stirling",
+      "opponentSlug": "259609-navajo-sterling",
+      "result": "loss",
+      "method": "other",
+      "event": "Contender Series 2024",
+      "eventSlug": "112922-contender-series-2024-week-5",
+      "round": 2,
+      "timeInRound": "2:21"
+    },
+    {
+      "date": "2024-03-08T00:00:00.000Z",
+      "opponent": "Dylan Potter",
+      "opponentSlug": "91161-dylan-potter",
+      "result": "win",
+      "method": "other",
+      "event": "CFFC 130: Galvan vs. Dorzhiev",
+      "eventSlug": "110089-cffc-130",
+      "round": 2,
+      "timeInRound": "0:57"
+    },
+    {
+      "date": "2023-11-03T00:00:00.000Z",
+      "opponent": "Justus Faaiu",
+      "opponentSlug": "148397-justus-faaiu",
+      "result": "win",
+      "method": "other",
+      "event": "CFFC 127: Kline vs. Cova",
+      "eventSlug": "106215-cffc-127",
+      "round": 3,
+      "timeInRound": "0:27"
+    },
+    {
+      "date": "2023-06-24T00:00:00.000Z",
+      "opponent": "Maurice Morris",
+      "opponentSlug": "319864-maurice-morris",
+      "result": "win",
+      "method": "tko",
+      "event": "ECF 1: Showdown in the Falls",
+      "eventSlug": "100198-ecf-1",
+      "round": 1,
+      "timeInRound": "2:41"
+    },
+    {
+      "date": "2023-04-16T00:00:00.000Z",
+      "opponent": "Kimo Luis",
+      "opponentSlug": "158210-richard-luis",
+      "result": "win",
+      "method": "tko",
+      "event": "Fury FC 77: Gamble vs. Cunningham",
+      "eventSlug": "96725-fury-fc-77",
+      "round": 1,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2023-01-21T00:00:00.000Z",
+      "opponent": "Alvin Hines",
+      "opponentSlug": "29107-goozie-hines",
+      "result": "loss",
+      "method": "sub",
+      "event": "Captain's Fight Club 2",
+      "eventSlug": "96210-captain-s-fight-club-2",
+      "round": 2,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2022-11-10T00:00:00.000Z",
+      "opponent": "Cameron Chism-Brungard",
+      "opponentSlug": "125488-cameron-chism-brungard",
+      "result": "win",
+      "method": "tko",
+      "event": "Cowboys vs. Cajuns 3",
+      "eventSlug": "94563-cajuns-vs-cowboys-3",
+      "round": 1,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2021-11-04T00:00:00.000Z",
+      "opponent": "Odell Pantin",
+      "opponentSlug": "187759-odell-pantin",
+      "result": "win",
+      "method": "tko",
+      "event": "Cowboys vs. Cajuns 2",
+      "eventSlug": "83643-valor-fl-cajuns-vs-cowboys-2",
+      "round": 2,
+      "timeInRound": "2:44"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:59:42.171Z"
+}

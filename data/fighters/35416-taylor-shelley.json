@@ -1,0 +1,37 @@
+{
+  "slug": "35416-taylor-shelley",
+  "name": "Taylor Shelley",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/35416-taylor-shelley",
+  "recentFights": [
+    {
+      "date": "2011-09-02T00:00:00.000Z",
+      "opponent": "Jamie Siraj",
+      "opponentSlug": "35361-jamie-siraj-the-gremlin",
+      "result": "loss",
+      "method": "sub",
+      "event": "Warpath MMA 2",
+      "eventSlug": "16027-warpath-mma-2",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:05:08.348Z"
+}

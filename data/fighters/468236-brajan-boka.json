@@ -1,0 +1,44 @@
+{
+  "slug": "468236-brajan-boka",
+  "name": "Brajan Boka",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Croatia",
+  "url": "https://www.tapology.com/fightcenter/fighters/468236-brajan-boka",
+  "recentFights": [
+    {
+      "date": "2025-03-08T00:00:00.000Z",
+      "opponent": "Stefan Končar",
+      "opponentSlug": "481316-stefan-koncar-the-terror",
+      "result": "loss",
+      "method": "other",
+      "event": "ACF 4",
+      "eventSlug": "123727-acf-4",
+      "round": 2,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2024-11-30T00:00:00.000Z",
+      "opponent": "Jasmin Bikić",
+      "opponentSlug": "247982-jasmin-bikic",
+      "result": "win",
+      "method": "sub",
+      "event": "Baraber Fight Night 5",
+      "eventSlug": "120213-baraber-fight-night-5-new-generation",
+      "round": 1,
+      "timeInRound": "0:35"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:08:40.573Z"
+}

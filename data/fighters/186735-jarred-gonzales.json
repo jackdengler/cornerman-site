@@ -1,0 +1,147 @@
+{
+  "slug": "186735-jarred-gonzales",
+  "name": "Jarred Gonzales",
+  "nickname": "The Last Bandido",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 6,
+    "losses": 5,
+    "draws": 0
+  },
+  "heightCm": 183,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1999-01-21",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/186735-jarred-gonzales",
+  "recentFights": [
+    {
+      "date": "2025-04-19T00:00:00.000Z",
+      "opponent": "Manny Falcasantos",
+      "opponentSlug": "379541-manny-falcasantos",
+      "result": "loss",
+      "method": "other",
+      "event": "Rival FC: Beacon Beatdown 3",
+      "eventSlug": "126372-rival-fc-beacon-beatdown-3",
+      "round": 2,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2024-08-03T00:00:00.000Z",
+      "opponent": "Liam Hamill",
+      "opponentSlug": "298934-liam-hamill",
+      "result": "loss",
+      "method": "sub",
+      "event": "HRMMA 122: The Return",
+      "eventSlug": "115305-hrmma-the-return",
+      "round": 1,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2023-03-04T00:00:00.000Z",
+      "opponent": "Kelton Dial",
+      "opponentSlug": "377154-kelton-dial",
+      "result": "win",
+      "method": "sub",
+      "event": "Rival FC: Beacon Beatdown",
+      "eventSlug": "98556-rival-fc-beacon-beatdown",
+      "round": 1,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2023-01-28T00:00:00.000Z",
+      "opponent": "Quintin Richards",
+      "opponentSlug": "292164-quintin-richards",
+      "result": "loss",
+      "method": "other",
+      "event": "ECC Cage Fighting",
+      "eventSlug": "96117-ecc-cage-fighting-cage-wars-4",
+      "round": 2,
+      "timeInRound": "2:06"
+    },
+    {
+      "date": "2022-09-24T00:00:00.000Z",
+      "opponent": "Ryan Webb",
+      "opponentSlug": "351347-ryan-webb",
+      "result": "win",
+      "method": "tko",
+      "event": "ECC Cage Fighting",
+      "eventSlug": "93206-ecc-cage-fighting-cage-wars-2",
+      "round": 3,
+      "timeInRound": "2:23"
+    },
+    {
+      "date": "2022-08-20T00:00:00.000Z",
+      "opponent": "Jerry Arreola",
+      "opponentSlug": "282595-jerry-arreola",
+      "result": "loss",
+      "method": "sub",
+      "event": "Elite Fight Night",
+      "eventSlug": "91368-elite-fight-night-title-time",
+      "round": 1,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2022-05-07T00:00:00.000Z",
+      "opponent": "Arvin Mills",
+      "opponentSlug": "36120-jack-mills",
+      "result": "win",
+      "method": "sub",
+      "event": "Hub City MMA",
+      "eventSlug": "89246-hub-city-mma-fight-night-4",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-24T00:00:00.000Z",
+      "opponent": "Wallace McCoy Jr.",
+      "opponentSlug": "302539-wallace-mccoy-jr",
+      "result": "win",
+      "method": "tko",
+      "event": "C4 Fighting Championships 8",
+      "eventSlug": "79965-c4-fighting-championships-8-war-in-the-cage-2",
+      "round": 1,
+      "timeInRound": "1:48"
+    },
+    {
+      "date": "2018-10-20T00:00:00.000Z",
+      "opponent": "Alex Nuanez",
+      "opponentSlug": "199891-alex-nuanez",
+      "result": "loss",
+      "method": "sub",
+      "event": "Johnathan Ivey's Cage Fighting Championships 5",
+      "eventSlug": "55887-johnathan-ivey-s-cage-fighting-championships-fright-fights",
+      "round": 1,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2018-08-25T00:00:00.000Z",
+      "opponent": "Christopher Webb",
+      "opponentSlug": "194871-christopher-webb",
+      "result": "win",
+      "method": "other",
+      "event": "Paducah Punishment",
+      "eventSlug": "54830-paducah-punishment-resurrection",
+      "round": 1,
+      "timeInRound": "2:23"
+    },
+    {
+      "date": "2018-05-05T00:00:00.000Z",
+      "opponent": "Joseph Fitzgerald",
+      "opponentSlug": "186736-joseph-fitzgerald",
+      "result": "win",
+      "method": "sub",
+      "event": "C4 Fighting Championships 6",
+      "eventSlug": "52876-c4-fighting-championships-rumble-by-the-river-3",
+      "round": 1,
+      "timeInRound": "1:24"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:41:28.320Z"
+}

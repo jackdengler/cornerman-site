@@ -1,0 +1,33 @@
+{
+  "slug": "238715-toki-tamaru",
+  "name": "Toki Tamaru",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 163,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "2002-02-06",
+  "nationality": "Tokyo, Japan",
+  "url": "https://www.tapology.com/fightcenter/fighters/238715-toki-tamaru",
+  "recentFights": [
+    {
+      "date": "2025-05-04T00:00:00.000Z",
+      "opponent": "Joe Hiramoto",
+      "opponentSlug": "380730-jo-hiramoto",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "RIZIN: Otoko Matsuri",
+      "eventSlug": "125436-rizin-otokomatsuri",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T22:07:42.325Z"
+}

@@ -1,0 +1,154 @@
+{
+  "slug": "193582-adan-gabriel",
+  "name": "Adan Gabriel",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/193582-adan-gabriel",
+  "recentFights": [
+    {
+      "date": "2023-06-09T00:00:00.000Z",
+      "opponent": "Miljan Djukanovic",
+      "opponentSlug": "272784-miljan-djukanovic",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "DCS 86: Summer Kickoff 2023",
+      "eventSlug": "100941-dcs-85-summer-kickoff-2023",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-21T00:00:00.000Z",
+      "opponent": "Tower Robinson",
+      "opponentSlug": "38450-tower-robinson",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "DCS 79: Spring Brawl 2022",
+      "eventSlug": "88158-dcs-79-spring-brawl-2022",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-04T00:00:00.000Z",
+      "opponent": "Michael Whitaker",
+      "opponentSlug": "170896-michael-whitaker",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "DCS 76: Seasons Beatings 2021",
+      "eventSlug": "83445-dcs-76-seasons-beatings-2021",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-01T00:00:00.000Z",
+      "opponent": "Brandon Meyer",
+      "opponentSlug": "167602-brandon-meyer",
+      "result": "win",
+      "method": "other",
+      "event": "DCS 75: The Tribute 2021",
+      "eventSlug": "82604-dcs-75-never-give-up",
+      "round": 1,
+      "timeInRound": "3:34"
+    },
+    {
+      "date": "2021-08-14T00:00:00.000Z",
+      "opponent": "Brandon Meyer",
+      "opponentSlug": "167602-brandon-meyer",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "DCS 73: Summer Cage War",
+      "eventSlug": "81893-dcs-73-summer-cage-war",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-05T00:00:00.000Z",
+      "opponent": "Kaki Ayaj",
+      "opponentSlug": "279081-kaki-ayaj",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "DCS 72: Summer Kick-Off Night 2",
+      "eventSlug": "79401-dcs-72-summer-kick-off-night-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-01-30T00:00:00.000Z",
+      "opponent": "Logan White",
+      "opponentSlug": "284654-logan-white",
+      "result": "win",
+      "method": "other",
+      "event": "DCS 67: New Years Knockouts",
+      "eventSlug": "75740-dcs-67-new-years-knockouts",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2019-12-06T00:00:00.000Z",
+      "opponent": "Logan Pollard",
+      "opponentSlug": "211971-logan-pollard",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "DCS 57: Season's Beatings",
+      "eventSlug": "64524-dcs-57",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-06T00:00:00.000Z",
+      "opponent": "Paul Kimmons",
+      "opponentSlug": "214772-paul-kimmons",
+      "result": "nc",
+      "method": "other",
+      "event": "DCS 54: September Fight Fest",
+      "eventSlug": "62143-dcs-54-september-fight-fest",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-15T00:00:00.000Z",
+      "opponent": "Michael Gilkerson",
+      "opponentSlug": "175120-michael-gilkerson",
+      "result": "win",
+      "method": "other",
+      "event": "DCS 51: St. Patty Showdown",
+      "eventSlug": "58261-dcs-51-st-patty-showdown",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2018-10-19T00:00:00.000Z",
+      "opponent": "Said-Nurid Makhmudzoda",
+      "opponentSlug": "144935-said-nurid-makhmudzoda",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "DCS 47: Fight Night",
+      "eventSlug": "55404-dcs-47-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-28T00:00:00.000Z",
+      "opponent": "Stephen Duffy",
+      "opponentSlug": "193581-stephan-duffy",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "DCS 45: Ballyard Brawl Night 2",
+      "eventSlug": "54266-dcs-45-ballyard-brawl-night-2",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:42:49.039Z"
+}

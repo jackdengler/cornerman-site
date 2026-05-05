@@ -1,0 +1,136 @@
+{
+  "slug": "192380-ezekiel-jackson",
+  "name": "Ezekiel Jackson",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 5,
+    "draws": 1
+  },
+  "recordAmateur": {
+    "wins": 4,
+    "losses": 5,
+    "draws": 1
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1999-07-02",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/192380-ezekiel-jackson",
+  "recentFights": [
+    {
+      "date": "2021-08-28T00:00:00.000Z",
+      "opponent": "Samuel Barbosa",
+      "opponentSlug": "216953-samuel-barbosa",
+      "result": "loss",
+      "method": "sub",
+      "event": "Combat Night Pro",
+      "eventSlug": "81926-combat-night-pro-tallahassee",
+      "round": 1,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2020-07-25T00:00:00.000Z",
+      "opponent": "Sean Hotusing",
+      "opponentSlug": "218417-sean-hotusing",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combat Night 119",
+      "eventSlug": "71221-combat-night-119",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-09T00:00:00.000Z",
+      "opponent": "Brinson Ellery",
+      "opponentSlug": "104295-brinson-ellory",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combat Night Pro 15",
+      "eventSlug": "64210-combat-night-pro-15-duval",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-15T00:00:00.000Z",
+      "opponent": "Brinson Ellery",
+      "opponentSlug": "104295-brinson-ellory",
+      "result": "draw",
+      "method": "dec-majority",
+      "event": "Combat Night 107",
+      "eventSlug": "61096-combat-night-107",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-12T00:00:00.000Z",
+      "opponent": "Sedriques Dumas",
+      "opponentSlug": "188574-sedriques-dumas",
+      "result": "loss",
+      "method": "tko",
+      "event": "Island Fights 55",
+      "eventSlug": "59609-island-fights-55",
+      "round": 3,
+      "timeInRound": "2:24"
+    },
+    {
+      "date": "2019-02-09T00:00:00.000Z",
+      "opponent": "Val Woodburn",
+      "opponentSlug": "166396-valentine-woodburn",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combat Night",
+      "eventSlug": "58401-combat-night-clash-of-the-titans-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-10T00:00:00.000Z",
+      "opponent": "Robbie Mauricio",
+      "opponentSlug": "42929-robbie-mauricio",
+      "result": "win",
+      "method": "tko",
+      "event": "Combat Night Pro 9",
+      "eventSlug": "56482-combat-night-pro-9-duval",
+      "round": 1,
+      "timeInRound": "0:32"
+    },
+    {
+      "date": "2018-08-04T00:00:00.000Z",
+      "opponent": "Breon Brown",
+      "opponentSlug": "193808-breon-brown",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Combat Night 95",
+      "eventSlug": "54810-combat-night-95",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-14T00:00:00.000Z",
+      "opponent": "Josh Lindsey",
+      "opponentSlug": "73516-josh-lindsey",
+      "result": "win",
+      "method": "other",
+      "event": "Combat Night Pro 6",
+      "eventSlug": "54147-combat-night-pro-6",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-02-15T00:00:00.000Z",
+      "opponent": "Danny Dustin",
+      "opponentSlug": "238085-danny-dustin",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:53:31.650Z"
+}

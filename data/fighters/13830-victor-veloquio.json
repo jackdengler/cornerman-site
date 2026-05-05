@@ -1,0 +1,77 @@
+{
+  "slug": "13830-victor-veloquio",
+  "name": "Victor Veloquio",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 157,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": "1982-10-25",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/13830-victor-veloquio",
+  "recentFights": [
+    {
+      "date": "2009-12-11T00:00:00.000Z",
+      "opponent": "Tim Elliott",
+      "opponentSlug": "13664-timothy-elliot",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-08-16T00:00:00.000Z",
+      "opponent": "Duane Barber",
+      "opponentSlug": "90952-duane-barber",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-08-08T00:00:00.000Z",
+      "opponent": "Rene Garcia",
+      "opponentSlug": "42153-rene-garcia",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-03-10T00:00:00.000Z",
+      "opponent": "Shane Howell",
+      "opponentSlug": "shane-howell",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2006-09-30T00:00:00.000Z",
+      "opponent": "Ryan Pederson",
+      "opponentSlug": "8425-ryan-pederson",
+      "result": "win",
+      "method": "sub",
+      "event": "Unleashed Combat",
+      "eventSlug": "80547-unleashed-combat-garden-city-fight-fest",
+      "round": 1,
+      "timeInRound": "1:30"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:13:27.192Z"
+}

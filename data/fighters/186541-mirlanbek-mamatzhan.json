@@ -1,0 +1,110 @@
+{
+  "slug": "186541-mirlanbek-mamatzhan",
+  "name": "Mirlanbek Mamatzhan",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Kyrgyzstan",
+  "url": "https://www.tapology.com/fightcenter/fighters/186541-mirlanbek-mamatzhan",
+  "recentFights": [
+    {
+      "date": "2021-03-06T00:00:00.000Z",
+      "opponent": "Mark Vologdin",
+      "opponentSlug": "202598-mark-vologdin",
+      "result": "loss",
+      "method": "sub",
+      "event": "MMA Series 27",
+      "eventSlug": "77628-mma-series-27-time-of-new-heroes-14",
+      "round": 2,
+      "timeInRound": "1:24"
+    },
+    {
+      "date": "2019-11-04T00:00:00.000Z",
+      "opponent": "Kamoliddin Boymirzoev",
+      "opponentSlug": "173333-kamol-boymirzoev",
+      "result": "loss",
+      "method": "sub",
+      "event": "Colosseum MMA",
+      "eventSlug": "63716-colosseum-mma-battle-of-champions-10",
+      "round": 1,
+      "timeInRound": "0:50"
+    },
+    {
+      "date": "2019-09-01T00:00:00.000Z",
+      "opponent": "Elchibek Kaykiev",
+      "opponentSlug": "226391-elchibek-kaykiev",
+      "result": "win",
+      "method": "sub",
+      "event": "Colosseum MMA",
+      "eventSlug": "62200-colosseum-mma-battle-of-champions-8",
+      "round": 3,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2019-05-29T00:00:00.000Z",
+      "opponent": "Valentin Orlov",
+      "opponentSlug": "156924-valentin-orlov",
+      "result": "loss",
+      "method": "sub",
+      "event": "MFC 5: Battle of Two Capitals",
+      "eventSlug": "60588-mfc-5-battle-of-two-capitals",
+      "round": 3,
+      "timeInRound": "1:18"
+    },
+    {
+      "date": "2019-03-17T00:00:00.000Z",
+      "opponent": "Hushbacht Mubarokkadam",
+      "opponentSlug": "236314-hushbacht-mubarokkadam",
+      "result": "win",
+      "method": "sub",
+      "event": "Ihlas Fight Club 2",
+      "eventSlug": "63070-ihlas-fight-club-2",
+      "round": 1,
+      "timeInRound": "2:00"
+    },
+    {
+      "date": "2018-10-28T00:00:00.000Z",
+      "opponent": "Firdavs Khomidov",
+      "opponentSlug": "182049-firdavs-khamidov",
+      "result": "win",
+      "method": "dec-split",
+      "event": "IHLAS Fight Club",
+      "eventSlug": "55930-ihlas-fight-club-professional-league-ihlas",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-22T00:00:00.000Z",
+      "opponent": "Jobir Gulmamadov",
+      "opponentSlug": "192132-dzhobir",
+      "result": "win",
+      "method": "sub",
+      "event": "FFP 3: The Time of the Battle",
+      "eventSlug": "53763-ffp-3-family-fights-promotion-the-time-of-the-battle",
+      "round": 1,
+      "timeInRound": "2:13"
+    },
+    {
+      "date": "2018-05-06T00:00:00.000Z",
+      "opponent": "Bilal Abdullaev",
+      "opponentSlug": "186542-bilal-abdullaev",
+      "result": "win",
+      "method": "other",
+      "event": "FFP 2",
+      "eventSlug": "52646-ffp-2-fight-family-promotion-2",
+      "round": 1,
+      "timeInRound": "1:29"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:04:06.602Z"
+}

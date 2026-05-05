@@ -1,0 +1,220 @@
+{
+  "slug": "29840-jose-ceja",
+  "name": "Jose Ceja",
+  "nickname": "The Ghost",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 9,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 170,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1985-08-11",
+  "nationality": "Texas",
+  "url": "https://www.tapology.com/fightcenter/fighters/29840-jose-ceja",
+  "recentFights": [
+    {
+      "date": "2023-04-23T00:00:00.000Z",
+      "opponent": "Jacob Silva",
+      "opponentSlug": "20066-jacob-silva",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fury FC 78: Englund vs. Compton",
+      "eventSlug": "99280-fury-fc-78",
+      "round": 3,
+      "timeInRound": "3:46"
+    },
+    {
+      "date": "2023-02-05T00:00:00.000Z",
+      "opponent": "Paris Moran",
+      "opponentSlug": "192697-paris-moran",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fury FC 74: Smotherman vs. Caballero",
+      "eventSlug": "96722-fury-fc-7",
+      "round": 2,
+      "timeInRound": "2:39"
+    },
+    {
+      "date": "2022-06-26T00:00:00.000Z",
+      "opponent": "Robert Casper",
+      "opponentSlug": "75832-robert-casper-the-ghostman",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fury FC 65: Weems vs. Miller",
+      "eventSlug": "89281-fury-fc-65",
+      "round": 2,
+      "timeInRound": "4:22"
+    },
+    {
+      "date": "2022-04-09T00:00:00.000Z",
+      "opponent": "Shamel Findley",
+      "opponentSlug": "162058-shamel-findley",
+      "result": "loss",
+      "method": "tko",
+      "event": "B2 Fighting Series 155",
+      "eventSlug": "86530-b2-fighting-series-155-louisiana",
+      "round": 2,
+      "timeInRound": "0:58"
+    },
+    {
+      "date": "2021-09-11T00:00:00.000Z",
+      "opponent": "Chris Cantu",
+      "opponentSlug": "293069-chris-cantu",
+      "result": "win",
+      "method": "sub",
+      "event": "Gulf Coast MMA 12",
+      "eventSlug": "82546-gulf-coast-mma-12",
+      "round": 1,
+      "timeInRound": "1:41"
+    },
+    {
+      "date": "2017-12-01T00:00:00.000Z",
+      "opponent": "Javier Obregon",
+      "opponentSlug": "17059-javier-obregon",
+      "result": "loss",
+      "method": "sub",
+      "event": "Combate 19: Queen Warriors",
+      "eventSlug": "49498-combate-19-queen-warriors",
+      "round": 2,
+      "timeInRound": "2:51"
+    },
+    {
+      "date": "2017-01-19T00:00:00.000Z",
+      "opponent": "Joey Ruquet",
+      "opponentSlug": "83063-joey-ruquet",
+      "result": "loss",
+      "method": "sub",
+      "event": "Combate 10",
+      "eventSlug": "43217-combate-diez",
+      "round": 2,
+      "timeInRound": "1:47"
+    },
+    {
+      "date": "2016-10-14T00:00:00.000Z",
+      "opponent": "Irwin Rivera",
+      "opponentSlug": "61333-irwin-rivera",
+      "result": "win",
+      "method": "other",
+      "event": "Combate Americas 9",
+      "eventSlug": "41719-combate-nueve",
+      "round": 1,
+      "timeInRound": "4:22"
+    },
+    {
+      "date": "2016-09-10T00:00:00.000Z",
+      "opponent": "Cameron Graves",
+      "opponentSlug": "29841-cameron-graves",
+      "result": "loss",
+      "method": "tko",
+      "event": "Fury FC 12",
+      "eventSlug": "41506-fury-fc-12",
+      "round": 2,
+      "timeInRound": "0:10"
+    },
+    {
+      "date": "2016-03-25T00:00:00.000Z",
+      "opponent": "Irwin Rivera",
+      "opponentSlug": "61333-irwin-rivera",
+      "result": "loss",
+      "method": "sub",
+      "event": "Legacy FC 52",
+      "eventSlug": "38132-legacy-fc-52-page-vs-schnell",
+      "round": 3,
+      "timeInRound": "4:45"
+    },
+    {
+      "date": "2016-01-15T00:00:00.000Z",
+      "opponent": "Gerzan Chaw",
+      "opponentSlug": "16369-gerzan-chaw",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fury FC 9",
+      "eventSlug": "37486-fury-fc-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-06-14T00:00:00.000Z",
+      "opponent": "DJ Fuentes",
+      "opponentSlug": "david-fuentes",
+      "result": "loss",
+      "method": "tko",
+      "event": "Best of the Best 2",
+      "eventSlug": "23952-best-of-the-best-2",
+      "round": 4,
+      "timeInRound": "3:23"
+    },
+    {
+      "date": "2013-09-28T00:00:00.000Z",
+      "opponent": "Justin Salinas",
+      "opponentSlug": "36084-justin-salinas",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Texas Pride",
+      "eventSlug": "20169-texas-pride",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-03-16T00:00:00.000Z",
+      "opponent": "Rene Gonzalez",
+      "opponentSlug": "16000-rene-gonzalez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "El Orgullo del Valle",
+      "eventSlug": "29349-el-orgullo-del-valle",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-12-21T00:00:00.000Z",
+      "opponent": "Jake Heffernan",
+      "opponentSlug": "43898-jake-heffernan",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cage Combat 12",
+      "eventSlug": "16745-cage-combat-12",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-11-03T00:00:00.000Z",
+      "opponent": "Royala Smith",
+      "opponentSlug": "36230-royala-smith",
+      "result": "win",
+      "method": "dec-split",
+      "event": "EAC 4",
+      "eventSlug": "16187-eac-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-07-27T00:00:00.000Z",
+      "opponent": "Cameron Graves",
+      "opponentSlug": "29841-cameron-graves",
+      "result": "loss",
+      "method": "tko",
+      "event": "Cage Combat 10",
+      "eventSlug": "14489-cage-combat-10",
+      "round": 2,
+      "timeInRound": "0:11"
+    },
+    {
+      "date": "2012-04-06T00:00:00.000Z",
+      "opponent": "Alexander Hernandez",
+      "opponentSlug": "46253-alexander-hernandez",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:35:49.610Z"
+}

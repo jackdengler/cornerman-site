@@ -1,0 +1,132 @@
+{
+  "slug": "316079-fedor-duric",
+  "name": "Fedor Duric",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 186,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "2004-08-18",
+  "nationality": "Serbia",
+  "url": "https://www.tapology.com/fightcenter/fighters/316079-fedor-duric",
+  "recentFights": [
+    {
+      "date": "2026-02-14T00:00:00.000Z",
+      "opponent": "Tomáš Mudroch",
+      "opponentSlug": "266708-tomasz-mudroch",
+      "result": "win",
+      "method": "other",
+      "event": "OKTAGON 84: Paradeiser vs. Brito",
+      "eventSlug": "135739-oktagon-84",
+      "round": 2,
+      "timeInRound": "3:15"
+    },
+    {
+      "date": "2025-09-20T00:00:00.000Z",
+      "opponent": "Petru Buzdugan",
+      "opponentSlug": "169353-petru-bezdugan",
+      "result": "win",
+      "method": "sub",
+      "event": "OKTAGON 76: Weichel vs. Tounkara",
+      "eventSlug": "118935-oktagon",
+      "round": 1,
+      "timeInRound": "3:58"
+    },
+    {
+      "date": "2025-04-05T00:00:00.000Z",
+      "opponent": "Predrag Bogdanović",
+      "opponentSlug": "211528-predrag-bogdanovic",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "OKTAGON 69: Holzer vs. Ilbay",
+      "eventSlug": "118931-oktagon",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-12-07T00:00:00.000Z",
+      "opponent": "Jan Stanovský",
+      "opponentSlug": "197428-jan-stanovsky",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 64: Brito vs. Surdu",
+      "eventSlug": "117613-oktagon-64",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-06-22T00:00:00.000Z",
+      "opponent": "Masoud Sadeqpoor",
+      "opponentSlug": "85334-masoud-sadeqpoor",
+      "result": "win",
+      "method": "tko",
+      "event": "NFC 19: Vespaziani vs. Elhanna",
+      "eventSlug": "108751-nfc-19",
+      "round": 2,
+      "timeInRound": "0:21"
+    },
+    {
+      "date": "2024-03-30T00:00:00.000Z",
+      "opponent": "Mohamad Issa",
+      "opponentSlug": "126116-mohamad-issa",
+      "result": "win",
+      "method": "sub",
+      "event": "NFC 18: Coga vs. Taran",
+      "eventSlug": "108750-nfc-18",
+      "round": 2,
+      "timeInRound": "4:37"
+    },
+    {
+      "date": "2023-11-11T00:00:00.000Z",
+      "opponent": "Ibragim Chamzatov",
+      "opponentSlug": "201671-ibragim-chamzatov",
+      "result": "win",
+      "method": "other",
+      "event": "NFC 16",
+      "eventSlug": "94583-nfc-16",
+      "round": 1,
+      "timeInRound": "4:22"
+    },
+    {
+      "date": "2023-05-27T00:00:00.000Z",
+      "opponent": "Silvis Jansons",
+      "opponentSlug": "148546-silvis-jansons",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "NFC 14",
+      "eventSlug": "94581-nfc-14",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-18T00:00:00.000Z",
+      "opponent": "Timo Kuchelmeister",
+      "opponentSlug": "296867-timo-kuchelmeister",
+      "result": "win",
+      "method": "sub",
+      "event": "NFC 12",
+      "eventSlug": "94571-nfc-12",
+      "round": 2,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2021-10-30T00:00:00.000Z",
+      "opponent": "Lucas Werner",
+      "opponentSlug": "150787-gian-lucas-werner",
+      "result": "win",
+      "method": "sub",
+      "event": "GMC Fight Night 11",
+      "eventSlug": "82710-gmc-fight-night",
+      "round": 1,
+      "timeInRound": "4:55"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:05:33.215Z"
+}

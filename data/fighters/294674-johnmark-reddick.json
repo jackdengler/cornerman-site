@@ -1,0 +1,37 @@
+{
+  "slug": "294674-johnmark-reddick",
+  "name": "JohnMark Reddick",
+  "nickname": "The Shark",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": 183,
+  "reachCm": 188,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1995-01-01",
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/294674-johnmark-reddick",
+  "recentFights": [
+    {
+      "date": "2021-05-15T00:00:00.000Z",
+      "opponent": "Miljan Djukanovic",
+      "opponentSlug": "272784-miljan-djukanovic",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "DCS 70: Spring Brawl",
+      "eventSlug": "78258-dcs-70-spring-brawl",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:42:55.495Z"
+}

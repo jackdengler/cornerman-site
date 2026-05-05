@@ -1,0 +1,99 @@
+{
+  "slug": "187759-odell-pantin",
+  "name": "Odell Pantin",
+  "nickname": "Big Tex",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/187759-odell-pantin",
+  "recentFights": [
+    {
+      "date": "2022-01-22T00:00:00.000Z",
+      "opponent": "Caleb Hall-Abbott",
+      "opponentSlug": "232550-caleb-abbot-hall",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Fighting Words 3",
+      "eventSlug": "85458-fighting-words-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-04T00:00:00.000Z",
+      "opponent": "Phillip Latu",
+      "opponentSlug": "303053-phillip-latu",
+      "result": "loss",
+      "method": "tko",
+      "event": "Cowboys vs. Cajuns 2",
+      "eventSlug": "83643-valor-fl-cajuns-vs-cowboys-2",
+      "round": 2,
+      "timeInRound": "2:44"
+    },
+    {
+      "date": "2021-08-26T00:00:00.000Z",
+      "opponent": "Ingrid Sewa",
+      "opponentSlug": "295531-ingrid-sewa",
+      "result": "win",
+      "method": "tko",
+      "event": "XKO 52",
+      "eventSlug": "81048-xko-52",
+      "round": 1,
+      "timeInRound": "4:19"
+    },
+    {
+      "date": "2021-04-16T00:00:00.000Z",
+      "opponent": "Thomas Petersen",
+      "opponentSlug": "187808-thomas-peterson",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 104: McKenzie vs. Phillips",
+      "eventSlug": "78507-lfa-104-mckenzie-vs-phillips",
+      "round": 1,
+      "timeInRound": "3:33"
+    },
+    {
+      "date": "2018-10-27T00:00:00.000Z",
+      "opponent": "Joey Soto",
+      "opponentSlug": "46558-joey-soto",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Dominion Warrior",
+      "eventSlug": "56146-dominion-warrior-fuse",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-19T00:00:00.000Z",
+      "opponent": "Waldo Cortes-Acosta",
+      "opponentSlug": "92314-waldo-cortes-acosta",
+      "result": "loss",
+      "method": "other",
+      "event": "Iron Boy MMA 11",
+      "eventSlug": "52598-iron-boy-mma-11",
+      "round": 2,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2009-01-10T00:00:00.000Z",
+      "opponent": "Dustin Adams",
+      "opponentSlug": "21558-dustin-adams",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:40:45.380Z"
+}

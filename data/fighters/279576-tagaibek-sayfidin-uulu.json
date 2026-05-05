@@ -1,0 +1,132 @@
+{
+  "slug": "279576-tagaibek-sayfidin-uulu",
+  "name": "Tagaybek Sayfidin Uulu",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Kyrgyzstan",
+  "url": "https://www.tapology.com/fightcenter/fighters/279576-tagaibek-sayfidin-uulu",
+  "recentFights": [
+    {
+      "date": "2025-04-26T00:00:00.000Z",
+      "opponent": "Bekzat Zhassiya",
+      "opponentSlug": "159780-bekzat-zhassiya",
+      "result": "loss",
+      "method": "other",
+      "event": "Alash Pride 107",
+      "eventSlug": "128567-alash-pride-107",
+      "round": 4,
+      "timeInRound": "3:56"
+    },
+    {
+      "date": "2023-11-03T00:00:00.000Z",
+      "opponent": "Nikita Prikhodko",
+      "opponentSlug": "293242-nikita-prikhodko",
+      "result": "win",
+      "method": "dec-split",
+      "event": "ACA 165: Dakaev vs. Batista",
+      "eventSlug": "105391-aca-165-goncharov-vs-vyazigin",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-30T00:00:00.000Z",
+      "opponent": "Sergey Avetisyan",
+      "opponentSlug": "314035-sergey-avetisyan",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMA Series 54",
+      "eventSlug": "91063-mma-series-54-triumph",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-25T00:00:00.000Z",
+      "opponent": "Sarvar Sulaimonov",
+      "opponentSlug": "320528-sarvar-sulaimonov",
+      "result": "win",
+      "method": "other",
+      "event": "Colosseum MMA",
+      "eventSlug": "85158-colosseum-mma-battle-of-the-champions-24",
+      "round": 1,
+      "timeInRound": "0:18"
+    },
+    {
+      "date": "2021-08-15T00:00:00.000Z",
+      "opponent": "Azamatuly Bazarbek Tannur",
+      "opponentSlug": "304874-azamatuly-bazarbek-tannur",
+      "result": "win",
+      "method": "other",
+      "event": "EFC Global 15",
+      "eventSlug": "79578-efc-8",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2021-01-30T00:00:00.000Z",
+      "opponent": "Valihan Azizov",
+      "opponentSlug": "282617-valihan-azizov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "EFC Global 10",
+      "eventSlug": "75543-efc-afc",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-12-10T00:00:00.000Z",
+      "opponent": "Kayrat Isakov",
+      "opponentSlug": "280255-kayrat-isakov",
+      "result": "win",
+      "method": "other",
+      "event": "EFC Global 8",
+      "eventSlug": "73938-efc-global-8",
+      "round": 1,
+      "timeInRound": "0:18"
+    },
+    {
+      "date": "2023-12-08T00:00:00.000Z",
+      "opponent": "Marwan Rahiki",
+      "opponentSlug": "388487-marwan-rahiki",
+      "result": "loss",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "108384-gamma-world-mma-championship-2023-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-08T00:00:00.000Z",
+      "opponent": "Diego Aleman",
+      "opponentSlug": "265637-diego-aleman",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "GAMMA",
+      "eventSlug": "108384-gamma-world-mma-championship-2023-day-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-08T00:00:00.000Z",
+      "opponent": "Arjun Krishnappa",
+      "opponentSlug": "419237-arjun-krishnappa",
+      "result": "win",
+      "method": "other",
+      "event": "GAMMA",
+      "eventSlug": "108384-gamma-world-mma-championship-2023-day-1",
+      "round": 2,
+      "timeInRound": "2:38"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:58:39.146Z"
+}

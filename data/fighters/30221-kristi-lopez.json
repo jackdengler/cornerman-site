@@ -1,0 +1,110 @@
+{
+  "slug": "30221-kristi-lopez",
+  "name": "Kristi Lopez",
+  "nickname": "Loba",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 1,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": 165,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1983-02-04",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/30221-kristi-lopez",
+  "recentFights": [
+    {
+      "date": "2018-10-12T00:00:00.000Z",
+      "opponent": "Sarah Click",
+      "opponentSlug": "64638-sarah-click",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Bellator 207",
+      "eventSlug": "54165-bellator-207-mitrione-vs-bader",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-25T00:00:00.000Z",
+      "opponent": "Jessica Sotack",
+      "opponentSlug": "117715-jessica-sotack",
+      "result": "draw",
+      "method": "dec-split",
+      "event": "Bellator 182",
+      "eventSlug": "46033-bellator-182",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-01-26T00:00:00.000Z",
+      "opponent": "JJ Aldrich",
+      "opponentSlug": "28420-jj-aldrich",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "The Ultimate Fighter Season 23",
+      "eventSlug": "41112-the-ultimate-fighter-season-23-team-joanna-vs-team-claudia",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-07-19T00:00:00.000Z",
+      "opponent": "Katie Castro",
+      "opponentSlug": "85961-katie-castro",
+      "result": "win",
+      "method": "other",
+      "event": "XFS: Cerebral",
+      "eventSlug": "25779-xfs-cerebral",
+      "round": 1,
+      "timeInRound": "0:26"
+    },
+    {
+      "date": "2014-01-18T00:00:00.000Z",
+      "opponent": "Tyra Parker",
+      "opponentSlug": "tyra-parker",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Gladiator Challenge",
+      "eventSlug": "22750-gladiator-challenge-kaboom-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-03-23T00:00:00.000Z",
+      "opponent": "Kari Lichtenwalner",
+      "opponentSlug": "29876-kari-lichtenwalner",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Tuff-N-Uff: Mayhem in Mesquite 2",
+      "eventSlug": "18254-tuff-n-uff-mayhem-in-mesquite-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-07-06T00:00:00.000Z",
+      "opponent": "Christine Ferea",
+      "opponentSlug": "30222-christine-ferea",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Tuff-N-Uff: Festibrawl 2",
+      "eventSlug": "14248-tuff-n-uff",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-01-27T00:00:00.000Z",
+      "opponent": "Rachael Cummins",
+      "opponentSlug": "20329-rachael-cummins",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:01:38.322Z"
+}

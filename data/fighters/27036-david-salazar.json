@@ -1,0 +1,220 @@
+{
+  "slug": "27036-david-salazar",
+  "name": "David Salazar",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 12,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1986-03-15",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/27036-david-salazar",
+  "recentFights": [
+    {
+      "date": "2019-08-31T00:00:00.000Z",
+      "opponent": "Chris Kuntschik",
+      "opponentSlug": "19379-chris-kuntschik",
+      "result": "loss",
+      "method": "sub",
+      "event": "R & E Promotions",
+      "eventSlug": "60266-r-e-promotions-the-battle-of-la-lomita",
+      "round": 1,
+      "timeInRound": "0:23"
+    },
+    {
+      "date": "2019-06-21T00:00:00.000Z",
+      "opponent": "Edmilson Freitas",
+      "opponentSlug": "132995-edmilson-freitas-junior",
+      "result": "loss",
+      "method": "sub",
+      "event": "Combate 40: Palacios vs. Gibson",
+      "eventSlug": "58981-combate-40",
+      "round": 1,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2018-09-08T00:00:00.000Z",
+      "opponent": "Peter Caballero",
+      "opponentSlug": "47826-peter-caballero",
+      "result": "loss",
+      "method": "other",
+      "event": "Rocks Xtreme MMA 24",
+      "eventSlug": "54651-rocks-xtreme-mma-24",
+      "round": 2,
+      "timeInRound": "1:16"
+    },
+    {
+      "date": "2017-11-03T00:00:00.000Z",
+      "opponent": "Gunner Coronado",
+      "opponentSlug": "114214-gunner-coronado",
+      "result": "loss",
+      "method": "other",
+      "event": "STFC 44: Martinez vs Banda",
+      "eventSlug": "48517-stfc-44",
+      "round": 2,
+      "timeInRound": "0:57"
+    },
+    {
+      "date": "2017-08-25T00:00:00.000Z",
+      "opponent": "Raul Ramos",
+      "opponentSlug": "68418-raul-ramos",
+      "result": "win",
+      "method": "sub",
+      "event": "STFC 43",
+      "eventSlug": "47097-stfc-43",
+      "round": 1,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2016-01-30T00:00:00.000Z",
+      "opponent": "Chris Kuntschik",
+      "opponentSlug": "19379-chris-kuntschik",
+      "result": "win",
+      "method": "sub",
+      "event": "Cowboys Extreme Cagefighting 24",
+      "eventSlug": "37649-cowboys-extreme-cagefighting-24",
+      "round": 1,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2015-06-12T00:00:00.000Z",
+      "opponent": "Jerry Rodriguez",
+      "opponentSlug": "39316-jerry-rodriguez",
+      "result": "loss",
+      "method": "sub",
+      "event": "STFC 35: The World VS Texas",
+      "eventSlug": "32988-stfc-35",
+      "round": 1,
+      "timeInRound": "2:42"
+    },
+    {
+      "date": "2015-05-29T00:00:00.000Z",
+      "opponent": "Marin Moreno",
+      "opponentSlug": "75609-marin-moreno",
+      "result": "loss",
+      "method": "sub",
+      "event": "Border Wars 1",
+      "eventSlug": "31182-border-wars",
+      "round": 1,
+      "timeInRound": "1:05"
+    },
+    {
+      "date": "2014-09-12T00:00:00.000Z",
+      "opponent": "Chris Kuntschik",
+      "opponentSlug": "19379-chris-kuntschik",
+      "result": "loss",
+      "method": "sub",
+      "event": "Best of the Best 3",
+      "eventSlug": "25871-best-of-the-best-3",
+      "round": 1,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2014-02-01T00:00:00.000Z",
+      "opponent": "Sam Guardiola",
+      "opponentSlug": "18176-sam-guardiola",
+      "result": "loss",
+      "method": "sub",
+      "event": "Best of the Best 1",
+      "eventSlug": "21866-best-of-the-best",
+      "round": 1,
+      "timeInRound": "1:09"
+    },
+    {
+      "date": "2013-09-28T00:00:00.000Z",
+      "opponent": "Billy Buch",
+      "opponentSlug": "28869-billy-buch",
+      "result": "loss",
+      "method": "sub",
+      "event": "Texas Pride",
+      "eventSlug": "20169-texas-pride",
+      "round": 1,
+      "timeInRound": "0:39"
+    },
+    {
+      "date": "2013-06-21T00:00:00.000Z",
+      "opponent": "Brandon Ruiz",
+      "opponentSlug": "37854-brandon-ruiz",
+      "result": "loss",
+      "method": "tko",
+      "event": "Pride of the Valley 2",
+      "eventSlug": "18594-pride-of-the-valley-2",
+      "round": 1,
+      "timeInRound": "0:37"
+    },
+    {
+      "date": "2013-05-24T00:00:00.000Z",
+      "opponent": "Clemente Menguito",
+      "opponentSlug": "39366-clemente-menguito",
+      "result": "win",
+      "method": "sub",
+      "event": "STFC 25: Mayhem",
+      "eventSlug": "18676-stfc-25",
+      "round": 1,
+      "timeInRound": "2:49"
+    },
+    {
+      "date": "2013-03-16T00:00:00.000Z",
+      "opponent": "Alexander Hernandez",
+      "opponentSlug": "46253-alexander-hernandez",
+      "result": "loss",
+      "method": "tko",
+      "event": "El Orgullo del Valle",
+      "eventSlug": "29349-el-orgullo-del-valle",
+      "round": 1,
+      "timeInRound": "0:34"
+    },
+    {
+      "date": "2012-11-17T00:00:00.000Z",
+      "opponent": "Joshua Hallford",
+      "opponentSlug": "33472-joshua-hallford",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Premier Fight Night 3",
+      "eventSlug": "16536-premier-fight-night-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-09-15T00:00:00.000Z",
+      "opponent": "Joel Scott",
+      "opponentSlug": "29838-joel-scott",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-05-18T00:00:00.000Z",
+      "opponent": "Hilario Compean",
+      "opponentSlug": "27035-hilario-compean-ito",
+      "result": "loss",
+      "method": "sub",
+      "event": "Texas RITC 14",
+      "eventSlug": "13744-texas-rage-in-the-cage-14",
+      "round": 1,
+      "timeInRound": "2:51"
+    },
+    {
+      "date": "2011-08-20T00:00:00.000Z",
+      "opponent": "Aaron Hunter",
+      "opponentSlug": "144959-aaron-hunter",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:35:40.853Z"
+}

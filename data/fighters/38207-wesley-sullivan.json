@@ -1,0 +1,121 @@
+{
+  "slug": "38207-wesley-sullivan",
+  "name": "Wesley Sullivan",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1988-01-27",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/38207-wesley-sullivan",
+  "recentFights": [
+    {
+      "date": "2023-02-04T00:00:00.000Z",
+      "opponent": "Frank Rayford",
+      "opponentSlug": "248174-frank-rayford",
+      "result": "loss",
+      "method": "sub",
+      "event": "SEFC 27",
+      "eventSlug": "96890-sefc-27",
+      "round": 1,
+      "timeInRound": "1:27"
+    },
+    {
+      "date": "2022-07-16T00:00:00.000Z",
+      "opponent": "Louis Brewington",
+      "opponentSlug": "138128-louis-brewington",
+      "result": "loss",
+      "method": "sub",
+      "event": "NFC 147",
+      "eventSlug": "90816-nfc-147",
+      "round": 1,
+      "timeInRound": "0:30"
+    },
+    {
+      "date": "2014-09-13T00:00:00.000Z",
+      "opponent": "Joaquin Buckley",
+      "opponentSlug": "55022-joaquin-buckley",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-10-05T00:00:00.000Z",
+      "opponent": "Abe Wilson",
+      "opponentSlug": "abe-wilson",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-06-01T00:00:00.000Z",
+      "opponent": "Devan Plaisance",
+      "opponentSlug": "7477-devon-plaisance",
+      "result": "loss",
+      "method": "sub",
+      "event": "3FC 17: Walden vs. Thompson",
+      "eventSlug": "19292-3fc-17",
+      "round": 1,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2013-03-08T00:00:00.000Z",
+      "opponent": "Chance Rencountre",
+      "opponentSlug": "54332-chance-rencountre",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-11-10T00:00:00.000Z",
+      "opponent": "Daniel Schmitt",
+      "opponentSlug": "daniel-schmitt",
+      "result": "loss",
+      "method": "sub",
+      "event": "3FC 14: Showdown",
+      "eventSlug": "16670-3fc-xiv-showdown",
+      "round": 2,
+      "timeInRound": "4:28"
+    },
+    {
+      "date": "2012-07-20T00:00:00.000Z",
+      "opponent": "Josh Phelps",
+      "opponentSlug": "22298-josh-phelps",
+      "result": "win",
+      "method": "sub",
+      "event": "Rhino FC 5",
+      "eventSlug": "33484-rhino-fc-5",
+      "round": 1,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2011-03-26T00:00:00.000Z",
+      "opponent": "Joel Cooper",
+      "opponentSlug": "23004-joel-cooper",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:00:26.444Z"
+}

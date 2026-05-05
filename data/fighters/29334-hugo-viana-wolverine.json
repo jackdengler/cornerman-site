@@ -1,0 +1,187 @@
+{
+  "slug": "29334-hugo-viana-wolverine",
+  "name": "Hugo Viana",
+  "nickname": "Wolverine",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": 171,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1982-09-26",
+  "nationality": "Salvador, Bahia, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/29334-hugo-viana-wolverine",
+  "recentFights": [
+    {
+      "date": "2016-01-15T00:00:00.000Z",
+      "opponent": "Zac Riley",
+      "opponentSlug": "28236-zac-riley",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "RFA 34: Velickovic vs. Smith",
+      "eventSlug": "37184-rfa-34-velickovic-vs-smith",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-01T00:00:00.000Z",
+      "opponent": "Guido Cannetti",
+      "opponentSlug": "12196-guido-canetti-ninja",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 190: Rousey vs. Correia",
+      "eventSlug": "31250-ufc-190-rousey-vs-correia",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-07-16T00:00:00.000Z",
+      "opponent": "Aljamain Sterling",
+      "opponentSlug": "aljamain-sterling",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night 45",
+      "eventSlug": "23965-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "3:50"
+    },
+    {
+      "date": "2014-01-25T00:00:00.000Z",
+      "opponent": "Ramiro Hernandez",
+      "opponentSlug": "5087-ramiro-hernandez-junior",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC on FOX 10",
+      "eventSlug": "21248-ufc-on-fox-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-04-20T00:00:00.000Z",
+      "opponent": "T.J. Dillashaw",
+      "opponentSlug": "19126-tj-dillashaw",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC on FOX 7",
+      "eventSlug": "16680-ufc-on-fox-7",
+      "round": 1,
+      "timeInRound": "4:22"
+    },
+    {
+      "date": "2012-12-15T00:00:00.000Z",
+      "opponent": "Reuben Duran",
+      "opponentSlug": "reuben-duran",
+      "result": "win",
+      "method": "other",
+      "event": "The Ultimate Fighter 16 Finale",
+      "eventSlug": "15480-the-ultimate-fighter-16-finale",
+      "round": 1,
+      "timeInRound": "4:05"
+    },
+    {
+      "date": "2012-06-23T00:00:00.000Z",
+      "opponent": "John Teixeira",
+      "opponentSlug": "28052-jhon-teixeira-da-conceicao-macapa",
+      "result": "win",
+      "method": "dec-split",
+      "event": "UFC 147: Silva vs. Franklin 2",
+      "eventSlug": "12573-ufc-147",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-06-10T00:00:00.000Z",
+      "opponent": "Rony Jason",
+      "opponentSlug": "7788-ronny-jason",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "The Ultimate Fighter Brazil Season 1",
+      "eventSlug": "74663-the-ultimate-fighter-brazil-season-1-team-wanderlei-vs-team-belfort",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-04-29T00:00:00.000Z",
+      "opponent": "Marcos Vinicius",
+      "opponentSlug": "11162-vinicius-borges-vina",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "The Ultimate Fighter Brazil Season 1",
+      "eventSlug": "74669-the-ultimate-fighter-brazil-season-1-team-wanderlei-vs-team-belfort",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-03-25T00:00:00.000Z",
+      "opponent": "Alexandre Ramos",
+      "opponentSlug": "28018-alexandre-ramos-sangue",
+      "result": "win",
+      "method": "other",
+      "event": "The Ultimate Fighter Brazil Season 1",
+      "eventSlug": "74684-the-ultimate-fighter-brazil-season-1-team-wanderlei-vs-team-belfort",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-09-16T00:00:00.000Z",
+      "opponent": "Thiago Luis Nascimento",
+      "opponentSlug": "29335-thiago-luis-nascimento-negao",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-05-14T00:00:00.000Z",
+      "opponent": "Rafael Sobral",
+      "opponentSlug": "29336-rafael-sobral",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-11-21T00:00:00.000Z",
+      "opponent": "Dingo Sampaio",
+      "opponentSlug": "29337-dingo-sampaio",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-08-21T00:00:00.000Z",
+      "opponent": "Marcelo Palombo",
+      "opponentSlug": "29338-marcelo-palombo-t-rex",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-05-26T00:00:00.000Z",
+      "opponent": "Marcelo Fonseca",
+      "opponentSlug": "29339-marcelo-santos-minitoro",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:31:40.923Z"
+}

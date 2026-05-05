@@ -1,0 +1,99 @@
+{
+  "slug": "152975-jonnie-anderson",
+  "name": "Jonnie Andersson",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 190,
+  "reachCm": null,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Sweden",
+  "url": "https://www.tapology.com/fightcenter/fighters/152975-jonnie-anderson",
+  "recentFights": [
+    {
+      "date": "2024-05-04T00:00:00.000Z",
+      "opponent": "Wesley de Souza",
+      "opponentSlug": "171820-wesley-de-souza",
+      "result": "loss",
+      "method": "sub",
+      "event": "WFP 10",
+      "eventSlug": "110386-wfp-10",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-05-14T00:00:00.000Z",
+      "opponent": "Salif David Diop",
+      "opponentSlug": "150075-salif-david-diop",
+      "result": "win",
+      "method": "other",
+      "event": "Excellence Fighting Championship 3",
+      "eventSlug": "89190-excellence-fighting-championship-3",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-09T00:00:00.000Z",
+      "opponent": "Jindřich Krajča",
+      "opponentSlug": "159095-jindich-krajca",
+      "result": "win",
+      "method": "tko",
+      "event": "Senior & Junior World Cup",
+      "eventSlug": "84310-senior-junior-world-cup-day-2",
+      "round": 2,
+      "timeInRound": "0:23"
+    },
+    {
+      "date": "2019-10-12T00:00:00.000Z",
+      "opponent": "Kevin Munje",
+      "opponentSlug": "207573-kevin-munje",
+      "result": "loss",
+      "method": "other",
+      "event": "Excellence Fighting Championship 2",
+      "eventSlug": "60951-excellence-fighting-championship-2",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-21T00:00:00.000Z",
+      "opponent": "Shamil Gaziev",
+      "opponentSlug": "201352-shamil-gaziev",
+      "result": "loss",
+      "method": "other",
+      "event": "2019 IMMAF-WMMAA European Senior & Junior Open Championships",
+      "eventSlug": "61285-2019-immaf-wmmaa-european-senior-junior-open-championships-day-3-cage-b-quarter-finals",
+      "round": 1,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2019-06-20T00:00:00.000Z",
+      "opponent": "Peter Newti",
+      "opponentSlug": "229289-peter-newti",
+      "result": "win",
+      "method": "tko",
+      "event": "2019 IMMAF-WMMAA European Senior & Junior Open Championships",
+      "eventSlug": "61280-2019-immaf-wmmaa-european-senior-junior-open-championships-day-2-cage-a",
+      "round": 2,
+      "timeInRound": "2:11"
+    },
+    {
+      "date": "2018-08-18T00:00:00.000Z",
+      "opponent": "Robin Larsson",
+      "opponentSlug": "114701-robin-larsson",
+      "result": "loss",
+      "method": "other",
+      "event": "Fight Club Rush 3",
+      "eventSlug": "54454-fight-club-rush-fightclub-rush-3",
+      "round": 2,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:55:45.866Z"
+}

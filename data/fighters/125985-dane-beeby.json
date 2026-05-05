@@ -1,0 +1,266 @@
+{
+  "slug": "125985-dane-beeby",
+  "name": "Dane Beeby",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/125985-dane-beeby",
+  "recentFights": [
+    {
+      "date": "2021-04-09T00:00:00.000Z",
+      "opponent": "Joseph Luciano",
+      "opponentSlug": "136006-joseph-luciano",
+      "result": "loss",
+      "method": "other",
+      "event": "Hex Fight Series 21",
+      "eventSlug": "75164-hex-fight-series-21",
+      "round": 1,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2019-12-01T00:00:00.000Z",
+      "opponent": "Dimps Gillies",
+      "opponentSlug": "140176-dimps-gillies",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Australian FC 23",
+      "eventSlug": "64027-australian-fc-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-29T00:00:00.000Z",
+      "opponent": "Saeid Fatahifar",
+      "opponentSlug": "69700-saeed-fatahfir",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Hex Fight Series 18",
+      "eventSlug": "58679-hex-fight-series-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-26T00:00:00.000Z",
+      "opponent": "Saeed Karsaz",
+      "opponentSlug": "126284-saeed-karsaz",
+      "result": "win",
+      "method": "sub",
+      "event": "Hex Fight Series 17",
+      "eventSlug": "55464-hex-fight-series-17",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-07T00:00:00.000Z",
+      "opponent": "Darcy Balhas",
+      "opponentSlug": "181440-darcy-balhas",
+      "result": "win",
+      "method": "sub",
+      "event": "Australian FC 22",
+      "eventSlug": "51768-australian-fc-22",
+      "round": 3,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2017-10-28T00:00:00.000Z",
+      "opponent": "Brock McRobb",
+      "opponentSlug": "160360-brock-mcrobb",
+      "result": "win",
+      "method": "sub",
+      "event": "Kunlun Fight MMA 16",
+      "eventSlug": "48850-kunlun-fight-mma-16",
+      "round": 2,
+      "timeInRound": "0:57"
+    },
+    {
+      "date": "2016-10-15T00:00:00.000Z",
+      "opponent": "Mikey Vaotuua",
+      "opponentSlug": "25146-mikey-vaotuua",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Australian FC 17",
+      "eventSlug": "41094-australian-fc-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-06-24T00:00:00.000Z",
+      "opponent": "Hoshi Friedrich",
+      "opponentSlug": "59600-hoshi-friedrich",
+      "result": "loss",
+      "method": "sub",
+      "event": "Hex Fight Series 6",
+      "eventSlug": "39433-hex-fight-series-6-ebersole-vs-kennedy",
+      "round": 1,
+      "timeInRound": "1:27"
+    },
+    {
+      "date": "2016-03-04T00:00:00.000Z",
+      "opponent": "James Londrigan",
+      "opponentSlug": "70637-james-londrigan",
+      "result": "win",
+      "method": "other",
+      "event": "Minotaur 3: Carnage",
+      "eventSlug": "37942-minotaur-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-04-27T00:00:00.000Z",
+      "opponent": "Kael Coster",
+      "opponentSlug": "55209-kael-coster",
+      "result": "loss",
+      "method": "sub",
+      "event": "Kings of Kombat 9",
+      "eventSlug": "68124-kings-of-combat-9-moxon-vs-askerov",
+      "round": 1,
+      "timeInRound": "4:12"
+    },
+    {
+      "date": "2013-03-16T00:00:00.000Z",
+      "opponent": "Sam Hibberd",
+      "opponentSlug": "87482-sam-hibberd",
+      "result": "loss",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 2,
+      "timeInRound": null
+    }
+  ],
+  "allFights": [
+    {
+      "date": "2021-04-09T00:00:00.000Z",
+      "opponent": "Joseph Luciano",
+      "opponentSlug": "136006-joseph-luciano",
+      "result": "loss",
+      "method": "other",
+      "event": "Hex Fight Series 21",
+      "eventSlug": "75164-hex-fight-series-21",
+      "round": 1,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2019-12-01T00:00:00.000Z",
+      "opponent": "Dimps Gillies",
+      "opponentSlug": "140176-dimps-gillies",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Australian FC 23",
+      "eventSlug": "64027-australian-fc-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-29T00:00:00.000Z",
+      "opponent": "Saeid Fatahifar",
+      "opponentSlug": "69700-saeed-fatahfir",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Hex Fight Series 18",
+      "eventSlug": "58679-hex-fight-series-18",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-10-26T00:00:00.000Z",
+      "opponent": "Saeed Karsaz",
+      "opponentSlug": "126284-saeed-karsaz",
+      "result": "win",
+      "method": "sub",
+      "event": "Hex Fight Series 17",
+      "eventSlug": "55464-hex-fight-series-17",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-04-07T00:00:00.000Z",
+      "opponent": "Darcy Balhas",
+      "opponentSlug": "181440-darcy-balhas",
+      "result": "win",
+      "method": "sub",
+      "event": "Australian FC 22",
+      "eventSlug": "51768-australian-fc-22",
+      "round": 3,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2017-10-28T00:00:00.000Z",
+      "opponent": "Brock McRobb",
+      "opponentSlug": "160360-brock-mcrobb",
+      "result": "win",
+      "method": "sub",
+      "event": "Kunlun Fight MMA 16",
+      "eventSlug": "48850-kunlun-fight-mma-16",
+      "round": 2,
+      "timeInRound": "0:57"
+    },
+    {
+      "date": "2016-10-15T00:00:00.000Z",
+      "opponent": "Mikey Vaotuua",
+      "opponentSlug": "25146-mikey-vaotuua",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Australian FC 17",
+      "eventSlug": "41094-australian-fc-17",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-06-24T00:00:00.000Z",
+      "opponent": "Hoshi Friedrich",
+      "opponentSlug": "59600-hoshi-friedrich",
+      "result": "loss",
+      "method": "sub",
+      "event": "Hex Fight Series 6",
+      "eventSlug": "39433-hex-fight-series-6-ebersole-vs-kennedy",
+      "round": 1,
+      "timeInRound": "1:27"
+    },
+    {
+      "date": "2016-03-04T00:00:00.000Z",
+      "opponent": "James Londrigan",
+      "opponentSlug": "70637-james-londrigan",
+      "result": "win",
+      "method": "other",
+      "event": "Minotaur 3: Carnage",
+      "eventSlug": "37942-minotaur-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-04-27T00:00:00.000Z",
+      "opponent": "Kael Coster",
+      "opponentSlug": "55209-kael-coster",
+      "result": "loss",
+      "method": "sub",
+      "event": "Kings of Kombat 9",
+      "eventSlug": "68124-kings-of-combat-9-moxon-vs-askerov",
+      "round": 1,
+      "timeInRound": "4:12"
+    },
+    {
+      "date": "2013-03-16T00:00:00.000Z",
+      "opponent": "Sam Hibberd",
+      "opponentSlug": "87482-sam-hibberd",
+      "result": "loss",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 2,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-05-03T10:17:22.275Z"
+}

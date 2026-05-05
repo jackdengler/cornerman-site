@@ -1,0 +1,99 @@
+{
+  "slug": "189660-beatriz-ferreira-bia",
+  "name": "Beatriz Ferreira",
+  "nickname": "The Danger",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 172,
+  "reachCm": 175,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1997-01-27",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/189660-beatriz-ferreira-bia",
+  "recentFights": [
+    {
+      "date": "2024-05-18T00:00:00.000Z",
+      "opponent": "Geísa Veloso",
+      "opponentSlug": "125518-geisa-veloso",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CFC 20: VENUS VICTRIX",
+      "eventSlug": "113075-cfc-20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-30T00:00:00.000Z",
+      "opponent": "Luana Santos",
+      "opponentSlug": "223129-luana-santos",
+      "result": "loss",
+      "method": "other",
+      "event": "SFT 34: Rise of Champions",
+      "eventSlug": "87113-sft-34",
+      "round": 3,
+      "timeInRound": "0:26"
+    },
+    {
+      "date": "2021-08-08T00:00:00.000Z",
+      "opponent": "Eliane Souza",
+      "opponentSlug": "274386-eliane-souza",
+      "result": "win",
+      "method": "sub",
+      "event": "Brazilian Fighting Series 1",
+      "eventSlug": "80460-brazilian-fighting-series-1",
+      "round": 2,
+      "timeInRound": "4:06"
+    },
+    {
+      "date": "2021-07-10T00:00:00.000Z",
+      "opponent": "Priscila Gomes",
+      "opponentSlug": "76608-priscila-ferreira-pri",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Império Fight 6",
+      "eventSlug": "79663-imperio-fight-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-28T00:00:00.000Z",
+      "opponent": "Clades Zimermann",
+      "opponentSlug": "182889-clades-zimmerman",
+      "result": "loss",
+      "method": "sub",
+      "event": "Curitiba Top Fight 12",
+      "eventSlug": "63446-curitiba-top-fight-12",
+      "round": 1,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2018-10-06T00:00:00.000Z",
+      "opponent": "Julia Polastri",
+      "opponentSlug": "168315-julia-polastri",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Niterói Top Fight 7",
+      "eventSlug": "55802-niteroi-top-fight-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-09T00:00:00.000Z",
+      "opponent": "Alexia Thainara",
+      "opponentSlug": "188736-alexia-thainara-burguesinha",
+      "result": "loss",
+      "method": "sub",
+      "event": "NCE 27",
+      "eventSlug": "53513-nce-27",
+      "round": 2,
+      "timeInRound": "2:52"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:59:10.707Z"
+}

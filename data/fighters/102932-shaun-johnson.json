@@ -1,0 +1,88 @@
+{
+  "slug": "102932-shaun-johnson",
+  "name": "Shaun Johnson",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/102932-shaun-johnson",
+  "recentFights": [
+    {
+      "date": "2020-11-21T00:00:00.000Z",
+      "opponent": "Colby Thicknesse",
+      "opponentSlug": "166902-colby-thicknesse",
+      "result": "loss",
+      "method": "sub",
+      "event": "Eternal MMA 55",
+      "eventSlug": "73219-eternal-mma-55",
+      "round": 1,
+      "timeInRound": "4:54"
+    },
+    {
+      "date": "2017-03-11T00:00:00.000Z",
+      "opponent": "Hoani Selwyn",
+      "opponentSlug": "109019-hoani-selwyn",
+      "result": "win",
+      "method": "sub",
+      "event": "Eternal MMA 24",
+      "eventSlug": "43836-eternal-mma-25",
+      "round": 2,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2016-11-05T00:00:00.000Z",
+      "opponent": "Eoin Duggan",
+      "opponentSlug": "124585-eoin-duggan",
+      "result": "loss",
+      "method": "sub",
+      "event": "Eternal MMA 21",
+      "eventSlug": "42137-eternal-mma-21",
+      "round": 3,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2016-04-02T00:00:00.000Z",
+      "opponent": "Corey Wickens",
+      "opponentSlug": "26469-corey-wickens",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 16",
+      "eventSlug": "37949-eternal-mma-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-08-01T00:00:00.000Z",
+      "opponent": "Ryan Griffiths",
+      "opponentSlug": "109022-ryan-griffiths",
+      "result": "win",
+      "method": "tko",
+      "event": "FWC 19",
+      "eventSlug": "32798-fwc-19",
+      "round": 2,
+      "timeInRound": "2:18"
+    },
+    {
+      "date": "2015-05-30T00:00:00.000Z",
+      "opponent": "Richard Powell",
+      "opponentSlug": "102933-richard-powell",
+      "result": "win",
+      "method": "other",
+      "event": "Eternal MMA 10",
+      "eventSlug": "30055-eternal-mma-10",
+      "round": 2,
+      "timeInRound": "2:12"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:56:33.450Z"
+}

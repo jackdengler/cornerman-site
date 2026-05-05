@@ -1,0 +1,209 @@
+{
+  "slug": "301022-yuji-yannick-ephoeviga",
+  "name": "Yuji Ephoeviga",
+  "nickname": "The Chef",
+  "aliases": [],
+  "recordPro": {
+    "wins": 13,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 192,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1999-10-19",
+  "nationality": "Nerima, Tokyo, Japan",
+  "url": "https://www.tapology.com/fightcenter/fighters/301022-yuji-yannick-ephoeviga",
+  "recentFights": [
+    {
+      "date": "2026-03-29T00:00:00.000Z",
+      "opponent": "Shutaro Debana",
+      "opponentSlug": "164956-captain-africa",
+      "result": "win",
+      "method": "tko",
+      "event": "Shooto 2026 Vol.2",
+      "eventSlug": "140020-shooto-2026-vol-2",
+      "round": 2,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2026-01-18T00:00:00.000Z",
+      "opponent": "Gwan Woo Lim",
+      "opponentSlug": "361794-kwan-woo-lim",
+      "result": "loss",
+      "method": "other",
+      "event": "Shooto 2026 Vol.1",
+      "eventSlug": "137840-shooto-2026-vol-1",
+      "round": 1,
+      "timeInRound": "4:49"
+    },
+    {
+      "date": "2025-09-14T00:00:00.000Z",
+      "opponent": "Kieran Joblin",
+      "opponentSlug": "45264-kieran-joblin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "TTF Challenge 11",
+      "eventSlug": "132823-ttf-challenge-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-23T00:00:00.000Z",
+      "opponent": "Dom Mar Fan",
+      "opponentSlug": "196890-dom-mar-fan",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Road to UFC",
+      "eventSlug": "128196-road-to-ufc-shanghai-episode-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-01-19T00:00:00.000Z",
+      "opponent": "Toshihiro Shimizu",
+      "opponentSlug": "4808-toshihiro-shimizu",
+      "result": "win",
+      "method": "sub",
+      "event": "Shooto 2025 Opening Game",
+      "eventSlug": "122512-shooto-2025-opening-game",
+      "round": 1,
+      "timeInRound": "4:33"
+    },
+    {
+      "date": "2024-11-30T00:00:00.000Z",
+      "opponent": "Mark Moleke",
+      "opponentSlug": "148784-max-the-body",
+      "result": "win",
+      "method": "sub",
+      "event": "Shooto 2024 Vol.8",
+      "eventSlug": "119928-shooto-2024-vol-8",
+      "round": 3,
+      "timeInRound": "3:17"
+    },
+    {
+      "date": "2024-08-16T00:00:00.000Z",
+      "opponent": "Emmanuel Sanchez",
+      "opponentSlug": "25350-emmanuel-sanchez",
+      "result": "win",
+      "method": "other",
+      "event": "T.T.F. Challenge Vol.10",
+      "eventSlug": "116151-t-t-f-challenge-vol-10",
+      "round": 1,
+      "timeInRound": "3:40"
+    },
+    {
+      "date": "2024-05-19T00:00:00.000Z",
+      "opponent": "Ayijiake Akenbieke",
+      "opponentSlug": "80579-akenbieke-ayijiake",
+      "result": "win",
+      "method": "tko",
+      "event": "Shooto × YFU: 7 vs 7",
+      "eventSlug": "113770-shooto-x-yfu",
+      "round": 2,
+      "timeInRound": "2:31"
+    },
+    {
+      "date": "2024-03-23T00:00:00.000Z",
+      "opponent": "Min Hyung Kim",
+      "opponentSlug": "190224-min-hyung-kim",
+      "result": "win",
+      "method": "other",
+      "event": "Shooto 2024 Vol.3",
+      "eventSlug": "110631-shooto-2024-vol-3",
+      "round": 1,
+      "timeInRound": "3:21"
+    },
+    {
+      "date": "2023-11-19T00:00:00.000Z",
+      "opponent": "Yoku Goto",
+      "opponentSlug": "99547-yoka-goto",
+      "result": "win",
+      "method": "tko",
+      "event": "Shooto 2023 Vol.7",
+      "eventSlug": "106785-shooto-2023-vol-7",
+      "round": 1,
+      "timeInRound": "0:21"
+    },
+    {
+      "date": "2023-09-29T00:00:00.000Z",
+      "opponent": "Keishi Yagi",
+      "opponentSlug": "135292-keishi-yagi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "GLADIATOR 023",
+      "eventSlug": "105155-gladiator-023",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-13T00:00:00.000Z",
+      "opponent": "Geralbert Castillo",
+      "opponentSlug": "150224-geralbert-castillo",
+      "result": "win",
+      "method": "tko",
+      "event": "Combate Global",
+      "eventSlug": "101111-combate-global-mexico-vs-japan",
+      "round": 2,
+      "timeInRound": "2:44"
+    },
+    {
+      "date": "2023-01-15T00:00:00.000Z",
+      "opponent": "Rin Tanaka",
+      "opponentSlug": "356575-rin-tanaka-kuato",
+      "result": "win",
+      "method": "tko",
+      "event": "Shooto 2023",
+      "eventSlug": "96896-shooto-2023",
+      "round": 1,
+      "timeInRound": "1:20"
+    },
+    {
+      "date": "2022-04-24T00:00:00.000Z",
+      "opponent": "Gunther Kalunda Ngunza",
+      "opponentSlug": "86544-kalunda-gunther",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Pound Storm",
+      "eventSlug": "88654-pound-storm",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-27T00:00:00.000Z",
+      "opponent": "Kota Okazawa",
+      "opponentSlug": "11976-kota-okazawa",
+      "result": "win",
+      "method": "other",
+      "event": "EXFIGHT.4",
+      "eventSlug": "90193-exfight-4",
+      "round": 1,
+      "timeInRound": "1:09"
+    },
+    {
+      "date": "2021-12-19T00:00:00.000Z",
+      "opponent": "Daigo Ariga",
+      "opponentSlug": "190935-daigo-ariga",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "EXFIGHT.3: Road to Pound Storm",
+      "eventSlug": "90203-exfight-3-road-to-pound-storm",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-30T00:00:00.000Z",
+      "opponent": "Yuhi Fujinami",
+      "opponentSlug": "307521-yuhi-fujinami",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "EXFIGHT.2",
+      "eventSlug": "90208-exfight-2",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:19:10.133Z"
+}

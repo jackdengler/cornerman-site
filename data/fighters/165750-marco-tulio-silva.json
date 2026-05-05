@@ -1,0 +1,198 @@
+{
+  "slug": "165750-marco-tulio-silva",
+  "name": "Marco Tulio",
+  "nickname": "Matuto",
+  "aliases": [],
+  "recordPro": {
+    "wins": 14,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 189,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1994-08-30",
+  "nationality": "Uberlândia, Minas Gerais, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/165750-marco-tulio-silva",
+  "recentFights": [
+    {
+      "date": "2026-05-09T00:00:00.000Z",
+      "opponent": "Roman Kopylov",
+      "opponentSlug": "138424-roman-kopylov",
+      "result": null,
+      "method": "other",
+      "event": "UFC 328: Chimaev vs. Strickland",
+      "eventSlug": "140614-ufc-328",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-11-08T00:00:00.000Z",
+      "opponent": "Christian Leroy Duncan",
+      "opponentSlug": "116334-christian-duncan",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "132761-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "3:28"
+    },
+    {
+      "date": "2025-04-12T00:00:00.000Z",
+      "opponent": "Tresean Gore",
+      "opponentSlug": "65776-tresean-gore",
+      "result": "win",
+      "method": "other",
+      "event": "UFC 314: Volkanovski vs. Lopes",
+      "eventSlug": "122989-ufc-314",
+      "round": 2,
+      "timeInRound": "3:16"
+    },
+    {
+      "date": "2025-01-11T00:00:00.000Z",
+      "opponent": "Ihor Potieria",
+      "opponentSlug": "91636-igor-poterya",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "118450-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "3:04"
+    },
+    {
+      "date": "2024-08-27T00:00:00.000Z",
+      "opponent": "Matthieu Duclos",
+      "opponentSlug": "239830-matthieu-letho",
+      "result": "win",
+      "method": "other",
+      "event": "Contender Series 2024",
+      "eventSlug": "112920-contender-series-2024-week-3",
+      "round": 2,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2024-01-27T00:00:00.000Z",
+      "opponent": "Cemey dos Santos",
+      "opponentSlug": "155968-cemy-dos-santos",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 175: Lopes vs. Brigagão",
+      "eventSlug": "109002-lfa-175-lopes-vs-brigagao",
+      "round": 2,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2023-08-29T00:00:00.000Z",
+      "opponent": "Yousri Belgaroui",
+      "opponentSlug": "237485-yousri-belgaroui-baby-face-assassin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Contender Series 2023",
+      "eventSlug": "100994-contender-series-2023-week-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-01-28T00:00:00.000Z",
+      "opponent": "Well Oliveira",
+      "opponentSlug": "95838-well-ferreira-mutante",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 151: Delano vs. Santos",
+      "eventSlug": "96398-lfa-151-delano-vs-santos",
+      "round": 1,
+      "timeInRound": "4:26"
+    },
+    {
+      "date": "2022-11-18T00:00:00.000Z",
+      "opponent": "Pedro Oliveira",
+      "opponentSlug": "278120-pedro-oliveira",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Road to Future 4",
+      "eventSlug": "94925-road-to-future-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-20T00:00:00.000Z",
+      "opponent": "Carlos Alberto Silva",
+      "opponentSlug": "76731-carlos-alberto-silva-carl",
+      "result": "win",
+      "method": "tko",
+      "event": "Presas Combat 1",
+      "eventSlug": "93006-presas-combat-1",
+      "round": 1,
+      "timeInRound": "0:35"
+    },
+    {
+      "date": "2022-01-30T00:00:00.000Z",
+      "opponent": "Glaico França",
+      "opponentSlug": "41071-glaico-moreira-nego",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Music Show 1",
+      "eventSlug": "86334-fight-music-show-1-whindersson-vs-popo",
+      "round": 2,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2021-07-10T00:00:00.000Z",
+      "opponent": "Uaslen Oliveira",
+      "opponentSlug": "259078-uaslen-silva-baiano",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Império Fight 6",
+      "eventSlug": "79663-imperio-fight-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-09-29T00:00:00.000Z",
+      "opponent": "Alexandre Silva",
+      "opponentSlug": "71441-alexandre-silva",
+      "result": "loss",
+      "method": "tko",
+      "event": "SFT 5",
+      "eventSlug": "55655-sft-5",
+      "round": 2,
+      "timeInRound": "3:52"
+    },
+    {
+      "date": "2018-08-11T00:00:00.000Z",
+      "opponent": "Helvécio Bessa Jr.",
+      "opponentSlug": "55437-helvecio-bessa-jr-junior-negao",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-02T00:00:00.000Z",
+      "opponent": "Alex de Paula",
+      "opponentSlug": "121272-alex-de-paula-lekao",
+      "result": "win",
+      "method": "tko",
+      "event": "Federação Fight 6",
+      "eventSlug": "49477-federao-fight-6",
+      "round": 2,
+      "timeInRound": "4:36"
+    },
+    {
+      "date": "2017-09-16T00:00:00.000Z",
+      "opponent": "Tulio Marcos",
+      "opponentSlug": "65792-tulio-marcos",
+      "result": "win",
+      "method": "sub",
+      "event": "Federação Fight 5",
+      "eventSlug": "48010-federao-fight-5",
+      "round": 1,
+      "timeInRound": "4:25"
+    }
+  ],
+  "lastVerified": "2026-04-25T21:53:51.504Z"
+}

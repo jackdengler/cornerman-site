@@ -1,0 +1,121 @@
+{
+  "slug": "286648-djulia-ariana",
+  "name": "Djulia Ariana",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 169,
+  "reachCm": 169,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1993-09-18",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/286648-djulia-ariana",
+  "recentFights": [
+    {
+      "date": "2026-03-27T00:00:00.000Z",
+      "opponent": "Milena Galvão",
+      "opponentSlug": "387937-milena-galvao",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 229: Martins vs. Gonçalves",
+      "eventSlug": "140668-lfa-229",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-16T00:00:00.000Z",
+      "opponent": "Geovanna Moura",
+      "opponentSlug": "294593-geovanna-moura",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Puro Impacto FC 31",
+      "eventSlug": "123128-puro-impacto-fc-31",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-03T00:00:00.000Z",
+      "opponent": "Leidiane Fernandes",
+      "opponentSlug": "271498-leidiane-fernandes",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 183: Cantanhede vs. Guimarães",
+      "eventSlug": "111711-lfa-183",
+      "round": 1,
+      "timeInRound": "3:46"
+    },
+    {
+      "date": "2023-09-16T00:00:00.000Z",
+      "opponent": "Thalita Diniz",
+      "opponentSlug": "230679-thalita-diniz",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "SFT 42: Lima vs Bad Boy",
+      "eventSlug": "103553-sft-42-riberio-vs-muniz",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-10-29T00:00:00.000Z",
+      "opponent": "Raiane Vinuto",
+      "opponentSlug": "292687-raiane-vinuto",
+      "result": "win",
+      "method": "other",
+      "event": "SFT Outubro Rosa 5",
+      "eventSlug": "94153-sft-outubro-rosa-5-rainhas-do-combate",
+      "round": 3,
+      "timeInRound": "1:13"
+    },
+    {
+      "date": "2022-03-12T00:00:00.000Z",
+      "opponent": "Nathalia Gonzaga",
+      "opponentSlug": "237854-nathalia-gonzaga",
+      "result": "win",
+      "method": "sub",
+      "event": "SFT 33: Buakaw vs. Ben 10",
+      "eventSlug": "86578-sft-33",
+      "round": 3,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2021-12-18T00:00:00.000Z",
+      "opponent": "Luana Santos",
+      "opponentSlug": "223129-luana-santos",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "SFT 32: Nogueira vs. Marajó",
+      "eventSlug": "84928-sft-32-nogueira-vs-marajo",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-11T00:00:00.000Z",
+      "opponent": "Juliana Mary",
+      "opponentSlug": "286649-juliana-mary",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Copa Thunder Fight 11",
+      "eventSlug": "79706-copa-thunder-fight-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-11-14T00:00:00.000Z",
+      "opponent": "Victoria Aquino",
+      "opponentSlug": "240342-victoria-aquino",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Copa Thunder Fight 6",
+      "eventSlug": "78216-copa-thunder-fight-6-mma-amador",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:02:57.494Z"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "306844-elena-vetrova",
+  "name": "Elena Vetrova",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1979-05-11",
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/306844-elena-vetrova",
+  "recentFights": [
+    {
+      "date": "2021-08-18T00:00:00.000Z",
+      "opponent": "Michelle Montague",
+      "opponentSlug": "237486-michell-montague",
+      "result": "loss",
+      "method": "tko",
+      "event": "IMMAF",
+      "eventSlug": "82031-immaf-european-open-senior-and-junior-championships-day-3",
+      "round": 2,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2021-06-04T00:00:00.000Z",
+      "opponent": "Nina Kharinova",
+      "opponentSlug": "306840-nina-kharinovs",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Russian MMA Championship 2021",
+      "eventSlug": "85526-russian-mma-championship-2021-day-1",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:54:56.604Z"
+}

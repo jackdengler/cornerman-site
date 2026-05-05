@@ -1,0 +1,253 @@
+{
+  "slug": "15389-juho-valamaa",
+  "name": "Juho Valamaa",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 16,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Finland",
+  "url": "https://www.tapology.com/fightcenter/fighters/15389-juho-valamaa",
+  "recentFights": [
+    {
+      "date": "2020-01-31T00:00:00.000Z",
+      "opponent": "Ahmad Labban",
+      "opponentSlug": "86681-ahmad-labban-the-shadow",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UAE Warriors 10",
+      "eventSlug": "66173-uae-warriors-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-17T00:00:00.000Z",
+      "opponent": "Amiran Gogoladze",
+      "opponentSlug": "162215-amiran-gogoladze",
+      "result": "loss",
+      "method": "other",
+      "event": "M-1 Challenge 99",
+      "eventSlug": "56237-m-1-challenge-99-battle-of-narts",
+      "round": 1,
+      "timeInRound": "0:10"
+    },
+    {
+      "date": "2018-06-15T00:00:00.000Z",
+      "opponent": "Maksim Grabovich",
+      "opponentSlug": "113881-maksim-grabovich",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "M-1 Challenge 94",
+      "eventSlug": "53145-m-1-challenge-94-damkovsky-vs-ismagulov",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-08-05T00:00:00.000Z",
+      "opponent": "Aires Benrois",
+      "opponentSlug": "76953-aires-benrois",
+      "result": "win",
+      "method": "other",
+      "event": "M-1 Challenge 82",
+      "eventSlug": "45710-m-1-challenge-82",
+      "round": 1,
+      "timeInRound": "4:52"
+    },
+    {
+      "date": "2017-05-06T00:00:00.000Z",
+      "opponent": "Anton Radko",
+      "opponentSlug": "118871-anton-radko",
+      "result": "win",
+      "method": "sub",
+      "event": "FNF 14",
+      "eventSlug": "40513-fnf-14",
+      "round": 1,
+      "timeInRound": "2:39"
+    },
+    {
+      "date": "2017-04-01T00:00:00.000Z",
+      "opponent": "Zebaztian Kadestam",
+      "opponentSlug": "19640-zebaztian-kadestam",
+      "result": "win",
+      "method": "sub",
+      "event": "Superior Challenge 15",
+      "eventSlug": "43608-superior-challenge-15",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-01T00:00:00.000Z",
+      "opponent": "Karl Amoussou",
+      "opponentSlug": "karl-amoussou-psycho",
+      "result": "loss",
+      "method": "other",
+      "event": "EuroFC 01: Espoo",
+      "eventSlug": "39615-eurofc-01-espoo",
+      "round": 1,
+      "timeInRound": "3:44"
+    },
+    {
+      "date": "2016-05-28T00:00:00.000Z",
+      "opponent": "Michał Wiencek",
+      "opponentSlug": "62067-micha-wiencek",
+      "result": "win",
+      "method": "sub",
+      "event": "NFC Fight Night 1",
+      "eventSlug": "38863-nfc-fight-night-1",
+      "round": 1,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2016-02-27T00:00:00.000Z",
+      "opponent": "Omar Jesus Santana",
+      "opponentSlug": "19004-omar-santana",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FNF 12",
+      "eventSlug": "37829-fnf-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-10-10T00:00:00.000Z",
+      "opponent": "Jason Ponet",
+      "opponentSlug": "16853-jason-ponet",
+      "result": "win",
+      "method": "sub",
+      "event": "FNF 10",
+      "eventSlug": "35235-fnf-10",
+      "round": 1,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2015-04-25T00:00:00.000Z",
+      "opponent": "Davy Gallon",
+      "opponentSlug": "50962-davy-gallon",
+      "result": "win",
+      "method": "other",
+      "event": "FNF 9: Turku Fight Night",
+      "eventSlug": "31187-fnf-9-turku-fight-night",
+      "round": 1,
+      "timeInRound": "1:53"
+    },
+    {
+      "date": "2014-11-08T00:00:00.000Z",
+      "opponent": "Daniel De Madallena",
+      "opponentSlug": "79940-daniel-de-madallena-suico",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Cage 27",
+      "eventSlug": "26717-cage-27",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-10-18T00:00:00.000Z",
+      "opponent": "Twan van Buuren",
+      "opponentSlug": "34447-twan-van-buuren",
+      "result": "win",
+      "method": "sub",
+      "event": "Lohja Fight Night",
+      "eventSlug": "25789-lohja-fight-night",
+      "round": 2,
+      "timeInRound": "3:32"
+    },
+    {
+      "date": "2014-06-14T00:00:00.000Z",
+      "opponent": "Johan Vanttinen",
+      "opponentSlug": "33151-johan-vanttinen",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Helsinki Fight Night",
+      "eventSlug": "24012-helsinki-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-11-09T00:00:00.000Z",
+      "opponent": "Romain Perras",
+      "opponentSlug": "48000-romain-perras",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage 24",
+      "eventSlug": "20003-cage-24",
+      "round": 1,
+      "timeInRound": "3:23"
+    },
+    {
+      "date": "2013-09-21T00:00:00.000Z",
+      "opponent": "Mindaugas Baranauskas",
+      "opponentSlug": "18895-mindaugas-baranauskas",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage 23",
+      "eventSlug": "19921-cage-23",
+      "round": 1,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2013-05-11T00:00:00.000Z",
+      "opponent": "Shamil Ismailov",
+      "opponentSlug": "35520-shamil-ismailov",
+      "result": "loss",
+      "method": "tko",
+      "event": "Cage 22",
+      "eventSlug": "19027-cage-22",
+      "round": 2,
+      "timeInRound": "4:33"
+    },
+    {
+      "date": "2013-02-02T00:00:00.000Z",
+      "opponent": "Martin Ngongo",
+      "opponentSlug": "42235-martin-ngongo",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage 21: Turku 2",
+      "eventSlug": "17294-cage-21-turku-2",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-11-03T00:00:00.000Z",
+      "opponent": "Idrissi Abdelghany",
+      "opponentSlug": "38053-idrissi-abdelghani",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage 19: Vantaa",
+      "eventSlug": "16392-cage-19-vantaa",
+      "round": 1,
+      "timeInRound": "0:29"
+    },
+    {
+      "date": "2011-10-22T00:00:00.000Z",
+      "opponent": "Dmitri Ivanov",
+      "opponentSlug": "26787-dmitri-ivanov",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-03-18T00:00:00.000Z",
+      "opponent": "Jonatan Westin",
+      "opponentSlug": "jonothan-westin",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:04:17.160Z"
+}

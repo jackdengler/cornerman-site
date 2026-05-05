@@ -1,0 +1,253 @@
+{
+  "slug": "64746-grigory-popov",
+  "name": "Grigorii Popov",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 14,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 173,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1984-04-18",
+  "nationality": "Russia, Sakha",
+  "url": "https://www.tapology.com/fightcenter/fighters/64746-grigory-popov",
+  "recentFights": [
+    {
+      "date": "2025-04-26T00:00:00.000Z",
+      "opponent": "Artem Butko",
+      "opponentSlug": "319365-artem-butko",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Open Fighting Championship 52",
+      "eventSlug": "126213-open-fighting-championship-52",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-11T00:00:00.000Z",
+      "opponent": "Yelzhan Aliaskar",
+      "opponentSlug": "130989-yerzhan-aliaskar",
+      "result": "loss",
+      "method": "other",
+      "event": "Naiza FC 40",
+      "eventSlug": "89072-naiza-fc-40",
+      "round": 1,
+      "timeInRound": "0:26"
+    },
+    {
+      "date": "2021-08-27T00:00:00.000Z",
+      "opponent": "Serzhan Sapargaliev",
+      "opponentSlug": "225219-yerzhan-sapargaliev",
+      "result": "win",
+      "method": "other",
+      "event": "Naiza FC 33",
+      "eventSlug": "82143-naiza-fc-33",
+      "round": 3,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2019-11-09T00:00:00.000Z",
+      "opponent": "Davey Grant",
+      "opponentSlug": "18815-david-grant",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "UFC on ESPN+ 21",
+      "eventSlug": "61626-ufc-on-espn-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-08T00:00:00.000Z",
+      "opponent": "Eddie Wineland",
+      "opponentSlug": "eddie-wineland",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC 238: Cejudo vs. Moraes",
+      "eventSlug": "58449-ufc-238",
+      "round": 2,
+      "timeInRound": "4:47"
+    },
+    {
+      "date": "2018-10-26T00:00:00.000Z",
+      "opponent": "Baxier Teliunuer",
+      "opponentSlug": "155438-tenuliuer",
+      "result": "win",
+      "method": "other",
+      "event": "WLF W.A.R.S. 28",
+      "eventSlug": "56161-wlf-w-a-r-s-28",
+      "round": 1,
+      "timeInRound": "2:08"
+    },
+    {
+      "date": "2017-12-02T00:00:00.000Z",
+      "opponent": "Deyu Wang",
+      "opponentSlug": "131417-deyu-wang",
+      "result": "win",
+      "method": "other",
+      "event": "MFP 214: Eastern Frontier",
+      "eventSlug": "48498-mfp-215-governors-cup-2017",
+      "round": 1,
+      "timeInRound": "2:32"
+    },
+    {
+      "date": "2017-11-11T00:00:00.000Z",
+      "opponent": "Yundong Chen",
+      "opponentSlug": "170797-yundong-chen",
+      "result": "win",
+      "method": "tko",
+      "event": "WLF W.A.R.S. 19",
+      "eventSlug": "49117-wlf-wars-19",
+      "round": 2,
+      "timeInRound": "0:10"
+    },
+    {
+      "date": "2017-02-25T00:00:00.000Z",
+      "opponent": "Sung Jae Kim",
+      "opponentSlug": "31046-seong-jae-kim",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MFP 207: Nord Fight",
+      "eventSlug": "44358-mfp-207-nord-fight",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-29T00:00:00.000Z",
+      "opponent": "Hexigetu",
+      "opponentSlug": "70071-hexi-getu",
+      "result": "win",
+      "method": "other",
+      "event": "Kingway & Beijing Combat",
+      "eventSlug": "42018-beijing-combat",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-03-12T00:00:00.000Z",
+      "opponent": "Aoriqileng",
+      "opponentSlug": "119560-aoriqileng",
+      "result": "win",
+      "method": "sub",
+      "event": "WLF E.P.I.C. 2",
+      "eventSlug": "38867-wlf-mma-312",
+      "round": 2,
+      "timeInRound": "4:35"
+    },
+    {
+      "date": "2016-02-28T00:00:00.000Z",
+      "opponent": "Vando de Almeida",
+      "opponentSlug": "121561-vando-de-almeida-diesel",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MFP: Nord Fight",
+      "eventSlug": "38596-mfp-nord-fight",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-01-13T00:00:00.000Z",
+      "opponent": "Wang De",
+      "opponentSlug": "128168-wang-de",
+      "result": "loss",
+      "method": "other",
+      "event": "WLF E.P.I.C. 1",
+      "eventSlug": "37891-wlf-113",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-11-28T00:00:00.000Z",
+      "opponent": "Rashid Gasanov",
+      "opponentSlug": "120821-rashid-gasanov",
+      "result": "win",
+      "method": "other",
+      "event": "MFP: Cup of Vladivostok 2015",
+      "eventSlug": "36431-mfp",
+      "round": 1,
+      "timeInRound": "4:50"
+    },
+    {
+      "date": "2015-10-31T00:00:00.000Z",
+      "opponent": "Sergey Kovgarenya",
+      "opponentSlug": "118046-sergey-kovgarenya",
+      "result": "win",
+      "method": "dec-split",
+      "event": "MFP: Governor's Cup Of Sakhalin 2015",
+      "eventSlug": "36411-fmp-cup-of-the-sakhalin-administration-head-2015",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-12-20T00:00:00.000Z",
+      "opponent": "Alexey Polpudnikov",
+      "opponentSlug": "33510-alexey-polpudnikov",
+      "result": "loss",
+      "method": "other",
+      "event": "Supercup Of Russia 2014",
+      "eventSlug": "26864-fefomp-russias-mma-supercup",
+      "round": 1,
+      "timeInRound": "2:58"
+    },
+    {
+      "date": "2014-11-22T00:00:00.000Z",
+      "opponent": "Arip Yakubov",
+      "opponentSlug": "86641-arip-yakubov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MFP: Governor's Cup Of Sakhalin 2014",
+      "eventSlug": "26862-fefomp-cup-of-the-sakhalin-oblast-administration-head",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-12-15T00:00:00.000Z",
+      "opponent": "Abdulmutalip Gairbekov",
+      "opponentSlug": "32279-abdul-guyirbegov",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MFP: Battle Of Empires 2",
+      "eventSlug": "18713-mfp-battle-of-empires-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-11-24T00:00:00.000Z",
+      "opponent": "Amir Abdullaev",
+      "opponentSlug": "71071-amir-abdullaev",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MFP: Amur Challenge 3",
+      "eventSlug": "23087-mfp-amur-challenge-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-10-06T00:00:00.000Z",
+      "opponent": "Evgeniy Ryazanov",
+      "opponentSlug": "64736-evgeniy-ryazanov",
+      "result": "win",
+      "method": "other",
+      "event": "MFP: Governor's Cup Of Sakhalin 2012",
+      "eventSlug": "44912-mfp-governor-s-cup-of-sakhalin-2012",
+      "round": 3,
+      "timeInRound": "3:03"
+    },
+    {
+      "date": "2012-09-14T00:00:00.000Z",
+      "opponent": "Alim Kokov",
+      "opponentSlug": "48693-alim-kokov",
+      "result": "loss",
+      "method": "sub",
+      "event": "MFP: Sea Star 1",
+      "eventSlug": "58461-mfp-sea-star-1",
+      "round": 2,
+      "timeInRound": "5:00"
+    }
+  ],
+  "lastVerified": "2026-04-18T03:36:05.246Z"
+}

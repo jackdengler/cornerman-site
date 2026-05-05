@@ -1,0 +1,48 @@
+{
+  "slug": "549408-vilem-cao",
+  "name": "Vilém Cao",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/549408-vilem-cao",
+  "recentFights": [
+    {
+      "date": "2022-04-09T00:00:00.000Z",
+      "opponent": "Jan Mašek",
+      "opponentSlug": "188187-jan-masek",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Český Svaz MMA - Amatérská Liga 2022",
+      "eventSlug": "113069-cesky-svaz-mma-amaterska-liga-2022-2-kolo",
+      "round": 3,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2021-06-27T00:00:00.000Z",
+      "opponent": "Tomáš Mudroch",
+      "opponentSlug": "266708-tomasz-mudroch",
+      "result": "loss",
+      "method": "sub",
+      "event": "Český Svaz MMA",
+      "eventSlug": "98585-cesky-svaz-mma-international-mma",
+      "round": 1,
+      "timeInRound": "2:52"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:05:59.661Z"
+}

@@ -1,0 +1,231 @@
+{
+  "slug": "242373-brena-soares-cardozo",
+  "name": "Brena Cardozo",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": 179,
+  "weightClass": "Strawweight",
+  "stance": null,
+  "dateOfBirth": "1994-01-12",
+  "nationality": "Sao Goncalo, Rio de Janeiro, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/242373-brena-soares-cardozo",
+  "recentFights": [
+    {
+      "date": "2025-10-25T00:00:00.000Z",
+      "opponent": "Leidiane Fernandes",
+      "opponentSlug": "271498-leidiane-fernandes",
+      "result": "loss",
+      "method": "other",
+      "event": "Jungle Fight 141",
+      "eventSlug": "132729-jungle-fight-141",
+      "round": 3,
+      "timeInRound": "3:45"
+    },
+    {
+      "date": "2025-09-20T00:00:00.000Z",
+      "opponent": "Queila Braga",
+      "opponentSlug": "241171-queila-braga",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Jungle Fight 140",
+      "eventSlug": "132728-jungle-fight-140",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-07-12T00:00:00.000Z",
+      "opponent": "Nágila Bruna",
+      "opponentSlug": "298280-nagila-bruno-goku",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Jungle Fight 138",
+      "eventSlug": "129988-jungle-fight-138-fight-do-milhao",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-08-24T00:00:00.000Z",
+      "opponent": "Layze Cerqueira",
+      "opponentSlug": "144833-layze-cerqueira",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Jungle Fight 129",
+      "eventSlug": "116357-jungle-fight-129",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-25T00:00:00.000Z",
+      "opponent": "Elora Dana",
+      "opponentSlug": "336289-elora-dana",
+      "result": "loss",
+      "method": "other",
+      "event": "Jungle Fight 126",
+      "eventSlug": "113268-jungle-fight-126",
+      "round": 2,
+      "timeInRound": "4:10"
+    },
+    {
+      "date": "2023-10-28T00:00:00.000Z",
+      "opponent": "Layze Cerqueira",
+      "opponentSlug": "144833-layze-cerqueira",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Jungle Fight 121",
+      "eventSlug": "106450-jungle-fight-121",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-07T00:00:00.000Z",
+      "opponent": "Mariya Artyukhina",
+      "opponentSlug": "173192-mariya-artyukhina",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMA Series 63",
+      "eventSlug": "98391-mma-series-63",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-04T00:00:00.000Z",
+      "opponent": "Carolina Jiménez",
+      "opponentSlug": "89693-carolina-jimenez",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "The Conqueror vs Favela Kombat",
+      "eventSlug": "95122-the-conqueror-vs-favela-kombat",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-10-09T00:00:00.000Z",
+      "opponent": "Beatriz França",
+      "opponentSlug": "317615-beatriz-franca",
+      "result": "win",
+      "method": "tko",
+      "event": "Favela Kombat 39",
+      "eventSlug": "91965-favela-kombat-39",
+      "round": 3,
+      "timeInRound": "1:41"
+    },
+    {
+      "date": "2022-07-29T00:00:00.000Z",
+      "opponent": "Klaudia Syguła",
+      "opponentSlug": "172890-klaudia-sygua",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Armia Fight Night 14",
+      "eventSlug": "90445-armia-fight-night-14",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-04T00:00:00.000Z",
+      "opponent": "Rayla Nascimento",
+      "opponentSlug": "161874-erilene-rayla",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Arena Global 15",
+      "eventSlug": "83415-arena-global-15",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-10-30T00:00:00.000Z",
+      "opponent": "Gisele Moreira",
+      "opponentSlug": "61730-gisele-moreira",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "SFT 31",
+      "eventSlug": "83293-sft-31-mao-de-pedra-vs-esquentadinha",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-18T00:00:00.000Z",
+      "opponent": "Vânia Caceres",
+      "opponentSlug": "194523-vania-caceres",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 112: Welterweight Grand Prix",
+      "eventSlug": "80471-lfa-112-welterweight-tournament",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-27T00:00:00.000Z",
+      "opponent": "Karina Oliveira",
+      "opponentSlug": "173688-karina-oliveira",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Rio MMA Fight Night 1",
+      "eventSlug": "77834-rio-mma-fight-night-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-13T00:00:00.000Z",
+      "opponent": "Giovanna Felix",
+      "opponentSlug": "252559-giovanna-felix",
+      "result": "win",
+      "method": "other",
+      "event": "DM Fight 2",
+      "eventSlug": "77368-dm-fight-2",
+      "round": 1,
+      "timeInRound": "0:16"
+    },
+    {
+      "date": "2020-09-05T00:00:00.000Z",
+      "opponent": "Larissa Vaz",
+      "opponentSlug": "270140-larissa-vaz",
+      "result": "win",
+      "method": "other",
+      "event": "JFC 2",
+      "eventSlug": "72227-jfc-2",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2020-03-01T00:00:00.000Z",
+      "opponent": "Lethicia Pinheiro",
+      "opponentSlug": "235418-lethicia-pinheiro-lele",
+      "result": "win",
+      "method": "tko",
+      "event": "Shooto Brasil",
+      "eventSlug": "66822-shooto-brasil-grand-prix",
+      "round": 1,
+      "timeInRound": "2:06"
+    },
+    {
+      "date": "2019-11-13T00:00:00.000Z",
+      "opponent": "Sora Rakhmonova",
+      "opponentSlug": "228691-sora-rakhmonova",
+      "result": "win",
+      "method": "dec-split",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64319-immaf-wmmaa-amateur-world-championships-2019",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-12T00:00:00.000Z",
+      "opponent": "Kim Amprazis",
+      "opponentSlug": "242372-kim-amprazis",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64318-immaf-wmmaa-amateur-world-championships-2019-day-2",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:02:48.930Z"
+}

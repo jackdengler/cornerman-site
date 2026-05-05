@@ -1,0 +1,81 @@
+{
+  "slug": "370139-valik-ialama",
+  "name": "Valik Ialama",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/370139-valik-ialama",
+  "recentFights": [
+    {
+      "date": "2023-09-23T00:00:00.000Z",
+      "opponent": "Firas Daud",
+      "opponentSlug": "365273-firas-daud",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Prize 3",
+      "eventSlug": "104454-prize-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-10T00:00:00.000Z",
+      "opponent": "Klaus Eckstein",
+      "opponentSlug": "242949-klaus-eckstein",
+      "result": "win",
+      "method": "other",
+      "event": "Vendetta Fight Nights 34",
+      "eventSlug": "100150-vendetta-fight-nights-34",
+      "round": 1,
+      "timeInRound": "2:55"
+    },
+    {
+      "date": "2023-04-29T00:00:00.000Z",
+      "opponent": "Deron Boateng",
+      "opponentSlug": "204031-deron-boateng",
+      "result": "win",
+      "method": "tko",
+      "event": "Prize 2",
+      "eventSlug": "99628-prize-fighting-events",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-03-25T00:00:00.000Z",
+      "opponent": "Norbert Grobelny",
+      "opponentSlug": "88963-norbert-grobelny",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "GMC Olympix 127",
+      "eventSlug": "99769-gmc-olympix-127",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-04T00:00:00.000Z",
+      "opponent": "Enes Temiz",
+      "opponentSlug": "344659-enes-temiz",
+      "result": "win",
+      "method": "tko",
+      "event": "GCP 8",
+      "eventSlug": "96499-gcp-8",
+      "round": 2,
+      "timeInRound": "1:25"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:10:16.431Z"
+}

@@ -1,0 +1,176 @@
+{
+  "slug": "19873-jos-marcos",
+  "name": "José Marcos",
+  "nickname": "Maju",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 177,
+  "reachCm": 182,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1988-04-19",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/19873-jos-marcos",
+  "recentFights": [
+    {
+      "date": "2022-08-06T00:00:00.000Z",
+      "opponent": "Husein Kadimagomaev",
+      "opponentSlug": "100473-husein-kadimagomaev",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "BRAVE CF 61",
+      "eventSlug": "90360-nfc-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-25T00:00:00.000Z",
+      "opponent": "William Gomis",
+      "opponentSlug": "125696-william-gomis",
+      "result": "loss",
+      "method": "other",
+      "event": "Ares FC 7: Abdoul vs. Amoussou",
+      "eventSlug": "87594-ares-fc-7",
+      "round": 3,
+      "timeInRound": "3:29"
+    },
+    {
+      "date": "2022-03-19T00:00:00.000Z",
+      "opponent": "Piotr Kacprzak",
+      "opponentSlug": "149668-piotr-kacprzak",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "KSW 68: Parnasse vs. Rutkowski",
+      "eventSlug": "86778-ksw-68",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-23T00:00:00.000Z",
+      "opponent": "Aleksandr Grozin",
+      "opponentSlug": "98433-alexander-grozin",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "RCC: Intro 19",
+      "eventSlug": "86667-rcc-intro-19",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-14T00:00:00.000Z",
+      "opponent": "Arlen Ribeiro",
+      "opponentSlug": "51988-arlen-ribeiro-hellboy",
+      "result": "win",
+      "method": "other",
+      "event": "Ita Fight: 2018 Edition",
+      "eventSlug": "57489-ita-fight-2018-edition",
+      "round": 3,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2016-07-23T00:00:00.000Z",
+      "opponent": "Tiago Freitas",
+      "opponentSlug": "48211-tiago-freitas-psycho",
+      "result": "win",
+      "method": "other",
+      "event": "Action Fight 3",
+      "eventSlug": "41052-action-fight-3",
+      "round": 1,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2016-03-23T00:00:00.000Z",
+      "opponent": "Fanil Rafikov",
+      "opponentSlug": "72245-shamil-rafikov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "WFCA 17: Battle In Kazakhstan",
+      "eventSlug": "38772-akhmat-fight-show-16",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-02-02T00:00:00.000Z",
+      "opponent": "Matheus Mattos",
+      "opponentSlug": "31157-matheus-mattos",
+      "result": "loss",
+      "method": "other",
+      "event": "The Ultimate Fighter Brazil Season 4",
+      "eventSlug": "41124-the-ultimate-fighter-brazil-season-4",
+      "round": 2,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2014-01-21T00:00:00.000Z",
+      "opponent": "Thiago Belo",
+      "opponentSlug": "16072-thiago-bananinha",
+      "result": "nc",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-05-17T00:00:00.000Z",
+      "opponent": "Adriano Moraes",
+      "opponentSlug": "35131-adriano-moraes-mikinho",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Shooto Brasil 39",
+      "eventSlug": "18847-shooto-brazil-39",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-12-07T00:00:00.000Z",
+      "opponent": "Genilson Silva",
+      "opponentSlug": "44258-raimundo-genilson",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-07-07T00:00:00.000Z",
+      "opponent": "Regivan Queiroz",
+      "opponentSlug": "67736-regivan-queiroz-guerreiro",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-04-28T00:00:00.000Z",
+      "opponent": "Anastácio Junior",
+      "opponentSlug": "48631-francisco-anastacio-jr",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-07-27T00:00:00.000Z",
+      "opponent": "José Maria Tomé",
+      "opponentSlug": "12835-jose-maria-tome-no-chance",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:07:04.921Z"
+}

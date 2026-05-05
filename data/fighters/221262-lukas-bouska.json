@@ -1,0 +1,147 @@
+{
+  "slug": "221262-lukas-bouska",
+  "name": "Lukáš Bouška",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 4,
+    "losses": 7,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1999-02-02",
+  "nationality": "Czech Republic",
+  "url": "https://www.tapology.com/fightcenter/fighters/221262-lukas-bouska",
+  "recentFights": [
+    {
+      "date": "2026-04-05T00:00:00.000Z",
+      "opponent": "Bajsangur Soltachanov",
+      "opponentSlug": "419522-bajsangur-soltachanov",
+      "result": "loss",
+      "method": "sub",
+      "event": "MMAA Arena Cup 104",
+      "eventSlug": "141152-mmaa-arena-cup-104",
+      "round": 1,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2025-11-17T00:00:00.000Z",
+      "opponent": "Illia Matushchenko",
+      "opponentSlug": "535541-illia-matushchenko",
+      "result": "win",
+      "method": "other",
+      "event": "IAF 15 x MMAAA 100",
+      "eventSlug": "135706-iaf-15",
+      "round": 2,
+      "timeInRound": "1:51"
+    },
+    {
+      "date": "2025-09-13T00:00:00.000Z",
+      "opponent": "Adam Cerny",
+      "opponentSlug": "413783-adam-cerny",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMAA Arena Cup 98",
+      "eventSlug": "138114-mmaa-arena-cup-98",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-03-01T00:00:00.000Z",
+      "opponent": "Ivan Stomatov",
+      "opponentSlug": "436008-ivan-stomatov",
+      "result": "loss",
+      "method": "other",
+      "event": "MMAA Arena Cup 94",
+      "eventSlug": "122908-mmaa-arena-cup-94",
+      "round": 2,
+      "timeInRound": "0:29"
+    },
+    {
+      "date": "2024-05-19T00:00:00.000Z",
+      "opponent": "Firas Daud",
+      "opponentSlug": "365273-firas-daud",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "GAMMA",
+      "eventSlug": "115209-gamma-world-championships-2024-day-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-02-03T00:00:00.000Z",
+      "opponent": "Volodomyr Aleksieienko",
+      "opponentSlug": "363160-volodomyr-aleksieienko",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "MMAA Arena Cup 84",
+      "eventSlug": "110062-mmaa-arena-cup-84",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-09T00:00:00.000Z",
+      "opponent": "Radim Kunčický",
+      "opponentSlug": "217624-radim-kuncicky",
+      "result": "loss",
+      "method": "other",
+      "event": "MMAA Arena Cup 83",
+      "eventSlug": "108297-mmaa-arena-cup-83",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-11-12T00:00:00.000Z",
+      "opponent": "Nazar Slyvchuk",
+      "opponentSlug": "363161-nazar-slyvchuk",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MMAA Arena Cup 82",
+      "eventSlug": "106654-mmaa-arena-cup-82",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-16T00:00:00.000Z",
+      "opponent": "Ondřej Rez",
+      "opponentSlug": "373726-ondrej-rez",
+      "result": "win",
+      "method": "sub",
+      "event": "MMAA Arena Cup 80",
+      "eventSlug": "103940-mmaa-arena-cup-80",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-04-22T00:00:00.000Z",
+      "opponent": "Volodomyr Aleksieienko",
+      "opponentSlug": "363160-volodomyr-aleksieienko",
+      "result": "loss",
+      "method": "tko",
+      "event": "MMAA Arena Cup 77",
+      "eventSlug": "99829-mmaa-arena-cup-77",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-04-27T00:00:00.000Z",
+      "opponent": "Lukáš Blaževič",
+      "opponentSlug": "172000-luk-blaevi",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "RP Security MMAA Arena Cup 51",
+      "eventSlug": "59907-rp-security-mmaa-arena-cup-51",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:10:11.553Z"
+}

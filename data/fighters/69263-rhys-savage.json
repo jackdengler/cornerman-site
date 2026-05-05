@@ -1,0 +1,70 @@
+{
+  "slug": "69263-rhys-savage",
+  "name": "Rhys Savage",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/69263-rhys-savage",
+  "recentFights": [
+    {
+      "date": "2016-02-19T00:00:00.000Z",
+      "opponent": "Jacob Malkoun",
+      "opponentSlug": "111323-jacob-malkoun",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Superfight MMA 2",
+      "eventSlug": "37930-superfight-mma-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-07-26T00:00:00.000Z",
+      "opponent": "Shahin Bakhtiyari",
+      "opponentSlug": "84732-shahin-bakhtiyari",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Urban Fight Night 3",
+      "eventSlug": "34220-urban-fight-night-3-revenge",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-05-02T00:00:00.000Z",
+      "opponent": "Helio Pinto",
+      "opponentSlug": "108106-helio-pinto-notorious",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-05-03T00:00:00.000Z",
+      "opponent": "Cam Rowston",
+      "opponentSlug": "69262-cam-rowston",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "BRACE: Ascend 1",
+      "eventSlug": "23589-brace-ascend-1",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:14:39.579Z"
+}

@@ -1,0 +1,176 @@
+{
+  "slug": "155968-cemy-dos-santos",
+  "name": "Cemey dos Santos",
+  "nickname": "Meiota",
+  "aliases": [],
+  "recordPro": {
+    "wins": 6,
+    "losses": 9,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": 196,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/155968-cemy-dos-santos",
+  "recentFights": [
+    {
+      "date": "2025-05-05T00:00:00.000Z",
+      "opponent": "Lukas Achterberg",
+      "opponentSlug": "275085-lukas-achterberg",
+      "result": "loss",
+      "method": "other",
+      "event": "USC 4",
+      "eventSlug": "127526-usc-4",
+      "round": 1,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2025-03-29T00:00:00.000Z",
+      "opponent": "Arlind Berisha",
+      "opponentSlug": "239144-arlind-berisha",
+      "result": "loss",
+      "method": "other",
+      "event": "FCR 23",
+      "eventSlug": "122514-fcr-23",
+      "round": 1,
+      "timeInRound": "1:12"
+    },
+    {
+      "date": "2024-09-28T00:00:00.000Z",
+      "opponent": "Iwo Baraniewski",
+      "opponentSlug": "272653-filip-bartoszewicki",
+      "result": "loss",
+      "method": "other",
+      "event": "Babilon MMA 47",
+      "eventSlug": "116772-babilon-mma-47-mendlewski-vs-lamparski",
+      "round": 1,
+      "timeInRound": "1:11"
+    },
+    {
+      "date": "2024-04-27T00:00:00.000Z",
+      "opponent": "Lazar Todev",
+      "opponentSlug": "95751-lazar-todev",
+      "result": "loss",
+      "method": "tko",
+      "event": "USC 3",
+      "eventSlug": "113845-usc-3",
+      "round": 2,
+      "timeInRound": "2:13"
+    },
+    {
+      "date": "2024-01-27T00:00:00.000Z",
+      "opponent": "Marco Tulio",
+      "opponentSlug": "165750-marco-tulio-silva",
+      "result": "loss",
+      "method": "other",
+      "event": "LFA 175: Lopes vs. Brigagão",
+      "eventSlug": "109002-lfa-175-lopes-vs-brigagao",
+      "round": 2,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2020-02-01T00:00:00.000Z",
+      "opponent": "Aldecir Cardoso",
+      "opponentSlug": "67062-aldecir-cardoso-negao",
+      "result": "win",
+      "method": "sub",
+      "event": "JFC 1",
+      "eventSlug": "66583-jfc-1",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-10-19T00:00:00.000Z",
+      "opponent": "Junior de Oliveira",
+      "opponentSlug": "32218-junior-de-oliveira-junior-suicida",
+      "result": "win",
+      "method": "tko",
+      "event": "Shooto Brasil 97",
+      "eventSlug": "63628-shooto-brasil-97",
+      "round": 1,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2019-05-03T00:00:00.000Z",
+      "opponent": "Mário Sousa",
+      "opponentSlug": "120801-mrio-souza-nimrode",
+      "result": "loss",
+      "method": "tko",
+      "event": "Max Fight 22",
+      "eventSlug": "60034-max-fight-22",
+      "round": 1,
+      "timeInRound": "0:22"
+    },
+    {
+      "date": "2018-05-26T00:00:00.000Z",
+      "opponent": "Lucas Rodrigues",
+      "opponentSlug": "113339-lucas-rodrigues-perizinho",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shooto Brasil 84",
+      "eventSlug": "53369-shooto-brasil-84",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-17T00:00:00.000Z",
+      "opponent": "Leonardo Silva",
+      "opponentSlug": "70056-leonardo-silva-cabeo",
+      "result": "loss",
+      "method": "sub",
+      "event": "Shooto Brasil 81",
+      "eventSlug": "50851-shooto-brasil-81",
+      "round": 1,
+      "timeInRound": "3:57"
+    },
+    {
+      "date": "2017-12-14T00:00:00.000Z",
+      "opponent": "Jorge Filho",
+      "opponentSlug": "59457-jorge-filho-jorginho",
+      "result": "win",
+      "method": "other",
+      "event": "FLC 6",
+      "eventSlug": "49617-flc-6",
+      "round": 1,
+      "timeInRound": "0:19"
+    },
+    {
+      "date": "2017-12-02T00:00:00.000Z",
+      "opponent": "Bruno Assis",
+      "opponentSlug": "99877-bruno-assis",
+      "result": "loss",
+      "method": "sub",
+      "event": "Federação Fight 6",
+      "eventSlug": "49477-federao-fight-6",
+      "round": 1,
+      "timeInRound": "1:39"
+    },
+    {
+      "date": "2017-10-20T00:00:00.000Z",
+      "opponent": "Guilherme Nogueira",
+      "opponentSlug": "169821-guilherme-nogueira-novas",
+      "result": "loss",
+      "method": "sub",
+      "event": "Cruzeiro Fight 1",
+      "eventSlug": "48931-cruzeiro-fight-1",
+      "round": 2,
+      "timeInRound": "2:38"
+    },
+    {
+      "date": "2017-04-30T00:00:00.000Z",
+      "opponent": "Renato Rangel",
+      "opponentSlug": "99754-renato-rangel",
+      "result": "win",
+      "method": "other",
+      "event": "Shooto Brasil 71",
+      "eventSlug": "45469-shooto-brasil-71",
+      "round": 1,
+      "timeInRound": "4:23"
+    }
+  ],
+  "lastVerified": "2026-04-25T23:03:21.325Z"
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "149928-nick-kambasis",
+  "name": "Nico Kambasis",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1993-08-23",
+  "nationality": "Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/149928-nick-kambasis",
+  "recentFights": [
+    {
+      "date": "2023-03-31T00:00:00.000Z",
+      "opponent": "Tony Rojas",
+      "opponentSlug": "309501-tony-rojas",
+      "result": "loss",
+      "method": "other",
+      "event": "Unified MMA 50",
+      "eventSlug": "96525-unified-mma-50",
+      "round": 2,
+      "timeInRound": "3:51"
+    },
+    {
+      "date": "2021-01-30T00:00:00.000Z",
+      "opponent": "John Yannis",
+      "opponentSlug": "151617-john-yannies",
+      "result": "loss",
+      "method": "tko",
+      "event": "Peak Fighting 7",
+      "eventSlug": "73031-pf7-the-proving-ground",
+      "round": 3,
+      "timeInRound": "4:16"
+    },
+    {
+      "date": "2019-09-28T00:00:00.000Z",
+      "opponent": "Gino Ghalehpardaz",
+      "opponentSlug": "127052-gino-ghalapardez",
+      "result": "win",
+      "method": "sub",
+      "event": "PFC 11: Knockout Kidney Disease",
+      "eventSlug": "62251-pfc-11-knockout-kidney-disease",
+      "round": 3,
+      "timeInRound": "3:21"
+    },
+    {
+      "date": "2019-03-01T00:00:00.000Z",
+      "opponent": "Alex Moffitt",
+      "opponentSlug": "210572-alex-moffitt",
+      "result": "win",
+      "method": "other",
+      "event": "HD MMA 16",
+      "eventSlug": "57341-hd-mma-16",
+      "round": 2,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2018-06-30T00:00:00.000Z",
+      "opponent": "Ali Rexhepi",
+      "opponentSlug": "70754-ali-rexhepi",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Full Contact Promotions",
+      "eventSlug": "52850-full-contact-promotions-rage-in-the-cage-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-15T00:00:00.000Z",
+      "opponent": "Hai Lee",
+      "opponentSlug": "178185-hai-lee",
+      "result": "win",
+      "method": "tko",
+      "event": "Wreck MMA",
+      "eventSlug": "45370-wreck-mma",
+      "round": 1,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2017-02-18T00:00:00.000Z",
+      "opponent": "Marquel Rockwood",
+      "opponentSlug": "149927-marquel-rockwood",
+      "result": null,
+      "method": "other",
+      "event": "The Quest MMA",
+      "eventSlug": "44255-the-quest-mma",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:05:39.371Z"
+}

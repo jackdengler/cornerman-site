@@ -1,0 +1,158 @@
+{
+  "slug": "141132-david-madriz",
+  "name": "David Madriz",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 7,
+    "losses": 4,
+    "draws": 0
+  },
+  "heightCm": 168,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1995-11-27",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/141132-david-madriz",
+  "recentFights": [
+    {
+      "date": "2026-05-30T00:00:00.000Z",
+      "opponent": "Manny Hernandez",
+      "opponentSlug": "414881-edmanuel-hernandez",
+      "result": null,
+      "method": "other",
+      "event": "CK Fighting 4",
+      "eventSlug": "139175-ck-fighting-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-10-11T00:00:00.000Z",
+      "opponent": "Matthew Yoder",
+      "opponentSlug": "487291-matthew-yoder",
+      "result": "win",
+      "method": "sub",
+      "event": "CK Fighting 2",
+      "eventSlug": "126955-ck-fighting-2",
+      "round": 1,
+      "timeInRound": "0:53"
+    },
+    {
+      "date": "2022-07-23T00:00:00.000Z",
+      "opponent": "Kelton Sneve",
+      "opponentSlug": "213615-kelton-sneve",
+      "result": "loss",
+      "method": "sub",
+      "event": "Compass Fight Series 1",
+      "eventSlug": "88513-compass-fight-series-1",
+      "round": 1,
+      "timeInRound": "2:32"
+    },
+    {
+      "date": "2022-05-29T00:00:00.000Z",
+      "opponent": "Daulet Karimulla",
+      "opponentSlug": "292148-daulet-karimulla",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FCE 73: Victory 2022",
+      "eventSlug": "88327-fce-73",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-24T00:00:00.000Z",
+      "opponent": "Kevin Mendoza",
+      "opponentSlug": "304587-kevin-mendoza",
+      "result": "loss",
+      "method": "sub",
+      "event": "FCE 68: Homecoming 2021",
+      "eventSlug": "79252-fight-card-entertainment",
+      "round": 1,
+      "timeInRound": "2:29"
+    },
+    {
+      "date": "2019-09-20T00:00:00.000Z",
+      "opponent": "Amin Szymaniak",
+      "opponentSlug": "88441-amin-szymaniak",
+      "result": "win",
+      "method": "dec-split",
+      "event": "HFC 40",
+      "eventSlug": "62148-hfc-40",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-05-05T00:00:00.000Z",
+      "opponent": "Eimar Hernandez",
+      "opponentSlug": "177956-eimar-hernandez",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fight Card Entertainment",
+      "eventSlug": "59214-fight-card-entertainment-victory",
+      "round": 2,
+      "timeInRound": "1:29"
+    },
+    {
+      "date": "2019-02-17T00:00:00.000Z",
+      "opponent": "Jose Lemus",
+      "opponentSlug": "161429-jose-lemus",
+      "result": "win",
+      "method": "other",
+      "event": "Fight Card Entertainment",
+      "eventSlug": "57275-fight-card-entertainment-cross-the-line",
+      "round": 1,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2018-09-02T00:00:00.000Z",
+      "opponent": "Tony Wheeler Jr.",
+      "opponentSlug": "150523-tony-wheeler",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Fight Card Entertainment",
+      "eventSlug": "53843-fight-card-entertainment-supremacy",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-04-07T00:00:00.000Z",
+      "opponent": "Chris Sanchez",
+      "opponentSlug": "120645-chris-sanchez",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Total Fight Challenge",
+      "eventSlug": "45055-total-fight-challenge",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-02-11T00:00:00.000Z",
+      "opponent": "George Johnson",
+      "opponentSlug": "51600-george-johnson",
+      "result": "win",
+      "method": "other",
+      "event": "HFC 32",
+      "eventSlug": "43677-hfc-32",
+      "round": 2,
+      "timeInRound": "0:26"
+    },
+    {
+      "date": "2016-10-06T00:00:00.000Z",
+      "opponent": "Jose Lazo",
+      "opponentSlug": "61962-jose-lazo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fight Card Entertainment",
+      "eventSlug": "41443-fight-card-entertainment-no-mercy",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:41:48.464Z"
+}

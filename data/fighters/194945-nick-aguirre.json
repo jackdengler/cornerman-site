@@ -1,0 +1,231 @@
+{
+  "slug": "194945-nick-aguirre",
+  "name": "Nick Aguirre",
+  "nickname": "Slick",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": 188,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1996-01-15",
+  "nationality": "Berwyn, Illinois, USA",
+  "url": "https://www.tapology.com/fightcenter/fighters/194945-nick-aguirre",
+  "recentFights": [
+    {
+      "date": "2025-11-02T00:00:00.000Z",
+      "opponent": "Emiliano Linares",
+      "opponentSlug": "194728-freddy-emiliano-linares",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Anthony Pettis FC 20",
+      "eventSlug": "131592-anthony-pettis-fc-20-milwaukee-fight-night-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-25T00:00:00.000Z",
+      "opponent": "John Yannis",
+      "opponentSlug": "151617-john-yannies",
+      "result": "loss",
+      "method": "tko",
+      "event": "Fury FC 104",
+      "eventSlug": "126694-fury-fc-104",
+      "round": 4,
+      "timeInRound": "3:08"
+    },
+    {
+      "date": "2025-01-25T00:00:00.000Z",
+      "opponent": "Timothy Bender",
+      "opponentSlug": "210236-tim-bender",
+      "result": "win",
+      "method": "sub",
+      "event": "Throne MMA 10",
+      "eventSlug": "118413-throne-mma",
+      "round": 1,
+      "timeInRound": "1:41"
+    },
+    {
+      "date": "2024-07-27T00:00:00.000Z",
+      "opponent": "Frank Osborne",
+      "opponentSlug": "51180-william-osborne",
+      "result": "win",
+      "method": "sub",
+      "event": "Absolute Combat League 4",
+      "eventSlug": "115816-absolute-combat-league-4",
+      "round": 1,
+      "timeInRound": "4:22"
+    },
+    {
+      "date": "2023-11-18T00:00:00.000Z",
+      "opponent": "Payton Talbott",
+      "opponentSlug": "181513-payton-talbout",
+      "result": "loss",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "101867-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "0:58"
+    },
+    {
+      "date": "2023-01-14T00:00:00.000Z",
+      "opponent": "Dan Argueta",
+      "opponentSlug": "162202-daniel-argueta-the-determined",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "93279-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-12-17T00:00:00.000Z",
+      "opponent": "Brandon Clawson",
+      "opponentSlug": "16777-brandon-clawson-the-hand-grenade",
+      "result": "win",
+      "method": "sub",
+      "event": "Colosseum Combat 61",
+      "eventSlug": "88333-colosseum-combat-62",
+      "round": 2,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2022-08-12T00:00:00.000Z",
+      "opponent": "Tyler Dehaven",
+      "opponentSlug": "232248-tyler-dehaven",
+      "result": "win",
+      "method": "sub",
+      "event": "Anthony Pettis FC 2",
+      "eventSlug": "89854-anthony-pettis-fc-2-apfc-midwest-invitational-2022",
+      "round": 1,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2022-06-04T00:00:00.000Z",
+      "opponent": "Thomas Deleon",
+      "opponentSlug": "329357-thomas-deleon",
+      "result": "win",
+      "method": "other",
+      "event": "Elite Fight Night",
+      "eventSlug": "87291-eafl-steel-city-showdown-3",
+      "round": 1,
+      "timeInRound": "1:09"
+    },
+    {
+      "date": "2022-04-15T00:00:00.000Z",
+      "opponent": "Zac Richard",
+      "opponentSlug": "183983-zac-richards",
+      "result": "win",
+      "method": "sub",
+      "event": "Art of Scrap 4",
+      "eventSlug": "85955-art-of-scrap-4",
+      "round": 1,
+      "timeInRound": "2:32"
+    },
+    {
+      "date": "2021-10-15T00:00:00.000Z",
+      "opponent": "Dru Davis-Henry",
+      "opponentSlug": "222160-andru-davis-henry",
+      "result": "win",
+      "method": "tko",
+      "event": "Colosseum Combat 55",
+      "eventSlug": "81382-colosseum-combat-55",
+      "round": 1,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2021-07-17T00:00:00.000Z",
+      "opponent": "Shawn Johnson",
+      "opponentSlug": "104269-shawn-johnson",
+      "result": "win",
+      "method": "sub",
+      "event": "Colosseum Combat 54",
+      "eventSlug": "77806-colosseum-combat-55",
+      "round": 1,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2021-04-10T00:00:00.000Z",
+      "opponent": "Cody Schieve",
+      "opponentSlug": "57376-cody-schieve",
+      "result": "win",
+      "method": "other",
+      "event": "Colosseum Combat 53",
+      "eventSlug": "76244-colosseum-combat-53",
+      "round": 1,
+      "timeInRound": "2:30"
+    },
+    {
+      "date": "2019-12-15T00:00:00.000Z",
+      "opponent": "Matt Quigley",
+      "opponentSlug": "169168-matt-quigley",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fight Card Entertainment",
+      "eventSlug": "62848-fight-card-entertainment-takeover",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-09-20T00:00:00.000Z",
+      "opponent": "Mike Escoe",
+      "opponentSlug": "87511-mikey-escoe",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "HFC 40",
+      "eventSlug": "62148-hfc-40",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-06-22T00:00:00.000Z",
+      "opponent": "David Reyes",
+      "opponentSlug": "193370-david-reyes",
+      "result": "win",
+      "method": "other",
+      "event": "EAFL: Season 3 National Championship",
+      "eventSlug": "60886-eafl-arizona-vs-illinois",
+      "round": 1,
+      "timeInRound": "1:03"
+    },
+    {
+      "date": "2019-02-23T00:00:00.000Z",
+      "opponent": "Reiter Bird",
+      "opponentSlug": "54080-reiter-bird",
+      "result": "win",
+      "method": "other",
+      "event": "CCC: The Comeback",
+      "eventSlug": "58112-ccc-the-comeback",
+      "round": 1,
+      "timeInRound": "1:57"
+    },
+    {
+      "date": "2018-11-09T00:00:00.000Z",
+      "opponent": "Alec Godfrey",
+      "opponentSlug": "194940-alec-godfrey",
+      "result": "win",
+      "method": "sub",
+      "event": "HFC 37",
+      "eventSlug": "55938-hfc-37",
+      "round": 1,
+      "timeInRound": "1:21"
+    },
+    {
+      "date": "2018-09-02T00:00:00.000Z",
+      "opponent": "Justen Shepherd",
+      "opponentSlug": "170732-justin-shepherd",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Card Entertainment",
+      "eventSlug": "53843-fight-card-entertainment-supremacy",
+      "round": 1,
+      "timeInRound": "2:59"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:05:15.290Z"
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "352252-nick-fishback",
+  "name": "Nick Fishback",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1993-07-07",
+  "nationality": "Chicago, Illinois",
+  "url": "https://www.tapology.com/fightcenter/fighters/352252-nick-fishback",
+  "recentFights": [
+    {
+      "date": "2025-05-03T00:00:00.000Z",
+      "opponent": "Tyler Berger",
+      "opponentSlug": "270019-tyler-berger",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "DCS 98: Spring Brawl 2025",
+      "eventSlug": "124529-dcs-97-spring-brawl-2025",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-05-25T00:00:00.000Z",
+      "opponent": "Blake Decourcy",
+      "opponentSlug": "319562-blake-decourcy",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Urijah Faber's A1 Combat 21",
+      "eventSlug": "112112-urijah-faber-s-a1-combat-21-faber-vs-curran",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-09-22T00:00:00.000Z",
+      "opponent": "Dylan Smerillo",
+      "opponentSlug": "277363-dylan-smerillo",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 168: McKee vs. McPadden",
+      "eventSlug": "104272-lfa-168-mckee-vs-mcpadden",
+      "round": 3,
+      "timeInRound": "1:11"
+    },
+    {
+      "date": "2023-06-02T00:00:00.000Z",
+      "opponent": "Darian Padgett",
+      "opponentSlug": "311989-darian-padgett",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Compass Fight Series 3",
+      "eventSlug": "99578-compass-fight-series-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-24T00:00:00.000Z",
+      "opponent": "Marc Bjorn",
+      "opponentSlug": "142890-marc-bjorn",
+      "result": "win",
+      "method": "other",
+      "event": "Compass Fight Series 2",
+      "eventSlug": "95397-compass-fight-series-2",
+      "round": 1,
+      "timeInRound": "0:24"
+    },
+    {
+      "date": "2022-11-19T00:00:00.000Z",
+      "opponent": "Canon Swanson",
+      "opponentSlug": "329282-canon-swanson",
+      "result": "loss",
+      "method": "other",
+      "event": "Brawl @ Bourbon Street 5",
+      "eventSlug": "85331-ignite-fights-brawl-at-bourbon-street-5",
+      "round": 1,
+      "timeInRound": "1:23"
+    },
+    {
+      "date": "2022-09-23T00:00:00.000Z",
+      "opponent": "Nicholas Degele",
+      "opponentSlug": "348151-nicholas-degele",
+      "result": "win",
+      "method": "tko",
+      "event": "Evolution Sports Expo",
+      "eventSlug": "93141-evolution-sports-expo",
+      "round": 1,
+      "timeInRound": "1:34"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:41:07.578Z"
+}

@@ -1,0 +1,136 @@
+{
+  "slug": "122645-clayton-whaley",
+  "name": "Clayton Whaley",
+  "nickname": "The Believer",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 5,
+    "losses": 5,
+    "draws": 0
+  },
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1992-12-30",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/122645-clayton-whaley",
+  "recentFights": [
+    {
+      "date": "2023-04-08T00:00:00.000Z",
+      "opponent": "Zlatko Skuljan",
+      "opponentSlug": "216331-zlatko-skuljan",
+      "result": "loss",
+      "method": "sub",
+      "event": "B2 Fighting Series 180",
+      "eventSlug": "98013-b2-fighting-series-180-kentucky",
+      "round": 3,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2022-12-03T00:00:00.000Z",
+      "opponent": "Ralph Hernandez III",
+      "opponentSlug": "190165-ralph-hernandez",
+      "result": "loss",
+      "method": "other",
+      "event": "Shamrock FC 342",
+      "eventSlug": "84479-shamrock-fc-342",
+      "round": 2,
+      "timeInRound": "2:40"
+    },
+    {
+      "date": "2022-09-10T00:00:00.000Z",
+      "opponent": "Austin Spangler",
+      "opponentSlug": "309221-austin-spangler",
+      "result": "loss",
+      "method": "other",
+      "event": "Synergy FC 1",
+      "eventSlug": "91439-synergy-fc-kansas-city-fight-night",
+      "round": 1,
+      "timeInRound": "0:58"
+    },
+    {
+      "date": "2022-04-30T00:00:00.000Z",
+      "opponent": "Herman Rich",
+      "opponentSlug": "310329-herman-rich",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Nemesis Fighting Alliance 10",
+      "eventSlug": "88022-nemesis-fighting-alliance-10",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-09-25T00:00:00.000Z",
+      "opponent": "Joey Reis",
+      "opponentSlug": "162553-joey-reis",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Shamrock FC 331",
+      "eventSlug": "80529-shamrock-fc-331",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-19T00:00:00.000Z",
+      "opponent": "Richard Moad",
+      "opponentSlug": "64426-richard-moad",
+      "result": "win",
+      "method": "sub",
+      "event": "Midwest Fight League",
+      "eventSlug": "80473-midwest-fight-league",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-03-13T00:00:00.000Z",
+      "opponent": "Stephen Magee",
+      "opponentSlug": "227510-stephen-magee",
+      "result": "win",
+      "method": "sub",
+      "event": "Cage of Honor 80",
+      "eventSlug": "77859-cage-of-honor-80",
+      "round": 3,
+      "timeInRound": "0:08"
+    },
+    {
+      "date": "2016-08-06T00:00:00.000Z",
+      "opponent": "Tavae Lewis",
+      "opponentSlug": "83103-tavae-lewis",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Horizon FC: Fighting For Autism",
+      "eventSlug": "40114-horizon-fc-fighting-for-autism",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-06-18T00:00:00.000Z",
+      "opponent": "Juan Molina",
+      "opponentSlug": "134834-juan-molina",
+      "result": "loss",
+      "method": "sub",
+      "event": "Fight Hard MMA",
+      "eventSlug": "39583-fight-hard-mma",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-12-18T00:00:00.000Z",
+      "opponent": "Justin Nicholson",
+      "opponentSlug": "122646-justin-nicholson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fight Hard MMA",
+      "eventSlug": "36936-fight-hard-mma",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:44:46.884Z"
+}

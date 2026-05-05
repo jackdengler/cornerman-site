@@ -1,0 +1,187 @@
+{
+  "slug": "3071-erinaldo-pitbull",
+  "name": "Erinaldo Rodrigues",
+  "nickname": "Pitbull",
+  "aliases": [],
+  "recordPro": {
+    "wins": 9,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 170,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/3071-erinaldo-pitbull",
+  "recentFights": [
+    {
+      "date": "2013-07-07T00:00:00.000Z",
+      "opponent": "Raoni Barcelos",
+      "opponentSlug": "30448-raoni-barcellos",
+      "result": "loss",
+      "method": "other",
+      "event": "Web FC 2",
+      "eventSlug": "19673-web-fc-2",
+      "round": 1,
+      "timeInRound": "3:25"
+    },
+    {
+      "date": "2013-05-24T00:00:00.000Z",
+      "opponent": "Claudio Marcelino",
+      "opponentSlug": "37360-cludio-marcelino-cear",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Circuito Team Nogueira de MMA 3",
+      "eventSlug": "19166-ctn-mma-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-12-16T00:00:00.000Z",
+      "opponent": "Leandro Higo",
+      "opponentSlug": "19870-leandro-higo",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-12-19T00:00:00.000Z",
+      "opponent": "Bendy Casimir",
+      "opponentSlug": "bendy-casimir",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-05-22T00:00:00.000Z",
+      "opponent": "Elton Chavez",
+      "opponentSlug": "2568-elton-chavez-dirty",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-09-25T00:00:00.000Z",
+      "opponent": "Rogério Silva",
+      "opponentSlug": "7782-rogerio-silva-de-souza-paraiba",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-05-31T00:00:00.000Z",
+      "opponent": "Johnny Eduardo",
+      "opponentSlug": "jhonny-eduardo",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-04-06T00:00:00.000Z",
+      "opponent": "Vinicius Lemos",
+      "opponentSlug": "6721-vinicius-lemos",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-07-07T00:00:00.000Z",
+      "opponent": "Renan Barão",
+      "opponentSlug": "renan-barao-barao",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-03-24T00:00:00.000Z",
+      "opponent": "Will Ribeiro",
+      "opponentSlug": "will-ribeiro",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2006-12-03T00:00:00.000Z",
+      "opponent": "Marlon Sandro",
+      "opponentSlug": "marlon-sandro",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2006-08-02T00:00:00.000Z",
+      "opponent": "Cristiano Bananada",
+      "opponentSlug": "8095-cristiano-bananada",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2005-05-12T00:00:00.000Z",
+      "opponent": "Eduardo Felipe",
+      "opponentSlug": "16139-eduardo-felipe-kiko",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2005-02-26T00:00:00.000Z",
+      "opponent": "Ricardo Rodrigues",
+      "opponentSlug": "48674-ricardo-rodrigues",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2004-09-11T00:00:00.000Z",
+      "opponent": "Eduardo Felipe",
+      "opponentSlug": "16139-eduardo-felipe-kiko",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:38:48.772Z"
+}

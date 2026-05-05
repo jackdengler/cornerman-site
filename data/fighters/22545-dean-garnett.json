@@ -1,0 +1,142 @@
+{
+  "slug": "22545-dean-garnett",
+  "name": "Dean Garnett",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 15,
+    "losses": 4,
+    "draws": 1
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": 163,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1988-07-25",
+  "nationality": "England",
+  "url": "https://www.tapology.com/fightcenter/fighters/22545-dean-garnett",
+  "recentFights": [
+    {
+      "date": "2026-04-16T00:00:00.000Z",
+      "opponent": "Ciaran Clarke",
+      "opponentSlug": "55691-ciaran-clarke",
+      "result": "win",
+      "method": "other",
+      "event": "PFL Belfast",
+      "round": 1,
+      "timeInRound": "1:52"
+    },
+    {
+      "date": "2025-12-13T00:00:00.000Z",
+      "opponent": "Baris Adiguzel",
+      "opponentSlug": "198193-baris-adiguzel",
+      "result": "loss",
+      "method": "other",
+      "event": "PFL Europe 4",
+      "round": 1,
+      "timeInRound": "0:44"
+    },
+    {
+      "date": "2025-09-26T00:00:00.000Z",
+      "opponent": "Jan Ciepłowski",
+      "opponentSlug": "225070-jan-cieplowski",
+      "result": "win",
+      "method": "sub",
+      "event": "PFL Europe 3",
+      "round": 3,
+      "timeInRound": "0:38"
+    },
+    {
+      "date": "2025-07-05T00:00:00.000Z",
+      "opponent": "Tuomas Grönvall",
+      "opponentSlug": "33141-tuomas-gronvall",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "PFL Europe 2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-09-28T00:00:00.000Z",
+      "opponent": "Lewis McGrillen",
+      "opponentSlug": "168234-lewis-mcgrillen-evans",
+      "result": "loss",
+      "method": "other",
+      "event": "PFL Europe 3",
+      "round": 3,
+      "timeInRound": "1:45"
+    },
+    {
+      "date": "2023-12-15T00:00:00.000Z",
+      "opponent": "Izzeddine Al Derbani",
+      "opponentSlug": "77388-eizzeldine-derbanee",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "BRAVE CF 80",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-04T00:00:00.000Z",
+      "opponent": "Lucas Corbage",
+      "opponentSlug": "87193-lucas-corbage",
+      "result": "win",
+      "method": "other",
+      "event": "Hexagone MMA 8",
+      "round": 3,
+      "timeInRound": "2:04"
+    },
+    {
+      "date": "2023-01-22T00:00:00.000Z",
+      "opponent": "Miguel Haro",
+      "opponentSlug": "35730-miguel-haro",
+      "result": "win",
+      "method": "tko",
+      "event": "Hexagone MMA 6",
+      "round": 1,
+      "timeInRound": "0:20"
+    },
+    {
+      "date": "2018-05-19T00:00:00.000Z",
+      "opponent": "Dominique Wooding",
+      "opponentSlug": "60976-dominic-wooding",
+      "result": "win",
+      "method": "dec-split",
+      "event": "ACB 87: Nottingham",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-09T00:00:00.000Z",
+      "opponent": "Anthony Leone",
+      "opponentSlug": "anthony-leone",
+      "result": "loss",
+      "method": "sub",
+      "event": "ACB 76: Young Eagles 23",
+      "round": 2,
+      "timeInRound": "4:20"
+    },
+    {
+      "date": "2017-08-19T00:00:00.000Z",
+      "opponent": "Magomed Magomedov",
+      "opponentSlug": "36037-magomed-magomedov",
+      "result": "loss",
+      "method": "sub",
+      "event": "ACB 67: Berkhamov vs Cooper",
+      "round": 1,
+      "timeInRound": "4:09"
+    },
+    {
+      "date": "2017-03-11T00:00:00.000Z",
+      "opponent": "Michael Tobin",
+      "opponentSlug": "46973-michael-tobin-the-great-white",
+      "result": "win",
+      "method": "other",
+      "event": "ACB 54: Supersonic",
+      "round": 2,
+      "timeInRound": "0:41"
+    }
+  ],
+  "lastVerified": "2026-04-16T23:59:11.143Z"
+}

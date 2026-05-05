@@ -1,0 +1,81 @@
+{
+  "slug": "47033-hassan-said",
+  "name": "Hassan Said",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/47033-hassan-said",
+  "recentFights": [
+    {
+      "date": "2014-10-25T00:00:00.000Z",
+      "opponent": "Jordan Baccin",
+      "opponentSlug": "26509-jordan-baccin",
+      "result": "loss",
+      "method": "other",
+      "event": "Fightquest 30",
+      "eventSlug": "25558-fightquest-30",
+      "round": 1,
+      "timeInRound": "1:50"
+    },
+    {
+      "date": "2014-02-08T00:00:00.000Z",
+      "opponent": "Skunz Loft",
+      "opponentSlug": "29479-skun-loft",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Fightquest 27",
+      "eventSlug": "21422-fightquest-27",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-08-31T00:00:00.000Z",
+      "opponent": "Charles Jourdain",
+      "opponentSlug": "36724-charles-jourdain",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "EFL 10: Heavy Collision",
+      "eventSlug": "19440-efl-11-heavy-collision",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-07-27T00:00:00.000Z",
+      "opponent": "Alexandre Turcotte",
+      "opponentSlug": "29175-alexandre-turcotte",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "HIT Action 2",
+      "eventSlug": "19399-hit-action-2-battle-of-the-lake",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-05-18T00:00:00.000Z",
+      "opponent": "Jean-Sebastien Jacques",
+      "opponentSlug": "46946-jean-sebastien-jacques",
+      "result": "win",
+      "method": "sub",
+      "event": "HIT Action 1",
+      "eventSlug": "18467-big-bang-the-beginning",
+      "round": 2,
+      "timeInRound": "1:49"
+    }
+  ],
+  "lastVerified": "2026-04-17T23:07:25.761Z"
+}

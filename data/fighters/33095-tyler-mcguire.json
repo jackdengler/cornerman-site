@@ -1,0 +1,209 @@
+{
+  "slug": "33095-tyler-mcguire",
+  "name": "Tyler McGuire",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 12,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1986-02-14",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/33095-tyler-mcguire",
+  "recentFights": [
+    {
+      "date": "2021-04-07T00:00:00.000Z",
+      "opponent": "Raimond Magomedaliev",
+      "opponentSlug": "98312-raimond-magomedaliev",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "ONE on TNT 1",
+      "eventSlug": "74688-one-championship",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-12-11T00:00:00.000Z",
+      "opponent": "Agilan Thanigasalam",
+      "opponentSlug": "68848-agilan-chandran-the-alligator",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE Championship",
+      "eventSlug": "73345-one-championship-golden-circle",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-17T00:00:00.000Z",
+      "opponent": "Zebaztian Kadestam",
+      "opponentSlug": "19640-zebaztian-kadestam",
+      "result": "loss",
+      "method": "other",
+      "event": "ONE Championship",
+      "eventSlug": "54598-one-championship-warrior-s-dream",
+      "round": 5,
+      "timeInRound": "4:32"
+    },
+    {
+      "date": "2018-07-13T00:00:00.000Z",
+      "opponent": "Luis Santos",
+      "opponentSlug": "luis-santos-sapo",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "ONE Championship",
+      "eventSlug": "53808-one-championship-pursuit-of-power",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-02-02T00:00:00.000Z",
+      "opponent": "Jerome Jones",
+      "opponentSlug": "18495-jerome-jones",
+      "result": "win",
+      "method": "sub",
+      "event": "Conquest of the Cage",
+      "eventSlug": "50195-conquest-of-the-cage",
+      "round": 1,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2017-11-04T00:00:00.000Z",
+      "opponent": "Chris Ensley",
+      "opponentSlug": "11312-chris-ensley",
+      "result": "win",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 1,
+      "timeInRound": "0:49"
+    },
+    {
+      "date": "2017-05-12T00:00:00.000Z",
+      "opponent": "Chris Cisneros",
+      "opponentSlug": "chris-cisneros-the-maverick",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Just Scrap",
+      "eventSlug": "45810-just-scrap",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-02-03T00:00:00.000Z",
+      "opponent": "Jose Mendoza",
+      "opponentSlug": "68185-jose-mendoza",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-11-11T00:00:00.000Z",
+      "opponent": "Jose Mendoza",
+      "opponentSlug": "68185-jose-mendoza",
+      "result": "win",
+      "method": "other",
+      "event": "Conquest of the Cage 23",
+      "eventSlug": "42800-conquest-of-the-cage-23",
+      "round": 1,
+      "timeInRound": "0:12"
+    },
+    {
+      "date": "2016-08-06T00:00:00.000Z",
+      "opponent": "Jeff Sweeney",
+      "opponentSlug": "53386-jeff-sweeny",
+      "result": "win",
+      "method": "sub",
+      "event": "ExciteFight",
+      "eventSlug": "41208-excitefight-summer-showdown-3",
+      "round": 1,
+      "timeInRound": "2:54"
+    },
+    {
+      "date": "2016-06-10T00:00:00.000Z",
+      "opponent": "Jessee Gengler",
+      "opponentSlug": "98650-jessee-gengler",
+      "result": "win",
+      "method": "sub",
+      "event": "Conquest of the Cage 22",
+      "eventSlug": "41020-conquest-of-the-cage-22",
+      "round": 1,
+      "timeInRound": "2:04"
+    },
+    {
+      "date": "2016-03-18T00:00:00.000Z",
+      "opponent": "Zach Conn",
+      "opponentSlug": "50854-zach-conn",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Conquest of the Cage 21",
+      "eventSlug": "39092-conquest-of-the-cage-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-19T00:00:00.000Z",
+      "opponent": "Anthony Elder",
+      "opponentSlug": "105812-anthony-elder",
+      "result": "win",
+      "method": "sub",
+      "event": "ExciteFight",
+      "eventSlug": "35028-excitefight-at-mill-bay-casino",
+      "round": 1,
+      "timeInRound": "1:30"
+    },
+    {
+      "date": "2015-04-03T00:00:00.000Z",
+      "opponent": "Chris Dempsey",
+      "opponentSlug": "23129-chris-dempsey-one-punch",
+      "result": "win",
+      "method": "other",
+      "event": "Conquest of the Cage 18",
+      "eventSlug": "30284-conquest-of-the-cage-presented-by-excitefight",
+      "round": 1,
+      "timeInRound": "2:13"
+    },
+    {
+      "date": "2012-08-18T00:00:00.000Z",
+      "opponent": "Kevin Hunt",
+      "opponentSlug": "33096-kevin-hunt",
+      "result": "win",
+      "method": "sub",
+      "event": "XFO 45: Outdoor War 8",
+      "eventSlug": "14697-xfo-45-outdoor-war-8",
+      "round": 2,
+      "timeInRound": "2:27"
+    },
+    {
+      "date": "2012-03-30T00:00:00.000Z",
+      "opponent": "Carl Wittstock",
+      "opponentSlug": "41175-carl-wittstock",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-08-27T00:00:00.000Z",
+      "opponent": "John Love",
+      "opponentSlug": "20604-john-love",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:04:08.063Z"
+}

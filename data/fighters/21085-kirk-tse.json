@@ -1,0 +1,154 @@
+{
+  "slug": "21085-kirk-tse",
+  "name": "Kirk Tse",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 0,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1984-11-15",
+  "nationality": "Calgary, Alberta, Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/21085-kirk-tse",
+  "recentFights": [
+    {
+      "date": "2019-09-21T00:00:00.000Z",
+      "opponent": "Bilal Mobarak",
+      "opponentSlug": "24826-bilal-mobarak",
+      "result": "win",
+      "method": "dec-split",
+      "event": "BFL 63",
+      "eventSlug": "61938-bfl-63",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-16T00:00:00.000Z",
+      "opponent": "Ali Wasuk",
+      "opponentSlug": "64455-ali-wasuk",
+      "result": "win",
+      "method": "dec-split",
+      "event": "BFL 60",
+      "eventSlug": "56993-bfl-60",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-10T00:00:00.000Z",
+      "opponent": "Miller Rogers",
+      "opponentSlug": "23795-miller-rogers",
+      "result": "win",
+      "method": "tko",
+      "event": "AMA 27",
+      "eventSlug": "48248-ama-27",
+      "round": 4,
+      "timeInRound": "2:44"
+    },
+    {
+      "date": "2015-03-28T00:00:00.000Z",
+      "opponent": "Cole Smith",
+      "opponentSlug": "30250-cole-smith",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "BFL 35",
+      "eventSlug": "29808-bfl-35",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-12-07T00:00:00.000Z",
+      "opponent": "Craig Maclean",
+      "opponentSlug": "18134-craig-mclean",
+      "result": "loss",
+      "method": "other",
+      "event": "BFL 26",
+      "eventSlug": "21217-bfl-26",
+      "round": 3,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2013-05-25T00:00:00.000Z",
+      "opponent": "Bradley Nicholson",
+      "opponentSlug": "32310-bradley-nicholson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "BFL 23",
+      "eventSlug": "17820-bfl-23",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-11-24T00:00:00.000Z",
+      "opponent": "Jamie Siraj",
+      "opponentSlug": "35361-jamie-siraj-the-gremlin",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "BFL 20",
+      "eventSlug": "15446-bfl-20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-09-15T00:00:00.000Z",
+      "opponent": "Matt Shannon",
+      "opponentSlug": "30364-matt-shannon",
+      "result": "win",
+      "method": "other",
+      "event": "BFL 18",
+      "eventSlug": "14479-battlefield-fight-league-18",
+      "round": 1,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2011-11-18T00:00:00.000Z",
+      "opponent": "Morgan Littlechild",
+      "opponentSlug": "23092-morgan-littlechild",
+      "result": "win",
+      "method": "sub",
+      "event": "BFL 12",
+      "eventSlug": "67291-bfl-12",
+      "round": 1,
+      "timeInRound": "2:10"
+    },
+    {
+      "date": "2011-07-16T00:00:00.000Z",
+      "opponent": "Sabi Sangha",
+      "opponentSlug": "254366-sabi-sangha",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "BFL 9: Quest",
+      "eventSlug": "37316-bfl-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-01-15T00:00:00.000Z",
+      "opponent": "Jordan Manning",
+      "opponentSlug": "35448-jordan-manning",
+      "result": "win",
+      "method": "sub",
+      "event": "BFL 5: Duel",
+      "eventSlug": "44680-bfl-5-duel",
+      "round": 1,
+      "timeInRound": "1:14"
+    },
+    {
+      "date": "2010-08-21T00:00:00.000Z",
+      "opponent": "Dean Northrup",
+      "opponentSlug": "254882-dean-northrup",
+      "result": "win",
+      "method": "sub",
+      "event": "BFL 2",
+      "eventSlug": "27232-bfl-2",
+      "round": 2,
+      "timeInRound": "1:12"
+    }
+  ],
+  "lastVerified": "2026-04-18T00:05:01.427Z"
+}

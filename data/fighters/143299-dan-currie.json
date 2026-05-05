@@ -1,0 +1,143 @@
+{
+  "slug": "143299-dan-currie",
+  "name": "Dan Currie",
+  "nickname": "The Tractor",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 178,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1983-09-23",
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/143299-dan-currie",
+  "recentFights": [
+    {
+      "date": "2021-11-21T00:00:00.000Z",
+      "opponent": "Sebastian Temesi",
+      "opponentSlug": "141896-sebastian-temesi",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Diamondback FC 12",
+      "eventSlug": "79288-diamondback-fc-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-02-29T00:00:00.000Z",
+      "opponent": "Reza Almasi",
+      "opponentSlug": "66933-reza-almasi",
+      "result": "win",
+      "method": "tko",
+      "event": "Diamondback FC 10",
+      "eventSlug": "64254-diamondback-fc-10-night-of-champions",
+      "round": 3,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2019-02-24T00:00:00.000Z",
+      "opponent": "Josh Togo",
+      "opponentSlug": "69261-josh-togo",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Diamondback FC 8",
+      "eventSlug": "56898-diamondback-fc-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-11-10T00:00:00.000Z",
+      "opponent": "Daniel Almeida",
+      "opponentSlug": "15450-daniel-almeida-jacare",
+      "result": "loss",
+      "method": "other",
+      "event": "Diamondback FC 7",
+      "eventSlug": "55136-diamondback-fc-7",
+      "round": 2,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-08-17T00:00:00.000Z",
+      "opponent": "Nick Edwards",
+      "opponentSlug": "143301-nick-edwards",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Diamondback FC 6",
+      "eventSlug": "55134-diamondback-fc-6",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-03-10T00:00:00.000Z",
+      "opponent": "Jay Mavromihalis",
+      "opponentSlug": "150845-jay-mavromihalis",
+      "result": "win",
+      "method": "other",
+      "event": "Diamondback FC 5",
+      "eventSlug": "51519-diamondback-fc-5",
+      "round": 1,
+      "timeInRound": "3:15"
+    },
+    {
+      "date": "2017-10-28T00:00:00.000Z",
+      "opponent": "Cam Rowston",
+      "opponentSlug": "69262-cam-rowston",
+      "result": "loss",
+      "method": "tko",
+      "event": "BRACE 51",
+      "eventSlug": "47542-brace-51",
+      "round": 1,
+      "timeInRound": "0:38"
+    },
+    {
+      "date": "2017-07-16T00:00:00.000Z",
+      "opponent": "Sebastian Temesi",
+      "opponentSlug": "141896-sebastian-temesi",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Diamondback FC 3",
+      "eventSlug": "46524-diamondback-fc-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-05-27T00:00:00.000Z",
+      "opponent": "Josh Della",
+      "opponentSlug": "134381-josh-della",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Eternal MMA 25",
+      "eventSlug": "45047-eternal-mma-25",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-03T00:00:00.000Z",
+      "opponent": "Josh Frank",
+      "opponentSlug": "143302-josh-frank",
+      "result": "win",
+      "method": "sub",
+      "event": "Diamondback FC 2",
+      "eventSlug": "43949-diamondback-fc-2",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-30T00:00:00.000Z",
+      "opponent": "John Giannakolopolous",
+      "opponentSlug": "143300-john-giannakolopolous",
+      "result": "win",
+      "method": "tko",
+      "event": "Diamondback FC 1",
+      "eventSlug": "41095-diamondback-fc-1",
+      "round": 1,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:17:35.860Z"
+}

@@ -1,0 +1,242 @@
+{
+  "slug": "4892-matt-brown",
+  "name": "Matt Brown",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 11,
+    "losses": 7,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": 173,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1982-01-05",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/4892-matt-brown",
+  "recentFights": [
+    {
+      "date": "2019-01-25T00:00:00.000Z",
+      "opponent": "Earnest Walls",
+      "opponentSlug": "132345-earnest-walls",
+      "result": "win",
+      "method": "other",
+      "event": "Pure FC 12: Friday Night Cage Fights",
+      "eventSlug": "56755-pure-fc-12",
+      "round": 2,
+      "timeInRound": "3:01"
+    },
+    {
+      "date": "2018-10-27T00:00:00.000Z",
+      "opponent": "Chico Camus",
+      "opponentSlug": "chico-camus-king",
+      "result": "loss",
+      "method": "sub",
+      "event": "Pure FC 11",
+      "eventSlug": "55395-pure-fc-11",
+      "round": 2,
+      "timeInRound": "3:06"
+    },
+    {
+      "date": "2016-03-04T00:00:00.000Z",
+      "opponent": "Chico Camus",
+      "opponentSlug": "chico-camus-king",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "RFA 36: Brown vs. Camus",
+      "eventSlug": "38011-rfa-36-barcelos-vs-vannata",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-09-18T00:00:00.000Z",
+      "opponent": "Darrick Minner",
+      "opponentSlug": "19491-darrick-minner",
+      "result": "loss",
+      "method": "sub",
+      "event": "RFA 30: Smith vs. Jardine",
+      "eventSlug": "34653-rfa-30",
+      "round": 1,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2015-03-06T00:00:00.000Z",
+      "opponent": "Andre Tieva",
+      "opponentSlug": "21990-andrew-tieva",
+      "result": "win",
+      "method": "other",
+      "event": "RFA 24: Smith vs. Romero",
+      "eventSlug": "29514-rfa-24-smith-vs-romero",
+      "round": 3,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2014-10-10T00:00:00.000Z",
+      "opponent": "John Castañeda",
+      "opponentSlug": "20125-john-castaneda",
+      "result": "win",
+      "method": "dec-split",
+      "event": "RFA 19: Collier vs. Checco",
+      "eventSlug": "26116-rfa-19-checco-vs-collier",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-08-15T00:00:00.000Z",
+      "opponent": "Dominick Sindone",
+      "opponentSlug": "34910-dominick-sindone",
+      "result": "win",
+      "method": "sub",
+      "event": "WXC 52: Evolution",
+      "eventSlug": "25615-wxc-52-evolution",
+      "round": 3,
+      "timeInRound": "2:32"
+    },
+    {
+      "date": "2014-05-31T00:00:00.000Z",
+      "opponent": "John Castañeda",
+      "opponentSlug": "20125-john-castaneda",
+      "result": "win",
+      "method": "tko",
+      "event": "Mecca 5",
+      "eventSlug": "24776-mecca-5",
+      "round": 1,
+      "timeInRound": "2:22"
+    },
+    {
+      "date": "2013-04-20T00:00:00.000Z",
+      "opponent": "Josh Robinson",
+      "opponentSlug": "15988-josh-robinson",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-02-16T00:00:00.000Z",
+      "opponent": "Marvin Blumer",
+      "opponentSlug": "14958-marvin-blumer",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-05-05T00:00:00.000Z",
+      "opponent": "John Hosman",
+      "opponentSlug": "john-hosman",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-11-24T00:00:00.000Z",
+      "opponent": "Floyd Hodges",
+      "opponentSlug": "18196-floyd-hodges-the-hitman",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-04-17T00:00:00.000Z",
+      "opponent": "Sam Thao",
+      "opponentSlug": "sam-thao",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Combat USA 29",
+      "eventSlug": "3832-combat-usa-29-2010-championship-round-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-12-12T00:00:00.000Z",
+      "opponent": "Chris Befera",
+      "opponentSlug": "10689-chris-befera",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-10-31T00:00:00.000Z",
+      "opponent": "Andy Selvig",
+      "opponentSlug": "13082-andy-selvig",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-07-10T00:00:00.000Z",
+      "opponent": "David Rhoads",
+      "opponentSlug": "15789-david-rhoads",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-04-25T00:00:00.000Z",
+      "opponent": "Anthony Jones",
+      "opponentSlug": "15076-anthony-jones-animal",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-11-08T00:00:00.000Z",
+      "opponent": "Chris Hart",
+      "opponentSlug": "18347-chris-hart",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-04-12T00:00:00.000Z",
+      "opponent": "Ryan Mendez",
+      "opponentSlug": "18349-ryan-mendez",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-12-22T00:00:00.000Z",
+      "opponent": "Robert Mondloch",
+      "opponentSlug": "80425-robert-mondloch",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:03:14.948Z"
+}

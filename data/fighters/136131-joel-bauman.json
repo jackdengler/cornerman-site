@@ -1,0 +1,220 @@
+{
+  "slug": "136131-joel-bauman",
+  "name": "Joel Bauman",
+  "nickname": "King Bau",
+  "aliases": [],
+  "recordPro": {
+    "wins": 7,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 188,
+  "reachCm": 199,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1991-06-13",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/136131-joel-bauman",
+  "recentFights": [
+    {
+      "date": "2025-06-28T00:00:00.000Z",
+      "opponent": "Bailey King",
+      "opponentSlug": "274180-bailey-porter",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Peak Fighting 45",
+      "eventSlug": "123864-peak-fighting-45",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-06-10T00:00:00.000Z",
+      "opponent": "John Poppie",
+      "opponentSlug": "26921-john-poppie",
+      "result": "win",
+      "method": "other",
+      "event": "CFX: Return of the King",
+      "eventSlug": "100963-bud-brawl-3",
+      "round": 1,
+      "timeInRound": "4:24"
+    },
+    {
+      "date": "2023-01-21T00:00:00.000Z",
+      "opponent": "Collin Huckbody",
+      "opponentSlug": "90880-collin-huckbody",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Captain's Fight Club 2",
+      "eventSlug": "96210-captain-s-fight-club-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-21T00:00:00.000Z",
+      "opponent": "Anthony Ivy",
+      "opponentSlug": "52881-anthony-ivy",
+      "result": "win",
+      "method": "tko",
+      "event": "Fury FC 68: Bauman vs. Ivy",
+      "eventSlug": "89285-fury-fc-68",
+      "round": 2,
+      "timeInRound": "4:57"
+    },
+    {
+      "date": "2022-05-08T00:00:00.000Z",
+      "opponent": "Reese Forest",
+      "opponentSlug": "137812-thomas-forest",
+      "result": "win",
+      "method": "tko",
+      "event": "Fury FC 61",
+      "eventSlug": "88196-fury-fc-61",
+      "round": 2,
+      "timeInRound": "2:18"
+    },
+    {
+      "date": "2022-02-06T00:00:00.000Z",
+      "opponent": "Josh Fremd",
+      "opponentSlug": "65199-joshua-fremd",
+      "result": "loss",
+      "method": "sub",
+      "event": "FAC 12: Lookin' For a Fight",
+      "eventSlug": "85292-fac-12",
+      "round": 2,
+      "timeInRound": "1:00"
+    },
+    {
+      "date": "2021-11-21T00:00:00.000Z",
+      "opponent": "Edmilson Freitas",
+      "opponentSlug": "132995-edmilson-freitas-junior",
+      "result": "nc",
+      "method": "other",
+      "event": "Fury FC 54",
+      "eventSlug": "83611-fury-fc-54",
+      "round": 1,
+      "timeInRound": "1:19"
+    },
+    {
+      "date": "2021-04-16T00:00:00.000Z",
+      "opponent": "Julien Leblanc",
+      "opponentSlug": "24714-julien-leblanc",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 104: McKenzie vs. Phillips",
+      "eventSlug": "78507-lfa-104-mckenzie-vs-phillips",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-12T00:00:00.000Z",
+      "opponent": "Jordan Young",
+      "opponentSlug": "40938-jordan-young",
+      "result": "loss",
+      "method": "sub",
+      "event": "Bellator 224",
+      "eventSlug": "59237-bellator-budd-vs-rubin",
+      "round": 1,
+      "timeInRound": "3:20"
+    },
+    {
+      "date": "2019-05-31T00:00:00.000Z",
+      "opponent": "Bobby Downs",
+      "opponentSlug": "53164-bobby-downs",
+      "result": "win",
+      "method": "other",
+      "event": "LFA 68: Jennerman vs. Barbosa",
+      "eventSlug": "59775-lfa-68-stots-vs-erak",
+      "round": 1,
+      "timeInRound": "2:48"
+    },
+    {
+      "date": "2019-02-22T00:00:00.000Z",
+      "opponent": "Brock Smith",
+      "opponentSlug": "92561-brock-smith",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 61: Allen vs. Murrietta",
+      "eventSlug": "58382-lfa-61-allen-vs-murrietta",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-12-07T00:00:00.000Z",
+      "opponent": "Corey Davis",
+      "opponentSlug": "47720-corey-davis",
+      "result": "win",
+      "method": "dec-majority",
+      "event": "LFA 56: Hubbard vs. Mota",
+      "eventSlug": "56318-lfa-56-hubbard-vs-mota",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-02-10T00:00:00.000Z",
+      "opponent": "Manatua Lemaire",
+      "opponentSlug": "141197-manatua-lemaire",
+      "result": "win",
+      "method": "other",
+      "event": "No Mercy 7",
+      "eventSlug": "49107-no-mercy-7",
+      "round": 1,
+      "timeInRound": "0:26"
+    },
+    {
+      "date": "2017-10-07T00:00:00.000Z",
+      "opponent": "Phillip Ahrens",
+      "opponentSlug": "141200-philip-ahrens",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Caged Aggression 20",
+      "eventSlug": "47137-caged-aggression-20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-03-31T00:00:00.000Z",
+      "opponent": "Kenan Jackson",
+      "opponentSlug": "132334-keenan-jackson",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ascendancy FC 13",
+      "eventSlug": "43668-ascendancy-fc-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-01-20T00:00:00.000Z",
+      "opponent": "Adam Valcourt",
+      "opponentSlug": "42900-adam-valcort",
+      "result": "win",
+      "method": "tko",
+      "event": "LFA 2: Richman vs. Stojadinovic",
+      "eventSlug": "43377-lfa-2-richman-vs-stojadinovic",
+      "round": 1,
+      "timeInRound": "2:10"
+    },
+    {
+      "date": "2016-12-09T00:00:00.000Z",
+      "opponent": "Elijah Scott",
+      "opponentSlug": "121024-elijah-scott",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "KC Fighting Alliance 21",
+      "eventSlug": "42467-kc-fighting-alliance-21-seasons-beatings",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-10-28T00:00:00.000Z",
+      "opponent": "Mike Waltz",
+      "opponentSlug": "60250-mike-waltz",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "RFA 45: Meerschaert vs. Waldon",
+      "eventSlug": "41534-rfa-45-meerschaert-vs-waldon",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:58:03.477Z"
+}

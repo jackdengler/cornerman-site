@@ -1,0 +1,165 @@
+{
+  "slug": "159853-rizlen-zouak",
+  "name": "Rizlen Zouak",
+  "nickname": "The Lioness of the Atlas",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": 163,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1986-05-14",
+  "nationality": "Beaune, France",
+  "url": "https://www.tapology.com/fightcenter/fighters/159853-rizlen-zouak",
+  "recentFights": [
+    {
+      "date": "2023-12-15T00:00:00.000Z",
+      "opponent": "Gisele Moreira",
+      "opponentSlug": "61730-gisele-moreira",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ares FC 18: Augen vs. Shiguemoto",
+      "eventSlug": "105174-ares-fc-17-18-augen-vs-shiguemoto",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-11-03T00:00:00.000Z",
+      "opponent": "Iony Razafiarison",
+      "opponentSlug": "103695-iony-razafiarison",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ares FC 9: Lapilus vs. Ayoub 2",
+      "eventSlug": "88260-ares-fc-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-25T00:00:00.000Z",
+      "opponent": "Melissa Mullins",
+      "opponentSlug": "188856-melissa-mullins",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Ares FC 7: Abdoul vs. Amoussou",
+      "eventSlug": "87594-ares-fc-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-03-10T00:00:00.000Z",
+      "opponent": "Flordinice Muniz",
+      "opponentSlug": "286555-flordinice-muniz",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ares FC 4: Kruschewsky vs. Lapilus",
+      "eventSlug": "87017-ares-fc-4-lapilus-kruschewsky",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-12-11T00:00:00.000Z",
+      "opponent": "Gisele Moreira",
+      "opponentSlug": "61730-gisele-moreira",
+      "result": "loss",
+      "method": "other",
+      "event": "Ares FC 2",
+      "eventSlug": "83522-ares-fc-2",
+      "round": 2,
+      "timeInRound": "2:57"
+    },
+    {
+      "date": "2021-10-14T00:00:00.000Z",
+      "opponent": "Jenny Gotti",
+      "opponentSlug": "127977-jenny-gotti",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Mixed Martial Arts Grand Prix 4",
+      "eventSlug": "83045-mixed-martial-arts-grand-prix-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-06-19T00:00:00.000Z",
+      "opponent": "Marta Waliczek",
+      "opponentSlug": "168593-marta-waliczek",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "OKTAGON 25",
+      "eventSlug": "79498-oktagon-25",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-04-10T00:00:00.000Z",
+      "opponent": "Senna van der Veerdonk",
+      "opponentSlug": "245069-senna-van-der-veerdonk",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "FFA Challenge 1",
+      "eventSlug": "77501-ffa-challenge-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-01-30T00:00:00.000Z",
+      "opponent": "Lucia Szabová",
+      "opponentSlug": "187305-lucia-szabova-queen-bee",
+      "result": "loss",
+      "method": "sub",
+      "event": "OKTAGON 21",
+      "eventSlug": "75449-oktagon-21",
+      "round": 2,
+      "timeInRound": "1:25"
+    },
+    {
+      "date": "2018-05-26T00:00:00.000Z",
+      "opponent": "Amanda Lino",
+      "opponentSlug": "74336-amanda-lino",
+      "result": "loss",
+      "method": "other",
+      "event": "EFC Worldwide 70",
+      "eventSlug": "52513-efc-worldwide-70",
+      "round": 3,
+      "timeInRound": "3:11"
+    },
+    {
+      "date": "2017-12-16T00:00:00.000Z",
+      "opponent": "Jaqauline Trosee",
+      "opponentSlug": "106096-jaqauline-trosee-demolition-jacky",
+      "result": "win",
+      "method": "tko",
+      "event": "EFC Worldwide 66",
+      "eventSlug": "47262-the-fighter-1-finals",
+      "round": 1,
+      "timeInRound": "0:27"
+    },
+    {
+      "date": "2017-08-19T00:00:00.000Z",
+      "opponent": "Bunmi Ojewole",
+      "opponentSlug": "92031-bumi",
+      "result": "win",
+      "method": "other",
+      "event": "EFC Worldwide 62",
+      "eventSlug": "43883-efc-worldwide-62",
+      "round": 2,
+      "timeInRound": "1:08"
+    },
+    {
+      "date": "2017-06-24T00:00:00.000Z",
+      "opponent": "Leah McCourt",
+      "opponentSlug": "72446-leah-mccourt",
+      "result": "win",
+      "method": "other",
+      "event": "Cage Warriors 85",
+      "eventSlug": "45256-cage-warriors-85",
+      "round": 2,
+      "timeInRound": "3:46"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:02:34.775Z"
+}

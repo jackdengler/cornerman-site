@@ -1,0 +1,55 @@
+{
+  "slug": "367076-shaquita-amador-woods-queen-onyx-pire",
+  "name": "Shaquita Amador Woods",
+  "nickname": "Queen Onyx Pire",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": 180,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": "1989-03-18",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/367076-shaquita-amador-woods-queen-onyx-pire",
+  "recentFights": [
+    {
+      "date": "2023-02-03T00:00:00.000Z",
+      "opponent": "Michelle Montague",
+      "opponentSlug": "237486-michell-montague",
+      "result": "loss",
+      "method": "sub",
+      "event": "PFL Challenger Series 2023",
+      "eventSlug": "95440-pfl-challenger-series-10",
+      "round": 2,
+      "timeInRound": "4:45"
+    },
+    {
+      "date": "2022-06-25T00:00:00.000Z",
+      "opponent": "Amanda Asprion",
+      "opponentSlug": "118554-amanda-asprion-amandaconda",
+      "result": "win",
+      "method": "sub",
+      "event": "Valkyrie FC 1",
+      "eventSlug": "90520-valkyrie-fighting",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-12T00:00:00.000Z",
+      "opponent": "Brittney Spinks",
+      "opponentSlug": "186928-brittney-hoover-the-black-irish",
+      "result": "win",
+      "method": "tko",
+      "event": "I.E. Fight Night 3",
+      "eventSlug": "53078-i-e-fight-night-3-showdown",
+      "round": 1,
+      "timeInRound": "0:07"
+    }
+  ],
+  "lastVerified": "2026-04-18T05:54:45.561Z"
+}

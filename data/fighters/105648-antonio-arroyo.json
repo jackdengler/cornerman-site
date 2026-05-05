@@ -1,0 +1,220 @@
+{
+  "slug": "105648-antonio-arroyo",
+  "name": "Antônio Arroyo",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 12,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 191,
+  "reachCm": 187,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1989-07-01",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/105648-antonio-arroyo",
+  "recentFights": [
+    {
+      "date": "2025-06-22T00:00:00.000Z",
+      "opponent": "Silmar Nunes",
+      "opponentSlug": "4380-silmar-sombra",
+      "result": "win",
+      "method": "other",
+      "event": "The King Fight 1",
+      "eventSlug": "129261-the-king-fight-1",
+      "round": 1,
+      "timeInRound": "4:40"
+    },
+    {
+      "date": "2025-04-26T00:00:00.000Z",
+      "opponent": "Amadeu Aguiar",
+      "opponentSlug": "167573-amadeu-aguiar-tratorzinho",
+      "result": "win",
+      "method": "other",
+      "event": "BRTL 4",
+      "eventSlug": "125662-brtl-4",
+      "round": 1,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2022-08-26T00:00:00.000Z",
+      "opponent": "Mikhail Rogozin",
+      "opponentSlug": "89816-mikhail-rogozin",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "RCC 12",
+      "eventSlug": "91735-rcc-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-08-06T00:00:00.000Z",
+      "opponent": "Johnson Bacelar",
+      "opponentSlug": "207536-johnson-bacelar-marreta",
+      "result": "win",
+      "method": "sub",
+      "event": "Dispute Fight Series 1",
+      "eventSlug": "92265-dispute-fight-series-1",
+      "round": 1,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2021-09-18T00:00:00.000Z",
+      "opponent": "Joaquin Buckley",
+      "opponentSlug": "55022-joaquin-buckley",
+      "result": "loss",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "79258-ufc-fight-night",
+      "round": 3,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2020-12-19T00:00:00.000Z",
+      "opponent": "Deron Winn",
+      "opponentSlug": "152086-deron-winn",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "72974-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-11-16T00:00:00.000Z",
+      "opponent": "André Muniz",
+      "opponentSlug": "38116-andr-muniz-sergipano",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC on ESPN+ 22",
+      "eventSlug": "60323-ufc-on-espn-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-07-16T00:00:00.000Z",
+      "opponent": "Stephen Regman",
+      "opponentSlug": "28584-stephen-regman",
+      "result": "win",
+      "method": "sub",
+      "event": "Contender Series 2019",
+      "eventSlug": "59497-dw-s-contender-series-2019-week-5",
+      "round": 2,
+      "timeInRound": "3:31"
+    },
+    {
+      "date": "2018-08-10T00:00:00.000Z",
+      "opponent": "Diego Henrique",
+      "opponentSlug": "53015-diego-henrique-da-silva-gaucho",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "DW's Contender Series 2018",
+      "eventSlug": "54661-dw-s-contender-series-2018-brazil-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-07-12T00:00:00.000Z",
+      "opponent": "Adriano Miranda",
+      "opponentSlug": "100533-adriano-leo",
+      "result": "win",
+      "method": "sub",
+      "event": "Salvaterra Marajó Fight 8",
+      "eventSlug": "54050-salvaterra-marajo-fight-8",
+      "round": 1,
+      "timeInRound": "3:30"
+    },
+    {
+      "date": "2018-03-10T00:00:00.000Z",
+      "opponent": "Antônio Soares",
+      "opponentSlug": "181986-antonio-soares-bufalo",
+      "result": "win",
+      "method": "other",
+      "event": "Pará Fight 1",
+      "eventSlug": "51557-par-fight-1",
+      "round": 1,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2017-09-30T00:00:00.000Z",
+      "opponent": "Trevor Carlson",
+      "opponentSlug": "19599-trevor-carlson",
+      "result": "win",
+      "method": "tko",
+      "event": "Fierce FC 6",
+      "eventSlug": "47682-fierce-fc-6-thrilla-in-tooele",
+      "round": 1,
+      "timeInRound": "0:19"
+    },
+    {
+      "date": "2017-06-02T00:00:00.000Z",
+      "opponent": "Herdem Alacabek",
+      "opponentSlug": "85577-herdem-alacabek",
+      "result": "loss",
+      "method": "sub",
+      "event": "LFA 13: Millender vs. Holland",
+      "eventSlug": "45699-lfa-13-millender-vs-holland",
+      "round": 1,
+      "timeInRound": "3:51"
+    },
+    {
+      "date": "2016-11-10T00:00:00.000Z",
+      "opponent": "Felipe Oliveira",
+      "opponentSlug": "143895-felipe-oliveira-cyborg",
+      "result": "win",
+      "method": "sub",
+      "event": "Marajó Open Fight 2",
+      "eventSlug": "42675-maraj-open-fight-2",
+      "round": 1,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2015-11-13T00:00:00.000Z",
+      "opponent": "Brendson Ribeiro",
+      "opponentSlug": "119779-brendson-ribeiro-zyzz",
+      "result": "loss",
+      "method": "sub",
+      "event": "Revelation FC 2",
+      "eventSlug": "36371-revelation-fc-2",
+      "round": 1,
+      "timeInRound": "3:59"
+    },
+    {
+      "date": "2015-09-26T00:00:00.000Z",
+      "opponent": "Ailton da Silva",
+      "opponentSlug": "66553-antonio-ailton-borges-da-silva-godzilla",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-09-25T00:00:00.000Z",
+      "opponent": "Pedro Henrique",
+      "opponentSlug": "105645-pedro-henrique-sagat",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-07-17T00:00:00.000Z",
+      "opponent": "Gabriel Batalha",
+      "opponentSlug": "144602-gabriel-batalha",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T22:59:54.020Z"
+}

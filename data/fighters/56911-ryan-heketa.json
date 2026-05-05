@@ -1,0 +1,132 @@
+{
+  "slug": "56911-ryan-heketa",
+  "name": "Ryan Heketa",
+  "nickname": "Hectic",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/56911-ryan-heketa",
+  "recentFights": [
+    {
+      "date": "2018-10-26T00:00:00.000Z",
+      "opponent": "Jacob Malkoun",
+      "opponentSlug": "111323-jacob-malkoun",
+      "result": "loss",
+      "method": "other",
+      "event": "Hex Fight Series 17",
+      "eventSlug": "55464-hex-fight-series-17",
+      "round": 1,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2018-05-18T00:00:00.000Z",
+      "opponent": "Cole Davids",
+      "opponentSlug": "17939-cole-davids",
+      "result": "loss",
+      "method": "sub",
+      "event": "Beatdown 2",
+      "eventSlug": "54815-beatdown-ii-fight-night",
+      "round": 1,
+      "timeInRound": "1:51"
+    },
+    {
+      "date": "2017-04-29T00:00:00.000Z",
+      "opponent": "Brogan Anderson",
+      "opponentSlug": "64631-brogan-anderson",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Hammerhead Fight Night 19",
+      "eventSlug": "45550-hammerhead-fight-night-19-onslaught",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-03-21T00:00:00.000Z",
+      "opponent": "Anton Zafir",
+      "opponentSlug": "32791-anton-zafir",
+      "result": "loss",
+      "method": "other",
+      "event": "Nitro MMA 13",
+      "eventSlug": "28939-nitro-mma-13",
+      "round": 1,
+      "timeInRound": "4:12"
+    },
+    {
+      "date": "2014-10-11T00:00:00.000Z",
+      "opponent": "Joep Beerepoot",
+      "opponentSlug": "80463-joe-beerepoot",
+      "result": "win",
+      "method": "sub",
+      "event": "Nitro MMA 12",
+      "eventSlug": "25458-nitro-mma-12",
+      "round": 1,
+      "timeInRound": "3:53"
+    },
+    {
+      "date": "2014-07-26T00:00:00.000Z",
+      "opponent": "Simon Clough",
+      "opponentSlug": "41676-simon-clough",
+      "result": "win",
+      "method": "sub",
+      "event": "Roshambo MMA 3",
+      "eventSlug": "23956-roshambo-mma-3",
+      "round": 1,
+      "timeInRound": "3:27"
+    },
+    {
+      "date": "2014-03-08T00:00:00.000Z",
+      "opponent": "Ali Kocak Mohammed",
+      "opponentSlug": "41686-ali-kocak-mohammed",
+      "result": "win",
+      "method": "other",
+      "event": "Nitro MMA 11",
+      "eventSlug": "21281-nitro-mma-11",
+      "round": 1,
+      "timeInRound": "3:24"
+    },
+    {
+      "date": "2013-10-26T00:00:00.000Z",
+      "opponent": "James Cristopoulos",
+      "opponentSlug": "46975-james-cristopoulos",
+      "result": "win",
+      "method": "other",
+      "event": "Nitro MMA 10",
+      "eventSlug": "20634-nitro-mma-10",
+      "round": 1,
+      "timeInRound": "1:24"
+    },
+    {
+      "date": "2008-05-24T00:00:00.000Z",
+      "opponent": "Marcelo Lopez",
+      "opponentSlug": "13536-marcelo-lopez",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2007-10-27T00:00:00.000Z",
+      "opponent": "John Parai",
+      "opponentSlug": "56915-john-parai",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:14:37.563Z"
+}

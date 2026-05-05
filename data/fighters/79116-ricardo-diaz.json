@@ -1,0 +1,187 @@
+{
+  "slug": "79116-ricardo-diaz",
+  "name": "Ricardo Diaz",
+  "nickname": "Cacho",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 6,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": "1990-04-06",
+  "nationality": "Monterrey, Nuevo Leon, Mexico",
+  "url": "https://www.tapology.com/fightcenter/fighters/79116-ricardo-diaz",
+  "recentFights": [
+    {
+      "date": "2019-09-28T00:00:00.000Z",
+      "opponent": "Masio Fullen",
+      "opponentSlug": "41835-massio-fullen",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-03-15T00:00:00.000Z",
+      "opponent": "Junior Melo",
+      "opponentSlug": "121289-jose-cleiton-de-melo-junior-melo",
+      "result": "loss",
+      "method": "tko",
+      "event": "Lux Fight League 4",
+      "eventSlug": "59121-lux-fight-league-4",
+      "round": 1,
+      "timeInRound": "4:45"
+    },
+    {
+      "date": "2018-09-14T00:00:00.000Z",
+      "opponent": "Tony Miramontes",
+      "opponentSlug": "89382-tony-miramontes-bestia",
+      "result": "win",
+      "method": "sub",
+      "event": "Fierce Fight Night",
+      "eventSlug": "55365-fierce-fight-night",
+      "round": 1,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-05-04T00:00:00.000Z",
+      "opponent": "Jair Ortiz",
+      "opponentSlug": "189684-jair-ortiz",
+      "result": "win",
+      "method": "sub",
+      "event": "Combate Extremo",
+      "eventSlug": "53199-combate-extremo-diaz-vs-bento",
+      "round": 1,
+      "timeInRound": "2:01"
+    },
+    {
+      "date": "2018-02-17T00:00:00.000Z",
+      "opponent": "Jose Luis Verdugo",
+      "opponentSlug": "81868-jose-verdugo",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Lux Fight League 2",
+      "eventSlug": "51205-lux-fight-league-002",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-12-08T00:00:00.000Z",
+      "opponent": "Pablo Arteaga",
+      "opponentSlug": "173094-pablo-arteaga-el-hechicero",
+      "result": null,
+      "method": "other",
+      "event": "CNC 4",
+      "eventSlug": "49548-champions-nights-challengers-4",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-02T00:00:00.000Z",
+      "opponent": "Pedro Romero",
+      "opponentSlug": "173099-pedro-romero-king-kong",
+      "result": "nc",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-09-03T00:00:00.000Z",
+      "opponent": "Carlos Calvo Calvo",
+      "opponentSlug": "95166-carlos-calvo-calvo-changuito",
+      "result": "loss",
+      "method": "tko",
+      "event": "Calvo Promotions 11",
+      "eventSlug": "40968-calvo-promotions-11",
+      "round": 2,
+      "timeInRound": "3:35"
+    },
+    {
+      "date": "2016-07-23T00:00:00.000Z",
+      "opponent": "Sergio Cossio",
+      "opponentSlug": "89392-daniel-cossio",
+      "result": "loss",
+      "method": "sub",
+      "event": "FMP 36",
+      "eventSlug": "46584-fmp-36",
+      "round": 1,
+      "timeInRound": "3:59"
+    },
+    {
+      "date": "2015-10-02T00:00:00.000Z",
+      "opponent": "Jose Alberto Martinez",
+      "opponentSlug": "113284-hoodleer-martinez",
+      "result": "win",
+      "method": "sub",
+      "event": "TSC 6: New Era",
+      "eventSlug": "35037-tsc-6",
+      "round": 1,
+      "timeInRound": "2:08"
+    },
+    {
+      "date": "2015-06-12T00:00:00.000Z",
+      "opponent": "Ricky Palacios",
+      "opponentSlug": "27016-ricardo-palacios",
+      "result": "loss",
+      "method": "tko",
+      "event": "STFC 35: The World VS Texas",
+      "eventSlug": "32988-stfc-35",
+      "round": 2,
+      "timeInRound": "3:14"
+    },
+    {
+      "date": "2015-03-13T00:00:00.000Z",
+      "opponent": "Diego Baltazar",
+      "opponentSlug": "86502-diego-baltazar-gato",
+      "result": "win",
+      "method": "tko",
+      "event": "Combate Extremo",
+      "eventSlug": "29834-combate-extremo-chacho-vs-gato",
+      "round": 2,
+      "timeInRound": "4:50"
+    },
+    {
+      "date": "2014-12-12T00:00:00.000Z",
+      "opponent": "Diego Baltazar",
+      "opponentSlug": "86502-diego-baltazar-gato",
+      "result": null,
+      "method": "other",
+      "event": "Combate Extremo",
+      "eventSlug": "28287-combate-extremo-loco-vs-azteca-3",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-09-06T00:00:00.000Z",
+      "opponent": "Efrain Montemayor",
+      "opponentSlug": "64544-efrain-montemayor",
+      "result": "win",
+      "method": "tko",
+      "event": "TSC 5",
+      "eventSlug": "26470-tsc-5",
+      "round": 2,
+      "timeInRound": "0:40"
+    },
+    {
+      "date": "2011-07-02T00:00:00.000Z",
+      "opponent": "Raul Flores",
+      "opponentSlug": "79114-raul-flores",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T07:38:16.651Z"
+}

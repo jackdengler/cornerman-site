@@ -1,0 +1,198 @@
+{
+  "slug": "223129-luana-santos",
+  "name": "Luana Santos",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 10,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 168,
+  "reachCm": 170,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "2000-04-16",
+  "nationality": "Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/223129-luana-santos",
+  "recentFights": [
+    {
+      "date": "2026-06-20T00:00:00.000Z",
+      "opponent": "Karol Rosa",
+      "opponentSlug": "79637-karolline-rosa-karol",
+      "result": null,
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "141144-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-12-13T00:00:00.000Z",
+      "opponent": "Melissa Croden",
+      "opponentSlug": "140510-melissa-croden",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "132921-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-05-17T00:00:00.000Z",
+      "opponent": "Tainara Lisboa",
+      "opponentSlug": "139270-tainara-lisboa",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "124622-ufc-fight-night",
+      "round": 2,
+      "timeInRound": "4:59"
+    },
+    {
+      "date": "2024-08-17T00:00:00.000Z",
+      "opponent": "Casey O'Neill",
+      "opponentSlug": "74768-casey-oneill",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 305: Du Plessis vs. Adesanya",
+      "eventSlug": "111885-ufc-305",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-07-13T00:00:00.000Z",
+      "opponent": "Mariya Agapova",
+      "opponentSlug": "156192-mariya-agapova",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC Fight Night",
+      "eventSlug": "111798-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "3:27"
+    },
+    {
+      "date": "2023-12-09T00:00:00.000Z",
+      "opponent": "Stephanie Egger",
+      "opponentSlug": "114098-stephanie-egger",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "UFC Fight Night",
+      "eventSlug": "105194-ufc-fight-night",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-12T00:00:00.000Z",
+      "opponent": "Juliana Miller",
+      "opponentSlug": "114339-juliana-miller",
+      "result": "win",
+      "method": "other",
+      "event": "UFC Fight Night",
+      "eventSlug": "101163-ufc-fight-night",
+      "round": 1,
+      "timeInRound": "3:41"
+    },
+    {
+      "date": "2023-03-10T00:00:00.000Z",
+      "opponent": "Bartira Rodrigues",
+      "opponentSlug": "286849-bartira-rodrigues",
+      "result": "win",
+      "method": "sub",
+      "event": "LFA 154: Fernando vs. Silva",
+      "eventSlug": "97603-lfa-154-fernando-vs-silva",
+      "round": 1,
+      "timeInRound": "3:05"
+    },
+    {
+      "date": "2022-11-04T00:00:00.000Z",
+      "opponent": "Waleska Sousa",
+      "opponentSlug": "210042-waleska-karolaine",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 146: Barbosa vs. Santos",
+      "eventSlug": "94392-lfa-146-barbosa-vs-santos",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-07-08T00:00:00.000Z",
+      "opponent": "Jena Bishop",
+      "opponentSlug": "211607-jena-bishop",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "LFA 135: Leyva vs. Reis",
+      "eventSlug": "90204-lfa-135-leyva-vs-reis",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-04-30T00:00:00.000Z",
+      "opponent": "Beatriz Ferreira",
+      "opponentSlug": "189660-beatriz-ferreira-bia",
+      "result": "win",
+      "method": "other",
+      "event": "SFT 34: Rise of Champions",
+      "eventSlug": "87113-sft-34",
+      "round": 3,
+      "timeInRound": "0:26"
+    },
+    {
+      "date": "2021-12-18T00:00:00.000Z",
+      "opponent": "Djulia Ariana",
+      "opponentSlug": "286648-djulia-ariana",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "SFT 32: Nogueira vs. Marajó",
+      "eventSlug": "84928-sft-32-nogueira-vs-marajo",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-07-15T00:00:00.000Z",
+      "opponent": "Marjorie Barragan",
+      "opponentSlug": "260274-marjorie-barragan-brutal",
+      "result": "win",
+      "method": "other",
+      "event": "SFT 27: Bispo vs. Sousa",
+      "eventSlug": "79491-sft-27",
+      "round": 1,
+      "timeInRound": "3:19"
+    },
+    {
+      "date": "2020-02-29T00:00:00.000Z",
+      "opponent": "Angela Rosa",
+      "opponentSlug": "256001-angela-rosa",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "SFT 21: Faria vs. Carrasco",
+      "eventSlug": "66608-sft-21",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2019-08-31T00:00:00.000Z",
+      "opponent": "Ana Merlin",
+      "opponentSlug": "114816-ana-merlin",
+      "result": "win",
+      "method": "other",
+      "event": "SFT 15",
+      "eventSlug": "62334-sft-15",
+      "round": 2,
+      "timeInRound": "0:45"
+    },
+    {
+      "date": "2019-04-27T00:00:00.000Z",
+      "opponent": "Karine Cristine",
+      "opponentSlug": "223130-karine-japa",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "SFT 11",
+      "eventSlug": "60216-sft-11",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:00:05.996Z"
+}

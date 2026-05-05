@@ -1,0 +1,121 @@
+{
+  "slug": "103413-raul-najera",
+  "name": "Raúl Najera Ocampo",
+  "nickname": "The Cobra",
+  "aliases": [],
+  "recordPro": {
+    "wins": 5,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 176,
+  "reachCm": null,
+  "weightClass": "Featherweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Cuernavaca, Morelos, Mexico",
+  "url": "https://www.tapology.com/fightcenter/fighters/103413-raul-najera",
+  "recentFights": [
+    {
+      "date": "2018-04-13T00:00:00.000Z",
+      "opponent": "Jonathan Avila Perez",
+      "opponentSlug": "151570-jonathan-avila-perez",
+      "result": "nc",
+      "method": "other",
+      "event": "XFL 37",
+      "eventSlug": "52652-xfl-37",
+      "round": 1,
+      "timeInRound": "1:26"
+    },
+    {
+      "date": "2017-06-30T00:00:00.000Z",
+      "opponent": "Mauro Domínguez",
+      "opponentSlug": "160890-mauro-domguez",
+      "result": "win",
+      "method": "sub",
+      "event": "Combate 15",
+      "eventSlug": "46700-combate-15",
+      "round": 2,
+      "timeInRound": "4:25"
+    },
+    {
+      "date": "2017-04-21T00:00:00.000Z",
+      "opponent": "Diego Lopes",
+      "opponentSlug": "85643-diego-lopes",
+      "result": "loss",
+      "method": "other",
+      "event": "XFL 34",
+      "eventSlug": "45320-xtreme-fighters-latino-xfl-34",
+      "round": 1,
+      "timeInRound": "3:37"
+    },
+    {
+      "date": "2017-01-19T00:00:00.000Z",
+      "opponent": "Rafa García",
+      "opponentSlug": "105452-rafael-garcia-gifted",
+      "result": "loss",
+      "method": "sub",
+      "event": "Combate 10",
+      "eventSlug": "43217-combate-diez",
+      "round": 1,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2016-04-15T00:00:00.000Z",
+      "opponent": "Carlos Torres",
+      "opponentSlug": "78220-carlos-torres-el-sensei",
+      "result": "win",
+      "method": "sub",
+      "event": "XEF 3: Guerra de Titanes",
+      "eventSlug": "39600-xef-3-guerra-de-titanes",
+      "round": 2,
+      "timeInRound": "2:15"
+    },
+    {
+      "date": "2015-09-04T00:00:00.000Z",
+      "opponent": "Jonathan Fuentes",
+      "opponentSlug": "54247-jonathan-fuentes-dragon-ball",
+      "result": "win",
+      "method": "sub",
+      "event": "XEF 1",
+      "eventSlug": "35264-xef",
+      "round": 1,
+      "timeInRound": "2:45"
+    },
+    {
+      "date": "2015-09-04T00:00:00.000Z",
+      "opponent": "Ever Barajas",
+      "opponentSlug": "113121-ever-barajas",
+      "result": "win",
+      "method": "tko",
+      "event": "XEF 1",
+      "eventSlug": "35264-xef",
+      "round": 2,
+      "timeInRound": "2:36"
+    },
+    {
+      "date": "2015-08-01T00:00:00.000Z",
+      "opponent": "Jacobo Martinez Gonzalez",
+      "opponentSlug": "99411-jacobo-martinez-killer",
+      "result": "win",
+      "method": "sub",
+      "event": "UFL 6",
+      "eventSlug": "34224-ufl-6",
+      "round": 1,
+      "timeInRound": "2:34"
+    },
+    {
+      "date": "2015-05-29T00:00:00.000Z",
+      "opponent": "Jonathan Fuentes",
+      "opponentSlug": "54247-jonathan-fuentes-dragon-ball",
+      "result": "loss",
+      "method": "other",
+      "event": "Combate Extremo",
+      "eventSlug": "32440-combate-extremo-rudo-vs-drako",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T03:34:55.548Z"
+}

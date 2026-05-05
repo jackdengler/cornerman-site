@@ -1,0 +1,66 @@
+{
+  "slug": "93924-omid-mohamadi",
+  "name": "Omid Mohamadi",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 1,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "England",
+  "url": "https://www.tapology.com/fightcenter/fighters/93924-omid-mohamadi",
+  "recentFights": [
+    {
+      "date": "2020-02-25T00:00:00.000Z",
+      "opponent": "Shamil Kadyrov",
+      "opponentSlug": "249701-shamil-kadyrov",
+      "result": "loss",
+      "method": "tko",
+      "event": "WJF 8",
+      "eventSlug": "66909-wjf-8",
+      "round": 3,
+      "timeInRound": "4:30"
+    },
+    {
+      "date": "2019-08-16T00:00:00.000Z",
+      "opponent": "Shamil Kadyrov",
+      "opponentSlug": "249701-shamil-kadyrov",
+      "result": "loss",
+      "method": "tko",
+      "event": "WJF 5",
+      "eventSlug": "65135-wjf-5",
+      "round": 2,
+      "timeInRound": "4:00"
+    },
+    {
+      "date": "2015-03-28T00:00:00.000Z",
+      "opponent": "Jai Herbert",
+      "opponentSlug": "70002-jai-herbert",
+      "result": "loss",
+      "method": "other",
+      "event": "Full Contact Contender 12",
+      "eventSlug": "29987-full-contact-contender-12-fcc12",
+      "round": 2,
+      "timeInRound": "0:22"
+    },
+    {
+      "date": "2011-05-21T00:00:00.000Z",
+      "opponent": "Bill Brewer",
+      "opponentSlug": "27268-bill-brewer",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:09:14.566Z"
+}

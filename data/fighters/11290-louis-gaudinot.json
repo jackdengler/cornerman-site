@@ -1,0 +1,242 @@
+{
+  "slug": "11290-louis-gaudinot",
+  "name": "Louis Gaudinot",
+  "nickname": "Goodnight",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 161,
+  "reachCm": 160,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": "1984-08-28",
+  "nationality": "Yonkers, New York, United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/11290-louis-gaudinot",
+  "recentFights": [
+    {
+      "date": "2018-09-21T00:00:00.000Z",
+      "opponent": "Phil Caracappa",
+      "opponentSlug": "78422-phil-caracappa",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Ring of Combat 65",
+      "eventSlug": "54203-ring-of-combat-65",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2016-03-19T00:00:00.000Z",
+      "opponent": "Sidemar Honorio",
+      "opponentSlug": "13318-sidemar-honorio",
+      "result": "win",
+      "method": "other",
+      "event": "CFFC 57: Honorio vs. Gaudinot",
+      "eventSlug": "38306-cffc-57",
+      "round": 1,
+      "timeInRound": "0:59"
+    },
+    {
+      "date": "2015-09-12T00:00:00.000Z",
+      "opponent": "Claudio Ledesma",
+      "opponentSlug": "claudio-ledesma",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "CFFC 51: Ledesma vs. Gaudinot",
+      "eventSlug": "34375-cffc-51",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2015-01-03T00:00:00.000Z",
+      "opponent": "Kyoji Horiguchi",
+      "opponentSlug": "19983-kyoji-horiguchi",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 182: Jones vs. Cormier",
+      "eventSlug": "23598-ufc-182-pettis-vs-melendez",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2014-03-08T00:00:00.000Z",
+      "opponent": "Phil Harris",
+      "opponentSlug": "9048-phil-harris-billy",
+      "result": "nc",
+      "method": "other",
+      "event": "UFC Fight Night 37",
+      "eventSlug": "21272-ufc-fight-night-gustafsson-vs-nogueira",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2013-08-31T00:00:00.000Z",
+      "opponent": "Tim Elliott",
+      "opponentSlug": "13664-timothy-elliot",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "UFC 164: Henderson vs. Pettis 2",
+      "eventSlug": "18192-ufc-164",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2012-05-05T00:00:00.000Z",
+      "opponent": "John Lineker",
+      "opponentSlug": "15880-john-lineker",
+      "result": "win",
+      "method": "sub",
+      "event": "UFC on FOX 3",
+      "eventSlug": "12189-ufc-on-fox",
+      "round": 2,
+      "timeInRound": "4:54"
+    },
+    {
+      "date": "2011-12-03T00:00:00.000Z",
+      "opponent": "Johnny Bedford",
+      "opponentSlug": "johnny-bedford",
+      "result": "loss",
+      "method": "other",
+      "event": "The Ultimate Fighter 14 Finale",
+      "eventSlug": "9770-the-ultimate-fighter-14-finale",
+      "round": 3,
+      "timeInRound": "1:58"
+    },
+    {
+      "date": "2011-06-23T00:00:00.000Z",
+      "opponent": "Dustin Pague",
+      "opponentSlug": "4059-dustin-pague-the-disciple",
+      "result": "loss",
+      "method": "sub",
+      "event": "The Ultimate Fighter Season 14",
+      "eventSlug": "34995-the-ultimate-fighter-season-14-team-bisping-vs-team-miller",
+      "round": 2,
+      "timeInRound": "2:32"
+    },
+    {
+      "date": "2011-06-07T00:00:00.000Z",
+      "opponent": "Paul McVeigh",
+      "opponentSlug": "5903-paul-mcveigh-metabolic",
+      "result": "win",
+      "method": "tko",
+      "event": "The Ultimate Fighter Season 14",
+      "eventSlug": "34985-the-ultimate-fighter-season-14-team-bisping-vs-team-miller",
+      "round": 3,
+      "timeInRound": "4:49"
+    },
+    {
+      "date": "2010-09-24T00:00:00.000Z",
+      "opponent": "Jessie Riggleman",
+      "opponentSlug": "jessie-riggleman-mountain-man",
+      "result": "win",
+      "method": "sub",
+      "event": "Ring of Combat 31",
+      "eventSlug": "7779-ring-of-combat-31",
+      "round": 1,
+      "timeInRound": "4:43"
+    },
+    {
+      "date": "2010-02-19T00:00:00.000Z",
+      "opponent": "Tuan Pham",
+      "opponentSlug": "tuan-pham-kid-thunder",
+      "result": "win",
+      "method": "other",
+      "event": "Ring of Combat 28",
+      "eventSlug": "2024-ring-of-combat-28",
+      "round": 1,
+      "timeInRound": "1:09"
+    },
+    {
+      "date": "2009-11-20T00:00:00.000Z",
+      "opponent": "Nate Williams",
+      "opponentSlug": "6781-nate-williams",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ring of Combat 27",
+      "eventSlug": "3281-ring-of-combat-27",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-09-11T00:00:00.000Z",
+      "opponent": "Jeff Cressman",
+      "opponentSlug": "11497-jeff-cressman",
+      "result": "win",
+      "method": "other",
+      "event": "Ring of Combat 26",
+      "eventSlug": "4723-ring-of-combat-26",
+      "round": 2,
+      "timeInRound": "0:24"
+    },
+    {
+      "date": "2009-06-12T00:00:00.000Z",
+      "opponent": "Nick Cottone",
+      "opponentSlug": "nick-cottone-killa-bee",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Ring of Combat 25",
+      "eventSlug": "5334-ring-of-combat-25",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-04-17T00:00:00.000Z",
+      "opponent": "Chris Aquino",
+      "opponentSlug": "19184-chris-aquino",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Ring of Combat 24",
+      "eventSlug": "3282-ring-of-combat-24",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-12-13T00:00:00.000Z",
+      "opponent": "Billy Magliane",
+      "opponentSlug": "23943-billy-magliane",
+      "result": "win",
+      "method": "tko",
+      "event": "AFL 10",
+      "eventSlug": "43428-afl-10",
+      "round": 1,
+      "timeInRound": "1:07"
+    },
+    {
+      "date": "2008-09-27T00:00:00.000Z",
+      "opponent": "Sean Santella",
+      "opponentSlug": "sean-santella-shorty-rock",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-04-26T00:00:00.000Z",
+      "opponent": "RJ Starace",
+      "opponentSlug": "48759-rj-starace",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "New Breed Fighters 12",
+      "eventSlug": "43682-new-breed-fighters-12",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-02-09T00:00:00.000Z",
+      "opponent": "Thiago Carfi",
+      "opponentSlug": "27469-thiago-carfi",
+      "result": "win",
+      "method": "sub",
+      "event": "New Breed Fighters 10",
+      "eventSlug": "43645-new-breed-fighters-10-valentines-day-brawl",
+      "round": 3,
+      "timeInRound": "2:44"
+    }
+  ],
+  "lastVerified": "2026-04-18T19:13:05.041Z"
+}

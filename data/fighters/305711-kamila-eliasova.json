@@ -1,0 +1,33 @@
+{
+  "slug": "305711-kamila-eliasova",
+  "name": "Kamila Eliášová",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "N/A",
+  "url": "https://www.tapology.com/fightcenter/fighters/305711-kamila-eliasova",
+  "recentFights": [
+    {
+      "date": "2019-08-22T00:00:00.000Z",
+      "opponent": "Lucia Szabová",
+      "opponentSlug": "187305-lucia-szabova-queen-bee",
+      "result": "loss",
+      "method": "sub",
+      "event": "Oktagon 4 Challenge Qualification",
+      "eventSlug": "81837-oktagon-4-challenge-qualification-quarterfinals-4",
+      "round": 1,
+      "timeInRound": "1:31"
+    }
+  ],
+  "lastVerified": "2026-04-25T17:02:46.581Z"
+}

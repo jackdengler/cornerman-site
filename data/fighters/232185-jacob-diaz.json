@@ -1,0 +1,44 @@
+{
+  "slug": "232185-jacob-diaz",
+  "name": "Jacob Diaz",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 183,
+  "reachCm": 177,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/232185-jacob-diaz",
+  "recentFights": [
+    {
+      "date": "2020-02-21T00:00:00.000Z",
+      "opponent": "Andrew Dean",
+      "opponentSlug": "231772-andrew-dean",
+      "result": "loss",
+      "method": "other",
+      "event": "Steelfist Fight Night 73",
+      "eventSlug": "66410-steelfist-fight-night-73-rectify",
+      "round": 2,
+      "timeInRound": "2:44"
+    },
+    {
+      "date": "2019-08-09T00:00:00.000Z",
+      "opponent": "Cole Faust",
+      "opponentSlug": "232186-cole-faust",
+      "result": "loss",
+      "method": "sub",
+      "event": "Steelfist Fight Night",
+      "eventSlug": "61413-steelfist-fight-night-victorious",
+      "round": 2,
+      "timeInRound": "1:19"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:39:35.549Z"
+}

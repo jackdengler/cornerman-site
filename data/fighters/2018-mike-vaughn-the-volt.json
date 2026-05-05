@@ -1,0 +1,77 @@
+{
+  "slug": "2018-mike-vaughn-the-volt",
+  "name": "Mike Vaughn",
+  "nickname": "The Volt",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": null,
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/2018-mike-vaughn-the-volt",
+  "recentFights": [
+    {
+      "date": "2008-10-04T00:00:00.000Z",
+      "opponent": "Koy Kennedy",
+      "opponentSlug": "16203-koy-kennedy",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-07-25T00:00:00.000Z",
+      "opponent": "Gerald Meerschaert",
+      "opponentSlug": "6018-gerald-meerschaert-the-machine",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-05-17T00:00:00.000Z",
+      "opponent": "Jay Ellis",
+      "opponentSlug": "2586-jay-ellis",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2006-09-08T00:00:00.000Z",
+      "opponent": "Marcus Davis",
+      "opponentSlug": "marcus-davis-the-irish-hand-grenade",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2005-10-15T00:00:00.000Z",
+      "opponent": "Trent Cook",
+      "opponentSlug": "34184-trent-cook",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:16:07.640Z"
+}

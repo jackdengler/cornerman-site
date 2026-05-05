@@ -1,0 +1,231 @@
+{
+  "slug": "240544-davi-costa-black",
+  "name": "Davi Bittencourt",
+  "nickname": "The Black",
+  "aliases": [],
+  "recordPro": {
+    "wins": 16,
+    "losses": 4,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 165,
+  "reachCm": 165,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": "1994-12-10",
+  "nationality": "Olindina, Bahia, Brazil",
+  "url": "https://www.tapology.com/fightcenter/fighters/240544-davi-costa-black",
+  "recentFights": [
+    {
+      "date": "2024-07-27T00:00:00.000Z",
+      "opponent": "Adenysson Alves",
+      "opponentSlug": "298606-adenylson-alves-tratorzinhho",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Arena Global 30",
+      "eventSlug": "115598-arena-global-30",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-12-10T00:00:00.000Z",
+      "opponent": "Erisson Ferreira",
+      "opponentSlug": "169771-erison-ferreira-gato",
+      "result": "win",
+      "method": "sub",
+      "event": "Favela Kombat vs. X-Force MMA",
+      "eventSlug": "107967-favela-kombat-vs-x-force-mma",
+      "round": 2,
+      "timeInRound": "1:01"
+    },
+    {
+      "date": "2023-10-10T00:00:00.000Z",
+      "opponent": "Lucas Rocha",
+      "opponentSlug": "192343-lucas-rocha-fenomeno",
+      "result": "loss",
+      "method": "other",
+      "event": "Contender Series 2023",
+      "eventSlug": "101000-contender-series-2023-week-10",
+      "round": 2,
+      "timeInRound": "0:18"
+    },
+    {
+      "date": "2022-11-11T00:00:00.000Z",
+      "opponent": "Felipe Gheno",
+      "opponentSlug": "38796-felipe-gueno",
+      "result": "win",
+      "method": "sub",
+      "event": "Shooto Brasil 112",
+      "eventSlug": "94840-shooto-brasil-112",
+      "round": 2,
+      "timeInRound": "3:30"
+    },
+    {
+      "date": "2022-07-15T00:00:00.000Z",
+      "opponent": "Eduardo Henrique",
+      "opponentSlug": "171129-eduardo-henrique-da-silva-chapolim",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "LFA 136: Rio de Janeiro vs. São Paulo",
+      "eventSlug": "90492-lfa-136",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-02-19T00:00:00.000Z",
+      "opponent": "Wilson Santos",
+      "opponentSlug": "274059-wilson-claudino",
+      "result": "win",
+      "method": "sub",
+      "event": "Arena Global 16",
+      "eventSlug": "85760-arena-global-16",
+      "round": 1,
+      "timeInRound": "2:56"
+    },
+    {
+      "date": "2022-01-22T00:00:00.000Z",
+      "opponent": "Matheus Duarte",
+      "opponentSlug": "269233-matheus-mattos",
+      "result": "win",
+      "method": "sub",
+      "event": "Valente Night 1",
+      "eventSlug": "87110-valente-night-1",
+      "round": 1,
+      "timeInRound": "2:07"
+    },
+    {
+      "date": "2021-12-18T00:00:00.000Z",
+      "opponent": "Elias Figueiredo",
+      "opponentSlug": "48862-elias-figueiredo-mickey",
+      "result": "win",
+      "method": "tko",
+      "event": "LBS Challenge",
+      "eventSlug": "85999-lbs-challenge",
+      "round": 1,
+      "timeInRound": "1:26"
+    },
+    {
+      "date": "2021-12-04T00:00:00.000Z",
+      "opponent": "Carlos Leandro da Silva",
+      "opponentSlug": "318523-carlos-leandro-da-silva",
+      "result": "win",
+      "method": "sub",
+      "event": "Arena Global 15",
+      "eventSlug": "83415-arena-global-15",
+      "round": 1,
+      "timeInRound": "2:41"
+    },
+    {
+      "date": "2021-11-06T00:00:00.000Z",
+      "opponent": "Vitor Pereira",
+      "opponentSlug": "212902-victor-pereira-pitbull",
+      "result": "win",
+      "method": "sub",
+      "event": "Samurai Fight House 2",
+      "eventSlug": "82356-samurai-fight-house-2",
+      "round": 1,
+      "timeInRound": "3:08"
+    },
+    {
+      "date": "2021-10-16T00:00:00.000Z",
+      "opponent": "Cleverson Luiz",
+      "opponentSlug": "53302-cleverson-luiz-clevinho",
+      "result": "win",
+      "method": "other",
+      "event": "MMA Brazil Tour 2",
+      "eventSlug": "84765-mma-brazil-tour-2",
+      "round": 1,
+      "timeInRound": "1:10"
+    },
+    {
+      "date": "2021-10-09T00:00:00.000Z",
+      "opponent": "Paulo Robson Fernandes",
+      "opponentSlug": "107319-paulo-robson-fernandes-sonic",
+      "result": "win",
+      "method": "tko",
+      "event": "Arena Global 14",
+      "eventSlug": "82046-arena-global-14",
+      "round": 1,
+      "timeInRound": "4:37"
+    },
+    {
+      "date": "2021-07-04T00:00:00.000Z",
+      "opponent": "Adriano Pereira",
+      "opponentSlug": "299387-adriano-pereira",
+      "result": "win",
+      "method": "other",
+      "event": "X-Force MMA 10",
+      "eventSlug": "79494-x-force-mma-10",
+      "round": 1,
+      "timeInRound": "2:12"
+    },
+    {
+      "date": "2021-06-06T00:00:00.000Z",
+      "opponent": "Marcus Vinicius Ferreira",
+      "opponentSlug": "137403-marcus-vinicius-ferreira-pequinin",
+      "result": "loss",
+      "method": "sub",
+      "event": "Thunder Fight 27",
+      "eventSlug": "79308-thunder-fight-27",
+      "round": 1,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2021-05-02T00:00:00.000Z",
+      "opponent": "Marcos Degli",
+      "opponentSlug": "240354-marcos-tailandes",
+      "result": "win",
+      "method": "dec-split",
+      "event": "Thunder Fight 26",
+      "eventSlug": "78091-thunder-fight-26",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2020-03-15T00:00:00.000Z",
+      "opponent": "Alex Dantas",
+      "opponentSlug": "294035-alex-dantas",
+      "result": "win",
+      "method": "tko",
+      "event": "Jardim Fight 1",
+      "eventSlug": "68614-jardim-fight-1",
+      "round": 1,
+      "timeInRound": "2:10"
+    },
+    {
+      "date": "2019-12-28T00:00:00.000Z",
+      "opponent": "Rodrigo de Moura",
+      "opponentSlug": "229445-rodrigo-sobrinho-de-moura-muralha",
+      "result": "loss",
+      "method": "sub",
+      "event": "Jungle Fight 100",
+      "eventSlug": "65278-jungle-fight-100",
+      "round": 1,
+      "timeInRound": "4:00"
+    },
+    {
+      "date": "2019-10-26T00:00:00.000Z",
+      "opponent": "Jandreson Pontes",
+      "opponentSlug": "233623-jandreson-pontes-shark",
+      "result": "loss",
+      "method": "other",
+      "event": "Jungle Fight 97",
+      "eventSlug": "63965-jungle-fight-97",
+      "round": 2,
+      "timeInRound": "4:46"
+    },
+    {
+      "date": "2017-08-12T00:00:00.000Z",
+      "opponent": "Yagor Araújo",
+      "opponentSlug": "240545-yago-araujo-ferb",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T05:55:59.751Z"
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "287718-peter-pirona",
+  "name": "Peter Pirona",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/287718-peter-pirona",
+  "recentFights": [
+    {
+      "date": "2024-05-25T00:00:00.000Z",
+      "opponent": "Mark Furnari",
+      "opponentSlug": "329938-marak-furnari",
+      "result": "loss",
+      "method": "sub",
+      "event": "Demolition Fight Series 14",
+      "eventSlug": "112264-demolition-fight-series-14",
+      "round": 3,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-02T00:00:00.000Z",
+      "opponent": "Seunghun Jung",
+      "opponentSlug": "378358-seunghun-jung",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Demolition Fight Series 13",
+      "eventSlug": "108851-demolition-fight-series-13",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-08-19T00:00:00.000Z",
+      "opponent": "Akram Naman",
+      "opponentSlug": "286335-akram-naman",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Demolition Fight Series 11",
+      "eventSlug": "102351-demolition-fight-series-11",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-02-25T00:00:00.000Z",
+      "opponent": "Wani Alphonse",
+      "opponentSlug": "331826-wani-alphonse",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Demolition Fight Series 9",
+      "eventSlug": "95614-demolition-fight-series-9",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-11-20T00:00:00.000Z",
+      "opponent": "Jonathan Micallef",
+      "opponentSlug": "238862-jonathan-micallef",
+      "result": "loss",
+      "method": "other",
+      "event": "Demolition Fight Series 4",
+      "eventSlug": "79290-demolition-fight-series-4",
+      "round": 2,
+      "timeInRound": "3:00"
+    },
+    {
+      "date": "2021-05-22T00:00:00.000Z",
+      "opponent": "Dee Samasoni",
+      "opponentSlug": "287719-dee-samasoni",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Demolition Fight Series 3",
+      "eventSlug": "77541-demolition-fight-series-3",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:54:20.099Z"
+}

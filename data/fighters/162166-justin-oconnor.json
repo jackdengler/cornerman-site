@@ -1,0 +1,92 @@
+{
+  "slug": "162166-justin-oconnor",
+  "name": "Justin O'Connor",
+  "nickname": "The Blasian Sensation",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0
+  },
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Lightweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Boston, Massachusetts",
+  "url": "https://www.tapology.com/fightcenter/fighters/162166-justin-oconnor",
+  "recentFights": [
+    {
+      "date": "2019-02-02T00:00:00.000Z",
+      "opponent": "Matt Brady",
+      "opponentSlug": "152612-matt-brady",
+      "result": "win",
+      "method": "tko",
+      "event": "Combat Zone 69",
+      "eventSlug": "57583-combat-zone-69",
+      "round": 3,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2018-10-06T00:00:00.000Z",
+      "opponent": "Charles Williams",
+      "opponentSlug": "197823-charles-williams",
+      "result": "win",
+      "method": "sub",
+      "event": "RUF MMA 29",
+      "eventSlug": "54858-ruf-mma-29",
+      "round": 1,
+      "timeInRound": "2:03"
+    },
+    {
+      "date": "2018-03-17T00:00:00.000Z",
+      "opponent": "Buddy Rodriguez",
+      "opponentSlug": "77729-francisco-rodriguez",
+      "result": "win",
+      "method": "sub",
+      "event": "RUF MMA 24",
+      "eventSlug": "50155-ruf-mma-23",
+      "round": 2,
+      "timeInRound": "1:54"
+    },
+    {
+      "date": "2017-11-11T00:00:00.000Z",
+      "opponent": "Kaleio Romero",
+      "opponentSlug": "133174-kaleio-romero",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Epic Fighting 36",
+      "eventSlug": "49165-epic-fighting-36",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-09-23T00:00:00.000Z",
+      "opponent": "Cedric Katambwa",
+      "opponentSlug": "151861-cedric-katambwa",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Iron Boy MMA 8",
+      "eventSlug": "48124-iron-boy-mma-8",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2017-07-15T00:00:00.000Z",
+      "opponent": "Tom Stephens",
+      "opponentSlug": "157335-tom-stephens",
+      "result": "win",
+      "method": "tko",
+      "event": "RUF MMA 20",
+      "eventSlug": "46750-ruf-mma",
+      "round": 2,
+      "timeInRound": "0:55"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:42:17.593Z"
+}

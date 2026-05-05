@@ -1,0 +1,143 @@
+{
+  "slug": "52903-leo-diaz",
+  "name": "Leo Diaz",
+  "nickname": "Semprefuerte",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 11,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 175,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": "1980-04-17",
+  "nationality": "Australia",
+  "url": "https://www.tapology.com/fightcenter/fighters/52903-leo-diaz",
+  "recentFights": [
+    {
+      "date": "2019-11-15T00:00:00.000Z",
+      "opponent": "Jon Leven",
+      "opponentSlug": "12015-jon-leven-lethal",
+      "result": "loss",
+      "method": "sub",
+      "event": "Superfight MMA 14",
+      "eventSlug": "64076-superfight-mma-14",
+      "round": 1,
+      "timeInRound": "4:49"
+    },
+    {
+      "date": "2019-09-06T00:00:00.000Z",
+      "opponent": "Cam Rowston",
+      "opponentSlug": "69262-cam-rowston",
+      "result": "loss",
+      "method": "sub",
+      "event": "Superfight MMA 13",
+      "eventSlug": "62216-superfight-mma-13",
+      "round": 1,
+      "timeInRound": "1:06"
+    },
+    {
+      "date": "2018-11-16T00:00:00.000Z",
+      "opponent": "David Francis",
+      "opponentSlug": "95768-david-francis",
+      "result": "loss",
+      "method": "tko",
+      "event": "Superfight MMA 9",
+      "eventSlug": "56158-superfight-mma-9",
+      "round": 3,
+      "timeInRound": "3:16"
+    },
+    {
+      "date": "2018-04-07T00:00:00.000Z",
+      "opponent": "Jamie Carl",
+      "opponentSlug": "95775-jamie-carl",
+      "result": "win",
+      "method": "tko",
+      "event": "Storm Damage 11",
+      "eventSlug": "52076-storm-mma-storm-damage-11",
+      "round": 1,
+      "timeInRound": "3:32"
+    },
+    {
+      "date": "2015-08-29T00:00:00.000Z",
+      "opponent": "Kevin Manderson",
+      "opponentSlug": "2953-kevin-manderson-mongoose",
+      "result": "loss",
+      "method": "sub",
+      "event": "Storm Damage 7",
+      "eventSlug": "32799-storm-mma-storm-damage-7",
+      "round": 1,
+      "timeInRound": "2:42"
+    },
+    {
+      "date": "2014-03-22T00:00:00.000Z",
+      "opponent": "Chad Price",
+      "opponentSlug": "54280-chad-price",
+      "result": "loss",
+      "method": "other",
+      "event": "Storm Damage 4",
+      "eventSlug": "22507-storm-mma-storm-damage-4",
+      "round": 2,
+      "timeInRound": "5:00"
+    },
+    {
+      "date": "2013-08-31T00:00:00.000Z",
+      "opponent": "Kevin Ryan",
+      "opponentSlug": "52906-kevin-ryan",
+      "result": "loss",
+      "method": "sub",
+      "event": "Storm Damage 3",
+      "eventSlug": "20145-storm-mma-storm-damage-3",
+      "round": 3,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2013-02-02T00:00:00.000Z",
+      "opponent": "Rod Harris",
+      "opponentSlug": "52930-rod-harris",
+      "result": "loss",
+      "method": "other",
+      "event": "Storm Damage 2",
+      "eventSlug": "20148-storm-damage-2",
+      "round": 1,
+      "timeInRound": "0:57"
+    },
+    {
+      "date": "2012-08-25T00:00:00.000Z",
+      "opponent": "Craig Martin",
+      "opponentSlug": "52931-craig-martin",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Storm Damage 1",
+      "eventSlug": "17492-storm-damage-1",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2005-11-11T00:00:00.000Z",
+      "opponent": "Adrian Leatuna",
+      "opponentSlug": "5120-adrian-leatuna",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2005-09-30T00:00:00.000Z",
+      "opponent": "Carl Toomey",
+      "opponentSlug": "3614-carl-toomey",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T19:17:32.062Z"
+}

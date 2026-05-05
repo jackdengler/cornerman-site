@@ -1,0 +1,165 @@
+{
+  "slug": "20616-shawn-wallace",
+  "name": "Shawn Wallace",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 8,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 180,
+  "reachCm": null,
+  "weightClass": "Welterweight",
+  "stance": null,
+  "dateOfBirth": "1989-07-20",
+  "nationality": "Pointe-du-Chene, New Brunswick, Canada",
+  "url": "https://www.tapology.com/fightcenter/fighters/20616-shawn-wallace",
+  "recentFights": [
+    {
+      "date": "2023-03-18T00:00:00.000Z",
+      "opponent": "Justin Condie",
+      "opponentSlug": "93174-justin-condie",
+      "result": "loss",
+      "method": "other",
+      "event": "FLA 8",
+      "eventSlug": "96205-fla-8",
+      "round": 1,
+      "timeInRound": "0:33"
+    },
+    {
+      "date": "2019-04-27T00:00:00.000Z",
+      "opponent": "Dee Logue",
+      "opponentSlug": "24174-dee-logue",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Elite 1 MMA",
+      "eventSlug": "57776-elite-1-mma",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2018-06-23T00:00:00.000Z",
+      "opponent": "Adam Assenza",
+      "opponentSlug": "17578-adam-assenza",
+      "result": "loss",
+      "method": "other",
+      "event": "BTC 3: Prophecy",
+      "eventSlug": "51213-btc-3",
+      "round": 1,
+      "timeInRound": "2:20"
+    },
+    {
+      "date": "2017-01-14T00:00:00.000Z",
+      "opponent": "Jeremy Henry",
+      "opponentSlug": "16981-jeremy-henry",
+      "result": "win",
+      "method": "other",
+      "event": "Elite 1 MMA",
+      "eventSlug": "43037-elite-1-mma",
+      "round": 1,
+      "timeInRound": "3:44"
+    },
+    {
+      "date": "2016-04-23T00:00:00.000Z",
+      "opponent": "Mandel Nallo",
+      "opponentSlug": "24751-mandell-nallo",
+      "result": "loss",
+      "method": "sub",
+      "event": "Elite 1 MMA",
+      "eventSlug": "38472-elite-1-mma-meltdown",
+      "round": 1,
+      "timeInRound": "1:38"
+    },
+    {
+      "date": "2015-10-03T00:00:00.000Z",
+      "opponent": "Trent Moses",
+      "opponentSlug": "35276-trent-moses",
+      "result": "win",
+      "method": "tko",
+      "event": "Elite 1 MMA",
+      "eventSlug": "34043-elite-1-mma-fall-brawl",
+      "round": 2,
+      "timeInRound": "0:56"
+    },
+    {
+      "date": "2015-03-21T00:00:00.000Z",
+      "opponent": "Jeremy Henry",
+      "opponentSlug": "16981-jeremy-henry",
+      "result": "win",
+      "method": "sub",
+      "event": "Elite 1 MMA",
+      "eventSlug": "29765-elite-1-mma-the-awakening",
+      "round": 2,
+      "timeInRound": "2:47"
+    },
+    {
+      "date": "2013-04-20T00:00:00.000Z",
+      "opponent": "Eric St. Pierre",
+      "opponentSlug": "19096-eric-st-pierre",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Elite 1 MMA",
+      "eventSlug": "17420-elite-1-mma",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2011-07-16T00:00:00.000Z",
+      "opponent": "Chris Goguen",
+      "opponentSlug": "20618-chris-goguen",
+      "result": "win",
+      "method": "other",
+      "event": "Elite 1 MMA",
+      "eventSlug": "10198-elite-1-mma-hostile-territory",
+      "round": 2,
+      "timeInRound": "3:20"
+    },
+    {
+      "date": "2011-05-27T00:00:00.000Z",
+      "opponent": "Coel Peach",
+      "opponentSlug": "20613-coel-peach",
+      "result": "win",
+      "method": "other",
+      "event": "East Coast FP",
+      "eventSlug": "11006-east-coast-fp-resurgence",
+      "round": 3,
+      "timeInRound": "4:21"
+    },
+    {
+      "date": "2011-05-07T00:00:00.000Z",
+      "opponent": "Ryan McHatten",
+      "opponentSlug": "20619-ryan-mchatten",
+      "result": "win",
+      "method": "sub",
+      "event": "Elite 1 MMA",
+      "eventSlug": "9884-elite-1-mma-high-voltage",
+      "round": 3,
+      "timeInRound": "1:02"
+    },
+    {
+      "date": "2010-11-20T00:00:00.000Z",
+      "opponent": "Doug Andrecheck",
+      "opponentSlug": "22403-doug-andrecheck",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "AFC 5",
+      "eventSlug": "54097-afc-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-11-28T00:00:00.000Z",
+      "opponent": "Damien Rose",
+      "opponentSlug": "33267-damien-rose",
+      "result": "loss",
+      "method": "sub",
+      "event": null,
+      "eventSlug": null,
+      "round": 3,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:08:08.522Z"
+}

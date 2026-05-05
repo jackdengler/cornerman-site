@@ -1,0 +1,81 @@
+{
+  "slug": "53688-heather-smith",
+  "name": "Heather Smith",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 4,
+    "losses": 3,
+    "draws": 0
+  },
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Flyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/53688-heather-smith",
+  "recentFights": [
+    {
+      "date": "2014-09-13T00:00:00.000Z",
+      "opponent": "Ashley Deen",
+      "opponentSlug": "78343-ashley-deen",
+      "result": "loss",
+      "method": "other",
+      "event": "NMEF Annihilation 52",
+      "eventSlug": "26249-nmef-annihilation-52",
+      "round": 1,
+      "timeInRound": "2:21"
+    },
+    {
+      "date": "2014-04-04T00:00:00.000Z",
+      "opponent": "Nayleen Schmidt",
+      "opponentSlug": "64071-nayleen-schmidt",
+      "result": "win",
+      "method": "tko",
+      "event": "High Altitude Face Off 6",
+      "eventSlug": "40311-high-altitude-face-off-6",
+      "round": 3,
+      "timeInRound": "1:32"
+    },
+    {
+      "date": "2013-08-23T00:00:00.000Z",
+      "opponent": "Selina Valdez-Montoya",
+      "opponentSlug": "53689-selina-valdez-montoya-the-boss",
+      "result": "win",
+      "method": "sub",
+      "event": "Fight Brigade MMA 2",
+      "eventSlug": "20325-fight-brigade-mma-colorado-state-fair",
+      "round": 2,
+      "timeInRound": "2:43"
+    },
+    {
+      "date": "2011-04-01T00:00:00.000Z",
+      "opponent": "JJ Aldrich",
+      "opponentSlug": "28420-jj-aldrich",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-07-16T00:00:00.000Z",
+      "opponent": "Chandra Engel",
+      "opponentSlug": "30684-chandra-engel",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-18T00:02:05.604Z"
+}

@@ -1,0 +1,114 @@
+{
+  "slug": "171103-tufan-ahmadi",
+  "name": "Tufan Ahmadi",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 3,
+    "losses": 5,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 3,
+    "losses": 5,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Bantamweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Finland",
+  "url": "https://www.tapology.com/fightcenter/fighters/171103-tufan-ahmadi",
+  "recentFights": [
+    {
+      "date": "2025-05-17T00:00:00.000Z",
+      "opponent": "Roope Tuomi",
+      "opponentSlug": "190237-roope-tuomi",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "Hamara MMA Vol. 7",
+      "eventSlug": "126641-hamara-mma-vol-7",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-08-31T00:00:00.000Z",
+      "opponent": "Arsen Tuganov",
+      "opponentSlug": "233825-arsen-tuganov",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "MMA Galla Vol. 20",
+      "eventSlug": "106203-mma-galla-vol-20",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2024-03-09T00:00:00.000Z",
+      "opponent": "Liam Pitts",
+      "opponentSlug": "323029-liam-pitts",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "AFN 5",
+      "eventSlug": "109087-afn-5",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2022-06-17T00:00:00.000Z",
+      "opponent": "Rasmus Vauhkonen",
+      "opponentSlug": "364466-rasmus-vauhkonen",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Finnish National Championships 2022",
+      "eventSlug": "97340-finnish-national-championships-2022",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2021-08-18T00:00:00.000Z",
+      "opponent": "Suleyman Bershigadov",
+      "opponentSlug": "151479-suleyman-bershigaev",
+      "result": "loss",
+      "method": "other",
+      "event": "IMMAF",
+      "eventSlug": "82031-immaf-european-open-senior-and-junior-championships-day-3",
+      "round": 2,
+      "timeInRound": "2:39"
+    },
+    {
+      "date": "2019-11-12T00:00:00.000Z",
+      "opponent": "Mansur Magomedov",
+      "opponentSlug": "201282-mansur-magomedov",
+      "result": "loss",
+      "method": "tko",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64318-immaf-wmmaa-amateur-world-championships-2019-day-2",
+      "round": 2,
+      "timeInRound": "2:11"
+    },
+    {
+      "date": "2019-11-11T00:00:00.000Z",
+      "opponent": "Jack Temple",
+      "opponentSlug": "121172-jack-temple",
+      "result": "win",
+      "method": "sub",
+      "event": "IMMAF-WMMAA",
+      "eventSlug": "64317-immaf-wmmaa-amateur-world-championships-2019",
+      "round": 1,
+      "timeInRound": "2:35"
+    },
+    {
+      "date": "2017-11-18T00:00:00.000Z",
+      "opponent": "Tomi Kasper",
+      "opponentSlug": "139859-tomi-kasper",
+      "result": "win",
+      "method": "sub",
+      "event": "FNF 15",
+      "eventSlug": "48720-fnf-15",
+      "round": 2,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T17:10:47.151Z"
+}

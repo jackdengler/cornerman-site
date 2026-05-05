@@ -1,0 +1,165 @@
+{
+  "slug": "307893-jeremy-riley",
+  "name": "Jeremy Riley",
+  "nickname": "Undead",
+  "aliases": [],
+  "recordPro": {
+    "wins": 2,
+    "losses": 2,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 185,
+  "reachCm": 191,
+  "weightClass": "Heavyweight",
+  "stance": null,
+  "dateOfBirth": "1993-09-30",
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/307893-jeremy-riley",
+  "recentFights": [
+    {
+      "date": "2025-12-06T00:00:00.000Z",
+      "opponent": "Quentin Campbell",
+      "opponentSlug": "244150-quentin-campbell",
+      "result": "win",
+      "method": "dec-unanimous",
+      "event": "AFP 104",
+      "eventSlug": "132105-afp-104",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-09-06T00:00:00.000Z",
+      "opponent": "Julian Flenory",
+      "opponentSlug": "166203-julian-flenory",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "247 MMA at the Venue 2",
+      "eventSlug": "130640-247-mma-at-the-venue-2",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2025-06-07T00:00:00.000Z",
+      "opponent": "Badou Zaky",
+      "opponentSlug": "326073-dieye-papa-badara-badou-zaky",
+      "result": "win",
+      "method": "other",
+      "event": "Caged Thunder 32",
+      "eventSlug": "124821-caged-thunder-32",
+      "round": 1,
+      "timeInRound": "4:27"
+    },
+    {
+      "date": "2025-02-01T00:00:00.000Z",
+      "opponent": "Charlie Cleveland",
+      "opponentSlug": "418176-charlie-cleveland",
+      "result": "loss",
+      "method": "tko",
+      "event": "ECC Cage Wars 11",
+      "eventSlug": "123416-ecc-cage-wars-11",
+      "round": 1,
+      "timeInRound": "3:25"
+    },
+    {
+      "date": "2024-10-05T00:00:00.000Z",
+      "opponent": "A.J. Jones",
+      "opponentSlug": "401018-andrew-jones",
+      "result": "win",
+      "method": "other",
+      "event": "Caged Thunder",
+      "eventSlug": "116316-caged-thunder-nexgen-fight-series-3",
+      "round": 1,
+      "timeInRound": "1:28"
+    },
+    {
+      "date": "2024-06-01T00:00:00.000Z",
+      "opponent": "RJ Harris",
+      "opponentSlug": "382864-rj-harris",
+      "result": "loss",
+      "method": "sub",
+      "event": "Caged Thunder 27",
+      "eventSlug": "111275-caged-thunder-27",
+      "round": 3,
+      "timeInRound": "1:35"
+    },
+    {
+      "date": "2024-05-04T00:00:00.000Z",
+      "opponent": "Stayce Jordan",
+      "opponentSlug": "88061-stayce-jordan",
+      "result": "win",
+      "method": "tko",
+      "event": "ECC Cage Fighting",
+      "eventSlug": "113155-ecc-cage-fighting-cage-wars-8",
+      "round": 1,
+      "timeInRound": "0:24"
+    },
+    {
+      "date": "2024-04-06T00:00:00.000Z",
+      "opponent": "James Dennis",
+      "opponentSlug": "352813-james-dennis",
+      "result": "win",
+      "method": "other",
+      "event": "Caged Thunder 26",
+      "eventSlug": "109673-caged-thunder-nexgen-fight-series-2",
+      "round": 1,
+      "timeInRound": "1:31"
+    },
+    {
+      "date": "2024-01-13T00:00:00.000Z",
+      "opponent": "AJ Mattia",
+      "opponentSlug": "115919-aj-mattia",
+      "result": "win",
+      "method": "other",
+      "event": "ECC Cage Fighting",
+      "eventSlug": "109074-ecc-cage-fighting-cage-wars-7",
+      "round": 2,
+      "timeInRound": "1:06"
+    },
+    {
+      "date": "2023-08-12T00:00:00.000Z",
+      "opponent": "Matt Beal",
+      "opponentSlug": "321654-matt-beal",
+      "result": "loss",
+      "method": "dec-split",
+      "event": "Caged Thunder 22",
+      "eventSlug": "101550-caged-thunder-22",
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2023-05-20T00:00:00.000Z",
+      "opponent": "Cordae Barnes",
+      "opponentSlug": "380916-cordae-barnes",
+      "result": "win",
+      "method": "other",
+      "event": "Caged Thunder 21",
+      "eventSlug": "98598-caged-thunder-21",
+      "round": 1,
+      "timeInRound": "0:53"
+    },
+    {
+      "date": "2022-02-19T00:00:00.000Z",
+      "opponent": "Devon Blythewood",
+      "opponentSlug": "323314-devon-blythewood",
+      "result": "loss",
+      "method": "other",
+      "event": "WFC 133",
+      "eventSlug": "84451-wfc",
+      "round": 1,
+      "timeInRound": "2:31"
+    },
+    {
+      "date": "2021-09-11T00:00:00.000Z",
+      "opponent": "Foster Eberly",
+      "opponentSlug": "253657-foster-eberly",
+      "result": "loss",
+      "method": "tko",
+      "event": "Caged Thunder 12",
+      "eventSlug": "80951-caged-thunder-12",
+      "round": 3,
+      "timeInRound": "2:01"
+    }
+  ],
+  "lastVerified": "2026-04-18T07:40:13.848Z"
+}

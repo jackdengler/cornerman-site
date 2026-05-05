@@ -1,0 +1,37 @@
+{
+  "slug": "136499-vincent-schwarm",
+  "name": "Vincent Schwarm",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "recordAmateur": {
+    "wins": 0,
+    "losses": 1,
+    "draws": 0
+  },
+  "heightCm": null,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Germany",
+  "url": "https://www.tapology.com/fightcenter/fighters/136499-vincent-schwarm",
+  "recentFights": [
+    {
+      "date": "2016-07-17T00:00:00.000Z",
+      "opponent": "Robert Valentin",
+      "opponentSlug": "136498-robert-valentin",
+      "result": "loss",
+      "method": "dec-unanimous",
+      "event": "Age of Cage 8",
+      "eventSlug": "39925-age-of-cage-8",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-17T23:57:52.226Z"
+}

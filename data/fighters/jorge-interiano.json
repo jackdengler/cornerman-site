@@ -1,0 +1,99 @@
+{
+  "slug": "jorge-interiano",
+  "name": "Jorge Interiano",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 4,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 186,
+  "reachCm": null,
+  "weightClass": "Light Heavyweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "United States",
+  "url": "https://www.tapology.com/fightcenter/fighters/jorge-interiano",
+  "recentFights": [
+    {
+      "date": "2012-05-26T00:00:00.000Z",
+      "opponent": "Scott Nelson",
+      "opponentSlug": "15824-scott-nelson",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2010-01-03T00:00:00.000Z",
+      "opponent": "Sean Strickland",
+      "opponentSlug": "6055-sean-strickland-tarzan",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-11-20T00:00:00.000Z",
+      "opponent": "Mike Martin",
+      "opponentSlug": "6056-mike-martin",
+      "result": "win",
+      "method": "other",
+      "event": "IFC: Warriors Challenge 26",
+      "eventSlug": "4805-ifc-warriors-challenge-26",
+      "round": 1,
+      "timeInRound": "1:04"
+    },
+    {
+      "date": "2009-09-05T00:00:00.000Z",
+      "opponent": "Angel DeAnda",
+      "opponentSlug": "6057-angel-deanda",
+      "result": "loss",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2009-06-27T00:00:00.000Z",
+      "opponent": "Richard Blake",
+      "opponentSlug": "3955-richard-blake",
+      "result": "win",
+      "method": null,
+      "event": null,
+      "eventSlug": null,
+      "round": null,
+      "timeInRound": null
+    },
+    {
+      "date": "2008-09-13T00:00:00.000Z",
+      "opponent": "Chris Bostick",
+      "opponentSlug": "chris-bostick-el-gringo",
+      "result": "loss",
+      "method": "sub",
+      "event": "Strikeforce",
+      "eventSlug": "strikeforce-young-guns-iii",
+      "round": 1,
+      "timeInRound": "2:26"
+    },
+    {
+      "date": "2008-06-27T00:00:00.000Z",
+      "opponent": "Travis Johnson",
+      "opponentSlug": "travis-johnson",
+      "result": "win",
+      "method": "other",
+      "event": "Strikeforce",
+      "eventSlug": "strikeforce-melendez-vs-thomson",
+      "round": 2,
+      "timeInRound": "3:00"
+    }
+  ],
+  "lastVerified": "2026-04-25T22:58:45.867Z"
+}

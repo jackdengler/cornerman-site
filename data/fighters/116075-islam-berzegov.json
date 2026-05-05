@@ -1,0 +1,66 @@
+{
+  "slug": "116075-islam-berzegov",
+  "name": "Islam Berzegov",
+  "nickname": "N/A",
+  "aliases": [],
+  "recordPro": {
+    "wins": 0,
+    "losses": 3,
+    "draws": 0
+  },
+  "recordAmateur": null,
+  "heightCm": 173,
+  "reachCm": null,
+  "weightClass": "Middleweight",
+  "stance": null,
+  "dateOfBirth": null,
+  "nationality": "Adygea, Russia",
+  "url": "https://www.tapology.com/fightcenter/fighters/116075-islam-berzegov",
+  "recentFights": [
+    {
+      "date": "2015-10-09T00:00:00.000Z",
+      "opponent": "Yaroslav Amosov",
+      "opponentSlug": "81129-yaroslav-amosov",
+      "result": "loss",
+      "method": "other",
+      "event": "Tech-KREP FC",
+      "eventSlug": "35186-tech-krep-fc",
+      "round": 1,
+      "timeInRound": "1:27"
+    },
+    {
+      "date": "2011-07-16T00:00:00.000Z",
+      "opponent": "Nazir Kadzhiev",
+      "opponentSlug": "20157-nazir-kadyzhev",
+      "result": "loss",
+      "method": "sub",
+      "event": "Legion Fight",
+      "eventSlug": "48991-legion-fight-black-sea-cup-2011-stage-1",
+      "round": 1,
+      "timeInRound": "2:06"
+    },
+    {
+      "date": "2011-03-29T00:00:00.000Z",
+      "opponent": "Astemir Fakov",
+      "opponentSlug": "31438-astemir-fakov",
+      "result": "loss",
+      "method": "sub",
+      "event": "Presidents Cup Of Adygea 2011",
+      "eventSlug": "48367-presidents-cup-of-adygea-2011",
+      "round": 1,
+      "timeInRound": "2:25"
+    },
+    {
+      "date": "2015-03-22T00:00:00.000Z",
+      "opponent": "Rashid Kushu",
+      "opponentSlug": "85002-rashid-kushu",
+      "result": "win",
+      "method": "other",
+      "event": "Cup Of Adygea 2015",
+      "eventSlug": "51776-cup-of-adygea-2015",
+      "round": null,
+      "timeInRound": null
+    }
+  ],
+  "lastVerified": "2026-04-25T23:04:40.145Z"
+}
